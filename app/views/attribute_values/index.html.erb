@@ -1,0 +1,31 @@
+<h1>Listing attribute_values</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Article</th>
+      <th>Attribute</th>
+      <th>Value</th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @attribute_values.each do |attribute_value| %>
+      <tr>
+        <td><%= attribute_value.article_id %></td>
+        <td><%= attribute_value.attribute_id %></td>
+        <td><%= attribute_value.value %></td>
+        <td><%= link_to 'Show', attribute_value %></td>
+        <td><%= link_to 'Edit', edit_attribute_value_path(attribute_value) %></td>
+        <td><%= link_to 'Destroy', attribute_value, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Attribute value', new_attribute_value_path %>

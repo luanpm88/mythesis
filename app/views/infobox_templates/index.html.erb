@@ -1,0 +1,27 @@
+<h1>Listing infobox_templates</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @infobox_templates.each do |infobox_template| %>
+      <tr>
+        <td><%= infobox_template.name %></td>
+        <td><%= link_to 'Show', infobox_template %></td>
+        <td><%= link_to 'Edit', edit_infobox_template_path(infobox_template) %></td>
+        <td><%= link_to 'Destroy', infobox_template, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Infobox template', new_infobox_template_path %>

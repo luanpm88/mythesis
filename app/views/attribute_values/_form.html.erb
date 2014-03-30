@@ -1,0 +1,29 @@
+<%= form_for(@attribute_value) do |f| %>
+  <% if @attribute_value.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@attribute_value.errors.count, "error") %> prohibited this attribute_value from being saved:</h2>
+
+      <ul>
+      <% @attribute_value.errors.full_messages.each do |msg| %>
+        <li><%= msg %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :article_id %><br>
+    <%= f.number_field :article_id %>
+  </div>
+  <div class="field">
+    <%= f.label :attribute_id %><br>
+    <%= f.number_field :attribute_id %>
+  </div>
+  <div class="field">
+    <%= f.label :value %><br>
+    <%= f.text_area :value %>
+  </div>
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>

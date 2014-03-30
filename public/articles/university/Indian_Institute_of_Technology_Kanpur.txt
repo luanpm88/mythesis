@@ -1,0 +1,172 @@
+<p> </p>
+<p>The <strong>Indian Institute of Technology Kanpur</strong> () (also known as <strong>IIT Kanpur</strong> or <strong>IITK</strong>) is an <a>Indian Institutes of Technology</a>, set up in <a>Kanpur</a> in 1959. IIT Kanpur has grown into one of the top technological institutes in India&lt;ref name=&quot;Survey&quot;&gt;&lt;/ref&gt;, primarily focused on research in engineering and science, and the teaching of undergraduates. IIT Kanpur has a  campus of 4.3 square kilometres, just north-west of the city. Among all IITs, IIT Kanpur has the second largest campus (1,055 acres), first being <a>IIT Kharagpur</a>.</p>
+<p>The campus is a self-contained community, with residences for students, faculty, and staff. There is a hospital, sports fields, and a swimming pool. Schools are provided for campus children, and an 'Opportunity school' supported by alumni, serves the children of local day and occasional workers. </p>
+<h2>History</h2>
+<p>IIT Kanpur was established by an Act of <a>Parliament</a> in 1959. The institute was started in December 1959 in a room in the canteen building of the <a>Harcourt Butler Technological Institute</a> at Agricultural Gardens in Kanpur. In 1963, the institute moved to its present location, on the <a>Grand Trunk Road</a> near the village of Kalyanpur in Kanpur district. </p>
+<p>During the first ten years of its existence, IIT Kanpur benefited from the Kanpur Indo-American Programme (KIAP), where a consortium of nine US universities (namely <a>M.I.T</a>, <a>University of California, Berkeley</a>, <a>California Institute of Technology</a>, <a>Princeton University</a>, <a>Carnegie Institute of Technology</a>, <a>University of Michigan</a>, <a>Ohio State University</a>, <a>Case Institute of Technology</a> and <a>Purdue University</a>) helped set up the research laboratories and academic programmes.&lt;ref name=&quot;History&quot;&gt;&lt;/ref&gt; The first Director of the Institute was <a>Dr. P. K. Kelkar</a> (after whom the Central Library was renamed in 2002).</p>
+<p>Under the guidance of economist <a>John Kenneth Galbraith</a>, IIT Kanpur was the first institute in India to offer Computer Science education. The earliest computer courses were started at IIT Kanpur in August 1963 on an <a>IBM 1620</a> system. The initiative for computer education came from the Electrical Engineering department, then under the chairmanship of Prof. <a>H.K. Kesavan</a>, who was concurrently the chairman of Electrical Engineering and head of the Computer Centre. Prof. Harry Huskey of the <a>University of California, Berkeley</a>, who preceded Dr. Kesavan, was instrumental in providing the impetus for the computer activity at IIT-Kanpur. In 1971, the institute initiated an independent academic program in Computer Science and Engineering, leading to M.Tech. and Ph.D. degrees.</p>
+<p>In 1972 the KIAP program ended, in part because of tensions due to the U.S. support of Pakistan.  Government funding was also reduced as a reaction to the sentiment that the IIT's were contributing to the brain drain.  Since then IIT Kanpur has increased collaboration with industry and has achieved a reasonable level of stability, especially since it is recognized that India now profits from job creation in the industries that it supports.</p>
+<h2>Academics</h2>
+<p><a>thumb|IIT Kanpur Faculty Building</a></p>
+<h3>Undergraduate</h3>
+<p>Undergraduate courses in engineering are four year Bachelor of Technology (B.Tech) and five5 year Dual Degree Programs. The Dual Degree program leads to a B.Tech with an M.Tech degree. The institute also offers 5 years Integrated <a>Master of Science</a> degrees in the areas of Pure and Applied Sciences and a program in Economics. The Economics program bridges the gap between students of Engineering and Humanities, with the students of the program having courses in Mathematics, Computer Science and other engineering and pure science courses in addition to pure economics courses.</p>
+<h3>Postgraduate</h3>
+<p>Postgraduate courses in Engineering offer Master of Technology (M.Tech) and Ph.D. degrees. The institute also offers M.B.A. (2 years), M.Sc. (2 years) and M.Des degrees. Admissions to M. Tech is made once a year through <a>Graduate Aptitude Test in Engineering</a>. Admissions to the M.B.A. program are accomplished through the <a>Joint Management Entrance Test</a>, held yearly, and followed by a Group Discussion/Personal Interview process.</p>
+<h2>Departments</h2>
+<p><a>thumb|Department of Computer Science and Engineering at IIT Kanpur</a> IIT Kanpur has the following academic departments:</p>
+<h3>Engineering</h3>
+<ul>
+  <li>Aerospace Engineering</li>
+  <li>Biological Sciences and Bioengineering</li>
+  <li>Chemical Engineering</li>
+  <li>Civil Engineering</li>
+  <li>Computer Science and Engineering</li>
+</ul>
+<p>:The department offers academic programs leading to the B.Tech., M.Tech. and  Ph.D. degrees. It conducts research in subjects including <a>Theoretical Computer Science</a>, <a>Graph Theory</a>, and <a>Algorithms</a>. The initial computer-related courses were started at IIT Kanpur in August 1963 on an IBM 1620 system. Prior to formal establishment of the department in 1984, courses in computer sciences were offered in the Department of Electrical Engineering.</p>
+<ul>
+  <li>Electrical Engineering</li>
+</ul>
+<p>:The Department of Electrical Engineering is the largest department of IIT Kanpur. It offers academic programs leading to  B.Tech., M.Tech., Dual-Degree (i.e. B.Tech. + M.Tech.) and Ph.D. programs in Electrical Engineering.</p>
+<ul>
+  <li>Environmental Engineering and Management </li>
+  <li>Industrial and Management Engineering</li>
+  <li>Laser Technology Program </li>
+  <li>Materials Science and Engineering</li>
+</ul>
+<p>:In July 2010, the Department of Materials and Metallurgical Engineering was renamed as Department of Materials Science and Engineering with greater emphasis being laid on emerging disciplines like nanotechnology and biomaterials. It offers academic programs leading to B.Tech., M.Tech., Dual-Degree (i.e. B.Tech. + M.Tech.) and Ph.D. programs in Materials Science and Engineering.</p>
+<ul>
+  <li>Mechanical Engineering</li>
+  <li>Nuclear Engineering</li>
+</ul>
+<h3>Humanities</h3>
+<ul>
+  <li>Humanities and Social Sciences</li>
+</ul>
+<h3>Management</h3>
+<ul>
+  <li>Industrial and Management Engineering</li>
+</ul>
+<h3>Science</h3>
+<ul>
+  <li>Chemistry</li>
+  <li>Mathematics and Statistics</li>
+  <li>Physics</li>
+</ul>
+<h3>Inter-disciplinary</h3>
+<ul>
+  <li>Design Programme (two year postgraduate degree in Product Design and Visual Communication)</li>
+</ul>
+<h2>Laboratories and other facilities</h2>
+<p><a>thumb|Samtel Research and Development Building</a> The campus is spread over an area of . Institute facilities include the National Wind Tunnel Facility. Other large research centres include the Advanced Centre for Material Science, a Bio-technology centre, the Advanced Centre for Electronic Systems, and the Samtel Centre for Display Technology, Centre for Mechatronics, Centre for Laser Technology, Prabhu Goel Research Centre for Computer and Internet Security, Facility for Ecological and Analytical Testing. The departments have their own libraries. </p>
+<p>The institute has its own airfield, for flight testing and gliding.</p>
+<p><a>P K Kelkar Library</a> (formerly Central Library) is an academic library of the institute with a collection of more than &lt;!-- 3,00,000 iS NOT A NUMBER. I HAVE GUESSED YOU MEAN 300,000 (THREE HUNDRED THOUSAND) BOOKS.................3,00,000 volumes--&gt;300,000 volumes, and subscriptions to more than 1000 periodicals. The library was renamed to its present name in 2003 after Dr. <a>P K Kelkar</a>, the first director of the institute. It is housed in a three-story building, with a total floor area of 6973 square metres floor area. The Abstracting and Indexing periodicals, Microform and CD-ROM databases. technical reports, Standards and thesis are part of the collection. Each year, about 4500 books and journal volumes are added to the collection.</p>
+<p><a>thumb|The Western Labs</a> <strong>The Computer Centre</strong> has about 100-150 Linux terminals and more than 100 Windows-NT terminals supported by the <a>PARAM</a> 10000 supercomputer, and is continuously available to the students for academic work and recreation. It hosts about 50 SUN workstations. The IITs (and especially IIT Kanpur) and BITS Pilani are among the first large academic institutions in India to be networked , with an institute-wide LAN and Ethernet access to every student room in the residence halls.</p>
+<p>A team of students, working under the guidance of faculty members of the institute and scientists of Indian Space Research Organisation (ISRO) are set to launch India's first nano satellite 'Jugnu'.&lt;ref&gt;. Dated:16 February 2009&lt;/ref&gt;</p>
+<h2>Students</h2>
+<p><a>thumb|PK Kelkar Library</a> The undergraduate students at IIT Kanpur are selected through the <a>Joint Entrance Examination</a> of the IITs. The postgraduate students are selected by the following entrance exams.</p>
+<ul>
+  <li>Master in Business Administration (MBA) - <a>Joint Management Entrance Test (JMET)</a></li>
+  <li>Master of Science (M. Sc.) - Joint Admission Test (JAM)</li>
+  <li>Master of Technology (M. Tech.) - <a>Graduate Aptitude Test in Engineering (GATE)</a></li>
+</ul>
+<p>The institute has around 4,000 students with equal numbers of graduate and undergraduate students. Students live in the hostels, officially known as 'Halls of Residence'. There are eleven hostels, nine are for boys (Hall 1-5, Hall 7-10) and two are for girls (GH1 and GH2 - previously known as Hall 6). </p>
+<h3>Student festivals</h3>
+<h4>National events</h4>
+<ul>
+  <li><a>Antaragni</a>: The annual <a>cultural festival</a> held in October</li>
+  <li><a>Techkriti</a>: The annual technology and business festival held in February</li>
+  <li><a>Udgosh</a>: The annual <a>sports meet</a> held in September</li>
+</ul>
+<h4>Intra-IITK events</h4>
+<ul>
+  <li>Josh</li>
+  <li>Unmaad</li>
+  <li>Crescendo</li>
+  <li>Olympus</li>
+  <li>Galaxy(Inter-Hall cultural competition)</li>
+  <li>Voila</li>
+  <li>Vertigo</li>
+  <li>Varchasva</li>
+  <li>Spectrum</li>
+  <li>Takneek</li>
+</ul>
+<h3>Student publications</h3>
+<p>The students bring out a monthly newspaper, &quot;Vox Populi&quot;, the college magazine &quot;Meander&quot; and &quot;NERD&quot;, a science and technology magazine. Vox Populi has been successful in imposing the ban of cigarettes inside and near the campus.</p>
+<h3>Student voluntary services</h3>
+<p>The students participate voluntarily in social services and organisations, &quot;Prayas&quot; being one of them, where they involve local underprivileged children in educational activities during their free time, conduct awareness programs and provide for campus visits. <a>thumb|Republic Day celebrations (2010)</a></p>
+<h3>Student Gymkhana</h3>
+<p>The Students Gymkhana, a democratically elected body, is the centre of all inter-hostel and intercollege activities that the students of IITK engage in. The Student Gymkhana has the following councils: <a>thumb|Events by cultural council</a></p>
+<ul>
+  <li>The Presidential Council</li>
+  <li>The Games Council</li>
+  <li>The Cultural Council</li>
+  <li>The Science and Technology Council</li>
+  <li>The Films and Media Council</li>
+</ul>
+<p>The President heads the student body, followed by general secretaries for the subdivisions. A number of secretaries head the smaller departments. The Students' Senate is a decision making body which is presided over by the Convener. It has elected members who hold one year terms in office. Typically, one student for every hundred is elected into the senate.</p>
+<h2>Students' research related activity</h2>
+<p>Research is controlled by the Office of the Dean of Research and Development. Under the aegis of the Office the students publish the quarterly <a>NERD Magazine</a> (<strong>Notes on Engineering Research and Development</strong>) which publishes scientific and technical content created by students. Articles may be original work done by students in the form of hobby projects, term projects, internships, or theses. Articles of general interest which are informative but do not reflect original work are also accepted.</p>
+<p>Along with the magazine a student research platform <a>PoWER Promotion of work Experience and Research</a> has been started. Under it several independent student groups are working on projects like the Lunar Rover for ISRO, alternate energy solutions under the Group for Environment and Energy Engineering, ICT solutions through a group Young Engineers, solution for diabetes, green community solutions through ideas like zero water and zero waste quality air approach. A budget of Rs 1.5 to 2 crore has been envisaged to support student projects that demonstrate technology.</p>
+<ul>
+  <li><strong><a>Jugnu (satellite)</a></strong></li>
+</ul>
+<p>The students of IIT Kanpur made a nano satellite called Jugnu, This small satellite was given by president <a>Pratibha Patil</a> to <a>ISRO</a> for launch. . Jugnu is an Indian technology demonstration and remote sensing satellite which will be operated by the Indian Institute of Technology Kanpur. It is a nanosatellite which will be used to provide data for agriculture and disaster monitoring. It is a 3-kilogram (6.6 lb) spacecraft, which measures 34 centimetres (13 in) in length by 10 centimetres (3.9 in) in height and width. Its development programme cost around 25 million rupee. It has a design life of one year. Jugnu's primary instrument is the Micro Imaging System, a near infrared camera which will be used to observe vegetation. It also carries a GPS receiver to aid tracking, and is intended to demonstrate a microelectromechanical inertial measurement unit. Jugnu will be launched into low Earth orbit by a Polar Satellite Launch Vehicle flying from the Satish Dhawan Space Centre. The launch is currently scheduled to occur during 2011</p>
+<h2>SIDBI Innovation and Incubation Centre</h2>
+<p>IIT Kanpur has set up the SIDBI Innovation and Incubation Centre in collaboration with the Small Industries development Bank of India (SIDBI) to foster innovation, research, and entrepreneurial activities in technology-based areas. SIIC provides a platform to business Start-ups to develop their ideas into commercially viable products.</p>
+<p>SIDBI Innovation and Incubation Centre (SIIC) conducted the <a>Nettech</a> Summer Program 2007 for engineering students from all over India at IIT Kanpur Campus.[<a>http://nettech.in/success</a>]&lt;ref name=&quot;Nettech Summer Program at IIT Kanpur Campus 2007&quot;&gt;  &lt;/ref&gt;</p>
+<p>[[image:4844 grey-headed-myna Sturnus malabaricus.jpg|thumb|[[Grey-headed Myna]] on IITK campus]]</p>
+<h2>Academic rankings and accolades</h2>
+<ul>
+  <li>In 2009 <a>US News</a> ranking of the world's best universities, the Indian Institute of Technology, Kanpur was ranked 237th.&lt;ref&gt;<a>http://www.usnews.com/articles/education/worlds-best-universities/2010/02/25/worlds-best-universities-top-400.html</a>&lt;/ref&gt;</li>
+  <li>It is among the top fifty universities in Asia and is ranked 43rd in the list.&lt;ref&gt;<a>http://www.usnews.com/articles/education/worlds-best-universities/2010/02/25/worlds-best-universities-asian-and-middle-eastern.html</a>&lt;/ref&gt; Top Study Links ranks Indian Institute of Technology, Kanpur as the third best technological university in India and 681st among the world.</li>
+</ul>
+<h2>Notable alumni</h2>
+<p></p>
+<ul>
+  <li>Dr <a>Chandra Kintala</a>, Professor and Director of Software Engineering at New Jersey Institute of Technology; Director(Retd.), Bell Labs, USA.</li>
+  <li><a>Ashoke Sen</a>, <a>FRS</a> and <a>Padma Shri</a>, <a>string theorist</a>.</li>
+  <li><a>N.R. Narayana Murthy</a>, founded the software corporation <a>Infosys</a>.</li>
+  <li><a>Manindra Agrawal</a>, <a>Nitin Saxena</a>, and <a>Neeraj Kayal</a> (proved with their <a>AKS primality test</a> that <a>primality testing</a> has a polynomial time algorithm, a major result in <a>theoretical computer science</a>). <a>Clay Research Award</a>, 2002, <a>Godel Prize</a>, 2006&lt;ref&gt;<a>http://www.cse.iitk.ac.in/~manindra/publications.html</a>&lt;/ref&gt;&lt;ref&gt;<a>http://www.expressindia.com/news/fullstory.php?newsid=26408</a>&lt;/ref&gt;&lt;ref&gt;<a>&quot;Bangalore: IIT-Kanpur professor bags first Infosys Mathematics Prize&quot;</a>, September 16. 2008&lt;/ref&gt;</li>
+  <li><a>Pradeep Sindhu</a>, founder - <a>Juniper Networks</a>.</li>
+  <li><a>Ashok Jhunjhunwala</a>, <a>Padma Shri</a> and Professor, Dept of Electrical Engineering, <a>IIT Madras</a>).</li>
+  <li>Rakesh Gangwal, CEO Worldspan, Ex-CEO US Airways Group</li>
+  <li>Vyomesh 'VJ' Joshi, Executive VP, Imaging and Personal Systems Group, Hewlett Packard</li>
+  <li><a>Umang Gupta</a>, <a>Chairman of the Board</a> and <a>Chief Executive Officer</a> of Keynote Systems, Inc. (NASDAQ: KEYN)&lt;ref&gt;<a>Biography &quot;UmangGupta&quot; was prepared and presented at the 2000 gala by Board Member and KRON TV News Anchor Emerald Yeh.</a> &lt;/ref&gt;&lt;ref&gt; <a>Umang Gupta in an Article by Indian Express Newspapers (Mumbai) Ltd</a> &lt;/ref&gt;&lt;ref&gt; <a>Biography of Umang Gupta</a> &lt;/ref&gt;&lt;ref&gt;<a>Umang Gupta Profile on Forbes.com</a>&lt;/ref&gt;&lt;ref&gt;<a>Keynote Systems, Inc. (NASDAQ: KEYN) Information on Forbes.com</a>&lt;/ref&gt;</li>
+  <li>Raj Singh, venture capitalist, former billionaire, funded Teligent.</li>
+  <li><a>Amitabh Thakur</a>, an officer of the <a>Indian Police Service</a>, social activist, writer </li>
+  <li>Ambuj Goyal, VP/GM of IBM's Lotus business</li>
+  <li>Satish Kaura, Padma Shri and founder of Samtel Group</li>
+  <li><a>Anil K. Rajvanshi</a>, Director, <a>Nimbkar Agricultural Research Institute</a> and winner of Jamnalal Bajaj Award 2001,&lt;ref&gt;&lt;/ref&gt;    FICCI award 2002,&lt;ref&gt;[<a>http://portal.bsnl.in/bsnl/asp/content%20mgmt/html%20content/education/education5097.html</a>]&lt;/ref&gt; Globe Award 2009.&lt;ref&gt;<a>Globe Award to Nimbkar Agricultural Research Institute</a>&lt;/ref&gt;</li>
+  <li>Jagjeet S. Bindra, Director of <a>Edison International</a> and one of the United States&#x2019; largest electric utilities, <a>Southern California Edison</a>&lt;ref name=&quot;Edison International, Officers and Directors&quot;&gt;&lt;/ref&gt;</pre>
+<p>&lt;ref name=&quot;Distinguished Faculty&quot;&gt;&lt;/ref&gt;</pre>
+<ul>
+  <li><a>Debabrata Goswami</a>, scientist, famous for his &quot;Adiabatic Quantum Computing&quot; Work with Lasers; <a>Wellcome Trust</a> International Senior Research Fellow&lt;ref&gt;<a>http://scitation.aip.org/journals/doc/APCPCS-home/confproceed/864.jsp</a>&lt;/ref&gt;&lt;ref&gt;<a>Swarnajayanti Fellowships&lt;!-- Bot generated title --&gt;</a>&lt;/ref&gt;</li>
+  <li><a>Jainendra K. Jain</a>, <a>condensed matter theorist</a>.</li>
+  <li><a>Satyendra Dubey</a>, whistle-blower whose murder shocked the nation.</li>
+  <li><a>Ayyalusamy Ramamoorthy</a>, scientist in the area of NMR and biological membranes.</li>
+  <li><a>Duvvuri Subbarao</a>, 22nd Governor of <a>Reserve Bank of India</a>.</li>
+  <li><a>Mriganka Sur</a>,  neuroscientist), Sherman Fairchild Professor of Neuroscience, Head, Dept of Brain and Cognitive Science MIT, Fellow of Royal Society.</li>
+  <li><a>Rajeev Motwani</a>, computer scientist), Professor of Computer Science at Stanford University.  Helped back companies such as PayPal and Google.</li>
+  <li><a>Rajesh Gopakumar</a>, physicist and string theorist at <a>HCRI</a>, Allahabad.</li>
+  <li><a>Utpal Bhattacharya</a>, expert on financial ethics</li>
+  <li><a>Abhay Bhushan</a>, author of <a>File Transfer Protocol</a></li>
+</ul>
+<h2>Awards and recognition</h2>
+<ul>
+  <li>Chandra Kintala (Professor and Director of Software Engineering at NJIT) received Smithsonian medal sponsored by Computer World in 1998</li>
+  <li>C.N.R. Rao (Ex-Chairman, BOG, IIT Kanpur) received the <a>Dan David Prize</a>, given by the Dan David Foundation, <a>Tel Aviv University</a>.</li>
+  <li>C.N.R. Rao was conferred the title <a>Chevalier de la Legion d'Honneur</a> (Knight of the Legion of Honour) by France, the highest civilian award given by the French Government.</li>
+  <li><a>Godel Prize</a> to <a>Rajeev Motwani</a> (2001) and <a>Manindra Agrawal</a>, <a>Neeraj Kayal</a> and <a>Nitin Saxena</a> (2006).</li>
+  <li>Prof. Ashutosh Sharma from the Dept. of Chemical Engineering received the <a>Infosys</a> prize in the engineering and computer science category. (2010) &lt;ref name=&quot;infy&quot;&gt;&lt;/ref&gt;</li>
+</ul>
+<h2>References</h2>
+<p><img></p>
+<p></p>
+<h2>External links</h2>
+<p></p>
+<ul>
+  <li><a>Official website</a></li>
+</ul>
+<p><img> <img></p>
+<p> <a>Category:Educational institutions established in 1959</a> <a>Category:Engineering colleges in Uttar Pradesh</a> <a>Category:Indian Institutes of Technology</a> <a>Category:Education in Kanpur</a> <a>Category:Kanpur</a></p>
+<p><a>bn:&#x0986;&#x0987;&#x0986;&#x0987;&#x099f;&#x09bf; &#x0995;&#x09be;&#x09a8;&#x09aa;&#x09c1;&#x09b0;</a> <a>de:Indian Institute of Technology Kanpur</a> <a>fr:Institut indien de technologie de Kanpur</a> <a>hi:&#x092d;&#x093e;&#x0930;&#x0924;&#x0940;&#x092f; &#x092a;&#x094d;&#x0930;&#x094c;&#x0926;&#x094d;&#x092f;&#x094b;&#x0917;&#x093f;&#x0915;&#x0940; &#x0938;&#x0902;&#x0938;&#x094d;&#x0925;&#x093e;&#x0928; &#x0915;&#x093e;&#x0928;&#x092a;&#x0941;&#x0930;</a> <a>it:Indian Institute of Technology Kanpur</a> <a>ml:&#x0d07;&#x0d28;&#x0d4d;&#x0d24;&#x0d4d;&#x0d2f;&#x0d7b; &#x0d07;&#x0d7b;&#x0d38;&#x0d4d;&#x0d31;&#x0d4d;&#x0d31;&#x0d3f;&#x0d31;&#x0d4d;&#x0d31;&#x0d4d;&#x0d2f;&#x0d42;&#x0d1f;&#x0d4d;&#x0d1f;&#x0d4d; &#x0d13;&#x0d2b;&#x0d4d; &#x0d1f;&#x0d46;&#x0d15;&#x0d4d;&#x0d28;&#x0d4b;&#x0d33;&#x0d1c;&#x0d3f; &#x0d15;&#x0d3e;&#x0d7a;&#x0d2a;&#x0d42;&#x0d7c;</a> <a>no:Indian Institute of Technology Kanpur</a> <a>ta:&#x0b87;&#x0ba8;&#x0bcd;&#x0ba4;&#x0bbf;&#x0baf; &#x0ba4;&#x0bca;&#x0bb4;&#x0bbf;&#x0bb2;&#x0bcd;&#x0ba8;&#x0bc1;&#x0b9f;&#x0bcd;&#x0baa;&#x0b95;&#x0bcd; &#x0b95;&#x0bb4;&#x0b95;&#x0bae;&#x0bcd; &#x0b95;&#x0bbe;&#x0ba9;&#x0bcd;&#x0baa;&#x0bc2;&#x0bb0;&#x0bcd;</a></p>
