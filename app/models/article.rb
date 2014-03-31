@@ -149,9 +149,18 @@ class Article < ActiveRecord::Base
               match_count = match_count + 1
               puts attribute.name + ": " + match_count.to_s + " => '" + attribute_value.value + "'" + " " + current_line;
               
-              as = AttributeSentence.new(value: attribute_value.value, content: current_line)
-              as.attribute = attribute
-              as.save
+              exsit = AttributeSentence.where("attribute_id=#{attribute.id} AND value='#{attribute_value.value}'").first
+              
+              if !exsit.nil?
+                exsit.content = current_line
+                exsit.save
+              else
+                as = AttributeSentence.new(value: attribute_value.value, content: current_line)
+                as.attribute = attribute
+                as.save
+              end
+              
+              
               
               #sleep(0.3)
             end         
@@ -263,6 +272,36 @@ class Article < ActiveRecord::Base
     ##    end
         end
     ##end
+  end
+  
+  ##9
+  def self.create_training_data_for_CRF
+    infobox_template = InfoboxTemplate.where(name: "university").first
+    `mkdir public/crf/#{infobox_template.name}`
+    `mkdir public/crf/#{infobox_template.name}/data`
+    
+    str = "";
+    infobox_template.attributes.each do |attribute|
+      #create config file for one attribute
+      
+      config_str = "basedir=public/crf/#{infobox_template.name}/"
+      config_str += "\nnumlabels=7"
+      config_str += "\ninname=#{attribute.name.gsub(/[\s\/]+/,'_')}"
+      config_str += "\noutdir=#{attribute.name.gsub(/[\s\/]+/,'_')}"
+      config_str += "\ndelimit=,	/ -():.;'?\#`&\"_"
+      config_str += "\nimpdelimit=,"
+      
+      File.open("public/crf/#{infobox_template.name}/#{attribute.name.gsub(/[\s\/]+/,'_')}.conf", "w") { |file| file.write  config_str}
+      
+      training_tr = ""
+      attribute.attribute_sentences.each do |as|
+        training_tr += as.value + " -> " + as.content
+        training_tr += "\n"
+      end
+      
+      `mkdir public/crf/#{infobox_template.name}/data/#{attribute.name.gsub(/[\s\/]+/,'_')}`
+      File.open("public/crf/#{infobox_template.name}/data/#{attribute.name.gsub(/[\s\/]+/,'_')}/#{attribute.name.gsub(/[\s\/]+/,'_')}.train.tagged", "w") { |file| file.write  training_tr}
+    end
   end
     
 end

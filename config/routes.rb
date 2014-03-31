@@ -16,6 +16,7 @@ Mythesis2::Application.routes.draw do
       get :train_doccat
       get :create_vector_space_for_attribute
       get :create_train_for_filter_by_cluster
+      get :create_training_data_for_CRF
     end
   end
 
