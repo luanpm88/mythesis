@@ -26,7 +26,7 @@ class Article < ActiveRecord::Base
                             if !val.nil?
                               Article.create(:title => page.css("title").text,
                                              :content => page.css("text").text,
-                                             :content_html => Wikitext::Parser.new.parse(page.css("text").text),
+                                             :content_html => Wikitext::Parser.new.parse(page.css("text").text.gsub(/\[\[\s*category\:[^\[\]]+\]\]/mi, '')),
                                              :infobox_template_id => infobox_template.id
                                              )
                               
