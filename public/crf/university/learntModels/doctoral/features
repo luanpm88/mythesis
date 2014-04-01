@@ -1,0 +1,78 @@
+26
+graduate 4 4:1
+, 2 0:1 1:2
+has 22 0:1
+DIGIT 1 0:2 1:4
+about 0 0:3
+doctoral 25 4:1
+it 21 0:1
+programme 20 4:1
+time 24 0:1
+are 13 4:1
+engineering 18 4:1
+full 23 0:1
+taking 14 4:1
+university 10 4:1
+science 17 4:1
+the 9 4:2
+master 15 4:2
+at 8 4:1
+architecture 19 4:1
+of 16 4:2
+programmes 7 4:2
+post 3 4:1
+many 12 4:1
+attend 6 4:1
+students 5 0:1 4:3
+and 11 0:1 4:2
+******* Features ************
+49
+W_engineering:662:4 30
+E.0:182:1 3
+W_programmes:277:4 19
+R_isAllSmallCase:180:0 2
+W_students:179:0 42
+W_time:844:0 41
+W_master:557:4 27
+W_,:81:1 7
+E.0:175:0 36
+W_graduate:172:4 16
+W_,:74:0 43
+W_it:739:0 35
+W_many:452:4 24
+R_singleComma:257:1 8
+W_programme:732:4 33
+W_the:347:4 21
+R_singleComma:250:0 44
+E.4:343:4 15
+R_isAllCapital:152:1 5
+W_science:627:4 29
+W_doctoral:907:4 48
+W_attend:242:4 18
+R_isAllCapital:145:0 39
+W_full:809:0 40
+E.1:238:4 11
+W_taking:522:4 26
+R_singlePunctuation:712:1 10
+W_DIGIT:46:1 4
+W_post:137:4 13
+R_singlePunctuation:705:0 46
+W_DIGIT:39:0 38
+W_and:417:4 23
+W_architecture:697:4 31
+U:31:4 12
+End.:30:4 32
+E.1:217:1 6
+W_at:312:4 20
+W_of:592:4 28
+R_isAllSmallCase:208:4 14
+W_students:207:4 17
+W_has:774:0 37
+W_are:487:4 25
+W_and:389:0 47
+R_singleQuote:292:1 9
+W_about:4:0 1
+U:3:0 34
+W_university:382:4 22
+S.:1:0 0
+R_singleQuote:285:0 45

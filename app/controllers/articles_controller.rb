@@ -120,6 +120,12 @@ class ArticlesController < ApplicationController
     
     render nothing: true
   end
+  
+  def training_CRF
+    Article.training_CRF
+    
+    render nothing: true
+  end
 
   private
     # Use callbacks to share common setup or constraints between actions.

@@ -1,0 +1,173 @@
+66
+x0421 56 0:1
+<p><a>es 6 0:1
+tafe 34 4:1
+<a>es 64 4:1
+odense 37 1:1
+view 0 0:1
+tecnolog 11 0:1
+<p><a>bg 40 0:1
+x043e 46 0:2
+x043d 48 0:4
+<a>no 39 4:1
+x043b 43 0:1
+x043a 51 0:2
+ciencia 9 0:1
+universities 31 0:1
+x00ed 12 0:1
+x0446 58 0:1
+de 8 0:3 4:1
+x0444 45 0:1
+x0443 52 0:1
+universidad 15 0:1 4:1
+x0442 55 0:2
+x0441 50 0:3
+x0440 47 0:3
+< 17 0:1 4:3
+universitet< 38 4:1
+californiairvine]] 5 3:1
+<a>sv 19 4:1
+manchester 16 1:1
+suburban 2 0:1
+<a>de 59 0:1
+<p><a>da 36 0:1
+university 60 0:1
+, 4 0:2 1:1
+colleges 35 4:1
+in 32 0:1 4:1
+x0439 49 0:1
+x0438 44 0:6
+francisco 63 3:1
+<p><a>category 23 0:1
+california 61 0:1 4:1
+x0435 54 0:2
+[[irvine 3 1:1
+x0432 53 0:1
+x0430 42 0:3
+a> 18 0:2 4:4
+melbourne 33 1:1
+of 1 0:2
+training 28 0:1
+y 10 0:1
+la 14 0:1
+providers< 29 0:1
+education 26 0:1
+p> 22 4:1
+and 27 0:1
+x041a 41 0:1
+instituto 7 0:1
+umist< 20 4:1
+san 62 1:1
+en 65 4:1
+a>< 21 4:1
+<a>category 30 0:1 4:1
+australian 24 0:1
+vocational 25 0:1
+x0424 57 0:1
+a 13 0:1
+******* Features ************
+104
+W_manchester:571:1 31
+R_isAllSmallCase:187:1 32
+R_containsSpecialCharacters:950:0 20
+W_and:949:0 50
+E.0:182:1 7
+R_isAllSmallCase:180:0 3
+W_universidad:557:4 100
+W_x0435:1894:0 81
+E.0:175:0 4
+W_x043b:1509:0 70
+W_<a>es:2272:4 99
+W_in:1124:0 56
+W_y:354:0 24
+R_singlePunctuation:733:4 36
+W_odense:1306:1 64
+W_<a>de:2069:0 92
+W_umist<:732:4 42
+R_isSpecialCharacter:348:4 35
+W_x043d:1684:0 75
+E.4:343:4 38
+W_,:151:1 11
+W_education:914:0 49
+R_containsDigit:530:0 27
+W_universidad:529:0 30
+W_,:144:0 83
+W_x0432:1859:0 80
+R_singlePunctuation:712:1 14
+W_x0430:1474:0 69
+W_universities:1089:0 55
+R_singlePunctuation:705:0 86
+W_francisco:2230:3 96
+R_isSpecialCharacter:320:0 91
+W_ciencia:319:0 23
+W_<a>category:1082:4 58
+W_x0446:2034:0 89
+W_<a>sv:697:4 41
+W_de:312:4 101
+W_x0440:1649:0 74
+W_<p><a>da:1264:0 63
+E.3:308:4 98
+W_[[irvine:116:1 9
+W_vocational:879:0 48
+W_la:494:0 29
+W_colleges:1257:4 61
+W_x0443:1824:0 79
+W_x041a:1439:0 68
+R_singleQuote:292:1 13
+W_<a>category:1054:0 54
+R_singleQuote:285:0 85
+W_de:284:0 22
+W_x0424:1999:0 88
+W_a>:662:4 39
+W_x043e:1614:0 73
+W_san:2181:1 95
+W_australian:844:0 47
+W_a:459:0 28
+W_tafe:1222:4 59
+W_suburban:74:0 6
+W_x043a:1789:0 78
+W_<p><a>bg:1404:0 67
+W_california:2167:4 102
+R_singleComma:257:1 12
+W_providers<:1019:0 52
+W_a>:634:0 53
+W_<a>no:1397:4 66
+R_singleComma:250:0 84
+W_instituto:249:0 21
+W_x0421:1964:0 87
+W_<:627:4 34
+W_x0444:1579:0 72
+E.1:238:4 33
+W_<p><a>category:809:0 46
+W_x00ed:424:0 26
+E.1:231:3 15
+W_of:39:0 5
+W_california:2139:0 94
+W_p>:802:4 45
+W_x0441:1754:0 77
+U:31:4 40
+End.:30:4 44
+W_training:984:0 51
+W_<:599:0 90
+E.1:217:1 10
+W_universitet<:1362:4 65
+U:24:3 17
+End.:23:3 16
+W_<p><a>es:214:0 19
+R_containsSpecialCharacters:978:4 37
+W_melbourne:1166:1 57
+W_x0442:1929:0 82
+R_isAllSmallCase:208:4 60
+W_x0438:1544:0 71
+W_en:2307:4 103
+R_isAllSmallCase:201:3 97
+U:10:1 8
+W_californiairvine]]:200:3 18
+W_tecnolog:389:0 25
+W_in:1152:4 62
+W_view:4:0 2
+W_university:2104:0 93
+U:3:0 1
+W_a><:767:4 43
+S.:1:0 0
+W_x0439:1719:0 76

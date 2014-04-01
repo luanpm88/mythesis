@@ -1,0 +1,49 @@
+13
+, 3 0:2
+was 6 4:1
+elected 7 4:1
+university 12 4:1
+as 8 4:1
+DIGIT 2 0:2
+freimuth 5 3:1
+november 1 0:1
+the 9 4:2
+<p>on 0 0:1
+of 11 4:1
+axel 4 1:1
+rector 10 4:1
+******* Features ************
+33
+R_isAllSmallCase:187:1 16
+E.1:231:3 17
+W_elected:277:4 26
+W_of:417:4 30
+E.0:182:1 13
+W_november:39:0 5
+R_isAllSmallCase:180:0 6
+E.0:175:0 4
+U:31:4 22
+End.:30:4 31
+W_as:312:4 27
+W_university:452:4 32
+W_DIGIT:74:0 7
+E.3:308:4 21
+U:24:3 18
+R_isAllSmallCase:208:4 24
+W_the:347:4 28
+W_,:109:0 9
+R_singleComma:250:0 10
+E.4:343:4 25
+R_isAllSmallCase:201:3 20
+W_freimuth:200:3 19
+R_containsSpecialCharacters:950:0 3
+U:10:1 14
+W_axel:151:1 15
+W_was:242:4 23
+W_rector:382:4 29
+W_<p>on:4:0 2
+R_isAllCapital:145:0 8
+U:3:0 1
+R_singleQuote:285:0 11
+S.:1:0 0
+R_singlePunctuation:705:0 12

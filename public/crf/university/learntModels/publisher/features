@@ -1,0 +1,54 @@
+14
+santa 4 0:1 2:1
+, 9 0:1
+area 6 0:1
+general 8 0:1
+* 0 0:1
+concerning 2 0:1
+not 10 0:1
+content 1 0:1
+the 3 0:1
+in 7 0:1 4:1
+pre> 13 4:1
+particular< 12 4:1
+cruz 5 0:1 3:1
+uc 11 1:1
+******* Features ************
+37
+W_general:284:0 13
+R_isAllSmallCase:187:1 21
+E.0:182:1 18
+W_in:277:4 29
+R_isAllSmallCase:180:0 6
+W_cruz:179:0 10
+E.0:175:0 4
+E.2:266:3 25
+W_concerning:74:0 7
+W_particular<:452:4 33
+W_not:354:0 17
+W_santa:158:2 23
+R_singleComma:250:0 15
+W_in:249:0 12
+E.4:343:4 31
+W_santa:144:0 9
+R_singlePunctuation:705:0 3
+W_content:39:0 5
+E.1:224:2 22
+W_,:319:0 14
+U:31:4 32
+End.:30:4 35
+R_containsSpecialCharacters:978:4 34
+W_area:214:0 11
+E.3:308:4 28
+R_isAllSmallCase:208:4 30
+W_uc:396:1 20
+W_the:109:0 8
+W_pre>:487:4 36
+R_isAllSmallCase:201:3 27
+U:10:1 19
+W_cruz:200:3 26
+W_*:4:0 2
+R_isAllSmallCase:194:2 24
+U:3:0 1
+S.:1:0 0
+R_singleQuote:285:0 16

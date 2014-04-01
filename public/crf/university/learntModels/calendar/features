@@ -1,0 +1,224 @@
+94
+accused 20 0:1
+mid 47 4:1
+operates 34 0:1
+<em>planet 89 4:1
+their 26 0:1
+words 14 0:1
+show 85 4:1
+previous 29 0:1
+quarter 74 1:1
+spring 56 4:1
+calendar 37 4:1
+students 18 0:1
+may 60 4:1
+plagiarize 25 0:1
+plagiarizing 21 0:1
+over 16 0:2
+copied 7 0:1
+li> 93 4:1
+<em><a>saul 76 4:1
+film 91 4:1
+head 73 0:1
+mole 77 4:1
+february 58 4:1
+tower 68 0:1
+january 55 4:1
+is 69 0:1
+in 46 4:6
+allowing 23 0:1
+or 22 0:1
+s 32 4:2
+on 35 0:1
+inspired 86 4:1
+late 59 4:1
+with 38 4:1
+of 9 0:2 4:3
+by 88 4:1
+a 2 0:2 4:1
+ref 62 4:2
+apes< 90 4:1
+p> 65 4:1
+activities 52 4:1
+men< 78 4:1
+sequential 13 0:1
+adult 82 4:1
+beginning 40 4:2
+fall 39 4:1
+used 70 0:1
+month 54 4:1
+tv 84 4:1
+work 27 0:1
+a>< 79 4:1
+and 44 4:3
+DIGIT 17 0:1 1:3 4:1
+devising 1 0:1
+period 53 4:1
+to 5 0:2
+series 92 4:1
+academic 36 4:1
+day< 42 4:1
+at 10 0:1
+as 71 0:1
+swim 83 4:1
+quot 50 4:2
+independent 51 4:1
+gt 63 4:2
+an 81 4:1
+strata 72 0:1
+< 64 4:2
+five 30 0:1
+phrases 8 0:1
+program 4 0:1
+six 12 0:1
+detect 6 0:1
+computer 3 0:1
+engineering 67 0:1
+after 0 0:1 4:1
+early 57 4:1
+, 15 0:1 4:3
+part 87 4:1
+em> 80 4:2
+exterior 75 4:1
+december 48 4:1
+lt 61 4:2
+<a>labor 41 4:1
+<li>the 66 0:1
+others 24 0:1
+were 19 0:1
+mit 33 0:1
+a> 43 4:1
+ending 45 4:2
+the 28 0:2 4:6
+least 11 0:1
+week 49 4:1
+semester 31 1:1 4:2
+******* Features ************
+127
+W_late:2097:4 89
+R_isAllSmallCase:187:1 41
+R_containsSpecialCharacters:950:0 98
+W_work:949:0 35
+W_december:1712:4 70
+E.0:182:1 39
+W_over:564:0 23
+W_calendar:1327:4 55
+R_isAllSmallCase:180:0 2
+W_to:179:0 9
+W_inspired:3042:4 119
+W_,:557:4 71
+E.0:175:0 3
+W_exterior:2657:4 108
+R_isAllCapital:173:4 77
+W_<:2272:4 94
+W_period:1887:4 82
+W_plagiarizing:739:0 29
+W_day<:1502:4 64
+W_at:354:0 14
+W_used:2454:0 102
+W_semester:1117:4 59
+W_film:3217:4 124
+R_singlePunctuation:733:4 74
+W_em>:2832:4 113
+R_isSpecialCharacter:348:4 95
+W_of:347:4 84
+W_february:2062:4 88
+R_isAllCapital:152:1 50
+E.4:343:4 54
+W_their:914:0 34
+W_mid:1677:4 69
+W_,:529:0 19
+W_academic:1292:4 53
+R_isAllCapital:145:0 25
+W_program:144:0 8
+W_show:3007:4 118
+W_semester:1096:1 40
+W_gt:2237:4 93
+W_activities:1852:4 81
+R_singlePunctuation:705:0 22
+W_accused:704:0 28
+W_<a>labor:1467:4 62
+W_of:319:0 13
+W_is:2419:0 101
+W_apes<:3182:4 123
+W_a><:2797:4 112
+R_singleQuote:313:4 73
+W_quarter:2601:1 107
+W_early:2027:4 87
+W_plagiarize:879:0 33
+W_in:1642:4 68
+W_words:494:0 18
+W_computer:109:0 7
+W_tv:2972:4 117
+W_a:102:4 75
+W_ref:2202:4 92
+W_five:1054:0 38
+W_independent:1817:4 80
+W_were:669:0 27
+W_beginning:1432:4 60
+R_singleQuote:285:0 21
+W_phrases:284:0 12
+W_tower:2384:0 100
+W_<em>planet:3147:4 122
+W_men<:2762:4 111
+R_singleComma:278:4 72
+W_on:1229:0 48
+W_spring:1992:4 86
+W_others:844:0 32
+W_ending:1607:4 67
+W_sequential:459:0 17
+W_head:2559:0 105
+W_a:74:0 6
+W_swim:2937:4 116
+W_lt:2167:4 91
+W_previous:1019:0 37
+W_quot:1782:4 79
+W_students:634:0 26
+W_fall:1397:4 58
+R_singleComma:250:0 20
+W_copied:249:0 11
+W_engineering:2349:0 99
+W_the:1012:4 57
+W_by:3112:4 121
+W_DIGIT:627:4 76
+W_mole:2727:4 110
+W_operates:1194:0 47
+W_january:1957:4 85
+E.1:238:4 42
+W_allowing:809:0 31
+W_and:1572:4 66
+W_six:424:0 16
+W_strata:2524:0 104
+W_li>:3287:4 126
+W_devising:39:0 5
+W_adult:2902:4 115
+W_DIGIT:606:1 49
+W_after:32:4 61
+W_may:2132:4 90
+U:31:4 52
+End.:30:4 43
+W_the:984:0 36
+W_week:1747:4 78
+E.1:217:1 51
+W_DIGIT:599:0 24
+W_with:1362:4 56
+W_detect:214:0 10
+R_containsSpecialCharacters:978:4 63
+W_<li>the:2314:0 97
+W_part:3077:4 120
+W_<em><a>saul:2692:4 109
+R_isAllSmallCase:208:4 45
+W_p>:2307:4 96
+W_mit:1159:0 46
+W_month:1922:4 83
+U:10:1 106
+W_or:774:0 30
+W_a>:1537:4 65
+W_least:389:0 15
+W_as:2489:0 103
+W_s:1152:4 44
+W_series:3252:4 125
+W_after:4:0 1
+U:3:0 4
+W_an:2867:4 114
+S.:1:0 0

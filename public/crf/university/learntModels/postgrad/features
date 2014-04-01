@@ -1,0 +1,131 @@
+46
+academic 35 4:1
+titles 24 4:1
+has 22 0:1
+participate 34 4:1
+basis 45 4:1
+theless 32 4:1
+including 7 0:1
+community 42 4:1
+textbooks 19 0:1
+none 31 1:1
+undergraduate 28 0:1
+DIGIT 1 0:6 1:4 4:1
+enrolled 5 0:2
+world 16 0:1
+university 4 0:1 4:1
+lt 29 4:2
+, 2 0:6 1:1 4:3
+the 3 0:3 4:2
+in 25 4:3
+reciprocal 44 4:1
+on 43 4:1
+more 9 0:1
+social 36 4:1
+of 40 4:1
+million 12 0:1
+press 21 0:1
+<p>williams 27 0:1
+athletic 37 4:1
+pre 13 0:1
+barnard 33 4:1
+than 10 0:1
+ref 30 4:2
+extracurricular 38 4:1
+broader 41 4:1
+and 20 0:2 4:1
+life 39 4:1
+bju 18 0:1
+use 17 0:1
+print 26 4:1
+around 15 0:1
+graduate 8 4:2
+college 14 0:1
+students 6 0:3 4:3
+<p>in 0 0:1
+a 11 0:1 4:1
+approximately 23 0:1
+******* Features ************
+82
+R_isAllSmallCase:187:1 59
+R_containsSpecialCharacters:950:0 3
+W_<p>williams:949:0 50
+E.0:182:1 17
+W_world:564:0 38
+W_athletic:1327:4 70
+R_isAllSmallCase:180:0 12
+W_enrolled:179:0 14
+W_print:942:4 49
+E.0:175:0 4
+R_isAllCapital:173:4 53
+W_university:172:4 76
+W_press:739:0 43
+W_community:1502:4 77
+W_than:354:0 32
+R_singlePunctuation:733:4 64
+W_and:732:4 71
+R_isAllCapital:152:1 19
+E.4:343:4 28
+W_around:529:0 37
+W_social:1292:4 69
+R_isAllCapital:145:0 6
+W_university:144:0 13
+W_in:907:4 48
+W_none:1096:1 58
+R_singlePunctuation:712:1 24
+W_the:137:4 67
+R_singlePunctuation:705:0 10
+W_and:704:0 42
+W_broader:1467:4 75
+W_more:319:0 31
+W_ref:1082:4 55
+R_singleQuote:313:4 63
+W_graduate:312:4 26
+W_college:494:0 36
+W_academic:1257:4 68
+W_the:109:0 11
+W_titles:872:4 47
+W_,:102:4 61
+R_singleQuote:292:1 23
+W_textbooks:669:0 41
+W_of:1432:4 74
+R_singleQuote:285:0 9
+W_lt:1047:4 54
+R_singleComma:278:4 62
+W_,:81:1 21
+W_basis:1607:4 81
+W_pre:459:0 35
+W_participate:1222:4 66
+W_,:74:0 7
+W_DIGIT:67:4 52
+R_singleComma:257:1 22
+W_bju:634:0 40
+W_life:1397:4 73
+R_singleComma:250:0 8
+W_including:249:0 16
+W_students:242:4 30
+E.1:238:4 25
+W_DIGIT:46:1 18
+W_approximately:809:0 45
+W_reciprocal:1572:4 80
+W_million:424:0 34
+W_barnard:1187:4 65
+W_DIGIT:39:0 5
+W_a:417:4 79
+U:31:4 46
+End.:30:4 29
+W_undergraduate:984:0 51
+E.1:217:1 20
+W_use:599:0 39
+W_extracurricular:1362:4 72
+W_students:214:0 15
+R_isAllSmallCase:208:4 27
+U:10:1 57
+W_has:774:0 44
+W_on:1537:4 78
+S.:8:1 56
+W_a:389:0 33
+W_theless:1152:4 60
+W_<p>in:4:0 2
+U:3:0 1
+S.:1:0 0

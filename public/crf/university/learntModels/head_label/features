@@ -1,0 +1,40 @@
+11
+li> 10 4:1
+<li><a>list 0 0:1
+naval 7 4:1
+united 5 4:1
+the 4 4:1
+superintendent 2 1:1
+academy< 8 4:1
+a>< 9 4:1
+of 1 0:1 4:1
+states 6 4:1
+s 3 4:1
+******* Features ************
+26
+R_isAllSmallCase:187:1 10
+W_s:137:4 13
+W_naval:277:4 20
+E.0:182:1 7
+W_of:39:0 5
+R_isAllSmallCase:180:0 6
+R_containsSpecialCharacters:978:4 22
+W_superintendent:81:1 9
+E.0:175:0 4
+W_the:172:4 17
+U:31:4 12
+End.:30:4 24
+W_academy<:312:4 21
+R_isAllSmallCase:208:4 14
+W_of:67:4 16
+W_united:207:4 18
+W_a><:347:4 23
+E.4:343:4 15
+R_containsSpecialCharacters:950:0 3
+U:10:1 8
+W_states:242:4 19
+W_li>:382:4 25
+W_<li><a>list:4:0 2
+U:3:0 1
+E.1:238:4 11
+S.:1:0 0

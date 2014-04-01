@@ -1,0 +1,71 @@
+24
+old 4 1:1
+, 8 4:2
+began 13 4:1
+ref 20 4:2
+lt 19 4:2
+yellow 7 4:1
+that 16 4:1
+gold 5 3:1
+the 10 4:2
+colors 15 4:1
+flying 14 4:1
+kept 9 4:1
+endure 17 4:1
+gt 21 4:2
+opted 2 0:1
+black 11 4:1
+< 22 4:1
+gridders 1 0:1
+over 6 4:1
+for 3 0:1
+p> 23 4:1
+today 18 4:1
+purdue 0 0:1
+and 12 4:1
+******* Features ************
+44
+W_today:662:4 35
+R_isAllSmallCase:187:1 11
+R_singleComma:278:4 23
+E.0:182:1 8
+W_yellow:277:4 21
+R_isAllSmallCase:180:0 3
+W_colors:557:4 32
+E.0:175:0 4
+W_p>:837:4 43
+W_opted:74:0 6
+W_and:452:4 29
+R_singlePunctuation:733:4 25
+W_ref:732:4 37
+R_isSpecialCharacter:348:4 40
+W_kept:347:4 26
+E.4:343:4 20
+W_endure:627:4 34
+W_old:151:1 10
+W_over:242:4 18
+W_flying:522:4 31
+W_<:802:4 39
+E.1:231:3 12
+W_gridders:39:0 5
+W_black:417:4 28
+W_lt:697:4 36
+U:31:4 17
+End.:30:4 42
+R_containsSpecialCharacters:978:4 41
+R_singleQuote:313:4 24
+W_,:312:4 22
+U:24:3 13
+E.3:308:4 16
+W_that:592:4 33
+R_isAllSmallCase:208:4 19
+W_for:109:0 7
+W_began:487:4 30
+R_isAllSmallCase:201:3 15
+U:10:1 9
+W_gold:200:3 14
+W_gt:767:4 38
+W_purdue:4:0 2
+U:3:0 1
+W_the:382:4 27
+S.:1:0 0

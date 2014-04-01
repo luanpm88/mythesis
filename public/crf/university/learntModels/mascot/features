@@ -1,0 +1,237 @@
+97
+saw 76 0:1
+s< 48 4:1
+sport< 43 0:1
+made 33 4:1
+<a> 58 0:1
+huffy 10 0:1
+bison 47 1:1
+take 56 0:1 4:1
+one 86 4:1
+use 67 4:1
+<a>manitoba 46 0:1
+cane 14 3:1
+cheers 22 0:1
+panther 59 1:1
+never 75 0:1 4:1
+appearance 16 4:1
+interuniversity 42 0:1
+cow 79 3:1
+<p>school 19 0:1
+rather 93 4:1
+classes 70 4:1
+ages 54 0:1
+<a>robertson 68 4:1
+but 87 4:1
+known 7 0:2
+is 39 0:2
+represented 40 0:1
+in 15 0:2 4:1
+which 26 0:1
+similar 12 0:1
+or 62 4:2
+johnny 28 0:1
+s 30 0:1
+islanders 51 0:1
+<p>i 74 0:1
+than 94 4:1
+i 83 4:3
+of 52 0:1
+by 45 0:1
+see 85 4:2
+library< 69 4:1
+d 92 4:1
+games< 65 4:1
+day 60 4:1
+chants 20 0:1
+a 77 0:1
+br 81 4:3
+p> 18 4:2
+from 0 0:2
+camps< 61 4:1
+adults 66 4:1
+hope 84 4:1
+zot 25 0:1
+be 95 4:1
+hart 29 0:1
+you 90 4:1
+can 88 4:1
+and 21 0:1
+DIGIT 1 0:2
+to 2 0:3 4:3
+word 24 0:1
+feature 23 0:1
+college< 73 4:1
+anteater 32 3:1
+anyhow 91 4:1
+as 8 0:1
+ants 36 4:1
+quot 9 0:5 4:1
+gt 82 4:3
+noise 27 0:1
+< 17 4:2
+captain 13 1:1
+<a>seniors 72 4:1
+tell 89 4:1
+, 3 0:3 4:3
+children 55 0:1
+part 57 0:1
+who 11 0:2 4:1
+eating 35 4:1
+purple 78 1:1
+<a>canadian 41 0:1
+well 50 0:1
+university 38 0:1
+all 53 0:1
+lt 80 4:3
+one! 96 4:1
+<p>the 37 0:1
+come 63 4:1
+campus 49 0:1
+peter 31 1:1
+was 6 0:3
+a> 44 0:1 4:5
+while 34 4:1
+<a>varsity 64 4:1
+the 4 0:5 2:1 4:1
+through 71 4:1
+mascot 5 0:1
+******* Features ************
+137
+W_classes:2482:4 108
+W_anteater:1145:3 59
+W_university:1334:0 66
+R_isAllSmallCase:187:1 24
+R_containsSpecialCharacters:950:0 42
+W_noise:949:0 50
+W_s<:1712:4 78
+E.0:182:1 21
+W_saw:2664:0 114
+R_isAllSmallCase:180:0 2
+W_mascot:179:0 13
+W_one:3042:4 125
+W_ages:1894:0 85
+E.0:175:0 3
+W_in:557:4 30
+W_never:2657:4 122
+W_the:172:4 104
+W_sport<:1509:0 72
+W_<a>varsity:2272:4 96
+W_panther:2076:1 90
+W_and:739:0 44
+W_huffy:354:0 18
+W_anyhow:3217:4 130
+R_singlePunctuation:733:4 37
+W_lt:2832:4 118
+W_the:158:2 56
+R_isSpecialCharacter:348:4 36
+W_quot:347:4 60
+W_library<:2447:4 106
+W_<p>the:1299:0 65
+E.4:343:4 32
+W_which:914:0 49
+W_in:529:0 69
+W_never:2629:0 113
+W_ants:1292:4 64
+W_one!:3392:4 135
+R_isAllCapital:145:0 5
+W_the:144:0 11
+W_see:3007:4 124
+W_peter:1096:1 54
+W_all:1859:0 84
+W_,:137:4 98
+W_interuniversity:1474:0 71
+W_come:2237:4 94
+W_cane:515:3 27
+R_singlePunctuation:705:0 10
+W_chants:704:0 43
+W_bison:1656:1 76
+W_quot:319:0 17
+W_you:3182:4 129
+R_endsWithPunctuation:698:4 136
+W_<a>:2034:0 89
+R_singleQuote:313:4 100
+W_<a>robertson:2412:4 105
+E.3:308:4 29
+W_cow:2790:3 117
+W_zot:879:0 48
+W_<p>i:2594:0 112
+W_eating:1257:4 63
+W_be:3357:4 134
+W_,:109:0 7
+W_hope:2972:4 123
+W_of:1824:0 83
+W_college<:2587:4 111
+W_to:102:4 95
+W_<a>canadian:1439:0 70
+W_or:2202:4 93
+W_s:1054:0 53
+W_<p>school:669:0 41
+R_singleQuote:285:0 9
+W_as:284:0 16
+W_tell:3147:4 128
+W_part:1999:0 88
+W_p>:662:4 40
+R_singleComma:278:4 99
+W_<a>manitoba:1614:0 75
+W_use:2377:4 103
+W_captain:466:1 23
+W_take:1992:4 107
+W_word:844:0 47
+W_while:1222:4 62
+W_than:3322:4 133
+E.2:266:3 58
+W_to:74:0 6
+W_i:2937:4 121
+W_islanders:1789:0 82
+W_<a>seniors:2552:4 110
+W_purple:2741:1 116
+W_represented:1404:0 68
+W_camps<:2167:4 92
+W_hart:1019:0 52
+R_singleComma:250:0 8
+W_known:249:0 15
+W_can:3112:4 127
+W_take:1964:0 87
+W_<:627:4 35
+W_by:1579:0 74
+W_adults:2342:4 101
+E.1:238:4 77
+W_feature:809:0 46
+W_a>:1572:4 79
+W_similar:424:0 20
+W_made:1187:4 61
+W_rather:3287:4 132
+E.1:231:3 25
+W_DIGIT:39:0 4
+W_gt:2902:4 120
+W_who:417:4 102
+W_well:1754:0 81
+W_through:2517:4 109
+E.1:224:2 55
+W_is:1369:0 67
+W_day:2132:4 91
+U:31:4 33
+End.:30:4 39
+W_johnny:984:0 51
+W_a:2699:0 115
+U:24:3 26
+W_was:214:0 14
+R_containsSpecialCharacters:978:4 38
+W_but:3077:4 126
+W_children:1929:0 86
+W_appearance:592:4 34
+R_isAllSmallCase:208:4 31
+W_a>:1544:0 73
+W_games<:2307:4 97
+U:10:1 22
+R_isAllSmallCase:201:3 28
+W_cheers:774:0 45
+W_who:389:0 19
+W_d:3252:4 131
+W_from:4:0 1
+U:3:0 12
+R_isAllSmallCase:194:2 57
+W_br:2867:4 119
+S.:1:0 0
+W_campus:1719:0 80

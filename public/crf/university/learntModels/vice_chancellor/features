@@ -1,0 +1,107 @@
+38
+carr 13 3:1
+who 24 4:1
+dr 11 1:1
+across 35 4:1
+<li> 10 0:1
+management 37 4:1
+directorate 26 4:1
+<li><a> 0 0:1
+< 4 4:3
+professor 1 1:2
+DIGIT 6 4:3
+implementation 32 4:1
+are 29 4:1
+rod 12 2:1
+is 20 0:1
+university 16 0:1 4:2
+responsible 30 4:1
+, 23 4:2
+the 15 0:1 4:5
+john 21 2:1
+chancellor 19 0:1
+li> 9 4:2
+x2013 7 4:1
+executive 28 4:1
+operation 36 4:1
+a> 5 4:1
+of 33 4:2
+michael 2 2:1
+with 25 4:1
+for 31 4:1
+s 17 0:1
+and 27 4:3
+vision 34 4:1
+present 8 4:1
+farthing 3 3:1
+vice 18 0:1
+february 14 4:1
+brooks 22 3:1
+******* Features ************
+66
+W_management:1327:4 65
+R_isAllSmallCase:187:1 6
+W_university:564:0 40
+R_singleComma:278:4 48
+W_john:753:2 45
+W_michael:88:2 9
+W_directorate:942:4 53
+E.0:182:1 4
+W_x2013:277:4 25
+R_isAllSmallCase:180:0 38
+R_containsDigit:558:4 26
+W_vision:1222:4 61
+W_the:557:4 52
+E.0:175:0 39
+R_isAllCapital:173:4 24
+W_,:837:4 47
+W_<:172:4 16
+E.2:266:3 11
+W_for:1117:4 58
+W_<li>:354:0 31
+R_singlePunctuation:733:4 18
+W_vice:634:0 42
+R_isSpecialCharacter:348:4 17
+W_executive:1012:4 55
+W_li>:347:4 30
+E.4:343:4 20
+W_rod:438:2 34
+W_operation:1292:4 64
+W_the:529:0 37
+W_with:907:4 51
+W_DIGIT:242:4 23
+W_of:1187:4 60
+W_february:522:4 36
+W_professor:46:1 5
+W_is:704:0 44
+W_responsible:1082:4 57
+W_brooks:795:3 46
+W_farthing:130:3 13
+E.1:224:2 7
+U:31:4 21
+End.:30:4 29
+W_s:599:0 41
+R_singleQuote:313:4 49
+R_containsSpecialCharacters:978:4 19
+W_and:977:4 54
+W_present:312:4 27
+U:24:3 12
+E.3:308:4 15
+W_university:592:4 63
+W_across:1257:4 62
+R_isAllSmallCase:208:4 28
+W_who:872:4 50
+U:17:2 8
+W_a>:207:4 22
+W_dr:396:1 33
+W_implementation:1152:4 59
+R_isAllSmallCase:201:3 14
+U:10:1 32
+W_carr:480:3 35
+W_chancellor:669:0 43
+W_<li><a>:4:0 2
+R_isAllSmallCase:194:2 10
+U:3:0 1
+W_are:1047:4 56
+S.:1:0 0
+R_containsSpecialCharacters:950:0 3

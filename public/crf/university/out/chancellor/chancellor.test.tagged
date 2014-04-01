@@ -1,0 +1,14 @@
+the <a>chancellor</a> is mr. |1
+fred |2
+fountain ; |4
+dr. <a>tom traves</a> serves as president and vice-chancellor.</p>|5
+
+from:2006 till:end shift:($dx,+1) color:invested text: |1
+[[george |2
+blumenthal]] |4
+</pre>|5
+
+the president of the university is paul w. gooch and the chancellor is |1
+wendy |2
+cecil .|4
+

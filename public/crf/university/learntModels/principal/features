@@ -1,0 +1,49 @@
+13
+cook 7 3:1
+victoria 3 0:1
+mark 10 4:1
+and 8 4:1
+is 5 0:1 4:1
+g 11 4:1
+the 0 0:1 4:1
+principal 1 0:1 4:1
+david 6 1:1
+emmanuel 9 4:1
+toulouse 12 4:1
+of 2 0:1 4:1
+college 4 0:1 4:1
+******* Features ************
+33
+R_isAllSmallCase:187:1 13
+E.1:231:3 14
+W_g:417:4 30
+E.0:182:1 10
+W_principal:39:0 4
+R_isAllSmallCase:180:0 2
+W_is:179:0 9
+W_cook:270:3 16
+E.0:175:0 3
+W_david:221:1 12
+W_the:32:4 23
+W_college:172:4 27
+U:31:4 19
+End.:30:4 31
+W_and:312:4 20
+W_toulouse:452:4 32
+W_of:74:0 5
+E.3:308:4 18
+U:24:3 15
+W_principal:67:4 24
+R_isAllSmallCase:208:4 21
+W_is:207:4 28
+W_emmanuel:347:4 26
+W_victoria:109:0 7
+E.4:343:4 22
+R_isAllSmallCase:201:3 17
+U:10:1 11
+W_of:102:4 25
+W_mark:382:4 29
+W_the:4:0 1
+U:3:0 6
+W_college:144:0 8
+S.:1:0 0

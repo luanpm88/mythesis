@@ -1,0 +1,66 @@
+22
+, 3 4:1
+<li> 0 0:1
+<a>the 21 4:1
+DIGIT 17 4:1
+took 10 4:1
+ref 19 4:1
+howard 1 1:1
+lt 18 4:1
+interim 13 4:1
+management 9 4:1
+in 15 4:1
+dean 4 4:1
+millsaps 6 4:1
+as 12 4:1
+gt 20 4:1
+school 8 4:1
+of 5 4:2
+mcmillan 2 3:1
+over 11 4:1
+august 16 4:1
+else 7 4:1
+president 14 4:1
+******* Features ************
+41
+W_lt:662:4 35
+R_isAllSmallCase:187:1 7
+R_singleComma:278:4 15
+E.0:182:1 4
+W_else:277:4 23
+W_in:557:4 31
+R_isAllCapital:173:4 34
+W_dean:172:4 19
+W_as:452:4 28
+R_singlePunctuation:733:4 17
+W_gt:732:4 37
+W_management:347:4 25
+E.4:343:4 18
+W_DIGIT:627:4 33
+W_millsaps:242:4 22
+W_president:522:4 30
+W_howard:46:1 6
+W_,:137:4 14
+E.1:231:3 8
+W_over:417:4 27
+W_ref:697:4 36
+U:31:4 13
+End.:30:4 38
+R_containsSpecialCharacters:978:4 40
+R_singleQuote:313:4 16
+W_school:312:4 24
+U:24:3 9
+E.3:308:4 12
+W_august:592:4 32
+R_isAllSmallCase:208:4 20
+W_of:207:4 21
+W_interim:487:4 29
+R_isAllSmallCase:201:3 11
+U:10:1 5
+W_<a>the:767:4 39
+W_<li>:4:0 2
+U:3:0 1
+W_took:382:4 26
+S.:1:0 0
+W_mcmillan:95:3 10
+R_containsSpecialCharacters:950:0 3

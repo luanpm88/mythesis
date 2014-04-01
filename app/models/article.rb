@@ -285,7 +285,7 @@ class Article < ActiveRecord::Base
       #create config file for one attribute
       
       config_str = "basedir=public/crf/#{infobox_template.name}/"
-      config_str += "\nnumlabels=7"
+      config_str += "\nnumlabels=5"
       config_str += "\ninname=#{attribute.name.gsub(/[\s\/]+/,'_')}"
       config_str += "\noutdir=#{attribute.name.gsub(/[\s\/]+/,'_')}"
       config_str += "\ndelimit=,	/ -():.;'?\#`&\"_"
@@ -294,13 +294,57 @@ class Article < ActiveRecord::Base
       File.open("public/crf/#{infobox_template.name}/#{attribute.name.gsub(/[\s\/]+/,'_')}.conf", "w") { |file| file.write  config_str}
       
       training_tr = ""
+      test_tr = ""
       attribute.attribute_sentences.each do |as|
-        training_tr += as.value + " -> " + as.content
+        
+        content = as.content.gsub(/\|/,'')
+        as.value = as.value.gsub(/\|/,'')
+        
+        parts = content.downcase.split(as.value.downcase)
+        parts[0].split(/\s+/).each do |term|
+          training_tr += term + " |1\n" if term.strip != ""
+        end
+        
+        as.value.downcase.split(/\s+/).each_with_index do |term,index|
+          count = as.value.downcase.split(/\s+/).count
+          if count == 1
+            post = "2"
+          else
+            post = "3"
+            if index == 0
+              post = "2"
+            end
+            if index == count-1
+              post = "4"
+            end
+          end          
+          
+          training_tr += term + " |#{post}\n"
+        end
+        
+        parts[1].split(/\s+/).each do |term|
+          training_tr += term + " |5\n" if term.strip != ""
+        end
+
+
         training_tr += "\n"
+        
+        test_tr += content.downcase.strip.gsub(as.value.downcase, " "+as.value.downcase+" ").gsub(/\s+/, " ") + "\n"
       end
       
       `mkdir public/crf/#{infobox_template.name}/data/#{attribute.name.gsub(/[\s\/]+/,'_')}`
       File.open("public/crf/#{infobox_template.name}/data/#{attribute.name.gsub(/[\s\/]+/,'_')}/#{attribute.name.gsub(/[\s\/]+/,'_')}.train.tagged", "w") { |file| file.write  training_tr}
+      File.open("public/crf/#{infobox_template.name}/data/#{attribute.name.gsub(/[\s\/]+/,'_')}/#{attribute.name.gsub(/[\s\/]+/,'_')}.test.tagged", "w") { |file| file.write  training_tr}
+      File.open("public/crf/#{infobox_template.name}/data/#{attribute.name.gsub(/[\s\/]+/,'_')}/#{attribute.name.gsub(/[\s\/]+/,'_')}.test.raw", "w") { |file| file.write  test_tr}
+    end
+  end
+  
+  def self.training_CRF
+    infobox_template = InfoboxTemplate.where(name: "university").first
+    
+    infobox_template.attributes.each do |attribute|
+      puts `java -cp lib/colt.jar:lib/CRF.jar:lib/CRF-Trove_3.0.2.jar:lib/LBFGS.jar:build:. iitb.Segment.Segment all -f public/crf/university/#{attribute.name.gsub(/[\s\/]+/,'_')}.conf`
+      sleep(5)
     end
   end
     

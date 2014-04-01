@@ -1,0 +1,156 @@
+58
+center 18 0:1
+los 26 1:1
+cultural 17 0:2
+at 13 0:1
+silver 14 0:2
+institutions 45 0:1
+public 37 0:1
+virginia 54 3:1
+universities 33 0:3
+women 31 0:1
+former 30 0:1
+exhibitor 4 0:1
+cinemas 22 0:1
+spring 19 0:1
+< 55 4:1
+center< 24 0:1
+md 20 0:1
+afi 9 0:2
+states< 35 0:1
+established 46 0:1
+schools< 51 0:1
+arclight 21 0:1
+theatre 15 0:1
+<p>as 0 0:1
+1908< 47 0:1
+, 8 0:3 1:1 2:1
+southern 50 0:1
+universities< 38 0:2
+colleges 34 0:5
+the 1 0:6
+in 5 0:7
+angeles 27 2:1
+<p><a>category 29 0:1
+american 40 0:1
+<a>skirball 23 0:1
+ca 28 3:1
+regularly 12 0:1
+a> 25 0:7
+harrisonburg 53 1:1
+of 42 0:2
+nonprofit 3 0:1
+by 49 0:1
+education 52 0:1
+accredited 48 0:1
+s 32 0:1
+p> 57 4:1
+and 16 0:8
+states 7 0:1
+screens 10 0:1
+educational 44 0:1
+association 41 0:2
+a>< 56 4:1
+films 11 0:1
+virginia< 39 0:1
+<a>category 36 0:6
+united 6 0:2
+largest 2 0:1
+state 43 0:1
+******* Features ************
+95
+W_universities<:1334:0 61
+R_isAllSmallCase:187:1 37
+R_containsSpecialCharacters:950:0 3
+E.0:182:1 34
+W_and:564:0 24
+R_isAllSmallCase:180:0 6
+W_in:179:0 10
+E.0:175:0 4
+W_state:1509:0 66
+W_s:1124:0 55
+W_arclight:739:0 29
+W_screens:354:0 18
+R_singlePunctuation:733:4 89
+R_isSpecialCharacter:348:4 88
+W_los:921:1 36
+W_accredited:1684:0 72
+W_public:1299:0 60
+E.4:343:4 91
+R_containsDigit:530:0 71
+W_harrisonburg:1866:1 77
+W_theatre:529:0 23
+R_singlePunctuation:719:2 46
+W_exhibitor:144:0 9
+R_singlePunctuation:712:1 82
+W_of:1474:0 65
+W_women:1089:0 54
+R_singlePunctuation:705:0 16
+W_md:704:0 28
+W_afi:319:0 17
+W_1908<:1649:0 70
+W_<a>category:1264:0 59
+W_p>:2027:4 94
+E.3:308:4 85
+W_a>:879:0 33
+W_silver:494:0 22
+W_nonprofit:109:0 8
+R_singleQuote:299:2 45
+W_,:298:2 43
+W_education:1824:0 76
+W_association:1439:0 64
+R_singleQuote:292:1 81
+W_,:291:1 79
+W_former:1054:0 53
+W_spring:669:0 27
+R_singleQuote:285:0 15
+W_,:284:0 13
+W_established:1614:0 69
+W_states<:1229:0 58
+W_a><:1992:4 92
+W_center<:844:0 32
+W_at:459:0 21
+E.2:266:3 47
+W_largest:74:0 7
+R_singleComma:264:2 44
+W_schools<:1789:0 75
+E.2:259:2 42
+W_american:1404:0 63
+R_singleComma:257:1 80
+W_<p><a>category:1019:0 52
+W_center:634:0 26
+R_singleComma:250:0 14
+W_states:249:0 12
+W_institutions:1579:0 68
+W_ca:1005:3 50
+W_colleges:1194:0 57
+W_<:1957:4 87
+W_<a>skirball:809:0 31
+W_regularly:424:0 20
+E.1:231:3 83
+W_the:39:0 5
+W_southern:1754:0 74
+E.1:224:2 38
+W_virginia<:1369:0 62
+U:31:4 86
+End.:30:4 93
+E.1:217:1 78
+W_cultural:599:0 25
+U:24:3 49
+R_containsSpecialCharacters:978:4 90
+End.:23:3 48
+W_united:214:0 11
+U:17:2 39
+W_educational:1544:0 67
+W_universities:1159:0 56
+U:10:1 35
+R_isAllSmallCase:201:3 51
+W_cinemas:774:0 30
+W_angeles:963:2 40
+W_films:389:0 19
+W_virginia:1915:3 84
+W_<p>as:4:0 2
+U:3:0 1
+R_isAllSmallCase:194:2 41
+S.:1:0 0
+W_by:1719:0 73

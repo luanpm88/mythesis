@@ -1,0 +1,77 @@
+25
+museum 5 0:1
+, 3 0:1 1:1
+<p><a>thumbright300px 0 0:1
+<a>thumbright300px 11 0:1
+DIGIT 19 1:2 4:1
+esplanade< 15 0:1
+state 17 0:1
+fashion 4 0:1
+ref 23 4:2
+lt 22 4:2
+main 12 0:1
+alumni 20 4:1
+as 21 4:1
+gt 24 4:2
+school 7 0:1
+of 8 0:1 4:1
+hall 2 0:1
+fashion< 9 0:1
+library 13 0:1
+a> 10 0:2
+kent 16 0:1
+counts 18 0:1
+via 14 0:1
+rockwell 1 0:1
+and 6 0:1
+******* Features ************
+49
+W_of:284:0 17
+W_kent:564:0 25
+E.0:182:1 28
+R_isAllSmallCase:180:0 7
+W_museum:179:0 14
+E.0:175:0 5
+W_library:459:0 22
+R_isAllCapital:173:4 44
+W_ref:837:4 46
+W_hall:74:0 8
+W_a>:354:0 19
+W_alumni:732:4 38
+R_singleComma:257:1 33
+W_counts:634:0 27
+R_singleComma:250:0 10
+W_school:249:0 16
+E.4:343:4 40
+R_isAllCapital:152:1 30
+R_containsDigit:530:0 3
+W_esplanade<:529:0 24
+W_fashion:144:0 13
+E.1:238:4 36
+R_singlePunctuation:712:1 35
+W_main:424:0 21
+W_lt:802:4 45
+R_singlePunctuation:705:0 12
+W_rockwell:39:0 6
+W_fashion<:319:0 18
+W_DIGIT:697:4 43
+U:31:4 37
+End.:30:4 48
+W_state:599:0 26
+W_of:312:4 42
+E.1:217:1 31
+W_and:214:0 15
+W_,:116:1 32
+W_via:494:0 23
+R_isAllSmallCase:208:4 39
+W_gt:872:4 47
+W_,:109:0 9
+W_DIGIT:676:1 29
+W_<a>thumbright300px:389:0 20
+W_as:767:4 41
+R_singleQuote:292:1 34
+W_<p><a>thumbright300px:4:0 2
+U:3:0 1
+S.:1:0 0
+R_singleQuote:285:0 11
+R_containsSpecialCharacters:950:0 4

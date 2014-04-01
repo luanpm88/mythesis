@@ -1,0 +1,342 @@
+148
+traditions 93 4:1
+rochester 96 0:1 1:1
+asp 116 4:1
+than 40 0:2
+id=66< 127 4:1
+such 52 4:1
+into 38 0:1
+kilometres 137 0:1
+$75 67 0:1
+24893< 51 4:1
+style 75 0:1
+hall 129 4:1
+as< 53 4:1
+<p>for 94 0:1
+[<a> 25 0:2
+living 21 0:1
+improvement 59 0:1
+name= 88 0:1
+edu 29 0:1 1:5
+favorite 92 4:1
+is 35 0:1
+in 18 0:2
+which 69 0:1
+detail 115 4:1
+square 136 0:1
+the 9 0:9 4:1
+was 16 0:1
+war 128 4:1
+php 126 4:1
+information 95 0:1
+unb 120 1:1
+seattleu 112 1:1
+aboutus 101 4:1
+arts 78 0:1
+summer 56 0:1
+will 70 0:1
+student 73 0:1 4:1
+to 8 0:5
+some 140 0:1
+center 1 0:2
+may 24 0:1
+please 99 0:1
+three 135 0:1
+a>] 32 4:2
+gt 83 0:5 4:5
+history 97 0:1 4:1
+DIGIT 15 0:9
+switched 105 0:1
+go 100 0:1
+centres 44 0:1
+shootings< 12 0:1
+institutes 41 0:1
+html< 87 4:3
+academic 79 0:1
+life 91 4:1
+se 47 1:1
+memorial 22 0:1 4:1
+also 36 0:1
+a>< 102 4:1
+transitioned 109 0:1
+<a> 84 0:6
+and 42 0:4
+x2014 66 0:2
+www 27 1:8
+lunduniversity 45 1:1
+building 80 0:1
+news 114 4:3
+elid=521200210924< 119 4:1
+amp 118 4:1
+new 72 0:1
+southwest 142 0:1
+ref 82 0:4 4:5
+<li>the 0 0:1
+housing 76 0:1
+kent 28 1:1
+response 7 0:1
+include 71 0:1
+change 4 0:1
+about 144 4:1
+beautiful 138 0:1
+more 39 0:3
+<p>the 130 0:1
+uiu 85 1:1
+quot 19 0:4
+broke 61 0:1
+kilometers 141 0:1
+liberal 77 0:1
+state 11 0:1
+show 125 4:1
+<p>lund 33 0:1
+<a>kent 10 0:1
+elyear=2000 117 4:1
+s 50 0:1 4:1
+established 17 0:1
+o 48 4:2
+ground 62 0:1
+maroons 107 0:1
+i 49 4:1
+capital 58 0:1 4:1
+on 63 0:3
+ca 121 1:1
+peaceful 3 0:1
+jos 146 4:1
+largest 57 0:1
+a 6 0:4
+of 14 0:5 4:1
+welcome 122 4:1
+fayette 64 0:1
+cacm 30 4:1
+p> 54 4:5
+sits 134 0:1
+for 2 0:1
+from 106 0:1
+http 26 1:8
+upeace 133 0:1 1:1
+x00e9 147 4:1
+project 60 0:1
+suite 74 0:1
+fredericton 124 4:1
+million 68 0:1
+apply 90 4:1
+organised 37 0:1
+during 55 0:1
+< 31 4:6
+reed 89 0:1 1:1
+as 20 0:1
+its 110 0:1
+land 139 0:1
+maps 123 4:1
+, 5 0:8 4:2
+research 43 0:1
+<a>san 145 4:1
+distinctions 98 0:1
+home 113 4:1
+events 23 0:1 4:1
+costa 131 0:1
+redhawks 111 0:1
+lu 46 1:1
+lt 81 0:4 4:5
+newhomepage 86 4:1
+mascot 104 0:2
+chieftains 108 0:1
+campus 65 0:2 4:1
+rica 132 0:1
+university 34 0:3
+a> 13 0:1 4:6
+org 143 1:1
+<p>in 103 0:1
+******* Features ************
+191
+W_unb:4211:1 157
+W_southwest:4974:0 180
+W_costa:4589:0 169
+W_transitioned:3819:0 145
+W_distinctions:3434:0 132
+W_elid=521200210924<:4197:4 156
+W_housing:2664:0 102
+W_campus:2279:0 90
+W_history:3427:4 137
+W_newhomepage:3042:4 112
+W_research:1509:0 64
+W_living:739:0 30
+W_as<:1887:4 78
+W_<a>kent:354:0 18
+W_<:1117:4 48
+R_singlePunctuation:733:4 50
+R_isSpecialCharacter:348:4 49
+W_the:347:4 186
+W_kilometers:4939:0 179
+E.4:343:4 47
+W_<p>the:4554:0 168
+W_chieftains:3784:0 144
+W_history:3399:0 131
+W_hall:4547:4 167
+W_amp:4162:4 155
+W_style:2629:0 101
+W_fayette:2244:0 89
+W_and:1474:0 63
+R_singlePunctuation:705:0 13
+W_as:704:0 29
+W_such:1852:4 77
+W_the:319:0 17
+W_cacm:1082:4 45
+R_singleQuote:313:4 76
+W_some:4904:0 178
+W_rochester:3371:1 135
+W_uiu:2986:1 111
+W_maroons:3749:0 143
+W_rochester:3364:0 129
+W_war:4512:4 165
+W_elyear=2000:4127:4 154
+W_suite:2594:0 100
+W_on:2209:0 88
+W_institutes:1439:0 62
+W_student:2587:4 123
+W_quot:669:0 28
+R_singleQuote:285:0 12
+W_24893<:1817:4 72
+W_to:284:0 16
+R_singleComma:278:4 75
+W_land:4869:0 177
+W_from:3714:0 142
+W_information:3329:0 128
+W_id=66<:4477:4 164
+W_<a>:2944:0 110
+W_asp:4092:4 153
+W_student:2559:0 99
+W_edu:1026:1 42
+W_ground:2174:0 87
+W_gt:2937:4 117
+W_than:1404:0 61
+W_edu:1019:0 120
+W_in:634:0 27
+R_singleComma:250:0 11
+W_s:1782:4 71
+W_response:249:0 15
+W_beautiful:4834:0 176
+E.1:238:4 43
+W_switched:3679:0 141
+W_<p>for:3294:0 127
+W_php:4442:4 163
+W_gt:2909:0 109
+W_detail:4057:4 152
+W_new:2524:0 98
+W_kent:991:1 41
+W_broke:2139:0 86
+W_traditions:3287:4 126
+W_s:1754:0 130
+W_ref:2902:4 116
+W_more:1369:0 60
+E.1:217:1 38
+W_established:599:0 26
+W_i:1747:4 70
+W_a:214:0 14
+R_containsSpecialCharacters:978:4 51
+R_isAllSmallCase:208:4 46
+W_,:207:4 74
+W_kilometres:4799:0 175
+W_x00e9:5177:4 190
+W_mascot:3644:0 140
+W_show:4407:4 162
+W_ref:2874:0 108
+W_news:4022:4 150
+W_include:2489:0 97
+W_www:956:1 39
+W_project:2104:0 85
+W_favorite:3252:4 125
+R_isAllSmallCase:187:1 37
+W_lt:2867:4 115
+W_into:1334:0 59
+R_containsSpecialCharacters:950:0 3
+E.0:182:1 35
+W_was:564:0 25
+R_isAllSmallCase:180:0 6
+W_o:1712:4 69
+W_,:179:0 10
+E.0:175:0 4
+R_containsDigit:558:4 73
+W_square:4764:0 174
+W_jos:5142:4 189
+W_<p>in:3609:0 139
+W_fredericton:4372:4 161
+W_lt:2839:0 107
+W_home:3987:4 149
+W_will:2454:0 96
+W_http:921:1 36
+W_a><:3602:4 138
+W_improvement:2069:0 84
+W_life:3217:4 124
+W_organised:1299:0 58
+W_capital:2062:4 187
+R_containsDigit:530:0 92
+W_DIGIT:529:0 23
+R_isAllCapital:145:0 24
+W_change:144:0 9
+W_of:522:4 185
+W_three:4729:0 173
+W_<a>san:5107:4 188
+W_maps:4337:4 160
+W_se:1656:1 68
+W_building:2804:0 106
+W_which:2419:0 95
+W_aboutus:3567:4 136
+W_capital:2034:0 83
+W_apply:3182:4 122
+W_also:1264:0 57
+W_[<a>:879:0 34
+W_of:494:0 22
+W_peaceful:109:0 8
+W_a>:487:4 114
+W_seattleu:3931:1 148
+W_sits:4694:0 172
+W_about:5072:4 183
+W_welcome:4302:4 159
+W_lu:1621:1 67
+W_academic:2769:0 105
+W_million:2384:0 94
+W_largest:1999:0 82
+W_is:1229:0 56
+W_may:844:0 33
+W_a>:459:0 21
+W_for:74:0 7
+W_events:837:4 151
+W_upeace:4666:1 181
+W_upeace:4659:0 171
+W_reed:3126:1 121
+W_redhawks:3889:0 147
+W_go:3504:0 134
+W_reed:3119:0 119
+W_lunduniversity:1586:1 66
+W_arts:2734:0 104
+W_$75:2349:0 93
+W_summer:1964:0 81
+W_university:1194:0 55
+W_events:809:0 32
+W_shootings<:424:0 20
+W_center:39:0 5
+W_org:5016:1 182
+W_memorial:802:4 166
+W_ca:4246:1 158
+U:31:4 44
+End.:30:4 52
+W_rica:4624:0 170
+W_its:3854:0 146
+W_please:3469:0 133
+W_name=:3084:0 118
+W_liberal:2699:0 103
+W_x2014:2314:0 91
+W_during:1929:0 80
+W_html<:3077:4 113
+W_centres:1544:0 65
+U:10:1 40
+W_<p>lund:1159:0 54
+W_campus:2307:4 184
+W_memorial:774:0 31
+W_p>:1922:4 79
+W_state:389:0 19
+W_<li>the:4:0 2
+U:3:0 1
+W_a>]:1152:4 53
+S.:1:0 0

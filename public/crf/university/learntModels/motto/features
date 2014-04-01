@@ -1,0 +1,89 @@
+30
+athletics 27 0:1
+, 15 4:2
+motto 3 0:2
+sun 18 4:1
+sol 11 1:1
+fights 29 3:1
+nos 14 3:1
+college 1 0:2
+is 4 0:3
+rallying 24 0:1
+us 23 4:1
+university 10 0:1
+cheer 25 0:1
+justice 20 4:1
+<p>the 9 0:1
+the 0 0:2
+illustra 13 2:1
+which 16 4:1
+s 2 0:2
+always 28 2:1
+of 19 0:1 4:1
+labor 8 3:1
+wabash 26 0:1 1:1
+iustitiae 12 2:1
+upon 22 4:1
+shine 21 4:1
+learning 6 1:1
+quot 5 0:3 4:5
+means 17 4:1
+and 7 2:1
+******* Features ************
+56
+W_athletics:949:0 52
+W_illustra:473:2 32
+W_sun:662:4 42
+R_isAllSmallCase:187:1 12
+W_fights:1040:3 55
+R_singleComma:278:4 35
+E.0:182:1 9
+R_isAllSmallCase:180:0 2
+W_rallying:844:0 48
+W_quot:179:0 8
+W_,:557:4 34
+E.0:175:0 3
+W_us:837:4 47
+E.2:266:3 17
+W_s:74:0 5
+W_and:263:2 15
+E.2:259:2 31
+W_university:354:0 28
+R_singlePunctuation:733:4 37
+W_justice:732:4 44
+W_wabash:921:1 53
+W_wabash:914:0 51
+E.4:343:4 38
+W_iustitiae:438:2 30
+W_means:627:4 41
+W_is:144:0 7
+W_always:998:2 54
+W_upon:802:4 46
+W_nos:515:3 33
+W_college:39:0 4
+E.1:224:2 13
+W_<p>the:319:0 26
+W_of:697:4 43
+U:31:4 39
+W_learning:221:1 11
+End.:30:4 22
+R_singleQuote:313:4 36
+W_cheer:879:0 49
+U:24:3 18
+E.3:308:4 21
+W_which:592:4 40
+W_labor:305:3 19
+R_isAllSmallCase:208:4 24
+U:17:2 14
+W_quot:207:4 23
+W_sol:396:1 29
+W_motto:109:0 6
+R_isAllSmallCase:201:3 20
+U:10:1 10
+W_shine:767:4 45
+W_of:669:0 50
+W_the:4:0 1
+R_isAllSmallCase:194:2 16
+U:3:0 25
+S.:1:0 0
+R_containsSpecialCharacters:950:0 27

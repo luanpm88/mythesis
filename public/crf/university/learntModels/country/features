@@ -1,0 +1,262 @@
+109
+melbourne< 48 4:2
+studies< 101 0:1
+<a>aggie 65 0:1
+their 0 0:1
+murdered 3 0:1
+<a>category 45 0:6 4:5
+rica 103 3:1
+settled 26 4:1
+usa 13 1:1
+friends 81 0:1
+students 58 0:1
+for 15 0:1 4:2
+conflict 100 0:1
+mount 10 0:1
+li> 88 4:1
+undisclosed 35 4:1
+de 14 4:1
+institutions 106 4:1
+events 61 0:1
+odense< 75 0:1
+costa 102 1:1
+assembly 92 0:1
+colleges 50 4:1
+daughter 1 0:1
+cr 12 0:1
+training 43 4:1
+davis 57 0:1
+amount 36 4:1
+spirit 71 0:1
+is 2 0:1
+midshipmen< 85 4:1
+in 47 0:3 4:3
+u 82 1:1
+1980< 108 4:1
+s 24 1:1 4:1
+points 79 0:1
+n 39 4:1
+grieving 8 0:1
+parents 9 0:2 4:1
+with 32 4:1
+general 91 0:1
+association 51 4:1
+of 30 0:2 4:2
+student 68 0:1
+court 31 4:1
+safety< 17 4:1
+nations 90 0:2
+education 41 4:1
+a 11 0:1 4:1
+uc 56 0:1
+ref 20 4:1
+p> 55 4:3
+rally 63 0:1
+relations< 98 0:1
+<p><a>category 37 0:2
+gather 59 0:1
+DIGIT 87 4:1
+a>< 54 4:3
+and 42 0:2 4:1
+to 62 0:1
+<p> 89 0:1
+education< 104 4:1
+pack< 66 0:1
+at 4 0:2
+schools 96 0:1
+organs< 94 0:1
+as 64 0:1
+established 107 4:1
+gt 21 4:1
+largest 67 0:1
+an 34 0:1 4:1
+< 77 4:3
+suit 28 4:1
+college 5 0:1
+universities< 53 4:1
+commonwealth 52 4:1
+united 73 0:2 1:1
+australia 38 1:1
+her 7 0:1
+, 6 0:2
+<em>brief 78 0:1
+civil 27 4:1
+naval 83 4:1
+vocational 40 4:1
+then 25 4:1
+em> 86 4:1
+sporting 60 0:1
+almanac 80 0:1
+university 33 4:1
+run 69 0:1
+schools< 95 0:1
+lt 19 4:1
+peace 99 0:1 4:1
+campus 16 4:1
+international 97 0:1
+tafe 49 4:1
+out 29 4:1
+a> 18 0:6 4:6
+school 70 0:1
+denmark 76 1:1
+the 22 0:3 4:2
+universities 46 0:2 4:1
+victim 23 4:1
+subsidiary 93 0:1
+academy 84 4:1
+educational 105 4:1
+providers< 44 4:1
+states 74 3:1
+organization 72 0:1
+******* Features ************
+150
+W_denmark:2671:1 104
+W_relations<:3434:0 136
+W_1980<:3812:4 148
+W_<a>aggie:2279:0 85
+W_em>:3042:4 122
+W_universities<:1887:4 72
+W_mount:354:0 17
+W_and:1502:4 61
+W_court:1117:4 48
+R_singlePunctuation:733:4 107
+W_ref:732:4 35
+R_isSpecialCharacter:348:4 106
+W_parents:347:4 40
+E.4:343:4 28
+W_international:3399:0 135
+W_odense<:2629:0 101
+W_established:3777:4 147
+W_as:2244:0 83
+W_midshipmen<:3007:4 121
+W_and:1474:0 113
+R_singlePunctuation:705:0 13
+W_commonwealth:1852:4 71
+W_parents:319:0 16
+W_education:1467:4 60
+W_states:2615:3 99
+W_of:1082:4 47
+W_lt:697:4 34
+E.3:308:4 142
+W_schools:3364:0 134
+W_institutions:3742:4 146
+W_rally:2209:0 82
+W_academy:2972:4 120
+W_of:1054:0 115
+R_singleQuote:285:0 12
+W_association:1817:4 70
+W_grieving:284:0 15
+W_vocational:1432:4 59
+W_out:1047:4 46
+W_a>:662:4 33
+W_united:2566:1 95
+W_schools<:3329:0 133
+W_united:2559:0 127
+W_educational:3707:4 145
+W_to:2174:0 81
+W_naval:2937:4 119
+W_a>:634:0 87
+R_singleComma:250:0 11
+W_colleges:1782:4 69
+W_her:249:0 14
+W_n:1397:4 58
+W_suit:1012:4 45
+W_safety<:627:4 31
+E.1:238:4 24
+E.1:231:3 96
+W_organs<:3294:0 132
+W_organization:2524:0 93
+W_education<:3672:4 144
+W_events:2139:0 80
+E.1:217:1 117
+W_tafe:1747:4 68
+W_,:214:0 10
+R_containsSpecialCharacters:978:4 32
+W_civil:977:4 44
+W_campus:592:4 30
+R_isAllSmallCase:208:4 27
+R_isAllSmallCase:201:3 100
+W_u:2881:1 116
+W_subsidiary:3259:0 131
+W_australia:1341:1 57
+W_spirit:2489:0 92
+W_sporting:2104:0 79
+R_isAllSmallCase:187:1 23
+R_containsSpecialCharacters:950:0 56
+W_rica:3630:3 141
+E.0:182:1 20
+R_isAllSmallCase:180:0 3
+W_melbourne<:1712:4 67
+W_college:179:0 9
+W_settled:942:4 42
+R_containsDigit:558:4 149
+E.0:175:0 4
+W_for:557:4 29
+R_isAllCapital:173:4 124
+W_assembly:3224:0 130
+W_friends:2839:0 114
+W_school:2454:0 91
+W_gather:2069:0 78
+W_<p><a>category:1299:0 55
+W_for:529:0 112
+W_in:1677:4 66
+W_at:144:0 8
+W_amount:1292:4 54
+W_then:907:4 41
+W_de:522:4 26
+W_costa:3581:1 140
+W_general:3189:0 129
+W_almanac:2804:0 111
+W_run:2419:0 90
+W_students:2034:0 77
+W_in:1649:0 94
+W_universities:1642:4 65
+W_murdered:109:0 7
+W_undisclosed:1257:4 52
+W_s:872:4 39
+W_studies<:3539:0 139
+W_nations:3154:0 128
+W_points:2769:0 109
+W_student:2384:0 89
+W_s:851:1 118
+W_davis:1999:0 76
+W_usa:466:1 22
+W_universities:1614:0 103
+W_<a>category:1607:4 64
+W_is:74:0 6
+W_an:1222:4 51
+W_victim:837:4 38
+W_conflict:3504:0 138
+W_<p>:3119:0 126
+W_<em>brief:2734:0 108
+W_largest:2349:0 88
+W_peace:3497:4 143
+W_uc:1964:0 75
+W_li>:3112:4 125
+W_<a>category:1579:0 102
+W_<:2727:4 105
+W_an:1194:0 110
+W_p>:1957:4 74
+W_cr:424:0 19
+W_providers<:1572:4 63
+W_daughter:39:0 5
+W_university:1187:4 50
+W_the:802:4 37
+W_a:417:4 43
+U:31:4 25
+End.:30:4 53
+U:24:3 98
+End.:23:3 97
+W_peace:3469:0 137
+W_pack<:2314:0 86
+W_DIGIT:3077:4 123
+U:10:1 21
+W_the:774:0 84
+W_a><:1922:4 73
+W_a:389:0 18
+W_training:1537:4 62
+W_their:4:0 2
+U:3:0 1
+W_with:1152:4 49
+S.:1:0 0
+W_gt:767:4 36

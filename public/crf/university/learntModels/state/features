@@ -1,0 +1,89 @@
+31
+, 16 0:1 4:1
+<p><a>bg 0 0:1
+x0439 9 0:1
+x0438 4 0:6
+francisco< 27 4:1
+x043e 6 0:2
+x0435 14 0:2
+x043d 8 0:4
+x043b 3 0:1
+x0432 13 0:1
+x043a 11 0:2
+san 26 4:1
+california 25 1:1
+x0430 2 0:3
+university 23 0:1
+x0446 19 0:1
+x0444 5 0:1
+x041a 1 0:1
+x0443 12 0:1
+x0442 15 0:2
+universidad 29 4:1
+of 24 0:1
+x0441 10 0:3
+x0440 7 0:3
+<a>de 22 0:1
+<a>es 28 4:1
+a> 21 0:1 4:1
+< 20 0:1
+x0424 18 0:1
+de 30 4:1
+x0421 17 0:1
+******* Features ************
+55
+W_x043d:284:0 13
+R_isAllSmallCase:187:1 38
+W_,:564:0 21
+R_singleComma:278:4 41
+W_san:942:4 46
+E.0:182:1 35
+R_isAllSmallCase:180:0 33
+W_x0444:179:0 10
+W_of:844:0 34
+E.0:175:0 4
+W_x0432:459:0 18
+W_x0430:74:0 7
+W_a>:739:0 30
+W_x0441:354:0 15
+R_singlePunctuation:733:4 43
+W_x0424:634:0 26
+W_<a>es:1012:4 51
+R_singleComma:250:0 22
+W_x0440:249:0 12
+E.4:343:4 44
+R_containsDigit:530:0 6
+W_x0442:529:0 20
+W_x0438:144:0 9
+W_university:809:0 32
+E.1:238:4 39
+W_x0443:424:0 17
+R_singlePunctuation:705:0 24
+W_x041a:39:0 5
+W_<:704:0 28
+W_de:1082:4 54
+R_isSpecialCharacter:320:0 29
+W_x0439:319:0 14
+U:31:4 45
+W_california:886:1 37
+End.:30:4 53
+W_x0421:599:0 25
+R_containsSpecialCharacters:978:4 49
+R_singleQuote:313:4 42
+W_francisco<:977:4 48
+W_x043e:214:0 11
+W_,:592:4 40
+W_x0435:494:0 19
+R_isAllSmallCase:208:4 47
+W_x043b:109:0 8
+W_<a>de:774:0 31
+U:10:1 36
+W_x043a:389:0 16
+W_a>:767:4 50
+W_<p><a>bg:4:0 2
+W_x0446:669:0 27
+U:3:0 1
+W_universidad:1047:4 52
+S.:1:0 0
+R_singleQuote:285:0 23
+R_containsSpecialCharacters:950:0 3

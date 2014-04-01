@@ -1,0 +1,55 @@
+17
+, 3 1:2
+gt 16 4:2
+<p>williams 0 0:1
+ref 10 4:3
+time 13 0:1
+graduate 7 4:1
+lt 9 4:3
+DIGIT 2 1:4 4:2
+is 15 0:1
+and 6 4:1
+full 12 0:1
+enrolled 1 0:1
+current 11 0:1
+students 5 4:3
+in 8 4:1
+enrollment 14 0:1
+undergraduate 4 4:1
+******* Features ************
+35
+W_graduate:277:4 24
+E.0:182:1 7
+W_enrolled:39:0 5
+R_isAllSmallCase:180:0 6
+W_time:459:0 31
+W_DIGIT:81:1 8
+E.0:175:0 4
+R_isAllCapital:173:4 23
+W_undergraduate:172:4 17
+U:31:4 16
+End.:30:4 27
+W_in:312:4 25
+E.1:217:1 10
+W_gt:592:4 34
+W_enrollment:494:0 32
+W_,:116:1 11
+R_singleComma:257:1 12
+R_isAllSmallCase:208:4 18
+W_students:207:4 20
+W_lt:347:4 26
+E.4:343:4 19
+W_current:389:0 29
+W_is:529:0 33
+R_isAllCapital:152:1 9
+R_containsSpecialCharacters:950:0 3
+R_singleQuote:292:1 13
+W_DIGIT:102:4 22
+W_and:242:4 21
+R_singlePunctuation:712:1 14
+W_ref:382:4 28
+W_<p>williams:4:0 2
+U:3:0 1
+E.1:238:4 15
+W_full:424:0 30
+S.:1:0 0

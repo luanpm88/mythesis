@@ -1,0 +1,102 @@
+38
+we 26 0:1
+degrees 15 4:1
+graduating 18 4:1
+catholic 30 3:1
+jesuit 29 1:1
+community 37 4:1
+from 19 4:2
+<p>the 0 0:1
+treasure 27 0:1
+many 35 4:1
+was 9 4:1
+established 10 4:1
+DIGIT 12 4:1
+founding 22 4:1
+<a>st 24 4:1
+ethos 31 4:1
+is 4 0:1
+university 1 0:1 4:2
+colleges 23 4:1
+the 33 4:1
+in 11 4:1
+enrichment 34 4:1
+manitoba 3 0:1
+faiths 36 4:1
+on 16 4:1
+of 2 0:1 4:1
+that 8 4:1
+three 21 4:1
+our 28 0:1 4:1
+its 20 4:1
+faith 25 0:1
+and 32 4:1
+denominational 7 1:1
+non 6 1:1
+confer 14 4:1
+students 17 4:1
+a 5 0:1
+to 13 4:1
+******* Features ************
+61
+W_treasure:949:0 44
+W_community:1327:4 60
+W_graduating:662:4 33
+R_isAllSmallCase:187:1 14
+E.0:182:1 11
+R_isAllSmallCase:180:0 6
+W_a:179:0 10
+W_enrichment:1222:4 55
+W_degrees:557:4 30
+E.0:175:0 4
+R_isAllCapital:173:4 27
+W_colleges:837:4 38
+W_jesuit:1026:1 46
+W_of:74:0 7
+W_ethos:1117:4 52
+W_DIGIT:452:4 26
+W_its:732:4 35
+W_university:67:4 18
+W_denominational:256:1 16
+W_our:1012:4 59
+W_was:347:4 23
+W_we:914:0 43
+E.4:343:4 20
+W_faiths:1292:4 57
+W_students:627:4 32
+W_is:144:0 9
+E.1:238:4 17
+W_the:1187:4 54
+W_confer:522:4 29
+W_founding:802:4 37
+E.1:231:3 47
+W_university:39:0 5
+W_in:417:4 25
+W_our:984:0 45
+W_from:697:4 34
+U:31:4 21
+W_non:221:1 13
+W_catholic:1075:3 49
+End.:30:4 39
+R_containsSpecialCharacters:978:4 41
+E.1:217:1 15
+W_that:312:4 22
+U:24:3 48
+W_faith:879:0 42
+E.3:308:4 51
+W_many:1257:4 56
+W_on:592:4 31
+R_isAllSmallCase:208:4 19
+W_<a>st:872:4 40
+W_manitoba:109:0 8
+W_and:1152:4 53
+W_to:487:4 28
+R_isAllSmallCase:201:3 50
+U:10:1 12
+W_of:102:4 58
+W_three:767:4 36
+W_<p>the:4:0 2
+U:3:0 1
+W_established:382:4 24
+S.:1:0 0
+R_containsSpecialCharacters:950:0 3

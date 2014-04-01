@@ -1,0 +1,439 @@
+194
+wales 139 4:1
+owner 59 4:1
+brought 72 0:1
+exercise 46 0:1
+rural 121 0:1
+later 140 0:1
+that 127 0:1
+engineering 161 4:2
+<a>buffalo 55 0:1
+both 83 0:1
+into 157 4:1
+named 129 0:1 1:1
+newspaper 41 1:1
+<a>wunderground< 35 0:1
+immediate 96 0:1
+publications 17 0:1
+golfer< 51 4:1
+ranging 24 0:1
+university< 153 4:1
+are 175 4:1
+roads 174 4:1
+against 151 4:2
+satirical 40 0:1
+philanthropist 69 4:1
+divisions 159 4:1
+<a>billionaire< 62 4:1
+it 125 0:1
+is 155 4:5
+run 39 0:1
+york 73 0:1
+put 92 0:1
+alumni 33 0:1
+in 26 0:5 4:2
+after 111 0:1 3:1
+daily< 143 0:1
+which 79 0:2
+<a>lachlan 130 4:1
+minnesota 183 4:1
+the 20 0:9 4:8
+was 116 0:3
+prammanasudh< 44 0:1
+<a>paul 65 4:1
+magazines 34 0:1
+wilson< 61 4:1
+decided 126 0:1
+metropolitan 100 0:1
+arts 168 4:1
+<li><a>official 0 0:1
+college 154 4:3
+a>s 30 0:1
+student 38 0:1
+hutchinson 109 0:1
+to 31 0:4
+macquarie< 131 4:1
+north 123 0:1
+submission 93 0:1
+first 169 4:2
+li> 7 4:2
+invented 193 4:1
+iowa 166 4:1
+part 122 0:1
+gt 105 0:2 4:4
+name 70 0:2
+future 114 0:2
+performance 150 4:1
+mansfield 108 0:1
+DIGIT 49 0:2 4:9
+computer< 191 4:1
+sports 4 1:2 4:1
+trader 64 4:1
+this 87 0:1
+agricultural 170 4:1
+nickname 146 1:1
+tour< 54 4:1
+south 138 4:1
+laboratory 185 4:1
+liberality 106 0:1
+semi 120 0:1
+other 16 0:2
+<a>ralph 60 4:1
+abc 192 4:1
+single 81 0:1
+<a>jack 178 4:1
+also 18 0:2
+a>< 6 4:2
+<a>veishea< 177 4:1
+early 134 4:1
+x2019 102 0:1
+x2018 95 0:1
+and 58 0:2 4:5
+tudor 66 4:1
+world 172 4:1
+x2013 189 4:1
+commodity 63 4:1
+campuses 10 3:1
+debate 113 0:1
+<a>iowa 141 0:1
+amp 47 0:1
+new 137 4:1
+important 133 4:1
+medicine 164 4:1
+ref 104 0:2 4:4
+<a>northwestern 152 4:1
+renamed 165 4:1
+enquiry 88 0:1
+noted 68 4:1
+area 101 0:1
+opportunity 107 0:1
+team 145 0:1
+house 27 0:1
+location 115 0:1
+bills< 56 0:1
+change 71 0:1
+<a>university 90 0:1
+serve 19 0:1
+<li><a>stacy 43 0:1
+their 149 4:1
+establish 98 0:1
+philosophy 162 4:1
+quot 158 4:2
+selected 117 0:1
+berry 190 4:1
+with 75 0:1
+teams 85 3:1
+state 142 0:1 4:1
+what 118 0:1
+<a>atanasoff 188 4:1
+u 186 4:1
+s 187 4:1
+canadian 77 0:1
+established 173 4:3
+cyclones 148 4:1
+p 110 0:1
+program 171 4:1
+then 119 0:1
+website< 5 4:1
+on 52 4:1
+d 147 4:1
+club 3 4:1
+ryde 124 0:1
+a 13 0:6 4:1
+of 15 0:6 4:3
+much 112 0:1
+bs 45 0:1
+trice< 179 4:1
+p> 42 4:2
+founder 57 1:1
+line 74 0:1
+variety 14 0:1
+for 82 0:1 4:1
+governor 135 4:1
+from 25 0:1
+be 128 0:2
+statistics 184 4:1
+sydney< 91 0:1
+92% 76 0:1
+h2> 12 4:1
+<h2> 8 0:1
+during 86 0:1 4:1
+< 11 4:3
+game 182 4:1
+use 80 0:1
+an 132 4:1
+universities 78 0:1
+<a>academic 28 0:1
+football 144 0:1 4:1
+colony 136 4:1
+satellite 9 1:1
+third 99 0:1
+, 23 0:7 4:7
+sexes 84 0:1
+highlighted 94 0:1
+athletics 1 1:1
+paved 176 4:1
+veterinary 163 4:1
+<a>lpga 53 4:1
+including 2 4:1
+community 22 0:1
+journal< 29 0:1
+science 48 4:2
+lt 103 0:2 4:4
+divided 156 4:1
+senate 89 0:1
+mortally 180 4:1
+agriculture 160 4:2
+glossy 32 0:1
+jones< 67 4:1
+mechanic 167 4:1
+campus 37 0:2
+need 97 0:1
+university 21 0:4
+a> 36 0:5 4:9
+<a>professional 50 4:1
+injured 181 4:1
+******* Features ************
+242
+W_laboratory:6507:4 233
+W_state:4974:0 181
+W_roads:6122:4 219
+W_veterinary:5737:4 203
+W_campuses:375:3 25
+W_semi:4204:0 156
+W_<a>northwestern:5352:4 192
+W_hutchinson:3819:0 143
+W_establish:3434:0 131
+W_<a>lachlan:4582:4 167
+W_this:3049:0 120
+W_92%:2664:0 108
+W_during:3042:4 227
+W_<li><a>stacy:1509:0 68
+W_glossy:1124:0 57
+W_trader:2272:4 96
+W_university:739:0 43
+W_<a>lpga:1887:4 85
+W_p>:1502:4 67
+R_singlePunctuation:733:4 30
+W_the:732:4 84
+R_isSpecialCharacter:348:4 29
+W_statistics:6472:4 232
+W_<a>iowa:4939:0 180
+E.4:343:4 12
+W_established:6087:4 218
+W_philosophy:5702:4 202
+W_then:4169:0 155
+W_against:5317:4 191
+W_mansfield:3784:0 141
+W_need:3399:0 130
+W_during:3014:0 119
+W_with:2629:0 107
+W_satellite:326:1 22
+W_to:1089:0 56
+R_singlePunctuation:705:0 48
+W_commodity:2237:4 95
+W_the:704:0 42
+W_on:1852:4 83
+W_teams:3000:3 118
+W_named:4526:1 165
+R_singleQuote:313:4 77
+W_minnesota:6437:4 231
+W_later:4904:0 178
+E.3:308:4 27
+W_world:6052:4 217
+W_named:4519:0 179
+W_engineering:5667:4 201
+W_what:4134:0 154
+W_performance:5282:4 190
+W_opportunity:3749:0 140
+W_wales:4897:4 177
+W_immediate:3364:0 129
+W_newspaper:1446:1 66
+W_line:2594:0 106
+W_a>s:1054:0 55
+W_<a>billionaire<:2202:4 94
+W_serve:669:0 41
+R_singleQuote:285:0 47
+W_golfer<:1817:4 81
+W_<h2>:284:0 20
+R_singleComma:278:4 76
+W_li>:277:4 19
+W_invented:6787:4 241
+W_game:6402:4 230
+W_program:6017:4 215
+W_be:4484:0 164
+W_agriculture:5632:4 200
+W_selected:4099:0 153
+W_their:5247:4 189
+W_liberality:3714:0 139
+W_south:4862:4 176
+W_x2018:3329:0 128
+W_sexes:2944:0 116
+W_york:2559:0 105
+W_gt:3707:4 212
+W_satirical:1404:0 65
+W_journal<:1019:0 54
+W_wilson<:2167:4 93
+W_also:634:0 40
+R_singleComma:250:0 46
+W_<a>professional:1782:4 80
+W_a><:242:4 17
+W_abc:6752:4 240
+W_injured:6367:4 226
+E.1:238:4 8
+W_agricultural:5982:4 214
+W_that:4449:0 163
+W_divisions:5597:4 199
+W_was:4064:0 152
+W_cyclones:5212:4 187
+W_gt:3679:0 138
+W_new:4827:4 175
+E.1:231:3 23
+W_highlighted:3294:0 127
+W_both:2909:0 115
+W_brought:2524:0 104
+W_ref:3672:4 211
+W_for:2902:4 188
+W_run:1369:0 64
+W_<a>academic:984:0 53
+W_<a>ralph:2132:4 92
+W_publications:599:0 39
+W_DIGIT:1747:4 78
+R_containsSpecialCharacters:978:4 16
+R_isAllSmallCase:208:4 11
+W_website<:207:4 15
+W_computer<:6717:4 239
+W_mortally:6332:4 225
+W_first:5947:4 213
+W_decided:4414:0 162
+R_isAllSmallCase:201:3 26
+W_quot:5562:4 198
+W_location:4029:0 151
+W_d:5177:4 186
+W_ref:3644:0 137
+W_colony:4792:4 174
+W_submission:3259:0 126
+W_for:2874:0 114
+W_change:2489:0 103
+W_lt:3637:4 210
+W_DIGIT:1719:0 145
+R_isAllSmallCase:187:1 7
+W_student:1334:0 63
+R_containsSpecialCharacters:950:0 3
+W_house:949:0 52
+E.0:182:1 4
+W_owner:2097:4 91
+W_other:564:0 38
+R_isAllSmallCase:180:0 34
+W_science:1712:4 74
+W_in:942:4 216
+E.0:175:0 35
+R_containsDigit:558:4 32
+W_of:557:4 173
+R_isAllCapital:173:4 79
+W_sports:172:4 14
+W_berry:6682:4 238
+W_trice<:6297:4 224
+W_arts:5912:4 209
+W_it:4379:0 161
+W_into:5527:4 197
+W_future:3994:0 150
+W_lt:3609:0 136
+W_governor:4757:4 172
+W_put:3224:0 125
+W_single:2839:0 113
+W_name:2454:0 102
+W_sports:151:1 73
+W_campus:1299:0 62
+W_philanthropist:2447:4 101
+W_in:914:0 51
+R_containsDigit:530:0 21
+W_and:2062:4 90
+W_of:529:0 37
+R_isAllCapital:145:0 146
+W_a>:1292:4 82
+W_nickname:5121:1 185
+W_club:137:4 13
+W_x2013:6647:4 237
+W_<a>jack:6262:4 223
+W_mechanic:5877:4 208
+W_ryde:4344:0 160
+W_divided:5492:4 196
+W_debate:3959:0 149
+W_x2019:3574:0 135
+W_early:4722:4 171
+W_sydney<:3189:0 124
+W_use:2804:0 112
+W_and:2034:0 142
+W_amp:1649:0 72
+W_a>:1264:0 61
+W_noted:2412:4 100
+W_from:879:0 50
+W_variety:494:0 36
+W_a:487:4 228
+W_including:102:4 10
+W_<a>atanasoff:6612:4 236
+W_team:5079:0 184
+W_<a>veishea<:6227:4 222
+W_iowa:5842:4 206
+W_north:4309:0 159
+W_is:5457:4 195
+W_much:3924:0 148
+W_football:5072:4 229
+W_area:3539:0 134
+W_important:4687:4 170
+W_founder:2006:1 89
+W_<a>university:3154:0 123
+W_which:2769:0 111
+W_exercise:1614:0 71
+W_after:3910:3 166
+W_<a>wunderground<:1229:0 60
+W_jones<:2377:4 99
+W_ranging:844:0 49
+W_a:459:0 33
+W_,:837:4 75
+W_h2>:452:4 31
+W_s:6577:4 235
+W_football:5044:0 183
+W_paved:6192:4 221
+W_renamed:5807:4 205
+W_part:4274:0 158
+W_college:5422:4 194
+W_after:3889:0 147
+W_metropolitan:3504:0 133
+W_an:4652:4 169
+W_senate:3119:0 122
+W_universities:2734:0 110
+W_bills<:1964:0 88
+W_bs:1579:0 70
+W_athletics:46:1 6
+W_magazines:1194:0 59
+W_tudor:2342:4 98
+W_,:809:0 45
+W_<:417:4 28
+W_u:6542:4 234
+U:31:4 9
+W_daily<:5009:0 182
+End.:30:4 18
+W_are:6157:4 220
+W_medicine:5772:4 204
+W_rural:4239:0 157
+W_university<:5387:4 193
+W_p:3854:0 144
+U:24:3 24
+W_state:5002:4 207
+End.:23:3 117
+W_third:3469:0 132
+W_macquarie<:4617:4 168
+W_enquiry:3084:0 121
+W_canadian:2699:0 109
+W_<a>buffalo:1929:0 87
+W_prammanasudh<:1544:0 69
+U:10:1 5
+W_alumni:1159:0 58
+W_<a>paul:2307:4 97
+W_community:774:0 44
+W_tour<:1922:4 86
+W_<li><a>official:4:0 2
+U:3:0 1
+S.:1:0 0
