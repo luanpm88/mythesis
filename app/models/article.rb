@@ -124,12 +124,12 @@ class Article < ActiveRecord::Base
       
       while content_fixed.gsub!(/\{\{[^\{\}]*?\}\}/m, ''); end
       
-      File.open("public/articles/university/#{article.title.gsub(/[\s\&]/,'_')}.txt", "w") { |file| file.write content_fixed }
+      File.open("public/articles/#{infobox_template.name}/#{article.title.gsub(/[\s\&]/,'_')}.txt", "w") { |file| file.write content_fixed }
 
     end
     
     infobox_template.articles.each do |article|
-      system("public/opennlp-tools/bin/opennlp SentenceDetector en-sent.bin < ~/rails-apps/mythesis2/public/articles/university/#{article.title.gsub(/[\s\&]/,'_')}.txt > ~/rails-apps/mythesis2/public/articles/university/sentenced/#{article.title.gsub(/[\s\&]/,'_')}.txt")
+      system("public/opennlp-tools/bin/opennlp SentenceDetector en-sent.bin < ~/rails-apps/mythesis2/public/articles/#{infobox_template.name}/#{article.title.gsub(/[\s\&]/,'_')}.txt > ~/rails-apps/mythesis2/public/articles/#{infobox_template.name}/sentenced/#{article.title.gsub(/[\s\&]/,'_')}.txt")
     end
   end
   
@@ -343,7 +343,7 @@ class Article < ActiveRecord::Base
     infobox_template = InfoboxTemplate.where(name: "university").first
     
     infobox_template.attributes.each do |attribute|
-      puts `java -cp lib/colt.jar:lib/CRF.jar:lib/CRF-Trove_3.0.2.jar:lib/LBFGS.jar:build:. iitb.Segment.Segment all -f public/crf/university/#{attribute.name.gsub(/[\s\/]+/,'_')}.conf`
+      puts `java -cp lib/colt.jar:lib/CRF.jar:lib/CRF-Trove_3.0.2.jar:lib/LBFGS.jar:build:. iitb.Segment.Segment all -f public/crf/#{infobox_template.name}/#{attribute.name.gsub(/[\s\/]+/,'_')}.conf`
       sleep(5)
     end
   end
