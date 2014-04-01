@@ -1,74 +1,52 @@
-24
-here 10 4:1
-urban 18 1:1
-campuses 8 3:1
-li> 23 4:1
-DIGIT 7 1:1
-founded 14 4:1
-is 2 0:1
-following 6 0:1
-environment< 21 4:1
-<p>the 0 0:1
-the 5 0:1 4:1
-csu 1 0:1
-a>< 22 4:1
-year 13 4:1
-listed 9 4:1
-of 4 0:1 4:1
-composed 3 0:1
-< 15 4:1
-order 12 4:1
-<li><a> 17 0:1
-by 11 4:1
-p> 16 4:1
-planning 19 4:1
-and 20 4:1
+15
+<li><a> 8 0:1
+environment< 12 4:1
+li> 14 4:1
+following 2 0:1
+DIGIT 3 1:1
+and 11 4:1
+by 7 4:1
+the 1 0:1
+listed 5 4:1
+campuses 4 3:1
+here 6 4:1
+urban 9 1:1
+a>< 13 4:1
+planning 10 4:1
+of 0 0:1
 ******* Features ************
-47
-R_isAllSmallCase:187:1 40
-E.0:182:1 12
-R_isAllSmallCase:180:0 6
-W_the:179:0 10
-W_<:557:4 32
+34
+R_isAllSmallCase:187:1 26
+W_urban:326:1 25
+E.1:231:3 11
+W_by:277:4 22
+W_and:417:4 29
+E.0:182:1 7
+W_the:39:0 5
+R_isAllSmallCase:180:0 3
+R_containsSpecialCharacters:978:4 31
 E.0:175:0 4
-W_li>:837:4 46
-W_of:172:4 28
-W_is:74:0 7
-W_order:452:4 27
-W_urban:641:1 39
-R_singlePunctuation:733:4 34
-W_and:732:4 43
-W_DIGIT:256:1 14
-R_isSpecialCharacter:348:4 33
-W_listed:347:4 22
-E.4:343:4 24
-R_isAllCapital:152:1 15
-W_of:144:0 9
-E.1:238:4 41
-W_founded:522:4 31
-W_a><:802:4 45
-E.1:231:3 16
-W_csu:39:0 5
-W_by:417:4 26
-W_planning:697:4 42
-U:31:4 21
-End.:30:4 36
-W_<li><a>:599:0 38
-R_containsSpecialCharacters:978:4 35
-U:24:3 17
-W_following:214:0 11
-E.3:308:4 20
-W_p>:592:4 37
-W_campuses:305:3 18
-R_isAllSmallCase:208:4 23
-W_the:207:4 29
-W_composed:109:0 8
-W_year:487:4 30
-R_isAllSmallCase:201:3 19
-U:10:1 13
-W_environment<:767:4 44
-W_<p>the:4:0 2
+U:31:4 16
+End.:30:4 21
+W_environment<:452:4 30
+W_following:74:0 6
+E.3:308:4 15
+U:24:3 12
+W_campuses:165:3 13
+W_DIGIT:116:1 9
+R_isAllSmallCase:208:4 18
+W_listed:207:4 17
+W_a><:487:4 32
+E.4:343:4 19
+R_isAllSmallCase:201:3 14
+R_isAllCapital:152:1 10
+R_containsSpecialCharacters:950:0 24
+U:10:1 8
+W_here:242:4 20
+W_planning:382:4 28
+W_li>:522:4 33
+W_of:4:0 2
+E.1:238:4 27
 U:3:0 1
-W_here:382:4 25
+W_<li><a>:284:0 23
 S.:1:0 0
-R_containsSpecialCharacters:950:0 3

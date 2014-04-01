@@ -276,6 +276,8 @@ class Article < ActiveRecord::Base
   
   ##9
   def self.create_training_data_for_CRF
+    x_window = 3;
+    
     infobox_template = InfoboxTemplate.where(name: "university").first
     `mkdir public/crf/#{infobox_template.name}`
     `mkdir public/crf/#{infobox_template.name}/data`
@@ -301,8 +303,11 @@ class Article < ActiveRecord::Base
         as.value = as.value.gsub(/\|/,'')
         
         parts = content.downcase.split(as.value.downcase)
-        parts[0].split(/\s+/).each do |term|
-          training_tr += term + " |1\n" if term.strip != ""
+        parts[0].split(/\s+/).each_with_index do |term,index|
+          count = parts[0].split(/\s+/).count
+          
+          training_tr += term + " |1\n" if term.strip != "" if index > (count - x_window - 1)
+          test_tr += term + " " if term.strip != "" if index > (count - x_window - 1)
         end
         
         as.value.downcase.split(/\s+/).each_with_index do |term,index|
@@ -320,16 +325,18 @@ class Article < ActiveRecord::Base
           end          
           
           training_tr += term + " |#{post}\n"
+          test_tr += term + " "
         end
         
-        parts[1].split(/\s+/).each do |term|
-          training_tr += term + " |5\n" if term.strip != ""
+        
+        parts[1].split(/\s+/).each_with_index do |term,index|
+          training_tr += term + " |5\n" if term.strip != "" if index < x_window + 1
+          test_tr += term + " " if term.strip != "" if index < x_window + 1
         end
 
 
-        training_tr += "\n"
-        
-        test_tr += content.downcase.strip.gsub(as.value.downcase, " "+as.value.downcase+" ").gsub(/\s+/, " ") + "\n"
+        training_tr += "\n"        
+        test_tr += "\n"
       end
       
       `mkdir public/crf/#{infobox_template.name}/data/#{attribute.name.gsub(/[\s\/]+/,'_')}`

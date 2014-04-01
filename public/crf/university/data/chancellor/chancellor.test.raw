@@ -1,3 +1,3 @@
-the <a>chancellor</a> is mr. fred fountain ; dr. <a>tom traves</a> serves as president and vice-chancellor.</p>
-from:2006 till:end shift:($dx,+1) color:invested text: [[george blumenthal]] </pre>
-the president of the university is paul w. gooch and the chancellor is wendy cecil .
+<a>chancellor</a> is mr. fred fountain ; dr. <a>tom traves</a> 
+shift:($dx,+1) color:invested text: [[george blumenthal]] </pre> 
+the chancellor is wendy cecil . 

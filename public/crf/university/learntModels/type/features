@@ -1,165 +1,65 @@
-66
-program 57 4:1
-education< 19 4:1
-higher 18 4:1
-<a>volga 29 4:1
-<p>upeace 53 0:1
-university< 7 0:2 4:1
-river 30 4:1
-<a>institution 16 4:1
-at 58 4:1
-offers 54 0:1
-level 61 4:1
-where 35 4:1
-institutions 46 0:1
-public 49 1:1
-universities 43 0:1
-community 33 4:1
-master 59 4:1
-<strong>upper 5 0:1
-<a>american 62 4:1
-< 14 4:1
-<a>campus< 23 4:1
-iowa 6 0:1
-established 1 0:2
-DIGIT 3 0:2 4:1
-enrolled 39 4:1
-are 38 4:1
-is 10 0:1
-strong> 8 0:1
-, 4 0:1 4:2
-universities< 50 4:1
-the 28 0:1 4:3
-in 2 0:3 4:3
-near 27 4:1
-<p><a>category 40 0:1
-establishments< 48 0:1
-private 13 1:1
-<a>iowa< 26 4:1
-a> 15 0:4 4:7
-of 17 4:3
-dual 55 0:1
-northeast 25 4:1
-<a> 12 0:1
-with 20 4:2
-iowa< 31 4:2
-its 21 4:1
-s 60 4:1
-p> 52 4:1
-lund 41 0:1
-rural 32 4:1
-<p> 0 0:1
-located 24 4:1
-washington 63 4:1
-educational 45 0:1
-a>< 51 4:1
-sweden< 44 0:1
-residential 22 4:1
-<a>category 42 0:4
-graduate 56 1:1
-around 36 4:1
-d 64 4:1
-1660s< 47 0:1
-<a>fayette 34 4:1
-c 65 4:1
-students 37 4:1
-uiu 9 0:1
-a 11 0:2
+22
+graduate 18 1:1
+<a>institution 6 4:1
+private 3 1:1
+DIGIT 10 0:1
+<a>category 9 0:2
+is 0 0:1
+establishments< 11 0:1
+dual 17 0:1
+higher 8 4:1
+program 19 4:1
+the 21 4:1
+a>< 14 4:1
+at 20 4:1
+of 7 4:1
+a> 5 0:1 4:1
+< 4 4:1
+p> 15 4:1
+<a> 2 0:1
+public 12 1:1
+a 1 0:2
+offers 16 0:1
+universities< 13 4:1
 ******* Features ************
-96
-W_master:2097:4 88
-R_isAllSmallCase:187:1 25
-R_containsSpecialCharacters:950:0 3
-E.0:182:1 22
-W_students:1327:4 62
-R_isAllSmallCase:180:0 6
-W_<strong>upper:179:0 14
-W_<a>iowa<:942:4 46
-W_offers:1894:0 83
+40
+R_isAllSmallCase:187:1 11
+W_offers:564:0 34
+E.0:182:1 8
+W_of:277:4 21
+R_isAllSmallCase:180:0 3
+W_a>:179:0 29
+W_p>:557:4 33
 E.0:175:0 4
-W_a>:557:4 33
-R_isAllCapital:173:4 61
-W_,:172:4 55
-W_universities:1509:0 70
-W_d:2272:4 94
-W_is:354:0 19
-W_iowa<:1117:4 51
-R_singlePunctuation:733:4 30
-W_with:732:4 39
-R_isSpecialCharacter:348:4 29
-W_establishments<:1684:0 77
-W_at:2062:4 87
-E.4:343:4 32
-R_containsDigit:530:0 76
-W_a>:529:0 68
-W_around:1292:4 59
-R_isAllCapital:145:0 9
-W_,:144:0 10
-W_northeast:907:4 45
-W_<p>upeace:1859:0 82
-W_<:522:4 28
-W_DIGIT:137:4 60
-W_<a>category:1474:0 69
-W_washington:2237:4 93
-W_p>:1852:4 81
-R_singlePunctuation:705:0 13
-W_uiu:319:0 18
-W_river:1082:4 50
-W_education<:697:4 38
-R_singleQuote:313:4 57
-W_1660s<:1649:0 75
-W_program:2027:4 86
-W_where:1257:4 58
-W_DIGIT:109:0 8
-W_located:872:4 43
-W_in:102:4 44
-W_lund:1439:0 67
-W_<a>american:2202:4 91
-W_a><:1817:4 80
-R_singleQuote:285:0 12
-W_strong>:284:0 17
-W_<a>volga:1047:4 49
-W_higher:662:4 37
-R_singleComma:278:4 56
-W_university<:277:4 92
-W_institutions:1614:0 73
-W_private:466:1 24
-W_<a>fayette:1222:4 54
-W_in:74:0 7
-W_<a>campus<:837:4 42
-W_<p><a>category:1404:0 66
-W_level:2167:4 90
-W_universities<:1782:4 79
-W_graduate:1971:1 85
-W_enrolled:1397:4 65
-R_singleComma:250:0 11
-W_university<:249:0 16
-W_the:1012:4 48
-W_of:627:4 35
-W_educational:1579:0 72
-E.1:238:4 26
-W_<a>:424:0 21
-W_community:1187:4 53
-W_established:39:0 5
-W_residential:802:4 41
-W_s:2132:4 89
-U:31:4 27
-End.:30:4 64
-W_the:984:0 74
-W_are:1362:4 63
-W_iowa:214:0 15
-R_containsSpecialCharacters:978:4 31
-W_near:977:4 47
-W_dual:1929:0 84
-W_<a>institution:592:4 34
-R_isAllSmallCase:208:4 36
-W_sweden<:1544:0 71
-W_c:2307:4 95
-U:10:1 23
-W_public:1726:1 78
-W_a:389:0 20
-W_rural:1152:4 52
-W_<p>:4:0 2
+W_<:172:4 14
+W_<a>:74:0 6
+W_graduate:641:1 36
+W_DIGIT:354:0 26
+R_singlePunctuation:733:4 16
+W_at:732:4 38
+R_isSpecialCharacter:348:4 15
+E.4:343:4 18
+W_<a>institution:242:4 20
+W_public:431:1 30
+R_isAllCapital:145:0 27
+E.1:238:4 12
+W_a><:522:4 32
+W_a:39:0 5
+W_<a>category:319:0 25
+W_program:697:4 37
+U:31:4 13
+End.:30:4 23
+W_dual:599:0 35
+R_containsSpecialCharacters:978:4 17
+W_higher:312:4 24
+W_private:116:1 10
+R_isAllSmallCase:208:4 22
+W_a>:207:4 19
+W_universities<:487:4 31
+U:10:1 9
+W_establishments<:389:0 28
+W_the:767:4 39
+W_is:4:0 2
 U:3:0 1
-W_its:767:4 40
 S.:1:0 0
+R_containsSpecialCharacters:950:0 7

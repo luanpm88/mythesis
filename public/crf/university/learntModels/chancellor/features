@@ -1,107 +1,76 @@
-38
-<a>tom 8 4:1
-till 20 0:1
-gooch 35 0:1
-as 11 4:1
-pre> 30 4:1
-traves< 9 4:1
-dr 7 4:1
-mr 4 0:1
-wendy 36 1:1
-blumenthal]] 29 3:1
-from 18 0:1
-end 21 0:1
-< 16 4:2
-<a>chancellor< 1 0:1
-paul 33 0:1
-DIGIT 19 0:2
-cecil 37 3:1
-fountain 6 3:1
-invested 26 0:1
-is 3 0:3
-university 32 0:1
-, 24 0:1
-color 25 0:1
-text 27 0:1
-[[george 28 1:1
-shift 22 0:1
-the 0 0:4
-chancellor 15 0:1 4:1
-fred 5 1:1
-serves 10 4:1
-a> 2 0:1 4:1
-of 31 0:1
-president 12 0:1 4:1
-w 34 0:1
-p> 17 4:1
-and 13 0:1 4:1
-vice 14 4:1
-$dx 23 0:1
+24
+[[george 16 1:1
+, 11 0:1
+DIGIT 12 0:1
+is 2 0:2
+cecil 23 3:1
+<a>tom 7 4:1
+$dx 10 0:1
+the 20 0:1
+chancellor 21 0:1
+blumenthal]] 17 3:1
+fred 4 1:1
+text 15 0:1
+<a>chancellor< 0 0:1
+dr 6 4:1
+mr 3 0:1
+traves< 8 4:1
+a> 1 0:1 4:1
+invested 14 0:1
+< 18 4:1
+color 13 0:1
+wendy 22 1:1
+shift 9 0:1
+pre> 19 4:1
+fountain 5 3:1
 ******* Features ************
-66
-W_text:949:0 51
-R_isAllSmallCase:187:1 13
-W_fred:186:1 12
-W_blumenthal]]:1040:3 53
-W_gooch:1229:0 60
-E.0:182:1 10
-W_dr:277:4 20
-W_cecil:1320:3 65
-R_isAllSmallCase:180:0 2
-W_,:844:0 45
-W_chancellor:557:4 32
-E.0:175:0 3
-W_and:459:0 61
-W_university:1124:0 57
-W_end:739:0 42
-W_a>:74:0 7
-W_president:452:4 29
-R_singlePunctuation:733:4 35
-W_from:634:0 38
-R_isSpecialCharacter:348:4 34
-W_traves<:347:4 25
-R_singleComma:250:0 46
-W_invested:914:0 50
-E.4:343:4 22
-W_p>:627:4 37
-W_chancellor:529:0 62
-W_w:1194:0 59
-R_isAllCapital:145:0 40
-W_$dx:809:0 44
-W_mr:144:0 9
-W_vice:522:4 31
-W_fountain:235:3 16
-W_of:1089:0 56
-W_president:424:0 55
-W_[[george:991:1 52
-E.1:231:3 14
-R_singlePunctuation:705:0 48
-W_till:704:0 41
-W_<a>chancellor<:39:0 5
-W_pre>:1082:4 54
-W_as:417:4 28
-W_wendy:1271:1 63
-U:31:4 19
-End.:30:4 36
-R_containsSpecialCharacters:978:4 24
-W_<a>tom:312:4 23
-W_color:879:0 49
-U:24:3 15
-End.:23:3 64
-E.3:308:4 18
-W_<:592:4 33
-W_paul:1159:0 58
-R_isAllSmallCase:208:4 21
-W_shift:774:0 43
-W_is:109:0 8
-W_and:487:4 30
-R_isAllSmallCase:201:3 17
-U:10:1 11
-W_a>:102:4 26
-W_DIGIT:669:0 39
-W_the:4:0 1
-U:3:0 4
-W_serves:382:4 27
+49
+W_<:662:4 40
+R_isAllSmallCase:187:1 12
+E.0:182:1 9
+W_<a>tom:277:4 22
+R_isAllSmallCase:180:0 7
+E.0:175:0 4
+W_color:459:0 35
+W_chancellor:739:0 45
+W_is:74:0 6
+W_cecil:830:3 48
+W_$dx:354:0 28
+R_singlePunctuation:733:4 42
+W_a>:67:4 26
+R_isSpecialCharacter:348:4 41
+R_singleComma:250:0 30
+E.4:343:4 21
+W_fred:151:1 11
+W_text:529:0 37
+W_dr:242:4 19
+W_blumenthal]]:620:3 39
+R_isAllCapital:145:0 34
+W_DIGIT:424:0 33
+E.1:231:3 13
+R_singlePunctuation:705:0 32
+W_the:704:0 44
+W_a>:39:0 5
+W_shift:319:0 27
+W_pre>:697:4 43
+U:31:4 18
+End.:30:4 25
+R_containsSpecialCharacters:978:4 23
+W_traves<:312:4 24
+U:24:3 14
+End.:23:3 47
+E.3:308:4 17
+W_wendy:781:1 46
+W_invested:494:0 36
+R_isAllSmallCase:208:4 20
+W_mr:109:0 8
+R_isAllSmallCase:201:3 16
+U:10:1 10
+W_fountain:200:3 15
+W_,:389:0 29
+W_<a>chancellor<:4:0 2
+U:3:0 1
+W_[[george:571:1 38
 S.:1:0 0
-R_singleQuote:285:0 47
-R_containsSpecialCharacters:950:0 6
+R_singleQuote:285:0 31
+R_containsSpecialCharacters:950:0 3

@@ -1,214 +1,81 @@
-90
-a>]] 76 0:1
-note 48 4:1
-navy 27 4:1
-clark 81 4:1
-most 18 4:1
-states< 75 0:1
-tagline 33 4:1
-<a>47th< 68 0:1
-over 87 4:1
-unique 35 4:1
-date 52 4:1
-thumbleftus 11 4:1
-annual 24 4:1
-classes 63 4:1
-alumnus 82 4:1
-<a>army 25 4:1
-leftthumb[[charles 8 4:1
-[[file 0 0:1
-syracuse 83 4:2
-is 23 4:1
-american 36 4:1
-in 56 4:1
-which 57 4:1
-size 30 0:1
-has 86 4:1
-event 21 4:1
-that 49 4:1
-m 61 4:1
-current 70 0:1
-of 73 0:1 4:1
-living 88 4:1
-d 66 0:1
-a 59 4:1
-ref 42 4:4
-important 19 4:1
-contains 51 4:1
-200px 10 1:1
-seal 50 4:1
-institution< 37 4:1
-evans 4 0:1
-and 69 0:1
-DIGIT 53 0:1 4:3
-hughes 5 0:1
-began 62 4:1
-<a>thumbright 78 0:1
-at 22 4:1
-year 55 4:1
-quot 44 4:2
-texas 58 4:1
-name= 43 4:1
-established 39 4:1
-gt 46 4:4
-amp 60 4:1
-= 31 0:1
-< 67 0:1
-dick 80 4:1
-biden]] 64 0:1
-100px 7 1:1
-united 74 0:1
-baseball 14 4:1
-, 54 0:1 4:3
-image 29 0:1
-player< 15 4:1
-justice 2 0:1
-naval 12 4:1
-president 72 0:1
-em> 38 4:1
-sporting 20 4:1
-183px 32 1:1
-! 77 0:1
-chief 1 0:1
-=1871 40 4:1
-group=note 47 4:1
-university 85 4:1
-charles 3 0:1
-lt 41 0:1 4:4
-<a>vice 71 0:1
-<a>j 65 0:1
-university< 84 4:1
-180px 79 1:1
-=<em>a 34 4:1
-a> 16 0:2 4:3
-the 17 0:1 4:6
-jpg 6 0:1
-x2013 26 4:1
-academy 13 4:2
-<p><a> 9 0:1
-tamucatalog 45 4:1
-game< 28 4:1
-alumni 89 4:1
+30
+, 27 4:1
+unique 18 4:1
+200px 7 1:1
+=<em>a 17 4:1
+! 22 0:1
+lt 21 0:1
+naval 9 4:1
+charles 0 0:1
+clark 26 4:1
+tagline 16 4:1
+183px 15 1:1
+dick 25 4:1
+a>]] 20 0:1
+thumbleftus 8 4:1
+100px 4 1:1
+leftthumb[[charles 5 4:1
+evans 1 0:1
+jpg 3 0:1
+size 13 0:1
+image 12 0:1
+of 29 4:1
+alumnus 28 4:1
+states< 19 0:1
+180px 24 1:1
+= 14 0:1
+hughes 2 0:1
+baseball 11 4:1
+<p><a> 6 0:1
+<a>thumbright 23 0:1
+academy 10 4:1
 ******* Features ************
-121
-W_a:2097:4 79
-R_containsSpecialCharacters:950:0 20
-W_note:1712:4 64
-W_a>:564:0 89
-E.0:182:1 11
-W_a>]]:2664:0 105
-W_institution<:1327:4 53
-R_isAllSmallCase:180:0 5
-W_hughes:179:0 9
-W_<a>j:2279:0 85
-W_x2013:942:4 40
-W_has:3042:4 117
-R_containsDigit:558:4 41
-W_183px:1131:1 48
-W_,:1894:0 92
-E.0:175:0 3
-W_player<:557:4 28
-R_isAllCapital:173:4 70
-W_200px:361:1 21
-W_DIGIT:1887:4 69
-W_ref:1502:4 58
-W_current:2454:0 98
-R_singlePunctuation:733:4 74
-W_sporting:732:4 34
-W_dick:2832:4 110
-R_containsDigit:537:1 14
-W_texas:2062:4 78
-E.4:343:4 24
-W_group=note:1677:4 63
-R_containsDigit:530:0 96
-W_states<:2629:0 104
-W_american:1292:4 52
-R_isAllCapital:145:0 91
-W_evans:144:0 8
-W_biden]]:2244:0 84
-W_<a>army:907:4 39
-W_university:3007:4 116
-W_DIGIT:1859:0 90
-W_baseball:522:4 27
-W_classes:2237:4 83
-W_=:1089:0 46
-W_date:1852:4 68
-R_singlePunctuation:705:0 47
-W_lt:1467:4 57
-R_isSpecialCharacter:320:0 88
-W_<p><a>:319:0 19
-W_and:2419:0 97
-W_important:697:4 33
-R_singleQuote:313:4 73
-W_leftthumb[[charles:312:4 18
-W_which:2027:4 77
-W_gt:1642:4 62
-W_united:2594:0 103
-W_unique:1257:4 51
-W_charles:109:0 7
-W_annual:872:4 38
-W_university<:2972:4 115
-W_academy:487:4 26
-W_of:2587:4 113
-W_180px:2776:1 109
-W_lt:1439:0 106
-W_began:2202:4 82
-W_size:1054:0 45
-W_contains:1817:4 67
-W_=1871:1432:4 56
-R_singleQuote:285:0 94
-W_<a>47th<:2384:0 95
-W_alumni:3147:4 120
-W_most:662:4 32
-R_singleComma:278:4 72
-W_in:1992:4 76
-W_tamucatalog:1607:4 61
-W_of:2559:0 101
-W_=<em>a:1222:4 50
-W_justice:74:0 6
-W_is:837:4 37
-W_syracuse:2937:4 114
-W_naval:452:4 25
-W_m:2167:4 81
-W_100px:256:1 13
-W_image:1019:0 44
-W_seal:1782:4 66
-W_<a>thumbright:2734:0 108
-W_established:1397:4 55
-R_singleComma:250:0 93
-W_<:2349:0 87
-W_game<:1012:4 43
-W_living:3112:4 119
-W_the:627:4 31
-W_year:1957:4 75
-E.1:238:4 15
-W_quot:1572:4 60
-W_president:2524:0 100
-W_tagline:1187:4 49
-W_chief:39:0 4
-W_at:802:4 36
-W_alumnus:2902:4 112
-W_thumbleftus:417:4 22
-W_amp:2132:4 80
-U:31:4 17
-End.:30:4 16
-W_that:1747:4 65
-W_the:599:0 102
-W_!:2699:0 107
-W_em>:1362:4 54
-W_jpg:214:0 10
-R_containsSpecialCharacters:978:4 29
-W_d:2314:0 86
-W_navy:977:4 42
-W_over:3077:4 118
-W_a>:592:4 30
-R_isAllSmallCase:208:4 23
-W_,:1922:4 71
-U:10:1 12
-W_name=:1537:4 59
-W_<a>vice:2489:0 99
-W_[[file:4:0 2
+48
+W_unique:662:4 33
+W_180px:851:1 39
+R_singleComma:278:4 43
+W_clark:942:4 41
+E.0:182:1 8
+R_isAllSmallCase:180:0 3
+E.0:175:0 4
+W_size:459:0 26
+W_lt:739:0 36
+W_hughes:74:0 6
+R_singlePunctuation:733:4 45
+W_200px:256:1 18
+W_alumnus:1012:4 46
+W_naval:347:4 22
+R_containsDigit:537:1 11
+W_183px:536:1 29
+E.4:343:4 21
+W_=<em>a:627:4 31
+W_100px:151:1 10
+W_dick:907:4 40
+W_<a>thumbright:809:0 38
+E.1:238:4 12
+W_image:424:0 25
+R_singlePunctuation:705:0 28
+W_a>]]:704:0 35
+W_evans:39:0 5
+W_baseball:417:4 24
+U:31:4 14
+End.:30:4 13
+R_singleQuote:313:4 44
+R_containsSpecialCharacters:978:4 32
+W_,:977:4 42
+W_thumbleftus:312:4 19
+W_<p><a>:214:0 16
+W_tagline:592:4 30
+W_=:494:0 27
+R_isAllSmallCase:208:4 20
+W_leftthumb[[charles:207:4 15
+W_!:774:0 37
+W_jpg:109:0 7
+U:10:1 9
+W_charles:4:0 2
+W_states<:669:0 34
 U:3:0 1
-W_event:767:4 35
-W_clark:2867:4 111
+W_of:1047:4 47
+W_academy:382:4 23
 S.:1:0 0
+R_containsSpecialCharacters:950:0 17

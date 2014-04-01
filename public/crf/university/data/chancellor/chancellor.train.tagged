@@ -1,4 +1,3 @@
-the |1
 <a>chancellor</a> |1
 is |1
 mr. |1
@@ -8,14 +7,7 @@ fountain |4
 dr. |5
 <a>tom |5
 traves</a> |5
-serves |5
-as |5
-president |5
-and |5
-vice-chancellor.</p> |5
 
-from:2006 |1
-till:end |1
 shift:($dx,+1) |1
 color:invested |1
 text: |1
@@ -23,16 +15,6 @@ text: |1
 blumenthal]] |4
 </pre> |5
 
-the |1
-president |1
-of |1
-the |1
-university |1
-is |1
-paul |1
-w. |1
-gooch |1
-and |1
 the |1
 chancellor |1
 is |1

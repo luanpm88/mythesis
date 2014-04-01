@@ -1,160 +1,61 @@
-62
-different 55 4:2
-los 14 4:1
-aso 4 0:1
-has 24 0:2
-at 13 4:2
-associated 1 0:1
-most 30 4:1
-enrollment 44 0:1
-size 37 4:1
-an 43 0:1
-one 29 4:1
-universities 32 4:1
-had 42 0:1
-costa 21 0:1
-from 25 4:2
-rica 22 0:1
-<p>the 0 0:1
-professors 52 4:1
-march 41 0:1
-student 8 0:1
-established 40 0:1
-DIGIT 11 0:3 1:9 4:7
-enrolled 57 4:1
-making 27 4:1
-are 50 4:2
-world 34 4:1
-<p>at 18 0:1
-<p>as 38 0:1
-it 28 0:1 4:1
-is 5 0:1
-official 7 0:1
-, 12 0:3 1:4 4:4
-staff 48 4:1
-which 49 4:1
-the 6 0:4 4:2
-in 33 4:2
-upeace 20 0:1
-x2013 59 4:1
-angeles 15 4:1
-faculty 47 4:1
-lewis 58 4:1
-countries 26 4:2
-organization 3 0:1
-clark 60 4:1
-of 10 0:3 4:2
-<p>over 53 0:1
-school 39 0:1
-over 54 4:1
-for 35 4:1
-its 36 4:1
-diverse 31 4:1
-states 56 4:1
-and 45 4:3
-government 9 0:1
-present 19 0:1
-campus 23 0:1
-full 51 4:1
-college 17 4:2
-students 2 0:1 4:5
-pierce 16 4:1
-employed 46 4:1
-state 61 4:1
+18
+, 4 1:4 4:1
+los 7 4:1
+has 10 0:2
+DIGIT 3 1:9 4:2
+<p>over 16 0:1
+in 15 4:1
+enrollment 14 0:1
+the 2 0:2
+campus 9 0:1
+at 6 4:1
+school 12 0:1
+of 1 0:2
+an 13 0:1
+rica 8 0:1
+from 11 4:2
+over 17 4:1
+government 0 0:1
+students 5 4:5
 ******* Features ************
-95
-W_<p>as:1334:0 67
-W_x2013:2097:4 91
-R_containsSpecialCharacters:950:0 3
-W_staff:1712:4 80
-E.0:182:1 16
-W_size:1327:4 66
-R_isAllSmallCase:180:0 6
-W_is:179:0 10
-W_countries:942:4 49
-R_containsDigit:558:4 92
+40
+W_rica:284:0 23
+W_<p>over:564:0 37
+R_singleComma:278:4 34
+E.0:182:1 7
+W_los:277:4 22
+R_isAllSmallCase:180:0 3
+W_in:557:4 32
 E.0:175:0 4
-W_angeles:557:4 31
-R_isAllCapital:173:4 48
-W_an:1509:0 75
-W_costa:739:0 42
-W_of:354:0 15
-W_diverse:1117:4 60
-R_singlePunctuation:733:4 53
-W_lewis:2062:4 90
-R_isAllCapital:152:1 18
-E.4:343:4 27
-W_faculty:1677:4 79
-W_its:1292:4 65
-R_isAllCapital:145:0 69
-W_aso:144:0 9
-W_from:907:4 46
-W_<p>over:1859:0 85
-W_los:522:4 30
-R_singlePunctuation:712:1 23
-W_had:1474:0 74
-W_professors:1852:4 84
-R_singlePunctuation:705:0 40
-W_upeace:704:0 41
-W_government:319:0 14
-W_most:1082:4 59
-R_singleQuote:313:4 52
-W_enrolled:2027:4 89
-W_employed:1642:4 78
-W_for:1257:4 64
-W_organization:109:0 8
-W_at:487:4 28
-W_march:1439:0 72
-W_students:102:4 25
-R_singleQuote:292:1 22
-W_full:1817:4 83
-W_present:669:0 36
-R_singleQuote:285:0 39
-W_student:284:0 13
-W_one:1047:4 56
-R_singleComma:278:4 51
-W_states:1992:4 88
-W_has:844:0 45
-W_and:1607:4 77
-W_world:1222:4 63
-W_students:74:0 7
-W_,:452:4 50
-W_established:1404:0 71
-W_state:2167:4 94
-R_singleComma:257:1 21
-W_are:1782:4 82
-W_<p>at:634:0 35
-R_singleComma:250:0 38
-W_official:249:0 12
-W_it:1012:4 55
-W_college:627:4 34
-W_the:242:4 58
-W_,:431:1 20
-W_different:1957:4 87
-E.1:238:4 24
-W_campus:809:0 44
-W_,:424:0 37
-W_in:1187:4 62
-W_associated:39:0 5
-W_DIGIT:417:4 47
-W_school:1369:0 70
-W_clark:2132:4 93
-U:31:4 29
-End.:30:4 33
-W_it:984:0 73
-W_which:1747:4 81
-E.1:217:1 19
-W_the:214:0 11
-W_making:977:4 54
-W_pierce:592:4 32
-R_isAllSmallCase:208:4 26
-W_enrollment:1544:0 76
-W_DIGIT:396:1 17
-W_over:1922:4 86
-W_rica:774:0 43
-W_DIGIT:389:0 68
-W_universities:1152:4 61
-W_<p>the:4:0 2
+W_an:459:0 30
+R_isAllCapital:173:4 28
+W_,:172:4 33
+W_the:74:0 6
+W_has:354:0 25
+R_singlePunctuation:733:4 36
+R_singleComma:257:1 12
+E.4:343:4 18
+W_over:627:4 39
+R_isAllCapital:152:1 9
+W_,:151:1 11
+W_at:242:4 20
+E.1:238:4 15
+R_singlePunctuation:712:1 14
+W_school:424:0 29
+W_DIGIT:137:4 27
+W_of:39:0 5
+W_from:417:4 26
+W_campus:319:0 24
+U:31:4 19
+End.:30:4 21
+R_singleQuote:313:4 35
+E.1:217:1 10
+W_DIGIT:116:1 8
+W_enrollment:494:0 31
+R_isAllSmallCase:208:4 17
+W_students:207:4 16
+R_singleQuote:292:1 13
+W_government:4:0 2
 U:3:0 1
 S.:1:0 0
-W_of:382:4 57
+R_containsSpecialCharacters:950:0 38

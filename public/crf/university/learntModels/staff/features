@@ -1,223 +1,88 @@
-91
-studies< 83 0:1
-enrollment 47 0:1
-kindergarten 20 4:1
-hundred 12 4:1
-rica< 86 0:1
-approximately 59 0:1
-<a>category 70 0:7
-award< 32 4:1
-high 22 4:1
-students 48 0:2
-for 35 4:1
-writer 34 4:1
-conflict 82 0:1
-over 11 4:1
-staff 3 0:2 4:2
-daily 37 4:1
-regan< 29 0:1
-li> 42 4:1
-conducts 15 4:1
-institutions 89 0:1
-a>s 68 0:1
-worldwide 61 4:1
-costa 85 0:1
-assembly 74 0:1
-population 58 0:1
-degrees 9 4:1
-it 0 0:2
-in 10 0:3 4:1
-which 51 4:1
-has 56 0:1
-general 73 0:1
-pre 19 4:1
-of 4 0:6 4:1
-student 57 0:1
-student< 67 0:1
-precollege 16 4:1
-had 45 0:1
-nations 72 0:2
-education 17 4:1
-faculty 50 4:1
-offers 7 4:1
-a 2 0:3 4:1
-ref 25 4:2
-p> 90 4:1
-from 18 4:2
-relations< 80 0:1
-<em><a>the 36 4:1
-a>< 39 4:2
-and 14 0:3 4:3
-DIGIT 5 0:15 1:10 4:5
-<a>emmy 31 4:1
-<p> 69 0:1
-winning 33 4:1
-education< 87 0:1
-schools 78 0:1
-organs< 76 0:1
-as 62 0:1
-<p>york 55 0:1
-established 43 0:2
-gt 26 4:1
-an 46 0:1
-< 41 4:2
-united 71 0:2
-undergraduate 8 0:1 4:1
-<a>graduate 66 0:1
-<li><a>chris 28 0:1
-professors 54 0:1 4:1
-, 6 0:12 1:4 4:6
-march 44 0:1
-em> 40 4:1
-university 64 0:1
-comprises 65 0:1
-schools< 77 0:1
-lt 24 4:2
-peace 81 0:2
-full 53 4:1
-international 79 0:1
-majors 13 4:1
-are 52 4:1
-show< 38 4:1
-a> 30 0:7 4:1
-employs 1 0:1
-school 23 4:1
-<em>greenville 27 4:1
-the 63 0:1
-universities 84 0:1
-subsidiary 75 0:1
-educational 88 0:1
-through 21 4:1
-employed 49 0:1
-alumni 60 4:1
+26
+, 4 0:3 1:4 4:5
+approximately 18 0:1
+undergraduate 6 4:1
+DIGIT 3 0:5 1:10 4:2
+ref 20 4:1
+winning 13 4:1
+lt 19 4:1
+in 22 0:1
+faculty 17 4:1
+staff 1 0:2 4:2
+a>< 24 4:1
+regan< 9 0:1
+employed 16 0:1
+award< 12 4:1
+<li><a>chris 8 0:1
+<a>emmy 11 4:1
+of 2 0:3
+a> 10 0:1 4:1
+< 23 4:1
+degrees 7 4:1
+writer 14 4:1
+p> 25 4:1
+established 21 0:1
+a 0 0:2
+offers 5 4:1
+and 15 0:1 4:2
 ******* Features ************
-129
-R_containsSpecialCharacters:950:0 50
-W_DIGIT:186:1 10
-W_education<:3049:0 125
-E.0:182:1 9
-W_organs<:2664:0 114
-W_daily:1327:4 62
+59
+W_<li><a>chris:284:0 27
+W_employed:564:0 44
+R_singleComma:278:4 16
+E.0:182:1 6
+W_degrees:277:4 25
 R_isAllSmallCase:180:0 2
-W_DIGIT:179:0 53
-W_comprises:2279:0 101
-W_gt:942:4 45
-W_professors:1894:0 106
+W_and:557:4 46
 E.0:175:0 3
-W_conducts:557:4 34
-R_isAllCapital:173:4 67
-W_of:172:4 86
-W_established:1509:0 71
-W_full:1887:4 89
-W_peace:2839:0 119
-W_li>:1502:4 70
-W_in:354:0 81
-W_<a>category:2454:0 108
-W_<a>emmy:1117:4 55
-R_singlePunctuation:733:4 21
-W_approximately:2069:0 95
-W_kindergarten:732:4 39
-R_isSpecialCharacter:348:4 69
-W_students:1684:0 80
-W_degrees:347:4 27
-R_isAllCapital:152:1 11
-E.4:343:4 22
-W_rica<:3014:0 124
-W_subsidiary:2629:0 113
-W_<em><a>the:1292:4 61
-R_isAllCapital:145:0 54
-W_of:144:0 8
-W_university:2244:0 100
-W_ref:907:4 44
-W_and:522:4 33
-R_singlePunctuation:712:1 16
-W_staff:137:4 85
-W_are:1852:4 88
-R_singlePunctuation:705:0 76
-W_relations<:2804:0 118
-W_<:1467:4 68
-W_<p>:2419:0 107
-W_a>:1082:4 57
-W_p>:3182:4 128
-W_population:2034:0 94
-W_pre:697:4 38
-R_singleQuote:313:4 20
-W_enrollment:1649:0 79
-W_undergraduate:312:4 26
-W_costa:2979:0 123
-W_and:494:0 82
-W_assembly:2594:0 112
-W_for:1257:4 60
-W_staff:109:0 7
-W_the:2209:0 99
-W_lt:872:4 43
-W_majors:487:4 32
-W_a:102:4 30
-R_singleQuote:292:1 15
-W_a>:1054:0 52
-W_which:1817:4 87
-W_international:2769:0 117
-W_em>:1432:4 65
-R_singleQuote:285:0 75
-W_undergraduate:284:0 102
-W_a>s:2384:0 105
-W_student:1999:0 93
-W_from:662:4 37
-R_singleComma:278:4 19
-W_an:1614:0 78
-W_offers:277:4 24
-W_universities:2944:0 122
-W_general:2559:0 111
-W_writer:1222:4 59
-W_a:74:0 6
-W_as:2174:0 98
-W_school:837:4 42
-W_hundred:452:4 31
-W_worldwide:2167:4 97
-R_singleComma:257:1 14
-W_regan<:1019:0 51
-W_institutions:3119:0 127
-W_faculty:1782:4 84
-W_schools:2734:0 116
-W_a><:1397:4 64
-R_singleComma:250:0 74
-W_student<:2349:0 104
-W_has:1964:0 92
-W_education:627:4 36
-W_had:1579:0 77
-W_,:242:4 18
-E.1:238:4 17
-W_studies<:2909:0 121
-W_nations:2524:0 110
-W_winning:1187:4 58
-W_employs:39:0 5
-W_high:802:4 41
-W_over:417:4 29
-W_alumni:2132:4 96
-U:31:4 23
-End.:30:4 46
-W_,:221:1 13
-W_<li><a>chris:984:0 49
-W_educational:3084:0 126
-E.1:217:1 12
-W_schools<:2699:0 115
-W_show<:1362:4 63
-W_,:214:0 73
-R_containsSpecialCharacters:978:4 48
-W_<a>graduate:2314:0 103
-W_<em>greenville:977:4 47
-W_<p>york:1929:0 91
-W_precollege:592:4 35
-R_isAllSmallCase:208:4 25
-W_march:1544:0 72
-W_DIGIT:207:4 66
-W_professors:1922:4 90
-W_conflict:2874:0 120
-W_united:2489:0 109
-W_award<:1152:4 56
-W_it:4:0 1
-U:3:0 4
-W_through:767:4 40
+R_isAllCapital:173:4 50
+W_<:837:4 55
+W_,:172:4 15
+W_established:739:0 53
+W_of:74:0 5
+W_award<:452:4 35
+W_a>:354:0 30
+R_singlePunctuation:733:4 18
+W_ref:732:4 52
+W_staff:67:4 47
+R_singleComma:257:1 11
+W_approximately:634:0 48
+R_isSpecialCharacter:348:4 56
+R_singleComma:250:0 40
+E.4:343:4 19
+W_faculty:627:4 45
+R_isAllCapital:152:1 8
+W_,:151:1 10
+W_and:529:0 43
+W_p>:907:4 58
+W_undergraduate:242:4 23
+R_isAllCapital:145:0 32
+W_,:144:0 39
+E.1:238:4 14
+W_writer:522:4 38
+R_singlePunctuation:712:1 13
+W_DIGIT:137:4 49
+R_singlePunctuation:705:0 42
+W_staff:39:0 4
+W_<a>emmy:417:4 33
+W_regan<:319:0 29
+W_lt:697:4 51
+U:31:4 20
+End.:30:4 24
+R_singleQuote:313:4 17
+R_containsSpecialCharacters:978:4 34
+E.1:217:1 9
+W_DIGIT:116:1 7
+R_isAllSmallCase:208:4 22
+W_a><:872:4 57
+W_offers:207:4 21
+W_in:774:0 54
+W_DIGIT:109:0 31
+W_winning:487:4 37
+R_singleQuote:292:1 12
+W_a:4:0 1
+U:3:0 26
+W_a>:382:4 36
 S.:1:0 0
-W_employed:1719:0 83
-W_in:382:4 28
+R_singleQuote:285:0 41
+R_containsSpecialCharacters:950:0 28
