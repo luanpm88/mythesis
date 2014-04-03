@@ -166,5 +166,4 @@
 </ul>
 <p> <img></p>
 <p></p>
-<p><a>*</a> <a>Category:Education in Kings County, Nova Scotia</a> <a>Category:Universities and colleges in Nova Scotia</a> <a>Category:Educational institutions established in 1838</a></p>
-<p><a>es:Universidad de Acadia</a> <a>fr:Universit&#x00e9; Acadia</a> <a>pl:Uniwersytet Acadia</a> <a>ru:&#x0423;&#x043d;&#x0438;&#x0432;&#x0435;&#x0440;&#x0441;&#x0438;&#x0442;&#x0435;&#x0442; &#x0410;&#x043a;&#x0430;&#x0434;&#x0438;&#x044f;</a></p>
+

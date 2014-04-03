@@ -1,0 +1,31 @@
+<h1>Listing test_article_attribute_sentences</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Article</th>
+      <th>Attribute</th>
+      <th>Sentence</th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @test_article_attribute_sentences.each do |test_article_attribute_sentence| %>
+      <tr>
+        <td><%= test_article_attribute_sentence.article_id %></td>
+        <td><%= test_article_attribute_sentence.attribute_id %></td>
+        <td><%= test_article_attribute_sentence.sentence %></td>
+        <td><%= link_to 'Show', test_article_attribute_sentence %></td>
+        <td><%= link_to 'Edit', edit_test_article_attribute_sentence_path(test_article_attribute_sentence) %></td>
+        <td><%= link_to 'Destroy', test_article_attribute_sentence, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Test article attribute sentence', new_test_article_attribute_sentence_path %>

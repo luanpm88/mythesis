@@ -96,5 +96,6 @@
 </ul>
 <p></p>
 <p><img></p>
-<p> <a>Category:Education in Oslo</a> <a>Category:Business schools in Norway</a> <a>Category:Foundations based in Norway</a> <a>Category:Universities and colleges in Norway</a> <a>Category:Norwegian School of Management</a> <a>Category:Educational institutions established in 1943</a> <a>Category:1943 establishments in Norway</a> <a>Category:Education in B&#x00e6;rum</a>  &lt;!-- formerly located in B&#x00e6;rum --&gt;</p>
-<p><a>de:Norwegian School of Management BI</a> <a>is:Handelsh&#x00f8;yskolen BI</a> <a>no:Handelsh&#x00f8;yskolen BI</a> <a>ru:&#x041d;&#x043e;&#x0440;&#x0432;&#x0435;&#x0436;&#x0441;&#x043a;&#x0430;&#x044f; &#x0448;&#x043a;&#x043e;&#x043b;&#x0430; &#x043c;&#x0435;&#x043d;&#x0435;&#x0434;&#x0436;&#x043c;&#x0435;&#x043d;&#x0442;&#x0430;</a> <a>sv:Handelsh&#x00f8;yskolen BI</a></p>
+<p></p>
+<pre> &lt;!-- formerly located in B&#x00e6;rum --&gt;</pre>
+

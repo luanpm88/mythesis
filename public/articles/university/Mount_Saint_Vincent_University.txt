@@ -35,5 +35,4 @@
   <li><a>Official website</a></li>
 </ul>
 <p><img> </p>
-<p><a>Category:Universities and colleges in the Halifax Regional Municipality</a> <a>Category:Roman Catholic universities and colleges in Canada</a> <a>Category:Educational institutions established in 1849</a> <a>Category:Former women's universities and colleges</a></p>
-<p><a>fr:Universit&#x00e9; Mount Saint Vincent</a></p>
+

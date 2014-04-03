@@ -303,5 +303,4 @@
 </ul>
 <p>&lt;!----&gt;</p>
 <p><img>   <img>   </p>
-<p><a>*</a> <a>Category:Universities and colleges in Los Angeles County, California</a> <a>Category:Independent Colleges of Southern California</a> <a>Category:Liberal arts colleges</a> <a>Category:Educational institutions established in 1887</a> <a>Category:National Association of Independent Colleges and Universities members</a> <a>Category:Schools accredited by the Western Association of Schools and Colleges</a></p>
 <p><a>da:Occidental College</a> <a>es:Occidental College</a> <a>fr:Occidental College</a> <a>ko:&#xc625;&#xc2dc;&#xb374;&#xd0c8; &#xb300;&#xd559;&#xad50;</a> <a>ja:&#x30aa;&#x30af;&#x30b7;&#x30c7;&#x30f3;&#x30bf;&#x30eb;&#x5927;&#x5b66;</a> <a>simple:Occidental College</a> <a>sv:Occidental College</a></p>

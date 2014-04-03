@@ -151,6 +151,5 @@
 <h2>References</h2>
 <p></p>
 <p> <img>   <img> </p>
-<p><a>Category:Williams College</a> <a>Category:Universities and colleges in Massachusetts</a> <a>Category:Liberal arts colleges</a> <a>Category:New England Small College Athletic Conference</a> <a>Category:New England Association of Schools and Colleges</a> <a>Category:Council of Independent Colleges</a> <a>Category:National Association of Independent Colleges and Universities members</a> <a>Category:Educational institutions established in the 1790s</a> <a>Category:1793 establishments</a> <a>Category:Exeter College, Oxford</a> <a>Category:Universities and colleges in Berkshire County, Massachusetts</a></p>
 <p></p>
-<p><a>de:Williams College</a> <a>fr:Williams College</a> <a>ko:&#xc70c;&#xb9ac;&#xc5c4;&#xc2a4; &#xb300;&#xd559;&#xad50;</a> <a>ja:&#x30a6;&#x30a3;&#x30ea;&#x30a2;&#x30e0;&#x30ba;&#x5927;&#x5b66;</a> <a>no:Williams College</a> <a>pnb:&#x0648;&#x06cc;&#x0644;&#x06cc;&#x0645;&#x0632; &#x06a9;&#x0627;&#x0644;&#x062c;</a> <a>pt:Williams College</a> <a>tr:Williams College</a></p>
+

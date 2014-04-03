@@ -1,271 +1,162 @@
-111
-home 39 4:1
-redhawks 31 1:1
-owls 15 1:1
-<li><em><a> 60 0:1
-women 98 4:1
-bruins 90 3:1
-<a>category 53 4:1
-aggies 28 1:1
-<p>nmu 71 0:1
-ju 107 1:1
-hold 9 4:1
-honor 29 4:1
-li> 110 4:1
-especially 70 4:1
-institutions 55 4:1
-events 41 4:1
-sussex 76 1:1
-field 86 0:1
-www 36 4:1
-stadium< 87 0:1
+65
+mascot 46 0:1
+amp 62 4:1
+cardinal 41 1:1
+asp 60 4:1
+compete 39 4:1
+alumni< 28 4:1
+named 15 0:1
+em> 13 4:2
+www 53 4:1
+gt 51 4:2
+elyear=2000 61 4:1
+ju 27 1:1
+mystics 31 1:1
+home 56 4:1
+<p>nmu 35 0:1
+<strong> 16 0:1
+redhawks 48 1:1
+elid=521200210924< 63 4:1
+wildcats 38 1:1
 big 3 1:1
-is 104 4:1
-<p>besides 93 0:1
-<a>http 35 4:1
-<a>thumb 88 0:1
-<em> 19 0:2
-in 7 4:4
-u 102 2:1
-little 84 1:1
-s 65 0:1 4:2
-on 16 4:1
-hosting 94 0:1
-versity 78 4:1
-green 4 3:1
-nickname 1 0:2
-k 50 1:1
-strong> 59 0:1 4:2
-of 18 0:1 4:1
-tartans 67 1:1
-student 66 4:1
-named 56 0:1
-a 10 4:2
-ref 33 4:2
-compete 74 4:1
-p> 48 4:1
-pioneers 58 1:1
-<strong> 57 0:2
-alumni< 108 4:1
-<p><a>category 49 0:1
-seattleu 37 4:1
-elyear=2000 44 4:1
-referred 25 0:1
-and 97 4:1
-a>< 63 4:1
-to 26 0:3
-centre 81 4:1
-college< 52 4:1
-wustl 103 3:1
-network< 106 0:1
-football 96 4:1
-as 27 0:1
+owls 22 1:1
+commemorates 14 4:1
+< 12 4:3
+student 45 4:1
 quot 2 0:1 4:2
-called 83 0:1
-gt 34 4:2
-amp 45 4:1
-an 69 4:1
-< 22 4:4
-commemorates 24 4:1
-asp 43 4:1
-louis< 100 0:1
-alamazoo 51 4:1
-private 105 4:1
-st 99 0:1
-, 5 0:1 2:1 4:2
-elid=521200210924< 46 4:1
-tornadoes 21 3:1
-news 40 4:3
-several 13 0:1
-entering 91 4:1
-em> 23 4:2
-study 80 4:1
-mystics 8 1:1
-em>< 109 4:1
-kept 12 0:1
-live 14 0:1
-wash 101 1:1
-golden 20 1:1 4:1
-lt 32 4:2
-fisher 64 4:1
-cardinal 61 1:1
-number 11 4:1
-campus 17 4:1
-international 79 4:1
-brahmas 95 3:1
-wildcats 73 1:1
-ucla 89 1:1
+news 57 4:3
+golden 10 1:1 4:1
+edu 55 4:1
+kept 19 0:1
+<a>http 52 4:1
+events 58 4:1
+seattleu 54 4:1
+lt 49 4:2
+x2019 36 0:1
+strong> 18 4:1
+, 5 4:2
+hold 32 4:1
+pioneers 17 1:1
+the 0 0:5 4:3
+in 7 4:3
+li> 30 4:1
+several 20 0:1
+live 21 0:1
+on 23 4:1
+tornadoes 11 3:1
+a> 26 0:1 4:1
+of 8 0:1
+<em> 9 0:2
+ref 50 4:2
+courier< 42 4:1
+s 37 0:1 4:1
+p> 64 4:1
+green 4 3:1
+<li><em><a> 40 0:1
+a>< 43 4:1
 originating 6 4:1
-are 82 0:1
-uni 77 3:1
-giants 85 3:1
-x2019 72 0:1
-a> 47 0:2 4:2
-detail 42 4:1
-provide 75 0:1
-the 0 0:8 1:1 4:4
-courier< 62 4:1
-la 92 4:1
-educational 54 4:1
-edu 38 4:1
-have 68 4:1
-mascot 30 0:1
+fisher 44 4:1
+campus 24 4:1
+detail 59 4:1
+to 47 0:1
+a 33 4:1
+network< 25 0:1
+em>< 29 4:1
+nickname 1 0:2
+number 34 4:1
 ******* Features ************
-157
-W_a:382:4 30
-W_tornadoes:760:3 43
-W_sussex:2671:1 105
-W_stadium<:3049:0 117
-W_alumni<:3812:4 154
-W_s:2279:0 101
-W_and:3427:4 133
-W_fisher:2272:4 91
-W_<a>category:1887:4 80
-W_detail:1502:4 68
-R_singlePunctuation:733:4 18
-W_golden:732:4 49
-R_isSpecialCharacter:348:4 45
-W_hold:347:4 29
-E.4:343:4 19
-R_singlePunctuation:719:2 147
-W_field:3014:0 116
-W_provide:2629:0 104
-W_redhawks:1096:1 57
-W_golden:711:1 42
-W_football:3392:4 132
-W_compete:2622:4 103
-R_singlePunctuation:705:0 129
-W_a><:2237:4 90
-W_college<:1852:4 79
-W_giants:3000:3 115
-W_events:1467:4 67
-R_singleQuote:313:4 17
-W_ju:3756:1 153
-E.3:308:4 14
-R_singleQuote:299:2 146
-W_mystics:291:1 27
-W_mascot:1054:0 56
-W_courier<:2202:4 89
-W_<em>:669:0 40
-W_brahmas:3350:3 131
-R_singleQuote:285:0 128
-W_alamazoo:1817:4 78
-W_news:1432:4 66
-W_honor:1047:4 54
-W_of:662:4 55
-R_singleComma:278:4 16
-W_in:277:4 24
-W_little:2951:1 113
-W_wildcats:2566:1 102
-W_network<:3714:0 152
-E.2:266:3 148
-R_singleComma:264:2 145
-W_private:3707:4 151
-E.2:259:2 143
-W_of:634:0 39
-R_singleComma:250:0 127
-W_home:1397:4 65
-W_campus:627:4 38
-W_originating:242:4 23
-E.1:238:4 28
-E.1:231:3 10
-W_cardinal:2146:1 88
-W_hosting:3294:0 125
-W_k:1761:1 77
-W_called:2909:0 112
-W_x2019:2524:0 99
-W_is:3672:4 150
-W_aggies:991:1 53
-E.1:224:2 139
-W_edu:1362:4 64
-R_containsSpecialCharacters:978:4 46
-W_on:592:4 37
-R_isAllSmallCase:208:4 21
-W_,:207:4 15
-R_isAllSmallCase:201:3 13
-W_<p>besides:3259:0 124
-R_isAllSmallCase:194:2 142
-W_,:193:2 144
-W_are:2874:0 111
-W_<p>nmu:2489:0 98
-W_<li><em><a>:2104:0 87
-W_la:3252:4 123
-W_<p><a>category:1719:0 76
+94
+W_detail:2097:4 86
 R_isAllSmallCase:187:1 9
-W_centre:2867:4 110
-R_containsSpecialCharacters:950:0 41
-W_especially:2482:4 97
-W_wustl:3630:3 149
-W_as:949:0 52
+R_containsSpecialCharacters:950:0 30
 E.0:182:1 6
-W_strong>:2097:4 86
+W_<strong>:564:0 40
+W_s:1327:4 71
 R_isAllSmallCase:180:0 2
-W_p>:1712:4 75
-W_,:179:0 126
-W_seattleu:1327:4 63
+W_a>:942:4 92
+R_containsDigit:558:4 89
 E.0:175:0 3
-R_containsDigit:558:4 71
+W_p>:2272:4 93
+W_golden:361:1 31
+W_www:1887:4 80
+W_live:739:0 46
 W_green:165:3 12
-W_strong>:2069:0 137
-W_owls:536:1 36
-W_entering:3217:4 122
-W_study:2832:4 109
-W_an:2447:4 96
-W_to:914:0 51
-R_containsDigit:530:0 100
-W_a>:1677:4 74
-W_www:1292:4 62
-W_u:3588:2 141
-W_pioneers:2041:1 85
-W_a>:1649:0 118
+W_courier<:1502:4 68
+W_redhawks:1691:1 75
+R_singlePunctuation:733:4 18
+R_isSpecialCharacter:348:4 34
+W_s:1299:0 63
+W_events:2062:4 85
+E.4:343:4 19
+W_a>:914:0 51
+R_containsDigit:530:0 62
+W_named:529:0 39
+W_mystics:1096:1 56
+W_commemorates:522:4 37
+W_elid=521200210924<:2237:4 91
+W_<a>http:1852:4 79
+W_several:704:0 45
+W_<em>:319:0 29
+W_li>:1082:4 55
+R_singleQuote:313:4 17
+W_to:1649:0 74
+W_x2019:1264:0 61
+W_news:2027:4 84
+E.3:308:4 14
 W_big:116:1 8
-W_international:2797:4 108
-W_have:2412:4 95
-W_referred:879:0 50
-W_live:494:0 35
-W_bruins:3175:3 121
-W_elid=521200210924<:1642:4 73
-W_<a>http:1257:4 61
-W_commemorates:872:4 48
+W_network<:879:0 50
+W_cardinal:1446:1 67
+W_campus:872:4 49
+W_em>:487:4 36
 W_quot:102:4 20
-W_wash:3546:1 138
-W_<strong>:1999:0 84
-W_versity:2762:4 107
-W_several:459:0 34
-W_amp:1607:4 72
+W_amp:2202:4 90
+W_gt:1817:4 78
+W_kept:669:0 44
+W_of:284:0 28
+W_em><:1047:4 54
+W_strong>:662:4 43
+R_singleComma:278:4 16
+W_mascot:1614:0 73
+W_in:277:4 24
+W_<p>nmu:1229:0 60
+W_home:1992:4 83
+W_student:1607:4 72
+W_number:1222:4 59
 W_quot:74:0 5
-W_gt:1222:4 60
-W_em>:837:4 47
-W_ucla:3126:1 120
-W_tartans:2356:1 94
-W_louis<:3504:0 136
-W_li>:3882:4 156
-W_named:1964:0 83
-W_student:2342:4 93
-W_institutions:1957:4 82
-W_kept:424:0 33
-W_elyear=2000:1572:4 70
+W_on:837:4 48
+W_<:452:4 33
+W_<li><em><a>:1404:0 66
+W_elyear=2000:2167:4 88
+W_ref:1782:4 77
+W_compete:1397:4 65
+W_alumni<:1012:4 53
+W_originating:242:4 23
+W_edu:1957:4 82
+E.1:238:4 42
+W_fisher:1572:4 70
+W_a:1187:4 58
+E.1:231:3 10
 W_nickname:39:0 4
-W_uni:2720:3 106
-W_ref:1187:4 59
-W_<:802:4 44
-W_number:417:4 31
+W_pioneers:606:1 41
 W_the:32:4 26
+W_asp:2132:4 87
 U:31:4 22
 End.:30:4 25
+W_lt:1747:4 76
+W_tornadoes:410:3 32
 U:24:3 11
-End.:23:3 114
-W_st:3469:0 135
-W_<a>thumb:3084:0 119
-W_em><:3847:4 155
-U:17:2 140
-W_women:3462:4 134
-W_the:11:1 130
+R_containsSpecialCharacters:978:4 35
+R_isAllSmallCase:208:4 21
+W_owls:781:1 47
+W_,:207:4 15
+W_seattleu:1922:4 81
 U:10:1 7
-W_s:2307:4 92
-W_educational:1922:4 81
-W_asp:1537:4 69
+R_isAllSmallCase:201:3 13
+W_a><:1537:4 69
+W_hold:1152:4 57
 W_the:4:0 1
-U:3:0 32
-W_lt:1152:4 58
+W_wildcats:1341:1 64
+U:3:0 27
 S.:1:0 0
+W_ju:956:1 52
+W_golden:382:4 38

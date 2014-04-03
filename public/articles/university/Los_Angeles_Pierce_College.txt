@@ -64,5 +64,4 @@
   <li><a>The student-run radio station at Pierce College</a></li>
 </ul>
 <p>  <img> </p>
-<p><a>Category:California Community Colleges System</a> <a>Category:Educational institutions established in 1947</a> <a>Pierce College</a> <a>Los Angeles Pierce College#John Shephard Stadium</a> <a>Category:Schools accredited by the Western Association of Schools and Colleges</a> <a>Category:Universities and colleges in Los Angeles County, California</a></p>
-<p><a>fa:&#x06a9;&#x0627;&#x0644;&#x062c; &#x067e;&#x06cc;&#x0631;&#x0633; &#x0644;&#x0633; &#x0622;&#x0646;&#x062c;&#x0644;&#x0633;</a></p>
+

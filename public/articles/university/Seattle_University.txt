@@ -69,5 +69,4 @@
   <li><a>Seattle University's Student-run radio station</a></li>
 </ul>
 <p></p>
-<p><a>Category:Seattle University</a> <a>Category:Jesuit universities and colleges in the United States</a> <a>Category:Roman Catholic universities and colleges in the United States</a> <a>Category:Universities and colleges in Seattle, Washington</a> <a>Category:Educational institutions established in 1891</a> <a>Category:National Association of Independent Colleges and Universities members</a> <a>Category:Universities and colleges accredited by the Northwest Commission on Colleges and Universities</a></p>
-<p><a>da:Seattle University</a> <a>de:Seattle University</a> <a>es:Universidad de Seattle</a> <a>fr:Seattle University</a> <a>nl:Universiteit van Seattle</a></p>
+

@@ -1,190 +1,141 @@
-78
-php 65 4:1
-home 51 4:1
-maps 62 4:1
-redhawks 49 0:1
-<a> 30 0:6
-welcome 61 4:1
-show 64 4:1
-favorite 40 4:1
-capital 77 4:1
-rochester 44 1:1
-24893< 20 4:1
-upeace 72 1:1
-kilometers 70 0:1
-html< 33 4:3
-kent 7 1:1
-about 74 4:1
-may 0 0:1
-events 53 4:1
-www 6 1:8
-memorial 68 4:1
-id=66< 66 4:1
-s 19 4:1
-a>] 11 4:2
-o 17 4:2
-ca 60 1:1
-[<a> 4 0:2
-life 39 4:1
-of 76 4:1
-i 18 4:1
-student 38 4:1
+54
+amp 52 4:1
+asp 50 4:1
+traditions 32 4:1
 research 12 0:1
-org 73 1:1
-ref 28 0:4 4:5
-p> 23 4:5
-arts 24 0:1
-seattleu 50 1:1
-history 46 4:1
-elyear=2000 56 4:1
-a>< 47 4:1
-DIGIT 1 0:3
-traditions 41 4:1
-hall 69 4:1
-to 43 0:2
-academic 25 0:1
-quot 3 0:3
-http 5 1:8
-uiu 31 1:1
-name= 35 0:1
-gt 29 0:5 4:5
-amp 57 4:1
-< 10 4:5
-go 42 0:1
-asp 55 4:1
-such 21 4:1
-, 2 0:1 4:2
-elid=521200210924< 58 4:1
-building 26 0:1
-news 52 4:3
-centres 13 0:1
-se 16 1:1
-lu 15 1:1
-lt 27 0:4 4:5
-aboutus 45 4:1
-campus 75 4:1
-reed 36 0:1 1:1
-cacm 9 4:1
-fredericton 63 4:1
-war 67 4:1
-newhomepage 32 4:1
-a> 34 4:5
-detail 54 4:1
-the 48 0:1 4:1
-southwest 71 0:1
-unb 59 1:1
-apply 37 4:1
-as< 22 4:1
+reed 25 0:1 1:1
+[<a> 4 0:2
+kent 7 1:1
+www 6 1:5
+rochester 39 1:1
+gt 26 0:2 4:2
+elyear=2000 51 4:1
+home 46 4:1
+go 37 0:1
+redhawks 44 0:1
+http 5 1:5
 lunduniversity 14 1:1
-edu 8 0:1 1:5
+such 21 4:1
+history 41 4:1
+elid=521200210924< 53 4:1
+< 10 4:2
+student 29 4:1
+quot 3 0:3
+se 16 1:1
+news 47 4:3
+DIGIT 1 0:2
+edu 8 0:1 1:4
+may 0 0:1
+favorite 31 4:1
+events 48 4:1
+seattleu 45 1:1
+name= 24 0:1
+centres 13 0:1
+lu 15 1:1
+lt 35 0:1 4:2
+, 2 0:1 4:1
+a>] 11 4:2
+the 43 0:1
+as< 22 4:1
+aboutus 40 4:1
+html< 33 4:2
+24893< 20 4:1
+a> 34 4:2
+<a> 27 0:3
+ref 36 0:1 4:2
+s 19 4:1
+p> 23 4:3
+life 30 4:1
+o 17 4:2
+i 18 4:1
+a>< 42 4:1
+apply 28 4:1
+detail 49 4:1
+cacm 9 4:1
+to 38 0:2
 ******* Features ************
-109
+84
 W_se:571:1 37
+W_to:1334:0 66
 R_isAllSmallCase:187:1 16
 R_containsSpecialCharacters:950:0 13
 W_http:186:1 15
-W_lt:949:0 52
-W_the:1712:4 107
+W_<a>:949:0 53
+W_events:1712:4 78
 E.0:182:1 14
-W_apply:1327:4 67
 R_isAllSmallCase:180:0 3
+W_gt:942:4 64
 R_containsDigit:558:4 42
 E.0:175:0 4
-W_campus:2657:4 105
-W_to:1509:0 73
-W_show:2272:4 94
-W_events:1887:4 83
-W_unb:2076:1 89
-W_kilometers:2454:0 100
+W_the:1509:0 71
+W_elid=521200210924<:1887:4 83
+W_a><:1502:4 70
+W_favorite:1117:4 58
 R_singlePunctuation:733:4 29
 W_24893<:732:4 41
 R_isSpecialCharacter:348:4 28
-W_the:1684:0 78
 W_cacm:347:4 24
-W_hall:2447:4 99
 W_lu:536:1 36
-W_elid=521200210924<:2062:4 88
+W_go:1299:0 65
 E.4:343:4 26
-W_building:914:0 51
-W_a><:1677:4 77
+W_gt:914:0 52
+W_news:1677:4 77
+W_ref:1292:4 63
 R_isAllCapital:145:0 6
 W_[<a>:144:0 12
-W_uiu:1096:1 56
-W_about:2622:4 104
-W_go:1474:0 72
-W_fredericton:2237:4 93
-W_news:1852:4 82
+W_amp:1852:4 82
 R_singlePunctuation:705:0 10
-W_traditions:1467:4 71
-W_reed:1271:1 66
+W_history:1467:4 69
+W_life:1082:4 57
 W_s:697:4 40
 R_singleQuote:313:4 45
-W_memorial:2412:4 98
+W_reed:886:1 54
 W_lunduniversity:501:1 35
-W_reed:1264:0 64
-W_amp:2027:4 87
-W_academic:879:0 50
-W_history:1642:4 76
+W_ref:1264:0 74
+W_reed:879:0 50
+W_home:1642:4 76
+W_lt:1257:4 62
 W_quot:109:0 11
 W_,:102:4 43
-W_maps:2202:4 92
 W_edu:291:1 21
-W_<a>:1054:0 55
-W_home:1817:4 81
-W_favorite:1432:4 70
+W_elyear=2000:1817:4 81
+W_aboutus:1432:4 68
 R_singleQuote:285:0 9
-W_edu:284:0 65
-W_gt:1047:4 62
+W_edu:284:0 51
+W_student:1047:4 56
 W_i:662:4 39
 R_singleComma:278:4 44
-W_war:2377:4 97
-W_org:2566:1 103
-W_name=:1229:0 63
-W_elyear=2000:1992:4 86
-W_arts:844:0 49
-W_aboutus:1607:4 75
+W_lt:1229:0 73
+W_name=:844:0 49
 W_centres:459:0 34
-W_a>:1222:4 59
+W_a>:1222:4 61
 W_,:74:0 7
 W_p>:837:4 48
-W_welcome:2167:4 91
 W_kent:256:1 20
-W_gt:1019:0 54
-W_life:1397:4 69
+W_asp:1782:4 80
 R_singleComma:250:0 8
-W_ref:1012:4 61
+W_seattleu:1586:1 75
+W_apply:1012:4 55
 W_o:627:4 38
-W_capital:2727:4 108
-W_id=66<:2342:4 96
-W_upeace:2531:1 102
-W_asp:1957:4 85
 E.1:238:4 22
-W_seattleu:1761:1 80
 W_research:424:0 33
-W_html<:1187:4 58
+W_html<:1187:4 60
 W_DIGIT:39:0 5
+W_rochester:1376:1 67
 W_as<:802:4 47
 W_a>]:417:4 32
 U:31:4 23
 End.:30:4 31
 W_www:221:1 18
-W_ref:984:0 53
+W_detail:1747:4 79
 E.1:217:1 17
-W_student:1362:4 68
-W_rochester:1551:1 74
 R_containsSpecialCharacters:978:4 30
-W_lt:977:4 60
-W_of:2692:4 106
 R_isAllSmallCase:208:4 25
-W_php:2307:4 95
-W_detail:1922:4 84
-W_ca:2111:1 90
+W_redhawks:1544:0 72
 U:10:1 19
-W_southwest:2489:0 101
-W_newhomepage:1152:4 57
+W_traditions:1152:4 59
 W_may:4:0 2
 U:3:0 1
 W_such:767:4 46
 S.:1:0 0
-W_redhawks:1719:0 79
 W_<:382:4 27

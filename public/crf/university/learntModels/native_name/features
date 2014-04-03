@@ -1,177 +1,94 @@
-71
-stanford 4 2:1
-universitet 19 3:3
-<a>et 25 4:3
-x0648 64 4:2
-band 8 4:1
-odense 33 1:1
-x0679 65 4:1
-x0646 61 4:3
-eindhoven< 40 0:1
-marching 7 4:1
-x0644 69 4:1
-uppsala 18 1:1 4:1
-<a>no 34 4:1
-universitetet 28 1:1
-<a>nl 41 0:1
-x30fc 51 4:1
-bergen< 27 0:1 4:1
-x062c 70 4:1
-leland 3 1:1
-x06cc 66 4:2
-junior 5 2:1
-x30a7 53 4:1
-de 26 0:2
-x30a4 47 4:1
-x30d5 52 4:1
-x06a9 67 4:1
-x30a2 46 4:1
-< 10 4:7
-x5b66 57 4:1
-universiteit 43 2:1
-x5927 56 4:1
-uppsalsk 14 0:1
-eindhoven 44 3:1
-lund< 35 0:1 4:1
-<p><a>da 32 0:1
-<a>de 20 4:3
-university 6 3:1
-, 12 4:1
-x06be 63 4:1
-<a>da 17 0:3
-the 1 0:1
-<a>ja 45 4:1
-lsjumb 9 4:1
-x30c8 49 4:1
-a> 11 0:4 4:10
-bergen 30 3:1
-of 0 0:1
-<a>cs 13 0:1
-x0627 68 4:1
-x30f3 48 4:2
-x0626 60 4:1
-x0688 62 4:1
-<a> 2 0:1
-bergeni 31 4:1
-x0622 59 4:1
-t 23 4:3
-uppsala< 24 4:1
-x00e4 22 4:3
-x5de5 54 4:1
-x00e1 15 0:1
-x30db 50 4:1
-lunds 36 1:1
-i 29 2:1
-technische 42 1:1
-technique 38 0:1
-d 39 0:1
-<a>pnb 58 4:1
-universit 21 4:3
-x79d1 55 4:1
-univerzita< 16 0:1
-lundi 37 4:1
+30
+<a>cs 24 0:1
+x00e4 9 4:2
+, 23 4:1
+marching 20 4:1
+x00e1 26 0:1
+university 19 3:1
+the 14 0:1
+universitet 5 3:2
+lunds 4 1:1
+t 10 4:2
+band 21 4:1
+of 13 0:1
+leland 16 1:1
+univerzita< 27 0:1
+universit 8 4:2
+<a>de 7 4:2
+<a>et 11 4:2
+lund< 1 0:1 4:1
+a> 2 0:2 4:5
+lsjumb 22 4:1
+lundi 12 4:1
+< 6 4:3
+<a>da 3 0:2
+uppsala 28 1:1 4:1
+uppsala< 29 4:1
+de 0 0:1
+<a> 15 0:1
+stanford 17 2:1
+uppsalsk 25 0:1
+junior 18 2:1
 ******* Features ************
-103
-W_x062c:2482:4 102
-W_technique:1334:0 70
-W_x0622:2097:4 91
-R_isAllSmallCase:187:1 11
-W_universiteit:1523:2 75
-R_containsSpecialCharacters:950:0 7
-W_bergen<:949:0 57
-W_x30f3:1712:4 80
-E.0:182:1 8
-W_univerzita<:564:0 42
-W_lundi:1327:4 69
+61
+W_univerzita<:949:0 57
+R_isAllSmallCase:187:1 12
+R_singleComma:278:4 51
+E.0:182:1 9
+W_<a>de:277:4 23
 R_isAllSmallCase:180:0 3
-R_containsDigit:558:4 51
+W_<a>cs:844:0 53
+R_containsDigit:558:4 27
 E.0:175:0 4
-W_x0648:2272:4 96
-W_<p><a>da:1124:0 63
-W_x30a7:1887:4 85
-W_bergeni:1117:4 62
-R_singlePunctuation:733:4 31
-W_<a>de:732:4 48
-W_stanford:158:2 14
-R_isSpecialCharacter:348:4 30
-W_lsjumb:347:4 28
-W_x0644:2447:4 101
-W_<a>pnb:2062:4 90
-E.4:343:4 26
-W_de:914:0 56
-W_x30a4:1677:4 79
-R_containsDigit:530:0 41
-W_x00e1:529:0 40
-W_technische:1481:1 74
-W_<a>et:907:4 54
-W_x06be:2237:4 95
-W_x30d5:1852:4 84
-W_lunds:1271:1 67
-R_singleQuote:313:4 37
-W_band:312:4 27
-W_x0627:2412:4 100
-W_bergen:1075:3 60
-W_x5b66:2027:4 89
-E.3:308:4 22
-W_universitet:690:3 47
-W_leland:116:1 10
-W_x30a2:1642:4 78
-W_uppsalsk:494:0 39
-W_lund<:1257:4 68
-W_uppsala<:872:4 53
-W_<a>nl:1439:0 73
-W_x0688:2202:4 94
-W_x30fc:1817:4 83
-W_uppsala:662:4 55
-R_singleComma:278:4 36
-W_marching:277:4 24
-W_x06a9:2377:4 99
-W_lund<:1229:0 66
-W_x5927:1992:4 88
-W_<a>ja:1607:4 77
-W_i:1033:2 59
-W_<a>cs:459:0 38
-W_<a>no:1222:4 65
-E.2:266:3 18
-W_<a>:74:0 6
-W_t:837:4 52
-W_,:452:4 35
-E.2:259:2 16
-W_uppsala:641:1 45
-W_eindhoven<:1404:0 72
-W_x0646:2167:4 93
-W_x30db:1782:4 82
-W_x06cc:2342:4 98
-W_x79d1:1957:4 87
-W_university:235:3 20
-E.1:231:3 46
-W_the:39:0 5
-W_x00e4:802:4 50
-W_eindhoven:1565:3 76
-W_universitetet:991:1 58
-W_a>:417:4 33
-E.1:224:2 12
-W_d:1369:0 71
-W_x0626:2132:4 92
-U:31:4 23
-End.:30:4 34
-W_x30c8:1747:4 81
-W_<a>da:599:0 44
-U:24:3 19
-R_containsSpecialCharacters:978:4 32
-W_bergen<:977:4 61
-W_odense:1166:1 64
-U:17:2 13
+W_of:459:0 34
+W_junior:648:2 43
+W_,:837:4 50
+E.2:266:3 44
+W_a>:74:0 7
+W_lundi:452:4 33
+E.2:259:2 42
+R_singlePunctuation:733:4 19
+W_marching:732:4 47
+W_lund<:67:4 29
+R_isSpecialCharacter:348:4 18
+W_uppsala:1012:4 60
+W_x00e4:347:4 26
+W_x00e1:914:0 55
+E.4:343:4 21
+W_lunds:151:1 11
+R_containsDigit:530:0 56
+W_<a>:529:0 36
+W_<:242:4 17
+W_stanford:613:2 40
+W_lsjumb:802:4 49
+W_uppsala:991:1 58
+E.1:231:3 13
+W_lund<:39:0 5
+W_<a>et:417:4 30
+E.1:224:2 38
+U:31:4 32
+End.:30:4 31
+R_singleQuote:313:4 52
+R_containsSpecialCharacters:978:4 20
+W_universit:312:4 24
+W_university:690:3 46
+W_uppsalsk:879:0 54
+U:24:3 45
+E.3:308:4 16
+W_the:494:0 35
 R_isAllSmallCase:208:4 25
-W_x0679:2307:4 97
-W_x5de5:1922:4 86
-U:10:1 9
-R_isAllSmallCase:201:3 21
-W_a>:389:0 43
-W_of:4:0 2
+U:17:2 39
+W_<a>da:109:0 8
+R_isAllSmallCase:201:3 15
+U:10:1 10
+W_universitet:200:3 14
+W_band:767:4 48
+W_a>:102:4 22
+R_isAllSmallCase:194:2 41
+W_de:4:0 2
 U:3:0 1
-R_isAllSmallCase:194:2 15
-W_universit:767:4 49
-W_junior:193:2 17
+W_uppsala<:1047:4 59
+W_t:382:4 28
+W_leland:571:1 37
 S.:1:0 0
-W_<:382:4 29
+R_containsSpecialCharacters:950:0 6

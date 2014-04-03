@@ -137,5 +137,4 @@
   <li><a>2006 AUQA review</a></li>
 </ul>
 <p>  <img> </p>
-<p><a>Category:Australian vocational education and training providers</a> <a>Category:Universities in Melbourne</a> <a>Category:TAFE Colleges in Melbourne</a> <a>Category:Association of Commonwealth Universities</a></p>
-<p><a>de:Victoria University</a> <a>it:Universit&#x00e0; di Victoria</a> <a>ja:&#x30d3;&#x30af;&#x30c8;&#x30ea;&#x30a2;&#x5927;&#x5b66; (&#x30aa;&#x30fc;&#x30b9;&#x30c8;&#x30e9;&#x30ea;&#x30a2;)</a> <a>pt:Victoria University</a> <a>ta:&#x0bb5;&#x0bbf;&#x0b95;&#x0bcd;&#x0b9f;&#x0bcb;&#x0bb0;&#x0bbf;&#x0baf;&#x0bbe; &#x0baa;&#x0bb2;&#x0bcd;&#x0b95;&#x0bb2;&#x0bc8;&#x0b95;&#x0bcd;&#x0b95;&#x0bb4;&#x0b95;&#x0bae;&#x0bcd;</a> <a>zh:&#x7dad;&#x591a;&#x5229;&#x4e9e;&#x5927;&#x5b78; (&#x6fb3;&#x5927;&#x5229;&#x4e9e;)</a></p>
+

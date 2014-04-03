@@ -51,5 +51,5 @@
 <p>  <img></p>
 <p><img></p>
 <p></p>
-<p> <a>Category:University of Prince Edward Island</a> <a>Category:Educational institutions established in 1969</a></p>
-<p><a>es:Universidad de la Isla del Pr&#x00ed;ncipe Eduardo</a> <a>fr:Universit&#x00e9; de l'&#x00ce;le-du-Prince-&#x00c9;douard</a></p>
+<p></p>
+

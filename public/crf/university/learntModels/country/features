@@ -1,116 +1,80 @@
-44
-education< 42 4:1
-mount 0 0:1
-em> 37 4:1
-gt 11 4:1
-peace 41 4:1
-friends 30 0:1
-universities 25 0:2
-naval 34 4:1
-costa 39 1:1
-academy 35 4:1
-de 4 4:1
-rica 40 3:1
-midshipmen< 36 4:1
-safety< 7 4:1
-< 27 4:2
-denmark 26 1:1
-australia 13 1:1
-cr 2 0:1
-odense< 23 0:1
-lt 9 4:1
-studies< 38 0:1
-the 20 0:1
-in 19 0:3
-<p><a>category 12 0:2
-organization 18 0:1
-a> 8 0:2 4:3
-of 31 0:1
-for 5 4:1
-u 32 1:1
-ref 10 4:1
-education 16 4:1
-s 33 1:1
-p> 29 4:1
-and 17 0:1 4:1
-states 22 3:1
-n 14 4:1
-educational 43 4:1
-usa 3 1:1
-a>< 28 4:1
-<a>category 24 0:2 4:2
-campus 6 4:1
-united 21 1:1
-vocational 15 4:1
-a 1 0:1
+27
+, 8 4:1
+with 14 4:1
+to 18 4:1
+undergraduate 16 4:1
+bureau< 6 4:1
+li> 23 4:1
+college 17 0:1
+states 13 3:4
+admit 20 4:1
+regularly 19 4:1
+united 12 1:4
+kind 21 0:1
+university 24 0:1
+in 11 0:4
+the 1 0:5 4:1
+u 3 1:1
+s 4 1:1
+as 9 4:1
+schools 10 0:1
+an 15 4:1
+a> 7 4:1
+< 22 4:1
+for 25 4:1
+census 5 4:1
+fiscal 26 4:1
+according 0 0:1
+<a> 2 0:1
 ******* Features ************
-69
-W_a>:284:0 42
-W_em>:1327:4 60
-R_isAllSmallCase:187:1 10
-E.0:182:1 7
-W_safety<:277:4 18
-W_u:1131:1 54
-W_australia:466:1 27
+50
+W_to:662:4 39
+R_isAllSmallCase:187:1 11
+R_singleComma:278:4 23
+W_fiscal:942:4 49
+E.0:182:1 8
+W_a>:277:4 21
 R_isAllSmallCase:180:0 3
-W_<a>category:844:0 43
-W_naval:1222:4 57
-W_vocational:557:4 29
-W_united:746:1 35
+W_university:844:0 46
+W_an:557:4 36
 E.0:175:0 4
-W_education<:1502:4 67
-W_de:172:4 13
-W_cr:74:0 6
-R_singlePunctuation:733:4 48
-W_denmark:921:1 45
-W_organization:634:0 32
-R_isSpecialCharacter:348:4 47
-W_a><:1012:4 49
-W_lt:347:4 21
-E.4:343:4 15
-W_midshipmen<:1292:4 59
-W_and:627:4 31
-W_campus:242:4 17
-W_odense<:809:0 41
-E.1:238:4 11
-W_n:522:4 28
-W_costa:1376:1 62
-W_of:1089:0 53
-W_<p><a>category:424:0 25
-W_peace:1467:4 66
-E.1:231:3 36
-W_a:39:0 5
-W_the:704:0 34
-W_gt:417:4 24
-W_states:795:3 39
-U:31:4 12
-End.:30:4 23
-W_and:599:0 51
-R_containsSpecialCharacters:978:4 19
-E.1:217:1 55
-W_<:977:4 46
-W_a>:312:4 20
-W_s:1166:1 56
-W_universities:879:0 44
-U:24:3 38
-E.3:308:4 64
-End.:23:3 37
-W_academy:1257:4 58
-W_education:592:4 30
-W_usa:116:1 9
-R_isAllSmallCase:208:4 14
-W_educational:1537:4 68
-W_<a>category:872:4 65
-W_for:207:4 16
-R_isAllSmallCase:201:3 40
-U:10:1 8
-W_friends:1054:0 52
-W_studies<:1334:0 61
-W_mount:4:0 2
-W_in:669:0 33
+W_li>:837:4 45
+W_kind:739:0 42
+W_<a>:74:0 6
+W_schools:354:0 28
+R_singlePunctuation:733:4 25
+W_the:67:4 48
+W_admit:732:4 41
+R_isSpecialCharacter:348:4 44
+W_as:347:4 27
+E.4:343:4 18
+W_s:151:1 13
+W_for:907:4 47
+W_bureau<:242:4 19
+W_united:431:1 30
+E.1:238:4 14
+W_with:522:4 35
+W_<:802:4 43
+E.1:231:3 31
+W_the:39:0 5
+W_regularly:697:4 40
+U:31:4 15
+End.:30:4 26
+W_college:599:0 38
+R_singleQuote:313:4 24
+R_containsSpecialCharacters:978:4 20
+E.1:217:1 12
+W_,:312:4 22
+E.3:308:4 34
+W_undergraduate:592:4 37
+W_u:116:1 10
+R_isAllSmallCase:208:4 17
+W_census:207:4 16
+R_isAllSmallCase:201:3 33
+U:10:1 9
+W_in:389:0 29
+W_states:480:3 32
+W_according:4:0 2
 U:3:0 1
-W_p>:1047:4 50
-W_ref:382:4 22
 S.:1:0 0
-W_rica:1425:3 63
-R_containsSpecialCharacters:950:0 26
+R_containsSpecialCharacters:950:0 7

@@ -1,61 +1,30 @@
-18
-, 4 1:4 4:1
-los 7 4:1
-has 10 0:2
-DIGIT 3 1:9 4:2
-<p>over 16 0:1
-in 15 4:1
-enrollment 14 0:1
-the 2 0:2
-campus 9 0:1
-at 6 4:1
-school 12 0:1
-of 1 0:2
-an 13 0:1
-rica 8 0:1
-from 11 4:2
-over 17 4:1
-government 0 0:1
-students 5 4:5
+6
+has 2 0:1
+school 1 0:1
+the 0 0:1
+students 5 4:1
+, 4 1:1
+DIGIT 3 1:2
 ******* Features ************
-40
-W_rica:284:0 23
-W_<p>over:564:0 37
-R_singleComma:278:4 34
+21
 E.0:182:1 7
-W_los:277:4 22
+W_school:39:0 5
 R_isAllSmallCase:180:0 3
-W_in:557:4 32
 E.0:175:0 4
-W_an:459:0 30
-R_isAllCapital:173:4 28
-W_,:172:4 33
-W_the:74:0 6
-W_has:354:0 25
-R_singlePunctuation:733:4 36
-R_singleComma:257:1 12
-E.4:343:4 18
-W_over:627:4 39
-R_isAllCapital:152:1 9
-W_,:151:1 11
-W_at:242:4 20
-E.1:238:4 15
-R_singlePunctuation:712:1 14
-W_school:424:0 29
-W_DIGIT:137:4 27
-W_of:39:0 5
-W_from:417:4 26
-W_campus:319:0 24
-U:31:4 19
-End.:30:4 21
-R_singleQuote:313:4 35
+U:31:4 18
+End.:30:4 17
 E.1:217:1 10
+W_has:74:0 6
 W_DIGIT:116:1 8
-W_enrollment:494:0 31
-R_isAllSmallCase:208:4 17
-W_students:207:4 16
-R_singleQuote:292:1 13
-W_government:4:0 2
+R_singleComma:257:1 13
+R_isAllSmallCase:208:4 20
+W_students:207:4 19
+R_isAllCapital:152:1 9
+U:10:1 11
+W_,:151:1 12
+R_singleQuote:292:1 14
+R_singlePunctuation:712:1 15
+W_the:4:0 2
 U:3:0 1
+E.1:238:4 16
 S.:1:0 0
-R_containsSpecialCharacters:950:0 38

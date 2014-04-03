@@ -161,5 +161,4 @@
 </ul>
 <p>&lt;!-- --&gt; </p>
 <p>   </p>
-<p><a>Category:Lehigh University</a> <a>Category:Eastern Pennsylvania Rugby Union</a> <a>Category:Educational institutions established in 1865</a> <a>Category:Middle States Association of Colleges and Schools</a> <a>Category:National Football League summer camp sites</a> <a>Category:Patriot League</a> <a>Category:Patriot League football</a> <a>Category:Technical universities and colleges</a> <a>Category:Universities and colleges in Pennsylvania</a> <a>Category:National Association of Independent Colleges and Universities members</a> <a>Category:Bethlehem, Pennsylvania</a> <a>Category:Universities and colleges in Northampton County, Pennsylvania</a></p>
-<p><a>cs:Lehigh University</a> <a>de:Lehigh University</a> <a>fr:Universit&#x00e9; Lehigh</a> <a>id:Universitas Lehigh</a> <a>nl:Lehigh-universiteit</a> <a>no:Lehigh University</a> <a>fi:Lehighin yliopisto</a> <a>th:&#x0e21;&#x0e2b;&#x0e32;&#x0e27;&#x0e34;&#x0e17;&#x0e22;&#x0e32;&#x0e25;&#x0e31;&#x0e22;&#x0e25;&#x0e35;&#x0e44;&#x0e2e;</a> <a>zh:&#x7406;&#x6d77;&#x5927;&#x5b78;</a></p>
+

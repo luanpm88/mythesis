@@ -1,0 +1,354 @@
+<p>  The <strong>University of California, Santa Cruz</strong>, also known as <strong>UC Santa Cruz</strong> or <strong>UCSC</strong>, is a <a>public</a>, <a>collegiate</a> <a>university</a>; one of ten campuses in the <a>University of California</a>.
+Located 80 miles (130&nbsp;km) south of <a>San Francisco</a> at the edge of the coastal community of <a>Santa Cruz</a>, the campus lies on &lt;ref name=&quot;UCSC Acreage&quot;&gt;&lt;/ref&gt; of rolling, forested hills overlooking the [[Pacific Ocean]] and [[Monterey Bay]].</pre>
+<p>Founded in 1965,&lt;ref name=&quot;overview&quot;&gt;&lt;/ref&gt; UC Santa Cruz began as a showcase for progressive, cross-disciplinary undergraduate education, innovative teaching methods and contemporary architecture.
+Since then, UCSC has evolved into a modern research university with a wide variety of both undergraduate and graduate programs, while retaining its reputation for strong undergraduate support and student political activism.
+The residential college system, which consists of ten small colleges, is intended to combine the student support of a small college with the resources of a major university.</pre>
+<h2>History</h2>
+<p>Although some of the original founders had already outlined plans for an institution like UCSC as early as the 1930s, the opportunity to realize their vision did not present itself until the City of Santa Cruz made a bid to the <a>University of California Regents</a> in the mid-1950s to build a campus just outside town, in the foothills of the <a>Santa Cruz Mountains</a>.&lt;ref name=&quot;City council hasn't told&quot;&gt;&lt;/ref&gt; The Santa Cruz site was selected over a competing proposal to build the campus closer to the population center of [[San Jose, California|San Jose]].
+Santa Cruz was selected for the beauty, rather than the practicality, of its location, however, and its remoteness led to the decision to develop a residential college system that would house most of the students on-campus.&lt;ref
+name=&quot;McHenry UCSC origins&quot;&gt;&lt;/ref&gt; The formal design process of the Santa Cruz campus began in the late 1950s, culminating in the Long Range Development Plan of 1963.&lt;ref
+name=&quot;1963 LRDP&quot;&gt;&lt;/ref&gt; Construction had started by 1964, and the University was able to accommodate its first students (albeit living in trailers on what is now the East Field athletic area) in 1965.
+The campus was intended to be a showcase for contemporary architecture, progressive teaching methods, and undergraduate research.&lt;ref
+name=&quot;UC Regents history&quot;&gt;&lt;/ref&gt;&lt;ref name=&quot;Stadtman&quot;&gt;&lt;/ref&gt;&lt;ref name=&quot;Burchyns 45 years&quot;&gt;&lt;/ref&gt; According to founding chancellor [[Dean McHenry]], the purpose of the distributed college system was to combine the benefits of a major [[research university]] with the intimacy of a smaller college.&lt;ref
+name=&quot;Burns&quot;&gt;&lt;/ref&gt;&lt;ref name=&quot;Burchyns future&quot;&gt;&lt;/ref&gt; UC President [[Clark Kerr]] shared a passion with former [[Stanford]] roommate McHenry to build a university modeled as &quot;several [[Swarthmore College|Swarthmores]]&quot; (i.e., small [[liberal arts college]]s) in close proximity to each other.&lt;ref
+name=&quot;Burns&quot;/&gt;&lt;ref&gt;&lt;/ref&gt; Roads on campus were named after [[Regents of the University of California|UC Regents]] who voted in favor of building the campus.</pre>
+<p><a>thumb|left|McHenry Library</a></p>
+<h3>Impact on Santa Cruz</h3>
+<p>Although the city of <a>Santa Cruz</a> already exhibited a strong <a>conservation ethic</a> before the founding of the university, the coincidental rise of the <a>counterculture of the 1960s</a> with the university's establishment fundamentally altered its subsequent development.
+Early student and faculty activism at UCSC pioneered an approach to <a>environmentalism</a> that greatly impacted the industrial development of the surrounding area.&lt;ref&gt;
+&lt;/ref&gt; The lowering of the voting age to 18 in 1971 led to the emergence of a powerful student-voting bloc.&lt;ref
+name=&quot;Burchins3&quot;&gt;  &lt;/ref&gt; A large and growing population of politically <a>liberal</a> UCSC <a>alumni</a> changed the electorate of the town from predominantly <a>Republican</a>&lt;ref&gt;  &lt;/ref&gt; to markedly <a>left-leaning</a>, consistently voting against expansion measures on the part of both <a>town and gown</a>.
+<a>Mike Rotkin</a>, UCSC alumnus, lecturer in <a>Community Studies</a>, and self-described '<a>socialist-feminist</a>,' has been elected Mayor of Santa Cruz several times.
+{| cellpadding=3 cellspacing=6 style=&quot;float:right; margin:5px; border:3px solid;&quot; !
+style=&quot;width: 40px; height: 40px; background: #285991; text-align: center; font-size: 24pt; color: #FFDF82;&quot; |<strong>UCSC</strong> !
+style=&quot;background:white;&quot;| <strong>Chancellors</strong> |- | colspan=&quot;2&quot; style=&quot;text-align:center;&quot;| &lt;timeline&gt;</p>
+<ol>
+  <li>All measures all in pixels</li>
+</ol>
+<p>ImageSize = width:170 height:570 PlotArea = width: 26 height:500 left:40 bottom:65 AlignBars = early</p>
+<p>DateFormat = yyyy Period = from:1960 till:2009 TimeAxis = orientation:vertical ScaleMajor = unit:year increment:5 start:1960</p>
+<ol>
+  <li>there is no automatic collision detection,</li>
+  <li>so shift texts up or down manually to avoid overlap</li>
+</ol>
+<p>Define $dx = 25 # shift text to right side of bar</p>
+<p>Legend = columns:2 left:20 top:40 columnwidth:100</p>
+<p>Colors =</p>
+<pre>id:invested value:rgb(0.16,0.35,0.57)
+legend:Invested
+id:acting value:rgb(1,0.87,0.51)
+legend:Acting</pre>
+<p>PlotData=</p>
+<pre>bar:Leaders width:25 mark:(line,white) align:left fontsize:S
+from:1961 till:1974 shift:($dx,-3) color:Invested text:[[Dean McHenry]]
+from:1974 till:1976 shift:($dx,-3) color:Invested text:Mark Christensen
+from:1976 till:1977 shift:($dx,-3) color:Invested text:Angus Taylor
+from:1977 till:1987 shift:($dx,-3) color:Invested text:Robert Sinsheimer
+from:1987 till:1991 shift:($dx,-3) color:Invested text:Robert Stevens
+from:1991 till:1996 shift:($dx,-3) color:Invested text:Karl Pister
+from:1996 till:2004 shift:($dx,-5) color:Invested text:M.R.C.
+Greenwood
+from:2004 till:2005 shift:($dx,-5) color:Acting text:Martin Chemers
+from:2005 till:2006 shift:($dx,-5) color:Invested text:[[Denice Denton]] &#x2020;
+from:2006 till:end shift:($dx,+1) color:Invested text:[[George Blumenthal]]</pre>
+<p>&lt;/timeline&gt; ::&lt;small&gt;&#x2020;Died in office&lt;/small&gt; |}</p>
+<h3>Expansion plans</h3>
+<p> <a>Plans</a> for increasing enrollment over the next 14 years to 19,500 students, adding 1,500 faculty and staff, and, secondarily the anticipated environmental impacts of such action encountered opposition from the city, the local community, and the student body.&lt;ref&gt;&lt;/ref&gt;&lt;ref&gt;
+&lt;/ref&gt; City voters in 2006 passed two measures calling on UCSC to pay for the impacts of campus growth.
+A Santa Cruz Superior Court judge invalidated the measures, ruling they were improperly put on the ballot.
+In 2008, the university, city, county and neighborhood organizations reached an agreement to set aside numerous lawsuits and allow the expansion to occur.
+UCSC agreed to local government scrutiny of its north campus expansion plans, to provide housing for 67 percent of the additional students on campus, and to pay municipal development and water fees.&lt;ref
+name=&quot;bookwalter&quot;&gt;&lt;/ref&gt;</p>
+<p>George Blumenthal, UCSC's 10th Chancellor, intends to mitigate growth constraints in Santa Cruz by developing off-campus sites in <a>Silicon Valley</a>.
+The <a>NASA Ames Research Center</a> campus is planned to ultimately hold 2,000 UCSC students - about 10% of the entire university's future student body as envisioned for 2020.&lt;ref&gt;&lt;/ref&gt;&lt;ref&gt;&lt;/ref&gt;</p>
+<p>In April 2010, UC Santa Cruz opened its new $35 million Digital Arts Research Center; a project in planning since 2004.
+&lt;ref&gt;  &lt;/ref&gt;</p>
+<h3>Budget cuts</h3>
+<p>In a Faculty Senate meeting on May 21, 2009, Chancellor George Blumenthal described budget cuts that would be needed because of a 20 percent drop in state funding.
+While he said that the ultimate amount of these cuts were unknown, he said that they would be above the $13 million already cut.&lt;ref&gt;&lt;/ref&gt;</p>
+<p>According to the UCSC chancellor's office, UCSC is receiving a budget cut of $52.3 million for the 2008-2009 and 2009-2010 fiscal years, as of July 23, 2009.&lt;ref&gt;&lt;/ref&gt;
+Furthermore, UCSC will be undergo a furlough and pay cut program along with all other UC campuses.&lt;ref&gt;&lt;/ref&gt;</p>
+<h2>Campus</h2>
+<p>The 2,001 acre (8.1&nbsp;km&#x00b2;) UCSC campus is located 75 miles (120&nbsp;km) south of <a>San Francisco</a>, in the Ben Lomond Mountain ridge of the <a>Santa Cruz Mountains</a>.
+Elevation varies from 285 feet (87 m) at the campus entrance to 1,195 feet (364 m) at the northern boundary, a difference of about 900 feet (275 m).
+The southern portion of the campus primarily consists of a large, open <a>meadow</a>, locally known as the Great Meadow.
+To the north of the meadow lie most of the campus' buildings, many of them among <a>redwood</a> groves.
+The campus is bounded on the south by the city's upper-west-side neighborhoods, on the east by Harvey West Park&lt;ref&gt;  &lt;/ref&gt; and the <a>Pogonip open space preserve</a>,&lt;ref&gt;  &lt;/ref&gt; on the north by <a>Henry Cowell Redwoods State Park</a>&lt;ref&gt;  &lt;/ref&gt; near the town of <a>Felton</a>, and on the west by <a>Gray Whale Ranch</a>, a portion of <a>Wilder Ranch State Park</a>.
+&lt;ref&gt;  &lt;/ref&gt; The campus is built on a portion of the <a>Cowell Family ranch</a>, which was purchased by the University of California in 1961.&lt;ref&gt;
+&lt;/ref&gt; The northern half of the campus property has remained in its undeveloped, forested state apart from fire roads and hiking and bicycle trails.
+The heavily-forested area has allowed UC Santa Cruz to operate a <a>recreational vehicle park</a> as a form of student housing.
+&lt;ref&gt;  &lt;/ref&gt; <a>thumb|left|UCSC &amp; Santa Cruz aerial view.
+The Great Meadow is the undeveloped area between city and university</a></p>
+<p>A number of shrines, dens and other student-built curiosities are scattered around the northern campus.
+These structures, mostly assembled from branches and other forest detritus, were formerly concentrated in the area known as Elfland, a glen the University razed in 1992 to build colleges Nine and Ten.
+Students were able to relocate and save some of the structures, however.&lt;ref&gt;
+&lt;/ref&gt;&lt;ref&gt;  &lt;/ref&gt;</p>
+<p>Creeks traverse the UCSC campus within several ravines.
+Footbridges span those ravines on pedestrian paths linking various areas of campus.
+The footbridges make it possible to walk to any part of campus within 20 minutes in spite of the campus being built on a mountainside with varying elevations.
+At night, orange lights illuminate the occasionally fogged-in paths.</p>
+<p>There are a number of natural points of interest throughout the UCSC grounds.
+The &quot;Porter Caves&quot; are a popular site among students on the west side of campus.
+The entrance is located in the forest between the <a>Porter College</a> meadow and Empire Grade Road.
+The caves wind through a set of caverns, some of which are challenging, narrow passages.
+Tree Nine is another popular destination for students.
+A large <a>pine</a> spanning approximately  tall, Tree Nine is located in the upper campus of UCSC behind <a>College Nine</a>.
+Complete with a  rope ladder to the first branch and a flat wooden platform at its peak, Tree Nine boasts an impressive view of the Monterey Bay.
+For specific directions, reference: <a>directions to Tree Nine</a> For the less experienced tree-climber, students also frequent Sunset Tree located on the east side of the meadow behind the UCSC Music Center.
+&lt;ref&gt; <a>UCSC campus map showing cave location</a>, <a>Empire Cave</a>.
+Retrieved October 27, 2006.&lt;/ref&gt;</p>
+<p>The combination of porous limestone bedrock with torrential coastal winter rains can lead to sinkholes; there are two such 'bottomless' pits across from the Science Hill complex.
+The Jack Baskin Engineering Building, formerly known as the Applied Sciences Building, began sinking shortly after it was built; in the late 1970s, hundreds of tons of concrete were poured underneath its foundation to prevent it from sinking.</p>
+<p>The UCSC campus is also one of the few homes to <a>Mima Mounds</a> in the United States.
+They are extremely rare in the United States, and, indeed, in the world in general.
+</p>
+<h2>Academics</h2>
+<p>[[Image:LickObservOriginalBldgLargeScope--cropped.jpg|thumb|[[Lick
+Observatory]] on <a>Mount Hamilton</a> east of <a>San Jose</a>]] The university offers 63 undergraduate majors and 35 minors, with graduate programs in 33 fields.
+&lt;ref&gt;  &lt;/ref&gt; Popular undergraduate majors include <a>Art</a>, <a>Business Management Economics</a>, <a>Molecular and Cell Biology</a>, and <a>Psychology</a>.
+&lt;ref&gt;  (Note: Registration required) &lt;/ref&gt; Interdisciplinary programs, such as Feminist Studies, American Studies, Environmental Studies, Digital Arts and New Media, and the unique <a>History of Consciousness</a> Department are also hosted alongside UCSC's more traditional academic departments.</p>
+<p>In an effort to cut $13 million dollars, as required by the University of California office of the President and Board of Regents in a decision to cut 10% from the budget of each campus, UCSC nearly eliminated its longstanding and sometimes controversial undergraduate major Community Studies in 2009.
+The interdisciplinary major continues to be offered, though cuts to department staff raised concern by students that the curriculum has already been seriously damaged.
+Community Studies and other majors within the Social Sciences division, including some graduate programs, remain threatened by more cuts expected in the near future.&lt;ref&gt;&lt;/ref&gt;
+<a>left|thumb|Organic farm rows</a> <a>right|thumb|Baskin Engineering Plaza</a></p>
+<h3>Research</h3>
+<p>Although designed as a liberal arts-oriented university, UCSC quickly acquired a graduate-level <a>natural science</a> research component with the appointment of plant physiologist <a>Kenneth V. Thimann</a> as the first provost of <a>Crown College</a>.
+Thimann developed UCSC's early Division of Natural Sciences and recruited other well-known science faculty and graduate students to the fledgling campus.&lt;ref&gt;&lt;/ref&gt;
+Immediately upon its founding, UCSC was also granted administrative responsibility for the <a>Lick Observatory</a>, which established the campus as a major center for <a>astronomy</a> research.&lt;ref
+name=&quot;Clark&quot;&gt;&lt;/ref&gt; Founding members of the Social Science and Humanities faculty created the unique <a>History of Consciousness</a> graduate program in UCSC's first year of operation.&lt;ref&gt;&lt;/ref&gt;</p>
+<p>UCSC's <a>organic farm and garden program</a> is the oldest in the country, and pioneered <a>organic horticulture</a> techniques internationally.&lt;ref&gt;
+&lt;/ref&gt;&lt;ref&gt;  &lt;/ref&gt;</p>
+<pre>    </pre>
+<p>As of 2006, UCSC's faculty included two members of the <a>Institute of Medicine</a>, 21 members of the <a>Academy of Arts and Sciences</a>, and eleven members of the <a>National Academy of Sciences</a>.&lt;ref
+name=&quot;overview&quot; /&gt; The young <a>Baskin School of Engineering</a>, UCSC's first professional school and home to the <a>Expressive Intelligence Studio</a>, and the Center for Biomolecular Science and Engineering&lt;ref&gt;&lt;/ref&gt; are gaining recognition, as has the work that UCSC researchers <a>David Haussler</a> and <a>Jim Kent</a> have done on the <a>Human Genome Project</a>,&lt;ref&gt;  &lt;/ref&gt;&lt;ref&gt;  &lt;/ref&gt; including the widely used <a>UCSC Genome Browser</a>.&lt;ref&gt;&lt;/ref&gt;
+UCSC administers the <a>National Science Foundation</a>'s Center for Adaptive Optics.&lt;ref
+name=&quot;CAO&quot;&gt;&lt;/ref&gt;</p>
+<pre></pre>
+<p>Off-campus research facilities maintained by UCSC include the <a>Lick</a> and <a>Keck</a> Observatories and the <a>Long Marine Laboratory</a>.
+In September 2003, a ten-year task order contract valued at more than $330 million was awarded by <a>NASA Ames Research Center</a> to the University of California to establish and operate a University Affiliated Research System (UARC).
+UCSC manages the UARC for the University of California.&lt;ref&gt;
+&lt;/ref&gt;</p>
+<h3>Rankings</h3>
+<p>UC Santa Cruz is currently ranked #71 in the list of Best National Universities in the United States by the <em><a>US News &amp; World Reports</a></em>,&lt;ref&gt;&lt;/ref&gt; and 56&lt;sup&gt;th&lt;/sup&gt; best by <em><a>The Washington Monthly</a></em>.&lt;ref
+name=&quot;The Washington Monthly ranking&quot;&gt;&lt;/ref&gt; According to a 2005 report by SCI-BYTES magazine, UCSC ranked second in the United States for academic research impact in the field of space sciences between 1999 and 2003, behind <a>Princeton University</a>.
+&lt;ref&gt;  &lt;/ref&gt; A report in 2002 had ranked UCSC first for research impact in the space sciences and second in physics.
+&lt;ref&gt;  &lt;/ref&gt; In the last National Research Council rankings of graduate programs, published in 1995, Astronomy and Astrophysics and Linguistics both ranked in the top ten.
+&lt;ref&gt;  &lt;/ref&gt; &lt;!--This portion should be commented out until the information can be verified: In 2005, <em><a>The Times Higher Education Supplement</a></em> ranked UCSC as one the world's top 200 universities.--&gt;
+In 2009, RePEc, an online database of research economics articles, ranked the UCSC Economics Department sixth in the world in the field of international finance.
+&lt;ref&gt;  &lt;/ref&gt; In 2007, High Times magazine placed UCSC as first among US universities as a &quot;counterculture college.&quot;
+&lt;ref&gt;  &lt;/ref&gt; In 2009, The Princeton Review (with Gamepro Magazine) ranked UC Santa Cruz's Game Design major among the top 50 in the country.
+&lt;ref&gt;  &lt;/ref&gt;</p>
+<h2>Residential colleges</h2>
+<p><a>thumb|Approaching Baskin Engineering from McLaughlin Drive</a> The undergraduate program, with only the partial exception of those majors run through the University's School of Engineering, is still based on the version of the &quot;<a>residential college system</a>&quot; outlined by Clark Kerr and Dean McHenry at the inception of their original plans for the campus (see <a>History</a>, above).
+Upon admission, all undergraduate students join one of ten colleges, with which they usually stay affiliated for their entire undergraduate careers.&lt;ref
+name=&quot;collegesection&quot;&gt;  &lt;/ref&gt; Almost all faculty members are affiliated with a college as well.&lt;ref
+name=&quot;collegesection&quot;/&gt; The individual colleges provide housing and dining services, while the university as a whole offers courses and majors to the general student community.&lt;ref
+name=&quot;collegesection&quot;/&gt; Other universities with similar college systems include <a>Rice University</a> and the <a>University of California, San Diego</a>.</p>
+<p>Each of the colleges has its own, distinctive architectural style and a resident faculty <a>provost</a>, who is the nominal head of his or her college.&lt;ref
+name=&quot;collegesection&quot;/&gt; An incoming first-year student will take a mandatory &quot;core course&quot; within his or her respective college, with a curriculum and central theme unique to that college.&lt;ref
+name=&quot;collegesection&quot;/&gt; College resident populations vary from about 750 to 1,550 students, with roughly half of undergraduates living on campus within their college community or in smaller, intramural campus communities such as the International Living Center, the Trailer Park, and the Village.&lt;ref
+name=&quot;collegesection&quot;/&gt; Coursework, academic majors and general areas of study are not limited by college membership, although colleges host the offices of many academic departments.
+Graduate students are not affiliated with a residential college, though a large portion of their offices, too, have historically tended to be based in the colleges.
+The ten colleges are, in order of establishment:</p>
+<p>&lt;div class=&quot;center&quot;&gt;&lt;gallery caption=&quot;The Residential Colleges&quot; widths=&quot;&quot; heights=&quot;&quot; perrow=&quot;5&quot;&gt; Image:Cowell College.jpg|&lt;center&gt;<a>Cowell
+College</a>&lt;/center&gt; Image:Stevenson College.jpg|&lt;center&gt;<a>Stevenson
+College</a> Image:Clock tower, crown college, ucsc.jpg|&lt;center&gt;<a>Crown
+College</a>&lt;/center&gt; Image:Merrill_College.jpg|&lt;center&gt;<a>Merrill
+College</a>&lt;/center&gt; Image:Porter College, entrance, UCSC.jpg|&lt;center&gt;<a>Porter
+College</a>&lt;/center&gt; Image:KresgeApartmentsandLaundry.JPG|&lt;center&gt;<a>Kresge College</a>&lt;/center&gt; Image:Oakes_College.jpg|&lt;center&gt;<a>Oakes College</a>&lt;/center&gt; Image:Ucsdcollegeeight.jpg|&lt;center&gt;<a>College Eight</a>&lt;/center&gt; Image:College 9.jpg|&lt;center&gt;<a>College Nine</a>&lt;/center&gt; Image:College 10.jpg|&lt;center&gt;<a>College Ten</a>&lt;/center&gt; &lt;/center&gt; &lt;/gallery&gt;&lt;/div&gt;</p>
+<h3>Enrollment and retention</h3>
+<p><a>thumb|Bridge across ravine.</a>
+In 2008, UCSC offered admission to a record number of 19,138 new undergraduate students out of 25,746 applications for the Fall term, representing an increase in selectivity to 74.3 percent from 82.8 percent admitted in 2007.
+In 2009, UCSC offered admission to 63.7% of applicants.
+UCSC hopes to contain the entering class to about 3,700 students.&lt;ref&gt;
+&lt;/ref&gt; In the Fall 2006 semester, UCSC enrolled 13,941 undergraduates and 1,419 graduate and postgraduate students, for a student body total of 15,360.
+&lt;ref name=&quot;stats&quot;&gt;  &lt;/ref&gt; In general, <a>graduation</a> and retention rates are above national averages but below the mean among UC campuses.
+Among students who entered in 1999, 70% graduated within six years, ten percentage points below the UC average.
+Earlier statistics show that the six-year graduation rate is above the mean for both NCAA Division I schools and a sample of major universities throughout the United States.
+&lt;ref&gt;  &lt;/ref&gt; About half of graduates pursue further education, and 13 percent proceed to advanced degree programs within six months of graduation.
+&lt;ref&gt;  &lt;/ref&gt;</p>
+<h3>Grading</h3>
+<p>For most of its history, UCSC employed a unique <a>student evaluation</a> system.
+The only <a>grades</a> assigned were &quot;pass&quot; and &quot;no record&quot;, supplemented with <a>narrative evaluation</a>s.
+Beginning in 1997, UCSC allowed students the option of selecting letter grade evaluations, but course grades were still optional until 2000, when faculty voted to require students receive letter grades.
+Students were still given narrative evaluations to complement the letter grades.
+As of 2010, the narrative evaluations were deemed an unnecessary expenditure and students are now required to ask for a narrative evaluation to complement letter grades.&lt;ref&gt;
+&lt;/ref&gt; Students can still elect to receive a &quot;pass/no pass&quot; grade, but many academic programs limit or even forbid pass/no pass grading.
+Overall, students may now earn no more than 25% of their UCSC credits on a &quot;pass/no pass&quot; basis.
+Although the default grading option for almost all courses offered is now &quot;graded&quot;, most course grades are still accompanied by written evaluations.
+&lt;ref&gt;  &lt;/ref&gt;</p>
+<h2>Library</h2>
+<p><a>thumb|McHenry Library stacks</a> The <a>McHenry Library</a> houses UCSC's arts and letters collection, with most of the scientific reading at the newer Science and Engineering Library.
+The McHenry Library was designed by <a>John Carl Warnecke</a>.&lt;ref
+name=&quot;Clark&quot;/&gt; In 2008 the McHenry Library began to be renovated.
+An  annex is being added to update the library.
+New additions will include a &#x201c;cyber study&#x201d; room and a Global Village caf&#x00e9;.&lt;ref&gt;&lt;/ref&gt;
+In addition, the colleges host smaller libraries, which serve as quiet places to study.
+The McHenry Special Collections Library includes the archives of <a>Robert A. Heinlein</a>, the largest collection of <a>Edward Weston</a> photographs in the country, the <a>mycology</a> book collection of composer <a>John Cage</a>, a large collection of works by <a>Satyajit Ray</a>, the <a>Hayden White</a> collection of 16th century Italian printing, a photography collection with nearly half a million items, and the Mary Lea Shane Archive.
+The latter contains an extensive collection of photographs, letters, and other documents related to <a>Lick Observatory</a> dating back to 1870.
+&lt;ref&gt;  &lt;/ref&gt; A  new addition to the library opened March 31, 2008.
+The original  library is closed pending seismic upgrades and other renovations.&lt;ref&gt;
+&lt;/ref&gt;</p>
+<h3>Grateful Dead archive</h3>
+<p>In 2008, UCSC agreed to house the <a>Grateful Dead</a> archives at the McHenry Library.&lt;ref&gt;
+&lt;/ref&gt;&lt;ref&gt;  &lt;/ref&gt; UCSC plans to devote an entire room at the library, to be called &quot;Dead Central,&quot; to display the collection and encourage research.&lt;ref&gt;
+&lt;/ref&gt; UCSC beat out petitions from Stanford and UC Berkeley to house the archives.
+Grateful Dead guitarist <a>Bob Weir</a> said that UCSC is &quot;a seat of neo-Bohemian culture that we're a facet of.
+There could not have been a cozier place for this collection to land.&quot;&lt;ref&gt;
+&lt;/ref&gt; Silicon Valley entrepreneurs and Dead fans <a>Roger McNamee</a> and <a>Bill Watkins</a> are expected to join a committee to oversee and raise funds for the project.&lt;ref&gt;
+&lt;/ref&gt;</p>
+<h2>Student life</h2>
+<p>According to a 2002 study of first year students, most students come from <a>affluent</a> backgrounds and are more likely to identify as <a>liberal</a> than the <a>national average</a>.&lt;ref
+name=&quot;CIRP&quot;&gt;&lt;/ref&gt; The <a>median household income</a> UCSC students reported for their families of origin was $80,600, roughly 87.5% above the national average in 2002.&lt;ref
+name=&quot;CIRP&quot;/&gt; In terms of political orientation, the student body was far more liberal than the general U.S. population, but more <a>centrist</a> than the national average for <a>professor</a>s.&lt;ref
+name=&quot;CIRP&quot;/&gt; The majority of respondents, 59%, identified as liberal, 34% as &quot;Middle of the Road&quot; and 8% as <a>conservative</a>.&lt;ref name=&quot;CIRP&quot;/&gt; Though UCSC students come from throughout the United States and the world, a large majority are from <a>California</a>.
+The following tables show the ethnic and regional breakdown of the student body: {| class=&quot;wikitable sortable&quot; style=&quot;width:400px; float:left;&quot; || <strong>Ethnicity, 2007</strong>&lt;ref&gt;&lt;/ref&gt; ||<strong>Under-&lt;br /&gt;graduates</strong> || <strong>Graduate&lt;br /&gt;students</strong> |- |<a>White</a> | 51% | 49.3% |- |<a>Asian American</a> | 16.6% | 9.2% |- |<a>Filipino American</a> | 3.9% | 1.3% |- |<a>Mexican-American</a> | 11.8% | 5.4% |- |<a>Hispanic</a> or Latino (Non-Mexican) | 4.7% | 3.9% |- |<a>African American</a> | 2.5% | 1.6% |- |<a>American Indian</a> | 0.9% | 0.6% |- |Not stated (U.S. residents) | 7.9% | 15.2% |- |International | 0.5% | 13.7% |} {| class=&quot;wikitable sortable&quot; style=&quot;width:300px; margin:auto;&quot; |- || <strong>Region</strong> || <strong>Percent</strong> |- | <a>Monterey Bay</a> area and <a>Silicon Valley</a> | 16.1% |- | <a>San Francisco Bay Area</a> | 31.9%
+|- | Other <a>Northern California</a> | 2.5% |- | <a>Central Valley</a> and adjacent areas | 10.7% |- | <a>Southern California</a> | 24.7% |- | <a>San Diego</a> and desert areas | 7.7% |- | Other <a>U.S. state</a>s | 3.1% |- | Foreign | 0.3% |- | Unknown | 2.9% |} <img> <a>thumb|left|Students occupied &amp; damaged the Grad Student Commons, a student owned &amp; operated building, to protest budget cuts and fee rises in Fall Quarter 2009.</a>[[Image:SantaCruzUCSC.jpg|thumb|right|Students and others gather to smoke [[cannabis (drug)|cannabis]] at a meadow near <a>Porter College</a> on April 20, 2007&#x2014;&quot;<a>420</a> Day&quot;.]]UCSC
+students are known for political activism.
+In 2005, a <a>Pentagon</a> surveillance program deemed student opposition to <a>military recruiter</a>s on campus a &quot;credible threat,&quot; the only campus <a>antiwar</a> action to receive the designation.&lt;ref&gt;
+&lt;/ref&gt; In February 2006, Chancellor <a>Denice Denton</a> got the designation removed.&lt;ref&gt;
+&lt;/ref&gt; Military recruiters declined to return to UCSC the following year, but returned in 2008 to a more low-keyed student reception and protests using elements of <a>guerrilla theatre</a>, rather than vandalism or physical violence.&lt;ref&gt;
+&lt;/ref&gt;&lt;ref&gt;  &lt;/ref&gt; Thanks to students passing a $3 quarterly tuition increase to support buying renewable energy in 2006, UCSC is the sixth-largest buyer of renewable energy among college campuses nationwide.&lt;ref&gt;
+&lt;/ref&gt;</p>
+<p>UC Santa Cruz is also well known for its <a>cannabis</a> culture.
+On April 20, 2007, approximately 2000 UCSC students gathered at Porter Meadow to celebrate the annual &quot;420.&quot;
+Students and others openly smoked marijuana while campus police stood by.&lt;ref&gt;  &lt;/ref&gt; The once student-only event has grown since the city of Santa Cruz passed <a>Measure K</a> in 2006, an ordinance making marijuana use a low-priority crime for police.
+The 2007 event attracted a total of 5000 participants.
+The university does not condone the gathering, but has taken steps to regulate the event and ensure security for all participants.
+On April 20, 2010, the school administration shut down the west entrance to campus and limited the amount of buses that could drive through campus.&lt;ref&gt;
+&lt;/ref&gt;&lt;ref&gt;  &lt;/ref&gt;</p>
+<p>Another well known tradition is what is known as &quot;<a>First Rain</a>&quot;.
+Students run around campus naked or nearly naked to celebrate the school year's first night of heavy rain.
+The run begins at Porter and proceeds to travel through all the other colleges, finishing with skinny dipping at OPERS swimming pool.&lt;ref&gt;
+&lt;/ref&gt;</p>
+<h3>Student government</h3>
+<p><a>thumb|Student Union</a> The Student Union Assembly was founded in 1985 to better coordinate bargaining positions between students and administration on campus-wide issues.&lt;ref&gt;
+&lt;/ref&gt; All the residential colleges and six ethnic and gender-based organizations send delegates to SUA.&lt;ref&gt;  &lt;/ref&gt; There is a total of 138 recognized student groups as of 2008.&lt;ref&gt;
+&lt;/ref&gt;</p>
+<h3>Student media</h3>
+<p><a>thumb|Quarry Plaza</a> All Student media organizations are funded by a student council referendum of $3.20 per student per quarter.&lt;ref&gt;
+&lt;/ref&gt;</p>
+<ul>
+  <li><em><a>City on a Hill Press</a></em>, a weekly publication that serves as the traditional campus newspaper.</li>
+<li><em><a>Fish Rap Live!</a></em>, the alternative, comedic paper.</li>
+<li><em>TWANAS</em>, the Third World and Native American Student Press Collective publishes issues about every quarter for various communities of color at UCSC.
+Its peak years were during the '70s, '80s and '90s.</li>
+<li><em>Student Cable Television (SCTV)</em> disbanded at the beginning of the 2010 academic school year.
+<em>On The Spot</em> (OTS), replaced the defunct <em>SCTV</em> organization, continuing the student-run television opportunities.
+<em>On The Spot</em> airs on channel 28 only on campus.&lt;ref&gt;</li>
+</ul>
+<p> &lt;/ref&gt;</p>
+<ul>
+  <li><em>The Moxie Production Group</em>, which produces content on a quarterly basis.</li>
+<li><em>The Project</em>, a quarterly paper, for UCSC's radical community.</li>
+</ul>
+<p><a>thumb|KZSC lounge</a></p>
+<ul>
+  <li><em>The Disorientation Guide</em>, published on sporadic years, introduces new students to UCSC's radical history and various political issues that face the campus and community.&lt;ref&gt;
+&lt;/ref&gt;</p>
+<ul>
+  <li><em>Rapt Magazine</em>, a quarterly literary and arts magazine.</li>
+<li><em>The Leviathan</em>, a Jewish student life publication.</li>
+<li><em>Banana Slug News, a television broadcast.&lt;ref&gt;<a>Home&lt;!-- Bot generated title --&gt;</a>&lt;/ref&gt;</em></li>
+  <li><em>Chinquapin</em>, an open-ended creative journal sponsored by the creative writing department.&lt;ref&gt;&lt;/ref&gt;</li>
+<li><em>Turnstile</em>, a poetry journal.</li>
+<li><em>Red Wheelbarrow</em>, a &quot;literary arts&quot; journal.&lt;ref&gt;&lt;/ref&gt;</li>
+<li><em>Matchbox Magazine</em>, an annual humanities publication, started at UCSC, that operates across many UC campuses.&lt;ref&gt;&lt;/ref&gt;</li>
+<li><em><a>KZSC</a></em>, the student-run campus radio station.&lt;ref&gt;</li>
+</ul>
+<p> &lt;/ref&gt;</p>
+<ul>
+  <li><em>Santa Cruz <a>Indymedia</a></em>, a local activist resource with a lot of UCSC content.</li>
+<li><em>The Film Production Coalition</em> which produces films on a quarterly basis.&lt;ref&gt;&lt;/ref&gt;</li>
+</ul>
+<h3>Housing</h3>
+<p>Most of the UCSC undergraduate housing is affiliated with one of the ten residential colleges.
+The residence halls, which include both shared and private rooms, typically house fifteen to twenty students per floor and have common bathrooms and lounge areas.
+Some halls have coed floors where men and women share bathroom facilities, others have separate bathroom facilities for men and women.
+Single-gender, gender-neutral and substance-free floors are also available.</p>
+<p>All of the colleges, except for Kresge, have both residence halls and apartments.
+Kresge is all apartments.
+Apartments are typically shared by four to seven students, have common living/dining rooms, kitchens and bathrooms, and a combination of shared and private bedrooms.
+Apartments at colleges other than Kresge are generally reserved for students above the freshman level.</p>
+<p>In addition to the residential colleges, housing is available at the Village on the lower quarry, populated by continuing, transfer, and graduate students; the University Inn, a remodeled hotel in downtown Santa Cruz that accommodates all students; Redwood Grove, formerly Kresge East, now available to applicants from all colleges; and the University Town Center, also located downtown, that primarily serves international students.
+Graduate Student Housing is available near Science Hill, and UCSC also offers Family Student Housing units as well as a Camper Park for student-owned trailers and RVs.&lt;ref&gt;&lt;/ref&gt;</p>
+<h3>Greek Life</h3>
+<p>UCSC is home to many fraternities and sororities.
+The oldest fraternity on campus is Theta Chi, which was given colony status on January 10, 1987 and later became a full chapter on October 14, 1989 (designation: Theta Iota).
+In the beginning, fraternities like Theta Chi and Sigma Alpha Epsilon were met with strong opposition from the student body.
+Student groups like P.A.C. (People's Alternative Community), S.A.G.E.
+(Students Against Greek Environments), and M.A.C. (Men's Alternative Community) protested the existence of Greek life at the UCSC campus.
+[<a>http://oxucsc.com/history.html</a>]</p>
+<p>In 2003, the campus gained national recognition when MTV's hit reality show &quot;Fraternity Life&quot; documented the lives of students pledging Delta Omega Chi.
+During the shooting, a few of the students fished a 15-year-old koi named Goldie out of a pond at Porter College, barbecued it, and ate it.
+Since the incident was captured on video, the individuals involved were charged with misdemeanor grand theft and vandalism.
+.&lt;ref&gt;<a>Fraternity
+Life#cite note-6</a>&lt;/ref&gt;</p>
+<p>However, since this time, Greek life has flourished at UCSC, making way for fraternities like Sigma Pi, Sigma Phi Zeta, Alpha Epsilon Pi, and Lambda Phi Epsilon.
+Sororities on campus include Gamma Phi Beta, Kappa Kappa Gamma, Tri-Chi, Kappa Zeta, and Alpha Psi.
+There are also special interest organizations like Kappa Gamma Delta, a premed sorority.
+[<a>https://admissions.sa.ucsc.edu/discover/faq/studentlife.cfm</a>]</p>
+<h2>Athletics</h2>
+<p><a>thumb|East Field</a> UCSC competes in <a>Division III</a> of the <a>NCAA</a> as an Independent member.
+There are twelve <a>varsity</a> sports (men's and women's <a>basketball</a>, <a>soccer</a>, <a>volleyball</a>, <a>swimming</a> and <a>diving</a>, women's <a>golf</a>, and women's <a>cross country</a>).
+UCSC teams are nationally ranked in <a>tennis</a>, soccer, men's volleyball, and swimming.
+After defeating Emory to win the 2007 National Championship in men's tennis, UCSC has won six men's tennis team championships, and have been defending champions in tennis for two of the past three years.&lt;ref&gt;&lt;/ref&gt;
+The Banana Slugs were also runners-up in men's soccer in 2004.
+In the 2006 season, the men's water polo team won the Division III championship, as well as an overall ranking of 19th in the nation.
+However, both the men and women's water polo teams were cut in 2008 due to budget constraints.&lt;ref&gt;
+&lt;/ref&gt; UCSC is one of the largest but one of the least funded NCAA Division III members.&lt;ref&gt;
+&lt;/ref&gt;</p>
+<p>In addition to its NCAA sports, UCSC maintains a number of successful club sides including its women's <a>rugby</a> team, which won the <a>Division II</a> National Collegiate Championship during its '05-'06 season.&lt;ref&gt;&lt;/ref&gt;
+UCSC also fields an often victorious men's lacrosse team, which competes against other western universities in the WCLL.
+After a highly successful 2008 season, the team traveled to Texas for nationals.
+Although UCSC never had a track, the residential colleges regularly competed in an improvised &quot;Slug Run&quot; every spring from 1967 to 1982,&lt;ref&gt;  &lt;/ref&gt; though the Run now is a community event and fundraiser event hosted by the cross-country club for much needed fund to pay for entry fees, hotel, and transportation to race.&lt;ref&gt;<a>Cross
+Country Club Stays Strong, Despite Running on Fumes | City on a Hill Press&lt;!--
+Bot generated title --&gt;</a>&lt;/ref&gt; Approximately 25% of the student population participates in intramural athletics, which tend to be better funded than the intercollegiate athletic programs.&lt;ref&gt;
+&lt;/ref&gt;</p>
+<h3>Mascot</h3>
+<p><a>thumb|left|<em>Ariolimax dolichophallus</em> at UCSC</a> UCSC's mascot is the <a>banana slug</a>&lt;ref name=&quot;UCSC Mascot&quot; /&gt; (specifically, <em>Ariolimax dolichophallus</em>&lt;ref&gt;  &lt;/ref&gt;).
+In 1981, when the university began participating in NCAA intercollegiate sports, the then-chancellor and some student athletes declared the mascot to be the &quot;<a>sea lions</a>.&quot;
+Most students disliked the new mascot and offered an alternative mascot, the banana slug.
+In 1986, students voted via <a>referendum</a> to declare the banana slug the official mascot of UCSC &#x2014; a vote the chancellor refused to honor, arguing that only athletes should choose the mascot.
+When a poll of athletes showed that they, too, wanted to be &quot;Slugs,&quot; the chancellor relented.
+The June 16, 1986, issue of <em>People</em> magazine featured a full-page spread dedicated to the selection of the Banana Slug as the official mascot of UCSC (see page 85).&lt;ref&gt;  &lt;/ref&gt; A sea lion statue can still be seen in front of the Thimann Hall lecture building.&lt;ref&gt;
+&lt;/ref&gt; In February, 2008 ESPN Sports Travel named the UCSC Banana Slug as the best nickname in college basketball.&lt;ref&gt;
+&lt;/ref&gt; The &quot;Fiat Slug&quot; logo prominently featured on campus is a trademark of UCSC owned by the Regents.
+It was developed by two students during the mascot controversy, who later incorporated as &quot;Oxford West&quot; and licensed their design from the Regents to produce clothing inspired by the university.</p>
+<p>The slug also is featured along with the school's logo on <a>Vincent Vega</a>'s T-shirt during the 1994 film <em><a>Pulp Fiction</a>.</em>&lt;ref&gt;
+&lt;/ref&gt;</p>
+<h2>See also</h2>
+<ul>
+  <li><a>List of University of California, Santa Cruz people</a></li>
+  <li><a>UC Santa Cruz Fire Department</a></li>
+  <li><a>University of California, Santa Cruz, Arboretum</a></li>
+  <li><a>Shakespeare Santa Cruz</a></li>
+</ul>
+<h2>Notes and references</h2>
+<p></p>
+<h2>External links</h2>
+<p>&lt;!--</p>
+<p>NOTE TO EDITORS: Please see <a>Wikipedia:External links</a> before adding new links to this section.
+Add a link ONLY if it helps improve the reader's understanding of UC Santa Cruz and/or assists in research on the subject.
+In particular, do not add links about the following topics:</p>
+<pre>* Housing, including co-ops and apartments
+* Bookstores
+* Political or religious causes
+* Businesses, products or services (spam)
+* Student clubs
+* Content relevant to only one course or professor
+* Content concerning the Santa Cruz area in general, not UC Santa Cruz in particular</pre>
+<p>--&gt; </p>
+<ul>
+  <li><a>University of California, Santa Cruz</a></li>
+  <li><a>2005 Long Range Development Plan</a></li>
+  <li><a>LRDP &#x2013; Settled?</a>: a student-written analysis of the LRDP agreement published by the City on the Hill Press</li>
+  <li><a><em>The Campus Guide: A Tour of the Natural Environment and Point of Historical Interest</em></a>, written by Elizabeth Spedding Calciano and Ray Collett, 1973</li>
+  <li><a>History of the Cowell family and Cowell ranch</a></li>
+</ul>
+<p></p>
+<p> </p>
+<p></p>
+<p></p>
+
+

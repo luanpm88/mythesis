@@ -90,5 +90,4 @@
 </ul>
 <p>    <img> </p>
 <p>&lt;!-- sorting purposes --&gt;</p>
-<p><a>Category:Midwest Conference</a> <a>Category:Associated Colleges of the Midwest</a> <a>Category:Liberal arts colleges</a> <a>Category:Universities and colleges in Iowa</a> <a>Category:Educational institutions established in 1846</a> <a>Category:Council of Independent Colleges</a> <a>Category:National Association of Independent Colleges and Universities members</a> <a>Category:Posse schools</a> <a>*</a> <a>Category:Poweshiek County, Iowa</a> <a>Category:North Central Association of Colleges and Schools</a></p>
-<p><a>bg:&#x0413;&#x0440;&#x0438;&#x043d;&#x0435;&#x043b;&#x0441;&#x043a;&#x0438; &#x043a;&#x043e;&#x043b;&#x0435;&#x0436;</a> <a>no:Grinnell College</a> <a>zh:&#x683c;&#x6797;&#x5185;&#x5c14;&#x5b66;&#x9662;</a></p>
+

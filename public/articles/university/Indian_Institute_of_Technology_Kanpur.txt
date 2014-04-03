@@ -168,5 +168,5 @@
   <li><a>Official website</a></li>
 </ul>
 <p><img> <img></p>
-<p> <a>Category:Educational institutions established in 1959</a> <a>Category:Engineering colleges in Uttar Pradesh</a> <a>Category:Indian Institutes of Technology</a> <a>Category:Education in Kanpur</a> <a>Category:Kanpur</a></p>
-<p><a>bn:&#x0986;&#x0987;&#x0986;&#x0987;&#x099f;&#x09bf; &#x0995;&#x09be;&#x09a8;&#x09aa;&#x09c1;&#x09b0;</a> <a>de:Indian Institute of Technology Kanpur</a> <a>fr:Institut indien de technologie de Kanpur</a> <a>hi:&#x092d;&#x093e;&#x0930;&#x0924;&#x0940;&#x092f; &#x092a;&#x094d;&#x0930;&#x094c;&#x0926;&#x094d;&#x092f;&#x094b;&#x0917;&#x093f;&#x0915;&#x0940; &#x0938;&#x0902;&#x0938;&#x094d;&#x0925;&#x093e;&#x0928; &#x0915;&#x093e;&#x0928;&#x092a;&#x0941;&#x0930;</a> <a>it:Indian Institute of Technology Kanpur</a> <a>ml:&#x0d07;&#x0d28;&#x0d4d;&#x0d24;&#x0d4d;&#x0d2f;&#x0d7b; &#x0d07;&#x0d7b;&#x0d38;&#x0d4d;&#x0d31;&#x0d4d;&#x0d31;&#x0d3f;&#x0d31;&#x0d4d;&#x0d31;&#x0d4d;&#x0d2f;&#x0d42;&#x0d1f;&#x0d4d;&#x0d1f;&#x0d4d; &#x0d13;&#x0d2b;&#x0d4d; &#x0d1f;&#x0d46;&#x0d15;&#x0d4d;&#x0d28;&#x0d4b;&#x0d33;&#x0d1c;&#x0d3f; &#x0d15;&#x0d3e;&#x0d7a;&#x0d2a;&#x0d42;&#x0d7c;</a> <a>no:Indian Institute of Technology Kanpur</a> <a>ta:&#x0b87;&#x0ba8;&#x0bcd;&#x0ba4;&#x0bbf;&#x0baf; &#x0ba4;&#x0bca;&#x0bb4;&#x0bbf;&#x0bb2;&#x0bcd;&#x0ba8;&#x0bc1;&#x0b9f;&#x0bcd;&#x0baa;&#x0b95;&#x0bcd; &#x0b95;&#x0bb4;&#x0b95;&#x0bae;&#x0bcd; &#x0b95;&#x0bbe;&#x0ba9;&#x0bcd;&#x0baa;&#x0bc2;&#x0bb0;&#x0bcd;</a></p>
+<p></p>
+

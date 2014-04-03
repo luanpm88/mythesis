@@ -1,0 +1,19 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Article:</strong>
+  <%= @test_article_attribute_sentence.article_id %>
+</p>
+
+<p>
+  <strong>Attribute:</strong>
+  <%= @test_article_attribute_sentence.attribute_id %>
+</p>
+
+<p>
+  <strong>Sentence:</strong>
+  <%= @test_article_attribute_sentence.sentence %>
+</p>
+
+<%= link_to 'Edit', edit_test_article_attribute_sentence_path(@test_article_attribute_sentence) %> |
+<%= link_to 'Back', test_article_attribute_sentences_path %>

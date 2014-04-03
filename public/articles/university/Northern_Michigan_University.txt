@@ -248,5 +248,4 @@
 </ul>
 <p>  </p>
 <p></p>
-<p><a>Category:Northern Michigan University</a> <a>Category:Universities and colleges in Michigan</a> <a>Category:North Central Association of Colleges and Schools</a> <a>Category:American Association of State Colleges and Universities</a> <a>Category:Educational institutions established in 1899</a> <a>Category:Upper Peninsula of Michigan</a></p>
-<p><a>de:Northern Michigan University</a> <a>no:Northern Michigan University</a> <a>pt:Northern Michigan University</a></p>
+

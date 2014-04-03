@@ -1,76 +1,38 @@
-26
-, 24 4:1
-has 21 0:1
-<p>williams 20 0:1
-<li> 0 0:1
-96% 25 4:1
-to 10 4:1
-DIGIT 1 0:1 1:5
-li> 5 4:2
-professors 13 4:1
-guiding 6 0:1
-time 3 4:1
-are 12 0:1
-full 2 4:1
-faculty 23 4:1
-the 7 0:1 4:2
-a>< 19 4:1
-at 14 4:1
-voting 22 4:1
-faculty< 4 4:1
-x2014 16 4:1
-x2013 8 0:1
-<li>19 15 0:1
-<p>there 11 0:1
-cosby< 18 4:1
-<a>bill 17 4:1
-team 9 4:1
+11
+time 9 4:1
+li> 6 4:2
+cosby< 4 4:1
+<li>19 0 0:1
+DIGIT 1 1:2
+full 8 4:1
+<li> 7 0:1
+x2014 2 4:1
+faculty< 10 4:1
+a>< 5 4:1
+<a>bill 3 4:1
 ******* Features ************
-47
-W_x2013:284:0 23
-W_cosby<:662:4 36
-R_singleComma:278:4 43
-E.0:182:1 4
-W_the:277:4 27
-R_isAllSmallCase:180:0 18
-R_containsDigit:558:4 34
-E.0:175:0 19
-W_faculty:837:4 41
-W_faculty<:172:4 13
-W_has:739:0 39
-R_singlePunctuation:733:4 45
-W_team:347:4 25
-W_the:249:0 20
-E.4:343:4 11
-W_<a>bill:627:4 35
-R_isAllCapital:152:1 6
-R_containsDigit:530:0 24
-W_<li>19:529:0 32
-W_96%:907:4 46
-R_isAllCapital:145:0 22
-E.1:238:4 7
-W_at:522:4 31
-W_DIGIT:46:1 5
-W_are:424:0 29
-W_voting:802:4 40
-W_time:137:4 12
-W_<p>williams:704:0 38
-W_DIGIT:39:0 21
-W_a><:697:4 37
-U:31:4 8
-End.:30:4 15
-R_singleQuote:313:4 44
+24
+W_DIGIT:46:1 6
+W_<a>bill:137:4 13
+R_containsDigit:558:4 11
+E.0:182:1 5
 R_containsSpecialCharacters:978:4 14
-W_guiding:214:0 17
-W_x2014:592:4 33
-R_isAllSmallCase:208:4 10
-W_,:872:4 42
-W_li>:207:4 16
-W_professors:487:4 30
-W_<p>there:389:0 28
-W_full:102:4 9
-W_<li>:4:0 2
+U:31:4 9
+W_cosby<:172:4 15
+W_full:312:4 20
+End.:30:4 17
+R_isAllSmallCase:208:4 21
+W_a><:207:4 16
+W_time:347:4 22
+W_<li>:249:0 19
+E.4:343:4 12
+R_containsDigit:530:0 3
+R_isAllCapital:152:1 7
+R_containsSpecialCharacters:950:0 4
+W_x2014:102:4 10
+W_li>:242:4 18
+W_faculty<:382:4 23
+W_<li>19:4:0 2
 U:3:0 1
-W_to:382:4 26
+E.1:238:4 8
 S.:1:0 0
-R_containsSpecialCharacters:950:0 3

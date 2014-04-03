@@ -1,179 +1,102 @@
-63
-june 15 4:1
-known 27 0:1
-university< 24 0:2
-em> 13 4:1
-founded 6 0:1
-research 45 4:1
-technology 4 0:1
-site 57 0:1
-renovated 54 0:1
-as 7 0:3
-completely 53 0:1
-marsh 22 0:1 2:1
-letters 36 2:1
-<strong> 31 0:1
-<a>united 49 4:1
-rice 23 0:1 2:1
-william 32 2:1
-<p>the 0 0:1
-<a>houston< 47 4:1
-oldest 61 4:1
-art 39 3:1
-opened 29 0:1
-was 5 0:1
-< 12 4:2
-states< 50 4:1
-<a>texas< 48 4:1
-DIGIT 16 0:1 4:2
-eindhoven 1 0:1 3:1
-building 56 0:1 4:1
-it 51 0:1
-<a>private< 42 4:1
-is 40 0:1 4:1
-university 2 0:1 4:1
-strong> 25 0:2 4:1
-, 17 0:1 2:1 4:3
-original 58 0:1
-the 8 0:4 1:1 2:1 4:3
-in 30 0:2 4:1
-on 14 4:2
-<strong>rice 28 0:1
-advancement 35 2:1
-a> 43 4:5
-of 3 0:2 2:1
-<em> 9 0:1
-garrand 55 0:1
-seattle 59 1:1
-by 18 4:1
-<a>coeducational< 44 4:1
-commonly 26 0:1
-for 34 2:1
-and 38 2:1 4:1
-<p><strong>william 21 0:1
-dutch 19 4:1
-government 20 4:1
-located 46 4:1
-technische 10 1:1
-hogeschool 11 2:1
-campus 62 4:1
-institute 33 2:1
-college 60 3:1
-a 41 4:1
-science 37 2:1
-housed 52 0:1
+33
+, 20 2:1
+eindhoven 5 3:1
+technische 3 1:1
+DIGIT 10 0:1
+william 12 2:1
+college 31 3:1
+advancement 17 2:1
+strong> 24 4:1
+<strong> 11 0:1
+is 25 4:1
+seattle 30 1:1
+institute 15 2:1
+science 21 2:1
+the 1 0:2 1:1 2:1 4:2
+on 8 4:1
+hogeschool 4 2:1
+as 0 0:2
+<em> 2 0:1
+of 18 0:1 2:1
+rice 14 2:1
+em> 7 4:1
+oldest 32 4:1
+original 29 0:1
+a> 28 4:1
+marsh 13 2:1
+< 6 4:2
+for 16 2:1
+june 9 4:1
+<a>private< 27 4:1
+a 26 4:1
+letters 19 2:1
+and 22 2:1 4:1
+art 23 3:1
 ******* Features ************
-113
-R_isAllSmallCase:187:1 18
-R_containsSpecialCharacters:950:0 3
-W_known:949:0 53
-W_<a>texas<:1712:4 90
-W_william:1138:2 61
-E.0:182:1 15
-W_DIGIT:564:0 57
-R_isAllSmallCase:180:0 6
-W_was:179:0 10
-W_renovated:1894:0 97
-E.0:175:0 4
-W_june:557:4 37
-R_isAllCapital:173:4 39
-W_technische:361:1 17
-W_science:1313:2 75
-W_seattle:2076:1 106
-W_<p><strong>william:739:0 47
-W_<a>private<:1502:4 82
-R_singlePunctuation:733:4 29
-W_government:732:4 46
-R_isSpecialCharacter:348:4 28
-E.4:343:4 31
-W_commonly:914:0 52
-W_<a>houston<:1677:4 89
-R_singlePunctuation:719:2 74
-R_isAllCapital:145:0 58
-W_technology:144:0 9
-W_strong>:907:4 79
-W_completely:1859:0 96
-W_on:522:4 36
-W_<strong>:1089:0 59
-R_singlePunctuation:705:0 103
-W_letters:1278:2 70
-W_a:1467:4 81
-W_<em>:319:0 14
-W_in:1082:4 88
-W_original:2034:0 105
-W_dutch:697:4 44
-W_of:123:2 69
-R_singleQuote:313:4 42
-W_the:312:4 34
-E.3:308:4 26
-W_strong>:879:0 51
-W_located:1642:4 87
-W_of:109:0 8
-R_singleQuote:299:2 73
-W_the:298:2 67
-W_housed:1824:0 95
-W_em>:487:4 33
-W_university:102:4 86
-W_campus:2202:4 112
-W_the:291:1 60
-W_in:1054:0 56
-W_advancement:1243:2 68
-W_is:1432:4 80
-R_singleQuote:285:0 102
-W_the:284:0 13
-W_site:1999:0 104
-W_by:662:4 43
-R_singleComma:278:4 41
-W_building:1992:4 111
-W_university<:844:0 50
-W_research:1607:4 85
-E.2:266:3 23
-W_university:74:0 7
-R_singleComma:264:2 72
-W_it:1789:0 93
-W_<:452:4 27
-E.2:259:2 62
-W_is:1404:0 94
-W_oldest:2167:4 110
-W_opened:1019:0 55
-W_states<:1782:4 92
-W_for:1208:2 66
-W_eindhoven:60:3 24
-R_singleComma:250:0 101
-W_rice:823:2 64
-W_as:249:0 12
-W_building:1964:0 99
-W_,:627:4 40
-W_art:1390:3 78
-W_rice:809:0 49
-W_<a>coeducational<:1572:4 84
-E.1:231:3 107
-W_,:613:2 71
-W_eindhoven:39:0 5
-E.1:224:2 19
-U:31:4 32
-End.:30:4 45
-W_<strong>rice:984:0 54
-W_<a>united:1747:4 91
-W_institute:1173:2 65
-W_,:599:0 100
-W_and:1362:4 109
-W_college:2125:3 108
-U:24:3 77
-W_marsh:788:2 63
-W_founded:214:0 11
-R_containsSpecialCharacters:978:4 30
-W_hogeschool:403:2 21
-W_garrand:1929:0 98
-W_DIGIT:592:4 38
-U:17:2 20
-R_isAllSmallCase:208:4 35
-W_and:1348:2 76
-U:10:1 16
-R_isAllSmallCase:201:3 25
-W_marsh:774:0 48
-W_a>:1537:4 83
-W_<p>the:4:0 2
-U:3:0 1
-R_isAllSmallCase:194:2 22
+66
+W_marsh:473:2 39
+R_isAllSmallCase:187:1 11
+W_science:753:2 51
+W_a:942:4 56
+E.0:182:1 8
+W_em>:277:4 27
+R_isAllSmallCase:180:0 2
+E.0:175:0 3
+W_of:648:2 45
+E.2:266:3 16
+R_singleComma:264:2 48
+W_<em>:74:0 6
+W_art:830:3 53
+W_original:1019:0 60
+E.2:259:2 38
+W_DIGIT:354:0 33
+W_institute:543:2 41
+R_singlePunctuation:733:4 23
+W_the:67:4 28
+W_college:1110:3 63
+W_of:634:0 59
+W_hogeschool:158:2 14
+R_isSpecialCharacter:348:4 22
+W_a>:1012:4 58
+W_june:347:4 32
+W_william:438:2 37
+E.4:343:4 25
+R_singlePunctuation:719:2 50
+W_,:718:2 47
+W_the:53:2 43
+W_is:907:4 55
+W_<:242:4 21
+R_isAllCapital:145:0 34
+W_the:46:1 36
+W_advancement:613:2 44
+W_and:802:4 64
+E.1:231:3 62
+W_the:39:0 4
+E.1:224:2 12
+W_rice:508:2 40
+U:31:4 26
+End.:30:4 31
+W_and:788:2 52
+R_containsSpecialCharacters:978:4 24
+W_<a>private<:977:4 57
+W_on:312:4 30
+U:24:3 17
+E.3:308:4 20
+W_technische:116:1 10
+W_letters:683:2 46
+R_isAllSmallCase:208:4 29
+W_strong>:872:4 54
+U:17:2 13
+W_seattle:1061:1 61
+R_singleQuote:299:2 49
+W_oldest:1152:4 65
+R_isAllSmallCase:201:3 19
+U:10:1 9
+W_eindhoven:200:3 18
+W_<strong>:389:0 35
+W_for:578:2 42
+W_as:4:0 1
+R_isAllSmallCase:194:2 15
+U:3:0 5
 S.:1:0 0
+R_containsSpecialCharacters:950:0 7

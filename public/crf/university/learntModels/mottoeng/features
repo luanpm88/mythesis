@@ -1,49 +1,29 @@
-34
-memoirs 32 4:1
-labore< 19 0:1
+18
 , 10 4:1
-be 30 2:1
-way 28 2:1
 ref 12 4:3
 is 17 4:1
 lt 11 4:3
 in 8 2:1
 good 15 4:1
-the 3 1:2 2:1
+the 3 1:1 2:1
 but 16 4:1
 as 1 0:1
-<em> 27 0:1
 gt 13 4:3
-of 5 2:1 4:1
-must 29 2:1
-work 24 3:1
-em> 20 0:1
+of 5 2:1
 one 6 2:1
 name= 14 4:1
-< 25 4:1
 translated 0 0:1
-knowledge 22 2:1
-by 21 1:1
 crying 7 2:1
 wilderness 9 3:1
-p> 26 4:1
 quot 2 0:1 4:3
-tried 31 3:1
-et 18 0:1
-a 33 4:1
-and 23 2:1
 voice 4 2:1
 ******* Features ************
-62
-W_<em>:949:0 54
+41
 R_isAllSmallCase:187:1 9
 R_singleComma:278:4 30
-W_p>:942:4 53
 E.0:182:1 7
 R_isAllSmallCase:180:0 3
-W_must:1033:2 56
 W_good:557:4 37
-W_by:746:1 46
 E.0:175:0 4
 E.2:266:3 20
 W_quot:74:0 6
@@ -51,49 +31,32 @@ W_crying:263:2 17
 W_ref:452:4 34
 E.2:259:2 14
 R_singlePunctuation:733:4 32
-W_tried:1110:3 58
-W_et:634:0 41
-R_isSpecialCharacter:348:4 51
-W_and:823:2 48
 W_voice:158:2 12
 E.4:343:4 27
 W_is:627:4 40
 W_wilderness:340:3 22
-W_<:907:4 50
-W_way:998:2 55
-W_a:1187:4 61
 W_name=:522:4 36
-W_em>:704:0 44
 W_as:39:0 5
 W_one:228:2 16
 W_lt:417:4 33
 E.1:224:2 10
 U:31:4 28
 End.:30:4 39
-R_containsSpecialCharacters:978:4 52
-W_knowledge:788:2 47
 W_the:123:2 19
 R_singleQuote:313:4 31
 U:24:3 21
-W_be:1068:2 57
 E.3:308:4 24
 W_but:592:4 38
 W_the:116:1 8
 R_isAllSmallCase:208:4 26
-W_of:207:4 60
 U:17:2 11
 W_in:298:2 18
-W_memoirs:1152:4 59
 W_gt:487:4 35
 R_isAllSmallCase:201:3 23
-W_work:865:3 49
-U:10:1 45
 W_quot:102:4 25
-W_labore<:669:0 42
 W_translated:4:0 2
 R_isAllSmallCase:194:2 13
 U:3:0 1
 W_of:193:2 15
 W_,:382:4 29
 S.:1:0 0
-R_containsSpecialCharacters:950:0 43

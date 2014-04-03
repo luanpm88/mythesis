@@ -204,5 +204,5 @@
 </ul>
 <p><img> <img> </p>
 <p>&lt;!-- this article in other languages below --&gt;</p>
-<p> <a>Category:University of Manitoba</a> <a>Category:Nursing schools in Canada</a> <a>Category:Educational institutions established in 1877</a> <a>Category:Universities and colleges in Manitoba</a> <a>Category:Association of Commonwealth Universities</a> <a>Category:Consortium for North American Higher Education Collaboration</a></p>
-<p><a>de:University of Manitoba</a> <a>es:Universidad de Manitoba</a> <a>eo:Universitato de Manitobo</a> <a>fr:Universit&#x00e9; du Manitoba</a> <a>ja:&#x30de;&#x30cb;&#x30c8;&#x30d0;&#x5927;&#x5b66;</a> <a>pt:Universidade de Manitoba</a> <a>uk:&#x041c;&#x0430;&#x043d;&#x0456;&#x0442;&#x043e;&#x0431;&#x0441;&#x044c;&#x043a;&#x0438;&#x0439; &#x0443;&#x043d;&#x0456;&#x0432;&#x0435;&#x0440;&#x0441;&#x0438;&#x0442;&#x0435;&#x0442;</a> <a>zh:&#x66fc;&#x5c3c;&#x6258;&#x5df4;&#x5927;&#x5b66;</a></p>
+<p></p>
+

@@ -1,88 +1,57 @@
-26
-, 4 0:3 1:4 4:5
-approximately 18 0:1
-undergraduate 6 4:1
-DIGIT 3 0:5 1:10 4:2
-ref 20 4:1
-winning 13 4:1
-lt 19 4:1
-in 22 0:1
-faculty 17 4:1
-staff 1 0:2 4:2
-a>< 24 4:1
-regan< 9 0:1
-employed 16 0:1
-award< 12 4:1
-<li><a>chris 8 0:1
+15
+, 4 1:1 4:2
 <a>emmy 11 4:1
-of 2 0:3
-a> 10 0:1 4:1
-< 23 4:1
-degrees 7 4:1
+<li><a>chris 8 0:1
 writer 14 4:1
-p> 25 4:1
-established 21 0:1
-a 0 0:2
+degrees 7 4:1
+DIGIT 3 0:1 1:3
+award< 12 4:1
+regan< 9 0:1
+winning 13 4:1
+a> 10 0:1 4:1
+a 0 0:1
 offers 5 4:1
-and 15 0:1 4:2
+staff 1 0:1
+of 2 0:1
+undergraduate 6 4:1
 ******* Features ************
-59
+39
 W_<li><a>chris:284:0 27
-W_employed:564:0 44
-R_singleComma:278:4 16
-E.0:182:1 6
-W_degrees:277:4 25
-R_isAllSmallCase:180:0 2
-W_and:557:4 46
-E.0:175:0 3
-R_isAllCapital:173:4 50
-W_<:837:4 55
-W_,:172:4 15
-W_established:739:0 53
-W_of:74:0 5
+R_singleComma:278:4 17
+E.0:182:1 7
+W_degrees:277:4 26
+R_isAllSmallCase:180:0 3
+E.0:175:0 4
+W_,:172:4 16
+W_of:74:0 6
 W_award<:452:4 35
 W_a>:354:0 30
-R_singlePunctuation:733:4 18
-W_ref:732:4 52
-W_staff:67:4 47
-R_singleComma:257:1 11
-W_approximately:634:0 48
-R_isSpecialCharacter:348:4 56
-R_singleComma:250:0 40
-E.4:343:4 19
-W_faculty:627:4 45
-R_isAllCapital:152:1 8
-W_,:151:1 10
-W_and:529:0 43
-W_p>:907:4 58
-W_undergraduate:242:4 23
+R_singlePunctuation:733:4 19
+R_singleComma:257:1 12
+E.4:343:4 20
+R_isAllCapital:152:1 9
+W_,:151:1 11
+W_undergraduate:242:4 24
 R_isAllCapital:145:0 32
-W_,:144:0 39
-E.1:238:4 14
+E.1:238:4 15
 W_writer:522:4 38
-R_singlePunctuation:712:1 13
-W_DIGIT:137:4 49
-R_singlePunctuation:705:0 42
-W_staff:39:0 4
+R_singlePunctuation:712:1 14
+W_staff:39:0 5
 W_<a>emmy:417:4 33
 W_regan<:319:0 29
-W_lt:697:4 51
-U:31:4 20
-End.:30:4 24
-R_singleQuote:313:4 17
+U:31:4 21
+End.:30:4 25
+R_singleQuote:313:4 18
 R_containsSpecialCharacters:978:4 34
-E.1:217:1 9
-W_DIGIT:116:1 7
-R_isAllSmallCase:208:4 22
-W_a><:872:4 57
-W_offers:207:4 21
-W_in:774:0 54
+E.1:217:1 10
+W_DIGIT:116:1 8
+R_isAllSmallCase:208:4 23
+W_offers:207:4 22
 W_DIGIT:109:0 31
 W_winning:487:4 37
-R_singleQuote:292:1 12
-W_a:4:0 1
-U:3:0 26
+R_singleQuote:292:1 13
+W_a:4:0 2
+U:3:0 1
 W_a>:382:4 36
 S.:1:0 0
-R_singleQuote:285:0 41
 R_containsSpecialCharacters:950:0 28

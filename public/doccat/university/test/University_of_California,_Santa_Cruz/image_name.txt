@@ -1,0 +1,63 @@
+<p><a>thumb|left|McHenry Library</a></p>
+{| cellpadding=3 cellspacing=6 style=&quot;float:right; margin:5px; border:3px solid;&quot; !
+style=&quot;width: 40px; height: 40px; background: #285991; text-align: center; font-size: 24pt; color: #FFDF82;&quot; |<strong>UCSC</strong> !
+<p>ImageSize = width:170 height:570 PlotArea = width: 26 height:500 left:40 bottom:65 AlignBars = early</p>
+<p>DateFormat = yyyy Period = from:1960 till:2009 TimeAxis = orientation:vertical ScaleMajor = unit:year increment:5 start:1960</p>
+<p>Legend = columns:2 left:20 top:40 columnwidth:100</p>
+<p>Colors =</p>
+<pre>id:invested value:rgb(0.16,0.35,0.57)
+id:acting value:rgb(1,0.87,0.51)
+<pre>bar:Leaders width:25 mark:(line,white) align:left fontsize:S
+from:1961 till:1974 shift:($dx,-3) color:Invested text:[[Dean McHenry]]
+from:1974 till:1976 shift:($dx,-3) color:Invested text:Mark Christensen
+from:1976 till:1977 shift:($dx,-3) color:Invested text:Angus Taylor
+from:1977 till:1987 shift:($dx,-3) color:Invested text:Robert Sinsheimer
+from:1987 till:1991 shift:($dx,-3) color:Invested text:Robert Stevens
+from:1991 till:1996 shift:($dx,-3) color:Invested text:Karl Pister
+from:1996 till:2004 shift:($dx,-5) color:Invested text:M.R.C.
+from:2004 till:2005 shift:($dx,-5) color:Acting text:Martin Chemers
+from:2005 till:2006 shift:($dx,-5) color:Invested text:[[Denice Denton]] &#x2020;
+from:2006 till:end shift:($dx,+1) color:Invested text:[[George Blumenthal]]</pre>
+<h3>Expansion plans</h3>
+&lt;ref&gt; &lt;/ref&gt;</p>
+<h3>Budget cuts</h3>
+&lt;ref&gt; &lt;/ref&gt; <a>thumb|left|UCSC &amp; Santa Cruz aerial view.
+&lt;/ref&gt;&lt;ref&gt; &lt;/ref&gt;</p>
+&lt;ref&gt; <a>UCSC campus map showing cave location</a>, <a>Empire Cave</a>.
+Retrieved October 27, 2006.&lt;/ref&gt;</p>
+<a>left|thumb|Organic farm rows</a> <a>right|thumb|Baskin Engineering Plaza</a></p>
+&lt;/ref&gt;&lt;ref&gt; &lt;/ref&gt;</p>
+<pre> </pre>
+&lt;ref&gt; &lt;/ref&gt;</p>
+<h2>Residential colleges</h2>
+<p>&lt;div class=&quot;center&quot;&gt;&lt;gallery caption=&quot;The Residential Colleges&quot; widths=&quot;&quot; heights=&quot;&quot; perrow=&quot;5&quot;&gt; Image:Cowell College.jpg|&lt;center&gt;<a>Cowell
+College</a>&lt;/center&gt; Image:Stevenson College.jpg|&lt;center&gt;<a>Stevenson
+College</a> Image:Clock tower, crown college, ucsc.jpg|&lt;center&gt;<a>Crown
+College</a>&lt;/center&gt; Image:Merrill_College.jpg|&lt;center&gt;<a>Merrill
+College</a>&lt;/center&gt; Image:Porter College, entrance, UCSC.jpg|&lt;center&gt;<a>Porter
+College</a>&lt;/center&gt; Image:KresgeApartmentsandLaundry.JPG|&lt;center&gt;<a>Kresge College</a>&lt;/center&gt; Image:Oakes_College.jpg|&lt;center&gt;<a>Oakes College</a>&lt;/center&gt; Image:Ucsdcollegeeight.jpg|&lt;center&gt;<a>College Eight</a>&lt;/center&gt; Image:College 9.jpg|&lt;center&gt;<a>College Nine</a>&lt;/center&gt; Image:College 10.jpg|&lt;center&gt;<a>College Ten</a>&lt;/center&gt; &lt;/center&gt; &lt;/gallery&gt;&lt;/div&gt;</p>
+<p><a>thumb|Bridge across ravine.</a>
+&lt;ref&gt; &lt;/ref&gt;</p>
+&lt;ref&gt; &lt;/ref&gt;</p>
+<h3>Grateful Dead archive</h3>
+<h2>Student life</h2>
+&lt;/ref&gt;&lt;ref&gt; &lt;/ref&gt;</p>
+<h3>Student government</h3>
+<h3>Student media</h3>
+<p> &lt;/ref&gt;</p>
+<p><a>thumb|KZSC lounge</a></p>
+<p> &lt;/ref&gt;</p>
+<h3>Greek Life</h3>
+Student groups like P.A.C. (People's Alternative Community), S.A.G.E.
+Life#cite note-6</a>&lt;/ref&gt;</p>
+<h2>See also</h2>
+<li><a>UC Santa Cruz Fire Department</a></li>
+<li><a>Shakespeare Santa Cruz</a></li>
+<h2>External links</h2>
+* Bookstores
+* Political or religious causes
+* Businesses, products or services (spam)
+* Student clubs
+<p>--&gt; </p>
+<li><a>2005 Long Range Development Plan</a></li>
+<p> </p>

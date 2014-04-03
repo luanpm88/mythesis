@@ -59,5 +59,4 @@
 </ul>
 <p> </p>
 <p></p>
-<p><a>Category:Academic institutions associated with the Bengal Renaissance</a> <a>Category:Universities and colleges in Kolkata</a> <a>Category:Jadavpur University</a> <a>Category:Engineering colleges in West Bengal</a></p>
-<p><a>bn:&#x09af;&#x09be;&#x09a6;&#x09ac;&#x09aa;&#x09c1;&#x09b0; &#x09ac;&#x09bf;&#x09b6;&#x09cd;&#x09ac;&#x09ac;&#x09bf;&#x09a6;&#x09cd;&#x09af;&#x09be;&#x09b2;&#x09af;&#x09bc;</a> <a>gu:&#x0a9c;&#x0abe;&#x0aa6;&#x0ab5;&#x0aaa;&#x0ac1;&#x0ab0; &#x0aaf;&#x0ac1;&#x0aa8;&#x0abf;&#x0ab5;&#x0ab0;&#x0acd;&#x0ab8;&#x0abf;&#x0a9f;&#x0ac0;</a> <a>hi:&#x092f;&#x093e;&#x0926;&#x0935;&#x092a;&#x0941;&#x0930; &#x0935;&#x093f;&#x0936;&#x094d;&#x0935;&#x0935;&#x093f;&#x0926;&#x094d;&#x092f;&#x093e;&#x0932;&#x092f;</a> <a>kn:&#x0c9c;&#x0cbe;&#x0ca6;&#x0cb5;&#x0ccd;&#x200c;&#x0caa;&#x0cc1;&#x0cb0; &#x0cb5;&#x0cbf;&#x0cb6;&#x0ccd;&#x0cb5;&#x0cb5;&#x0cbf;&#x0ca6;&#x0ccd;&#x0caf;&#x0cbe;&#x0cb2;&#x0caf;</a> <a>te:&#x0c1c;&#x0c3e;&#x0c26;&#x0c35;&#x0c4d;&#x200c;&#x0c2a;&#x0c42;&#x0c30;&#x0c4d; &#x0c35;&#x0c3f;&#x0c36;&#x0c4d;&#x0c35;&#x0c35;&#x0c3f;&#x0c26;&#x0c4d;&#x0c2f;&#x0c3e;&#x0c32;&#x0c2f;&#x0c02;</a></p>
+

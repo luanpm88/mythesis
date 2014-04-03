@@ -1,65 +1,35 @@
-22
-graduate 18 1:1
-<a>institution 6 4:1
-private 3 1:1
-DIGIT 10 0:1
-<a>category 9 0:2
-is 0 0:1
-establishments< 11 0:1
-dual 17 0:1
-higher 8 4:1
-program 19 4:1
-the 21 4:1
-a>< 14 4:1
-at 20 4:1
-of 7 4:1
-a> 5 0:1 4:1
-< 4 4:1
-p> 15 4:1
-<a> 2 0:1
-public 12 1:1
-a 1 0:2
-offers 16 0:1
-universities< 13 4:1
+10
+institute 1 0:1
+was 5 4:1
+available 9 4:1
+public 3 1:2
+book 8 4:1
+domain 7 4:1
+the 0 0:1
+affairs 4 4:1
+of 2 0:1
+established 6 4:1
 ******* Features ************
-40
-R_isAllSmallCase:187:1 11
-W_offers:564:0 34
-E.0:182:1 8
-W_of:277:4 21
+22
+R_isAllSmallCase:187:1 9
+W_domain:277:4 19
+E.0:182:1 7
+W_institute:39:0 5
 R_isAllSmallCase:180:0 3
-W_a>:179:0 29
-W_p>:557:4 33
 E.0:175:0 4
-W_<:172:4 14
-W_<a>:74:0 6
-W_graduate:641:1 36
-W_DIGIT:354:0 26
-R_singlePunctuation:733:4 16
-W_at:732:4 38
-R_isSpecialCharacter:348:4 15
-E.4:343:4 18
-W_<a>institution:242:4 20
-W_public:431:1 30
-R_isAllCapital:145:0 27
-E.1:238:4 12
-W_a><:522:4 32
-W_a:39:0 5
-W_<a>category:319:0 25
-W_program:697:4 37
-U:31:4 13
-End.:30:4 23
-W_dual:599:0 35
-R_containsSpecialCharacters:978:4 17
-W_higher:312:4 24
-W_private:116:1 10
-R_isAllSmallCase:208:4 22
-W_a>:207:4 19
-W_universities<:487:4 31
-U:10:1 9
-W_establishments<:389:0 28
-W_the:767:4 39
-W_is:4:0 2
+U:31:4 11
+W_affairs:172:4 12
+W_book:312:4 20
+End.:30:4 16
+W_of:74:0 6
+W_public:116:1 8
+R_isAllSmallCase:208:4 13
+W_was:207:4 15
+W_available:347:4 21
+E.4:343:4 14
+S.:8:1 18
+W_established:242:4 17
+W_the:4:0 2
 U:3:0 1
+E.1:238:4 10
 S.:1:0 0
-R_containsSpecialCharacters:950:0 7

@@ -1,73 +1,38 @@
-24
-old 4 0:1
-, 8 0:1 4:1
-began 13 4:1
-ref 20 4:2
-lt 19 4:2
-yellow 7 0:1
-that 16 4:1
-gold 5 0:1
-the 10 0:1 4:1
-colors 15 4:1
-flying 14 4:1
-kept 9 0:1
-endure 17 4:1
-gt 21 4:2
-opted 2 0:1
-black 11 1:1
-< 22 4:1
-gridders 1 0:1
-over 6 0:1
-for 3 0:1
-p> 23 4:1
-today 18 4:1
-purdue 0 0:1
-and 12 4:1
+8
+began 6 4:1
+flying 7 4:1
+the 3 0:1
+and 5 4:1
+kept 2 0:1
+yellow 0 0:1
+black 4 1:1
+, 1 0:1 4:1
 ******* Features ************
-46
-W_,:284:0 12
-W_today:662:4 37
-R_isAllSmallCase:187:1 21
-R_singleComma:278:4 24
-E.0:182:1 18
+27
+R_isAllSmallCase:187:1 14
+R_singleComma:278:4 17
+W_flying:277:4 26
+E.0:182:1 11
+W_,:39:0 5
 R_isAllSmallCase:180:0 3
-W_gold:179:0 9
-W_colors:557:4 34
 E.0:175:0 4
-W_p>:837:4 45
-W_opted:74:0 6
-W_and:452:4 29
-W_the:354:0 17
-R_singlePunctuation:733:4 26
-W_ref:732:4 39
-R_isSpecialCharacter:348:4 42
-R_singleComma:250:0 13
-W_yellow:249:0 11
-E.4:343:4 27
-W_endure:627:4 36
-W_old:144:0 8
-E.1:238:4 22
-W_flying:522:4 32
-W_<:802:4 41
-R_singlePunctuation:705:0 15
-W_gridders:39:0 5
-W_kept:319:0 16
-W_lt:697:4 38
-U:31:4 28
-End.:30:4 44
-R_containsSpecialCharacters:978:4 43
-R_singleQuote:313:4 25
-W_,:312:4 23
-W_over:214:0 10
-W_that:592:4 35
-R_isAllSmallCase:208:4 30
-W_black:396:1 20
-W_for:109:0 7
-W_began:487:4 31
-U:10:1 19
-W_gt:767:4 40
-W_purdue:4:0 2
+U:31:4 21
+R_singleQuote:313:4 18
+End.:30:4 25
+R_singlePunctuation:733:4 19
+W_kept:74:0 9
+R_isAllSmallCase:208:4 23
+W_,:67:4 16
+W_and:207:4 22
+W_the:109:0 10
+R_singleComma:250:0 6
+E.4:343:4 20
+U:10:1 12
+W_black:151:1 13
+W_began:242:4 24
+W_yellow:4:0 2
 U:3:0 1
-W_the:382:4 33
+E.1:238:4 15
+R_singleQuote:285:0 7
 S.:1:0 0
-R_singleQuote:285:0 14
+R_singlePunctuation:705:0 8

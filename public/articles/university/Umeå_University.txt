@@ -145,5 +145,5 @@
 </ul>
 <p></p>
 <p></p>
-<p> <a>Category:Ume&#x00e5; University</a> <a>Category:Ume&#x00e5;</a> <a>Category:Universities in Sweden</a> <a>Category:Educational institutions established in 1965</a></p>
-<p><a>ar:&#x062c;&#x0627;&#x0645;&#x0639;&#x0629; &#x0623;&#x0648;&#x0645;&#x064a;&#x0648;</a> <a>da:Ume&#x00e5; Universitet</a> <a>de:Universit&#x00e4;t Ume&#x00e5;</a> <a>et:Ume&#x00e5; &#x00dc;likool</a> <a>es:Universidad de Ume&#x00e5;</a> <a>fr:Universit&#x00e9; d'Ume&#x00e5;</a> <a>la:Universitas Umensis</a> <a>nl:Universiteit van Ume&#x00e5;</a> <a>ja:&#x30a6;&#x30e1;&#x30aa;&#x5927;&#x5b66;</a> <a>no:Ume&#x00e5; universitet</a> <a>pnb:&#x0627;&#x0645;&#x06cc;&#x0627; &#x06cc;&#x0648;&#x0646;&#x06cc;&#x0648;&#x0631;&#x0633;&#x0679;&#x06cc;</a> <a>pl:Uniwersytet w Ume&#x00e5;</a> <a>ru:&#x0423;&#x043d;&#x0438;&#x0432;&#x0435;&#x0440;&#x0441;&#x0438;&#x0442;&#x0435;&#x0442; &#x0423;&#x043c;&#x0435;&#x043e;</a> <a>fi:Uumajan yliopisto</a> <a>sv:Ume&#x00e5; universitet</a></p>
+<p></p>
+

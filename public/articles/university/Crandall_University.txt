@@ -44,5 +44,4 @@
 <h2>References</h2>
 <p><img> </p>
 <p><img></p>
-<p><a>Category:Universities and colleges in New Brunswick</a> <a>Category:Education in Moncton</a> <a>Category:Educational institutions established in 1949</a></p>
-<p><a>ru:&#x0423;&#x043d;&#x0438;&#x0432;&#x0435;&#x0440;&#x0441;&#x0438;&#x0442;&#x0435;&#x0442; &#x041a;&#x0440;&#x044d;&#x043d;&#x0434;&#x0430;&#x043b;&#x043b;&#x0430;</a></p>
+

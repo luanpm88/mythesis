@@ -1,0 +1,4 @@
+<li>Footscray College of TAFE</li>
+<li>Newport Technical School renamed Newport College of TAFE</li>
+<li>Gellibrand College of TAFE renamed Western Metropolitan College of TAFE.</li>
+<li>Flagstaff College of TAFE</li>

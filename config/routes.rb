@@ -1,4 +1,6 @@
 Mythesis2::Application.routes.draw do
+  resources :test_article_attribute_sentences
+
   resources :attribute_values
 
   resources :attributes
@@ -18,6 +20,10 @@ Mythesis2::Application.routes.draw do
       get :create_train_for_filter_by_cluster
       get :create_training_data_for_CRF
       get :training_CRF
+      get :doccat_test_files
+      get :filter
+      get :create_test_files_crf
+      get :test_CRF
     end
   end
 

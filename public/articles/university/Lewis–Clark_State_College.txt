@@ -43,5 +43,4 @@
 </ul>
 <p> </p>
 <p></p>
-<p><a>Category:Lewis-Clark State College</a> <a>Category:American Association of State Colleges and Universities</a> <a>Category:Universities and colleges in Idaho</a> <a>Category:Educational institutions established in 1893</a> <a>Category:Universities and colleges accredited by the Northwest Commission on Colleges and Universities</a></p>
-<p><a>de:Lewis-Clark State College</a></p>
+

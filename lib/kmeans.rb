@@ -16,6 +16,7 @@ class Kmeans
       c = Cluster.new(rand_point)
        
       clusters.push c
+      
     end
      
     # Loop
@@ -52,7 +53,8 @@ class Kmeans
           max_delta = dist_moved
         end
       end
-     
+      #puts "@@@@@@@@@@#########" +  max_delta.to_s + "--" + delta.to_s
+      #sleep(1)
       # Check exit condition
       #if max_delta < delta
         return clusters
@@ -61,8 +63,31 @@ class Kmeans
       # Reset points for the next iteration
       #clusters.each do |cluster|
       #  cluster.points = [cluster.center]
+      #  cluster.refresh_vocab
       #end
+      
+      
     end
+  end
+  
+  def kmeans_fast(data, k, delta=0.001)
+    clusters = []
+    
+    c = Cluster.new(data.first)
+    
+    clusters.push c
+    
+    data.each do |point|      
+      if data.first != point
+        clusters.first.points.push point
+      end    
+    end
+    
+    clusters.first.refresh_vocab    
+    clusters.first.recenter!
+    
+    return clusters
+    
   end
   
   def run

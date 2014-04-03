@@ -41,5 +41,5 @@
   <li><a>UPEACE Prospectus</a></li>
   <li><a>Earth Charter Initiative</a></li>
 </ul>
-<p> <a>Category:United Nations General Assembly subsidiary organs</a> <a>Category:United Nations schools</a> <a>Category:Schools of international relations</a> <a>Category:Peace and conflict studies</a> <a>Category:Universities in Costa Rica</a> <a>Category:Peace education</a> <a>Category:Educational institutions established in 1980</a></p>
-<p><a>ast:Universid&#x00e1; pa la Paz</a> <a>ca:Universitat per la Pau</a> <a>es:Universidad para la Paz</a> <a>eo:Universitato por Paco</a> <a>eu:Bakerako Unibertsitatea</a> <a>it:Universit&#x00e0; per la Pace</a> <a>he:&#x05d0;&#x05d5;&#x05e0;&#x05d9;&#x05d1;&#x05e8;&#x05e1;&#x05d9;&#x05d8;&#x05d4; &#x05dc;&#x05de;&#x05e2;&#x05df; &#x05d4;&#x05e9;&#x05dc;&#x05d5;&#x05dd;</a> <a>lt:Universitetas u&#x017e; taik&#x0105;</a> <a>ja:&#x5e73;&#x548c;&#x5927;&#x5b66;</a> <a>pt:Universidade para a Paz</a> <a>ru:&#x0423;&#x043d;&#x0438;&#x0432;&#x0435;&#x0440;&#x0441;&#x0438;&#x0442;&#x0435;&#x0442; &#x043c;&#x0438;&#x0440;&#x0430;</a> <a>scn:Univirsitati p&#x00e2; Paci</a> <a>fi:Rauhanyliopisto</a> <a>sv:Fredsuniversitetet</a> <a>zh:&#x548c;&#x5e73;&#x5927;&#x5b66;</a></p>
+<p></p>
+

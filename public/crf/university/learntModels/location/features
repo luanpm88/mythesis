@@ -1,67 +1,38 @@
-16
-, 6 1:1 2:1
-schools< 8 0:1
-education 10 0:1
-p> 15 4:1
+8
+in 3 0:1
 ca 7 3:1
-< 13 4:1
 angeles 5 2:1
-harrisonburg 11 1:1
-virginia 12 3:1
-a> 2 0:2
 center< 1 0:1
-cultural 0 0:1
-in 3 0:2
 los 4 1:1
-a>< 14 4:1
-<a>category 9 0:1
+cultural 0 0:1
+, 6 2:1
+a> 2 0:1
 ******* Features ************
-48
-W_schools<:284:0 27
+27
 R_isAllSmallCase:187:1 12
 E.0:182:1 9
-R_isAllSmallCase:180:0 3
-W_p>:557:4 47
-E.0:175:0 4
-W_ca:270:3 25
-E.2:266:3 22
-W_a>:74:0 7
-R_singleComma:264:2 19
-E.2:259:2 17
-W_education:354:0 29
-R_singlePunctuation:733:4 42
-R_singleComma:257:1 33
-W_virginia:445:3 37
-R_isSpecialCharacter:348:4 41
-E.4:343:4 44
-W_los:151:1 11
-R_singlePunctuation:719:2 21
-W_a><:522:4 45
-R_singlePunctuation:712:1 35
-E.1:231:3 36
-W_center<:39:0 5
 W_,:228:2 18
+W_center<:39:0 5
+R_isAllSmallCase:180:0 3
 E.1:224:2 13
-W_<a>category:319:0 28
-U:31:4 39
-W_,:221:1 32
-End.:30:4 46
-R_containsSpecialCharacters:978:4 43
-E.1:217:1 31
+W_ca:270:3 25
+E.0:175:0 4
+E.2:266:3 22
+R_singleComma:264:2 19
+W_a>:74:0 7
 U:24:3 24
-E.3:308:4 38
+E.2:259:2 17
 End.:23:3 23
-U:17:2 14
-W_harrisonburg:396:1 30
-W_in:109:0 8
 R_singleQuote:299:2 20
-W_<:487:4 40
+U:17:2 14
+W_in:109:0 8
+R_singlePunctuation:719:2 21
 R_isAllSmallCase:201:3 26
-U:10:1 10
-R_singleQuote:292:1 34
-W_cultural:4:0 2
-R_isAllSmallCase:194:2 16
-U:3:0 1
-W_angeles:193:2 15
-S.:1:0 0
 R_containsSpecialCharacters:950:0 6
+U:10:1 10
+W_los:151:1 11
+R_isAllSmallCase:194:2 16
+W_angeles:193:2 15
+W_cultural:4:0 2
+U:3:0 1
+S.:1:0 0

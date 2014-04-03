@@ -83,5 +83,5 @@
 </ul>
 <p><img></p>
 <p></p>
-<p><img> <a>Category:KAIST</a></p>
-<p><a>de:KAIST</a> <a>fr:Institut cor&#x00e9;en de science et de technologie</a> <a>ko:KAIST</a> <a>it:KAIST</a> <a>la:Institutum Coreae Superius Scientiae et Technologiae</a> <a>ja:KAIST</a> <a>tl:Kaist</a> <a>th:&#x0e2a;&#x0e16;&#x0e32;&#x0e1a;&#x0e31;&#x0e19;&#x0e0a;&#x0e31;&#x0e49;&#x0e19;&#x0e2a;&#x0e39;&#x0e07;&#x0e27;&#x0e34;&#x0e17;&#x0e22;&#x0e32;&#x0e28;&#x0e32;&#x0e2a;&#x0e15;&#x0e23;&#x0e4c;&#x0e41;&#x0e25;&#x0e30;&#x0e40;&#x0e17;&#x0e04;&#x0e42;&#x0e19;&#x0e42;&#x0e25;&#x0e22;&#x0e35;&#x0e40;&#x0e01;&#x0e32;&#x0e2b;&#x0e25;&#x0e35;</a> <a>uk:KAIST</a> <a>vi:Vi&#x1ec7;n khoa h&#x1ecd;c v&#x00e0; c&#x00f4;ng ngh&#x1ec7; ti&#x00ea;n ti&#x1ebf;n H&#x00e0;n Qu&#x1ed1;c</a></p>
+<p><img></p>
+

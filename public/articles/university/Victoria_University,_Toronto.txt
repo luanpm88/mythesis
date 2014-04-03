@@ -85,5 +85,5 @@
   <li><a>Association of Universities and Colleges of Canada profile</a></li>
 </ul>
 <p></p>
-<p> <a>Category:University of Toronto</a> <a>Category:Educational institutions established in 1836</a> <a>Category:Association of Commonwealth Universities</a> <a>Category:Romanesque revival architecture in Canada</a></p>
-<p><a>fr:Universit&#x00e9; Victoria &#x00e0; l'Universit&#x00e9; de Toronto</a></p>
+<p></p>
+

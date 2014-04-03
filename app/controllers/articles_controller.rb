@@ -126,6 +126,30 @@ class ArticlesController < ApplicationController
     
     render nothing: true
   end
+  
+  def test_CRF
+    Article.test_CRF
+    
+    render nothing: true
+  end
+  
+  def doccat_test_files
+    Article.doccat_test_files
+    
+    render nothing: true
+  end
+  
+  def create_test_files_crf
+    Article.create_test_files_crf
+    
+    render nothing: true
+  end
+  
+  def filter
+    Article.filter
+    
+    render nothing: true
+  end
 
   private
     # Use callbacks to share common setup or constraints between actions.

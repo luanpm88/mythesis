@@ -1,80 +1,45 @@
-27
-james 20 1:1
-serve 10 0:1
-DIGIT 6 0:1
-currently 16 0:1
-ref 26 4:1
-lt 25 4:1
-is 15 0:1
-board 1 0:1
-terms 13 0:1
-the 0 0:1
-w 21 2:1
-year 12 0:1
-consists 2 0:1
-of 3 0:2
-voting 7 0:1
-chaired 17 0:1
-crownover 22 3:1
-a> 24 4:1
-< 23 4:1
-by 18 0:1
-maximum 5 0:1
-who 9 0:1
-<a> 19 0:1
-members 8 0:1
-a 4 0:1
-and 14 0:1
-four 11 0:1
+10
+james 3 1:1
+crownover 5 3:1
+chaired 0 0:1
+ref 9 4:1
+lt 8 4:1
+< 6 4:1
+a> 7 4:1
+<a> 2 0:1
+by 1 0:1
+w 4 2:1
 ******* Features ************
-50
-W_members:284:0 13
-R_isAllSmallCase:187:1 29
-W_currently:564:0 21
-W_w:753:2 32
-W_ref:942:4 49
-E.0:182:1 26
+32
+R_isAllSmallCase:187:1 11
+W_a>:277:4 27
+E.0:182:1 8
+W_by:39:0 5
 R_isAllSmallCase:180:0 3
-W_maximum:179:0 9
+R_containsSpecialCharacters:978:4 25
+E.1:224:2 12
 E.0:175:0 4
-W_terms:459:0 18
-W_<:837:4 40
-E.2:266:3 34
-W_consists:74:0 6
-W_serve:354:0 15
-R_singlePunctuation:733:4 42
-W_by:634:0 23
-R_isSpecialCharacter:348:4 41
-W_voting:249:0 12
-E.4:343:4 44
-W_is:529:0 20
-W_lt:907:4 46
-R_isAllCapital:145:0 11
-W_a:144:0 8
-W_james:711:1 28
-W_year:424:0 17
-W_board:39:0 5
-W_crownover:795:3 36
-E.1:224:2 30
-W_who:319:0 14
-U:31:4 39
-End.:30:4 48
-W_chaired:599:0 22
-R_containsSpecialCharacters:978:4 43
-U:24:3 35
-W_DIGIT:214:0 10
-E.3:308:4 38
-W_and:494:0 19
-R_isAllSmallCase:208:4 47
-W_a>:872:4 45
-U:17:2 31
-W_of:109:0 7
-R_isAllSmallCase:201:3 37
-U:10:1 27
-W_four:389:0 16
-W_the:4:0 2
-R_isAllSmallCase:194:2 33
-W_<a>:669:0 24
+U:31:4 21
+E.2:266:3 16
+End.:30:4 30
+W_lt:312:4 28
+R_singlePunctuation:733:4 24
+W_<a>:74:0 6
+E.3:308:4 20
+U:24:3 17
+W_james:116:1 10
+R_isAllSmallCase:208:4 29
+R_isSpecialCharacter:348:4 23
+W_ref:347:4 31
+U:17:2 13
+W_w:158:2 14
+E.4:343:4 26
+R_isAllSmallCase:201:3 19
+W_crownover:200:3 18
+R_containsSpecialCharacters:950:0 7
+U:10:1 9
+W_<:242:4 22
+R_isAllSmallCase:194:2 15
+W_chaired:4:0 2
 U:3:0 1
 S.:1:0 0
-R_containsSpecialCharacters:950:0 25

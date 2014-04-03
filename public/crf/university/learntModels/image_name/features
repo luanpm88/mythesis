@@ -1,18 +1,18 @@
 11
-technology 0 0:1
+technology 7 0:1
 name 2 0:2
-university 7 0:1
+university 0 0:1
+logo 9 3:1
 image 1 0:2
-logo 5 3:1
 = 3 0:2
-svg 6 3:1
-seal 9 3:1
-png 10 3:1
-tamu 8 1:1
-caltech 4 1:1
+svg 10 3:1
+seal 5 3:1
+png 6 3:1
+tamu 4 1:1
+caltech 8 1:1
 ******* Features ************
 24
-W_png:375:3 23
+W_svg:375:3 23
 R_isAllSmallCase:187:1 12
 E.1:231:3 13
 E.0:182:1 9
@@ -24,15 +24,15 @@ U:24:3 14
 End.:23:3 18
 E.3:301:3 17
 W_=:109:0 7
-W_university:249:0 20
+W_technology:249:0 20
 R_isAllSmallCase:201:3 16
-W_logo:200:3 15
-W_seal:340:3 22
+W_seal:200:3 15
+W_logo:340:3 22
 U:10:1 10
-W_caltech:151:1 11
-W_tamu:291:1 21
-W_technology:4:0 2
+W_tamu:151:1 11
+W_caltech:291:1 21
+W_university:4:0 2
 U:3:0 1
 S.:1:0 0
-W_svg:235:3 19
+W_png:235:3 19
 R_singlePunctuation:705:0 8

@@ -244,5 +244,5 @@
 </ul>
 <p><img> <img></p>
 <p></p>
-<p> <a>Category:University of Victoria</a> <a>Category:Nursing schools in Canada</a> <a>Category:Educational institutions established in 1903</a> <a>Category:Educational institutions established in 1920</a> <a>Category:Educational institutions established in 1963</a> <a>University of Victoria</a> <a>Category:Association of Commonwealth Universities</a></p>
-<p><a>de:University of Victoria</a> <a>eo:Universitato de Viktorio</a> <a>fr:Universit&#x00e9; de Victoria</a> <a>ja:&#x30d3;&#x30af;&#x30c8;&#x30ea;&#x30a2;&#x5927;&#x5b66; (&#x30ab;&#x30ca;&#x30c0;)</a> <a>ru:&#x0412;&#x0438;&#x043a;&#x0442;&#x043e;&#x0440;&#x0438;&#x0430;&#x043d;&#x0441;&#x043a;&#x0438;&#x0439; &#x0443;&#x043d;&#x0438;&#x0432;&#x0435;&#x0440;&#x0441;&#x0438;&#x0442;&#x0435;&#x0442;</a> <a>uk:&#x0423;&#x043d;&#x0456;&#x0432;&#x0435;&#x0440;&#x0441;&#x0438;&#x0442;&#x0435;&#x0442; &#x0412;&#x0456;&#x043a;&#x0442;&#x043e;&#x0440;&#x0456;&#x0457;</a> <a>vi:&#x0110;&#x1ea1;i h&#x1ecd;c Victoria</a> <a>zh:&#x7ef4;&#x591a;&#x5229;&#x4e9a;&#x5927;&#x5b66;</a></p>
+<p></p>
+

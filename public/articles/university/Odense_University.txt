@@ -6,5 +6,4 @@
 <h2>References</h2>
 <p>&lt;references/&gt;</p>
 <p></p>
-<p><a>Category:Odense</a> <a>Category:Universities in Denmark</a></p>
-<p><a>da:Odense Universitet</a> <a>no:Odense Universitet</a></p>
+

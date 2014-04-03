@@ -104,5 +104,4 @@
 <h2>References</h2>
 <p><img></p>
 <p>   </p>
-<p><a>Category:Educational institutions established in 1892</a> <a>Category:Ithaca College</a> <a>Category:Universities and colleges in New York</a> <a>Category:Council of Independent Colleges</a> <a>Category:National Association of Independent Colleges and Universities members</a> <a>Category:Middle States Association of Colleges and Schools</a> <a>Category:Schools in Tompkins County, New York</a> <a>Category:Visitor attractions in Tompkins County, New York</a></p>
-<p><a>nl:Ithaca College</a> <a>pl:Ithaca College</a></p>
+

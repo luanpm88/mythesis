@@ -126,5 +126,4 @@
   <li><a>Distinctively American: The Residential Liberal Arts Colleges</a></li>
 </ul>
 <p>   <img></p>
-<p><a>Category:Liberal arts colleges</a> <a>Category:Reed College</a> <a>Category:Educational institutions established in 1908</a> <a>Category:National Association of Independent Colleges and Universities members</a> <a>Category:Universities and colleges accredited by the Northwest Commission on Colleges and Universities</a> <a>Category:Education in Portland, Oregon</a></p>
-<p><a>de:Reed College</a> <a>fr:Reed College</a> <a>ko:&#xb9ac;&#xb4dc; &#xb300;&#xd559;&#xad50;</a></p>
+

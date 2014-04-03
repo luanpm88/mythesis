@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20140325013706) do
+ActiveRecord::Schema.define(version: 20140402110600) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -23,6 +23,7 @@ ActiveRecord::Schema.define(version: 20140325013706) do
     t.datetime "updated_at"
     t.text     "content_html"
     t.integer  "infobox_template_id"
+    t.integer  "for_test"
   end
 
   create_table "attribute_sentences", force: true do |t|
@@ -31,6 +32,7 @@ ActiveRecord::Schema.define(version: 20140325013706) do
     t.text     "content"
     t.datetime "created_at"
     t.datetime "updated_at"
+    t.integer  "artilce_id"
   end
 
   create_table "attribute_values", force: true do |t|
@@ -47,10 +49,19 @@ ActiveRecord::Schema.define(version: 20140325013706) do
     t.integer  "infobox_template_id"
     t.datetime "created_at"
     t.datetime "updated_at"
+    t.text     "centroid"
   end
 
   create_table "infobox_templates", force: true do |t|
     t.text     "name"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  create_table "test_article_attribute_sentences", force: true do |t|
+    t.integer  "article_id"
+    t.integer  "attribute_id"
+    t.text     "sentence"
     t.datetime "created_at"
     t.datetime "updated_at"
   end

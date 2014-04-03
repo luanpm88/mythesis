@@ -1,25 +1,22 @@
-47
+37
 x0101 34 4:1
 princetoniensis 23 3:1
 x10dc 5 0:2
 oxoniensis 31 3:1
-<a>hu 16 4:3
-x00d9 38 0:1
+<a>hu 16 4:2
 universiteit< 20 4:1
 brown 17 4:2
-<a>nl 19 4:2
+<a>nl 19 4:1
 x10e3 4 0:2
 x10e2 10 0:2
 x10e1 7 0:2
 princeton 25 4:1
 x10e0 2 0:2
 <a>ka 0 0:1
-universitas 14 1:4
+universitas 14 1:3
 it< 28 4:1
-< 11 0:1 4:4
+< 11 0:1 4:3
 oxford< 30 0:1
-karelsuniversiteit 46 4:1
-roly 45 4:1
 brunensis 15 3:1
 x10d8 6 0:4
 x10d5 8 0:1
@@ -30,96 +27,75 @@ x10d1 1 0:1
 x10d0 3 0:1
 oksfordas 33 4:1
 cha 21 0:2
-a> 12 0:4 4:9
-egyetem< 18 4:2
-carolina 41 2:1
+a> 12 0:3 4:7
+egyetem< 18 4:1
 <a>lv 32 4:1
 x00e9 27 4:1
-pragensis 42 3:1
-karela< 40 0:1
-x00e1 44 4:1
-<a>csb 37 0:1
-k 43 4:1
 <a>lb 24 4:2
-<a>la 13 0:4
+<a>la 13 0:3
 universit 26 4:2
 te< 35 4:1
-niwersitet 39 0:1
 princeton< 22 0:1
 ******* Features ************
-75
-W_x00d9:1334:0 62
+61
+W_x10d5:284:0 13
+W_egyetem<:662:4 39
 R_isAllSmallCase:187:1 23
-R_containsSpecialCharacters:950:0 3
+W_universit:942:4 49
 E.0:182:1 21
 R_isAllSmallCase:180:0 44
 W_x10dc:179:0 10
-W_universit:942:4 49
 R_containsDigit:558:4 51
+W_x0101:1222:4 58
 E.0:175:0 4
+W_<a>la:459:0 20
 W_brunensis:550:3 26
 W_cha:739:0 43
+W_x10e0:74:0 7
+W_a>:452:4 34
+W_princetoniensis:830:3 46
 W_x10e2:354:0 15
 R_singlePunctuation:733:4 31
 W_universiteit<:732:4 41
-W_pragensis:1495:3 70
-R_isSpecialCharacter:348:4 30
 W_oxoniensis:1110:3 55
-W_<a>csb:1299:0 61
-E.4:343:4 33
-R_containsDigit:530:0 6
-W_university:1292:4 60
-W_x10e3:144:0 9
-W_princeton:907:4 48
-R_singlePunctuation:705:0 18
-R_isSpecialCharacter:320:0 17
-W_x10d4:319:0 14
-W_<a>nl:697:4 39
-W_universitas:501:1 22
-E.3:308:4 28
-W_carolina:1453:2 67
-W_karelsuniversiteit:1642:4 74
-W_te<:1257:4 59
-W_x10d0:109:0 8
-W_<a>lb:872:4 47
-W_oxford<:1054:0 54
-W_x10d5:284:0 13
-W_princetoni:1047:4 53
-W_egyetem<:662:4 38
-W_roly:1607:4 73
-W_<a>la:459:0 20
-W_x0101:1222:4 58
-E.2:266:3 69
-W_x10e0:74:0 7
-W_a>:452:4 34
-W_karela<:1404:0 64
-W_princetoniensis:830:3 46
-W_x10e1:249:0 12
+R_isSpecialCharacter:348:4 30
 W_it<:1012:4 52
+W_x10e1:249:0 12
+E.4:343:4 33
+W_university:1292:4 60
 W_brown:627:4 36
-W_x00e1:1572:4 72
-W_a>:424:0 19
+R_containsDigit:530:0 6
+W_princeton:907:4 48
+W_x10e3:144:0 9
 W_oksfordas:1187:4 57
+W_a>:424:0 19
 E.1:231:3 24
+R_singlePunctuation:705:0 18
 W_x10d1:39:0 5
 W_<:417:4 29
-E.1:224:2 65
-W_niwersitet:1369:0 63
-U:31:4 40
+R_isSpecialCharacter:320:0 17
+W_x10d4:319:0 14
+W_<a>nl:697:4 40
+U:31:4 38
 End.:30:4 42
-U:24:3 25
-W_x10d8:214:0 11
 R_containsSpecialCharacters:978:4 32
 W_x00e9:977:4 50
+W_universitas:501:1 22
+U:24:3 25
+W_x10d8:214:0 11
+E.3:308:4 28
+W_te<:1257:4 59
 W_<a>hu:592:4 35
-U:17:2 66
 R_isAllSmallCase:208:4 37
-R_isAllSmallCase:201:3 27
+W_<a>lb:872:4 47
 W_princeton<:774:0 45
-W_k:1537:4 71
-W_<:389:0 16
+W_x10d0:109:0 8
 W_<a>lv:1152:4 56
+R_isAllSmallCase:201:3 27
+W_oxford<:1054:0 54
+W_<:389:0 16
 W_<a>ka:4:0 2
 U:3:0 1
-R_isAllSmallCase:194:2 68
+W_princetoni:1047:4 53
 S.:1:0 0
+R_containsSpecialCharacters:950:0 3

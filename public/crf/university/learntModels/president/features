@@ -1,105 +1,73 @@
-34
-appointed 19 4:1
-, 14 0:1
-DIGIT 27 0:2 4:1
-began 10 4:1
-rochon 1 3:1
-}< 32 4:1
-built 13 0:1
-is 21 0:1
-white 26 0:1
-university 20 0:1
-was 2 0:1 4:2
-the 4 0:1 4:3
-w 23 2:1
-chancellor 25 4:1
-ray 6 1:1
-smith 31 3:1
-x2013 28 0:1
-a> 9 4:1
-walker 18 3:1
-< 8 4:1
-p> 33 4:1
-g 17 2:1
-thomas 0 1:1
-his 11 4:1
-kenneth 29 1:1
-paul 22 1:1
-alan 16 1:1
-named 3 4:1
-ivany 7 3:1
-<a> 5 0:1
-a 30 2:1
-gooch 24 3:1
-position 12 4:1
-and 15 0:1 4:1
+21
+began 18 4:1
+DIGIT 1 0:2 4:1
+rochon 9 3:1
+}< 6 4:1
+white 0 0:1
+was 10 4:1
+the 12 4:1
+ray 14 1:1
+smith 5 3:1
+x2013 2 0:1
+a> 17 4:1
+< 16 4:1
+p> 7 4:1
+his 19 4:1
+thomas 8 1:1
+kenneth 3 1:1
+named 11 4:1
+ivany 15 3:1
+<a> 13 0:1
+a 4 2:1
+position 20 4:1
 ******* Features ************
-68
-W_DIGIT:949:0 57
-R_isAllSmallCase:187:1 3
-E.0:182:1 20
-W_walker:655:3 46
-R_isAllSmallCase:180:0 32
-W_<a>:179:0 18
-W_and:557:4 54
-E.0:175:0 33
-W_ivany:270:3 22
-W_built:459:0 34
-R_isAllCapital:173:4 65
-W_the:172:4 15
-W_kenneth:1026:1 61
-E.2:266:3 45
-W_is:739:0 50
-W_was:74:0 31
-W_position:452:4 30
-R_singlePunctuation:733:4 25
-W_smith:1110:3 63
-W_w:823:2 52
-R_isSpecialCharacter:348:4 24
-W_a>:347:4 27
-R_singleComma:250:0 36
-W_rochon:60:3 6
-W_white:914:0 56
-E.4:343:4 11
-R_containsDigit:530:0 60
-W_and:529:0 39
-W_chancellor:907:4 55
-R_isAllCapital:145:0 58
-W_the:144:0 48
-W_p>:1187:4 67
-W_g:613:2 43
-W_named:137:4 13
-E.1:231:3 4
-R_singlePunctuation:705:0 38
-W_university:704:0 49
-W_his:417:4 29
-W_x2013:984:0 59
-E.1:224:2 41
-W_appointed:697:4 47
-U:31:4 12
-W_ray:221:1 21
-End.:30:4 14
-R_containsSpecialCharacters:978:4 26
-W_DIGIT:977:4 64
-W_<:312:4 23
-U:24:3 5
-W_a:1068:2 62
-E.3:308:4 8
-W_paul:781:1 51
-W_,:494:0 35
-R_isAllSmallCase:208:4 10
-U:17:2 42
-W_}<:1152:4 66
-W_thomas:11:1 2
-R_isAllSmallCase:201:3 7
-W_gooch:865:3 53
-U:10:1 1
-S.:8:1 0
-W_was:102:4 9
-R_isAllSmallCase:194:2 44
-U:3:0 17
-W_began:382:4 28
-W_alan:571:1 40
-S.:1:0 16
-R_singleQuote:285:0 37
-R_containsSpecialCharacters:950:0 19
+49
+W_began:662:4 46
+R_isAllSmallCase:187:1 12
+E.0:182:1 9
+W_p>:277:4 29
+R_isAllSmallCase:180:0 3
+E.0:175:0 4
+W_<a>:459:0 38
+R_isAllCapital:173:4 23
+E.2:266:3 17
+W_ivany:550:3 41
+W_x2013:74:0 7
+W_the:452:4 37
+R_singlePunctuation:733:4 44
+W_position:732:4 48
+W_DIGIT:67:4 22
+R_isSpecialCharacter:348:4 43
+W_a:158:2 15
+E.4:343:4 24
+W_a>:627:4 45
+W_rochon:340:3 33
+R_containsDigit:530:0 8
+W_}<:242:4 26
+R_isAllCapital:145:0 6
+E.1:231:3 32
+W_DIGIT:39:0 5
+W_named:417:4 36
+E.1:224:2 13
+W_his:697:4 47
+U:31:4 25
+End.:30:4 28
+R_containsSpecialCharacters:978:4 27
+W_ray:501:1 40
+U:24:3 18
+E.3:308:4 21
+W_<:592:4 42
+W_kenneth:116:1 11
+R_isAllSmallCase:208:4 35
+U:17:2 14
+R_isAllSmallCase:201:3 20
+U:10:1 10
+W_smith:200:3 19
+S.:8:1 30
+W_thomas:291:1 31
+W_white:4:0 2
+R_isAllSmallCase:194:2 16
+U:3:0 1
+W_was:382:4 34
+S.:1:0 0
+R_containsSpecialCharacters:950:0 39

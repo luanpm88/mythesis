@@ -1,104 +1,34 @@
-33
-, 4 0:1 1:1
-manchester 9 1:1
-umist< 13 4:1
-odense 24 1:1
-<a>category 17 0:1 4:1
-californiairvine]] 5 3:1
-san 30 1:1
-california 29 0:1 4:1
-francisco 31 3:1
-university 28 0:1
-suburban 2 0:1
-in 19 0:1 4:1
-<a>sv 12 4:1
-a>< 14 4:1
-tafe 21 4:1
-view 0 0:1
-colleges 22 4:1
-melbourne 20 1:1
-of 1 0:2
-universidad 7 0:1 4:1
-<a>de 27 0:1
-universities 18 0:1
-<a>es 32 4:1
-a> 11 0:1 4:4
-la 6 0:1
-universitet< 25 4:1
-< 10 4:3
-[[irvine 3 1:1
-p> 15 4:1
-<a>no 26 4:1
-<p><a>da 23 0:1
-de 8 0:1 4:1
-providers< 16 0:1
+7
+in 1 0:1
+li> 6 4:1
+francisco 4 3:1
+< 5 4:1
+south 2 0:1
+and 0 0:1
+san 3 1:1
 ******* Features ************
-68
-W_<a>de:949:0 53
-W_de:284:0 21
-R_isAllSmallCase:187:1 23
-W_odense:851:1 50
-W_providers<:564:0 37
-W_universidad:277:4 65
-W_<a>no:942:4 52
+24
+R_isAllSmallCase:187:1 10
+E.1:231:3 11
 E.0:182:1 7
+W_in:39:0 5
 R_isAllSmallCase:180:0 3
-W_p>:557:4 36
+R_containsSpecialCharacters:978:4 20
 E.0:175:0 4
-W_suburban:74:0 6
-W_<a>sv:452:4 32
-W_california:1019:0 55
-R_singlePunctuation:733:4 27
-R_singleComma:257:1 12
-W_francisco:1110:3 61
-W_universities:634:0 41
-R_isSpecialCharacter:348:4 26
-R_singleComma:250:0 57
-W_universidad:249:0 20
-E.4:343:4 29
-W_<a>category:627:4 44
-W_,:151:1 11
-W_universitet<:907:4 51
-W_,:144:0 56
-W_<p><a>da:809:0 49
-E.1:238:4 24
-W_a><:522:4 34
-R_singlePunctuation:712:1 14
-W_melbourne:711:1 43
-W_colleges:802:4 47
-E.1:231:3 15
-W_manchester:326:1 22
-R_singlePunctuation:705:0 59
-W_of:39:0 5
-W_a>:417:4 30
-W_university:984:0 54
-W_in:697:4 48
-U:31:4 31
-End.:30:4 35
-W_<a>category:599:0 40
-R_containsSpecialCharacters:978:4 28
-W_de:312:4 66
-E.1:217:1 10
-U:24:3 17
-W_la:214:0 19
-E.3:308:4 63
-End.:23:3 16
-W_[[irvine:116:1 9
-R_isAllSmallCase:208:4 46
-W_san:1061:1 60
-W_<a>es:1152:4 64
-W_umist<:487:4 33
-R_isAllSmallCase:201:3 62
+U:31:4 16
+End.:30:4 22
+R_singlePunctuation:733:4 19
+W_south:74:0 6
+E.3:308:4 15
+U:24:3 12
+W_francisco:165:3 13
+W_san:116:1 9
+R_isSpecialCharacter:348:4 18
+W_<:207:4 17
+E.4:343:4 21
+R_isAllSmallCase:201:3 14
 U:10:1 8
-W_californiairvine]]:200:3 18
-W_a>:389:0 39
-W_tafe:767:4 45
-R_singleQuote:292:1 13
-W_in:669:0 42
-W_view:4:0 2
+W_li>:242:4 23
+W_and:4:0 2
 U:3:0 1
-W_california:1047:4 67
-W_<:382:4 25
 S.:1:0 0
-R_singleQuote:285:0 58
-R_containsSpecialCharacters:950:0 38

@@ -186,5 +186,5 @@
 </ul>
 <p></p>
 <p></p>
-<p> <a>Category:Wellington City</a> <a>Category:Public universities</a> <a>Category:Universities in New Zealand</a> <a>Category:Victoria University of Wellington</a> <a>Category:Association of Commonwealth Universities</a> <a>Category:Educational institutions established in 1897</a></p>
-<p><a>de:Victoria-Universit&#x00e4;t Wellington</a> <a>fa:&#x062f;&#x0627;&#x0646;&#x0634;&#x06af;&#x0627;&#x0647; &#x0648;&#x06cc;&#x06a9;&#x062a;&#x0648;&#x0631;&#x06cc;&#x0627; &#x062f;&#x0631; &#x0648;&#x0644;&#x06cc;&#x0646;&#x06af;&#x062a;&#x0648;&#x0646;</a> <a>fr:Universit&#x00e9; Victoria de Wellington</a> <a>ko:&#xbe45;&#xd1a0;&#xb9ac;&#xc544; &#xb300;&#xd559;&#xad50; &#xc6f0;&#xb9c1;&#xd134;</a> <a>ja:&#x30f4;&#x30a3;&#x30af;&#x30c8;&#x30ea;&#x30a2;&#x5927;&#x5b66;&#x30a6;&#x30a7;&#x30ea;&#x30f3;&#x30c8;&#x30f3;</a> <a>no:Victoria University of Wellington</a> <a>pl:Uniwersytet Wiktorii</a> <a>zh:&#x60e0;&#x7075;&#x987f;&#x7ef4;&#x591a;&#x5229;&#x4e9a;&#x5927;&#x5b66;</a></p>
+<p></p>
+

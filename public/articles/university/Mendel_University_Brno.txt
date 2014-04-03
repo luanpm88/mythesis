@@ -27,6 +27,6 @@
   <li><a>http://is.mendelu.cz</a></li>
 </ul>
 <p></p>
-<p> <a>Category:Universities in the Czech Republic</a> <a>Category:Agriculture in the Czech Republic</a> <a>Category:Forestry education</a> <a>Category:Educational institutions established in 1919</a></p>
+<p></p>
 <p><img></p>
-<p><a>cs:Mendelova univerzita v Brn&#x011b;</a> <a>de:Mendel-Universit&#x00e4;t Br&#x00fc;nn</a> <a>eo:Mendel-Universitato en Brno</a> <a>fr:Universit&#x00e9; Mendel</a> <a>ro:Universitatea Mendel din Brno</a></p>
+

@@ -95,5 +95,4 @@
 </ul>
 <p><img> <img>   <img> </p>
 <p></p>
-<p><a>1833</a> <a>Category:Universities and colleges in Ohio</a> <a>Category:Liberal arts colleges</a> <a>Oberlin College</a> <a>Category:Ohio Five</a> <a>Category:Educational institutions established in 1833</a> <a>Category:Council of Independent Colleges</a> <a>Category:National Association of Independent Colleges and Universities members</a> <a>Category:Posse schools</a> <a>Category:Oberlin College</a> <a>Category:National Historic Landmarks in Ohio</a> <a>Category:North Central Association of Colleges and Schools</a> <a>Category:History of African-American civil rights</a> <a>Category:History of women's rights in the United States</a></p>
-<p><a>cs:Oberlin College</a> <a>de:Oberlin College</a> <a>es:Oberlin College</a> <a>fa:&#x06a9;&#x0627;&#x0644;&#x062c; &#x0627;&#x0628;&#x0631;&#x0644;&#x06cc;&#x0646;</a> <a>fr:Oberlin College</a> <a>it:Oberlin College</a> <a>nl:Oberlin College</a> <a>ja:&#x30aa;&#x30d9;&#x30ea;&#x30f3;&#x5927;&#x5b66;</a> <a>no:Oberlin College</a> <a>zh:&#x6b27;&#x67cf;&#x6797;&#x5927;&#x5b66;</a></p>
+

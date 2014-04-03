@@ -152,5 +152,4 @@
 <h2>References</h2>
 <p></p>
 <p>    </p>
-<p><a>Category:Michigan Technological University</a> <a>Category:Educational institutions established in 1885</a> <a>Category:North Central Association of Colleges and Schools</a> <a>Category:Schools of mines</a> <a>Category:Universities and colleges in Michigan</a> <a>Category:Houghton County, Michigan</a> <a>Category:Technical universities and colleges</a> <a>Category:Oak Ridge Associated Universities</a> <a>Category:Association of Public and Land-Grant Universities</a> <a>Category:American Association of State Colleges and Universities</a> <a>Category:Forestry education</a></p>
-<p><a>de:Michigan Technological University</a> <a>id:Universitas Teknologi Michigan</a> <a>no:Michigan Technological University</a> <a>zh:&#x5bc6;&#x897f;&#x6839;&#x7406;&#x5de5;&#x5927;&#x5b78;</a></p>
+

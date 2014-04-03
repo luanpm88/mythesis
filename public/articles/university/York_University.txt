@@ -283,5 +283,4 @@
   <li><a>Official website</a></li>
 </ul>
 <p></p>
-<p><a>Category:York University</a> <a>Category:Universities and colleges in Toronto</a> <a>Category:Nursing schools in Canada</a> <a>Category:Educational institutions established in 1959</a></p>
 <p><a>de:York University</a> <a>es:Universidad de York</a> <a>fr:Universit&#x00e9; York</a> <a>he:&#x05d0;&#x05d5;&#x05e0;&#x05d9;&#x05d1;&#x05e8;&#x05e1;&#x05d9;&#x05d8;&#x05ea; &#x05d9;&#x05d5;&#x05e8;&#x05e7;</a> <a>ja:&#x30e8;&#x30fc;&#x30af;&#x5927;&#x5b66; (&#x30ab;&#x30ca;&#x30c0;)</a> <a>pl:York University</a> <a>pt:Universidade York</a> <a>ru:&#x0419;&#x043e;&#x0440;&#x043a;&#x0441;&#x043a;&#x0438;&#x0439; &#x0443;&#x043d;&#x0438;&#x0432;&#x0435;&#x0440;&#x0441;&#x0438;&#x0442;&#x0435;&#x0442;</a> <a>simple:York University</a> <a>fi:Yorkin yliopisto (Kanada)</a> <a>sv:York University</a> <a>tr:York &#x00dc;niversitesi, Toronto</a> <a>zh:&#x7ea6;&#x514b;&#x5927;&#x5b66;</a></p>

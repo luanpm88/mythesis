@@ -58,5 +58,4 @@
   <li><a>Official website</a></li>
 </ul>
 <p>   <img> </p>
-<p><a>Category:Universities and colleges in New York City</a> <a>Category:Columbia University</a> <a>Category:Women's universities and colleges in the United States</a> <a>Category:Middle States Association of Colleges and Schools</a> <a>Category:Educational institutions established in 1889</a> <a>Category:Universities and colleges in New York</a> <a>Category:National Association of Independent Colleges and Universities members</a> <a>Category:Upper West Side</a> <a>Category:Seven Sister Colleges</a> <a>Category:Universities and colleges in Manhattan</a></p>
-<p><a>ca:Barnard College</a> <a>da:Barnard College</a> <a>de:Barnard College</a> <a>es:Barnard College</a> <a>fr:Barnard College</a> <a>ko:&#xbc14;&#xb108;&#xb4dc; &#xb300;&#xd559;&#xad50;</a> <a>no:Barnard College</a> <a>pl:Barnard College</a> <a>pt:Barnard College</a> <a>zh:&#x5df4;&#x7eb3;&#x5fb7;&#x5b66;&#x9662;</a></p>
+

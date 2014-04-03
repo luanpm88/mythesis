@@ -245,5 +245,4 @@
 </ul>
 <p> <img></p>
 <p></p>
-<p><a>Category:Columbia University</a> <a>Category:Ivy League business schools</a> <a>Category:Business schools in New York</a> <a>Category:Postgraduate schools in the United States</a> <a>Category:Universities and colleges in New York</a> <a>Category:Universities and colleges in New York City</a> <a>Category:Educational institutions established in 1916</a> <a>Category:Universities and colleges in Manhattan</a></p>
-<p><a>fr:Columbia Business School</a> <a>ko:&#xceec;&#xb7fc;&#xbe44;&#xc544; &#xacbd;&#xc601;&#xb300;&#xd559;&#xc6d0;</a> <a>no:Columbia Business School</a></p>
+

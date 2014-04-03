@@ -102,5 +102,4 @@
   <li><a>Dalhousie University Faculty of Medicine</a></li>
 </ul>
 <p><img> <img>   <img></p>
-<p><a>*</a> <a>Category:Educational institutions established in 1818</a> <a>Category:Sports teams in Nova Scotia</a> <a>Category:Canadian rugby union teams</a> <a>Category:Canadian Interuniversity Sport teams</a> <a>Category:Universities and colleges in Nova Scotia</a> <a>Category:Association of Commonwealth Universities</a></p>
-<p><a>ar:&#x062c;&#x0627;&#x0645;&#x0639;&#x0629; &#x062f;&#x0627;&#x0644;&#x0647;&#x0627;&#x0648;&#x0633;&#x064a;</a> <a>de:Dalhousie University</a> <a>es:Universidad de Dalhousie</a> <a>fr:Universit&#x00e9; Dalhousie</a> <a>ja:&#x30c0;&#x30eb;&#x30cf;&#x30a6;&#x30b8;&#x30fc;&#x5927;&#x5b66;</a> <a>no:Dalhousie University</a> <a>pl:Uniwersytet Dalhousie</a></p>
+

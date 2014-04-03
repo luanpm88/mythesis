@@ -89,7 +89,7 @@ class Cluster
  
     # Reset center and return distance moved
     @center = Point.new(xa, ya)
-    return old_center.dist_to(center)
+    return (1-old_center.dist_to(center))
   
   end
   
@@ -101,17 +101,20 @@ class Cluster
     @points.each do |point1|
       similar = 0
       @points.each do |point2|
-        similar += cosine(vector(point1),vector(point2))
-        puts point1 + point2 + cosine(vector(point1),vector(point2)).to_s
+        cos = cosine(vector(point1),vector(point2))
+        similar += cos
+        puts point1 + point2 + cos.to_s
       end
       if similar > max_similar
         @center = point1
         max_similar = similar
-        puts similar
-      end      
+        
+      end
+      
+      puts "ssss " + similar.to_s
     end
     
-    return cosine(vector(@center),vector(old_center))
+    return 1 # - cosine(vector(@center),vector(old_center))
   
   end
   

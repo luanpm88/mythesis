@@ -69,5 +69,4 @@
 </ul>
 <p>  </p>
 <p> </p>
-<p><a>Category:Buildings and structures in Manchester</a> <a>Category:Education in Manchester</a> <a>*</a> <a>Category:Association of Commonwealth Universities</a> <a>Category:Educational institutions established in 1970</a></p>
-<p><a>ar:&#x062c;&#x0627;&#x0645;&#x0639;&#x0629; &#x0645;&#x0627;&#x0646;&#x0634;&#x064a;&#x0633;&#x062a;&#x0631; &#x0645;&#x062a;&#x0631;&#x0648;&#x0628;&#x0648;&#x0644;&#x064a;&#x062a;&#x0627;&#x0646;</a> <a>de:Manchester Metropolitan University</a> <a>ja:&#x30de;&#x30f3;&#x30c1;&#x30a7;&#x30b9;&#x30bf;&#x30fc;&#x30fb;&#x30e1;&#x30c8;&#x30ed;&#x30dd;&#x30ea;&#x30bf;&#x30f3;&#x5927;&#x5b66;</a> <a>zh:&#x66fc;&#x5fb9;&#x65af;&#x7279;&#x90fd;&#x6703;&#x5927;&#x5b78;</a></p>
+
