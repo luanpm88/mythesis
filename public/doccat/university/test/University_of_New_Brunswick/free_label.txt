@@ -1,5 +1,0 @@
-<p>The <strong>University of New Brunswick</strong> (<strong>UNB</strong>) is a Canadian university located in the province of <a>New Brunswick</a>.
-name = facts&gt;University of New Brunswick <a>UNB Quick Facts</a>.
-The observatory was named after William Brydone-Jack, a professor of mathematics and later president of the university.
-<li><a>University of New Brunswick College, Singapore</a></li>
-Fredericton: New Ireland Press, 1998.

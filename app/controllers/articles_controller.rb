@@ -146,7 +146,19 @@ class ArticlesController < ApplicationController
   end
   
   def filter
-    Article.filter
+    Article.filter(41)
+    
+    render nothing: true
+  end
+  
+  def get_result
+    Article.get_result
+    
+    render nothing: true
+  end
+  
+  def run_all
+    Article.run_all
     
     render nothing: true
   end

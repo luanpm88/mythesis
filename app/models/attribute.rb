@@ -5,4 +5,5 @@ class Attribute < ActiveRecord::Base
   
   has_many :attribute_values
   has_many :attribute_sentences
+  has_many :test_article_attribute_sentences
 end

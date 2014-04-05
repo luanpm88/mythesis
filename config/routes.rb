@@ -24,6 +24,8 @@ Mythesis2::Application.routes.draw do
       get :filter
       get :create_test_files_crf
       get :test_CRF
+      get :get_result
+      get :run_all
     end
   end
 
