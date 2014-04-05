@@ -1,7 +1,0 @@
-<p>The main campus buildings at <a>Valhallav&#x00e4;gen</a> in <a>&#x00d6;stermalm</a>, by architect Erik Lallerstedt, was completed in 1917.
-During the first years, however, teaching was at a very elementary level, and more aimed at craftsmanship rather than engineering as such.
-<p>After a few years of basic research, they started building a 300&nbsp;kW (later expanded to 1 MW) reactor, named <em>Reaktor 1</em>, <em>R1</em> for short, in a reactor hall 25 meters under the surface right underneath KTH.
-It was risky, but were deemed tolerable since the reactor was an important research tool for scientists at the <a>Royal Swedish Academy of Engineering Sciences</a> (<em>Ingenj&#x00f6;rsvetenskapsakademien</em>).</p>
-<li>The Unit for Language and Communication</li>
-<li>Ari Laptev, Professor of Mathematics at KTH and Chair in Pure Mathematics at <a>Imperial College London</a>, President of the <a>European Mathematical Society</a></li>
-<li>Seif Haridi, Professor at <a>KTH</a>, Co-inventor of the <a>Mozart Programming System</a>, chief Scientist at <a>SICS</a></li>

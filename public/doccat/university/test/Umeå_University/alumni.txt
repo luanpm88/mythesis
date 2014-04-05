@@ -1,8 +1,0 @@
-<li>Faculty of Arts</li>
-<li>Faculty of Medicine</li>
-<li>Faculty of Science and Technology</li>
-<li>Faculty of Social Sciences</li>
-<li>Wilhelm Geijer, former CEO of &#x00d6;hrlings PricewaterhouseCoopers, Board member of &#x00d6;hrlings PricewaterhouseCoopers</li>
-<li>Ronny Ambj&#x00f6;rnsson, former Professor of History of Science and Ideas (1981&#x2013;2001)</li>
-<li>Gunnar Eriksson, former Professor of History of Science and Ideas (1970&#x2013;1981)</li>
-<li>Lennart Stenflo, Professor of Physics</li>

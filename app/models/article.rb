@@ -13,7 +13,7 @@ class Article < ActiveRecord::Base
     infobox_template = InfoboxTemplate.where(name: "university").first
     
     # new method
-    reader = Nokogiri::XML::Reader(File.open("public/data.xml"))
+    reader = Nokogiri::XML::Reader(File.open("/media/luan/01CF3161B4B56810/MyThesis/enwiki-20110115-pages-articles.xml"))
     @count = 0
     @logstr = '';
     reader.each do |node|
@@ -686,7 +686,7 @@ class Article < ActiveRecord::Base
   def self.run_all
     
     ###1
-    self.import(60)
+    self.import(1697)
     #
     ###3
     self.write_article_to_files

@@ -62,7 +62,7 @@ class ArticlesController < ApplicationController
   end
   
   def import
-    Article.import
+    Article.import(1697)
     
     render nothing: true
   end
