@@ -1,0 +1,35 @@
+<p></p>
+<h2>Tuition</h2>
+<h2>Rankings</h2>
+<h2>Faculties</h2>
+<ul>
+</ul>
+<ul>
+<li>Geophysical Institute</li>
+<li>School Science Center</li>
+</ul>
+<ul>
+<li>Laboratory Animal Facility</li>
+</ul>
+<ul>
+</ul>
+<h2>People</h2>
+<h3>Faculty</h3>
+<ul>
+</ul>
+<h3>Alumni</h3>
+<ul>
+</ul>
+<h2>References</h2>
+<p><img></p>
+<h2>External links</h2>
+<ul>
+<ul>
+</ul>
+</li>
+</ul>
+<p></p>
+<p><img>     </p>
+<p></p>
+
+

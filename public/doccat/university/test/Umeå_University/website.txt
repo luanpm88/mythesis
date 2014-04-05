@@ -1,0 +1,3 @@
+<li><a>Ume&#x00e5; Institute of Design</a> - is a college within the Faculty of Science and Technology at Ume&#x00e5; University.
+<li><a>Ume&#x00e5; Institute of Technology</a> - is part of the Faculty of Science and Technology at Ume&#x00e5; University.
+It is one of five schools for medicine and dental medicine in Sweden.</li>

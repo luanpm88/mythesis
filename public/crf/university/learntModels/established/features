@@ -1,0 +1,225 @@
+87
+<p>founded 83 0:1
+dalhousie 58 0:1
+palmstedt< 53 4:1
+institution 43 4:1
+local 33 4:2
+<a>panama 27 4:1
+present 18 4:1
+<a>carl 52 4:1
+businessman 56 4:1
+cellpadding= 46 0:1
+founding 16 0:2
+law 35 0:1
+li> 41 4:1
+its 15 0:2
+february 11 0:1 1:1
+lord 57 0:1
+music 31 0:1
+it 80 4:1
+is 21 4:1
+near 26 4:1
+in 2 0:17 4:2
+set 81 4:1
+has 64 4:1
+s 59 0:1 4:1
+on 10 0:2
+hunter 77 4:1
+press 70 4:1
+<a>coeducational< 85 4:1
+columbia 69 4:1
+strong> 75 0:1
+of 30 0:2
+by 55 4:2
+a 5 4:3
+city< 28 4:1
+from 86 4:1
+<a>american 14 4:1
+national 6 4:1
+new 65 0:1 4:1
+2004< 67 4:1
+and 84 4:1
+<a>ohio< 72 4:1
+tr 50 0:1
+DIGIT 3 0:2 1:21 2:1 3:1 4:3
+to 17 4:1
+college< 74 0:1
+<p> 19 0:1
+name 9 4:1
+york 66 0:1
+burruss< 38 0:1
+queen 62 4:1
+thomas 76 4:1
+mcgill 61 4:1
+at 44 4:1
+td 51 0:1 4:3
+as 4 4:3
+quot 47 0:2
+started 22 0:1
+first 36 4:1
+established 25 0:4
+gt 48 0:3 4:3
+an 42 4:1
+< 40 4:1
+college 20 0:1 4:2
+under 7 4:1
+pasadena 54 0:1
+united 78 0:1
+forth 82 4:1
+same 45 4:1
+, 12 0:4 2:1 4:10
+em> 68 4:1
+december 23 0:1
+<a>northwood< 71 4:1
+during 13 4:1
+september 73 0:1
+special 34 0:1
+university 63 4:3
+lt 49 0:2 4:3
+when 32 4:1
+montreal 60 4:1
+founded 1 0:4
+room 24 4:1
+was 0 0:5
+ashby 37 0:1
+a> 29 0:1 4:5
+the 8 4:8
+x2013 39 4:2
+states 79 0:1
+******* Features ************
+135
+W_press:2482:4 117
+W_burruss<:1334:0 75
+W_s:2097:4 109
+R_isAllSmallCase:187:1 60
+R_containsSpecialCharacters:950:0 41
+W_gt:1712:4 96
+E.0:182:1 6
+W_founding:564:0 36
+R_isAllSmallCase:180:0 2
+W_new:2279:0 112
+W_near:942:4 49
+W_from:3042:4 134
+R_containsDigit:558:4 78
+W_pasadena:1894:0 99
+E.0:175:0 3
+R_isAllCapital:173:4 80
+W_as:172:4 10
+W_has:2272:4 111
+W_palmstedt<:1887:4 98
+R_isAllCapital:166:3 71
+W_an:1502:4 84
+W_on:354:0 20
+R_singlePunctuation:733:4 31
+W_s:2069:0 104
+R_isAllCapital:159:2 63
+W_college:732:4 42
+W_it:2832:4 128
+R_isSpecialCharacter:348:4 82
+W_gt:1684:0 90
+W_name:347:4 19
+W_columbia:2447:4 116
+W_ashby:1299:0 74
+R_isAllCapital:152:1 8
+E.4:343:4 12
+W_its:529:0 35
+W_strong>:2629:0 123
+W_first:1292:4 73
+R_singlePunctuation:719:2 68
+R_isAllCapital:145:0 23
+W_<a>coeducational<:3007:4 133
+W_<a>american:522:4 33
+W_DIGIT:137:4 79
+W_university:2237:4 110
+W_music:1089:0 54
+W_<a>carl:1852:4 97
+R_singlePunctuation:705:0 27
+W_college:704:0 105
+W_li>:1467:4 83
+W_DIGIT:130:3 70
+W_dalhousie:2034:0 103
+W_DIGIT:123:2 62
+R_singleQuote:313:4 30
+W_quot:1649:0 89
+W_the:312:4 18
+W_em>:2412:4 115
+E.3:308:4 72
+W_DIGIT:116:1 7
+W_established:879:0 48
+W_college<:2594:0 122
+W_DIGIT:109:0 22
+R_singleQuote:299:2 67
+W_room:872:4 47
+W_and:2972:4 132
+W_during:487:4 32
+W_in:102:4 46
+W_queen:2202:4 108
+W_of:1054:0 53
+W_td:1817:4 95
+W_<p>:669:0 40
+W_states:2769:0 127
+W_<:1432:4 81
+R_singleQuote:285:0 26
+W_a>:1047:4 52
+W_lord:1999:0 102
+W_present:662:4 38
+R_singleComma:278:4 29
+W_cellpadding=:1614:0 88
+W_under:277:4 17
+W_2004<:2377:4 114
+W_law:1229:0 58
+W_businessman:1992:4 101
+W_same:1607:4 87
+W_september:2559:0 120
+E.2:266:3 69
+W_in:74:0 5
+R_singleComma:264:2 66
+W_td:1789:0 93
+W_,:452:4 28
+W_<a>ohio<:2552:4 119
+E.2:259:2 64
+W_mcgill:2167:4 107
+W_a>:1019:0 76
+W_united:2734:0 126
+W_x2013:1397:4 77
+R_singleComma:250:0 25
+W_city<:1012:4 51
+W_,:438:2 65
+W_to:627:4 37
+W_hunter:2727:4 125
+W_national:242:4 16
+W_special:1194:0 57
+W_by:1957:4 100
+E.1:238:4 9
+W_december:809:0 45
+W_<p>founded:2909:0 131
+W_at:1572:4 86
+W_,:424:0 24
+W_local:1187:4 56
+W_founded:39:0 4
+W_forth:2902:4 130
+W_tr:1754:0 92
+W_<a>northwood<:2517:4 118
+E.1:224:2 61
+W_montreal:2132:4 106
+U:31:4 15
+End.:30:4 14
+W_lt:1747:4 94
+R_containsSpecialCharacters:978:4 34
+W_york:2314:0 113
+W_<a>panama:977:4 50
+W_thomas:2692:4 124
+R_isAllSmallCase:208:4 11
+W_a:207:4 13
+W_new:2307:4 121
+W_february:396:1 59
+W_started:774:0 44
+W_institution:1537:4 85
+W_february:389:0 21
+W_when:1152:4 55
+W_was:4:0 1
+U:3:0 39
+W_is:767:4 43
+W_set:2867:4 129
+S.:1:0 0
+W_lt:1719:0 91

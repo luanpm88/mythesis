@@ -1,0 +1,93 @@
+33
+graduate 21 4:1
+old 31 4:1
+, 6 0:1 4:4
+gates 11 4:1
+DIGIT 5 4:3
+copies 7 4:1
+fall 0 0:1
+national 32 4:1
+university 24 0:1
+system< 16 4:1
+in 23 4:1
+bride 26 0:1
+the 9 0:3 4:1
+on 13 0:1
+year 30 4:1
+open 12 4:1
+quarter 15 1:2
+s 4 4:1
+spring 2 0:2
+of 8 0:1 4:1
+em> 28 4:1
+ly< 27 4:1
+a> 17 4:1
+during 20 0:1
+< 18 4:1
+p> 19 4:1
+semester 3 1:3
+<em>painted 25 0:1
+<a> 14 0:1
+second 10 0:1
+a 29 4:1
+students 22 4:1
+and 1 0:1
+******* Features ************
+57
+W_of:284:0 24
+W_<:662:4 37
+R_isAllSmallCase:187:1 9
+R_singleComma:278:4 18
+E.0:182:1 7
+W_copies:277:4 21
+R_isAllSmallCase:180:0 3
+W_university:844:0 44
+E.0:175:0 4
+W_on:459:0 30
+R_isAllCapital:173:4 16
+W_in:837:4 43
+W_s:172:4 12
+W_spring:74:0 6
+W_old:1117:4 55
+W_open:452:4 29
+W_second:354:0 26
+R_singlePunctuation:733:4 20
+R_isSpecialCharacter:348:4 38
+W_em>:1012:4 52
+W_the:347:4 27
+W_quarter:536:1 33
+R_singleComma:250:0 46
+W_bride:914:0 50
+E.4:343:4 14
+W_a>:627:4 36
+W_,:242:4 17
+E.1:238:4 10
+W_students:802:4 42
+R_singlePunctuation:705:0 48
+W_during:704:0 40
+W_and:39:0 5
+W_year:1082:4 54
+W_gates:417:4 28
+W_the:319:0 25
+W_p>:697:4 39
+U:31:4 11
+End.:30:4 22
+R_containsSpecialCharacters:978:4 35
+R_singleQuote:313:4 19
+W_ly<:977:4 51
+W_of:312:4 23
+W_<em>painted:879:0 49
+W_,:214:0 45
+W_system<:592:4 34
+W_semester:116:1 8
+W_<a>:494:0 31
+R_isAllSmallCase:208:4 13
+W_DIGIT:207:4 15
+W_national:1152:4 56
+W_graduate:767:4 41
+W_fall:4:0 2
+U:3:0 1
+W_a:1047:4 53
+S.:1:0 0
+R_singleQuote:285:0 47
+R_containsSpecialCharacters:950:0 32

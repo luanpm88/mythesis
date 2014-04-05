@@ -1,0 +1,54 @@
+14
+, 10 4:1
+as 1 0:1
+quot 2 0:1 4:1
+which 11 4:1
+one 6 2:1
+wilderness 9 3:1
+translated 0 0:1
+the 3 1:1 2:1
+in 8 2:1
+voice 4 2:1
+to 13 4:1
+attempts 12 4:1
+of 5 2:1
+crying 7 2:1
+******* Features ************
+37
+R_isAllSmallCase:187:1 9
+R_singleComma:278:4 30
+E.0:182:1 7
+R_isAllSmallCase:180:0 3
+E.0:175:0 4
+E.2:266:3 20
+W_quot:74:0 6
+W_crying:263:2 17
+W_attempts:452:4 34
+E.2:259:2 14
+R_singlePunctuation:733:4 32
+W_voice:158:2 12
+E.4:343:4 27
+W_wilderness:340:3 22
+W_as:39:0 5
+W_one:228:2 16
+W_which:417:4 33
+E.1:224:2 10
+U:31:4 28
+End.:30:4 35
+W_the:123:2 19
+R_singleQuote:313:4 31
+U:24:3 21
+E.3:308:4 24
+W_the:116:1 8
+R_isAllSmallCase:208:4 26
+U:17:2 11
+W_in:298:2 18
+W_to:487:4 36
+R_isAllSmallCase:201:3 23
+W_quot:102:4 25
+W_translated:4:0 2
+R_isAllSmallCase:194:2 13
+U:3:0 1
+W_of:193:2 15
+W_,:382:4 29
+S.:1:0 0

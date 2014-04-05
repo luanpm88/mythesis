@@ -1,0 +1,1 @@
+These ranks are then tabulated by assigning numbers to each rank and summing across all voters.

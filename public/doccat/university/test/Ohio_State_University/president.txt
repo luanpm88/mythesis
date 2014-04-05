@@ -1,0 +1,11 @@
+<li>College of Education and Human Ecology</li>
+<li>College of Engineering
+<li>College of Food, Agricultural, and Environmental Sciences
+<li>College of Nursing</li>
+<li>College of Optometry</li>
+<li>College of Pharmacy</li>
+<li>College of Public Health</li>
+<li>College of Social Work</li>
+<li>College of Veterinary Medicine</li>
+<li>College of Arts and Sciences
+Numerous graduates have gone on to become Governors, Senators and members of Congress.

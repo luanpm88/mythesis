@@ -166,8 +166,11 @@ class Article < ActiveRecord::Base
       #if attribute.name != "name"
         attribute.attribute_values.each do |attribute_value|
           
-          
-            f = File.open("public/articles/university/sentenced/train/#{attribute_value.article.title.gsub(/[\s\&]/,'_')}.txt")
+            if attribute_value.article.for_test == 0
+              f = File.open("public/articles/university/sentenced/train/#{attribute_value.article.title.gsub(/[\s\&]/,'_')}.txt")
+            else
+              f = File.open("public/articles/university/sentenced/test/#{attribute_value.article.title.gsub(/[\s\&]/,'_')}.txt")
+            end
             
             match_count = 0
             while(current_line = f.gets)

@@ -1,0 +1,9 @@
+<h3>Coat of Arms</h3>
+<li>Faculty of Applied Science</li>
+<li>Faculty of Arts and Social Sciences</li>
+<li>Faculty of Business Administration</li>
+<li>Faculty of Education</li>
+<li>Faculty of Environment</li>
+<li>Faculty of Health Sciences</li>
+<li>Faculty of Science</li>
+<p><strong>Board of Governors</strong></p>

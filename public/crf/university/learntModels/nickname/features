@@ -1,0 +1,78 @@
+25
+originating 6 4:1
+, 5 4:1
+li> 24 4:1
+em>< 23 4:1
+strong> 18 4:1
+<strong> 16 0:1
+commemorates 14 4:1
+network< 19 0:1
+in 7 4:1
+the 0 0:3 4:2
+green 4 3:1
+golden 10 1:1 4:1
+ju 21 1:1
+<em> 9 0:2
+of 8 0:1
+em> 13 4:1
+a> 20 0:1
+alumni< 22 4:1
+< 12 4:2
+nickname 1 0:2
+big 3 1:1
+named 15 0:1
+quot 2 0:1 4:2
+tornadoes 11 3:1
+pioneers 17 1:1
+******* Features ************
+50
+W_of:284:0 28
+W_strong>:662:4 43
+R_isAllSmallCase:187:1 9
+W_<strong>:564:0 40
+R_singleComma:278:4 17
+E.0:182:1 6
+W_in:277:4 24
+R_isAllSmallCase:180:0 2
+W_ju:746:1 46
+E.0:175:0 3
+W_em><:837:4 48
+W_golden:361:1 31
+W_quot:74:0 5
+W_<:452:4 33
+W_green:165:3 12
+R_singlePunctuation:733:4 19
+R_isSpecialCharacter:348:4 34
+E.4:343:4 20
+W_named:529:0 39
+W_originating:242:4 23
+E.1:238:4 42
+W_commemorates:522:4 37
+W_alumni<:802:4 47
+E.1:231:3 10
+W_a>:704:0 45
+W_nickname:39:0 4
+W_pioneers:606:1 41
+W_<em>:319:0 29
+W_the:32:4 26
+U:31:4 15
+End.:30:4 25
+W_tornadoes:410:3 32
+R_containsSpecialCharacters:978:4 35
+R_singleQuote:313:4 18
+U:24:3 11
+E.3:308:4 14
+W_big:116:1 8
+R_isAllSmallCase:208:4 22
+W_li>:872:4 49
+W_,:207:4 16
+W_em>:487:4 36
+R_isAllSmallCase:201:3 13
+U:10:1 7
+W_quot:102:4 21
+W_network<:669:0 44
+W_the:4:0 1
+U:3:0 27
+W_golden:382:4 38
+S.:1:0 0
+R_containsSpecialCharacters:950:0 30

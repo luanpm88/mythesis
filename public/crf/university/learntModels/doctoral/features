@@ -1,0 +1,32 @@
+7
+attend 6 4:1
+graduate 4 4:1
+post 3 4:1
+about 0 0:1
+students 5 4:1
+, 2 1:1
+DIGIT 1 1:2
+******* Features ************
+22
+W_DIGIT:46:1 5
+W_post:137:4 15
+E.0:182:1 4
+R_isAllSmallCase:180:0 3
+W_,:81:1 9
+W_graduate:172:4 18
+U:31:4 14
+End.:30:4 20
+E.1:217:1 7
+R_singleComma:257:1 10
+R_isAllSmallCase:208:4 16
+W_students:207:4 19
+E.4:343:4 17
+R_isAllCapital:152:1 6
+U:10:1 8
+R_singleQuote:292:1 11
+W_attend:242:4 21
+R_singlePunctuation:712:1 12
+W_about:4:0 2
+U:3:0 1
+E.1:238:4 13
+S.:1:0 0
