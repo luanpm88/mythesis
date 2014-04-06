@@ -151,8 +151,8 @@ class Article < ActiveRecord::Base
       
       content_fixed = content_fixed.gsub(/\&lt\;ref(.*?)\&gt\;(.*?)\&lt\;\/ref\&gt\;/im,"")
       
-      File.open("public/articles/#{infobox_template.name}/#{article.title.gsub(/[\s\&]/,'_')}.txt", "w") { |file| file.write content_fixed }
-      system("bin/opennlp SentenceDetector en-sent.bin < public/articles/#{infobox_template.name}/#{article.title.gsub(/[\s\&]/,'_')}.txt > public/articles/#{infobox_template.name}/sentenced/#{for_d}/#{article.title.gsub(/[\s\&]/,'_')}.txt")
+      File.open("public/articles/#{infobox_template.name}/#{article.title.gsub(/[\s\&\'\,]/,'_')}.txt", "w") { |file| file.write content_fixed }
+      system("bin/opennlp SentenceDetector en-sent.bin < public/articles/#{infobox_template.name}/#{article.title.gsub(/[\s\&\'\,]/,'_')}.txt > public/articles/#{infobox_template.name}/sentenced/#{for_d}/#{article.title.gsub(/[\s\&\'\,]/,'_')}.txt")
     end
 
   end
@@ -166,10 +166,11 @@ class Article < ActiveRecord::Base
       #if attribute.name != "name"
         attribute.attribute_values.each do |attribute_value|
           
+          begin
             if attribute_value.article.for_test == 0
-              f = File.open("public/articles/university/sentenced/train/#{attribute_value.article.title.gsub(/[\s\&]/,'_')}.txt")
+              f = File.open("public/articles/university/sentenced/train/#{attribute_value.article.title.gsub(/[\s\&\'\,]/,'_')}.txt")
             else
-              f = File.open("public/articles/university/sentenced/test/#{attribute_value.article.title.gsub(/[\s\&]/,'_')}.txt")
+              f = File.open("public/articles/university/sentenced/test/#{attribute_value.article.title.gsub(/[\s\&\'\,]/,'_')}.txt")
             end
             
             match_count = 0
@@ -197,7 +198,9 @@ class Article < ActiveRecord::Base
               end         
               
             end
-          
+          rescue
+            put "sentence error"
+          end
         end
       #end
       
@@ -247,11 +250,11 @@ class Article < ActiveRecord::Base
       
       #if !File.directory?("public/doccat/#{infobox_template.name}/test/#{article.title.gsub(/[\s\&]/,'_')}")
       
-        `mkdir public/doccat/#{infobox_template.name}/test/#{article.title.gsub(/[\s\&]/,'_')}`
+        `mkdir public/doccat/#{infobox_template.name}/test/#{article.title.gsub(/[\s\&\'\,]/,'_')}`
         
-        `java -jar bin/DoccatRun.jar public/doccat/#{infobox_template.name}/model/doccat.bin public/articles/#{infobox_template.name}/sentenced/test/#{article.title.gsub(/[\s\&]/,'_')}.txt public/doccat/#{infobox_template.name}/test/#{article.title.gsub(/[\s\&]/,'_')}/all.txt`
+        `java -jar bin/DoccatRun.jar public/doccat/#{infobox_template.name}/model/doccat.bin public/articles/#{infobox_template.name}/sentenced/test/#{article.title.gsub(/[\s\&\'\,]/,'_')}.txt public/doccat/#{infobox_template.name}/test/#{article.title.gsub(/[\s\&\'\,]/,'_')}/all.txt`
         
-        f = File.open("public/doccat/#{infobox_template.name}/test/#{article.title.gsub(/[\s\&]/,'_')}/all.txt")
+        f = File.open("public/doccat/#{infobox_template.name}/test/#{article.title.gsub(/[\s\&\'\,]/,'_')}/all.txt")
         
         
         collection = {}
@@ -274,7 +277,7 @@ class Article < ActiveRecord::Base
           
           sentences.each {|s| str += s.strip + "\n"}
           
-          File.open("public/doccat/#{infobox_template.name}/test/#{article.title.gsub(/[\s\&]/,'_')}/#{name.gsub(/[\s\/]+/,'_')}.txt", "w") { |file| file.write  str}
+          File.open("public/doccat/#{infobox_template.name}/test/#{article.title.gsub(/[\s\&\'\,]/,'_')}/#{name.gsub(/[\s\/]+/,'_')}.txt", "w") { |file| file.write  str}
         }
         
       #  f = File.open("public/articles/#{infobox_template.name}/sentenced/test/#{article.title.gsub(/[\s\&]/,'_')}.txt")
@@ -343,7 +346,7 @@ class Article < ActiveRecord::Base
           
           infobox_template.articles.where(for_test: 1).each do |article|
             
-              f = File.open("public/doccat/#{infobox_template.name}/test/#{article.title.gsub(/[\s\&]/,'_')}/#{attribute.name.gsub(/[\s\/]+/,'_')}.txt")
+              f = File.open("public/doccat/#{infobox_template.name}/test/#{article.title.gsub(/[\s\&\'\,]/,'_')}/#{attribute.name.gsub(/[\s\/]+/,'_')}.txt")
               current_line = f.gets.strip
               c_sentence = current_line
               

@@ -17,7 +17,7 @@
 development:
   adapter: postgresql
   encoding: unicode
-  database: thesis_development
+  database: mythesis_development
   pool: 5
   username: luan
   password: benho

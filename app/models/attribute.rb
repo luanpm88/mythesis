@@ -1,5 +1,5 @@
 class Attribute < ActiveRecord::Base
-  validates :name, presence: true, uniqueness: true
+  validates :name, presence: true
   
   belongs_to :infobox_template
   
