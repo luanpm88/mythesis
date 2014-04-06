@@ -1,0 +1,49 @@
+<p></p>
+<p>The <strong>University of Applied Sciences Giessen-Friedberg</strong> (German: <em>Fachhochschule Gie&#x00df;en-Friedberg</em> or FH Giessen-Friedberg) is a <a>German</a> <a>college</a> for technical studies with <a>campus</a>es in <a>Friedberg</a>, <a>Giessen</a>, and <a>Wetzlar</a>.
+Its one of the largest university of applied science in Germany and the largest in the state of <a>Hesse</a>.</p>
+<h2>Faculties of the University of Applied Sciences Giessen-Friedberg</h2>
+<ul>
+  <li>Faculties in Giessen 
+    <ul>
+      <li>01 Bauwesen (architecture and construction) <strong>B</strong></li>
+      <li>02 Elektro- und Informationstechnik (electronic and IT) <strong>EI</strong></li>
+      <li>03 Maschinenbau, Mikrotechnik, Energie- und W&#x00e4;rmetechnik (engineering, micro technic, energy and heat engineering) <strong>MMEW</strong></li>
+      <li>04 Krankenhaus- und Medizintechnik, Umwelt- und Biotechnologie (hospital and medical engineering, environment and bio technology) <strong>KMUB</strong></li>
+      <li>06 Mathematik, Naturwissenschaften und Informatik (mathematics, natural sciences and information technology) <strong>MNI</strong></li>
+      <li>07 Wirtschaft (business administration) <strong>W</strong></li>
+    </ul>
+  </li>
+  <li>Faculties in Friedberg 
+    <ul>
+      <li>11 Informationstechnik - Elektrotechnik - Mechatronik (information technology - electronics - mechatronics) <strong>IEM</strong></li>
+      <li>12 Maschinenbau, Mechatronik, Materialtechnologie (engineering, mechatronics, material technology) <strong>MMM</strong></li>
+      <li>13 Mathematik, Naturwissenschaften und Datenverarbeitung (mathematics, natural sciences and data processing) <strong>MND</strong></li>
+      <li>14 Wirtschaftsingenieurwesen (industrial engineering) <strong>WI</strong></li>
+    </ul>
+  </li>
+  <li>Faculties in Gie&#x00df;en and Friedberg 
+    <ul>
+      <li>21 Sozial- und Kulturwissenschaften (social and cultural sciences) <strong>SuK</strong></li>
+    </ul>
+  </li>
+  <li>StudiumPlus - Wiss.
+Zentrum Dualer Hochschulstudien (academic centre of dual study) <strong>ZDH</strong> in Wetzlar
+    <ul>
+      <li>Wirtschaftsingenieurwesen (industrial engineering)</li>
+      <li>Betriebswirtschaft (business administration)</li>
+      <li>Ingenieurwesen / Mikrosystemtechnik (engineering / micro systems technology)</li>
+    </ul>
+  </li>
+</ul>
+<h2>External links</h2>
+<ul>
+  <li><a>Official home page (German)</a></li>
+  <li><a>Business admin.
+department home page (English)</a> </li>
+  <li><a>Information for international students</a> (German and English)</li>
+</ul>
+<p><img></p>
+<p></p>
+<p><a>Gie&#x00df;en-Friedberg</a></p>
+
+

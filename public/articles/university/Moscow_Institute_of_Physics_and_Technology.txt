@@ -1,0 +1,163 @@
+<p>   <strong>Moscow Institute of Physics and Technology (State University)</strong> (), <a>abbreviated</a> <strong>MIPT</strong>, <strong>MIPT (SU)</strong> or informally <strong>Phystech</strong>  (alternative transliterations: MFTI, Fizteh; ) is a leading <a>Russia</a>n university, originally established in the <a>Soviet Union</a>. It prepares specialists in theoretical and applied physics, applied mathematics, and related disciplines. It is sometimes referred to as &quot;the Russian <a>MIT</a>.&quot;</p>
+<p>MIPT is famous in the countries of the former Soviet Union, but is less known abroad. This is largely due to the specifics of the MIPT educational process (see &quot;Phystech System&quot; below). University rankings such as <a>The Times Higher Education Supplement</a> are based primarily on publications and citations. With its emphasis on practical research in the educational process, MIPT &quot;outsources&quot; education and research beyond the first two or three years to institutions of the <a>Russian Academy of Sciences</a>. MIPT's own faculty is relatively small, and many of its distinguished lectors are visiting professors from those institutions. Student research is typically performed outside of MIPT, and research papers do not identify the authors as MIPT students. This effectively hides MIPT from the academic radar, an effect not unwelcome during the <a>Cold War</a> era when leading scientists and engineers of the Soviet arms and space programs studied there.</p>
+<p>The word &quot;phystech,&quot; without the capital P, is also used in <a>Russian</a> to refer to Phystech students and graduates.</p>
+<p>The main MIPT campus is located in <a>Dolgoprudny</a>, a northern suburb of <a>Moscow</a>. However the <a>Aeromechanics Faculty</a> is based in <a>Zhukovsky</a>, a suburb south-east of Moscow.</p>
+<h2>History</h2>
+<p><a>thumb|MIPT campus</a> In late 1945 and early 1946, a group of prominent Soviet scientists, including in particular the future Nobel Prize winner <a>Pyotr Kapitsa</a>, lobbied the government for the creation of a higher educational institution radically different from the type established in the Soviet system of higher education. Applicants, carefully selected by challenging examinations and personal interviews, would be taught by, and work together with, prominent scientists. Each student would follow a personalized curriculum created to match his or her particular areas of interest and specialization. This system would later become known as the <em>Phystech System</em>.</p>
+<p>In a letter to <a>Stalin</a> in February 1946, Kapitsa argued for the need for such a school, which he tentatively called the <em>Moscow Institute of Physics and Technology</em>, to better maintain and develop the country's defense potential. The institute would follow the principles outlined above, and was supposed to be governed by a board of directors of the leading research institutes of the <a>USSR Academy of Sciences</a>. On March 10, 1946, the government issued a decree mandating the establishment of a &quot;College of Physics and Technology&quot; ().</p>
+<p>For unknown reasons, the initial plan came to a halt in the summer of 1946. The exact circumstances are not documented, but the common assumption is that Kapitsa's refusal to participate in the atomic bomb project, and his disfavor with the government and communist party that followed, cast a shadow over an independent school based largely on his ideas. Instead, a new government decree was issued on November 25, 1946 establishing the new school as a Department of Physics and Technology within <a>Moscow State University</a>. November 25 is celebrated as the date of MIPT's founding.</p>
+<p><a>thumb|left|The four oldest residence halls are across the street from the academic buildings.</a> Kapitsa foresaw that within a traditional educational institution, the new school would encounter bureaucratic obstacles, but even though Kapitsa's original plan to create the new school as an independent organization did not come to fruition exactly as envisioned, its most important principles survived intact. The new Department enjoyed considerable autonomy within Moscow State University. Its facilities were in Dolgoprudny (the two buildings it occupied are still part of the present day campus), away from the MSU campus. It had its own independent admissions and education system, different from the one centrally mandated for all other universities. It was headed by the MSU &quot;vice rector for special issues&quot;--a position created specifically to shield the department from the University management. </p>
+<p>As Kapitsa expected, the special status of the new school with its different &quot;rules of engagement&quot; caused much consternation and resistance within the university. The immediate cult status that Phystech gained among talented young people, drawn by the challenge and romanticism of working on the forefront of science and technology, and on projects of &quot;government importance,&quot; many of them classified, made it an untouchable rival of every other school in the country, including MSU's own Department of Physics. At the same time, the increasing disfavor of Kapitsa with the government (in 1950 he was essentially under house arrest), and anti-semitic repressions of the late 40's made Phystech an easy target of intrigues and accusations of &quot;elitism&quot; and &quot;<a>rootless cosmopolitanism</a>.&quot; In the summer of 1951, the Phystech department at MSU was shut down.</p>
+<p>A group of academicians, backed by Air Force general Ivan Fedorovich Petrov, who was a Phystech supporter influential enough to secure Stalin's personal approval on the issue, succeeded in re-establishing Phystech as an independent institute. On September 17, 1951, a government decree re-established Phystech as the Moscow Institute of Physics and Technology.</p>
+<p>Apart from Kapitsa, other prominent scientists who taught at MIPT in the years that followed included Nobel prize winners <a>Nikolay Semyonov</a>, <a>Lev Landau</a>, <a>Alexandr Prokhorov</a>, <a>Vitaly Ginzburg</a>; and Academy of Sciences members <a>Sergey Khristianovich</a>, <a>Mikhail Lavrentiev</a>, <a>Mstislav Keldysh</a>, <a>Sergey Korolyov</a>, and <a>Boris Rauschenbach</a>. MIPT alumni include <a>Andre Geim</a> and <a>Konstantin Novoselov</a>, the 2010 winners of the <a>Nobel Prize for Physics</a>. </p>
+<h2>The Phystech System</h2>
+<p>The following is a summary of the key principles of the Phystech System, as outlined by Kapitsa in his 1946 letter arguing for the founding of MIPT:</p>
+<ul>
+  <li>Rigorous selection of gifted and creative young individuals.</li>
+  <li>Involving leading scientists in student education, in close contact with them in their creative environment.</li>
+  <li>An individualized approach to encourage the cultivation of students' creative drive, and to avoid overloading them with unnecessary subjects and rote learning common in other schools and necessitated by mass education.</li>
+  <li>Conducting their education in an atmosphere of research and creative engineering, using the best existing laboratories in the country.</li>
+</ul>
+<p>In its implementation, the Phystech System combines highly competitive admissions, extensive fundamental education in mathematics, as well as theoretical and experimental physics in the undergraduate years, and immersion in research work at leading research institutions of the <a>Russian Academy of Sciences</a> starting as early as the second or third year.</p>
+<h2>Departments</h2>
+<p>The institute has eleven departments, ten of them with an average of 80 students admitted annually into each.</p>
+<ul>
+  <li><a>Radio Engineering and Cybernetics</a></li>
+  <li><a>General and Applied Physics</a></li>
+  <li><a>Aerophysics and Space Research</a></li>
+  <li><a>Molecular and Biological Physics</a></li>
+  <li><a>Physical and Quantum Electronics</a></li>
+  <li><a>Aeromechanics and Flight Engineering</a></li>
+  <li><a>Applied Mathematics and Management </a></li>
+  <li><a>Problems of Physics and Power Engineering</a></li>
+  <li><a>Innovation and High Technology</a></li>
+  <li><a>Nano-, Bio-, Information and Cognitive Technologies</a></li>
+</ul>
+<p>The eleventh faculty, <a>Information Business Systems</a>, offers only a Master's programme and accepts students with <a>Bachelor's degree</a>s from other faculties or other institutes.</p>
+<h2>Admissions</h2>
+<p>Most students apply to MIPT immediately after graduating from high school at the age of 17. Child prodigies are occasionally admitted at a younger age after skipping grades in school. Because admission is competitive, some of those who are not admitted reapply in subsequent years.</p>
+<p>Traditionally, applicants were required to take written and oral exams in both mathematics and physics, write an essay, and have an interview with the faculty. The interview has always been an important part of the selection process. Sometimes an applicant with lower exam grades could be admitted, and one with higher grades rejected, based solely on the interview results.</p>
+<p>In recent years, oral exams have been eliminated, but the interview remains an important part of the selection process.</p>
+<p>The strongest performers in national physics and mathematics competitions and <a>IMO</a>/<a>IPhO</a> participants are granted admission without exams, subject only to the interview.</p>
+<p>In accordance with the traditions of the <a>Soviet education system</a>, education at MIPT is free for most students. Further, students receive small <a>scholarships</a> (as of <a>2009</a>, $75&#x2013;$90 per month, depending on the student's performance), and effectively free housing on campus, which allows them to study full time.</p>
+<h2>Education</h2>
+<p><a>thumb|A student studying the class schedule</a> It normally takes six years for a student to graduate from MIPT. The curriculum of the first three years consists exclusively of required courses, with emphasis on mathematics, physics, and English. There are no significant curriculum differences between the departments in the first three years. A typical course load during the first and second years can be over 48 hours a week, not including homework. Classes are taught five days a week, beginning at 9:00 am or 10:30 am, and continuing until 5:00 pm, 6:30 pm, or 8:00 pm. Most subjects include a combination of lectures and seminars (problem-solving study sessions in smaller groups) or laboratory experiments. Lecture attendance is optional, while seminar and lab attendance affects grades.</p>
+<p>MIPT follows a <a>semester</a> system. Each semester includes 15 weeks of instruction, two weeks of finals, and then three weeks of oral and written exams on the most important subjects covered in the preceding semester.</p>
+<p>Starting with the third year, the curriculum matches each student's area of specialization, and also includes more elective courses. Most importantly, starting with the third year, students begin work at <em>base institutes</em> (or &quot;base organizations,&quot; usually simply called <em>bases</em>). The bases are the core of the Phystech system. Most of them are research institutes, usually belonging to the <a>Russian Academy of Sciences</a>. At the time of enrollment, each student is assigned to a base that matches his or her interests. Starting with the third year, a student begins to commute to their base regularly, becoming essentially a part-time employee. During the last two years, a student spends 4&#x2013;5 days a week at their base institute, and only one day at MIPT.</p>
+<p>The base organization idea is somewhat similar to an internship in that students participate in &quot;real work.&quot; However, the similarity ends there. All base organizations also have a curriculum for visiting students, and besides their work, the students are required to take those classes and pass exams. In other words, a base organization is an extension of MIPT, specializing in each particular student's area of interests. </p>
+<p>While working at the base organization, a student prepares a <a>thesis</a> based on his or her research work and presents (&quot;defends&quot;) it before the Qualification Committee consisting of both MIPT faculty and the base organization staff. Defending the thesis is a requirement for graduation.</p>
+<h3>Base organizations</h3>
+<p>As of 2005, MIPT had 103 base organizations. The following list of institutes is currently far from being complete:</p>
+<ul>
+  <li>Institute for Information Transmission Problems RAS</li>
+  <li>Institute for Nuclear Research RAS</li>
+  <li><a>Institute for Physical Problems</a></li>
+  <li>Institute for Problems in Mechanics RAS</li>
+  <li><a>Institute for Spectroscopy Russian Academy of Sciences</a></li>
+  <li><a>Institute for Theoretical and Experimental Physics</a></li>
+  <li>Institute of Biochemical Physics RAS</li>
+  <li>Engelhardt Institute of Molecular Biology RAS</li>
+  <li>Shirshov Institute of Oceanology</li>
+  <li>Institute of Molecular Genetics RAS</li>
+  <li>Institute of Numerical Mathematics RAS</li>
+  <li>Institute of Problems of Chemical Physics RAS</li>
+  <li>Institute of Radio Engineering and Electronics of RAS</li>
+  <li>Institute of Solid State Physics RAS</li>
+  <li><a>Joint Institute for Nuclear Research</a></li>
+  <li>Institute of Synthetic Polymer Materials RAS</li>
+  <li><a>Institute for High Energy Physics</a></li>
+  <li><a>Kurchatov Institute</a> (formerly Kurchatov Institute of Atomic Energy)</li>
+  <li><a>Lebedev Institute of Physics RAS</a> (FIAN)</li>
+  <li><a>Lebedev Institute of Precision Mechanics and Computer Engineering</a></li>
+  <li><a>Landau Institute for Theoretical Physics</a></li>
+  <li>N.N. Andreyev Acoustics Institute</li>
+  <li>N.N. Semenov Institute of Chemical Physics, RAS</li>
+  <li>Shubnikov Institute of Crystallography RAS</li>
+  <li>Space Research Institute RAS</li>
+  <li><a>Steklov Institute of Mathematics</a></li>
+  <li><a>Gromov Flight Research Institute</a></li>
+  <li><a>Zhukovsky Central Aerohydrodynamic Institute</a></li>
+  <li>Nuclear Safety Institute of RAS (IBRAE)</li>
+  <li>and a number of <a>OKB</a>s (experimental design bureaux)</li>
+</ul>
+<pre></pre>
+<p>In addition, a number of Russian and Western companies act as base organizations of MIPT. These include:</p>
+<ul>
+  <li><a>1C Company</a></li>
+  <li><a>ABBYY</a></li>
+  <li>Competentum Group or Physicon</li>
+  <li>Analytical Center &quot;Concept&quot;</li>
+  <li><a>Intel</a></li>
+  <li>IPG Photonics</li>
+  <li>Kraftway</li>
+  <li>MetaSythesis</li>
+  <li><a>Paragon Software Group</a></li>
+  <li><a>S.P. Korolev Rocket and Space Corporation Energia</a></li>
+  <li><a>SWsoft</a></li>
+  <li><a>Yandex</a></li>
+</ul>
+<h2>Degrees and reputation</h2>
+<p>Before 1998, students could graduate only after completing the full six-year curriculum and defending their thesis. Upon successful graduation, they were awarded a <a>specialist degree</a> in Applied Mathematics and Physics and, beginning in the early 90s, a <a>Master's degree</a> in Physics. </p>
+<p>Since 1998, students have been awarded a <a>Bachelor's degree</a> diploma after four years of study and the defense of a Bachelor's &quot;qualification work&quot; (effectively a smaller and less involved version of the Master's <a>thesis</a>). An estimated 90% of students continue their education after receiving this diploma to complete the full six-year curriculum and receive the <a>Master's degree</a>.</p>
+<p>The complete course of education at MIPT takes six years to complete, just like an American <a>Bachelor's degree</a> followed by a <a>Master's degree</a>. However, MIPT graduates usually view their training as effectively higher than an American M.S. in Physics. The MIPT curriculum is, indeed, considerably more extensive compared to an average American college. In addition, American M.S. programs usually focus more on classroom education and less on research. There is an opinion that an MIPT specialist/Master's diploma may be roughly equivalent to an American <a>Ph.D.</a> in physics&#x2014;possibly an undue generalization which, however, may be true in some cases. </p>
+<p>Traditional university rankings are based on the universities' research output and prizes won by faculty. In contrast, many distinguished professors teaching at MIPT are officially on staff at the base institutes (see above) rather than MIPT itself. Student research work is also typically carried out outside of MIPT, and published research results do not mention MIPT. In effect, many MIPT professors are not considered as such for the rankings, and student research is not earning any ranking points for MIPT.</p>
+<h2>Demographics</h2>
+<p>About 15% of all students are residents of <a>Moscow</a> and nearly the same are from <a>Moscow region</a>; the rest come from all over the former Soviet Union. Most out-of-town students live in the dormitory on campus for at least the first 4 years. Many senior students move to another dormitory in <a>Moscow</a>, while some either move to base institute dormitories or rent apartments.</p>
+<p>The student population is almost exclusively male, with the female/male ratio in a department rarely exceeding 15% (seeing 2-3 women in a class of 80 is not uncommon). Although in recent years this situation has changed and in 2009 more than 20% of first year students were females.</p>
+<p>There are no reliable statistics on the careers of MIPT graduates. Prior to the collapse of Soviet Union, most MIPT graduates continued research at their base institutes or found jobs in <a>OKB</a>s. Nowadays, many graduates become business people or software engineers. Some, especially high-performing students of prestigious departments (e.g. DGAP, DCAM), go on to get post-graduate degrees from foreign universities. In the past, some students were known to have been admitted into Ph.D. programs of American universities as early as after their 3rd year of education. Many MIPT alumni hold faculty positions in the world's top Universities, including <a>Harvard</a>, <a>MIT</a>, <a>Columbia</a>, <a>Stanford</a>, <a>Brown</a>, and <a>University of Chicago</a>.</p>
+<h2>Famous faculty and alumni</h2>
+<ul>
+  <li><a>Alexander Abramov</a> - founder of <a>Evraz Group</a>, #137 on the <a>Forbes list</a></li>
+  <li><a>Boris Babaian</a> - a pioneer of <a>Russian supercomputer</a>s, an <a>Intel</a> Fellow 2004 and software architect</li>
+  <li><a>Yuri Baturin</a> - former Russian head of national security, cosmonaut (1998 and 2001 missions)</li>
+  <li><a>Oleg Belotserkovsky</a> - rector of MIPT (1962-1987), prominent mathematician and mechanician</li>
+  <li><a>Andrei Bolibrukh</a> - a mathematician who solved <a>Hilbert's twenty-first problem</a> in 1989</p>
+<ul>
+  <li><a>Nikolai Borisovich Delone</a>  - a physicist who discovered multiphoton ionization.</li>
+  <li><a>Alexander V Frolov</a> - CEO of <a>Evraz Group</a>, #390 on the <a>Forbes list</a></li>
+  <li><a>Andrey Geim</a> - discoverer of <a>graphene</a>, <a>gecko tape</a>, and levitating frogs; <a>Fellow of the Royal Society</a>, <a>Nobel Prize</a> in physics, 2010</li>
+  <li><a>Kostya Novoselov</a> - <a>Nobel Prize</a> in physics for graphene research, 2010</li>
+  <li><a>Vitaly Ginzburg</a> - prominent physicist, <a>Nobel Prize</a> 2003, co-developer of the Soviet <a>H-bomb</a></li>
+  <li>Yurij Ionov - discovered <a>genome</a> instability as a mechanism in <a>colonic carcinogenesis</a></p>
+<ul>
+  <li><a>Alexandr Kaleri</a> - cosmonaut, spent 609 days on the <a>Mir</a> and <a>ISS</a> space stations</li>
+  <li><a>Pyotr Kapitsa</a> - discovered <a>superfluidity</a>, <a>Nobel Prize</a> 1978</p>
+<ul>
+  <li><a>Leonid Khachiyan</a> - famous for his <a>Ellipsoid method</a> for <a>linear programming</a>, <a>Fulkerson Prize</a> (1982)</li>
+  <li>Mikhail Kirpichnikov - <a>Russia</a>n Science &amp; Technology Minister (1998-2000), dean of Biology at <a>MSU</a> (2006-)</li>
+  <li><a>Alex Konanykhin</a> - Entrepreneur, former banker, former Russian oligarch, with political asylum in <a>USA</a>.</li>
+  <li><a>Nikolay Kudryavtsev</a> - rector of MIPT (1997-), director of <a>Schlumberger</a> (2007-)</li>
+  <li><a>Lev Landau</a> - prominent Russian physicist, <a>Nobel Prize</a> 1962</li>
+  <li><a>Sergei Lebedev</a> - invented <a>MESM</a> (1950) and <a>BESM</a> (1953) mainframe computers</li>
+  <li>Alexander Migdal - defined 2D <a>quantum gravity</a>, 2D/3D visualization software and internet entrepreneur</p>
+<ul>
+  <li><a>Sergey Nikolsky</a> - prominent Russian mathematician</li>
+  <li><a>Alexander Polyakov</a> - <a>quantum field theory</a> classics, <a>Dirac</a>'86 and <a>Lorentz</a>'94 Medals</p>
+<ul>
+  <li><a>Alexandr Prokhorov</a> - a co-inventor of the <a>laser</a>, <a>Nobel Prize</a> 1964</li>
+  <li><a>Boris Rauschenbach</a> - <a>rocket scientist</a> in <a>control engineering</a>, responsible for the first photographs of the <a>far side of the Moon</a> (1959)</li>
+  <li>Boris Saltykov - <a>Russia</a>n Minister of Science and Technology (1991-1996)</li>
+  <li><a>Aleksandr Serebrov</a> - cosmonaut, 373 days in outer space (four flights)</li>
+  <li><a>Nikolay Semyonov</a> - best known for his work on <a>chain reaction</a>s, <a>Nobel Prize</a> 1956 in chemistry</li>
+  <li><a>Natan Sharansky</a> - <a>Israel</a>i <a>Cabinet</a> Minister (1996-2005), <a>US</a> <a>Congressional Gold Medal</a> (<a>1986</a>)</li>
+  <li><a>Mikhail Shifman</a> - non-perturbative <a>QCD</a> classics, <a>Sakurai Prize</a> (1999), <a>Lilienfeld Prize</a> (2006)</p>
+<ul>
+  <li><a>Volodymyr Shkidchenko</a> - Defense Minister of <a>Ukraine</a> (2003-2004), four-star general of the Army</li>
+  <li><a>Rashid Sunyaev</a> - an author of the <a>Sunyaev-Zel'dovich effect</a> and a model of <a>black hole</a>s</p>
+<ul>
+  <li><a>Victor Veselago</a> - put forward a theory for <a>metamaterials</a> of the 21st century in 1967</p>
+<ul>
+  <li><a>Alexander Zamolodchikov</a> - quantum field theory classics</p>
+<ul>
+  <li><a>Dmitry Zelenin</a> - governor of <a>Tverskaya Oblast</a> (2004-)</li>
+  <li><a>Boris Aleshin</a> - deputy prime minister in Russian government (2003-2004), president of <a>AvtoVAZ</a> (2007-2009), general director of <a>TsAGI</a> (2009-)</li>
+</ul>
+<h2>References</h2>
+<p><img></p>
+<h2>External links</h2>
+<p></p>
+<ul>
+  <li><a>Official website</a> </li>
+  <li><a>Official website</a> </li>
+</ul>
+

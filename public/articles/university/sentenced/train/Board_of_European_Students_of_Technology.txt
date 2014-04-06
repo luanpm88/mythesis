@@ -1,0 +1,80 @@
+<p>  </p>
+<p><strong>Board of European Students of Technology</strong> (BEST) is an international, non-governmental, non-political, non-profit students organisation comprising 89 Local BEST Groups (LBGs) in 30 countries around Europe with more than 2000 active members.</p>
+<p>BEST strives for empowered diversity by developing students of technology through complementary education, career support and involvement of the European learning system.
+By creating the opportunities for students to meet and learn from one another through academic, non-academic events and educational symposiums, BEST endeavors the development of a more internationally open minded conscience, encouraging their mobility and intercultural relationship and communication.</p>
+<h2>Activities</h2>
+<h3>Events</h3>
+<p>The main events organized by BEST are BEST courses, Events on Education, Leisure Events and Job Fairs.
+</p>
+<p>BEST Courses are the core activity of BEST and they can either be Courses on Technology, Courses on Career or BEST Engineering Competitions.
+These are events about one to two weeks in length, uniting technology students from all over Europe to study a technological subject.
+However, while these subjects are of an attractive and innovative nature, mixing various topics in engineering education, education on itself is not the only goal of these events: Equally important are expanding horizons, improving cultural understanding and in general providing European students of technology with the opportunity to experience something unique  for little cost.</p>
+<pre></pre>
+<p>The quality and openness of BEST Courses are important, as they distinguish BEST from other international student organisations.
+Any student from sciences and technology universities with a Local BEST Group (LBG) can apply to any of the before mentioned BEST activities, without having to become a BEST member.
+Thus, BEST provides a service not only to its members, but to all engineering students from associated universities.
+Furthermore, BEST has an internal quality standard that the courses are required to fulfil .
+In a Course, participants will have all food, lodging, travel costs during the course, cultural activities and an exciting academic program supplied during the course.
+Almost every BEST group organizes such a course every year.</p>
+<p>Another important type of BEST event is the Engineering Competition (BEC).
+These are events organised in collaboration with a number of important European companies in the field of technology.
+The companies propose a problem to be solved by teams made of participating students.
+The competition events usually begin with training sessions, followed by several rounds of competition.
+Thus, students have the opportunity to consolidate their engineering capacities.
+The BEC concept has been conceived in order to complete the theoretical part of university studies with a practical one.
+Therefore, students will be able to increase their knowledge and get used to constructive thinking, as well as a different vision of a problem.
+Since 2009, the local engineering competitions (LEC) are brought together in a common project where winners from these competitions compete at the Regional and National level and then the winners go to the European final which is called <a>EBEC</a></p>
+<h3>Student representation</h3>
+<p>BEST also represents its students in some thematic networks.
+For example Sputnic, VM-Base, TREE and EIE-Surveyor.
+BEST is member of the following organisations in volved in Engineering education: <a>SEFI</a>, EFEES and <a>FEANI</a>.</p>
+<h2>Structure</h2>
+<h3>Board</h3>
+<p>The <strong>Board</strong> is constituted by six members elected once per year at the General Assembly.
+The Board includes the following positions:</p>
+<ul>
+  <li>President</li>
+  <li>Treasurer</li>
+  <li>Secretary</li>
+  <li>Vice-president for external services</li>
+  <li>Vice-president for internal support</li>
+  <li>Vice-president for Local Group support</li>
+</ul>
+<h3>International Committees</h3>
+<p>BEST has six committees that take care of specific tasks, as follows:</p>
+<ul>
+  <li>Educational Committee (EduCo): working on relations with institutions regarding education in Europe and supervising the symposia on education</li>
+  <li>External Events Committee (EEC): supervising the organisation of external events of BEST, like Season Courses or Competitions</li>
+  <li>Financial Team (finTeam): setting up cooperation with companies and other institutions</li>
+  <li>Information Technology Committee (ITC): in charge of all computer-related aspects, including website</li>
+  <li>Marketing Committee (markeTeam): creates and improves marketing of BEST</li>
+  <li>Training Group (TiGro): takes care of internal training in BEST</li>
+</ul>
+<h3>BEST groups</h3>
+<p><a>thumb|right|Map of Europe with BEST groups</a> A BEST Group is an association of BEST members at the same university.
+These groups are responsible for promoting and organising the activities of BEST at their <a>university</a>.</p>
+<p>BEST is present in 30 countries at the following universities:</p>
+<p>&lt;!--
+Note that there are some universities commented out.
+These are observer groups of BEST which apply for membership.
+As they aren't official members yet, they aren't listed as such.
+--&gt; </p>
+<h2>Partner organisations</h2>
+<p>BEST collaborates with two other student organisations:</p>
+<ul>
+  <li><a>bonding-studenteninitiative e.V.</a> (from Germany, since 1997)</li>
+  <li><a>Canadian Federation of Engineering students</a> (from Canada, since 2004)</li>
+</ul>
+<h2>References</h2>
+<p><img></p>
+<h2>External links</h2>
+<ul>
+  <li><a>BEST - Board of European Students of Technology</a></li>
+  <li><a>Twitter</a></li>
+  <li><a>Facebook</a></li>
+</ul>
+<h2>References</h2>
+<p></p>
+<p></p>
+
+

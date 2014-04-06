@@ -1,0 +1,157 @@
+<p></p>
+<p><strong>DigiPen Institute of Technology</strong> is a a <a>for-profit</a> <a>college</a> located in <a>Redmond, Washington</a> which has a focus on computer science, computer engineering, and art with emphasis in creating <a>video game</a>s.</p>
+<h2>History</h2>
+<p>DigiPen Institute of Technology was founded in 1988 by Claude Comair in Vancouver, B.C., Canada as  DigiPen Corporation, a computer simulation and animation company.</p>
+<p>In 1990, Digipen began offering a 3D animation program and collaborates with Nintendo of America to create a post-secondary program for video game programming. With Nintendo's support in 1994, DigiPen Applied Computer Graphics School accepts its first class of video game programming students.</p>
+<p>In May 1996 the Washington State Higher Education Coordinating Board granted DigiPen the ability to award an Associate and Bachelor of Science Degrees in <a>Real-Time Interactive Simulation</a> and an Associate of Applied Arts Degree in <a>3D Computer Animation</a>. This made DigiPen the first university in the world dedicated to computer and video game development. The Real-Time Interactive Simulation program then proceeded to be Digipen's Flagship course, renowned for the highly skilled game programmers the intensive program creates.</p>
+<p>The school relocated to Redmond, Washington, U.S. in January 1998.</p>
+<p>The school offered its first Associate of Applied Arts in 3D Computer Animation degrees in 1999.</p>
+<p>In 2000, DigiPen awarded the first class of R.T.I.S graduates. The BS.c in Real-Time Interactive Simulation program than proceeded to be DigiPen Flagship course, renowned for the highly skill game programmer the intensive program creates.</p>
+<p>The school added BS.c in Computer Engineering, BF.a in Production Animation and MS.c in Computer Science programs in 2004. In 2008, the BS.c in Game Design and BF.a in Game Design programs were added.</p>
+<p>A sister campus in Singapore started in 2008 and since 2010 in <a>Bilbao (Spain)</a></p>
+<h2>Campus</h2>
+<h4>Main Campus</h4>
+<p>DigiPen consisted of two campuses, the Main Campus and the Art Campus.</p>
+<p>The Main Campus was part of a rented building from <a>Nintendo of America</a>. The bottom floor is Nintendo of America's warehouse where games and game systems are shipped out. The top floor was mostly DigiPen, with <a>Nintendo Software Technology</a> on the north-east quarter. In 2002, DigiPen expanded its hold on the second floor by acquiring approximately another quarter, adding four new classrooms and a new place for the library. Two-thirds of the rooms were filled with computers for student use &#x2014; only one-third were lecture halls without computers.</p>
+<p>The newer addition to DigiPen was the Art Campus, located about two miles (3&nbsp;km) away from the Main Campus near Redmond Town Center.  DigiPen opened this new campus at the beginning of the Fall 2007 semester to provide classrooms for all the BFA students, and to accommodate the growing student body.  However, it was uncertain how this division will impact cooperation between the RTIS and BFA students during future student projects.</p>
+<p>As of August 2010, DigiPen has moved both computer science and art students to a new, integrated campus in North Redmond, at 9931 Willows Rd. NE. This new campus has over , allowing the school to increase the size of the student body by up to 300 students. It features many amenities, such as art and computer labs, a cafeteria with a professional kitchen, and a general store.</p>
+<h4>Sister Campus</h4>
+<ul>
+  <li>Singapore</li>
+</ul>
+<p>Started in 2008, DigiPen's main campus at PIXEL Building, One-North 10 Central Exchange Green, Singapore, occupies the first two levels of a 3-storey building. All faculty are held under the same building. The current campus is a five-minute walk from Fusionopolis, which also houses Ubisoft Singapore.</p>
+<p>Digipen Singapore is recognized by the Singapore Ministry of Education as a foreign specialized institution. Courses include Bachelor of Science and the Arts program, ProjectFun Workshops, Continuing Education and Tech Academy.</p>
+<p>As of 2010, Digipen Singapore started a collaboration with the <a>Singapore Institute of Technology</a> with the Digipen Bachelor of the Arts &amp; Science program. The school received the first batch of joint students in Fall 2010.</p>
+<ul>
+  <li>Bilbao (Spain)</li>
+</ul>
+<p>Establish on 2010.</p>
+<h2>Education</h2>
+<p>DigiPen has three primary educational paths: Real Time Interactive Simulation (Game/Software Development &amp; Programming), Computer Engineering, and Applied/Fine Arts.  Compared to a standard computer science curriculum, students start  a very rigorous course with <a>C</a>, advance to object oriented programming with <a>C++</a>, and all take 2D Windows GUI, 3D graphics and <a>sockets networking</a>. Many students build robotic vehicles as projects. The art programs are taught from a computer-oriented perspective, though many art students do not intend to work in the game industry and attend DigiPen for its unique curriculum and businesslike atmosphere. RTIS students are taught aspects of development including programming, design, and marketing.  Though there are liberal arts classes also in the curriculum, all required courses are pertinent to game development.  Starting in the fall of 2008, DigiPen began offering a Bachelor of Science and a Bachelor of Arts in Game Design. DigiPen also offers a <a>master's degree</a> in computer science, and Comair plans to add a <a>Ph.D.</a> program as well.</p>
+<h2>Students</h2>
+<p>DigiPen is the only educational institution whose students have been nominated in the professional category at the <a>Independent Games Festival</a>. Additionally, DigiPen students have placed the largest number of student projects in the <a>Independent Games Festival</a> student showcase every year since it began, with a seven-year total of 24 awards given to 23 winning game projects.  The next three closest institutions have placed five, four and three games in the showcase over six years.</p>
+<p>Other student run commissions include SAPR, DigiPen's student-run Public Relations committee and the CEC, the Campus Entertainment Committee. The CEC handles tournaments, movies, and other activities.</p>
+<h2>Student Life</h2>
+<p>The academic year commences in late August. With 3 academic semester each. Each term is 15 weeks long, including a mid-term exam week and a final term exam week. Term 1 generally runs from late August to early December, while Term 2 begins in January and ends in April. Term 3 begins in May and end in July. In most courses, students are assessed on the level of their class participation, a group project, a mid-term test, and possibly, an exam at the end of the term.</p>
+<p>In style with game studio, the environment in DigiPen is very much casual. The Professors and Lecturers have no problems having the students calling them by name. The relative small size of each class also ensures that the Professors and Lecturers knows the student names by heart. Students who require assistance in understanding course material can walk into the Academic Support Center where Teaching Assistants are stationed.</p>
+<p>It has also been noted by students in DigiPen about the high number or retain and drop-out rate as grades are distributed on a absolute scale and no bell-curve was used. It is possible for an entire under performing class to collectively fail a module together. Peer support in campus is extensive, student gladly help each other and there is even an unofficial DigiPen Survival Guide written by the senior students. It is noted that there are no sports team or clubs hosted by the school as its unofficially known by all students that time not spent studying is either to be used playing games or developing their own pet game projects.</p>
+<h2>Student work (games)</h2>
+<p>Each year RTIS students are formed into teams ranging from 4-8 developers.  Art students are not required to work on the game projects but are awarded credit for participating in Junior level or higher projects.  Starting in 2004, Freshman year DigiPen students work with an in-house <a>integrated development environment</a> (IDE) called the FUNEditor to develop a 2D graphical game.  Second semester developing a <a>text-based game</a> over the course of the semester.  Sophomore year, students game teams develop <a>graphical games</a>.  Junior year requires that games feature <a>3D Rendering</a>, and often serve as the first real experimentation with physics, artificial intelligence, and networking.  Senior year students are significantly less restricted to allow for more artistic control, essentially allowing the students to focus on their specialization or the game's design.</p>
+<p>The games are owned and copyrighted by DigiPen and are available for <a>download</a>.</p>
+<p>Awards won by student games include:  : </p>
+<h2>Notable staff</h2>
+<ul>
+  <li><a>Claude Comair</a>
+    <ul>
+      <li>Founder &amp; President of Digipen Institute of Technology</li>
+      <li>Co-Founder of <a>Nintendo Software Technology</a></li>
+    </ul>
+  </li>
+  <li><a>Xin Li, Ph.D</a>
+    <ul>
+      <li>Dean of Faculty and Academic Affairs</li>
+      <li>Director of Education</li>
+    </ul>
+  </li>
+  <li><a>Prasanna Ghali</a>
+    <ul>
+      <li>Chief Technology Officer - Asia Pacific</li>
+      <li>Professor, Department of Computer Science</li>
+      <li>Vice President of Engineering at Nintendo Software Technology Corporation(1998-2002)</li>
+    </ul>
+  </li>
+</ul>
+<h2>Faculties</h2>
+<h4>Art and Animation</h4>
+<ul>
+  <li>Bachelor of Fine Arts in Digital Art and Animation</li>
+  <li>Bachelor of Arts in Game Design</li>
+</ul>
+<h4>Mathematics, Science, and Engineering</h4>
+<ul>
+  <li>Master of Science in Computer Science</li>
+  <li>Bachelor of Science in Real-Time Interactive Simulation</li>
+  <li>Bachelor of Science in Computer Engineering</li>
+  <li>Bachelor of Science in Game Design</li>
+</ul>
+<h2>Departments</h2>
+<p>Different departments in DigiPen focus in different aspect of game development. A wide range of courses is offered to covered for a wholesome education. Each department in DigiPen is normally chaired by a Professor or one who have been in long history in the related topic.</p>
+<h4>Department of Computer Science</h4>
+<ul>
+  <li>CS: Computer Science</li>
+</ul>
+<h4>Department of Electrical and Computer Engineering</h4>
+<ul>
+  <li>ECE: Electrical and Computer Engineering</li>
+</ul>
+<h4>Department of Fine Arts and Animation</h4>
+<ul>
+  <li>ANI: Animation</li>
+  <li>ART: Art</li>
+  <li>CG: Computer Graphics</li>
+  <li>FLM: Film</li>
+  <li>PRJ: Projects</li>
+</ul>
+<h4>Department of Game Design and Production</h4>
+<ul>
+  <li>GAM: Game Software Design and Production</li>
+  <li>GAT: Game Application Techniques</li>
+</ul>
+<h4>Department of Humanities and Social Sciences</h4>
+<ul>
+  <li>COM: Communications</li>
+  <li>ECN: Economics</li>
+  <li>ENG: English</li>
+  <li>HIS: History</li>
+  <li>JPN: Japanese</li>
+  <li>LAW: Law</li>
+  <li>MGT: Management</li>
+  <li>PHL: Philosophy</li>
+  <li>PSY: Psychology</li>
+  <li>SOS: Social Sciences</li>
+</ul>
+<h4>Department of Life Sciences</h4>
+<ul>
+  <li>BIO: Biology Courses</li>
+</ul>
+<h4>Department of Mathematics</h4>
+<ul>
+  <li>MAT: Mathematics Courses</li>
+</ul>
+<h4>Department of Physics</h4>
+<ul>
+  <li>PHY: Physics Courses</li>
+</ul>
+<h2>Summer camps</h2>
+<p>There are several facilities which host DigiPen Advanced Computer Science classes for high school students to take during their regular school day. These same courses are available to everyone to take during the summer for a fee.</p>
+<p>These courses, intended for grades 8 and up, include Game Programming, 3D Animation, and Robotics. These classes focus on hands-on teaching philosophies. Each student is always working via a personal computer during class, and there is a &#x201c;low student to teacher ratio.&#x201d; Additionally, the summer courses provide students with the tools and environment to experience the gaming industry for themselves;  there are frequent tours of portions of Nintendo of America and Microsoft&#x2019;s Visitor Center.</p>
+<p>Additionally, DigiPen hosts a &#x201c;Junior Workshop&#x201d; for students attending grades 5 through 7 located in Redmond, Washington. The junior level covers two tiers of game design and one tier of animation, which are designed to prepare students for the major classes intended for grades 8 and above by introducing children to less of the technical studies and more of the concepts and ideas behind these courses.</p>
+<p>The Robotics Lv. 2 &amp; Game Design class has been added since in the 2010 Summer Workshop.</p>
+<h2>Ranking</h2>
+<ul>
+  <li>DigiPen was ranked 3736th out of around 20000 world colleges and universities by <a>Webometrics</a> in July 2010.</li>
+  <li>The Princeton Review ranked DigiPen the Second Highest-Ranked Colleges for Game Design in 2010.</li>
+</ul>
+<h2>See also</h2>
+<ul>
+  <li><a>Institute of Technology (United States)</a></li>
+</ul>
+<h2>References</h2>
+<ul>
+  <li><a>DigiPen Fact Sheet</a></li>
+  <li><a>IGF Award Winners</a></li>
+  <li><a>USA Today - DigiPen</a></li>
+  <li><a>DigiPen facts from GameCareerGuide</a></li>
+  <li><a>DigiPen moves to larger campus</a></li>
+</ul>
+<p>&lt;references/&gt;</p>
+<h2>External links</h2>
+<ul>
+  <li><a>DigiPen's Site</a></li>
+  <li><a>DigiPen Summer Workshop Site</a></li>
+  <li><a>DigiPen&#x00b4;s Bilbao Site</a></li>
+  <li><a>DigiPen&#x00b4;s Bilbao Blog</a></li>
+</ul>
+<p></p>
+<p></p>
+

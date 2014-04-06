@@ -1,0 +1,127 @@
+<p> </p>
+<p>  <strong>T&#x00e9;l&#x00e9;com ParisTech</strong> (also known as <strong>ENST</strong> or <strong>T&#x00e9;l&#x00e9;com</strong> or <strong>&#x00c9;cole Nationale Sup&#x00e9;rieure des T&#x00e9;l&#x00e9;communications</strong>) is one of the most prestigious and selective <a>grandes &#x00e9;coles</a> in <a>France</a> and one of the finest institutions in the field of <a>Telecommunications</a>. Located in <a>Paris</a>, it is also a member of prestigious <a>ParisTech</a> and <a>Institut Telecom</a>.</p>
+<p>It has established a school named <a>Institut Eur&#x00e9;com</a> in collaboration with <a>EPFL</a> at <a>Sophia-Antipolis</a>.</p>
+<h2>History</h2>
+<ul>
+  <li>In 1845, Alphonse Foy, director of telegraphic lines, proposed a school specializing in telegraphy for Polytechnicians. His proposition was rejected.</li>
+  <li>The school was founded on 12 July 1878 as the &#x00c9;cole Professionnelle Sup&#x00e9;rieure des Postes et T&#x00e9;l&#x00e9;graphes (EPSPT).</li>
+  <li>In 1912 the school's name was changed to &#x00c9;cole Sup&#x00e9;rieure des Postes et T&#x00e9;l&#x00e9;graphes (ESPT).</li>
+  <li>In 1934 the ESPT moved to rue Barrault, in the <a>13th arrondissement of Paris</a>. </li>
+  <li>In 1938 the school was renamed &#x00c9;cole Nationale Sup&#x00e9;rieure des Postes, T&#x00e9;l&#x00e9;graphes et T&#x00e9;l&#x00e9;phones (ENSPTT), and in the same year, the <a>President of France</a>, <a>Albert Lebrun</a> honored the school <a>Legion of Honor</a>.</li>
+  <li>During the <a>Second World War</a>, in 1942, the ENSPTT was divided into two schools: the ENSPTT and ENST. The ENSPTT was closed on 31 December 2002. </li>
+  <li>In 1971 the <a>ENST</a> passed under the direct guardianship of the <em>Direction g&#x00e9;n&#x00e9;rale des t&#x00e9;l&#x00e9;communications</em>, and the development of the telecommunications during this period drove the state to create two associate schools: the <a>ENST Bretagne</a> in 1977 at <a>Brest</a>, and the <a>INT</a> in 1979 at <a>&#x00c9;vry</a>. </li>
+</ul>
+<p><a>thumb|right|275px|Locations of Institut Telecom schools</a></p>
+<ul>
+  <li>In 1992 the <a>ENST</a>, together with the <a>EPFL</a>, founded the <a>Institut Eur&#x00e9;com</a> at <a>Sophia-Antipolis</a>.</li>
+  <li>On 26 December 1996 the <a>Groupe des &#x00c9;coles des T&#x00e9;l&#x00e9;communications</a> (GET) was established. It consists of a group of telecommunications schools including the ENST, the <a>Telecom Bretagne</a>, the <a>Telecom SudParis</a>, and <a>Institut Eur&#x00e9;com</a>.</li>
+  <li>On 21 September 2009, the school's name was changed to T&#x00e9;l&#x00e9;com ParisTech.</li>
+</ul>
+<h2>Present</h2>
+<p>Future engineers are recruited from college (&quot;Classes Pr&#x00e9;paratoires&quot;) or after a bachelors degree in scientific areas (physics, mechanics, chemistry, computer science etc.). Some other admission possibilities are after completing the <a>&#x00c9;cole Polytechnique</a> or from the French military and police. ENST also provides education for the <a>Corps of Telecommunications</a>.</p>
+<p>The Engineering diploma delivered by ENST is roughly equivalent to a Master of Engineering in the USA. Around 250 engineers graduate each year from ENST. 20% to 25% of the graduates are non-French. Courses cover all aspects of computer and communication engineering: electronics, signal processing, software engineering, networking, economics etc.</p>
+<h2>Research at T&#x00e9;l&#x00e9;com ParisTech</h2>
+<p>Research at T&#x00e9;l&#x00e9;com ParisTech consists of:</p>
+<ul>
+  <li>The optimization and the transmission of information </li>
+  <li>The improvement in data processing </li>
+  <li>Microelectronics, such as FPGA and DSP systems</li>
+  <li>Image and signal processing, wavelets</li>
+  <li>Artificial intelligence, data mining, distributed and real-time systems</li>
+</ul>
+<p>T&#x00e9;l&#x00e9;com ParisTech has four research laboratories:  </p>
+<ul>
+  <li>Department of Electronics and Communications : This laboratory consists of about one hundred researchers and teaching researchers (37 tenured) within 7 research groups</li>
+  <li>Department of Computer Science and Networking</li>
+  <li>Department of Signal and Image Processing</li>
+  <li>Department of Economic and Social Sciences</li>
+</ul>
+<p>These departments are associated with the <a>CNRS</a> through the &quot;Laboratory of the Communication and Processing of Information&quot;.</p>
+<h2>Formations for Engineer degree</h2>
+<ul>
+  <li><em>The common trunk (1&lt;sup&gt;st&lt;/sup&gt;year)</em> </li>
+</ul>
+<p>For the students admitted in 1st year, the <em>tronc commun</em> is devoted to the <em>bases des connaissances indispensables</em> (BCI).  It unfolds them to Paris and lasts a year for the students coming from the common Competition and those admitted on dismissed titles. It takes place in Paris whether they've chosen the <em>Paris courses</em> or the <em>Sophia-antipolis courses</em>. </p>
+<ul>
+  <li><em>The optional unified Cycle (2&lt;sup&gt;nd&lt;/sup&gt; and 3&lt;sup&gt;rd&lt;/sup&gt; years) - Paris courses</em></li>
+</ul>
+<p>The optional cycle is composed of 4 semesters dedicated to the training of the engineers. The teachings of the optional cycle are organized in more than 120 <em>unit&#x00e9;s d&#x2019;enseignement</em>(E.U).</p>
+<ul>
+  <li>The optional unified Cycle (2&lt;sup&gt;nd&lt;/sup&gt; and 3&lt;sup&gt;rd&lt;/sup&gt; years) - Sophia-antipolis courses (at <a>Institut Eur&#x00e9;com</a>)<em></em></li>
+</ul>
+<p>The optional cycle is composed of 4 semesters, one of them being dedicated to end of study training.  The optional unified cycle works on the model of the unities of capitalizable values called &quot;modules longs&quot; (42 hours - 4 credits) or &quot;modules courts&quot; (21 hours - 2 credits).</p>
+<ul>
+  <li><em>Studies abroad, Masters recherche &amp; other opportunities for the 3&lt;sup&gt;rd&lt;/sup&gt; year</em></li>
+</ul>
+<h2>Formations for Master degree</h2>
+<p>ENST offers Mast&#x00e8;res sp&#x00e9;cialis&#x00e9;s (MS), Masters Recherche (MR) and Master of Science (MSc) programmes in different domains.</p>
+<h3>Mast&#x00e8;res sp&#x00e9;cialis&#x00e9;s courses</h3>
+<ul>
+  <li><em>Formations on 1&lt;sup&gt;st&lt;/sup&gt; year</em>
+    <ul>
+      <li>Conception et architecture de r&#x00e9;seaux </li>
+      <li>Conception et architecture des syst&#x00e8;mes informatiques</li>
+      <li>Cr&#x00e9;ation et production multim&#x00e9;dia (in partnership with l'<a>INA</a>)</li>
+      <li>Dispositifs et techniques de communications</li>
+      <li>Ing&#x00e9;nierie du logiciel</li>
+      <li>E-Business <em>a.k.a Management et nouvelles technologies</em> (in partnership with <a>HEC</a>)</li>
+      <li>Management de projets technologiques (in partnership with l'<a>ESSEC</a>)</li>
+      <li>Radio Mobiles</li>
+      <li>S&#x00e9;curit&#x00e9; des syst&#x00e8;mes informatiques et des r&#x00e9;seaux</li>
+      <li>Signal, Images et Reconnaissance des Formes</li>
+    </ul>
+  </li>
+  <li><em>Formations in alternance on 2&lt;sup&gt;nd&lt;/sup&gt; year</em>
+    <ul>
+      <li>Management des syst&#x00e8;mes d'information r&#x00e9;partis (in partnership with l'<a>ESSEC</a>)</li>
+      <li>R&#x00e9;seaux</li>
+    </ul>
+  </li>
+</ul>
+<h3>Masters Recherche courses</h3>
+<ul>
+  <li>Master de sciences &amp; technologies (Universit&#x00e9; <a>Paris VI</a>)</li>
+  <li>Master de math&#x00e9;matiques et informatique (Universit&#x00e9; <a>Paris VII</a>)</li>
+  <li>Master de math&#x00e9;matiques et informatiques pour les sciences de la vie (Universit&#x00e9; <a>Paris V</a>)</li>
+  <li>Master de sciences &#x00e9;conomiques, sciences politique, sociologie (Universit&#x00e9; <a>Paris IX</a>)</li>
+  <li>Master de math&#x00e9;matiques, informatique, d&#x00e9;cision et organisation (Universit&#x00e9; <a>Paris IX</a>)</li>
+  <li>Master de sciences de la mod&#x00e9;lisation de l'information et des syst&#x00e8;mes (Universit&#x00e9; de Toulouse)</li>
+  <li>Master de sciences, technologies et sant&#x00e9; (<a>University of Nice Sophia Antipolis</a>)</li>
+</ul>
+<h3>Master of Science courses</h3>
+<p>Master of Science is offered through <a>Institut T&#x00e9;l&#x00e9;com</a> and <a>ParisTech</a>. This program is intended for bachelor degree holders or of an equivalent diploma to 4 years of university studies in the domain of <a>Information Technology</a> and <a>Telecommunications</a>. The duration of courses will be 12 to 24 months and the course fee is 10,000&#x20ac;. The courses offered at <a>Paris</a> campus will be initially  in <a>English</a> and gradually in <a>French</a>. The courses offered at <a>Institut Eur&#x00e9;com</a>, <a>Sophia-Antipolis</a> campus will entirely be in English. The degrees which are obtained are accredited by <em>Conference des Grandes Ecoles</em> and are called <strong><em>Master of Science</em></strong> (English) / <strong>Dipl&#x00f4;me National Master</strong> (French)<em>.</em></p>
+<ul>
+  <li>At <a>Paris</a>
+    <ul>
+      <li>Electrical Engineering  </li>
+      <li>Information Systems Management and Spatial Applications </li>
+      <li>Networked Computer Systems</li>
+      <li>Signal, Image and Computer Vision </li>
+    </ul>
+  </li>
+  <li>At <a>Eur&#x00e9;com</a>, <a>Sophia-Antipolis</a>
+    <ul>
+      <li>Communications and Computer Security </li>
+      <li>Mobile Communications</li>
+    </ul>
+  </li>
+</ul>
+<h2>See also</h2>
+<ul>
+  <li><a>&#x00c9;cole Nationale Sup&#x00e9;rieure des T&#x00e9;l&#x00e9;communications de Bretagne</a></li>
+  <li><a>Institut Eur&#x00e9;com</a></li>
+  <li><a>ParisTech</a></li>
+  <li><a>Institut Telecom</a></li>
+</ul>
+<h2>References</h2>
+<p><img></p>
+<h2>External links</h2>
+<ul>
+  <li><a>Official site</a></li>
+  <li><a>official site of the Junior Entreprise of T&#x00e9;l&#x00e9;com ParisTech.</a></li>
+  <li><a>Site de the Association of Ing&#x00e9;nieurs T&#x00e9;l&#x00e9;com ParisTech.</a></li>
+  <li><a>the alumni site of T&#x00e9;l&#x00e9;com ParisTech.</a></li>
+  <li><a>Official site of Eur&#x00e9;com</a></li>
+</ul>
+<p></p>
+

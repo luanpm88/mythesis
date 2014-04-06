@@ -151,7 +151,12 @@ class Article < ActiveRecord::Base
       
       content_fixed = content_fixed.gsub(/\&lt\;ref(.*?)\&gt\;(.*?)\&lt\;\/ref\&gt\;/im,"")
       
-      File.open("public/articles/#{infobox_template.name}/#{article.title.gsub(/[\s\&\'\,]/,'_')}.txt", "w") { |file| file.write content_fixed }
+      begin
+        File.open("public/articles/#{infobox_template.name}/#{article.title.gsub(/[\s\&\'\,]/,'_')}.txt", "w") { |file| file.write content_fixed }
+      rescue
+        puts "some error"
+      end
+      
       system("bin/opennlp SentenceDetector en-sent.bin < public/articles/#{infobox_template.name}/#{article.title.gsub(/[\s\&\'\,]/,'_')}.txt > public/articles/#{infobox_template.name}/sentenced/#{for_d}/#{article.title.gsub(/[\s\&\'\,]/,'_')}.txt")
     end
 
@@ -199,7 +204,7 @@ class Article < ActiveRecord::Base
               
             end
           rescue
-            put "sentence error"
+            puts "sentence error"
           end
         end
       #end
@@ -254,73 +259,41 @@ class Article < ActiveRecord::Base
         
         `java -jar bin/DoccatRun.jar public/doccat/#{infobox_template.name}/model/doccat.bin public/articles/#{infobox_template.name}/sentenced/test/#{article.title.gsub(/[\s\&\'\,]/,'_')}.txt public/doccat/#{infobox_template.name}/test/#{article.title.gsub(/[\s\&\'\,]/,'_')}/all.txt`
         
-        f = File.open("public/doccat/#{infobox_template.name}/test/#{article.title.gsub(/[\s\&\'\,]/,'_')}/all.txt")
+        begin
         
-        
-        collection = {}
-        while(current_line = f.gets)
-          parts = current_line.split("$$$@@@%%%")
-          attr = parts[0]
-          value = parts[1]
-          if parts.count > 1
-            if !collection[attr].nil?
-              collection[attr] << value
-            else
-              collection[attr] = []
-              collection[attr] << value
+          f = File.open("public/doccat/#{infobox_template.name}/test/#{article.title.gsub(/[\s\&\'\,]/,'_')}/all.txt")
+          
+          
+          collection = {}
+          while(current_line = f.gets)
+            parts = current_line.split("$$$@@@%%%")
+            attr = parts[0]
+            value = parts[1]
+            if parts.count > 1
+              if !collection[attr].nil?
+                collection[attr] << value
+              else
+                collection[attr] = []
+                collection[attr] << value
+              end
+            end          
+          end
+          
+          collection.map { |name,sentences|
+            str = ""
+            
+            sentences.each {|s| str += s.strip + "\n"}
+            
+            begin
+              File.open("public/doccat/#{infobox_template.name}/test/#{article.title.gsub(/[\s\&\'\,]/,'_')}/#{name.gsub(/[\s\/]+/,'_')}.txt", "w") { |file| file.write  str}
+            rescue
+              puts "some error"
             end
-          end          
-        end
+          }
         
-        collection.map { |name,sentences|
-          str = ""
-          
-          sentences.each {|s| str += s.strip + "\n"}
-          
-          File.open("public/doccat/#{infobox_template.name}/test/#{article.title.gsub(/[\s\&\'\,]/,'_')}/#{name.gsub(/[\s\/]+/,'_')}.txt", "w") { |file| file.write  str}
-        }
-        
-      #  f = File.open("public/articles/#{infobox_template.name}/sentenced/test/#{article.title.gsub(/[\s\&]/,'_')}.txt")
-      #  puts "public/articles/#{infobox_template.name}/sentenced/test/#{article.title.gsub(/[\s\&]/,'_')}.txt"
-      #  collection = {}
-      #  #count = 0
-      #  while(current_line = f.gets)
-      #    File.open("public/sentence_tmp.txt", "w") { |file| file.write  current_line}
-      #    command_result = `bin/opennlp Doccat public/doccat/#{infobox_template.name}/model/doccat.bin < public/sentence_tmp.txt`
-      #    puts "##" + command_result + "##"
-      #    
-      #    attr = command_result.split(" ")[0]
-      #    value = command_result.strip.gsub(/^[^\s]+\s/, '')
-      #    
-      #    if command_result.split(" ").count > 2        
-      #      if !collection[attr].nil?
-      #        collection[attr] << value
-      #      else
-      #        collection[attr] = []
-      #        collection[attr] << value
-      #      end
-      #    end
-      #    
-      #
-      #    
-      #    #count += 1
-      #    #if count == 4
-      #    #  break
-      #    #end
-      #    
-      #  end
-      #  
-      #  #choose best one
-      #  collection.map { |name,sentences|
-      #    str = ""
-      #    
-      #    sentences.each {|s| str += s.strip + "\n"}
-      #    
-      #    File.open("public/doccat/#{infobox_template.name}/test/#{article.title.gsub(/[\s\&]/,'_')}/#{name.gsub(/[\s\/]+/,'_')}.txt", "w") { |file| file.write  str}
-      #  }
-      #  
-      ##end
-      
+        rescue
+          puts "read article error"        
+        end     
     end
     
   end
@@ -346,34 +319,38 @@ class Article < ActiveRecord::Base
           
           infobox_template.articles.where(for_test: 1).each do |article|
             
-              f = File.open("public/doccat/#{infobox_template.name}/test/#{article.title.gsub(/[\s\&\'\,]/,'_')}/#{attribute.name.gsub(/[\s\/]+/,'_')}.txt")
-              current_line = f.gets.strip
-              c_sentence = current_line
-              
-              cluster.points << current_line
-              cluster.refresh_vocab
-              max_similar = cluster.cosine(cluster.vector(current_line),cluster.vector(cluster.center))
-              
-              while(current_line = f.gets)
-                puts current_line
-                similar = cluster.cosine(cluster.vector(current_line),cluster.vector(cluster.center))
+              begin
+                f = File.open("public/doccat/#{infobox_template.name}/test/#{article.title.gsub(/[\s\&\'\,]/,'_')}/#{attribute.name.gsub(/[\s\/]+/,'_')}.txt")
+                current_line = f.gets.strip
+                c_sentence = current_line
                 
-                if similar > max_similar
-                  max_similar = similar
-                  c_sentence = current_line
+                cluster.points << current_line
+                cluster.refresh_vocab
+                max_similar = cluster.cosine(cluster.vector(current_line),cluster.vector(cluster.center))
+                
+                while(current_line = f.gets)
+                  puts current_line
+                  similar = cluster.cosine(cluster.vector(current_line),cluster.vector(cluster.center))
+                  
+                  if similar > max_similar
+                    max_similar = similar
+                    c_sentence = current_line
+                  end
+                  
                 end
                 
-              end
+                exsit = TestArticleAttributeSentence.where(article_id: article.id, attribute_id: attribute.id).first
+                
+                if exsit.nil?
+                  TestArticleAttributeSentence.create(article_id: article.id, attribute_id: attribute.id, sentence: c_sentence)
+                else
+                  exsit.sentence = c_sentence
+                  exsit.save
+                end
               
-              exsit = TestArticleAttributeSentence.where(article_id: article.id, attribute_id: attribute.id).first
-              
-              if exsit.nil?
-                TestArticleAttributeSentence.create(article_id: article.id, attribute_id: attribute.id, sentence: c_sentence)
-              else
-                exsit.sentence = c_sentence
-                exsit.save
-              end
-          
+              rescue
+                puts "some error!!!!!!!!!!!!!!"
+              end             
           end
           
         rescue
@@ -689,10 +666,10 @@ class Article < ActiveRecord::Base
   def self.run_all
     
     ###1
-    self.import(1697)
+    #self.import(1697)
     #
     ###3
-    self.write_article_to_files
+    #self.write_article_to_files
     #
     ###4
     self.find_sentences_with_value

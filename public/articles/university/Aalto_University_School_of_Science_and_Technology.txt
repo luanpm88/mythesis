@@ -1,0 +1,138 @@
+<p></p>
+<p></p>
+<p><strong>Aalto University School of Science and Technology</strong> (<strong>TKK</strong>) (; ), formerly <strong>Helsinki University of Technology</strong>, is one of the three constituent schools of <a>Aalto University</a>. The school campus is located in <a>Otaniemi</a>, <a>Espoo</a> in the metropolitan area of <a>Greater Helsinki</a>. Founded in 1849 by <a>Grand Duke Nicholas I</a>, TKK received university status in 1908 and was incorporated into the <a>Aalto University</a> along with the <a>Aalto University School of Economics</a> and <a>Aalto University School of Art and Design</a> in 2010. In 1966, the then Helsinki University of Technology moved from downtown Helsinki to its current Otaniemi campus, designed by the renowned architect <a>Alvar Aalto</a>. The school has 246 professors and approximately 15,000 students in four <a>faculties</a>, studying in 19 degree programmes leading to master's degrees. </p>
+<p>[[Image:Helsinki University of Technology auditorium.jpg|thumb|250px|[[Alvar Aalto]]'s landmark auditorium of the main building. The <a>amphitheatre</a>-like structure contains the main auditoriums, while its exterior can be used for plays and other activities.]] [[Image:TKK Library.jpg|thumb|250px|The main library of the university, designed by [[Alvar Aalto]] and built in 1970.]] <a>thumb|250px|The Otaniemi Power Plant</a></p>
+<h2>History</h2>
+<p>In 1849, TKK was established in <a>Helsinki</a> by the decree of the <a>Russian Emperor</a> <a>Nicholas I</a>, <a>Grand Duke of Finland</a> as a &quot;manufacture and handicraft school&quot;, with the name <em>Helsingin teknillinen reaalikoulu</em>, along with two other similar schools, situated in <a>Vaasa</a> and <a>Turku</a>. In 1872, the school's name was changed to <em>Polyteknillinen koulu</em> (&quot;Polytechnical School&quot;) and in 1878, to <em>Polyteknillinen opisto</em> (&quot;Polytechnical Institute&quot;), while the two other manufacture and handiwork schools were demoted to institutions of lower level. As the proportion of <a>matriculation diploma</a> holders in the student intake gradually increased, the school gained more social respectability. In 1908, TKK was given university status along with its present name, thus becoming the second university to be founded in Finland. In 1955, building of the new campus area started with the housing village. In 1966, TKK moved from Helsinki to the new campus in Otaniemi, Espoo.</p>
+<p>In the past, the university was also known by the abbreviations <strong>HUT</strong> and <strong>TH</strong>, from its English language and Swedish language names, but in 2005 a decision was made to officially solely use the abbreviation <strong>TKK</strong> for <a>brand</a>ing reasons.</p>
+<p>In 2010, the university became a constituent school of the new <a>Aalto University</a> along with the <a>Helsinki School of Economics</a> and <a>University of Art and Design Helsinki</a>.</p>
+<h2>Research and teaching</h2>
+<h3>Studies</h3>
+<p>All engineering programmes offered by TKK lead to the degree of <em><a>diplomi-insin&#x00f6;&#x00f6;ri</a></em> (Master of Science in Technology, M.Sc. Tech. &quot;engineer with university diploma&quot;), a five-year taught Master's degree. The only exceptions to this are the architecture programmes that lead to the Master's degrees of architecture and landscape architecture. From 2005, according to the <a>Bologna process</a>, all students must also complete an intermediate degree (<em>tekniikan kandidaatti</em>, <em>TkK</em>) before the DI or architect's degree. This degree is considered a Bachelor's degree and enables enrollment in foreign universities where a Bachelor's degree is required. TKK does not offer programs terminating in a Bachelor's degree; a student may only be accepted to study for the Master's level degree. TKK requires a Bachelor's degree from foreign students studying in English, because only Master's studies are offered completely in English.</p>
+<p>Apart from numerous programs in Finnish/Swedish, various international Master's programs are offered exclusively for studies in English [<a>http://www.tkk.fi/en/studies/master-s_level_studies_and_courses/study_programmes/international_master_programmes/</a>].</p>
+<p><a>thumb|250px|A lecture of mathematics for undergraduates inside the main building.</a></p>
+<p>The <a>postgraduate</a> degrees given are <em>tekniikan lisensiaatti</em> (<a>Licentiate</a>) and <em>tekniikan tohtori</em> (<a>Doctor of Science</a> in Technology, D.Sc. Tech.).</p>
+<h3>Faculties</h3>
+<p>The university is organized in four faculties, each having departments and separate laboratories, and separate units not operating under any faculty.</p>
+<ul>
+  <li>Faculty of Chemistry and Materials Sciences [<a>http://chemat.tkk.fi/en/</a>]
+    <ul>
+      <li>Department of Biotechnology and Chemical Technology [<a>http://chemtech.tkk.fi/en/</a>]</li>
+      <li>Department of Chemistry [<a>http://chemistry.tkk.fi/en/</a>]</li>
+      <li>Department of Materials Science and Engineering [<a>http://materials.tkk.fi/en/</a>]</li>
+      <li>Department of Forest Products Technology [<a>http://puu.tkk.fi/en/</a>]</li>
+    </ul>
+  </li>
+  <li>Faculty of Electronics, Communications and Automation [<a>http://electronics.tkk.fi/en/</a>]
+    <ul>
+      <li>Department of Automation and Systems Technology [<a>http://autsys.tkk.fi/en/</a>]</li>
+      <li>Department of Electronics [<a>http://ele.tkk.fi/en/</a>]</li>
+      <li>Department of Micro and Nanosciences [<a>http://nano.tkk.fi/en/</a>]</li>
+      <li><a>Department of Radio Science and Engineering</a> [<a>http://radio.tkk.fi/en/</a>]</li>
+      <li>Department of Signal Processing and Acoustics [<a>http://spa.tkk.fi/en/</a>]</li>
+      <li>Department of Electrical Engineering [<a>http://sahkotekniikka.tkk.fi/en/research/</a>]</li>
+      <li>Department of Communications and Networking [<a>http://comnet.tkk.fi/en/research/</a>]</li>
+      <li>Mets&#x00e4;hovi Radio Observatory [<a>http://www.metsahovi.fi/en/</a>]</li>
+    </ul>
+  </li>
+  <li>Faculty of Engineering and Architecture [<a>http://engineering.tkk.fi/en/</a>]
+    <ul>
+      <li>Department of Architecture [<a>http://arkkitehtuuri.tkk.fi/engl/</a>]</li>
+      <li>Department of Energy Technology [<a>http://ene.tkk.fi/en/</a>]</li>
+      <li>Department of Engineering Design and Production [<a>http://edp.tkk.fi/en/</a>]</li>
+      <li>Department of Surveying [<a>http://maa.tkk.fi/en/</a>]</li>
+      <li>Department of Structural Engineering and Building Technology [<a>http://buildtech.tkk.fi/en/</a>]</li>
+      <li>Department of Applied Mechanics [<a>http://appmech.tkk.fi/en/</a>]</li>
+      <li>Department of Civil and Environmental Engineering [<a>http://civil.tkk.fi/en/</a>]</li>
+      <li>TKK Lahti Center [<a>http://lahti.tkk.fi/en/</a>]</li>
+      <li>Centre for Urban and Regional Studies YTK [<a>http://ytk.tkk.fi/en/</a>]</li>
+    </ul>
+  </li>
+  <li>Faculty of Information and Natural Sciences [<a>http://information.tkk.fi/en/</a>]
+    <ul>
+      <li>Department of Biomedical Engineering and Computational Science [<a>http://becs.tkk.fi/en/</a>]</li>
+      <li>Department of Mathematics and Systems Analysis [<a>http://math.tkk.fi/en/</a>]</li>
+      <li>Department of Media Technology [<a>http://media.tkk.fi/en/</a>]</li>
+      <li>Department of Applied Physics [<a>http://tfy.tkk.fi/</a>]</li>
+      <li>Department of Information and Computer Science [<a>http://ics.tkk.fi/en/</a>]</li>
+      <li>Department of Computer Science and Engineering [<a>http://www.cse.tkk.fi/en/</a>]</li>
+      <li>Department of Industrial Engineering and Management [<a>http://tuta.tkk.fi/en/</a>]</li>
+      <li>BIT Research Centre [<a>http://www.bit.hut.fi/</a>]</li>
+      <li>Language Centre [<a>http://kielikeskus.tkk.fi/en/</a>]</li>
+    </ul>
+  </li>
+  <li>TKK Main Library [<a>http://lib.tkk.fi/index-en.html</a>]</li>
+  <li>Lifelong Learning Institute Dipoli [<a>http://www.dipoli.tkk.fi/english/index.html</a>]</li>
+  <li>Low Temperature Laboratory [<a>http://ltl.tkk.fi/</a>]</li>
+</ul>
+<p>Additionally, TKK participates in various joint units with other Finnish universities and the <a>VTT Technical Research Centre of Finland</a>:</p>
+<ul>
+  <li><a>Helsinki Institute of Physics</a> (with <a>University of Helsinki</a>) [<a>http://www.hip.fi/</a>]</li>
+  <li><a>Helsinki Institute for Information Technology</a> (with <a>University of Helsinki</a>) [<a>http://www.hiit.fi</a>]</li>
+  <li>Micronova Center of Micro and Nanotechnology (with <a>VTT Technical Research Centre of Finland</a>) [<a>http://www.micronova.fi</a>]</li>
+</ul>
+<h3>Research</h3>
+<p>[[Image:BNCT-kaaviokuva.png|thumb|right|300px|The VTT FiR-1 reactor in Otaniemi, FiR-1 has been converted for experimental [[Boron neutron capture therapy]].]] TKK participates in 12 Centres of Excellence (<em>huippuyksikk&#x00f6;</em>, see below), selected by the <a>Academy of Finland</a> to represent the top research in the country and receiving separate, fixed-period funding from the Academy. </p>
+<p>Researchers at TKK have achieved notability in, among other things, <a>low temperature physics</a> (holding the current world record for the <a>lowest temperature achieved</a>), the development of devices and methods for <a>magnetoencephalography</a>, mobile communications, <a>wood processing</a>, and neural networks, with professor <a>Teuvo Kohonen</a> initiating research in <a>self-organizing map</a>s. Additionally, the first commercialised <a>total synthesis</a>, the synthesis of <a>camphor</a>, was invented by <a>Gustaf Komppa</a>, the first professor of chemistry at TKK  and the <a>Nobel laureate</a> (chemistry, 1945) <a>Artturi Virtanen</a> held a professorship in biochemistry at TKK. More recently, the university has notably invested in the research of nanotechnology, operating the largest <a>cleanroom</a> facility in Northern Europe and one of the largest microscopy clusters in Europe.</p>
+<p>The <a>Nokia Research Center</a> has operated a &quot;lablet&quot; on university premises since 2008, in order to establish joint research programs and daily interaction between Nokia and university researchers, who will share the same facilities.</p>
+<h3>Centres of Excellence</h3>
+<p>A <a>Centre of Excellence</a> (<em>huippuyksikk&#x00f6;</em>) is selected by the <a>Academy of Finland</a> to represent the top research in the country, and receives separate, fixed-period funding from the Academy. Currently, the following units are designated Centres of Excellence.</p>
+<ul>
+  <li><a>Smart and Novel Radios Research Unit</a>, <a>SMARAD</a> (2002&#x2013;2007, 2008&#x2013;2013)</li>
+  <li>Bio- and Nanopolymers Research Group (2002&#x2013;2007)</li>
+  <li>Adaptive Informatics Research Centre (2006&#x2013;2011) [<a>http://www.cis.hut.fi/</a>]</li>
+  <li>Computational Complex Systems Research [<a>http://www.lce.hut.fi</a>] (2006&#x2013;2011)</li>
+  <li>Computational Nanoscience (2006&#x2013;2011)</li>
+  <li>Low Temperature Quantum Phenomena and Devices (2006&#x2013;2011)</li>
+  <li>Systems Neuroscience and Neuroimaging Research (2006&#x2013;2011) [Systems Neuroscience and Neuroimagining web site ]</li>
+  <li>Generic Intelligent Machines Research (2008&#x2013;2013)</li>
+  <li>Algorithmic Data Analysis Research (2008&#x2013;2013, 2002&#x2013;2007 as &quot;From Data to Knowledge Research Unit&quot;), with <a>University of Helsinki</a></li>
+  <li>Helsinki Brain Research Centre or HBRC (2002&#x2013;07, with <a>University of Helsinki</a> and the Hospital District of Helsinki and Uusimaa)</li>
+  <li>Applied Electronics Laboratory, as a part of Helsinki Brain Research Centre, HBRC (2002&#x2013;2007)</li>
+  <li>Inverse Problems (2006&#x2013;2011, with <a>University of Helsinki</a>, <a>Helsinki School of Economics</a>, <a>University of Oulu</a>, and <a>Lappeenranta University of Technology</a>)</li>
+</ul>
+<h3>Campus</h3>
+<p>TKK is located in <a>Otaniemi</a>, Espoo. Several high-tech companies, the Finnish forest industry's joint experimental laboratory KCL, and <a>business incubator</a>s Innopoli and Technopolis are also situated nearby. It is also directly adjacent to <a>Keilaniemi</a>, with Life Science Center and the headquarters of several notable Finnish companies, such as <a>Nokia</a> and <a>Fortum</a>. The area is connected by a 15-minute bus ride to the center of Helsinki.</p>
+<h2>Culture and student life</h2>
+<p><a>thumb|right|A traditional Finnish technology student's hat (<em>teekkarilakki</em>), the TKK(TF) type, photographed on top of a mirror.</a> TKK is known for its active student community and technology students (<em>teekkari</em>s) are highly noticeable, as they wear a distinctive hat and often brightly colored overalls to many of their public events. The community has also organised important charity events (<em>tempaus</em> in local language). TKK students are also famous for, and Finland's leading practitioners of, student <a>prank</a>s (<em>j&#x00e4;yn&#x00e4;</em>), similar in principle to <a>MIT hack</a>s. Their most widely publicised stunt took place in 1961, when a team of students smuggled a statue of <a>Paavo Nurmi</a> onto the 300-year-old wreck of <a>Regalskeppet Vasa</a> just days before its lifting from the bottom of the sea.</p>
+<h3>Student Union</h3>
+<p>The <a>Student Union</a> of Helsinki University of Technology (<em>TKY</em>, Finnish: <em>Teknillisen Korkeakoulun Ylioppilaskunta</em>) is the interest group for the students of the university. In 2006 it had 11,187 members, which includes all the students of the university, as is stipulated by Finnish law. It was founded in 1872.</p>
+<h3>Student Nation</h3>
+<p>TKK is also one of the two universities in Finland to host one or more Nations, a Finnish type of <a>student corporation</a>. The only nation at TKK is <a>Teknologf&#x00f6;reningen (TF)</a> and its goal is to unite Swedish-speaking students at TKK. The nation was founded in 1872, that is, prior to the student union, and is housed in the <em>Urdsgjallar</em> building, completed in 1966. The Finnish-speaking student nation <em>Tekniikan Ylioppilaat</em> was disbanded in 1972 and its functions given to the university student union, since a separate Finnish-speaking nation in an university with an overwhelming Finnish-speaking majority was considered unnecessary. The regional Finnish-speaking nations at the <a>University of Helsinki</a> also accept TKK students as members.</p>
+<h3>Student housing</h3>
+<p>The housing area of Otaniemi campus, known as Teekkarikyl&#x00e4; (technology student village), is owned mostly by the student union and partly by HOAS (Helsinki Student Housing Fund). The housing is characterised by the presence of foreign students of many nationalities. As of 2005, the village offers housing for approximately 2,600 students.</p>
+<p>Construction of the Otaniemi campus was started in 1950, in order for the first buildings to host the athletes of the <a>1952 Summer Olympics</a> in Helsinki. Some of the building material originally used for the campus was acquired from the former Soviet Union embassy, which had been destroyed during <a>World War II</a>, as a result of bombings by the <a>Soviet Union</a> itself. The student housing has been used for housing athletes again in e.g. the <a>2005 World Championships in Athletics</a>, sometimes to the dismay of the students that have to move out during the events. The quality of the Otaniemi student housing holds a high standard in international comparison.</p>
+<p>The campus also contains the former student union building <em><a>Dipoli</a></em>, named as the second <em>Poli</em>, the successor of the first student union building in downtown Helsinki. Dipoli was designed by <a>Reima and Raili Pietil&#x00e4;</a> and completed in 1966. In 1993, the building was permanently rented to the university to act as a conference and <a>continuing education</a> center and later sold due to high maintenance costs. It is regularly used for conventions, congresses and student parties.</p>
+<h3>Associations</h3>
+<p>In addition to the student union TKK students have formed numerous associations for studies, cultural activity and sports. In 2007, there were some 150 associations maintained by university students. In 2006, two-thirds of the student union members were members of &quot;the guilds&quot; of <a>MySQL</a></li>
+  <li><a>Jyrki Kasvi</a>, MP (D.Sc.)</li>
+  <li><a>Satu Hassi</a>, MEP, former MP and minister (Lic.Sc.)</li>
+  <li><a>Tatu Yl&#x00f6;nen</a>, designer of the <a>Secure Shell</a>, (Lic.Sc.)</li>
+  <li>Wilhelm Wahlforss, notable industrialist, (M.Sc)</li>
+  <li><a>Antti Tuuri</a>, writer, (M.Sc)</li>
+  <li><a>Marjo Matikainen-Kallstr&#x00f6;m</a>, MP and olympic gold medalist, (M.Sc)</li>
+</ul>
+<p>&lt;/div&gt;</p>
+<h2>See also</h2>
+<ul>
+  <li><a>List of universities in Finland</a></li>
+  <li><a>Institute of technology</a></li>
+  <li><a>Helsinki University of Technology Library</a></li>
+  <li><a>Top Industrial Managers for Europe</a> (TIME) network for student mobility</li>
+</ul>
+<h2>References</h2>
+<p><img></p>
+<h2>External links</h2>
+<p></p>
+<ul>
+  <li><a>Helsinki University of Technology</a> </li>
+  <li><a>Helsinki University of Technology</a> </li>
+  <li><a>Student Union of Helsinki University of Technology</a></li>
+  <li><a>Student Union of Aalto University</a></li>
+  <li><a>Helsinki University of Technology building map</a></li>
+  <li><a>Helsinki University of Technology at Google Maps</a></li>
+  <li><a>The TKK's Study Programme ECTS Guide book</a></li>
+</ul>
+<p> <img>  <img></p>
+<p></p>
+

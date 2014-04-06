@@ -1,0 +1,139 @@
+<p>  The <strong>Bauman Moscow State Technical University</strong>, Bauman MSTU (), sometimes colloquially referred to as the Bauman School or Baumanka () is a <a>public university</a> located in <a>Moscow</a>, <a>Russia</a>.  Bauman MSTU is one of the oldest and largest Russian <a>technical university</a> offering <a>B.S.</a>, <a>M.S.</a> and <a>Ph.D.</a> degrees in various engineering fields and applied sciences.</p>
+<h2>University today</h2>
+<p>From 1918 to 2010 more than 144,000 students graduated with different engineering degrees.  Most of them chose to become scientists or engineers in the leading research centers, universities, private and government owned companies. Some of the specialized departments of BMSTU are located outside Moscow in cities of <a>Moscow Oblast</a>: <a>Krasnogorsk</a> (Russian: &#x041a;&#x0440;&#x0430;&#x0441;&#x043d;&#x043e;&#x0433;&#x043e;&#x0440;&#x0441;&#x043a;), <a>Reutov</a> (Russian: &#x0420;&#x0435;&#x0443;&#x0442;&#x043e;&#x0432;), <a>Korolev</a> (Russian: &#x041a;&#x043e;&#x0440;&#x043e;&#x043b;&#x0451;&#x0432;).  There is also a <a>largest branch</a> of the University in <a>Kaluga</a> (Russian: &#x041a;&#x0430;&#x043b;&#x0443;&#x0433;&#x0430;).</p>
+<h2>Educational programs</h2>
+<p>The academic year in this university begins on the 1st September, and is divided into two terms (semesters). Students take exams at the end of each semester.  The course of study lasts 6 years without interrupt for engineer specialist degree. But over the last few years the Bauman University has continued to integrate with the <a>Bologna Process</a>. And today some students learn using two step educational system.   The first two years students study general engineering subjects. In the third year students begin to study specialized subjects.  In this university theoretical subjects accompanied by practical training. Students begin to work at the University's well-equipped (Russian standard) laboratories and in senior years at various plants, design offices and research institutes of Russia.</p>
+<h2>History</h2>
+<p>The university was established in 1830 as <em>Imperial Vocational School</em> (, <em>Remeslennoe Uchilische</em>) by a decree of Emperor <a>Nicholas I</a>.  It was renamed in 1868 as <em>Imperial Moscow Technical School</em>, then after the 1917 revolution to <em>Moscow Highest Technical School</em> (MHTS).  A number of research institutes such as <a>TsAGI</a> were created from laboratories and departments of MHTS in 1930.  The remaining school was named <em><a>Bauman</a> Moscow Mechanical and Machine Construction Institute</em>, after the revolutionary <a>Bolshevik</a> <a>Nikolay Bauman</a>.  The name MHTS was revived in 1943.  The current name was given in 1989.</p>
+<p><a>thumb|Fountain in the inner courtyard of the main building of BMSTU</a></p>
+<h2>Departments</h2>
+<ul>
+  <li><strong>RADIOELECTRONICS AND LASER TECHNOLOGY</strong>
+    <ul>
+      <li>Bioengineering and Medical Equipment and Systems;</li>
+      <li>Optico-Electronic Equipment and Systems;</li>
+      <li>Radioelectronic Systems. </li>
+    </ul>
+  </li>
+  <li><strong>FUNDAMENTAL SCIENCES</strong>
+    <ul>
+      <li>Applied mathematics;</li>
+      <li>Technical physics.</li>
+    </ul>
+  </li>
+  <li><strong>MATERIALS AND TECHNOLOGY</strong>
+    <ul>
+      <li>Manufacturing Engineering;</li>
+      <li>Machine Tools;</li>
+      <li>Casting Technology and Equipment;</li>
+      <li>Metal Pressing and Forging Engineering and Equipment;</li>
+      <li>Welding Technology and Equipment;</li>
+      <li>Advanced Processing Machines and Technology;</li>
+      <li>Material Science in Mechanical Engineering;</li>
+      <li>Metallurgical Machines and Equipment;</li>
+      <li>Metrology and Metrological Provision;</li>
+      <li>Electrical Engineering. </li>
+    </ul>
+  </li>
+  <li><strong>SPECIAL MACHINERY</strong>
+    <ul>
+      <li>Rocket Engineering;</li>
+      <li>Aerospace systems;</li>
+      <li>Flight Dynamics and Movement Control;</li>
+      <li>Automatic Systems and Robot Engineering; </li>
+      <li>Missiles and Pulse systems;</li>
+      <li>Robotics and Mechatronics;</li>
+      <li>Space Vehicles and Acceleration Blocks;</li>
+      <li>Caterpillar and Wheel Vehicles;</li>
+      <li>Aerospace technology;</li>
+      <li>Design and Manufacturing of Composite Material Articles. </li>
+    </ul>
+  </li>
+  <li><strong>POWER ENGINEERING</strong>
+    <ul>
+      <li>Rocket Engines;</li>
+      <li>Low Temperature Physics and Engineering (Cryogenics);</li>
+      <li>Combustion Engines;</li>
+      <li>Turbomachinery;</li>
+      <li>Vacuum and Compressor Facilities of Physical Units;</li>
+      <li>Hydraulic Machinery, Drives and Controls;</li>
+      <li>Electronic Engines, Plasma Power Plants and Technology;</li>
+      <li>Physical Power Plants;</li>
+      <li>Nontraditional and Renewable Energy Sources;</li>
+      <li>Environment Protecting and Rational Utilization of Natural Resources;</li>
+      <li>Safety of Vital Activity. </li>
+    </ul>
+  </li>
+  <li><strong>ROBOTICS AND COMPLEX AUTOMATION</strong>
+    <ul>
+      <li>Dynamics and Strength of Machines;</li>
+      <li>Lifting-, Transport-, Construction Machines, Road Vehicles and Equipment;</li>
+      <li>Automation of Manufacturing Processes;</li>
+      <li><a>Robots and Robotics</a>;</li>
+      <li><a>CAD/CAE/PDM/PLM Department</a>. </li>
+    </ul>
+  </li>
+  <li><strong>INFORMATICS AND CONTROL SYSTEMS</strong>
+    <ul>
+      <li>Automatic Control Systems for Flight Vehicles;</li>
+      <li>Gyroscopic Instruments and Systems for Orientation,Navigation and Stabilization;</li>
+      <li>Information and Measuring Equipment and Technology; </li>
+      <li>Radioelectronic Equipment Design and Technology;</li>
+      <li>Computer Systems, Complexes and Networks;</li>
+      <li>Automatic Information Processing and Control Systems;</li>
+      <li>Software for Computers and Automation Systems;</li>
+      <li>Computer Design and Technology;</li>
+      <li>Information Security</li>
+      <li>Theoretical computer science and computer technology</li>
+      <li>Information defending</li>
+    </ul>
+  </li>
+  <li><strong>ENGINEERING BUSINESS AND MANAGEMENT</strong>
+    <ul>
+      <li>Economics and Management at Enterprises</li>
+    </ul>
+  </li>
+  <li>Biomedical Technology</li>
+  <li>Social and Human Sciences</li>
+  <li>Military Education</li>
+  <li>Jurisprudence</li>
+</ul>
+<h3>Special faculties</h3>
+<ul>
+  <li>Radiotechnology</li>
+  <li>Rocket and Space Technology</li>
+  <li>Optico-electronic Equipment</li>
+  <li>Instrument Engineering</li>
+  <li>Air and Space</li>
+</ul>
+<h2>Famous faculty and alumni</h2>
+<ul>
+  <li><a>Sergei Pavlovich Korolev</a></li>
+  <li><a>Vladimir Grigorievich Shukhov</a></li>
+  <li><a>Andrey Nikolaevich Tupolev</a></li>
+  <li><a>Pavel Osipovich Sukhoi</a></li>
+  <li><a>Pafnuty Lvovich Chebyshev</a></li>
+  <li><a>Nikolai Yegorovich Zhukovsky</a></li>
+  <li><a>Vladimir Nikolayevich Chelomei</a></li>
+  <li><a>Nikolay Alekseevich Pilyugin</a></li>
+  <li><a>Semyon Alekseyevich Lavochkin</a></li>
+  <li><a>Vladimir Mikhailovich Petlyakov</a></li>
+  <li><a>Sergei Alekseyevich Lebedev</a></li>
+  <li><a>Sergei Ivanovich Vavilov</a></li>
+  <li><a>Aleksandr Aleksandrovich Mikulin</a></li>
+  <li><a>Sergey Alexandrovich Afanasyev</a></li>
+  <li><a>Alfred Rosenberg</a></li>
+  <li><a>Sergey Nepobedimiy</a></li>
+  <li><a>Nikolay Dollezhal</a></li>
+</ul>
+<h2>External links</h2>
+<ul>
+  <li><a>Official web site (Russian)</a></li>
+  <li><a>Official web site (English)</a></li>
+  <li><a>Official web site of international activities (Russian and English)</a></li>
+  <li><a>Unofficial web site (Russian)</a></li>
+  <li><a>History of BMSTU (Russian)</a></li>
+  <li><a>Top Industrial Managers for Europe</a></li>
+</ul>
+<p> </p>
+
