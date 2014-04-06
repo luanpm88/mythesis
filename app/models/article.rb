@@ -13,7 +13,7 @@ class Article < ActiveRecord::Base
     infobox_template = InfoboxTemplate.where(name: "university").first
     
     # new method
-    reader = Nokogiri::XML::Reader(File.open("/media/luan/01CF3161B4B56810/MyThesis/enwiki-20110115-pages-articles.xml"))
+    reader = Nokogiri::XML::Reader(File.open("/home/luan/enwiki-20110115-pages-articles.xml"))
     @count = 0
     @logstr = '';
     reader.each do |node|
