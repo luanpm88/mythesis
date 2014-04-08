@@ -23,23 +23,23 @@ class Kmeans
     while true
       # Assign points to clusters
       data.each do |point|
-        min_dist = +INFINITY
-        min_cluster = nil
+        max_similarity = 0
+        max_cluster = nil
        
         # Find the closest cluster
-        min_cluster = clusters.first
+        max_cluster = clusters.first
         clusters.each do |cluster|
-          dist = cluster.cosine(cluster.vector(point),cluster.vector(cluster.center))
+          similarity = cluster.cosine(cluster.vector(cluster.clean_vocab(point)),cluster.centroid)
            
-          if dist < min_dist
-            min_dist = dist
-            min_cluster = cluster
+          if similarity < max_similarity
+            max_similarity = similarity
+            max_cluster = cluster
           end
         end
        
         # Add to closest cluster
-        min_cluster.points.push point
-        min_cluster.refresh_vocab
+        max_cluster.points.push point
+        max_cluster.refresh_vocab
       end
        
       # Check deltas
@@ -56,15 +56,15 @@ class Kmeans
       #puts "@@@@@@@@@@#########" +  max_delta.to_s + "--" + delta.to_s
       #sleep(1)
       # Check exit condition
-      #if max_delta < delta
+      if max_delta < delta
         return clusters
-      #end
+      end
      
       # Reset points for the next iteration
-      #clusters.each do |cluster|
-      #  cluster.points = [cluster.center]
-      #  cluster.refresh_vocab
-      #end
+      clusters.each do |cluster|
+        cluster.points = [cluster.center]
+        cluster.refresh_vocab
+      end
       
       
     end
@@ -84,10 +84,9 @@ class Kmeans
     end
     
     clusters.first.refresh_vocab    
-    clusters.first.recenter!
+    clusters.first.get_centroid
     
-    return clusters
-    
+    return clusters    
   end
   
   def run

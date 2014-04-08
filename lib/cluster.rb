@@ -6,7 +6,7 @@
  
 class Cluster
   INFINITY = 1.0/0
-  attr_accessor :center, :points, :vector_keyword_index, :vocab
+  attr_accessor :center, :points, :vector_keyword_index, :vocab, :centroid
   
   STOP_WORDS = %w[
     a b c d e f g h i j k l m n o p q r s t u v w x y z
@@ -100,15 +100,19 @@ class Cluster
     max_similar = 0
     @points.each do |point1|
       similar = 0
-      @points.each do |point2|
-        cos = cosine(vector(point1),vector(point2))
-        similar += cos
-        puts point1 + point2 + cos.to_s
-      end
+      #@points.each do |point2|
+      #  if point1 != point2
+      #    cos = cosine(vector(point1),vector(point2))
+      #    similar += cos
+      #    puts point1 + point2 + cos.to_s
+      #  end        
+      #end
+      
+      similar = cosine(vector(point1),vector(@points.join(" ")))
+      
       if similar > max_similar
         @center = point1
         max_similar = similar
-        
       end
       
       puts "ssss " + similar.to_s
@@ -116,6 +120,30 @@ class Cluster
     
     return 1 # - cosine(vector(@center),vector(old_center))
   
+  end
+
+  def get_centroid
+    tt = vector(@points.first)
+    
+    @points.each_with_index do |doc,index|
+      if @points.first != doc
+        tt += vector(doc)
+        puts index
+      end      
+    end
+    
+    @centroid = tt/@points.count
+    
+  end
+  
+  def clean_vocab(string)
+    str = ""
+    string.split(" ").each do |token|
+      if @vocab.include?(token)
+        str += token.to_s + " "
+      end
+    end
+    return str.strip
   end
   
 end

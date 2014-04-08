@@ -1,4 +1,6 @@
 class VectorSpace
+  attr_accessor :docs, :vector_keyword_index, :vocab, :centroid
+  
   STOP_WORDS = %w[
     a b c d e f g h i j k l m n o p q r s t u v w x y z
     an and are as at be by for from has he in is it its
@@ -25,8 +27,8 @@ class VectorSpace
   
     tokens.each do |token|
       tf = tokens.count(token)
-      num_docs_with_token = @@docs.count { |d| tokenize(d).include?(token) }
-      idf = @@docs.size / num_docs_with_token
+      num_docs_with_token = @docs.count { |d| tokenize(d).include?(token) }
+      idf = @docs.size / num_docs_with_token
   
       index = @vector_keyword_index[token]
       arr[index] = tf * idf
@@ -34,6 +36,7 @@ class VectorSpace
   
     return Vector.elements(arr) # create a vector from arr   
   end
+
   
   def cosine(vector1, vector2)
     dot_product = vector1.inner_product(vector2)
@@ -46,7 +49,32 @@ class VectorSpace
   end
   
   def run(query)
-    @vocab = tokenize(@@docs.join(" "))
+    
+    
+    @query = "How can you compare The Wire with Lost?"
+    query_vector = vector(@query)
+
+    
+    @docs.each do |doc|
+      doc_vector = vector(doc)
+      rank = cosine_rank(query_vector, doc_vector)
+      doc.instance_eval %{def rank; #{rank}; end} # bit mental
+    end
+    
+    results = @docs.sort { |a,b| b.rank <=> a.rank } # highest to lowest
+        
+    results.each { |doc| puts doc + " (#{doc.rank})" }
+  end
+      
+  def get_centroid
+    @docs.each do |doc|
+      
+    end
+  end
+  
+  def initialize
+    @docs = @@docs
+    @vocab = tokenize(@docs.join(" "))
     
     @vector_keyword_index = begin
       index, offset = {}, 0      
@@ -58,24 +86,6 @@ class VectorSpace
     
       index
     end
-    
-    @query = query
-    query_vector = vector(@query)
-    
-    @@docs.each do |doc|
-      doc_vector = vector(doc)
-      rank = cosine_rank(query_vector, doc_vector)
-      doc.instance_eval %{def rank; #{rank}; end} # bit mental
-    end
-    
-    @results = @@docs.sort { |a,b| b.rank <=> a.rank } # highest to lowest
-    
-    
-    @results.each { |doc| puts doc + " (#{doc.rank})" }
-  end
-      
-  def input(doc)
-    @@docs = doc
   end
   
 end
