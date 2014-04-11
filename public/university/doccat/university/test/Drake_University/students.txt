@@ -1,0 +1,8 @@
+<li><a>Basketball</a> (men's and women's)</li>
+<li><a>Crew</a> (women's)</li>
+<li><a>Golf</a> (men's and women's)</li>
+<li><a>Soccer</a> (men's and women's)</li>
+<li><a>Softball</a> (women's)</li>
+<li><a>Tennis</a> (men's and women's)</li>
+<li><a>Track &amp; Field</a> (men's and women's)</li>
+<li><a>Volleyball</a> (women's)</li>

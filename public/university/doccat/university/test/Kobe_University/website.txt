@@ -1,0 +1,3 @@
+<li>Graduate School of Health Sciences</li>
+<li>Graduate School of Maritime Sciences</li>
+<li>Faculty of Maritime Sciences</li>

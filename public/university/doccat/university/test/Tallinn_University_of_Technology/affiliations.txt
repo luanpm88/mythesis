@@ -1,0 +1,13 @@
+<li>Dean Prof. <em>Andres &#x00d6;pik</em></li>
+<li>Dean Prof. <em>Roode Liias</em></li>
+<li>Dean Prof. <em>&#x00dc;llas Ehrlich</em></li>
+<li>Dean Prof. <em>Sulev M&#x00e4;eltsemees</em></li>
+<li>Dean Prof. <em>Priit Kulu</em></li>
+<li>Dean Prof. <em>Ennu R&#x00fc;stern</em></li>
+<li>Dean Prof. <em>T&#x00f5;nu Lehtla</em></li>
+<li>Dean Prof. <em>T&#x00f5;nis Kanger</em></li>
+<li>Director Prof. <em>Jaan Penjam</em></li>
+<li>Director Prof. <em>Alvar Soesoo</em></li>
+<li>Director Prof. <em>Lembit Nei</em></li>
+<li>Director Prof. <em>J&#x00fc;ri Elken</em></li>
+<li>Director Prof.<em>Kalju Meigas</em></li>

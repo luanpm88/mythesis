@@ -1,0 +1,2 @@
+<p>The university faculty is organized into the following departments.</p>
+<li>Office of Commission for Inspecting Discipline and Supervisory Committee Office</li>

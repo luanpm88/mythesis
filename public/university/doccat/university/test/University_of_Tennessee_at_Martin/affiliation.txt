@@ -1,0 +1,13 @@
+<li><a>Gamma Sigma Alpha</a></li>
+<li><a>Rho Lambda</a></li>
+<li><a>Gamma Beta Phi</a></li>
+<li><a>Alpha Psi Omega</a></li>
+<li><a>Alpha Gamma Rho</a></li>
+<li><a>Phi Sigma Kappa</a></li>
+<li><a>Pi Kappa Alpha</a></li>
+<li><a>Alpha Delta Pi</a></li>
+<li><a>Alpha Omicron Pi</a></li>
+<li><a>Chi Omega</a></li>
+<li><a>Zeta Tau Alpha</a></li>
+<li><a>Fred Thomas</a> (&#x2019;96) <a>New Orleans Saints</a> cornerback.</li>
+<li><a>Fast Facts</a></li>

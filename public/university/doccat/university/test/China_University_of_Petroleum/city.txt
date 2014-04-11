@@ -1,0 +1,5 @@
+<li>Chemical Technology </li>
+<li>Oil-Gas Well Engineering </li>
+<li>Oil-Gas Field Development Engineering </li>
+<li>Institute of Postgraduates</li>
+<li>Chemistry Technology

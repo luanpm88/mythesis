@@ -1,0 +1,81 @@
+type$$$@@@%%%<p> <strong>Valencia Community College</strong> is a multi-campus <a>college</a> located in <a>Orlando, Florida</a> in the <a>United States</a>, and is third-largest institution of the <a>Florida College System</a>.</p>
+established$$$@@@%%%<p>The college was founded in 1967 as <strong>Valencia Junior College</strong>, taking its current name in 1971.
+faculty$$$@@@%%%It has several campuses in <a>Orlando</a> with additional campuses in <a>Kissimmee</a>, and <a>Winter Park</a>.
+doctoral$$$@@@%%%More than 30,000 students enroll each year.
+established$$$@@@%%%On December 14, 2010, Valencia&#x2019;s District Board of Trustees voted to change the college name from Valencia Community College to Valencia College, effective July 1, 2011.</p>
+country$$$@@@%%%<p>Valencia is ranked first in the United States for the number of <a>Associate's degree</a>s awarded; it is first among two-year schools</p>
+image_name$$$@@@%%%<h2>Profile</h2>
+affiliations$$$@@@%%%<p>The average class size is 23.5 students.</p>
+established$$$@@@%%%<p>Valencia was named 1998-99 National Community College of the Year by the National Alliance of Business and was chosen by Time Magazine in 2001 as one of the nation's best schools at helping first-year students excel.</p>
+established$$$@@@%%%<p>The Valencia Foundation $68 million endowment is about 12 times the average community college endowment, which reflects the abnormally large commitment of local business, organizations, and individuals, including the foundation board of directors.
+nickname$$$@@@%%%People on the Board of Directors are as follows.</p>
+image_name$$$@@@%%%<ul>
+image_name$$$@@@%%%  <li>Chairman, Raymer Maguire III</li>
+vice_chancellor$$$@@@%%%  <li>Vice Chairman, Bertica Cabrera-Morris</li>
+image_name$$$@@@%%%  <li>Trustee, Jerry Buchanan</li>
+image_name$$$@@@%%%  <li>Trustee, Lew Oliver</li>
+image_name$$$@@@%%%  <li>Trustee, Maria Grulich Toumazos</li>
+image_name$$$@@@%%%  <li>Trustee, Lori Kifer</li>
+image_name$$$@@@%%%  <li>Trustee, Jo Quittschreiber</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p></p>
+established$$$@@@%%%<p>The seal of the college includes the coat of arms of <a>Valencia</a>, <a>Spain</a>, in the middle and the entire diamond design stems from it.</p>
+students$$$@@@%%%<h2>Statistics: Spring 2010 Student Characteristics (created January 2010)</h2>
+affiliations$$$@@@%%%<p>College-wide Headcount = 37,552 86.7% Returning Students 13.3% New Students 17.3% Previous Year High School Graduates 69.8% 24 years of age and younger</p>
+affiliations$$$@@@%%%<p>88% degree/certificate seeking students 60.1% AA 39.9% AS/AAS/Certificate</p>
+affiliations$$$@@@%%%<p>Race / Ethnicity Diversity Enrollment: 16.6% African American 5.1% Asian/Pacific Islander 38.7% Caucasian 28.9% Hispanic 0.3% Native American 10.4% Other</p>
+image_name$$$@@@%%%<h2>Financial Aid Growth</h2>
+image_name$$$@@@%%%<ul>
+vice_chancellor$$$@@@%%%  <li>$153.9 million financial aid awarded in 2009-2010.
+vice_chancellor$$$@@@%%%(End of year in 2008-2009 was $90 million).</li>
+city$$$@@@%%%<li>Valencia is the number two (2) public college in Florida and number twenty-eight (28) nationally (among all colleges) in Pell grant recipients.</li>
+vice_chancellor$$$@@@%%%<li>Over 27,000 students registered and received aid in 2009-2010.</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h2>Campuses</h2>
+established$$$@@@%%%<p>Valencia Community College operates a total of four campuses and three sites in its service area, which encompasses Orange County and Osceola County.</p>
+image_name$$$@@@%%%<h3>Campuses</h3>
+image_name$$$@@@%%%<ul>
+country$$$@@@%%%  <li>East Campus (701 North Econlockhatchee Trail Orlando FL, 32825)</li>
+vice_chancellor$$$@@@%%%  <li>Osceola Campus (1800 Denn John Lane Kissimmee FL, 34744)</li>
+country$$$@@@%%%  <li>West Campus (1800 South Kirkman Road Orlando FL, 32811)</li>
+motto$$$@@@%%%  <li>Winter Park Campus (850 West Morse Boulevard Winter Park FL, 32789)</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h3>Sites</h3>
+image_name$$$@@@%%%<ul>
+established$$$@@@%%%  <li><strong>Criminal Justice Institute</strong> The Criminal Justice Institute occupies a separate  state-of-the-art criminal justice training facility.
+established$$$@@@%%%The CJI is certified and approved by Florida Department of Law Enforcement (FDLE) to operate law enforcement and corrections academies, advanced courses and specialized training.
+established$$$@@@%%%Valencia is one of 4 colleges in Florida that trains Department of Juvenile Justice recruit officers.</li>
+type$$$@@@%%%<li><strong>Downtown Center</strong> Valencia's Downtown Center is located in the historic Chicone Building in downtown Orlando, at the corner of Orange Avenue and Church Street.
+country$$$@@@%%%The Downtown Center is home to the Office of the President, Academic Affairs, College &amp; Community Relations, Valencia Foundation, Valencia's Conference and Meeting Planning Services, and Workforce Development.</li>
+image_size$$$@@@%%%<li><strong>Valencia Enterprises</strong> is located at Sand Lake Center.
+established$$$@@@%%%Valencia Enterprises is the continuing education, training and employee development division of Valencia Community College serving businesses, government agencies, individuals and organizations of all sizes, across every industry throughout Central Florida.</li>
+president$$$@@@%%%<li><strong>Sand Lake Center</strong> is also home to Valencia's Center for Global Languages.
+image_size$$$@@@%%%Valencia's Center for Global Languages offers conversational English and Spanish courses, cultural diversity workshops, American sign language and corporate training programs.
+type$$$@@@%%%Valencia's Center for Global Languages prepares students for entry into a college degree program.</li>
+undergrad$$$@@@%%%<li><strong>Lake Nona High School</strong> is Valencia's newest location, where both dual-enrollment and credit classes are offered to Valencia students.</li>
+image_name$$$@@@%%%</ul>
+website$$$@@@%%%<h2>Arts &amp; Entertainment Programs</h2>
+image_name$$$@@@%%%<ul>
+vice_chancellor$$$@@@%%%  <li>The college's strengths lie in <a>media</a>-related courses.
+established$$$@@@%%%In an interview with Jane Pauley on <a>The Today Show</a> in 1990, <a>Director</a> <a>Steven Spielberg</a> called Valencia's film program one of the best available in the nation [<a>http://www.valenciacc.edu/asdegrees/arts/fpt.cfm</a>].
+established$$$@@@%%%The school trains film technicians who gain experience by participating in feature films.
+established$$$@@@%%%As a result, the students have had the opportunity to work with famous <a>filmmakers</a> such as <a>George A. Romero</a> and four-time <a>Academy Award</a>-winning director <a>Robert Wise</a>, in addition to film, stage, and television stars <a>Julie Harris</a>, <a>Talia Shire</a>, <a>Ed Begley, Jr.</a>, <a>Sally Kellerman</a>, <a>Mickey Rooney</a>, <a>Wood Harris</a>, <a>Ja Rule</a>, <a>Ruby Dee</a>, among others.
+established$$$@@@%%%The program was also spotlighted as one of 6 college film programs to watch in the January 2011 edition of the <a>International Cinematographers Guild</a> Magazine.</li>
+established$$$@@@%%%<li><a>Howie Dorough</a> of the <a>Backstreet Boys</a> and <a>Chris Kirkpatrick</a> of <a>*NSYNC</a> both attended Valencia's music department.</li>
+image_size$$$@@@%%%<li><a>Bob Newhart</a> briefly taught at the college during 2003.</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h2>Intramurals</h2>
+nickname$$$@@@%%%<p>Although Valencia is not a member of the <a>National Junior College Athletic Association</a> (NJCAA), <a>Intramural sports</a> are available.
+mascot$$$@@@%%%The Valencia Community College bowl team has won five national community college championships at NAQT and Six State championships.</p>
+image_name$$$@@@%%%<h2>Notable people</h2>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%<h2>References</h2>
+image_name$$$@@@%%%<p><img></p>
+image_name$$$@@@%%%<h2>External links</h2>
+image_name$$$@@@%%%<ul>
+affiliation$$$@@@%%%  <li><a>Official website</a></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%
+image_name$$$@@@%%%

@@ -1,0 +1,16 @@
+<li>Department of Aquaculture</li>
+<li>Department of Biotechnology</li>
+<li>Department of Biochemistry</li>
+<li>Department of Chemistry</li>
+<li>Department of Sociology</li>
+<li>Department of Economics</li>
+<li>Department of Telugu &amp; Oriental Languages</li>
+<li>Department of Zoology</li>
+<li>Department of Botany</li>
+<li>Department of Commerce &amp; Business Administration</li>
+<li>Department of Geology</li>
+<li>Department of Mathematics</li>
+<li>Department of Physics</li>
+<li>Department of Rural development</li>
+<li>Department of Statistics</li>
+<li>Department of Women's Studies</li>

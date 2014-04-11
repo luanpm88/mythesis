@@ -1,0 +1,3 @@
+<p>Education Centres</p>
+<p><strong>&lt;big&gt;Education&lt;/big&gt;</strong></p>
+<p>The SCSSE and the SISAT are both members of the <a>Microsoft Developer Network Academic Alliance</a>.</p>

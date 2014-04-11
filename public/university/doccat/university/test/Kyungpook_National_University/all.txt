@@ -1,0 +1,173 @@
+image_name$$$@@@%%%<p> </p>
+affiliation$$$@@@%%%<p><strong>Kyungpook National University</strong> (KNU) (&#xacbd;&#xbd81;&#xb300;&#xd559;&#xad50;) is a leading national university in <a>Daegu</a>, <a>South Korea</a>.
+type$$$@@@%%%The university is one of 10 <a>Flagship Korean National Universities</a>.
+type$$$@@@%%%It is one of the three best recognized and oldest national universities with <a>Seoul National University</a> and <a>Pusan National University</a>.
+established$$$@@@%%%The university was established in September 1946, succeeding the former Daegu Teacher's College, Daegu Agricultural College, and Daegu Medical College.
+affiliations$$$@@@%%%In 2008, it merged with Sangju National University.
+image_name$$$@@@%%%</p>
+website$$$@@@%%%<h2>Overview of KNU's history</h2>
+vice_chancellor$$$@@@%%%<p>1900s Daegu Dong-in Hospital founded.
+image_name$$$@@@%%%</p>
+affiliations$$$@@@%%%<p>1910s Renamed as Daegu Jahae Hospital.
+image_name$$$@@@%%%</p>
+vice_chancellor$$$@@@%%%<p>1920s Renamed as Kyungsangpook-do Provincial Daegu Hospital.
+image_name$$$@@@%%%</p>
+established$$$@@@%%%<p>1930s Opened a school as Daegu Medical school in 1933.
+image_name$$$@@@%%%</p>
+established$$$@@@%%%<p>1940s National College established in 1946 with College of Education, College of Medicine, and College of Agriculture.
+image_name$$$@@@%%%</p>
+established$$$@@@%%%<p>1950s Establishment of College of Liberal Arts and Sciences and College of Law and Political Science.
+nickname$$$@@@%%%The name was changed to Kyungpook National University (KNU) in 1951.
+affiliations$$$@@@%%%Dr. Ko, Byung-Gan assumed office as first president of KNU (1952).
+established$$$@@@%%%The Graduate School was established in 1953.
+image_name$$$@@@%%%</p>
+established$$$@@@%%%<p>1960s Main administration building built in 1960 and Graduate School of Education established in 1969.
+image_name$$$@@@%%%</p>
+established$$$@@@%%%<p>1970s Establishment of College of Engineering (1970), College of Economics and Commerce (1972), and College of Dentistry (1973).
+established$$$@@@%%%First overseas academic cooperative relationship initiated with State University of New York at Buffalo in 1973.
+image_name$$$@@@%%%</p>
+nickname$$$@@@%%%<p>1980s Establishment of Graduate School of Public Administration (1980), Graduate School of Business Administration (1981), Graduate School of Public Health (1981), College of Music &amp; Visual Arts (1982), Graduate School of Industry (1985), and College of Veterinary Medicine (1988).
+website$$$@@@%%%College of Liberal Arts and Sciences is divided into College of Humanities and Social Sciences and College of Natural Sciences (1981).
+established$$$@@@%%%College of Humanities and Social Sciences is divided into College of Humanities and College of Social Sciences (1982).
+established$$$@@@%%%College of Law and Political Science is renamed as College of Law (1982).
+image_name$$$@@@%%%</p>
+established$$$@@@%%%<p>1990s Establishment of Graduate School of Agricultural Development, College of Human Ecology (1992), Graduate School of International Studies (1996), and Graduate School of Policy and Information (1999).
+image_name$$$@@@%%%</p>
+closed$$$@@@%%%<p>2000s Establishment of Undeclared Majors (2000), School of Electrical Engineering &amp; Computer Science (2001), and Graduate School of Forensic &amp; Investigative Science (2003).</p>
+students$$$@@@%%%<p>The university takes great pride in its extensive and active alumni, many of whom are in leadership positions throughout Korean society.
+nickname$$$@@@%%%The iniversity is concentrating its efforts to become a leading academic institution in the 21st century by contributing on the community, regional, national, and international level towards a better future.</p>
+image_name$$$@@@%%%<h2>Academics</h2>
+affiliation$$$@@@%%%<h3>Undergraduate colleges</h3>
+image_name$$$@@@%%%<ul>
+established$$$@@@%%%  <li>College of Humanities</li>
+website$$$@@@%%%  <li>College of Social Sciences</li>
+website$$$@@@%%%  <li><a>College of Natural Sciences</a></li>
+established$$$@@@%%%  <li>College of Business Administration</li>
+established$$$@@@%%%  <li>College of Law</li>
+established$$$@@@%%%  <li>College of Engineering</li>
+website$$$@@@%%%  <li>College of Agriculture and Life Sciences</li>
+nickname$$$@@@%%%  <li>College of Music and Visual Art</li>
+head_label$$$@@@%%%  <li>School of Medicine</li>
+head_label$$$@@@%%%  <li>School of Dentistry</li>
+established$$$@@@%%%  <li>College of Veterinary Medicine</li>
+established$$$@@@%%%  <li>College of Human Ecology</li>
+established$$$@@@%%%  <li>College of Nursing</li>
+established$$$@@@%%%  <li><a>School of Electrical Engineering and Computer Science</a></li>
+principal$$$@@@%%%  <li>Teacher's College</li>
+colors$$$@@@%%%  <li>Undeclared Majors (freshmen-only college)</li>
+image_name$$$@@@%%%</ul>
+type$$$@@@%%%<h3>Graduate schools</h3>
+image_name$$$@@@%%%<ul>
+established$$$@@@%%%  <li><a>Law School</a></li>
+established$$$@@@%%%  <li><a>School of Medicine</a></li>
+established$$$@@@%%%  <li><a>School of Dentistry</a></li>
+established$$$@@@%%%  <li><a>General Graduate School</a></li>
+type$$$@@@%%%  <li><a>Graduate School of Public Administration</a></li>
+established$$$@@@%%%  <li><a>Graduate School of International Studies</a></li>
+type$$$@@@%%%  <li><a>Graduate School of Education</a></li>
+established$$$@@@%%%  <li><a>Graduate School of Business Administration</a></li>
+type$$$@@@%%%  <li><a>Graduate School of Public Health</a></li>
+established$$$@@@%%%  <li><a>Graduate School of Idustry</a></li>
+type$$$@@@%%%  <li><a>Graduate School of Agricultural Development</a></li>
+established$$$@@@%%%  <li><a>Graduate School of Policy and Information</a></li>
+established$$$@@@%%%  <li><a>Graduate School of Forensic and Investigative Science</a></li>
+established$$$@@@%%%  <li><a>Graduate School of Science and Technology</a></li>
+image_name$$$@@@%%%</ul>
+type$$$@@@%%%<h2>Public transit</h2>
+website$$$@@@%%%<h3>Daegu Sankyeok campus (Main Campus)</h3>
+image_name$$$@@@%%%<ul>
+image_size$$$@@@%%%  <li>Subway: <a>Daegu Subway Line 1</a> Sincheon(Kyungpook National University) Station</li>
+image_name$$$@@@%%%  <li>Bus
+image_name$$$@@@%%%    <ul>
+city$$$@@@%%%      <li>Main gate, East gate: 503, 410, 410-1, 937, Bukgu 2, Donggu 2</li>
+city$$$@@@%%%      <li>North gate: 300, 305, 323, 323-1, 706, 719, 410, 410-1</li>
+image_size$$$@@@%%%      <li>West gate: Circle 2-1, 300, 303, 303-1, 305, 403, 623, 410, 410-1, Donggu 1, Donggu 1-1</li>
+image_name$$$@@@%%%    </ul>
+image_name$$$@@@%%%  </li>
+image_name$$$@@@%%%</ul>
+city$$$@@@%%%<h3>Daegu Dongin campus (School of Medicine, Kyungpook National Univ.
+image_name$$$@@@%%%Hospital)</h3>
+image_name$$$@@@%%%<ul>
+affiliation$$$@@@%%%  <li>Subway: <a>Daegu Subway Line 2</a> Kyungpook National University Hospital Station</li>
+image_size$$$@@@%%%  <li>Bus: 305, 323, 323-1, 403, 425, 805, Bukgu 2, Donggu 1-1</li>
+image_name$$$@@@%%%</ul>
+city$$$@@@%%%<h3>Daegu Samdeok campus (School of Dentistry, Kyungpook National Univ.
+image_name$$$@@@%%%Hospital)</h3>
+image_name$$$@@@%%%<ul>
+affiliation$$$@@@%%%  <li>Subway: <a>Daegu Subway Line 2</a> Kyungpook National University Hospital Station</li>
+image_size$$$@@@%%%  <li>Bus: Rapid 2, 305, 309, 420, 420-1, 509, 609, 649, 805, 939, Bukgu 2 Donggu 1-1</li>
+image_name$$$@@@%%%</ul>
+website$$$@@@%%%<h3>Sangju campus</h3>
+image_name$$$@@@%%%<ul>
+affiliation$$$@@@%%%  <li>Railroad: <a>Korail</a> <a>Gyeongbu Line</a> Sangju Station</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h2>Notable Alumni</h2>
+website$$$@@@%%%<h3>Arts &amp; Entertainment</h3>
+image_name$$$@@@%%%<ul>
+doctoral$$$@@@%%%  <li><a>Kim Ch'un-su</a> (&#xae40;&#xcd98;&#xc218;), poet </li>
+head_label$$$@@@%%%  <li><a>Lee Chang-dong</a> (&#xc774;&#xcc3d;&#xb3d9;), film director who won the prestigious Director's Award at 2003 Venice Film Festival, former the minister of Culture and Tourism</li>
+affiliation$$$@@@%%%  <li><a>Nana Keum</a> (&#xae08;&#xb098;&#xb098;), 2002 Miss Korea 'Jin'</li>
+doctoral$$$@@@%%%  <li><a>Uhm Ji-won</a> (&#xc5c4;&#xc9c0;&#xc6d0;), actress</li>
+president$$$@@@%%%  <li>Lee Sang Mi (&#xc774;&#xc0c1;&#xbbf8;) , singer (The First Award from 2005 MBC Campus Song Festival), actress</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h3>Press</h3>
+image_name$$$@@@%%%<ul>
+type$$$@@@%%%  <li>Lee Jin Suk (&#xc774;&#xc9c4;&#xc219;), current the Public relations director of <a>MBC</a>, the first war correspondent in Korea </li>
+image_size$$$@@@%%%  <li>Choi Seung Ho (<a>&#xcd5c;&#xc2b9;&#xd638;</a>), chief producer(CP) at <a>MBC</a></li>
+nickname$$$@@@%%%  <li>Wang Jong Geun (&#xc655;&#xc885;&#xadfc;), former announcer at <a>KBS</a></li>
+established$$$@@@%%%  <li>So Won Young (&#xc18c;&#xc6d0;&#xc601;), current the CEO of Ulsan<a>MBC</a></li>
+type$$$@@@%%%  <li>Wang Hyeon Cheol (&#xc655;&#xd604;&#xcca0;), current the chief of <a>KBS</a> Gangneung</li>
+type$$$@@@%%%  <li>Lim Oh Jin (&#xc784;&#xc624;&#xc9c4;), current the chief of <a>KBS</a> Pohang</li>
+head_label$$$@@@%%%  <li>Ryu Hee-lim (&#xb958;&#xd76c;&#xb9bc;), current the director of Planning and Management of <a>YTN</a></li>
+head_label$$$@@@%%%  <li>Yoon Doo Hyeon (&#xc724;&#xb450;&#xd604;), current the vice director of Newsroom of <a>YTN</a></li>
+president$$$@@@%%%  <li>Lee Eung Jin (&#xc774;&#xc751;&#xc9c4;), current the director of TV Drama production of <a>KBS</a> </li>
+head_label$$$@@@%%%  <li>Kang Dong Gyun (&#xac15;&#xb3d9;&#xade0;), current the director of Radio 2CP of <a>MBC</a></li>
+nickname$$$@@@%%%  <li>Kim Yoon Gon (&#xae40;&#xc724;&#xace4;), reporter at <a>The Chosun Ilbo</a>, former the chief of the Korea Copy Editors Association </li>
+country$$$@@@%%%  <li>Kim Deok Jae (&#xae40;&#xb355;&#xc7ac;), producer at <a>KBS</a>, former the chief of the Korea Producers&amp;Directors Association</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h3>Politics</h3>
+image_name$$$@@@%%%<ul>
+nickname$$$@@@%%%  <li><a>Park Chung-hee</a> (&#xbc15;&#xc815;&#xd76c;), former <a>President of South Korea</a> (1961~1979)Who has been credited with the industrialization of Korea through export-led growth</li>
+country$$$@@@%%%  <li>Kim Yoon Hwan (&#xae40;&#xc724;&#xd658;), former the Minister of State for Political Affairs, vice chairman of <a>Grand National Party</a> of <a>South Korea</a>  </li>
+president$$$@@@%%%  <li>Lee Kang Cheol (&#xc774;&#xac15;&#xcca0;), former the chief presidential secretary for social affairs</li>
+image_size$$$@@@%%%  <li>Song Young Sun (&#xc1a1;&#xc601;&#xc120;), 17th - 18th the member of <a>National Assembly of South Korea</a></li>
+established$$$@@@%%%  <li>Lee Cheol Woo (&#xc774;&#xcca0;&#xc6b0;), 18th the member of <a>National Assembly of South Korea</a></li>
+country$$$@@@%%%  <li>Kwak Jung Hwan (&#xacfd;&#xc815;&#xd658;), current the president of Korean Professional Football League (<a>K-League</a>), former the chairman of Peace United Family Party of <a>South Korea</a></li>
+image_name$$$@@@%%%</ul>
+nickname$$$@@@%%%<h3>Business</h3>
+image_name$$$@@@%%%<ul>
+image_size$$$@@@%%%  <li>Bae Sang Myeon (&#xbc30;&#xc0c1;&#xba74;), founder of <a>KOOKSOONDANG</a></li>
+type$$$@@@%%%  <li><a>Kim Soon Taek</a> (&#xae40;&#xc21c;&#xd0dd;), current the vice chairman of <a>Samsung Group</a>, former CEO of <a>Samsung SDI</a></li>
+type$$$@@@%%%  <li>Ahn Won Hyeong (&#xc548;&#xc6d0;&#xd615;), current the CLO of <a>LS Cable</a> </li>
+campus$$$@@@%%%  <li>Kim Kwang Soo (&#xae40;&#xad11;&#xc218;), founder and current the CEO of <a>NICE Group</a></li>
+type$$$@@@%%%  <li>Lee Soo-il (&#xc774;&#xc218;&#xc77c;), current the CEO of <a>Hankook Tire</a> America </li>
+type$$$@@@%%%  <li>Park Sae Jun (&#xbc15;&#xc138;&#xc900;), current the CEO of <a>Amway</a> Korea</li>
+head_label$$$@@@%%%  <li>Kim Soon Hwa (&#xae40;&#xc21c;&#xd654;), current the vice-president of <a>Hyundai Mobis</a></li>
+image_size$$$@@@%%%  <li>Oh Sang Soo (&#xc624;&#xc0c1;&#xc218;), former CEO of <a>Mando Corporation</a></li>
+nickname$$$@@@%%%  <li>Kim Jong-en (&#xae40;&#xc885;&#xc740;), former CEO of <a>Hyundai Motors</a> America</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h3>Academia</h3>
+image_name$$$@@@%%%<ul>
+established$$$@@@%%%  <li><a>Kim Soon-kwon</a>(&#xae40;&#xc21c;&#xad8c;), better known in Korea as &quot;Dr.
+established$$$@@@%%%Corn&quot; or in Africa as &quot;Green Revolutionary&quot;,was nominated to Nobel Prize in 1992, 1993 and again in 1996.
+image_name$$$@@@%%%</li>
+country$$$@@@%%%  <li>Park Chan Suk(&#xbc15;&#xcc2c;&#xc11d;), former president of Kyungpook National University, 17th the member of <a>National Assembly of South Korea</a></li>
+head_label$$$@@@%%%  <li>Kim Young-ho(&#xae40;&#xc601;&#xd638;), current president of Yuhan University, former the Minister of Commerce, Industry and Energy  </li>
+president$$$@@@%%%  <li>Kim Sung-soo(&#xae40;&#xc131;&#xc218;), current president of Kosin University</li>
+president$$$@@@%%%  <li>Sohn Seok rak(&#xc190;&#xc11d;&#xb77d;), current president of Daegu National University of Education</li>
+president$$$@@@%%%  <li>Jung Hong Sub(&#xc815;&#xd64d;&#xc12d;), current president of Silla University, former the chief of Presidential Committee on Education Innovation</li>
+country$$$@@@%%%  <li>Lee Sang Gyu(&#xc774;&#xc0c1;&#xaddc;), former the Director General of The National Academy of the Korean Language</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h2>References</h2>
+image_name$$$@@@%%%<p>&lt;references/&gt;</p>
+image_name$$$@@@%%%<h2>External links</h2>
+image_name$$$@@@%%%<ul>
+affiliation$$$@@@%%%  <li><a>Kyungpook National University</a></li>
+established$$$@@@%%%  <li><a>School of Electrical Engineering and Computer Science</a></li>
+website$$$@@@%%%  <li><a>Department of Astronomy &amp; Atmospheric Sciences </a></li>
+established$$$@@@%%%  <li><a>Department of Politics &amp; Diplomacy </a></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p><img></p>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%
+image_name$$$@@@%%%

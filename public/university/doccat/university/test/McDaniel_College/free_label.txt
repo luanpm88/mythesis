@@ -1,0 +1,3 @@
+Newer buildings on campus include the Science Hall, gymnasium, library, and student union center.
+<li>Art</li>
+<li>Studio Art </li>

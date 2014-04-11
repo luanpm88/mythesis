@@ -1,0 +1,6 @@
+<p>Eisenhart Hall is the oldest classroom building on campus.
+<p>Science and Humanities building is an academic building that contains all <a>science</a> labs, a performance <a>auditorium</a>, and several music classrooms.
+<h2>Student life</h2>
+<li><a>Criminal Justice</a> Student Organization</li>
+<li>Student Nurses Club</li>
+<li>Student Senate</li>

@@ -1,0 +1,4 @@
+<li>College of Liberal Arts and Social Sciences (CLASS)
+<li>College of Natural and Applied Sciences (CNAS)
+<li>Division of Natural Sciences </li>
+<li>Division of Mathematical Sciences</li>

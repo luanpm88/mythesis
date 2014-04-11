@@ -1,0 +1,194 @@
+established$$$@@@%%%<p>The following is a list of colleges, seminaries and universities owned and operated by the <a>Seventh-day Adventist Church</a> (with exceptions noted).</p>
+image_name$$$@@@%%%<p></p>
+affiliation$$$@@@%%%<h2><a>Africa</a></h2>
+image_name$$$@@@%%%<ul>
+established$$$@@@%%%  <li><a>Adventist University of Africa</a>, <a>Nairobi</a>, <a>Kenya</a></li>
+affiliation$$$@@@%%%  <li><a>Adventist University at Lukanga</a>, <a>Butembo</a>, <a>North Kivu</a>, <img></li>
+affiliation$$$@@@%%%  <li><a>Adventist University Cosendai</a>, <a>Yaounde</a>, <img></li>
+established$$$@@@%%%  <li><a>Universite Adventiste d'Afrique Centrale</a> (Adventist University of Central Africa), <a>Kigali</a>, <img></li>
+affiliations$$$@@@%%%  <li><a>Adventist University Zurcher</a>[<a>http://sites.google.com/site/uazcom/</a>],
+affiliation$$$@@@%%%<a>Sambaina</a>, <a>Antsirabe</a>, <img></li>
+established$$$@@@%%%  <li><a>Babcock University</a>, <a>Ogun State</a>, <img></li>
+affiliation$$$@@@%%%  <li><a>Seminario Adventista do Bongo (Bongo Adventist Seminary)</a>, <a>Huambo</a>, <img></li>
+affiliation$$$@@@%%%  <li><a>Bugema University</a>, <a>Kampala</a>, <img></li>
+affiliation$$$@@@%%%  <li><a>Ethiopian Adventist College</a>, <img></li>
+established$$$@@@%%%  <li><a>Helderberg College</a>, <a>Somerset West</a>, <img> </li>
+established$$$@@@%%%  <li><a>Malawi Adventist University</a> (formally Lakeview College), <a>Ntcheu</a>, <img></li>
+free_label$$$@@@%%%  <li><a>Seminario Adventista do Setimo Dia de Mocambique (Mozambique Adventist Seminary)</a>, <img></li>
+affiliation$$$@@@%%%  <li><a>Solusi University</a>, <a>Bulawayo</a>, <img></li>
+affiliation$$$@@@%%%  <li><a>Tanzania Adventist College</a>, <a>Usa River</a>, <img></li>
+established$$$@@@%%%  <li><a>University of Eastern Africa, Baraton</a>, <a>Eldoret</a>, <img></li>
+established$$$@@@%%%  <li><a>Valley View University</a>, <a>Oyibi</a>, <img></li>
+affiliation$$$@@@%%%  <li><a>Zambia Adventist University</a>, <a>Monze</a>, <img></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p>17 Total</p>
+free_label$$$@@@%%%<h2><a>East Asia</a></h2>
+image_name$$$@@@%%%<ul>
+affiliation$$$@@@%%%  <li><a>Hong Kong Adventist College</a>, <a>Sai Kung</a>, <a>New Territories</a>, <a>Hong Kong</a> (<img>)</li>
+affiliation$$$@@@%%%  <li><a>Sahmyook Uimyeong Daehak (Sahmyook College)</a>, <img></li>
+established$$$@@@%%%  <li><a>Sahmyook Ganho Bogeon Daehak (Sahmyook Nursing and Health College)</a>, <img></li>
+affiliation$$$@@@%%%  <li><a>Sahmyook University</a>, <a>Nowon-gu</a>, <a>Seoul</a>, <img></li>
+affiliation$$$@@@%%%  <li><a>Saniku Gakuin College</a>, <a>Isumi-gun</a>, <a>Chiba-ken</a>, <img></li>
+affiliation$$$@@@%%%  <li><a>Taiwan Adventist College</a>, <a>Nantou County</a>, <img></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p>Total: 6</p>
+affiliation$$$@@@%%%<h2><a>Europe</a></h2>
+image_name$$$@@@%%%<ul>
+affiliation$$$@@@%%%  <li><a>Bogenhofen Seminary</a>, <img></li>
+established$$$@@@%%%  <li><a>Campus Adventiste du Saleve (Saleve Adventist University)</a>, <img></li>
+established$$$@@@%%%  <li><a>Theologische Hochschule Friedensau (Friedensau Adventist University)</a>, <img></li>
+established$$$@@@%%%  <li><a>Institutul Teologic Adventist (Romanian Adventist Theological Institute)</a>, <img></li>
+affiliation$$$@@@%%%  <li><a>Istituto Avventista di Cultura Biblica Villa Aurora (Italian Adventist College Villa Aurora)</a>, <img></li>
+affiliation$$$@@@%%%  <li><a>Newbold College</a>, <img></li>
+established$$$@@@%%%  <li><a>Scoala Postliceala Teologico-Sanitara Adventista de Ziua a Saptea Dr. Luca-Braila (Romanian Adventist College of Health)</a>, <img></li>
+image_size$$$@@@%%%  <li><a>Seminario Adventista de Espa&#x00f1;a (Spanish Adventist Seminary)</a>, <img></li>
+image_size$$$@@@%%%  <li><a>Teologick&#x00fd; semin&#x00e1;&#x0159; CASD (Sazava Theological Seminary)</a>, <img></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p>Total: 9</p>
+free_label$$$@@@%%%<h2><a>Central Europe and Middle East</a></h2>
+image_name$$$@@@%%%<ul>
+established$$$@@@%%%  <li><a>Adventista Teologiai Foiskola (Hungarian Theological Seminary)</a>,<img></li>
+affiliations$$$@@@%%%  <li><a>Adventisti&#x010d;ki teolo&#x0161;ki fakultet (Adriatic Union College))</a>[<a>http://www.adventisti.hr/atf.html</a>],
+image_name$$$@@@%%%<img></li>
+established$$$@@@%%%  <li><a>Beogradski Teolo&#x0161;ki Fakultet (Belgrade Theological Seminary)</a>,<img></li>
+established$$$@@@%%%  <li><a>Middle East University</a>  <img></li>
+affiliation$$$@@@%%%  <li><a>Pakistan Adventist Seminary</a>, <img></li>
+affiliations$$$@@@%%%  <li><a>Toivonlinnan Yhteiskoulu (Finland Junior College)</a>, [<a>http://fi.wikipedia.org/wiki/Toivonlinnan_yhteiskoulu</a>],
+image_name$$$@@@%%%<img></li>
+affiliations$$$@@@%%%  <li><a>Tyrifjord Videregaende Skole (Norwegian Junior College)</a>,[<a>http://www.tyrifjord.vgs.no/</a>],
+image_name$$$@@@%%%<img></li>
+former_names$$$@@@%%%  <li><a>Vejlefjordskolen (Danish Junior College)</a>, <img></li>
+established$$$@@@%%%  <li><a>Wy&#x017c;sza Szko&#x0142;a Teologiczno - Humanistyczna (The Higher School of Theology and Humanities)</a>[<a>http://www.wsth.pl</a>],
+image_name$$$@@@%%%<img></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p>Total: 9</p>
+established$$$@@@%%%<h2><a>Eastern Europe and Central Asia</a></h2>
+image_name$$$@@@%%%<ul>
+website$$$@@@%%%  <li><a>Ukrainsky gumanitarny institut (Ukrainian College of Arts and Sciences - UCAS)</a>, <img></li>
+established$$$@@@%%%  <li><a>Zaokskaya Dukhovnaya Akademiya (Zaoksky Adventist University)</a>, <img></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p>Total: 2</p>
+former_names$$$@@@%%%<h2><a>North America</a></h2>
+image_name$$$@@@%%%<ul>
+affiliation$$$@@@%%%  <li><a>Andrews University</a>, <a>Berrien Springs, Michigan</a>, <img></li>
+affiliation$$$@@@%%%  <li><a>Atlantic Union College</a>, <a>South Lancaster, Massachusetts</a>, <img></li>
+affiliation$$$@@@%%%  <li><a>Canadian University College</a>, <a>Lacombe, Alberta</a>, <img></li>
+established$$$@@@%%%  <li><a>Florida Hospital College of Health Sciences</a>, <a>Orlando, Florida</a>, <img></li>
+affiliation$$$@@@%%%  <li><a>Griggs University</a>, <a>Silver Spring, Maryland</a>, <img></li>
+established$$$@@@%%%  <li><a>Kettering College of Medical Arts</a>, <a>Kettering</a>, <a>Ohio</a>, <img></li>
+free_label$$$@@@%%%  <li><a>La Sierra University</a>, <a>Riverside, California</a>, <img></li>
+established$$$@@@%%%  <li><a>Loma Linda University</a>, <a>Loma Linda, California</a>, <img></li>
+affiliation$$$@@@%%%  <li><a>Oakwood University</a>, <a>Huntsville, Alabama</a>, <img></li>
+affiliation$$$@@@%%%  <li><a>Pacific Union College</a>, <a>Angwin</a>, <a>California</a>, <img></li>
+established$$$@@@%%%  <li><a>Southern Adventist University</a>, <a>Collegedale, Tennessee</a>, <img></li>
+affiliation$$$@@@%%%  <li><a>Southwestern Adventist University</a>, <a>Keene, Texas</a>, <img></li>
+affiliation$$$@@@%%%  <li><a>Union College</a>, <a>Lincoln, Nebraska</a>, <img></li>
+established$$$@@@%%%  <li><a>Universidad de Montemorelos (University of Montemorelos)</a>, <a>Montemorelos</a>, <a>Nuevo Le&#x00f3;n</a>, <img></li>
+established$$$@@@%%%  <li><a>Universidad de Navojoa (University of Navojoa)</a>, <a>Navojoa</a>, <a>Sonora</a>, <img></li>
+affiliation$$$@@@%%%  <li><a>Universidad Linda Vista (Linda Vista University)</a>, <a>Pueblo Nuevo</a>, <a>Chiapas</a>, <img></li>
+established$$$@@@%%%  <li><a>Walla Walla University</a>, <a>College Place, Washington</a>, <img></li>
+established$$$@@@%%%  <li><a>Washington Adventist University</a>, <a>Takoma Park, Maryland</a>, <img></li>
+image_name$$$@@@%%%</ul>
+closed$$$@@@%%%<p>Total: 18</p>
+nickname$$$@@@%%%<p>Not church owned, but closely aligned with the Seventh-day Adventist Church:</p>
+image_name$$$@@@%%%<ul>
+established$$$@@@%%%  <li>Hartland College, a division of <a>Hartland Institute</a>, <a>Rapidan, Virginia</a>, <img></li>
+affiliation$$$@@@%%%  <li><a>Ouachita Hills College</a>, <a>Amity</a>, <a>AR</a>, <img></li>
+established$$$@@@%%%  <li>Weimar College, a division of <a>Weimar Institute</a>, <a>Weimar, CA</a>, <img></li>
+image_size$$$@@@%%%  <li><a>AIMU-WAU Centre For Medical Science</a>, <a>Takoma Park ,Maryland</a>,<img></li>
+image_name$$$@@@%%%</ul>
+established$$$@@@%%%<h2><a>Inter-America</a> (including the Caribbean and Central America)</h2>
+image_name$$$@@@%%%<ul>
+established$$$@@@%%%  <li><a>Universidad Adventista de las Antillas (Antillean Adventist University)</a>, <a>Mayag&#x00fc;ez</a>, <img></li>
+established$$$@@@%%%  <li><a>University of the Southern Caribbean</a>, <img></li>
+image_size$$$@@@%%%  <li><a>Universidad Adventista de Centro America (Central American Adventist University)</a>, <img></li>
+free_label$$$@@@%%%  <li><a>Seminario Adventista de Cuba (Cuba Adventist Seminary)</a>, <img></li>
+established$$$@@@%%%  <li><a>Universidad Adventista Dominicana (Dominican Adventist University)</a>, <img></li>
+affiliation$$$@@@%%%  <li><a>Universit&#x00e9; Adventiste d'Hait&#x00ef;, (Haitian Adventist University)</a>, <a>Diquini</a>, <img></li>
+established$$$@@@%%%  <li><a>Inter-American Adventist Theological Seminary</a>, <a>Florida</a>, <img> (technically in North America)</li>
+affiliation$$$@@@%%%  <li><a>Northern Caribbean University</a>, <a>Mandeville</a>, <img></li>
+established$$$@@@%%%  <li><a>Hyacinth Chen Nursing School</a>, <img></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p>Total: 9</p>
+nickname$$$@@@%%%<p>Not church owned, but closely aligned with the Seventh-day Adventist Church:</p>
+image_name$$$@@@%%%<ul>
+image_size$$$@@@%%%  <li><a>American International Medical University</a>, <a>Saint Lucia</a></li>
+image_name$$$@@@%%%</ul>
+established$$$@@@%%%<h2><a>South America</a></h2>
+image_name$$$@@@%%%<ul>
+image_size$$$@@@%%%  <li><a>Centro Universit&#x00e1;rio Adventista de S&#x00e3;o Paulo (Brazil Adventist University)</a>, <img></li>
+free_label$$$@@@%%%  <li><a>Univerisidad Adventista de Colombia(Colombia Adventist University)</a>, <img></li>
+affiliation$$$@@@%%%  <li><a>Faculdade Adventista da Amazonia (Amazonia Adventist College)</a>, <img></li>
+free_label$$$@@@%%%  <li><a>Faculdade Adventista de Minas (Minas Adventist College)</a>, <img></li>
+image_size$$$@@@%%%  <li><a>Faculdade Adventista do Paran&#x00e1; (Paran&#x00e1; Adventist College)</a>, <img></li>
+affiliations$$$@@@%%%  <li><a>Faculdade Adventista da Bahia (Northeast Brazil College)</a>[<a>http://www.adventista.edu.br</a>],
+image_name$$$@@@%%%<img></li>
+free_label$$$@@@%%%  <li><a>Instituto Universitario Adventista de Venezuela (Venezuelan Adventist University)</a>, <img></li>
+established$$$@@@%%%  <li><a>Seminario Adventista Latinoamericano de Teologia (Latin-American Adventist Theological Seminary)</a>, <img></li>
+established$$$@@@%%%  <li><a>Universidad Adventista de Bolivia (Adventist University of Bolivia)</a>, <a>Cochabamba</a>, <img></li>
+free_label$$$@@@%%%  <li><a>Universidad Adventista de Chile (Chile Adventist University)</a>, <img></li>
+affiliation$$$@@@%%%  <li><a>Universidad Adventista del Plata (River Plate Adventist University)</a>, <a>Entre R&#x00ed;os</a>, <img></li>
+affiliation$$$@@@%%%  <li><a>Universidad Peruana Uni&#x00f3;n (Peruvian Union University)</a>, <a>Lima</a>, <img></li>
+image_name$$$@@@%%%</ul>
+type$$$@@@%%%<p>Total: 10</p>
+established$$$@@@%%%<h2><a>South Asia</a></h2>
+image_name$$$@@@%%%<ul>
+affiliation$$$@@@%%%  <li><a>Dhaka Adventist Pre Seminary</a>, <a>Dhaka</a>,<img></li>
+affiliation$$$@@@%%%  <li><a>Flaiz Adventist College</a>, <a>Narsapur</a>, <img></li>
+established$$$@@@%%%  <li><a>Lakpahana Adventist College and Seminary</a>, <img></li>
+affiliation$$$@@@%%%  <li><a>Lowry Memorial College</a>, <a>Bangalore</a>, <img></li>
+established$$$@@@%%%  <li><a>METAS of Seventh-day Adventist College</a>, <a>Surat</a>, <img></li>
+affiliation$$$@@@%%%  <li><a>Northeast Adventist College</a>, <a>Shillong</a>, <img></li>
+affiliation$$$@@@%%%  <li><a>Roorkee Adventist College</a>, <a>Roorkee</a>, <img></li>
+affiliation$$$@@@%%%  <li><a>Spicer Memorial College</a>, <a>Pune</a>,<img></li>
+type$$$@@@%%%  <li><a>Seventh-day Adventist Higher Secondary School</a>, <a>Navsari</a>, <a>Gujarat</a>, India</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p>Total: 7</p>
+nickname$$$@@@%%%<p>Not church run, but closely aligned with the Seventh-day Adventist Church:</p>
+image_name$$$@@@%%%<ul>
+established$$$@@@%%%  <li><a>Mount Zion College of Engineering and Technology</a>, <a>Pudukkottai</a>, <img></li>
+established$$$@@@%%%  <li><a>Mount Zion College of Nursing</a>, <a>Pudukkottai</a>, <img></li>
+image_name$$$@@@%%%</ul>
+affiliation$$$@@@%%%<h2><a>Southeast Asia</a></h2>
+image_name$$$@@@%%%<ul>
+type$$$@@@%%%  <li><a>Adventist International Institute of Advanced Studies</a>, <a>Lalaan</a>, <a>Silang</a>, <a>Cavite</a>,<img></li>
+established$$$@@@%%%  <li><a>Adventist University of the Philippines</a>, Puting Kahoy, <a>Silang, Cavite</a>, <img></li>
+affiliation$$$@@@%%%  <li><a>Asia-Pacific International University</a>, <a>Muak Lek</a>, <a>Saraburi province</a>, <img></li>
+affiliation$$$@@@%%%  <li><a>Central Philippine Adventist College</a>, <a>Murcia</a>, <a>Negros Occidental</a>, <img></li>
+affiliation$$$@@@%%%  <li><a>Indonesian Adventist University</a>, <a>Parongpong</a>, <a>Bandung</a>, <img></li>
+affiliation$$$@@@%%%  <li><a>Mountain View College</a>, <a>Valencia City, Bukidnon</a>, <a>Mindanao</a>, <img></li>
+image_size$$$@@@%%%  <li><a>Manila Adventist Medical Center and Colleges</a>, <a>Manila</a>, <img></li>
+established$$$@@@%%%  <li><a>Mindanao Sanitarium and Hospital College</a>, <a>Iligan City</a>, <a>Mindanao</a>, <img></li>
+affiliation$$$@@@%%%  <li><a>Myanmar Union Adventist Seminary</a>, <a>Myaungmya</a>, <img></li>
+affiliation$$$@@@%%%  <li><a>Naga View Adventist College</a>, <a>Panicuason</a>, <a>Naga City</a>, <a>Luzon</a>, <img></li>
+affiliation$$$@@@%%%  <li><a>Northern Luzon Adventist College</a>, <a>Artacho</a>, <a>Sison</a>, <a>Pangasinan</a>, <a>Luzon</a>, <img></li>
+affiliation$$$@@@%%%  <li><a>South Philippine Adventist College</a>, <a>Davao del Sur</a>, <img></li>
+affiliation$$$@@@%%%  <li><a>Surya Nusantara Adventist College</a>, <a>Pematang Siantar</a>, <a>North Sumatra</a>, <img></li>
+affiliation$$$@@@%%%  <li><a>Universitas Klabat (Mount Klabat College)</a>, <a>Airmadidi</a>, <a>North Sulawesi</a>, <img></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p>Total: 14</p>
+established$$$@@@%%%<h2><a>South Pacific &amp; Oceania</a></h2>
+image_name$$$@@@%%%<ul>
+affiliation$$$@@@%%%  <li><a>Avondale College</a>, <a>Cooranbong</a>, <a>Lake Macquarie</a>, <a>New South Wales</a>, <img></li>
+affiliation$$$@@@%%%  <li><a>Fulton College</a>, <a>Tailevu</a>, <img></li>
+established$$$@@@%%%  <li><a>Mamarapha College</a>, <a>Karragullen</a>, <a>Western Australia</a>, <img></li>
+affiliation$$$@@@%%%  <li><a>Pacific Adventist University</a>, <a>Port Moresby</a>, <img></li>
+affiliation$$$@@@%%%  <li><a>Sonoma Adventist College</a>, <a>Kokopo</a>, <a>East New Britain</a>, <img></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p>Total: 5</p>
+image_name$$$@@@%%%<h2>Sources</h2>
+former_names$$$@@@%%%<p>Much of this information (particularly the location information) was taken from sites of the <a>Seventh-day Adventist Church</a>, such as the site below.</p>
+image_name$$$@@@%%%<ul>
+established$$$@@@%%%  <li><a>List of Adventist colleges and universities by divisions of the Adventist Church</a></li>
+faculty$$$@@@%%%  <li><a>Search for a school nearby</a></li>
+affiliation$$$@@@%%%  <li><a>Adventist Directory</a></li>
+image_name$$$@@@%%%</ul>
+city$$$@@@%%%<h2>See also</h2>
+image_name$$$@@@%%%<ul>
+type$$$@@@%%%  <li><a>List of Seventh-day Adventist hospitals</a></li>
+type$$$@@@%%%  <li><a>List of Seventh-day Adventist medical schools</a></li>
+type$$$@@@%%%  <li><a>List of Seventh-day Adventist secondary schools</a></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%
+image_name$$$@@@%%%

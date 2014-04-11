@@ -1,0 +1,6 @@
+<li>Department of Design &amp; Creative Media Courses </li>
+<li>Department of Civil &amp; Construction Courses</li>
+<li>Department of Electronic &amp; Mechanical Courses</li>
+<li>Department of Computing Courses</li>
+<li>Department of Nursing Courses.</li>
+<h2>Notable alumni</h2>

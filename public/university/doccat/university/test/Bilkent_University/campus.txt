@@ -1,0 +1,3 @@
+<h2>Faculties, Departments and Schools</h2>
+<li><strong>Faculty of Art, Design and Architecture</strong>: Communication and Design, Fine Arts, Graphic Design, Interior Architecture and Environmental Design, Landscape Architecture and Urban Design</li>
+<h2>Societies and Leisure Activities</h2>

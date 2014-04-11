@@ -1,0 +1,4 @@
+<p>Full Time Student (12 credits or more)</p>
+<p>Part Time Student (fewer than 12 credits)</p>
+<p>NYS Resident: $140 per credit hour</p>
+<p>All  others: $280 per credit hour</p>

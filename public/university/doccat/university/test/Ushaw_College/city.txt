@@ -1,0 +1,16 @@
+<li>1837-1863 &#x0009;Charles Newsham</li>
+<li>1863-1876 &#x0009;Robert Tate</li>
+<li>1876-1877 &#x0009;Francis Wilkinson</li>
+<li>1877-1878 &#x0009;James Chadwick</li>
+<li>1878-1885 &#x0009;William Wrennall</li>
+<li>1885-1886  &#x0009;William Dunderdale</li>
+<li>1886-1890 &#x0009;James Lennon</li>
+<li>1909-1910 &#x0009;Joseph Corbishley</li>
+<li>1910-1934 &#x0009;William Brown</li>
+<li>1934-1950 &#x0009;Charles Corbishley</li>
+<li>1950-1967  &#x0009;Paul Grant</li>
+<li>1967-1977 &#x0009;Philip Loftus</li>
+<li>1977-1984 &#x0009;Peter Cookson</li>
+<li>1984-1991 &#x0009;Peter Walton</li>
+<li>1991-1997 &#x0009;Richard Atherton</li>
+<li>1997-2003 &#x0009;James O&#x2019;Keefe</li>

@@ -1,0 +1,6 @@
+<li>Jeter-Tainter-Callahan Halls</li>
+<li>Antrim-Froggatt-McCalmont Halls</li>
+<li>Curran-Kranzusch-Tustison-Oetting Halls</li>
+<li>South Hall</li>
+<li>Hansen-Keith-Milnes-Chinnock Halls</li>
+<li>Technology Management</li>

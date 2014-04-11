@@ -1,0 +1,84 @@
+</p>
+<h2>Name</h2>
+<h2>Ranking</h2>
+<h2>Location</h2>
+<h2>Language</h2>
+<p></p>
+<ul>
+</ul>
+<ul>
+</ul>
+<p></p>
+<ul>
+<li>Democratic Alliance Students' Organisation (DASO)</li>
+<li>Landsdiensbeweging</li>
+<li>Matie Productions</li>
+<li>Die Voortrekkers</li>
+<li>SDASM</li>
+<li>Stellenbosch Gemeente</li>
+</ul>
+<p></p>
+<p></p>
+<ul>
+</ul>
+<p></p>
+</p>
+</p>
+<h2>Sport</h2>
+<p></p>
+<ul>
+</ul>
+<p></p>
+<p></p>
+</p>
+<p> ;Men's Residences</p>
+<ul>
+<li>Huis Visser</li>
+<li>Majuba</li>
+</ul>
+<p>;Women's Residences</p>
+<ul>
+<li>Erica</li>
+<li>Harmonie</li>
+<li>Heemstede</li>
+<li>Huis Neetling</li>
+<li>Huis Ten Bosch</li>
+<li>Irene</li>
+<li>Lydia</li>
+<li>Monica</li>
+<li>Nerina</li>
+<li>Sonop</li>
+<li>Serruria</li>
+</ul>
+<p>;Mixed Residences</p>
+<ul>
+<li>Goldfields</li>
+<li>Academia</li>
+<li>Meerhoff (Tygerberg Campus)</li>
+</ul>
+<ul>
+<li>Concordia</li>
+<li>Huis De Villiers</li>
+<li>Huis MacDonald</li>
+<li>Lobelia</li>
+</ul>
+<p>;Private Wards</p>
+<ul>
+<li>Aristea (Women's)</li>
+<li>Aurora (Mixed)</li>
+<li>Libertas (Men's)</li>
+<li>Silene (Women's)</li>
+<li>Venustia (Women's)</li>
+<li>Vesta (Men's)</li>
+</ul>
+<p></p>
+<ul>
+</ul>
+<h2>References</h2>
+<p><img></p>
+<h2>External links</h2>
+<ul>
+</ul>
+<p>   </p>
+
+

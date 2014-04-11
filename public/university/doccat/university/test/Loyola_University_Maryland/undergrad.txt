@@ -1,0 +1,3 @@
+<p>The student body is composed of a little less than 4,000 undergraduate and 2,600 graduate students, representing 34 states and 20 countries, and 81% of undergraduates reside on campus.
+<li>Average class size: 25 students</li>
+Students take one class and one lab each week, plus physical fitness training three times per week.

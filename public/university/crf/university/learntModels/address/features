@@ -1,0 +1,50 @@
+12
+intersection 1 0:1
+, 7 2:1
+medical 11 4:1
+o 5 2:1
+university 10 4:1
+streets 6 2:1
+and 4 2:1
+<a>georgetown 9 4:1
+nw 8 3:1
+the 0 0:1
+37th 3 1:1
+of 2 0:1
+******* Features ************
+35
+W_medical:417:4 34
+E.0:182:1 7
+W_streets:228:2 17
+W_intersection:39:0 5
+R_isAllSmallCase:180:0 3
+R_containsSpecialCharacters:978:4 29
+E.1:224:2 11
+E.0:175:0 4
+U:31:4 27
+E.2:266:3 22
+End.:30:4 33
+R_singleComma:264:2 19
+W_,:263:2 18
+W_of:74:0 6
+E.3:308:4 26
+U:24:3 23
+E.2:259:2 15
+W_nw:305:3 24
+W_37th:116:1 9
+R_isAllSmallCase:208:4 32
+R_containsDigit:537:1 10
+W_<a>georgetown:347:4 28
+R_singleQuote:299:2 20
+U:17:2 12
+W_and:158:2 13
+E.4:343:4 30
+R_singlePunctuation:719:2 21
+R_isAllSmallCase:201:3 25
+U:10:1 8
+W_university:382:4 31
+R_isAllSmallCase:194:2 14
+W_o:193:2 16
+W_the:4:0 2
+U:3:0 1
+S.:1:0 0

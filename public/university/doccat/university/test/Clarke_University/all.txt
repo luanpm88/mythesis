@@ -1,0 +1,131 @@
+type$$$@@@%%%<p> <strong>Clarke University</strong> is a four-year <a>Catholic</a> <a>college</a> located in <a>Dubuque, Iowa</a>, <a>United States</a>, with a general attendance of approximately 1,200 students.
+undergrad$$$@@@%%%The school offers both undergraduate and graduate degree programs.
+established$$$@@@%%%It is one of three four-year post-secondary institutions in the City of Dubuque, and is one of three Catholic post-secondary institutions in the <a>Archdiocese of Dubuque</a>.</p>
+established$$$@@@%%%<h2>History</h2>
+established$$$@@@%%%<p>What is now known as Clarke University was founded in 1843 by <a>Mother Mary Frances Clarke</a> as a boarding school for local girls, and was known as Saint Mary's Academy.
+established$$$@@@%%%It was one of the first such schools built west of the <a>Mississippi River</a>, and operated out of several different locations in its early years.</p>
+established$$$@@@%%%<p>In 1881, St. Mary's moved to its present location atop Dubuque's Seminary Hill (Clarke Drive) and was renamed Mount St.
+established$$$@@@%%%Joseph Academy and College.
+established$$$@@@%%%The college became a liberal arts school in 1901, and the first <a>bachelor's degree</a> was awarded in 1904.
+affiliations$$$@@@%%%In 1910, Mt.
+affiliations$$$@@@%%%St.
+established$$$@@@%%%Joseph was chartered by the state of <a>Iowa</a>, becoming a four-year college by 1913.
+country$$$@@@%%%The <a>North Central Association of Colleges and Secondary Schools</a> accredited Mount St.
+vice_chancellor$$$@@@%%%Joseph in 1918.
+established$$$@@@%%%The academy portion of the school closed in 1928, and the college was given its current name of Clarke College, in honor of Mother Mary Frances Clarke.&lt;ref
+established$$$@@@%%%name=&quot;Clarke College History&quot;/&gt;</p>
+established$$$@@@%%%<p>In 1964, Clarke began a graduate program, with the first <a>master's degree</a>s awarded in 1967.
+established$$$@@@%%%The school was one of the first in <a>Iowa</a> to offer a program in <a>Computer Science</a>.
+established$$$@@@%%%Although Clarke College had been an all-female school since its founding, it became a <a>coeducational</a> institution in the spring of 1979.</p>
+established$$$@@@%%%<p>On May 17, 1984, the school experienced a disastrous fire that destroyed four of its main buildings, including the Sacred Heart Chapel.
+nickname$$$@@@%%%The next day, students hung a large banner reading &quot;<em>Clarke Lives!</em>&quot; on the campus to show solidarity following the disaster.
+established$$$@@@%%%Soon after, the school launched a major reconstruction project to replace the destroyed buildings.
+established$$$@@@%%%By 1986, a new library, music performance hall, chapel, bookstore, administrative offices, and central atrium were dedicated.
+established$$$@@@%%%The massive, glass-enclosed Wahlert Atrium built following the fire has since become the main symbol of the school.&lt;ref
+established$$$@@@%%%name=&quot;Clarke College History&quot;/&gt;</p>
+president$$$@@@%%%<p>Joanne Burrows, (<a>SC</a>) is the current president of the college.
+established$$$@@@%%%She began her term as president on July 1, 2006, replacing the long-serving Sister <a>Catherine Dunn</a>, BVM.</p>
+students$$$@@@%%%<p>On May 12, 2010, Current Clarke President Joanne Burrows announced that effective August 1, 2010 the school would be renamed Clarke University</p>
+image_name$$$@@@%%%<h2>Campus</h2>
+established$$$@@@%%%<p>&lt;!-- Deleted image removed: <a>thumb|300px|right|Aerial view of the Clarke College campus.</a>
+established$$$@@@%%%--&gt; Clarke sits on a  campus located atop a prominent hill in Dubuque.
+nickname$$$@@@%%%The grounds are bounded by West Locust Street on the south, Clarke Crest Court on the north, Clarke Crest Drive on the east, and North Grandview Avenue on the west.
+established$$$@@@%%%The campus is surrounded by residential neighborhoods on the north and east, <a>Dubuque Senior High School</a> on the south, and Bunker Hill Golf Course on the west.
+students$$$@@@%%%The college consists of 15 buildings, an athletic field, and 3 parking lots.
+city$$$@@@%%%Clarke Drive is the &quot;main street&quot; through the campus, bisecting it into &quot;north&quot; and &quot;south&quot; sides.
+students$$$@@@%%%Of Clarke's 16 buildings, 15 are located along Clarke Drive, making it a very walkable campus.
+mascot$$$@@@%%%The college also features large, grassy knolls along the south and east sides of the campus.</p>
+free_label$$$@@@%%%<h3>Notable buildings</h3>
+image_name$$$@@@%%%<ul>
+image_name$$$@@@%%%  <li><strong>Wahlert Atrium</strong></li>
+image_name$$$@@@%%%</ul>
+established$$$@@@%%%<p>The Wahlert Atrium is the main building of the campus and is depicted in much of the graphic art associated with the college.
+established$$$@@@%%%It was built in 1986, following the fire which destroyed four main buildings on the south end of the campus.
+established$$$@@@%%%It is made of glass and steel, with inner rooms framed by brick walls.
+established$$$@@@%%%From the Atrium, one can access any of the other buildings on the south side of the campus.
+established$$$@@@%%%The Atrium holds classrooms for art and music, as well as the Jansen Music Hall (recital hall on campus), the library, Sacred Heart Chapel, administrative offices, and the switchboard.</p>
+image_name$$$@@@%%%<ul>
+image_size$$$@@@%%%  <li><strong>Catherine Byrne Hall</strong></li>
+image_name$$$@@@%%%</ul>
+country$$$@@@%%%<p>Catherine Byrne Hall (or CBH) is the main hall of classrooms for the university.
+nickname$$$@@@%%%Many faculty offices are located in this hall, including a number of those faculty teaching in the fields of mathematics, sciences, and business.
+nickname$$$@@@%%%In addition to a number of classrooms, there are a number of rooms designated for laboratory teaching in the physics, chemistry, and biology fields.
+established$$$@@@%%%There is a cadaver laboratory in the basement, as well as a planetarium on the top floor.
+established$$$@@@%%%Catherine Byrne Hall is generally regarded as only one of two major halls that is colloquially mentioned by its initials.</p>
+image_name$$$@@@%%%<ul>
+image_size$$$@@@%%%  <li><strong>Eliza Kelly Hall</strong></li>
+image_name$$$@@@%%%</ul>
+established$$$@@@%%%<p>Eliza Kelly Hall (or EKH) is one of the three remaining buildings on the campus that have survived from the origination of the college to the present day.
+established$$$@@@%%%It houses offices of faculty that teach in the music, art, drama&#x2013;speech, and communication departments.
+type$$$@@@%%%There are also a number of practice rooms for music students to use at their convenience.
+established$$$@@@%%%Colloquially, students refer to the hall as &quot;Eliza Kelly&quot;.
+established$$$@@@%%%In Dubuque, Clarke is known as the &quot;College for the Arts&quot;, and the faculty of the Art Department is quite impressive.
+established$$$@@@%%%The faculty consists of Al Grivetti (graphic design), Louise Kames (printmaking), Jessica Rebik (painting), Doug Schlesier (sculpture/drawing) Carmelle Zserdin, BVM (ceramics) and Bryan Zygmont, Ph.D (art history).</p>
+image_name$$$@@@%%%<ul>
+image_size$$$@@@%%%  <li><strong>Mary Benedict Hall</strong></li>
+image_name$$$@@@%%%</ul>
+mascot$$$@@@%%%<p>Mary Benedict Hall (or MBH) is the female underclass dormitory of the university.
+established$$$@@@%%%A number of upperclass women also live here, at their discretion.
+established$$$@@@%%%It is a five-floor building with a basement that holds a hallway linking it to the rest of the southern side of campus.
+nickname$$$@@@%%%In addition to student dormitories, there is a recreational center in the basement (known as the &quot;Lions Den&quot;), and apartments for visitors on the ground floor of the building.
+established$$$@@@%%%Most of the students refer to the building colloquially as &quot;Mary Ben.&quot;</p>
+image_name$$$@@@%%%<ul>
+image_size$$$@@@%%%  <li><strong>Mary Frances Hall</strong></li>
+image_name$$$@@@%%%</ul>
+mascot$$$@@@%%%<p>Mary Frances Hall (or MFH) is the co-ed upperclass dormitory of the university.
+established$$$@@@%%%It is reserved for juniors and seniors who maintain a grade point average (GPA) of 2.5 or better.
+established$$$@@@%%%It is one of two buildings in the college where students may possess alcohol, and then only students over 21 may have it legally in their rooms.
+established$$$@@@%%%It is one of the three &quot;original&quot; buildings still remaining from the origination of the college.
+established$$$@@@%%%It is a four-story building with a central complex extending into western and eastern wings.
+nickname$$$@@@%%%The first and second floors are reserved for female students, with the third floor reserved for male students.
+free_label$$$@@@%%%The fourth floor is used for storage, and is generally thought to be haunted.
+established$$$@@@%%%The legend that floats about campus is of a nun hanging herself in her room with the blood oozing onto the floor, which reappears each time the floor has been cleaned.
+established$$$@@@%%%Also, there had been an etching on the window that is sometimes visible from the outside which reads, &quot;Help Me&quot;.
+type$$$@@@%%%When less students occupy this building, paranormal the activity increases.</p>
+image_size$$$@@@%%%<p>Mary Frances Hall is colloquially called &quot;Mary Fran&quot;.</p>
+image_name$$$@@@%%%<ul>
+image_size$$$@@@%%%  <li><strong>Mary Josita Hall</strong></li>
+image_name$$$@@@%%%</ul>
+mascot$$$@@@%%%<p>Mary Josita Hall (or MJH) is the male underclass dormitory of the university.
+established$$$@@@%%%It is four stories tall, with a basement hallway linking it to Mary Benedict Hall.
+city$$$@@@%%%There are also some campus offices in the basement of Mary Josita Hall, including the main security office and the main Residence Life office.
+type$$$@@@%%%The main dining hall is also located in the basement of the building.
+established$$$@@@%%%The first floor is reserved for offices of faculty that teach in the humanities, philosophy, social sciences, political sciences, and history departments.
+nickname$$$@@@%%%The configuration of the next three stories has varied from year to year based upon enrollment and students electing to live on campus, but generally the majority of residents in Mary Josita Hall are male.</p>
+image_name$$$@@@%%%<ul>
+website$$$@@@%%%  <li><strong>Robert &amp; Ruth Kehl Center</strong></li>
+image_name$$$@@@%%%</ul>
+image_size$$$@@@%%%<p>The Kehl Center is the main athletic and social area of the university.
+free_label$$$@@@%%%There are two main sections of the center - the arena area and surrounding offices, and the &quot;Student Activity Center&quot; (or SAC, for short) which includes the student union and some student life offices.
+established$$$@@@%%%The arena area of the Kehl Center includes an indoor track, a competition basketball court (with three intramural basketball courts overlapping the main court), two racquetball courts (one filled with cardio equipment), one newly designed weight room, and locker room facilities.
+established$$$@@@%%%In the Student Activity Center, there is a game room, the Whitlow Bookstore, the Crusader Cafe (an alternative to the main dining hall set up in the fashion of a fast-food grill), the Mail Center, and a stage for entertainment.
+established$$$@@@%%%The Kehl Center Arena was constructed in 1997, with the SAC being added on to the main building in 2000.</p>
+image_name$$$@@@%%%<ul>
+image_size$$$@@@%%%  <li><strong>Terence Donaghoe Hall</strong></li>
+image_name$$$@@@%%%</ul>
+image_size$$$@@@%%%<p>Terence Donaghoe Hall (or TDH) is the main hall for theatre productions at the college.
+mascot$$$@@@%%%The drama department generally produces four mainstage productions each year (two per semester).
+staff$$$@@@%%%It is a proscenium stage design with a main floor and balcony seating.
+students$$$@@@%%%The theater has a capacity of approximately 600 people.
+established$$$@@@%%%Terence Donaghoe Hall is the third &quot;original&quot; building to have survived to present day.
+nickname$$$@@@%%%While straight theater productions are staged in TDH, musical theater productions are generally staged in Jansen Music Hall (located in the Wahlert Atrium) because there are no available pianos or orchestra space available in the hall.</p>
+free$$$@@@%%%<h2>Notable alumni</h2>
+image_name$$$@@@%%%<ul>
+doctoral$$$@@@%%%  <li><a>Nancy Dickerson</a> - pioneering television newswoman</li>
+doctoral$$$@@@%%%  <li><a>Karen Morrow</a> - actress/singer</li>
+affiliation$$$@@@%%%  <li><a>Adam Rapp</a> &#x2013; novelist/playwright</li>
+image_name$$$@@@%%%</ul>
+city$$$@@@%%%<h2>See also</h2>
+image_name$$$@@@%%%<ul>
+affiliation$$$@@@%%%  <li><a>Dubuque, Iowa</a></li>
+affiliation$$$@@@%%%  <li><a>Roman Catholic Archdiocese of Dubuque</a></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h2>References</h2>
+image_name$$$@@@%%%<p><img></p>
+image_name$$$@@@%%%<h2>External links</h2>
+image_name$$$@@@%%%<ul>
+affiliation$$$@@@%%%  <li><a>Clarke College Website</a></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p>   </p>
+image_name$$$@@@%%%
+image_name$$$@@@%%%

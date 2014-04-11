@@ -1,0 +1,18 @@
+<li><em>Arquitectura</em> (<a>architecture</a>)</li>
+<li><em>Bioqu&#x00ed;mica</em> (<a>biochemistry</a>)</li>
+<li><em>Ci&#x00ea;ncias Biom&#x00e9;dicas</em> (<a>biomedical sciences</a>)</li>
+<li><em>Ci&#x00ea;ncias da Comunica&#x00e7;&#x00e3;o</em> (<a>communication sciences</a>)</li>
+<li><em>Ci&#x00ea;ncias do Desporto</em> (<a>sport sciences</a>)</li>
+<li><em>Ci&#x00ea;ncias Farmac&#x00ea;uticas</em> (<a>pharmacy</a>)</li>
+<li><em>Ci&#x00ea;ncia Pol&#x00ed;tica e Rela&#x00e7;&#x00f5;es Internacionais</em> (<a>political sciences</a>)</li>
+<li><em>Cinema</em> ( <a>cinema</a>)</li>
+<li><em>Design Multim&#x00e9;dia</em> (<a>multimedia</a> design)</li>
+<li><em>Economia</em> (<a>economics</a>)</li>
+<li><em>Filosofia</em> (<a>philosophy</a>)</li>
+<li><em>Gest&#x00e3;o</em> (<a>management</a>)</li>
+<li><em>Marketing</em> (<a>marketing</a>)</li>
+<li><em>Medicina</em> (<a>medicine</a>)</li>
+<li><em>Psicologia</em> (<a>psychology</a>)</li>
+<li><em>Sociologia</em> (<a>sociology</a>)</li>
+<a>Christmas</a> time holidays has two weeks.
+<li><a>Universidade da Beira Interior</a></li>

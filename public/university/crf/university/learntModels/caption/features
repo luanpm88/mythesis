@@ -1,0 +1,45 @@
+12
+campus 11 3:1
+nakamiya 10 1:1
+as 2 0:1
+p> 6 4:1
+< 5 4:1
+away 7 0:1
+the 9 0:1
+today 1 0:1
+hall 4 3:1
+from 8 0:1
+seibert 3 1:1
+stands 0 0:1
+******* Features ************
+30
+R_isAllSmallCase:187:1 10
+E.1:231:3 11
+E.0:182:1 7
+W_today:39:0 5
+R_isAllSmallCase:180:0 3
+R_containsSpecialCharacters:978:4 20
+W_the:319:0 26
+W_campus:410:3 29
+E.0:175:0 4
+W_nakamiya:361:1 27
+U:31:4 16
+End.:30:4 22
+R_singlePunctuation:733:4 19
+W_as:74:0 6
+E.3:308:4 15
+U:24:3 12
+W_hall:165:3 13
+End.:23:3 28
+W_seibert:116:1 9
+R_isSpecialCharacter:348:4 18
+W_<:207:4 17
+W_away:249:0 24
+E.4:343:4 21
+R_isAllSmallCase:201:3 14
+U:10:1 8
+W_p>:242:4 23
+W_stands:4:0 2
+U:3:0 1
+W_from:284:0 25
+S.:1:0 0

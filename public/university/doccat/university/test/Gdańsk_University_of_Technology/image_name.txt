@@ -1,0 +1,26 @@
+<p></p>
+<p></p>
+</p>
+<h2>Staff</h2>
+<ul>
+<li>135 senior doctor lecturers</li>
+<li>576 doctors</li>
+</ul>
+<h2>Faculties</h2>
+<ul>
+</ul>
+<h3>Architecture</h3>
+<ul>
+</ul>
+<ul>
+</ul>
+<h2>Internationas Cooperation</h2>
+<ul>
+</ul>
+<h2>References</h2>
+<p><img></p>
+<h2>External links</h2>
+<ul>
+</ul>
+
+

@@ -1,0 +1,6 @@
+The College offers many bachelor's degrees and a number of graduate degrees.
+<li><a>Campus Ambassadors</a> &lt;small&gt;(<a>Christianity</a>)&lt;/small&gt;</li>
+<li><a>Hillel</a> &lt;small&gt;(<a>Judaism</a>)&lt;/small&gt;</li>
+<li><a>Newman Club</a> &lt;small&gt;(<a>Catholicism</a>)&lt;/small&gt;</li>
+<li><a>SUNY Oneonta</a></li>
+<li><a>College at Oneonta Alumni Association</a></li>

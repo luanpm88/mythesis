@@ -1,0 +1,222 @@
+85
+x6210 38 4:1
+ilmu 47 1:1
+words 29 4:1
+mankind 35 3:1
+purpose 84 3:1
+truth 62 1:1
+patrie 55 2:1
+iustitiae 7 2:2
+fights 17 3:1
+embracing 22 4:1
+one 71 2:1
+sciences 57 2:1
+learn 31 2:1
+for 33 2:1
+x7269 37 4:1
+serves 73 3:1
+anthem 25 0:1
+intellect 83 2:1
+person 80 3:1
+li> 60 4:2
+canada 65 4:1
+learning 3 1:1
+its 51 0:1
+gloire 58 3:1
+motto 0 0:5
+spirit 82 1:1
+is 1 0:5
+kemajuan 49 3:1
+x52f5 40 4:1
+benefit 34 2:1
+<em> 52 0:2
+which 11 4:1
+s 76 0:1
+occidentem 21 2:1
+with 28 4:1
+strong> 50 4:1
+of 30 0:1 2:1 4:1
+x5b78 41 4:1
+x6c11 43 4:1
+duty 63 2:1
+labor 5 3:1
+p> 45 4:2
+<strong> 46 0:1
+read 19 0:1
+a>< 67 4:1
+and 4 0:1 2:2 4:1
+to 18 0:1 1:1 2:1
+always 16 2:1
+means 12 4:1
+wabash 15 1:1
+x958b 36 4:1
+les 56 2:1
+<li>james 68 0:1
+western 24 4:1
+as 70 1:1
+quot 2 0:6 4:9
+x52d9 39 4:1
+educating 78 1:1
+< 44 4:6
+connects< 66 4:1
+whole 79 2:1
+, 10 0:1 1:2 2:4 4:2
+x5229 42 4:1
+who 72 2:1
+sol 6 1:2
+em> 59 4:2
+sun 13 4:1
+making 74 4:1
+university 75 0:1
+pitsula 69 0:1
+pour 53 1:1
+illustra 8 2:1 3:1
+valour 64 3:1
+vera 27 3:1
+punca 48 2:1
+nos 9 3:1
+school 81 0:1
+slogan 77 0:1
+the 23 2:2 4:2
+la 54 2:2
+apply 32 2:1
+quaecumque 26 1:1
+athletics 14 0:1
+<li><a> 61 0:1
+et 20 2:2
+******* Features ************
+134
+W_la:1908:2 93
+W_em>:2097:4 98
+R_isAllSmallCase:187:1 9
+R_containsSpecialCharacters:950:0 85
+W_apply:1138:2 61
+E.0:182:1 6
+W_s:2664:0 121
+W_x7269:1327:4 73
+R_isAllSmallCase:180:0 2
+W_occidentem:753:2 44
+W_,:368:2 62
+R_containsDigit:558:4 72
+E.0:175:0 3
+W_and:172:4 56
+W_,:361:1 103
+W_punca:1698:2 87
+W_as:2461:1 114
+W_school:2839:0 130
+W_x5229:1502:4 78
+W_valour:2265:3 108
+W_,:354:0 123
+R_singlePunctuation:733:4 29
+W_and:158:2 11
+R_isSpecialCharacter:348:4 81
+W_quaecumque:921:1 51
+W_wabash:536:1 37
+E.4:343:4 30
+W_person:2825:3 129
+W_nos:340:3 25
+W_learn:1103:2 59
+W_pour:1866:1 92
+W_university:2629:0 120
+W_x958b:1292:4 71
+R_singlePunctuation:719:2 65
+W_gloire:2055:3 97
+W_et:718:2 43
+W_and:144:0 50
+W_making:2622:4 118
+R_singlePunctuation:712:1 106
+R_singlePunctuation:705:0 126
+W_x5b78:1467:4 77
+W_ilmu:1656:1 86
+W_of:1082:4 119
+W_pitsula:2419:0 113
+W_duty:2223:2 107
+R_singleQuote:313:4 28
+E.3:308:4 17
+W_learning:116:1 8
+W_anthem:879:0 49
+W_illustra:305:3 45
+W_of:1068:2 69
+W_athletics:494:0 36
+W_whole:2783:2 128
+R_singleQuote:299:2 64
+W_western:872:4 48
+W_illustra:298:2 24
+W_<em>:1824:0 91
+W_sun:487:4 34
+W_mankind:1250:3 70
+W_sciences:2013:2 96
+W_quot:102:4 19
+R_singleQuote:292:1 105
+W_purpose:2965:3 133
+W_of:1054:0 57
+W_serves:2580:3 117
+W_read:669:0 42
+W_x52f5:1432:4 76
+R_singleQuote:285:0 125
+W_<li>james:2384:0 112
+W_words:1047:4 55
+R_singleComma:278:4 27
+W_<strong>:1614:0 84
+W_a><:2377:4 111
+W_truth:2181:1 101
+W_p>:1607:4 83
+E.2:266:3 13
+W_to:648:2 60
+W_quot:74:0 5
+R_singleComma:264:2 63
+W_the:837:4 47
+W_iustitiae:263:2 22
+W_its:1789:0 90
+W_means:452:4 33
+W_les:1978:2 95
+E.2:259:2 23
+W_to:641:1 58
+W_educating:2741:1 127
+R_singleComma:257:1 104
+W_strong>:1782:4 89
+W_benefit:1208:2 68
+W_to:634:0 41
+W_x52d9:1397:4 75
+R_singleComma:250:0 124
+W_the:823:2 67
+W_intellect:2923:2 132
+W_with:1012:4 54
+W_who:2538:2 116
+W_connects<:2342:4 110
+W_fights:620:3 40
+W_<:1572:4 80
+E.1:231:3 52
+W_is:39:0 4
+W_<li><a>:2139:0 100
+W_embracing:802:4 46
+W_which:417:4 32
+W_patrie:1943:2 94
+E.1:224:2 10
+W_li>:2132:4 99
+U:31:4 31
+End.:30:4 18
+W_sol:221:1 21
+W_for:1173:2 66
+E.1:217:1 102
+W_slogan:2699:0 122
+W_x6210:1362:4 74
+U:24:3 14
+R_containsSpecialCharacters:978:4 82
+W_kemajuan:1740:3 88
+W_one:2503:2 115
+U:17:2 38
+R_isAllSmallCase:208:4 20
+W_spirit:2881:1 131
+W_canada:2307:4 109
+W_vera:970:3 53
+U:10:1 7
+R_isAllSmallCase:201:3 16
+W_x6c11:1537:4 79
+W_labor:200:3 15
+W_always:578:2 39
+W_motto:4:0 1
+U:3:0 35
+R_isAllSmallCase:194:2 12
+S.:1:0 0
+W_,:382:4 26

@@ -1,0 +1,2 @@
+<li>Faculty of Engineering &amp; Architecture (FEA)</li>
+<li>Faculty of Medicine (FM)</li>

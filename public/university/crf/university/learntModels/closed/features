@@ -1,0 +1,81 @@
+25
+<a>reynolds 4 4:1
+, 5 4:2
+now 23 4:1
+<li> 0 0:1
+to 19 0:1 4:1
+DIGIT 2 0:1 1:4 3:1
+after 16 0:1
+october 11 2:1
+john 6 4:1
+is 22 4:1
+henry 7 4:1
+become 20 4:1
+was 8 0:1
+amalgamation 18 4:1
+the 17 0:1
+dalhousie 14 0:1
+on 10 0:1
+s 15 0:1
+x2014 1 0:1
+part 24 4:1
+from 21 0:1
+inaugurated 9 0:1
+< 12 4:1
+p> 13 4:1
+quot 3 4:1
+******* Features ************
+53
+W_was:284:0 24
+W_amalgamation:662:4 43
+W_after:564:0 41
+R_singleComma:278:4 18
+E.0:182:1 7
+W_henry:277:4 23
+R_isAllSmallCase:180:0 25
+W_DIGIT:81:1 8
+E.0:175:0 4
+W_now:837:4 51
+W_<a>reynolds:172:4 15
+E.2:266:3 32
+W_DIGIT:74:0 47
+W_from:739:0 46
+W_<:452:4 36
+R_isAllCapital:166:3 34
+W_on:354:0 27
+R_singlePunctuation:733:4 20
+W_become:732:4 45
+R_isSpecialCharacter:348:4 37
+E.4:343:4 14
+R_isAllCapital:152:1 9
+R_containsDigit:530:0 6
+W_s:529:0 40
+W_john:242:4 21
+R_isAllCapital:145:0 48
+E.1:238:4 10
+W_is:802:4 50
+W_quot:137:4 12
+W_x2014:39:0 5
+E.1:224:2 28
+W_inaugurated:319:0 26
+W_to:697:4 44
+U:31:4 11
+End.:30:4 22
+W_the:599:0 42
+R_singleQuote:313:4 19
+R_containsSpecialCharacters:978:4 16
+E.3:308:4 35
+W_october:403:2 30
+W_dalhousie:494:0 39
+R_isAllSmallCase:208:4 13
+W_part:872:4 52
+U:17:2 29
+W_,:207:4 17
+W_p>:487:4 38
+W_to:669:0 49
+W_<li>:4:0 2
+R_isAllSmallCase:194:2 31
+U:3:0 1
+S.:1:0 0
+W_DIGIT:95:3 33
+R_containsSpecialCharacters:950:0 3

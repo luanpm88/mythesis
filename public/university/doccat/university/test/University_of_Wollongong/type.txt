@@ -1,0 +1,11 @@
+<li><a>Batemans Bay</a> Education Centre</li>
+<li><a>Bega</a> Education Centre</li>
+<li><a>Loftus</a> Education Centre</li>
+<li><a>Moss Vale</a> Education Centre
+Additionally the University operates two independent schools: <a>Sydney Business School</a>; and <a>Graduate School of Medicine</a>.
+<p>The <a>Faculty of Commerce</a> comprises three schools:</p>
+<p>The <a>Faculty of Engineering</a> comprises three schools:</p>
+<p>The <a>Faculty of Education</a> operates as an integrated Faculty without formally separate academic schools.
+<p>The <a>Faculty of Informatics</a> comprises four schools:</p>
+<p>The <a>Faculty of Law</a> operates as an integrated Faculty without formally separate academic schools.</p>
+<p>The <a>Faculty of Science</a> comprises three schools:</p>

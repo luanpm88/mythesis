@@ -1,0 +1,2 @@
+<li>Faculty of Fine Arts</li>
+<li>Faculty of Health Sciences</li>

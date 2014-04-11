@@ -1,0 +1,151 @@
+image_name$$$@@@%%%<p></p>
+established$$$@@@%%%<p>The <strong>University of Central Missouri</strong> (formerly  <strong>Central Missouri State University</strong>) is a four-year public institution in <a>Warrensburg, Missouri</a>.
+image_name$$$@@@%%%</p>
+established$$$@@@%%%<h2>History</h2>
+established$$$@@@%%%<p>The University was founded in 1871 as <strong>State Normal School, District #2</strong> and became known as <strong>Warrensburg Teachers College</strong>.
+established$$$@@@%%%The name was changed to <strong>Central Missouri State Teachers College</strong> in 1919, <strong>Central Missouri State College</strong> in 1946, and <strong>Central Missouri State University</strong> in 1971.
+established$$$@@@%%%In 1965, the institution established a graduate school.
+established$$$@@@%%%In 2005, Missouri Governor <a>Matt Blunt</a> signed into law a provision authorizing Central Missouri State University to change its name, if so desired, to the University of Central Missouri.
+established$$$@@@%%%The University's name was changed to the University of Central Missouri on September 20, 2006.
+students$$$@@@%%%There are 105 majors at UCM, seven of which are accredited programs in the school of technology and home of the only accredited graduate degree in technology in the United States.
+established$$$@@@%%%Job placement at UCM is 94% after graduation and the average class size is 23.
+students$$$@@@%%%The university has about 255 student organizations, including a speech and debate team and UCM DECA.
+nickname$$$@@@%%%There are also over 58 intramural sports to compete in, free movie nights on campus, and a bowling alley in the union.
+established$$$@@@%%%Freshman students are required to live in one of the 17 residence halls their first year with other freshman students, which eases the adjustment from high school to college.
+established$$$@@@%%%Students can also choose to live in SHIPs (Special Housing Interest Programs), which place students with the same program of study together in the residence halls.
+undergrad$$$@@@%%%UCM has three off campus locations in St. Louis, Lee's Summit, and Springfield, all in Missouri, and also provides online courses.</p>
+image_name$$$@@@%%%<h2>Academics</h2>
+website$$$@@@%%%<p><strong>College of Arts, Humanities, and Social Sciences</strong> The College of Arts, Humanities, and Social Sciences contains the intellectual soul of the university.
+vice_chancellor$$$@@@%%%Students take courses that develop critical-thinking, writing and speaking skills.
+nickname$$$@@@%%%Departments include: Art, Communication, English and Philosophy, Geography, History and Anthropology, Modern Languages, Music, Political Science, Psychology, and Theatre</p>
+established$$$@@@%%%<p><strong>Harmon College of Business Administration</strong> The Harmon College's accreditation by AACSB International puts them in the nation&#x2019;s upper echelon of business colleges.
+affiliations$$$@@@%%%U.S. News &amp; World Report has cited UCM&#x2019;s MBA program in America&#x2019;s Best Graduate Schools.
+established$$$@@@%%%Departments include:  Computer Information Systems, Economics and Finance, Management and Business Communication, and Marketing and Business Law, as well as the School of Accountancy.
+image_name$$$@@@%%%</p>
+former_names$$$@@@%%%<p><strong>College of Education</strong> Central Missouri&#x2019;s College of Education prepares students to become teachers.
+doctoral$$$@@@%%%Faculty members helped write national guidelines for teaching pre-engineering to K-12 students.
+type$$$@@@%%%Nearly 10,000 UCM graduates teach in Missouri schools.
+campus$$$@@@%%%Departments include: Career and Technology Education, Curriculum and Instruction, and Educational Leadership and Human Development.</p>
+established$$$@@@%%%<p><strong>College of Health and Human Services</strong> A new College at Central Missouri, the College of Health and Human Services includes programs that have existed at UCM for a long time.
+campus$$$@@@%%%Departments include: Communication Disorders, Criminal Justice, Health and human Performance, Nursing, Safety Sciences, and Sociology and Social Work.</p>
+established$$$@@@%%%<p><strong>College of Science and Technology</strong> Combining scientific theory and applied technology, UCM&#x2019;s College of Science and Technology has a unique focus that sets the university apart from other comprehensive institutions.
+mascot$$$@@@%%%The college&#x2019;s goal is to prepare students to compete as leaders in the rapidly changing global marketplace and to provide a high-quality technical work force for the future.
+doctoral$$$@@@%%%Departments include: Agriculture, Aviation, Biochemistry, Chemistry and Physics, Biology and Earth Science, Mathematics, Computer Science,  Military Science and Leadership, and the School of Technology (programs: Automotive Technology Management, Construction Management, Computer-Aided Drafting, Electronics, Engineering Technology, Graphic Arts Technology Management, Photography, Industrial Management, and Fashion Merchandising).</p>
+nickname$$$@@@%%%<p><strong>The Honors College</strong> If students have an ACT score of 25 or above and a high school GPA of 3.5, they are eligible to enroll in The Honors College.
+established$$$@@@%%%Honors College students benefit from early enrollment, personal advising with the dean, and one-on-one research with professors.</p>
+image_name$$$@@@%%%<h3>GIMPS</h3>
+established$$$@@@%%%<p>The University of Central Missouri continues to hold an important role in the <a>Great Internet Mersenne Prime Search</a>.
+established$$$@@@%%%The GIMPS project at UCM is a university-wide effort managed by Dr. <a>Curtis Cooper</a> and Dr. <a>Steven Boone</a>.
+affiliations$$$@@@%%%Central's team (curtisc) is currently the No. 1 contributor to that project ([<a>http://mersenne.org/ips/tops.shtml</a>]), and is the only team that has discovered two Mersenne primes, M43 2&lt;sup&gt;30402457&lt;/sup&gt; - 1 ([<a>http://www.mersenne.org/primes/30402457.htm</a>]) with 9,152,052 digits and M44 2&lt;sup&gt;32582657&lt;/sup&gt; - 1 ([<a>http://www.mersenne.org/primes/32582657.htm</a>]) with 9,808,358 digits.</p>
+image_size$$$@@@%%%<h2>Student Life</h2>
+image_name$$$@@@%%%<h3>Greek life</h3>
+established$$$@@@%%%<p>The University of Central Missouri is home to 24 Greek organizations; recruitment takes place in both the Spring and Fall semesters.
+students$$$@@@%%%Eleven percent of UCM students are involved in Greek life.
+faculty$$$@@@%%%Sororities and fraternities contribute not only to enriching campus life at UCM, but also help improve their community by raising over $20,000 for philanthropic organizations and participating in over 15,000 hours of community service.
+established$$$@@@%%%A Greek program known as <a>GAMMA</a> ( Greeks Advocating Mature Management of Alcohol) is a program that promotes alcohol awareness and assisted the Student Government Association with bringing the Night Rider bus to campus.
+established$$$@@@%%%Night Rider provides a free ride for students to and from campus to ensure that students have safe transportation.</p>
+image_name$$$@@@%%%<h4>Fraternities</h4>
+image_name$$$@@@%%%<ul>
+affiliation$$$@@@%%%  <li><a>Alpha Kappa Lambda</a></li>
+affiliation$$$@@@%%%  <li><a>Alpha Phi Alpha</a></li>
+affiliation$$$@@@%%%  <li><a>Alpha Tau Omega</a></li>
+affiliation$$$@@@%%%  <li><a>Delta Chi</a></li>
+affiliation$$$@@@%%%  <li><a>Lambda Chi Alpha</a></li>
+affiliation$$$@@@%%%  <li><a>Omega Psi Phi</a></li>
+affiliation$$$@@@%%%  <li><a>Phi Beta Sigma</a></li>
+affiliation$$$@@@%%%  <li><a>Phi Sigma Kappa</a></li>
+affiliation$$$@@@%%%  <li><a>Sigma Phi Epsilon</a></li>
+affiliation$$$@@@%%%  <li><a>Sigma Pi</a></li>
+affiliation$$$@@@%%%  <li><a>Sigma Tau Gamma</a></li>
+affiliation$$$@@@%%%  <li><a>Tau Kappa Epsilon</a></li>
+affiliation$$$@@@%%%  <li><a>Theta Chi</a></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h4>Sororities</h4>
+image_name$$$@@@%%%<ul>
+affiliation$$$@@@%%%  <li><a>Alpha Kappa Alpha</a></li>
+affiliation$$$@@@%%%  <li><a>Alpha Gamma Delta</a></li>
+affiliation$$$@@@%%%  <li><a>Alpha Omicron Pi</a></li>
+affiliation$$$@@@%%%  <li><a>Alpha Phi</a></li>
+affiliation$$$@@@%%%  <li><a>Alpha Sigma Alpha</a></li>
+affiliation$$$@@@%%%  <li><a>Delta Sigma Theta</a></li>
+affiliation$$$@@@%%%  <li><a>Delta Zeta</a></li>
+affiliation$$$@@@%%%  <li><a>Sigma Kappa</a></li>
+affiliation$$$@@@%%%  <li><a>Sigma Sigma Sigma</a></li>
+affiliation$$$@@@%%%  <li><a>Sigma Gamma Rho</a></li>
+affiliation$$$@@@%%%  <li><a>Zeta Phi Beta</a></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h3>Media</h3>
+established$$$@@@%%%<p>The University of Central Missouri produces a weekly newspaper called <em><a>The Muleskinner</a></em>.
+free_label$$$@@@%%%Even though the paper is overseen by a faculty advisor, the newspaper is entirely student operated.
+nickname$$$@@@%%%While the majority of participants are journalism majors, <em><a>The Muleskinner</a></em> will accept articles from students of any major.
+established$$$@@@%%%The university also houses and runs an <a>NPR</a> affiliate, <a>KTBG</a>, at 90.9 FM (&quot;The Bridge&quot;), which features the NPR newsmagazines, with music consisting mostly of album-oriented, adult alternative rock along with a blues show and <a>World Cafe</a>.
+established$$$@@@%%%The university also operates a PBS affiliate: <a>KMOS-TV</a>.</p>
+free_label$$$@@@%%%<h2>Athletics</h2>
+image_name$$$@@@%%%<p></p>
+free_label$$$@@@%%%<p>Central Missouri's athletic teams compete in the <a>Mid-America Intercollegiate Athletics Association</a>, or MIAA.
+established$$$@@@%%%The athletic division includes <a>basketball</a>, <a>baseball</a>, <a>women's bowling</a>, <a>American football</a>, <a>golf</a>, <a>women's soccer</a>, <a>softball</a>, <a>cross-country</a>, <a>track</a>, <a>volleyball</a>, and <a>wrestling</a>.&lt;br
+nickname$$$@@@%%%/&gt; UCM's athletic teams are called <strong>Mules</strong> (men) and <strong>Jennies</strong> (women).
+mascot$$$@@@%%%UCM has a living mascot named Mancow, and another named Mo the Mule.
+image_name$$$@@@%%%</p>
+nickname$$$@@@%%%<p>Basketball games are played in the <a>UCM Multipurpose Building</a>.
+established$$$@@@%%%Built in 1976, <em>The Multi</em>, as it is known to students and alumni, has a capacity of 8,500 for basketball games.
+affiliations$$$@@@%%%Football games are played on Vernon Kennedy Field at <a>Audrey J. Walton Stadium</a>.
+nickname$$$@@@%%%The stadium was erected in 1928 and underwent a major face-lift in 1995.
+nickname$$$@@@%%%The stadium officially holds 10,000 people, but crowds often approach 12,000.
+established$$$@@@%%%University of Central Missouri's campus also includes 18-hole <a>Keth Memorial Golf Course</a>.
+vice_chancellor$$$@@@%%%Keth Memorial is complete with a fully-equipped pro shop.
+established$$$@@@%%%It is also the home facility for Mules golf, as well as Mules and Jennies cross country.</p>
+image_size$$$@@@%%%<h2>Student privacy violations</h2>
+established$$$@@@%%%<p>The University of Central Missouri has a poor history of protecting student privacy, with two data breaches occurring in 2009 alone.
+established$$$@@@%%%In both cases, many thousands of students' personal information, including <a>Social Security number</a>s, dates of birth, and addresses, were stolen due to inadequate security measures.
+established$$$@@@%%%In the first case of 2009, a former UCM police officer and his wife stole more than 7000 students' information and used that information to commit identity fraud involving more than 250 students.
+type$$$@@@%%%In a separate case in late 2009, a student retrieved and attempted to sell thousands of records of student information to an undercover federal agent in <a>Rochester, New York</a>.</p>
+provost$$$@@@%%%<h2>Notable faculty</h2>
+image_name$$$@@@%%%<ul>
+doctoral$$$@@@%%%  <li><a>Curtis Cooper</a> - Mathematician</li>
+doctoral$$$@@@%%%  <li><a>Christopher Jargocki</a> - Physicist</li>
+vice_chancellor$$$@@@%%%  <li>Dane C. Miller - Attorney</li>
+image_name$$$@@@%%%</ul>
+free$$$@@@%%%<h2>Notable alumni</h2>
+image_name$$$@@@%%%<ul>
+type$$$@@@%%%  <li><a>Russ Ball</a> - <a>NFL</a> executive</li>
+type$$$@@@%%%  <li><a>David Cook</a> - 2008 <a>American Idol</a> winner</li>
+established$$$@@@%%%  <li><a>Dale Carnegie</a> - Author of <em><a>How to Win Friends and Influence People</a></em></li>
+nickname$$$@@@%%%  <li><a>Mark Curp</a> - Former World and American record holder in the half-marathon</li>
+established$$$@@@%%%  <li><a>Grant Curtis</a> - Executive producer of <a>Spider-Man</a>, <a>Spider-Man 2</a> and <a>Spider-Man 3</a>.</li>
+established$$$@@@%%%<li><a>Todd Devoe</a> - Wide receiver formerly of the <a>Denver Broncos</a>.
+established$$$@@@%%%Currently a member of the <a>AFL</a>'s <a>Arizona Rattlers</a>.</li>
+doctoral$$$@@@%%%<li><a>Butch &quot;Hacksaw&quot; Reed</a> - Professional wrestler</li>
+established$$$@@@%%%  <li>James Evans - Inventor of <a>Cheerios</a></li>
+type$$$@@@%%%  <li><a>Roderick Green</a> - Defensive end and linebacker for the <a>San Francisco 49ers</a></li>
+established$$$@@@%%%  <li><a>Robert P. Foster</a> - President of Northwest Missouri State University from 1964 to 1977</li>
+type$$$@@@%%%  <li><a>David Holsinger</a> - World famous wind ensemble composer</li>
+vice_chancellor$$$@@@%%%  <li><a>Maury John</a> - Coached Drake University 1958-1971 and Iowa State University 1971-1974.
+nickname$$$@@@%%%He led Drake to a third place finish in the 1969 NCAA tournament.</li>
+established$$$@@@%%%<li><a>Allan Kayser</a> - Actor; played the role of <a>Bubba Higgins</a> on <a>Mama's Family</a></li>
+established$$$@@@%%%  <li><a>James Kirkpatrick</a> - Served as Missouri Secretary of State for 20 years; Library at UCM is named in his honor.</li>
+established$$$@@@%%%<li><a>Phill Kline</a> - Former <a>Kansas</a> Attorney General; currently a law professor at <a>Liberty University</a>.</li>
+established$$$@@@%%%<li><a>Toby Korrodi</a> - Signed by the <a>Arizona Cardinals</a> in 2007; cut in training camp</li>
+affiliation$$$@@@%%%  <li>Henry Mason - Former NFL wide receiver and long-time <a>University of Wisconsin&#x2013;Madison</a> assistant football coach</li>
+established$$$@@@%%%  <li><a>Gregg Miller</a> - Inventor of <a>Neuticles</a> and author</li>
+vice_chancellor$$$@@@%%%  <li><a>Erich &quot;Mancow&quot; Muller</a> - Hosts Mancow's Morning Madhouse, a Chicago-based radio show that has been syndicated across the U.S.</li>
+established$$$@@@%%%  <li><a>Carrie Nation</a> - Leader of the Temperance Movement</li>
+established$$$@@@%%%  <li><a>Chuck &quot;The Dude&quot; Palumbo</a> - Professional wrestler</li>
+doctoral$$$@@@%%%  <li><a>Earl Edwin Pitts</a> - Soviet spy</li>
+type$$$@@@%%%  <li><a>Jerry Reuss</a> - Former pitcher; best known for his years with the <a>Los Angeles Dodgers</a>.</li>
+type$$$@@@%%%<li><a>David Steward</a> - CEO of World Wide Technology, Inc., the world's largest African American-owned company</li>
+type$$$@@@%%%  <li><a>Delanie Walker</a> - Tight end for the <a>San Francisco 49ers</a></li>
+established$$$@@@%%%  <li><a>Gregg Williams</a> - Former NFL head football coach with the <a>Buffalo Bills</a>, and defensive coordinator for the <a>Washington Redskins</a>, <a>Tennessee Titans</a>, and <a>Jacksonville Jaguars</a>; currently the defensive coordinator with the <a>New Orleans Saints</a>.</li>
+type$$$@@@%%%  <li><a>Jeff Wright</a> - Former nose tackle for the <a>Buffalo Bills</a></li>
+established$$$@@@%%%  <li><a>Jeffrey Lundgren</a> - Self-proclaimed prophet, former leader of a cult group, and convicted murderer.</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h2>References</h2>
+image_name$$$@@@%%%<p><img></p>
+image_name$$$@@@%%%<h2>External links</h2>
+image_name$$$@@@%%%<ul>
+affiliations$$$@@@%%%  <li><a>Official site</a></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p> </p>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%
+image_name$$$@@@%%%

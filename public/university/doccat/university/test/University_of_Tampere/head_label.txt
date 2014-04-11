@@ -1,0 +1,3 @@
+<li>School of Information sciences</li>
+<li>School of Medicine</li>
+<li>School of Management</li>

@@ -1,0 +1,83 @@
+established$$$@@@%%%<p>  <a>thumb|300px|right|National Taipei University of Technology</a></p>
+established$$$@@@%%%<p>The <strong>National Taipei University of Technology</strong> is located in the <a>Daan District</a> of <a>Taipei City</a>, <a>Taiwan</a>.
+established$$$@@@%%%The university traces its origins to the establishment of the School of Industrial Instruction in 1912.
+image_name$$$@@@%%%</p>
+nickname$$$@@@%%%<p>This institution underwent several name changes and reorganization during the Japanese colonial period in <a>Taiwan</a>.
+established$$$@@@%%%By the time the ROC government moved to Taiwan, this technical institution was renamed Provincial Taipei Institute of Technology and served as a junior <a>vocational technical college</a>.
+established$$$@@@%%%In 1981, it was renamed <em>National Taipei Institute of Technology</em>, and in the 1990s upgraded its junior college status to that of a university, resulting in the final name change to <em>National Taipei University of Technology</em> (&#x570b;&#x7acb;&#x53f0;&#x5317;&#x79d1;&#x6280;&#x5927;&#x5b78;) in 1997.
+staff$$$@@@%%%The university currently has 383 full-time faculty members.</p>
+president$$$@@@%%%<p>The university is headed by Dr. Tsu-tian Lee, who serves as the president.</p>
+image_name$$$@@@%%%<h2>Colleges</h2>
+established$$$@@@%%%<p>The University is divided into 6 Colleges each made up of various institutes and departments.</p>
+closed$$$@@@%%%<h3>College of Electric Engineering and Computer Science</h3>
+image_name$$$@@@%%%<ul>
+city$$$@@@%%%  <li>Institute of Electrical Engineering</li>
+city$$$@@@%%%  <li>Institute of Electro-Optical Engineering</li>
+former_names$$$@@@%%%  <li>Institute of Computer Science and Information Engineering</li>
+website$$$@@@%%%  <li>Graduate Institute of Computer and Communication Engineering</li>
+affiliations$$$@@@%%%  <li>Dept. of Electrical Engineering</li>
+affiliations$$$@@@%%%  <li>Dept. of Electronic Engineering</li>
+city$$$@@@%%%  <li>Dept. of Electro-Optical Engineering</li>
+closed$$$@@@%%%  <li>Dept. of Computer Science and Information Engineering</li>
+image_name$$$@@@%%%</ul>
+established$$$@@@%%%<h3>College of Mechanical and Electrical Engineering</h3>
+image_name$$$@@@%%%<ul>
+city$$$@@@%%%  <li>Institute of Mechatronic Engineering</li>
+city$$$@@@%%%  <li>Institute of Vehicle Engineering</li>
+city$$$@@@%%%  <li>Institute of Energy and Refrigerating Air-Conditioning Engineering</li>
+city$$$@@@%%%  <li>Graduate Institute of Manufacturing Technology</li>
+city$$$@@@%%%  <li>Graduate Institute of Automation Technology</li>
+affiliations$$$@@@%%%  <li>Graduate Institute of Mechanical And Electrical Engineering-Ph.D. Program</li>
+affiliations$$$@@@%%%  <li>Dept. of Mechanical Engineering</li>
+affiliations$$$@@@%%%  <li>Dept. of Vehicle Engineering</li>
+established$$$@@@%%%  <li>Dept. of Energy and Refrigerating Air-Conditioning Engineering</li>
+image_name$$$@@@%%%</ul>
+established$$$@@@%%%<h3>College of Engineering</h3>
+image_name$$$@@@%%%<ul>
+established$$$@@@%%%  <li>Institute of Civil and Disaster Prevention Engineering</li>
+website$$$@@@%%%  <li>Institute of Materials and Mineral Resources Engineering</li>
+city$$$@@@%%%  <li>Institute of Biotechnology</li>
+city$$$@@@%%%  <li>Institute of Chemical Engineering</li>
+website$$$@@@%%%  <li>Institute of Organic and Polymeric Materials</li>
+city$$$@@@%%%  <li>Institute of Mineral Resources Engineering</li>
+website$$$@@@%%%  <li>Institute of Environmental Engineering and Management</li>
+city$$$@@@%%%  <li>Graduate Institution of Engineering Technology-Doctoral</li>
+established$$$@@@%%%  <li>Dept. of Chemical Engineering and Biotechnology</li>
+established$$$@@@%%%  <li>Dept. of Materials and Mineral Resources Engineering</li>
+affiliations$$$@@@%%%  <li>Dept. of Civil Engineering</li>
+closed$$$@@@%%%  <li>Dept. of Molecular Science and Engineering</li>
+image_name$$$@@@%%%</ul>
+established$$$@@@%%%<h3>College of Management</h3>
+image_name$$$@@@%%%<ul>
+website$$$@@@%%%  <li>Institute of Production System Engineering and Management</li>
+website$$$@@@%%%  <li>Institute of Commerce Automation and Management</li>
+established$$$@@@%%%  <li>Dept. of Industrial Engineering and Management</li>
+affiliations$$$@@@%%%  <li>Dept. of Business Management</li>
+image_name$$$@@@%%%</ul>
+established$$$@@@%%%<h3>College of Design</h3>
+image_name$$$@@@%%%<ul>
+website$$$@@@%%%  <li>Graduate Institute of Innovation and Design</li>
+city$$$@@@%%%  <li>Graduate Institute of Design</li>
+campus$$$@@@%%%  <li>Institute of Architecture and Urban Design</li>
+affiliations$$$@@@%%%  <li>Dept. of Industrial Design</li>
+affiliations$$$@@@%%%  <li>Dept. of Architecture</li>
+image_name$$$@@@%%%</ul>
+established$$$@@@%%%<h3><a>College of Humanities and Social Sciences</a></h3>
+image_name$$$@@@%%%<ul>
+type$$$@@@%%%  <li><a>Institute of Technological and Vocational Education</a></li>
+affiliations$$$@@@%%%  <li><a>Dept. of English</a></li>
+type$$$@@@%%%  <li>Teacher Education Center</li>
+image_name$$$@@@%%%</ul>
+city$$$@@@%%%<h2>See also</h2>
+image_name$$$@@@%%%<ul>
+type$$$@@@%%%  <li><a>List of universities in Taipei</a></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h2>External links</h2>
+image_name$$$@@@%%%<ul>
+affiliation$$$@@@%%%  <li><a>Official website</a> </li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%<p><img></p>
+image_name$$$@@@%%%
+image_name$$$@@@%%%

@@ -1,0 +1,14 @@
+<li>1901 <strong><a>Wilhelm Conrad R&#x00f6;ntgen</a></strong> (Physics)</li>
+<li>1902 <strong><a>Emil Fischer</a></strong> (Chemistry)</li>
+<li>1907 <strong><a>Eduard Buchner</a></strong> (Chemistry)</li>
+<li>1919 <strong><a>Johannes Stark</a></strong> (Physics)</li>
+<li>1922 <strong><a>Wilhelm Wien</a></strong> (Physics)</li>
+<li>1935 <strong><a>Hans Spemann</a></strong> (Medicine)</li>
+<li>1985 <strong><a>Klaus von Klitzing</a></strong> (Physics)</li>
+<li>1988 <strong><a>Hartmut Michel</a></strong> (Chemistry)</li>
+<li>1903 <strong><a>Svante Arrhenius</a></strong> (Chemistry)</li>
+<li>1909 <strong><a>Ferdinand Braun</a></strong> (Physics)</li>
+<li>1914 <strong><a>Max von Laue</a></strong> (Physics)</li>
+<li>1920 <strong><a>Walther Hermann Nernst</a></strong> (Chemistry)</li>
+<li>1930 <strong><a>Karl Landsteiner</a></strong> (Medicine)</li>
+<li><a>Botanischer Garten der Universit&#x00e4;t W&#x00fc;rzburg</a>, the university's <a>botanical garden</a></li>

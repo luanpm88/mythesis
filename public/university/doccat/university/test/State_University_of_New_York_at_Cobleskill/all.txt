@@ -1,0 +1,136 @@
+established$$$@@@%%%<p> <strong>State University of New York College of Agriculture and Technology at Cobleskill</strong>, also known as SUNY Cobleskill, is a comprehensive college offering degrees in agriculture and technology; business and computer technology; culinary arts, hospitality and tourism; early childhood; and liberal arts and sciences.
+established$$$@@@%%%The school began as the Schoharie State School of Agriculture in 1916.
+established$$$@@@%%%The college is located in <a>Schoharie County, New York</a> and offers 41 associate's degree programs and 15 bachelor's degree programs.
+country$$$@@@%%%SUNY Cobleskill is accredited by the Middle States Association of Colleges and Secondary Schools, and the NYS Education Department registers all academic programs.
+established$$$@@@%%%The college is approved for awarding of the following degrees: Bachelor of Business Administration (BBA), Bachelor of Science (BS), Bachelor of Technology (BT), Associate in Arts (AA), Associate in Science (AS), Associate in Applied Science (AAS), and Associate in Occupational Studies (AOS).
+free_label$$$@@@%%%Within the next few years the college will change to an official four year institution and will join the National Collegiate Athletic Association <a>NCAA</a>.
+established$$$@@@%%%According to SUNY Cobleskill's <em>Strategic Plan 2004-2011,</em> the college is striving to become the premier Agricultural Institution in the northeast.</p>
+image_name$$$@@@%%%<h2>Mission</h2>
+established$$$@@@%%%<p>SUNY Cobleskill's mission is to provide superior educational experiences supported by technology.
+nickname$$$@@@%%%We take pride in delivering technical and general courses with personal attention in a student-centered environment, emphasizing friendship, cooperation, and respect.</p>
+image_name$$$@@@%%%<h2>Campus Facilities</h2>
+image_name$$$@@@%%%<h3>Residence Halls</h3>
+staff$$$@@@%%%<p>SUNY Cobleskill has 10 residence halls for full-time students.
+postgrad$$$@@@%%%All student rooms are wired for cable television and Internet access, as well as voice mail.</p>
+free$$$@@@%%%<p><strong>First Year Experience</strong> Permitting only first years students.</p>
+image_name$$$@@@%%%<ul>
+image_size$$$@@@%%%  <li>Fake Hall</li>
+image_size$$$@@@%%%  <li>Parsons Hall </li>
+image_size$$$@@@%%%  <li>Ten Eyck Hall</li>
+image_name$$$@@@%%%</ul>
+staff$$$@@@%%%<p><strong>Sophomore Experience</strong> Permitting all but first year students.</p>
+image_name$$$@@@%%%<ul>
+image_size$$$@@@%%%  <li>Dix Hall</li>
+image_size$$$@@@%%%  <li>Draper Hall</li>
+image_size$$$@@@%%%  <li>Pearson Hall</li>
+image_name$$$@@@%%%</ul>
+affiliations$$$@@@%%%<p><strong>Cobleskill Traditional</strong> Permitting any student regardless of year.</p>
+image_name$$$@@@%%%<ul>
+image_size$$$@@@%%%  <li>Porter Hall</li>
+image_size$$$@@@%%%  <li>Vroman Hall</li>
+image_name$$$@@@%%%</ul>
+affiliations$$$@@@%%%<p><strong>Upper Class Living/Learning</strong> Permitting any student with 60 or more credits completed.</p>
+image_name$$$@@@%%%<ul>
+image_size$$$@@@%%%  <li>Davis Hall</li>
+image_name$$$@@@%%%</ul>
+established$$$@@@%%%<p><strong>Single Gender</strong> Segregating the residents by wing, one is female, the other is male.
+affiliations$$$@@@%%%Each wing has one or two common, single gender bathrooms.</p>
+image_name$$$@@@%%%<ul>
+image_size$$$@@@%%%  <li>Wieting Hall</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h3>Academic Buildings</h3>
+nickname$$$@@@%%%<p>The academic buildings are spread out across the campus.
+nickname$$$@@@%%%The major buildings include:</p>
+image_name$$$@@@%%%<ul>
+former_names$$$@@@%%%  <li>The Old Quad complex, located on the original college site, includes: Frisbie, Home Economics, Old Gym, and Alumni Halls.</li>
+image_size$$$@@@%%%<li>The Agricultural complex, including: Curtis Mott (Ag Eng), Hodder Hall (Plant Science), Animal Science Lab, Dairy Barn, Equestrian Center, Fish Hatchery, Greenhouses, Horse Barn, Livestock Building, Meat Processing Lab, and the Nursery.</li>
+nickname$$$@@@%%%<li>Warner: The Business and Computer technologies building.</li>
+website$$$@@@%%%<li>Wheeler: The Liberal Arts and Sciences building.</li>
+website$$$@@@%%%<li>Champlin and Prentice Halls: Culinary Arts, Hospitality &amp; Tourism buildings,</li>
+image_size$$$@@@%%%  <li>Holmes Hall: the Early Childhood building.</li>
+website$$$@@@%%%<li>The Childcare Center</li>
+caption$$$@@@%%%  <li>Van Wagenen Library</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h3>Dining Facilities</h3>
+mascot$$$@@@%%%<p>The Dining Services are run by the Cobleskill Auxiliary Services (CAS) and are various.
+type$$$@@@%%%With their ID card, students may use their meal plan, a CobyCash account, or opt to pay in cash.</p>
+image_name$$$@@@%%%<ul>
+city$$$@@@%%%  <li>Anything Grows Cafe, in Hodder Hall</li>
+image_size$$$@@@%%%  <li>American Heritage, in Prentice Hall </li>
+image_size$$$@@@%%%  <li>Champlin Hall</li>
+established$$$@@@%%%  <li>The Courtyard Cafe, in Prentice Hall</li>
+city$$$@@@%%%  <li>Sandellas Cafe, in Bouck Hall (Sandellas meal plan required)</li>
+city$$$@@@%%%  <li>Warner Cafe, in Warner Hall</li>
+image_name$$$@@@%%%</ul>
+nickname$$$@@@%%%<h3>Athletic Facilities</h3>
+image_name$$$@@@%%%<ul>
+image_name$$$@@@%%%  <li>Baseball Field</li>
+vice_chancellor$$$@@@%%%  <li>Bouck Pool, which has an olympic-sized swimming pool.</li>
+image_name$$$@@@%%%<li>Running Track</li>
+image_name$$$@@@%%%  <li>Soccer Field</li>
+image_name$$$@@@%%%  <li>Softball Field</li>
+website$$$@@@%%%  <li>Fitness Center</li>
+image_name$$$@@@%%%  <li>Tennis Courts</li>
+motto$$$@@@%%%  <li>The Fieldhouse</li>
+motto$$$@@@%%%  <li>The Ioro Gymnasium</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h3>Other Facilities</h3>
+image_name$$$@@@%%%<ul>
+free_label$$$@@@%%%  <li>Bouck Hall, the Student Activities Building, which is home to the Ioro Gymnasium, the fitness center, the Bouck Auditorium, the Campus bowling alley, the Bouck swimming pool, the college store, the mail room, the Student Life Center, Sandella's Cafe, The Commuter Lounge, and the Bouck Ballroom.</li>
+city$$$@@@%%%<li>Johnson Hall, home to University Police.</li>
+image_size$$$@@@%%%<li>Knapp Hall, the Administration Building; home to the Career Development Center, Residential Life, Student Accounts, Admissions, Financial Aid, the Registrar's office, and telecommunications.</li>
+website$$$@@@%%%<li>The Wellness Center offers both medical support, and counseling.</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h2>Presidential Search</h2>
+established$$$@@@%%%<p>Former President <a>Thomas J. Haas</a> left SUNY Cobleskill In August 2006 and took the position of president of <a>Grand Valley State University</a> in <a>Allendale, Michigan</a>.
+affiliations$$$@@@%%%This left Cobleskill without a president.
+established$$$@@@%%%Dr Anne Myers stepped up and took the position of Provost and Officer in Charge.</p>
+established$$$@@@%%%<p>The 2006-2007 presidential search failed to produce a nomination to the SUNY board of Trustees.</p>
+affiliations$$$@@@%%%<p>On January 3, 2008 SUNY Interim Chancellor Dr. John B. Clark nominated Dr. Donald P. Zingale to the position of president at SUNY Cobleskill.
+established$$$@@@%%%Zingale has served as president of vice president for academic affairs at The <a>California Maritime Academy</a> since June 2004.
+affiliations$$$@@@%%%The nomination must go before the SUNY board of Trustees for final approval on Jan. 15, 2008.</p>
+established$$$@@@%%%<p>On January 15, 2008 the SUNY board of Trustees appointed Dr. <a>Donald P. Zingale</a> as the next president of SUNY Cobleskill, effective May 1, 2008, at a salary of $185,000.</p>
+nickname$$$@@@%%%<h2>Student body</h2>
+country$$$@@@%%%<p>From the Princeton Review for the 2007-2008 semesters </p>
+free_label$$$@@@%%%<h2>Athletics</h2>
+country$$$@@@%%%<p>The college athletic program has recently become a member of the National College Athletic Association after years in the NJCAA.
+mascot$$$@@@%%%Athletic division: NCAA Division III</p>
+students$$$@@@%%%<p><strong>Intercollegiate Sports</strong></p>
+image_name$$$@@@%%%<ul>
+image_name$$$@@@%%%  <li>Baseball: <em>Men's</em></li>
+image_name$$$@@@%%%  <li>Basketball: <em>Men's / Women's</em></li>
+city$$$@@@%%%  <li>Cross-Country Track: <em>Men's / Women's</em></li>
+image_name$$$@@@%%%  <li>Diving: <em>Men's / Women's</em></li>
+image_name$$$@@@%%%  <li>Equestrian: <em>Men's / Women's</em></li>
+image_name$$$@@@%%%  <li>Golf: <em>Men's / Women's</em></li>
+image_name$$$@@@%%%  <li>Lacrosse: <em>Men's</em></li>
+image_name$$$@@@%%%  <li>Soccer: <em>Men's / Women's</em></li>
+image_name$$$@@@%%%  <li>Softball: <em>Woman's</em></li>
+image_name$$$@@@%%%  <li>Swimming: <em>Men's / Women's</em></li>
+image_name$$$@@@%%%  <li>Tennis: <em>Men's / Women's</em></li>
+image_name$$$@@@%%%  <li>Track &amp; Field: <em>Men's / Women's</em></li>
+image_name$$$@@@%%%  <li>Volleyball: <em>Men's / Women's</em></li>
+image_name$$$@@@%%%</ul>
+free$$$@@@%%%<h2>Notable alumni</h2>
+image_name$$$@@@%%%<ul>
+affiliation$$$@@@%%%  <li><a>Pete Dominick</a>, Comedian</li>
+affiliation$$$@@@%%%  <li><a>Peter Lopez</a> (R), 127th New York Assemblyman (2006-present)</li>
+free$$$@@@%%%  <li>Jessica Chittenden, Communication Specialist, New York State Department of Agriculture &amp; Markets</li>
+affiliations$$$@@@%%%  <li>Jen Kaido, 2008 U.S. Olympic Womans Rowing Team Member</li>
+image_name$$$@@@%%%</ul>
+provost$$$@@@%%%<h2>Notable faculty</h2>
+image_name$$$@@@%%%<ul>
+established$$$@@@%%%  <li><a>Erik Hage</a>, author and journalist   </li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h2>References</h2>
+image_name$$$@@@%%%<p><img></p>
+image_name$$$@@@%%%<h2>External links</h2>
+image_name$$$@@@%%%<ul>
+affiliation$$$@@@%%%  <li><a>SUNY Cobleskill</a></li>
+affiliation$$$@@@%%%  <li><a>SUNY Cobleskill Fan page</a></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%<p> <img></p>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%
+image_name$$$@@@%%%

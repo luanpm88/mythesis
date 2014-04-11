@@ -1,0 +1,12 @@
+<p> is a <a>national university</a> in <a>Niigata</a>, <a>Niigata Prefecture</a>, <a>Japan</a>.
+It is one of the largest Japanese national universities on the <a>Sea of Japan</a>.</p>
+&lt;!--The Faculty of Humanities, the Faculty of Medicine <em>School of Medicine</em>, the Faculty of Medicine <em>School of Health Sciences</em> and the Graduate School of Humanities are Japanese only.
+<p>In 1901 five national medical schools were established in <a>Chiba</a>, <a>Sendai</a>, <a>Okayama</a>, <a>Kanazawa</a> and <a>Nagasaki</a>.
+The municipal and prefectural governments of Niigata demanded a national medical school from the Ministry of Education, but the plan was deferred because of the <a>Russo-Japanese War</a>.
+<h3>Undergraduate schools</h3>
+<li>Faculty of Education</li>
+<h3>Graduate schools</h3>
+<li>Graduate School of Education</li>
+<li>Public Collaboration Research Center</li>
+<li>Affiliated Schools of the Faculty of Education
+<li>Field Center for Sustainable Agriculture and Forestry (Faculty of Agriculture)</li>

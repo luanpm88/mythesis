@@ -1,0 +1,14 @@
+<p>CBS Sport is an independent sports organization belonging to CBS.
+CBS Sport is an independent sports organization belonging to CBS.
+<p>Student facilities include multimedia labs, interpretation labs, break-out rooms for group and project work, personal computers and Learning Resource Center.
+<li>Center for Strategic Management and Globalization</li>
+<li>Center for Applied Information and Communication Technology</li>
+<li>Centre for Art and Leadership</li>
+<li>Center for Corporate Governance</li>
+<li>Center for Health Management</li>
+<li>Center for Innovation and Entrepreneurship</li>
+<li>Center for Marketing Communication</li>
+<li>Center for Shipping Economics and Innovation</li>
+<li>Center for Statistics</li>
+<li>Center for Strategic Management and Globalization</li>
+<li>Center for Tourism and Culture Management</li>

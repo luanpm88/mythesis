@@ -1,0 +1,3 @@
+<h4>Faculty of Medicine</h4>
+<h4>Faculty of Stomatology</h4>
+<h4>Faculty of Nutrition</h4>

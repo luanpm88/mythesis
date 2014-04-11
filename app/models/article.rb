@@ -6,6 +6,9 @@ class Article < ActiveRecord::Base
   has_many :attribute_values
   has_many :test_article_attribute_sentences
   
+  @@template = 'actor'
+  @@no_attributes = ['name','image','caption','imagesize','bgcolour','alt','latin_name','native_name','image_size']
+  
   def self.write_log(log)
     str = ""
     if File.file?("public/log.txt")
@@ -22,7 +25,7 @@ class Article < ActiveRecord::Base
   ##1
   def self.import(maxxx)
     #infobox template
-    infobox_template = InfoboxTemplate.where(name: "university").first
+    infobox_template = InfoboxTemplate.where(name: @@template).first
     
     # new method
     reader = Nokogiri::XML::Reader(File.open("/media/luan/01CF3161B4B56810/MyThesis/enwiki-20110115-pages-articles.xml"))
@@ -39,6 +42,8 @@ class Article < ActiveRecord::Base
                             
                             val = /\{\{infobox\s*#{infobox_template.name}(.+)((.*)(\{\{(.+)\}\})(.*))*\}\}/m.match(content.downcase)
                             if !val.nil?
+                              
+                              
                               Article.create(:title => page.css("title").text,
                                              :content => page.css("text").text,
                                              :content_html => Wikitext::Parser.new.parse(page.css("text").text.gsub(/\[\[\s*category\:[^\[\]]+\]\]/mi, '')),
@@ -70,24 +75,23 @@ class Article < ActiveRecord::Base
                               lines.each do |line|
                                 if /\=/.match(line)
                                   parts = line.split("=")
-                                  attr_name = parts[0].gsub(/\s*\|\s*/,"").strip
-                                  attr_value = line.gsub(parts[0]+'=','').strip
-                                  # puts attr_name # + ": " + line.gsub(parts[0]+'=','').strip + "\n"
-                                  # puts line.gsub(parts[0]+'=','').strip
+                                  attr_name = parts[0].gsub(/\s*\|\s*/,"").gsub(/[\[\]]/,"").strip
+                                  attr_value = line.gsub(parts[0]+'=','').gsub(/<!--[\s\S]*?-->/,'').strip
                                                                     
-                                  attribute = infobox_template.attributes.where(name: attr_name).first
-                                  if attribute.nil?                                    
-                                    attribute = infobox_template.attributes.create(name: attr_name)
+                                  if !@@no_attributes.include?(attr_name) && attr_value != ''
+                                    attribute = infobox_template.attributes.where(name: attr_name).first
+                                    if attribute.nil?
+                                      attribute = infobox_template.attributes.create(name: attr_name)
+                                    end
+                                    
+                                    puts attribute.name
+                                    @logstr += attribute.name + "\n"                                  
+                                    
+                                    attribute_value = AttributeValue.where(article_id: article.id, attribute_id: attribute.id).first
+                                    if attribute_value.nil?                                    
+                                      AttributeValue.create(article_id: article.id, attribute_id: attribute.id, value: attr_value)                                  
+                                    end                                    
                                   end
-                                  
-                                  puts attribute.name
-                                  @logstr += attribute.name + "\n"                                  
-                                  
-                                  attribute_value = AttributeValue.where(article_id: article.id, attribute_id: attribute.id).first
-                                  if attribute_value.nil?                                    
-                                    AttributeValue.create(article_id: article.id, attribute_id: attribute.id, value: attr_value, raw_value: attr_value.gsub(/\<ref(.+)\<\/ref\>/m,'').gsub(/\{\{(.+)\}\}/m, '').gsub(/\[\[(.+)\|/m, '').gsub(/[\[|\]]/m, '').gsub(/\<(.+)\/\>/m, '').gsub(/\<br\>/m, '').gsub(/\'\'/m,''))                                  
-                                  end
-                                  
                                   
                                   ### infobox_template.attributes.create(name: attr_name)
                                 end
@@ -113,14 +117,18 @@ class Article < ActiveRecord::Base
     
     
   end
-  
+
+
   ##1.1
   def self.set_attribute_status
-    infobox_template = InfoboxTemplate.where(name: "university").first
+    infobox_template = InfoboxTemplate.where(name: @@template).first
     
     infobox_template.attributes.each do |attribute|
-      count = AttributeValue.where(attribute_id: attribute.id).count("article_id",distinct: true)
+      count = AttributeValue.joins(:article).where(attribute_id: attribute.id).where("articles.for_test=0").count("article_id",distinct: true) #AttributeValue.where(attribute_id: attribute.id).count("article_id",distinct: true)
       total = infobox_template.articles.where(for_test: 0).count
+      
+      puts count.to_s + "/" + total.to_s
+      sleep(1)
       
       if (count.to_f / total.to_f) < 0.15
         attribute.status = 0
@@ -132,34 +140,36 @@ class Article < ActiveRecord::Base
       
     end
   end
-  
-  
-  ##2###
+
+
+  ##2
   def self.create_raw_attribute_value
     @avs = AttributeValue.all
-    
+    log_str = ""
     @avs.each do |av|
       puts av.article.title + ": " + av.value.gsub(/\<ref(.+)\<\/ref\>/m,'').gsub(/\{\{(.+)\}\}/m, '').gsub(/\[\[(.+)\|/m, '').gsub(/[\[|\]]/m, '').gsub(/\<(.+)\/\>/m, '').gsub(/\<br\>/m, '').gsub(/\'\'/m,'')
-      av.raw_value = av.value.gsub(/\<ref(.+)\<\/ref\>/m,'').gsub(/\{\{(.+)\}\}/m, '').gsub(/\[\[(.+)\|/m, '').gsub(/[\[|\]]/m, '').gsub(/\<(.+)\/\>/m, '').gsub(/\<br\>/m, '').gsub(/\'\'/m,'')
-      av.save
-      #sleep(0.01)
+      av.raw_value = av.value.gsub(/\<ref(.+)\<\/ref\>/m,'').gsub(/\{\{(.+)\}\}/m, '').gsub(/\[\[[^\]\[]+\|/m, '').gsub(/[\[|\]]/m, '').gsub(/\<(.+)\/\>/m, '').gsub(/\<br\>/m, '').gsub(/\'\'/m,'')
+      log_str += av.value + " | " + av.raw_value + "\n"
+      #av.save
     end
+    File.open("public/log_attribute_value.txt", "w") { |file| file.write log_str }
   end
-  
+
+
   def self.create_senteces_file
     article = Article.first
     
     File.open("public/senteces.txt", "w") { |file| file.write article.content_html.gsub(/<([^>\/\s]+)([^>]*)>/,'<\1>') }
   end
-  
-  
+
+
   ##3
   def self.write_article_to_files
     #system("public/opennlp-tools/bin/opennlp SentenceDetector en-sent.bin < ~/rails-apps/mythesis2/public/senteces.txt > ~/rails-apps/mythesis2/public/senteces_output.txt")
     #bin/opennlp SentenceDetector en-sent.bin < ~/rails-apps/mythesis2/public/senteces.txt > ~/rails-apps/mythesis2/public/senteces_output.txt
     
     
-    infobox_template = InfoboxTemplate.where(name: "university").first
+    infobox_template = InfoboxTemplate.where(name: @@template).first
     
     `mkdir public/articles`
     `mkdir public/articles/#{infobox_template.name}`
@@ -198,7 +208,7 @@ class Article < ActiveRecord::Base
   
   ##4
   def self.find_sentences_with_value
-    infobox_template = InfoboxTemplate.where(name: "university").first
+    infobox_template = InfoboxTemplate.where(name: @@template).first
     infobox_template.attributes.where(status: 1).all.each do |attribute|
       
       #if attribute.name != "name"
@@ -206,9 +216,9 @@ class Article < ActiveRecord::Base
           
           begin
             if attribute_value.article.for_test == 0
-              f = File.open("public/articles/university/sentenced/train/#{attribute_value.article.title.gsub(/[\s\&\'\,]/,'_')}.txt")
+              f = File.open("public/articles/#{@@template}/sentenced/train/#{attribute_value.article.title.gsub(/[\s\&\'\,]/,'_')}.txt")
             else
-              f = File.open("public/articles/university/sentenced/test/#{attribute_value.article.title.gsub(/[\s\&\'\,]/,'_')}.txt")
+              f = File.open("public/articles/#{@@template}/sentenced/test/#{attribute_value.article.title.gsub(/[\s\&\'\,]/,'_')}.txt")
             end
             
             match_count = 0
@@ -248,7 +258,7 @@ class Article < ActiveRecord::Base
   
   ##5
   def self.create_doccat_training_file
-    infobox_template = InfoboxTemplate.where(name: "university").first
+    infobox_template = InfoboxTemplate.where(name: @@template).first
     
     `mkdir public/doccat/#{infobox_template.name}`
     `mkdir public/doccat/#{infobox_template.name}/train`
@@ -256,7 +266,7 @@ class Article < ActiveRecord::Base
     str = ""
     
     infobox_template.attributes.where(status: 1).each do |attribute|
-      if attribute.name != "name" && attribute.name != "latin_name" && attribute.name != "native_name"
+      if attribute.name != "name" && attribute.name != "latin_name" && attribute.name != "native_name" && attribute.name != "image_size"
         attribute.attribute_sentences.where(for_test: 0).each do |as|
           str += as.attribute.name + " " + as.content if !as.attribute.name.nil? && !as.content.nil?
         end
@@ -268,7 +278,7 @@ class Article < ActiveRecord::Base
   
   ##6
   def self.train_doccat
-    infobox_template = InfoboxTemplate.where(name: "university").first
+    infobox_template = InfoboxTemplate.where(name: @@template).first
     
     `mkdir public/doccat/#{infobox_template.name}/model`
     
@@ -277,7 +287,7 @@ class Article < ActiveRecord::Base
   
   ##6.1 //// test
   def self.doccat_test_files
-    infobox_template = InfoboxTemplate.where(name: "university").first
+    infobox_template = InfoboxTemplate.where(name: @@template).first
     
     #article = infobox_template.articles.first
     
@@ -336,13 +346,13 @@ class Article < ActiveRecord::Base
   def self.filter
     #TestArticleAttributeSentence.delete_all
     
-    infobox_template = InfoboxTemplate.where(name: "university").first
+    infobox_template = InfoboxTemplate.where(name: @@template).first
     
     article = infobox_template.articles.first
     
     infobox_template.attributes.where(status: 1).each do |attribute|
       
-      if attribute.name != "name" && attribute.name != "latin_name" && attribute.name != "native_name"
+      if attribute.name != "name" && attribute.name != "latin_name" && attribute.name != "native_name" && attribute.name != "image_size"
         if File.file?("public/cluster/#{infobox_template.name}/model/#{attribute.name.gsub(/[\s\/]+/,'_')}.bin")
         
           cluster = ""
@@ -361,26 +371,38 @@ class Article < ActiveRecord::Base
                   cluster = Marshal.load(file)
                 end
                 
+                
+                
+                
+                
                 f = File.open("public/doccat/#{infobox_template.name}/test/#{article.title.gsub(/[\s\&\'\,]/,'_')}/#{attribute.name.gsub(/[\s\/]+/,'_')}.txt")
                 current_line = f.gets.strip
                 c_sentence = current_line
                 
                 
-                cluster.points << current_line
-                cluster.refresh_vocab
-                cluster.get_centroid
-                max_similar = cluster.cosine(cluster.vector(current_line),cluster.centroid)
+                #cluster.points << current_line
+                #cluster.refresh_vocab
+                #cluster.get_centroid
+                puts current_line
+                max_similar = 0
                 
+                count = 0
                 while(current_line = f.gets)
+                  count += 1
                   
-                  similar = cluster.cosine(cluster.vector(current_line), cluster.centroid)
-              
+                  puts count
+                  
+                  similar = cluster.cosine(cluster.vector(cluster.clean_vocab(current_line)), cluster.centroid)
+                  
                   if similar > max_similar
                     max_similar = similar
                     c_sentence = current_line
                   end
                   
                 end
+                
+                puts max_similar
+
                 
                 exsit = TestArticleAttributeSentence.where(article_id: article.id, attribute_id: attribute.id).first
                 
@@ -411,7 +433,7 @@ class Article < ActiveRecord::Base
   
   ##7 gsub(/^([^\s]+\s){1}/,'') //// train
   def self.create_train_for_filter_by_cluster
-    infobox_template = InfoboxTemplate.where(name: "university").first
+    infobox_template = InfoboxTemplate.where(name: @@template).first
     
     `mkdir public/cluster/#{infobox_template.name}`
     `mkdir public/cluster/#{infobox_template.name}/train`
@@ -434,13 +456,13 @@ class Article < ActiveRecord::Base
   ##8 ///train
   def self.create_vector_space_for_attribute   
     
-    infobox_template = InfoboxTemplate.where(name: "university").first
+    infobox_template = InfoboxTemplate.where(name: @@template).first
     
     `mkdir public/cluster/#{infobox_template.name}/model`
     
     infobox_template.attributes.where(status: 1).each do |attribute|
       puts attribute.attribute_sentences.count
-      if attribute.name != "name" && attribute.name != "latin_name" && attribute.name != "native_name"
+      if attribute.name != "name" && attribute.name != "latin_name" && attribute.name != "native_name" && attribute.name != "image_size"
         data = []
         fn = "public/cluster/#{infobox_template.name}/train/#{attribute.name.gsub(/[\s\/]+/,'_')}.txt"
         
@@ -482,7 +504,7 @@ class Article < ActiveRecord::Base
   def self.create_training_data_for_CRF
     x_window = 3;
     
-    infobox_template = InfoboxTemplate.where(name: "university").first
+    infobox_template = InfoboxTemplate.where(name: @@template).first
     `mkdir public/crf/#{infobox_template.name}`
     `mkdir public/crf/#{infobox_template.name}/data`
     
@@ -504,7 +526,7 @@ class Article < ActiveRecord::Base
       attribute.attribute_sentences.where(for_test: 0).each do |as|
         
         
-          content = as.content.gsub(/\|/,'')
+          content = as.content.gsub(/\|/,'').gsub('<', ' <').gsub('>', '> ')
           as.value = as.value.gsub(/\|/,'')
           
           parts = content.downcase.split(as.value.downcase)
@@ -557,7 +579,7 @@ class Article < ActiveRecord::Base
   ##10 ---- from 6.1 6.2 //// test
   def self.create_test_files_crf
     #code
-    infobox_template = InfoboxTemplate.where(name: "university").first
+    infobox_template = InfoboxTemplate.where(name: @@template).first
 
     
       infobox_template.attributes.where(status: 1).each do |attribute|
@@ -568,7 +590,7 @@ class Article < ActiveRecord::Base
           puts test_s.sentence if !test_s.nil?
           
           if !test_s.nil?
-            str += test_s.sentence + "\n"
+            str += test_s.sentence.gsub('<', ' <').gsub('>', '> ') + "\n"
             #File.open("public/crf/#{infobox_template.name}/data/#{attribute.name.gsub(/[\s\/]+/,'_')}/#{attribute.name.gsub(/[\s\/]+/,'_')}.test.raw", "w") { |file| file.write  test_s.sentence}
           end
         
@@ -583,7 +605,7 @@ class Article < ActiveRecord::Base
   
   ##11 //// train
   def self.training_CRF
-    infobox_template = InfoboxTemplate.where(name: "university").first
+    infobox_template = InfoboxTemplate.where(name: @@template).first
     
     infobox_template.attributes.where(status: 1).each do |attribute|
       puts `java -cp lib/colt.jar:lib/CRF.jar:lib/CRF-Trove_3.0.2.jar:lib/LBFGS.jar:build:. iitb.Segment.Segment train -f public/crf/#{infobox_template.name}/#{attribute.name.gsub(/[\s\/]+/,'_')}.conf`
@@ -592,7 +614,7 @@ class Article < ActiveRecord::Base
   
   ##12 //// test
   def self.test_CRF
-    infobox_template = InfoboxTemplate.where(name: "university").first
+    infobox_template = InfoboxTemplate.where(name: @@template).first
         
     infobox_template.attributes.where(status: 1).each do |attribute|
       begin
@@ -607,7 +629,7 @@ class Article < ActiveRecord::Base
   
   ##13
   def self.get_result
-    infobox_template = InfoboxTemplate.where(name: "university").first
+    infobox_template = InfoboxTemplate.where(name: @@template).first
     
     infobox_template.attributes.where(status: 1).each do |attribute|
       file_name = "public/crf/#{infobox_template.name}/out/#{attribute.name.gsub(/[\s\/]+/,'_')}/#{attribute.name.gsub(/[\s\/]+/,'_')}.test.tagged"
@@ -670,7 +692,7 @@ class Article < ActiveRecord::Base
   
   ##14
   def self.write_result
-    infobox_template = InfoboxTemplate.where(name: "university").first
+    infobox_template = InfoboxTemplate.where(name: @@template).first
       
       #count result
       str = ""
@@ -699,9 +721,8 @@ class Article < ActiveRecord::Base
                 count_t += 1;
               end
               
-              count_finded += 1;
-              
             end
+            count_finded += 1;
           end
           
     end
@@ -716,12 +737,15 @@ class Article < ActiveRecord::Base
   def self.run_all
     
     ####1
-    #self.import(100)
+    #self.import(312)
     #self.write_log("#####1")
-
+    #
     ####1.1
     #self.set_attribute_status
     #self.write_log("#####2")
+    ##
+    ####2
+    #self.create_raw_attribute_value
     ##
     ####3
     #self.write_article_to_files
@@ -742,7 +766,7 @@ class Article < ActiveRecord::Base
     ####7
     #self.create_train_for_filter_by_cluster
     #self.write_log("#####7")
-    ##
+    #
     ####8
     #self.create_vector_space_for_attribute
     #
@@ -756,10 +780,10 @@ class Article < ActiveRecord::Base
     #self.doccat_test_files
     #self.write_log("#####6.1")
     
-    ###6.2
-    self.filter
-    self.write_log("#####6.2")
-    
+    ####6.2
+    #self.filter
+    #self.write_log("#####6.2")
+    #
     ###10
     self.create_test_files_crf
     self.write_log("#####10")

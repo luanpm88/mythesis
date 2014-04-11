@@ -1,0 +1,128 @@
+established$$$@@@%%%<p>  The <strong>University of Tasmania</strong> (<strong>UTAS</strong>) is a medium-sized public Australian university based in <a>Tasmania</a>, <a>Australia</a>.
+established$$$@@@%%%Officially founded on 1 January 1890, it was the fourth university to be established in nineteenth-century Australia.
+established$$$@@@%%%The University is a <a>sandstone university</a> and is a member of the international <a>Association of Commonwealth Universities</a>.</p>
+established$$$@@@%%%<p>The University of Tasmania offers various undergraduate and graduate programs in a range of disciplines.
+free_label$$$@@@%%%The University has also been consistently ranked in the top 10 universities in Australia for research and has links with 20 specialist research institutes, cooperative research centres and faculty based research centres; all of which are regarded as nationally and internationally competitive leaders.
+students$$$@@@%%%The University has a student population of 22,000, including approximately 3,000 international students and 1000 PhD students.
+established$$$@@@%%%- the Sandy Bay campus is set on 100&nbsp;hectares of land in the suburb of <a>Sandy Bay</a> &#x2013; a short distance from the centre of <a>Hobart</a>.
+established$$$@@@%%%Much of the upper campus is in natural bushland.
+nickname$$$@@@%%%Closer to the city centre are the Tasmanian Conservatorium of Music, the Clinical School (and more recently the medical sciences building) and the Tasmanian School of Art.
+students$$$@@@%%%About 10,000 students are enrolled at the Sandy Bay campus.</li>
+nickname$$$@@@%%%<li><strong>Launceston</strong> - the Launceston campus is set on 50&nbsp;hectares at <a>Newnham</a> overlooking the Tamar River, ten minutes from the centre of <a>Launceston</a>.Students studying Visual and Performing Arts and Architecture are located at the <a>Inveresk</a> campus.
+faculty$$$@@@%%%Over 5000 students are enrolled at both campuses.</li>
+type$$$@@@%%%<li><strong>Cradle Coast</strong> - the Cradle Coast campus is located in the city of <a>Burnie</a>.
+established$$$@@@%%%This campus was established in 1995 as the North-West Study Centre.</li>
+image_name$$$@@@%%%</ul>
+website$$$@@@%%%<p>The university also has a 334&nbsp;hectare property located 20&nbsp;km from the Sandy Bay campus.
+established$$$@@@%%%The University Farm is set in the cropping and grape growing area of Cambridge located in the Coal River valley, serving the teaching and research needs of the School of Agricultural Science.</p>
+image_name$$$@@@%%%<h3>Libraries</h3>
+established$$$@@@%%%<p>The University of Tasmania Library system comprises eight libraries: </p>
+image_name$$$@@@%%%<ol>
+image_name$$$@@@%%%  <li>Morris Miller (Sandy Bay)</li>
+established$$$@@@%%%  <li>Law (Sandy Bay)</li>
+doctoral$$$@@@%%%  <li>Science (Sandy Bay)</li>
+free_label$$$@@@%%%  <li>Art (Central Hobart)</li>
+nickname$$$@@@%%%  <li>Music (Central Hobart)</li>
+image_name$$$@@@%%%  <li>Clinical (Central Hobart)</li>
+image_name$$$@@@%%%  <li>Newnham Campus (Launceston)</li>
+country$$$@@@%%%  <li>Australian Maritime College (Launceston)</li>
+image_name$$$@@@%%%</ol>
+image_name$$$@@@%%%<h2>Academics</h2>
+image_name$$$@@@%%%<h3>Organization</h3>
+established$$$@@@%%%<p>The University of Tasmania is organised into six faculties: arts; business; education; health science; law; and science, engineering &amp; technology.
+students$$$@@@%%%In addition to these faculties, the university has six theme areas through which multidisciplinary and interdisciplinary collaborations in research and research training, learning and teaching, and community engagement are fostered.
+faculty$$$@@@%%%The theme areas are: Antarctic and Marine Science; Community, Place and Change; Environment; Frontier Technologies; Population and Health; and Sustainable Primary Production.</p>
+staff$$$@@@%%%<p>The Faculty of Law has a number of senior academic staff in that faculty are leading researchers in the areas of medical and bio-technological law and ethics, Freedom of Information, legal ethics and equity.
+established$$$@@@%%%The Faculty, with the Tasmanian state government, also operates the Tasmanian Law Reform Institute.
+image_name$$$@@@%%%</p>
+established$$$@@@%%%<p>The University currently holds the secretariat role of the International Antarctic Institute established in 2006 in partnership with 19 institutions in 12 countries.</p>
+established$$$@@@%%%<p>A partnership between UTAS and the Cradle Coast Authority established the Institute for Regional Development at the Cradle Coast campus in 2005.</p>
+image_name$$$@@@%%%<h3>Rankings</h3>
+established$$$@@@%%%<p>The University is a research intensive university.
+free_label$$$@@@%%%It has consistently been ranked amongst the top 10 universities in Australia for its research performance.
+type$$$@@@%%%It is also ranked the best research university outside the <a>Group of Eight</a>.</p>
+image_name$$$@@@%%%<p></p>
+nickname$$$@@@%%%<p>Internationally, the University is ranked 320 based on the <a>QS World University Rankings</a> 2010.</p>
+image_name$$$@@@%%%<p></p>
+established$$$@@@%%%<p>Domestically, based on the 2010 <a>Academic Ranking of World Universities</a> (ARWU), issued by <a>Jiao Tong University</a>, the University of Tasmania is ranked within the 14-17th bracket in Australia.</p>
+image_name$$$@@@%%%<p></p>
+established$$$@@@%%%<p>The Good Universities Guide 2011 awarded the university four-stars for teaching quality and research.</p>
+country$$$@@@%%%<p>Research produced by the <em>Melbourne Institute</em> in 2006, ranked Australian universities across seven main discipline areas: Arts &amp; Humanities, Business &amp; Economics, Education, Engineering, Law, Medicine, and Science.
+established$$$@@@%%%Based on data collected, the university ranked amongst the best in several of its discipline including Arts &amp; Humanities, Law, Medicine, and Science but fared poorly in Business &amp; Economics, Education and Engineering.</p>
+image_name$$$@@@%%%<p> </p>
+image_name$$$@@@%%%<ul>
+nickname$$$@@@%%%  <li>National Academic Ranking is based on the research output and teaching quality of institution.</li>
+country$$$@@@%%%<li>National Survey Ranking is based on Australian and overseas academics, scholars &amp; professionals perception of institution.</li>
+image_name$$$@@@%%%</ul>
+country$$$@@@%%%<h2>Research</h2>
+faculty$$$@@@%%%<p>The university's priority research themes include</p>
+image_name$$$@@@%%%<ul>
+campus$$$@@@%%%  <li>Antarctic and Marine</li>
+country$$$@@@%%%  <li>Community, Place and Change</li>
+image_name$$$@@@%%%  <li>Sustainable Primary Production</li>
+free_label$$$@@@%%%  <li>Population and Health</li>
+image_name$$$@@@%%%  <li>Environment</li>
+image_name$$$@@@%%%  <li>Frontier Technologies</li>
+image_name$$$@@@%%%</ul>
+country$$$@@@%%%<h3>Research Institutions</h3>
+image_name$$$@@@%%%<ul>
+established$$$@@@%%%  <li><a>Institute for Marine and Antarctic Studies</a></li>
+image_size$$$@@@%%%  <li><a>Menzies Research Institute</a></li>
+image_name$$$@@@%%%</ul>
+country$$$@@@%%%<p>&#x2022; Centre for Colonialism and its Aftermath  &#x2022; Centre for Law and Genetics &#x2022; Tasmania Law Reform Institute &#x2022; Centre for Aboriginal Education &#x2022; Tasmanian Institute of Law Enforcement Studies &#x2022; Tasmanian Aquaculture and Fisheries Institute &#x2022; Institute of Antarctic and Southern Ocean Studies &#x2022; Centre for Marine Science &#x2022; Antarctic Climate and Ecosystems CRC UTAS astronomers are our planet hunters and stargazers, looking above to give us knowledge of our own history.
+country$$$@@@%%%&#x2022; Australian Centre for Research on Separation Science &#x2022; Australian Innovation Research Centre</p>
+established$$$@@@%%%<p>UTAS geologists delve deep into the heart of the world to discover and manage its resources.
+provost$$$@@@%%%Intense industry partnerships thrive in this area, as business and research move towards creating energy-efficient opportunities.
+country$$$@@@%%%&#x2022; Centre of Excellence in Ore Deposits &#x2022; <a>Tasmanian Institute of Agricultural Research</a>&#x2022; Australian Food Safety Centre of Excellence</p>
+image_name$$$@@@%%%<h2>International focus</h2>
+established$$$@@@%%%<p>UTAS is truly an international university working out of Tasmania.
+students$$$@@@%%%While it maintains a strongly Tasmanian identity, its programs and research are genuinely international in vision and standards.
+nickname$$$@@@%%%The trend towards globalisation has largely defeated the isolation traditionally associated with an antipodean location.
+nickname$$$@@@%%%UTAS now plays a major role in helping Tasmania meet the challenge of internationalisation, maintaining a vision set on international rather than regional horizons.
+staff$$$@@@%%%At UTAS there are staff and students from more than 70 countries.
+established$$$@@@%%%The University values the presence of its international students and is proud of the services it is able to offer them.
+nickname$$$@@@%%%Special academic and English-language support is available, along with extensive social assistance, including help in finding accommodation and information about Australian society.
+established$$$@@@%%%Formal links with other universities outside Australia bear witness to the University of Tasmania&#x2019;s international standard and reputation.
+established$$$@@@%%%The University now has a large number of links and associations in Asia, as well as North America, the UK and Europe.</p>
+image_size$$$@@@%%%<h2>Student life</h2>
+image_size$$$@@@%%%<h4>Student Unionism</h4>
+established$$$@@@%%%<p> Until 2008, there were two separate student unions the <a>Tasmania University Union</a> (TUU) in <a>Hobart</a> and the Student Association (SA) in <a>Launceston</a>.
+established$$$@@@%%%Due to the abolition of <a>compulsory student unionism</a> in 2007, the SA and the TUU amalgamated into one Statewide Organisation representing all UTAS students.</p>
+country$$$@@@%%%<p>The President of the TUU is elected to represent all UTAS students on all campuses, and both Hobart and Launceston have their own Vice-President and Student Representative Councils.
+established$$$@@@%%%Both the TUU State President and TUU State Postgraduate sit on University Council, which is the governing body of the University of Tasmania.
+image_name$$$@@@%%%</p>
+nickname$$$@@@%%%<p>The TUU is responsible for the overseeing of all the university&#x2019;s many sports clubs and societies.
+free_label$$$@@@%%%Some of these include faculty-based societies, such as the Law Students, Medical Students and Engineering Students societies; societies related to various interests, such as PLoT (Produces Lots of Theatre), The Anime Society; and various sporting clubs, including white water rafting, soccer, hockey, Touch Football,  Australian Rules football, <a>Rugby Union</a>.</p>
+image_name$$$@@@%%%<h4>Residential Colleges</h4>
+established$$$@@@%%%<p>The university maintains a strong residential college system.
+nickname$$$@@@%%%A key aspect of campus life, the residential colleges are equipped with modern facilities and host several events during the semesters.
+established$$$@@@%%%The colleges also maintain their respective student clubs, key in the passing of traditions from one cohort to the next.
+established$$$@@@%%%The southern colleges annually compete in a series of sporting events including <a>Rugby</a>, <a>Australian Football</a>, <a>Cricket</a>, <a>Softball</a>, <a>Basketball</a>, <a>Table Tennis</a>, <a>Tennis</a> and <a>Soccer</a>.
+image_name$$$@@@%%%</p>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%<h2>Tasmania Scholarships</h2>
+established$$$@@@%%%<p>The Tasmania Scholarships program supports the University&#x2019;s commitment to offer students an exemplary learning environment.
+undergrad$$$@@@%%%It attracts talented students, both locally, nationally and internationally.
+country$$$@@@%%%Industry contributions now make up the backbone of the Tasmania Scholarships program.
+established$$$@@@%%%The development and growth of this initiative into one of the most successful sponsored programs in the country is exceptional by any standard.
+type$$$@@@%%%Around 10 per cent of all domestic students at UTAS receive some sort of scholarship or financial assistance.</p>
+image_name$$$@@@%%%<h2>Alumni</h2>
+faculty$$$@@@%%%<p>There are around 50,000 graduates who are now scattered all over the globe.
+established$$$@@@%%%Tasmania alumni include <a>Mary, Crown Princess of Denmark</a>; <a>Peter Underwood</a>, <a>Governor of Tasmania</a>; <a>Philip Lewis Griffiths</a>, Acting Chief Judge of the Mandated Territory of New Guinea; <a>Scott Brennan</a>, Gold Medalist at the 2008 Beijing Summer Olympics for rowing; <a>Bill Mollison</a>, &quot;Father of <a>Permaculture</a>;&quot; <a>William Noel Benson</a>, geologist; <a>Hon Justice Peter Heerey</a>, <a>Federal Court Judge</a>; <a>Chief Justice Ewan Crawford</a>, Chief Justice and Lieutenant-Governor of Tasmania; <a>Hannah Yeoh</a>, member of the <a>Selangor</a> State Legislative Assembly;; Dr.Halimah Ali, member of the Selangor Executive council and Selangor State Legislative assembly; Dato' Effendi Norwawi, former Minister of Agriculture Malaysia; Imam Sabri Samson, Chairman Islamic Council of Tasmania; Othman Hj Omar, General Manager for Selangor State Development Corporation; <a>Charles Philip Haddon-Cave</a>, former <a>Financial Secretary</a> of <a>Hong Kong</a>; <a>Richard Flanagan</a>, author and film director; <a>Stephen Gumley</a>, <a>CEO</a> of the <a>Australian</a> <a>Defence Materiel Organisation</a>; <a>Neal Blewett</a>, <a>Australian</a> politician; <a>Simon Hollingsworth</a>, <a>Australian</a> athlete; <a>Constantine Koukias</a>, <a>Australia</a>n composer.
+established$$$@@@%%%and <a>Prithviraj Sukumaran</a>, South <a>India</a>n Actor </p>
+city$$$@@@%%%<h2>See also</h2>
+image_name$$$@@@%%%<ul>
+affiliation$$$@@@%%%  <li><a>Mount Pleasant Radio Observatory</a></li>
+established$$$@@@%%%  <li><a>Tom Samek</a> creator of two murals in the Department of Engineering</li>
+nickname$$$@@@%%%  <li><a>Tasmanian Conservatorium of Music</a></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h2>References</h2>
+image_name$$$@@@%%%<p> </p>
+image_name$$$@@@%%%<h2>External links</h2>
+image_name$$$@@@%%%<ul>
+image_name$$$@@@%%%  <li></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%
+image_name$$$@@@%%%

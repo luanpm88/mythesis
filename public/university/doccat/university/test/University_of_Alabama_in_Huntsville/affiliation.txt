@@ -1,0 +1,14 @@
+<li><a>Alpha Kappa Alpha</a></li>
+<li><a>Delta Sigma Theta</a></li>
+<li><a>Delta Zeta</a></li>
+<li><a>Kappa Delta</a></li>
+<li><a>Chi Omega</a>, (silent)</li>
+<li><a>Alpha Omicron Pi</a></li>
+<li><a>Alpha Phi Alpha</a></li>
+<li><a>Alpha Tau Omega</a></li>
+<li><a>Delta Chi</a></li>
+<li><a>Kappa Alpha Psi</a></li>
+<li><a>Phi Beta Sigma</a></li>
+<li><a>Pi Kappa Alpha</a></li>
+<li><a>Sigma Nu</a></li>
+<li><a>Official website</a></li>

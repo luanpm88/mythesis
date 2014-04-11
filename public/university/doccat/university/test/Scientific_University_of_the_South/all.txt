@@ -1,0 +1,86 @@
+image_name$$$@@@%%%<p></p>
+type$$$@@@%%%<p>The <strong>Universidad Cient&#x00ed;fica del Sur</strong>, or <strong>UCSUR</strong>, is a higher education and research institution located in <a>Lima</a>, <a>Peru</a>.
+established$$$@@@%%%It has a four-hectare campus close to the <a>Pantanos de Villa Reserved Zone</a>, in <a>Villa El Salvador</a>.</p>
+established$$$@@@%%%<h2>History</h2>
+established$$$@@@%%%<p>The Universidad Cient&#x00ed;fica del Sur was founded in 1996 by a Promoting Association led by Jos&#x00e9; Carlos Dextre Chac&#x00f3;n and an Organizing Commission led by Fernando Cabieses.</p>
+established$$$@@@%%%<p>Two years later, the National Commission on the Functioning of Universities (CONAFU) approved the temporary activity of UCSUR by Resoluci&#x00f3;n N&#x00b0;356-98-CONAFU.
+affiliations$$$@@@%%%Dr. <a>Fernando Cabieses</a> Molina was appointed as rector.
+image_name$$$@@@%%%</p>
+established$$$@@@%%%<p>The first official ceremony took place the 26th of March, 1998, in Museo de Osma.
+established$$$@@@%%%The admission campaign started in July.
+image_name$$$@@@%%%</p>
+staff$$$@@@%%%<p>The first semester began with two schools (Medicine and Engineering) and fifty students.
+established$$$@@@%%%The Campus was originally in <a>Surco</a> district.
+established$$$@@@%%%However, a few years later, it was moved to its current location, close to the <a>Pantanos de Villa Reserved Zone</a>.</p>
+established$$$@@@%%%<p>In March 2006, CONAFU awarded the <a>Definitive Authorization Resolution</a> to the university, which implies institutional autonomy.
+image_name$$$@@@%%%</p>
+staff$$$@@@%%%<p>Today, the university has over 1500 students in undergraduate and postgraduate courses.</p>
+image_name$$$@@@%%%<h2>Rectors</h2>
+image_name$$$@@@%%%<ul>
+affiliations$$$@@@%%%  <li>Dr.
+doctoral$$$@@@%%%<a>Agust&#x00ed;n Iza Stoll</a> - Rector 2007</li>
+affiliations$$$@@@%%%  <li>Dr.
+doctoral$$$@@@%%%<a>Fernando Cabieses</a> Molina (Rector Emeritus) - Rector 1998 - 2007</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h2>Organization</h2>
+image_name$$$@@@%%%<h3>Administration</h3>
+established$$$@@@%%%<p>A board is in charge of the university's administration.
+president$$$@@@%%%The current president of the board is Jos&#x00e9; Carlos Dextre Chac&#x00f3;n.
+established$$$@@@%%%Among several functions, the board is responsible of appointing the <a>Rector</a> and the <a>Dean</a> of faculty.
+established$$$@@@%%%Also, it coordinates with the Rector's office to take care of financial and academic issues.</p>
+campus$$$@@@%%%<h3>Faculties and Schools</h3>
+staff$$$@@@%%%<p>The university has five faculties and eleven schools.</p>
+closed$$$@@@%%%<h4>Faculty of Medicine</h4>
+image_name$$$@@@%%%<ul>
+head_label$$$@@@%%%  <li>School of Medicine</li>
+head_label$$$@@@%%%  <li>School of Psicology</li>
+image_name$$$@@@%%%</ul>
+closed$$$@@@%%%<h4>Faculty of Stomatology</h4>
+image_name$$$@@@%%%<ul>
+head_label$$$@@@%%%  <li>School of Stomatology</li>
+image_name$$$@@@%%%</ul>
+closed$$$@@@%%%<h4>Faculty of Nutrition</h4>
+image_name$$$@@@%%%<ul>
+head_label$$$@@@%%%  <li>School of Nutrition</li>
+image_name$$$@@@%%%</ul>
+type$$$@@@%%%<h4>Faculty of Engineering and Business</h4>
+image_name$$$@@@%%%<ul>
+head_label$$$@@@%%%  <li>School of Systems Engineering</li>
+nickname$$$@@@%%%  <li>School of Economic Engineering and Business</li>
+image_name$$$@@@%%%</ul>
+website$$$@@@%%%<h4>Faculty of AgroEnvironmental Sciences</h4>
+image_name$$$@@@%%%<ul>
+established$$$@@@%%%  <li>School of Veterinary and Zootechnics</li>
+head_label$$$@@@%%%  <li>School of Environmental Engineering</li>
+head_label$$$@@@%%%  <li>School of Marine Biology</li>
+nickname$$$@@@%%%  <li>School of Forest Engineering and Agronomic Business</li>
+head_label$$$@@@%%%  <li>School of Environmental Tourism</li>
+image_name$$$@@@%%%</ul>
+website$$$@@@%%%<p>Faculty of Arts Performing Arts and Literatura</p>
+country$$$@@@%%%<h3>Research</h3>
+students$$$@@@%%%<p>The university motivate the development of research project by the staff and the students.
+vice_chancellor$$$@@@%%%The research projects are administrated by the Vice-Rector's Office.</p>
+image_name$$$@@@%%%<h3>CAMBIE Foundation</h3>
+established$$$@@@%%%<p>CAMBIE Foundation has the mission of developing an environmental conscience in Peruvian society.
+established$$$@@@%%%Also, promotes and recognize projects that contributes to the conservation of natural resources.</p>
+image_name$$$@@@%%%<h2>International Relations</h2>
+nickname$$$@@@%%%<p>The Universidad Cient&#x00ed;fica del Sur has close relations with several universities abroad.
+campus$$$@@@%%%A few of them are:</p>
+image_name$$$@@@%%%<ul>
+established$$$@@@%%%  <li><a>Miami University</a></li>
+established$$$@@@%%%  <li><a>University of S&#x00e3;o Paulo</a></li>
+free_label$$$@@@%%%  <li><a>Universidad de Granada</a></li>
+established$$$@@@%%%  <li><a>University of Salerno</a></li>
+established$$$@@@%%%  <li><a>University of Bologna</a></li>
+established$$$@@@%%%  <li><a>University of Genoa</a></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h2>External links</h2>
+image_name$$$@@@%%%<ul>
+affiliations$$$@@@%%%  <li><a>UCSUR</a> Official web site</li>
+affiliations$$$@@@%%%  <li><a>Res.
+free_label$$$@@@%%%N&#x00ba; 058-2006-CONAFU</a> on the Legal Index published by <a>El Peruano</a> official newspaper</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%
+image_name$$$@@@%%%

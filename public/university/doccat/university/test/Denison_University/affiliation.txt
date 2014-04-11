@@ -1,0 +1,27 @@
+<li><a>Alpha Phi Alpha</a></li>
+<li><a>Beta Theta Pi</a></li>
+<li><a>Delta Chi</a></li>
+<li><a>Kappa Sigma</a> (Colony)</li>
+<li><a>Lambda Chi Alpha</a></li>
+<li><a>Phi Beta Sigma</a></li>
+<li><a>Phi Delta Theta</a></li>
+<li><a>Phi Iota Alpha</a> (Colony)</li>
+<li><a>Sigma Chi</a></li>
+<li><a>Sigma Phi Epsilon</a></li>
+<li><a>Alpha Kappa Alpha</a></li>
+<li><a>Delta Delta Delta</a></li>
+<li><a>Delta Gamma</a></li>
+<li><a>Delta Sigma Theta</a></li>
+<li><a>Kappa Kappa Gamma</a></li>
+<li><a>Kappa Alpha Theta</a></li>
+<li><a>Pi Beta Phi</a></li>
+<li><a>Sigma Lambda Gamma</a> (Colony)</li>
+<li><a>Jonathan Going</a> (1837&#x2013;1844)</li>
+<li><a>Silas Bailey</a> (1846&#x2013;1852)</li>
+<li><a>Elisha Andrews</a> (1875&#x2013;1879)</li>
+<li><a>Alfred Owen</a> (1879&#x2013;1886)</li>
+<li><a>Galusha Anderson</a> (1887&#x2013;1889)</li>
+Blair Knapp</a> (1951&#x2013;1968)</li>
+<li><a>Michele Tolela Myers</a> (1989&#x2013;1998)</li>
+<li><a>Granville, OH</a></li>
+<li><a>Denison Progressive Alliance</a></li>

@@ -1,0 +1,87 @@
+</p>
+<h2>Departments</h2>
+<p></p>
+<ul>
+</ul>
+<ul>
+</ul>
+<ul>
+</ul>
+<ul>
+<li>Economics</li>
+</ul>
+<ul>
+<li>Philosophy</li>
+</ul>
+<ul>
+</ul>
+<ul>
+</ul>
+<ul>
+<li>Hospitality Management  </li>
+<li>Finances  </li>
+<li>Human Resources  </li>
+<li>Marketing</li>
+</ul>
+<ul>
+</ul>
+<ul>
+<li>Communications</li>
+</ul>
+<ul>
+</ul>
+<ul>
+<li>Graphic Design  </li>
+<li>Interactive Design  </li>
+<li>Textile Design </li>
+</ul>
+<ul>
+<li>International Relations</li>
+</ul>
+<ul>
+<li>Biomedic Engineering  </li>
+<li>Physics Engineering  </li>
+<li>Information Systems Engineering  </li>
+<li>Software Engineering  </li>
+</ul>
+<ul>
+<li>Chemical Engineering  </li>
+<li>Food Engineering</li>
+</ul>
+<ul>
+<li>Psychology</li>
+</ul>
+<ul>
+</ul>
+<ul>
+</ul>
+<ul>
+</ul>
+<ul>
+</li>
+</ul>
+<p><strong>Film</strong></p>
+<ul>
+</ul>
+<ul>
+</li>
+</li>
+</ul>
+<p><strong>Politics</strong></p>
+<ul>
+</li>
+</ul>
+<ul>
+</ul>
+<ul>
+</ul>
+<ul>
+</ul>
+<h2>External links</h2>
+<p></p>
+<ul>
+</ul>
+<p></p>
+<p></p>
+
+

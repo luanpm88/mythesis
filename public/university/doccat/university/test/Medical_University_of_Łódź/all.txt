@@ -1,0 +1,69 @@
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%<p></p>
+established$$$@@@%%%<p>The <strong>Medical University of <a>&#x0141;&#x00f3;d&#x017a;</a></strong> was founded on October 1, 2002 as a merger of the <a>Medical Academy of &#x0141;&#x00f3;d&#x017a;</a> (founded January 1, 1950) and the <strong>Military Medical Academy of &#x0141;&#x00f3;d&#x017a;</strong> (founded July 1, 1958).
+free_label$$$@@@%%%It is the largest teaching hospital unit in Poland and a European research center.</p>
+image_name$$$@@@%%%<h2>Structure</h2>
+image_name$$$@@@%%%
+image_name$$$@@@%%%
+image_name$$$@@@%%%<blockquote>
+free_label$$$@@@%%%  <p>The clinical-didactical center nr 4, Czechoslowacka street.
+image_name$$$@@@%%%</p>
+image_name$$$@@@%%%</blockquote>
+free$$$@@@%%%<p>It comprises</p>
+image_name$$$@@@%%%<ul>
+provost$$$@@@%%%  <li><strong>6 research institutes</strong>,</li>
+image_name$$$@@@%%%  <li><strong>49 chairs</strong>,</li>
+postgrad$$$@@@%%%  <li><strong>7 fully-equipped university teaching hospitals</strong> with a total capacity of  <em>2900 beds</em>, as well as</li>
+affiliations$$$@@@%%%  <li><strong>438.000
+established$$$@@@%%%specialist consultations</strong> every year in <em>specialist outpatient clinics</em>, in addition to the</li>
+type$$$@@@%%%  <li><strong>collaboration with 22 international universities</strong>.</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h2>Aspect</h2>
+established$$$@@@%%%<p>At the Medical University of Lodz, students are instructed from a 250 plus Basic Science and Clinical Medicine Faculty, composed of physicians, teachers and researchers.
+free$$$@@@%%%Most faculty members of the university holds a dual MD/PhD.
+postgrad$$$@@@%%%Degree , and all are board certified in their respective specialties.</p>
+established$$$@@@%%%<p>The Medical University is the biggest state medical university in Poland implementing the following basic tasks: </p>
+image_name$$$@@@%%%<ul>
+postgrad$$$@@@%%%  <li>educating students in medicine, dentistry, pharmacy and medicine-allied disciplines;</li>
+free_label$$$@@@%%%  <li>educating research staff and conducting research work;</li>
+staff$$$@@@%%%  <li>conducting postgraduate training of highly qualified health care system staff;</li>
+established$$$@@@%%%  <li>participating in health care programs set by the social health care system.</li>
+image_name$$$@@@%%%</ul>
+established$$$@@@%%%<p>The university made an important evolution of a unique system, based on the availability -during posted office hours- of all professors for individual consultations with students in their offices.
+established$$$@@@%%%This helps promote better interaction between students and faculty as opposed to the previous <a>Soviet</a> style system.</p>
+students$$$@@@%%%<h2>University teaching activity</h2>
+established$$$@@@%%%<p>The Process of education has been focused on preparing specialists for work in various communities and national health care systems.
+established$$$@@@%%%Our educational offer has been adjusted to requirement laid down in the resolutions validated by our Government within the European Union co-operation.
+established$$$@@@%%%Following the entry of Poland into the European Union on May 1, 2004 the University offers a chance of an automatic recognition of the Diploma of most of the faculties within all 25 countries of the European Union.
+mascot$$$@@@%%%Currently, over 8000 Polish Students are getting their education within medical and medicine-related areas at various faculties.
+established$$$@@@%%%Medical teaching in English was initiated in 2003/2004.
+type$$$@@@%%%Presently over 300 foreign students from various countries such as the <a>Republic of China (Taiwan)</a>, <a>Kenya</a>, <a>United States</a>, <a>Canada</a>, <a>Nigeria</a>, <a>Sweden</a>, <a>Norway</a> and <a>New Zealand</a> attend medical and dental courses.
+students$$$@@@%%%The quality of the medical curriculum is comparable among Polish universities, and subject to regular official inspections and rankings.
+established$$$@@@%%%In previous years, a few select students of the Faculty of Medicine have been the recipients of scientific awards like &quot;Medical Laurels&quot; of Polish Academy of Science or &quot;Primus Inter Pares&quot; - Best Student of the Polish Republic in the Lodz Region.</p>
+doctoral$$$@@@%%%<h2>Science and research</h2>
+image_size$$$@@@%%%<p>Medical University of Lodz is one of the major medical research centers in Poland.
+faculty$$$@@@%%%In one academic year over a hundred research grants are awarded, as well as numerous research contracts.
+students$$$@@@%%%At present substantial number of individual research projects are being conducted.
+free_label$$$@@@%%%Medical University of Lodz has been carrying extensive international scientific cooperation with such foreign academic and research centers as: </p>
+established$$$@@@%%%<p>&#x2022;The Catholic University in Nijmegen, Netherlands; &#x2022;Duke University Medical Center, Durham, North Carolina &#x2022;University of Toronto Humboldt Universitat, Berlin, Germany &#x2022;Friedrich-Alexander Universitat, Erlangen &#x2022;King's College London  &#x2022;Universite degli Studi di Milano &#x2022;The Human Craniofacial Institute in Dallas, USA &#x2022;The Howard Hughes Medical Center, USA &#x2022;The University in Bielefeld, Germany &#x2022;Universite Claude Bernard, Lyon, France &#x2022;University of Kuopio, Finland &#x2022;Friedrich-Alexander Universitat Erlangen, Germany</p>
+staff$$$@@@%%%<p>The majority of University chairs, clinics and departments directly co-operate with foreign centers through staff Exchange programs.</p>
+image_name$$$@@@%%%<h2>Clinical activity</h2>
+staff$$$@@@%%%<p>At present, Medical University has over 1600 hospital beds in Teaching Hospitals that provide medical services for patients, being the essential base for research work and undergraduate and postgraduate teaching.
+established$$$@@@%%%University Teaching Hospitals and University-affiliated department constitute a basic source for highly specialized diagnostic and treatment services provided by professors, associate professors and specialists of various medical disciplines who take care of health needs of the Lodz region community and promote health-related programs.
+image_name$$$@@@%%%</p>
+head_label$$$@@@%%%<h2>Students' academic activities</h2>
+established$$$@@@%%%<p>Students of the Medical University take part in ERASMUS &#x2013; European international academic Exchange program.
+established$$$@@@%%%Within last few years there were almost 25 incoming students from <a>France</a> and other parts of <a>Europe</a> and over 100 outgoing students in the frame of this exchange program.
+city$$$@@@%%%Students' Scientific Society has been involved in active popularization of research work among students, organization of scientific conferences and co-ordination of Students' Scientific Groups</p>
+image_name$$$@@@%%%<h3>Faculties</h3>
+image_size$$$@@@%%%<p>1.
+established$$$@@@%%%Faculty of Medicine and Dentistry; 2. Faculty of Pharmacy; 3. Faculty of Health Sciences with the Division of Nursing and Midwifery; 4. Faculty of Biomedical Sciences and Postgraduate Training; 5. Faculty of Military Medicine with the Division of Physiotherapy and Studies in English</p>
+image_name$$$@@@%%%<h2>References</h2>
+image_name$$$@@@%%%<p><img></p>
+image_name$$$@@@%%%<h2>External links</h2>
+image_name$$$@@@%%%<ul>
+affiliation$$$@@@%%%  <li><a>Official website</a></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%
+image_name$$$@@@%%%

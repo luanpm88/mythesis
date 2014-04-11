@@ -1,0 +1,6 @@
+<li>Graduate School of Science</li>
+<li>Graduate School of Human Life Science</li>
+<li>Faculty of Economics</li>
+<li>Faculty of Science</li>
+<li>Faculty of Engineering</li>
+<li>Faculty of Human Life Science</li>

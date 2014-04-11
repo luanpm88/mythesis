@@ -1,0 +1,90 @@
+image_name$$$@@@%%%<p></p>
+established$$$@@@%%%<p> <a>250px|thumb|Close up of the plateresque facade of the University of Salamanca.</a>
+established$$$@@@%%%[[Image:University of Salamanca Fray Luis de Leon.jpg|thumb|250px|Plateresque facade of the University facing a statue of [[Fray Luis de Le&#x00f3;n]].
+established$$$@@@%%%]] <a>thumb|250px|The old library of the University of Salamanca</a> <a>thumb|250px|Fray Luis de Le&#x00f3;n's classroom</a></p>
+established$$$@@@%%%<p>The <strong>University of Salamanca</strong> () is a <a>Spanish</a> <a>higher education</a> institution, located in the town of <a>Salamanca</a>, west of <a>Madrid</a> and close to <a>Portugal</a>.
+established$$$@@@%%%It was founded in 1134 and given the Royal chart of foundation by <a>King Alfonso IX</a> in 1218.
+established$$$@@@%%%It is the oldest founded university in <a>Spain</a> and the fourth oldest <a>European</a> university in <a>continuous operations</a>.
+established$$$@@@%%%It was the first european institution to receive the formal title of &quot;University&quot; as such; it was granted by <a>King Alfonso X</a> in 1254 and recognized by <a>Pope Alexander IV</a> in 1255.</p>
+established$$$@@@%%%<h2>History</h2>
+established$$$@@@%%%<p>The university was founded in 1134 and recognized as a &quot;General School of the Kingdom&quot; by the <a>Leonese</a> <a>King</a> <a>Alfonso IX</a> in 1218.
+established$$$@@@%%%Granted Royal Chart by King Alfonso X, dated 8 May, 1254, as the University of Salamanca this established the rules for organization and financial endowment.
+image_name$$$@@@%%%</p>
+established$$$@@@%%%<p>On the basis of a papal bull by <a>Alexander IV</a> in 1255, which confirmed the Royal Charter of Alfonso X, the school obtained the title of University, the first in Europe.</p>
+nickname$$$@@@%%%<p>The historical phrases <em>Quod natura non dat, Salamantica non praestat</em> (what nature does not give, Salamanca does not lend, in latin) and <em>Multos et doctissimos Salmantica habet</em> (many and very versed Salamanca has) give an idea of the prestige the institution rapidly acquired.</p>
+established$$$@@@%%%<p>In the reign of King <a>Ferdinand II of Aragon</a> and Queen <a>Isabella I of Castile</a>, the <a>Spanish</a> government was revamped.
+established$$$@@@%%%Contemporary with the <a>Spanish Inquisition</a>, the expulsion of the <a>Jews</a>, and the conquest of <a>Granada</a>, there was a certain professionalization of the apparatus of the state.
+established$$$@@@%%%This involved the massive employment of &quot;letrados&quot;, i.e., bureaucrats and lawyers, who were &quot;licenciados&quot; (university graduates), particularly, of <a>Salamanca</a>, and the newly founded <a>University of Alcal&#x00e1;</a>.
+established$$$@@@%%%These men staffed the various councils of state, including, eventually, the <a>Consejo de Indias</a> and <a>Casa de Contratacion</a>, the two highest bodies in metropolitan Spain for the government of the <a>Spanish Empire in the New World</a>.</p>
+established$$$@@@%%%<p>While <a>Columbus</a> was lobbying the King and Queen for a contract to seek out a western route to the Indies, he made his case to a council of geographers at the University of Salamanca.
+established$$$@@@%%%In the next century, the morality of <a>colonization</a> in the <a>Indies</a> was debated by the <a>School of Salamanca</a>, along with questions of <a>economics</a>, <a>philosophy</a> and <a>theology</a>.</p>
+established$$$@@@%%%<p>By the end of the <a>Spanish Golden Age</a> (c.
+type$$$@@@%%%1550-1650), the quality of academics in Spanish universities declined.
+established$$$@@@%%%The frequency of the awarding of degrees dropped, the range of studies shrank, and there was a sharp decline in the number of its students.
+affiliations$$$@@@%%%The centuries old European wide prestige of Salamanca declined.</p>
+established$$$@@@%%%<p>Like <a>Oxford</a> and <a>Cambridge</a>, Salamanca had a number of colleges (<em>Colegios Mayores</em>).
+established$$$@@@%%%These were founded as charitable institutions to enable poor scholars to attend the University.
+established$$$@@@%%%By the eighteenth century they had become closed corporations controlled by the families of their founders, and dominated the university between them.
+affiliations$$$@@@%%%Most were destroyed by Napoleon's troops.
+free_label$$$@@@%%%Today some have been turned into faculty buildings while others survive as halls of residence.</p>
+established$$$@@@%%%<p>In the 19th century, the Spanish government dissolved the university's faculties of <a>canon law</a> and <a>theology</a>.
+established$$$@@@%%%They were later reestablished in the 1940s as part of the <a>Pontifical University of Salamanca</a>.</p>
+image_name$$$@@@%%%<h2>Present day</h2>
+established$$$@@@%%%<p>Salamanca draws undergraduate and graduate students from across Spain; it is the top-ranked university in Spain based on the number of students coming from other <a>regions</a>.
+doctoral$$$@@@%%%It is also known for its Spanish courses for non-native speakers, which attract more than two thousand foreign students each year.</p>
+established$$$@@@%%%<p>Today the University of Salamanca is an important center for the study of humanities and is particularly noted for its language studies.
+free_label$$$@@@%%%State-of-the-art scientific research is carried out in the university and research centers associated with it, such as Centro de Investigaci&#x00f3;n del C&#x00e1;ncer, Instituto de Neurociencias de Castilla y Le&#x00f3;n, Centro de L&#x00e1;seres Pulsados Ultracortos Ultraintensos.</p>
+established$$$@@@%%%<p>In conjunction with the <a>University of Cambridge</a>, the University of Salamanca co-founded the <a>Association of Language Testers in Europe</a> (ALTE) in 1989.</p>
+nickname$$$@@@%%%<p>In 2009, preparations were being made for the celebration of the institution's eighth centennial.</p>
+image_name$$$@@@%%%<h2>Notable people</h2>
+faculty$$$@@@%%%<p>Notable students and academic teachers include:</p>
+image_name$$$@@@%%%<ul>
+affiliations$$$@@@%%%  <li><a>Francisco J. Ayala</a></li>
+affiliation$$$@@@%%%  <li><a>Abraham Zacuto</a></li>
+free_label$$$@@@%%%  <li><a>Fray Luis de Le&#x00f3;n</a></li>
+free_label$$$@@@%%%  <li><a>Francisco de Vitoria</a></li>
+image_size$$$@@@%%%  <li><a>Francisco Su&#x00e1;rez</a></li>
+affiliations$$$@@@%%%  <li><a>St.
+established$$$@@@%%%John of the Cross</a></li>
+free_label$$$@@@%%%  <li><a>Antonio de Nebrija</a></li>
+free_label$$$@@@%%%  <li><a>Luis de G&#x00f3;ngora</a></li>
+image_size$$$@@@%%%  <li><a>Hern&#x00e1;n Cort&#x00e9;s</a></li>
+image_size$$$@@@%%%  <li><a>Gaspar de Guzm&#x00e1;n, Count-Duke of Olivares</a></li>
+affiliation$$$@@@%%%  <li><a>Gaspar Sanz</a></li>
+type$$$@@@%%%  <li><a>Pedro G&#x00f3;mez Labrador, Marquis of Labrador</a></li>
+affiliation$$$@@@%%%  <li><a>Cardinal Mazarin</a></li>
+image_size$$$@@@%%%  <li><a>Mateo Alem&#x00e1;n</a></li>
+free_label$$$@@@%%%  <li><a>Pedro Calder&#x00f3;n de la Barca</a></li>
+free_label$$$@@@%%%  <li><a>Miguel de Cervantes</a></li>
+free_label$$$@@@%%%  <li><a>Diego de Torres Villarroel</a></li>
+free_label$$$@@@%%%  <li><a>Miguel de Unamuno</a></li>
+affiliation$$$@@@%%%  <li><a>Pedro Salinas</a></li>
+image_size$$$@@@%%%  <li><a>Adolfo Su&#x00e1;rez</a></li>
+affiliation$$$@@@%%%  <li><a>Juan Zarate</a></li>
+affiliation$$$@@@%%%  <li><a>Manuel Belgrano</a></li>
+affiliation$$$@@@%%%  <li><a>Beatriz Galindo</a></li>
+established$$$@@@%%%  <li><a>Luis de On&#x00ed;s</a></li>
+image_size$$$@@@%%%  <li><a>Oscar Roll&#x00e1;n</a></li>
+affiliation$$$@@@%%%  <li><a>Pedro Nunes</a></li>
+free_label$$$@@@%%%  <li><a>Sim&#x00f3;n de Rojas</a></li>
+affiliation$$$@@@%%%  <li><a>Antonio Tovar</a> (see <a>:es:Antonio Tovar</a>)</li>
+image_name$$$@@@%%%</ul>
+city$$$@@@%%%<h2>See also</h2>
+image_name$$$@@@%%%<ul>
+established$$$@@@%%%  <li><a>School of Salamanca</a></li>
+established$$$@@@%%%  <li><a>Pontifical University of Salamanca</a></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h2>References</h2>
+image_name$$$@@@%%%<p><img></p>
+image_name$$$@@@%%%<h2>External links</h2>
+image_name$$$@@@%%%<p><img>  </p>
+image_name$$$@@@%%%<ul>
+established$$$@@@%%%  <li><a>University website</a></li>
+affiliation$$$@@@%%%  <li><a>VIII Centenario website</a></li>
+vice_chancellor$$$@@@%%%  <li><a>Spanish language courses in Salamanca University</a></li>
+image_name$$$@@@%%%  <li></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p> </p>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%
+image_name$$$@@@%%%

@@ -1,0 +1,47 @@
+image_name$$$@@@%%%<p></p>
+type$$$@@@%%%<p>The <strong>University of Minho</strong> or <em>Universidade do Minho</em> is a <a>public university</a> in <a>Portugal</a>, divided in the following spaces:</p>
+image_name$$$@@@%%%<ul>
+established$$$@@@%%%  <li>Largo do Pa&#x00e7;o (headquarters), in <a>Braga</a></li>
+established$$$@@@%%%  <li>Campus of Gualtar, in <a>Braga</a></li>
+established$$$@@@%%%  <li>Superior School of Nursing, in <a>Braga</a></li>
+established$$$@@@%%%  <li>Institute of Studies of the Child, in <a>Braga</a></li>
+established$$$@@@%%%  <li>Campus of Azur&#x00e9;m, in <a>Guimar&#x00e3;es</a></li>
+image_name$$$@@@%%%</ul>
+established$$$@@@%%%<h2>History</h2>
+established$$$@@@%%%<p>The University of Minho, founded in 1973, is one of the then named &quot;New Universities&quot; that, at that time, deeply changed the landscape of higher education in Portugal.
+image_name$$$@@@%%%</p>
+established$$$@@@%%%<p>Located in the region of Minho, known for its significant economic activity and by the youth of its population, the University of Minho has played the role of development agent in the region.</p>
+undergrad$$$@@@%%%<p>With over 15,000 students (2,000 of those are postgraduate students) and with about 1200 professors and 600 employees, UM is one of the biggest Portuguese universities.</p>
+image_name$$$@@@%%%<h2>Schools</h2>
+image_name$$$@@@%%%<ul>
+established$$$@@@%%%  <li><a>Autonomous Department of Architecture (DAA)</a></li>
+website$$$@@@%%%  <li><a>Institute of Arts and Human Sciences (ILCH)</a></li>
+type$$$@@@%%%  <li><a>Institute of Child Studies (IEC)</a></li>
+type$$$@@@%%%  <li><a>Institute of Education and Psychology (IEP)</a></li>
+type$$$@@@%%%  <li><a>Institute of social sciences (ICS)</a></li>
+established$$$@@@%%%  <li><a>School of Economics and Management (EEG)</a> </li>
+established$$$@@@%%%  <li><a>School of Engineering (EENG)</a></li>
+established$$$@@@%%%  <li><a>School of Law (ED)</a></li>
+website$$$@@@%%%  <li><a>School of Sciences (EC)</a></li>
+motto$$$@@@%%%  <li><a>The Health Sciences School (ECS)</a></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h2>Praxis</h2>
+established$$$@@@%%%<p>To Minho University we can associate the praxe of the <em>Academia Minhota</em>.
+established$$$@@@%%%Praxe in Campus of Azur&#x00e9;m and Campus of Gualtar is radically different from the praxis of other universities.
+established$$$@@@%%%The majority of these have the same hierarchy and terminology, mostly based on army terms, such as the Latin word of general, <em>dux</em>; however, <em>Academia Minhota</em> based its praxe tradition on clerical hierarchy, substituting &quot;dux veteranorum', ther term designating the head of praxe, for <em>pope</em>.</p>
+city$$$@@@%%%<h2>See also</h2>
+image_name$$$@@@%%%<ul>
+affiliation$$$@@@%%%  <li><a>Minho Campus Party</a></li>
+type$$$@@@%%%  <li><a>List of universities in Portugal</a></li>
+established$$$@@@%%%  <li><a>Higher education in Portugal</a></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h2>References</h2>
+image_name$$$@@@%%%<p>&lt;references/&gt;</p>
+image_name$$$@@@%%%<h2>External links</h2>
+image_name$$$@@@%%%<ul>
+established$$$@@@%%%  <li><a>University of Minho</a></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p>  </p>
+image_name$$$@@@%%%<p><img></p>
+image_name$$$@@@%%%
+image_name$$$@@@%%%

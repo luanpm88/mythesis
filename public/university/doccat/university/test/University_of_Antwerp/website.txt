@@ -1,0 +1,8 @@
+<li>Applied Economics Sciences</li>
+<li>Arts and Philosophy</li>
+<li>Pharmaceutical, Veterinary and Biomedical Sciences</li>
+<li>Political and Social Sciences</li>
+<li>Sciences</li>
+<h3>Political and Social Sciences</h3>
+<h3>Sciences</h3>
+<li><a>Frank Vandenbroucke</a>, Applied Economics and Social Sciences</li>

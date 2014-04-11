@@ -1,0 +1,107 @@
+image_name$$$@@@%%%<p></p>
+established$$$@@@%%%<p>The <strong>University of Wisconsin&ndash;Whitewater</strong> (also known as <strong>UW&#x2013;Whitewater</strong> and abbreviated as <strong>UWW</strong>) is part of the <a>University of Wisconsin System</a>, located in <a>Whitewater</a>, <a>Wisconsin</a>.
+established$$$@@@%%%It became Wisconsin's second public college on April 21, 1868 when it opened its doors to 39 students taught by nine faculty members.
+established$$$@@@%%%It is a four-year, co-educational, residential college accredited by the North Central Association of Colleges and Secondary Schools.
+vice_chancellor$$$@@@%%%Enrollment in 2009-10 stood at over 11,000.
+chancellor$$$@@@%%%The chancellor is Richard Telfer.</p>
+established$$$@@@%%%<h2>History</h2>
+established$$$@@@%%%<p>The school was first founded in 1868 as &quot;Whitewater Normal School&quot;.
+affiliations$$$@@@%%%In 1927, it changed its name to &quot;Whitewater Teachers College&quot;.
+established$$$@@@%%%It became Wisconsin State College-Whitewater in 1951 and Wisconsin State University&#x2013;Whitewater in 1964.
+established$$$@@@%%%In 1971, after the merger of former University of Wisconsin and the former Wisconsin State Universities, the school became part the <a>University of Wisconsin System</a> and has the name of University of Wisconsin&#x2013;Whitewater since then.</p>
+image_name$$$@@@%%%<h2>Campus</h2>
+affiliations$$$@@@%%%<p><a>thumb|right|Historic schoolhouse on UWW campus.</a>
+established$$$@@@%%%In 1925 an addition of an East wing to Old Main Hall was opened.
+established$$$@@@%%%It was later renamed Hyer Hall in honor of former school president Frank S. Hyer in 1968.
+vice_chancellor$$$@@@%%%On February 7, 1970 &quot;Old Main&quot; hall caught on fire.
+motto$$$@@@%%%The central, north and west towers burned down along with the bell tower.
+established$$$@@@%%%The only surviving wing&#x2014;Hyer Hall&#x2014;underwent a $6.4 million restoration in 1997.
+doctoral$$$@@@%%%It was completed by 1999 and included many 21st century technologies.
+established$$$@@@%%%It now houses many of the University's administrative offices in addition to classrooms and lecture halls.</p>
+country$$$@@@%%%<h3>Royal Purple</h3>
+free_label$$$@@@%%%<p><a>Royal Purple</a> The Royal Purple is an independent student-run newspaper at the University of Wisconsin&#x2013;Whitewater.
+nickname$$$@@@%%%Its goal is to provide the students, faculty and staff with a forum for news, entertainment, and sporting events as well as provide an open forum for opinions and commentary on events and issues that affect the students.
+students$$$@@@%%%As of the spring 2010 semester circulation was 7,000+.</p>
+image_size$$$@@@%%%<h3>Whitewater Student Government</h3>
+established$$$@@@%%%<p><a>Whitewater Student Government</a> (WSG) is the students' governing body.
+head_label$$$@@@%%%It consists of the Senate, the President and Vice President, and the Executive Board.</p>
+nickname$$$@@@%%%<p>Whitewater Student Government has the primary responsibility for the formulation and review of policies concerning student life, services and interests according to Wisconsin State Statute 36.09(5).</p>
+image_name$$$@@@%%%<h3>Fraternities/Sororities</h3>
+faculty$$$@@@%%%<p>Social fraternities and sororities carry traditions and history at UW&#x2013;Whitewater.  These organizations are involved with annual philanthropy (community service) projects, homecoming week activities, socials (also known as exchanges) between other Greek organizations or general student organizations, scholarship opportunities for members, and professional networking skills and opportunities.</p>
+type$$$@@@%%%<p><strong>InterFraternal Council Fraternities:</strong> <a>Lambda Chi Alpha</a>, <a>Lambda Alpha Upsilon</a>, <a>Phi Chi Epsilon</a>, <a>Phi Mu Alpha</a>, <a>Pi Kappa Alpha</a>, <a>Delta Chi</a>, <a>Sigma Tau Gamma</a></p>
+type$$$@@@%%%<p><strong>Panhellenic Council Sororities:</strong> <a>Alpha Sigma</a>, <a>Delta Zeta</a>, <a>Sigma Sigma Sigma</a></p>
+type$$$@@@%%%<p><strong>National Panhellenic Council Fraternities &amp; Sororities:</strong> <a>Alpha Phi Alpha</a>, <a>Alpha Kappa Alpha</a>, <a>Delta Sigma Theta</a>, <a>Sigma Gamma Rho</a>, <a>Omega Psi Phi</a>, <a>Phi Beta Sigma</a>, and <a>Zeta Phi Beta</a>.</p>
+free_label$$$@@@%%%<h2>Athletics</h2>
+country$$$@@@%%%<p><a>thumb|200px|right|Mascot</a> </p>
+free_label$$$@@@%%%<p>UW&#x2013;Whitewater is a member of <a>NCAA</a> Division III for athletics.
+established$$$@@@%%%It is a member of the <a>Wisconsin Intercollegiate Athletic Conference</a> (WIAC).
+nickname$$$@@@%%%The athletics teams are nicknamed the Warhawks and wear purple and white.</p>
+established$$$@@@%%%<p>On December 15, 2007 in <a>Salem, Virginia</a> the UW&#x2013;Whitewater men's football team won their first NCAA Division III national championship at the <a>Amos Alonzo Stagg Bowl</a> in a 31-21 victory over the <a>Mount Union College</a> Purple Raiders.
+established$$$@@@%%%This was the third consecutive year that the Warhawks faced the Purple Raiders in the <a>Stagg Bowl</a>, losing the previous two meetings.
+established$$$@@@%%%It was also the first year for new head coach <a>Lance Leipold</a>, having replaced the retired <a>Bob Berezowitz</a>.</p>
+established$$$@@@%%%<p>2007 <a>Gagliardi Trophy</a> Winner <a>Justin Beaver</a> (Running Back) was named the Offensive Player of the year by D3Football.com and Coach <a>Lance Leipold</a> was named Coach of the Year as well.</p>
+mascot$$$@@@%%%<p>In 2009 UW-Whitewater men's football won their 2nd NCAA Division III national championship.
+established$$$@@@%%%This was the 5th consecutive year Warhawks faced the Purple raiders, going 2-3 in the championship games in the last 5 years.</p>
+nickname$$$@@@%%%<p>On December 18, 2010 UW-Whitewater met Mount Union for the sixth consecutive year in the NCAA Division III national championship.
+free_label$$$@@@%%%UW-Whitewater defeated Mount Union 31-21, winning their 3rd NCAA Division III title.</p>
+free$$$@@@%%%<h2>Notable alumni==&lt;!--
+established$$$@@@%%%This section is linked from <a>University of Wisconsin System</a> --&gt;</h2>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%<ul>
+type$$$@@@%%%  <li><a>Aaron Dott</a> - <a>MLB</a> pitcher for the <a>Tampa Bay Rays</a></li>
+established$$$@@@%%%  <li><a>Bidal Aguero</a> -  <a>Hispanic</a> political activist and <a>newspaper publisher</a> in <a>Lubbock</a>, <a>Texas</a>; received master's degree in music in 1974</li>
+affiliations$$$@@@%%%  <li><a>Merton W. Baker</a> - <a>U.S.
+established$$$@@@%%%Air Force</a> Major General</li>
+established$$$@@@%%%  <li><a>John Belushi</a> - <em><a>Saturday Night Live</a></em> comedian (attended)</li>
+type$$$@@@%%%  <li><a>Gene Brabender</a> - <a>MLB</a> player for the <a>Baltimore Orioles</a> and <a>Seattle Pilots/Milwaukee Brewers</a></li>
+free_label$$$@@@%%%  <li><a>Craig Coshun</a> - pre-game host and sideline reporter for the <a>Milwaukee Brewers</a> on the <a>Fox Sports Network</a></li>
+affiliations$$$@@@%%%  <li><a>B.
+head_label$$$@@@%%%Gunar Gruenke</a> - President of <a>Conrad Schmitt Studios</a></li>
+established$$$@@@%%%  <li><a>Kenn Hoekstra</a> - game developer and producer at <a>Pi Studios</a></li>
+doctoral$$$@@@%%%  <li><a>Isabella Hofmann</a> - actress (attended)</li>
+established$$$@@@%%%  <li><a>Jeff Jagodzinski</a> -  football coach for the <a>Green Bay Packers</a> and <a>Boston College</a></li>
+type$$$@@@%%%  <li><a>Neal Kedzie</a> - State Senator</li>
+type$$$@@@%%%  <li><a>Dave Kraayeveld</a> - <a>NFL</a> player</li>
+nickname$$$@@@%%%  <li><a>Bill Lobenstein</a> - former football player for the <a>Denver Broncos</a></li>
+established$$$@@@%%%  <li><a>Thomas A. Loftus</a> - United States Ambassador to Norway from 1993 to 1997; former speaker of the State Assembly</li>
+type$$$@@@%%%  <li><a>Max Maxfield</a> - <a>Wyoming</a> State Auditor (1999&#x2013;2007) and Secretary of State (2007-)</li>
+affiliations$$$@@@%%%  <li><a>Grant R. Mulder</a> - <a>U.S.
+established$$$@@@%%%Air Force</a> Major General</li>
+affiliations$$$@@@%%%  <li><a>Mark Neumann</a> - U.S. Congressman</li>
+type$$$@@@%%%  <li><a>Reince Priebus</a> - Chairman of the <a>Republican National Committee</a></li>
+affiliations$$$@@@%%%  <li><a>A.
+established$$$@@@%%%J. Raebel</a> - football player formerly for the <a>Minnesota Vikings</a> and <a>Saskatchewan Roughriders</a></li>
+nickname$$$@@@%%%  <li><a>Stuart Rindy</a> - former football player for the <a>Chicago Bears</a></li>
+nickname$$$@@@%%%  <li><a>Pete Schmitt</a> - former football player for the<a>Washington Redskins</a></li>
+nickname$$$@@@%%%  <li><a>Derek Stanley</a> - former football player for the <a>St.
+affiliation$$$@@@%%%Louis Rams</a></li>
+established$$$@@@%%%  <li><a>Eric Studesville</a> - interim head coach for the <a>Denver Broncos</a></li>
+type$$$@@@%%%  <li><a>Matt Turk</a> - <a>Houston Texans</a> punter</li>
+type$$$@@@%%%  <li><a>Bob Wickman</a> - baseball player for the <a>Arizona Diamondbacks</a></li>
+image_name$$$@@@%%%</ul>
+provost$$$@@@%%%<h2>Notable faculty</h2>
+image_name$$$@@@%%%<ul>
+established$$$@@@%%%  <li><a>Thomas Chrowder Chamberlin</a>, Founder of the <a>Journal of Geology</a></li>
+affiliation$$$@@@%%%  <li><a>Brian Coppola</a>, noted chemist</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h2>References</h2>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%<h2>Further reading</h2>
+image_name$$$@@@%%%<ul>
+affiliations$$$@@@%%%  <li>Bohi, M. Janette.
+established$$$@@@%%%<em>A history of Wisconsin State University, Whitewater, 1868-1968.</em>
+affiliations$$$@@@%%%Whitewater, Wis.: Whitewater State University Foundation, 1967.</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h2>External links</h2>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%<ul>
+image_size$$$@@@%%%  <li><a>UWW official website</a></li>
+former_names$$$@@@%%%  <li><a>UWW athletics site</a></li>
+image_size$$$@@@%%%  <li><a>UWW Harold G. Andersen Library website</a></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%<p>  </p>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%
+image_name$$$@@@%%%

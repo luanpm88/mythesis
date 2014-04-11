@@ -1,0 +1,4 @@
+<li>Science, Engineering and Technology</li>
+<li><a>Jim Dilling</a> - High jumper, 2007 USA Outdoor Champion</li>
+<li>Donald D. Gerdts - Co-founder, <a>KOCE-TV</a></li>
+<li><a>Elijah Wreh</a> - MN Army National Guard</li>

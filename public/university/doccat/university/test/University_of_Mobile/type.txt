@@ -1,0 +1,3 @@
+<h3>School of Education</h3>
+Sixty-five percent of the students are <a>Southern Baptist</a></p>
+<li><strong><a>Sa&#x00fa;l Rivera</a></strong> Professional baseball player, <a>Washington Nationals</a></li>

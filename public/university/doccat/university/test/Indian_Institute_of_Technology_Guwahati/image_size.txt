@@ -1,0 +1,4 @@
+<h2>Student life and hostels</h2>
+<p><a>Techniche</a> is an annual techno-management festival of IIT Guwahati.
+<li><strong>Manthan</strong>, the annual inter-hostel cultural festival,current winner is Manas Hostel,followed by Kapili,Kameng ,Umiam Hostels </li>
+<li><strong>Kriti</strong>, the annual inter-hostel technical festival, current winner is Dihing Hostel.</li>

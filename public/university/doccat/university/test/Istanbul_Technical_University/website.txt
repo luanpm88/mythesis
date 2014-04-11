@@ -1,0 +1,8 @@
+<p>;<a>College of Sciences and Letters</a></p>
+<li>Humanities and Social Sciences</li>
+<li>Engineering Sciences</li>
+<li><a>Social Sciences Institute</a></li>
+<li><a>Eurasia Earth Sciences Institutes</a></li>
+<li>School of Fine Arts</li>
+<li>Advanced Musical Sciences Research Institute</li>
+<h3>National High Performance Computing Center</h3>

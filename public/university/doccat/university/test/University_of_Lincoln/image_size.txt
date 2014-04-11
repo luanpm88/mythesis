@@ -1,0 +1,3 @@
+<h3>Student accommodation</h3>
+<li>A second science building</li>
+<h2>Student life</h2>

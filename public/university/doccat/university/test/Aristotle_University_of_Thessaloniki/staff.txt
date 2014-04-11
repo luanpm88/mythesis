@@ -1,0 +1,5 @@
+Every school is subdivided into <strong>departments</strong>, which are responsible for the teaching of a specific part of the school's scientific area.
+<p>The university staff is divided into five main categories:</p>
+<li><strong>Teaching and research staff</strong>: The staff in this category undertakes the majority of the teaching and research work done in the university.
+<li><strong>Special laboratory teaching staff</strong>: The members of this category are administering the university laboratories and they undertake special applied and laboratory teaching work.</li>
+They also provide specific technical laboratory services and help with the laboratory teaching.</li>

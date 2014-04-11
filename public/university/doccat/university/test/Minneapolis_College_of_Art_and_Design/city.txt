@@ -1,0 +1,3 @@
+<li>63 one-bedrooms</li>
+<li>40 two-bedrooms</li>
+<li>Degree-seeking undergrads: 691</li>

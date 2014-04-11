@@ -1,0 +1,2 @@
+<li><a>Faculty of Applied Mathematics and Computer Science</a></li>
+<li><a>Faculty of Radiophysics and Computer Science (former Faculty of Radiophysics and Electronics)</a></li>

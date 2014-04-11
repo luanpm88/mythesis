@@ -1,0 +1,25 @@
+<p>The main MIPT campus is located in <a>Dolgoprudny</a>, a northern suburb of <a>Moscow</a>.
+However the <a>Aeromechanics Faculty</a> is based in <a>Zhukovsky</a>, a suburb south-east of Moscow.</p>
+<li>Conducting their education in an atmosphere of research and creative engineering, using the best existing laboratories in the country.</li>
+Classes are taught five days a week, beginning at 9:00 am or 10:30 am, and continuing until 5:00 pm, 6:30 pm, or 8:00 pm.
+Most subjects include a combination of lectures and seminars (problem-solving study sessions in smaller groups) or laboratory experiments.
+Most importantly, starting with the third year, students begin work at <em>base institutes</em> (or &quot;base organizations,&quot; usually simply called <em>bases</em>).
+<li><a>Institute for Physical Problems</a></li>
+<li><a>Institute for Theoretical and Experimental Physics</a></li>
+<li><a>Institute for High Energy Physics</a></li>
+<li><a>Lebedev Institute of Physics RAS</a> (FIAN)</li>
+<li><a>Lebedev Institute of Precision Mechanics and Computer Engineering</a></li>
+<li><a>Landau Institute for Theoretical Physics</a></li>
+<li><a>Steklov Institute of Mathematics</a></li>
+<li><a>Zhukovsky Central Aerohydrodynamic Institute</a></li>
+<li><a>Boris Babaian</a> - a pioneer of <a>Russian supercomputer</a>s, an <a>Intel</a> Fellow 2004 and software architect</li>
+<li><a>Vitaly Ginzburg</a> - prominent physicist, <a>Nobel Prize</a> 2003, co-developer of the Soviet <a>H-bomb</a></li>
+<li><a>Pyotr Kapitsa</a> - discovered <a>superfluidity</a>, <a>Nobel Prize</a> 1978</p>
+<li><a>Lev Landau</a> - prominent Russian physicist, <a>Nobel Prize</a> 1962</li>
+<li><a>Sergei Lebedev</a> - invented <a>MESM</a> (1950) and <a>BESM</a> (1953) mainframe computers</li>
+<li><a>Alexander Polyakov</a> - <a>quantum field theory</a> classics, <a>Dirac</a>'86 and <a>Lorentz</a>'94 Medals</p>
+<li><a>Nikolay Semyonov</a> - best known for his work on <a>chain reaction</a>s, <a>Nobel Prize</a> 1956 in chemistry</li>
+<li><a>Natan Sharansky</a> - <a>Israel</a>i <a>Cabinet</a> Minister (1996-2005), <a>US</a> <a>Congressional Gold Medal</a> (<a>1986</a>)</li>
+<li><a>Mikhail Shifman</a> - non-perturbative <a>QCD</a> classics, <a>Sakurai Prize</a> (1999), <a>Lilienfeld Prize</a> (2006)</p>
+<li><a>Rashid Sunyaev</a> - an author of the <a>Sunyaev-Zel'dovich effect</a> and a model of <a>black hole</a>s</p>
+<li><a>Dmitry Zelenin</a> - governor of <a>Tverskaya Oblast</a> (2004-)</li>

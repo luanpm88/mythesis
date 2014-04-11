@@ -1,0 +1,4 @@
+<h2>Faculties, schools, departments, and research centres</h2>
+<li><strong>Faculty of Arts</strong>
+<li>Bachelor of Arts (BA)</li>
+<li>Bachelor of Fine Arts (BFA)</li>

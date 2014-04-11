@@ -1,0 +1,4 @@
+Fall sports for women are cross country, soccer, and <a>volleyball</a>.
+Spring sports for women are <a>softball</a>, track and field and tennis.</p>
+<p>The men's golf team won 13 national championships in Division III, before being moved to Division II in 1992.
+<li><a>Official athletics website</a></li>

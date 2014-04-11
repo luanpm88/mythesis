@@ -1,0 +1,2 @@
+The departments are all located on the main campus.
+The faculty is located on the main campus, except for the Forestry department which is located in <a>Tharandt</a>.

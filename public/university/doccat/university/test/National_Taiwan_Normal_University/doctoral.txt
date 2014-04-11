@@ -1,0 +1,7 @@
+The university enrolls approximately 11,000 students each year.
+<li>Computer Science and Information Engineering</li>
+<li>Electro-optical Science and Technology*</li>
+<li>Life Science</li>
+<li>Political Science*</li>
+<li>Athletic Science</li>
+<p><a>zh-min-nan:Kok-li&#x030d;p T&#x00e2;i-o&#x00e2;n Su-ho&#x0101;n T&#x0101;i-ha&#x030d;k</a> <a>it:Universit&#x00e0; nazionale normale di Taiwan</a> <a>ja:&#x56fd;&#x7acb;&#x53f0;&#x6e7e;&#x5e2b;&#x7bc4;&#x5927;&#x5b66;</a> <a>zh:&#x570b;&#x7acb;&#x81fa;&#x7063;&#x5e2b;&#x7bc4;&#x5927;&#x5b78;</a></p>

@@ -1,0 +1,4 @@
+<li>Informatics Institute</li>
+<li>Swammerdam Institute for Life Sciences</li>
+<li>Van 't Hoff Institute for Molecular Sciences</li>
+<h3>Arts</h3>

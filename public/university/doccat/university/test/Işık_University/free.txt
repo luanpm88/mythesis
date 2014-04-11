@@ -1,0 +1,15 @@
+<li>Department of Electronics Engineering</li>
+<li>Department of Industrial Engineering</li>
+<li>Department of Mechanical Engineering</li>
+<li>Department of Mathematics Engineering</li>
+<li>Department of Software Engineering</li>
+<li>Department of Mathematics</li>
+<li>Department of Mathematical Engineering</li>
+<li>Department of Physics</li>
+<li>Department of Information Technologies</li>
+<li>Department of Management Information Systems</li>
+<li>Department of Management</li>
+<li>Department of International Trade</li>
+<li>Department of Economics</li>
+<li>Department of International Relations</li>
+<li>Department of Interior Architecture</li>

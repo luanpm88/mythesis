@@ -1,0 +1,2 @@
+from:0 till:557 width:15 text:557 textcolor:red fontsize:8px
+from:0 till:21900 width:15 text:21900 textcolor:red fontsize:8px

@@ -1,0 +1,9 @@
+<li>Casting Technology and Equipment;</li>
+<li>Welding Technology and Equipment;</li>
+<li>Advanced Processing Machines and Technology;</li>
+<li>Electronic Engines, Plasma Power Plants and Technology;</li>
+<li>Radioelectronic Equipment Design and Technology;</li>
+<li>Computer Design and Technology;</li>
+<li>Biomedical Technology</li>
+<li>Rocket and Space Technology</li>
+<li>Optico-electronic Equipment</li>

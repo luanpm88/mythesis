@@ -1,0 +1,48 @@
+11
+, 3 0:1 4:1
+economics 8 4:1
+n 5 1:1
+li> 10 4:1
+<li><a>nakata 0 0:1
+< 9 4:1
+a> 2 0:1
+a 6 1:1
+ctor 7 4:1
+comedia 4 0:1
+atsuhiko< 1 0:1
+******* Features ************
+34
+R_isAllSmallCase:187:1 16
+W_n:186:1 15
+R_singleComma:278:4 25
+W_,:137:4 24
+W_ctor:277:4 21
+E.0:182:1 13
+W_atsuhiko<:39:0 5
+R_isAllSmallCase:180:0 12
+R_containsSpecialCharacters:978:4 31
+E.0:175:0 4
+W_a:221:1 18
+R_singleQuote:313:4 26
+U:31:4 20
+End.:30:4 32
+W_economics:312:4 28
+E.1:217:1 17
+R_singlePunctuation:733:4 27
+W_a>:74:0 6
+R_isAllSmallCase:208:4 22
+R_isSpecialCharacter:348:4 30
+W_<:347:4 29
+W_,:109:0 7
+R_singleComma:250:0 8
+E.4:343:4 23
+R_containsSpecialCharacters:950:0 3
+U:10:1 14
+W_li>:382:4 33
+W_<li><a>nakata:4:0 2
+E.1:238:4 19
+U:3:0 1
+W_comedia:144:0 11
+R_singleQuote:285:0 9
+S.:1:0 0
+R_singlePunctuation:705:0 10

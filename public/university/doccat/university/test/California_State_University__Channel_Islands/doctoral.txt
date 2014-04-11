@@ -1,0 +1,1 @@
+<li>Average class size: 20.1 students</li>

@@ -1,0 +1,6 @@
+<p>In 2007, the title of the head of the institute changed from &quot;Director&quot; to &quot;President&quot;</p>
+It has the following Schools and Departments:</p>
+<li><strong>School of Business and Social Studies</strong> <em>located in the North campus</em>:
+<li>Business Studies and Humanities Department</li>
+<li>Computing and Mathematics Department <em>located in the North campus</em></li>
+<li>Nursing and Health Care Studies Department <em>located in the North campus</em></li>

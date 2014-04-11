@@ -1,0 +1,3 @@
+<li>Faculty of Social Sciences</li>
+<li>Faculty of Life Sciences</li>
+<li>Faculty of Exact Sciences</li>

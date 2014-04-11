@@ -1,0 +1,242 @@
+free_label$$$@@@%%%<p> &lt;!-- page appears to be primarily a Wikipedia hosted brochure page for the University, not an encyclopedia article--&gt;  </p>
+established$$$@@@%%%<p><strong>Edinburgh Napier University</strong> is a <a>university</a> in <a>Edinburgh</a>, <a>Scotland</a>.
+undergrad$$$@@@%%%It is one of Scotland&#x2019;s largest universities with nearly 18,000 students.</p>
+established$$$@@@%%%<h2>History</h2>
+established$$$@@@%%%<p>Edinburgh Napier University was opened as <strong>Napier Technical College</strong> in 1964, taking its name from <a>John Napier</a>, the inventor of <a>logarithms</a>, who was born at <a>Merchiston Castle</a> &#x2014; the site of the University's <a>Merchiston</a> campus.
+former_names$$$@@@%%%In 1966, it was renamed <strong>Napier College of Science and Technology</strong>.
+established$$$@@@%%%Since 1971, it has offered <a>degree</a>-level education.
+established$$$@@@%%%Three years later, it merged with the <a>Sighthill</a>-based Edinburgh College of Commerce to form <strong>Napier College of Commerce and Technology</strong>, which became a <a>Central Institution</a> in 1985.</p>
+established$$$@@@%%%<p>The college was renamed <strong>Napier Polytechnic</strong> in 1986 and in the same year acquired the former <a>Hydropathic hospital</a> buildings at <a>Craiglockhart</a>. It gained full <a>university</a> status in June 1992 as <strong>Napier University</strong>.
+established$$$@@@%%%In 1994, Napier University acquired its <a>Craighouse campus</a>.
+established$$$@@@%%%In 1996, the university gained a new Faculty of Health Studies through a merger between the Scottish Borders College of Nursing and Lothian College of Health Studies.</p>
+established$$$@@@%%%<p>In February 2009 the University launched its new title, Edinburgh Napier University, to reflect its location in Scotland's capital city.<a>thumb|left|150px|Edinburgh
+established$$$@@@%%%Napier University Tartan</a></p>
+type$$$@@@%%%<p>Edinburgh Napier was awarded the <a>Queen's Anniversary Prize 2009</a> for Higher and Further Education.
+established$$$@@@%%%The award was made for 'Innovative housing construction for environmental benefit and quality of life', recognising the contribution made by the University's Building Performance Centre towards improving sound insulation between attached dwellings.</p>
+established$$$@@@%%%<p>The motto of the University, <em>Nisi sapientia frustra</em> (meaning &quot;Everything is in vain without knowledge&quot;) echoes the motto of the <a>City of Edinburgh</a>, <em>Nisi Dominus frustra</em> (meaning &quot;Everything is in vain without the LORD&quot;).
+vice_chancellor$$$@@@%%%Edinburgh Napier's Tartan was launched at the same time as the name change in February 2009.
+established$$$@@@%%%Previously the university used the Clan Napier Tartan; the Chief of Clan Napier welcomed the new University tartan.</p>
+campus$$$@@@%%%<h2>Courses and Students</h2>
+type$$$@@@%%%<p>Edinburgh Napier University is Edinburgh's top university for graduate employability, with 93.7% of graduates in work or further study within six months of graduating (HESA 2010).
+vice_chancellor$$$@@@%%%The courses offered are accredited by 94 professional bodies.
+type$$$@@@%%%97.4% of  postgraduate students are in work or further study within six months of graduating (DLHE 2008/9).
+free_label$$$@@@%%%The average salary for Edinburgh Napier undergraduate leavers in full-time paid work only (including self-employment) is &#x00a3;22,500 compared to the national average of &#x00a3;21,720 (2008/9).</p>
+type$$$@@@%%%<p>Edinburgh Napier offers subjects including engineering, computing, nursing and midwifery, science, business courses, <a>timber</a> engineering and <a>transport</a> studies.
+established$$$@@@%%%It offers a range of creative courses, including film, graphic design, acting, publishing and product design.
+vice_chancellor$$$@@@%%%Its <a>journalism</a> courses recently becoming Scotland's only BJTC accredited courses.</p>
+established$$$@@@%%%<p>Edinburgh Napier's Business School has achieved Chartered Management Institute (CMI) certification and was rated best new business school in the United Kingdom by the Guardian in 2007.
+established$$$@@@%%%The University was also named the best University in Scotland for graduate level employment according to the Sunday Times University Guide 2007.
+established$$$@@@%%%The School of Computing at Napier University is the largest computing department in Scotland.</p>
+established$$$@@@%%%<p>Edinburgh Skillset Screen and Media Academy (ESSAMA) is one of only three dual-status Skillset Screen &amp; Media Academies in the UK.
+established$$$@@@%%%A collaboration between Edinburgh Napier University and Edinburgh College of Art (eca), the Academy is recognised by the industry as a UK centre of excellence in film practice education.
+nickname$$$@@@%%%Patrons of the Academy include Sir Sean Connery, Dame Judi Dench and Brian Cox  with Tilda Swinton an ambassador.
+image_name$$$@@@%%%</p>
+image_name$$$@@@%%%<h2>Campuses</h2>
+established$$$@@@%%%<p>The university is based around its <a>Merchiston</a>, Craighouse, <a>Craiglockhart</a> and <a>Sighthill</a> campuses.
+type$$$@@@%%%There are also smaller medical campuses at outside the city in <a>Melrose</a> and <a>Livingston</a>'s St John's Hospital at Howden.
+image_size$$$@@@%%%Other notable Edinburgh buildings have been incorporated, including the former Parish Church at <a>Morningside</a>.</p>
+established$$$@@@%%%<p><strong>Sighthill Campus</strong> The <a>new Sighthill Campus</a> opened to students in the Faculty of Health, Life &amp; Social Sciences in January 2011.
+students$$$@@@%%%The campus includes a five storey learning resource centre, 25 specialised teaching rooms including clinical skills laboratories, an environmental chamber and biomechanics laboratory, a crime scene scenario room, three IT-enabled lecture theatres and seminar rooms, a clinical skills suite and integrated sports facilities.
+established$$$@@@%%%The campus has received the BREEAM excellence rating.
+country$$$@@@%%%This sets the standard for best practice in sustainable design.</p>
+established$$$@@@%%%<p>The Sighthill campus is also home to a new sports facility which includes a biomechanics laboratory and an environmental chamber which can recreate high altitude conditions with controllable temperature and humidity levels to simulate varying climatic conditions.</p>
+nickname$$$@@@%%%<p><strong>Craiglockhart Campus</strong> <a>thumb|Craiglockhart Campus</a>  The Craiglockhart Campus is home to The Business School.
+established$$$@@@%%%It incorporates the <a>Craiglockhart Hydropathic Hospital</a> buildings which were for a time known as Craiglockhart War Hospital, where <a>First World War</a> poets <a>Wilfred Owen</a> and <a>Siegfried Sassoon</a> were treated.
+nickname$$$@@@%%%This campus is the home of the law and business courses and is also operates as a conference centre.
+established$$$@@@%%%The Craiglockhart Campus was refurbished in 2004 and contains two lecture theatres, language labs and computing facilities.</p>
+nickname$$$@@@%%%<p><strong>Merchiston</strong> The Merchiston Campus is home to the Faculty of Computing, Engineering and Creative Industries.
+established$$$@@@%%%It is built around the refurbished shell of <a>Merchiston Castle</a>, the family home of John Napier, after whom the University is named.
+established$$$@@@%%%Merchiston Castle is also the ancient seat of <a>Clan Napier</a>.
+established$$$@@@%%%It also incorporates the 500-seat <a>Jack Kilby</a> Computing Centre, named after the inventor of integrated circuits and the handheld calculator.</p>
+country$$$@@@%%%<p>Napier Students' Association (NSA) is located nearby on Merchiston Place in a converted house.
+free$$$@@@%%%It houses the student bar for Merchiston Campus.
+established$$$@@@%%%The union building also contains the office of the sabbatical officers and Independent Student Advice Service advisors.</p>
+image_name$$$@@@%%%<p></p>
+established$$$@@@%%%<p><strong>Craighouse Campus</strong> The Craighouse Campus is based around the former <a>Thomas Clouston</a> Clinic which was a psychiatric hospital until 1990.
+nickname$$$@@@%%%This campus is home to School of Arts &amp; Creative Industries courses as well as the Ian Tomlin School of Music.
+established$$$@@@%%%A tender process is currently underway for the sale of the Craighouse campus.</p>
+country$$$@@@%%%<h2>Research and Knowledge Transfer</h2>
+established$$$@@@%%%<p>Edinburgh Napier has nine dedicated Institutes of Research and Innovation.</p>
+image_name$$$@@@%%%<ul>
+type$$$@@@%%%  <li><a>Edinburgh Institute</a></li>
+image_size$$$@@@%%%  <li><a>Employment Research Institute</a></li>
+type$$$@@@%%%  <li><a>Institute for Science &amp; Health Innovation</a></li>
+type$$$@@@%%%  <li><a>Institute for Creative Industries</a></li>
+type$$$@@@%%%  <li><a>Institute for Informatics &amp; Digital Innovation</a></li>
+type$$$@@@%%%  <li><a>Institute for Product Design &amp; Manufacture</a></li>
+type$$$@@@%%%  <li><a>Institute for Sustainable Construction</a></li>
+image_size$$$@@@%%%  <li><a>Forest Products Research Institute</a></li>
+image_size$$$@@@%%%  <li><a>Transport Research Institute</a></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h2>Environmental credentials</h2>
+established$$$@@@%%%<p>Edinburgh Napier has been ranked the top university in Scotland for its environmental credentials by the People and Planet Green League 2010.
+established$$$@@@%%%The university was also awarded the Carbon Trust Standard in 2010 for achieving a 19% reduction in carbon emissions between 1 AUgust 06 - 31 July 2009.</p>
+image_name$$$@@@%%%<h2>Partners</h2>
+established$$$@@@%%%<p>The Edinburgh, Lothians, Fife and Borders Regional Articulation Hub (ELRAH), led by Edinburgh Napier, comprises 15 university and college partners.
+vice_chancellor$$$@@@%%%The project was established in early 2009 and funded by the Scottish Funding Council.
+vice_chancellor$$$@@@%%%1,161 undergraduate students joined Edinburgh Napier directly from a Scottish College, in 2009/10.</p>
+established$$$@@@%%%<p>Edinburgh Napier also has articulation agreements and partnerships to deliver courses with higher education institutions in China, Hong Kong, and Malaysia.
+established$$$@@@%%%The university also has offices in Beijing and Hyderabad.</p>
+principal$$$@@@%%%<h2>Edinburgh International College</h2>
+established$$$@@@%%%<p>In 2010, the University announced a collaboration with global education provider Navitas to found <a>Edinburgh International College (EIC)</a>, an on-campus associate college.
+established$$$@@@%%%EIC provides degree level and Pre-Masters pathways in a range of subject areas, including Accounting and Finance, Business, Tourism and Computing.</p>
+country$$$@@@%%%<h2>Students' Association</h2>
+established$$$@@@%%%<p>Edinburgh Napier University's <a>students' union</a> is called Napier Students' Association.</p>
+free_label$$$@@@%%%<p>The student newspaper, Veritas, is published monthly.
+established$$$@@@%%%It was founded as a tabloid newspaper in 1993 by <a>Neil McIntosh</a>.
+affiliations$$$@@@%%%Past Veritas editors include <a>Craig McGill</a>.</p>
+established$$$@@@%%%<p>The Students' Association supports a variety of sporting and cultural societies.</p>
+image_name$$$@@@%%%<h2>Academic structure</h2>
+rector$$$@@@%%%<p>Edinburgh Napier University comprises three main faculties each with three constituent schools.</p>
+image_name$$$@@@%%%<ul>
+nickname$$$@@@%%%  <li>The Business School comprises:
+image_name$$$@@@%%%    <ul>
+established$$$@@@%%%      <li>School of Management &amp; Law</li>
+established$$$@@@%%%      <li>School of Accounting, Economics &amp; Statistics, and</li>
+affiliations$$$@@@%%%      <li>School of Marketing, Tourism &amp; Languages.</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%  </li>
+closed$$$@@@%%%  <li>The Faculty of Engineering, Computing &amp; Creative Industries comprises:
+image_name$$$@@@%%%    <ul>
+website$$$@@@%%%      <li>School of Arts &amp; Creative Industries</li>
+established$$$@@@%%%      <li>School of Engineering &amp; the Built Environment, and</li>
+affiliations$$$@@@%%%      <li>School of Computing.</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%  </li>
+motto$$$@@@%%%  <li>The Faculty of Health, Life &amp; Social Sciences comprises:
+image_name$$$@@@%%%    <ul>
+established$$$@@@%%%      <li>School of Nursing, Midwifery &amp; Social Care</li>
+website$$$@@@%%%      <li>School of Life, Sport &amp; Social Sciences</li>
+image_name$$$@@@%%%    </ul>
+image_name$$$@@@%%%  </li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h2>Office holders</h2>
+vice_chancellor$$$@@@%%%<p>Edinburgh Napier University's Principal and Vice-Chancellor is Professor Dame Joan Stringer <a>DBE</a>.</p>
+chancellor$$$@@@%%%<p>The Chancellor is <a>Tim Waterstone</a>, founder of <a>Waterstone's</a> bookshop and chairman of HMV Media Group.
+established$$$@@@%%%He succeeded Napier's first chancellor, the late <a>Viscount Younger of Leckie</a> in August 2007, following his death in January 2003.</p>
+established$$$@@@%%%<p>Professor George Borthwick CBE is chairman of the University Court and Dr Gerry Webber holds the position of University Secretary &amp; Registrar.</p>
+principal$$$@@@%%%<p><strong>Edinburgh Napier has three Vice Principals:</strong> <strong></strong></p>
+image_name$$$@@@%%%<ul>
+vice_chancellor$$$@@@%%%  <li>Vice Principal of Academic Development - Professor John Duffield</li>
+vice_chancellor$$$@@@%%%  <li>Vice Principal of Commercialisation - Professor Robin Mackenzie</li>
+vice_chancellor$$$@@@%%%  <li>Vice Principal of Academic Quality &amp; Customer Service - Dr Jenny Rees</li>
+image_name$$$@@@%%%</ul>
+closed$$$@@@%%%<p><strong>Faculty Deans:</strong></p>
+image_name$$$@@@%%%<ul>
+type$$$@@@%%%  <li>Dean of the Business School - Professor George Stonehouse</li>
+type$$$@@@%%%  <li>Dean of the Faculty of Engineering, Computing &amp; Creative Industries - Sandra Cairncross</li>
+type$$$@@@%%%  <li>Dean of the Faculty of Health, Life &amp; Social Sciences - Professor Morag Prowse</li>
+city$$$@@@%%%  <li>Dean of International Strategy &amp; Operations - Mr Jack Worden</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h2>Alumni</h2>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%<ul>
+affiliation$$$@@@%%%  <li><a>Catriona Shearer</a>, BBC Reporting Scotland anchor</li>
+established$$$@@@%%%  <li><a>John Andrew Barrett</a>, <a>Scottish</a> <a>Liberal Democrat</a> <a>MP</a></li>
+established$$$@@@%%%  <li><a>James Boyle (broadcasting)</a>, arts supremo (honorary doctorate)</li>
+affiliation$$$@@@%%%  <li><a>Moray Callum</a>, Scottish automotive designer</li>
+affiliation$$$@@@%%%  <li><a>Jim Dobbin</a>, <a>English</a> <a>Labour</a> MP</li>
+affiliation$$$@@@%%%  <li><a>Tom Harris</a>, Scottish Labour MP</li>
+established$$$@@@%%%  <li><a>Craig McGill</a>, writer, media analyst and PR consultant</li>
+affiliation$$$@@@%%%  <li><a>Tavish Scott</a>, Scottish Liberal Democrat <a>MSP</a></li>
+established$$$@@@%%%  <li><a>Gordon Smart</a>, Journalist and showbusiness editor at The Sun</li>
+affiliation$$$@@@%%%  <li><a>Kyle Traynor</a>, Scottish rugby union player</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h2>Honorary Graduates</h2>
+students$$$@@@%%%<p><strong>2010:</strong></p>
+image_name$$$@@@%%%<ul>
+nickname$$$@@@%%%  <li>Dr John Cumming - Honorary Doctorate of Business Administration</li>
+city$$$@@@%%%  <li>Dr Christopher Brookmyre - Honorary Doctorate of Letters</li>
+president$$$@@@%%%  <li>Dr Jane Lee - Honorary Doctorate of Business Administration</li>
+nickname$$$@@@%%%  <li>Dr Mike Rutterford - Honorary Doctorate of Business Administration</li>
+vice_chancellor$$$@@@%%%  <li>Dr John Sturrock QC - Honorary Doctorate of Laws</li>
+city$$$@@@%%%  <li>William Young - Honorary Fellowship</li>
+doctoral$$$@@@%%%  <li>Dr Andrew Rickman OBE - Honorary Doctorate of Science</li>
+doctoral$$$@@@%%%  <li>Dr Douglas Ward CBE - Honorary Doctorate of Science</li>
+nickname$$$@@@%%%  <li>Dr Jack Perry CBE - Honorary Doctorate of Business Administration</li>
+nickname$$$@@@%%%  <li>Dr Vin Murria - Honorary Doctorate of Business Administration</li>
+type$$$@@@%%%  <li>Dr Rowena Arshad - Honorary Doctor of Education</li>
+city$$$@@@%%%  <li>Mike McDonagh - Honorary Fellowship</li>
+image_name$$$@@@%%%</ul>
+vice_chancellor$$$@@@%%%<p><strong>2009:</strong></p>
+image_name$$$@@@%%%<ul>
+nickname$$$@@@%%%  <li>Craig Armstrong, Honorary Doctorate of Music</li>
+president$$$@@@%%%  <li>David Watt, Honorary Doctorate of Business Administration</li>
+nickname$$$@@@%%%  <li>Douglas Crombie Anderson, Honorary Doctorate of Business Administration</li>
+established$$$@@@%%%  <li>Dr Alice Brown, Honorary Doctor of Laws</li>
+established$$$@@@%%%  <li>Sir Andrew Cubie, Honorary Doctorate of the University</li>
+established$$$@@@%%%  <li>Sir Terry Farrell, Honorary Doctorate of Design</li>
+nickname$$$@@@%%%  <li>Dr Lawrence Ho, Honorary Docorate of Business Administration</li>
+nickname$$$@@@%%%  <li>Dame Evelyn Glennie, Honorary Doctorate of Music</li>
+established$$$@@@%%%  <li>Sir Sean Connery, Honorary Doctorate of the University</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p><strong>2008:</strong></p>
+image_name$$$@@@%%%<ul>
+type$$$@@@%%%  <li><a>Giovanni Benedetti</a>, Doctor of Business Administration</li>
+city$$$@@@%%%  <li>Ann Budge, Doctor of Technology</li>
+established$$$@@@%%%  <li><a>John Calder</a>, Doctor of Letters</li>
+established$$$@@@%%%  <li><a>Brian Cox</a>, Doctor of the University</li>
+type$$$@@@%%%  <li><a>Baroness Ford of Cunninghame</a>, Doctor of Business Administration</li>
+vice_chancellor$$$@@@%%%  <li>Professor Anne Glover, Doctor of Science</li>
+established$$$@@@%%%  <li>Catherine Lockerbie, Doctor of Letters</li>
+principal$$$@@@%%%  <li>David Quarmby CBE, Doctor of Engineering</li>
+website$$$@@@%%%  <li>Wilf Stevenson, Doctor of the Arts</li>
+type$$$@@@%%%  <li><a>Brian Taylor</a>, Doctor of Letters</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p><strong>2007:</strong></p>
+image_name$$$@@@%%%<ul>
+nickname$$$@@@%%%  <li>Dr Ming Chen, Doctor of Business Administration</li>
+established$$$@@@%%%  <li><a>Baroness Clark of Calton</a>, Doctor of Laws</li>
+type$$$@@@%%%  <li>Professor <a>Peter Grant</a>, Doctor of Engineering</li>
+president$$$@@@%%%  <li>Professor William Hardcastle, Doctor of Science</li>
+nickname$$$@@@%%%  <li><a>Bert Jansch</a>, Doctor of Music</li>
+president$$$@@@%%%  <li>Sir David K P Li, Doctor of Business Administration</li>
+established$$$@@@%%%  <li><a>Stewart Milne</a>, Doctor of Technology</li>
+website$$$@@@%%%  <li>Allan Shiach, Doctor of Arts</li>
+established$$$@@@%%%  <li>Dr Wali Tasar Uddin MBE, Doctor of the University</li>
+nickname$$$@@@%%%  <li>Gerald Weisfeld, Doctor of Business Administration</li>
+nickname$$$@@@%%%  <li>Vera Weisfeld OBE, Doctor of Business Administration</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p><strong>2006:</strong></p>
+image_name$$$@@@%%%<ul>
+nickname$$$@@@%%%  <li>George Cautherley, Doctor of Business Administration</li>
+website$$$@@@%%%  <li>Dr <a>Stuart Cosgrove</a>, Doctor of Arts</li>
+established$$$@@@%%%  <li>The Very Revd <a>Graham Forbes</a> CBE, Doctor of the University</li>
+type$$$@@@%%%  <li>Dr <a>Peter Hughes</a> OBE, Doctor of Engineering</li>
+closed$$$@@@%%%  <li>John Kissock OBE, Doctor of Engineering</li>
+nickname$$$@@@%%%  <li>Jamie Moffat, Doctor of Business Administration</li>
+website$$$@@@%%%  <li><a>Lynne Ramsay</a>, Doctor of Arts</li>
+website$$$@@@%%%  <li><a>Tilda Swinton</a>, Doctor of Arts</li>
+established$$$@@@%%%  <li><a>James Thomson</a>, Doctor of the University</li>
+vice_chancellor$$$@@@%%%  <li>Professor Patricia Peattie OBE, Honorary Fellow</li>
+website$$$@@@%%%  <li>, Doctor of Arts</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p><strong>2003:</strong></p>
+image_name$$$@@@%%%<ul>
+established$$$@@@%%%  <li><a>Colin McRae</a> MBE, Doctor of the University</li>
+type$$$@@@%%%  <li><a>Iain Banks</a>, Doctor of Letters</li>
+image_name$$$@@@%%%  <li></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p><strong>2002:</strong></p>
+image_name$$$@@@%%%<ul>
+website$$$@@@%%%  <li><a>Robert Carlyle</a>, Doctor of Arts</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p><strong>2000:</strong></p>
+image_name$$$@@@%%%<ul>
+type$$$@@@%%%  <li><a>J K Rowling</a>, Doctor of Letters</li>
+image_name$$$@@@%%%</ul>
+city$$$@@@%%%<h2>See also</h2>
+image_name$$$@@@%%%<ul>
+type$$$@@@%%%  <li><a>Scottish universities</a></li>
+affiliation$$$@@@%%%  <li><a>Fresh Air (Edinburgh)</a></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h2>References</h2>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%<h2>Bibliography</h2>
+image_name$$$@@@%%%<ul>
+image_name$$$@@@%%%  <li></li>
+affiliations$$$@@@%%%  <li><a>http://www.gashe.ac.uk:443/public_docs/isaar/C1190.html</a></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p>  </p>
+image_name$$$@@@%%%
+image_name$$$@@@%%%

@@ -1,0 +1,9 @@
+<li>School of Arts &amp; Creative Industries</li>
+<li>School of Life, Sport &amp; Social Sciences</li>
+<li>Wilf Stevenson, Doctor of the Arts</li>
+<li>Allan Shiach, Doctor of Arts</li>
+<li>Dr <a>Stuart Cosgrove</a>, Doctor of Arts</li>
+<li><a>Lynne Ramsay</a>, Doctor of Arts</li>
+<li><a>Tilda Swinton</a>, Doctor of Arts</li>
+<li>, Doctor of Arts</li>
+<li><a>Robert Carlyle</a>, Doctor of Arts</li>

@@ -1,0 +1,6 @@
+<h2>Research institutes and centers</h2>
+<li>Center for Applied Research in Musical Understanding</li>
+<li>Fastening and Joining Research Institute</li>
+<li>Nanotech Research &amp; Development Institute</li>
+<li>OU Center for Autism Research, Education and Support</li>
+<li>Public Affairs Research Laboratory</li>

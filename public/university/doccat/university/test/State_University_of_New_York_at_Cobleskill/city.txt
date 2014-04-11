@@ -1,0 +1,5 @@
+<li>Anything Grows Cafe, in Hodder Hall</li>
+<li>Sandellas Cafe, in Bouck Hall (Sandellas meal plan required)</li>
+<li>Warner Cafe, in Warner Hall</li>
+<li>Johnson Hall, home to University Police.</li>
+<li>Cross-Country Track: <em>Men's / Women's</em></li>

@@ -1,0 +1,1 @@
+Men's varsity teams include <a>Baseball</a>, <a>Basketball</a>, <a>Cross-country running</a>, <a>football</a>, <a>Golf</a>, <a>Soccer</a>, <a>Tennis</a>, and <a>Track and field</a>.

@@ -1,0 +1,8 @@
+<h2>Notable faculty</h2>
+<li><a>Bob Giraldi</a> (director, filmmaker)</li>
+<li><a>George Lois</a> (art &amp; advertising director)</li>
+<li><a>Robert Redford</a> (actor, director)</li>
+<li><a>Rob Sheridan</a> (artist, graphic and web designer, editor, art director)</li>
+<li><a>Dante Tomaselli</a> (director, score composer, writer)</li>
+<li><a>Robert Wilson</a> (director)</li>
+<li><a>Rob Zombie</a> (musician, director, writer)</li>

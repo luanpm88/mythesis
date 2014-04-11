@@ -1,0 +1,30 @@
+<li>Department of Applied Economics</li>
+<li>Department of Business Administration</li>
+<li>Department of Philosophy</li>
+<li>Department of Anthropology</li>
+<li>Department of Business Management</li>
+<li>Department of Economics</li>
+<li>Department of Finance</li>
+<li>Department of English</li>
+<li>Department of English Translation</li>
+<li>Department of Business Communication</li>
+<li>Department of Sociology</li>
+<li>Department of International Relation</li>
+<li>Department of Business Administration</li>
+<li>Department of Accountancy</li>
+<li>Department of Hotel Management</li>
+<li>Department of Marketing</li>
+<li>Department of Psychology</li>
+<li>Department of Mass Communication</li>
+<li>Department of Artistic Design</li>
+<li>Department of Mathematics</li>
+<li>Department of Statistics</li>
+<li>Department of Physics</li>
+<li>Department of Chemistry</li>
+<li>Department of Applied Chemistry</li>
+<li>Department of National Territorial Resource and Environment</li>
+<li>Department of Environmental Engineering</li>
+<li>Department of Biochemistry</li>
+<li>Department of Information Management</li>
+<li>Department of Biological Medicine Engineering</li>
+<li>Department of Preventive Medicine</li>

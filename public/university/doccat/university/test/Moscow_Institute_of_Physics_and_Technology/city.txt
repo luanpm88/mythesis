@@ -1,0 +1,13 @@
+<li>Institute for Information Transmission Problems RAS</li>
+<li>Institute for Problems in Mechanics RAS</li>
+<li>Institute of Biochemical Physics RAS</li>
+<li>Engelhardt Institute of Molecular Biology RAS</li>
+<li>Shirshov Institute of Oceanology</li>
+<li>Institute of Molecular Genetics RAS</li>
+<li>Institute of Numerical Mathematics RAS</li>
+<li>Institute of Problems of Chemical Physics RAS</li>
+<li>Institute of Solid State Physics RAS</li>
+<li>Institute of Synthetic Polymer Materials RAS</li>
+Semenov Institute of Chemical Physics, RAS</li>
+<li>Shubnikov Institute of Crystallography RAS</li>
+<li>Nuclear Safety Institute of RAS (IBRAE)</li>

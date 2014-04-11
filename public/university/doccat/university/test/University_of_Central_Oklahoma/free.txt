@@ -1,0 +1,24 @@
+<li>Department of Art</li>
+<li>Department of Dance</li>
+<li>Department of Accounting</li>
+<li>Department of Economics</li>
+<li>Department of Finance</li>
+<li>Department of Information Systems &amp; Operations Management</li>
+<li>Department of Management</li>
+<li>Department of Marketing</li>
+<li>Department of English</li>
+<li>Department of Humanities &amp; Philosophy</li>
+<li>Department of Mass Communication</li>
+<li>Department of Modern Languages</li>
+<li>Department of Sociology, CJ &amp; SAS</li>
+<li>Department of Adv.
+<li>Department of Human Environmental Sci.
+<li>Department of Occupational Tech.
+<li>Department of Professional Teacher Edu.
+<li>Department of Psychology &#x0009;&#x0009;</li>
+<li>Department of Special Services &#x0009;&#x0009;</li>
+<li>Department of Biology</li>
+<li>Department of Chemistry</li>
+<li>Department of Funeral Services</li>
+<li>Department of Nursing</li>
+<li>Department of Engineering &amp; Physics</li>

@@ -1,0 +1,6 @@
+The <a>Dee Events Center</a> is located about 10 blocks south from campus.
+<h2>Athletics</h2>
+The men's and women's basketball teams both play at the <a>Dee Events Center</a>.
+<h3>NCAA sports</h3>
+<p>In addition to the NCAA teams, Weber State University has a number of other sports, including a nationally ranked men's ice hockey team.
+<li><a>Weber State University Athletics</a></li>

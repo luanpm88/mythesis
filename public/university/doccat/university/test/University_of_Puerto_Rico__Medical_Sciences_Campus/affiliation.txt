@@ -1,0 +1,6 @@
+<li><a>Medicine</a></li>
+<li><a>Dentistry</a> </li>
+<li><a>Pharmacy</a> </li>
+<li><a>Nursing</a> </li>
+<li><a>Nutrition</a> </li>
+<li><a>Official website</a></li>

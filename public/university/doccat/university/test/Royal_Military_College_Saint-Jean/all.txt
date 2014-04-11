@@ -1,0 +1,179 @@
+image_name$$$@@@%%%<p> </p>
+established$$$@@@%%%<p><strong>Royal Military College (RMC) Saint-Jean</strong> is a <a>Canadian</a> <a>military academy</a> located on the site of <a>Fort Saint-Jean (Quebec)</a>, originally built 1666, which is now part of the town of <a>Saint-Jean-sur-Richelieu</a>, <a>Quebec</a>, 40 km south of <a>Montreal</a>, <a>Quebec</a>.
+established$$$@@@%%%It is the arm of the Canadian Military College system that ensures the smooth transition of selected Cadets from <a>high school</a> to <a>university</a> education by providing pre-university and college-level programs.
+staff$$$@@@%%%The programs are harmonized with those at the <a>Royal Military College of Canada</a> (RMC).
+free_label$$$@@@%%%The four components of achievement are Academics, Leadership, Athletics and Bilingualism.
+type$$$@@@%%%RMC Saint Jean offers a low teacher-student ratio, a physical fitness programme, teaching, and leadership activities.
+students$$$@@@%%%The college has clubs, an intramural sports programme and recreational facilities.</p>
+image_name$$$@@@%%%<h2>Responsibilities</h2>
+image_name$$$@@@%%%<ul>
+established$$$@@@%%%  <li>Conduct of the Preparatory Year academic activities, under the functional authority of RMC, as well as military and fitness training and bilingualism.</li>
+established$$$@@@%%%<li>Provision of oversight, under the functional authority of RMC, of the Continuing Studies and Officer Professional Military Education programs.</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h2>Program</h2>
+established$$$@@@%%%<p><a>right|200px|thumb|Saint-Jean sur Richelieu</a> Corresponding to the first two years of collegial (<a>CEGEP</a>) studies in Quebec, preparatory year is a pre-university program of studies.
+established$$$@@@%%%Intended for students who have obtained their <a>high-school</a> certificates in Quebec or the equivalent elsewhere in Canada, the program prepares students to continue their studies at the Royal Military College of Canada in <a>Kingston, Ontario</a>.</p>
+established$$$@@@%%%<p>Military education for Canadian officers is focused on the four components unique to the military colleges: military training, physical fitness, bilingualism and academic excellence.
+image_name$$$@@@%%%</p>
+image_size$$$@@@%%%<h2>Student life</h2>
+type$$$@@@%%%<p>Officer-cadets wear a distinctive Dress of the Day (DOD) uniform which consists of a white shirt, black sweater or light jacket, as well as black trousers or skirt with a red stripe down the side.
+affiliations$$$@@@%%%The headdress is a black wedge with red piping.</p>
+image_name$$$@@@%%%<h2>Awards</h2>
+mascot$$$@@@%%%<p>Awards are granted to outstanding cadets:</p>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%<h2>Centres</h2>
+closed$$$@@@%%%<h3>Canadian Forces Management Development School (CFMDS)</h3>
+established$$$@@@%%%<p>Founded in 1966, the mission of the CFMDS is to apply management and leadership training and consultation to the defence team.
+vice_chancellor$$$@@@%%%The CFMDS is housed at the RMC Saint-Jean.</p>
+city$$$@@@%%%<h3>Non-Commissioned Members Professional Development Centre (NCMPDC)</h3>
+established$$$@@@%%%<p>The NCMPDC was created on 1 April 2003 and is located at Campus St-Jean.
+mascot$$$@@@%%%The courses that are offered at the centre are the Intermediate Leadership Qualification (ILQ), the Advanced Leadership Qualification (ALQ) and finally the CPO1/CWO Chief Qualification (CQ).
+vice_chancellor$$$@@@%%%All courses include both distance learning and a residential portion.
+nickname$$$@@@%%%The distance learning portion lasts 9 or 10 weeks depending on the course and allows the candidates to remain with their respective units.
+former_names$$$@@@%%%These courses also prepare the candidates for the residential portion which last three weeks and takes place on the RMC Saint-Jean site.</p>
+established$$$@@@%%%<p>The NCMPDC courses were created as a result of the NCM Corps 2020, which is the strategic suidance for the professional development of the Canadian Forces Non-Commissioned Members.
+affiliations$$$@@@%%%[<a>http://www.cda-acd.forces.gc.ca/2020/engraph/ncm/doc/NCMCorps2020_ShortVersion.pdf</a>]</p>
+established$$$@@@%%%<p>More than a thousand members of the Canadian Forces transit through the NCMPDC each year in order to perfect their knowledge and skills following or before their promotion to the ranks of warrant officer (petty officer 1st class), master warrant officer (chief petty officer second class) or chief warrant officer (chief petty officer first class).</p>
+mascot$$$@@@%%%<p>The NCMPDC is a unique professional education establishment within the CF.
+established$$$@@@%%%It is the only pan-CF school that is for NCM's taught by NCM's and as of September 2007 commanded by an NCM.</p>
+nickname$$$@@@%%%<p>Since May 2009, NCMPDC is under the command of the Canadian Forces College (CFC) in Toronto, which offers a similar professional development curricumlum but for officer from the ranks of major to brigadier-general.</p>
+image_name$$$@@@%%%<h2>Regular Officer Training Plan(ROTP)/Reserve Entry Training Plan (RETP)</h2>
+established$$$@@@%%%<p>In addition to a university education, Officer Cadets receive military training, occupation training and second language training and a career after graduation.
+staff$$$@@@%%%The full-time salary includes full dental care, as well as vacation with full pay.
+mascot$$$@@@%%%Upon successful completion of ROTP, Officer Cadets are awarded a university degree and granted commissions as Officers in the Canadian Forces.
+image_size$$$@@@%%%Normally, graduates serve at least five years with the Canadian Forces.
+established$$$@@@%%%The application deadline to ROTP is in January for Basic Officer Training in July and admission the following September.</p>
+nickname$$$@@@%%%<p>Typically, successful applicants enter the Canadian Military College (CMC) System as an Officer Cadet, where they receive an education that balances academics, leadership, bilingualism and athletics.
+nickname$$$@@@%%%If there are more qualified candidates than the CMC System can accommodate or the choice of programme is not offered, such as <a>Nursing</a>, <a>Physiotherapy</a> and <a>Pharmacy</a>, successful applicants would be eligible to apply to any Canadian university where books, lab fees and student fees are covered, and students receive a monthly salary.</p>
+image_size$$$@@@%%%<p>Since an application to ROTP is also an application to the Canadian Military College System, all candidates are assessed against an aptitude test, a medical examination, and an interview.
+established$$$@@@%%%Military Potential is an assessment of Aptitudes, Personality Traits, and the choice of occupation.
+image_size$$$@@@%%%Academic Performance is an a candidate's top six most recent marks related to the requirements of the chosen programme.
+head_label$$$@@@%%%Officer Cadets are obliged to maintain satisfactory academic and military performance throughout the programme.</p>
+established$$$@@@%%%<h2>Squadrons of the Cadet Wing</h2>
+nickname$$$@@@%%%<p>The undergraduate student body, known as the Cadet Wing, is sub-divided into 3 smaller groupings called <em>Squadrons</em>, under the guidance and supervision of senior cadets.
+students$$$@@@%%%Squadrons are subdivided into flights and sections.</p>
+image_name$$$@@@%%%<p></p>
+established$$$@@@%%%<p>In the 1960s, the three squadrons were named Cartier, Mainsonneuve and Champlain.
+established$$$@@@%%%<a>thumb|200px|right|Map of Fort Saint-Jean and other forts on the Richelieu River circa 1666 for the campagne of the Regiment of Carignan-Sali&#x00e8;res</a> <a>right|200px|thumb|Fort Saint-Jean on Richelieu River in Canada during the 1750s</a> <a>right|200px|thumb|Fort Saint-Jean on Richelieu River in Canada during the 1750s</a></p>
+image_name$$$@@@%%%<h2>Routine</h2>
+nickname$$$@@@%%%<p>When they arrive at the Officer Cadets Division, the officer-cadets have already chosen their service.
+faculty$$$@@@%%%They are soon separated into three squadrons (Richelieu, Iberville or Tracy).
+image_name$$$@@@%%%</p>
+established$$$@@@%%%<p>The preuniversity programme features modern, diversified teaching methods: workshops, introduction to research methods, laboratories, group projects, oral and multimedia presentations.
+staff$$$@@@%%%The staff provide academic support in the form of workshops, tutorials, and supplementary courses.</p>
+established$$$@@@%%%<p>The cadets live in the Cartier Building or the Champlain Building and eat in  <a>Dextraze</a> Pavilion (completed in 1993).
+nickname$$$@@@%%%The cadets can leave the campus at any time when they do not have classes, study periods or training.</p>
+established$$$@@@%%%<p>During the week, the daily routine consists of inspection, running, breakfast, classes, sports, and studies.
+head_label$$$@@@%%%The officer-cadets attend academic classes and undergo military training.
+established$$$@@@%%%The <a>military training</a> is in the form of drill, cartography, compass use and three major field exercises each year.
+mascot$$$@@@%%%The cadets take roles as cadet squadron commander, second in command (2IC) and section commanders.
+established$$$@@@%%%Outside classes, <a>bilingualism</a> is promoted by <a>French</a> / <a>English</a> weeks.</p>
+nickname$$$@@@%%%<p>On the weekend, with the exception of military training, the students are largely free.</p>
+established$$$@@@%%%<h2>History</h2>
+established$$$@@@%%%<p>In Fall 2007, the federal government reopened the military college at Saint-Jean, which was closed in 1995.
+established$$$@@@%%%The reopening of RMC Saint-Jean greatly differs from the original college which opened in 1952 and from the RMC of Canada located in Kingston.
+established$$$@@@%%%The new RMC Saint-Jean emcompasses the Canadian Forces Management and Development School, one of the oldest CF training establishments in the country.
+free_label$$$@@@%%%It is also the home to the Non-Commissioned Member Professional Development Centre, which develops the prospective future senior leaders of the Canadian Forces NCM Corps.</p>
+established$$$@@@%%%<p><a>Micha&#x00eb;lle Jean</a>, Governor General of Canada, inaugurated the Royal Military College Saint-Jean on May 24, 2008, and she presented the new college coat of arms to the Commandant, Colonel Francois Pion.</p>
+established$$$@@@%%%<p>The Commandant of Royal Military College Saint-Jean reports to the Commander, Canadian Defence Academy (CDA).
+city$$$@@@%%%RMC Saint-Jean also has its own board of governors.
+doctoral$$$@@@%%%Cadets at RMC Saint-Jean are issued scarlet uniforms.
+established$$$@@@%%%The first-year program at RMC Saint-Jean is freeing up beds at <a>RMC</a> allowing more Regular Officer Training Program (ROTP) cadets to attend <a>RMC</a> rather than civilian universities.</p>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%<h2>Quotations</h2>
+image_name$$$@@@%%%<p></p>
+country$$$@@@%%%<h3>Royal Military College Saint-Jean Museum</h3>
+established$$$@@@%%%<p><a>thumb|200px|right|Fort Saint-Jean circa 1775 siege of the fort</a>  <a>thumb|200px|right|Passage of the Richelieu by night</a> <a>thumb|200px|right|Fort Sainte-Th&#x00e9;r&#x00e8;se on Richelieu River</a> The museum is located in Fort Saint-Jean on the campus of the Coll&#x00e8;ge militaire royal de Saint-Jean.
+established$$$@@@%%%The museum mandate is to collect, conserve, research and display material relating to the history of the CMR, its former cadets and its site, Saint-Jean-sur-Richelieu.
+established$$$@@@%%%The museum contains collections of military memorabilia and military artefacts.
+established$$$@@@%%%The site has been occupied since 1666 by different garrisons, a shipyard and a military college.</p>
+established$$$@@@%%%<p>The CMR Ex-Cadet Foundation manages the museum which recognizes more than 325 years (1666&#x2013;1995) of military history at the fortifications located on the Richelieu River.
+affiliations$$$@@@%%%The flora and centennial trees enhance the site.</p>
+established$$$@@@%%%<p>The museum was located in the old <a>guardhouse</a> from 1974&#x2013;1998.
+established$$$@@@%%%The museum was closed from 1998&#x2013;2003 but is now situated in the former Protestant chapel.
+established$$$@@@%%%The museum is opened Wednesday to Sunday, from 10:00 to 17:00, from May 24 until September 1.
+established$$$@@@%%%The museum has formed a cooperating association of friends of the museum to assist with projects.</p>
+free_label$$$@@@%%%<h2>Features and buildings</h2>
+affiliations$$$@@@%%%<p>Escadron Richelieu uses Cartier Block and Pavillon Lahaie.
+nickname$$$@@@%%%Pavillons Vanier, DeL&#x00e9;ry, Dextraze, Massey and the Old Mess are shared.
+established$$$@@@%%%The campus provides state-of-the-art technological support: <a>library</a>, well-equipped laboratories, ample supplies of learning materials, and Internet access.
+established$$$@@@%%%RMC Saint-Jean infrastructure is currently used by the <a>Canadian Forces</a> located at <a>ASU Saint-Jean</a> and by a non-profit corporation called <em>Campus du <a>Fort Saint-Jean (Quebec)</a></em>, which arranges for the upkeep of many of the educational facilities and leases them out to educational institutions such as the <a>Universit&#x00e9; du Qu&#x00e9;bec &#x00e0; Montr&#x00e9;al</a> (UQAM) for their local program while also renting out others for short events such as large <a>banquet</a>s or <a>convention</a>s.
+established$$$@@@%%%The Register of the Government of Canada Heritage Buildings lists six recognized Federal Heritage Buildings on the Royal Military College Saint-Jean grounds:</p>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%<h3>Memorials</h3>
+image_name$$$@@@%%%<p> </p>
+image_name$$$@@@%%%<h3>Plaques</h3>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%<h2>Traditions</h2>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%<h2>Commandants</h2>
+mascot$$$@@@%%%<p>With college numbers and rank held as commandant</p>
+image_name$$$@@@%%%<p></p>
+free$$$@@@%%%<h2>Notable alumni</h2>
+affiliations$$$@@@%%%<p>Shown with college numbers.</p>
+nickname$$$@@@%%%<p><a>right|100px|thumb|Rom&#x00e9;o Dallaire</a></p>
+image_name$$$@@@%%%<pre></pre>
+nickname$$$@@@%%%<p><a>right|100px|thumb|Steve MacLean</a></p>
+image_name$$$@@@%%%<p></p>
+provost$$$@@@%%%<h2>Notable faculty</h2>
+nickname$$$@@@%%%<p><a>right|100px|thumb|Roch Carrier in 2006</a></p>
+image_name$$$@@@%%%<ul>
+established$$$@@@%%%  <li><a>Roch Carrier</a>, author of <em>Le Chandail de hockey</em>  or <em>The Hockey Sweater</em>, and later National Librarian of Canada.</li>
+image_name$$$@@@%%%<li>Jacques Castonguay</li>
+affiliations$$$@@@%%%  <li><a>Janine Krieber</a>, wife of former Liberal Party leader St&#x00e9;phane Dion.</li>
+image_name$$$@@@%%%</ul>
+provost$$$@@@%%%<h2>In fiction and popular culture</h2>
+nickname$$$@@@%%%<p>The College's central place in Canadian military circles has made it the setting for novels, plays, films and other cultural works.</p>
+image_name$$$@@@%%%<ul>
+vice_chancellor$$$@@@%%%  <li>4377 Lt. Gen. Richard J. Evraire, CD (CMR/RMC 1959) wrote the play Chambre 204 (Saint-Jean-Sur-Richelieu: Editions Mille Roches, 1982) inspired by his time at the Royal Military College Saint-Jean.
+affiliations$$$@@@%%%<a>http://www.gg.ca/media/doc.asp?lang=e&amp;DocID=5382</a></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h2>Books</h2>
+image_name$$$@@@%%%<p><img></p>
+image_name$$$@@@%%%<ul>
+free_label$$$@@@%%%  <li>H15198 Dr. Jacques Castonguay &#x201c;Pourquoi a-t-on ferm&#x00e9; le Coll&#x00e8;ge militaire de Saint-Jean?&#x201d; <a>Montreal</a>, Art Global, 2005</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%<ul>
+free_label$$$@@@%%%  <li>H15198 Dr. Jacques Castonguay &quot;Le Coll&#x00e8;ge militaire royal de Saint-Jean&quot; Meridien 1989</li>
+city$$$@@@%%%  <li>H15198 Dr. Jacques Castonguay &quot;Le Coll&#x00e8;ge militaire royal de Saint-Jean: une universit&#x00e9; &#x00e0; caract&#x00e8;re diff&#x00e9;rent&quot; Septentrion, 1992 ISBN 2-921114-78-X, 9782921114783 </li>
+motto$$$@@@%%%  <li>H15198 Jacques Castonguay &quot;The unknown Fort, Editions du Levrier&quot; 1966 </li>
+city$$$@@@%%%  <li>H15198 Jacques Castonguay &quot;Les defies du Fort Saint-Jean, Editions du Richelieu&quot; 1975 </li>
+established$$$@@@%%%  <li>Peter J.S. Dunnett, &quot;Royal Roads Military College 1940&#x2013;1990, A Pictorial Retrospective&#x201d; (<a>Royal Roads Military College</a>, <a>Victoria, British Columbia</a>, 1990)</li>
+city$$$@@@%%%  <li>4377 Colonel Richard J. Evraire, CD (CMR/RMC 1959) &quot;Chambre 204&quot; (Saint-Jean-Sur-Richelieu: Editions Mille Roches, 1982)</li>
+vice_chancellor$$$@@@%%%  <li>Jean-Yves Gravel.
+free_label$$$@@@%%%&quot;La fondation du Coll&#x00e8;ge militaire royale de Saint Jean.&quot;
+affiliations$$$@@@%%%Revue d'histoire de l'am&#x00e9;rique fran&#x00e7;aise 27, no. 2 (sept.
+affiliations$$$@@@%%%1973).</li>
+affiliations$$$@@@%%%<li>H16511 Dr.
+established$$$@@@%%%Richard A. Preston &quot;To Serve Canada: A History of the Royal Military College since the Second World War&quot;, Ottawa, <a>University of Ottawa Press</a>, 1991.</li>
+affiliations$$$@@@%%%<li>H16511 Dr.
+established$$$@@@%%%Richard A. Preston, &quot;Canada's Royal Military College: A History of the Royal Military College&quot; Toronto, <a>University of Toronto Press</a>, 1969.</li>
+established$$$@@@%%%<li>4669 Toivo Roht (CMR RMC 1960) &quot;Coll&#x00e8;ge militaire royal de Saint-Jean, <a>Royal Roads Military College</a> and <a>Royal Military College of Canada</a> 1955&#x2013;2006&quot; 2007</li>
+affiliations$$$@@@%%%  <li>H1877 R. Guy C. Smith (editor) &quot;As You Were! Ex-Cadets Remember&quot; In 2 Volumes.
+affiliations$$$@@@%%%Volume I: 1876&#x2013;1918.
+affiliations$$$@@@%%%Volume II: 1919&#x2013;1984.
+established$$$@@@%%%<a>Royal Military College of Canada</a> <a>Kingston, Ontario</a>.
+motto$$$@@@%%%The Royal Military Colleges Club of Canada 1984</li>
+image_name$$$@@@%%%</ul>
+city$$$@@@%%%<h2>See also</h2>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%<ul>
+staff$$$@@@%%%  <li><a>Royal Military College of Canada</a></li>
+country$$$@@@%%%  <li><a>Royal Roads Military College</a></li>
+established$$$@@@%%%  <li><a>Royal Naval College of Canada</a></li>
+affiliation$$$@@@%%%  <li><a>Canadian Interuniversity Sport</a></li>
+free$$$@@@%%%  <li><a>Canadian government scientific research organizations</a></li>
+affiliation$$$@@@%%%  <li><a>Canadian university scientific research organizations</a></li>
+faculty$$$@@@%%%  <li><a>Canadian industrial research and development organizations</a></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h2>External links</h2>
+image_name$$$@@@%%%<ul>
+former_names$$$@@@%%%  <li><a>Official site</a> (in French)</li>
+country$$$@@@%%%  <li><a>Royal Military College Saint-Jean</a></li>
+established$$$@@@%%%  <li><a>Campus du Fort Saint-Jean</a> (in French)</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h2>References</h2>
+image_name$$$@@@%%%<p><img> <img>  </p>
+image_name$$$@@@%%%
+image_name$$$@@@%%%

@@ -1,0 +1,13 @@
+<h2>Student life</h2>
+<h3>Student facilities</h3>
+<h2>President</h2>
+<p>Johan Roos is President at CBS as of December 2008.
+<li>International Center for Business and Politics</li>
+<li>Research Centre on Biotech Business</li>
+<li>Research Center, Management, Organization and Competence</li>
+<li>CEMS MIM 1</li>
+<li><a>Copenhagen Consensus Centre</a></li>
+<li><a>Offshoring Research Network</a></li>
+<li><a>Graduate programmes at CBS</a></li>
+<li><a>Undergraduate programmes at CBS</a></li>
+<li><a>Entrepreneurship at CBS</a></li>

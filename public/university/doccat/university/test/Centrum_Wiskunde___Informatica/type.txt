@@ -1,0 +1,5 @@
+During this early period, the Mathematics Institute also helped with designing the wings of the <a>Fokker F27 Friendship</a> airplane, voted in 2006 as the most beautiful Dutch design of the 20th century.
+<p>Work at the institute is regularly recognized by national or international research awards, such as the <a>Lanchester Prize</a> prize (awarded yearly by <a>INFORMS</a>), the <a>G&#x00f6;del Prize</a> (awarded by <a>ACM SIGACT</a>) or the <a>Spinoza prize</a>.
+<p>CWI is a founding member of <a>European Research Consortium for Informatics and Mathematics</a> (<a>ERCIM</a>), the European network of national computer science research institutes.</p>
+<h2>Birthplace of the European Internet</h2>
+<p>Even today, the <a>Amsterdam Internet Exchange</a> (the largest Internet Exchange in the world, in terms of both members and throughput traffic) is located at the neighbouring <a>SARA</a> (an early CWI spin-off) and <a>NIKHEF</a> institutes.

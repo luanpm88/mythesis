@@ -1,0 +1,5 @@
+The university is located in <a>Cork</a>.</p>
+<li><a>UCC Students' Union</a></li>
+<li><a>UCC GAA</a></li>
+<li><a>Students' Union</a></li>
+<li><a>Alumni Lists</a></li>

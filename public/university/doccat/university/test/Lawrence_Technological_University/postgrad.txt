@@ -1,0 +1,4 @@
+<li>Owns the private and professional library of architect Albert Kahn </li>
+<li>No classes taught by graduate students or teaching assistants </li>
+<li>70% of undergraduate classes have 19 or fewer students </li>
+<li>Less than 1% of undergraduate classes have more than 40 students</li>

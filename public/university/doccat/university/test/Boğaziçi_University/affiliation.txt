@@ -1,0 +1,33 @@
+<li><a>Chemistry</a></li>
+<li><a>Mathematics</a></li>
+<li><a>Philosophy</a></li>
+<li><a>Physics</a></li>
+<li><a>Psychology</a></li>
+<li><a>Sociology</a></li>
+<li><a>Chemical Engineering</a></li>
+<li><a>Computer Engineering</a></li>
+<li><a>Economics</a></li>
+<li><a>Management</a></li>
+<li><a>Management Information Systems</a></li>
+<li><a>International Trade</a></li>
+<li><a>Tourism</a> Administration</li>
+<li><a>Earthquake</a> Engineering,</li>
+<li><a>Geodesy</a>,</li>
+<li><a>Geophysics</a></li>
+<li><a>Ballet</a> Club</li>
+<li><a>Bridge</a> Club</li>
+<li><a>Chess</a> Club</li>
+<li><a>Cinema</a> Club</li>
+<li><a>Computer Engineering</a> Club</li>
+<li><a>Construction</a> Club</li>
+<li><a>Drama</a> Club</li>
+<li><a>Folklore</a> Club</li>
+<li><a>Green Crescent</a> Club</li>
+<li><a>Mountaineering</a> Club</li>
+<li><a>Photograph</a>y Club</li>
+<li><a>Radio</a> Club</li>
+<li><a>Scuba Diving</a> Club</li>
+<li><a>Speleology</a> Club</li>
+<li><a>Translation</a> Club</li>
+<li><a>Cahit Arf</a> (1910&#x2013;1997) Mathematician</li>
+<li><a>Robert College</a></li>

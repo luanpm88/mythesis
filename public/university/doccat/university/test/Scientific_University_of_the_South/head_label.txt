@@ -1,0 +1,8 @@
+<li>School of Medicine</li>
+<li>School of Psicology</li>
+<li>School of Stomatology</li>
+<li>School of Nutrition</li>
+<li>School of Systems Engineering</li>
+<li>School of Environmental Engineering</li>
+<li>School of Marine Biology</li>
+<li>School of Environmental Tourism</li>

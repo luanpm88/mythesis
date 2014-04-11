@@ -1,0 +1,7 @@
+<p>Vancouver Island University offers exchange programs that allow students to study for one or two semesters overseas while remaining registered at Vancouver Island University.
+<li><a>UNITEC</a>, NZ</li>
+<li><a>Nanaimo Campus</a></li>
+<li><a>Cowichan Campus</a></li>
+<li><a>Powell River Campus</a></li>
+<li><a>BC Government announcement</a></li>
+<li><a>MBA Program</a></li>

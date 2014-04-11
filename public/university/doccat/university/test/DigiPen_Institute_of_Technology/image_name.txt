@@ -1,0 +1,76 @@
+<p></p>
+<h2>Campus</h2>
+<h4>Main Campus</h4>
+<h4>Sister Campus</h4>
+<ul>
+<li>Singapore</li>
+</ul>
+<ul>
+<li>Bilbao (Spain)</li>
+</ul>
+<h2>Students</h2>
+<ul>
+<ul>
+</ul>
+</li>
+<ul>
+</ul>
+</li>
+<ul>
+</ul>
+</li>
+</ul>
+<h2>Faculties</h2>
+<ul>
+</ul>
+<ul>
+</ul>
+<h2>Departments</h2>
+<ul>
+</ul>
+<ul>
+</ul>
+<ul>
+<li>ANI: Animation</li>
+<li>CG: Computer Graphics</li>
+<li>FLM: Film</li>
+<li>PRJ: Projects</li>
+</ul>
+<ul>
+<li>GAT: Game Application Techniques</li>
+</ul>
+<ul>
+<li>COM: Communications</li>
+<li>ECN: Economics</li>
+<li>ENG: English</li>
+<li>JPN: Japanese</li>
+<li>MGT: Management</li>
+<li>PHL: Philosophy</li>
+<li>PSY: Psychology</li>
+</ul>
+<ul>
+<li>BIO: Biology Courses</li>
+</ul>
+<ul>
+<li>MAT: Mathematics Courses</li>
+</ul>
+<ul>
+<li>PHY: Physics Courses</li>
+</ul>
+<h2>Summer camps</h2>
+<h2>Ranking</h2>
+<ul>
+</ul>
+<ul>
+</ul>
+<h2>References</h2>
+<ul>
+</ul>
+<p>&lt;references/&gt;</p>
+<h2>External links</h2>
+<ul>
+</ul>
+<p></p>
+<p></p>
+
+

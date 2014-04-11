@@ -1,0 +1,12 @@
+<li><a>Alumni Relations Committee</a></li>
+<li><a>Amnesty International</a></li>
+<li><a>Animal Legal Defense Fund</a></li>
+<li><a>Dickinson Democrats</a></li>
+<li><a>Legalese</a></li>
+<li><a>Phi Alpha Delta</a></li>
+<li><a>Phi Delta Phi</a></li>
+<li><a>Res Ipsa Loquitur</a></li>
+<li><a>Rugby Club</a></li>
+<li><a>Speakers Trust Fund</a></li>
+<li><a>Toastmasters International</a></li>
+<li><a>Volunteer Income Tax Assistance Program</a></li>

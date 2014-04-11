@@ -1,0 +1,10 @@
+<li>Dept. of Electrical Engineering</li>
+<li>Dept. of Electronic Engineering</li>
+<li>Graduate Institute of Mechanical And Electrical Engineering-Ph.D. Program</li>
+<li>Dept. of Mechanical Engineering</li>
+<li>Dept. of Vehicle Engineering</li>
+<li>Dept. of Civil Engineering</li>
+<li>Dept. of Business Management</li>
+<li>Dept. of Industrial Design</li>
+<li>Dept. of Architecture</li>
+<li><a>Dept. of English</a></li>

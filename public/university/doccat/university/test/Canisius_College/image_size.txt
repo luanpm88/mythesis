@@ -1,0 +1,3 @@
+<h2>Student life</h2>
+<h2>Student Run Media</h2>
+<li><a>Canisius Athletic official site</a></li>

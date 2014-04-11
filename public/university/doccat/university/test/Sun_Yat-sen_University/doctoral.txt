@@ -1,0 +1,3 @@
+<li>School of Information Science and Technology
+<li><a>Information about SYSU at Yale-China Association</a></li>
+<p><a>de:Sun-Yat-sen-Universit&#x00e4;t (Guangdong)</a> <a>es:Universidad Sun Yat-sen</a> <a>nl:Sun Yat-sen-universiteit (Guangdong)</a> <a>ja:&#x4e2d;&#x5c71;&#x5927;&#x5b66;</a> <a>no:Sun Yat-sen-universitetet</a> <a>zh-yue:&#x4e2d;&#x5c71;&#x5927;&#x5b78;</a> <a>zh:&#x4e2d;&#x5c71;&#x5927;&#x5b66;</a></p>

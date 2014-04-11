@@ -1,0 +1,6 @@
+<li><a>Camosun College Website</a></li>
+<li><a>Camosun Chargers Website</a></li>
+<li><a>Camosun College Student Society</a></li>
+<li><a>Camosun College International</a></li>
+<li><a>Engineering Bridge Website</a></li>
+<li><a>CUPE Local 2081 Website</a></li>

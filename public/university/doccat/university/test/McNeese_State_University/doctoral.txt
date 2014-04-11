@@ -1,0 +1,4 @@
+<p>-The College of Science</p>
+<li><a>Michael Ray Charles</a> - Contemporary Artist</li>
+<li><a>Doug Kershaw</a> - Musician</li>
+<li><a>Eric Pete</a> - author</li>

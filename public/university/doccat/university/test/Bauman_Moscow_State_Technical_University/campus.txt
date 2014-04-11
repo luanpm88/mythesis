@@ -1,0 +1,17 @@
+<li>Metal Pressing and Forging Engineering and Equipment;</li>
+<li>Metallurgical Machines and Equipment;</li>
+<li>Metrology and Metrological Provision;</li>
+<li>Flight Dynamics and Movement Control;</li>
+<li>Automatic Systems and Robot Engineering; </li>
+<li>Missiles and Pulse systems;</li>
+<li>Robotics and Mechatronics;</li>
+<li>Space Vehicles and Acceleration Blocks;</li>
+<li>Caterpillar and Wheel Vehicles;</li>
+<li>Low Temperature Physics and Engineering (Cryogenics);</li>
+<li>Hydraulic Machinery, Drives and Controls;</li>
+<li>Nontraditional and Renewable Energy Sources;</li>
+<li>Information and Measuring Equipment and Technology; </li>
+<li>Computer Systems, Complexes and Networks;</li>
+<li>Automatic Information Processing and Control Systems;</li>
+<li>Theoretical computer science and computer technology</li>
+<li>Air and Space</li>

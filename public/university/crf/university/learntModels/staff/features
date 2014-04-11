@@ -1,0 +1,222 @@
+84
+teachers 51 0:1 4:1
+<a>faculty< 29 0:1
+brochure 78 0:1
+<a>19 20 0:1
+members 30 0:1 4:2
+instruct 44 4:1
+chase< 47 0:1
+approximately 26 0:2
+rica< 18 0:1
+museum< 77 0:1
+anchor 67 4:1
+award< 12 4:1
+x00a3 75 0:1
+<p>for 69 0:1
+one 55 4:1
+<a>licence 64 4:1
+students 52 0:4
+main 40 4:1
+roughly 45 4:1
+writer 14 4:1
+over 74 0:1
+staff 1 0:5 4:9
+regan< 9 0:1
+<li><a>philander 46 0:1
+li> 49 4:2
+field 27 0:1
+more 42 0:1
+symbol 68 4:1
+degrees 7 4:1
+it 53 0:1
+is 73 0:1
+in 19 0:4 4:1
+spread 58 4:1
+has 54 0:1
+introduced 63 0:1
+business 82 4:1
+with 57 0:1
+than 43 0:1
+of 2 0:6 4:2
+research 60 0:1
+humanity 25 4:1
+faculty 17 0:1 3:1 4:3
+offers 5 4:1
+a 0 0:2 4:1
+p> 56 4:1
+million 76 0:1
+time 34 2:1
+today 41 0:1
+arts 83 4:1
+and 15 0:6 4:5
+DIGIT 3 0:11 1:41 4:12
+including 35 4:1
+to 23 4:1
+teaching 62 4:1
+<a>emmy 11 4:1
+academic 80 0:1
+<p> 50 0:1
+winning 13 4:1
+at 38 4:1
+year 72 4:1
+there 31 0:1
+quot 22 4:1
+< 21 4:4
+across 59 4:1
+undergraduate 6 4:1
+same 71 4:1
+kingston 79 0:1
+<li><a>chris 8 0:1
+, 4 0:11 1:14 4:12
+<p><a>thumbright 65 0:1
+university 36 4:1
+other 81 4:1
+almost 37 0:2
+full 33 2:1
+was 28 0:2
+are 32 0:1
+a> 10 0:5 4:2
+certified 70 0:1
+provide 24 4:1
+the 39 0:1 4:3
+non 61 4:1
+x2013 48 4:1
+pxthe 66 4:1
+employed 16 0:1
+******* Features ************
+135
+W_across:2097:4 106
+R_containsSpecialCharacters:950:0 28
+W_field:949:0 62
+W_x2013:1712:4 92
+E.0:182:1 6
+W_employed:564:0 44
+W_million:2664:0 127
+R_isAllSmallCase:180:0 2
+W_<p><a>thumbright:2279:0 114
+R_containsDigit:558:4 93
+W_has:1894:0 99
+E.0:175:0 3
+W_and:557:4 46
+R_isAllCapital:173:4 60
+W_than:1509:0 87
+W_,:172:4 15
+W_<a>licence:2272:4 112
+W_are:1124:0 67
+W_a>:354:0 30
+W_certified:2454:0 120
+R_singlePunctuation:733:4 18
+R_isSpecialCharacter:348:4 53
+W_almost:1299:0 81
+W_spread:2062:4 105
+R_isAllCapital:152:1 8
+E.4:343:4 19
+W_,:151:1 10
+W_approximately:914:0 58
+R_containsDigit:530:0 51
+W_and:529:0 43
+W_x00a3:2629:0 126
+W_university:1292:4 79
+R_isAllCapital:145:0 32
+W_,:144:0 39
+W_humanity:907:4 57
+W_it:1859:0 98
+W_writer:522:4 38
+R_singlePunctuation:712:1 13
+W_more:1474:0 86
+W_DIGIT:137:4 59
+W_there:1089:0 66
+R_singlePunctuation:705:0 42
+W_<a>19:704:0 50
+W_academic:2804:0 131
+W_regan<:319:0 29
+W_<p>for:2419:0 118
+W_members:1082:4 102
+W_in:697:4 113
+R_singleQuote:313:4 17
+W_chase<:1649:0 91
+W_symbol:2412:4 117
+E.3:308:4 77
+W_DIGIT:116:1 7
+W_over:2594:0 125
+W_including:1257:4 78
+W_DIGIT:109:0 31
+W_introduced:2209:0 111
+W_provide:872:4 56
+W_students:1824:0 97
+W_winning:487:4 37
+W_of:102:4 101
+W_today:1439:0 85
+W_teaching:2202:4 110
+R_singleQuote:292:1 12
+W_members:1054:0 65
+W_teachers:1817:4 96
+W_in:669:0 49
+W_kingston:2769:0 130
+W_main:1432:4 84
+R_singleQuote:285:0 41
+W_<li><a>chris:284:0 27
+W_with:1999:0 104
+R_singleComma:278:4 16
+W_<li><a>philander:1614:0 90
+W_degrees:277:4 25
+W_anchor:2377:4 116
+W_p>:1992:4 103
+W_roughly:1607:4 89
+W_is:2559:0 124
+E.2:266:3 74
+W_of:74:0 5
+W_to:837:4 55
+W_arts:2937:4 134
+W_teachers:1789:0 121
+W_award<:452:4 35
+W_year:2552:4 123
+E.2:259:2 72
+W_staff:67:4 47
+W_non:2167:4 109
+R_singleComma:257:1 11
+W_<a>faculty<:1019:0 64
+W_time:1208:2 73
+W_rica<:634:0 48
+W_brochure:2734:0 129
+W_the:1397:4 83
+R_singleComma:250:0 40
+W_faculty:627:4 45
+W_undergraduate:242:4 23
+W_pxthe:2342:4 115
+W_one:1957:4 100
+W_faculty:620:3 75
+E.1:238:4 14
+W_instruct:1572:4 88
+W_staff:39:0 4
+W_quot:802:4 54
+W_business:2902:4 133
+W_<p>:1754:0 95
+W_<a>emmy:417:4 33
+W_same:2517:4 122
+E.1:224:2 68
+W_the:1369:0 119
+W_a:32:4 108
+U:31:4 20
+End.:30:4 24
+W_was:984:0 63
+W_li>:1747:4 94
+W_full:1173:2 70
+W_faculty:599:0 80
+E.1:217:1 9
+W_museum<:2699:0 128
+W_at:1362:4 82
+R_containsSpecialCharacters:978:4 34
+U:17:2 69
+R_isAllSmallCase:208:4 22
+W_offers:207:4 21
+R_isAllSmallCase:201:3 76
+End.:9:1 61
+W_a:4:0 1
+W_research:2104:0 107
+R_isAllSmallCase:194:2 71
+U:3:0 26
+W_<:767:4 52
+W_other:2867:4 132
+S.:1:0 0
+W_a>:382:4 36

@@ -1,0 +1,11 @@
+Bauman MSTU is one of the oldest and largest Russian <a>technical university</a> offering <a>B.S.</a>, <a>M.S.</a> and <a>Ph.D.</a> degrees in various engineering fields and applied sciences.</p>
+And today some students learn using two step educational system.
+In this university theoretical subjects accompanied by practical training.
+<li>Radioelectronic Systems.
+<li>Technical physics.</li>
+<li>Electrical Engineering.
+<li>Safety of Vital Activity.
+<li><a>CAD/CAE/PDM/PLM Department</a>.
+<li><a>Official web site (Russian)</a></li>
+<li><a>Official web site (English)</a></li>
+<li><a>Unofficial web site (Russian)</a></li>

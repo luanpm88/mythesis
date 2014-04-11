@@ -1,0 +1,4 @@
+&quot;Faculty Design Committees&quot;, &quot;Course Study Committees&quot; and &quot;Course Design Committees&quot; are a few examples..</p>
+<li><a>Computer Science and Engineering</a></li>
+<li><a>Materials Science and Engineering</a></li>
+<li><a>Ibrahim al-Marashi</a></li>

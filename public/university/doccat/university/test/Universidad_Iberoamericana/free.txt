@@ -1,0 +1,14 @@
+<p><strong>Art Department</strong></p>
+<p><strong>Economics Department</strong></p>
+<p><strong>Philosophy Department</strong></p>
+<p><strong>Literature Department</strong></p>
+<p><strong>Architecture Department</strong></p>
+<p><strong>Communications Department</strong></p>
+<p><strong>Law Department</strong></p>
+<p><a><strong>Design Department</strong></a></p>
+<p><strong>International Studies Department</strong></p>
+<p><strong>Physics and Math Department</strong></p>
+<p><strong>Engineering Department</strong></p>
+<p><strong>Psychology Department</strong></p>
+<p><strong>Health Department</strong></p>
+<h2>Notable alumni</h2>

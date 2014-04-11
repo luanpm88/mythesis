@@ -1,0 +1,2 @@
+<h2>Buildings on campus</h2>
+<li>Foy Fitness and Recreational Center</li>

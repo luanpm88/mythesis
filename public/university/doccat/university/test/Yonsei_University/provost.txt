@@ -1,0 +1,5 @@
+<li>Cha Beom Seok (&#xcc28;&#xbc94;&#xc11d;): Playwright and director</li>
+<li>Choi In ho (&#xcd5c;&#xc778;&#xd638;): Novelist</li>
+<li><a>Bong Joon-ho</a>: Movie director</li>
+<li>Bae, Chang Ho: Movie director</li>
+<li>Lim, Sang Soo: Movie director</li>

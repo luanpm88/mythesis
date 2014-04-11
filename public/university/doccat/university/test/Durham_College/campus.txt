@@ -1,0 +1,5 @@
+<h3>Campuses and locations</h3>
+<li>Men's and women's basketball;</li>
+<li>Men's and women's golf;</li>
+<li>Men's and women's indoor and outdoor soccer</li>
+<li>Men's and women's volleyball; and</li>

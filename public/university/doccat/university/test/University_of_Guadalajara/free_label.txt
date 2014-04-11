@@ -1,0 +1,7 @@
+<li><a>CUAAD</a> - University Center of Art, Architecture and Design</li>
+<li>CEPE - Centro de Estudios para Extranjeros (Center for Foreign Students)</li>
+<li><a>Centro Universitario de Ciencias Biol&#x00f3;gicas y Agropecuarias - CUCBA</a> (In Spanish)</li>
+<li><a>Centro Universitario de Ciencias Econ&#x00f3;mico-Administrativas - CUCEA</a> (In Spanish)</li>
+<li><a>Centro Universitario de Ciencias de la Salud - CUCS</a> (In English)</li>
+<li><a>Centro Universitario de la Costa Sur-CUCSUR</a> (In Spanish)</li>
+<li><a>Centro Universitario de los Altos-CUALTOS</a> (In Spanish)</li>

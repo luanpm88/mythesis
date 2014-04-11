@@ -1,0 +1,8 @@
+<li>The Faculty of Engineering Sciences includes the Departments of Textile Science and Technology; Paper Science and Technology; Electromechanical Engineering; Civil Engineering; and Aerospace Sciences.
+<li><em>Engenharia Civil</em> (<a>civil engineering</a>)</li>
+<li><em>Engenharia Electromec&#x00e2;nica</em> (<a>electromechanics</a> engineering)</li>
+<li><em>Engenharia Mec&#x00e2;nica</em> (<a>mechanical engineering</a>)</li>
+<li><em>Engenharia Qu&#x00ed;mica</em> (<a>chemical engineering</a>)</li>
+<li><em>Engenharia T&#x00ea;xtil</em> (<a>textiles engineering</a>)</li>
+<li><em>Optometria - Ci&#x00ea;ncias da Vis&#x00e3;o</em> (<a>optometry</a>)</li>
+<h2>Academic year</h2>

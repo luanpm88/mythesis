@@ -1,0 +1,15 @@
+<li>Fake Hall</li>
+<li>Parsons Hall </li>
+<li>Ten Eyck Hall</li>
+<li>Dix Hall</li>
+<li>Draper Hall</li>
+<li>Pearson Hall</li>
+<li>Porter Hall</li>
+<li>Vroman Hall</li>
+<li>Davis Hall</li>
+<li>Wieting Hall</li>
+<li>The Agricultural complex, including: Curtis Mott (Ag Eng), Hodder Hall (Plant Science), Animal Science Lab, Dairy Barn, Equestrian Center, Fish Hatchery, Greenhouses, Horse Barn, Livestock Building, Meat Processing Lab, and the Nursery.</li>
+<li>Holmes Hall: the Early Childhood building.</li>
+<li>American Heritage, in Prentice Hall </li>
+<li>Champlin Hall</li>
+<li>Knapp Hall, the Administration Building; home to the Career Development Center, Residential Life, Student Accounts, Admissions, Financial Aid, the Registrar's office, and telecommunications.</li>

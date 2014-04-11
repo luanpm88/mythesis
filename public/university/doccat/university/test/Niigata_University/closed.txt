@@ -1,0 +1,8 @@
+<li>Faculty of Humanities</li>
+<li>Faculty of Economics</li>
+<li>Faculty of Science</li>
+<li>Faculty of Medicine
+<li>Faculty of Dentistry</li>
+<li>Faculty of Engineering</li>
+<li>Faculty of Agriculture</li>
+<li>Sado Marine Biological Station (Faculty of Science)</li>

@@ -1,0 +1,34 @@
+<li><a>Economics</a></li>
+<li><a>Management</a></li>
+<li><a>Mechatronics</a></li>
+<li><a>Electronic Engineering</a> </li>
+<li><a>Manufacturing Systems Engineering</a></li>
+<li><a>Ahmet Alkan</a></li>
+<li><a>Ali Alpar</a></li>
+<li><a>Ahmet Nihat Berker</a></li>
+<li><a>Ali &#x00c7;arko&#x011f;lu</a></li>
+<li><a>Asif &#x015e;abanovi&#x00e7;</a></li>
+<li><a>Ersin Kalayc&#x0131;o&#x011f;lu</a></li>
+<li><a>G&#x00fc;nd&#x00fc;z Ulusoy</a></li>
+Mete Soner</a></li>
+<li><a>Halil Berktay</a></li>
+<li><a>Hasan Ersel</a></li>
+<li><a>Hasan B&#x00fc;lent Kahraman</a></li>
+<li><a>Henning Stichtenoth</a></li>
+<li><a>Ismail Cakmak</a></li>
+<li><a>Kemalettin Erbatur</a></li>
+<li><a>Metin Kunt</a></li>
+<li><a>Mustafa &#x00dc;nel</a></li>
+<li><a>&#x015e;erif Mardin</a></li>
+<li><a>Tosun Terzio&#x011f;lu</a></li>
+<li><a>U&#x011f;ur Sezerman</a></li>
+<li><a>Vyacheslav Zakharyuta</a></li>
+<li><a>Sak&#x0131;p Sabanc&#x0131;</a></li>
+<li><a>Sabanc&#x0131; Holding</a></li>
+<li><a>Haci Omer Foundation (VAKSA)</a></li>
+<li><a>Sabanci Corporate</a></li>
+<li><a>SAKIP SABANCI INTERNATIONAL RESEARCH AWARD</a></li>
+<li><a>RadyoSU</a></li>
+<li><a>Sakip Sabanci Museum</a></li>
+<li><a>Suugle</a></li>
+<li><a>M&#x00fc;zikus</a></li>

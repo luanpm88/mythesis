@@ -1,0 +1,6 @@
+<li>Social Science / Performing Arts</li>
+<li>Green Activities Center</li>
+<li>Dayson Alumni Center</li>
+<li>Tecumseh Dining Center</li>
+<li><a>Red Skelton</a> Performing Arts Center / Red Skelton Museum</li>
+<li>Halbig Technology Center</li>

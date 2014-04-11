@@ -1,0 +1,4 @@
+It has about 20,000 students.</p>
+<li>Phetchaburi IT Campus, Cha-Am District, <a>Phetchaburi</a></li>
+<li><a>Faculty of Science</a></li>
+<li><a>Faculty of Management Science</a>

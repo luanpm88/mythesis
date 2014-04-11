@@ -1,0 +1,25 @@
+<li><a>Alpha Kappa Lambda</a></li>
+<li><a>Alpha Phi Alpha</a></li>
+<li><a>Alpha Tau Omega</a></li>
+<li><a>Delta Chi</a></li>
+<li><a>Lambda Chi Alpha</a></li>
+<li><a>Omega Psi Phi</a></li>
+<li><a>Phi Beta Sigma</a></li>
+<li><a>Phi Sigma Kappa</a></li>
+<li><a>Sigma Phi Epsilon</a></li>
+<li><a>Sigma Pi</a></li>
+<li><a>Sigma Tau Gamma</a></li>
+<li><a>Tau Kappa Epsilon</a></li>
+<li><a>Theta Chi</a></li>
+<li><a>Alpha Kappa Alpha</a></li>
+<li><a>Alpha Gamma Delta</a></li>
+<li><a>Alpha Omicron Pi</a></li>
+<li><a>Alpha Phi</a></li>
+<li><a>Alpha Sigma Alpha</a></li>
+<li><a>Delta Sigma Theta</a></li>
+<li><a>Delta Zeta</a></li>
+<li><a>Sigma Kappa</a></li>
+<li><a>Sigma Sigma Sigma</a></li>
+<li><a>Sigma Gamma Rho</a></li>
+<li><a>Zeta Phi Beta</a></li>
+<li>Henry Mason - Former NFL wide receiver and long-time <a>University of Wisconsin&#x2013;Madison</a> assistant football coach</li>

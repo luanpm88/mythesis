@@ -1,0 +1,93 @@
+image_name$$$@@@%%%<p></p>
+affiliation$$$@@@%%%<p><strong>Schenectady County Community College</strong> (SCCC) is a two-year college associated with the <a>State University of New York</a> (SUNY) located in <a>Schenectady, New York</a>.
+established$$$@@@%%%It was established in 1967 in the <a>Van Curler Hotel</a> in <a>Downtown Schenectady</a> and has undergone multiple expansions through the following decades.
+established$$$@@@%%%The school is renowned for its <a>culinary arts</a> and <a>music</a> departments.
+established$$$@@@%%%Students interested in a <a>Bachelor of Business Administration</a> degree in <a>Hospitality Management</a> with concentrations in Hotel &amp; Resort Management and Travel &amp; Tourism or a BBA in Business &amp; Technology Management with a concentration in Technology may do so at SCCC through a partnership with <a>SUNY Delhi</a>.
+established$$$@@@%%%The school's culinary arts program is accredited by the <a>American Culinary Federation</a>.</p>
+established$$$@@@%%%<h2>History</h2>
+established$$$@@@%%%<p>The <a>Schenectady County Board of Representatives</a> formed Schenectady County Community College on January 26, 1967 and then purchased the former Van Curler hotel which required renovations so that classes could commence in the building in 1969.
+established$$$@@@%%%The Van Curler would be renamed Elston Hall after Charles W. Elston, the long standing, original board member and eight-year chairperson for the Schenectady County Board of Representatives.</p>
+established$$$@@@%%%<p>The first of a number expansions occurred in 1978, with the building that houses the Begley library, a television stations, lecture halls, and a wing for the music department along with the Carl B. Taylor Community Auditorium.
+established$$$@@@%%%A 1982 expansion added the Tempo Building, housing four classrooms and continuing education.
+free_label$$$@@@%%%1987 brought the Center for Science and  Technology, while 1992 saw the creation of a new student center which included a cafeteria, college store, student lounge, along with <a>biology</a> and <a>geology</a> labs and fifteen classrooms.
+established$$$@@@%%%Also completed in 1992 was a South Wing expansion which created four new <a>culinary arts</a> labs, expanded upon the Casola Dining Room, and added a childcare center, and an enclosed bridge that connected Elston Hall with the Center for Science and Technology which is located across the street from the school's main campus.</p>
+established$$$@@@%%%<p>In 2000 the Gateway Building was erected  for childhood development classes and a childcare center.
+mascot$$$@@@%%%The next year the Stockade Building was build in order to house  six computer classrooms, nine general classrooms, two lecture halls, conference rooms and offices for the Continuing Education Division and Capital District World Trade Center.
+established$$$@@@%%%Additionally a new quad area was build in front of Elston Hall.</p>
+established$$$@@@%%%<p>In 2006 a $6.3 million dollar expansion to the Culinary Arts department began off of Elston Hall and was completed in 2007.
+established$$$@@@%%%This expansion was funded in part by fund raising activities along with $3,082,300 from the <a>County of Schenectady</a>.</p>
+type$$$@@@%%%<p>The process is underway for the building of , five-story building to house 313 student dorm rooms for the college.
+postgrad$$$@@@%%%The estimated cost of this project will be $20 million with an expected opening date of fall 2009.</p>
+image_name$$$@@@%%%<h2>Academics</h2>
+campus$$$@@@%%%<p>Degree Programs offered include: </p>
+image_name$$$@@@%%%<ul>
+image_name$$$@@@%%%  <li>Accounting Technician</li>
+image_name$$$@@@%%%  <li>Aviation Systems / Air Trafic Controll</li>
+nickname$$$@@@%%%  <li>Business Administration and Management</li>
+nickname$$$@@@%%%  <li>Business Management and Administrative</li>
+campus$$$@@@%%%  <li>Child Care and Guidance Workers and Management</li>
+image_name$$$@@@%%%  <li>Communications Other</li>
+country$$$@@@%%%  <li>Community Organization Resources and Services</li>
+country$$$@@@%%%  <li>Computer and Information Sciences General</li>
+website$$$@@@%%%  <li>Computer and Information Sciences Other</li>
+image_name$$$@@@%%%  <li>Computer Programming</li>
+established$$$@@@%%%  <li>Criminal Justice / Law Enforcement Administration</li>
+image_name$$$@@@%%%  <li>Culinary</li>
+website$$$@@@%%%  <li>Drama / Theater Arts General</li>
+image_name$$$@@@%%%  <li>Electrical / Electronic / Communications Engineer</li>
+provost$$$@@@%%%  <li>Executive Assistant / Secretary</li>
+image_name$$$@@@%%%  <li>Fire Services Administration</li>
+state$$$@@@%%%  <li>General Office / Clerical and Typing Services</li>
+state$$$@@@%%%  <li>General Studies</li>
+campus$$$@@@%%%  <li>Hotel / Motel and Restaurant Management</li>
+nickname$$$@@@%%%  <li>Humanities / Humanistic Studies</li>
+website$$$@@@%%%  <li>Liberal Arts and Sciences / Liberal Studies</li>
+nickname$$$@@@%%%  <li>Music - General Performance</li>
+nickname$$$@@@%%%  <li>Music General</li>
+image_name$$$@@@%%%  <li>Paralegal / Legal Assistant</li>
+image_name$$$@@@%%%  <li>Tourism Promotion Operations</li>
+image_name$$$@@@%%%  <li>Travel Services Marketing Operations</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h2>SUNY Delhi partnership</h2>
+established$$$@@@%%%<p>Students interested in attaining a bachelors degree may do so through a partnership between Schenectady County Community College and the <a>State University of New York at Delhi</a> at SCCC.
+established$$$@@@%%%The purpose of the program has been to allow potential students with jobs, family, and other commitments that prevent them from enrolling in these programs on the campus in <a>Delhi, NY</a>.
+president$$$@@@%%%The current SUNY Delhi Coordinator of Inter-Institutional Programs is Tracey Caponera.
+image_name$$$@@@%%%</p>
+campus$$$@@@%%%<p>Degrees offered include:</p>
+image_name$$$@@@%%%<ul>
+mottoeng$$$@@@%%%  <li>BBA in Hospitality Management with concentrations in Hotel &amp; Resort Management or Travel &amp; Tourism</li>
+established$$$@@@%%%  <li>BBA in Business &amp; Technology Management with a concentration in Technology</li>
+city$$$@@@%%%  <li>BSN in Nursing - Online Program Only</li>
+image_name$$$@@@%%%</ul>
+established$$$@@@%%%<h2>Cost of attendance</h2>
+staff$$$@@@%%%<p>The 2008-2009 school year tuition is $3,030 for a <a>New York State</a> resident attending SCCC full-time, or $126 per credit for a part-time student.
+staff$$$@@@%%%Non-New York State resident tuition is $6,060 for full-time tuition or $252 per credit for part-time students.
+staff$$$@@@%%%Other expenses are approximately $1,247 for full-time students and $514 for part-time students, this estimate does not include room-and-board as the college currently does not have on-campus housing.</em></p>
+campus$$$@@@%%%<h2>Admissions and demographics</h2>
+nickname$$$@@@%%%<p>The student body is approximately 54% female and 46% male.
+established$$$@@@%%%79% of the students come from the New York Capital District Region with 18% coming from neighboring counties and 3 % from other counties.
+staff$$$@@@%%%The average age of full-time students is 22, while the average part-time student is 33 years old.</p>
+image_name$$$@@@%%%<h2>Notes</h2>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%<h2>References</h2>
+image_name$$$@@@%%%<ul>
+affiliations$$$@@@%%%  <li>County of Schenectady.
+affiliations$$$@@@%%%<em>2006 Operating Budget Message</em>, taken from <a>http://www.schenectadycounty.com/content/2006OperatingBudgetMessage.pdf</a> on 08-19-2008.</li>
+affiliations$$$@@@%%%<li>Lamendola, Michael.
+affiliations$$$@@@%%%&quot;SCCC to break ground on $20M dorm&quot;, &lt;u&gt;The Schenectady Gazette&lt;/u&gt; 5 AUG.
+image_name$$$@@@%%%2008</li>
+affiliations$$$@@@%%%  <li>Meany, Heather.
+affiliations$$$@@@%%%<em>Schenectady County Community College Celebrates Culinary Arts Addition Kickoff</em>, taken from <a>http://sunysccc.edu/news/story.asp?ARC=1&amp;STORY_ID=F62CE9E169BD8989131A41AA34D70000</a> on 08-19-2008.</li>
+affiliations$$$@@@%%%<li>Schenectady County Community College, <em>Tuition, Fees and Expenses</em>, taken from <a>http://www.sunysccc.edu/about/tuition.htm</a> on 08-19-2008.</li>
+affiliations$$$@@@%%%<li>Schenectady County Community College, <em>Facts and Figures</em>, taken from <a>http://www.sunysccc.edu/about/factfig.htm#history</a> on 08-19-2008.</li>
+nickname$$$@@@%%%<li>SUNY Delhi, <em>SCCC Partnership</em>, taken from <a>http://www.delhi.edu/academics/academic_divisions/business_and_hospitality/sccc/</a>
+vice_chancellor$$$@@@%%%on 08-19-2008.</li>
+affiliations$$$@@@%%%<li>U.S. College Search, <em>Schenectady County Community College</em>, taken from <a>http://www.uscollegesearch.org/schenectady-county-community-college.html</a> on 08-19-2008.</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h2>External links</h2>
+image_name$$$@@@%%%<ul>
+affiliation$$$@@@%%%  <li><a>Official website</a></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p><img></p>
+image_name$$$@@@%%%
+image_name$$$@@@%%%

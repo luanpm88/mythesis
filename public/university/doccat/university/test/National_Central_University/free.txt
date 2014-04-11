@@ -1,0 +1,14 @@
+<li>Department of Chinese Literature
+<li>Department of English</li>
+<li>Department of Physics
+<li>Department of Mathematics</li>
+<li>Department of Chemistry</li>
+<li>Department of Chemical &amp; Materials Engineering</li>
+<li>Department of Civil Engineering</li>
+<li>Department of Mechanical Engineering
+<li>Department of Business Administration</li>
+<li>Department of Information Management</li>
+<li>Department of Finance</li>
+<li>Department of Economics</li>
+<li>Department of Electrical Engineering</li>
+<li>Department of Communication Engineering</li>

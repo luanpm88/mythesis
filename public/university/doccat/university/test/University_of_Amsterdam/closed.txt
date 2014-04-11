@@ -1,0 +1,5 @@
+<h3>Faculty of Dentistry</h3>
+<h3>Faculty of Humanities</h3>
+<h3>Faculty of Medicine</h3>
+<h3>Faculty of Science</h3>
+<li>Amsterdam School for Cultural Analysis</li>

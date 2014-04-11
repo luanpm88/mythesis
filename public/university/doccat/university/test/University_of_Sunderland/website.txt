@@ -1,0 +1,2 @@
+<li>Arts, Design, Media : Creative and Performing Arts,  Design,  Humanities, Combined Subjects, Journalism </li>
+<li>Applied Science : Computing, Engineering , Psychology, Environment, Pharmacy, Health and Sport and Exercise Sciences</li>

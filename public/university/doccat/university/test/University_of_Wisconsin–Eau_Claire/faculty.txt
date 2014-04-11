@@ -1,0 +1,4 @@
+<p>The university's <a>Alma Mater</a>, or <a>school song</a>:</p>
+<li><a>Cheer</a> and stunt team</li>
+<li><a>Dance team</a></li>
+<li><a>Water ski</a> team</li>

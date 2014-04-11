@@ -1,0 +1,4 @@
+<li>Mechanic and Electric Engineering  </li>
+<li>Mechatronic and Production Engineering  </li>
+<li>Telecommunications and Electronics Engineering</li>
+<p><strong>Television and mass media</strong></p>

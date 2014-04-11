@@ -1,0 +1,7 @@
+<p>&lt;gallery&gt; Image: wuerzburg_university_lecturehall2005.jpg|Lecture
+Center of Surgery Image: wuerzburg_old_university_2001.jpg|Old
+University Image: wittelsbacherplatz_wuerzburg_1999.jpg|Building
+Wittelsbacherplatz Image: biocenter_wuerzburg_university_2004.jpg|Biocenter
+<li><a>W&#x00fc;rzburg Universit&#x00e4;tsbibliothek Cod.
+M. p. th.
+f. 67</a></li>

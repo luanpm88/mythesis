@@ -1,0 +1,17 @@
+<li><a>Baseball</a></li>
+<li><a>Men's Basketball</a></li>
+<li><a>Women's Basketball</a></li>
+<li><a>Men's Cross Country</a></li>
+<li><a>Women's Cross Country</a></li>
+<li><a>Men's Lacrosse</a></li>
+<li><a>Men's Soccer</a></li>
+<li><a>Women's Soccer</a></li>
+<li><a>Softball</a></li>
+<li><a>Men's Tennis</a></li>
+<li><a>Women's Tennis</a></li>
+<li><a>Women's Volleyball</a></li>
+<li><a>Men's Ice Hockey</a></li>
+<li><a>Men's Rugby</a></li>
+<li><a>Women's Rugby</a></li>
+<li><a>Ultimate Frisbee</a></li>
+<li><a>Dance Team</a></li>

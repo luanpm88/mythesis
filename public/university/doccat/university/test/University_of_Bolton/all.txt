@@ -1,0 +1,79 @@
+chancellor$$$@@@%%%<p><a>thumb|right|Chancellor's Building|</a></p>
+image_name$$$@@@%%%<p></p>
+established$$$@@@%%%<p>The <strong>University of Bolton</strong> (formerly <strong>Bolton Institute of Higher Education</strong>) is a <a>university</a> in <a>Bolton</a>, <a>Greater Manchester</a>, <a>England</a>.
+staff$$$@@@%%%It has over 13,000 students across all sites and courses, with 700 academic and professional staff.
+established$$$@@@%%%The University is popular locally with around 70% of its students coming from Bolton and the North West region.
+established$$$@@@%%%The <a>Times</a> Newspaper  profile states: &#x2018;The University sees itself as a regional institution, with around three quarters of the students coming from the North West, many through partner colleges.&#x2019;
+image_name$$$@@@%%%</p>
+established$$$@@@%%%<h2>History</h2>
+established$$$@@@%%%<p>Bolton Institute of Higher Education was formed in 1982 by the merger of the <strong>Bolton Institute of Technology</strong> and <strong>Bolton College of Education (Technical)</strong>.</p>
+established$$$@@@%%%<p>Bolton Institute was awarded the right to award taught degrees in 1990, with the powers to award research degrees in 1994.</p>
+established$$$@@@%%%<p>In April 2004, the Institute was awarded university status with immediate effect.
+established$$$@@@%%%The institution then set about searching for a new name to match its university status.
+established$$$@@@%%%A long consultation period considered many titles, including 'Bolton University', 'Bolton Institute University', 'West Pennines University', 'Bolton Metropolitan University' and 'Bolton Leverhulme University', before announcing 'University of Bolton' as the new title on 2 September 2004.
+established$$$@@@%%%The title was approved by the <a>Privy Council</a> on 27 January 2005 and officially adopted.</p>
+image_name$$$@@@%%%<h2>Academic quality</h2>
+established$$$@@@%%%<p>The UK national Quality Audit of University of Bolton 2005 reports that &quot;broad confidence can be placed in the soundness of the current management of the quality of its programmes and in the University's institutional-level capacity to manage effectively the security of its awards.&quot;</p>
+established$$$@@@%%%<p>In 2006 the university was awarded the highest level of recommendation by the government's quality control agency for universities, the Quality Assurance Agency (QAA).
+free_label$$$@@@%%%The University was also ranked top in the north-west region for student satisfaction by The Times Good University Guide 2008, coming in the top 15 of all UK universities.
+established$$$@@@%%%The same survey also found the University was within the region's top five universities for the number of students who found graduate-level jobs or carried on with their education six months after graduation.
+established$$$@@@%%%In the Education Guardian one report ranked Bolton first in the &quot;Fastest Growing University&quot; category .
+established$$$@@@%%%Its course in Building Studies is also ranked #1 in the UK by students.
+image_name$$$@@@%%%</p>
+students$$$@@@%%%<p>As well as offering research opportunities, Masters and PhD degree, it is known for its vocationally focused and industry-relevant taught degree programmes.
+affiliations$$$@@@%%%Among its most popular courses are its Business and Media programmes.
+nickname$$$@@@%%%The Times states:   &#x2018;The university is not research-driven, but engineering, architecture and the built environment, social work and social policy all contained some &#x2018;world-leading&#x2019; research in the 2008 assessments&#x2019;    <a>thumb|right|</a> </p>
+campus$$$@@@%%%<h2>Growth and Future Plans</h2>
+established$$$@@@%%%<p><a>thumb|right|</a> Since being granted university status, the University of Bolton has undergone several changes.
+established$$$@@@%%%In 2008 an &#x00a3;8 million building programme was completed, including an &#x00a3;1.7 million specialist teaching centre for the University&#x2019;s creative courses.
+affiliations$$$@@@%%%&#x00a3;2.5 million was also spent on improvements to Library facilities.</p>
+established$$$@@@%%%<p>The <a>Bolton One</a> development is a multi-million pound project set for completion in 2012.
+established$$$@@@%%%The University has contributed around &#x00a3;7 million to it and is working in conjunction with local partners, Bolton Council and Primary Care Trust.
+free_label$$$@@@%%%The purpose built centre will house new health, science and sports teaching and research facilities - as well as a sports complex.
+image_name$$$@@@%%%</p>
+image_name$$$@@@%%%<h2>International Presence</h2>
+established$$$@@@%%%<p><a>thumb|right|</a> The university has established international links with a number of overseas academic establishments in Germany, Malaysia, Malawi and Greece.
+image_name$$$@@@%%%</p>
+image_name$$$@@@%%%<h2>Students' Union</h2>
+established$$$@@@%%%<p>The main <a>Students' Union</a> building is on Deane Road at the centre of the University Campus.
+nickname$$$@@@%%%As well as being home to the SU bar and the hub of many social events, the Union provides numerous other roles, such as student support and advice (The Advice Unit), representation and sporting societies.
+established$$$@@@%%%It can also be followed on <a>Twitter</a> and <a>Facebook</a></p>
+image_name$$$@@@%%%<h2>Notable Alumni</h2>
+affiliations$$$@@@%%%<p>R.
+vice_chancellor$$$@@@%%%David J. Noble - <em>war hero &amp; political activist</em></p>
+image_name$$$@@@%%%<h2>Diversity</h2>
+undergrad$$$@@@%%%<p>The University of Bolton has a diverse student population.
+students$$$@@@%%%Around 13% of home students are from ethnic minority communities, with about 8% of its students being classed as international.
+mottoeng$$$@@@%%%This portion of students come from 70 countries outside the UK.
+established$$$@@@%%%The university also has a <a>Chaplaincy</a> that accommodates several different faiths.</p>
+website$$$@@@%%%<h2>Academic schools and research centres</h2>
+students$$$@@@%%%<p>The university has four academic schools and four research centres</p>
+type$$$@@@%%%<p><strong>Academic schools</strong></p>
+image_name$$$@@@%%%<ul>
+website$$$@@@%%%  <li>School of Arts, Media and Education</li>
+established$$$@@@%%%  <li>School of the Built Environment and Engineering</li>
+established$$$@@@%%%  <li>School of Business and Creative Technologies (Incorporating <em>Bolton Business School</em> and <em>School of Games Computing and Creative Technologies</em>)</li>
+established$$$@@@%%%  <li>School of Health and Social Sciences</li>
+image_name$$$@@@%%%</ul>
+country$$$@@@%%%<p><strong>Research centres</strong></p>
+image_name$$$@@@%%%<ul>
+image_size$$$@@@%%%  <li><a>Business, Logistics and Information Systems Research Centre</a></li>
+established$$$@@@%%%  <li><a>Institute of Materials Research and Innovation</a></li>
+type$$$@@@%%%  <li><a>Institute for Educational Cybernetics</a></li>
+country$$$@@@%%%  <li><a>Centre for Research Health and Wellbeing</a></li>
+image_name$$$@@@%%%</ul>
+city$$$@@@%%%<h2>See also</h2>
+image_name$$$@@@%%%<ul>
+established$$$@@@%%%  <li><a>:Category:Alumni of the University of Bolton</a></li>
+established$$$@@@%%%  <li><a>:Category:Academics of the University of Bolton</a></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h2>References</h2>
+free_label$$$@@@%%%<p>&lt;!--- See <a>Wikipedia:Footnotes</a> on how to create references using  tags which will then appear here automatically --&gt; <img></p>
+image_name$$$@@@%%%<h2>External links</h2>
+image_name$$$@@@%%%<ul>
+established$$$@@@%%%  <li><a>University of Bolton</a></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p>  </p>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%
+image_name$$$@@@%%%

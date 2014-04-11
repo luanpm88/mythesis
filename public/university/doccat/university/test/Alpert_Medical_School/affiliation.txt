@@ -1,0 +1,4 @@
+<li><a>Rhode Island Hospital</a> (including <a>Hasbro Children's Hospital</a>)</li>
+<li>Memorial Hospital of Rhode Island</li>
+<li><a>Women &amp; Infants' Hospital of Rhode Island</a></li>
+<li><a>Butler Hospital</a></li>

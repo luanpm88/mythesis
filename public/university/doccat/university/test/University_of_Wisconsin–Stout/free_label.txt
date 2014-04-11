@@ -1,0 +1,6 @@
+<li>Student Health Center</li>
+<li>Sports and Fitness Center</li>
+<p>Renovations to north campus include a new cafeteria facility with a weightroom and grocery store-styled shop.
+<h2>Athletics</h2>
+<li>Mental Health Counseling</li>
+<li><a>John Peterson</a>, <a>Olympic</a> gold medalist</li>

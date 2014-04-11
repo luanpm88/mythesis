@@ -1,0 +1,6 @@
+<li>School Office</li>
+<h3>Faculty Structure</h3>
+<li>School of Humanities and Social Science</li>
+<li>Graduate School</li>
+<li>Advanced Vocational School</li>
+<li>School of Mathematics and Computational Science &#x0009;</li>

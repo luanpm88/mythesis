@@ -1,0 +1,1 @@
+Seven buildings are either dormitories or classroom buildings.

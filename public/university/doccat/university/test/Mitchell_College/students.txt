@@ -1,0 +1,2 @@
+<p><strong>Men's Sports</strong>: Baseball, basketball, cross country, golf, lacrosse, sailing, soccer and tennis.</p>
+<p><strong>Women&#x2019;s Sports</strong>: Cross country, basketball, sailing, soccer, softball, tennis, and volleyball.</p>

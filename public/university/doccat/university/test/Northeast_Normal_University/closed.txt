@@ -1,0 +1,4 @@
+<li>School of Education Science</li>
+<li>School of Computer Science</li>
+<li>School of Life Science</li>
+<li>School of Media Science</li>

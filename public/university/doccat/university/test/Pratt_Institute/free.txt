@@ -1,0 +1,11 @@
+<li>Department of Undergraduate Architecture</li>
+<li>Department of Graduate Architecture</li>
+<li>Department of Construction Management</li>
+<li>Department of Facilities Management</li>
+<li>Department of Foundation Art</li>
+<li>Department of Graduate Communications/Packaging Design</li>
+<li>Department of Design Management</li>
+<li>Department of Fashion Design</li>
+<li>Department of Industrial Design</li>
+<li>Department of Interior Design</li>
+<h2>Notable alumni</h2>

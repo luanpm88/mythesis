@@ -1,0 +1,34 @@
+<p> </p>
+</p>
+<h2>Administration</h2>
+<ul>
+</ul>
+<h2>Departments</h2>
+<ol>
+<li>Bioinformatics </li>
+<li>Botany  </li>
+<li>Chemistry </li>
+<li>Commerce  </li>
+<li>Economics  </li>
+<li>Linguistics  </li>
+<li>Mathematics  </li>
+<li>Physics  </li>
+<li>PsychologY</li>
+<li>Statistics  </li>
+<li>Sociology  </li>
+<li>Tamil  </li>
+<li>Zoology  </li>
+</ol>
+<h2>Affiliated Institutions</h2>
+<ol>
+</li>
+</li>
+</li>
+</ol>
+<h2>External links</h2>
+<ul>
+</ul>
+<p></p>
+<p></p>
+
+

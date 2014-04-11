@@ -1,0 +1,4 @@
+<li>Educational Technology  </li>
+<li>Coimbatore Institute of Management &amp; Technology </li>
+<li>Guruvayurappan Institute of Managament </li>
+<li>Pasteur Institute of India </li>

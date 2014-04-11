@@ -1,0 +1,45 @@
+<li>Environmental Sciences  </li>
+<li><a>Angappa College of Arts &amp; Science</a></li>
+<li>Ayyan Thiruvalluvar College of Arts &amp; Science </li>
+<li>Bharathiar University Arts and Science College </li>
+<li>Bharathidasan College of Arts &amp; Science, <a>Ellispet</a> </li>
+<li>Cherraans Arts , Science College </li>
+Arts College </li>
+<li>CSI Bishop Appaswamy College of Arts &amp; Science </li>
+<li>Defence Institute of Physiology and Allied Sciences </li>
+SNS Rajalakshmi College of Arts &amp; Science </li>
+<li>Erode Arts College </li>
+<li>Gobi Arts &amp; Science College </li>
+<li>Government Arts College, Coimbatore </li>
+<li>Government Arts College, Udhagamandalam </li>
+<li>Government Arts College, Udumalpet </li>
+<li>Hindustan College of Arts &amp; Science </li>
+<li>Institute of Nuclear Medicine and Allied Sciences (INMAS) </li>
+<li>Kaamadhenu Arts &amp; Science College </li>
+<li>Karpagam Arts &amp; Science College </li>
+<li>Kongu Arts And Science College </li>
+<li><a>Kongunadu Arts and Science College</a> </li>
+<li>Kovai Kalaimagal College of Arts and Science </li>
+Arts College for Women </li>
+<li>Maharaja Arts &amp; Science College </li>
+<li>Maharani Arts &amp; Science Women's College </li>
+<li>Nandha Arts and Science College </li>
+<li>Navarasam Arts &amp; Science College for Women </li>
+<li>Nehru Arts and Science College</li>
+<li>Nehru College of Arts &amp; Science </li>
+<li>Pioneer College of Arts and Science </li>
+<li>PKR Arts College for Women </li>
+<li>PSG College of Arts and Science </li>
+<li><a>Rathinam College of Arts &amp; Science</a></li>
+<li>Rathinavel Subramaniam College of Arts &amp; Science </li>
+<li>Shri Nehru Maha Vidyalaya College of Arts &amp; Science </li>
+<li>Sree Amman Arts and Science College </li>
+<li>Sree Ramu College of Arts &amp; Science </li>
+<li>Sri Jayendra Saraswathy Maha Vidhyalaya College of Arts &amp; Science </li>
+<li><a>Sri Ramakrishna Mission Vidyalaya</a> College of Arts &amp; Science </li>
+<li>Sugarcane Breeding Institute </li>
+<li>Texcity Arts &amp; Science College </li>
+Arts, Science &amp; Tamil </li>
+<li>Vellakoil Arts &amp; Science College </li>
+<li>Vidyasagar College of Arts and Science  </li>
+<li>VLB Janaki Ammal College of Arts &amp; Science</li>

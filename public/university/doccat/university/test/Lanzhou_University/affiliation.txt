@@ -1,0 +1,3 @@
+<p><strong><a>Undergraduates</a></strong> 19,756</p>
+<p><strong><a>Location</a></strong>       Lanzhou, China</p>
+<p><strong><a>Color</a></strong>          Blue</p>

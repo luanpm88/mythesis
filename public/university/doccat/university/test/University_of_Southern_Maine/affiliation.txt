@@ -1,0 +1,27 @@
+<li><a>Baseball</a></li>
+<li><a>Basketball</a></li>
+<li><a>Cheerleading</a></li>
+<li><a>Cross Country</a></li>
+<li><a>Golf</a></li>
+<li><a>Ice Hockey</a></li>
+<li><a>Lacrosse</a></li>
+<li><a>Soccer</a></li>
+<li><a>Tennis</a></li>
+<li><a>Track &amp; Field</a> (indoor)</li>
+<li><a>Track &amp; Field</a> (outdoor)</li>
+<li><a>Wrestling</a></li>
+<li><a>Basketball</a></li>
+<li><a>Cheerleading</a></li>
+<li><a>Cross Country</a></li>
+<li><a>Field Hockey</a></li>
+<li><a>Golf</a></li>
+<li><a>Ice Hockey</a></li>
+<li><a>Lacrosse</a></li>
+<li><a>Soccer</a></li>
+<li><a>Softball</a></li>
+<li><a>Tennis</a></li>
+<li><a>Track &amp; Field</a> (indoor)</li>
+<li><a>Track &amp; Field</a> (outdoor)</li>
+<li><a>Volleyball</a></li>
+<li>Actor <a>Tony Shalhoub</a> (1977)</li>
+<li>Novelist <a>Lois Lowry</a> (1972)</li>

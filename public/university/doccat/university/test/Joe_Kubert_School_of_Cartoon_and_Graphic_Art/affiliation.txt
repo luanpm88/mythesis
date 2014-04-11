@@ -1,0 +1,2 @@
+<li><a>Dave Dorman</a>, <a>Star Wars</a> artist</li>
+<li><a>Jerry Fuchs</a>,<a>Fooksie</a>, flash animator, cartoonist</li>

@@ -1,0 +1,3 @@
+<h2>Students and faculty</h2>
+<li><a>Craig Brewer</a> '91 - film director and screenwriter</li>
+<li><a>Hilton McConnico</a> - film director</li>

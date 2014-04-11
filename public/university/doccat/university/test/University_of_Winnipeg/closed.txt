@@ -1,0 +1,3 @@
+<li>Faculty of Science</li>
+<li>Faculty of Theology</li>
+<li>Faculty of Graduate Studies</li>

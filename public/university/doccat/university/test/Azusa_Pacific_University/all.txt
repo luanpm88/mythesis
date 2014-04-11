@@ -1,0 +1,155 @@
+type$$$@@@%%%<p> <strong>Azusa Pacific University</strong> is a private, <a>inter-denominational</a>, <a>evangelical</a> <a>Christian</a> university located near <a>Los Angeles</a> in suburban <a>Azusa</a>, <a>California</a>.
+established$$$@@@%%%It was founded in 1899, with classes opening on March 3, 1900 in <a>Whittier, California</a>.
+established$$$@@@%%%It began offering degrees in 1939.
+established$$$@@@%%%APU holds <a>regional accreditation</a> by the <a>Western Association of Schools and Colleges</a> (WASC).</p>
+established$$$@@@%%%<p>While officially inter-denominational, the university has ties with several evangelical <a>denominations</a>.
+established$$$@@@%%%The university's seminary, Haggard School of Theology, holds to a Wesleyan, <a>Arminian</a> <a>doctrinal</a> <a>theology</a>.
+undergrad$$$@@@%%%With nearly 5,000 students, APU's undergraduate student body is the largest in the <a>Council for Christian Colleges and Universities</a> (although <a>Indiana Wesleyan University</a> has a larger total student body) and the second largest evangelical undergraduate student body in the <a>United States</a>, behind only <a>Liberty University</a>.</p>
+image_name$$$@@@%%%<h2>Campus locations</h2>
+established$$$@@@%%%<p>Azusa Pacific University&#x2019;s Azusa campus is situated in the <a>San Gabriel Valley</a>, located  northeast of <a>Los Angeles</a>.</p>
+established$$$@@@%%%<p>The university also maintains seven off-site regional centers in Southern California:</p>
+image_name$$$@@@%%%<ul>
+type$$$@@@%%%  <li><a>Inland Empire</a> Regional Center (<a>San Bernardino</a>)</li>
+type$$$@@@%%%  <li><a>Murrieta</a> Regional Center</li>
+type$$$@@@%%%  <li><a>San Diego</a> Regional Center</li>
+type$$$@@@%%%  <li>High Desert Regional Center (<a>Victorville</a>)</li>
+type$$$@@@%%%  <li><a>Los Angeles</a> Regional Center</li>
+type$$$@@@%%%  <li>Orange County Regional Center (<a>Orange</a>)</li>
+type$$$@@@%%%  <li>Ventura Regional Center (<a>Oxnard</a>)</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p><img></p>
+established$$$@@@%%%<h2>History</h2>
+established$$$@@@%%%<p>  What is known today as <strong>Azusa Pacific University</strong> is the product of the merger of three <a>Southern California</a>-area Christian institutions: Azusa College, an independent Bible School; <a>Los Angeles Pacific College</a>, a <a>Free Methodist</a> liberal arts college; and Arlington College, a <a>Church of God (Anderson, Indiana)</a> school.</p>
+established$$$@@@%%%<p>Azusa Pacific University was established as the Training School for Christian Workers in 1899 in Whittier, California, the first Bible college on the West Coast.
+image_name$$$@@@%%%</p>
+established$$$@@@%%%<p>In 1939 the Training School became Pacific Bible College, and four-year degrees were offered.
+established$$$@@@%%%In 1956, the name was changed to Azusa College.
+established$$$@@@%%%Azusa College merged first in 1965 with Los Angeles Pacific College and became Azusa Pacific College, and three years later, APC merged with Arlington College.</p>
+established$$$@@@%%%<p>Upon its achievement of university status in 1981, the college changed its name to Azusa Pacific University.
+staff$$$@@@%%%During that decade, off-site educational regional centers throughout Southern California were instated and <a>master&#x2019;s degree</a> programs were first approved.</p>
+established$$$@@@%%%<p>During the 1990s, Azusa Pacific began offering not only undergraduate, but also graduate degrees, and during that decade the university&#x2019;s first three <a>doctoral programs</a> were awarded.
+students$$$@@@%%%Student enrollment doubled, and graduate programs quadrupled throughout the decade.
+image_name$$$@@@%%%</p>
+vice_chancellor$$$@@@%%%<p>In November 2000, then-Executive Vice President Jon R. Wallace, DBA, became president.
+affiliations$$$@@@%%%Under Wallace&#x2019;s leadership, Azusa Pacific University continued to grow.
+undergrad$$$@@@%%%The university now offers more than 60 areas of undergraduate study, 26 master&#x2019;s degree programs, and 7 doctorates to a total student population of more than 8,100.</p>
+campus$$$@@@%%%<h2>Accreditation and recognition</h2>
+image_name$$$@@@%%%<h3>Specialized accreditation</h3>
+image_name$$$@@@%%%<ul>
+country$$$@@@%%%  <li>1964 <a>Western Association of Schools and Colleges</a> (WASC)</li>
+head_label$$$@@@%%%  <li>1975 <a>Board of Registered Nursing</a> (School of Nursing)</li>
+country$$$@@@%%%  <li>1977 <a>National League for Nursing</a> (Undergraduate Nursing Program)</li>
+established$$$@@@%%%  <li>1982 <a>Council on Social Work Education</a> (Undergraduate Social Work Program)</li>
+established$$$@@@%%%  <li>1990 <a>Association of Theological Schools</a> (Haggard School of Theology)</li>
+country$$$@@@%%%  <li>1991 <a>National League for Nursing</a> (Undergraduate Nursing Program)</li>
+country$$$@@@%%%  <li>1999 <a>Commission on Accreditation in Physical Therapy Education of the American Physical Therapy Association</a> (Graduate Physical Therapy Program)</li>
+free_label$$$@@@%%%  <li>2001 <a>California Commission on Teacher Credentialing</a> (CCTC) (Graduate Teacher Education)
+image_name$$$@@@%%%    <ul>
+type$$$@@@%%%      <li><a>National Council for Accreditation of Teacher Education</a> (NCATE) (Graduate Teacher Education)</li>
+nickname$$$@@@%%%      <li><a>International Assembly for Collegiate Business Education</a>, Business programs</li>
+image_size$$$@@@%%%      <li><a>American Psychological Association</a> (APA) (Graduate Psychology Program)</li>
+image_name$$$@@@%%%    </ul>
+image_name$$$@@@%%%  </li>
+type$$$@@@%%%  <li>2002  <a>The Commission on Accreditation of Allied Health Education Programs</a> (Undergraduate Department of Physical Education)
+image_name$$$@@@%%%    <ul>
+mascot$$$@@@%%%      <li><a>Joint Review Committee on Education Programs in Athletic Training</a></li>
+type$$$@@@%%%      <li><a>Commission on Accreditation of Allied Health Education Programs</a> (CAAHEP) (Athletic Training Education Program)</li>
+image_name$$$@@@%%%    </ul>
+image_name$$$@@@%%%  </li>
+type$$$@@@%%%  <li>2005  &#x0009;<a>International Assembly for Collegiate Business Education</a> (IACBE)</li>
+image_name$$$@@@%%%</ul>
+nickname$$$@@@%%%<p>(School of Business and Management)</p>
+image_name$$$@@@%%%<ul>
+nickname$$$@@@%%%  <li>2007 <a>National Association of Schools of Music</a> (NASM) (School of Music)</li>
+established$$$@@@%%%  <li>2008 <a>National Association of Schools of Art and Design</a> (NASAD) (Department of Art)</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h2>Academics</h2>
+established$$$@@@%%%<p>Azusa Pacific University is organized into one college and six schools.
+established$$$@@@%%%The academics programs are available from College of Liberal Arts and Sciences and specifically the School of Behavioral and Applied Sciences, School of Business and Management, School of Education, School of Music, School of Nursing, and School of Theology.</p>
+established$$$@@@%%%<h3>University libraries</h3>
+city$$$@@@%%%<p>  APU offers three libraries on its main campus and six off-campus libraries supporting academic programs at the APU Inland Empire, Los Angeles, Orange County, San Diego, Murrieta, and Ventura Regional Centers.
+image_size$$$@@@%%%The main campus libraries are the William V. Marshburn Library, Hugh and Hazel Darling Library, and Stamps Theological Library, and contain a print collection of more than 215,000 books and media, 1,800 periodical titles, and 630,000 microforms.
+established$$$@@@%%%The university network also provides access to more than 100 online databases, which include more than 12,000 full-text periodical titles and 23,000 electronic books.
+nickname$$$@@@%%%APU's Special Collections of which include many historical documents are housed in the Thomas F. Andrews Room of the Hugh and Hazel Darling Library.</p>
+established$$$@@@%%%<p>In the fall of 2009, Azusa Pacific University acquired a significant collection of rare antiquities, including 5 fragments of the <a>Dead Sea Scrolls</a>  and 5 first-edition prints of the <a>King James Bible</a>.
+established$$$@@@%%%These new acquisitions were displayed in an exhibit, Treasures of the Bible: The Dead Sea Scrolls and Beyond, in summer 2010.</p>
+image_name$$$@@@%%%<h3>Academic resources</h3>
+staff$$$@@@%%%<p>Azusa Pacific University offers students and faculty various academic resources.
+country$$$@@@%%%These include career services, the Center for Academic Service Learning and Research, the Center for Global Learning and Engagement, the Center for Research in Ethics in Values, the Center for Research in Science, an Honors Program, the Institute of Faith Integration, the Noel Academy for Strengths-Based Leadership and Education, and the Writing Center.</p>
+free_label$$$@@@%%%<h2>Athletics</h2>
+nickname$$$@@@%%%<p>More than 300 Azusa Pacific University student-athletes compete in the <a>Golden State Athletic Conference</a> (GSAC) of the <a>National Association of Intercollegiate Athletics</a> (NAIA) in 17 intercollegiate sports:</p>
+image_name$$$@@@%%%<ul>
+image_name$$$@@@%%%  <li>Baseball (Men)</li>
+campus$$$@@@%%%  <li>Basketball (Men and women)</li>
+image_name$$$@@@%%%  <li>Cheerleading (Women)</li>
+campus$$$@@@%%%  <li>Cross country (Men and women)</li>
+free_label$$$@@@%%%  <li>Football (Men)</li>
+image_name$$$@@@%%%  <li>Softball (Women)</li>
+campus$$$@@@%%%  <li>Soccer (Men and women)</li>
+image_name$$$@@@%%%  <li>Swimming &amp; Diving (Women)</li>
+campus$$$@@@%%%  <li>Tennis (Men and women)</li>
+campus$$$@@@%%%  <li>Track &amp; Field (Men and women)</li>
+image_name$$$@@@%%%  <li>Volleyball (Women)</li>
+image_name$$$@@@%%%  <li>Waterpolo (Women)</li>
+image_name$$$@@@%%%</ul>
+established$$$@@@%%%<p>Azusa Pacific Athletics achieved six consecutive wins of the <a>Directors&#x2019; Cup</a> in 2005, 2006, 2007, 2008, 2009, and 2010 with a total of 101 GSAC Championships and 32 NAIA National Championships.
+image_name$$$@@@%%%</p>
+nickname$$$@@@%%%<p>The football team plays as an <a>independent within the NAIA</a> as of the 2009 football season.</p>
+image_size$$$@@@%%%<h2>Student life</h2>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%<h3>Campus activities</h3>
+image_name$$$@@@%%%<ul>
+image_name$$$@@@%%%  <li>Chapel Programs</li>
+country$$$@@@%%%  <li>Student Government Association</li>
+image_name$$$@@@%%%  <li>Communiversity</li>
+nickname$$$@@@%%%  <li>The Arts: Music, Theater</li>
+free_label$$$@@@%%%  <li>Health and Wellness: the University Counseling Center, Health Center, and Fitness Center.</li>
+image_name$$$@@@%%%</ul>
+faculty$$$@@@%%%<h3>Community involvement</h3>
+established$$$@@@%%%<p>Azusa Pacific University was 1 of 115 U.S. institutions named to the Carnegie Foundation's 2010 Community Engagement Classification, the most prestigious distinction in the United States recognizing outstanding university commitment to community service and service-learning.
+image_name$$$@@@%%%</p>
+country$$$@@@%%%<p>;Community Service In 2010, Azusa Pacific University was recognized for the fourth straight year by Learn and Serve America on the President&#x2019;s Higher Education Community Service Honor Roll.
+established$$$@@@%%%APU is 1 of only 14 schools across the nation to have served &#x201c;with distinction&#x201d; for all four years since the Honor Roll&#x2019;s founding.
+image_name$$$@@@%%%</p>
+established$$$@@@%%%<p>More than 700 schools were nominated for this honor, which recognizes the highest levels of commitment to service and civic engagement on campus and in the surrounding community.
+type$$$@@@%%%APU is one of only two schools acknowledged in California, and one of two Council for Christian Colleges and Universities (CCCU) member schools to be awarded this distinction in the past four years</p>
+free_label$$$@@@%%%<p>;Ministry and Service APU sponsors numerous local and global programs, including: tutoring local children, sponsoring sports camps, and cleaning up local mountain trails.
+established$$$@@@%%%Farther from campus, students build on 35 years of cooperation with Mexican churches painting schools, erecting churches, and leading Vacation Bible schools in neighborhoods throughout Mexicali and Ensenada.
+postgrad$$$@@@%%%Through Focus International, students serve in India, Kenya, Thailand, and other ministry sites around the globe.</p>
+country$$$@@@%%%<p>;Center for Academic Service Learning and Research The Center for Academic Service Learning and Research supports programs that provide a vital link between the classroom and the community.
+established$$$@@@%%%Notable programs include the C.H.A.M.P. (College Headed and Mighty Proud) program and a collaboration with NavPress Publications in the production of devotionals for youth (<em>7 Minutes with God, 7 Minutes with Jesus</em>, and <em>7 Minutes with the Holy Spirit</em>).</p>
+established$$$@@@%%%<p>The center serves as a bridge between academics and the community, working to organize programs that can be integrated into course curriculum.
+established$$$@@@%%%Service learning courses are offered in an average of 45 to 50 classes per semester in disciplines from education to social work and biochemistry.</p>
+image_name$$$@@@%%%<h3>Diversity</h3>
+established$$$@@@%%%<p>In 2007, APU was recognized by Diverse Issues in Higher Education as one of the nation&#x2019;s top schools in awarding degrees to minority students.
+established$$$@@@%%%The university ranked among the top 100 in 13 categories, including 6th for awarding Hispanic master's degrees in the education category, and 60th for total minority master's degrees awarded across all disciplines, up from 10th and 81st in 2006.
+undergrad$$$@@@%%%More than 70 countries and all fifty states are represented in the student population.</p>
+nickname$$$@@@%%%<p>The Office of Multi-Ethnic Programs provides support and sponsors activities that increase awareness and appreciation for ethnic diversity.
+free_label$$$@@@%%%APU also has an International Center to assist international scholars with admissions, immigration, and cultural understanding, and also promotes community through programs and activities including the American International Mentoring Program, International Chapel, Global Fest, and the International Student Association.</p>
+image_name$$$@@@%%%<h3>Global engagement</h3>
+staff$$$@@@%%%<p>APU students are offered, through several campus offices, a variety of missions and global awareness opportunities for students, staff, faculty, and alumni.
+established$$$@@@%%%Focus International creates opportunities for sending 185 students to serve in 20 countries, including India, Kenya, Thailand, and more.
+established$$$@@@%%%Through the Center for Global Learning and Engagement, students may choose from more than 40 study abroad opportunities, including programs in <a>Oxford</a>, <a>China</a>, <a>Lithuania</a>, <a>Italy</a>, and <a>Australia</a>.</p>
+established$$$@@@%%%<p>APU&#x2019;s new <a>South Africa</a> campus program, based in <a>Kwazulu-Natal Province</a>, provides more than 30 students each semester with an opportunity to learn about the rich culture and society of South Africa, receive theoretical and practical training on community building and inter-cultural ministry, conduct service and research projects in local communities, and develop relationships with South African students, academics, and community members.</p>
+free$$$@@@%%%<h2>Notable alumni</h2>
+affiliations$$$@@@%%%<p>&lt;!-- DO NOT ADD PEOPLE TO THIS LIST WITHOUT A VERIFIABLE CITATION.
+affiliations$$$@@@%%%Additions without a citation are subject to removal.
+affiliations$$$@@@%%%If a citation link is broken, please replace it with one that works.</p>
+established$$$@@@%%%<p>PLEASE DO NOT ADD NON-NOTABLE PEOPLE TO THIS LIST A good rule of thumb is to check whether the person has an article on Wikipedia.
+nickname$$$@@@%%%If not, consider starting an article on the subject before adding him/her to this list.
+image_name$$$@@@%%%--&gt; </p>
+image_name$$$@@@%%%<h2>References</h2>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%<h2>External links</h2>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%<ul>
+affiliations$$$@@@%%%  <li><a>www.apu.edu</a>
+image_size$$$@@@%%%-- official web site</li>
+affiliations$$$@@@%%%  <li><a>www.apu.edu/athletics/</a>
+free_label$$$@@@%%%-- official athletics web site</li>
+established$$$@@@%%%  <li><a>APU News and Events Information</a></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p> <img> <img> </p>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%
+image_name$$$@@@%%%

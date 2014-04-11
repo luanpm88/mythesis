@@ -1,0 +1,5 @@
+<li><a>Children's Medical Center Dallas</a></li>
+<li>Dallas Veteran Affairs Medical Center</li>
+<li>Richardson Regional Medical Center</li>
+<li><a>Baylor University Medical Center</a></li>
+<li><a>UT Southwestern Medical Center website</a></li>

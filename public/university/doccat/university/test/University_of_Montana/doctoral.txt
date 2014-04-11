@@ -1,0 +1,8 @@
+Shuttles run every 10&#x2013;20 minutes 7:25am&#x2013;6:15pm M-F during Fall &amp; Spring semesters.</li>
+bar:4  color:powderblue from:1915 shift:(20,-5) till:1917 text:Randall M. M. Savage (1915-1917)
+bar:17 color:powderblue from:1990 shift:(-205,-5) till:2010 text:George M. Dennison (1990&#x2013;2010)
+bar:18 color:powderblue from:2010 shift:(-193,-5) till:end text:Royce Engstrom (2010-Current)
+<li><a>Larry Krystkowiak</a> - Former NBA player and coach</li>
+<li><a>Michael Ray Richardson</a> - Former NBA player</li>
+<p><strong>Science and Academia</strong></p>
+<li><a>Judy Blunt</a> - Writer</li>

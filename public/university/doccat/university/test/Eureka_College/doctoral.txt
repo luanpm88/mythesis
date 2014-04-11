@@ -1,0 +1,4 @@
+Enrollment is about 765 students.
+<li><a>Lambda Chi Alpha</a>, Theta-Chi Chapter</li>
+<li><a>Phi Omega</a>, Alpha Chapter - Local Sorority</li>
+<li><a>Delta Delta Pi</a>, Alpha Chapter - Local Sorority</li>

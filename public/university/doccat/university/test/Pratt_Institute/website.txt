@@ -1,0 +1,4 @@
+<li>Department of Creative Arts Therapy</li>
+<li>Department of Arts and Cultural Management</li>
+<li>Department of Media Arts</li>
+<li>School of Liberal Arts and Sciences

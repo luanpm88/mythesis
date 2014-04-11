@@ -1,0 +1,7 @@
+<li>Lee Ultimate</li>
+<li>Lee Wrestling</li>
+<li>Lee Men's Volleyball</li>
+<li>The <em>Vindagua</em> is Lee University's award-winning yearbook.</li>
+<li><em>The Torch</em> is Lee University's quarterly magazine highlighting current events at Lee as well as faculty members, students and alumni.</li>
+<li>The <em>Lee Review</em> is the campus literary journal.</li>
+<p>Attended Bob Jones College on what is now the Lee University campus:</p>

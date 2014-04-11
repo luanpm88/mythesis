@@ -1,0 +1,5 @@
+<li><a>CUCBA</a>  - University Center of Biological and Agricultural Sciences</li>
+<li><a>CUCEA</a> - University Center of Economic and Managerial Sciences</li>
+<li><a>CUCEI</a> - University Center of Exact Sciences and Engineering</li>
+<li><a>CUCS</a>  - University Center of Health Sciences</li>
+<li><a>CUCSH</a>  - University Center of Social Sciences and Humanities</li>

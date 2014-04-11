@@ -1,0 +1,6 @@
+<li>College of Arts and Sciences</li>
+<li>College of Education and Human Sciences</li>
+<li>College of Nursing and Health Sciences</li>
+<li>Communication Sciences and Disorders (MS)</li>
+<h2>In the Press</h2>
+<p><strong>Arts and Entertainment</strong></p>

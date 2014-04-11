@@ -1,0 +1,12 @@
+<h3>Mary &amp; John Gray Library</h3>
+<h3>Dining Hall</h3>
+<h3>Setzer Student Center</h3>
+<p><strong>American South Conference</strong></p>
+<li>Women's Basketball &#x2013; 1</li>
+<li>Volleyball &#x2013; 1</li>
+<h2>Student Life</h2>
+<h3>Student Media</h3>
+These public meetings are aired on local cable systems in Orange, Port Arthur and Beaumont.
+<li><a>Tom Giannopoulos</a> - President and CEO <a>MICROS</a></li>
+<li><a>Dan Smith</a> (BS Chemical Engineering) - Former President &amp; CEO <a>Lyondell</a> Chemical Company</li>
+Palmer Hall</a> - Writer</li>

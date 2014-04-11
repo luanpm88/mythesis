@@ -1,0 +1,6 @@
+<li><a>BUPT Official Website</a></li>
+<li><a>BBS</a></li>
+<li><a>BeiYouRen Forum</a></li>
+<li><a>FreshSky</a></li>
+<li><a>Fengxinzi Magazine</a></li>
+<li><a>Campus real three-dimensional map</a></li>

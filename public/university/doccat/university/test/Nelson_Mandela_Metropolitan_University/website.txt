@@ -1,0 +1,3 @@
+<li>Faculty of Arts</li>
+<li>Faculty of Business and Economic Sciences</li>
+<li>Faculty of Health Sciences</li>

@@ -1,0 +1,2 @@
+<li>contains these departments: Exercise and Sports Studies, Nursing and Health Sciences, and Physical Therapy</li>
+<h2>Athletics</h2>

@@ -1,0 +1,71 @@
+image_name$$$@@@%%%<p></p>
+established$$$@@@%%%<p><strong>B.M Sreenivasaiah College of Engineering</strong> (also <strong>B.M.S College of Engineering</strong> or <strong>BMSCE</strong>) is an engineering and management college in <a>Bangalore</a>, <a>India</a>.
+established$$$@@@%%%The engineering college, started in 1946, was one of the first private sector initiatives in technical education in India.
+established$$$@@@%%%It is located on the Bull Temple Road, opposite to the <a>Bull Temple</a>.
+type$$$@@@%%%Though a private engineering college, it is partially funded by the <a>Government of Karnataka</a>.
+image_name$$$@@@%%%</p>
+students$$$@@@%%%<p>The graduate school offers masters degrees and research degrees in most branches of engineering, computer applications, and <a>business administration</a>.
+nickname$$$@@@%%%Its Undergraduate programmes are autonomous under the <a>Visvesvaraya Technological University</a>, <a>Belgaum</a>.</p>
+students$$$@@@%%%<p>BMSCE has the largest student population among the engineering colleges in Karnataka, drawing students from other states of India and abroad.
+free_label$$$@@@%%%Nearly 30,000 engineers around the world hail BMSCE as their Alma mater.
+established$$$@@@%%%One of the oldest engineering colleges in Karnataka, it celebrated its &quot;Diamond Jubilee&quot; in 2006.
+established$$$@@@%%%It is also known for the annual inter-collegiate Techno-Cultural festival UTSAV, one of the prominent student-managed festivals in the country.</p>
+affiliations$$$@@@%%%<p>The current principal is Dr. Kayala Mallikharjuna Babu.</p>
+image_name$$$@@@%%%<h2>Courses Offered</h2>
+image_name$$$@@@%%%<h3>Undergraduate</h3>
+image_name$$$@@@%%%<ul>
+affiliations$$$@@@%%%  <li>Bachelor of Architecture (B.Arch)</li>
+affiliations$$$@@@%%%  <li>Bachelor of Engineering (B.E.) 
+image_name$$$@@@%%%    <ul>
+city$$$@@@%%%      <li>Bio-Technology</li>
+image_name$$$@@@%%%      <li>Chemical Engineering</li>
+faculty$$$@@@%%%      <li>Civil Engineering</li>
+doctoral$$$@@@%%%      <li>Computer Science &amp; Engineering</li>
+image_name$$$@@@%%%      <li>Electrical &amp; Electronics Engineering</li>
+image_name$$$@@@%%%      <li>Electronics &amp; Communication Engineering</li>
+established$$$@@@%%%      <li>Industrial Engineering &amp; Management</li>
+doctoral$$$@@@%%%      <li>Information Science &amp; Engineering</li>
+image_name$$$@@@%%%      <li>Instrumentation Engineering</li>
+established$$$@@@%%%      <li>Mechanical Engineering</li>
+address$$$@@@%%%      <li>Medical Electronics</li>
+image_name$$$@@@%%%      <li>Telecommunication Engineering</li>
+image_name$$$@@@%%%    </ul>
+image_name$$$@@@%%%  </li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h3>PostGraduate</h3>
+image_name$$$@@@%%%<ul>
+city$$$@@@%%%  <li>Master of Architecture (M.Arch) - Habitate Design</li>
+nickname$$$@@@%%%  <li>Master of Business Administration (MBA)</li>
+established$$$@@@%%%  <li>Master of Computer Applications (MCA)</li>
+city$$$@@@%%%  <li>Master of Technology(M.Tech) 
+image_name$$$@@@%%%    <ul>
+doctoral$$$@@@%%%      <li>Computer Science</li>
+image_name$$$@@@%%%      <li>Construction Engineering</li>
+image_name$$$@@@%%%      <li>Digital Communication</li>
+image_name$$$@@@%%%      <li>Electronics</li>
+image_name$$$@@@%%%      <li>Environmental Engineering</li>
+image_name$$$@@@%%%      <li>Machine Design</li>
+image_name$$$@@@%%%      <li>Power Electronics</li>
+image_name$$$@@@%%%      <li>Transporatation Engineering &amp; Management</li>
+image_name$$$@@@%%%    </ul>
+image_name$$$@@@%%%  </li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h2>Ranking</h2>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%<h2>References</h2>
+image_name$$$@@@%%%<p><img></p>
+image_name$$$@@@%%%<h2>External links</h2>
+image_name$$$@@@%%%<ul>
+affiliation$$$@@@%%%  <li><a>Official website</a></li>
+affiliations$$$@@@%%%  <li>[<a>http://sandeep.weblogs.us/B</a>.
+affiliations$$$@@@%%%M. Sreenivasaiah College of Engineering/ B. M. Sreenivasaiah College of Engineering on Google Earth]</li>
+established$$$@@@%%%  <li><a>A photographic tour of the college </a></li>
+affiliations$$$@@@%%%  <li>[<a>http://www.akkaonline.org/Alumni-B</a>.
+affiliations$$$@@@%%%M. Sreenivasaiah College of Engineering.shtml
+country$$$@@@%%%American Alumni Association]</li>
+established$$$@@@%%%  <li><a>Utsav Technical Cultural and Adventure Fest of BMSCE</a></li>
+affiliation$$$@@@%%%  <li><a>BMSCE telephone numbers</a></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%
+image_name$$$@@@%%%

@@ -1,0 +1,2 @@
+Students are able to choose from the following floor plans: Suite A (4-party single), Suite B (4-party double), Suite C (2-party single), Suite E (single suite).
+<li>School of Agriculture

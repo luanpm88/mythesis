@@ -1,0 +1,2 @@
+<li><a>Faculty of Veterinary Medicine and Animal Science</a></li>
+<li><a>Faculty of Animal Science and Food Engineering</a></li>

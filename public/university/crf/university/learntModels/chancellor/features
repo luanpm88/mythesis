@@ -1,0 +1,150 @@
+55
+asu 48 4:1
+<a>tom 7 4:1
+interim 47 4:1
+anne 20 1:1
+traves< 8 4:1
+dr 6 0:2 4:1
+mr 3 0:1
+ned 51 1:1
+]]< 15 4:1
+wendy 11 1:1
+< 22 4:1
+<a>chancellor< 0 0:1
+chief 29 4:1
+potts 46 3:1
+DIGIT 31 0:2
+<a>dundee 54 4:1
+[[richard 13 1:1
+administrative 30 4:1
+led 24 0:1
+cecil 12 3:1
+assumed 41 4:1
+fountain 5 3:1
+is 2 0:3
+university 50 0:1
+, 28 0:3 4:5
+chancellorship 42 4:1
+robert 44 1:1
+the 9 0:1 4:1
+john 26 1:1
+chancellor 10 0:4
+li> 23 4:1
+[[vera 32 1:1
+x2013 18 0:1
+on 43 4:1
+martin 40 3:1
+fred 4 1:1
+a> 1 0:1 4:1
+of 35 0:1 4:2
+michael 38 1:1
+lsu 37 0:1
+by 25 0:1
+v 39 2:1
+[[bachelor 34 4:1
+goodman 52 3:1
+p> 16 4:1
+ponder 21 3:1
+l 45 2:1
+lambert]] 14 3:1
+present 19 0:1
+system 49 4:1
+<li>2005 17 0:1
+founder 53 4:1
+artsba]] 36 4:1
+pezer]] 33 3:1
+bardo 27 3:1
+******* Features ************
+92
+W_ponder:760:3 41
+R_isAllSmallCase:187:1 12
+R_containsSpecialCharacters:950:0 3
+W_asu:1712:4 85
+E.0:182:1 9
+R_isAllSmallCase:180:0 7
+W_[[vera:1131:1 63
+E.0:175:0 4
+W_]]<:557:4 34
+W_founder:1887:4 90
+W_chancellorship:1502:4 78
+W_chancellor:354:0 28
+R_singlePunctuation:733:4 44
+R_isSpecialCharacter:348:4 43
+W_john:921:1 48
+W_the:347:4 53
+W_lsu:1299:0 69
+E.4:343:4 20
+W_fred:151:1 11
+W_interim:1677:4 84
+R_containsDigit:530:0 37
+W_artsba]]:1292:4 67
+R_isAllCapital:145:0 57
+W_anne:711:1 40
+W_DIGIT:1089:0 56
+W_lambert]]:515:3 33
+R_singlePunctuation:705:0 61
+W_assumed:1467:4 77
+W_the:319:0 27
+W_administrative:1082:4 55
+W_goodman:1845:3 89
+R_singleQuote:313:4 52
+W_traves<:312:4 24
+E.3:308:4 17
+W_by:879:0 47
+W_of:1257:4 66
+W_mr:109:0 8
+W_potts:1635:3 83
+W_present:669:0 39
+R_singleQuote:285:0 60
+W_chief:1047:4 54
+W_martin:1425:3 76
+R_singleComma:278:4 51
+W_<a>tom:277:4 22
+W_[[richard:466:1 32
+W_of:1229:0 68
+W_led:844:0 46
+W_ned:1796:1 88
+W_[[bachelor:1222:4 65
+E.2:266:3 75
+W_is:74:0 6
+W_li>:837:4 45
+W_a>:67:4 26
+W_l:1593:2 82
+W_cecil:445:3 31
+W_x2013:634:0 38
+R_singleComma:250:0 59
+W_,:1012:4 50
+W_dr:242:4 18
+W_v:1383:2 73
+E.1:231:3 13
+W_a>:39:0 5
+W_<:802:4 42
+W_university:1754:0 87
+W_pezer]]:1180:3 64
+E.1:224:2 71
+U:31:4 21
+End.:30:4 25
+W_,:984:0 58
+W_system:1747:4 86
+W_<li>2005:599:0 36
+U:24:3 14
+W_robert:1551:1 81
+End.:23:3 30
+W_dr:214:0 62
+R_containsSpecialCharacters:978:4 23
+W_p>:592:4 35
+U:17:2 72
+R_isAllSmallCase:208:4 19
+W_bardo:970:3 49
+W_wendy:396:1 29
+W_<a>dundee:1922:4 91
+U:10:1 10
+R_isAllSmallCase:201:3 16
+W_on:1537:4 79
+W_fountain:200:3 15
+S.:8:1 80
+W_<a>chancellor<:4:0 2
+W_michael:1341:1 70
+R_isAllSmallCase:194:2 74
+U:3:0 1
+S.:1:0 0

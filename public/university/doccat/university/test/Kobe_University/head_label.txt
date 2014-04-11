@@ -1,0 +1,6 @@
+<li>Graduate School of Humanities</li>
+<li>Graduate School of Intercultural Studies</li>
+<li>Graduate School of Economics
+<li>Graduate School of Medicine</li>
+<li>Graduate School of Engineering</li>
+<li>Graduate School of International Cooperation Studies</li>

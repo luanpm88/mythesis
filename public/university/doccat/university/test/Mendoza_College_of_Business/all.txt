@@ -1,0 +1,115 @@
+nickname$$$@@@%%%<p> The <strong>Mendoza College of Business</strong> is a highly ranked American business school.
+established$$$@@@%%%It is one of the colleges at the <a>University of Notre Dame</a>, which is located in South Bend, <a>Indiana</a> of the <a>United States</a>.
+established$$$@@@%%%The core <a>philosophy</a> of the Mendoza College can be found from Rev. O'Hara's understanding of commerce; &quot;The primary function of commerce is service to mankind,&quot; and &quot;Business has a code of ethics based very largely on divine principles.
+type$$$@@@%%%When this code is followed, commerce can and does advance <a>civilization</a>.
+affiliations$$$@@@%%%When it is overlooked by selfish interests, individual or national, every sort of injustice, from petty thievery to world war, may result.&quot;
+president$$$@@@%%%The undergraduate program is ranked 1st and the MBA program is ranked 20th by Business Week.</p>
+established$$$@@@%%%<h2>History</h2>
+established$$$@@@%%%<p>The Mendoza College of Business was founded in 1921 by <a>Holy Cross</a> <a>priest</a>, <a>John Francis O'Hara</a>.
+established$$$@@@%%%Rev. O'Hara later became the president of the University and a Cardinal of the Catholic Church.
+country$$$@@@%%%Four years earlier, in 1917, Notre Dame had become the first university in the United States to launch a four-year program of study in &quot;foreign commerce.&quot;</p>
+established$$$@@@%%%<p>Carolyn Woo, Martin J. Gillen Dean and Ray and Milann Siegfried Professor in Entrepreneurial Studies, joined the College in June 1997.
+established$$$@@@%%%In March 2000, the College of Business received a naming gift from <a>NetApp, Inc.</a> executives, <a>Tom and Kathy Mendoza</a>.</p>
+image_name$$$@@@%%%<h2>Degrees</h2>
+image_name$$$@@@%%%<ul>
+type$$$@@@%%%  <li>Bachelor of Business Administration (<a>BBA</a>)
+image_name$$$@@@%%%    <ul>
+image_name$$$@@@%%%      <li>Accountancy</li>
+nickname$$$@@@%%%      <li>Finance and Business Economics</li>
+city$$$@@@%%%      <li>Management (Concentrations in Consulting, Entrepreneurship, and Information Technology Management)</li>
+image_name$$$@@@%%%      <li>Marketing</li>
+image_name$$$@@@%%%    </ul>
+image_name$$$@@@%%%  </li>
+nickname$$$@@@%%%  <li>Masters in Business Administration (<a>MBA</a>)
+image_name$$$@@@%%%    <ul>
+city$$$@@@%%%      <li>Two-Year Program</li>
+city$$$@@@%%%      <li>Accelerated One-Year Program</li>
+faculty$$$@@@%%%      <li>Executive Program: <em><a>Chicago</a></em> &#x2022; <em><a>South Bend</a></em> &#x2022; <em><a>Cincinnati</a></em></li>
+image_name$$$@@@%%%    </ul>
+image_name$$$@@@%%%  </li>
+type$$$@@@%%%  <li>Master of Nonprofit Administration <a>MNA</a></li>
+established$$$@@@%%%  <li>Masters of Science in Accountancy (<a>MSA</a>)</li>
+provost$$$@@@%%%  <li>Executive Education Programs
+image_name$$$@@@%%%    <ul>
+affiliations$$$@@@%%%      <li>Executive Certificate in Business Administration [<a>http://www.nd.edu/~execprog/executivePrograms/online/executiveCertificateBA.shtml</a>]
+image_name$$$@@@%%%</li>
+provost$$$@@@%%%      <li>Executive Integral Leadership</li>
+image_name$$$@@@%%%      <li>Custom Programs</li>
+image_name$$$@@@%%%      <li>Supervisory Development </li>
+image_name$$$@@@%%%      <li>Project Management</li>
+provost$$$@@@%%%      <li>Executive Certificate in Negotiation</li>
+provost$$$@@@%%%      <li>Certificate in Executive Management</li>
+affiliation$$$@@@%%%      <li><a>Six Sigma</a></li>
+affiliations$$$@@@%%%      <li>International Programs [<a>http://globalexec.nd.edu</a>]</li>
+image_name$$$@@@%%%    </ul>
+image_name$$$@@@%%%  </li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h2>Academic Centers</h2>
+image_name$$$@@@%%%<ul>
+established$$$@@@%%%  <li><strong><a>Center for Accounting Research and Education</a></strong> supports domestic and international faculty in the creation and dissemination of accounting knowledge in order to strengthen the bridges between accounting research, accounting education and accounting practice.
+image_name$$$@@@%%%</li>
+established$$$@@@%%%  <li><strong><a>Center for Ethics and Religious Values</a></strong> seeks to strengthen ethical foundations in business and public policy decisions by fostering dialogue among academic and corporate leaders, as well as by research and publications.
+free_label$$$@@@%%%The center's ethics curriculum is integrated throughout Notre Dame's business coursework.
+image_name$$$@@@%%%</li>
+established$$$@@@%%%  <li><strong><a>Center for US-Japanese Studies</a></strong> seeks to raise global awareness of Japan and Pacific Asia and to introduce a new emphasis on internationalism in teaching, research and service.
+free_label$$$@@@%%%The center also provides experiential student learning through MBA internships with business firms in Japan.
+image_name$$$@@@%%%</li>
+established$$$@@@%%%  <li><strong><a>Fanning Center for Business Communication</a></strong> provides coursework in all facets of human communication, from writing and speaking to listening and group interaction.
+free_label$$$@@@%%%In addition to classroom success, Fanning center faculty have also earned an international reputation for their research and publications.
+image_name$$$@@@%%%</li>
+image_size$$$@@@%%%  <li><strong><a>Gigot Center for Entrepreneurial Studies</a></strong> fosters innovation among current and aspiring entrepreneurs.
+nickname$$$@@@%%%Through a unique curriculum, business plan competitions, and mentoring opportunities with Notre Dame alumni, students gain vital experience and the skills necessary to build successful businesses.
+image_name$$$@@@%%%</li>
+nickname$$$@@@%%%  <li><strong><a>Institute for Ethical Business Worldwide</a></strong> seeks to promote positive illustrations of ethical and socially responsible business conduct throughout the world.
+established$$$@@@%%%We stress the importance of ethical leadership as a cornerstone to building a stronger sense of integrity and values into all business firms.</li>
+image_name$$$@@@%%%</ul>
+country$$$@@@%%%<h2>National rankings and reputation</h2>
+nickname$$$@@@%%%<p><strong>Undergraduate Business Program</strong></p>
+image_name$$$@@@%%%<ul>
+image_size$$$@@@%%%  <li>Business Week: 1st</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p><strong>Undergraduate Accounting Program</strong></p>
+image_name$$$@@@%%%<ul>
+image_name$$$@@@%%%  <li>US News: 7th </li>
+type$$$@@@%%%  <li>Public Accounting Report <em>(2006)</em>: 3rd</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p><strong>MBA Program</strong></p>
+image_name$$$@@@%%%<ul>
+image_name$$$@@@%%%  <li>US News: 34th</li>
+type$$$@@@%%%  <li>Business Week: 20th</li>
+image_name$$$@@@%%%  <li>Wall Street Journal Regional Ranking 14th</li>
+image_name$$$@@@%%%  <li>Financial Times: 77th</li>
+city$$$@@@%%%  <li>Aspen Institute: 5th in Ethics  </li>
+image_name$$$@@@%%%</ul>
+provost$$$@@@%%%<p><strong>Executive MBA Program</strong></p>
+image_name$$$@@@%%%<ul>
+image_name$$$@@@%%%  <li>Wall Street Journal: 6th </li>
+type$$$@@@%%%  <li>Business Week: 20th  and the MBA program is ranked 20th.&lt;ref
+established$$$@@@%%%name=&quot;BW&quot;/&gt;  It is also ranked 14th in <em> The Economist</em> Rankings and 18th in the Financial Times Rankings among US based business schools.</p>
+image_name$$$@@@%%%<h2>Selectivity</h2>
+image_name$$$@@@%%%<h3>MBA Program</h3>
+affiliations$$$@@@%%%<p>Mendoza is considered a very selective business school.
+established$$$@@@%%%The admissions rate for the previous year was 34%.
+mascot$$$@@@%%%Applicants are required to take the <a>GMAT</a> exam.
+established$$$@@@%%%Of the admitted applicants the median score was 680 and the range of the middle 80% of scores went from 750 to 610.&lt;ref name=&quot;BW&quot;/&gt;</p>
+image_name$$$@@@%%%<h3>Undergraduate Program</h3>
+established$$$@@@%%%<p>Mendoza, like every other college at Notre Dame, does not require an application process, aside from being admitted as an undergraduate to the university.
+nickname$$$@@@%%%Declaring oneself as a future business major in the spring of freshman year allows students to take any and all courses available at the college.</p>
+city$$$@@@%%%<h2>See also</h2>
+image_name$$$@@@%%%<ul>
+head_label$$$@@@%%%  <li><a>List of United States business school rankings</a></li>
+type$$$@@@%%%  <li><a>List of business schools in the United States</a></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h2>References</h2>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%<h2>External links</h2>
+image_name$$$@@@%%%<ul>
+affiliation$$$@@@%%%  <li><a>Official website</a></li>
+established$$$@@@%%%  <li><a>Official Notre Dame University website</a></li>
+nickname$$$@@@%%%  <li><a>Official Notre Dame University athletics website</a></li>
+affiliation$$$@@@%%%  <li><a>Notre Dame Scholastic Magazine</a></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p> </p>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%
+image_name$$$@@@%%%

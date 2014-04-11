@@ -1,0 +1,68 @@
+image_name$$$@@@%%%<p></p>
+type$$$@@@%%%<p><strong>Baker University</strong> is a private, residential <a>university</a> located in <a>Baldwin City, Kansas</a>, <a>United States</a>.
+established$$$@@@%%%Founded in 1858, it is the oldest university in <a>Kansas</a> and is affiliated with the <a>United Methodist Church</a>.
+established$$$@@@%%%Baker University is made up of four schools.
+nickname$$$@@@%%%The College of Arts and Sciences and the undergraduate courses in the School of Education (SOE) are located at the campus in <a>Baldwin City</a>, Kansas.
+staff$$$@@@%%%These schools provide education for students pursuing undergraduate degrees in any of more than 40 areas of study.
+established$$$@@@%%%The School of Professional and Graduate Studies (SPGS) and the graduate branch of the SOE serve working adults at campuses in <a>Lee's Summit</a> plus <a>North Kansas City, Missouri</a> and <a>Overland Park</a>, <a>Topeka</a>, <a>Lawrence</a>, and <a>Wichita</a>, Kansas.
+established$$$@@@%%%The School of Nursing, which is operated in partnership with Stormont-Vail HealthCare in Topeka, offers a Bachelor of Science in Nursing degree.
+undergrad$$$@@@%%%Enrollment in all four schools has grown to a total student population of more than 4,000.
+nickname$$$@@@%%%There are more than 900 students on the Baldwin City campus, approximately 3,000 in SPGS and SOE programs, and 160 at the School of Nursing.
+established$$$@@@%%%A recent survey by the Kansas City Business Journal listed Baker University's MBA program as the most popular in the Kansas City metro area.
+vice_chancellor$$$@@@%%%With 641 MBA students enrolled in the fall 2009 semester, Baker ranked No. 1.</p>
+image_size$$$@@@%%%<p><a>thumb|Parmenter Hall, the most recognizable building on Baker's main campus.</a></p>
+image_name$$$@@@%%%<h2>Ranking</h2>
+type$$$@@@%%%<p><a>U.S. News and World Report</a> has most recently ranked Baker University as the number 144 national liberal arts college and the top private university in Kansas.
+established$$$@@@%%%The <a>Princeton Review</a> consistently ranks the University as a top school in the Midwest within its peer group.
+established$$$@@@%%%In addition, Baker has been recognized for its value by <a>Money</a> magazine and <a>Barron's</a> Best Buys in College Education.
+established$$$@@@%%%Four <a>Rhodes Scholars</a>, one winner of the <a>Pulitzer</a> in journalism, two Barry M. Goldwater Scholars, and one Jack Kent Cooke Scholar have graduated from Baker.
+faculty$$$@@@%%%There are 16,000 living alumni.</p>
+free_label$$$@@@%%%<h2>Athletics</h2>
+mascot$$$@@@%%%<p>The school's athletic teams, the Wildcats, have only one official color: orange.
+nickname$$$@@@%%%The 17 sports compete in the <a>NAIA</a>, Region V, and the <a>Heart of America Athletic Conference</a>.
+established$$$@@@%%%Baker University history includes a 22-9 victory against the <a>University of Kansas</a> in the first intercollegiate football game to take place in Kansas.
+nickname$$$@@@%%%Additionally, Baker has over 100 All-Americans and nearly 100 conference titles.
+established$$$@@@%%%Women's sports began at Baker in 1978.
+image_name$$$@@@%%%</p>
+nickname$$$@@@%%%<p><a>Emil S. Liston</a>, former Baker basketball, football and baseball coach, helped create the NAIA and the first national basketball tournament.
+established$$$@@@%%%Baker's stadium is now named in his honor.
+established$$$@@@%%%<a>Charlie Richard</a>, the late former football coach, is honored in the <a>College Football Hall of Fame</a> for his success at Baker.
+nickname$$$@@@%%%He has the highest winning percentage of an NAIA football coach and led the Wildcats to the playoffs 10 times during his 14-year tenure.</p>
+image_name$$$@@@%%%<h3>Facilities</h3>
+nickname$$$@@@%%%<p>Located inside the Charlie Richard Outdoor Sports Facility, Liston Stadium, built in the 1930s, is home to football, track, and select soccer matches.
+nickname$$$@@@%%%The majority of soccer matches are played at North Park.
+nickname$$$@@@%%%Also in the complex are A.B. Cavaness Field, and Sauder Field, home to the softball and baseball teams.
+image_name$$$@@@%%%</p>
+established$$$@@@%%%<p>Volleyball and basketball compete in the George F. Collins Jr. Center, which is also home to the Athletic Hall of Fame.
+nickname$$$@@@%%%The Cross Country team makes its home at the Baldwin City Municipal Golf Course.
+image_name$$$@@@%%%</p>
+students$$$@@@%%%<p>The entire Charlie Richard Outdoor Sports Facility underwent dramatic improvements between 2002 and 2006.
+free_label$$$@@@%%%Upgrades included new artificial turf, a new track, the addition of stadium seats and the Tom Hedrick Press Box, lights for baseball and softball, and other improvements.
+image_name$$$@@@%%%</p>
+nickname$$$@@@%%%<p>Training facilities and the weight room are located in Mabee Memorial Hall, as is the old gym.
+nickname$$$@@@%%%Last renovated in 1995, they offer indoor practice space for the cheer and dance squad as well as the baseball and softball teams.</p>
+staff$$$@@@%%%<h2>Notable alumni and teachers</h2>
+image_name$$$@@@%%%<ul>
+established$$$@@@%%%  <li><a>Phog Allen</a> - Collegiate basketball coach at Baker University, the <a>University of Central Missouri</a> and the <a>University of Kansas</a>.</li>
+vice_chancellor$$$@@@%%%  <li><a>Kevin Mahogany</a> - Jazz Singer.</li>
+established$$$@@@%%%<li><a>Joseph Little Bristow</a> - <a>US Senator</a> from Kansas, 1909-1915.</li>
+established$$$@@@%%%<li><a>Don Wendell Holter</a> - American Bishop of the <a>United Methodist Church</a>, elected in 1972.</li>
+established$$$@@@%%%<li><a>Mike McCarthy</a> - <a>Green Bay Packers</a> head coach, appointed in 2006.</li>
+established$$$@@@%%%<li><a>Homer A. McCrerey</a> - Commissioned <a>US Naval Academy</a> officer and <a>bioneer</a>ing <a>oceanographer</a>.</li>
+established$$$@@@%%%  <li><a>William Alfred Quayle</a> - American bishop of the Methodist Church, elected in 1908.</li>
+vice_chancellor$$$@@@%%%<li><a>John Clark Ridpath</a> - American educator, historian, and editor.</li>
+established$$$@@@%%%<li><a>Bennett J. Sims</a> - Sixth bishop of the <a>Episcopal Diocese of Atlanta</a> consecrated as Diocesan <a>Bishop</a> in 1972.</li>
+vice_chancellor$$$@@@%%%<li><a>Emil S. Liston</a> - basketball coach (1930-1945) and administrator.
+established$$$@@@%%%Inductee to <a>Basketball Hall of Fame</a> and creator of the <a>NAIA</a> college basketball tournament.</li>
+established$$$@@@%%%<li><a>Mike Gardner</a> - head football coach at <a>Tabor College</a> and <a>Malone University</a></li>
+established$$$@@@%%%  <li>Andrew Cherng '70 and Dr. Peggy Tsiang Cherng '68 - Founders and owners of <a>Panda Restaurant Group</a>, the parent company of <a>Panda Express</a>.</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h2>External links</h2>
+image_name$$$@@@%%%<ul>
+established$$$@@@%%%  <li><a>Baker University Website</a></li>
+nickname$$$@@@%%%  <li><a>Baker athletics</a></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p> <img> </p>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%
+image_name$$$@@@%%%

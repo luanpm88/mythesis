@@ -1,0 +1,9 @@
+<p><a>right|thumb|190px|Lecture Hall</a></p>
+<li><a>Sophisticated Instruments Centre</a></li>
+<li><a>NITC IBM ACE Centre</a></li>
+<h2>Culture and Student Life</h2>
+<h3>Student Organizations</h3>
+<li><a>NALANDA</a> Digital Library at NITC.</li>
+<li><a>NITC Student Magazine</a></li>
+<li><a>FOSSMeet at NIT Calicut</a> Free and Open Source Software Meet</li>
+<li><a>NITC at Wikimapia</a></li>

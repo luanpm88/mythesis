@@ -1,0 +1,8 @@
+<li>Electromechanical and Automation Department</li>
+<li>Electronic and Electric Engineering Department</li>
+<li>Civil Engineering Department</li>
+<li>Environment and Equipment Engineering Department</li>
+<li>Engineering Management Department</li>
+<li>Department, Modern Media Department</li>
+<li>Jurisprudence Department</li>
+<li>Mathematics and Physics Department</li>

@@ -1,0 +1,5 @@
+<li>College of Agriculture and Applied Sciences</li>
+<li>College of Education and Behavioral Sciences</li>
+<li>College of Engineering and Natural Sciences</li>
+<li>College of Humanities and Fine Arts</li>
+Students who live on campus are within walking distance of all academic buildings, the library, food services, the Boling University Center, and all recreational and sports facilities.

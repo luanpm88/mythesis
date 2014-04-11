@@ -1,0 +1,4 @@
+<p>More than 1400 students study at Spring Hill College each year of which over 70% are from outside <a>Alabama</a>.
+<p>There are over fifty student-run clubs and organizations at Spring Hill College.
+<li><a>Sand volleyball</a> (4-on-4 Co-Rec, up to 8 on team)</li>
+<li><a>Basketball</a> (5-on-5)</li>

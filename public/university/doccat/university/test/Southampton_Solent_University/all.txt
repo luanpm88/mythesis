@@ -1,0 +1,72 @@
+image_name$$$@@@%%%<p> </p>
+established$$$@@@%%%<p><strong>Southampton Solent University</strong> is a <a>university</a> of 17,000 students based in Southampton, United Kingdom.
+address$$$@@@%%%Its main campus is located on East Park Terrace near the city centre.
+established$$$@@@%%%It is a centre of applied research in design and advanced technology, maritime, fine art, history of collecting, film, media and cultural studies, political and international studies, law and a broad range of business disciplines.
+established$$$@@@%%%The university strives to work with local business and professional bodies (for example the <a>British Computer Society</a> and the <a>PTC</a>) to keep the qualifications it provides relevant and immediately useful upon graduation.</p>
+mascot$$$@@@%%%<p>The university has strong maritime courses and the student yachting team are previous world champions, also finishing in 4th place in 2007.
+former_names$$$@@@%%%Other courses at the university with an established reputation amongst academics include Journalism and Photography, both of which are accredited by industry bodies and professionally recognised.</p>
+address$$$@@@%%%<p>Solent University students are represented by Solent Students' Union (previously known as Southampton Institute Students' Union/SISU), which is based on the East Park Terrace campus </p>
+established$$$@@@%%%<h2>History</h2>
+established$$$@@@%%%<p>The university's origins can be traced back to a private School of Art founded in 1856, which eventually became the <strong>Southampton College of Art</strong>.
+established$$$@@@%%%Mergers with the <strong>Southampton College of Technology</strong>, and later the <strong>College of Nautical Studies</strong> at <a>Warsash</a>, led to the establishment of the <strong>Southampton Institute of Higher Education</strong> in 1984.</p>
+established$$$@@@%%%<p>Southampton Institute became a university on 12 July 2005, and adopted its current name on 15 August that year.
+established$$$@@@%%%Prior to 2005, students at Southampton Institute received degrees awarded by <a>Nottingham Trent University</a>.</p>
+established$$$@@@%%%<p>Southampton Solent University continues to offer research degree awards validated by the Nottingham Trent University.</p>
+established$$$@@@%%%<h2>Halls of Residence</h2>
+nickname$$$@@@%%%<p>The University has six major student Halls complexes:</p>
+image_name$$$@@@%%%<ul>
+image_name$$$@@@%%%  <li>Chantry</li>
+image_name$$$@@@%%%  <li>Deanery</li>
+image_name$$$@@@%%%  <li>Emily Davies</li>
+image_name$$$@@@%%%  <li>Hamwic</li>
+principal$$$@@@%%%  <li>Kimber (incorporating the David Moxon Annexe)</li>
+image_name$$$@@@%%%  <li>Lucia Foster Welch</li>
+image_name$$$@@@%%%</ul>
+students$$$@@@%%%<p>All are located away from the main teaching buildings.
+type$$$@@@%%%Five of the six halls are located South East of the city centre, between the <a>St Mary's</a> and <a>Ocean Village</a> areas of the Southampton, while Emily Davies is located to the north west of the city centre, near to the <a>Southampton Civic Centre</a>.</p>
+image_name$$$@@@%%%<h2>Solent Students' Union</h2>
+mascot$$$@@@%%%<p>The Union forms an integral part of student representation within the University.
+vice_chancellor$$$@@@%%%It is made up of 4 sabbatical officers; President, Vice President Activities, Vice President Communications &amp; Vice President Student Support and 6 non-sabbatical officers; 1x Equal Opportunities officer and 5x Open Portfolio officers, as well as several full-time, permanent members of staff.</p>
+established$$$@@@%%%<p>The President is the students' representative on the Board of Governors and other Sabbatical Officers attend University committees such as Academic Board, Faculty Boards and Course Committees to ensure effective representation for all students - full and part time, undergraduate and postgraduate.</p>
+postgrad$$$@@@%%%<p>There are many clubs and societies which are funded through the Union and run by students.
+established$$$@@@%%%Facilities and services include the Student Advice Centre which offers a comprehensive and confidential information and advice service to students, a Student Shop, a Copy Shop, two cash-point machines and a photo booth.</p>
+established$$$@@@%%%<p>Entertainment is provided by the Union, with balls, themed nights and various social meetings taking place throughout the year.
+nickname$$$@@@%%%The Students' Union holds many formal events over the year including the Freshers Ball, Graduation Ball and the Summer Festival.</p>
+nickname$$$@@@%%%<p>The summer of 2007 saw the refurbishment of the middle floor, with the Executive officers residing there, as well as Radio Sonar and Sonar TV, a Student Union Shop and Wifi Lounge </p>
+nickname$$$@@@%%%<p>The Student Radio Station <a>Radio Sonar</a> was once known as Sin Radio, but this was changed in 2009 to welcome the TV society and Student Magazine all one one brand, Sonar Media.</p>
+image_name$$$@@@%%%<h2>Academic rankings</h2>
+nickname$$$@@@%%%<p>Acamemic rankings are compiled via statistics provided by the universities, applying importance to those and creating tables from them.
+mottoeng$$$@@@%%%This is an interpretive process, so the score / rank changes per source quoted below.
+affiliations$$$@@@%%%The Times uses Higher Education Statistics Agency (HESA) data.</p>
+image_name$$$@@@%%%<p></p>
+free$$$@@@%%%<h2>Notable alumni</h2>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%<ul>
+established$$$@@@%%%  <li><a>James Hilton (AKQA)</a> &#x2014; Designer and Co-Founder of <a>AKQA</a> </li>
+established$$$@@@%%%  <li><a>Sean Yazbeck</a> &#x2014; <em><a>The Apprentice (US Season 5)</a></em>, winner</li>
+established$$$@@@%%%  <li><a>Ricky Whittle</a> &#x2014; Actor (Currently starring in <a>Hollyoaks</a> as <a>Calvin Valentine</a>)</li>
+type$$$@@@%%%  <li><a>David Quayle</a> &#x2014; <a>B&amp;Q</a> Co-founder</li>
+affiliation$$$@@@%%%  <li><a>Jemish Patel</a> &#x2014; TV presenter</li>
+established$$$@@@%%%  <li><a>Jonathan Ross</a> &#x2014; TV and Radio presenter</li>
+established$$$@@@%%%  <li><a>Una Nwajei</a> &#x2014; England women's footballer</li>
+affiliation$$$@@@%%%  <li><a>Ricky Boleto</a> &#x2014; TV presenter, BBC Newsround</li>
+image_name$$$@@@%%%</ul>
+image_size$$$@@@%%%<h2>Honorary graduates</h2>
+nickname$$$@@@%%%<p>The University has awarded several <a>honorary degree</a>s to &quot;those who have made an outstanding contribution to the fields of education, arts, sports, maritime studies and engineering&quot;.
+type$$$@@@%%%These include cricketers <a>Shane Warne</a> (Doctorate), <a>David Gower</a> and <a>Robin Smith</a> (Masters of Arts) and Southampton footballing greats <a>Matthew Le Tissier</a> and <a>Lawrie McMenemy</a> (Masters of Business Administration).
+established$$$@@@%%%The University has also awarded an honorary Doctorate in Business Administration to Paralympic athlete Dame <a>Tanni Grey-Thompson</a>, made <a>Formula One</a> racing commentator <a>Murray Walker</a> a Doctor of Letters, and in summer 2007, <a>Ben Ainslie</a> was made a Doctor of Sport in recognition of his sailing achievements.
+established$$$@@@%%%Also in 2007, television presenter and journalist <a>Fiona Phillips</a> was awarded a Master of Arts degree, and former Director General of the BBC <a>Greg Dyke</a> made a Doctor of Arts.
+established$$$@@@%%%R&amp;B singer and songwriter <a>Craig David</a> received an honorary Doctorate in Music in November 2008 in recognition of his contributions to the local scene.
+established$$$@@@%%%In 2009, an honorary Doctor of Arts was awarded to <a>Scott Mills</a> for his services to broadcasting, and to <a>Kathy Lette</a> &quot;for her outstanding writing career&quot;.</p>
+image_name$$$@@@%%%<h2>References</h2>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%<p>  </p>
+image_name$$$@@@%%%<h2>External links</h2>
+image_name$$$@@@%%%<ul>
+established$$$@@@%%%  <li><a>Southampton Solent University Official Website</a></li>
+image_size$$$@@@%%%  <li><a>Warsash Maritime Academy Official Website</a></li>
+affiliation$$$@@@%%%  <li><a>Solent Students' Union Official Website</a></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%
+image_name$$$@@@%%%

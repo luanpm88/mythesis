@@ -5,7 +5,7 @@ require 'gnuplot'
 class Kmeans
   INFINITY = 1.0/0
   
-  def kmeans(data, k, delta=0.001)
+  def kmeans(data, k, delta=0.99)
     clusters = []
      
     # Assign intial values for all clusters
@@ -39,14 +39,14 @@ class Kmeans
        
         # Add to closest cluster
         max_cluster.points.push point
-        max_cluster.refresh_vocab
+        max_cluster.refresh_vocab        
       end
        
       # Check deltas
-      max_delta = -INFINITY
+      max_delta = 0
        
       clusters.each do |cluster|
-        dist_moved = cluster.recenter!
+        dist_moved = cluster.get_centroid
          
         # Get largest delta
         if dist_moved > max_delta
@@ -56,14 +56,13 @@ class Kmeans
       #puts "@@@@@@@@@@#########" +  max_delta.to_s + "--" + delta.to_s
       #sleep(1)
       # Check exit condition
-      if max_delta < delta
+      if max_delta > delta
         return clusters
       end
      
       # Reset points for the next iteration
       clusters.each do |cluster|
-        cluster.points = [cluster.center]
-        cluster.refresh_vocab
+        cluster.points = []
       end
       
       

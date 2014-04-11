@@ -1,0 +1,11 @@
+<li>1965 - Voorhees Technical Institute first begins accepting female students.
+<li>1971 - Voorhees Technical Institute is incorporated into New York City Community College.
+<li>B.Tech - Architectural Technology</li>
+<li>B.Tech - Computer Engineering Technology</li>
+<li>B.Tech - Entertainment Technology</li>
+<li>B.Tech - Industrial Design Technology</li>
+<li>B.Tech - Telecommunications Engineering Technology</li>
+<li>Building/Housing Superintendent Technology</li>
+<li>Lighting Systems Technology</li>
+<li>Sound Systems Technology</li>
+<li>Video Production Technology</li>

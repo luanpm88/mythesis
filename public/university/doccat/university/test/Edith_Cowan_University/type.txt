@@ -1,0 +1,4 @@
+<h4>Faculty of Education and Arts</h4>
+<li>School of Education</li>
+<li>VARIO Health Institute</li>
+<p>Study programs are offered at <a>Associate Degree</a>, <a>Bachelor</a>, <a>Master</a> and <a>Doctoral</a> levels in numerous subject areas.

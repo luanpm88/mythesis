@@ -1,0 +1,2 @@
+<li>Faculty of Arts and Science</li>
+<li>Faculty of Management</li>

@@ -1,0 +1,7 @@
+<li>Department of Economics</li>
+<li>Department of Finance</li>
+<li>Department of Informatics</li>
+<li>Department of Marketing</li>
+<li>Department of Operations Management</li>
+<li>Department of Organization</li>
+<li>Law Department</li>

@@ -1,0 +1,16 @@
+<li>Faculty of Biology </li>
+<li>Faculty of Chemistry </li>
+<li>Faculty of Ecology</li>
+<li>Faculty of Economics</li>
+<li>Faculty of International Economic Relations and Tourist Industry</li>
+<li>Faculty of Foreign Languages </li>
+<li>Faculty of Medicine</li>
+<li>Faculty of Geology and Geography </li>
+<li>Faculty of Physics </li>
+<li>Faculty of Philology </li>
+<li>Faculty of Philosophy</li>
+<li>Faculty of Psychology</li>
+<li>Faculty of Radio Physics </li>
+<li>Faculty of Sociology </li>
+<li>Faculty of Computer Science</li>
+<li>Faculty of Physics and Energy</li>

@@ -1,0 +1,8 @@
+<li>School of Material Science and Engineering</li>
+<li>School of Automation Science and Electrical Engineering </li>
+<li>School of Aeronautical Science and Engineering </li>
+<li>School of Computer Science and Engineering
+<li>School of Mathematics and Systems Science</li>
+<li>School of Transportation Science and Engineering</li>
+<li>School of Transportation Science and Engineering
+<li>International School</li>

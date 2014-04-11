@@ -1,0 +1,12 @@
+<li><a>MBA</a>, two-year daytime program at <a>Davis</a></li>
+<li><a>Accounting</a></li>
+<li><a>Finance</a></li>
+<li><a>Marketing</a></li>
+<li><a>Entrepreneurship</a></li>
+<li><a>Agribusiness</a></li>
+<li><a>Biotechnology</a></li>
+<li><a>Healthcare</a></li>
+<li><a>High Tech</a></li>
+<li><a>Real Estate</a></li>
+<li><a>Wine</a> Industry</li>
+<li><a>UC Davis Associated Students Of Management (ASM)</a></li>

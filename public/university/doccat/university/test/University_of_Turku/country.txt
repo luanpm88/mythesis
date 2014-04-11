@@ -1,0 +1,9 @@
+<h3>The Royal Academy of Turku</h3>
+<li>Centre for Biotechnology</li>
+<li>The Research Centre for Applied and Preventive Cardiovascular Medicine (CAPC)</li>
+<li>Department of Social Research</li>
+<li>Centre for Environmental Research</li>
+<li>Centre for Extension Studies</li>
+<li>Centre for Maritime Studies</li>
+<li>Turku Centre for Biotechnology</li>
+<h2>Research</h2>

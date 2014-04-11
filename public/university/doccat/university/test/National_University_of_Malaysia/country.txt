@@ -1,0 +1,12 @@
+<li>Centre for Academic Advancement</li>
+<li>Centre for Corporate Communications</li>
+<li>Centre for Corporate Planning &amp; Communications</li>
+<li>Centre for General Studies</li>
+<li>Centre for Graduate Management</li>
+<li>Centre for Publication and Printing</li>
+<li>Centre for Research and Innovation Management</li>
+<li>Centre for Students Advancement</li>
+for Environment &amp; Development (LESTARI) </li>
+<li>Inst. of the Malay World &amp; Civilization (ATMA) </li>
+<li>Solar Energy Research Institute (SERI) </li>
+<li>South East Asia Disaster Prevention Research Institute (SEADPRI-UKM)</li>

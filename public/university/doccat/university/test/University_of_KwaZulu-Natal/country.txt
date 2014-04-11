@@ -1,0 +1,2 @@
+<li>the registrar (responsible for registering students)</li>
+<li>the students representative council (responsible for students representation)</li>

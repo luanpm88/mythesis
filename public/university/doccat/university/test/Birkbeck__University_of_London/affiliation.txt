@@ -1,0 +1,45 @@
+<li><a>Leonard Wolfson, Baron Wolfson</a></li>
+<li><a>Antony Beevor</a>, historian</li>
+<li><a>Julia Bell</a>, author</li>
+<li><a>Annie Besant</a>, prominent theosophist</li>
+<li><a>Ian Christie</a>, professor</li>
+<li><a>Andrea Christofidou</a>, philosopher</li>
+<li><a>Steven Connor</a>, professor</li>
+<li><a>Diana Coole</a>, social scientist</li>
+<li><a>Beth Cordingly</a>, actress</li>
+<li><a>Bernard Crick</a>, political theorist</li>
+<li><a>Jennifer Donnelly</a>, writer</li>
+<li><a>Tracey Emin</a>, artist</li>
+<li><a>Nissim Ezekiel</a>, professor, poet</li>
+<li>Dame <a>Millicent Fawcett</a>, suffragist</li>
+<li><a>Ben Fine</a>, professor</li>
+<li><a>Rosalind Franklin</a>, crystallographer</li>
+<li><a>Hugh Gaitskell</a>, lecturer</li>
+<li><a>Marcus Garvey</a>, Harlem Renaissance Writer</li>
+<li><a>Bear Grylls</a>, adventurer</li>
+<li><a>Paul Hirst</a>, professor</li>
+<li><a>Mark Johnson</a>, professor</li>
+<li><a>Kenneth Holmes</a>, crystallographer</li>
+<li><a>Zhu Hua</a>, applied linguist</li>
+<li><a>Anthony Julius</a>, visiting professor</li>
+<li><a>Toby Litt</a>, author, lecturer</li>
+<li><a>Denis MacShane</a>, politician</li>
+<li><a>Leonard Mandel</a>, nuclear physicist</li>
+<li><a>Mark Mazower</a>, professor</li>
+<li><a>Louis Mordell</a>, researcher</li>
+<li><a>Laura Mulvey</a>, professor</li>
+<li><a>Nerina Pallot</a>, singer</li>
+<li><a>Nikolaus Pevsner</a>, professor</li>
+<li><a>Ben Pimlott</a>, professor</li>
+<li><a>Ernest Millington</a>, politician</li>
+<li><a>Roger Penrose</a>, theoretical physicist</li>
+Philippe Rushton</a>, eminent psychologist</li>
+<li><a>Richard Sambrook</a>, broadcaster</li>
+<li><a>Andy Saull</a>, rugby player</li>
+<li><a>Roger Scruton</a>, professor</li>
+<li><a>Nick Smith</a>, politician</li>
+<li><a>Laurie Taylor</a>, sociologist</li>
+<li><a>Ronald Tress</a>, economist</li>
+<li><a>Kitty Ussher</a>, politician</li>
+<li><a>Ralph Vaughan Williams</a>, lecturer</li>
+<li><a>Barbara Wootton</a>, lecturer</li>

@@ -1,0 +1,2 @@
+<h2>Student organizations</h2>
+<li><a>Kudzu Gazette</a> (Student Newspaper)</li>

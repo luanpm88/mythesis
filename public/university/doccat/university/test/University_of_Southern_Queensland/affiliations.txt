@@ -1,0 +1,3 @@
+The college accommodates 200 students.</li>
+The college accommodates 130 students.</li>
+The college accommodates 102 students.</li>

@@ -1,0 +1,3 @@
+<h3>Academic buildings</h3>
+<h3>Residential buildings</h3>
+<h3>Other buildings</h3>

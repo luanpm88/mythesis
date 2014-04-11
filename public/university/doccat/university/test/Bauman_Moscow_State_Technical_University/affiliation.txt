@@ -1,0 +1,17 @@
+<li><a>Sergei Pavlovich Korolev</a></li>
+<li><a>Vladimir Grigorievich Shukhov</a></li>
+<li><a>Andrey Nikolaevich Tupolev</a></li>
+<li><a>Pavel Osipovich Sukhoi</a></li>
+<li><a>Pafnuty Lvovich Chebyshev</a></li>
+<li><a>Nikolai Yegorovich Zhukovsky</a></li>
+<li><a>Vladimir Nikolayevich Chelomei</a></li>
+<li><a>Nikolay Alekseevich Pilyugin</a></li>
+<li><a>Semyon Alekseyevich Lavochkin</a></li>
+<li><a>Vladimir Mikhailovich Petlyakov</a></li>
+<li><a>Sergei Alekseyevich Lebedev</a></li>
+<li><a>Sergei Ivanovich Vavilov</a></li>
+<li><a>Aleksandr Aleksandrovich Mikulin</a></li>
+<li><a>Sergey Alexandrovich Afanasyev</a></li>
+<li><a>Alfred Rosenberg</a></li>
+<li><a>Sergey Nepobedimiy</a></li>
+<li><a>Nikolay Dollezhal</a></li>

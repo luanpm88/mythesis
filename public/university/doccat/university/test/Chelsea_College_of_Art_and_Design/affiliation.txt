@@ -1,0 +1,37 @@
+<li><a>Critical Practice Chelsea</a></li>
+<li><a>Rita Angus</a> (Painter)</li>
+<li><a>Franko B</a> (Artist)</li>
+<li><a>Quentin Blake</a> (Children's Illustrator)</li>
+<li><a>Anthony Caro</a> (Abstract Sculptor)</li>
+<li><a>Leonora Carrington</a> (Painter)</li>
+<li><a>Helen Chadwick</a> (1987 <a>Turner Prize</a> nominee)</li>
+<li><a>Alexa Chung</a> (Model, Presenter)</li>
+<li><a>Keith Coventry</a> (Painter, Sculptor, Curator)</li>
+<li><a>Michael Cummings</a> (Cartoonist)</li>
+<li><a>Richard Deacon</a> (Sculptor)</li>
+<li><a>Peter Doig</a> (Painter)</li>
+<li><a>Cathie Felstead</a> (Illustrator)</li>
+<li><a>Ralph Fiennes</a> (Actor)</li>
+<li><a>Laura Ford</a> (Sculptor)</li>
+<li><a>Anish Kapoor</a> (1991 <a>Turner Prize</a> winner)</li>
+<li><a>Tom Jenkinson</a> (Musician)</li>
+<li><a>Ian McKay</a> (Writer)</li>
+<li><a>Steve McQueen</a> (1999 <a>Turner Prize</a> winner)</li>
+<li><a>Ursula Merchant</a> (Cutlery)</li>
+<li><a>Christopher Monger</a> (Writer/Film Director)</li>
+<li><a>Mariko Mori</a> (Artist)</li>
+<li><a>Karen Newman</a> (Sculptor)</li>
+<li><a>Chris Ofili</a> (1998 <a>Turner Prize</a> winner)</li>
+<li><a>Alan Rickman</a> (Actor)</li>
+<li><a>Trevor Robinson OBE</a> (Creative Director)</li>
+<li><a>Conrad Shawcross</a> (Artist)</li>
+<li><a>Winston Tong</a> (Ceramics)</li>
+<li><a>Gavin Turk</a> (Artist)</li>
+<li><a>Ethel Walker</a> (Painter)</li>
+<li><a>Mark Wallinger</a> (2007 <a>Turner Prize</a> winner)</li>
+<li><a>Rebecca Warren</a> (2006 <a>Turner Prize</a> nominee)</li>
+<li><a>Gillian Wearing</a> (1997 <a>Turner Prize</a> winner)</li>
+<li><a>Emily Young</a> (Stone Sculptor)</li>
+<li><a>Ossip Zadkine</a> (Artist, Sculptor)</li>
+<li><a>College Website</a></li>
+<li><a>Chelsea Space</a></li>

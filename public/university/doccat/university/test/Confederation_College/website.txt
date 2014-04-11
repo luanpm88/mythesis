@@ -1,0 +1,7 @@
+<h3>Thunder Bay campus</h3>
+<h3>Dryden campus </h3>
+<h3>Fort Frances campus</h3>
+<h3>Geraldton campus</h3>
+<h3>Kenora campus</h3>
+<h3>Marathon campus</h3>
+<h3>Sioux Lookout campus</h3>

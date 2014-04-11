@@ -1,0 +1,3 @@
+<li>Professor Gill Palmer &#x2013; Pro Vice-Chancellor of the College of Business</li>
+<li>Professor Colin Fudge &#x2013; Pro Vice-Chancellor of the College of Design and Social Context</li>
+<li>Professor Peter Coloe &#x2013; Pro Vice-Chancellor of the College of Science, Engineering and Health</li>

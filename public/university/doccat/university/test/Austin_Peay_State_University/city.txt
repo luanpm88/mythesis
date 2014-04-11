@@ -1,0 +1,5 @@
+<li>Beatrice Hand Village (Co-ed)</li>
+<li>Harvill Hall (Co-ed, Honors housing)</li>
+<li>Meacham Apartments (Co-ed)</li>
+<li>Two Rivers Apartments (Co-ed, Honors housing)</li>
+<li>Engineering Technology</li>

@@ -1,0 +1,62 @@
+affiliations$$$@@@%%%<p> The <strong><em></em></strong> (abbr.
+established$$$@@@%%%<strong>;</strong> English: <em>National Research Institute for Mathematics and Computer Science</em>) is one of the leading European research centers in the field of mathematics and theoretical <a>computer science</a>.
+established$$$@@@%%%It is located at the <a>Science Park Amsterdam</a> in the <a>Netherlands</a>.</p>
+website$$$@@@%%%<h2>Early history</h2>
+established$$$@@@%%%<p>The institute was founded in 1946 by <a>Johannes van der Corput</a>, <a>David van Dantzig</a>, <a>Jurjen Koksma</a>, <a>Hendrik Anthony Kramers</a>, <a>Marcel Minnaert</a> and <a>Jan Arnoldus Schouten</a>.
+established$$$@@@%%%It was originally called <em>Mathematical Centre</em> (in Dutch: <em>Mathematisch Centrum</em>).
+former_names$$$@@@%%%One of the early missions of CWI was to develop mathematical prediction models to assist large Dutch engineering projects, such as the well-known <a>Delta Works</a>.
+type$$$@@@%%%During this early period, the Mathematics Institute also helped with designing the wings of the <a>Fokker F27 Friendship</a> airplane, voted in 2006 as the most beautiful Dutch design of the 20th century.
+image_name$$$@@@%%%</p>
+affiliations$$$@@@%%%<p>The computer science component developed soon after.
+established$$$@@@%%%<a>Adriaan van Wijngaarden</a>, considered the founder of computer science (or <em>informatica</em>) in the Netherlands, was the director of the institute for almost 20 years.
+image_size$$$@@@%%%<a>Edsger Dijkstra</a> did most of his early influential work on algorithms and formal methods at CWI.
+established$$$@@@%%%In 1983, the name of the institute was changed to CWI to reflect the strong computer science component in its research.</p>
+provost$$$@@@%%%<h2>Recent research highlights</h2>
+established$$$@@@%%%<p>Today, the institute is internationally known for its work in fields such as operations research (in which CWI has a long tradition), software engineering, information processing, and mathematical applications in life sciences and logistics.
+established$$$@@@%%%More recent examples of research results from CWI include the development of scheduling algorithms for the Dutch railway system, the <a>Nederlandse Spoorwegen</a> (one of the busiest rail networks in the world), or the development of the <a>Python programming language</a> by <a>Guido van Rossum</a>.
+established$$$@@@%%%Python has played an important role in the development of <a>Google search platform</a> from the beginning, and it continues to do so as the system grows and evolves .
+established$$$@@@%%%Also, many of the information retrieval solutions used by packages such as <a>SPSS</a> were initially developed by Data Distilleries, a spinoff of CWI.</p>
+type$$$@@@%%%<p>Work at the institute is regularly recognized by national or international research awards, such as the <a>Lanchester Prize</a> prize (awarded yearly by <a>INFORMS</a>), the <a>G&#x00f6;del Prize</a> (awarded by <a>ACM SIGACT</a>) or the <a>Spinoza prize</a>.
+established$$$@@@%%%Most of its senior researchers hold part-time professorships at other Dutch universities, with the institute producing over 170 full professors during the course of its history.
+established$$$@@@%%%Several CWI researchers have been recognized as members of the <a>Royal Netherlands Academy of Arts and Sciences</a>, the <a>Academia Europaea</a>, or as knights in the <a>Order of the Netherlands Lion</a>.
+image_name$$$@@@%%%</p>
+type$$$@@@%%%<p>CWI is a founding member of <a>European Research Consortium for Informatics and Mathematics</a> (<a>ERCIM</a>), the European network of national computer science research institutes.</p>
+type$$$@@@%%%<h2>Birthplace of the European Internet</h2>
+established$$$@@@%%%<p>CWI is one of the &quot;birthplaces&quot; of the Internet in Europe.
+established$$$@@@%%%The first connection in Europe to the <a>NSFnet</a> network, which later developed into the current <a>Internet</a>, was established at CWI on 17 November 1988 by Piet Beertema.
+affiliations$$$@@@%%%Cwi.nl was also the first national domain name ever issued anywhere.</p>
+type$$$@@@%%%<p>Even today, the <a>Amsterdam Internet Exchange</a> (the largest Internet Exchange in the world, in terms of both members and throughput traffic) is located at the neighbouring <a>SARA</a> (an early CWI spin-off) and <a>NIKHEF</a> institutes.
+nickname$$$@@@%%%The <a>World Wide Web Consortium (W3C)</a> office for the Benelux countries is located at CWI.</p>
+mottoeng$$$@@@%%%<h3>Software and languages developed at or with CWI</h3>
+image_name$$$@@@%%%<ul>
+affiliation$$$@@@%%%  <li><a>ABC programming language</a></li>
+affiliation$$$@@@%%%  <li><a>Algol 68</a></li>
+affiliation$$$@@@%%%  <li><a>Python programming language</a></li>
+affiliation$$$@@@%%%  <li><a>SMIL</a></li>
+affiliation$$$@@@%%%  <li><a>MonetDB</a></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h2>Notable people</h2>
+image_name$$$@@@%%%<ul>
+affiliation$$$@@@%%%  <li><a>Hugo Brandt Corstius</a></li>
+affiliation$$$@@@%%%  <li><a>Andries Brouwer</a></li>
+affiliation$$$@@@%%%  <li><a>Edsger Dijkstra</a></li>
+affiliations$$$@@@%%%  <li><a>Richard D. Gill</a></li>
+affiliation$$$@@@%%%  <li><a>Dick Grune</a></li>
+affiliation$$$@@@%%%  <li><a>Kees Koster</a></li>
+affiliation$$$@@@%%%  <li><a>Barry Mailloux</a></li>
+affiliation$$$@@@%%%  <li><a>Lambert Meertens</a></li>
+affiliation$$$@@@%%%  <li><a>Steven Pemberton</a></li>
+affiliation$$$@@@%%%  <li><a>Guido van Rossum</a></li>
+affiliation$$$@@@%%%  <li><a>Alexander Schrijver</a></li>
+affiliation$$$@@@%%%  <li><a>Adriaan van Wijngaarden</a></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h2>External links</h2>
+image_name$$$@@@%%%<ul>
+affiliation$$$@@@%%%  <li><a>CWI website</a></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h3>References</h3>
+image_name$$$@@@%%%<p>&lt;references/&gt;</p>
+image_name$$$@@@%%%<p> </p>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%
+image_name$$$@@@%%%

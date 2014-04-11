@@ -1,0 +1,7 @@
+<li>College of Science
+<li>Department of Life Science</li>
+<li>Graduate Institute of Lighting and Display Science</li>
+<li>Graduate Institute of Materials Science &amp; Engineering</li>
+<li>Department of Computer Science &amp; Information Engineering
+<li>College of Earth Science
+<li>Graduate Institute of Space Science</li>

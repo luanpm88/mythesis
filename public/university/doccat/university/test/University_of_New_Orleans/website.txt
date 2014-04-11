@@ -1,0 +1,6 @@
+<li>College of Liberal Arts</li>
+<li>College of Sciences</li>
+<li>Downtown Center</li>
+<li>Jefferson Center</li>
+Current sports offered are</p>
+<li>Martial Arts</li>

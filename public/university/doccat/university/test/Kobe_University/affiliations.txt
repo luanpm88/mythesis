@@ -1,0 +1,9 @@
+Its first president was .
+<li><a>Saz&#x014d; Idemitsu</a>, founder, <a>Idemitsu Kosan</a> Co.,Ltd.
+<li>Seiichi Takahata, founder, Sojitz Corp.</li>
+<li>Akio Tanii, ex-CEO, <a>Panasonic/Matsushita Electric Industrial Co., Ltd.</a></li>
+<li>Takahiro Moriguchi, CEO, <a>JP Morgan</a> Securities Japan Co.</li>
+<li>Tadaharu Ohashi, CEO, <a>Kawasaki Heavy Industries</a>, Ltd.</li>
+<li>Ky&#x014d;ichi It&#x014d;, ex-CEO, Toyobo Co., Ltd., <a>Itochu</a> Corp.</li>
+<li>Takeo Murakami, ex-CEO, Tokyo Gas Co., Ltd.</li>
+<li>Shoe Suzuki, ex-CEO, Tokio Marine Fire Insurance Co.,Ltd.</li>

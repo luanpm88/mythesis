@@ -1,0 +1,78 @@
+image_name$$$@@@%%%<p></p>
+type$$$@@@%%%<p><strong>Rochester College</strong> is a four-year, liberal arts <a>college</a> located in <a>Rochester Hills</a>, <a>Michigan</a>.
+established$$$@@@%%%The college was founded by members of <a>Churches of Christ</a> in 1959.
+image_name$$$@@@%%%</p>
+undergrad$$$@@@%%%<p>Rochester College is primarily undergraduate and includes both residential and commuting student populations.
+established$$$@@@%%%The college also offers a degree completion program for adult students.
+established$$$@@@%%%The college is governed by a board of trustees who are members of the <a>Churches of Christ</a>.
+staff$$$@@@%%%The Ennis and Nancy Ham Library provides service to students, faculty, staff, and others.</p>
+established$$$@@@%%%<p>Rochester College was founded in 1959 as North Central Christian College, then later renamed Michigan Christian College.
+established$$$@@@%%%In 1997, the board of trustees adopted the name Rochester College in order to more clearly portray the institution's nature as a liberal arts college in a Christian setting.</p>
+staff$$$@@@%%%<p>In 2005, Rochester College added Master of Religious Education degree that is designed to provide advanced preparation for men and women entering full time ministry in church and para-church service, preparing for a life of scholarship and teaching, or desiring personal spiritual enrichment.</p>
+image_name$$$@@@%%%<h2>Mission statement</h2>
+type$$$@@@%%%<p>Rochester College cultivates academic excellence, principled character, servant leadership, and global awareness through a rigorous educational experience that integrates liberal arts and professional studies within an inclusive Christian heritage.</p>
+affiliations$$$@@@%%%<p>Rochester College is committed to academic excellence.
+country$$$@@@%%%The College is accredited by the North Central Association of the Higher Learning Commission.
+established$$$@@@%%%Undergraduate concentrations in its Integrated Learning Model emphasize the importance of a liberal arts curriculum that models and teaches scholarly research, critical thinking, and effective communication skills in all fields of study.</p>
+country$$$@@@%%%<p>Specialized programs in education, nursing, business, psychology, and religious studies prepare our graduates both for productive careers in the marketplace and for advanced studies at graduate and professional schools.
+established$$$@@@%%%Rochester College offers a Master&#x2019;s Degree in religious education (MRE).
+type$$$@@@%%%The use of cutting-edge educational technology allows the delivery of courses in a variety of on-site and distance settings.</p>
+established$$$@@@%%%<p>Rochester College cultivates the moral development of its students.
+established$$$@@@%%%The college affirms its commitment to holistic education that offers unique opportunities for faculty-student mentoring in our traditional campus program, degree-completion studies by adults in the College of Extended Learning (CEL) program, and online courses via a world-class technology platform.
+established$$$@@@%%%Working within a Judeo-Christian worldview, the school promotes an inclusive learning experience by welcoming students from all backgrounds, regions of the United States, and foreign countries.</p>
+staff$$$@@@%%%<p>The College affirms academic freedom and trains students with life skills beyond mere academic credentials.
+established$$$@@@%%%Men and women educated at Rochester College embrace challenge, apply problem-solving skills, serve their communities, and provide leadership for challenges yet to come.
+established$$$@@@%%%Deeply rooted in the Christian tradition, the College is non-sectarian in its approach to student recruitment and academic life.</p>
+established$$$@@@%%%<p>Rochester College affirms and models social justice and servant leadership.
+staff$$$@@@%%%Students, faculty, and staff interact to create a healthy environment of mutual respect.
+staff$$$@@@%%%As people in preparation for a lifetime of growth and service, we participate in lively academic debate around important issues of our time.</p>
+established$$$@@@%%%<p>The College promotes personal involvement in community service, cross-cultural engagement, political debate, and social responsibility.
+mascot$$$@@@%%%We are citizens of the world and have a responsibility beyond personal concerns, regional issues, or national trends.
+nickname$$$@@@%%%Well-educated and morally sensitive people are needed who can step up with intellect, character, and compassion to change our world for the better.</p>
+established$$$@@@%%%<h2>Statement of purpose</h2>
+affiliations$$$@@@%%%<p>Every college has unique characteristics.
+campus$$$@@@%%%It knows who it is, why it exists, what are its foremost goals, and what are the core influences on its culture.
+affiliations$$$@@@%%%This statement presents those characteristics of Rochester College.</p>
+established$$$@@@%%%<p>Since 1959, Rochester College has been serving students from all over the world.
+established$$$@@@%%%Also since 1959, thousands of benefactors have made investments in the lives of these students.
+nickname$$$@@@%%%Both the students and the benefactors have chosen Rochester College because they identify with its vision of producing for the community and the world capable leaders who have integrity and Christian character.</p>
+students$$$@@@%%%<p>From inception of the college, this vision has engaged individuals, foundations, and corporations.
+type$$$@@@%%%We hope it will engage you&#x2014;as a student or as a friend of the college.</p>
+established$$$@@@%%%<h2>History</h2>
+established$$$@@@%%%<p>In 1954, members of the <a>Churches of Christ</a> formed a board of trustees to establish an educational institution in the North Central region of the United States.
+established$$$@@@%%%After months of consideration, the board decided to establish a liberal arts college and purchased a beautiful country estate in rural Rochester Hills, Michigan, for a campus site.
+established$$$@@@%%%In September 1959, the college opened as North Central Christian College, retaining that name until 1961.</p>
+established$$$@@@%%%<p>In the years that followed, the institution operated under the name of Michigan Christian College.
+established$$$@@@%%%In 1997, the board adopted the name Rochester College in order to more clearly portray the institution's nature as a liberal arts college in a Christian setting.
+established$$$@@@%%%In the initial college catalog, leaders affirmed their dedication &#x201c;to the task of leading students toward higher academic achievement.&#x201d;
+established$$$@@@%%%The founders also stated their belief &#x201c;that the development of Christian ideals in the life of an individual is highly important.&#x201d;
+affiliations$$$@@@%%%Leaders of Rochester College remain firmly committed to those ideals.</p>
+established$$$@@@%%%<p>The campus of Rochester College has grown to exceed , assuring space for continued expansion.
+established$$$@@@%%%During the same time, college leaders have continued to develop and modify programs to meet the needs of students and a changing society.</p>
+free_label$$$@@@%%%<h2>Athletics</h2>
+country$$$@@@%%%<p>The Rochester College athletics program is a member of the <a>United States Collegiate Athletic Association</a>.</p>
+free_label$$$@@@%%%<h3>Men's Athletics</h3>
+image_name$$$@@@%%%<ul>
+image_name$$$@@@%%%  <li>Baseball</li>
+image_name$$$@@@%%%  <li>Basketball</li>
+image_name$$$@@@%%%  <li>Golf</li>
+image_name$$$@@@%%%  <li>Soccer</li>
+image_name$$$@@@%%%</ul>
+free_label$$$@@@%%%<h3>Women's Athletics</h3>
+image_name$$$@@@%%%<ul>
+image_name$$$@@@%%%  <li>Basketball</li>
+image_name$$$@@@%%%  <li>Golf</li>
+image_name$$$@@@%%%  <li>Soccer</li>
+image_name$$$@@@%%%  <li>Softball</li>
+image_name$$$@@@%%%  <li>Volleyball</li>
+image_name$$$@@@%%%</ul>
+nickname$$$@@@%%%<h3>Athletic Championships</h3>
+image_name$$$@@@%%%<pre>   </p>
+image_name$$$@@@%%%<h2>External links</h2>
+image_name$$$@@@%%%<ul>
+affiliation$$$@@@%%%  <li><a>Rochester College</a></li>
+free_label$$$@@@%%%  <li><a>Warrior Athletics</a></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p> </p>
+image_name$$$@@@%%%
+image_name$$$@@@%%%

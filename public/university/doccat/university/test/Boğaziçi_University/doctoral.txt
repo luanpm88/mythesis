@@ -1,0 +1,15 @@
+<li><a>Political Science</a> and <a>International Relations</a></li>
+<li><a>Electro-Technology</a> Club</li>
+<li><a>Science</a> Club</li>
+<li><a>G&#x00fc;ler Sabanc&#x0131;</a> - CEO, Sabanci Holding</li>
+<li><a>G&#x00fc;lse Birsel</a> - screenwriter, actress, journalist</li>
+<li><a>Cem Boyner</a> - CEO, Boyner Holding</li>
+<li><a>Fatih Altayli</a> - Journalist</li>
+<li><a>Engin Ard&#x0131;&#x00e7;</a> - Writer</li>
+<li><a>Murat G&#x00fc;lsoy</a> - writer</li>
+<li><a>Nil Karaibrahimgil</a> - singer and composer</li>
+<li><a>Perihan Ma&#x011f;den</a> - writer</li>
+<li><a>Fatma Ceren Necipo&#x011f;lu</a> - harpist</li>
+<li><a>Teoman</a> - singer and composer</li>
+<li><a>Ahmet Yal&#x00e7;&#x0131;nkaya</a> - poet</li>
+<li><a>Seray Sever</a> - actress</li>

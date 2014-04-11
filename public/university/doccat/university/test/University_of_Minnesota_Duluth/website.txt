@@ -1,0 +1,4 @@
+<li>College of Liberal Arts</li>
+<li>School of Fine Arts</li>
+<li><a>Natural Resources Research Institute</a> (off campus)</li>
+<h4>Arts</h4>

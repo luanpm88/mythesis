@@ -1,0 +1,5 @@
+<li>Microcomputer Systems and Applications <img></li>
+<li>Programming and Systems</li>
+<li>Theater and Communication</li>
+<li>Philosophy and Critical Thinking &#x0009; </li>
+<li>Writing and Literature</li>

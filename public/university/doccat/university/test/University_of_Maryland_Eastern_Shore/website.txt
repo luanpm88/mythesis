@@ -1,0 +1,2 @@
+<li>School of Agricultural and Natural Sciences</li>
+<li>School of Arts and Professions</li>

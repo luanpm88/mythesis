@@ -1,0 +1,26 @@
+</p>
+</p>
+<h2>Academics</h2>
+<h3>Faculties</h3>
+<ul>
+<li>Dentistry</li>
+<li>Medicine</li>
+<li>Pharmacy</li>
+</ul>
+<h3>Centres</h3>
+<ul>
+</ul>
+<h3>Institutes</h3>
+<ul>
+</ul>
+<h2>Accessibility</h2>
+<h2>References</h2>
+<p><img></p>
+<h2>External links</h2>
+<ul>
+</ul>
+<p><img> </p>
+<p></p>
+<p></p>
+
+

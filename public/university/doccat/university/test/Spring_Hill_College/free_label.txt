@@ -1,0 +1,3 @@
+<p>Spring Hill College has a student-run intramural program.
+<li><a>Soccer</a> (6-on-6, including the goalie, up to 10 on team)</li>
+<h2>Athletics</h2>

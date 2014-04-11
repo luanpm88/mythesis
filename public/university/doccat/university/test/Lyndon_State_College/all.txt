@@ -1,0 +1,275 @@
+vice_chancellor$$$@@@%%%<p>   <a>thumb|260px|Samuel Read Hall Spring 2009</a></p>
+type$$$@@@%%%<p><strong>Lyndon State College</strong> is a public college located at <a>Lyndon Center</a> in the U.S. state of <a>Vermont</a>.
+established$$$@@@%%%The town is located in Caledonia county in a region of Vermont known as the <a>Northeast Kingdom</a>.
+type$$$@@@%%%In addition to a range of <a>Bachelor's Degree</a> programs, the college offers a <a>Master's Degree</a> program in Education.
+established$$$@@@%%%Lyndon State College is accredited by the <a>New England Association of Schools and Colleges</a>.
+image_name$$$@@@%%%</p>
+established$$$@@@%%%<h2>History</h2>
+established$$$@@@%%%<p>In 1911, the college was founded as a one-year normal school housed in rented space in nearby <a>Lyndon Institute</a>.
+established$$$@@@%%%The term &quot;<a>normal school</a>&quot; is based on the French <em>&#x00e9;cole normale sup&#x00e9;rieure</em>, a school to educate teachers.
+established$$$@@@%%%Consistent with education tradition of the times, the Lyndon Training Course expanded its curriculum in one-year increments, and the first two-year class graduated in 1923.
+established$$$@@@%%%In 1927, Rita Bole became principal of the school.
+established$$$@@@%%%The first three-year class, consisting of nine students, graduated in 1934.
+established$$$@@@%%%In 1944, the state allowed Lyndon to grant four-year degrees so long as it remained a teacher training institution.
+established$$$@@@%%%The first four-year degrees were granted to 18 students in 1944.
+established$$$@@@%%%It was during these years that the Northeast Kingdom began to depend on Lyndon to address the educational needs of its residents.</p>
+undergrad$$$@@@%%%<p>&lt;!---this is more about Bole than the school.
+established$$$@@@%%%Okay to construct bio on her--&gt; Bole, who led the school until 1955, was a driving force in the development of Lyndon State College.
+established$$$@@@%%%She worked to encourage the Vermont State Legislature to establish Lyndon Teachers College, saw the admission of the first male and first out-of-state students during the 1940s, and oversaw the move to the estate of <a>Theodore Newton Vail</a>.
+established$$$@@@%%%Vail, the first president of the American Telephone and Telegraph Company (<a>AT&amp;T</a>), had been instrumental in the establishment of Lyndon Institute, and Bole recognized his vacant estate as the perfect place to house the growing school.
+established$$$@@@%%%The move to Vail Manor was completed on June 30, 1951, the final day of the school's lease at Lyndon Institute.</p>
+established$$$@@@%%%<p>In 1961, the State Legislature established the <a>Vermont State Colleges</a> system, a consortium of Vermont's five public colleges governed by a common board of trustees, chancellor and <a>Council of Presidents</a> and Lyndon Teachers College became Lyndon State College.
+established$$$@@@%%%This marked the beginning of a period of rapid growth and, in 1964, the campus began to expand.
+established$$$@@@%%%A library, a dormitory, a dining hall, a science wing, a gymnasium, and a theater were built.
+country$$$@@@%%%These additions began meeting the needs of a growing student population that also brought a rapid expansion of the Lyndon curriculum.
+established$$$@@@%%%In the 1970s, new majors were developed in business administration, special education, recreations, meteorology, communications, human services, and physical education.
+established$$$@@@%%%It was also during this decade that the original Vail Manor was deemed unsafe and was replaced with the Theodore N. Vail Center that now houses the Vail Museum and preserves the name that has become an integral part of the Lyndon State tradition.
+image_name$$$@@@%%%</p>
+image_name$$$@@@%%%<h2>Campus</h2>
+established$$$@@@%%%<p><a>right|thumb|300 px|The Vail Center as seen from the south.</a>
+established$$$@@@%%%The Vail Center has classrooms, and teachers' offices, especially English, meteorology, mathematics, and education.
+free_label$$$@@@%%%It also contains the bookstore, student center, and snack bar.
+established$$$@@@%%%The science wing contains classrooms and laboratories.
+nickname$$$@@@%%%There is a television wing for the television studies and is home to News 7, LSC's daily live broadcast facility.
+established$$$@@@%%%It also contains the small <a>Alexander Twilight</a> Theater.
+free_label$$$@@@%%%It is connected to the Library and Academic Center (LAC).</p>
+image_size$$$@@@%%%<p>LAC contains classrooms, a 24 hour computer lab, and the three-floor <a>Samuel Read Hall Library</a>.
+image_name$$$@@@%%%</p>
+free_label$$$@@@%%%<p>The Harvey Academic Center is located at the center of campus, and houses offices and classrooms for Recreation Studies, as well as for other classes.
+image_name$$$@@@%%%</p>
+free_label$$$@@@%%%<p>The center of campus is around the fountain, which sprays into a small pond.
+established$$$@@@%%%There is a larger pond across from the library.
+image_size$$$@@@%%%Adjacent to the fountain is Stevens Dining Hall.
+image_name$$$@@@%%%</p>
+established$$$@@@%%%<p>Adjacent to the theater is the Stannard Gymnasium.
+mascot$$$@@@%%%The smaller gym, known as the Rita Bole Gymnasium (There is also a Rita Bole residence hall.) is used for basketball games, rock climbing, floor hockey, and a wide variety of intramural sports.
+free_label$$$@@@%%%In this complex is a  swimming pool, racquetball court, rock climbing wall and a fitness center.
+image_name$$$@@@%%%</p>
+established$$$@@@%%%<p>On the north side of the campus, across from the baseball fields is the Brown House containing a dispensary.
+established$$$@@@%%%The Gray House is a special residential opportunity, currently for those performing service to the community.
+image_name$$$@@@%%%</p>
+established$$$@@@%%%<p>No smoking is allowed on campus, except for in nearby parking lots.</p>
+image_name$$$@@@%%%<h2>Degree Programs</h2>
+free_label$$$@@@%%%<p><a>thumb|275px|Academic and Student Activity Center (ASAC)</a> Along with the Masters Degree program, the college has 21 Bachelor Degree Programs and 9 Associate Degree Programs.
+mascot$$$@@@%%%There are also several Licensure Programs in Education and two certificate programs.</p>
+website$$$@@@%%%<p><strong>Atmospheric Sciences/Meteorology</strong></p>
+image_name$$$@@@%%%<ul>
+affiliations$$$@@@%%%  <li>Atmospheric Science (B.S.)
+image_name$$$@@@%%%    <ul>
+image_size$$$@@@%%%      <li>American Meteorological Society/Graduate School</li>
+image_name$$$@@@%%%      <li>Broadcasting</li>
+image_name$$$@@@%%%      <li>Climate Change</li>
+doctoral$$$@@@%%%      <li>Computer Science</li>
+website$$$@@@%%%      <li>Environmental Sciences</li>
+country$$$@@@%%%      <li>National Weather Service/Military</li>
+image_name$$$@@@%%%      <li>Private Industry</li>
+image_name$$$@@@%%%    </ul>
+image_name$$$@@@%%%  </li>
+image_name$$$@@@%%%</ul>
+nickname$$$@@@%%%<p><strong>Business Administration</strong></p>
+image_name$$$@@@%%%<ul>
+affiliations$$$@@@%%%  <li>Business Administration (A.S.)</li>
+affiliations$$$@@@%%%  <li>Accounting (B.S.)
+image_name$$$@@@%%%    <ul>
+campus$$$@@@%%%      <li>Financial Accounting and Reporting</li>
+image_name$$$@@@%%%      <li>Management Accounting</li>
+image_name$$$@@@%%%    </ul>
+image_name$$$@@@%%%  </li>
+affiliations$$$@@@%%%  <li>Business Administration (B.S.)
+image_name$$$@@@%%%    <ul>
+nickname$$$@@@%%%      <li>Business Administration</li>
+nickname$$$@@@%%%      <li>e-Business</li>
+campus$$$@@@%%%      <li>Finance and Accounting</li>
+image_name$$$@@@%%%    </ul>
+image_name$$$@@@%%%  </li>
+affiliations$$$@@@%%%  <li>Small Business Management and Entrepreneurship (B.S.)</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<pre>              </pre>
+website$$$@@@%%%<p><strong>Digital and Graphic Arts</strong></p>
+image_name$$$@@@%%%<ul>
+affiliations$$$@@@%%%  <li>Graphic Design (A.S.)</li>
+affiliations$$$@@@%%%  <li>Graphic Design (B.A.)
+image_name$$$@@@%%%    <ul>
+image_name$$$@@@%%%      <li>Graphic Design</li>
+image_name$$$@@@%%%      <li>Illustration</li>
+image_name$$$@@@%%%    </ul>
+image_name$$$@@@%%%  </li>
+affiliations$$$@@@%%%  <li>Digital Media (A.S.)</li>
+affiliations$$$@@@%%%  <li>Digital Media (B.A.)</li>
+image_name$$$@@@%%%</ul>
+mascot$$$@@@%%%<p><strong>Education</strong></p>
+image_name$$$@@@%%%<ul>
+affiliations$$$@@@%%%  <li>Elementary Education (B.S.)
+image_name$$$@@@%%%    <ul>
+image_size$$$@@@%%%      <li>Early Childhood Education1</li>
+image_size$$$@@@%%%      <li>Elementary Education1,2</li>
+city$$$@@@%%%      <li>Special Education - Special Educator (K-8)</li>
+image_name$$$@@@%%%    </ul>
+image_name$$$@@@%%%  </li>
+image_name$$$@@@%%%</ul>
+nickname$$$@@@%%%<p><strong>Electronic Journalism Arts (formerly Television Studies)</strong></p>
+image_name$$$@@@%%%<ul>
+affiliations$$$@@@%%%  <li>A.S. Electronic Journalism Arts</li>
+affiliations$$$@@@%%%  <li>B.S. Electronic Journalism Arts</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p><strong>English &amp; Philosophy</strong></p>
+image_name$$$@@@%%%<ul>
+affiliations$$$@@@%%%  <li>English (B.A.)
+image_name$$$@@@%%%    <ul>
+nickname$$$@@@%%%      <li>Literature and Cultural Studies</li>
+campus$$$@@@%%%      <li>Journalism and Creative Writing</li>
+image_name$$$@@@%%%    </ul>
+image_name$$$@@@%%%  </li>
+mascot$$$@@@%%%  <li>Secondary Education (Licensure Program) 2  </li>
+image_name$$$@@@%%%</ul>
+doctoral$$$@@@%%%<p><strong>Exercise Science</strong></p>
+image_name$$$@@@%%%<ul>
+affiliations$$$@@@%%%  <li>Exercise Science (B.S.)
+image_name$$$@@@%%%    <ul>
+image_name$$$@@@%%%      <li>Secondary Areas:</li>
+free_label$$$@@@%%%      <li>Strength and Conditioning - Health and Fitness</li>
+image_name$$$@@@%%%      <li>Sport Management</li>
+postgrad$$$@@@%%%      <li>Sport Medicine: Pre-professional physical therapy 3+3</li>
+postgrad$$$@@@%%%      <li>Pre-professional athletic training 4+2</li>
+city$$$@@@%%%      <li>Self-Designed Program</li>
+affiliations$$$@@@%%%      <li>Physical Education (B.S.)</li>
+image_name$$$@@@%%%    </ul>
+image_name$$$@@@%%%  </li>
+image_name$$$@@@%%%</ul>
+website$$$@@@%%%<p><strong>Fine and Performing Arts</strong></p>
+image_name$$$@@@%%%<ul>
+nickname$$$@@@%%%  <li>Music Business and Industry (B.S.)</li>
+image_name$$$@@@%%%</ul>
+state$$$@@@%%%<p><strong>General Studies</strong></p>
+image_name$$$@@@%%%<ul>
+affiliations$$$@@@%%%  <li>General Studies (A.A.)</li>
+image_name$$$@@@%%%</ul>
+nickname$$$@@@%%%<p><strong>Liberal Studies</strong></p>
+image_name$$$@@@%%%<ul>
+affiliations$$$@@@%%%  <li>Liberal Studies (B.A.)</li>
+affiliations$$$@@@%%%  <li>Interdisciplinary Liberal Studies (B.A.)</li>
+image_name$$$@@@%%%</ul>
+doctoral$$$@@@%%%<p><strong>Mathematics &amp; Computer Science</strong></p>
+image_name$$$@@@%%%<ul>
+affiliations$$$@@@%%%  <li>Computing (A.S.)</li>
+affiliations$$$@@@%%%  <li>Computer  Information Systems/Business (B.S.)</li>
+affiliations$$$@@@%%%  <li>Computer Information Systems/Meteorology (B.S.)</li>
+affiliations$$$@@@%%%  <li>Mathematics (B.A.)
+image_name$$$@@@%%%    <ul>
+image_name$$$@@@%%%      <li>Pure Mathematics</li>
+image_name$$$@@@%%%      <li>Applied Mathematics</li>
+image_name$$$@@@%%%    </ul>
+image_name$$$@@@%%%  </li>
+mascot$$$@@@%%%  <li>Secondary Education (Licensure Program) 2</li>
+image_name$$$@@@%%%</ul>
+website$$$@@@%%%<p><strong>Natural Sciences</strong></p>
+image_name$$$@@@%%%<ul>
+affiliations$$$@@@%%%  <li>Environmental Science (B.S.)</li>
+affiliations$$$@@@%%%  <li>Natural Science (B.S.)</li>
+mascot$$$@@@%%%  <li>Secondary Education (Licensure Program) 2</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p><strong>Psychology</strong></p>
+image_name$$$@@@%%%<ul>
+affiliations$$$@@@%%%  <li>Psychology (B.A.)</li>
+affiliations$$$@@@%%%  <li>Human Services (B.S.)</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p><strong>Recreation Resource &amp; Ski Resort Management</strong></p>
+image_name$$$@@@%%%<ul>
+affiliations$$$@@@%%%  <li>Recreation Resource &amp; Ski Resort Management (B.S.)
+image_name$$$@@@%%%    <ul>
+city$$$@@@%%%      <li>Adventure-Based Program Management</li>
+campus$$$@@@%%%      <li>Natural Resource GIS Mapping and Planning</li>
+image_name$$$@@@%%%      <li>Ski Resort Management</li>
+image_name$$$@@@%%%    </ul>
+image_name$$$@@@%%%  </li>
+affiliations$$$@@@%%%  <li>Geographic Information Systems/Global Positioning Systems (A.S.)</li>
+image_name$$$@@@%%%</ul>
+website$$$@@@%%%<p><strong>Social Sciences</strong></p>
+image_name$$$@@@%%%<ul>
+affiliations$$$@@@%%%  <li>Social Sciences (B.A.)</li>
+affiliations$$$@@@%%%  <li>Global Studies (B.A.)</li>
+mascot$$$@@@%%%  <li>Secondary Education (Licensure Program) 2</li>
+image_name$$$@@@%%%</ul>
+type$$$@@@%%%<p><strong>Master of Education</strong></p>
+image_name$$$@@@%%%<ul>
+closed$$$@@@%%%  <li>Master of Science for Teachers
+image_name$$$@@@%%%    <ul>
+image_name$$$@@@%%%      <li>Vermont Teaching License available</li>
+image_name$$$@@@%%%    </ul>
+image_name$$$@@@%%%  </li>
+website$$$@@@%%%  <li>Masters of Liberal Arts</li>
+image_name$$$@@@%%%</ul>
+image_size$$$@@@%%%<h2>Student Clubs</h2>
+nickname$$$@@@%%%<p>There are over 25 student clubs at Lyndon State College.
+campus$$$@@@%%%They include:</p>
+image_name$$$@@@%%%<ul>
+country$$$@@@%%%  <li>The Student Government Association</li>
+vice_chancellor$$$@@@%%%  <li>WWLR 91.5FM &quot;The Impulse&quot; - A student-run radio station</li>
+nickname$$$@@@%%%  <li>The LSC AMS/NWA - Lyndon State College Student Chapter of the <a>American Meteorological Society</a></li>
+free_label$$$@@@%%%  <li>The Critic - A student-run weekly newspaper</li>
+doctoral$$$@@@%%%  <li>The Alexander Twilight Players - Local Acting Guild</li>
+country$$$@@@%%%  <li>Alliance for Women in Media (AWM)</li>
+established$$$@@@%%%  <li>The Society of Professional Journalists (SPJ)</li>
+image_name$$$@@@%%%  <li>Lyndon Ultimate (Ultimate Frisbee)</li>
+free_label$$$@@@%%%  <li>The Lyndon State Rugby Club (Associated with <a>New England Rugby Football Union</a>)</li>
+postgrad$$$@@@%%%  <li>Numerous other leadership, service, athletic, and special interest groups</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h2>Residence Halls</h2>
+established$$$@@@%%%<p><a>thumb|260px|Residence Halls: Whitelaw (left) and Crevecour (right)</a> &lt;!---because of name change, some of this stuff may need to be moved---&gt; Lyndon State College is located on a hill in the town of Lyndonville.
+students$$$@@@%%%It has approximately 1470 students.
+established$$$@@@%%%Half of the student population lives on campus in one of the eight residence halls.
+established$$$@@@%%%The Stonehenge residence hall complex is located on the southern end of campus, and consists of six residence halls: Whitelaw/Crevecour (first-year students), Arnold/Bayley, and Poland/Rogers.
+image_size$$$@@@%%%They are clustered around a central courtyard and shaped in a circle, hence the nickname &quot;Stonehenge.&quot;
+established$$$@@@%%%Wheelock is a residence hall that is also for first-year students only, and is located in the center of campus.
+established$$$@@@%%%Rita Bole is the newest of the residence halls, which features apartment-style living for upperclassmen.
+affiliations$$$@@@%%%The eighth hall, The S.E.R.V.I.C.E.
+established$$$@@@%%%House, is a living-learning community dedicated to performing community service on campus and in the local area.</p>
+free_label$$$@@@%%%<h2>Athletics</h2>
+mascot$$$@@@%%%<p>The Lyndon State Hornets are a new member to the <a>NCAA</a>, and compete on the <a>Division III</a> level in the <a>North Atlantic Conference</a>.</p>
+students$$$@@@%%%<p>LSC has 12 NCAA sponsored teams, which include: <img></p>
+image_name$$$@@@%%%<ul>
+affiliation$$$@@@%%%  <li><a>Baseball</a></li>
+affiliation$$$@@@%%%  <li><a>Men's Basketball</a></li>
+affiliation$$$@@@%%%  <li><a>Women's Basketball</a></li>
+affiliation$$$@@@%%%  <li><a>Men's Cross Country</a></li>
+affiliation$$$@@@%%%  <li><a>Women's Cross Country</a></li>
+affiliation$$$@@@%%%  <li><a>Men's Lacrosse</a></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p><img></p>
+image_name$$$@@@%%%<ul>
+affiliation$$$@@@%%%  <li><a>Men's Soccer</a></li>
+affiliation$$$@@@%%%  <li><a>Women's Soccer</a></li>
+affiliation$$$@@@%%%  <li><a>Softball</a></li>
+affiliation$$$@@@%%%  <li><a>Men's Tennis</a></li>
+affiliation$$$@@@%%%  <li><a>Women's Tennis</a></li>
+affiliation$$$@@@%%%  <li><a>Women's Volleyball</a></li>
+image_name$$$@@@%%%</ul>
+students$$$@@@%%%<p><img> LSC has five club teams:</p>
+image_name$$$@@@%%%<ul>
+affiliation$$$@@@%%%  <li><a>Men's Ice Hockey</a></li>
+affiliation$$$@@@%%%  <li><a>Men's Rugby</a></li>
+affiliation$$$@@@%%%  <li><a>Women's Rugby</a></li>
+affiliation$$$@@@%%%  <li><a>Ultimate Frisbee</a></li>
+affiliation$$$@@@%%%  <li><a>Dance Team</a></li>
+image_name$$$@@@%%%</ul>
+free$$$@@@%%%<h2>Notable alumni</h2>
+image_name$$$@@@%%%<ul>
+affiliations$$$@@@%%%  <li><a>Andr&#x00e9; Bernier</a> 1981.
+doctoral$$$@@@%%%Meteorologist <a>WJW-TV</a>, Cleveland, OH</li>
+established$$$@@@%%%  <li><a>Jim Cantore</a> 1986, Meteorologist-announcer on <a>The Weather Channel</a> </li>
+affiliations$$$@@@%%%  <li><a>Mike Cejka</a> Meteorologist <a>WIVB</a> Buffalo, NY.</li>
+affiliations$$$@@@%%%  <li><a>Nick Gregory</a> 1982.
+campus$$$@@@%%%Meteorologist <a>WNYW</a>-TV, New York City</li>
+affiliations$$$@@@%%%  <li><a>Jason Hatch</a> 2000.
+established$$$@@@%%%Author: The Adventures of MDM: A Satire of College</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h2>Footnotes</h2>
+city$$$@@@%%%<p>&lt;div class=&quot;references-small&quot; style=&quot;-moz-column-count: 2; column-count: 2;&quot;&gt; &lt;references /&gt; &lt;/div&gt;</p>
+image_name$$$@@@%%%<h2>External links</h2>
+image_name$$$@@@%%%<ul>
+free_label$$$@@@%%%  <li><a>Lyndon State College official website</a></li>
+established$$$@@@%%%  <li><a>Lyndon State College is one of the five colleges in the Vermont State Colleges consortium</a></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%
+image_name$$$@@@%%%

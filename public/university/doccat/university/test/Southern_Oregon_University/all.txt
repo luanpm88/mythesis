@@ -1,0 +1,106 @@
+type$$$@@@%%%<p> <strong>Southern Oregon University</strong> (SOU) is a public <a>liberal arts college</a> located in <a>Ashland</a>, <a>Oregon</a>, <a>United States</a>.
+established$$$@@@%%%Founded in 1926, it was formerly known as Southern Oregon College (SOC) and Southern Oregon State College (SOSC).
+established$$$@@@%%%The university offers criminology, natural sciences, including environmental science, <a>Shakespearean</a> studies and theatre arts programs.
+type$$$@@@%%%It is headquarters for <a>Jefferson Public Radio</a> and public access station <a>Rogue Valley Television</a>.
+type$$$@@@%%%SOU is a member of the <a>Council of Public Liberal Arts Colleges</a>.</p>
+website$$$@@@%%%<h2>The Institute</h2>
+established$$$@@@%%%<p>Southern consists of the College of Arts and Sciences, the School of Business, and the School of Education.
+nickname$$$@@@%%%In addition to Southern's main campus, classes are offered on the University's satellite campus in downtown <a>Medford</a>.
+nickname$$$@@@%%%The main campus is home to an Oregon Health Science University satellite campus.</p>
+established$$$@@@%%%<p>The College of Arts and Sciences (CAS) was formed in 2007 by combining the SOU School of Arts &amp; Letters, School of Sciences, and the School of Social Sciences.</p>
+established$$$@@@%%%<h2>History</h2>
+established$$$@@@%%%<p>Southern Oregon University began as Ashland Academy in 1872, founded in part by Reverend Henry Skidmore of Oregon's <a>Methodist Episcopal Church</a>.
+established$$$@@@%%%In 1878, the school was renamed Ashland College, and then renamed Ashland College and Normal School in 1879.
+established$$$@@@%%%In 1887, the <a>State of Oregon</a> proclaimed the school an official state <a>normal school</a>.
+established$$$@@@%%%However, the state did not provide any funding for the school, and in 1890 the school closed.</p>
+established$$$@@@%%%<p>In 1904, the school became a full state school, but funding was eliminated in 1909, leading to the closing of the campus.
+established$$$@@@%%%In 1926, the state reestablished Southern Oregon State Normal School in Ashland at a new location on land donated by the city, where the university is currently located.
+established$$$@@@%%%The residents of Ashland passed the &quot;Normal School Site Bonds&quot; to build the new facility.
+established$$$@@@%%%The building was later named Churchill Hall after SOSNS' president Churchill who oversaw the relocation project.
+established$$$@@@%%%Churchill now serves as Southern's administrative building, with the president's office on the first level.
+image_size$$$@@@%%%Churchill Hall closesly resembles <a>Eastern Oregon University</a>'s Inlow Hall.
+established$$$@@@%%%Both buildings were built at during the same time from the same architecture semantics.
+established$$$@@@%%%The buildings were designed by architect <a>John Bennes</a> and retain their original <a>Renaissance style</a>.</p>
+former_names$$$@@@%%%<p>In 1932, the <a>Oregon State Board of Education</a> renamed the institute Southern Oregon Normal School.
+established$$$@@@%%%In 1939, the state board eliminated normal schools in Oregon.
+established$$$@@@%%%The university received full accreditation from the <a>American Association of Teachers Colleges</a>.
+established$$$@@@%%%With the accreditation, <a>Oregon Governor</a> <a>Charles A. Sprague</a> signed into law the bill changing the institution's name to Southern Oregon College of Education.
+free_label$$$@@@%%%The three-story,  center includes classrooms, science labs, computer labs, a <a>Prometric</a> Testing Center and the Business Center.
+established$$$@@@%%%The Higher Education Center offers lower- and upper-division level courses, as well as three masters degree programs: Master in Business Administration (offered in a cohort format with classes held on Saturdays), Master in Management (courses offered online and at night), and the Master of Arts in Teaching (a two-year, part-time version of the SOU one-year MAT program).</p>
+image_name$$$@@@%%%<h2>Publications</h2>
+country$$$@@@%%%<p>The <em>Siskiyou</em> a student edited university paper staffed by student reporters and photographers.
+mascot$$$@@@%%%It is published each Monday during the academic year.</p>
+established$$$@@@%%%<p>The <em>West Wind Review</em> is a collection of short fiction and poetry by students published annually in February.</p>
+established$$$@@@%%%<p>The <em>Soap Box</em> is the university's alternative periodical, publishing more liberal articles from students and community members.
+affiliations$$$@@@%%%It is published infrequently.</p>
+website$$$@@@%%%<h2>Activities on campus</h2>
+established$$$@@@%%%<p>Many of the majors offered at the university have associated clubs.
+nickname$$$@@@%%%There are clubs for hobbies, sports, and music, as well as continued support for multiculturalism..
+established$$$@@@%%%There is a <a>Newman Center</a> for Roman Catholic students, the <a>LDS Student Association</a>, and several Protestant organizations, such as the <a>Campus Crusade for Christ</a> to the Bible Club.
+image_name$$$@@@%%%</p>
+nickname$$$@@@%%%<p>Student activities and support are supplemented by a number of resource centers on campus.
+website$$$@@@%%%The  Women's Resource Center, Ecology Center of the Siskiyous, and the Queer Resource Center all provide services, resources, and events to their respective communities.
+established$$$@@@%%%The University is represented on the Board of Directors of the <a>Oregon Student Association</a>.</p>
+free_label$$$@@@%%%<h3>Athletics</h3>
+image_name$$$@@@%%%<p></p>
+nickname$$$@@@%%%<p>The school's sports teams are called the <a>Raiders</a> with the Red Tailed Hawk as a mascot.
+established$$$@@@%%%They participate in the <a>NAIA</a> and in the <a>Cascade Conference</a>.
+type$$$@@@%%%For <a>football</a>, SOU is an NAIA <a>independent</a>.
+nickname$$$@@@%%%It is the host to Patrick Voigtsberger, who not only is the youngest NCAA coach, but is the first to officially coach two colleges in the same conference.
+established$$$@@@%%%SOU's wrestling team competes in the NAIA West Regional and has won the National Wrestling Championship four times: in 1978, 1983, 1994, and 2001.
+students$$$@@@%%%SOU's teams compete in men's and women's cross country, women's soccer, volleyball, men's and women's basketball, men's and women's track and field, women's tennis and softball.</p>
+campus$$$@@@%%%<h2>Culture and recreation</h2>
+established$$$@@@%%%<p>Ashland is home to the <a>Oregon Shakespeare Festival</a> with an annual repertoire of 11 Shakespearean and non-Shakespearean plays that run from February through October, and to the  Ashland Independent Film Festival.
+established$$$@@@%%%In nearby <a>Jacksonville</a>, the <a>Britt Festival</a> provides classical and popular music concerts.
+nickname$$$@@@%%%Ashland hosts a monthly art gallery walk known as &quot;First Friday&quot;  and is home to the Schneider Museum of Art.</p>
+undergrad$$$@@@%%%<p>SOU students are involved in community arts.
+nickname$$$@@@%%%The SOU Public Domain Players co-produces the annual 10-Minute Plays Festival each July.
+free_label$$$@@@%%%They work together with ArtWork Enterprises, a group devoted to supporting the development of new plays for national stages.</p>
+affiliations$$$@@@%%%<p><em><a>Outside</a></em> magazine rated SOU 20th on a list of U.S. universities in 2003, based on recreational opportunities.
+type$$$@@@%%%<a>Mount Ashland</a> offers winter sports such as snowboarding, downhill, and cross country skiing.
+affiliations$$$@@@%%%<a>Crater Lake</a> is  away.
+type$$$@@@%%%<a>Mount Shasta</a>, a  composite volcano of the Cascade Range, is approximately  away.
+established$$$@@@%%%The Rogue, Klamath and Illinois Rivers offer fishing, white water rafting and kayaking.
+country$$$@@@%%%Klamath Lake, about  away, offers some of the best birding in the continental United States.</p>
+image_name$$$@@@%%%<h2>Residence life</h2>
+nickname$$$@@@%%%<p>There are several <a>Residence Halls</a> on campus, as well as family housing complexes.</p>
+image_name$$$@@@%%%<ul>
+established$$$@@@%%%  <li>The Cascade Complex is built around the Cascade Food Court.
+image_size$$$@@@%%%It consists of: Baker Hall, which houses only students 21 years or older (it is a 14 hour quiet hall); Cedar Hall; Diamond and Emerald Halls, which are <a>drug</a> and <a>alcohol</a> free; Forest Hall, which has a community kitchen; Glacier Hall; Hawthorne Hall, which is a multi-cultural hall; and Ivy Hall, a 24 hour quiet hall.
+nickname$$$@@@%%%All the halls in the Cascade Complex are smoke free.</li>
+established$$$@@@%%%<li>The  Greensprings Complex consists of four halls.</li>
+established$$$@@@%%%<li>The oldest residence hall on campus, Susanne Homes, was built in the 1940s.</li>
+nickname$$$@@@%%%<li>The newest residence hall on campus is the Madrone Apartment complex.
+mascot$$$@@@%%%The rooms are set up in quad style apartments.
+image_size$$$@@@%%%Each quad consists of four bedrooms, two bathrooms (one shower and either one bathtub or one <a>ADA</a> compliant shower), and one kitchen/living room area.
+established$$$@@@%%%The Madrone Apartments opened in September 2005.</li>
+established$$$@@@%%%<li>The Old Mill Village is a complex of apartments specifically for students attending SOU who have families.
+students$$$@@@%%%The university also has houses available to qualified students.</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h2>Notable people</h2>
+image_name$$$@@@%%%<ul>
+image_size$$$@@@%%%  <li>In 1983, future Academy Award nominated filmmaker <a>Todd Field</a> attended SOU on a music scholarship.</li>
+established$$$@@@%%%<li>SOU Professor Emeritus <a>Lawson Inada</a> was named Oregon Poet Laureate in 2006, a position that had been vacant since poet William Stafford vacated the post in the early 1990s.</li>
+nickname$$$@@@%%%<li>SOU Music Department alumnus Brent Watkins has won a number of national and international piano competitions and prizes.</li>
+established$$$@@@%%%<li>Actor <a>Ty Burrell</a> graduated from SOU with a <a>Bachelor of Fine Arts</a> degree in 1993.</li>
+established$$$@@@%%%<li>Actor <a>Joel Moore</a> graduated from SOU with a <a>Bachelor of Fine Arts</a> degree in 2001.</li>
+established$$$@@@%%%<li>SOU's Shea Washington was named NAIA Basketball Player of the Year in 2006.</li>
+established$$$@@@%%%<li><a>Agnes Baker Pilgrim</a>, spiritual elder of the Takelma tribe and chairperson of the <a>International Council of 13 Indigenous Grandmothers</a> graduated in 1985.</li>
+type$$$@@@%%%<li><a>Juan Carlos Romero Hicks</a> director of <a>CONACyT</a></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h3>Past presidents</h3>
+image_name$$$@@@%%%<ul>
+affiliation$$$@@@%%%  <li><a>Elisabeth Zinser</a> (2001&#x2013;2006)</li>
+affiliation$$$@@@%%%  <li><a>Stephen Reno</a> (1994&#x2013;2000)</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h2>References</h2>
+image_name$$$@@@%%%<p><img></p>
+image_name$$$@@@%%%<h2>External links</h2>
+image_name$$$@@@%%%<ul>
+affiliation$$$@@@%%%  <li><a>Official website</a></li>
+established$$$@@@%%%  <li><a>Rogue Valley Television website</a></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%<p>  </p>
+image_name$$$@@@%%%
+image_name$$$@@@%%%

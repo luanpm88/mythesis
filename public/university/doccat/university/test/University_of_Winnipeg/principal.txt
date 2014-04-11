@@ -1,0 +1,2 @@
+<li>Global College</li>
+<li>Menno Simons College</li>

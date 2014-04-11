@@ -1,0 +1,7 @@
+<p>The Vista is UCO's student produced newspaper.
+<h3>Academic buildings</h3>
+<li>The Art and Design Building</li>
+<h3>Other campus buildings</h3>
+<h3>Residential buildings</h3>
+<h3>Off-Campus buildings</h3>
+<h2>Athletics</h2>

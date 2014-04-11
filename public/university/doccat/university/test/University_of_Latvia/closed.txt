@@ -1,0 +1,7 @@
+<li>Faculty of Biology;</li>
+<li>Faculty of Chemistry;</li>
+<li>Faculty of Physics and Mathematics;</li>
+<li>Faculty of Economics and Management;</li>
+<li>Faculty of Medicine;</li>
+<li>Faculty of Humanities;</li>
+<li>Faculty of Theology;</li>

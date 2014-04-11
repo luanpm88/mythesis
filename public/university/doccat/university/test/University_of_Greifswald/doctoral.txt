@@ -1,0 +1,4 @@
+<h3>Academic year</h3>
+<li>Nuclear fusion research reactor <a>Wendelstein 7-X</a></li>
+<li><a>Neonatological</a> and Gynecological Collection (<em>Geburtshilflich-gyn&#x00e4;kologische Sammlung</em>)</li>
+<li><a>Gustav Dalman</a> Collection (theology) (<em>Gustav-Dalman-Sammlung</em>)</li>

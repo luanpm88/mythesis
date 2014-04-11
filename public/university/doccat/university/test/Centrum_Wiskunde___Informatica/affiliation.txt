@@ -1,0 +1,17 @@
+<li><a>ABC programming language</a></li>
+<li><a>Algol 68</a></li>
+<li><a>Python programming language</a></li>
+<li><a>SMIL</a></li>
+<li><a>MonetDB</a></li>
+<li><a>Hugo Brandt Corstius</a></li>
+<li><a>Andries Brouwer</a></li>
+<li><a>Edsger Dijkstra</a></li>
+<li><a>Dick Grune</a></li>
+<li><a>Kees Koster</a></li>
+<li><a>Barry Mailloux</a></li>
+<li><a>Lambert Meertens</a></li>
+<li><a>Steven Pemberton</a></li>
+<li><a>Guido van Rossum</a></li>
+<li><a>Alexander Schrijver</a></li>
+<li><a>Adriaan van Wijngaarden</a></li>
+<li><a>CWI website</a></li>

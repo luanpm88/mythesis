@@ -1,0 +1,288 @@
+111
+conquering 92 1:1
+social 59 2:1
+cohere 35 2:1
+scientia 23 0:1
+labour 29 3:1
+labore< 24 0:2
+wisdom 28 1:1 2:1
+truth 27 1:1
+tenebras< 91 0:1
+diligence 78 2:1
+this 104 2:1
+one 44 2:1
+together 32 0:1
+describes 63 4:1
+line 15 4:1
+tsinghua 61 4:1
+knowledge 52 2:1
+for 97 1:1
+conquer 107 3:1
+meaning 65 0:1
+god 39 3:1
+learning 98 3:2
+whatsoever 84 1:1
+christ 36 2:1 3:1
+causas 87 0:1
+its 95 4:1
+etched 101 4:1
+motto 1 0:3
+lord 22 3:1
+is 100 4:1
+shine 68 2:1
+wilderness 46 3:1
+discover 89 2:1
+<em> 56 0:2
+in 14 0:1 1:1 2:4 4:3
+which 47 4:1
+has 108 4:1
+or 30 0:2 4:1
+integrity 6 1:1 2:1
+signo 102 0:1
+sign 105 2:1
+been 109 4:1
+crying 45 2:1
+with 16 0:1 4:2
+darkness 93 2:1
+of 43 0:1 2:3 4:1
+by 51 1:1 2:1
+things 34 2:2 3:1
+discipline 58 1:1
+patriotism 79 2:1
+p> 55 4:2
+doctrinae< 96 0:1
+attempts 48 4:1
+hope 38 1:1
+commitment 60 3:1
+dare 75 1:1
+be 76 2:1
+work 53 3:1
+you 18 0:1 2:1
+and 7 2:7 4:1
+to 49 1:1 2:1 4:1
+causes 90 2:1
+wise 77 3:1
+as 41 0:1
+quot 26 0:15 4:11
+light 20 1:1
+west 70 2:1
+righteousness 67 2:1
+< 54 4:4
+x7b03 12 4:1
+<a>sapere 72 0:1
+x201d 9 4:1
+x201c 2 0:1
+alternatively 31 4:1
+<em>quaecumque 82 0:1
+appeared 86 4:1
+vera< 83 0:1
+science 94 3:1
+voice 42 2:1
+, 4 0:3 1:3 2:3 4:10
+self 57 1:1
+em> 25 0:7 4:2
+cornerstone 81 4:1
+respect 8 3:1
+sun 66 1:1
+attributed 110 4:1
+doctrina< 99 0:1
+world 64 0:1
+x656c 13 4:1
+university 62 0:1 4:1
+all 33 1:1
+philanthropy 80 3:1
+loyalty 3 1:1
+sincerity 5 2:1
+deo 37 0:1
+x4fe1 11 4:1
+also 71 3:1
+shall 106 2:1
+now 17 0:1
+x5fe0 10 4:1
+are 19 0:1 2:1
+a> 74 0:1
+aude< 73 0:1
+true 85 3:1
+school 0 0:1
+translated 40 0:1
+the 21 1:1 2:4 4:2
+upon 69 2:1
+x2013 88 0:1
+vinces< 103 0:1
+et 50 0:3
+******* Features ************
+174
+W_x5fe0:382:4 37
+W_be:2678:2 126
+W_of:1523:2 84
+W_the:753:2 55
+W_causas:3049:0 142
+W_has:3812:4 171
+W_meaning:2279:0 114
+W_the:746:1 82
+W_appeared:3042:4 141
+W_of:1509:0 99
+W_together:1124:0 70
+W_alternatively:1117:4 69
+R_singlePunctuation:733:4 44
+R_isSpecialCharacter:348:4 96
+W_work:1880:3 94
+W_x201d:347:4 34
+E.4:343:4 36
+W_for:3406:1 156
+W_voice:1488:2 83
+W_dare:2636:1 124
+R_singlePunctuation:719:2 25
+R_singlePunctuation:712:1 16
+W_world:2244:0 109
+W_light:711:1 53
+W_conquer:3770:3 170
+R_singlePunctuation:705:0 113
+W_describes:2237:4 108
+W_true:3000:3 140
+W_or:1082:4 68
+R_singleQuote:313:4 43
+E.3:308:4 32
+W_knowledge:1838:2 93
+W_respect:305:3 30
+W_doctrinae<:3364:0 155
+W_are:683:2 139
+R_singleQuote:299:2 24
+W_a>:2594:0 123
+W_its:3357:4 154
+R_singleQuote:292:1 15
+W_as:1439:0 81
+W_or:1054:0 71
+W_university:2202:4 107
+W_are:669:0 52
+R_singleQuote:285:0 112
+W_shall:3728:2 169
+R_singleComma:278:4 42
+W_and:277:4 153
+W_labour:1040:3 66
+W_by:1803:2 151
+W_whatsoever:2951:1 138
+E.2:266:3 28
+W_you:648:2 168
+R_singleComma:264:2 23
+W_by:1796:1 92
+W_and:263:2 27
+W_aude<:2559:0 122
+E.2:259:2 21
+W_university:2174:0 128
+R_singleComma:257:1 14
+W_translated:1404:0 80
+W_tsinghua:2167:4 106
+W_science:3315:3 152
+W_you:634:0 51
+R_singleComma:250:0 111
+W_sign:3693:2 167
+W_god:1390:3 79
+W_wisdom:998:2 65
+W_integrity:228:2 26
+W_vera<:2909:0 137
+W_<a>sapere:2524:0 121
+W_wisdom:991:1 160
+E.1:224:2 17
+W_et:1754:0 91
+W_integrity:221:1 129
+E.1:217:1 12
+W_now:599:0 50
+W_to:1747:4 90
+R_containsSpecialCharacters:978:4 97
+W_also:2510:3 120
+W_this:3658:2 166
+W_commitment:2125:3 104
+W_darkness:3273:2 150
+W_with:592:4 49
+R_isAllSmallCase:208:4 46
+R_isAllSmallCase:201:3 31
+W_to:1733:2 125
+W_to:1726:1 144
+R_isAllSmallCase:194:2 20
+W_sincerity:193:2 19
+W_<em>quaecumque:2874:0 136
+W_hope:1341:1 78
+W_truth:956:1 64
+R_isAllSmallCase:187:1 11
+W_cornerstone:2867:4 134
+R_containsSpecialCharacters:950:0 60
+E.0:182:1 8
+W_with:564:0 63
+R_isAllSmallCase:180:0 3
+W_attempts:1712:4 89
+W_quot:942:4 67
+E.0:175:0 4
+R_containsDigit:558:4 35
+W_line:557:4 47
+W_,:172:4 41
+W_west:2468:2 119
+W_social:2083:2 103
+W_conquering:3231:1 149
+W_vinces<:3609:0 164
+W_,:158:2 22
+W_,:151:1 13
+W_deo:1299:0 77
+W_quot:914:0 62
+R_containsDigit:530:0 7
+W_which:1677:4 88
+W_,:144:0 110
+W_philanthropy:2825:3 132
+W_em>:907:4 105
+W_in:522:4 45
+W_christ:1285:3 75
+W_upon:2433:2 118
+W_christ:1278:2 157
+W_signo:3574:0 163
+W_discipline:2041:1 102
+W_tenebras<:3189:0 148
+W_in:508:2 54
+W_etched:3567:4 162
+W_in:501:1 165
+W_loyalty:116:1 10
+W_em>:879:0 61
+W_in:494:0 76
+W_causes:3168:2 146
+W_x656c:487:4 40
+W_wilderness:1635:3 87
+W_patriotism:2783:2 131
+W_shine:2398:2 117
+W_cohere:1243:2 74
+W_self:2006:1 101
+W_is:3532:4 161
+W_labore<:844:0 59
+W_x201c:74:0 6
+W_discover:3133:2 145
+W_x7b03:452:4 39
+W_diligence:2748:2 130
+W_things:1215:3 147
+W_righteousness:2363:2 116
+W_crying:1593:2 86
+W_things:1208:2 73
+W_attributed:3882:4 173
+W_<em>:1964:0 100
+W_scientia:809:0 58
+W_p>:1957:4 98
+W_motto:39:0 5
+W_wise:2720:3 127
+W_x4fe1:417:4 38
+U:31:4 33
+End.:30:4 48
+W_lord:795:3 57
+W_one:1558:2 85
+U:24:3 29
+End.:23:3 56
+W_sun:2321:1 115
+W_doctrina<:3469:0 159
+W_x2013:3084:0 143
+W_been:3847:4 172
+U:17:2 18
+W_all:1166:1 72
+U:10:1 9
+W_learning:3455:3 158
+W_<:1922:4 95
+W_of:1537:4 135
+W_school:4:0 2
+U:3:0 1
+S.:1:0 0
+W_the:767:4 133

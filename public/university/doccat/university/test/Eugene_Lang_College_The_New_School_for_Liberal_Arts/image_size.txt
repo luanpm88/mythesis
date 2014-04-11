@@ -1,0 +1,5 @@
+<h2>Student publications</h2>
+<li>&quot;Dodgeball Targets&quot; (#1)</li>
+<li>&quot;Intercollegiate Sports Unpopular Or Nonexistent&quot; (#1)</li>
+<li>&quot;Class Discussions Encouraged&quot; (#1)</li>
+<li>&quot;Long Lines and Red Tape&quot; (#1)</li>

@@ -1,0 +1,2 @@
+<li>School of Nursing</li>
+<li>School of Graduate Studies</li>

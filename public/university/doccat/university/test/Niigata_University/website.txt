@@ -1,0 +1,3 @@
+<li>School of Health Sciences</li>
+<li>Graduate School of Heath Sciences</li>
+<li>Graduate School of Medical and Dental Sciences</li>

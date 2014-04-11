@@ -1,0 +1,12 @@
+The Rio Piedras Campus is a <a>collegiate university</a>.
+<li>Audiovisual <a>Communication</a></li>
+<li><a>Journalism</a></li>
+<li><a>Anthropology</a></li>
+<li><a>Psychology</a></li>
+<li><a>Economics</a></li>
+<li><a>Geography</a></li>
+<li><a>Psychology</a></li>
+<li><a>Job Relations</a></li>
+<li><a>Sociology</a></li>
+<li><a>R&#x00ed;o Piedras massacre</a></li>
+<li><a>R&#x00ed;o Piedras</a></li>

@@ -1,0 +1,26 @@
+<h2>Campus</h2>
+<h3>Museum</h3>
+<h2>Academics</h2>
+<h3>Tuition</h3>
+<h3>Admissions</h3>
+<h3>Colleges</h3>
+<ul>
+<h3>Activities</h3>
+<h3>Housing</h3>
+<h3>Dining</h3>
+<h3>Media</h3>
+<h3>Alma mater</h3>
+<blockquote>
+</blockquote>
+<h2>Photo gallery</h2>
+<ul>
+</ul>
+<h2>References</h2>
+<p></p>
+<h2>External links</h2>
+<ul>
+</ul>
+<p> <img>  <img> </p>
+<p></p>
+
+

@@ -1,0 +1,9 @@
+All Seneca College programs are developed and kept current with the assistance of academic advisory committees.
+These committees are made up of Seneca's academic advisors and key industry members.
+<li>School of Recreation</li>
+<li>School of Underwater Skills&#x0009;  &#x0009;</li>
+<li>School of Accounting &amp; Finance</li>
+<li>School of Fashion &amp; Merchandising</li>
+<li>School of Office Administration</li>
+<li>School of Tourism</li>
+<li>School of Computer Studies</li>

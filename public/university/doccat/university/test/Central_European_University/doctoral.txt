@@ -1,0 +1,2 @@
+<li><a>Shlomo Avineri</a>, <a>Political Science</a></li>
+<li><a>Anton Pelinka</a>, <a>Political Science</a></li>

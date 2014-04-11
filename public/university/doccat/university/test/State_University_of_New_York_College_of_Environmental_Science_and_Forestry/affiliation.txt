@@ -1,0 +1,12 @@
+<li><a>Frank Edwin Egler</a></li>
+<li><a>Sol Feinstone</a>, '15, historian, businessman, conservationist</li>
+<li><a>Stephen Kay</a>, BLA '73</li>
+<li><a>Michael Kudish</a>, PhD '71</li>
+<li><a>Moshe Levy</a>, PhD '55</li>
+<li><a>Bob Marshall</a>, BS '24</li>
+<li><a>Clarence Petty</a>, BS '30</li>
+<li><a>Harry Frederick Recher</a></li>
+<li><a>Bruce Shelley</a>, BS '70</li>
+<li><a>ESF Annual Report</a></li>
+<li><a>Cranberry Lake Biological Station</a></li>
+<li><a>Thousand Islands Biological Station</a></li>

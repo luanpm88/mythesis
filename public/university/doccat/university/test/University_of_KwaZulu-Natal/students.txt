@@ -1,0 +1,2 @@
+<li>the students</li>
+<p>In 2006 the <a>International Freedom of Expression Exchange</a> stated that &quot;Free expression and academic freedom are in severe decline at the university.&quot;</p>

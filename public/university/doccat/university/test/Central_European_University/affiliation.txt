@@ -1,0 +1,12 @@
+<li><a>Allen Feldman</a>, <a>Cultural Anthropology</a></li>
+<li><a>Herbert Gintis</a>, <a>Economics</a></li>
+<li><a>Gabriel Gorodetsky</a>, <a>Russian Studies</a></li>
+<li><a>Elem&#x00e9;r Hankiss</a>, <a>Sociology</a></li>
+<li><a>Julius Horvath</a>, <a>Economics</a></li>
+<li><a>Will Kymlicka</a>, <a>Political Theory</a></li>
+<li><a>Michael Miller</a>, <a>Nationalism Studies</a></li>
+<li><a>Istvan Perczel</a>, <a>Medieval Studies</a></li>
+<li><a>Howard Robinson</a>, <a>Philosophy</a></li>
+<li><a>Robert Sauer</a>, <a>Economics</a></li>
+<li><a>Anna Brzezi&#x0144;ska</a>, <a>Polish</a> <a>author</a></li>
+<li><a>Romani&#x0163;a Iordache</a>, Romanian <a>Human rights activist</a></li>

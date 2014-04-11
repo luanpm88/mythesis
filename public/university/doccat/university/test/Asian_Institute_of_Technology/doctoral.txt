@@ -1,0 +1,2 @@
+<li>Computer Science (CS)</li>
+<li>Remote Sensing and Geographic Information Systems (RS-GIS)</li>

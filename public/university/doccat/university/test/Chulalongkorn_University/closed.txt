@@ -1,0 +1,4 @@
+It now has nineteen faculties and institutes.
+<li>Faculty of Engineering</li>
+<li>Faculty of Medicine</li>
+<h2>Notable Faculty and Alumni</h2>

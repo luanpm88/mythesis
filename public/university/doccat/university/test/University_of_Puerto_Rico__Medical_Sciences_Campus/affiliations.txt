@@ -1,0 +1,4 @@
+<h3>Conrado F. Asenjo Library</h3>
+Seating capacity is 410.
+The Library is open 108 hours per week.
+<li><a>http://rcm-library.rcm.upr.edu</a>

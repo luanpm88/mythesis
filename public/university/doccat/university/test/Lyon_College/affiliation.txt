@@ -1,0 +1,10 @@
+<li>Men's <a>Basketball</a></li>
+<li><a>Women's Basketball</a></li>
+<li><a>Baseball</a></li>
+<li><a>Volleyball</a></li>
+<li>Men's <a>Soccer</a></li>
+<li>Women's <a>Soccer</a></li>
+<li><a>Softball</a></li>
+<li>Men's <a>Golf</a></li>
+<li>Women's <a>Golf</a></li>
+<li><a>Lyon College official website</a></li>

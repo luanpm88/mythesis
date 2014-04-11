@@ -1,0 +1,15 @@
+<p>The Lehman Center for the Performing Arts is a  professional theater.
+<p>Students at Lehman College are diverse, international, and of all ages.
+<li><a>John Corigliano</a>, Professor of Music, <a>Academy Award</a> winner</li>
+<li>American Studies, undergrad</li>
+<li>Black Studies, undergrad</li>
+<li>Business Administration, undergrad</li>
+<li>Global Studies</li>
+<li>Italian-American Studies</li>
+<li>Latin American &amp; Caribbean Studies,</li>
+<li>Music Education</li>
+<li>Music History</li>
+<li>Music Theory</li>
+<li>Puerto Rican Studies</li>
+<li>Women's Studies</li>
+<p>NCAA, CUNY Athletic Conference, ECAC, Hudson Valley Men's/Women's Athletic Conferences, Knickerbocker Athletic Conference, Metropolitan Collegiate Swimming Conference, Metropolitan Intercollegiate Men's Volleyball Conference, and the New York State Women's Collegiate Athletic Conference.

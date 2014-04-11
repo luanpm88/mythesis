@@ -1,0 +1,5 @@
+<h2>Faculties and schools</h2>
+<li>Faculty of Painting, Sculpture and Graphic arts</li>
+<li><a>Faculty of Architecture</a></li>
+<li><a>Faculty of Archeology</a></li>
+<li><a>Faculty of Pharmacy</a></li>

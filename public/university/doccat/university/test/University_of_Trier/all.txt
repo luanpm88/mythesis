@@ -1,0 +1,72 @@
+established$$$@@@%%%<p> <a>thumb|300px|Campus</a> <a>thumb|250px|Faculty building</a> <a>thumb|250px|right|Library</a> The <strong>University of Trier</strong> (), in the <a>German</a> city of <a>Trier</a>, was founded in 1473.
+established$$$@@@%%%It was closed by orders of the French administration in 1798, and was reopened in 1970.
+established$$$@@@%%%The new University campus is located on top of the <a>Tarforst</a> heights, an urban district on the outskirts of the town.
+established$$$@@@%%%The University has six faculties with around 470 members.
+affiliations$$$@@@%%%In the year 2006 around 14,000 students had been matriculated, 43.5% male and 56.5% female students.
+affiliations$$$@@@%%%The percentage of foreign students was approximately 15.5%.</p>
+established$$$@@@%%%<h2>History</h2>
+affiliation$$$@@@%%%<h3>Historical university</h3>
+established$$$@@@%%%<p>In 1455, <a>Pope Nicholas V</a> granted the archbishop of Trier, <a>Jakob von Sierck</a>, to establish a university in his town.
+established$$$@@@%%%The <em>University of Trier</em> was founded March 16, 1473.
+established$$$@@@%%%Battling with financial problems for decades, the university was acquired by the <a>Jesuits</a> in 1560.
+established$$$@@@%%%They emphasized the <a>philosophical</a> and <a>theological</a> faculties, at the expense of <a>medicine</a> and <a>law</a>.
+established$$$@@@%%%In the 1580s <a>Peter Binsfeld</a> was president of the university.
+established$$$@@@%%%In the 1730s <a>Johann Nikolaus von Hontheim</a> also was a faculty member.
+established$$$@@@%%%After the <a>french occupation of the Rhineland</a>, the French administration ordered the Universities of <a>Cologne</a>, <a>Mainz</a> and <a>Bonn</a> closed.
+established$$$@@@%%%The historical University of Trier was closed on April 6, 1798.</p>
+affiliation$$$@@@%%%<h3>Modern university</h3>
+established$$$@@@%%%<p>In 1970 the university was refounded as part of the twin-University Trier / <a>Kaiserslautern</a>.
+established$$$@@@%%%It graduated 360 students on October 15, 1970.
+free_label$$$@@@%%%In 1975 the partners separated and formed independent institutions.
+established$$$@@@%%%In 1977 the new university campus in <a>Tarforst</a> was opened.
+established$$$@@@%%%During the 1990s a former hospital complex was added, and dubbed <em>Campus II</em>.</p>
+established$$$@@@%%%<h3>University seal</h3>
+established$$$@@@%%%<p>The modern university still uses the seal of the historical university in its corporate design [<a>http://www.uni-trier.de/uni/siegel.htm</a>].
+established$$$@@@%%%It contains the Latin motto &quot;&quot; (God completes the favors of wisdom from the city of Trier).
+affiliations$$$@@@%%%In 2000 an alternative logo [<a>http://www.uni-trier.de/Home/home_unisignet_450_214a.gif</a>]
+affiliations$$$@@@%%%incorporating that seal was introduced, but this met with resistance.</p>
+image_name$$$@@@%%%<h2>Faculties</h2>
+established$$$@@@%%%<p>The university is subdivided into 6 faculties (&quot;Fachbereiche&quot;).</p>
+image_name$$$@@@%%%<ul>
+vice_chancellor$$$@@@%%%  <li>FB I - Pedagogy, Philosophy, Psychology (ca.
+doctoral$$$@@@%%%2300 students)</li>
+vice_chancellor$$$@@@%%%  <li>FB II - Linguistics, Literature, Media (ca.
+doctoral$$$@@@%%%2700 students)</li>
+established$$$@@@%%%  <li>FB III - Egyptology, Papyrology, History, Archeology, Art history, Politics (ca.
+doctoral$$$@@@%%%1700 students)</li>
+doctoral$$$@@@%%%  <li>FB IV - Economics, Sociology, Mathematics, Computer Science (ca.
+doctoral$$$@@@%%%3300 students)</li>
+vice_chancellor$$$@@@%%%  <li>FB V - Law (ca.
+doctoral$$$@@@%%%1800 students)</li>
+vice_chancellor$$$@@@%%%  <li>FB VI - Geography, Geology (ca.
+doctoral$$$@@@%%%1600 students)</li>
+image_name$$$@@@%%%</ul>
+type$$$@@@%%%<p>There is also a Faculty of (Roman Catholic) Theology, affiliated to the university but administratively independent.
+undergrad$$$@@@%%%It currently counts about 300 students.</p>
+image_size$$$@@@%%%<h2>Student demographics</h2>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%<ul>
+campus$$$@@@%%%  <li>WS 2001/02: 11,867 students</li>
+students$$$@@@%%%  <li>WS 2002/03: 12,660 students</li>
+doctoral$$$@@@%%%  <li>WS 2003/04: 13,082 students</li>
+doctoral$$$@@@%%%  <li>WS 2004/05: 13,327 students</li>
+doctoral$$$@@@%%%  <li>WS 2005/06: 13,755 students</li>
+doctoral$$$@@@%%%  <li>WS 2006/07: 13,932 students</li>
+image_name$$$@@@%%%</ul>
+students$$$@@@%%%<p>While there are many foreign students in Trier, a large majority of students hails from <a>Rhineland-Palatinate</a> and the adjacent states of <a>Saarland</a> and <a>Northrhine-Westphalia</a>.
+established$$$@@@%%%This effect is supported by the introduction of <a>Tuition</a> fees in all German  states except for Rhineland-Palatine.
+mascot$$$@@@%%%The <a>SPD</a> who is currently ruling the state does not plan to introduce Tuition so far.</p>
+city$$$@@@%%%<h2>Karl-Marx-University Trier</h2>
+established$$$@@@%%%<p>The <a>AStA</a><img> proposed changing the name of the University to <em><a>Karl-Marx</a>-Universit&#x00e4;t Trier</em>, honoring the city's most famous son.
+established$$$@@@%%%Although the proposal was finally rejected, the AStA still refers to the university as &quot;Karl-Marx-Universit&#x00e4;t Trier&quot;.</p>
+image_name$$$@@@%%%<h2>References</h2>
+image_name$$$@@@%%%<p>&lt;references/&gt;</p>
+image_name$$$@@@%%%<h2>External links</h2>
+image_name$$$@@@%%%<ul>
+established$$$@@@%%%  <li><a>University of Trier Website</a>    </li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%
+image_name$$$@@@%%%

@@ -1,0 +1,4 @@
+<p>A - Building - Administration - Named The Ernest Notar Administration Building , But Still Called A Building</p>
+<p>B - Building - Business Classes / Computer Classes / Secretarial Science / Accounting Classes</p>
+<p>C - Building - Science / Physics / Astronomy / Chemistry / Math / Computer Networking / Robotics Classes</p>
+<p>E - Building - English / Social Science / Psychology / Astronomy Planetarium / Foreign Language Classes</p>

@@ -1,0 +1,425 @@
+181
+degioia]] 69 3:1
+associate 7 4:1
+provost 110 0:1
+royce 124 3:1
+mohawk 135 4:1
+later 2 0:1
+that 76 4:1
+washburn 175 0:1
+present< 140 4:3
+appointed 41 4:2
+named 34 4:1
+ninth 112 4:1
+december 72 0:1
+gelder 149 3:1
+april 61 0:1
+metrolinx 131 0:1
+andrew 170 1:1
+presided 146 0:1
+jr 50 3:1 4:1
+paul 43 1:2
+karnig 84 3:1
+farley 177 3:1
+james 16 1:2 2:2
+katsuhiko 141 1:1
+gorsuch 173 3:1
+joseph 158 1:1
+professor 152 1:1
+shut 98 4:1
+is 12 0:8 4:5
+term 80 4:1
+gooch 45 3:1
+in 91 4:1
+built 36 0:1
+chosen 64 4:1
+<p> 122 0:1
+his 29 4:1
+the 35 0:3 4:11
+was 33 0:1 4:5
+berkman 115 3:1
+<a>tom 102 0:1
+president< 116 4:1
+benton 171 3:1
+bridges 125 3:1
+jun 130 3:1
+hu 129 1:1
+steven 4 1:1 2:1
+decided 96 4:1
+college 11 0:3
+rochon 32 3:1
+one 0 0:1
+to 97 4:1
+mcgowan 159 3:1
+kepple 49 2:1
+7th 136 4:1
+served 178 4:1
+li> 57 4:10
+<li> 52 0:8
+ivany 25 3:1
+gt 162 4:1
+janie 137 1:1
+interim 128 4:1
+english 163 0:1
+DIGIT 56 0:3 4:9
+michael 53 1:2
+park 138 3:1
+23rd 22 4:1
+jackson< 103 0:1
+lsu 117 0:1
+meehan 144 3:1
+jerry 176 2:1
+lavine 6 3:1
+academic 86 4:1
+also 70 4:1
+chair 132 0:1
+<a> 23 0:1
+x2019 85 4:1
+charles 62 1:1
+18th 87 0:1
+and 37 0:3 4:1
+assumed 119 4:1
+x2013 126 4:6
+george 77 1:1 2:1
+brian 153 2:1
+currently 145 0:2
+franklin 105 3:1
+taylor 93 3:1
+[[john 67 1:1
+ronald 113 1:1
+wellesley 10 0:1
+wvu 20 4:1
+eddy 147 1:1
+lee 123 1:2
+president 66 0:8 4:4
+angel 111 3:1
+martin 118 3:1
+position 30 4:1
+dr 47 0:6 1:7
+<p>words 157 0:1
+chancellorship 120 4:1
+bottomly 15 3:1
+chancellor 46 4:2
+literature 164 0:1
+<p>the 150 0:1
+appleton 127 3:1
+quot 155 4:1
+year 1 0:1
+ph 168 4:2
+spence 107 3:1
+kelly 165 3:1
+began 28 4:1
+director 8 4:1
+w 44 2:1
+present 172 4:1
+v 94 0:1 2:1
+maxey 55 3:1
+s 21 0:2 2:1 4:3
+r 48 2:3
+who 90 4:3
+maccraith 154 3:1
+p 17 2:2
+former 109 0:2
+m 114 2:1
+rob 133 1:1
+l 58 2:3
+iwama 78 3:1
+chief 156 4:1
+rhodes 95 3:1
+k 83 2:2
+j 68 2:2
+emeritus 174 4:1
+<li><a> 169 0:1
+h 13 1:1 2:1
+on 121 4:1
+g 39 2:1
+f 99 1:1
+e 104 2:1
+gaudino 59 3:1
+d 5 0:1 2:1 4:2
+kim 14 2:1
+william 143 1:1 2:1
+c 54 0:1 2:2
+zingg 139 3:1
+became 19 4:3
+a 71 0:2 2:1 4:1
+of 92 0:3 4:2
+kimball 167 3:1
+by 81 0:3
+br 161 4:1
+p> 51 4:3
+walker 40 3:1
+chris 166 1:1
+van 148 2:1
+for 9 4:1
+<a>president< 151 0:1
+ray 24 1:1
+gregory 100 2:1
+albert 82 1:1
+clements 18 3:1
+weymouth 106 2:1
+announced 75 4:2
+parrott 74 3:1
+< 26 4:11
+current 60 0:1 4:1
+as 65 4:2
+eisler 89 3:1
+, 3 0:13 4:20
+bruss 180 3:1
+alan 38 1:1
+whose 79 4:1
+has 108 4:2
+shirai 142 3:1
+cotrell 63 3:1
+campbell 101 3:1
+dan 179 1:1
+lt 160 4:1
+macisaac 134 3:1
+thomas 31 1:2
+university 42 0:6
+david 88 1:3
+a> 27 0:2 4:2
+roger 73 1:1
+******* Features ************
+241
+W_literature:5744:0 222
+W_rochon:1145:3 64
+W_emeritus:6122:4 234
+W_metrolinx:4589:0 187
+W_c:1908:2 90
+W_former:3819:0 161
+W_s:753:2 180
+W_18th:3049:0 131
+W_assumed:4197:4 172
+W_paul:1516:1 77
+W_has:3812:4 160
+W_to:3427:4 147
+W_jun:4575:3 186
+W_c:1894:0 141
+W_academic:3042:4 130
+W_announced:2657:4 117
+W_chosen:2272:4 106
+W_s:739:0 140
+W_wellesley:354:0 33
+W_professor:5331:1 209
+W_katsuhiko:4946:1 197
+R_singlePunctuation:733:4 25
+W_wvu:732:4 46
+R_isSpecialCharacter:348:4 57
+W_english:5709:0 221
+W_for:347:4 32
+E.4:343:4 26
+W_gt:5702:4 220
+W_present<:4932:4 196
+W_gorsuch:6080:3 233
+W_michael:1866:1 89
+W_thomas:1096:1 63
+W_decided:3392:4 146
+W_x2019:3007:4 129
+W_martin:4155:3 171
+W_university:1474:0 76
+W_spence:3770:3 159
+R_singlePunctuation:705:0 10
+W_appointed:1467:4 74
+W_parrott:2615:3 116
+W_position:1082:4 62
+W_cotrell:2230:3 105
+W_became:697:4 45
+W_hu:4526:1 185
+R_singleQuote:313:4 24
+W_director:312:4 30
+W_<a>president<:5289:0 208
+E.3:308:4 21
+W_present:6052:4 232
+W_br:5667:4 219
+W_interim:4512:4 184
+W_zingg:4890:3 195
+W_<li>:1824:0 88
+W_rhodes:3350:3 145
+R_singleQuote:285:0 9
+W_p>:1817:4 87
+W_karnig:2965:3 127
+W_weymouth:3728:2 158
+W_his:1047:4 61
+R_singleComma:278:4 23
+W_associate:277:4 28
+W_walker:1425:3 73
+W_<p>the:5254:0 207
+W_clements:655:3 44
+W_lt:5632:4 218
+W_lsu:4099:0 169
+W_roger:2566:1 115
+E.2:266:3 17
+W_charles:2181:1 104
+W_benton:6010:3 231
+W_president<:4092:4 168
+W_gelder:5240:3 206
+W_park:4855:3 194
+E.2:259:2 84
+W_appleton:4470:3 183
+W_franklin:3700:3 157
+W_jr:1782:4 217
+R_singleComma:250:0 8
+W_began:1012:4 60
+W_v:3308:2 170
+W_jr:1775:3 86
+W_k:2923:2 126
+W_lavine:235:3 19
+W_g:1383:2 72
+E.1:231:3 54
+W_v:3294:0 144
+W_p:613:2 43
+W_x2013:4442:4 182
+W_mcgowan:5590:3 216
+W_december:2524:0 114
+E.1:224:2 14
+W_april:2139:0 101
+W_berkman:4050:3 167
+W_van:5198:2 205
+W_a:2517:4 113
+W_current:2132:4 100
+W_andrew:5961:1 230
+W_taylor:3280:3 139
+R_containsSpecialCharacters:978:4 58
+W_e:3658:2 156
+W_a>:977:4 59
+W_janie:4806:1 193
+R_isAllSmallCase:208:4 29
+W_d:207:4 228
+W_a:2503:2 200
+R_isAllSmallCase:201:3 20
+W_kepple:1733:2 85
+W_albert:2881:1 125
+W_bruss:6325:3 240
+W_7th:4792:4 192
+W_james:578:2 96
+R_isAllSmallCase:194:2 16
+W_d:193:2 15
+W_alan:1341:1 71
+W_a:2489:0 142
+W_current:2104:0 119
+W_of:3252:4 178
+W_james:571:1 42
+W_bridges:4400:3 181
+R_isAllSmallCase:187:1 13
+R_containsSpecialCharacters:950:0 51
+W_also:2482:4 112
+W_a>:949:0 154
+E.0:182:1 11
+R_isAllSmallCase:180:0 3
+W_joseph:5541:1 215
+W_d:179:0 143
+W_m:4008:2 166
+W_and:1327:4 80
+W_eddy:5156:1 204
+W_<:942:4 56
+E.0:175:0 4
+R_containsDigit:558:4 49
+W_gaudino:2090:3 98
+W_<li><a>:5919:0 229
+R_isAllCapital:173:4 93
+W_ph:5912:4 227
+W_bottomly:550:3 40
+W_r:1698:2 83
+W_jackson<:3609:0 153
+W_mohawk:4757:4 191
+W_of:3224:0 137
+W_steven:158:2 155
+W_by:2839:0 124
+W_in:3217:4 136
+W_royce:4365:3 177
+W_steven:151:1 12
+W_term:2832:4 123
+W_and:1299:0 70
+W_dan:6276:1 239
+R_containsDigit:530:0 132
+R_isAllCapital:145:0 103
+W_degioia]]:2440:3 111
+W_<p>words:5499:0 214
+W_,:137:4 22
+W_ronald:3966:1 165
+W_presided:5114:0 203
+W_served:6262:4 238
+W_ivany:900:3 55
+W_l:2048:2 97
+W_chief:5492:4 213
+W_<a>tom:3574:0 152
+W_kimball:5870:3 226
+W_kim:508:2 38
+W_dr:1656:1 95
+W_ninth:3952:4 164
+W_macisaac:4715:3 190
+W_who:3182:4 135
+W_dr:1649:0 82
+W_whose:2797:4 122
+W_built:1264:0 69
+W_campbell:3560:3 151
+W_li>:2027:4 94
+W_chancellor:1642:4 81
+W_,:109:0 7
+W_the:1257:4 67
+W_lee:4316:1 176
+W_currently:5079:0 202
+W_j:2398:2 110
+W_quot:5457:4 212
+W_farley:6220:3 237
+W_h:473:2 138
+W_meehan:5065:3 201
+W_ray:851:1 53
+W_h:466:1 36
+W_angel:3910:3 163
+W_the:1229:0 75
+W_DIGIT:1992:4 92
+W_chris:5821:1 225
+W_eisler:3140:3 134
+W_later:74:0 6
+W_iwama:2755:3 121
+W_named:1222:4 66
+W_gregory:3518:2 150
+W_rob:4666:1 189
+W_is:452:4 99
+W_gooch:1600:3 79
+W_<p>:4274:0 175
+W_[[john:2356:1 109
+W_kelly:5800:3 224
+W_on:4267:4 174
+W_maccraith:5415:3 211
+W_jerry:6178:2 236
+W_DIGIT:1964:0 102
+W_william:5023:2 199
+W_president:2342:4 128
+W_<a>:809:0 50
+W_is:424:0 35
+W_year:39:0 5
+W_was:1187:4 65
+W_william:5016:1 223
+W_23rd:802:4 48
+W_maxey:1950:3 91
+W_george:2713:2 120
+U:31:4 27
+End.:30:4 31
+W_f:3476:1 149
+W_chair:4624:0 188
+W_david:3091:1 133
+W_w:1558:2 78
+W_george:2706:1 179
+W_provost:3854:0 162
+U:24:3 18
+End.:23:3 39
+W_chancellorship:4232:4 173
+U:17:2 37
+W_shirai:4995:3 198
+W_president:2314:0 108
+W_shut:3462:4 148
+W_brian:5373:2 210
+W_that:2692:4 118
+U:10:1 52
+W_was:1159:0 68
+W_as:2307:4 107
+S.:8:1 41
+W_college:389:0 34
+W_one:4:0 2
+U:3:0 1
+W_washburn:6129:0 235
+S.:1:0 0
+W_s:767:4 47

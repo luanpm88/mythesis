@@ -1,0 +1,107 @@
+image_name$$$@@@%%%<p></p>
+established$$$@@@%%%<p><strong>National Chi Nan University</strong> (; <strong>NCNU</strong>) is located in the town of <a>Puli</a>, <a>Nantou County</a>, <a>Taiwan</a>, <a>Republic of China</a>.</p>
+established$$$@@@%%%<h2>History</h2>
+established$$$@@@%%%<h3>Founding of the University</h3>
+established$$$@@@%%%<p>The National Chi Nan University Planning Committee was established on 1 March 1991 in order to  establish a university with the following missions:</p>
+image_name$$$@@@%%%<ol>
+established$$$@@@%%%  <li>To provide more <a>higher education</a> opportunities.</li>
+established$$$@@@%%%<li>To improve the education of <a>Overseas Chinese</a>.</li>
+established$$$@@@%%%<li>To assist in developing industries as a part of <a>Six-Year National Construction Plan</a> of the <a>Republic of China</a>.</li>
+established$$$@@@%%%<li>To balance cultural and educational development between regions.</li>
+image_name$$$@@@%%%</ol>
+established$$$@@@%%%<p>Land which previously was the property of the <a>Taiwan Sugar Corporation</a> was selected as the campus of the new university in January 1992.
+established$$$@@@%%%The initial phase of construction of the university was completed in July 1995.
+established$$$@@@%%%The first classes of <a>graduate student</a>s were enrolled at the University in September 1995.
+established$$$@@@%%%The first classes of undergraduates registered in September 1996, along with the official opening of the campus.</p>
+image_name$$$@@@%%%<h3>921 Earthquake</h3>
+established$$$@@@%%%<p>When the devastating <a>921 earthquake</a> struck <a>Nantou County</a> on 21 September 1999, all major buildings and dormitories in campus were critically damaged, and the University suffered a great loss of equipment and basic infrastructure.
+nickname$$$@@@%%%President Ricard Lee had led the three-day evacuation of the entire student body and the provisional relocation to the campus of <a>National Taiwan University</a> in <a>Taipei City</a> for one semester.
+established$$$@@@%%%The restoration of the campus was mostly completed in the following six months.
+nickname$$$@@@%%%The student body and all the Colleges went back to the campus in the next semester.</p>
+free_label$$$@@@%%%<h2>Origin of the name</h2>
+established$$$@@@%%%<p><a>thumb|320px|right|The gate of National Chi Nan University</a></p>
+established$$$@@@%%%<p>The name <strong><em>Chi Nan</em></strong> ([from north] to south) comes from <a>Chapter of Tribune of Yu</a> of <a>Classic of History</a>, where a passage reads: &quot;His speech and teachings spread from north to south, until they reached the four corners of the world.&quot;
+established$$$@@@%%%More than a century ago, <em>Chi Nan</em> was first used as the title of an academic organization&#x2014;<a>Chi Nan Academy</a>, established in 1906 near the end of the <a>Qing Dynasty</a> and dedicated to educating talented Chinese youths born or raised abroad.
+established$$$@@@%%%The founders of the Academy relished this ancient Chinese quotes and named the Academy accordingly to manifest its mission.
+established$$$@@@%%%After the founding of the <a>Republic of China</a> in 1912, Chi Nan Academy was reorganized into <a>Chi Nan University</a> in <a>Guangzhou</a>.
+nickname$$$@@@%%%These two organizations are directly related to National Chi Nan University in Puli, Nantou County, and traditionally, the name <em>Chi Nan</em> conveys the University's mission of education beyond China.</p>
+image_name$$$@@@%%%<p><img></p>
+image_name$$$@@@%%%<h2>Colleges</h2>
+established$$$@@@%%%<p><a>thumb|Picture of <strong>College of Humanities</strong></a> National Chi Nan University has aimed for academic excellence and been growing intensely.
+image_size$$$@@@%%%There are three <a>college</a>s and six <a>research center</a>s at the University.
+established$$$@@@%%%Each of them has its own mission and emphasized area.</p>
+image_name$$$@@@%%%<ul>
+established$$$@@@%%%  <li>The College of <a>Humanities</a>:
+image_name$$$@@@%%%    <ul>
+type$$$@@@%%%      <li><a>Chinese Language</a> and <a>Literature</a></li>
+campus$$$@@@%%%      <li>Foreign Languages and Literature</li>
+established$$$@@@%%%      <li><a>Social Policy</a> and <a>Social Work</a></li>
+type$$$@@@%%%      <li><a>Public Policy</a> and <a>Administration</a></li>
+type$$$@@@%%%      <li><a>Comparative Education</a></li>
+established$$$@@@%%%      <li><a>History</a></li>
+established$$$@@@%%%      <li><a>Educational Policy</a> and Administration</li>
+affiliation$$$@@@%%%      <li><a>Southeast Asian studies</a></li>
+type$$$@@@%%%      <li><a>Adult</a> and <a>Continuing Education</a></li>
+affiliation$$$@@@%%%      <li><a>Anthropology</a></li>
+campus$$$@@@%%%      <li>Guidance and Counseling</li>
+image_name$$$@@@%%%    </ul>
+image_name$$$@@@%%%  </li>
+established$$$@@@%%%  <li>The College of <a>Management</a>:
+image_name$$$@@@%%%    <ul>
+provost$$$@@@%%%      <li><a>International business</a> studies</li>
+affiliation$$$@@@%%%      <li><a>Economics</a></li>
+affiliation$$$@@@%%%      <li><a>Information Management</a></li>
+affiliation$$$@@@%%%      <li><a>Finance</a></li>
+image_name$$$@@@%%%    </ul>
+image_name$$$@@@%%%  </li>
+established$$$@@@%%%  <li>The College of <a>Science</a> and <a>Technology</a>:
+image_name$$$@@@%%%    <ul>
+doctoral$$$@@@%%%      <li><a>Computer Science</a></li>
+faculty$$$@@@%%%      <li><a>Civil Engineering</a></li>
+affiliation$$$@@@%%%      <li><a>Electrical Engineering</a></li>
+affiliation$$$@@@%%%      <li><a>Applied Chemistry</a></li>
+affiliation$$$@@@%%%      <li><a>Communication Engineering</a></li>
+established$$$@@@%%%      <li><a>Earthquake</a> and Disaster Mitigation Engineering</li>
+type$$$@@@%%%      <li><a>Biomedicine</a> and <a>Biomedical technology</a></li>
+image_name$$$@@@%%%    </ul>
+image_name$$$@@@%%%  </li>
+image_size$$$@@@%%%  <li><a>Research</a> Centers:
+image_name$$$@@@%%%    <ul>
+established$$$@@@%%%      <li>Center for <a>Extension education</a></li>
+established$$$@@@%%%      <li>Center for <a>Distance education</a></li>
+type$$$@@@%%%      <li>Center for <a>Southeast Asian studies</a></li>
+image_size$$$@@@%%%      <li><a>Language Teaching</a> and Research Center</li>
+country$$$@@@%%%      <li>Center for Research in <a>Family education</a></li>
+established$$$@@@%%%      <li>Center for <a>Teacher education</a></li>
+image_name$$$@@@%%%    </ul>
+image_name$$$@@@%%%  </li>
+established$$$@@@%%%  <li><a>The Affiliated Senior High School of National Chi Nan University</a> (formerly National Puli Senior High School)</li>
+provost$$$@@@%%%  <li>In Planning
+image_name$$$@@@%%%    <ul>
+established$$$@@@%%%      <li>The College of Social Science</li>
+established$$$@@@%%%      <li>The College of Education</li>
+image_name$$$@@@%%%    </ul>
+image_name$$$@@@%%%  </li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h2>Featuring</h2>
+image_name$$$@@@%%%<ul>
+affiliations$$$@@@%%%  <li>The Taiwanese drama series, <a>Hana Kimi</a> was filmed here.</li>
+image_name$$$@@@%%%</ul>
+city$$$@@@%%%<h2>See also</h2>
+image_name$$$@@@%%%<ul>
+type$$$@@@%%%  <li><a>List of universities in Taiwan</a></li>
+established$$$@@@%%%  <li><a>Jinan University</a> in Mainland China</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%<h2>External links</h2>
+image_name$$$@@@%%%<ul>
+affiliation$$$@@@%%%  <li><a>Official website (Chinese)</a></li>
+affiliation$$$@@@%%%  <li><a>Official website (English)</a></li>
+established$$$@@@%%%  <li><a>Chi Nan University Wallpapers commemorating its 10th birthday</a></li>
+affiliation$$$@@@%%%  <li><a>International Admission Site (Chinese)</a></li>
+established$$$@@@%%%  <li><a>The Affiliated Senior High School of National Chi Nan Universit</a></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%
+image_name$$$@@@%%%

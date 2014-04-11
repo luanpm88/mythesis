@@ -1,0 +1,21 @@
+<li>Academic College</li>
+<li>Air Force Administrative College </li>
+<li>Bishop Ambrose College</li>
+<li>Bishop Thorp College </li>
+<li>CBM College </li>
+<li>Chikkaiah Naicker College </li>
+<li>Emerald Heights College for Women </li>
+<li>Karuppannan Mariappan College </li>
+<li>Lakshmi Narayana Visalakshi Women's College </li>
+<li>Maharaja College for Women </li>
+Staff College </li>
+<li>Nallamuthu Gounder Mahalingam College </li>
+<li>Nirmala College for Women </li>
+<li>Park College </li>
+<li>Providence College for Women </li>
+<li>PSGR Krishnammal College for Women </li>
+<li>Sree Narayana Guru College </li>
+<li>Sri GVG Visalakshi College for Women </li>
+<li>Sri Vasavi College </li>
+Joseph's College For Women </li>
+<li>Vellalar College for Women </li>

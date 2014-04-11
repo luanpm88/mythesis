@@ -1,0 +1,7 @@
+<h2>Student life</h2>
+<p>Le Moyne College honors its 50 year graduates each May at graduation, and also annually honors all graduates whose parents are alumni at the Baccalaureate Mass which takes place prior to graduation.</p>
+<li>Nicholas D'Agostino III, President &amp; COO, D'Agostino Supermarkets</li>
+<li>Ted Middleton, Senior Vice President of Development and Finance, <a>Hilton Worldwide</a></li>
+<li>John Purcell, retired President and CEO, <a>Frontier Communications</a> and current President and CEO, Fibertech Networks</li>
+<li><a>Carl Schramm</a>, President and CEO, <a>Ewing Marion Kauffman Foundation</a></li>
+<li><a>Fred P. Pestello</a>, current President of Le Moyne</li>

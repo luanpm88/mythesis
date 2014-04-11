@@ -1,0 +1,118 @@
+country$$$@@@%%%<p> <a>249px|right|thumb|Main building</a></p>
+established$$$@@@%%%<p>The <strong>University of Gie&#x00df;en</strong> is officially called the <strong><em>Justus Liebig University Giessen</em></strong> (German: <em>Justus Liebig-Universit&#x00e4;t Gie&#x00df;en</em>) after its most famous faculty member, <a>Justus von Liebig</a>, the founder of modern agricultural chemistry and inventor of artificial fertiliser.</p>
+established$$$@@@%%%<h2>History</h2>
+established$$$@@@%%%<p>The University of Gie&#x00df;en is among the oldest institutions of higher educations in the German-speaking world.
+established$$$@@@%%%It was founded in 1607 as a <a>Lutheran</a> university in the city of <a>Gie&#x00df;en</a> in <a>Hesse-Darmstadt</a> because the all-Hessian <em>Landesuniversit&#x00e4;t</em> (the nearby <a>University of Marburg</a> (<em>Philipps-Universit&#x00e4;t Marburg</em>) in <a>Marburg</a>, <a>Hesse-Kassel</a> (or Hesse-Cassel)) had become Reformed (that is, <a>Calvinist</a>).
+established$$$@@@%%%Landgrave Ludwig V von Hessen-Darmstadt, whence the university got its original name &quot;Ludoviciana,&quot; founded his own institution of higher education in Gie&#x00df;en, which as a Lutheran institution had the primary function of ensuring the education of priests and bureaucrats.
+established$$$@@@%%%Endowed with a charter issued by Kaiser Rudolf II on May 19, 1607, the university was allowed to proceed with instruction in October of 1607.
+established$$$@@@%%%During the Thirty Years War, when Hessen-Darmstadt was able to take the area around Marburg for itself, the university in Gie&#x00df;en ceased instruction and was moved back to its more long-standing location in Marburg (1624/25).
+established$$$@@@%%%The Peace of Westfallia led to the restoration of the old location and in 1650 to the relocation of the university to Gie&#x00df;en.
+image_name$$$@@@%%%</p>
+established$$$@@@%%%<p>In the 17th and 18th centuries the Ludoviciana was a typical small state university that then had the four common faculties (theology, law, medicine, and philosophy).
+established$$$@@@%%%The instruction was reasonable, with about 20 to 25 professors teaching several hundred students, the latter of which were mostly &quot;Landeskinder.&quot;
+established$$$@@@%%%In the 18th century came gradual modernization of the curricula and reforms in the instruction, which were definitively influenced by the local lordly court in Darmstadt.
+established$$$@@@%%%The example for the reforms were both of the &quot;model universities of the Enlightenment,&quot; the University of Halle, founded in 1694, and more still Georgia Augusta, founded in G&#x00f6;ttingen in 1734/37.
+established$$$@@@%%%Indeed, all attempts at reform were from the start limited by the limited finances of Hessen-Darmstadt.
+established$$$@@@%%%The noteworthy creation of a faculty of economics (1777-1785) was ultimately was born out of this financial hardship.
+established$$$@@@%%%In the faculty of economics new practical subjects were brought together (veterinary medicine, forestry, and cameral sciences), which the university was supposed to make &quot;expedient&quot; and &quot;profitable.&quot;
+established$$$@@@%%%After finishing studies in this faculty, a number of these youths were able to gain recognition in the faculties of medicine and philosophy.
+established$$$@@@%%%They established the unusually diverse course offerings that continue to exist to the modern day at the University of Gie&#x00df;en.
+image_name$$$@@@%%%</p>
+established$$$@@@%%%<p>The University of Gie&#x00df;en weathered the transition from the 18th to the 19th century unscathed and was still the only university of an enlarged territory, the Grand-duchy of Hessen.
+established$$$@@@%%%Alongside Jena, Gie&#x00df;en was the prototype for the politicized Vorm&#x00e4;rz university, and the &quot;Gie&#x00df;ener Schwarzen&quot; with Karl Follen and Georg B&#x00fc;chner marked the revolutionary spirit of this decade.
+established$$$@@@%%%With the appointment of the 21 year old <a>Justus von Liebig</a> in 1824 through the Grand Duchy&#x2014;against the will of the university on the recommendation of Alexander von Humboldt&#x2014;a new era in the natural sciences began, not only in Gie&#x00df;en.
+established$$$@@@%%%Young, promising scientists created a new impulse in their respective areas of knowledge; among these scientists were the antiquarian Friedrich Gottlieb Welcker, the lawyer Rudolf von Jhreing, the theologian Adolf von Harnack, and the physicist Wilhelm Conrad R&#x00f6;ntgen.
+image_name$$$@@@%%%</p>
+established$$$@@@%%%<p>At the turn of the 20th century, the Ludoviciana began to expand into a modern university.
+established$$$@@@%%%During this period, new clinics in human and veterinary medicine were established, and the university library received its first proper building.
+established$$$@@@%%%With the creation of the university's central building (inaugurated 1880) and the adjacent newly constructed facilities for chemistry and physics a new cultural center was established on what was then the border of the city.
+established$$$@@@%%%The decisive backer of this project was the last Grand Duke Ernst Ludwig, to whom the university bestowed out of thankfulness the honorary title of &quot;Rector Magnificentissimus.&quot;
+students$$$@@@%%%In 1902 the student body surpassed one thousand.
+established$$$@@@%%%For the first time included in the student body were women, who since 1900 were admitted as guest students and starting in 1908 were admitted for regular study.
+image_name$$$@@@%%%</p>
+type$$$@@@%%%<p>After the different Hessian states were (re-)united in 1929, both universities became public universities of that German state.
+established$$$@@@%%%The University of Gie&#x00df;en now has almost 23,000 students and 8,500 employees, which together with the <a>University of Applied Sciences Giessen-Friedberg</a>, makes Gie&#x00df;en the most student-dominated German city.</p>
+nickname$$$@@@%%%<h3>Growth in the Student Population</h3>
+country$$$@@@%%%<p>Following is the growth in the student population of the University of Gie&#x00df;en</p>
+website$$$@@@%%%<p>&lt;timeline&gt; ImageSize = width:444 height:200 PlotArea  = left:70 right:40 top:20 bottom:20 TimeAxis  = orientation:vertical  AlignBars = justify  Colors = </p>
+image_size$$$@@@%%%<pre> id:gray1 value:gray(0.9)</pre>
+image_name$$$@@@%%%<p>DateFormat = yyyy Period     = from:0 till:25000 ScaleMajor = unit:year increment:5000 start:0 gridcolor:gray1 PlotData =</p>
+image_size$$$@@@%%%<pre> bar:1939 color:gray1 width:1 
+postgrad$$$@@@%%%  from:0 till:557 width:15 text:557 textcolor:red fontsize:8px
+image_size$$$@@@%%% bar:1980 color:gray1 width:1 
+affiliations$$$@@@%%%  from:0 till:14366 width:15 text:14.366
+image_name$$$@@@%%%textcolor:red fontsize:8px
+image_size$$$@@@%%% bar:1985 color:gray1 width:1 
+affiliations$$$@@@%%%  from:0 till:17088 width:15 text:17.088
+image_name$$$@@@%%%textcolor:red fontsize:8px
+image_size$$$@@@%%% bar:1990 color:gray1 width:1 
+affiliations$$$@@@%%%  from:0 till:19218 width:15 text:19.218
+image_name$$$@@@%%%textcolor:red fontsize:8px
+image_size$$$@@@%%% bar:1995 color:gray1 width:1 
+affiliations$$$@@@%%%  from:0 till:21298 width:15 text:21.298
+image_name$$$@@@%%%textcolor:red fontsize:8px
+image_size$$$@@@%%% bar:2000 color:gray1 width:1 
+affiliations$$$@@@%%%  from:0 till:19548 width:15 text:19.548
+image_name$$$@@@%%%textcolor:red fontsize:8px
+image_size$$$@@@%%% bar:2005 color:gray1 width:1 
+postgrad$$$@@@%%%  from:0 till:21900 width:15 text:21900 textcolor:red fontsize:8px
+image_size$$$@@@%%% bar:2007 color:gray1 width:1 
+affiliations$$$@@@%%%  from:0 till:21735 width:15 text:21.735
+image_name$$$@@@%%%textcolor:red fontsize:8px
+image_size$$$@@@%%% bar:2008 color:gray1 width:1 
+affiliations$$$@@@%%%  from:0 till:21735 width:15 text:22.900
+image_name$$$@@@%%%textcolor:red fontsize:8px
+image_size$$$@@@%%% bar:2009 color:gray1 width:1 
+affiliations$$$@@@%%%  from:0 till:24000 width:15 text:&gt;24.000
+image_name$$$@@@%%%textcolor:red fontsize:8px</pre>
+image_name$$$@@@%%%<p>&lt;/timeline&gt;</p>
+established$$$@@@%%%<p>In the 2009 winter semester the student population exceeded the mark of more than a total of 24,000 students and 4500 first-semester students for the first time.
+image_name$$$@@@%%%</p>
+campus$$$@@@%%%<h2>Faculties and Departments</h2>
+image_name$$$@@@%%%<ul>
+doctoral$$$@@@%%%  <li>Faculty 01 - Law</li>
+nickname$$$@@@%%%  <li>Faculty 02 - Economics and Business Studies</li>
+doctoral$$$@@@%%%  <li>Faculty 03 - Social Sciences and Cultural Studies</li>
+doctoral$$$@@@%%%  <li>Faculty 04 - History and Cultural Studies</li>
+doctoral$$$@@@%%%  <li>Faculty 05 - Language, Literature, Culture</li>
+doctoral$$$@@@%%%  <li>Faculty 06 - Psychology and Sports Science</li>
+doctoral$$$@@@%%%  <li>Faculty 07 - Mathematics and Computer Science, Physics, Geography</li>
+doctoral$$$@@@%%%  <li>Faculty 08 - Biology and Chemistry</li>
+website$$$@@@%%%  <li>Faculty 09 - Agricultural Sciences, Nutritional Sciences and Environmental Management</li>
+free_label$$$@@@%%%  <li>Faculty 10 - Veterinary Medicine</li>
+doctoral$$$@@@%%%  <li>Faculty 11 - Medicine</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h2>Campus</h2>
+established$$$@@@%%%<p>Although the university has no defined campus, buildings and facilities are grouped together according to their subject areas and situated in various locations around Gie&#x00df;en. Philosophikum II, for example is an area on the outskirts of the city bordering the city forest.
+nickname$$$@@@%%%A number of faculty buildings and lecture theaters are located there, including Audimax, a building containing several lecture halls whose atrium is often the venue for concerts and disco-nights, locally known as &quot;Uni-Partys.&quot;</p>
+affiliations$$$@@@%%%<p>&lt;gallery&gt; File:Physik und ifz.jpg|Interdisiplinary
+established$$$@@@%%%Research Center (IFZ) with the physics buildings in the background.
+established$$$@@@%%%File:Zeughaus - (Gie&#x00df;en, Mitte 2003).jpg|Zeughaus, a historic building in Gie&#x00df;en used by the geography and law departments.
+vice_chancellor$$$@@@%%%File:Justus-liebig-universitaet klinikum chirurgie20071014.jpg|Surgery
+established$$$@@@%%%building of the university hospital.
+established$$$@@@%%%File:2008-08_Gie%C3%9Fen_02.jpg|Department of Economics, Law and Business Studies</p>
+image_name$$$@@@%%%<p>&lt;/gallery&gt;</p>
+free$$$@@@%%%<h2>Notable alumni</h2>
+established$$$@@@%%%<p>Next to Liebig, famous professors at the university included the <a>theologian</a> <a>Adolf von Harnack</a>, the <a>lawyer</a> <a>Rudolf von Jhering</a>, <a>Frank-Walter Steinmeier</a> former foreign secretary of Germany, the <a>economist</a> and <a>statistician</a> <a>Etienne Laspeyres</a>, the <a>physicist</a> <a>Wilhelm Conrad R&#x00f6;ntgen</a>, the <a>mathematician</a>s <a>Moritz Pasch</a> and <a>Alfred Clebsch</a>, the <a>gestalt psychologist</a> <a>Kurt Koffka</a>, the <a>philologist</a> and <a>archaeologist</a> <a>Friedrich Gottlieb Welcker</a>, and the orientalist <a>Eberhard Schrader</a>.
+country$$$@@@%%%All of the most famous alumni of the university were born in Hesse-Darmstadt.
+established$$$@@@%%%They include the German romantic dramatist and revolutionary <a>Georg B&#x00fc;chner</a>, the literary and political <a>historian</a> <a>Georg Gottfried Gervinus</a> and the <a>botanist</a> <a>Johann Jacob Dillenius</a>.</p>
+established$$$@@@%%%<p>The Holocaust Literature Research Unit of the university plans to publish <a>My Opposition</a>, <a>Friedrich Kellner</a>'s World War II diary.
+established$$$@@@%%%Friedrich Kellner was chief justice inspector in Laubach from 1933 to 1950 and also district auditor for the region of Gie&#x00df;en.</p>
+established$$$@@@%%%<h2>Points of interest</h2>
+image_name$$$@@@%%%<ul>
+affiliation$$$@@@%%%  <li><a>Akademischer Forstgarten Gie&#x00df;en</a></li>
+affiliation$$$@@@%%%  <li><a>Botanischer Garten Gie&#x00df;en</a>, the university's historic <a>botanical garden</a></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h2>References</h2>
+image_name$$$@@@%%%<p>&lt;references/&gt;</p>
+image_name$$$@@@%%%<h2>External links</h2>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%<ul>
+established$$$@@@%%%  <li><a>University of Gie&#x00df;en homepage in English</a></li>
+website$$$@@@%%%  <li><a>Current events at the University</a></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%
+image_name$$$@@@%%%

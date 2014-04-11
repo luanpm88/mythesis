@@ -1,0 +1,7 @@
+<li><a>ABBYY</a></li>
+<li><a>Intel</a></li>
+<li><a>Paragon Software Group</a></li>
+<li><a>SWsoft</a></li>
+<li><a>Yandex</a></li>
+<li><a>Official website</a> </li>
+<li><a>Official website</a> </li>

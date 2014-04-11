@@ -1,0 +1,2 @@
+<p>The following course combinations are available:</p>
+<p><strong><a>Business</a></strong></p>

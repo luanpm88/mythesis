@@ -1,0 +1,7 @@
+<li>Faculty of Law and Political Sciences (&#x00c1;JK)</li>
+<li>B&#x00e1;rczi Guszt&#x00e1;v Faculty of Special Education (BGGyK)</li>
+<li>Faculty of Humanities (BTK)</li>
+<li>Faculty of Informatics (IK)</li>
+<li>Faculty of Social Sciences (T&#x00e1;TK)</li>
+<li>Faculty of Elementary and Nursery School Teachers' Training (T&#x00d3;K)</li>
+<li>Faculty of Science (TTK)</li>

@@ -1,0 +1,95 @@
+image_name$$$@@@%%%<p>  </p>
+image_name$$$@@@%%%<p></p>
+established$$$@@@%%%<p>The <strong>E&#x00f6;tv&#x00f6;s Lor&#x00e1;nd University</strong> or <strong>ELTE</strong>, founded in 1635, is the largest university in <a>Hungary</a>, located in <a>Budapest</a>.</p>
+established$$$@@@%%%<h2>History</h2>
+established$$$@@@%%%<p>The university was founded in 1635 in Nagyszombat (today <a>Trnava</a>, Slovakia) by the archbishop and theologian <a>P&#x00e9;ter P&#x00e1;zm&#x00e1;ny</a>. Leadership was given over to the <a>Jesuit</a>s.
+affiliation$$$@@@%%%At this time, the university only had two colleges (College of Arts and College of Theology).
+established$$$@@@%%%The College of Law was added in 1667 and the College of Medicine was started in 1769.
+established$$$@@@%%%After the dissolution of the Jesuit order, the university was moved to <a>Buda</a> (a part of Budapest today) in 1777 in accordance with the intention of the founder.
+established$$$@@@%%%The university received its final location in <a>Pest</a> (the other side of today's Budapest) in 1784.
+established$$$@@@%%%The language of education was <a>Latin</a> until 1844, when Hungarian was introduced as an official language.
+athletics$$$@@@%%%Women have been allowed to enroll since 1895.</p>
+established$$$@@@%%%<p>It was named <strong>University of Budapest</strong> (<em>Budapesti Tudom&#x00e1;nyegyetem</em>) until 1921, when it was renamed <strong>P&#x00e1;zm&#x00e1;ny P&#x00e9;ter University</strong> (not to be confused with <a>P&#x00e1;zm&#x00e1;ny P&#x00e9;ter Katolikus Egyetem</a>, a separate and more recent university).
+established$$$@@@%%%The Faculty of Science started its separate life in 1949.
+established$$$@@@%%%The university received its current name <em>E&#x00f6;tv&#x00f6;s Lor&#x00e1;nd University</em> after the physicist <a>Lor&#x00e1;nd E&#x00f6;tv&#x00f6;s</a> in 1950.</p>
+image_name$$$@@@%%%<h2>Today</h2>
+undergrad$$$@@@%%%<p>Today E&#x00f6;tv&#x00f6;s Lor&#x00e1;nd University has 8 different faculties and more than 30,000 students.
+established$$$@@@%%%According to the <em><a>Academic Ranking of World Universities</a></em> by <a>Shanghai Jiao Tong University</a> (2010), it was qualified as the best university in Hungary (301-400th in the complete list), with the <a>University of Szeged</a>.</p>
+image_name$$$@@@%%%<h2>Faculties</h2>
+nickname$$$@@@%%%<p>Its eight faculties are the following:</p>
+image_name$$$@@@%%%<ul>
+closed$$$@@@%%%  <li>Faculty of Law and Political Sciences (&#x00c1;JK)</li>
+closed$$$@@@%%%  <li>B&#x00e1;rczi Guszt&#x00e1;v Faculty of Special Education (BGGyK)</li>
+closed$$$@@@%%%  <li>Faculty of Humanities (BTK)</li>
+closed$$$@@@%%%  <li>Faculty of Informatics (IK)</li>
+type$$$@@@%%%  <li>Faculty of Education and Psychology (PPK)</li>
+closed$$$@@@%%%  <li>Faculty of Social Sciences (T&#x00e1;TK)</li>
+closed$$$@@@%%%  <li>Faculty of Elementary and Nursery School Teachers' Training (T&#x00d3;K)</li>
+closed$$$@@@%%%  <li>Faculty of Science (TTK)</li>
+image_name$$$@@@%%%</ul>
+free$$$@@@%%%<h2>Notable alumni</h2>
+image_name$$$@@@%%%<ul>
+affiliation$$$@@@%%%  <li><a>Mikl&#x00f3;s Ajtai</a>, <a>Knuth Prize</a> (2003)</li>
+affiliation$$$@@@%%%  <li><a>J&#x00f3;zsef Antall</a></li>
+affiliation$$$@@@%%%  <li><a>Wilhelm Bacher</a></li>
+image_size$$$@@@%%%  <li><a>Albert-L&#x00e1;szl&#x00f3; Barab&#x00e1;si</a></li>
+image_size$$$@@@%%%  <li><a>K&#x00e1;roly Bezdek</a></li>
+type$$$@@@%%%  <li><a>Georg von B&#x00e9;k&#x00e9;sy</a>, <a>Nobel Prize</a> in Physiology or Medicine (1961)</li>
+affiliations$$$@@@%%%  <li><a>Christine L. Borgman</a></li>
+affiliation$$$@@@%%%  <li><a>Laszlo Garai</a></li>
+doctoral$$$@@@%%%  <li><a>Ahn Eak-tai</a></li>
+affiliation$$$@@@%%%  <li><a>Paul Erd&#x0151;s</a></li>
+affiliations$$$@@@%%%  <li><a>Peter G. Gyarmati</a></li>
+affiliation$$$@@@%%%  <li><a>Zsuzsanna Jakab</a></li>
+image_size$$$@@@%%%  <li><a>L&#x00e1;szl&#x00f3; K&#x00e1;kosy</a></li>
+affiliation$$$@@@%%%  <li><a>Andras Kornai</a></li>
+affiliation$$$@@@%%%  <li><a>Ferenc Krausz</a></li>
+affiliation$$$@@@%%%  <li><a>Mikl&#x00f3;s Laczkovich</a></li>
+image_size$$$@@@%%%  <li><a>P&#x00e1;l Schiller Harkai</a></li>
+image_size$$$@@@%%%  <li><a>&#x00c1;gnes Heller</a></li>
+established$$$@@@%%%  <li><a>John Harsanyi</a>, <a>Nobel Prize</a> in Economics (1994)</li>
+image_size$$$@@@%%%  <li><a>L&#x00e1;szl&#x00f3; Kalm&#x00e1;r</a></li>
+affiliation$$$@@@%%%  <li><a>Karl Ker&#x00e9;nyi</a></li>
+image_size$$$@@@%%%  <li><a>L&#x00e1;szl&#x00f3; Lov&#x00e1;sz</a>, <a>Knuth Prize</a> (1999)</li>
+affiliation$$$@@@%%%  <li><a>Ioan Lupa&#x015f;</a></li>
+affiliation$$$@@@%%%  <li><a>Iuliu Maniu</a></li>
+image_size$$$@@@%%%  <li><a>L&#x00e1;szl&#x00f3; M&#x00e9;r&#x0151;</a></li>
+image_size$$$@@@%%%  <li><a>P&#x00e9;ter Moln&#x00e1;r</a></li>
+affiliation$$$@@@%%%  <li><a>Krisztina Morvai</a></li>
+affiliation$$$@@@%%%  <li><a>Teodor Mur&#x0103;&#x015f;anu</a></li>
+image_size$$$@@@%%%  <li><a>&#x00c1;d&#x00e1;m N&#x00e1;dasdy</a></li>
+vice_chancellor$$$@@@%%%  <li><a>John von Neumann</a></li>
+doctoral$$$@@@%%%  <li><a>Viktor Orb&#x00e1;n</a>, <a>Prime Minister of Hungary</a>, 1998-2002, 2010-</li>
+affiliation$$$@@@%%%  <li><a>Raphael Patai</a></li>
+affiliation$$$@@@%%%  <li><a>R&#x00f3;zsa P&#x00e9;ter</a></li>
+image_size$$$@@@%%%  <li><a>&#x00c1;goston P&#x00e1;vel</a></li>
+affiliation$$$@@@%%%  <li><a>Karl Polanyi</a></li>
+affiliation$$$@@@%%%  <li><a>Michael Polanyi</a></li>
+affiliation$$$@@@%%%  <li><a>Peter Pulay</a></li>
+image_size$$$@@@%%%  <li><a>J&#x00f3;zsef Sz&#x00e1;jer</a></li>
+type$$$@@@%%%  <li><a>Albert Szent-Gy&#x00f6;rgyi</a>, <a>Nobel Prize</a> in Physiology or Medicine (1937)</li>
+affiliation$$$@@@%%%  <li><a>Franz Tangl</a></li>
+image_size$$$@@@%%%  <li><a>&#x00c9;va Tardos</a>, member of the <a>American Academy of Arts and Sciences</a></li>
+affiliation$$$@@@%%%  <li><a>Stephen Ullmann</a></li>
+image_size$$$@@@%%%  <li><a>Ferenc A. V&#x00e1;li</a></li>
+image_size$$$@@@%%%  <li><a>S&#x00e1;ndor Wekerle</a></li>
+affiliation$$$@@@%%%  <li><a>Franz Wittmann</a></li>
+affiliation$$$@@@%%%  <li><a>Michael Somogyi</a></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h2>External links</h2>
+image_name$$$@@@%%%<ul>
+image_size$$$@@@%%%  <li><a>E&#x00f6;tv&#x00f6;s Lor&#x00e1;nd University</a> (list of faculties)</li>
+type$$$@@@%%%  <li><a>ELTE Faculty of Science</a> (description in English)</li>
+type$$$@@@%%%  <li><a>ELTE Faculty of Humanities</a></li>
+established$$$@@@%%%  <li><a>Its full history in Hungarian</a></li>
+type$$$@@@%%%  <li><a>Academic Ranking of World Universities - 2005</a></li>
+established$$$@@@%%%  <li><a>Pictures, sorted by faculties</a></li>
+type$$$@@@%%%  <li><a>Site of Faculty of law</a></li>
+type$$$@@@%%%  <li><a>Site of Faculty of Informatics</a></li>
+affiliation$$$@@@%%%  <li><a>Utrecht Network</a></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p>  </p>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%
+image_name$$$@@@%%%

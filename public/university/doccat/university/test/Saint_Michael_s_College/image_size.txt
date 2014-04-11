@@ -1,0 +1,4 @@
+<h2>Student life</h2>
+<li><a>Thomas E. Delahanty II</a>, <a>Maine Superior Court</a> justice</li>
+<li><a>Roger Festa</a>, President of the <a>American Institute of Chemists</a></li>
+<li><a>Robert White (ambassador)</a>, US Ambassador to El Salvador and Paraguay, and current President of the Center for International Policy</li>

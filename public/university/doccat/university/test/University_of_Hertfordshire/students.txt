@@ -1,0 +1,2 @@
+The university has five <a>faculties</a>:</p>
+<li><a>Society of Sports Therapists</a></li>

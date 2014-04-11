@@ -1,0 +1,9 @@
+<p>;<a>Financial Times</a>:</p>
+<li><a><strong>Wall Street Journal</strong></a></li>
+<li>Full-time MBA (World) 12</li>
+<p>;<a>Eduniversal</a>:</p>
+<li>Full-time MBA (Europe) 9</li>
+<li>Full- time MBA (World) 63</li>
+<li><a>Bj&#x00f8;rn Lomborg</a> </li>
+<li><a>PhD</a></li>
+<li><a>CBS International</a></li>

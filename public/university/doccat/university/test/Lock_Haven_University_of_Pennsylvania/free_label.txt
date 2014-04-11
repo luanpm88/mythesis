@@ -1,0 +1,7 @@
+<h3>Academic buildings</h3>
+<h4>East Campus</h4>
+<h3>Administrative buildings</h3>
+<p>Lock Haven University's student-operated television station, The Havenscope, <a>LHUTV</a> broadcasts news, sports, and other programs.
+<h2>Athletics</h2>
+<li>Team name: Bald Eagles</li>
+Others include the Recreation Center, the Durrwachter Alumni Conference Center, Fredericks Family Memorial carillon.</p>

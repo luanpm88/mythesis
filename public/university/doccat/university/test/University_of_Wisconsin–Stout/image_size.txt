@@ -1,0 +1,13 @@
+<li>Red Cedar Hall</li>
+<li>Wigen Hall</li>
+<li>Hovlid Hall</li>
+<li>Fleming Hall</li>
+<li>Harvey Hall</li>
+<li>Bowman Hall</li>
+<li>Millenium Hall</li>
+<li>Fryklund Hall</li>
+<li>McCalmont Hall</li>
+<li>Memorial Student Center</li>
+<li>Jarvis Hall</li>
+<li>Micheels Hall</li>
+<p><a>thumb|right|Bowman Hall</a></p>

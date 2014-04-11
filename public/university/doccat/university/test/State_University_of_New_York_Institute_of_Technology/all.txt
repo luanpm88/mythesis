@@ -1,0 +1,96 @@
+established$$$@@@%%%<p> The <strong>State University of New York Institute of Technology at Utica/Rome</strong> (SUNYIT) is a campus of the <a>State University of New York</a> in the town of <a>Marcy</a>.
+established$$$@@@%%%Established by the SUNY Board of Trustees on June 14, 1966, SUNYIT is the State of New York's public institute of technology.
+country$$$@@@%%%SUNYIT is accredited by the <a>Middle States Association of Colleges and Schools</a>.
+established$$$@@@%%%A $225-million-dollar partnership between SUNYIT and <a>State University of New York at Albany</a>'s College of Nanoscale Science and Engineering was announced in 2009; construction projects on the SUNYIT campus totaling $100 million are underway.
+image_name$$$@@@%%%</p>
+postgrad$$$@@@%%%<p>More than 2,900 students are enrolled in undergraduate and graduate degree programs in technology and professional studies on the SUNYIT campus and online.
+faculty$$$@@@%%%SUNYIT students come from all over New York, many other states, and more than 20 other nations.</p>
+established$$$@@@%%%<h2>History</h2>
+established$$$@@@%%%<p>Originally a graduate and upper-division institution, the college offered classes in temporary locations and at extension sites for several years until the first buildings were constructed on the permanent Marcy, New York campus in the 1980s.
+established$$$@@@%%%In 2002, the SUNY Board of Trustees approved a mission change, enabling SUNYIT to offer lower-division programs in professional, technological, and applied studies.
+established$$$@@@%%%In fall 2003, SUNYIT admitted its first class of freshmen, becoming a full, four-year institution.</p>
+image_name$$$@@@%%%<h2>Campus</h2>
+nickname$$$@@@%%%<p>The developed campus occupies more than 400 acres, with major buildings surrounding by trees and green landscape.
+established$$$@@@%%%The &quot;west campus&quot; property of more than 300 acres is reserved for the development of the Marcy NanoCenter at SUNYIT.</p>
+established$$$@@@%%%<p>The campus&#x2019;s current two residential complexes &#x2013; Mohawk and Adirondack Halls &#x2013; offer the privacy and convenience of apartments, with students sharing suites in townhouse-style buildings.
+established$$$@@@%%%A third complex, Oriskany Residence Hall, is under construction and will be ready for occupancy by the entering freshman class in fall 2011.
+postgrad$$$@@@%%%Other major campus improvements underway are a $13 million student center and a $20 million field house, both to be completed and occupied in 2011, and a $127.5 million technology complex that will be completed in 2012-2013.</p>
+image_name$$$@@@%%%<h2>Academics</h2>
+staff$$$@@@%%%<h3>Undergraduate degree programs</h3>
+image_name$$$@@@%%%<h4>BS</h4>
+image_name$$$@@@%%%<ul>
+image_name$$$@@@%%%  <li>Accounting</li>
+image_name$$$@@@%%%  <li>Applied Computing</li>
+image_name$$$@@@%%%  <li>Applied Mathematics</li>
+nickname$$$@@@%%%  <li>Business Administration</li>
+city$$$@@@%%%  <li>Civil Engineering Technology</li>
+image_name$$$@@@%%%  <li>Communication &amp; Information Design</li>
+city$$$@@@%%%  <li>Computer Engineering Technology</li>
+doctoral$$$@@@%%%  <li>Computer and Information Science</li>
+image_name$$$@@@%%%  <li>Computer Information Systems</li>
+campus$$$@@@%%%  <li>Electrical and Computer Engineering</li>
+city$$$@@@%%%  <li>Electrical Engineering Technology</li>
+free_label$$$@@@%%%  <li>Health Information Management</li>
+nickname$$$@@@%%%  <li>Interdisciplinary Studies</li>
+city$$$@@@%%%  <li>Mechanical Engineering Technology</li>
+image_name$$$@@@%%%  <li>Network &amp; Computer Security</li>
+staff$$$@@@%%%  <li>Nursing (associate degree or diploma in nursing required)</li>
+image_name$$$@@@%%%  <li>Psychology</li>
+image_name$$$@@@%%%  <li>Sociology</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h3>Accelerated Programs (BS/MS)</h3>
+image_name$$$@@@%%%<ul>
+city$$$@@@%%%  <li>Communication &amp; Information Design/Information Design &amp; Technology</li>
+doctoral$$$@@@%%%  <li>Computer Science</li>
+image_name$$$@@@%%%  <li>Nursing</li>
+image_name$$$@@@%%%  <li>Network &amp; Computer Security/Telecommunications</li>
+image_name$$$@@@%%%</ul>
+staff$$$@@@%%%<h3>Graduate degree programs (MS/MBA)</h3>
+image_name$$$@@@%%%<h4>MS Programs</h4>
+image_name$$$@@@%%%<ul>
+image_name$$$@@@%%%  <li>Accountancy</li>
+city$$$@@@%%%  <li>Advanced Technology</li>
+image_name$$$@@@%%%  <li>Adult Nurse Practitioner</li>
+doctoral$$$@@@%%%  <li>Computer &amp; Information Science</li>
+image_name$$$@@@%%%  <li>Family Nurse Practitioner</li>
+image_name$$$@@@%%%  <li>Gerontological Nurse Practitioner</li>
+city$$$@@@%%%  <li>Information Design &amp; Technology</li>
+image_name$$$@@@%%%  <li>Nursing Administration</li>
+mascot$$$@@@%%%  <li>Nursing Education</li>
+image_name$$$@@@%%%  <li>Telecommunications</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h4>MBA Programs</h4>
+image_name$$$@@@%%%<ul>
+free_label$$$@@@%%%  <li>Health Services Management</li>
+city$$$@@@%%%  <li>Technology Management</li>
+image_name$$$@@@%%%</ul>
+staff$$$@@@%%%<h3>Certificate for Advanced Studies (post master&#x2019;s degree)</h3>
+image_name$$$@@@%%%<ul>
+image_name$$$@@@%%%  <li>Adult Nurse Practitioner</li>
+image_name$$$@@@%%%  <li>Family Nurse Practitioner</li>
+image_name$$$@@@%%%  <li>Gerontological Nurse Practitioner</li>
+image_name$$$@@@%%%  <li>Nursing Administration</li>
+mascot$$$@@@%%%  <li>Nursing Education</li>
+image_name$$$@@@%%%</ul>
+free_label$$$@@@%%%<h2>Athletics</h2>
+nickname$$$@@@%%%<p>SUNYIT is a member of the National Collegiate Athletic Association (NCAA) Division III, the Eastern Collegiate Athletic Conference (ECAC), and the North Eastern Athletic Conference (NEAC).
+students$$$@@@%%%The current roster of SUNYIT varsity sports includes baseball, men&#x2019;s and women&#x2019;s basketball, men&#x2019;s and women&#x2019;s bowling, men&#x2019;s and women&#x2019;s cross country, men&#x2019;s golf, men&#x2019;s and women&#x2019;s soccer, softball, men&#x2019;s and women&#x2019;s swimming and men&#x2019;s and women&#x2019;s volleyball.</p>
+established$$$@@@%%%<p>Construction of a $20 million field house and turf field is scheduled to be completed in 2011.
+free_label$$$@@@%%%The field house will feature a state-of-the-art fitness center, two full-sized basketball courts and four volleyball courts, indoor practice facilities for all Wildcat teams, a running track, an expansive training room, team rooms, and offices for the athletics department&#x2019;s administrative staff and coaches.
+postgrad$$$@@@%%%In addition, a new baseball field will be developed.</p>
+country$$$@@@%%%<h2>Student Association</h2>
+country$$$@@@%%%<p>The Student Association of SUNYIT is a student-operated organization that serves and represents the students of SUNYIT by organizing and sponsoring a variety of campus events and entertainment.
+chairman$$$@@@%%%The Student Association oversees numerous student-run organizations such as the Campus Activities Board, Club Funding Board, After Hours Activities Board, Wildcat Media television/radio station, Factory Times newspaper, and Genesis yearbook.
+established$$$@@@%%%Events hosted by Student Association and its constituents include FragFest, a <a>LAN party</a> that regularly attracts a large number of gamers from the region, as well as Wildcat Family Fest (in close association with the Alumni Association), a parent and alumni weekend.</p>
+image_name$$$@@@%%%<h2>External links</h2>
+image_name$$$@@@%%%<ul>
+affiliation$$$@@@%%%  <li><a>SUNYIT Web Page</a></li>
+affiliation$$$@@@%%%  <li><a>AACSB International Accreditation</a></li>
+affiliation$$$@@@%%%  <li><a>Major technology partnership announced</a></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p><img></p>
+established$$$@@@%%%<p> &lt;!-- template copied from <a>State University of New York at Oneonta</a>, while the actual coordinates given by <a>http://itouchmap.com/latlong.html</a>
+image_name$$$@@@%%%--&gt;</p>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%
+image_name$$$@@@%%%

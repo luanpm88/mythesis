@@ -1,0 +1,98 @@
+type$$$@@@%%%<p> <a>240px|thumb|right|Yellowjacket Union</a> The <strong>University of Wisconsin&#x2013;Superior</strong> (also known as <strong>UW&#x2013;Superior</strong>, <strong>UWS</strong> or <strong>Superior</strong>) is a public university located in <a>Superior, Wisconsin</a>.
+affiliations$$$@@@%%%UW&#x2013;Superior grants bachelor's, master's, and specialist's degrees.
+undergrad$$$@@@%%%The university currently enrolls 2,500 undergraduate and 300 graduate students.</p>
+established$$$@@@%%%<h2>History</h2>
+established$$$@@@%%%<p>Originally named Superior Normal School, the university was founded by Wisconsin legislators as a school to train teachers in 1893.
+established$$$@@@%%%Superior Normal School's first class graduated in 1897.
+established$$$@@@%%%In 1909 the institution became Wisconsin's first normal school to offer a full-scale training program for the new idea of kindergarten.
+established$$$@@@%%%It also was the first to offer a four-year program for high school teachers beginning in 1923.
+established$$$@@@%%%After authorization to grant bachelor's degrees in education in 1926, the school took on the new name of Superior State Teachers College.
+established$$$@@@%%%Graduate degrees were authorized in 1947 and first offered in 1950.
+established$$$@@@%%%In 1951 the state board of regents changed the institution's name to Wisconsin State College-Superior to better reflect its expanding role.
+established$$$@@@%%%Wisconsin's state colleges eventually were reclassified as universities, resulting in another name change in 1964 to Wisconsin State University-Superior.
+established$$$@@@%%%Finally, in 1971 Superior became part of the <a>University of Wisconsin System</a> and acquired its present name.</p>
+image_name$$$@@@%%%<h2>Mission</h2>
+type$$$@@@%%%<p>UW&#x2013;Superior has been designated as the public <a>liberal arts college</a> in the <a>University of Wisconsin System</a>, and is a member of the <a>Council of Public Liberal Arts Colleges</a>.
+established$$$@@@%%%The University of Wisconsin&#x2013;Superior fosters intellectual growth and career preparation within a liberal arts tradition that emphasizes individual attention and embodies respect for diverse cultures and multiple voices.</p>
+free_label$$$@@@%%%<h2>Major campus buildings</h2>
+image_name$$$@@@%%%<ul>
+image_size$$$@@@%%%  <li>Barstow Hall, named for regent Barney Barstow: science programs</li>
+image_size$$$@@@%%%  <li>Erlanson Hall, named for regent Clarence Erlanson: business programs, Distance Learning Center, Transportation and Logistics Research Center</li>
+country$$$@@@%%%  <li>Gates Physical Education Building, named for regent Clough Gates: classrooms and labs, Mortorelli Gymnasium</li>
+established$$$@@@%%%  <li>Hawkes Hall, named for regent Elizabeth Hawkes: built as a residence hall, but now mainly houses non-university office space</li>
+type$$$@@@%%%  <li>Holden Fine Arts Center, named for campus benefactor Paul Holden: communicating arts, music, and visual arts programs, Wisconsin Public Radio studios (<a>KUWS</a>/WHSA), Manion Theatre</li>
+established$$$@@@%%%  <li>Jim Dan Hill Library, named for the university's fifth president (1931-1964)</li>
+free_label$$$@@@%%%  <li>Marcovich Wellness Center, named for regent Toby Marcovich: athletics, health and human performance programs, recreation, Thering Field House</li>
+image_size$$$@@@%%%  <li>McCaskill Hall, named for second president Virgil McCaskill (1907-1922): education and science programs, Lake Superior Research Institute,Technology Resource Center, Kathryn Ohman Theatre</li>
+country$$$@@@%%%  <li>Old Main, administration and student services, psychology program</li>
+image_size$$$@@@%%%  <li>Sundquist Hall, named for regent George Sundquist: social sciences, languages, mathematics and computer science, First Nations Center</li>
+postgrad$$$@@@%%%  <li>Swenson Hall, under construction: will replace Sundquist and McCaskill Halls</li>
+established$$$@@@%%%  <li>Wessman Arena, named for regent Siinto Wessman</li>
+free_label$$$@@@%%%  <li>Yellowjacket Union: Jacket Book and Supply, Union Cafe, Union Desk Information and Services, Rothwell Opportunity Center, and ResNet</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h2>Residence halls</h2>
+image_name$$$@@@%%%<ul>
+image_size$$$@@@%%%  <li>Crownhart Hall, named for regent Charles Crownhart</li>
+image_size$$$@@@%%%  <li>Curran Hall, named for regent Robert Curran</li>
+city$$$@@@%%%  <li>McNeill Hall, named for first president Israel McNeill (1896-1907)</li>
+image_size$$$@@@%%%  <li>Ostrander Hall, named for regent Frank Ostrander</li>
+image_size$$$@@@%%%  <li>Ross Hall, named for regent Frank Ross</li>
+image_name$$$@@@%%%</ul>
+free_label$$$@@@%%%<h2>Athletics</h2>
+nickname$$$@@@%%%<p>UW&#x2013;Superior&#x2019;s athletic teams, nicknamed the Yellowjackets, are affiliated with the NCAA&#x2019;s Division III class and are members of the <a>Wisconsin Intercollegiate Athletic Conference</a> (WIAC).
+established$$$@@@%%%The Yellowjacket men&#x2019;s and women&#x2019;s hockey teams compete in the <a>Northern Collegiate Hockey Association</a> (NCHA).
+free$$$@@@%%%In 2002, the men's hockey team won the NCAA Division III National Championship.</p>
+image_name$$$@@@%%%<p></p>
+free_label$$$@@@%%%<h2>Student newspaper</h2>
+established$$$@@@%%%<p><strong>The Stinger</strong> is the student newspaper for the University of Wisconsin&#x2013;Superior. It began as &quot;The Peptomist,&quot; in 1920.
+free_label$$$@@@%%%Students voted to change the name to &quot;Promethean&quot; in 1974.
+established$$$@@@%%%The name was changed again at the start of the 2007-2008 academic year.
+nickname$$$@@@%%%The Stinger also changed from the traditional broad-sheet format to tabloid format.
+established$$$@@@%%%In Fall 2009, The Stinger became primarily an online newspaper, publishing a print magazine compilation at the end of each term.
+image_name$$$@@@%%%</p>
+image_name$$$@@@%%%<h2>Recognitions</h2>
+image_name$$$@@@%%%<ul>
+country$$$@@@%%%  <li>Has the longest history of continuous accreditation among Wisconsin comprehensive colleges and universities, accredited by the <a>North Central Association of Colleges and Schools</a> since 1916.&lt;ref
+image_size$$$@@@%%%name=autogenerated1 /&gt;</li>
+image_name$$$@@@%%%</ul>
+free$$$@@@%%%<h2>Notable alumni==&lt;!--
+established$$$@@@%%%This section is linked from <a>University of Wisconsin System</a> --&gt;</h2>
+image_name$$$@@@%%%<ul>
+affiliation$$$@@@%%%  <li><a>Morrie Arnovich</a>, <a>MLB</a> player</li>
+mascot$$$@@@%%%  <li><a>Richard Bong</a>, World War II flying ace</li>
+affiliation$$$@@@%%%  <li><a>Esther Bubley</a>, photojournalist</li>
+affiliation$$$@@@%%%  <li><a>Billy Ray Cyrus</a>, country music artist</li>
+affiliations$$$@@@%%%  <li><a>Sandra A. Gregory</a>, <a>U.S.
+affiliation$$$@@@%%%Air Force</a> general</li>
+established$$$@@@%%%  <li><a>Oluf (Ole) Haugsrud</a>, owner of the <a>Duluth Eskimos</a> and a founding owner of the <a>Minnesota Vikings</a></li>
+free_label$$$@@@%%%  <li><a>Joe Kelly</a>, co-founder of Dads and Daughters</li>
+affiliation$$$@@@%%%  <li><a>Gordon MacQuarrie</a>, outdoor writer</li>
+affiliation$$$@@@%%%  <li><a>Dom Moselle</a>, <a>NFL</a> player</li>
+nickname$$$@@@%%%  <li><a>Jock Mungavin</a>, professional football player</li>
+affiliation$$$@@@%%%  <li><a>Scott O'Brien</a>, <a>NFL</a> assistant coach</li>
+image_size$$$@@@%%%  <li><a>Fritz Scholder</a>, Native American artist</li>
+established$$$@@@%%%  <li><a>Arnold Schwarzenegger</a>, 38th Governor of the state of <a>California</a>, bodybuilder and actor</li>
+nickname$$$@@@%%%  <li><a>Doug Sutherland</a>, former NFL player with the <a>Minnesota Vikings</a></li>
+free_label$$$@@@%%%  <li><a>Maurice McDonald</a>, co-founder of McDonalds fast food franchise</li>
+image_name$$$@@@%%%</ul>
+staff$$$@@@%%%<h2>Notable faculty and staff</h2>
+image_name$$$@@@%%%<ul>
+affiliation$$$@@@%%%  <li><a>Scott O'Brien</a>, <a>NFL</a> assistant coach</li>
+established$$$@@@%%%  <li><a>Barton Sutter</a>, senior lecturer, writing: author and poet</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h2>References</h2>
+image_name$$$@@@%%%<p>&lt;references/&gt;</p>
+image_name$$$@@@%%%<h2>External links</h2>
+image_name$$$@@@%%%<ul>
+established$$$@@@%%%  <li><a>University of Wisconsin&#x2013;Superior</a></li>
+established$$$@@@%%%  <li><a>University of Wisconsin System</a></li>
+affiliation$$$@@@%%%  <li><a>Yellowjacket Hockey</a></li>
+affiliations$$$@@@%%%  <li><a>KUWS 91.3 FM radio</a></li>
+established$$$@@@%%%  <li><a>The Stinger</a></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p> </p>
+image_name$$$@@@%%%<pre></pre>
+image_name$$$@@@%%%<p>    <img></p>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%
+image_name$$$@@@%%%

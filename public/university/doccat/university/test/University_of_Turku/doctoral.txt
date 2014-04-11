@@ -1,0 +1,3 @@
+<li><a>Turku Centre for Computer Science</a></li>
+<li>Suomen ja sen sukukielten maisteriohjelma (Finnish and Other Finno-Ugric Languages)</li>
+<li><a>Turku Centre for Computer Science (TUCS)</a></li>

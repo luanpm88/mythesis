@@ -1,0 +1,3 @@
+<li>revolutionary forerunner, <a>Huang Ai</a></li>
+<li>nuclear scientist, <a>Jiang Shengjie</a></li>
+<li>mechanic expert, <a>Pan Chengxiao</a></li>

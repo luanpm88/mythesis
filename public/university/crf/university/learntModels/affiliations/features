@@ -1,0 +1,32 @@
+8
+the 0 0:1
+<a>peter 5 4:1
+and 2 0:1
+nfl 1 0:1
+ncaa 3 1:1
+a> 7 4:1
+king< 6 4:1
+with 4 4:1
+******* Features ************
+21
+R_isAllSmallCase:187:1 10
+W_a>:277:4 20
+E.0:182:1 7
+W_nfl:39:0 5
+R_isAllSmallCase:180:0 3
+R_containsSpecialCharacters:978:4 17
+E.0:175:0 4
+U:31:4 12
+W_with:172:4 13
+End.:30:4 19
+W_and:74:0 6
+W_ncaa:116:1 9
+R_isAllSmallCase:208:4 14
+W_<a>peter:207:4 16
+E.4:343:4 15
+U:10:1 8
+W_king<:242:4 18
+W_the:4:0 2
+U:3:0 1
+E.1:238:4 11
+S.:1:0 0

@@ -1,0 +1,4 @@
+<li>Center for Applied Market Science</li>
+<li>3-year Bachelor</li>
+<li>2-year Master</li>
+<li>3-year PhD</li>

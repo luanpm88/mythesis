@@ -1,0 +1,8 @@
+<h2>Research</h2>
+<h3>Research Centres</h3>
+<li>Centre for Nano &amp; Microsystems</li>
+<li>Centre for Forensic Investigation (CFI)</li>
+<li>Centre for Construction Innovation and Research (CCIR)</li>
+<li>Centre for Leadership and Organisational Change (CLOC)</li>
+<h3>Centre for Nano &amp; Microsystem</h3>
+<p>CNM have assembled a comprehensive polymer replication and manufacturing suite made up of CAD design and tool path assembly, CNC micro-milling for tool fabrication, micro-injection moulding and hot embossing for polymer replication and joining.</p>

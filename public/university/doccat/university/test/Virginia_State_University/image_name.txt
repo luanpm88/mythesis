@@ -1,0 +1,59 @@
+<h2>Main Campus</h2>
+<h2>Residence Halls</h2>
+<h2>Academics</h2>
+<ul>
+<ul>
+<li>Hospitality Management</li>
+<li>Dietetic Internship, ADA Accredited</li>
+<li>Cooperative Extension</li>
+</ul>
+</li>
+<ul>
+<li>Management Information Systems</li>
+</ul>
+</li>
+<ul>
+<li>Computer Engineering</li>
+<li>Manufacturing Engineering</li>
+<li>Biology</li>
+<li>Mathematics</li>
+<li>Computer</li>
+<li>Psychology</li>
+<li>Nursing</li>
+</ul>
+</li>
+<ul>
+<ul>
+</ul>
+</li>
+<ul>
+<li>English</li>
+<li>Mass Communication</li>
+</ul>
+</li>
+</ul>
+</li>
+<ul>
+<li>Biology</li>
+<li>Criminal Justice</li>
+<li>Economics</li>
+<li>English</li>
+<li>Mathematics</li>
+<li>Mass Communications</li>
+<li>Psychology</li>
+<li>Sport Management</li>
+</ul>
+</li>
+</ul>
+<h2>Demographics</h2>
+<h3>Cheerleading</h3>
+--&gt; <img>                <img></p>
+<h2>External links</h2>
+<ul>
+--Trojan Explosion website</li>
+</ul>
+<h2>References</h2>
+<p></p>
+<p> <img>  </p>
+
+

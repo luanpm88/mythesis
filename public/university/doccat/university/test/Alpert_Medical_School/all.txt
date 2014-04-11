@@ -1,0 +1,87 @@
+image_name$$$@@@%%%<p></p>
+established$$$@@@%%%<p><strong>The Warren Alpert Medical School</strong> (formerly known as <strong>Brown Medical School</strong>) is the <a>medical school</a> of <a>Brown University</a>, located in <a>Providence, Rhode Island</a>.
+established$$$@@@%%%First established in 1811, the school was suspended after sixteen years of operation by university President <a>Francis Wayland</a>.
+established$$$@@@%%%The medical school was reinstated in 1975.
+type$$$@@@%%%Today, Alpert Medical School is a component of Brown&#x2019;s Division of Biology and Medicine, which also includes the Program in Biology and the Program in Public Health.
+established$$$@@@%%%Together with the Medical School&#x2019;s seven affiliated teaching hospitals, the Division attracts nearly $200 million in external research funding per year, and earning a Research Rank of 32 in the most recent U.S. News ranking of medical schools.
+established$$$@@@%%%The Dean of Biological and Medical Sciences is Dr. Edward J. Wing, an infectious disease specialist and former chair of the Department of Medicine.</p>
+established$$$@@@%%%<h2>History</h2>
+established$$$@@@%%%<p><a>thumb|left|Sidney Frank Hall for Life Sciences, Opened 2004</a> <a>Brown University</a> first organized a medical program in 1811, following examples set by its New England neighbors, <a>Harvard University</a> and <a>Dartmouth College</a>.
+established$$$@@@%%%When President Wayland called for all Brown faculty to reside on campus, the physicians serving as voluntary clinical faculty refused to jeopardize their practices in order to comply.
+country$$$@@@%%%After sixteen years of operation, President Wayland suspended the fledgling medical program.
+country$$$@@@%%%There were 87 graduates of Brown's first program in medicine.
+established$$$@@@%%%The medical school was restarted in 1972 as the Program in Medicine and the first <a>M.D.</a> degrees of the modern era were awarded to a graduating class of 58 students in 1975.
+established$$$@@@%%%The Program in Medicine was renamed Brown University School of Medicine in 1991 and again to Brown Medical School in 2000.</p>
+established$$$@@@%%%<p>On campus the , $95-million <a>Sidney Frank</a> Hall for Life Sciences opened in October 2004.
+established$$$@@@%%%The facility houses more than 60 new laboratories, a functional Magnetic Resonance Imaging facility, and an electron microscopy suite and supports research in the departments of Neuroscience and Molecular Biology, Cell Biology and Biochemistry.
+staff$$$@@@%%%Taken together, these two new facilities represent an increase of approximately 75 percent in Brown's laboratory capacity for life science research.
+city$$$@@@%%%Medical School preclinical classes are held in the adjacent Bio-Med Center, Multidisciplinary Laboratories, and Smith-Buonano Hall of the Pembroke Campus.
+image_name$$$@@@%%%</p>
+established$$$@@@%%%<p>In January 2007, self-made entrepreneur <a>Warren Alpert</a> donated $100 million to Brown Medical School, tying Sidney Frank for the largest single monetary contribution ever made to the University.
+established$$$@@@%%%In recognition of the gift, Brown Medical School was renamed to The Warren Alpert Medical School of Brown University.
+free_label$$$@@@%%%The funds are expected to contribute to the renovation of a new medical education facility, medical student scholarships (through the Warren Alpert Scholars Program), support for biomedical research and faculty recruitment, and new endowed professorships.
+image_name$$$@@@%%%</p>
+established$$$@@@%%%<p>The University and Medical School are currently in the process of renovating a University-owned property at 222 Richmond Street in the Jewelry District of Providence.
+postgrad$$$@@@%%%This facility will house preclinical classes, anatomy and histology labs, Doctoring simulation facilities (Clinical Skills Unit), student study space and resources, and the majority of its Administration.</p>
+campus$$$@@@%%%<h2>Admissions and Rankings</h2>
+type$$$@@@%%%<p>Alpert is one of seven <a>Ivy League</a> medical schools and is currently ranked 32nd for research and 49th for primary care by the 2010 edition of <em><a>U.S. News and World Report</a></em>.
+country$$$@@@%%%One of the most selective medical schools in the United States based on acceptance rate (3.2%),
+undergrad$$$@@@%%%Alpert enrolls approximately 90-100 students per class.
+established$$$@@@%%%In 2008, Alpert received 5,902 applications and interviewed 209 applicants for less than 40 spots (the incoming PLME class and other varied routes of admission accounting for the other 50+).
+established$$$@@@%%%The 2009 matriculating class had an average <a>GPA</a> of 3.7 and <a>MCAT</a> score of 35.</p>
+established$$$@@@%%%<p>Students interested in the study of medicine at Alpert Medical School may apply through a variety of admissions routes designed to enroll a diverse and highly qualified student body.
+established$$$@@@%%%Approximately 60% of the entering class is composed of students from the 8-year Program in Liberal Medical Education (PLME) and special linkage agreement programs.
+established$$$@@@%%%In 2004, the school began to accept premedical students from other <a>college</a>s and <a>universities</a> via <a>AMCAS</a> through a standard route of admissions.
+established$$$@@@%%%According to the school's website: &quot;For the Fall 2009 entering class, Alpert Medical School received 2,517 secondary applications and gave 113 offers of admission through the standard route.&quot;.</p>
+image_name$$$@@@%%%<h2>Curriculum</h2>
+established$$$@@@%%%<p>A restructuring of the pre-clinical curriculum was implemented in 2006, with the goal of achieving an integrated, contemporary and flexible medical curriculum.
+established$$$@@@%%%Its design was predicated on the vision that tomorrow's physician must be an IT-savvy lifelong learner who is scientifically and clinically enlightened, familiar with alternative and complementary healing traditions, patient and service-centered, and who understands the economic underpinnings of the US health care system.
+mascot$$$@@@%%%At the heart of the curriculum redesign are the two-year basic science component (Integrated Medical Sciences I-IV), Doctoring (which focuses on clinical skills and professionalism), and the Scholarly Concentrations Program.</p>
+type$$$@@@%%%<p>Integrated Medical Sciences I: IMS-I provides students with foundations of <a>cell biology</a>, <a>cell physiology</a>, <a>biochemistry</a>, <a>nutrition</a>, <a>immunology</a> and <a>genetics</a>, all of which are integrated with <a>gross anatomy</a> and <a>microscopic anatomy</a>.
+former_names$$$@@@%%%IMS-I also includes general <a>pathology</a> in which students are introduced to concepts underlying the mechanisms of disease.
+nickname$$$@@@%%%This foundation forms the basis for the subsequent systems-based blocks of IMS II through IV.</p>
+established$$$@@@%%%<p>Brain Sciences, the first module of IMS II, integrates head and neck anatomy with <a>neurobiology</a>, <a>behavior</a>, <a>pathophysiology</a> and <a>neuropharmacology</a>.
+established$$$@@@%%%Microbiology is integrated with infectious diseases and relevant <a>pharmacology</a> and <a>epidemiology</a>.
+established$$$@@@%%%In the final block of IMS-II, <a>Endocrinology</a>, endocrine physiology has been incorporated into the endocrine pathophysiology, pathology and pharmacology content.
+type$$$@@@%%%Integrated Medical Sciences III and IV: Students continue with a systems-based approach in Year II: The course sections are <a>cardiology</a>, <a>nephrology</a>, <a>pulmonology</a>, <a>hematology</a>, <a>gastroenterology</a> and human reproduction, growth, and development.</p>
+established$$$@@@%%%<p>Doctoring is a required skills-based course for all first- and second-year medical students designed to teach the knowledge, skills, and attitudes of a competent, ethical, and humane physician.
+affiliations$$$@@@%%%Students spend one half-day a week working alongside a physician-mentor.
+website$$$@@@%%%These sessions allow students to observe and practice clinical skills such as medical interviewing, history-taking, physical diagnosis, and professional conduct.</p>
+image_name$$$@@@%%%<h2>Scholarly Concentrations Program</h2>
+established$$$@@@%%%<p>The Scholarly Concentrations Program is an elective program through which Alpert Medical School students may elect to pursue a course of study beyond that of the conventional medical education curriculum.
+established$$$@@@%%%Scholarly Concentrations offer students the opportunity to translate personal interests and activities into scholarship.
+type$$$@@@%%%Students who participate in a Scholarly Concentration will undertake rigorous independent scholarship in a cross-disciplinary field of interest related to medicine, public health, engineering, or a bio-medically relevant topic in the sciences, arts, or humanities.</p>
+established$$$@@@%%%<p>Currently, students may pursue a Scholarly Concentration in the following areas: <a>Advocacy</a> and <a>Activism</a>, <a>Aging</a>, Contemplative Studies, Disaster Medicine, <a>Global Health</a>, <a>Informatics</a>, <a>Medical Education</a>, <a>Medical Ethics</a>, Medical Humanities, <a>Medical Technology</a> and Innovation, Physician as Communicator, and Women's <a>Reproductive Health</a>.</p>
+image_name$$$@@@%%%<h2>PLME</h2>
+type$$$@@@%%%<p>In 1984, Brown endorsed an eight-year medical program called the Program in Liberal Medical Education (PLME).
+established$$$@@@%%%The PLME offers a unique opportunity to join undergraduate and professional studies in medicine in a single eight-year program.
+established$$$@@@%%%By combining the open curriculum concept of Brown (The College) and the competency-based curriculum concept of the Alpert Medical School, the PLME encourages students of medicine to pursue in depth their interests in the humanities, social sciences, and natural sciences even as they prepare for their careers as physicians.</p>
+doctoral$$$@@@%%%<p>Prospective students apply to this eight-year program before they begin their undergraduate education.
+students$$$@@@%%%Each year, approximately 50 students matriculate out of an applicant pool of about 1,700.
+vice_chancellor$$$@@@%%%For the entering class of 2009, 1856 applicants applied for 60 spots, yielding an acceptance rate of approximately 3.2%.
+established$$$@@@%%%Students earn a <a>Bachelor's degree</a> in their concentration of choice after their fourth year and automatically enter the medical school to pursue their <a>M.D.</a> degree.
+faculty$$$@@@%%%Every year, a few students decide to leave the University after their undergraduate years in order to attend another medical school or to pursue another career.</p>
+image_name$$$@@@%%%<h2>Other programs</h2>
+established$$$@@@%%%<p>Since 1976, the Early Identification Program (EIP) was initiated to encourage Rhode Island residents to pursue careers in medicine by recruiting sophomores from <a>Providence College</a>, <a>Rhode Island College</a> and the <a>University of Rhode Island</a>.
+established$$$@@@%%%An EIP was also established with <a>Tougaloo College</a> to increase the number of underrepresented minorities in the medical school.
+image_name$$$@@@%%%</p>
+established$$$@@@%%%<p>From 1981 to 2006, Brown offered a joint program with <a>Dartmouth Medical School</a> called the Brown-Dartmouth Medical Program.
+established$$$@@@%%%Approximately 15 students at Dartmouth Medical School enrolled in the program annually, spending the first two basic medical science years at Dartmouth and the next two years in clinical education at Brown, where they received their M.D. degree.
+established$$$@@@%%%The program was discontinued in the fall of 2006, after their respective deans stated that the institutions desired to move in their own directions.</p>
+affiliations$$$@@@%%%<p>Combined degree programs leading to the M.D./<a>M.P.H.</a> and M.D./<a>M.P.P.</a> degrees are also offered.</p>
+image_name$$$@@@%%%<h2>Teaching affiliates</h2>
+image_name$$$@@@%%%<ul>
+affiliation$$$@@@%%%  <li><a>Rhode Island Hospital</a> (including <a>Hasbro Children's Hospital</a>)</li>
+established$$$@@@%%%  <li><a>The Miriam Hospital</a></li>
+affiliation$$$@@@%%%  <li>Memorial Hospital of Rhode Island</li>
+affiliation$$$@@@%%%  <li><a>Women &amp; Infants' Hospital of Rhode Island</a></li>
+image_size$$$@@@%%%  <li>Providence VA Medical Center</li>
+affiliation$$$@@@%%%  <li><a>Butler Hospital</a></li>
+image_name$$$@@@%%%  <li>Emma Pendelton Bradley Hospital</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h2>References</h2>
+image_name$$$@@@%%%<p>&lt;references/&gt;</p>
+image_name$$$@@@%%%<p> </p>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%
+image_name$$$@@@%%%

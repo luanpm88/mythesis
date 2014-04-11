@@ -1,0 +1,5 @@
+<li>Space Systems Academic Group  <a>Web page</a></li>
+<li>Under Sea Warfare Systems Academic Committee <a>Web page</a></li>
+<li>Spacecraft Robotics Laboratory <a>Web page</a></li>
+<li><a>Richard Hamming</a></li>
+<li>Official NPS Calendar <a>PDF</a> <a>ICAL</a> <a>HTML</a></li>

@@ -1,0 +1,3 @@
+<p> <strong>Jimei University</strong> (<strong>JMU</strong>  <a>POJ</a>: Chip-bi Toa-hak) is a public university located in <a>Xiamen</a>, <a>Fujian</a>, <a>China</a>.</p>
+<li>Teaching Department of Public PE</li>
+<li>Center of Modern Education Technology</li>

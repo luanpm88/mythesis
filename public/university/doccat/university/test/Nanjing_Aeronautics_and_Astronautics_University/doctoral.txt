@@ -1,0 +1,2 @@
+<li>College of Information Science and Technology</li>
+<li>College of Material Science and Technology</li>

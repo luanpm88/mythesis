@@ -1,0 +1,6 @@
+<p><strong>Type</strong>           Public</p>
+<p>Created in 1993 by the Chinese Ministry of Education, this is an open laboratory conducting research in the field of Applied Magnetism.
+<li><a>School of Continuing Education</a></li>
+<li><a>School of Education</a></li>
+<li><a>School of Higher Vocational Education</a></li>
+<li><a>School of Network Education</a></li>

@@ -1,0 +1,113 @@
+established$$$@@@%%%<p> <strong>Hanze University Groningen</strong> (<strong><em>Hanzehogeschool Groningen</em></strong>) is an institution for tertiary education (<em><a>hogeschool</a></em>) located in <a>Groningen</a> in the northern <a>Netherlands</a>.
+established$$$@@@%%%In international communication, the school calls itself Hanze University Groningen.</p>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%<p>__TOC__</p>
+established$$$@@@%%%<h2>History</h2>
+established$$$@@@%%%<p>Hanze University was founded in 1986 as a merger of local institutes for professional education.
+established$$$@@@%%%Since then, it has effectively subsumed almost all such institutes in the area of Groningen except for local branches of nation-wide institutes.
+established$$$@@@%%%One of the most recent institutes subsumed is the Art Academy Minerva, which merged into Hanze University around 2000.
+established$$$@@@%%%Because Minerva is a successor to a drawing academy founded 1798, Hanze University claims to exist since this year and celebrated its 210th anniversary in 2008.</p>
+established$$$@@@%%%<p>The name 'Hanze' refers to the <a>Hanseatic League</a>, the medieval trade alliance of cities in the Netherlands, Germany, Scandinavia and the Baltic states.
+established$$$@@@%%%Groningen is the second oldest university town in the Netherlands.
+established$$$@@@%%%The Hanze offers programmes taught in English, Dutch and German.
+established$$$@@@%%%Hanze University Groningen actively participates in projects aimed at supporting higher education institutions abroad with the enhancement of their curricula and strengthening the capacity of the institution.</p>
+image_name$$$@@@%%%<h2>Organization</h2>
+image_name$$$@@@%%%<h4>Organizational structure</h4>
+established$$$@@@%%%<p>Hanze University Groningen employs more than 2,000 personnel and has over 22,900 Dutch and foreign students  who have enrolled in one of the seventy degree programmes in the fields of economics, technology, health care, education and teacher training, social work, labour relations, fine arts, and music.
+country$$$@@@%%%Hanze University Groningen is one of the largest and most all-round universities of applied sciences in the Netherlands.</p>
+image_name$$$@@@%%%<h4>Management</h4>
+established$$$@@@%%%<p>The general management of Hanze University Groningen is in the hands of the Executive Board, supported by a Staff Office.
+head_label$$$@@@%%%The members of the Executive Board are: Drs.
+head$$$@@@%%%Henk Pijlman, chairman and president, Ms drs.
+affiliations$$$@@@%%%Marian van Os and drs.
+affiliations$$$@@@%%%Cor de Ruiter.</p>
+image_name$$$@@@%%%<h4>Locations</h4>
+established$$$@@@%%%<p>Hanze University Groningen is for the major part housed on the so-called Zernike Campus, a campus area in the north of the city.
+established$$$@@@%%%Here students will find the buildings of the Executive Board and its supporting Staff Office, and most of the schools.
+nickname$$$@@@%%%The other schools (for example the School of Fine Arts and Design, the School of Performing Arts and the School of Health Care Studies) are housed in various facilities across the city.</p>
+image_name$$$@@@%%%<h2>Schools</h2>
+image_name$$$@@@%%%<ul>
+country$$$@@@%%%  <li>Academy Minerva, School for Fine Art and Design</li>
+country$$$@@@%%%  <li>Academy of Pop Culture</li>
+established$$$@@@%%%  <li><a>Hanze Institute of Technology</a> (HIT)</li>
+nickname$$$@@@%%%  <li><a>International Business School Groningen</a></li>
+country$$$@@@%%%  <li>North Netherlands Dance Academy</li>
+affiliation$$$@@@%%%  <li><a>Prins Claus Conservatorium</a></li>
+established$$$@@@%%%  <li>School of Architecture, Built Environment and Civil Engineering</li>
+established$$$@@@%%%  <li>School of Communication and Media</li>
+type$$$@@@%%%  <li>School of Education</li>
+established$$$@@@%%%  <li><a>School of Facility Management Groningen</a></li>
+head_label$$$@@@%%%  <li>School of Engineering</li>
+established$$$@@@%%%  <li>School of Health Care Studies</li>
+closed$$$@@@%%%  <li>School of Computer Science</li>
+established$$$@@@%%%  <li>School of Law Groningen</li>
+doctoral$$$@@@%%%  <li>Institute for Life Science and Technology</li>
+established$$$@@@%%%  <li>School of Financial and Economic Management (Dutch)</li>
+head_label$$$@@@%%%  <li>School of Nursing</li>
+head_label$$$@@@%%%  <li>School of Marketing Management</li>
+head_label$$$@@@%%%  <li>School of Sport Studies</li>
+established$$$@@@%%%  <li>School of Social Studies</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h2>Programmes</h2>
+image_name$$$@@@%%%<h4>Bachelor programmes</h4>
+image_name$$$@@@%%%<ul>
+image_name$$$@@@%%%  <li>Advanced Sensor Applications</li>
+established$$$@@@%%%  <li>Academy Minerva, School of Fine Art and Design</li>
+nickname$$$@@@%%%  <li>Classical Music (<a>Prins Claus Conservatorium</a>)</li>
+nickname$$$@@@%%%  <li>School Music / Classroom Education</li>
+nickname$$$@@@%%%  <li>Composition Music and Studio Productions (Prince Claus Conservatoire)</li>
+affiliation$$$@@@%%%  <li>Conducting (<a>Prins Claus Conservatorium</a>)</li>
+doctoral$$$@@@%%%  <li>Electronic Product Design and Engineering EPDE (one-year programme)</li>
+image_name$$$@@@%%%  <li>Integral Product Development</li>
+image_name$$$@@@%%%  <li>Internationale Betriebswirtschaft German taught programme (BW)</li>
+doctoral$$$@@@%%%  <li>International Biomedical Engineering (one-year programme)</li>
+nickname$$$@@@%%%  <li>International Business and Management Studies</li>
+doctoral$$$@@@%%%  <li>International Civil Engineering Management (two-year programme)</li>
+image_name$$$@@@%%%  <li>International Communication</li>
+doctoral$$$@@@%%%  <li>International Construction Management (two-year programme)</li>
+image_name$$$@@@%%%  <li>International Facility Management</li>
+doctoral$$$@@@%%%  <li>International Power Generation and Distribution (one-year programme)</li>
+image_name$$$@@@%%%  <li>Jazz (Prins Claus Conservatorium)</li>
+image_size$$$@@@%%%  <li>Medical Imaging and Radiation Therapy MIRT (Dutch taught programme)</li>
+image_name$$$@@@%%%  <li>Nursing (Dutch taught programme)</li>
+campus$$$@@@%%%  <li>Nutrition and Dietetics (Dutch taught programme)</li>
+image_name$$$@@@%%%  <li>Oral Hygiene (Dutch taught programme)</li>
+image_name$$$@@@%%%  <li>Physiotherapy</li>
+image_name$$$@@@%%%  <li>Speech Therapy (Dutch taught programme)</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h4>Master programmes</h4>
+image_name$$$@@@%%%<ul>
+website$$$@@@%%%  <li>Master Arts Education</li>
+image_name$$$@@@%%%  <li>Master International Communication</li>
+nickname$$$@@@%%%  <li>Master of Business Administration in International Business and Management (MBA in IB&amp;M)</li>
+nickname$$$@@@%%%  <li>Master of Business Administration</li>
+website$$$@@@%%%  <li>Master of Fine Arts Interactive Media and Environments</li>
+website$$$@@@%%%  <li>Master of Fine Arts Painting</li>
+website$$$@@@%%%  <li>Master of Fine Arts Scenography</li>
+nickname$$$@@@%%%  <li>Master of Music</li>
+nickname$$$@@@%%%  <li>MBA in EurAsian Business and Management</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h2>Facilities</h2>
+established$$$@@@%%%<p>The Hanze Electronic Learning Environment (HELO) consists of the <a>Blackboard Learning System</a> and <a>Outlook Web Access</a>, possibly linked with other ICT systems to support education.</p>
+image_name$$$@@@%%%<h4>Cultural Activities</h4>
+faculty$$$@@@%%%<p>CAST (Cultural Activities for Students) organizes a variety of cultural events open to all students, ranging from concerts, art exhibitions, workshops and other cultural projects in which students may participate.</p>
+students$$$@@@%%%<h4>Sports Facilities</h4>
+free_label$$$@@@%%%<p>The ACLO is the student sports centre of the University of Groningen and the Hanze University Groningen.
+doctoral$$$@@@%%%For approximately &#x20ac;50 per year, students at Hanze University Groningen can purchase an ACLO card, which is a passport to the various sports facilities.
+affiliations$$$@@@%%%The sports centre provides access to its facilities seven days a week, 340 days a year, from 08.00 to 23.00.
+established$$$@@@%%%On weekdays, the focus is on exercise and training under the supervision of professional trainers and instructors - with over 450 lessons per week; on weekends the emphasis is on competitions, tournaments and events.</p>
+city$$$@@@%%%<h4>KEI-week</h4>
+established$$$@@@%%%<p>The KEI-week is the general introduction for all first year students in Groningen.
+undergrad$$$@@@%%%With a total of about 4000 Dutch and international KEI-participants the KEI-week is the largest introduction week in the Netherlands.
+campus$$$@@@%%%During the one week students will explore, together with fellow first year students, city life, and all the ins and outs of what Groningen as a student city can offer.</p>
+image_name$$$@@@%%%<h2>ISTeam</h2>
+established$$$@@@%%%<p>The International Student (IS) Team consists of students from all over the world that now share their personal experiences and help prospective students with information on any aspects of studying and living in Groningen.</p>
+campus$$$@@@%%%<h2>References and notes</h2>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%<h2>External links</h2>
+image_name$$$@@@%%%<ul>
+established$$$@@@%%%  <li><a>Official Website of the Hanze University Groningen</a></li>
+established$$$@@@%%%  <li><a>History of the Hanze University Groningen</a></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%
+image_name$$$@@@%%%

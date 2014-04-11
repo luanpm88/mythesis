@@ -1,0 +1,55 @@
+established$$$@@@%%%<p> The <strong>New York State College of Veterinary Medicine</strong> at <a>Cornell University</a> was founded in 1894.
+established$$$@@@%%%It was the first <a>statutory college</a> in <a>New York</a>.
+established$$$@@@%%%Before the creation of the college, instruction in <a>veterinary medicine</a> had been part of Cornell's curriculum since the university's founding.
+established$$$@@@%%%In 1868, when Cornell opened, there was little formal study of veterinary medicine in the United States; with the creation of the <a>veterinary school</a>, Cornell became a pioneer in the field.</p>
+established$$$@@@%%%<h2>History</h2>
+established$$$@@@%%%<p>Cornell co-founder <a>Ezra Cornell</a> requested the creation of a chair of veterinary medicine.
+free_label$$$@@@%%%Cornell's other co-founder and first president, <a>Andrew Dickson White</a>, was asked by Ezra Cornell to find the best-qualified person to teach veterinary-related courses at the university.
+established$$$@@@%%%Dr. James Law, from the <a>Edinburgh Veterinary College</a> in <a>Scotland</a>, was chosen for this role.
+established$$$@@@%%%Under pressure from Dr. Law, Cornell set unprecedented standards for veterinary degrees: four years' study for a <a>bachelor's degree</a> in the field, and two years' additional study for a <a>doctoral degree</a> in the field.
+established$$$@@@%%%(Later, when New York State finally established Cornell's Veterinary College, a high school diploma would be required to be admitted to it, which was a high requirement for the time).
+established$$$@@@%%%The first <a>D.V.M.</a> degree from Cornell was awarded in 1876 to <a>Daniel Elmer Salmon</a>, a man who went on to become the founding head of the <a>U.S. Bureau of Animal Industry</a>.
+mascot$$$@@@%%%He is also noted for initiating the fight against contagious diseases.
+established$$$@@@%%%The school was also a pioneer in educating female veterinarians.</p>
+image_name$$$@@@%%%<p></p>
+established$$$@@@%%%<p>State legislation creating Cornell's Veterinary College was signed on March 21, 1894 by former New York Governor <a>Roswell P. Flower</a>, a man who had become convinced of the value of veterinary medicine to the health of people by virtue of prior personal farm experience.
+established$$$@@@%%%The enabling legislation creating the college also provided state funds for a veterinary building at Cornell.
+established$$$@@@%%%The building opened in the fall of 1896.
+established$$$@@@%%%The state funded a new veterinary complex for Cornell and the college in 1957 on the east edge of the campus.
+country$$$@@@%%%Today, this complex is the largest veterinary complex in higher education in the United States.</p>
+image_name$$$@@@%%%<h2>Academics</h2>
+country$$$@@@%%%<p><a>200px|right|thumb|Veterinary Research Center</a> Cornell's College of Veterinary Medicine is one of only three veterinary colleges and schools in the <a>Northeastern United States</a>, and one of 28 such colleges and schools in the United States.
+established$$$@@@%%%The college is noted for its comprehensive programs, including the Cornell Hospital for Animals, the Animal Health Diagnostic Center, which houses the New York State Diagnostic Laboratory, the <a>James A. Baker Institute for Animal Health</a>, a center for canine and equine research, the <a>feline health center</a>, and biomedical research laboratories.
+established$$$@@@%%%The innovative DVM degree program includes combined problem -based and didactic instruction in the biological basis of medicine, training in primary and referral veterinary care in the veterinary teaching hospital and ambulatory services, and instructed practice in the Community Practice Service primary care clinic.
+established$$$@@@%%%Direct access to numerous innovative dairy farms in the upstate New York region facilitate training in food animal medicine.
+type$$$@@@%%%Cornell is consistently ranked the best veterinary college in the nation.</p>
+established$$$@@@%%%<p>The College of Veterinary Medicine offers programs in <a>veterinary medicine</a> that lead to the degrees of <a>D.V.M.</a>, and <a>M.S.</a> and <a>Ph.D.</a> through the <a>Cornell Graduate School</a>.
+established$$$@@@%%%Cornell's College of Veterinary Medicine also consistently ranks amongst the best in its field, being regularly selected as the best college for veterinary medicine by US News and World Report's <em>America's Best Colleges</em> edition.</p>
+country$$$@@@%%%<h2>Research</h2>
+nickname$$$@@@%%%<p>The Sprecher Institute for Comparative Cancer Research seeks to control <a>cancer</a> in all species by identifying and developing new discoveries for clinical application, providing treatment for animals with cancer, and producing educational materials about cancer and our environment for professional and general audiences.</p>
+website$$$@@@%%%<p>A Center for Vertebrate Genomics (CVG) has been established by Cornell's Life Sciences Initiative.
+established$$$@@@%%%The Center provides an environment and interface for researchers focusing on aspects of vertebrate genomics.
+nickname$$$@@@%%%In addition, a web portal library resource, Vivo, has been created to support the Initiative.</p>
+established$$$@@@%%%<p>The nuclear magnetic resonance (NMR) facility at the Cornell College of Veterinary Medicine houses a Varian Inova 500 spectrometer equipped for high-resolution studies of the structure and dynamics of proteins and nucleic acids.
+established$$$@@@%%%Data from the experiments conducted on this machine can be used to determine the three dimensional structure of proteins and nucleic acids in solution at atomic resolution.</p>
+established$$$@@@%%%<p>The Core <a>Transgenic</a> Mouse Facility is a centralized lab which studies the effects of injecting DNA into mice embryos.</p>
+image_name$$$@@@%%%<h2>Extension</h2>
+free_label$$$@@@%%%<p>As the <a>cooperative extension</a> service for New York State, veterinary faculty and extension staff facilitate outreach programs for the community and State of New York, conduct research, and perform services involving disease prevention, production quality control, food and farm safety and animal well-being.
+country$$$@@@%%%For example, the International Duck Research Cooperative conducts scientifically based research on diseases, nutrition and management of ducks.
+image_name$$$@@@%%%</p>
+free_label$$$@@@%%%<p>Cornell's Animal Health Diagnostic Center, located on the Ithaca campus, has been a leader in animal health research for decades.
+established$$$@@@%%%The Center is a crucial resource for diagnosing mad cow disease, foot and mouth disease and avian flu.</p>
+image_name$$$@@@%%%<h2>References</h2>
+undergrad$$$@@@%%%<p>&lt;div class='references-small'&gt;&lt;references /&gt;&lt;/div&gt;</p>
+image_name$$$@@@%%%<h2>External links</h2>
+image_name$$$@@@%%%<ul>
+affiliation$$$@@@%%%  <li><a>New York State College of Veterinary Medicine at Cornell</a></li>
+established$$$@@@%%%  <li><a>History and Archives of the College of Veterinary Medicine</a></li>
+type$$$@@@%%%  <li><a>Cornell Feline Health Center</a></li>
+doctoral$$$@@@%%%  <li><a>Consultant</a> Online computer-assisted veterinary diagnosis</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p><img> <img> </p>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%
+image_name$$$@@@%%%

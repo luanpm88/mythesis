@@ -1,0 +1,2 @@
+<li><a>Faculty of Decorative Arts</a></li>
+<li><a>Faculty of Arts</a></li>

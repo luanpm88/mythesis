@@ -1,0 +1,116 @@
+image_name$$$@@@%%%<p> </p>
+established$$$@@@%%%<p>The <strong>University of Louisiana at Monroe</strong>, or <strong>ULM</strong>, is a <a>coeducational</a> <a>public</a> <a>university</a> in <a>Monroe</a>, <a>Louisiana</a> and part of the <a>University of Louisiana System</a>.</p>
+established$$$@@@%%%<p>ULM is the only university in Louisiana to offer a master's in <a>gerontology</a> and the only <a>public university</a> offering the <a>Doctor of Pharmacy</a> (Pharm.D.) degree.
+image_name$$$@@@%%%</p>
+country$$$@@@%%%<p>Accredited by the Commission on Colleges of the <a>Southern Association of Colleges and Schools</a> (SACS), all undergraduate programs that are eligible for <a>accreditation</a> by professional agencies are accredited.</p>
+established$$$@@@%%%<p><a>James Erwin Cofer Sr.</a> left the presidency after eight years in 2010 to head <a>Missouri State University</a> in <a>Springfield</a>, <a>Missouri</a>.
+established$$$@@@%%%He was succeeded by <a>Nick Bruno</a> as the eighth <a>president</a> of ULM.</p>
+established$$$@@@%%%<h2>History</h2>
+image_name$$$@@@%%%<ul>
+former_names$$$@@@%%%  <li>1931: Opened as Ouachita Parish Junior College</li>
+established$$$@@@%%%  <li>1934: Change to Northeast Center of Louisiana State University</li>
+former_names$$$@@@%%%  <li>1949: Change to Northeast Junior College of Louisiana State University</li>
+state$$$@@@%%%  <li>1950: First four year degrees.
+free_label$$$@@@%%%Name change to Northeast Louisiana State College</li>
+affiliations$$$@@@%%%  <li>1969: First doctoral degrees.
+free_label$$$@@@%%%Name change to Northeast Louisiana University</li>
+former_names$$$@@@%%%  <li>1999: Name change to University of Louisiana at Monroe</li>
+established$$$@@@%%%  <li>2002: &quot;Reclaim Our Campus&quot; effort to help recover from financial and auditing difficulties.</li>
+colors$$$@@@%%%<li>2006: New mascot 'ACE' debuts</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h2>Academics</h2>
+image_name$$$@@@%%%<h3>Pharmacy</h3>
+established$$$@@@%%%<p>Established in 1956, the College of Pharmacy is accredited by the American Council on Pharmacy Education, including one of seven Toxicology programs in the U.S.  The College of Pharmacy moved from the main campus to the off-campus (Bienville) building in 2007.
+faculty$$$@@@%%%There are satellite campuses in <a>Shreveport</a> and <a>Baton Rouge</a>.</p>
+nickname$$$@@@%%%<h3>Business</h3>
+type$$$@@@%%%<p>ULM offers <a>AACSB</a> accredited  undergraduate and graduate (<a>MBA</a>) degree programs.</p>
+campus$$$@@@%%%<h3>Marriage and family therapy</h3>
+country$$$@@@%%%<p>Master's in marriage and family therapy is accredited by both the Commission on Accreditation for Marriage and Family Therapy Education (COAMFTE) and the Council for the Accreditation for Counseling and Related Educational Programs (CACREP).
+established$$$@@@%%%Doctoral program in marriage and family therapy began in 1996.</p>
+president$$$@@@%%%<h3>Theater arts</h3>
+established$$$@@@%%%<p>The Division of Theatre and Drama, established in 1953, was headed by <a>George C. Brian</a> (1919&#x2013;2007), <a>Ph.D.</a>, a <a>Baton Rouge</a> native who was an <a>actor</a>, <a>director</a>, <a>filmmaker</a>, <a>singer</a>, <a>dancer</a>, and patron of the <a>arts</a>.
+established$$$@@@%%%He revitalized the program and brought <a>Broadway</a> stars to perform with his students.</p>
+image_name$$$@@@%%%<h3>English</h3>
+established$$$@@@%%%<p>The English department publishes <em>Turnrow</em>, a bi-annual journal of short fiction, poetry, visual art, and interviews.</p>
+doctoral$$$@@@%%%<h3>Atmospheric Science</h3>
+established$$$@@@%%%<p>ULM has the only Atmospheric Science Bachelor's program in Louisiana and Arkansas.
+type$$$@@@%%%Students regularly produce top student forecasts in the WxChallenge Forecasting Contest, forecasting for a particular city over a two week period.</p>
+free_label$$$@@@%%%<h2>Athletics</h2>
+nickname$$$@@@%%%<p> Teams participate in <a>NCAA</a> Division I (<a>Division I FBS</a> for <a>football</a>).
+established$$$@@@%%%ULM joined the <a>Sun Belt Conference</a> for all sports on July 1, 2006 after playing in the <a>Southland Conference</a> in all sports except football (swimming and diving team was in Sun Belt Conference, but was dropped in 2005).
+image_name$$$@@@%%%</p>
+free_label$$$@@@%%%<p>ULM moved from Division I-AA (now Division I FCS) to Division I-A (now FBS) in 1994 and played as a I-A independent 1994-2000.
+nickname$$$@@@%%%Became a football-only Sun Belt Conference member in 2001 and joined as a member in all sports in 2006.
+established$$$@@@%%%ULM shared the 2005 Sun Belt Conference football championship with <a>Arkansas State University</a> and the <a>University of Louisiana-Lafayette</a> (ASU received the conference's <a>New Orleans Bowl</a> bid due to tiebreaking procedures).
+image_name$$$@@@%%%</p>
+affiliations$$$@@@%%%<p>ULM basketball coaches have included <a>Arnold R. Kilpatrick</a>, <a>Lenny Fant</a> (1957&#x2013;1979) and Mickael E. &quot;Mike&quot; Vining.
+established$$$@@@%%%Fant was the first ULM coach to win three hundred games.</p>
+established$$$@@@%%%<p>The university is home to several award-winning groups including the <a>Sound of Today</a> and the competition cheerleading squad.
+established$$$@@@%%%The ULM water ski team is the most successful in the history of collegiate <a>water skiing</a>, having won 22 NCWSA national championships since 1979.
+established$$$@@@%%%Bayou DeSiard was the host site of the first national championships in that year.</p>
+established$$$@@@%%%<p>The football and <a>baseball</a> stadiums and ULM Activities Center were designed by <a>architect</a> <a>Hugh G. Parker</a> of <a>Bastrop</a>.
+image_name$$$@@@%%%</p>
+established$$$@@@%%%<p>In just three seasons in the Sun Belt, the Warhawks have won conference titles in men's basketball (2006-07 West Co-Champion) and baseball (2008 regular season).
+image_name$$$@@@%%%</p>
+established$$$@@@%%%<p>The ULM football team posted its first six-win season since moving to Division I-A in 2007 going 6-6, which included a 21-14 victory at Alabama.</p>
+image_name$$$@@@%%%<h3>Traditions</h3>
+country$$$@@@%%%<p><a>thumbnail|200px|ULM Warhawks</a></p>
+nickname$$$@@@%%%<p>The 75-year-old &quot;Indians&quot; mascot was retired because of NCAA restrictions against <a>American Indian</a>-themed mascots, considered &quot;hostile and abusive&quot; to <a>Native Americans</a>.
+free_label$$$@@@%%%A mascot committee selected <em>Warhawks</em> in 2006  honoring Maj.
+type$$$@@@%%%Gen. <a>Claire Lee Chennault</a>'s <a>Air Force</a> <a>World War II</a> unit's <a>Curtiss P-40</a> Warhawk, although the logos primarily use bird imagery.</p>
+image_name$$$@@@%%%<h2>Greek life</h2>
+image_name$$$@@@%%%<p></p>
+president$$$@@@%%%<p>Some of this information is current as of July 15, 2008.</p>
+free$$$@@@%%%<h2>Notable alumni</h2>
+image_name$$$@@@%%%<ul>
+established$$$@@@%%%  <li><a>Edwards Barham</a> --First <a>Republican</a> elected to the <a>Louisiana State Senate</a> since <a>Reconstruction</a>; from <a>Oak Ridge</a> (R)</li>
+established$$$@@@%%%  <li><a>Robert J. Barham</a> -- Secretary of the Department of Wildlife and Fisheries; former member of the Louisiana State Senate (R)</li>
+established$$$@@@%%%  <li><a>William R. &quot;Billy&quot; Boles, Sr.</a> -- Former member of the Louisiana State Senate (D)</li>
+type$$$@@@%%%  <li><a>Marty Booker</a> -- <a>NFL</a> football player for <a>Chicago Bears</a>, <a>Miami Dolphins</a>, and <a>Atlanta Falcons</a></li>
+students$$$@@@%%%  <li><a>Tim Brando</a> -- CBS Sports and Fox Sports Net studio radio host</li>
+affiliations$$$@@@%%%  <li><a>Marcus R. Clark</a> -- <a>Louisiana Supreme Court</a> Justice (R)</li>
+established$$$@@@%%%  <li><a>J.D. DeBlieux</a> -- Louisiana state senator from <a>East Baton Rouge Parish</a> (1956&#x2013;1960; 1864&#x2013;1976); crusader for <a>civil rights</a> (D)</li>
+established$$$@@@%%%  <li><a>Jimmy Dimos</a> -- Retired <a>judge</a>; former member and <a>Speaker</a> of the <a>Louisiana House of Representatives</a> (D)</li>
+nickname$$$@@@%%%  <li><a>Jimmy Edwards</a> -- Professional football player</li>
+affiliation$$$@@@%%%  <li><a>Moon Griffon</a> -- <a>Radio</a> <a>talk show</a> host operating from Monroe</li>
+established$$$@@@%%%  <li><a>Frank Hoffmann</a> -- Louisiana state representative from Ouachita Parish (R)</li>
+established$$$@@@%%%  <li><a>Neal Lane &quot;Lanny&quot; Johnson</a> -- School superintendent in <a>Tensas</a>, Ouachita, and <a>Franklin</a>; former <a>state representative</a> (1976&#x2013;1980) from Tensas and Franklin parishes (D)</li>
+affiliation$$$@@@%%%  <li><a>Scott Leehy</a> -- Monroe <a>judge</a> (R)</li>
+affiliations$$$@@@%%%  <li><a>Lloyd E. Lenard</a> (1922&#x2013;2008) -- Businessman, author, <a>Caddo Parish</a> Commissioner (R)</li>
+established$$$@@@%%%  <li><a>Speedy Long</a> (1928&#x2013;2006) -- Louisiana State Senate from 1956&#x2013;1964, and <a>United States House of Representatives</a> 1965-1973 (D)</li>
+established$$$@@@%%%  <li><a>Jamie Mayo</a> -- Mayor of Monroe since 2001 (D)</li>
+affiliations$$$@@@%%%  <li><a>Fred H. Mills, Jr.</a> (Pharmacy, 1976) -- state representative from <a>St.
+affiliation$$$@@@%%%Martin Parish</a> (R)</li>
+nickname$$$@@@%%%  <li><a>Devon O'Day</a> -- Radio personality, <a>songwriter</a>, and former model</li>
+affiliations$$$@@@%%%  <li><a>John J. McCloskey</a>-- (1982&#x2013;1987) Conductor/Band Director.
+country$$$@@@%%%Tuba instrumentalist for US Navy, Ceremonial Conductor and Drum Major for Navy Band Great Lakes outside Chicago, Illinois.
+established$$$@@@%%%Navy Band Great Lakes is the only band still in operation that was started by John Philip Sousa.</li>
+affiliation$$$@@@%%%  <li><a>Tim McGraw</a> -- <a>Country</a> <a>singer</a></li>
+established$$$@@@%%%  <li><a>Keith Munyan, Jr.</a> -- <a>Photographer</a> and former model</li>
+established$$$@@@%%%  <li><a>Erich Ponti</a> -- Member of the Louisiana House from <a>East Baton Rouge Parish</a> (R)</li>
+established$$$@@@%%%  <li><a>Neil Riser</a> -- Member of the Louisiana State Senate (R)</li>
+free_label$$$@@@%%%  <li><a>Ben Sheets</a> -- 2000 Olympic Gold medalist in baseball, winning pitcher in gold medal game versus Cuba, professional baseball player</li>
+established$$$@@@%%%  <li><a>Don Shows</a> -- Football coach at ULM (graduate assistant, 1985) and West Monroe High School since 1989, winner of seven state championships</li>
+established$$$@@@%%%  <li><a>Floyd W. Smith, Jr.</a> -- Former mayor of <a>Pineville</a>, Louisiana; attended ULM for one semester in 1950 (D)</li>
+established$$$@@@%%%  <li><a>Jim L. Smithson</a> -- Former member of the <a>Arkansas House of Representatives</a> (R)</li>
+established$$$@@@%%%  <li><a>Lawson Swearingen</a> (Class of 1966) -- Former state senator from Ouachita Parish and president of ULM from 1991-2001 (D)</li>
+established$$$@@@%%%  <li><a>Francis C. Thompson</a> -- Member of the <a>Louisiana State Senate</a> from <a>Delhi</a>; former state representative (D)</li>
+vice_chancellor$$$@@@%%%  <li><a>Chet D. Traylor</a>, -- Associate justice of the <a>Louisiana Supreme Court</a>, 1997&#x2013;2009; Republican primary candidate for the U.S. Senate, 2010 (R)</li>
+affiliation$$$@@@%%%  <li><a>Jimmy Upton</a> (1949&#x2013;2003) -- Track star from <a>Minden</a></li>
+established$$$@@@%%%  <li><a>Wayne Waddell</a> --Member of the Louisiana House of Representatives from <a>Shreveport</a> (R)</li>
+type$$$@@@%%%  <li><a>Mike Walsworth</a> -- Member of the Louisiana State Senate; former representative (R)</li>
+established$$$@@@%%%  <li><a>Tedford Williamson</a> -- Texas businessman, former <a>Round Rock</a> <a>City Council</a> member; scion of Williamson political family in <a>Caddo Parish</a> (R)</li>
+free$$$@@@%%%  <li><a>Thomas D. &quot;Tommy&quot; Wright</a> -- Former member of the Louisiana House of Representatives (D)</li>
+established$$$@@@%%%  <li><a>Aubrey W. Young</a>, Drug and alcohol abuse coordinator within the Department of Health and Hospitals, 1965&#x2013;1999; <a>aide-de-camp</a> to Governor John McKeithen (D)</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h2>References</h2>
+image_name$$$@@@%%%<p><img></p>
+image_name$$$@@@%%%<h2>External links</h2>
+image_name$$$@@@%%%<ul>
+affiliation$$$@@@%%%  <li><a>ULM</a></li>
+free_label$$$@@@%%%  <li><a>ULM Athletics</a></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p> </p>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%
+image_name$$$@@@%%%

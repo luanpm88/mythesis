@@ -1,0 +1,5 @@
+<h3>Computer Center</h3>
+<li>Center for Environmental Sciences</li>
+<li>Halil Inalcik Center of Ottoman Studies</li>
+<li>Institute of Economic and Social Sciences</li>
+<li>Institute of Fine Arts</li>

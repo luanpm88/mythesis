@@ -1,0 +1,6 @@
+<li><a>Faculty of Business Administration</a></li>
+<li><a>Faculty of Education and Social Sciences</a></li>
+<li><a>Faculty of Hospitality and Tourism Management</a></li>
+<li><a>Centre for Executive Education</a></li>
+<li><a>Toulouse Business School</a>, <a>France</a></li>
+<li><a>Great Lakes Institute of Management</a>, <a>Chennai</a></li>

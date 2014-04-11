@@ -1,0 +1,3 @@
+<p>Clarkson has two distinct campuses, the &quot;downtown&quot; campus and the &quot;hill&quot; campus.
+<li><strong>Ross-Brooks Marketplace (&quot;Ro-Bro&quot;)</strong> - Located in the Quad, Ro-Bro is an all-you-can-eat dining hall facility open seven days a week.</li>
+<li><strong>Empire Diner (&quot;Empire&quot;)</strong> - Also located in the Quad, Empire is a nostalgic dining facility with all-you-can-eat for lunch and dinner.</li>

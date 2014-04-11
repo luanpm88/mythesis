@@ -1,0 +1,3 @@
+<h3>Royal Military College Saint-Jean Museum</h3>
+<li><a>Royal Roads Military College</a></li>
+<li><a>Royal Military College Saint-Jean</a></li>

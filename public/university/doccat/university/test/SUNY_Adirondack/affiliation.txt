@@ -1,0 +1,9 @@
+<li><a>Anime</a> Club</li>
+<li><a>Anthropology</a> Club</li>
+<li><a>Chi Alpha</a> Bible Study</li>
+<li><a>Dance Dance Revolution</a></li>
+<li><a>Gamer</a>'s Sanctuary</li>
+<li><a>GSA</a>(<a>Gay Straight Alliance</a>)</li>
+<li><a>Republican Club</a></li>
+<li><a>Spanish</a> Club</li>
+<li><a>Official website</a></li>

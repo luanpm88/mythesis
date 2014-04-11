@@ -1,0 +1,4 @@
+<li>LaCava Campus Center: opened 1968</li>
+<li>Adamian Academic Center: opened 1983</li>
+<li>Rauch Administration Center: opened 1986</li>
+<li>Dana Athletic Center: opened 1973</li>

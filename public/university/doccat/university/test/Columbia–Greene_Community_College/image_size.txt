@@ -1,0 +1,5 @@
+<h2>Student life</h2>
+<li>Student Ambassadors</li>
+<li>Student Activities Committee</li>
+<h3>Student Government</h3>
+<li>Student Senate</li>

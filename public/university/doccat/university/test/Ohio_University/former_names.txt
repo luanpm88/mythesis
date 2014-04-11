@@ -1,0 +1,3 @@
+<li>College of Education</li>
+<h3>College of Education</h3>
+<p>At <a>Ohio University</a>, there are 36 active athletic organizations within the <a>Department of Campus Recreation</a>.

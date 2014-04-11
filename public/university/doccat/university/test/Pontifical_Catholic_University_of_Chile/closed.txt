@@ -1,0 +1,11 @@
+<li><strong>Faculty of Agronomy &amp; Forest Engineering</strong>
+<li><strong>Faculty of Communications</strong>
+<li><strong>Faculty of Language and Literature</strong>
+<li><strong>Faculty of Engineering</strong>
+<li><strong>Faculty of Philosophy</strong>
+<li><strong>Faculty of Physics</strong>
+<li><strong>Faculty of History, Geography, and Political Science</strong>
+<li><strong>Faculty of Mathematics</strong>
+<li><strong>Faculty of Medicine</strong>
+<li><strong>Faculty of Chemistry</strong>
+<li><strong>Faculty of Theology</strong>

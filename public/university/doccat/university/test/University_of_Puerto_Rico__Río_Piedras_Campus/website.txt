@@ -1,0 +1,7 @@
+<li><a>Graduate School of Informational Sciences and Technologies</a></li>
+<li><a>College of Natural Sciences</a></li>
+<p>The academic community has access to computer facilities all over campus.
+<h3>College of Natural Sciences</h3>
+<p>See <a>UPRRP College of Natural Sciences</a></p>
+<h3>College of Social Sciences</h3>
+<h3>Graduate School of Informatic Sciences and Technologies</h3>

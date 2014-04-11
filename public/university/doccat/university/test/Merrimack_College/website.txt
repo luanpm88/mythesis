@@ -1,0 +1,5 @@
+<li>75% Reside on campus</li>
+<li>Communication Arts &amp; Sciences</li>
+<li>Fine Arts</li>
+<li>Health Sciences</li>
+<li>Center for Biotechnology and Biomedical Sciences</li>

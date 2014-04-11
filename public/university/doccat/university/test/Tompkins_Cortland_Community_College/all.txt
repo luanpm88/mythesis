@@ -1,0 +1,71 @@
+image_name$$$@@@%%%<p></p>
+established$$$@@@%%%<p><strong>Tompkins Cortland Community College</strong> is a public two-year college supported by  <a>Cortland</a> and <a>Tompkins</a>  Counties.
+students$$$@@@%%%The main college campus is located in the <a>Town of Dryden</a>.
+campus$$$@@@%%%Extension sites are located in <a>Cortland, New York</a> and <a>Ithaca, New York</a>.
+established$$$@@@%%%Tompkins Cortland Community College is one of 64-member institutions of the <a>State University of New York</a> system.</p>
+established$$$@@@%%%<h2>History</h2>
+established$$$@@@%%%<p>The College was founded in 1967 and opened in 1968 in <a>Groton</a>, New York.
+city$$$@@@%%%The College moved to its current Dryden, New York campus in 1974.
+established$$$@@@%%%A multi-million dollar construction project complete in 2007 recently added a new athletics facility, a student center, and expanded and enhanced the college's library.</p>
+image_name$$$@@@%%%<h2>Students</h2>
+established$$$@@@%%%<p>The College has seen a steady increase in enrollment over the past decade, with now more than 3,800 students.
+students$$$@@@%%%The student body typically includes students from all parts of New York, a dozen other states, and more than 50 foreign countries.</p>
+image_name$$$@@@%%%<h2>Academics</h2>
+established$$$@@@%%%<p>Tompkins Cortland Community College offers more than 50 degree and certificate programs, including biotechnology, business administration, communication and media arts, computer sciences, construction technology, creative writing, criminal justice, engineering science, hotel and restaurant management, liberal arts and sciences, nursing, paralegal, photography, sport management, and wine marketing.
+established$$$@@@%%%About half of the Tompkins Cortland students transfer to a four-year college, with <a>Binghamton University</a>, <a>Cornell University</a>, <a>Cortland State</a>, <a>Ithaca College</a>, <a>Niagara University</a>, and the <a>Rochester Institute of Technology</a> being some of more popular transfer options.</p>
+free_label$$$@@@%%%<h2>Athletics</h2>
+affiliations$$$@@@%%%<p>The College sponsors ten intercollegiate athletic teams.
+established$$$@@@%%%The Panthers compete as a Division III member of the <a>National Junior College Athletic Association</a> (NJCAA) and as part of the <a>Mid-State Athletic Conference</a>.
+established$$$@@@%%%TC3 offers men's soccer, basketball, baseball, lacrosse, and golf and women's soccer, volleyball, basketball, softball, and golf.
+established$$$@@@%%%The College offers a lighted turf soccer/lacrosse field, a 1,500-seat gymnasium, an  field house, and on-campus baseball and softball parks.
+students$$$@@@%%%The men's soccer and golf programs and the women's soccer and softball programs are routinely nationally ranked.
+nickname$$$@@@%%%Dozens of former TC3 student-athletes have gone on to play at four-year institutions, often earning scholarships.
+established$$$@@@%%%Former Panthers have continued their playing careers at places like <a>Drake University</a>, <a>Wofford College</a>, <a>Post University</a>, <a>SUNY New Paltz</a>, <a>Cortland State</a>, and <a>Ithaca College</a>.
+free$$$@@@%%%In 2009 the softball team won the NJCAA Division III National Championship.
+free$$$@@@%%%In 2008, men's golfer Kris Boyes won the NJCAA Division III Individual National Championship.</p>
+nickname$$$@@@%%%<h2>Business Development</h2>
+established$$$@@@%%%<p>TC3.biz is the College's business development and training center.
+nickname$$$@@@%%%TC3.biz works with regional businesses and organizations to design and develop training programs, often helping secure funding for the training.
+established$$$@@@%%%In addition to customized training, a complete schedule of dozens of non-credit professional development programs is offered to individuals.
+nickname$$$@@@%%%Both on-campus and online classes are offered to help people learn skills needed to improve their positions in the workforce.
+image_name$$$@@@%%%</p>
+image_name$$$@@@%%%<h2>Campus Housing</h2>
+established$$$@@@%%%<p>Tompkins Cortland was one of the first community colleges in New York to offer on-campus housing, beginning its residential life program in 1999 with two buildings.
+established$$$@@@%%%The program has grown to now include seven buildings and more than 800 bedrooms.
+faculty$$$@@@%%%The residence halls are all apartment style, with each apartment including three or four private bedrooms, a kitchen, bathroom, and living room area.
+image_name$$$@@@%%%</p>
+image_name$$$@@@%%%<h2>Concurrent Enrollment</h2>
+president$$$@@@%%%<p>CollegeNow@TC3 is the College's concurrent enrollment program.
+established$$$@@@%%%TC3 works with school districts in Central New York allowing high school students to earn college credit while taking classes in high school.</p>
+image_name$$$@@@%%%<h2>TC3 Global</h2>
+established$$$@@@%%%<p>The College partners with several institutions in foreign countries to provide educational opportunities on our campus to their students through the Global Connections program.
+established$$$@@@%%%The agreements allow international students the opportunity to study in their home institution during the regular academic year and in the <a>United States</a> at TC3 for two semesters, either in the summer or during the traditional academic year.
+students$$$@@@%%%Through a combination of transfer credits and study in the United States students may receive complementary degrees from their home university and TC3.
+vice_chancellor$$$@@@%%%All courses at TC3 are taught in English.
+image_name$$$@@@%%%</p>
+established$$$@@@%%%<p>Tompkins Cortland students have the opportunity to learn in a different culture through a handful of study abroad options.
+established$$$@@@%%%Students and community members have the chance to take faculty-led trips to <a>Costa Rica</a>, <a>Guatemala</a>, <a>Ireland</a>, <a>Nicaragua</a>, <a>Russia</a>, and <a>Ukraine</a>.</p>
+image_name$$$@@@%%%<h2>Honors</h2>
+free$$$@@@%%%<p>The TC3 women's softball team won the 2009 NJCAA Division III National Championship.
+established$$$@@@%%%It was the first team national title in any sport for TC3.</p>
+established$$$@@@%%%<p>The College received an outstanding review from <a>Middle State Commission on Higher Education</a> in 2008, earning a full 10-year reaccreditation.
+image_name$$$@@@%%%</p>
+established$$$@@@%%%<p>College President Carl E. Haynes was selected as a recipient of the Chair Academy's Paul A. Elsner International Excellence in Leadership Award in 2008.
+nickname$$$@@@%%%The honor is bestowed upon select leaders from throughout the world who exemplify and support academic and administrative leadership.</p>
+free$$$@@@%%%<p>Golfer Kris Boyes won the 2008 NJCAA Division III Individual National Championship.
+established$$$@@@%%%It was the first national championship of any kind in any sport for the TC3.</p>
+established$$$@@@%%%<p>TC3 was named the top digital community college for its size for 2005, 2007, and 2010 by the Center for Digital Education.</p>
+established$$$@@@%%%<p>In 2001, President Haynes was one of just 40 people from around the world asked to speak at the Second Oxford International Round Table for Community College Presidents.</p>
+image_name$$$@@@%%%<h2>References</h2>
+image_name$$$@@@%%%<p><img></p>
+image_name$$$@@@%%%<h2>External links </h2>
+image_name$$$@@@%%%<ul>
+affiliation$$$@@@%%%  <li><a>Official website</a></li>
+affiliations$$$@@@%%%  <li><a>TC3.biz
+nickname$$$@@@%%%Business Development website</a></li>
+doctoral$$$@@@%%%  <li><a>CollegeNow - concurrent enrollment website</a></li>
+free_label$$$@@@%%%  <li><a>TC3 Panthers - athletics website</a></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p><img></p>
+image_name$$$@@@%%%
+image_name$$$@@@%%%

@@ -1,0 +1,62 @@
+image_name$$$@@@%%%<p></p>
+established$$$@@@%%%<p><strong>T&#x00e9;l&#x00e9;-universit&#x00e9;</strong> is a component of the <a>Universit&#x00e9; du Qu&#x00e9;bec &#x00e0; Montr&#x00e9;al</a>.
+established$$$@@@%%%Sometimes abbreviated to <strong>T&#x00e9;luq</strong>, it became a component of <a>UQAM</a> in June 2005.
+established$$$@@@%%%The enabling legislation is <em>An Act respecting educational institutions at the university level.</em>
+image_name$$$@@@%%%</p>
+image_name$$$@@@%%%<h2>Programs</h2>
+faculty$$$@@@%%%<p>It offers several undergraduate programs including six degrees.
+affiliations$$$@@@%%%It also offers two master degree programs and one Ph.D. program.
+students$$$@@@%%%Excluding research funding, it has a yearly budget of nearly $33 million.
+affiliations$$$@@@%%%In 2006-2007, its student population grew by 12.5%.</p>
+staff$$$@@@%%%<p>With over <a>55 professors</a> and over 200 tutors and teaching assistants, T&#x00e9;luq has a number of courses and degrees in <a>computer science</a>, <a>education</a>, <a>communication</a>, <a>environmental science</a>s, and <a>management</a>.</p>
+image_name$$$@@@%%%<h2>Legal Status</h2>
+established$$$@@@%%%<p>T&#x00c9;LUQ became a component of the <a>University of Qu&#x00e9;bec in Montr&#x00e9;al</a> on October 19, 2005.
+established$$$@@@%%%It now has no <a>board of directors</a>, <a>headquarters</a> or registrar.
+nickname$$$@@@%%%However management offices are located in <a>Quebec City</a>.
+established$$$@@@%%%According to rule 19 of <a>UQAM</a>, similar to a T&#x00c9;LUQ rule in force before its merger with UQAM, these offices must always be in <a>Quebec City</a>.
+undergrad$$$@@@%%%With approximately 60 000 students, the T&#x00c9;LUQ-UQAM establishment is the biggest francophone university.</p>
+image_name$$$@@@%%%<h2>Partners</h2>
+type$$$@@@%%%<p>T&#x00e9;l&#x00e9;-universit&#x00e9; is partners with several institutions both public and private.
+type$$$@@@%%%Among them are other universities in Quebec, Canada or abroad, the <a>Canadian Virtual University</a> and the <a>Inter-American Organization for Higher Education</a>.</p>
+image_name$$$@@@%%%<h2>Students</h2>
+established$$$@@@%%%<p>It has over 20,000 students, more than half of them in the Montreal area.
+affiliations$$$@@@%%%Most students (70%) are females.
+type$$$@@@%%%About a third of all students (35%) taking courses at T&#x00e9;luq are from other universities or in on-campus programs.
+faculty$$$@@@%%%Most students (61%) are under 35 years old.
+students$$$@@@%%%About a fifth of the student population (22%) holds a degree.</p>
+type$$$@@@%%%<p>There is a student paper called the <a>S@ns P@pier</a> (available online), a student union (<a>AETELUQ</a>), and a popular posting board (<a>C@f&#x00e9;</a>).</p>
+image_name$$$@@@%%%<h2>Teaching Methods</h2>
+vice_chancellor$$$@@@%%%<p>T&#x00e9;luq offers several types of courses.
+former_names$$$@@@%%%Support format includes paper, DVDs, and Web sites (using content management tools such as <a>SPIP</a>).</p>
+nickname$$$@@@%%%<p>Courses are designed by teams led by a professor.
+faculty$$$@@@%%%Teams include research assistants, associate designers, education science specialists, proof readers and other edition staff including artists.</p>
+established$$$@@@%%%<p>Under the authority of a professor,tutors help students and mark assignments.</p>
+country$$$@@@%%%<h2>Research</h2>
+country$$$@@@%%%<p>In 2005-2006, it received $5 million in research funding, including one million from the <a>Natural Sciences and Engineering Research Council</a>.
+established$$$@@@%%%Hence, it received $100,000 per professor in research funding.</p>
+established$$$@@@%%%<p>T&#x00e9;luq has one research center in <a>Cognitive Informatics</a>: <a>LICEF</a>.
+image_name$$$@@@%%%</p>
+campus$$$@@@%%%<p>It has several laboratories including:</p>
+image_name$$$@@@%%%<ul>
+image_size$$$@@@%%%  <li><a>LORIT</a>: an <a>user interface</a> laboratory</li>
+affiliation$$$@@@%%%  <li><a>ERASME</a>: a <a>data warehouse</a> laboratory</li>
+image_name$$$@@@%%%</ul>
+free_label$$$@@@%%%<p>T&#x00e9;luq is also a contributor to the <a>CERGO</a> (governance research center)  with <a>ENAP</a>.
+image_name$$$@@@%%%</p>
+established$$$@@@%%%<p>The pancanadian research network <a>LORNET</a> is managed by T&#x00e9;luq.
+established$$$@@@%%%The research network comprises <a>Simon Fraser University</a>, <a>University of Waterloo</a>, <a>University of Saskatchewan</a>, <a>University of Ottawa</a>, <a>&#x00c9;cole Polytechnique de Montr&#x00e9;al</a>, and T&#x00e9;luq.</p>
+image_name$$$@@@%%%<h2>References</h2>
+image_name$$$@@@%%%<p><img></p>
+image_name$$$@@@%%%<h2>External links</h2>
+image_name$$$@@@%%%<ul>
+affiliation$$$@@@%%%  <li><a>Website</a></li>
+established$$$@@@%%%  <li><a>Papers by T&#x00e9;luq's researchers</a> on <a>UQAM</a>'s open archive</li>
+image_name$$$@@@%%%</ul>
+city$$$@@@%%%<h2>See also</h2>
+image_name$$$@@@%%%<ul>
+doctoral$$$@@@%%%  <li><a>CFTU-TV</a></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p><img> <img></p>
+image_name$$$@@@%%%<p><img></p>
+image_name$$$@@@%%%
+image_name$$$@@@%%%

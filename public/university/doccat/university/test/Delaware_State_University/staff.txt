@@ -1,0 +1,2 @@
+There are 168 faculty members in twenty academic departments.
+Of this number, 140 have doctorate degrees and forty have reached the academic rank of full <a>professor</a>.

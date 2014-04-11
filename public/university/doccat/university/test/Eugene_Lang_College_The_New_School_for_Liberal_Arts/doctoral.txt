@@ -1,0 +1,26 @@
+<li><a>Interdisciplinary Science</a></li>
+<li><a>Ani DiFranco</a> - Musician</li>
+<li><a>Elisa Donovan</a> - Actress</li>
+<li><a>Matisyahu</a> - Musician</li>
+<li><a>Sufjan Stevens</a> - Musician</li>
+<li><a>Jake Shears</a> - Musician</li>
+<li><a>Mike Doughty</a> - Musician</li>
+<li><a>Stacey Farber</a> - Actress</li>
+<li><a>Melissa Febos</a> - Writer</li>
+<li><a>Travis Jeppesen</a> - Writer</li>
+<li><a>Paul Dano</a> - Actor</li>
+<li><a>Robert Schwartzman</a> - Musician, Actor</li>
+<li><a>Bethany Cosentino</a> - Musician, Best Coast</li>
+<li><a>Bryonn Bain</a> - Writing; hip-hop poet, co-host of <em>My Two Cents</em> on <a>BET J/Centric</a></li>
+<li><a>Jennifer Baumgardner</a> - Writing; feminist writer and speaker</li>
+<li><a>Siddhartha Deb</a> - Writing; novelist</li>
+<li><a>Jill Eisenstadt</a> - Writing; novelist, screenwriter, journalist</li>
+<li><a>Shelley Jackson</a> - Writing; novelist and short story writer</li>
+<li><a>Hettie Jones</a> - Writing; poet</li>
+<li><a>Greil Marcus</a> - Riggio Honors Program; music critic</li>
+<li><a>Kristin Prevallet</a> - Writing; poet, essayist</li>
+<li><a>Lynda Schor</a> - Writing; short story writer, literary editor</li>
+<li><a>Christopher Sorrentino</a> - Writing; novelist, short story writer</li>
+<li><a>Sekou Sundiata</a> (late) - Writing; Grammy-nominated performance artist, poet</li>
+<li><a>McKenzie Wark</a> - Culture and Media; virtual media theorist</li>
+<li><a>Zisan Ugurlu</a> - Theater Program; Actress/Director</li>

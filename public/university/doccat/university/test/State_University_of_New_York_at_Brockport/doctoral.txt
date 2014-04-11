@@ -1,0 +1,15 @@
+<li><a>Computer Science</a></li>
+<li><a>Computational Science</a></li>
+<li><a>Dentistry</a> - <em>See Pre-med</em></li>
+<li><a>Earth Science</a></li>
+<li><a>Health Science</a></li>
+<li><a>Medicine</a> - <em>see Pre-med</em></li>
+<li><a>Political Science</a></li>
+<li><a>Pre-med</a> <em>(Pre-professional Preparation &amp; Advisement)</em></li>
+<li><a>Veterinary Medicine</a> - <em>see Pre-med (Pre-professional Preparation and Advisement)</em></li>
+<li>Education and Human Development: Adolescence Education, Earth Science (7-12) (MSEd)</li>
+<li>Environmental Science and Biology (MS)</li>
+<li>Health Science: Health Education (K-12) (MSEd)</li>
+Each organization does many events each semester and raises money for many different causes.
+It is the permanent home of the science departments (Biology, Environmental Science, Earth Science) and holds many large classrooms and laboratories.</p>
+Leigh Little, Computational Science</li>

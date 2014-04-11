@@ -1,0 +1,170 @@
+established$$$@@@%%%<p> The <strong>University of Central Lancashire</strong> (or <strong>UCLan</strong>) is a <a>university</a> based in <a>Preston</a>, <a>Lancashire</a>, <a>England</a>, <a>UK</a>.</p>
+image_name$$$@@@%%%<pre></pre>
+established$$$@@@%%%<p>The university has its roots in <em>The Institution For The Diffusion Of Useful Knowledge</em> which was founded in 1828.
+established$$$@@@%%%In 1992 it was granted University status by the <a>Privy Council</a>.
+type$$$@@@%%%The university is the fifth largest in the <a>UK</a> in terms of student numbers and is ranked as the best <a>modern university</a> in the region.</p>
+established$$$@@@%%%<h2>History</h2>
+established$$$@@@%%%<p>The Institution for the Diffusion of Useful Knowledge was founded in 1828 by <a>Joseph Livesey</a>'s <a>Temperance Society</a>.
+established$$$@@@%%%The society was born from a pledge made by seven Preston working men (whose names can be seen on a plaque in the university's library) to never again consume alcohol.</p>
+established$$$@@@%%%<p>The Institute was housed in a classical-revivalist building on Cannon Street, before eventually expanding under the endowment of a local lawyer, Edmund Robert Harris, who died in 1877.
+established$$$@@@%%%The expansion brought with it several new buildings and houses in the nearby Regent Street were purchased and demolished as a consequence.
+established$$$@@@%%%The institute became a regional centre of excellence for the arts and sciences.
+image_name$$$@@@%%%</p>
+established$$$@@@%%%<p>As part of <a>Queen Victoria</a>'s  <a>Diamond Jubilee</a> celebrations in 1897, the Institute's trustees paid the <a>Victorian</a>/<a>Edwardian</a> architect Henry Cheers to design the &quot;Victoria Jubilee Technical School&quot; (later known as the Harris Institute and now known as the Harris Building), to be built on Corporation Street.
+established$$$@@@%%%Its goal was to provide local youths with a technical education in all areas.
+established$$$@@@%%%The building was progressive for the period, being powered entirely by electricity.</p>
+established$$$@@@%%%<p>The Institute existed in this state until 1932 when it changed its name to become the Harris Art College.
+established$$$@@@%%%It underwent further expansion and in 1952 and became the Harris College.
+type$$$@@@%%%In 1973 this became Preston Polytechnic then the Lancashire Polytechnic in 1984.
+established$$$@@@%%%In 1992, full university status was awarded and the University of Central Lancashire came into existence.</p>
+affiliations$$$@@@%%%<p>For further historical information, see <em>University of Central Lancashire.
+established$$$@@@%%%A History of the Development of the Institution since 1828</em> by Rex Pope and Ken Phillips.</p>
+established$$$@@@%%%<h2>University Structure</h2>
+established$$$@@@%%%<p><a>thumb|The Harris Building, built in 1897</a> <a>thumb|The Adelphi Building</a></p>
+image_name$$$@@@%%%<ul>
+website$$$@@@%%%  <li><strong>Faculty of Arts, Humanities and Social Sciences</strong>
+image_name$$$@@@%%%    <ul>
+image_name$$$@@@%%%      <li>Combined Honours Unit </li>
+website$$$@@@%%%      <li>School of  Creative and Performing Arts
+image_name$$$@@@%%%        <ul>
+free_label$$$@@@%%%          <li>Centre for Contemporary Art </li>
+image_name$$$@@@%%%        </ul>
+image_name$$$@@@%%%      </li>
+head_label$$$@@@%%%      <li>Northern School of Design </li>
+country$$$@@@%%%      <li>School of  Education and Social Sciences </li>
+established$$$@@@%%%      <li>School of  Journalism, Media and Communication </li>
+established$$$@@@%%%      <li>Lancashire Law School
+image_name$$$@@@%%%        <ul>
+country$$$@@@%%%          <li>Centre for Law, Information and Converging Technologies</li>
+country$$$@@@%%%          <li>Centre for Criminology and Criminal Justice </li>
+image_name$$$@@@%%%        </ul>
+image_name$$$@@@%%%      </li>
+established$$$@@@%%%      <li>School of  Languages and International Studies
+image_name$$$@@@%%%        <ul>
+website$$$@@@%%%          <li>Confucius Institute</li>
+image_name$$$@@@%%%        </ul>
+image_name$$$@@@%%%      </li>
+image_name$$$@@@%%%    </ul>
+image_name$$$@@@%%%  </li>
+established$$$@@@%%%  <li><strong>Faculty of Health and Social Care</strong>
+image_name$$$@@@%%%    <ul>
+head_label$$$@@@%%%      <li>School of  Dentistry</li>
+type$$$@@@%%%      <li>Institute for Postgraduate Dental Education </li>
+website$$$@@@%%%      <li>School of  Nursing and Caring Sciences 
+image_name$$$@@@%%%        <ul>
+country$$$@@@%%%          <li>Centre for Professional Ethics</li>
+image_name$$$@@@%%%        </ul>
+image_name$$$@@@%%%      </li>
+type$$$@@@%%%      <li>School of  Public Health and Clinical Sciences </li>
+established$$$@@@%%%      <li>School of  Social Work
+image_name$$$@@@%%%        <ul>
+country$$$@@@%%%          <li>Centre for Children and Young People's Participation</li>
+image_name$$$@@@%%%        </ul>
+image_name$$$@@@%%%      </li>
+image_name$$$@@@%%%    </ul>
+image_name$$$@@@%%%  </li>
+closed$$$@@@%%%  <li><strong>Faculty of Management</strong>
+image_name$$$@@@%%%    <ul>
+nickname$$$@@@%%%      <li>Lancashire Business School 
+image_name$$$@@@%%%        <ul>
+website$$$@@@%%%          <li>Institute of Innovation, Enterprise and Entrepreneurship</li>
+type$$$@@@%%%          <li>Institute of International Business</li>
+image_name$$$@@@%%%        </ul>
+image_name$$$@@@%%%      </li>
+established$$$@@@%%%      <li>School of  Sport, Tourism and the Outdoors</li>
+image_name$$$@@@%%%    </ul>
+image_name$$$@@@%%%  </li>
+doctoral$$$@@@%%%  <li><strong>Faculty of Science and Technology</strong>
+image_name$$$@@@%%%    <ul>
+established$$$@@@%%%      <li>School of  Built and Natural Environment 
+image_name$$$@@@%%%        <ul>
+type$$$@@@%%%          <li><a>Centre for Sustainable Development</a></li>
+country$$$@@@%%%          <li>Centre for Waste Management</li>
+image_name$$$@@@%%%        </ul>
+image_name$$$@@@%%%      </li>
+website$$$@@@%%%      <li>School of  Computing, Engineering and Physical Sciences 
+image_name$$$@@@%%%        <ul>
+type$$$@@@%%%          <li><a>Jeremiah Horrocks Institute for Astrophysics and Supercomputing</a></li>
+city$$$@@@%%%          <li>Jost Institute for Tribotechnology</li>
+country$$$@@@%%%          <li><a>John Tyndall Nuclear Research Institute</a></li>
+image_name$$$@@@%%%        </ul>
+image_name$$$@@@%%%      </li>
+website$$$@@@%%%      <li>School of  Forensic and Investigative Sciences
+image_name$$$@@@%%%        <ul>
+doctoral$$$@@@%%%          <li>Centre for Materials Science</li>
+country$$$@@@%%%          <li>Centre for Fire and Hazzards Science</li>
+country$$$@@@%%%          <li>Centre for Human Remains Identification</li>
+country$$$@@@%%%          <li>Centre for Policing and Criminal Investigation </li>
+image_name$$$@@@%%%        </ul>
+image_name$$$@@@%%%      </li>
+website$$$@@@%%%      <li>School of  Pharmacy and Pharmaceutical Sciences </li>
+head_label$$$@@@%%%      <li>School of  Psychology</li>
+image_name$$$@@@%%%    </ul>
+image_name$$$@@@%%%  </li>
+city$$$@@@%%%  <li><strong>Pan-institutional Schools</strong>
+image_name$$$@@@%%%    <ul>
+established$$$@@@%%%      <li>International School for Communities, Rights and Inclusion
+image_name$$$@@@%%%        <ul>
+city$$$@@@%%%          <li>Institute for Global Communities</li>
+country$$$@@@%%%          <li>International Centre for Sign Language and Deaf Studies</li>
+image_name$$$@@@%%%        </ul>
+image_name$$$@@@%%%      </li>
+image_name$$$@@@%%%    </ul>
+image_name$$$@@@%%%  </li>
+image_name$$$@@@%%%  <li><strong>UCLan Group Organisations</strong>
+image_name$$$@@@%%%    <ul>
+type$$$@@@%%%      <li><a>Westlakes Scientific Consulting (Environmental and Health Consulting)</a></li>
+image_name$$$@@@%%%    </ul>
+image_name$$$@@@%%%  </li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h2>Students' Union</h2>
+affiliations$$$@@@%%%<p><a>thumb|The Students' Union venue, 53 Degrees.</a></p>
+staff$$$@@@%%%<p>The main club venue at the Students' Union, &quot;53 Degrees&quot;, has two floors with a bar on each and often hosts top bands.
+image_size$$$@@@%%%Across two rooms, total capacities are 1,200 &amp; 400 for club nights and 1,500 and 400 for all live gigs.
+affiliations$$$@@@%%%The adjoining bar, &quot;Source&quot;, opens seven days during terms.</p>
+image_name$$$@@@%%%<h2>Sport</h2>
+students$$$@@@%%%<p>The university has sport facilities available to students, staff and alumni on campus.
+free_label$$$@@@%%%The Foster Sports Centre, situated at the centre of the campus, was recently extended and refurbished.
+free_label$$$@@@%%%It accommodates indoor sports including badminton, tennis, basketball, volleyball, football, hockey, netball and fencing.
+established$$$@@@%%%Additionally, the centre has a gymnasium.</p>
+free_label$$$@@@%%%<p>Also open to students, staff, alumni and the community is the Preston Sports Centre, opened in 2000 by <a>HRH The Princess Royal</a>.
+established$$$@@@%%%The &#x00a3;12 million arena provides facilities for Athletics (8 lane track), <a>Rugby League</a>, <a>Rugby Union</a>, <a>Football</a> (5 grass pitches) <a>Hockey</a> (2 floodlit all weather pitches) <a>Netball</a> and <a>Tennis</a> (4 floodlit courts) and <a>Cycling</a> (1.5&nbsp;km circuit), as well as an eight lane athletics area, equipped for school, club and county competitions.</p>
+established$$$@@@%%%<p>The University runs a raceteam, UCLAN Racing, which competes in the North West Club Formula Ford Championship; it finished 3rd in the championship and 2nd in 2009.</p>
+free$$$@@@%%%<h2>Notable alumni</h2>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%<ul>
+affiliation$$$@@@%%%  <li><a>Mike Allen</a>, broadcaster</li>
+established$$$@@@%%%  <li><a>Jim Bamber</a>, illustrator for <a>Autosport</a> (Preston College of Art)</li>
+affiliation$$$@@@%%%  <li><a>Victoria Derbyshire</a>, broadcaster</li>
+established$$$@@@%%%  <li><a>Mary Fitzpatrick, photographer</a>, visual artist <a>Liverpool Art Prize</a></li>
+affiliations$$$@@@%%%  <li><a>Andy Goldsworthy</a>, visual artist.</li>
+established$$$@@@%%%<li><a>Lee Mavers</a>, founding member of Liverpool band <a>The La's</a></li>
+affiliation$$$@@@%%%  <li><a>Sally Naden</a>, broadcaster</li>
+affiliations$$$@@@%%%  <li><a>Simon Kelner</a>, Journalist.</li>
+type$$$@@@%%%  <li><a>Barra Best</a> (Journalist and weather presenter, <a>BBC Newsline</a>)</li>
+established$$$@@@%%%  <li><a>Jonathan Thompson</a> Presenter for shows on <a>SKY</a>, <a>BBC</a> &amp; <a>Nickelodeon</a>.
+mascot$$$@@@%%%He is also a well known video game entrepreneur.</li>
+established$$$@@@%%%<li><a>Bryan Talbot</a>, award winning comic book artist and writer.</li>
+vice_chancellor$$$@@@%%%<li><a>John Stapleton</a>, television presenter.</li>
+established$$$@@@%%%<li><a>Donald Stokes, Baron Stokes</a>, industrialist and life peer.</li>
+established$$$@@@%%%<li><a>Mike Sutton (criminologist)</a> Originator of the <a>Market Reduction Approach</a></li>
+affiliations$$$@@@%%%  <li><a>Darren Phillips</a>, author.</li>
+affiliations$$$@@@%%%<li><a>Don Warrington</a>, veteran actor.</li>
+type$$$@@@%%%<li>Tjinder Singh, lead singer of <a>Cornershop</a></li>
+established$$$@@@%%%  <li>Mark Jenkins, Chief Executive of <a>West Bromwich Albion Football Club</a></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h2>References</h2>
+nickname$$$@@@%%%<p>&lt;!-- References are the same thing as &quot;sources&quot;.
+nickname$$$@@@%%%Suitable references include, but are not limited to: books, journals, magazines, newspapers, and websites.
+nickname$$$@@@%%%References that are written by experts and are reviewed before publication, by an editor, are preferred.
+affiliations$$$@@@%%%--&gt; &lt;!-- NOTE: YOUR ARTICLE MUST BE SUBMITTED WITH AT LEAST TWO &quot;SUITABLE REFERENCES&quot; TO BE ACCEPTED.
+image_name$$$@@@%%%--&gt; <img></p>
+image_name$$$@@@%%%<h2>External links</h2>
+image_name$$$@@@%%%<ul>
+established$$$@@@%%%  <li><a>University of Central Lancashire website</a></li>
+affiliation$$$@@@%%%  <li><a>UCLan Students' Union website</a></li>
+affiliation$$$@@@%%%  <li><a>Westlakes Scientific Consulting website</a></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p>  <img></p>
+image_name$$$@@@%%%
+image_name$$$@@@%%%

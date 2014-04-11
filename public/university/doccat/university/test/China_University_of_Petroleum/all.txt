@@ -1,0 +1,129 @@
+image_name$$$@@@%%%<p></p>
+established$$$@@@%%%<p>The <strong>China University of Petroleum</strong> () is a university system (consists of 2 universities) of the major universities under the jurisdiction of the central government, Ministry of Education.</p>
+established$$$@@@%%%<h2>History</h2>
+established$$$@@@%%%<p>The university, founded in 1953, was known as <a>Beijing Petroleum Institute</a>.
+established$$$@@@%%%It moved to <a>Dongying</a>, <a>Shandong</a> Province in 1969, with its name changed to <a>East China Petroleum Institute</a>.
+established$$$@@@%%%In 1988 it was renamed The University of Petroleum, consisting of one university in <a>East China</a> and one in <a>Beijing</a>.
+students$$$@@@%%%It ranks among the &quot;<a>211 Project</a>&quot;.
+established$$$@@@%%%On January, 2005 its name changed to China University of Petroleum.</p>
+established$$$@@@%%%<p>China University of Petroleum is an Engineering university that specialized subjects covered oil , petrochemical industry in various fields, in the overall level of domestic lead.
+nickname$$$@@@%%%Its 5 national key specialties include:</p>
+image_name$$$@@@%%%<ul>
+city$$$@@@%%%  <li>Chemical Technology </li>
+campus$$$@@@%%%  <li>Mineral Resource Prospecting and Exploration </li>
+city$$$@@@%%%  <li>Oil-Gas Well Engineering </li>
+doctoral$$$@@@%%%  <li>Oil-Gas Storage and Transportation Engineering </li>
+city$$$@@@%%%  <li>Oil-Gas Field Development Engineering </li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h2>Campus</h2>
+staff$$$@@@%%%<p>China University of Petroleum   is the main part of the UPC.
+established$$$@@@%%%It has two campuses respectively in <a>Dongying</a> and <a>Qingdao</a>.</p>
+image_name$$$@@@%%%<h2>Location</h2>
+established$$$@@@%%%<p>China University of Petroleum  covers a total area of 3100 Chinese mu (about 200 hectares) with 650,000 m&lt;sup&gt;2&lt;/sup&gt; of floor space.
+established$$$@@@%%%The library has a collection of 3.23 million items.</p>
+image_name$$$@@@%%%<h2>Administration</h2>
+country$$$@@@%%%<p>The university faculty is organized into the following departments.</p>
+image_name$$$@@@%%%<h3>Administrative Offices</h3>
+established$$$@@@%%%<p>The administrative structure of the university is organized into the following departments.</p>
+image_name$$$@@@%%%<ul>
+closed$$$@@@%%%  <li>School Office</li>
+free$$$@@@%%%  <li>Department of Organization</li>
+free$$$@@@%%%  <li>Department of Publicity</li>
+free$$$@@@%%%  <li>Department of the United Front Work</li>
+country$$$@@@%%%  <li>Office of Commission for Inspecting Discipline and Supervisory Committee Office</li>
+free$$$@@@%%%  <li>Department of Work on Students</li>
+image_name$$$@@@%%%  <li>Labor Union</li>
+established$$$@@@%%%  <li>Commission of the Communist Youth League of China</li>
+image_name$$$@@@%%%  <li>Dean&#x2019;s *Office</li>
+free$$$@@@%%%  <li>Cooperation and Development Department</li>
+doctoral$$$@@@%%%  <li>Science and Technology Department</li>
+city$$$@@@%%%  <li>Institute of Postgraduates</li>
+established$$$@@@%%%  <li>Department of Assets and Equipments</li>
+free$$$@@@%%%  <li>Personnel Administration Department</li>
+image_name$$$@@@%%%  <li>International Office</li>
+free$$$@@@%%%  <li>Finance *Department</li>
+free$$$@@@%%%  <li>Campus Industry and Management Administration *Department</li>
+type$$$@@@%%%  <li>Public Security Department</li>
+free$$$@@@%%%  <li>Retiree *Department</li>
+free$$$@@@%%%  <li>Auditing *Department</li>
+free$$$@@@%%%  <li>Logistics Administration Department</li>
+image_name$$$@@@%%%  <li>Rear Service Group</li>
+caption$$$@@@%%%  <li>Library</li>
+type$$$@@@%%%  <li>Network and Education Technology Center</li>
+image_name$$$@@@%%%  <li>Periodicals Office</li>
+image_name$$$@@@%%%  <li>Archives</li>
+image_name$$$@@@%%%</ul>
+closed$$$@@@%%%<h3>Faculty Structure</h3>
+image_name$$$@@@%%%<ul>
+head_label$$$@@@%%%  <li>School of Geo-resources and Information</li>
+doctoral$$$@@@%%%  <li>School of Physics Science and Technology</li>
+head_label$$$@@@%%%  <li>School of Petroleum Engineering &#x0009;</li>
+head_label$$$@@@%%%  <li>School of Foreign Languages</li>
+established$$$@@@%%%  <li>School of Chemistry and Chemical Engineering &#x0009;</li>
+closed$$$@@@%%%  <li>School of Humanities and Social Science</li>
+established$$$@@@%%%  <li>School of Mechanical and Electrical Engineering &#x0009;</li>
+affiliations$$$@@@%%%  <li>P.E.
+image_name$$$@@@%%%Instruction Section</li>
+established$$$@@@%%%  <li>School of Information and Control Engineering &#x0009;</li>
+closed$$$@@@%%%  <li>Graduate School</li>
+established$$$@@@%%%  <li>School of Architecture and Transport and Storage Engineering &#x0009;</li>
+type$$$@@@%%%  <li>Adult Education School</li>
+established$$$@@@%%%  <li>School of Computer and Communication Engineering &#x0009;</li>
+closed$$$@@@%%%  <li>Advanced Vocational School</li>
+head_label$$$@@@%%%  <li>School of Economic Administration &#x0009;</li>
+type$$$@@@%%%  <li>Network Education School</li>
+closed$$$@@@%%%  <li>School of Mathematics and Computational Science &#x0009;</li>
+principal$$$@@@%%%  <li>Shengli *College</li>
+image_name$$$@@@%%%</ul>
+image_size$$$@@@%%%<h3>Student</h3>
+faculty$$$@@@%%%<p>The university has over 20,000  undergraduates, 3,300 postgraduates, 1497 teaching staff, including professors, associate professor of 683 people.
+students$$$@@@%%%The university, now has 54 specialties for undergraduate studies, and it is entitled to confer masters degrees in 99 programs and doctoral degrees in 32 programs.
+image_size$$$@@@%%%Under its administration there are 26 Research Centers including State Key Laboratory of Heavy Oil Processing.</p>
+image_size$$$@@@%%%<h3>State Key Disciplines</h3>
+motto$$$@@@%%%<p>The university has key disciplines funded by the central government.</p>
+image_name$$$@@@%%%<ul>
+campus$$$@@@%%%  <li>Mineral Survey and Exploration
+image_name$$$@@@%%%    <ul>
+website$$$@@@%%%      <li>Geology (Natural Sciences: Earth Science)</li>
+image_name$$$@@@%%%    </ul>
+image_name$$$@@@%%%  </li>
+image_name$$$@@@%%%  <li>Oil &amp; Gas Well Engineering
+image_name$$$@@@%%%    <ul>
+image_name$$$@@@%%%      <li>Production Engineering (Engineering)</li>
+image_name$$$@@@%%%    </ul>
+image_name$$$@@@%%%  </li>
+campus$$$@@@%%%  <li>Oil and Gas Field Development Engineering
+image_name$$$@@@%%%    <ul>
+image_name$$$@@@%%%      <li>Production Engineering (Engineering)</li>
+campus$$$@@@%%%      <li>Petroleum and Gas Engineering (Engineering)</li>
+image_name$$$@@@%%%    </ul>
+image_name$$$@@@%%%  </li>
+campus$$$@@@%%%  <li>Oil &amp; Gas Storage and Transport Engineering
+image_name$$$@@@%%%    <ul>
+campus$$$@@@%%%      <li>Store Management (Service Trades: Retailing and Wholesaling)</li>
+campus$$$@@@%%%      <li>Transport Management (Transport and Communications)</li>
+image_name$$$@@@%%%    </ul>
+image_name$$$@@@%%%  </li>
+city$$$@@@%%%  <li>Chemistry Technology
+image_name$$$@@@%%%    <ul>
+website$$$@@@%%%      <li>Chemistry (Natural Sciences; Technology)</li>
+image_name$$$@@@%%%    </ul>
+image_name$$$@@@%%%  </li>
+image_name$$$@@@%%%</ul>
+free$$$@@@%%%<h4>Notable alumni</h4>
+image_name$$$@@@%%%<ul>
+established$$$@@@%%%  <li><a>Wu Yi</a> - Former <a>Vice Premier of the People's Republic of China</a></li>
+type$$$@@@%%%  <li><a>Zhou Yongkang</a> - <a>Politburo Standing Committee</a>, <a>State Council</a>, <a>PRC</a></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h2>References</h2>
+image_name$$$@@@%%%<p><img></p>
+image_name$$$@@@%%%<h2>External links</h2>
+image_name$$$@@@%%%<ul>
+established$$$@@@%%%  <li><a>China University of Petroleum</a> </li>
+established$$$@@@%%%  <li><a>China University of Petroleum</a> </li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p>  </p>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%
+image_name$$$@@@%%%

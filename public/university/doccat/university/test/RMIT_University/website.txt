@@ -1,0 +1,4 @@
+<h3>Early history</h3>
+<li><a>RMIT School of Applied Sciences</a></li>
+<li><a>RMIT School of Life and Physical Sciences</a></li>
+<li><a>RMIT School of Mathematical and Geospatial Sciences</a></li>

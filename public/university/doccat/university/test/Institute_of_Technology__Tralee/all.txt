@@ -1,0 +1,66 @@
+image_name$$$@@@%%%<p></p>
+type$$$@@@%%%<p><strong>Institute of Technology, Tralee</strong> (<strong>ITT</strong>)  is a third-level educational institution located in <a>Tralee</a>, <a>County Kerry</a>, <a>Ireland</a>.
+established$$$@@@%%%It was established in 1977 as the <strong>Regional Technical College, Tralee</strong>.</p>
+state$$$@@@%%%<h2>General information</h2>
+nickname$$$@@@%%%<p>In 2007, the title of the head of the institute changed from &quot;Director&quot; to &quot;President&quot;</p>
+campus$$$@@@%%%<h2>Schools and departments</h2>
+city$$$@@@%%%<p>The Institute has two campuses- the North campus (located in Dromtacker) and the South campus (located in Clash) approximately 2.4&nbsp;km (1.5&nbsp;mi) apart.
+nickname$$$@@@%%%It has the following Schools and Departments:</p>
+image_name$$$@@@%%%<ul>
+nickname$$$@@@%%%  <li><strong>School of Business and Social Studies</strong> <em>located in the North campus</em>:
+image_name$$$@@@%%%    <ul>
+free$$$@@@%%%      <li>Business Informatics Department</li>
+nickname$$$@@@%%%      <li>Business Studies and Humanities Department</li>
+free$$$@@@%%%      <li>Hotel, Catering and Tourism Department</li>
+image_name$$$@@@%%%    </ul>
+image_name$$$@@@%%%  </li>
+city$$$@@@%%%  <li><strong>School of Engineering and Construction Studies</strong> <em>located in the South campus</em>:
+image_name$$$@@@%%%    <ul>
+former_names$$$@@@%%%      <li>Agricultural and Manufacturing Engineering Department</li>
+free$$$@@@%%%      <li>Civil Engineering and Construction Studies Department</li>
+image_name$$$@@@%%%      <li>Apprentice Section</li>
+image_name$$$@@@%%%      <li>Accelerated Technician Section</li>
+image_name$$$@@@%%%    </ul>
+image_name$$$@@@%%%  </li>
+closed$$$@@@%%%  <li><strong>School of Science and Computing</strong>:
+image_name$$$@@@%%%    <ul>
+nickname$$$@@@%%%      <li>Computing and Mathematics Department <em>located in the North campus</em></li>
+city$$$@@@%%%      <li>Chemical and Life Sciences Department <em>located in the South campus</em></li>
+city$$$@@@%%%      <li>Health and Leisure Studies Department <em>located in the South campus</em></li>
+nickname$$$@@@%%%      <li>Nursing and Health Care Studies Department <em>located in the North campus</em></li>
+image_name$$$@@@%%%    </ul>
+image_name$$$@@@%%%  </li>
+image_name$$$@@@%%%</ul>
+established$$$@@@%%%<p>The South campus has been in operation since the opening of the Institute in 1977.
+established$$$@@@%%%The North campus opened in 2001.
+free_label$$$@@@%%%The continuing development of the North campus will eventually lead to the entire institute being relocated to Dromtacker.</p>
+image_name$$$@@@%%%<h2>Industry links</h2>
+established$$$@@@%%%<p>The <a>Tom Crean</a> Business Incubation Centre opened in the north campus in January 2005.</p>
+established$$$@@@%%%<p>Situated on the same site in Dromtacker is the <a>Kerry Technology Park</a>, owned and operated by <a>Shannon Development</a>.
+type$$$@@@%%%The Park and the Institute often work closely together, developing curricula and providing an exchange of students to work in the Park.
+established$$$@@@%%%In September 2004, a new Nursing complex opened in the North campus.
+mascot$$$@@@%%%The &quot;Sol&#x00e1;s building&quot; as it is known is where the student nurses learn practical nursing skills.
+established$$$@@@%%%It has its own ward setting with lifelike dummies as patients.</p>
+students$$$@@@%%%<h2>Sports</h2>
+established$$$@@@%%%<p><a>Tralee IT GAA</a> burst onto the college <a>GAA</a> scene in 1997 when it became the first RTC to win the <a>Sigerson Cup</a>.
+established$$$@@@%%%It was only Tralee's second outing in this prestigious competition.
+established$$$@@@%%%However, the college created further history by winning the Sigerson three times in successive seasons to become the only RTC/Institute of Technology to do so in the competition's history.</p>
+mascot$$$@@@%%%<p>The Ladies football team also won the O Connor Cup back to back in 1998 and 1999.
+established$$$@@@%%%Furthermore, the <a>hurlers</a> won the Ryan Cup in 1997 with the <a>camogie</a> team winning the Purcell Shield also in the same year.</p>
+city$$$@@@%%%<h2>See also</h2>
+image_name$$$@@@%%%<ul>
+type$$$@@@%%%  <li><a>Education in Ireland</a></li>
+type$$$@@@%%%  <li><a>List of Irish third-level educational institutions</a></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h2>References</h2>
+image_name$$$@@@%%%<p>&lt;references/&gt;</p>
+image_name$$$@@@%%%<h2>External links</h2>
+image_name$$$@@@%%%<ul>
+affiliations$$$@@@%%%  <li><a>Official site</a></li>
+image_size$$$@@@%%%  <li><a>Crean Centre</a></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%
+image_name$$$@@@%%%

@@ -1,0 +1,14 @@
+<h2>Biography</h2>
+<h2>Family</h2>
+name=&quot;appletons&quot;/&gt;</p>
+<ul>
+</ul>
+<h2>Works</h2>
+<ul>
+</ul>
+<h2>References</h2>
+<p>&lt;references/&gt;</p>
+<p> <img>   </p>
+<p> </p>
+
+

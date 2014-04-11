@@ -1,0 +1,11 @@
+<li><a>Southeast Asian studies</a></li>
+<li><a>Anthropology</a></li>
+<li><a>Economics</a></li>
+<li><a>Information Management</a></li>
+<li><a>Finance</a></li>
+<li><a>Electrical Engineering</a></li>
+<li><a>Applied Chemistry</a></li>
+<li><a>Communication Engineering</a></li>
+<li><a>Official website (Chinese)</a></li>
+<li><a>Official website (English)</a></li>
+<li><a>International Admission Site (Chinese)</a></li>

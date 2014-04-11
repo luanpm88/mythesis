@@ -1,0 +1,10 @@
+<h3>Faculty of Social and Behavioural Sciences</h3>
+<h2>Research institutes</h2>
+<li>Amsterdam Center for International Law</li>
+<li>Amsterdam Centre for Conflict Studies</li>
+<li><a>Amsterdam School for Social Science Research</a></li>
+<li>Amsterdam School of Communications Research</li>
+<li>Centre for Environmental Law</li>
+<li>Leibniz Center for Law</li>
+<li>Psychology Research Institute</li>
+<li>Research Institute in Economics and Econometrics Amsterdam</li>

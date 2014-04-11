@@ -1,0 +1,2 @@
+<li><a>Community and Technical College</a></li>
+<li>The Templewood Apartments hold 80 students in 20 apartments.</li>

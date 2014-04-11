@@ -1,0 +1,54 @@
+<p></p>
+<h2>Campus</h2>
+</p>
+</p>
+</p>
+<h2>Students</h2>
+</p>
+<h2>Programs</h2>
+<h3>Lehman Scholars Program</h3>
+<h3>Freshman Year Initiative</h3>
+<ul>
+</ul>
+<ul>
+<li>Ancient &amp; Medieval Civilizations</li>
+<li>Anthropology, undergrad</li>
+<li>Chinese, undergrad</li>
+<li>Classical Culture, undergrad</li>
+<li>Computer Information Systems, undergrad</li>
+<li>Comparative Literature, undergrad</li>
+<li>Creative &amp; Professional Writing, undergrad</li>
+<li>Dance, undergrad</li>
+<li>Economics, undergrad</li>
+<li>French, Languages &amp; Literatures</li>
+<li>Arabic Languages &amp; Literatures</li>
+<li>German Languages &amp; Literatures</li>
+<li>Gaelic Irish Languages &amp; Literatures</li>
+<li>Greek Languages &amp; Literatures</li>
+<li>Hebrew Culture</li>
+<li>Hebrew Languages &amp; Literatures</li>
+<li>Individualized Baccalaureate Program, Adult Degree Program</li>
+<li>Italian</li>
+<li>Japanese</li>
+<li>Japanese Culture</li>
+<li>Latin Languages &amp; Literatures,</li>
+<li>Linguistics</li>
+<li>Multilingual Journalism</li>
+<li>Mass Communication</li>
+<li>Journalism, Communication &amp; Theatre</li>
+<li>Musical Performance</li>
+<li>Nursing</li>
+<li>Psychology</li>
+<li>Russian</li>
+<li>Swahili</li>
+<li>Theatre</li>
+<li>Yiddish Language &amp; Literature</li>
+</ul>
+<ul>
+</ul>
+<ul>
+</ul>
+<h2>References</h2>
+<p><img> <img></p>
+
+

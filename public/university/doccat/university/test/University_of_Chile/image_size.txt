@@ -1,0 +1,2 @@
+<li>Campus Medicine (South): Site of the Exequiel Gonz&#x00e1;lez Cort&#x00e9;s Hospital.</li>
+<li>Campus Medicine (Center): Holds the San Borja-Arriar&#x00e1;n Clinic Hospital.</li>

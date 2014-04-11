@@ -1,0 +1,99 @@
+established$$$@@@%%%<p> The <strong>&#x00c9;cole nationale sup&#x00e9;rieure de techniques avanc&#x00e9;es</strong> (<em>National Higher School of Advanced Techniques</em>), also known as <strong>ENSTA</strong>, is one of the most prestigious and selective  <a>French</a> <em><a>grande &#x00e9;cole</a></em> in <a>engineering</a>.
+established$$$@@@%%%It is a member of <a>ParisTech</a> (Paris Institute of Technology).</p>
+established$$$@@@%%%<p>It is located in <a>Paris</a>, in the former premises of <a>SUPAERO</a>; it has an annex in <a>Palaiseau</a> (), next to <a>&#x00c9;cole polytechnique</a>.</p>
+affiliations$$$@@@%%%<p>Every year about 150 engineers graduate from it.</p>
+established$$$@@@%%%<p>ENSTA offers its students general engineering training with the aim of enabling them to design, produce and oversee complex industrial systems, while meeting strict economic constraints and dealing with an international environment.
+established$$$@@@%%%To do this, the School provides high-level scientific and technological training, which is frequently updated to keep pace with changes in the leading edge technologies and supplemented by language, general culture, law and economics teaching.</p>
+established$$$@@@%%%<p>The teaching is given by research professors at ENSTA with the participation of numerous auxiliary teachers from the economic and industrial world familiar with the latest technical developments in a wide variety of fields.</p>
+established$$$@@@%%%<p>Research, which is one of the School's primary missions, makes a dynamic contribution in both the fundamental and applied fields, to the School's pedagogical project and to meeting the needs of business.
+established$$$@@@%%%Half is the responsibility of the School's research professors, and the other half is carried out by researchers from the <a>CNRS</a>, the <a>INSERM</a> and the <a>&#x00c9;cole polytechnique</a> working in ENSTA's premises.</p>
+established$$$@@@%%%<p>The general nature of the training given enables ENSTA graduates to find a career in a large number of sectors such as the automotive or naval industry, networks and telecommunications, space propulsion, robotics, oceanology and the environment.
+postgrad$$$@@@%%%Most of the ENSTA graduate engineers are much sought-after by companies and generally find their first job in R&amp;D departments and design offices, rapidly moving towards supervisory and project management posts.</p>
+type$$$@@@%%%<p>ENSTA is a public teaching and research establishment operating under the supervision of the <a>Ministry of Defence</a>.
+established$$$@@@%%%It is headed by a general officer of the Corps of Ordnance Ingineers (<a>&lt;small&gt;DGA&lt;/small&gt;</a>).
+established$$$@@@%%%Some former graduates of <em><a>&#x00c9;cole polytechnique</a></em> attend ENSTA before joining the military Corps of Ordnance Ingineers, which staffs the &lt;small&gt;DGA&lt;/small&gt;.</p>
+image_name$$$@@@%%%<h2>Key figures</h2>
+image_name$$$@@@%%%<ul>
+image_name$$$@@@%%%  <li>Training
+image_name$$$@@@%%%    <ul>
+nickname$$$@@@%%%      <li>135 engineering degrees awarded in 2004</li>
+affiliation$$$@@@%%%      <li>9 &#x201c;<a>Mast&#x00e8;re Sp&#x00e9;cialis&#x00e9;</a>&#x201d; course degrees in information system architectures</li>
+affiliation$$$@@@%%%      <li>8 &#x201c;<a>Mast&#x00e8;re Sp&#x00e9;cialis&#x00e9;</a>&#x201d; course degrees in Naval Architecture </li>
+image_name$$$@@@%%%    </ul>
+image_name$$$@@@%%%  </li>
+image_size$$$@@@%%%  <li>Student numbers
+image_name$$$@@@%%%    <ul>
+doctoral$$$@@@%%%      <li>458 students (excluding doctoral research students)</li>
+country$$$@@@%%%      <li>83 foreign students, accounting for 18% of student numbers </li>
+image_name$$$@@@%%%    </ul>
+image_name$$$@@@%%%  </li>
+image_name$$$@@@%%%  <li>Courses available
+image_name$$$@@@%%%    <ul>
+vice_chancellor$$$@@@%%%      <li>343 courses</li>
+postgrad$$$@@@%%%      <li>31 law, economics, management courses</li>
+campus$$$@@@%%%      <li>24 culture and communication seminars</li>
+image_name$$$@@@%%%      <li>9 languages taught </li>
+image_name$$$@@@%%%    </ul>
+image_name$$$@@@%%%  </li>
+motto$$$@@@%%%  <li>The teachers
+image_name$$$@@@%%%    <ul>
+staff$$$@@@%%%      <li>100 full-time research professors</li>
+postgrad$$$@@@%%%      <li>More than 650 auxiliary teachers </li>
+image_name$$$@@@%%%    </ul>
+image_name$$$@@@%%%  </li>
+image_name$$$@@@%%%  <li>International relations
+image_name$$$@@@%%%    <ul>
+type$$$@@@%%%      <li>41 exchange and partnership agreements with foreign universities</li>
+staff$$$@@@%%%      <li>7 double-degree agreements</li>
+image_name$$$@@@%%%    </ul>
+image_name$$$@@@%%%  </li>
+country$$$@@@%%%  <li>Research
+image_name$$$@@@%%%    <ul>
+students$$$@@@%%%      <li>About sixty doctoral research students in 2004</li>
+established$$$@@@%%%      <li>About a hundred publications in reading committee reviews in 2004 </li>
+image_name$$$@@@%%%    </ul>
+image_name$$$@@@%%%  </li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p>&lt;references/&gt;</p>
+established$$$@@@%%%<h2>History and traditions</h2>
+established$$$@@@%%%<p>Originally, the School was the brainchild of <a>Henri-Louis Duhamel du Monceau</a>, inspector general of the Navy.
+established$$$@@@%%%He had identified the need to give the Navy's master carpenters a theoretical education, particularly in mathematics and physics, which were making quick progress, so that they would have a clearer understanding of their trade.
+image_name$$$@@@%%%</p>
+established$$$@@@%%%<p>After founding the first school in Toulon, he transferred it to Paris in 1741.
+nickname$$$@@@%%%This date is recognised as the origin of the institution.
+established$$$@@@%%%After undergoing 7 lean years of under-funding, he managed to persuade <a>the duc de Choiseul</a> to reopen it in 1765, and continued to run the school for the rest of his life.
+image_name$$$@@@%%%</p>
+established$$$@@@%%%<p>At the time, the institute, called School of Engineer-Constructors of Royal Vessels, was housed in the <a>Louvre</a> Palace.
+established$$$@@@%%%Later on, it became  known as &quot;Ecole nationale sup&#x00e9;rieure du G&#x00e9;nie Maritime&quot; (National Higher College of Maritime Engineering).
+image_name$$$@@@%%%</p>
+established$$$@@@%%%<p>In 1970, the D&#x00e9;l&#x00e9;gation G&#x00e9;n&#x00e9;rale pour l'Armement (Arms administration of the Ministry of Defence) merged the school with three of its other establishments: </p>
+city$$$@@@%%%<p>- the &#x00c9;cole Nationale Sup&#x00e9;rieure des Poudres (Powders and explosives institute)</p>
+city$$$@@@%%%<p>- the &#x00c9;cole Nationale Sup&#x00e9;rieure de l'Armement (Arms engineering institute) </p>
+city$$$@@@%%%<p>- the &#x00c9;cole des Ing&#x00e9;nieurs Hydrographes de la Marine (Hydrographic institute.
+image_name$$$@@@%%%</p>
+established$$$@@@%%%<p>This formed the &#x00c9;cole Nationale Sup&#x00e9;rieure de Techniques Avanc&#x00e9;es (ENSTA), the role of which is to train engineers in the naval, mechanical, nuclear, chemical, electronic and related fields.
+established$$$@@@%%%The scientific skills of each of the founding institutes survives in the broad range of research disciplines covered at ENSTA, as well as in the more general nature of its teaching and the variety of specialities offered to the students.</p>
+type$$$@@@%%%<p>Today, ENSTA's legal status is that of a &quot;public administrative establishment&quot;, placed under the supervision of the Ministry of Defence.
+image_name$$$@@@%%%</p>
+free$$$@@@%%%<h2>Famous alumni</h2>
+image_name$$$@@@%%%<ul>
+doctoral$$$@@@%%%  <li><a>Louis-&#x00c9;mile Bertin</a></li>
+established$$$@@@%%%  <li><a>Alain Bouquin</a>, General Commander of the <a>French Foreign Legion</a></li>
+affiliation$$$@@@%%%  <li><a>Eug&#x00e8;ne Deloncle</a></li>
+affiliation$$$@@@%%%  <li><a>Charles Dupin</a></li>
+free_label$$$@@@%%%  <li><a>Henri Dupuy de L&#x00f4;me</a></li>
+affiliation$$$@@@%%%  <li><a>Ernest Mercier</a></li>
+affiliation$$$@@@%%%  <li><a>&#x00c9;douard Jean Baptiste Milhaud</a></li>
+type$$$@@@%%%  <li><a>Jacques-No&#x00eb;l San&#x00e9;</a></li>
+affiliation$$$@@@%%%  <li><a>L&#x00e9;once Verny</a></li>
+affiliation$$$@@@%%%  <li><a>Paul Marie Eug&#x00e8;ne Vieille</a></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h2>External links</h2>
+image_name$$$@@@%%%<ul>
+affiliations$$$@@@%%%  <li><a>http://www.ensta.fr/en/</a></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%<p><img></p>
+image_name$$$@@@%%%
+image_name$$$@@@%%%

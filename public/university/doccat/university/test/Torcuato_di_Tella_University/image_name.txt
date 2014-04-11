@@ -1,0 +1,24 @@
+<h2>Courses offered</h2>
+<ul>
+<li>Economics</li>
+<li>Architecture</li>
+</ul>
+<ul>
+<li>MBA</li>
+</ul>
+<ul>
+</ul>
+<h2>Centers</h2>
+<ul>
+</ul>
+<h2>External links</h2>
+<ul>
+</li>
+</ul>
+<h2>References</h2>
+<p><img></p>
+<p></p>
+<p></p>
+<p></p>
+
+

@@ -70,6 +70,8 @@ class Cluster
     @points = []
     @points << center
     self.refresh_vocab
+    self.get_centroid
+    @points = []
   end
  
   # Recenters the centroid point and removes all of the associated points
@@ -125,6 +127,8 @@ class Cluster
   def get_centroid
     tt = vector(@points.first)
     
+    old_centroid = @centroid
+    
     @points.each_with_index do |doc,index|
       if @points.first != doc
         tt += vector(doc)
@@ -134,6 +138,7 @@ class Cluster
     
     @centroid = tt/@points.count
     
+    #return cosine(old_centroid,@centroid)
   end
   
   def clean_vocab(string)

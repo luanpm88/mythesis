@@ -1,0 +1,6 @@
+<li>The <strong>Faculty of Computer Science</strong> comprises seven departments, Computational Engineering, Computational Logic, Theoretical Computer Science, Mediainformatics and the Applied Computer Science.
+<h3>Foreign students</h3>
+<li><a>Alfred Baeumler</a> 1924&#x2013;1933 &#x2013; Nazi-philosopher and educationalist</li>
+<li><a>Kurt Beyer</a> &#x2013; Civil engineering</li>
+<li><a>Max Littmann</a> (Civil engineering) &#x2013; Architect</li>
+<li><em><a>Erasmus-Initiative TU Dresden</a></em></li>

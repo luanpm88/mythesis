@@ -1,0 +1,5 @@
+<li>Computer Science</li>
+<p><strong>Exercise Science</strong></p>
+<p><strong>Mathematics &amp; Computer Science</strong></p>
+<li>The Alexander Twilight Players - Local Acting Guild</li>
+Meteorologist <a>WJW-TV</a>, Cleveland, OH</li>

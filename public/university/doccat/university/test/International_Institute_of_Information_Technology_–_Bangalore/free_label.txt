@@ -1,0 +1,7 @@
+<li>C-BIT (Center for Banking and IT)</li>
+<li>C-AIT (Center for Automotive IT)</li>
+<li>C-SEE (Center for Software Engineering Excellence)</li>
+<li>C-TEL (Center for Telecom)</li>
+<li>C-IAT (Center for Industrial Automation and IT)</li>
+<li>C-HIT (Center for Healthcare and IT)</li>
+<p>Scholarships are available for exceptional candidates who get selected for programs at IIIT-B, sponsored by industry such as GE, ABB, Intel, Infosys, Siemens and AMD.</p>

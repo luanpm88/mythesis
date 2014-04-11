@@ -1,0 +1,3 @@
+<li><strong>Research Centres</strong>
+<li>Brandon University Centre for Aboriginal and Rural Education (BU CARES)</li>
+<li>Program for the Education of Native Teachers (PENT)</li>

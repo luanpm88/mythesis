@@ -1,0 +1,6 @@
+<h2>Colleges and programs</h2>
+<li>Choi Do Suk (&#xcd5c;&#xb3c4;&#xc11d;): CFO of <a>Samsung Electronics</a></li>
+<li>Kim, Suk-soo (&#xae40;&#xc11d;&#xc218;): Former Prime Minister</li>
+<li>Yoon, Jong Shin: Pop singer and TV show host</li>
+<li>Myung, Gye Nam: Movie, TV and stageplay actor, and political activist</li>
+<li>Ahn, Chi Hwan: Folk rock singer and social activist</li>

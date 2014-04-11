@@ -1,0 +1,176 @@
+established$$$@@@%%%<p> <a>thumb|260px|right|Buildings of the University of Amsterdam.
+established$$$@@@%%%The front building houses the Academic Club of the University</a></p>
+established$$$@@@%%%<p>The <strong>University of Amsterdam</strong> () is a comprehensive research <a>university</a> located in the heart of the city of <a>Amsterdam</a>, <a>Netherlands</a>.
+staff$$$@@@%%%With a budget of almost <a>&euro;</a>600 million, over 30,000 students and around 5,000 staff, the UvA is one of the major universities in <a>Europe</a>.
+type$$$@@@%%%There are seven faculties: <a>Humanities</a>, <a>Social</a> and <a>Behavioral sciences</a>, <a>Economy</a>, <a>Law</a>, <a>Science</a>, <a>Medicine</a> and <a>Dentistry</a>.
+established$$$@@@%%%It has a strong internationalization programme and offers over 85 English Master programmes taught in English, as well as a number of Dutch and English language courses.
+established$$$@@@%%%The University of Amsterdam (UvA) should not be confused with Amsterdam's other university, the <a>VU University</a>.
+established$$$@@@%%%In 2006, the UvA joined the <a>League of European Research Universities</a> (LERU).
+type$$$@@@%%%These world-class universities work together to invest in European 'centres of excellence', with the aim of maintaining Europe's strong position in the global knowledge economy.</p>
+established$$$@@@%%%<h2>History</h2>
+image_name$$$@@@%%%<h3>Athenaeum</h3>
+established$$$@@@%%%<p><a>thumb|upright|The words &quot;Athenaeum Illustre&quot; on the gate of the Agnietenkapel</a> The commonly-held predecessor of the University of Amsterdam, the <em>Athenaeum Illustre</em> (Latin - the illustrious Athenaeum) was founded in the 14th-century Agnietenkapel in Amsterdam in 1632, to educate students in History and Philosophy.
+affiliations$$$@@@%%%Professors lectured publicly and tutored privately.
+established$$$@@@%%%In January 1632 two internationally acclaimed scholars, <a>Caspar Barlaeus</a> and <a>Gerardus Vossius</a>, held their inaugural speeches here.
+established$$$@@@%%%In the course of the seventeenth century, Law, Medicine and Theology were introduced in the curriculum.
+established$$$@@@%%%Alumni (whilst it was still the Athenaeum) include <a>Cornelis Petrus Tiele</a>.</p>
+affiliation$$$@@@%%%<h3>Municipal university</h3>
+established$$$@@@%%%<p>The Athenaeum remained a small institution until the nineteenth century, with no more than 250 students and eight teachers.
+nickname$$$@@@%%%This situation changed only slowly.
+established$$$@@@%%%In 1815 the Athenaeum Illustre was officially recognised as an institute of higher education.
+established$$$@@@%%%In 1877, Athenuem Illustre is reorganised to become the university of the municipality of Amsterdam.
+established$$$@@@%%%It became the <em>Gemeentelijke Universiteit van Amsterdam</em> (GU or 'Municipal University') and it received the right to confer doctoral degrees.
+established$$$@@@%%%The <a>professor</a>s were appointed by the <a>city council</a> and the <a>mayor</a> presided over the university administration.
+established$$$@@@%%%Because the <a>Amsterdam city council</a> was noted for its progressive politics this scheme guaranteed a large degree of intellectual freedom for the university.</p>
+image_name$$$@@@%%%<h3>Universiteit van Amsterdam</h3>
+nickname$$$@@@%%%<p>Very little then changed until 1961, when the national <a>government</a> took control of financial responsibility.
+established$$$@@@%%%The university ceased to be the <em>Gemeentelijke Universiteit</em> and finally became the <em>Universiteit van Amsterdam</em>.</p>
+established$$$@@@%%%<p>In 1969 the university became nationwide news when the university's administrative center at the <em>Maagdenhuis</em> was occupied by students who wanted more democratic influence.
+established$$$@@@%%%During the seventies and eighties the university was often the target of nationwide student actions.</p>
+image_name$$$@@@%%%<h2>Faculties</h2>
+affiliations$$$@@@%%%<p>The UvA has seven faculties.
+affiliations$$$@@@%%%Each faculty is headed by a dean.
+mascot$$$@@@%%%Teaching and research are carried out in various departments and institutes within the individual faculties.</p>
+closed$$$@@@%%%<h3>Faculty of Dentistry</h3>
+established$$$@@@%%%<p>The Academic Centre for Dentistry in Amsterdam () (ACTA) was founded in <a>1984</a> through a merger of the two dentistry faculties of the Universiteit of Amsterdam and the <a>Vrije Universiteit</a>, Amsterdam.
+established$$$@@@%%%ACTA conducts scientific research, teaches and provides patient care in the field of dentistry.
+students$$$@@@%%%ACTA is one of the largest dentistry education and training programmes in the world, with 540 staff members, an annual new-student enrolment of 128 and a total student body of 859.</p>
+type$$$@@@%%%<h3>Faculty of Economics and Business</h3>
+established$$$@@@%%%<p>The Faculty of Economics and Business () (FEB) was established in <a>1922</a>.
+students$$$@@@%%%The FEB, which includes the Amsterdam School of Economics (ASE) and the Amsterdam Business School (ABS), currently has around 4,000 students and nearly 600 staff.</p>
+closed$$$@@@%%%<h3>Faculty of Humanities</h3>
+free_label$$$@@@%%%<p>The Faculty of Humanities () (FGw) is divided into six departments:</p>
+image_name$$$@@@%%%<ul>
+affiliation$$$@@@%%%  <li><a>Dutch studies</a></li>
+established$$$@@@%%%  <li><a>History</a>, <a>Archaeology</a> and <a>Area studies</a></li>
+established$$$@@@%%%  <li><a>Language and Literature</a></li>
+affiliation$$$@@@%%%  <li><a>Media studies</a></li>
+affiliation$$$@@@%%%  <li><a>Philosophy</a></li>
+established$$$@@@%%%  <li><a>Art</a>, <a>Religion</a> and <a>Cultural studies</a>.</li>
+image_name$$$@@@%%%</ul>
+staff$$$@@@%%%<p>Around 6500 students follow the courses on offer, and there are 800 staff members.</p>
+established$$$@@@%%%<h3>Faculty of Law </h3>
+established$$$@@@%%%<p><a>thumb|right|The faculty of law at the Oudemanhuispoort</a> The Faculty of Law () (FdR) is housed in the Oudemanhuispoort, a historic building dating from 1602 situated in the centre of Amsterdam.
+established$$$@@@%%%With 4000 students and 350 staff members, the Faculty of Law at the Universiteit van Amsterdam is one of the largest faculties in the Netherlands.
+mascot$$$@@@%%%The Faculty offers eight <a>LLM</a> programmes, of which two are taught in English.
+mascot$$$@@@%%%In addition the Faculty offers three advanced LLM programmes, which are all taught in English.
+established$$$@@@%%%Research at the Faculty is undertaken by five research institutes which specialise in the following areas: <a>International law</a>, <a>Private law</a>, <a>Environmental law</a>, <a>Labour law</a> and <a>Information law</a>.</p>
+closed$$$@@@%%%<h3>Faculty of Medicine</h3>
+affiliations$$$@@@%%%<p>[[File:AMC.jpg|thumb|[[Academic
+image_size$$$@@@%%%Medical Center]]]] The Faculty of Medicine () (FdG), each year, approximately 350 first-year students begin their study of medicine at the <a>Academic Medical Center</a>.
+established$$$@@@%%%The first, four-year phase consists mainly of thematic teaching.
+established$$$@@@%%%The second, two-year phase consists of training - 'internships' - in- and outside of the AMC.</p>
+closed$$$@@@%%%<h3>Faculty of Science</h3>
+students$$$@@@%%%<p>The Faculty of Science () (FNWI) is a leading centre of academic research and education.
+staff$$$@@@%%%The Faculty of Science consists of four departments with 1200 researchers and lecturers, including 150 full- and part-time professors operating in ten research institutes.
+staff$$$@@@%%%The main faculty buildings are located on the <a>Science Park Amsterdam</a>.</p>
+country$$$@@@%%%<h3>Faculty of Social and Behavioural Sciences</h3>
+established$$$@@@%%%<p>The Faculty of Social and Behavioural Sciences () (FMG) is the largest educational and research institution in the <a>social</a> and <a>behavioural</a> sciences in the Netherlands.
+nickname$$$@@@%%%Approximately 1,100 staff members contribute to the research and education programmes.</p>
+established$$$@@@%%%<p>The Faculty is home to six departments: <a>Political Science</a>, <a>Sociology</a> and <a>Anthropology</a>, <a>Communication Science</a>, <a>Psychology</a>, <a>Social Geography</a>, <a>Planning and International Development Studies</a>, and <a>Educational sciences</a>.</p>
+country$$$@@@%%%<h2>Research institutes</h2>
+former_names$$$@@@%%%<p>Overview of University of Amsterdam research institutes: </p>
+image_name$$$@@@%%%<ul>
+image_size$$$@@@%%%  <li><a>AMC Research Intitute (Medicine)</a></li>
+image_size$$$@@@%%%  <li>Amsterdam Business School Research Institute</li>
+country$$$@@@%%%  <li>Amsterdam Center for International Law</li>
+free_label$$$@@@%%%  <li>Amsterdam Center for Language and Communication</li>
+country$$$@@@%%%  <li>Amsterdam Centre for Conflict Studies</li>
+nickname$$$@@@%%%  <li>Amsterdam Institute for Metropolitan and International Development Studies</li>
+established$$$@@@%%%  <li>Amsterdam Institute for Private Law</li>
+closed$$$@@@%%%  <li>Amsterdam School for Cultural Analysis</li>
+country$$$@@@%%%  <li><a>Amsterdam School for Social Science Research</a></li>
+country$$$@@@%%%  <li>Amsterdam School of Communications Research</li>
+type$$$@@@%%%  <li><a>Astronomical Institute Anton Pannekoek</a></li>
+country$$$@@@%%%  <li>Centre for Environmental Law</li>
+established$$$@@@%%%  <li>Hugo Sinzheimer Institute (Labour and Law)</li>
+website$$$@@@%%%  <li>Informatics Institute</li>
+type$$$@@@%%%  <li><a>Institute for Biodiversity and Ecosystem Dynamics</a></li>
+city$$$@@@%%%  <li>Institute for High Energy Physics</li>
+established$$$@@@%%%  <li>Institute for Information Law</li>
+type$$$@@@%%%  <li><a>Institute for Logic, Language and Computation</a></li>
+nickname$$$@@@%%%  <li>Institute for Migration and Ethnic Studies</li>
+city$$$@@@%%%  <li>Institute for Theoretical Pysics</li>
+established$$$@@@%%%  <li>Institute of Culture and History</li>
+city$$$@@@%%%  <li>Korteweg-De Vries Institute for Mathematics</li>
+country$$$@@@%%%  <li>Leibniz Center for Law</li>
+country$$$@@@%%%  <li>Psychology Research Institute</li>
+country$$$@@@%%%  <li>Research Institute in Economics and Econometrics Amsterdam</li>
+city$$$@@@%%%  <li>SCO-Kohnstamm Institute (Child rearing, education and child welfare)</li>
+website$$$@@@%%%  <li>Swammerdam Institute for Life Sciences</li>
+type$$$@@@%%%  <li><a>Tinbergen Institute</a> (Economics)</li>
+website$$$@@@%%%  <li>Van 't Hoff Institute for Molecular Sciences</li>
+city$$$@@@%%%  <li>Van der Waals-Zeeman Institute (Condensed Matter Physics, Complex Soft Matter and Quantum Gases-Atom Optics)</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p></p>
+faculty$$$@@@%%%<h2>Notable professors</h2>
+image_name$$$@@@%%%<ul>
+established$$$@@@%%%  <li><a>Pieter Zeeman</a> (1868&#x2013;1943), <a>Nobel Prize for Physics</a> in 1902</li>
+established$$$@@@%%%  <li><a>Johannes Diderik van der Waals</a> (1837&#x2013;1923), <a>Nobel Prize for Physics</a> in 1910</li>
+established$$$@@@%%%  <li><a>Jacobus Henricus van 't Hoff</a> (1852&#x2013;1911), <a>Nobel Prize in Chemistry</a> in 1901</li>
+image_name$$$@@@%%%</ul>
+free$$$@@@%%%<h2>Notable alumni</h2>
+image_name$$$@@@%%%<h3>Politics</h3>
+image_name$$$@@@%%%<ul>
+students$$$@@@%%%  <li><a>Wubbo de Boer</a>, president of <a>OHIM</a></li>
+type$$$@@@%%%  <li><a>Frits Bolkestein</a>, former Minister of <a>Defence</a> and former <a>European Commissioner for Internal Market &amp; Services</a></li>
+type$$$@@@%%%  <li><a>Els Borst</a>, former Minister of <a>Health, Welfare and Sport</a></li>
+established$$$@@@%%%  <li><a>Jet Bussemaker</a>, state secretary of <a>Health, Welfare and Sport</a></li>
+established$$$@@@%%%  <li><a>Jacqueline Cramer</a>, Minister of <a>Housing, Spatial Planning and the Environment</a></li>
+mascot$$$@@@%%%  <li><a>Frank Heemskerk</a>, Minister of Foreign Trade within the <a>Economic Affairs</a></li>
+type$$$@@@%%%  <li><a>Ernst Hirsch Ballin</a>, Minister of <a>Justice</a></li>
+established$$$@@@%%%  <li><a>Guusje ter Horst</a>, Minister of <a>the Interior and Kingdom Relations</a></li>
+established$$$@@@%%%  <li><a>Ad Melkert</a>, former Minister of <a>Social Affairs and Employment</a> and currently deputy director of <a>UNDP</a></li>
+type$$$@@@%%%  <li><a>Ronald Plasterk</a>, Minister of <a>Education, Culture and Science</a></li>
+image_name$$$@@@%%%</ul>
+doctoral$$$@@@%%%<h3>Science</h3>
+image_name$$$@@@%%%<ul>
+type$$$@@@%%%  <li><a>Anton Pannekoek</a>, Dutch <a>communist</a> and <a>astrophysicist</a></li>
+affiliation$$$@@@%%%  <li><a>Luitzen Egbertus Jan Brouwer</a>, mathematician</li>
+established$$$@@@%%%  <li><a>Frits Zernike</a>, Nobel Prize in Physics 1953</li>
+established$$$@@@%%%  <li><a>Christiaan Eijkman</a>, Nobel Prize in Medicine 1929</li>
+affiliations$$$@@@%%%  <li><a>M.A. Mendes de Leon</a>, <a>gynaecologist</a></li>
+free_label$$$@@@%%%  <li><a>Hendrik de Wit</a>, Dutch botanist</li>
+established$$$@@@%%%  <li><a>Alec Jeffreys</a> - Inventor of <a>DNA fingerprinting</a>.</li>
+image_name$$$@@@%%%</ul>
+website$$$@@@%%%<h3>Arts</h3>
+image_name$$$@@@%%%<ul>
+affiliation$$$@@@%%%  <li><a>Menno ter Braak</a>, writer</li>
+affiliation$$$@@@%%%  <li><a>Willem Frederik Hermans</a>, writer</li>
+affiliations$$$@@@%%%  <li><a>J.
+affiliation$$$@@@%%%Slauerhoff</a>, writer</li>
+affiliation$$$@@@%%%  <li><a>Simon Vestdijk</a>, writer</li>
+established$$$@@@%%%  <li><a>Boudewijn Sirks</a>, <a>Roman law</a> specialist</li>
+affiliation$$$@@@%%%  <li><a>Ien Ang</a>, cultural analyst</li>
+image_name$$$@@@%%%</ul>
+students$$$@@@%%%<h3>Sports</h3>
+image_name$$$@@@%%%<ul>
+type$$$@@@%%%  <li><a>Max Euwe</a>, World Chess Champion 1935&#x2013;1937</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h2>International acclaim</h2>
+established$$$@@@%%%<p>In 2010 <a>QS World University Rankings</a> placed the University of Amsterdam in 56th, falling 7 places from its position of joint 49th in the 2009 <a>THE&#x2013;QS World University Rankings</a> (in 2010 <a>Times Higher Education World University Rankings</a> and <a>QS World University Rankings</a> parted ways to produce separate rankings).
+nickname$$$@@@%%%An overview of the THE-QS rankings up to 2009: </p>
+image_name$$$@@@%%%<h2>References</h2>
+image_name$$$@@@%%%<p><img></p>
+image_name$$$@@@%%%<h2>External links</h2>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%<ul>
+established$$$@@@%%%  <li><a>University of Amsterdam</a> 
+image_name$$$@@@%%%    <ul>
+type$$$@@@%%%      <li><a>Faculty of Dentistry</a> </li>
+type$$$@@@%%%      <li><a>Faculty of Economics and Business</a> </li>
+type$$$@@@%%%      <li><a>Faculty of Humanities</a> </li>
+established$$$@@@%%%      <li><a>Faculty of Law</a> </li>
+type$$$@@@%%%      <li><a>Faculty of Medicine</a> </li>
+doctoral$$$@@@%%%      <li><a>Faculty of Science</a> </li>
+established$$$@@@%%%      <li><a>Faculty of Social and Behavioural Sciences</a> </li>
+image_name$$$@@@%%%    </ul>
+image_name$$$@@@%%%  </li>
+affiliation$$$@@@%%%  <li><a>Universiteit van Amsterdam, slide show</a> </li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p><img>  </p>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%<p></p>
+type$$$@@@%%%<p><a>af:Universiteit van Amsterdam</a> <a>be:&#x0410;&#x043c;&#x0441;&#x0442;&#x044d;&#x0440;&#x0434;&#x0430;&#x043c;&#x0441;&#x043a;&#x0456; &#x045e;&#x043d;&#x0456;&#x0432;&#x0435;&#x0440;&#x0441;&#x0456;&#x0442;&#x044d;&#x0442;</a> <a>be-x-old:&#x0410;&#x043c;&#x0441;&#x0442;&#x044d;&#x0440;&#x0434;&#x0430;&#x043c;&#x0441;&#x043a;&#x0456; &#x045e;&#x043d;&#x0456;&#x0432;&#x044d;&#x0440;&#x0441;&#x044b;&#x0442;&#x044d;&#x0442;</a> <a>bg:&#x0410;&#x043c;&#x0441;&#x0442;&#x0435;&#x0440;&#x0434;&#x0430;&#x043c;&#x0441;&#x043a;&#x0438; &#x0443;&#x043d;&#x0438;&#x0432;&#x0435;&#x0440;&#x0441;&#x0438;&#x0442;&#x0435;&#x0442;</a> <a>da:Universiteit van Amsterdam</a> <a>de:Universit&#x00e4;t von Amsterdam</a> <a>el:&#x03a0;&#x03b1;&#x03bd;&#x03b5;&#x03c0;&#x03b9;&#x03c3;&#x03c4;&#x03ae;&#x03bc;&#x03b9;&#x03bf; &#x03c4;&#x03bf;&#x03c5; &#x0386;&#x03bc;&#x03c3;&#x03c4;&#x03b5;&#x03c1;&#x03bd;&#x03c4;&#x03b1;&#x03bc;</a> <a>es:Universidad de &#x00c1;msterdam</a> <a>fr:Universit&#x00e9; d'Amsterdam</a> <a>fy:Universiteit fan Amsterdam</a> <a>ko:&#xc554;&#xc2a4;&#xd14c;&#xb974;&#xb2f4; &#xb300;&#xd559;&#xad50;</a> <a>id:Universitas Amsterdam</a> <a>it:Universit&#x00e0; di Amsterdam</a> <a>he:&#x05d0;&#x05d5;&#x05e0;&#x05d9;&#x05d1;&#x05e8;&#x05e1;&#x05d9;&#x05d8;&#x05ea; &#x05d0;&#x05de;&#x05e1;&#x05d8;&#x05e8;&#x05d3;&#x05dd;</a> <a>ka:&#x10d0;&#x10db;&#x10e1;&#x10e2;&#x10d4;&#x10e0;&#x10d3;&#x10d0;&#x10db;&#x10d8;&#x10e1; &#x10e3;&#x10dc;&#x10d8;&#x10d5;&#x10d4;&#x10e0;&#x10e1;&#x10d8;&#x10e2;&#x10d4;&#x10e2;&#x10d8;</a> <a>la:Universitas Amstelodamensis</a> <a>nl:Universiteit van Amsterdam</a> <a>ja:&#x30a2;&#x30e0;&#x30b9;&#x30c6;&#x30eb;&#x30c0;&#x30e0;&#x5927;&#x5b66;</a> <a>pnb:&#x0627;&#x06cc;&#x0645;&#x0633;&#x0679;&#x0631;&#x0688;&#x06cc;&#x0645; &#x06cc;&#x0648;&#x0646;&#x06cc;&#x0648;&#x0631;&#x0633;&#x0679;&#x06cc;</a> <a>pap:Universidat di Amsterdam</a> <a>pl:Universiteit van Amsterdam</a> <a>pt:Universidade de Amsterd&#x00e3;</a> <a>ro:Universitatea din Amsterdam</a> <a>ru:&#x0410;&#x043c;&#x0441;&#x0442;&#x0435;&#x0440;&#x0434;&#x0430;&#x043c;&#x0441;&#x043a;&#x0438;&#x0439; &#x0443;&#x043d;&#x0438;&#x0432;&#x0435;&#x0440;&#x0441;&#x0438;&#x0442;&#x0435;&#x0442;</a> <a>simple:University of Amsterdam</a> <a>sv:Universiteit van Amsterdam</a> <a>tr:Amsterdam &#x00dc;niversitesi</a> <a>uk:&#x0410;&#x043c;&#x0441;&#x0442;&#x0435;&#x0440;&#x0434;&#x0430;&#x043c;&#x0441;&#x044c;&#x043a;&#x0438;&#x0439; &#x0443;&#x043d;&#x0456;&#x0432;&#x0435;&#x0440;&#x0441;&#x0438;&#x0442;&#x0435;&#x0442;</a> <a>ug:&#x0626;&#x0627;&#x0645;&#x0633;&#x062a;&#x06d0;&#x0631;&#x062f;&#x0627;&#x0645; &#x0626;&#x06c7;&#x0646;&#x0649;&#x06cb;&#x06d0;&#x0631;&#x0633;&#x062a;&#x06d0;&#x062a;&#x0649;</a> <a>vi:&#x0110;&#x1ea1;i h&#x1ecd;c Amsterdam</a> <a>zh:&#x963f;&#x59c6;&#x65af;&#x7279;&#x4e39;&#x5927;&#x5b66;</a></p>
+image_name$$$@@@%%%
+image_name$$$@@@%%%

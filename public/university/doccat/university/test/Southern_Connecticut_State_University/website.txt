@@ -1,0 +1,4 @@
+<li>Lyman Center (Theater department)</li>
+<li>Ethnic Heritage Center</li>
+<li>Lyman Center for the Arts</li>
+<li>Energy Center</li>

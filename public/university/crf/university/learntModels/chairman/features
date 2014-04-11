@@ -1,0 +1,67 @@
+19
+, 16 4:1
+james 3 1:1
+<li> 13 0:1
+li> 18 4:1
+is 10 0:1
+board 9 0:1
+dick 14 1:1
+the 8 0:1
+w 4 1:1 2:1
+ramsey 12 3:1
+chairman< 17 4:1
+chaired 0 0:1
+crownover 5 3:1
+a> 7 4:1
+< 6 4:1
+by 1 0:1
+<a> 2 0:1
+monfort 15 3:1
+russell 11 2:1
+******* Features ************
+45
+W_the:284:0 28
+W_li>:662:4 44
+R_isAllSmallCase:187:1 11
+R_singleComma:278:4 41
+E.0:182:1 8
+W_a>:277:4 27
+R_isAllSmallCase:180:0 3
+E.0:175:0 4
+W_<li>:459:0 36
+E.2:266:3 15
+W_monfort:550:3 39
+W_<a>:74:0 6
+W_is:354:0 30
+R_singlePunctuation:733:4 23
+W_ramsey:445:3 35
+W_w:158:2 13
+R_isSpecialCharacter:348:4 22
+E.4:343:4 25
+W_chairman<:627:4 43
+W_w:151:1 31
+W_<:242:4 21
+E.1:231:3 38
+W_by:39:0 5
+E.1:224:2 12
+W_board:319:0 29
+U:31:4 20
+End.:30:4 26
+R_singleQuote:313:4 42
+R_containsSpecialCharacters:978:4 24
+W_dick:501:1 37
+U:24:3 16
+End.:23:3 34
+E.3:308:4 19
+W_russell:403:2 33
+W_,:592:4 40
+W_james:116:1 10
+U:17:2 32
+R_isAllSmallCase:201:3 18
+U:10:1 9
+W_crownover:200:3 17
+W_chaired:4:0 2
+R_isAllSmallCase:194:2 14
+U:3:0 1
+S.:1:0 0
+R_containsSpecialCharacters:950:0 7

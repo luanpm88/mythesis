@@ -1,0 +1,90 @@
+country$$$@@@%%%<p>  <a>thumb|200px|Main gate (Ikarashi Campus)</a></p>
+type$$$@@@%%%<p> is a <a>national university</a> in <a>Niigata</a>, <a>Niigata Prefecture</a>, <a>Japan</a>.
+established$$$@@@%%%It was established in 1949 and has its major origins in Niigata Medical College (established in 1922) and in Niigata Higher School (established in 1919).
+type$$$@@@%%%It is one of the largest Japanese national universities on the <a>Sea of Japan</a>.</p>
+established$$$@@@%%%<p>The university comprises nine faculties and seven graduate schools (as of April 2010).
+type$$$@@@%%%&lt;!--The Faculty of Humanities, the Faculty of Medicine <em>School of Medicine</em>, the Faculty of Medicine <em>School of Health Sciences</em> and the Graduate School of Humanities are Japanese only.
+undergrad$$$@@@%%%Every other faculty and graduate school is bilingual.--&gt;
+students$$$@@@%%%The student enrollment is about 12,000.
+established$$$@@@%%%to the west of the city.
+nickname$$$@@@%%%The medical faculties (Medicine and Dentistry) are located in Asahimachi Campus in the downtown.
+faculty$$$@@@%%%Attached schools (an elementary school, a junior high school and a school for children with special needs) are located in Nishi Ohata district next to Asahimachi Campus (also in <a>Nagaoka City</a>).
+nickname$$$@@@%%%In a building next to <a>Niigata Station</a> there is a small campus named Tokimate (, former &quot;CLLIC&quot;), whose main purpose is to offer courses of <a>lifelong learning</a> for adults.</p>
+established$$$@@@%%%<h2>History</h2>
+established$$$@@@%%%<p>The oldest origin of the university was Kyoritsu Hospital (a temporary hospital) founded in 1870.
+established$$$@@@%%%It was reestablished in 1873 as Private Niigata Hospital, which became a prefectural hospital in 1876.</p>
+type$$$@@@%%%<p>In 1901 five national medical schools were established in <a>Chiba</a>, <a>Sendai</a>, <a>Okayama</a>, <a>Kanazawa</a> and <a>Nagasaki</a>.
+type$$$@@@%%%The municipal and prefectural governments of Niigata demanded a national medical school from the Ministry of Education, but the plan was deferred because of the <a>Russo-Japanese War</a>.
+established$$$@@@%%%Later in 1910 Niigata Medical School was founded, and the former Niigata Hospital became its clinical facility.
+established$$$@@@%%%In 1922 the medical school was chartered as .</p>
+established$$$@@@%%%<p>The municipal and prefectural governments of Niigata and the local industrial firms further wanted the medical college to be developed into an <a>imperial university</a> (so-called <a>Hokuriku</a> Imperial University) and competed with <a>Kanazawa</a>.
+mascot$$$@@@%%%But the trials did not succeed until the end of <a>World War II</a>.</p>
+established$$$@@@%%%<p>In 1949 seven colleges (Niigata Medical College, Niigata Higher School, Niigata First Normal School, Niigata Second Normal School, Niigata Youth Normal School, Niigata Prefectural Agricultural and Forestry College, and Nagaoka College of Technology) were integrated to constitute <strong>Niigata University</strong> under Japan's new educational system.
+established$$$@@@%%%The university was inaugurated with the Faculties of Humanities, Education, Science, Medicine, Engineering, and Agriculture.</p>
+established$$$@@@%%%<p>In 1965 the Faculty of Dentistry was established.
+established$$$@@@%%%The faculties (except Medicine and Dentistry) began moving to new Ikarashi Campus in 1968, and the removals finished in the 1980s.
+established$$$@@@%%%In 1977 the Faculty of Humanities was reorganized into the Faculty of Law and Literature, then divided into three faculties (Humanities, Law, and Economics) in 1980.
+affiliation$$$@@@%%%The university became a national university corporation in 2004.</p>
+image_name$$$@@@%%%<h2>Organization</h2>
+type$$$@@@%%%<h3>Undergraduate schools</h3>
+image_name$$$@@@%%%<ul>
+closed$$$@@@%%%  <li>Faculty of Humanities</li>
+type$$$@@@%%%  <li>Faculty of Education</li>
+established$$$@@@%%%  <li>Faculty of Law</li>
+closed$$$@@@%%%  <li>Faculty of Economics</li>
+closed$$$@@@%%%  <li>Faculty of Science</li>
+closed$$$@@@%%%  <li>Faculty of Medicine
+image_name$$$@@@%%%    <ul>
+head_label$$$@@@%%%      <li>School of Medicine</li>
+website$$$@@@%%%      <li>School of Health Sciences</li>
+image_name$$$@@@%%%    </ul>
+image_name$$$@@@%%%  </li>
+closed$$$@@@%%%  <li>Faculty of Dentistry</li>
+closed$$$@@@%%%  <li>Faculty of Engineering</li>
+closed$$$@@@%%%  <li>Faculty of Agriculture</li>
+image_name$$$@@@%%%</ul>
+type$$$@@@%%%<h3>Graduate schools</h3>
+image_name$$$@@@%%%<ul>
+type$$$@@@%%%  <li>Graduate School of Education</li>
+established$$$@@@%%%  <li>Graduate School of Modern Society and Culture</li>
+doctoral$$$@@@%%%  <li>Graduate School of Science and Technology</li>
+website$$$@@@%%%  <li>Graduate School of Heath Sciences</li>
+website$$$@@@%%%  <li>Graduate School of Medical and Dental Sciences</li>
+city$$$@@@%%%  <li>Graduate School of Technology Management (professional course)</li>
+undergrad$$$@@@%%%  <li>Law School (professional course)</li>
+image_name$$$@@@%%%</ul>
+campus$$$@@@%%%<h3>Centers and Facilities</h3>
+image_name$$$@@@%%%<ul>
+caption$$$@@@%%%  <li>University Library</li>
+city$$$@@@%%%  <li>Niigata University Medical and Dental Hospital</li>
+country$$$@@@%%%  <li>Brain Research Institute</li>
+country$$$@@@%%%  <li>Center for Transdisciplinary Research</li>
+country$$$@@@%%%  <li>Research Center for Natural Hazards and Disaster Recovery</li>
+type$$$@@@%%%  <li>Public Collaboration Research Center</li>
+country$$$@@@%%%  <li>Center for Cooperative Research</li>
+nickname$$$@@@%%%  <li>Venture Business Laboratory</li>
+type$$$@@@%%%  <li>Affiliated Schools of the Faculty of Education
+image_name$$$@@@%%%    <ul>
+staff$$$@@@%%%      <li>two elementary schools, two junior high schools, one kindergarten, and a school for children with special needs</li>
+image_name$$$@@@%%%    </ul>
+image_name$$$@@@%%%  </li>
+closed$$$@@@%%%  <li>Sado Marine Biological Station (Faculty of Science)</li>
+type$$$@@@%%%  <li>Field Center for Sustainable Agriculture and Forestry (Faculty of Agriculture)</li>
+city$$$@@@%%%  <li>Institute of Nephrology (Graduate School of Medical and Dental Sciences)</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h2>Symbol</h2>
+established$$$@@@%%%<p>The emblem of the university is called &quot;Rikka&quot; (), a symbolized shape of a snow crystal.
+established$$$@@@%%%&lt;!--and falls in Niigata, and as for the emblem of a school, it seems to be a school with the origin in the medicine at the same time and the metaphor of the cell is put though it is a design of the snow crystal.
+affiliations$$$@@@%%%There is no formal Manauta.
+head_label$$$@@@%%%An academic all tune has not been born though various songs were made of course by students.
+established$$$@@@%%%Wagner's Meistersinger's prelude is used as ceremony music by the music for wind instruments part in the ceremony.--&gt;</p>
+image_name$$$@@@%%%<h2>References</h2>
+image_name$$$@@@%%%<p><img></p>
+image_name$$$@@@%%%<h2>External links</h2>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%<ul>
+free_label$$$@@@%%%  <li><a>Niigata University official web page (English)</a></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%
+image_name$$$@@@%%%

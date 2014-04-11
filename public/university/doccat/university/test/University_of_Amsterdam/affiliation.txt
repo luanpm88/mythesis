@@ -1,0 +1,11 @@
+<h3>Municipal university</h3>
+<li><a>Dutch studies</a></li>
+<li><a>Media studies</a></li>
+<li><a>Philosophy</a></li>
+<li><a>Luitzen Egbertus Jan Brouwer</a>, mathematician</li>
+<li><a>Menno ter Braak</a>, writer</li>
+<li><a>Willem Frederik Hermans</a>, writer</li>
+Slauerhoff</a>, writer</li>
+<li><a>Simon Vestdijk</a>, writer</li>
+<li><a>Ien Ang</a>, cultural analyst</li>
+<li><a>Universiteit van Amsterdam, slide show</a> </li>

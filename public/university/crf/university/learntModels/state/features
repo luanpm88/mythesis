@@ -1,0 +1,161 @@
+63
+ng< 11 0:1
+new 30 1:2
+laws 38 4:1
+runner 19 4:1
+em> 24 0:1
+<a>miss 14 0:1
+[[intermountain 5 4:1
+france 26 1:1
+freshman 28 4:1
+thus 27 4:1
+british 50 1:1
+coles< 22 0:1
+west]] 6 4:1
+governor 33 4:1
+women 44 4:1
+2nd 18 4:1
+<li><a>the 60 0:1
+from 9 0:1
+jersey 31 3:1
+illinois 10 1:1
+oldest 52 0:1
+debate< 55 4:1
+wife 32 4:1
+<li><a> 40 0:1
+required 34 0:1
+< 16 4:2
+oklahoma 45 0:1
+DIGIT 17 4:1
+[[utah]] 3 1:1
+osteopathic 59 4:1
+york 58 3:1
+it 39 4:1
+university 53 0:1
+, 4 4:6
+legacy 61 4:1
+the 0 0:5 4:4
+li> 56 4:2
+in 25 0:2 4:2
+[[oklahoma]] 47 1:1
+connecticut 41 1:1
+x2013 13 0:1
+majority 7 0:1
+california 15 1:2
+jpgthumbpeople 46 0:1
+a> 12 0:1 4:2
+of 2 0:5 4:2
+general 37 4:1
+<a> 57 0:1
+by 35 0:2
+x00e9 21 0:1
+for 43 4:1
+histories 1 0:1
+came 8 0:1
+project< 62 4:1
+columbia 51 3:1
+<a>university 49 0:1 4:1
+a>< 23 0:1 4:2
+college 42 4:2
+<em><a>grandes 20 0:1
+massachusetts 36 1:1
+england 54 1:1
+exhibit 48 4:1
+state 29 0:1
+******* Features ************
+95
+W_osteopathic:2097:4 91
+R_isAllSmallCase:187:1 27
+R_containsSpecialCharacters:950:0 29
+W_exhibit:1712:4 77
+W_england:1901:1 85
+E.0:182:1 7
+W_general:1327:4 66
+R_isAllSmallCase:180:0 2
+R_containsDigit:558:4 42
+E.0:175:0 3
+R_isAllCapital:173:4 40
+W_,:172:4 11
+W_illinois:361:1 26
+W_x00e9:739:0 45
+W_college:1502:4 71
+R_singlePunctuation:733:4 14
+R_isSpecialCharacter:348:4 36
+W_france:921:1 50
+W_jersey:1110:3 57
+W_california:536:1 34
+E.4:343:4 15
+R_containsDigit:530:0 32
+W_york:2055:3 90
+W_in:907:4 78
+W_university:1859:0 84
+W_<em><a>grandes:704:0 44
+W_[[oklahoma]]:1656:1 76
+W_from:319:0 24
+W_massachusetts:1271:1 65
+W_runner:697:4 43
+R_singleQuote:313:4 13
+E.3:308:4 59
+W_[[utah]]:116:1 9
+W_in:879:0 49
+W_<a>miss:494:0 33
+W_connecticut:1446:1 70
+W_new:1061:1 54
+W_oldest:1824:0 83
+W_of:102:4 61
+W_project<:2202:4 94
+W_came:284:0 23
+W_columbia:1810:3 81
+W_<a>:1999:0 89
+W_2nd:662:4 41
+R_singleComma:278:4 12
+W_jpgthumbpeople:1614:0 75
+W_by:1229:0 64
+W_li>:1992:4 88
+W_em>:844:0 48
+W_x2013:459:0 31
+W_of:74:0 6
+W_a><:837:4 87
+W_a>:452:4 38
+W_<li><a>:1404:0 69
+W_legacy:2167:4 93
+W_state:1019:0 53
+W_it:1397:4 68
+W_majority:249:0 22
+W_freshman:1012:4 52
+W_DIGIT:627:4 39
+W_oklahoma:1579:0 74
+W_west]]:242:4 20
+W_required:1194:0 63
+W_debate<:1957:4 86
+E.1:238:4 10
+W_a><:809:0 47
+W_women:1572:4 73
+W_british:1761:1 80
+W_a>:424:0 30
+W_governor:1187:4 62
+E.1:231:3 55
+W_histories:39:0 5
+W_the:32:4 16
+U:31:4 18
+End.:30:4 21
+W_<a>university:1747:4 82
+W_laws:1362:4 67
+U:24:3 56
+R_containsSpecialCharacters:978:4 37
+W_thus:977:4 51
+W_<:592:4 35
+R_isAllSmallCase:208:4 17
+W_[[intermountain:207:4 19
+U:10:1 8
+R_isAllSmallCase:201:3 58
+W_coles<:774:0 46
+W_for:1537:4 72
+End.:9:1 25
+W_ng<:389:0 28
+W_wife:1152:4 60
+W_the:4:0 1
+W_<li><a>the:2104:0 92
+U:3:0 4
+S.:1:0 0
+W_<a>university:1719:0 79

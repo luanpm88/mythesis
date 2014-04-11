@@ -1,0 +1,78 @@
+<p></p>
+<h2>Campus</h2>
+<h3>Layout</h3>
+<h3>Landmarks</h3>
+</p>
+<p><strong>Memorial Row</strong></p>
+<p>1925</p>
+<h2>Organization &amp; Administration</h2>
+<h3>Funding</h3>
+</p>
+</p>
+<h3>Affiliated Schools</h3>
+</p>
+<h2>Media</h2>
+<p></p>
+<h4>Greek Life</h4>
+<p> </p>
+<h4>International Programs</h4>
+<pre></pre>
+<h5>International Partners </h5>
+<p></p>
+<h2>Transportation</h2>
+<ul>
+</li>
+</ul>
+/&gt; </p>
+&lt;br /&gt;&nbsp; &nbsp; &nbsp;</p>
+<p> </p>
+<pre>        id:line     value:black
+id:bg       value:white</pre>
+<p>PlotData=</p>
+
+
+</pre>
+<p>TextData =</p>
+<pre>  fontsize:L
+textcolor:black
+<p>&lt;/timeline&gt;</p>
+<ul>
+</ul>
+<h2>Noted people</h2>
+<p><strong>Athletes</strong></p>
+<ul>
+</ul>
+<ul>
+</ul>
+<ul>
+</ul>
+<ul>
+</ul>
+<p><strong>Entertainers</strong></p>
+<ul>
+</ul>
+<ul>
+</ul>
+<p><strong>Journalism</strong></p>
+<ul>
+</ul>
+<ul>
+<ul>
+</ul>
+<p><strong>Writers</strong></p>
+<ul>
+</ul>
+<p></p>
+<ul>
+</ul>
+<h2>References</h2>
+<p><img></p>
+<h2>External links</h2>
+<p></p>
+<ul>
+<li></li>
+</ul>
+<p>    </p>
+<p></p>
+
+

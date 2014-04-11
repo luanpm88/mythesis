@@ -1,0 +1,4 @@
+<li><em>Computer Science</em>
+<li>Science and Technology Option</li>
+<li>Pre-Engineering/Science and Technology Option</li>
+<li><em>Political Science</em></li>

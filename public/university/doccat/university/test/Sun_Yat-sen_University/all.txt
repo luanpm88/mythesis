@@ -1,0 +1,211 @@
+image_name$$$@@@%%%<p> </p>
+established$$$@@@%%%<p><strong>Sun Yat-sen University</strong> or <strong>Zhongshan University</strong> () is a prominent university in the southern part of <a>China</a>, located mainly in <a>Guangzhou</a>.
+established$$$@@@%%%The university is named after Dr. <a>Sun Yat-sen</a>, a <a>physician</a> and later founder of the <a>Republic of China</a>.</p>
+established$$$@@@%%%<p>The university consists of 4 campuses (South Campus, North Campus, East Campus and Zhuhai Campus) with a total area of 6.17 square kilometers.
+type$$$@@@%%%Three of the four campuses are located in <a>Guangzhou</a>, the fourth is in <a>Zhuhai</a>.
+image_name$$$@@@%%%</p>
+established$$$@@@%%%<p>The university motto, &quot;Study extensively; Enquire accurately; Reflect carefully; Discriminate clearly; Practise earnestly&quot; (&#x535a;&#x5b66;&#x3001;&#x5ba1;&#x95ee;&#x3001;&#x614e;&#x601d;&#x3001;&#x660e;&#x8fa8;&#x3001;&#x7b03;&#x884c;), is from one of the Chinese classics, <em><a>Doctrine of the Mean</a></em>.</p>
+established$$$@@@%%%<h2>History</h2>
+established$$$@@@%%%<p>Sun Yat-sen University, originally known as National Kwangtung University (&#x56fd;&#x7acb;&#x5e7f;&#x4e1c;&#x5927;&#x5b66;), was founded in <a>1924</a> by Dr. <a>Sun Yat-sen</a>.
+closed$$$@@@%%%It combined National Higher Normal College (&#x5e7f;&#x4e1c;&#x9ad8;&#x7b49;&#x5e08;&#x8303;&#x5b66;&#x6821;), Kwangtung Provincial Law College (&#x5e7f;&#x4e1c;&#x516c;&#x7acb;&#x6cd5;&#x79d1;&#x5927;&#x5b66;) and Provincial Agricultural Technical School (&#x5e7f;&#x4e1c;&#x516c;&#x7acb;&#x519c;&#x4e1a;&#x4e13;&#x95e8;&#x5b66;&#x6821;), and after his death it was renamed <strong>National Sun Yat-sen University</strong> in 1926.</p>
+image_name$$$@@@%%%<h2>Campus</h2>
+established$$$@@@%%%<p>The campus was originally located at Shipai (&#x77f3;&#x724c;), Eastern <a>Guangzhou</a>.
+established$$$@@@%%%In the early 1950s, Sun Yat-sen University was merged with <a>Lingnan University</a> and relocated to Kangle Yuan (&#x5eb7;&#x4e50;&#x56ed;), Southern <a>Guangzhou</a>, which is now called the South Campus.
+established$$$@@@%%%In 2000, the Zhuhai Campus was established in Tangjiawan (&#x5510;&#x5bb6;&#x6e7e;), city of <a>Zhuhai</a>.
+established$$$@@@%%%In 2001, the former <a>Sun Yat-sen University of Medical Sciences</a> merged into Sun Yat-sen University, constituting the current North Campus.
+established$$$@@@%%%The East Campus was established in 2004 in <a>Guangzhou Higher Education Mega Center</a> (&#x5e7f;&#x5dde;&#x5927;&#x5b66;&#x57ce;), Panyu, <a>Guangzhou</a>.</p>
+image_name$$$@@@%%%<h2>Academics</h2>
+established$$$@@@%%%<p><a>thumb|right|Medical college of Sun Yat-sen University</a></p>
+established$$$@@@%%%<p>Sun Yat-sen University is a comprehensive university including the humanities, social sciences, natural sciences, technical science, medical science, pharmacology and management science.
+faculty$$$@@@%%%There are 23 schools and colleges, including a <a>medical school</a>, a <a>school of dental medicine</a>, a <a>law school</a> and a <a>business school</a>.</p>
+students$$$@@@%%%<p>In the graduate study programmes there are 17 disciplines leading to <a>Doctorate</a> and/or Master degrees, of which 146 specialties lead to a Doctorate degree and 205 specialties lead to a Master degree.
+nickname$$$@@@%%%In addition, there are 12 branches of studies leading to professional degrees, which are: <a>Doctor of Medicine</a>, <a>Master of Business Administration</a> (MBA), <a>Master of Public Administration</a> (MPA), Master of Judicial Studies (LL.M.).</p>
+image_name$$$@@@%%%<h3>Ranking</h3>
+established$$$@@@%%%<p>According to <a>2005 Chinese University Ranking</a> published by The <a>21st Century Business Herald</a>, Sun Yat-sen University was ranked in 9th place in 2005.
+vice_chancellor$$$@@@%%%In 2009, its ranking moved up to 8th.</p>
+established$$$@@@%%%<p>According to <a>The Times Higher Education World University Rankings 2010-2011</a> published by The <a>Times</a>, Sun Yat-sen University was ranked in 171th place in the world, in 22nd place in Asia and in the 5th place in China.</p>
+image_name$$$@@@%%%<h2>Organisation</h2>
+established$$$@@@%%%<p><a>thumb|right|220px|The main building of Sun Yat-sen University(Zhuhai campus)</a></p>
+image_name$$$@@@%%%<ul>
+nickname$$$@@@%%%  <li>International Business School
+image_name$$$@@@%%%    <ul>
+free$$$@@@%%%      <li>Department of Applied Economics</li>
+free$$$@@@%%%      <li>Department of Business Administration</li>
+image_name$$$@@@%%%    </ul>
+image_name$$$@@@%%%  </li>
+head_label$$$@@@%%%  <li>School of Humanities
+image_name$$$@@@%%%    <ul>
+established$$$@@@%%%      <li>Department of Chinese Language and Literature</li>
+established$$$@@@%%%      <li>Department of History</li>
+free$$$@@@%%%      <li>Department of Philosophy</li>
+free$$$@@@%%%      <li>Department of Anthropology</li>
+image_name$$$@@@%%%    </ul>
+image_name$$$@@@%%%  </li>
+affiliation$$$@@@%%%  <li>Lingnan (University) College
+image_name$$$@@@%%%    <ul>
+established$$$@@@%%%      <li>Department of International Economy and Trade</li>
+free$$$@@@%%%      <li>Department of Business Management</li>
+free$$$@@@%%%      <li>Department of Economics</li>
+free$$$@@@%%%      <li>Department of Finance</li>
+established$$$@@@%%%      <li>Department of Finance and Taxation</li>
+established$$$@@@%%%      <li>Department of Risk Management and Insurance</li>
+image_name$$$@@@%%%    </ul>
+image_name$$$@@@%%%  </li>
+head_label$$$@@@%%%  <li>School of Foreign Languages
+image_name$$$@@@%%%    <ul>
+free$$$@@@%%%      <li>Department of English</li>
+established$$$@@@%%%      <li>Department of French, German and Japanese</li>
+website$$$@@@%%%      <li>Center of College English</li>
+website$$$@@@%%%      <li>Center of Graduate English</li>
+website$$$@@@%%%      <li>Guangzhou English Training Center</li>
+website$$$@@@%%%      <li>Center of Chinese Language Training</li>
+country$$$@@@%%%      <li>Center of Australian Studies</li>
+image_name$$$@@@%%%    </ul>
+image_name$$$@@@%%%  </li>
+established$$$@@@%%%  <li>School of Translation and Interpretation
+image_name$$$@@@%%%    <ul>
+free$$$@@@%%%      <li>Department of English Translation</li>
+free$$$@@@%%%      <li>Department of Business Communication</li>
+established$$$@@@%%%      <li>Department of Teaching Chinese as a Foreign Language </li>
+image_name$$$@@@%%%    </ul>
+image_name$$$@@@%%%  </li>
+established$$$@@@%%%  <li>School of Law</li>
+type$$$@@@%%%  <li>School of Political Science and Public Administration
+image_name$$$@@@%%%    <ul>
+former_names$$$@@@%%%      <li>Department of Political Science</li>
+type$$$@@@%%%      <li>Department of Public Administration</li>
+free$$$@@@%%%      <li>Department of Sociology</li>
+free$$$@@@%%%      <li>Department of International Relation</li>
+type$$$@@@%%%      <li>Department of Public Communication</li>
+established$$$@@@%%%      <li>Department of Social Work</li>
+image_name$$$@@@%%%    </ul>
+image_name$$$@@@%%%  </li>
+head_label$$$@@@%%%  <li>School of Engineering</li>
+head_label$$$@@@%%%  <li>School of Management
+image_name$$$@@@%%%    <ul>
+free$$$@@@%%%      <li>Department of Business Administration</li>
+free$$$@@@%%%      <li>Department of Accountancy</li>
+free$$$@@@%%%      <li>Department of Hotel Management</li>
+free$$$@@@%%%      <li>Department of Marketing</li>
+established$$$@@@%%%      <li>Department of Corporate Finance and Investment</li>
+image_name$$$@@@%%%    </ul>
+image_name$$$@@@%%%  </li>
+type$$$@@@%%%  <li>School of Education
+image_name$$$@@@%%%    <ul>
+former_names$$$@@@%%%      <li>Department of Social Science Education</li>
+free$$$@@@%%%      <li>Department of Psychology</li>
+former_names$$$@@@%%%      <li>Department of Physical Education</li>
+image_name$$$@@@%%%    </ul>
+image_name$$$@@@%%%  </li>
+established$$$@@@%%%  <li>School of Mass Communication and Design
+image_name$$$@@@%%%    <ul>
+established$$$@@@%%%      <li>Department of New Media and Video Production</li>
+free$$$@@@%%%      <li>Department of Mass Communication</li>
+free$$$@@@%%%      <li>Department of Artistic Design</li>
+image_name$$$@@@%%%    </ul>
+image_name$$$@@@%%%  </li>
+closed$$$@@@%%%  <li>School of Mathematics and Computational Science
+image_name$$$@@@%%%    <ul>
+free$$$@@@%%%      <li>Department of Mathematics</li>
+free$$$@@@%%%      <li>Department of Statistics</li>
+established$$$@@@%%%      <li>Department of Computation and Computer Engineering</li>
+image_name$$$@@@%%%    </ul>
+image_name$$$@@@%%%  </li>
+established$$$@@@%%%  <li>School of Physics and Engineering
+image_name$$$@@@%%%    <ul>
+free$$$@@@%%%      <li>Department of Physics</li>
+established$$$@@@%%%      <li>Department of Applied Mechanics and Engineering</li>
+image_name$$$@@@%%%    </ul>
+image_name$$$@@@%%%  </li>
+established$$$@@@%%%  <li>School of Chemistry and Chemical Engineering
+image_name$$$@@@%%%    <ul>
+free$$$@@@%%%      <li>Department of Chemistry</li>
+free$$$@@@%%%      <li>Department of Applied Chemistry</li>
+former_names$$$@@@%%%      <li>Department of Polymer and Material Science</li>
+image_name$$$@@@%%%    </ul>
+image_name$$$@@@%%%  </li>
+established$$$@@@%%%  <li>School of Geography and Planning
+image_name$$$@@@%%%    <ul>
+country$$$@@@%%%      <li>Department of Urban and Regional Planning</li>
+established$$$@@@%%%      <li>Department of Remote Sensing and Geographic Information Engineering</li>
+free$$$@@@%%%      <li>Department of National Territorial Resource and Environment</li>
+established$$$@@@%%%      <li>Department of Water Resources and Environment</li>
+established$$$@@@%%%      <li>Department of Tourism and Recreation</li>
+image_name$$$@@@%%%    </ul>
+image_name$$$@@@%%%  </li>
+website$$$@@@%%%  <li>School of Environmental Sciences and Engineering
+image_name$$$@@@%%%    <ul>
+former_names$$$@@@%%%      <li>Department of Environmental Science</li>
+former_names$$$@@@%%%      <li>Department of Atmospheric Science</li>
+free$$$@@@%%%      <li>Department of Environmental Engineering</li>
+former_names$$$@@@%%%      <li>Department of Earth Science</li>
+image_name$$$@@@%%%    </ul>
+image_name$$$@@@%%%  </li>
+closed$$$@@@%%%  <li>School of Life Science
+image_name$$$@@@%%%    <ul>
+established$$$@@@%%%      <li>Department of Biology and Biotechnology</li>
+free$$$@@@%%%      <li>Department of Biochemistry</li>
+image_name$$$@@@%%%    </ul>
+image_name$$$@@@%%%  </li>
+doctoral$$$@@@%%%  <li>School of Information Science and Technology
+image_name$$$@@@%%%    <ul>
+established$$$@@@%%%      <li>Department of Electronics and Communication Engineering</li>
+former_names$$$@@@%%%      <li>Department of Computer Science</li>
+free$$$@@@%%%      <li>Department of Information Management</li>
+image_name$$$@@@%%%    </ul>
+image_name$$$@@@%%%  </li>
+head_label$$$@@@%%%  <li>School of Software</li>
+city$$$@@@%%%  <li>Sun Yat-sen College of Medical Science</li>
+closed$$$@@@%%%  <li>School for Overseas Educational Exchange
+image_name$$$@@@%%%    <ul>
+established$$$@@@%%%      <li>Department for Teaching Chinese as a foreign Language</li>
+image_name$$$@@@%%%    </ul>
+image_name$$$@@@%%%  </li>
+head_label$$$@@@%%%  <li>School of Pre-Clinical Medicine
+image_name$$$@@@%%%    <ul>
+city$$$@@@%%%      <li>Department of Medical Jurisprudence</li>
+free$$$@@@%%%      <li>Department of Biological Medicine Engineering</li>
+city$$$@@@%%%      <li>Department of Medical Testing</li>
+image_name$$$@@@%%%    </ul>
+image_name$$$@@@%%%  </li>
+type$$$@@@%%%  <li>School of Public Health
+image_name$$$@@@%%%    <ul>
+free$$$@@@%%%      <li>Department of Preventive Medicine</li>
+established$$$@@@%%%      <li>Department of Health Care for Children and Women</li>
+city$$$@@@%%%      <li>Department of Medical Dietetics</li>
+established$$$@@@%%%      <li>Department of Medical Statistics and Epidemics</li>
+image_name$$$@@@%%%    </ul>
+image_name$$$@@@%%%  </li>
+head_label$$$@@@%%%  <li>Guanghua School of Stomatology</li>
+head_label$$$@@@%%%  <li>School of Nursing</li>
+head_label$$$@@@%%%  <li>School of Pharmacology</li>
+type$$$@@@%%%  <li>School of Continuing Education</li>
+type$$$@@@%%%  <li>School of Online Education</li>
+city$$$@@@%%%  <li>Sun Yat-sen University First Hospital</li>
+city$$$@@@%%%  <li>Sun Yat-sen University Second Hospital (or Sun Yat-sen Memorial Hospital)</li>
+city$$$@@@%%%  <li>Sun Yat-sen University Third Hospital</li>
+nickname$$$@@@%%%  <li>Sun Yat-sen University Fourth Hospital (has merged into the First Hospital)</li>
+city$$$@@@%%%  <li>Sun Yat-sen University Fifth Hospital (or Zhuhai Hospital)</li>
+city$$$@@@%%%  <li>Sun Yat-sen University Sixth Hospital (or Sun Yat-sen University Gastrointestinal &amp; Anal Hospital)</li>
+free_label$$$@@@%%%  <li>Sun Yat-sen University Cancer Center</li>
+city$$$@@@%%%  <li>Sun Yat-sen University Stomatologic Hospital</li>
+free_label$$$@@@%%%  <li>Sun Yat-sen University Ophthalmologic Center</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h2>&#x6ce8;&#x91ca;</h2>
+image_name$$$@@@%%%<p><img></p>
+city$$$@@@%%%<h2>See also</h2>
+image_name$$$@@@%%%<ul>
+established$$$@@@%%%  <li><a>National Sun Yat-sen University</a> in <a>Taiwan</a>, <a>Republic of China</a></li>
+established$$$@@@%%%  <li><a>Moscow Sun Yat-sen University</a> in <a>Moscow</a>, <a>USSR</a></li>
+established$$$@@@%%%  <li><a>Lingnan (University) College</a> (in Chinese)</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h2>External links</h2>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%<ul>
+affiliation$$$@@@%%%  <li><a>Official Website</a></li>
+doctoral$$$@@@%%%  <li><a>Information about SYSU at Yale-China Association</a></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p>   </p>
+doctoral$$$@@@%%%<p><a>de:Sun-Yat-sen-Universit&#x00e4;t (Guangdong)</a> <a>es:Universidad Sun Yat-sen</a> <a>nl:Sun Yat-sen-universiteit (Guangdong)</a> <a>ja:&#x4e2d;&#x5c71;&#x5927;&#x5b66;</a> <a>no:Sun Yat-sen-universitetet</a> <a>zh-yue:&#x4e2d;&#x5c71;&#x5927;&#x5b78;</a> <a>zh:&#x4e2d;&#x5c71;&#x5927;&#x5b66;</a></p>
+image_name$$$@@@%%%
+image_name$$$@@@%%%

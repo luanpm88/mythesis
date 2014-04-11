@@ -1,0 +1,7 @@
+<h2>Faculties and subjects</h2>
+<li><strong>Faculty of Architecture, Design, and Urban Studies</strong>
+<li>Institute of Urban and Territorial Studies</li>
+<li>English Literature and Linguistics</li>
+<li>Spanish Literature and Linguistics</li>
+<li>Nursing and Obstretics</li>
+<li>Chemistry and Pharmacy</li>

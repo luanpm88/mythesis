@@ -1,0 +1,4 @@
+<li>College of the Arts</li>
+<li>College of Humanities and Social Sciences</li>
+<li>College of Natural Sciences and Mathematics</li>
+<p>In the spring semester of 2008, Student Recreation Center opened.

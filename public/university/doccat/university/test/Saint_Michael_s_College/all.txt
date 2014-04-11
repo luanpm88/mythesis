@@ -1,0 +1,139 @@
+image_name$$$@@@%%%<p> </p>
+type$$$@@@%%%<p> <strong>Saint Michael's College</strong> is a private, residential <a>liberal arts</a> <a>Catholic college</a>.
+nickname$$$@@@%%%The  campus is located in <a>Colchester, Vermont</a>.
+established$$$@@@%%%It was founded in 1904 by the <a>Society of Saint Edmund</a>, a French order of Catholic priests.</p>
+established$$$@@@%%%<h2>History</h2>
+established$$$@@@%%%<p><a>thumb|250px|left|Aerial view of the campus.</a></p>
+established$$$@@@%%%<p>In 1889, priests from the <a>Society of Saint Edmund</a> fled to the United States after <a>widespread anticlericism seized France</a>.
+former_names$$$@@@%%%In 1904, they opened Saint Michael's Institute with an initial investment of $5,000.
+established$$$@@@%%%Thirty-four students aged 10 to 22 enrolled, with a tuition and board fee of $105.
+established$$$@@@%%%Slowly, the school discontinued its high school program.
+established$$$@@@%%%Gradually, the school transitioned from an academy with old military barracks as dormitories to a traditional residential college.
+staff$$$@@@%%%In 1939, graduate programs were offered for the first time.
+image_name$$$@@@%%%</p>
+established$$$@@@%%%<p>Saint Michael&#x2019;s Playhouse was opened in 1947, bringing professional summer theater to Vermont and giving students the chance to work behind the scenes.</p>
+established$$$@@@%%%<p>Before the 1950s, classes at Saint Michael's were small, just a few dozen Michaelmen in any class.
+established$$$@@@%%%In the 1950s, the college expanded to hundreds of students per class.
+established$$$@@@%%%The College began a building program which established the architectural style which permeates the College today.</p>
+established$$$@@@%%%<p>Saint Michael's Applied Linguistics Department was started in 1954, focusing on teaching <a>English</a> to students from around the world.</p>
+established$$$@@@%%%<p>The <a>Hungarian uprising</a> of 1956, brought about 130 refugees, most already well-educated, to the college to learn English.</p>
+established$$$@@@%%%<p>In 2003, <a>Harold Bloom</a>, a leading literary scholar at <a>Yale</a>, announced his plans to donate his personal library to the College, and an anonymous donor granted the money to build the Dupont Library to house the collection.
+established$$$@@@%%%In 2004, Saint Michael's celebrated its centenary in an 18-month-long series of events including special lectures, musical performances, and convocations.
+head_label$$$@@@%%%The college has been co-educational since 1970.</p>
+affiliations$$$@@@%%%<h3>Tradition.
+image_name$$$@@@%%%Culture</h3>
+nickname$$$@@@%%%<p>&lt;!--not sure about subtitle here but material is similar to sections in other colleges---&gt; In the 1950s, Freshmen were required to wear a dress shirt, coat and tie to every class and for the evening meal.
+affiliations$$$@@@%%%All dorm students said the rosary before retiring.
+established$$$@@@%%%Saint Michael's houses the following honors: <a>Phi Beta Kappa</a>; Delta Epsilon Sigma, the Catholic honor society; Pi Sigma Alpha for Political Science; <a>Omicron Delta Epsilon</a> for Economics; <a>Phi Alpha Theta</a> for History; Kappa Delta Pi for Education; <a>Psi Chi</a> for Psychology; <a>Sigma Xi</a> for Science and Technology; <a>Pi Mu Epsilon</a> for Mathematics; Kappa Tau Alpha for Journalism and Mass Communication (the only KTA chapter nationwide housed at a small college); and Sigma Beta Delta for Business, Management and Administration.
+established$$$@@@%%%For four of the last seven years, a Saint Michael&#x2019;s professor has been named the CASE/Carnegie Foundation Vermont Professor of the Year.
+country$$$@@@%%%Saint Michael's College is accredited by the <a>New England Association of Schools and Colleges</a>.</p>
+image_name$$$@@@%%%<h3>Undergraduate</h3>
+nickname$$$@@@%%%<p>Undergraduate programs include 29 major fields of study and 37 minors, combined with a liberal studies curriculum.
+free_label$$$@@@%%%Emphasis is placed on independent study, independent research, internships and foreign study.
+established$$$@@@%%%Eligible students can also participate in the College's Honors Program.</p>
+image_name$$$@@@%%%<h3>Graduate</h3>
+staff$$$@@@%%%<p>There are five master's degree programs: Administration and Management, Clinical Psychology, Education, Teaching English as a Second/Foreign Language and Theology and Pastoral Ministry.
+postgrad$$$@@@%%%There are three post-master's certificates and Vermont teacher licensure programs.</p>
+image_name$$$@@@%%%<h3>International Students</h3>
+type$$$@@@%%%<p>Special English as a Second Language programs are offered for international students through the Applied Linguistics Department, including a progam that assists international students in the transition to college-level course work.</p>
+established$$$@@@%%%<p>:<em> See also <a>Barriers to employment for international students in Canada</a></em></p>
+image_name$$$@@@%%%<h3>Study Abroad</h3>
+established$$$@@@%%%<p>Students may participate in study abroad programs, which cost the same as a semester on campus, airfare included.
+faculty$$$@@@%%%Students can choose a program by location or language, or can choose from a variety of special Saint Michael's programs.</p>
+image_name$$$@@@%%%<h2>Demographics</h2>
+students$$$@@@%%%<p>Saint Michael's has 2,000 undergraduate students who come from 37 states and 13 countries.
+postgrad$$$@@@%%%80% of students are from outside Vermont.
+affiliations$$$@@@%%%There are 150 faculty members, 94 percent with a <a>Ph.D.</a> or highest appropriate degree.
+students$$$@@@%%%The student-faculty ratio is 12:1.
+postgrad$$$@@@%%%There are approximately 250 graduate students each term; over 90 percent are from Vermont.</p>
+image_size$$$@@@%%%<h2>Student life</h2>
+affiliations$$$@@@%%%<p>[[Image:smfd training.jpg[|thumb|300px|<a>http://www2.smcvt.edu/fire_rescue</a>
+established$$$@@@%%%Saint Michael's Fire Department] conducting a training on campus.]]
+established$$$@@@%%%Nearly 100% of students live on campus in residence halls and townhouses.
+faculty$$$@@@%%%There are over 40 student organizations.
+faculty$$$@@@%%%There are no fraternities or sororities.
+nickname$$$@@@%%%Other activities include the Student Association, Wilderness Program, Campus Ministry, the campus radio station <a>WWPV</a>, club sports, student musical and play productions, the Saint Michael&#x2019;s Chorale, Vermont <a>Gregorian Chant</a> Schola, <a>open mic</a> nights and the Wind and <a>Jazz Ensemble</a>s.
+mascot$$$@@@%%%Christmas and spring semi-formal dances are held.</p>
+established$$$@@@%%%<p>Notable artists such as <a>O.A.R.</a>, <a>The Roots</a>, <a>Jurassic 5</a>, <a>Carbon Leaf</a>, <a>Wyclef Jean</a>, <a>Lupe Fiasco</a>, and <a>Third Eye Blind</a>, have performed on campus in recent years.
+nickname$$$@@@%%%Student publications include <em>The Echo</em> (online magazine), <em>The Defender</em> (weekly newspaper), and the <em>Onion River Review</em> a literary magazine.</p>
+free_label$$$@@@%%%<p>Athletics facilities include a fitness room, racquetball and an indoor track and swimming pool.
+city$$$@@@%%%Trails surround the campus for cross-country running or mountain biking.</p>
+established$$$@@@%%%<p>In 2009, the school was rated by a <a>Princeton Review</a> survey as having the second best &quot;town-gown&quot; relationship in the country and ninth in the nation for the &quot;best quality of life.&quot;</p>
+image_name$$$@@@%%%<h3>Ski &amp; Ride Program</h3>
+affiliations$$$@@@%%%<p>&lt;!--these need rewriting.
+established$$$@@@%%%Sound <a>WP:PR</a>---&gt; Beginning in fall of 2004, Saint Michael's students became the first in the nation to have unlimited access to a major winter resort as part of their college experience.
+nickname$$$@@@%%%For a $30 fee, undergraduates are provided with a season pass to <a>Smugglers' Notch</a> in <a>Jeffersonville</a>, VT (50 minutes from campus).
+established$$$@@@%%%The pass also includes discounts on group lessons and rental equipment, as well as weekend bus transportation from campus.</p>
+image_name$$$@@@%%%<h3>Cultural</h3>
+country$$$@@@%%%<p>Turtle Underground is a student-run program that promotes student art, music, and performance.
+affiliations$$$@@@%%%There are shows most Saturdays during the semester.
+established$$$@@@%%%These have featured a variety of acts, ranging from DJs to solo singer-song writers to jam bands.</p>
+campus$$$@@@%%%<h3>Fire and Rescue</h3>
+established$$$@@@%%%<p>One of the extracurricular activities at Saint Michael's is the Fire and Rescue program, which was founded in 1969 after a student died on an athletic field.
+free_label$$$@@@%%%Entirely student run, the department provides fire protection and emergency medical treatment to campus and the surrounding community.
+established$$$@@@%%%The EMT program is one of seven college run EMT programs with a full service area in the country.</p>
+free_label$$$@@@%%%<h2>Athletics</h2>
+nickname$$$@@@%%%<p>There are 21 varsity sports (10 for men, 11 for women) and over 20 intramural teams.
+nickname$$$@@@%%%Saint Michael's varsity sports teams are called the Purple Knights.
+colors$$$@@@%%%The school colors are purple and gold.
+nickname$$$@@@%%%Varsity teams participate in the NCAA's Division II <a>Northeast Ten Conference</a>.
+athletics$$$@@@%%%Approximately 25% of students participate in a varsity sport.
+established$$$@@@%%%For men: Basketball, baseball, cross country, golf, hockey, lacrosse, skiing (alpine, Nordic), soccer, rugby, swimming and diving, and tennis.
+campus$$$@@@%%%For women: basketball, cross country, field hockey, lacrosse, skiing, soccer, rugby, softball, swimming and diving, tennis, ice hockey, and volleyball.
+nickname$$$@@@%%%Student-led programs include billiards, ping pong, floor hockey, volleyball and indoor soccer.
+faculty$$$@@@%%%Tournaments are also scheduled throughout the academic year.
+vice_chancellor$$$@@@%%%Yoga, jazzercise, kick boxing, cardio step and pilates courses are offered weekly.
+website$$$@@@%%%First Aid and CPR training/certification is also offered.</p>
+free_label$$$@@@%%%<h2>Art and Culture</h2>
+established$$$@@@%%%<p>Saint Michael's Playhouse, the College's professional equity summer theater, draws talent from Broadway, Off-Broadway and regional theaters performing full scale New York caliber theater to more than 15,000 audience members each season.
+country$$$@@@%%%The playhouse is a member of the Council of Resident Stock Theaters (CORST) of which there are only eleven remaining in the United States today.
+established$$$@@@%%%As a CORST theater company Saint Michael's Playhouse employs members of <a>Actors' Equity Association</a>, as well as directors from the <a>Stage Directors and Choreographers Society</a> and designers from <a>United Scenic Artists</a>.</p>
+mascot$$$@@@%%%<p>The playhouse also maintains a Professional Theater Internship Program for college theater students.
+type$$$@@@%%%Acceptance into this program is competitive.
+established$$$@@@%%%Successful candidates work side by side with the professionals in areas of theater production and administration.</p>
+established$$$@@@%%%<p>The College is also a sponsor of the <a>Vermont Mozart Festival</a>, the state's largest classical music festival.</p>
+image_name$$$@@@%%%<h2>Recognition</h2>
+established$$$@@@%%%<p>Saint Michael's is listed in the &quot;Best National Liberal Arts Colleges&quot; category of the &#x201c;America&#x2019;s Best Colleges:  2010 Annual Guide,&#x201d; published by <a>U.S. News and World Report</a>.Saint Michael's has been labeled by <a>Newsweek</a> magazine as a &#x201c;hidden treasure&#x201d; that &#x201c;deserves more national recognition.&#x201d;
+nickname$$$@@@%%%Additionally, Saint Michael's is included in Princeton Review&#x2019;s <em>The Best 371 Colleges: 2010 Edition.</em>
+established$$$@@@%%%In 2010 <a>Forbes magazine</a> ranked the school 129 in its list of top 500 in the nation.</p>
+mascot$$$@@@%%%<p>The college has also won regional Society of Professional Journalists awards for its student online magazine, <em>The Echo</em>.
+nickname$$$@@@%%%The student newspaper, <em>The Defender</em>, placed third during the 2009 Associated Collegiate Press competition.</p>
+free$$$@@@%%%<h2>Notable alumni</h2>
+established$$$@@@%%%<p>&lt;!---for now, please insert by last name, alphabeticallly ---&gt; &lt;!---need class year ----&gt;</p>
+image_name$$$@@@%%%<ul>
+affiliation$$$@@@%%%  <li><a>Moses Anderson</a>, Roman Catholic Bishop</li>
+type$$$@@@%%%  <li><a>Donald Cook</a>, <a>United States Marine Corps</a> officer, <a>Prisoner of War</a>, and <a>Medal of Honor</a> recipient</li>
+established$$$@@@%%%  <li><a>Tom Caron</a>, host of <a>Boston Red Sox</a> coverage on <a>NESN</a></li>
+image_size$$$@@@%%%  <li><a>Thomas E. Delahanty II</a>, <a>Maine Superior Court</a> justice</li>
+affiliations$$$@@@%%%  <li><a>Joseph F. Dunford, Jr.</a> 1977?, <a>Assistant Commandant of the Marine Corps</a></li>
+established$$$@@@%%%  <li><a>James Fallon</a> 1969?,  <a>neuroscientist</a></li>
+image_size$$$@@@%%%  <li><a>Roger Festa</a>, President of the <a>American Institute of Chemists</a></li>
+established$$$@@@%%%  <li><a>Tom Freston</a>, <a>President</a> and <a>CEO</a> of <a>Viacom</a> and one of the founders of MTV</li>
+free_label$$$@@@%%%  <li><a>Robert Hoehl</a>, co-founder of <a>IDX Systems Corporation</a></li>
+type$$$@@@%%%  <li><a>Martin Hyun</a>, German ice hockey player with <a>Krefeld Pinguine</a></li>
+established$$$@@@%%%  <li><a>George Latimer</a>, <a>DFL</a> mayor of <a>Saint Paul, Minnesota</a></li>
+affiliations$$$@@@%%%  <li><a>Patrick Leahy</a>, Senior <a>U.S. Senator</a> from <a>Vermont</a></li>
+free_label$$$@@@%%%  <li><a>Richard Tarrant</a>, co-founder of <a>IDX Systems Corporation</a></li>
+established$$$@@@%%%  <li><a>Michael Tranghese</a>, Commissioner of the Big East Conference</li>
+established$$$@@@%%%  <li><a>Loung Ung</a>, peace activist, author of <em><a>First They Killed My Father</a></em>.</li>
+image_size$$$@@@%%%<li><a>Robert White (ambassador)</a>, US Ambassador to El Salvador and Paraguay, and current President of the Center for International Policy</li>
+image_name$$$@@@%%%</ul>
+city$$$@@@%%%<h2>See also</h2>
+image_name$$$@@@%%%<ul>
+country$$$@@@%%%  <li><a>List of colleges and universities in the United States</a></li>
+type$$$@@@%%%  <li><a>List of colleges and universities in Vermont</a></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h2>Footnotes</h2>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%<h2>External links</h2>
+image_name$$$@@@%%%<ul>
+affiliation$$$@@@%%%  <li><a>Saint Michael's College official website</a></li>
+established$$$@@@%%%  <li><a>Saint Michael's Fire and Rescue</a></li>
+established$$$@@@%%%  <li><a>The online magazine of Saint Michael's College</a></li>
+established$$$@@@%%%  <li><a>The online edition of Saint Michael's newspaper</a></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p> </p>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%<p>&lt;!--Other languages--&gt;</p>
+image_name$$$@@@%%%
+image_name$$$@@@%%%

@@ -1,0 +1,33 @@
+<p></p>
+<p></p>
+</p>
+<h3>Departments</h3>
+<ul>
+<li>Campus Dansaert</li>
+<li>Applied Linguistics</li>
+<li>Campus Jette</li>
+<li>Rits</li>
+</ul>
+<ul>
+<li>Communications Management</li>
+<li>Journalism</li>
+<li>Hotel Management</li>
+<li>Office Management</li>
+<li>Applied linguistics</li>
+<li>Electronics</li>
+<li>Nutrition And Dietetics</li>
+<li>Nursing</li>
+<li>Midwifery  </li>
+<li>Drama</li>
+<li>Landscape And Garden Architecture</li>
+<li>Environmental Protection</li>
+</ul>
+<ul>
+</ul>
+<h2>References</h2>
+<p><img></p>
+<h2>External links</h2>
+<ul>
+</ul>
+
+

@@ -1,0 +1,9 @@
+<li>School of Electronic Information Engineering </li>
+<li>School of Jet Propulsion </li>
+<li>School of Biological Engineering </li>
+<li>School of Foreign Languages </li>
+<li>School of Astronautics </li>
+<li>School of Pilot</li>
+<li>School of Software </li>
+<li>School of Distant Learning </li>
+<li>School of Advanced Engineering </li>

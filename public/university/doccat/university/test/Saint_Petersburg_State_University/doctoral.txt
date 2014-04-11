@@ -1,0 +1,2 @@
+<h3>Academic year</h3>
+<li>Faculty of Political Science (<a>*rus</a>)</li>

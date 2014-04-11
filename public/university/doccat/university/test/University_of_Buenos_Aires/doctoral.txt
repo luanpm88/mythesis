@@ -1,0 +1,73 @@
+<a>Antonio S&#x00e1;enz</a>                     13-06-1821 to 25-07-1825.</li>
+<a>Jos&#x00e9; Valent&#x00ed;n G&#x00f3;mez</a>               10-04-1826 to 23-08-1830.</li>
+<a>Santiago Figueredo</a>                 23-08-1830 to 22-02-1832.</li>
+<a>Paulino Gari</a>                       13-12-1832 to 11-1849.</li>
+<a>Miguel Garc&#x00ed;a</a>          11-1849    to 26-06-1852.</li>
+<a>Jos&#x00e9; Barros Pazos</a>                   01 -07-1852 to 5-05-1857.</li>
+<a>Antonio Cruz Obligado</a>                9-05-1857 to 03-1861.</li>
+<a>Juan Mar&#x00ed;a Guti&#x00e9;rrez</a>                 1-04-1861 to 3-10-1873.</li>
+<a>Vicente Fidel L&#x00f3;pez</a>                 15-02-1874 to 12-06-1877.</li>
+<a>Manuel Quintana</a>                     12-06-1877 to 26-01-1881.</li>
+<a>Eufemio Uballes</a>                       1-03-1906 to 1-03-1922.</li>
+<a>Jos&#x00e9; Arce</a>                            1-03-1922 to 1-03-1926.</li>
+<a>Ricardo Rojas</a>                       2-03-1926 to 1-03-1930.</li>
+<a>Enrique Butty</a>                        1-03-1930 to 11-12-1930.</li>
+<a>Benito Nazar Anchorena</a> (interventor) 16-12-1930 to 1-06-1931.</li>
+<a>Mariano Castex</a>                       1-06-1931 to 9-03-1932.</li>
+<a>Vicente Gallo</a>                       11-05-1934 to 11-05-1941.</li>
+<a>Coroliano Alberini</a>                  12-05-1941 to 16-10-1941.</li>
+<a>Carlos Saavedra Lamas</a>                17-10-1941 to 30-07-1943.</li>
+<a>Alfredo Labougle</a> (vice-rector)   31-07-1942 to 1-11-1943.</li>
+<a>Emilio Ravignani</a> (interventor)        2-11-1943 to 4-11-1943.</li>
+<a>Tom&#x00e1;s Casares</a> (interventor)            4-11-1943 to 9-03-1944.</li>
+<a>David Arias</a> (interventor)              10-03-1944 to 18-05-1944.</li>
+<a>Carlos Obligado</a> (interventor)            19-05-1944 to 31-08-1944.</li>
+<a>Carlos Waldorp</a> (interventor)            30-10-1944 to 16-02-1945.</li>
+<a>Antonio Ben&#x00ed;tez</a> (national commissioner) 17-02-1945 to 14-03-1945.</li>
+<a>Salvador Or&#x00ed;a</a> (vice-rector)       15-03-1945 to 26-04-1945.</li>
+<a>Horacio Rivarola</a>                          27-04-1945 to 2-05-1946.</li>
+<a>Oscar Ivanissevich</a> (interventor)         4-05-1946 to 5-06-1949.</li>
+<a>Fernando Bustos</a> (vice-rector interventor) 6-08-1946 to 2-09-1946.</li>
+<a>Agust&#x00ed;n Nores Mart&#x00ed;nez</a> (by the interventor's delegation) 3-09-1946 to 20-09-1946.</li>
+<a>Fernando Bustos</a> (vice-rector interventor) 21-09-1946 to 24-01-1947.</li>
+<a>Carlos Emery</a> (vice-rector interventor) 3-02-1947 to 19-08-1947.</li>
+<a>Julio Otaola</a> (vice-rector interventor) 20-08-1947 to 5-06-1949.</li>
+<a>Julio Otaola</a>                           6-06-1949 to 12-06-1952.</li>
+<a>Carlos Bancalari</a>                        13-06-1952 to 16-10-1953.</li>
+<a>Jos&#x00e9; Fern&#x00e1;ndez Moreno</a> (vice-rector) 17-10-1953 to 3-11-1953.</li>
+<a>Jorge Alberto Taiana</a>                            4-11-1953 to 3-06-1955.</li>
+<a>Ernesto Cr&#x00e1;mer</a>                         4-06-1955 to 31-07-1955.</li>
+<a>Ernesto Cholvis</a>                        1-08-1955 to 26-09-1955.</li>
+<a>Jos&#x00e9; Luis Romero</a>                           1-10-1955 to 31-12-1955.</li>
+<a>Jos&#x00e9; Babini</a>                        1-01-1956 to 19-02-1956.</li>
+<a>Alejandro Ceballos</a>                  5-05-1956 to 27-12-1957.</li>
+<a>Risieri Frondizi</a>                   27-12-1957 to 28-12-1962.</li>
+<a>Julio Olivera</a>                      28-12-1962 to 18-03-1965.</li>
+<a>Hilario Fern&#x00e1;ndez Long</a>            26-03-1965 to 29-07-1966.</li>
+<a>Luis Botet</a>                          11-08-1966 to 7-02-1968.</li>
+<a>Ra&#x00fa;l Devoto</a>                         7-02-1968 to 24-07-1969.</li>
+<a>Andr&#x00e9;s Santas</a>                      25-07-1969 to 21-07-1971.</li>
+<a>Bernab&#x00e9; Quartino</a>                   22-07-1971 to 29-01-1973.</li>
+<a>Carlos Alberto Durrieu</a>             29-01-1973 to 30-05-1973.</li>
+<a>Rodolfo Puiggr&#x00f3;s</a>  (interventor)                  29-05-1973 to 2-10-1973.</li>
+<a>Enrique Mart&#x00ed;nez</a>  (interventor)                  7-09-1973 to 2-10-1973.</li>
+<a>Ernesto Villanueva</a>                 4-10-1973 to 28-03-1974.</li>
+<a>Vicente Solano Lima</a>                28-03-1974 to 25-07-1974.</li>
+<a>Ra&#x00fa;l Federico Laguzzi</a>              25-07-1974 to 17-09-1974.</li>
+<a>Alberto Ottalagano</a>  (interventor)            17-09-1974 to 26-12-1974.</li>
+<li><a>Eduardo Mangiante</a>                      27-08-1975 to 12-02-1976.</li>
+<a>Jos&#x00e9; Aloc&#x00e9;n</a>                        12-02-1976 to 24-03-1976.</li>
+<a>Alberto Costantini</a>                 6-08-1976 to 14-09-1976.</li>
+<a>Sol Rabasa</a>                         14-09-1976 to 25-02-1977.</li>
+<a>Luis Carlos Cabral</a>                 25-02-1977 to 31-08-1978.</li>
+<a>Lucas Lennon</a>                       24-11-1978 to 20-11-1981.</li>
+<a>Alberto V. Donnes</a>                  20-11-1981 to 28-12-1981.</li>
+<a>Alberto Rodr&#x00ed;guez Varela</a>           28-12-1981 to 23-12-1982.</li>
+<a>Carlos Segovia Fern&#x00e1;ndez</a>           27-12-1982 to 23-12-1983.</li>
+<a>Francisco Delich</a>                   26-12-1983 to 19-03-1985.</li>
+<a>Oscar Julio Shuberoff</a>              19-03-1985 to 06-05-2002.</li>
+<a>Guillermo Jaim Etcheverry</a>          07-05-2002 to 07-05-2006.</li>
+Dujovne</a> (acting)           08-05-2006 to 15-05-2006.</li>
+<a>Alfredo Buzzi</a> (acting)             16-05-2006 to 29-05-2006.</li>
+<a>Alberto Boveris</a> (acting)            29-05-2006 to 31-05-2006</li>
+Vet.<a>An&#x00ed;bal Franco</a> (vice-rector)         31-05-2006 to 12-12-2006.</li>

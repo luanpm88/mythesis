@@ -1,0 +1,14 @@
+<h2>Staff</h2>
+<h2>Students</h2>
+<h2>Colleges</h2>
+<h2>Affiliated hospitals</h2>
+<h2>Achievements</h2>
+<h2>External links</h2>
+<ul>
+<li></li>
+</ul>
+<p>  </p>
+<p></p>
+<p><img> <img></p>
+
+

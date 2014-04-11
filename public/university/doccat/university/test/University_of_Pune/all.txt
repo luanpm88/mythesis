@@ -1,0 +1,113 @@
+image_name$$$@@@%%%<p></p>
+established$$$@@@%%%<p>The <strong>University of Pune</strong> (<a>Marathi</a>: &#x092a;&#x0941;&#x0923;&#x0947; &#x0935;&#x093f;&#x0926;&#x094d;&#x092f;&#x093e;&#x092a;&#x0940;&#x0920;) (formerly the <strong>University of Poona</strong>), located in North Western <a>Pune</a>, is one of India's premier universities.
+established$$$@@@%%%It was founded in 1949.
+image_size$$$@@@%%%Spread over a 400 <a>acre</a> (1.6&nbsp;km&#x00b2;) campus, the university is home to 46 academic departments.</p>
+established$$$@@@%%%<h2>History</h2>
+established$$$@@@%%%<p>The University of Pune was established under the <a>Poona University Act</a>, passed by the <a>Bombay</a> <a>legislature</a> on February 10, 1948.
+established$$$@@@%%%In the same year, Dr. M.R. Jayakar assumed office as the first <a>vice chancellor</a> of the university.
+established$$$@@@%%%Shri B.G. Kher, <a>Chief Minister</a> and Education Minister of the government of Bombay, helped ensure the university received a large allocation of land for their campus.
+affiliations$$$@@@%%%In early 1950, the university was allocated over 411 <a>acre</a>s (1.7&nbsp;km&#x00b2;).</p>
+established$$$@@@%%%<p>The location of the University has historical significance.
+type$$$@@@%%%Some incidents of the <a>Battle of Khadki</a> took place where the present day University of Pune is located.
+established$$$@@@%%%The present day Main Building was built in 1864 and was known as the Governor's House.</p>
+image_name$$$@@@%%%<h2>Jurisdiction</h2>
+students$$$@@@%%%<p>Initially the university had a jurisdiction extending over 12 districts of western <a>Maharashtra</a>.
+established$$$@@@%%%However, with the establishment of <a>Shivaji University</a> in <a>Kolhapur</a> in 1964, the jurisdiction of the university was restricted to 5 districts, namely <a>Pune</a>, <a>Ahmednagar</a>, <a>Nashik</a>, <a>Dhule</a> and <a>Jalgaon</a>.
+nickname$$$@@@%%%Out of these, two districts&#x2014;Dhule and Jalgaon&#x2014;are attached to the <a>North Maharashtra University</a> established in August 1990.</p>
+image_name$$$@@@%%%<h2>Affiliations</h2>
+established$$$@@@%%%<p>In 1949, there were only 18 colleges affiliated to the university (including famed colleges such as the <a>Film &amp; Television Institute of India</a>, <a>S.
+established$$$@@@%%%P. College</a>, <a>Wadia College</a>, <a>Garware College</a>, <a>Fergusson College</a>, <a>College of Engineering, Pune</a>,<a>Vishwakarma Institute of Technology</a>, and <a>Maharashtra Institute of Technology, Pune</a>) with an enrollment of over 8000 students.
+students$$$@@@%%%Thereafter, the number of colleges increased, and in 2010, the university had 41 graduate departments, 433 affiliated colleges and 232 recognized research institutions, with an enrollment of 496,531 students for both the undergraduate and graduate courses in different faculties.</p>
+established$$$@@@%%%<p><em>Vidyavani</em> is a community radio operated by the University.
+established$$$@@@%%%programs are focused on various departments on the Pune University, various students&#x2019; welfare schemes of the University, information about exams and results and activities of the University.
+mascot$$$@@@%%%Various edutainment programmes which cater to problems of youths are also broadcasted.</p>
+country$$$@@@%%%<h2>Research</h2>
+free_label$$$@@@%%%<p>70 research institutions have been recognized by the University of Pune for research.
+type$$$@@@%%%These include institutions of national importance like the <a>Inter-University Centre for Astronomy and Astrophysics</a> (IUCAA), <a>National Chemical Laboratory</a> (NCL), <a>National Centre For Cell Science</a> (NCCS), <a>National Institute of Virology</a> (NIV), <a>Gokhale Institute of Politics and Economics</a> (GIPE), <a>Documentation Research and Training Centre</a>(DRTC) of the <a>Indian Statistical Institute</a> (ISI) among others.</p>
+former_names$$$@@@%%%<p>Other research organisations which associated with the University of Pune are:</p>
+image_name$$$@@@%%%<ul>
+type$$$@@@%%%  <li><a>National Centre for Radio Astrophysics</a> (runs the <a>Giant Metrewave Radio Telescope</a>)</li>
+type$$$@@@%%%  <li><a>Centre for Development of Advanced Computing</a> (home to the <a>PARAM</a> range of supercomputers)</li>
+type$$$@@@%%%  <li><a>Institute of Bioinformatics and Biotechnology</a> (IBB)</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h2>Departments</h2>
+established$$$@@@%%%<p><a>right|200px|thumb|Main building, University of Pune, Pune</a></p>
+image_name$$$@@@%%%<ul>
+established$$$@@@%%%  <li>Department of Geography (DOG) - First established in the University of Pune in 1950.
+affiliations$$$@@@%%%Every year the department admits students for it M.A/MSc., M.Phil and Ph.D courses.
+established$$$@@@%%%The Department also offers students from interdisciplinary backgrounds, a course in <a>Remote Sensing and Geospatial Information Systems</a> (GIS and RS).</li>
+established$$$@@@%%%  <li><a>Institute of Bioinformatics and Biotechnology</a> (IBB) - An autonomous institute with an affiliation to the University of Pune.
+established$$$@@@%%%It was established with a view to promote research and development activities in bioinformatics and biotechnology, with a focus on creation of high quality research environment and human resources.
+established$$$@@@%%%IBB is situated on the campus of University of Pune, India.</li>
+established$$$@@@%%%<li>Department of Chemistry (DOC) - One of the earliest departments established by the University of Pune.
+established$$$@@@%%%It has received the &quot;<em>CAS</em>&quot; status (Centre for Advanced Studies in Chemistry).</li>
+established$$$@@@%%%  <li>Department of Microbiology (DOM) - An autonomous department of University and offers courses credit based course in Microbiology which covers topics in Immunology, Medical Microbiology, Molecular Biology, Industrial Microbiology and Biochemistry.</li>
+established$$$@@@%%%<li>Department of Management Sciences (PUMBA) - A business school run by the university.</li>
+established$$$@@@%%%<li>Department of Biotechnology - In 1985, National Board of Biotechnology selected University of Pune as one of its five centres for imparting training in M.Sc.
+affiliations$$$@@@%%%Biotechnology.</li>
+established$$$@@@%%%  <li>Department of Environmental Science - First established as an interdisciplinary school of the University of Pune in1978.
+established$$$@@@%%%As a first step, Environmental Science was introduced as an optional course in all the science departments.
+affiliations$$$@@@%%%In view of its popularity, a one-year course, B.Sc. (Applied) was started in 1986, which was subsequently converted into a two-year full time M. Sc. course.</li>
+established$$$@@@%%%<li>Computer Science Department (PUCSD) - One of the earliest CS Departments started in Indian Universities.
+established$$$@@@%%%Back in 1980, when computer science was little known and the word IT didn't exist, a one-year programme was started towards the B.Sc.(Applied) degree in Computer Science.
+affiliations$$$@@@%%%The M.C.A. programme was launched in 1983, the M.Tech.
+established$$$@@@%%%degree programme in 1985, and the one year B.Sc.(Applied) programme was upgraded to a two year M.Sc. in Computer Science in 1986.</li>
+established$$$@@@%%%<li><strong>Department of Physics (DoP)</strong> - Located on the scenic campus of the University of Pune, the Department of Physics started its activity in 1952 and there is no looking back since then.
+established$$$@@@%%%The department today is an active beehive of research being carried out in a wide variety of frontier areas as well as high quality post-graduate and doctoral programs.
+established$$$@@@%%%The research programs of the Department cover a number of areas like Materials Science, <a>Solid State Physics</a>, <a>Condensed Matter Physics</a>,<a>Nonlinear Dynamics</a>, <a>Scanning Tunneling Microscopy</a>, Cloud Physics, Thin/Thick Films, Diamond Coatings, Nuclear and Accelerator Physics, Lasers, Plasma Physics, Field Electron/Ion Microscopy, Biophysics etc.
+vice_chancellor$$$@@@%%%The department has flexibility in framing courses and conducting tests and examinations.
+students$$$@@@%%%It has been recognized that teaching in this department was among the best in the country.
+established$$$@@@%%%The department has received funds from DST- government of India under the FIST program.
+staff$$$@@@%%%A large number of faculty members and students get benefit from this program.
+affiliations$$$@@@%%%Currently it is undergoing a phase where many of its celebrated faculty like Prof.Anil Gangal and Prof. D. G. Kanhere have retired without any worthy replacements.
+established$$$@@@%%%It conducts a Phd test that is of a good standard.</li>
+website$$$@@@%%%<li>Atmospheric and Space Sciences</li>
+former_names$$$@@@%%%  <li>Department of Electronic Science</li>
+country$$$@@@%%%  <li>Centre for Modeling and Simulation (CMS) - An autonomous department run by university.</li>
+colors$$$@@@%%%<li>Interdisciplinary school of scientific computing (ISSC)</li>
+established$$$@@@%%%  <li>Department of Communication and Journalism (DoCJ)</li>
+free$$$@@@%%%  <li>Department of Zoology</li>
+established$$$@@@%%%  <li>Department of Statistics - The department of Mathematics and Statistics was established in 1953.
+established$$$@@@%%%The department was initially situated in the main building of the University.
+affiliations$$$@@@%%%Prof. V. S. Huzurbazar was the first head of the department.
+established$$$@@@%%%In 1962 the department was shifted to its new elegant building later named as <code>Wrangler Paranjapye Ganit ani Sankhyashastra Bhavan'.
+established$$$@@@%%%The department of Statistics was separated in 1976.
+nickname$$$@@@%%%Now the department is recognized as the </code>Centre for Advanced Studies in Statistics'.</li>
+type$$$@@@%%%<li>Department of Politics and Public Administration</li>
+image_name$$$@@@%%%</ul>
+free$$$@@@%%%<h2>Notable alumni</h2>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%<ul>
+image_size$$$@@@%%%  <li><a>Mokshagundam Visvesvarayya</a>, an eminent Indian engineer and statesman</li>
+affiliations$$$@@@%%%  <li><a>C.
+established$$$@@@%%%Kumar N. Patel</a>, vice Chancellor for Research at the <a>University of California, Los Angeles</a></li>
+nickname$$$@@@%%%  <li><a>Thomas Kailath</a>, Hitachi America professor of engineering at Stanford University</li>
+established$$$@@@%%%  <li><a>Padmanabhan Balaram</a>, director of the Indian Institute of Science</li>
+affiliation$$$@@@%%%  <li><a>Vijay Kelkar</a></li>
+established$$$@@@%%%  <li><a>Suhas Patankar</a>, a pioneer in the field of computational fluid dynamics (CFD) and Finite volume method</li>
+affiliations$$$@@@%%%  <li><a>P.
+affiliations$$$@@@%%%V. Narasimha Rao</a>, Prime Minister of India</li>
+type$$$@@@%%%  <li><a>Vishwanath Pratap Singh</a>, 10th Prime Minister of India</li>
+affiliation$$$@@@%%%  <li><a>Shankar Sarda</a>, Journalist</li>
+type$$$@@@%%%  <li><a>Yashwantrao Chavan</a>, fifth Deputy Prime Minister of India</li>
+affiliation$$$@@@%%%  <li><a>Kantilal Mardia</a>, statistician</li>
+image_name$$$@@@%%%</ul>
+city$$$@@@%%%<h2>See also</h2>
+image_name$$$@@@%%%<ul>
+established$$$@@@%%%  <li><a>University of Pune faculty</a></li>
+type$$$@@@%%%  <li><a>List of universities in India</a></li>
+established$$$@@@%%%  <li><a>Universities and colleges in India</a></li>
+type$$$@@@%%%  <li><a>Education in India</a></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h2>References</h2>
+image_name$$$@@@%%%<p><img></p>
+image_name$$$@@@%%%<h2>External links</h2>
+image_name$$$@@@%%%<ul>
+established$$$@@@%%%  <li><a>University of Pune</a> - Official website</li>
+established$$$@@@%%%  <li><a>The University of Pune (formerly the University of Poona)</a>- PUNEPRIME.com</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p> </p>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%
+image_name$$$@@@%%%

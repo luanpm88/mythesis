@@ -1,0 +1,60 @@
+image_name$$$@@@%%%<p></p>
+established$$$@@@%%%<p><strong>Niagara County Community College</strong> is located in <a>Sanborn, New York</a>, <a>USA</a> northeast of the City of <a>Niagara Falls</a>.
+type$$$@@@%%%NCCC offers <a>associate's degree</a>s in many programs.
+established$$$@@@%%%Niagara County Community College was founded in 1962 and is sponsored by <a>Niagara County</a> and <a>SUNY</a>.
+established$$$@@@%%%The new campus opened in 1973.
+established$$$@@@%%%Dual admissions programs facilitate transfer to four-year colleges upon completion of the two-year degree programs.
+image_name$$$@@@%%%</p>
+established$$$@@@%%%<h2>History</h2>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%<h2>Campus</h2>
+free_label$$$@@@%%%<p>The campus is located on the corner of <a>New York State Route 31</a> and <a>New York State Route 429</a>.
+established$$$@@@%%%It consists of  of semi-wooded land and eight interconnected buildings described as &quot;architecturally striking.&quot;</p>
+image_name$$$@@@%%%<ul>
+established$$$@@@%%%  <li>The Ernest Notar Administration Building contains the colleges administrative offices.
+established$$$@@@%%%It is named for Dr. Ernest Notar, the first president of the college from 1962-1975.</li>
+nickname$$$@@@%%%<li>The Business Education Building is the location of the Business Division.</li>
+established$$$@@@%%%<li>The Science/Technology Building is the home of the Life Sciences, Nursing, and Mathematics/Computer Science/Physics and Engineering/Technology/Chemistry Divisions.</li>
+image_size$$$@@@%%%<li>The Henrietta G. Lewis Library is the most architecturally striking building and has a collection of 95,391 books.
+image_name$$$@@@%%%&lt;!--
+established$$$@@@%%%The 2nd and 3rd floor bathrooms seem to be the least used.
+image_name$$$@@@%%%--&gt;</li>
+established$$$@@@%%%  <li>The Humanities/Social Sciences Building houses the English, literature, linguistics, languages, philosophy, history, government, psychology, sociology, anthropology, and economics departments.</li>
+nickname$$$@@@%%%<li>The Fine Arts Building contains the Fine Arts Division and the college's auditorium.</li>
+established$$$@@@%%%<li>The Student Center holds culinary arts classes the college bookstore, student lounges, a game room, a bowling alley.</li>
+free_label$$$@@@%%%<li>The Health Education Center includes a gym, which seats 2,000, fitness center, and a swimming pool, which seats 200.</li>
+image_name$$$@@@%%%</ul>
+established$$$@@@%%%<p>Note (Not a complete list of specialties):</p>
+doctoral$$$@@@%%%<p>A - Building - Administration - Named The Ernest Notar Administration Building , But Still Called A Building</p>
+doctoral$$$@@@%%%<p>B - Building - Business Classes / Computer Classes / Secretarial Science / Accounting Classes</p>
+doctoral$$$@@@%%%<p>C - Building - Science / Physics / Astronomy / Chemistry / Math / Computer Networking / Robotics Classes</p>
+city$$$@@@%%%<p>D - Building - Library / Art Gallery / Day Care / Digital Media Classes / TV Studio / Open-Access Computer Lab</p>
+doctoral$$$@@@%%%<p>E - Building - English / Social Science / Psychology / Astronomy Planetarium / Foreign Language Classes</p>
+nickname$$$@@@%%%<p>F - Building - Fine Arts / Speech, Public Speaking Classes / Auditorium / Ceramics Studio / Drawing Studio's</p>
+free_label$$$@@@%%%<p>G - Building - Student Center, Food Services / Culinary Art Classes / Security / Alumni Offices  </p>
+city$$$@@@%%%<p>H - Building - Gym / Pool / Racket &amp; Squash Courts / Weight Training / Health Classes</p>
+established$$$@@@%%%<p>In Fall 2008, the college also opened several building of apartment-style dormitories.
+nickname$$$@@@%%%While the dorms host mainly athletes, all students are able to reside there.</p>
+free_label$$$@@@%%%<h2>Athletics </h2>
+established$$$@@@%%%<p>The college has had a rich history in athletics in the past and has been known for their acceleration in <a>wrestling</a> and <a>baseball</a>  They were formerly the Trailblazers and became the <a>Thunderwolves</a> in 2010 and hired a former athlete and head coach Bob McKeown.</p>
+image_name$$$@@@%%%<h2>Future</h2>
+established$$$@@@%%%<p>NCCC plans on creating a hospitality school, a culinary arts school, a restaurant and a bookstore in the heart of Downtown <a>Niagara Falls, New York</a> in the former <a>Rainbow Centre Factory Outlet</a>.</p>
+country$$$@@@%%%<h2>Buildings of Niagara County Community College</h2>
+affiliations$$$@@@%%%<p>&lt;gallery&gt; Image:Notar Building.JPG|The Notar Building holds all admnistrative offices of the campus.
+vice_chancellor$$$@@@%%%File:NCCC-Glibrary.jpg|The
+image_size$$$@@@%%%NCCC Library seen from the front entrance.
+established$$$@@@%%%Image:Frontentrancenccc.JPG|A view of the gazebo and buildings A-G on campus.
+image_name$$$@@@%%%&lt;/gallery&gt;</p>
+free$$$@@@%%%<h2>Distinguished alumni</h2>
+affiliation$$$@@@%%%<p><a>Rashad Evans</a>, Former UFC Light Heavyweight Champion</p>
+type$$$@@@%%%<p><a>George Maziarz</a>, a New York State Senator</p>
+affiliation$$$@@@%%%<p><a>Pete Wagner</a>, a mixed martial artist</p>
+image_name$$$@@@%%%<h2>References</h2>
+image_name$$$@@@%%%<p><img></p>
+image_name$$$@@@%%%<h2>External links</h2>
+image_name$$$@@@%%%<ul>
+affiliation$$$@@@%%%  <li><a>Official website</a></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p><img></p>
+image_name$$$@@@%%%
+image_name$$$@@@%%%

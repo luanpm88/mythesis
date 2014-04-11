@@ -1,0 +1,7 @@
+<li>Alpha Theta Gamma or TG</li>
+<li>Alpha Omega Chi or Omega Chi</li>
+<li>Delta Kappa Sigma or DK</li>
+<li>Zeta Alpha Phi or ZAP</li>
+<li>Alpha Chi Omicron or AXO</li>
+<li>Delta Sigma Tau or Sig Tau</li>
+<li>Kappa Xi Omega or Kappa Xi</li>

@@ -1,0 +1,5 @@
+<h2>Athletics</h2>
+<p>Cornell College fields 19 intercollegiate athletic teams, all of which compete in <a>NCAA</a> <a>Division III</a> sports.
+<li>Most Frequent Class size: 10-19</li>
+<li><a>Leo Beranek</a> 1936 &#x2014; Co-founder of <a>Bolt, Beranek and Newman</a></li>
+<li><a>Art Alexakis</a> (2002)</li>

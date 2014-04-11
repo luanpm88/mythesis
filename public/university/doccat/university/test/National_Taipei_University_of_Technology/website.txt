@@ -1,0 +1,7 @@
+<li>Graduate Institute of Computer and Communication Engineering</li>
+<li>Institute of Materials and Mineral Resources Engineering</li>
+<li>Institute of Organic and Polymeric Materials</li>
+<li>Institute of Environmental Engineering and Management</li>
+<li>Institute of Production System Engineering and Management</li>
+<li>Institute of Commerce Automation and Management</li>
+<li>Graduate Institute of Innovation and Design</li>

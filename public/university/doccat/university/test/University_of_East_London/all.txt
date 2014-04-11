@@ -1,0 +1,335 @@
+image_name$$$@@@%%%<p></p>
+established$$$@@@%%%<p>The <strong>University of East London</strong> (<strong>UEL</strong>) is a <a>university</a> located in the <a>London Borough of Newham</a>, east <a>London</a>, <a>England</a>.
+established$$$@@@%%%The university has more than 26,000 students, based at two campuses in <a>Stratford</a> and <a>Docklands</a> areas.
+established$$$@@@%%%The University of East London is one of the leading modern universities in the UK.
+country$$$@@@%%%According to the results of the most recent government research assessment exercise, UEL is among the top ten post-1992 universities in the UK for research.
+undergrad$$$@@@%%%With more than 26,000 students from 110 countries worldwide, UEL is one of the UK&#x2019;s most diverse and fastest-growing universities.</p>
+established$$$@@@%%%<h2>History</h2>
+established$$$@@@%%%<p><a>thumb|right|West Ham Technical Institute (November 1898)</a></p>
+established$$$@@@%%%<p>The institution was formed in 1970 as merger of <a>higher education</a> colleges, including the <strong>West Ham Technical Institute</strong> in Stratford, and the <strong>South East Essex Technical College</strong> in <a>Barking</a>.
+established$$$@@@%%%It was initially known as the <strong>North East London Polytechnic</strong>, and changed its name to the <strong>Polytechnic of East London</strong> in 1989.</em></p>
+website$$$@@@%%%<h3>West Ham Technical Institute</h3>
+established$$$@@@%%%<p>West Ham Technical Institute opened in 1898 and taught art, engineering, and science.
+website$$$@@@%%%The Institute also included a women's department.
+established$$$@@@%%%It provided <a>apprenticeship</a> classes and its science and engineering courses were accepted by the <a>University of London</a> for internal degrees.
+established$$$@@@%%%In 1921, it was renamed the <em>municipal college</em> and became known as the <strong>West Ham College of Technology</strong>. </p>
+image_name$$$@@@%%%<h2>Campuses</h2>
+country$$$@@@%%%<p><a>right|thumb|UEL Stratford Campus</a></p>
+address$$$@@@%%%<p>The university is located on two main campuses in east London.
+established$$$@@@%%%The <a>Stratford Campus</a> is in the centre of <a>Stratford</a>, close to the 2012 Olympic Park.
+established$$$@@@%%%It is centred around University House, a 19th century listed building.
+established$$$@@@%%%The campus is home to the School of Distance and E-Learning, the Sir John Cass School of Education (which moved into its new centre in 2009), and the Schools of Health &amp; Bioscience and Psychology.
+established$$$@@@%%%The School of Law is based at nearby Duncan House.
+established$$$@@@%%%In January 2008 the Centre for Clinical Education in Podiatry, Physiotherapy and Sports Science was opened by <a>Camilla, Duchess of Cornwall</a>.
+established$$$@@@%%%Operating in partnership with the <a>NHS</a>, the centre is London's only provider of podiatric education.
+image_name$$$@@@%%%</p>
+established$$$@@@%%%<p><a>right|thumb|UEL Docklands Campus, The Square</a></p>
+established$$$@@@%%%<p>The <a>Docklands Campus</a> is in London's redeveloped <a>Docklands</a> area.
+established$$$@@@%%%It is located on the <a>Royal Albert Dock</a> waterfront, overlooking the <a>London City Airport</a> runway.
+free_label$$$@@@%%%The campus houses the University of East London's student accommodation.
+established$$$@@@%%%It is connected directly to Cyprus <a>DLR</a> station.
+established$$$@@@%%%Docklands was London's first new university campus to be built in over half a century and was opened by the then <a>Mayor of London</a>, Ken Livingstone.
+established$$$@@@%%%UEL's new Business School and Knowledge Dock centre were opened by HM <a>The Queen</a> in February 2007.
+established$$$@@@%%%The Business School will incorporate the Petchey Centre for Entrepreneurship, named in honour of its benefactor, entrepreneur <a>Jack Petchey</a>.</p>
+country$$$@@@%%%<p><a>right|thumb|UEL Docklands Campus, Halls of Residence</a></p>
+established$$$@@@%%%<p>UEL also delivers a range of programmes and short courses at the <a>Barking Learning Centre</a> in the <a>London Borough of Barking and Dagenham</a>.</p>
+nickname$$$@@@%%%<p>Off-campus, over 2,000 students are registered on programmes with UK collaborative partners, principally London's  <a>Tavistock Clinic</a>, and 1,240 on programmes with partners located overseas, such as the Centro Studi Martha Harris in <a>Florence</a>.</p>
+campus$$$@@@%%%<h3>London 2012 Olympic and Paralympic Games</h3>
+free_label$$$@@@%%%<p>The University of East London's Docklands Campus has been selected by the <a>United States Olympic team</a> as their base before and during the London 2012 Olympic Games.
+type$$$@@@%%%More than 1,000 competitors, coaches and medical staff will use UEL campuses in the Docklands and Stratford in east London, near the Olympic Park.
+type$$$@@@%%%The athletes will also use UEL's halls of residence and set up a medical and media centre at the campus.</p>
+image_name$$$@@@%%%<h3>Development projects</h3>
+established$$$@@@%%%<p>A &#x00a3;21 million sports and leisure complex is scheduled to open at the Docklands Campus early 2012, provisionally named the Sports Dock.
+mascot$$$@@@%%%The centre includes a large indoor sports arena, ten badminton courts, two competition basketball, volleyball and netball courts, two five a side football pitches, a gym and fitness suite and covered seating for 400 people.
+vice-president$$$@@@%%%The leisure complex is currently under construction.</p>
+established$$$@@@%%%<p>The university is also in talks to establish a specialist sports faculty at the Olympic Stadium after 2012.
+postgrad$$$@@@%%%A tenancy will be proposed to the Olympic Park Legacy Company.
+nickname$$$@@@%%%UEL proposes to teach sports-related degrees to up to 600 undergraduates in lecture halls in the venue's undercroft.</p>
+established$$$@@@%%%<p>Planning permission has been granted to a collaborative project in Stratford between the University of East London and Birkbeck, University of London.
+established$$$@@@%%%The proposed new education building will provide shared teaching facilities for both higher education institutions and their partners, which will include Newham Sixth Form College.</p>
+established$$$@@@%%%<p>The Stratford Island University Centre (a working title for the building) will house a range of departments from each university and incorporate a range of flexible teaching and administrative spaces, alongside dedicated spaces for subjects including Law, Performing Arts, Dance, Music and Information Technology.
+image_name$$$@@@%%%</p>
+nickname$$$@@@%%%<p>A number of social and environmentally sustainable measures are to be incorporated; the site will have a landscaped learning garden and proposals include green roofs and photovoltaic panels.
+established$$$@@@%%%Work on site is likely to commence in August 2011 with the building completed and operational for the start of the academic term in autumn 2013.</p>
+image_name$$$@@@%%%<h2>Academic structure</h2>
+country$$$@@@%%%<p><a>right|thumb|UEL Student Housing Looking Towards Canary Wharf</a></p>
+image_size$$$@@@%%%<p>Degree programmes and other courses at are taught at UEL by one of eight schools at the University, listed below.
+nickname$$$@@@%%%In addition, there are three schools that carry out administrative roles within the academic structure: the School of Combined Honours, the Graduate School, and UELconnect which manages Distance &amp; E-learning and Short Courses.</p>
+image_name$$$@@@%%%<ul>
+website$$$@@@%%%  <li>School of Architecture &amp; the Visual Arts</li>
+established$$$@@@%%%  <li>School of Computing, Information Technology and Engineering</li>
+country$$$@@@%%%  <li>Royal Docks Business School</li>
+type$$$@@@%%%  <li>Cass School of Education</li>
+established$$$@@@%%%  <li>School of Health and Bioscience</li>
+established$$$@@@%%%  <li>School of Law</li>
+head_label$$$@@@%%%  <li>School of Psychology</li>
+website$$$@@@%%%  <li>School of Humanities &amp; Social Sciences</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h3>Degrees</h3>
+image_size$$$@@@%%%<p><a>right|thumb|The Library Building at The Stratford Campus</a></p>
+undergrad$$$@@@%%%<p>UEL offers both undergraduate and postgraduate degrees.
+staff$$$@@@%%%Undergraduate degrees can be either Single Honours or Combined Honours degrees, most of which are available for study on either a full-time or part-time basis.
+staff$$$@@@%%%With a [[Combined Honours degree, a student may choose to study two different subjects in one of two ways:</p>
+image_name$$$@@@%%%<ul>
+mascot$$$@@@%%%  <li>Major/Minor combinations, where the student spends two-thirds of their time studying one subject and the remaining third on another.
+established$$$@@@%%%The award would be for example, BA (Hons) History with English Literature</li>
+mascot$$$@@@%%%  <li>Joint combinations where two subjects are studied equally.
+established$$$@@@%%%The award would be for example, BA (Hons) History and English Literature</li>
+image_name$$$@@@%%%</ul>
+country$$$@@@%%%<p>In addition, Extended Degree Programmes are available for many of the Single Honour programmes, a route popular for students without appropriate A-Level qualifications for their degree of choice.
+established$$$@@@%%%By taking an Extended Degree programme, students add a preliminary foundation year to the otherwise typically three-year programme to bring them up to speed and secure the knowledge and skills necessary to see out the remainder of the course.</p>
+faculty$$$@@@%%%<p>UEL also offers a wide range of postgraduate degrees, including taught master's degrees, professional doctorates (which offer the title Dr but contain a significant taught element at advanced level, rather than being purely research based) and research degrees including MPhils and PhDs.</p>
+image_name$$$@@@%%%<h3>Partnership</h3>
+established$$$@@@%%%<p><a>right|thumb|University Square, Docklands Campus</a></p>
+established$$$@@@%%%<p>On 21 November 2006, the UEL/<a>Birkbeck, University of London</a> Partnership at Stratford was launched when a memorandum of understanding between the two institutions was signed by the Master of Birkbeck, Professor David Latchman, and the then Vice-Chancellor of UEL, Professor Mike Thorne.
+established$$$@@@%%%The partnership aims to improve participation in higher education in east London by attracting new students who would not otherwise participate through the provision of new opportunities and progression pathways.</p>
+established$$$@@@%%%<p>Birkbeck was awarded nearly &#x00a3;5m in April 2006 by the <a>Higher Education Funding Council for England</a> (HEFCE) to take its flexible, evening teaching provision to east London, which has the lowest higher education participation levels in the London region.
+established$$$@@@%%%Birkbeck courses have been offered at the Stratford campus of UEL since September 2007 as part of the Birkbeck strand of the new partnership, now called Birkbeck Stratford.</p>
+established$$$@@@%%%<p>UEL have a MBA program in Malaysia via corroboration with Women's Institute Of Management Malaysia.</p>
+country$$$@@@%%%<h3>Research</h3>
+country$$$@@@%%%<p>According to the results of the most recent government research assessment exercise, UEL is among the top ten post-1992 universities in the UK for research.</p>
+established$$$@@@%%%<p>In the case of Sociology, Art and Design and Cultural and Innovation Studies, a majority of staff research was recognised by the 2001 <a>Research Assessment Exercise</a> as &quot;world class&quot;.</p>
+image_name$$$@@@%%%<h3>Study Abroad Programmes</h3>
+country$$$@@@%%%<p><a>right|thumb|Stratford Campus</a></p>
+nickname$$$@@@%%%<p>The University of East London has several student exchange programmes with academic institutions across the world, with financial support for those who participate through the <a>Erasmus</a> program.</p>
+country$$$@@@%%%<p>The University of East London has student exchange programs with universities in Austria, Belgium, Canada, Denmark, Egypt, Estonia, Finland, France, Germany, Greece, Italy, Ireland, Macedonia, Malaysia, Netherlands, Norway, Poland, Portugal, Spain, Sweeden, Turkey, United States of America.</p>
+image_name$$$@@@%%%<h3>Sport</h3>
+established$$$@@@%%%<p>The University of East London has a range of sports for both male and female students.
+free_label$$$@@@%%%The United States Olympic Team will use the new sports complex as their hub for the Olympics in 2012.
+affiliation$$$@@@%%%The University has a range of sports clubs including: <a>Athletics</a>, <a>Badminton</a>, <a>Basketball</a>, <a>Boxing</a>, <a>Cricket</a>, <a>Cheerleading</a>, <a>Cycling</a>, <a>Dance</a>, <a>Football</a>, <a>Gaelic Football</a>, <a>Gymnastics</a>, <a>Handball</a>, <a>Hockey</a>, <a>Judo</a>, <a>Ju Jitsu</a>, <a>Mixed Martial Arts</a>, <a>Netball</a>, <a>Olympic Weightlifting</a>, <a>Rowing</a>, <a>Rugby</a>, <a>Swimming</a>, <a>Taekwondo</a>, <a>Tennis</a>, <a>Volleyball</a>.</p>
+image_name$$$@@@%%%<h2>Employability Team</h2>
+established$$$@@@%%%<p><a>right|thumb|Docklands Campus (Bottom Right) &#x2013; The University of East London has links with businesses in East London and Canary Wharf</a></p>
+established$$$@@@%%%<p>The University of East London has links with businesses in the <a>East London</a> area, <a>City of London</a>, <a>Canary Wharf</a>, <a>Essex</a> and <a>Kent</a>.</p>
+established$$$@@@%%%<p>UEL supports students and graduates in the development of skills, attitudes and behaviours to allow them to secure transformational opportunities whilst studying at UEL and employment on leaving UEL that realises their ambitions and adds value to their communities.</p>
+free_label$$$@@@%%%<p>UEL allows students the opportunity to work with and get support from professionals through their mentoring, work placement and internship schemes.
+faculty$$$@@@%%%UEL also has a team of Career Councillors.
+image_name$$$@@@%%%</p>
+image_size$$$@@@%%%<p>Graduate employment rates have also been improving, with the university operating mentoring and placement programmes that involve almost 1,000 businesses, including many in the City or <a>Canary Wharf</a>.</p>
+established$$$@@@%%%<p>In the case of Sociology, Art and Design and Cultural and Innovation Studies, a majority of staff research was recognised by the 2001 <a>Research Assessment Exercise</a> as &quot;world class&quot;.
+established$$$@@@%%%UEL's commitment to widening access and regional development, in an area of England with a traditionally very low uptake of higher education, allied to multi-million-pound investment in campuses and facilities,  has student numbers grow from 12,000 to over 23,000 in the last since 2002.</p>
+established$$$@@@%%%<p>The university's Civil Engineering Department has risen in its ranking according to the Guardian's League table, by moving from 8th position in 2010 to 5th in 2011.</p>
+image_name$$$@@@%%%<p></p>
+free_label$$$@@@%%%<h2>East London Area</h2>
+nickname$$$@@@%%%<p><a>right|thumb|The University of East London Stratford Campus is located next to The London 2012 Olympic Park</a></p>
+mascot$$$@@@%%%<p>The University of East London is solely located within the East London area.
+established$$$@@@%%%East London is a culturally diverse area which is the fastest growing destination in <a>London</a>.
+established$$$@@@%%%East London has some of Europe&#x2019;s biggest construction projects under construction, such as the <a>London 2012</a> Olympic Park, <a>Crossrail</a>, <a>Thames Gateway</a> and <a>Stratford City</a>.
+established$$$@@@%%%Other big projects include the new <a>Westfield Stratford</a> shopping centre which is due to open in 2011 which is located in <a>Stratford</a> near the University of East London Stratford Campus, and will be one of Europe&#x2019;s biggest and stylish shopping centres.
+nickname$$$@@@%%%The planned <a>East London Tech City</a> will be a business hub for some of the world&#x2019;s biggest technological companies.
+type$$$@@@%%%<a>Cisco Systems</a>, <a>Facebook</a>, <a>Google</a>, <a>Intel Corporation</a>, <a>McKinsey &amp; Company</a> and <a>Vodafone</a> are among the companies which have committed to invest in the hub.
+established$$$@@@%%%And the planned <a>Thames Cable Car</a> located nearby to the University of East London Docklands Campus will be the first city cable car within the <a>United Kingdom</a>.</p>
+established$$$@@@%%%<p>East London is home to some of London&#x2019;s biggest destinations and attractions; The <a>O2 Arena</a> which is Europe&#x2019;s biggest indoor arena and holds some of the biggest concerts and events; <a>ExCeL London</a> exhibition centre; <a>Canary Wharf</a> which is Europe&#x2019;s leading financial and business district; The world heritage site of maritime <a>Greenwich</a> lies three top attractions in one picturesque location &#x2013; The <a>National Maritime Museum</a>, <a>Queen's House</a> and <a>Royal Observatory Greenwich</a>; <a>Brick Lane</a> (Also known as Banglatown) famous for its many curry houses; <a>Spitalfields</a> is home to many markets; <a>Green Street</a> which is rich in culture and offers something different; The two London icons of <a>Tower of London</a> and <a>Tower Bridge</a>; The historic warehouse of <a>Museum of London Docklands</a>; <a>HMS Belfast</a>, one of the most powerful cruisers ever built; <a>St Katharine Docks</a>; <a>West Ham United F.C.</a> who play in the <a>Barclays Premier League</a>; The <a>Thames Barrier</a> which is the world's second largest movable flood barrier; <a>London City Airport</a>; and <a>Stratford</a> where the <a>London 2012</a> Olympic Park is being built.</p>
+established$$$@@@%%%<p>The up and coming areas of <a>Shoreditch</a>, <a>Hoxton</a>, <a>Deptford</a>, <a>Stratford</a> and <a>Wapping</a> are all within easy reach from the University of East London.</p>
+image_name$$$@@@%%%<h2>Transport</h2>
+affiliations$$$@@@%%%<p>[[File:Cyprus station signage.JPG|right|thumb|upright=0.56|[[Cyprus
+established$$$@@@%%%DLR station]] station on the Dockalnds Campus]]</p>
+faculty$$$@@@%%%<p>Both the Docklands and Stratford campuses have strong transport links.
+established$$$@@@%%%The Docklands campus has its own <a>Docklands Light Railway</a> station.
+established$$$@@@%%%The <a>Cyprus DLR station</a> of the <a>Docklands Light Railway</a> is directly connected to the pedestrian spine of the campus, and offers links to <a>Canary Wharf</a>, Central London and other various destinations within east London such as <a>Stratford</a> and <a>ExCeL London</a>.</p>
+image_name$$$@@@%%%<pre></pre>
+established$$$@@@%%%<p>The Stratford campus is a five minute walk from <a>Stratford station</a> which has <a>Docklands Light Railway</a> services, <a>London Underground</a> services and National Rail networks.
+image_name$$$@@@%%%</p>
+faculty$$$@@@%%%<p>As well as rail services, there are also local bus Services which connects the campuses with central London and the local areas.</p>
+image_name$$$@@@%%%<h2>Leadership</h2>
+head_label$$$@@@%%%<p>UEL's Vice-Chancellors have been:</p>
+vice_chancellor$$$@@@%%%<p>Professor Frank Gould, 1992&#x2013;2001 Professor Mike Thorne, 2001&#x2013;2007 Professor Martin Everett, 2007&#x2013;2009 Professor Patrick McGhee, 2010 &#x2013; date</p>
+head_label$$$@@@%%%<p>UEL's Chairs of Governors have been:</p>
+vice-president$$$@@@%%%<p><a>Mark Stephens</a> (current) Jim McKenna Marie Stuart Stephen O'Brien</p>
+image_name$$$@@@%%%<h2>Notable people</h2>
+affiliations$$$@@@%%%<p>[[File:Hilary armstrong a.jpg|right|thumb|upright=0.56|[[Hilary
+affiliations$$$@@@%%%Armstrong]] &#x2013; Former Labour Cabinet Minister.]]
+affiliations$$$@@@%%%[[File:Trotman.jpg&#x200e;|right|thumb|upright=0.56|Lord
+country$$$@@@%%%[[Alexander Trotman]] &#x2013; Formerly Chairman of ICI and Managing Director of <a>Ford Motor Company</a> UK.]] [[File:Marina and the Diamonds.jpg&#x200e;|right|thumb|upright=0.56|[[Marina and the Diamonds|Marina Diamandis]] &#x2013; Singer and Songwriter.]]
+affiliations$$$@@@%%%[[File:SonamKapoor.jpg|right|thumb|upright=0.56|[[Sonam
+affiliation$$$@@@%%%Kapoor]] &#x2013; <a>Bollywood</a> film actress]]</p>
+staff$$$@@@%%%<p>UEL Alumni Network is a service for all students and staff (past and present).
+established$$$@@@%%%The University alumni network has over 35,000 worldwide, including leading figures in government, industry, finance, the media and the arts.</p>
+image_name$$$@@@%%%<h3>Politics</h3>
+image_name$$$@@@%%%<ul>
+established$$$@@@%%%  <li><a>Edison James</a> &#x2013; Prime Minister of <a>Dominica</a> (1995&#x2013;2000)</li>
+affiliation$$$@@@%%%  <li><a>Hilary Armstrong</a> &#x2013; Former Labour Cabinet Minister</li>
+affiliations$$$@@@%%%  <li>Bockarie Stevens &#x2013; Sierra Leonean Ambassador since 1992.
+free$$$@@@%%%Currently Ambassador to the <a>United States</a> (2009)</li>
+established$$$@@@%%%  <li><a>Margaret Prosser, Baroness Prosser</a> Labour life peer and Deputy Chair of the <a>Equality and Human Rights Commission</a>.
+established$$$@@@%%%Member of the <a>House of Lords</a> and appointed as a non-executive director of the <a>Royal Mail</a>.</li>
+image_name$$$@@@%%%</ul>
+established$$$@@@%%%<h3>Law</h3>
+image_name$$$@@@%%%<ul>
+established$$$@@@%%%  <li>Imran Khan &#x2013; Solicitor to the <a>Stephen Lawrence</a> family</li>
+established$$$@@@%%%  <li><a>Mark Stephens (solicitor)</a> &#x2013; Specialist in media law and current UEL Chair of Governors</li>
+image_name$$$@@@%%%</ul>
+nickname$$$@@@%%%<h3>Business and industry</h3>
+image_name$$$@@@%%%<ul>
+established$$$@@@%%%  <li>The late Lord <a>Alexander Trotman</a> of Osmotherley &#x2013; Formerly Chairman of ICI and Managing Director of <a>Ford Motor Company</a> UK.</li>
+established$$$@@@%%%  <li>Ian MacAllister &#x2013; Chairman of <a>Network Rail</a> and former Managing Director of <a>Ford Motor Company</a> in the UK.</li>
+affiliations$$$@@@%%%  <li>Martin Slark &#x2013; Chief Executive Officer of <a>Molex</a> Inc.</li>
+campus$$$@@@%%%  <li>Jonathan Swan &#x2013; Businessman and Author</li>
+type$$$@@@%%%  <li>Godwill Bindeeba &#x2013; Founder of professional translation services company <a>Quick Lingo Ltd</a></li>
+affiliation$$$@@@%%%  <li><a>Jamie Drummond</a> &#x2013; Sommelier</li>
+established$$$@@@%%%  <li>Abdul Rahim &#x2013; Member of the Board of Governors of <a>London Metropolitan University</a></li>
+type$$$@@@%%%  <li>Iavor Lubomirov &#x2013; Founder of <a>Artist-Led Initiatives Support Network</a></li>
+type$$$@@@%%%  <li>Sabooh Uddin &#x2013; CEO of <a>Muslim Charity</a></li>
+faculty$$$@@@%%%  <li><a>Peter Berresford Ellis</a> &#x2013; Historian, literary biographer, and novelist who has published over 90 books to date</li>
+established$$$@@@%%%  <li><a>Mike Pittilo</a> &#x2013; Biologist and Principal and Vice-Chancellor of the <a>Robert Gordon University</a></li>
+website$$$@@@%%%  <li><a>Rufus May</a> &#x2013; Clinical psychologist</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h3>Media</h3>
+image_name$$$@@@%%%<ul>
+established$$$@@@%%%  <li><a>Mark Frith</a> &#x2013; Editor of <a>Heat (magazine)</a>, <a>Time Out</a>.
+established$$$@@@%%%Has also appeared on <a>BBC Radio 4</a> and <a>The Apprentice: You're Fired!</a></li>
+type$$$@@@%%%  <li><a>Daljit Dhaliwal</a> &#x2013; News presenter for PBS, <a>Al Jazeera English</a>, <a>BBC World News</a>, <a>CNN International</a>, and <a>ABC News Now</a></li>
+established$$$@@@%%%  <li>Dr Pam Spurr &#x2013; Psychologist and broadcaster; <a>LBC 97.3</a>'s &quot;Dr Pam&quot;</li>
+free_label$$$@@@%%%  <li><a>Garry Bushell</a> &#x2013; TV critic, TV presenter, newspaper columnist and novelist</li>
+staff$$$@@@%%%  <li>Andrew English &#x2013; Journalist; Motoring correspondent of <a>The Daily Telegraph</a></li>
+image_name$$$@@@%%%</ul>
+website$$$@@@%%%<h3>Arts</h3>
+image_name$$$@@@%%%<ul>
+established$$$@@@%%%  <li><a>Jake Chapman</a> &#x2013; Artist; with brother Dinos, winner of the Royal Academy's Charles Wollaston award 2003; nominated Turner Prize 2003</li>
+established$$$@@@%%%  <li><a>Ken Russell</a> &#x2013; <a>Oscar</a> winning film director and was a housemate on <a>Celebrity Big Brother</a></li>
+city$$$@@@%%%  <li>Guy Sherwin &#x2013; Film-maker; helped establish fine art film at NELP in the 1970s</li>
+established$$$@@@%%%  <li><a>James Mackay (film producer)</a> &#x2013; Film Producer</li>
+affiliation$$$@@@%%%  <li><a>Sonam Kapoor</a> &#x2013; <a>Bollywood</a> film actress</li>
+provost$$$@@@%%%  <li><a>Roger Ashton-Griffiths</a> &#x2013; Character actor, screenwriter and film director</li>
+established$$$@@@%%%  <li><a>Nigel Benson</a> &#x2013; British author and illustrator</li>
+vice_chancellor$$$@@@%%%  <li><a>David C.H. Austin</a> - Rose breeder and writer</li>
+image_name$$$@@@%%%</ul>
+nickname$$$@@@%%%<h3>Music</h3>
+image_name$$$@@@%%%<ul>
+established$$$@@@%%%  <li><a>Marina and the Diamonds</a> &#x2013; Singer and Songwriter</li>
+established$$$@@@%%%  <li><a>Damon Albarn</a> &#x2013; Musician; Frontman of <a>Blur</a> and Sub-creator of <a>Gorillaz</a></li>
+affiliation$$$@@@%%%  <li><a>Ian Dury</a> &#x2013; Musician</li>
+affiliation$$$@@@%%%  <li><a>Tinchy Stryder</a> &#x2013; Musician</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h3>Fashion</h3>
+students$$$@@@%%%<p>Bunmi Koko &#x2013; Fashion designer and winner of the PRECIOUS Awards 2010.
+established$$$@@@%%%Announced as one of the most influential professionals in the country and will appear in the JP Morgan Black Power List for 2011.</p>
+image_name$$$@@@%%%<h3>Sport</h3>
+image_name$$$@@@%%%<ul>
+affiliation$$$@@@%%%  <li><a>Gemma Gibbons</a> &#x2013; Judo Athlete</li>
+website$$$@@@%%%  <li>Djo Lema &#x2013; Mixed Martial Arts Champion</li>
+city$$$@@@%%%  <li>Michael Cheung - Hong Kong No.1 Tennis Player</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h2>Notable academics</h2>
+image_name$$$@@@%%%<p><img> <img></p>
+image_name$$$@@@%%%<ul>
+established$$$@@@%%%  <li><a>John Strawson</a> - Author and International Law professor</li>
+established$$$@@@%%%  <li><a>Susan Price (academic)</a> - Acting Vice-chancellor of the University of East London</li>
+doctoral$$$@@@%%%  <li><a>Faisal Abdu'allah</a> - Visual artist</li>
+country$$$@@@%%%  <li>Ilona Boniwell - Leading figure in the positive psychology movement, Vice-President of the International Positive Psychology Association, author</li>
+established$$$@@@%%%  <li><a>Rudi Vis</a> - British <a>Labour Party</a> politician who was the <a>Member of Parliament</a></li>
+type$$$@@@%%%  <li><a>Grenville Davey</a> - <a>Turner Prize</a> winning artist</li>
+established$$$@@@%%%  <li>Tariq Umar - Military Lands and Cantonment Department, Ministry of Defence; Govt. of <a>Pakistan</a></li>
+type$$$@@@%%%  <li><a>Chris Knight (anthropologist)</a> - Professor of <a>Anthropology</a>,</li>
+type$$$@@@%%%  <li><a>Kode9</a> (Steve Goodman) -  <a>Dubstep</a> musician</li>
+head_label$$$@@@%%%  <li><a>Graham Barnfield</a> - British academic and pundit</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p><img></p>
+image_name$$$@@@%%%<ul>
+established$$$@@@%%%  <li><a>Mary Boyle (psychologist)</a> - Fellow of the British Psychological Society, Fellow of the Royal Society of Medicine, and Fellow of the Royal Society of Arts</li>
+free_label$$$@@@%%%  <li><a>Lizbeth Goodman</a> - Chair of Creative Technology Innovation and founder director of the SMARTlab Digital Media Institute and the MAGIC Multimedia &amp; Games Innovation Centre</li>
+established$$$@@@%%%  <li><a>Carole Satyamurti</a> - British poet, sociologist, and translator</li>
+vice_chancellor$$$@@@%%%  <li><a>Grayson Perry</a> - Turner prize-winning sculptor and visiting Professor</li>
+established$$$@@@%%%  <li><a>Barbara Taylor</a> - Professor of Modern History</li>
+type$$$@@@%%%  <li>Michael Rustin - Founding editor of <a>Soundings</a></li>
+established$$$@@@%%%  <li><a>Raphael Samuel</a> Historian, activist, founding editor of <a>History Workshop Journal</a></li>
+vice_chancellor$$$@@@%%%  <li><a>John Smith</a> - Experimental film-maker</li>
+vice_chancellor$$$@@@%%%  <li><a>Richard Wilson</a> - Renowned artist and visiting Professor</li>
+doctoral$$$@@@%%%  <li><a>Raymond Durgnat</a> - Film critic and historian</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p><img> <img></p>
+image_name$$$@@@%%%<h2>Notable visitors</h2>
+country$$$@@@%%%<p><a>right|thumb|upright=0.56|Prime
+established$$$@@@%%%Minister David Cameron gave a speech at the University of East London in 2010</a></p>
+affiliations$$$@@@%%%<p>The University Of East London has had some very important people visit its campuses for different reasons, most notability for either opening ceremonies or for speeches.</p>
+image_name$$$@@@%%%<ul>
+established$$$@@@%%%  <li>HM Queen <a>Elizabeth II</a> &#x2013; UEL's new Business School and Knowledge Dock centre were opened by HM The Queen in February 2007.</li>
+established$$$@@@%%%<li><a>Prince Philip, Duke of Edinburgh</a> &#x2013; With the Queen, Prince Phillip opened the new UEL Business School and Knowledge Dock.</li>
+established$$$@@@%%%<li>Prince <a>Turki bin Faisal Al Saud</a> of Saudi Arabia &#x2013; At the opening ceremony for the new UEL Business School and Knowledge Dock.</li>
+vice_chancellor$$$@@@%%%<li>Prime Minister <a>David Cameron</a> &#x2013; Speech at UEL.</li>
+established$$$@@@%%%  <li><a>Ken Livingston</a> &#x2013; The new Docklands campus was opened by the Mayor of London, Ken Livingstone.</li>
+established$$$@@@%%%<li><a>Camilla, Duchess of Cornwall</a> &#x2013; In January 2008 the Centre for Clinical Education in Podiatry, Physiotherapy and Sports Science was opened by Camilla, Duchess of Cornwall.</li>
+established$$$@@@%%%<li><a>Jack Petchey</a> &#x2013; Named in honour of its benefactor, Jack Petchey opened the Petchey Centre for Entrepreneurship in 2007.</li>
+established$$$@@@%%%<li><a>Martina Cole</a> &#x2013; Book signing at the University Bookshop in 2010.</li>
+established$$$@@@%%%<li><a>Sebastian Coe</a> &#x2013; Gave a speech at UEL about the London 2012 Olympic Games, the Olympic Legacy and the regeneration of the area.</li>
+country$$$@@@%%%<li><a>United States Olympic team</a> &#x2013; The United States Olympic team will be using the University of East London's facilities in 2012.</li>
+image_name$$$@@@%%%</ul>
+students$$$@@@%%%<h2>Holders of honorary degrees</h2>
+image_name$$$@@@%%%<p><img> <img></p>
+image_name$$$@@@%%%<ul>
+doctoral$$$@@@%%%  <li><a>Bob Geldof</a> - KBE, musician and campaigner</li>
+type$$$@@@%%%  <li><a>Lee Evans</a> - Comedian</li>
+nickname$$$@@@%%%  <li><a>Lord Sebastian Coe</a> - KBE, former Olympic champion and current <a>LOCOG</a> Chair</li>
+doctoral$$$@@@%%%  <li><a>Christine Ohuruogu</a> - MBE, Olympic 400 metre Champion</li>
+established$$$@@@%%%  <li><a>James Caan</a> - Investor, entrepreneur, television personality on <a>Dragons' Den (UK)</a>, and philanthropist</li>
+type$$$@@@%%%  <li><a>Preity Zinta</a> - <a>Bollywood</a> Actress and UN Ambassador</li>
+established$$$@@@%%%  <li><a>West Ham United</a> - <a>Premier league</a> football club based in <a>East London</a></li>
+doctoral$$$@@@%%%  <li><a>Sir Trevor Brooking</a> - Footballer</li>
+type$$$@@@%%%  <li><a>Baroness Ashton</a> - EU's first <a>High Representative of the European Union for Foreign Affairs and Security Policy</a></li>
+doctoral$$$@@@%%%  <li><a>Honor Blackman</a> - Actor</li>
+doctoral$$$@@@%%%  <li><a>Billy Bragg</a> - Musician</li>
+type$$$@@@%%%  <li><a>Peter Berresford Ellis</a> aka <a>Peter Tremayne</a> - Writer</li>
+doctoral$$$@@@%%%  <li><a>Rolf Harris</a> - Entertainer and artist</li>
+type$$$@@@%%%  <li><a>David Lammy</a> - Politician</li>
+doctoral$$$@@@%%%  <li><a>Harold Pinter</a> - Playwright, Nobel Laureate</li>
+doctoral$$$@@@%%%  <li><a>Terence Stamp</a> - Actor</li>
+doctoral$$$@@@%%%  <li>Sir <a>Willard White</a> - Singer</li>
+doctoral$$$@@@%%%  <li><a>Rachel Whiteread</a> - Sculptor</li>
+head_label$$$@@@%%%  <li>Liam Kane - ELBA Chief Executive</li>
+doctoral$$$@@@%%%  <li><a>Mark Hunter</a> - MBE, Olympic Lightweight Double Scull Champion</li>
+doctoral$$$@@@%%%  <li><a>Lord Parekh</a> - Political Philosopher</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p><img></p>
+image_name$$$@@@%%%<ul>
+established$$$@@@%%%  <li><a>Baroness Scotland</a> - Member of the <a>House of Lords</a> and Peer</li>
+established$$$@@@%%%  <li><a>Chief Constable Michael Fuller</a> - Chief Constable of <a>Kent Police</a> and head of Operation Trident</li>
+established$$$@@@%%%  <li><a>Sir Gulam Noon, MBE</a> - A successful businessman that has founded and operated a number of food product companies</li>
+established$$$@@@%%%  <li><a>Baroness Kingsmill</a> - CBE, life peer to the <a>House of Lords</a> and employment lawyer</li>
+doctoral$$$@@@%%%  <li>Sathi Ludhianvi - Writer, broadcaster, and journalist</li>
+vice_chancellor$$$@@@%%%  <li>Professor Ziauddin Sardar - Writer, broadcaster and critic</li>
+head_label$$$@@@%%%  <li><a>Sly Bailey</a> - Chief Executive of Trinity Mirror Plc</li>
+head_label$$$@@@%%%  <li>Roland Muldoon - Artistic Director and Chief Executive of the <a>Hackney Empire</a></li>
+city$$$@@@%%%  <li>Rudolf G Mueller - Chairman of the Trustees of UEL&#x2019;s Rix Centre</li>
+city$$$@@@%%%  <li>Harvey McGrath - Chairman of the Man Group plc</li>
+head_label$$$@@@%%%  <li><a>Stephen O&#x2019;Brien</a> - Former Chair of UEL Governors and joint President of London First</li>
+doctoral$$$@@@%%%  <li><a>Sid Smith</a> - Former Newham councilor</li>
+city$$$@@@%%%  <li>Sarwar Ahmed - Asian media entrepreneur</li>
+doctoral$$$@@@%%%  <li><a>Damon Albarn</a> - Musician</li>
+city$$$@@@%%%  <li>Rick Scannell - Human rights barrister</li>
+head_label$$$@@@%%%  <li><a>Lord Victor Adebowale</a> - Chief Executive of Turning Point</li>
+type$$$@@@%%%  <li><a>Rita Sharma</a> - Founder of travel company, Worldwide Journeys Ltd</li>
+doctoral$$$@@@%%%  <li><a>Mark Stephens (solicitor)</a> - Solicitor, writer &amp; broadcaster</li>
+established$$$@@@%%%  <li>Imran Khan - Solicitor to the <a>Stephen Lawrence</a> family, civil liberties and human rights activist</li>
+doctoral$$$@@@%%%  <li><a>Lord Dholakia</a> - Politician and campaigner</li>
+doctoral$$$@@@%%%  <li><a>Benjamin Zephaniah</a> - Poet</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p><img> <img></p>
+image_name$$$@@@%%%<h2>Gallery</h2>
+image_name$$$@@@%%%<h3>Stratford Campus</h3>
+affiliations$$$@@@%%%<p>&lt;gallery&gt; File:University of East London Stratford Campus Main.png
+established$$$@@@%%%File:University of East London Cass School of Education.jpg
+established$$$@@@%%%File:Cass School of Education Interior University of East London.jpg
+affiliations$$$@@@%%%File:Stratford Campus University of East London.jpg
+affiliations$$$@@@%%%File:University of East London Stratford Campus Buildings.jpg
+affiliations$$$@@@%%%File:University of East London Stratford Campus.jpg
+affiliations$$$@@@%%%File:University of East London Stratford Main Building.jpg
+affiliations$$$@@@%%%File:UEL Stratford Campus.JPG &lt;/gallery&gt;</p>
+image_name$$$@@@%%%<h3>Docklands Campus</h3>
+established$$$@@@%%%<p>&lt;gallery&gt; File:University of East London Royal Docks Business School.jpg
+established$$$@@@%%%File:University of East London and Canary Wharf London.jpg
+affiliations$$$@@@%%%File:University of East London Green Space.jpg
+image_size$$$@@@%%%File:Student Housing at the University of East London.jpg
+affiliations$$$@@@%%%File:UEL Docklands.jpg
+affiliations$$$@@@%%%File:University of East London River Side.jpg File:University of East London at Dusk.jpg File:University of East London Housing Building.jpg
+image_name$$$@@@%%%&lt;/gallery&gt;</p>
+image_name$$$@@@%%%<h2>References</h2>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%<h2>External links</h2>
+image_name$$$@@@%%%<ul>
+affiliation$$$@@@%%%  <li><a>UEL Web Site</a></li>
+affiliation$$$@@@%%%  <li><a>UEL Olympic Office</a></li>
+affiliation$$$@@@%%%  <li><a>UEL Clearing</a></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p>   </p>
+image_name$$$@@@%%%<p></p>
+image_name$$$@@@%%%
+image_name$$$@@@%%%

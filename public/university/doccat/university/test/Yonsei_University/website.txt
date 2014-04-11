@@ -1,0 +1,7 @@
+<li>College of Liberal Arts</li>
+<li><a>College of Humanities and Arts</a>  </li>
+<li><a>College of Sciences and Technologies</a>  </li>
+<li><a>College of Health Sciences</a> </li>
+<li><a>Graduate School of Human Environmental Sciences</a></li>
+<h3>Literature &amp; Arts</h3>
+<li>Chung In Seung (&#xc815;&#xc778;&#xc2b9;): Scholar of Korean language and Korean independence movement activist</li>

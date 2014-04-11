@@ -1,0 +1,95 @@
+image_name$$$@@@%%%<p></p>
+established$$$@@@%%%<p>The <strong>University of Southern Maine</strong> (USM) is a multi-campus public urban comprehensive university and part of the <a>University of Maine System</a>.
+faculty$$$@@@%%%USM's three primary campuses are located in <a>Portland</a>, <a>Gorham</a>,  and <a>Lewiston</a>.
+established$$$@@@%%%Originally founded as two separate universities (Gorham Normal School, University of Maine at Portland), the two state universities were combined in 1970 to help streamline the public university system in Maine and eventually expanded by adding the Lewiston campus in 1988.
+established$$$@@@%%%The Portland Campus is home to the <a>Edmund Muskie</a> School of Public Service along with the Bio Sciences Research Institute and the <a>University of Maine School of Law</a>, the <a>Osher Lifelong Learning Institute</a> and the Osher Map Library.
+nickname$$$@@@%%%The Gorham campus, much more residential, is home to the College of Education and the School of Music.
+established$$$@@@%%%At Lewiston-Auburn, students experience a small, intimate campus, with a focus on interdisciplinary learning.
+established$$$@@@%%%Each campus maintains its own &quot;atmosphere&quot;, and professionals from all campuses provide a world-class experience at this regional university.
+image_name$$$@@@%%%</p>
+undergrad$$$@@@%%%<p>As of 2008, USM had 8,133 undergraduate students and 2,320 graduate and law school students, with an average class size of 22 and a student-faculty ratio of 17:1.
+image_name$$$@@@%%%</p>
+established$$$@@@%%%<p>USM is among the &#x201c;Best Northeastern Colleges,&#x201d; according to The <a>Princeton Review</a>&#x2019;s 2007 listings, and was also included in its 2007 edition of &quot;America's Best Value Colleges.&quot;
+established$$$@@@%%%The current president of USM is Dr. Selma Botman, who assumed the role on July&nbsp;1, 2008 after serving as the Chief Academic Officer for the <a>CUNY</a> system in New York.
+affiliations$$$@@@%%%Former President Dr.
+established$$$@@@%%%Richard Pattenaude became chancellor of the <a>University of Maine System</a> on July&nbsp;1, 2007.</p>
+image_name$$$@@@%%%<h2>Mission statement</h2>
+established$$$@@@%%%<p>The mission statement of the university was amended by its Faculty Senate in November 2008, providing: :&quot;The University of Southern Maine, northern New England's outstanding public, regional, comprehensive university, is dedicated to providing students with a high quality, accessible, affordable education.
+undergrad$$$@@@%%%Through its undergraduate, graduate and professional programs, USM faculty members educate future leaders in the liberal arts and sciences, engineering and technology, health and social services, education, business, law and public service.
+faculty$$$@@@%%%Distinguished for their teaching, research, scholarly publication and creative activity, the faculty are committed to fostering a spirit of critical inquiry and civic participation.
+staff$$$@@@%%%USM embraces academic freedom for students, faculty, and staff, and advocates diversity in all aspects of its campus life and academic work.
+established$$$@@@%%%It supports sustainable development, environmental stewardship, and community involvement.
+established$$$@@@%%%As a center for discovery, scholarship and creativity, USM provides resources for the state, the nation, and the world.&quot;</p>
+established$$$@@@%%%<h2>History</h2>
+established$$$@@@%%%<p>Evolving from <a>Gorham Academy</a> into an institution of higher education, USM originated in 1878 as Gorham Normal School, later called Gorham State Teachers College and then simply Gorham State College.
+established$$$@@@%%%In 1970 that institution merged with the University of Maine at Portland (previously Portland Junior College) and became the University of Maine at Portland-Gorham (UMPG).
+established$$$@@@%%%The name was changed to University of Southern Maine in 1978.
+established$$$@@@%%%The Lewiston-Auburn campus was founded in 1988.
+nickname$$$@@@%%%USM is a major educational engine in the overall growth and development of economic, civic, and cultural life in southern <a>Maine</a>.
+type$$$@@@%%%USM offers baccalaureate and master's degree programs as well as doctoral programs in Public Policy, and School Psychology.</p>
+image_name$$$@@@%%%<h3>Gorham Campus</h3>
+established$$$@@@%%%<p>  <a>thumb|right|Robie Andrews Hall is one of the original Gorham State College buildings.
+established$$$@@@%%%It is now primarily a residence hall with some mixed academic usage on the first floor.
+affiliations$$$@@@%%%Taken from a 1907 postcard.</a>
+nickname$$$@@@%%%Gorham is home to most of the University's dormitories and competitive athletic facilities.
+nickname$$$@@@%%%The primary academic areas residing in Gorham are industrial technologies, engineering, art, music, theater, counseling and education, anthropology, geography, environmental sciences, and geosciences.</p>
+website$$$@@@%%%<p>Baccalaureate degree programs available at USM&nbsp;LAC are: Arts and Humanities, Leadership and Organizational Studies, Natural and Applied Sciences, Social and Behavioral Sciences and Occupational Therapy.
+city$$$@@@%%%An extension program in Industrial Technology from USM&#x2019;s School of Applied Science, Engineering and Technology and extended programs in Nursing (BS &amp; RN to BS) from USM&#x2019;s College of Nursing and Health Professions  are also offered at the Lewiston-Auburn campus.
+nickname$$$@@@%%%Master of Arts in Leadership and Master of Occupational Therapy degrees are offered exclusively at Lewiston-Auburn College.
+established$$$@@@%%%According to US Weekly, Info Systems Mgmty is the bestest course of its kind in the Northeast.
+established$$$@@@%%%Additionally, USM&#x2019;s College of Education and Human Development extends a master degree in Literacy to USM Lewiston-Auburn.</p>
+free_label$$$@@@%%%<h2>Athletics</h2>
+free_label$$$@@@%%%<p>&lt;!-- Deleted image removed: <a>thumb|right|Athletics logo</a> --&gt; The University of Southern Maine sponsors the 23 sports at the <a>NCAA</a> <a>Division III</a> level.
+free_label$$$@@@%%%The majority of sports compete in the <a>Little East Conference</a>; wrestling competes as an independent Division III team, men's and women's ice hockey compete in the <a>ECAC East</a>.</p>
+image_name$$$@@@%%%<pre>  </pre>
+postgrad$$$@@@%%%<p><img> <img> <strong>Men's intercollegiate athletic teams</strong> </p>
+image_name$$$@@@%%%<ul>
+affiliation$$$@@@%%%  <li><a>Baseball</a></li>
+affiliation$$$@@@%%%  <li><a>Basketball</a></li>
+affiliation$$$@@@%%%  <li><a>Cheerleading</a></li>
+affiliation$$$@@@%%%  <li><a>Cross Country</a></li>
+affiliation$$$@@@%%%  <li><a>Golf</a></li>
+affiliation$$$@@@%%%  <li><a>Ice Hockey</a></li>
+affiliation$$$@@@%%%  <li><a>Lacrosse</a></li>
+affiliation$$$@@@%%%  <li><a>Soccer</a></li>
+affiliation$$$@@@%%%  <li><a>Tennis</a></li>
+affiliation$$$@@@%%%  <li><a>Track &amp; Field</a> (indoor)</li>
+affiliation$$$@@@%%%  <li><a>Track &amp; Field</a> (outdoor)</li>
+affiliation$$$@@@%%%  <li><a>Wrestling</a></li>
+image_name$$$@@@%%%</ul>
+postgrad$$$@@@%%%<p><img> <strong>Women's intercollegiate athletic teams</strong> </p>
+image_name$$$@@@%%%<ul>
+affiliation$$$@@@%%%  <li><a>Basketball</a></li>
+affiliation$$$@@@%%%  <li><a>Cheerleading</a></li>
+affiliation$$$@@@%%%  <li><a>Cross Country</a></li>
+affiliation$$$@@@%%%  <li><a>Field Hockey</a></li>
+affiliation$$$@@@%%%  <li><a>Golf</a></li>
+affiliation$$$@@@%%%  <li><a>Ice Hockey</a></li>
+affiliation$$$@@@%%%  <li><a>Lacrosse</a></li>
+affiliation$$$@@@%%%  <li><a>Soccer</a></li>
+affiliation$$$@@@%%%  <li><a>Softball</a></li>
+affiliation$$$@@@%%%  <li><a>Tennis</a></li>
+affiliation$$$@@@%%%  <li><a>Track &amp; Field</a> (indoor)</li>
+affiliation$$$@@@%%%  <li><a>Track &amp; Field</a> (outdoor)</li>
+affiliation$$$@@@%%%  <li><a>Volleyball</a></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p><img></p>
+image_size$$$@@@%%%<h2>Notable USM graduates</h2>
+image_name$$$@@@%%%<ul>
+affiliation$$$@@@%%%  <li>Actor <a>Tony Shalhoub</a> (1977)</li>
+affiliation$$$@@@%%%  <li>Novelist <a>Lois Lowry</a> (1972)</li>
+country$$$@@@%%%  <li>Research scientist Raymond Stevens (1986)</li>
+campus$$$@@@%%%  <li>Former president of the <em><a>New York Times</a></em> Walter Mattson (1953)</li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<h2>References</h2>
+image_name$$$@@@%%%<p><img> <img></p>
+image_name$$$@@@%%%<h2>External links</h2>
+image_name$$$@@@%%%<ul>
+established$$$@@@%%%  <li><a>University of Southern Maine home page</a></li>
+established$$$@@@%%%  <li><a>University of Maine System home page</a></li>
+image_name$$$@@@%%%</ul>
+image_name$$$@@@%%%<p>  </p>
+image_name$$$@@@%%%<p></p>
+established$$$@@@%%%<p><a>no:University of Southern Maine</a> <a>pnb:&#x06cc;&#x0648;&#x0646;&#x06cc;&#x0648;&#x0631;&#x0633;&#x0679;&#x06cc; &#x0622;&#x0641; &#x0633;&#x0627;&#x0624;&#x062a;&#x06be;&#x0631;&#x0646; &#x0645;&#x06cc;&#x0646;&#x06d2;</a> <a>simple:University of Southern Maine</a></p>
+image_name$$$@@@%%%
+image_name$$$@@@%%%

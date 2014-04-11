@@ -1,0 +1,2 @@
+<p> Calvin has nine academic buildings on campus.
+<li>Asia Club: inform the Calvin community about Asian culture</li>

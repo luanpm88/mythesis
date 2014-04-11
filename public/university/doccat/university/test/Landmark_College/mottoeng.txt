@@ -1,0 +1,2 @@
+This software enables users to:</p>
+<li>Scan or import text (aids decoding)</li>

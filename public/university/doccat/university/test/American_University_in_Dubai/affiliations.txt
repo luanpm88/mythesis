@@ -1,0 +1,3 @@
+<li><strong>School of Business Administration</strong> (offering <a>B.B.A.</a> and <a>M.B.A.</a> degrees)</li>
+<li><strong>Department of <a>Visual Communication</a></strong> (offering B.F.A. Degree in Visual Communication) </li>
+<li><strong>Department of <a>Interior Design</a></strong> (offering B.F.A. Degree in Interior Design) </li>

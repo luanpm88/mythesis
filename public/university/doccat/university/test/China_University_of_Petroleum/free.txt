@@ -1,0 +1,12 @@
+<li>Department of Organization</li>
+<li>Department of Publicity</li>
+<li>Department of the United Front Work</li>
+<li>Department of Work on Students</li>
+<li>Cooperation and Development Department</li>
+<li>Personnel Administration Department</li>
+<li>Finance *Department</li>
+<li>Campus Industry and Management Administration *Department</li>
+<li>Retiree *Department</li>
+<li>Auditing *Department</li>
+<li>Logistics Administration Department</li>
+<h4>Notable alumni</h4>

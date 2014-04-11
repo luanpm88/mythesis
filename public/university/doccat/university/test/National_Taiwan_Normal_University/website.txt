@@ -1,0 +1,7 @@
+<h3>College of Fine and Applied Arts</h3>
+<li>Fine Arts*</li>
+<h3>College of Liberal Arts</h3>
+<li>Performing Arts*</li>
+<li>Graduate Institute of International Affairs and Global Strategy*</li>
+<li>Earth Sciences</li>
+<li>Graphic Arts Communication</li>

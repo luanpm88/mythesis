@@ -1,0 +1,8 @@
+<li>Faculty of <a>Architecture</a> and <a>Landscape Sciences</a></li>
+<li>Faculty of <a>Civil Engineering</a> and <a>Geodetic Science</a></li>
+<li>Faculty of <a>Economics</a> and <a>Management</a></li>
+<li>Faculty of <a>Electrical Engineering</a> and <a>Computer Science</a></li>
+<li>Faculty of <a>Humanities</a></li>
+<li>Faculty of <a>Mathematics</a> and <a>Physics</a></li>
+<li>Faculty of <a>Mechanical Engineering</a></li>
+<li><a>List of colleges and universities</a></li>

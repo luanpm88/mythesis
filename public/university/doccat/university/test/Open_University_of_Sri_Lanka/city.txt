@@ -1,0 +1,6 @@
+<li>Faculty of Engineering Technology</li>
+<h2>Faculty of Engineering Technology</h2>
+<h2>Non-Academic/ Support Divisions</h2>
+<li>Educational Technology</li>
+<li>Information Technology</li>
+<li>Staff Development Centre</li>

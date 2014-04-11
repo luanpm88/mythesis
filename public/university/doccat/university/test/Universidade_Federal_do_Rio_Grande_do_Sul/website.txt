@@ -1,0 +1,5 @@
+<li>Institute of <a>Fine Arts</a></li>
+<li>Institute of Fine Arts (Instituto de Artes)</li>
+<li>Institute of Philosophy and Human Sciences (Instituto de Filosofia e Ci&#x00ea;ncias Humanas)</li>
+<h3>Philosophy and Social Sciences</h3>
+<h3>School of Fine Arts</h3>
