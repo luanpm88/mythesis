@@ -195,12 +195,12 @@ class Article < ActiveRecord::Base
       content_fixed = content_fixed.gsub(/\&lt\;ref(.*?)\&gt\;(.*?)\&lt\;\/ref\&gt\;/im,"")
       
       begin
-        File.open("public/articles/#{infobox_template.name}/#{article.title.gsub(/[\s\&\'\,]/,'_')}.txt", "w") { |file| file.write content_fixed }
+        File.open("public/articles/#{infobox_template.name}/#{article.title.gsub(/[\s\&\'\,\)\(\"\:\/]/,'_')}.txt", "w") { |file| file.write content_fixed }
       rescue
         puts "some error"
       end
       
-      system("bin/opennlp SentenceDetector en-sent.bin < public/articles/#{infobox_template.name}/#{article.title.gsub(/[\s\&\'\,]/,'_')}.txt > public/articles/#{infobox_template.name}/sentenced/#{for_d}/#{article.title.gsub(/[\s\&\'\,]/,'_')}.txt")
+      system("bin/opennlp SentenceDetector en-sent.bin < public/articles/#{infobox_template.name}/#{article.title.gsub(/[\s\&\'\,\)\(\"\:\/]/,'_')}.txt > public/articles/#{infobox_template.name}/sentenced/#{for_d}/#{article.title.gsub(/[\s\&\'\,\)\(\"\:\/]/,'_')}.txt")
     end
 
   end
@@ -216,9 +216,9 @@ class Article < ActiveRecord::Base
           
           begin
             if attribute_value.article.for_test == 0
-              f = File.open("public/articles/#{@@template}/sentenced/train/#{attribute_value.article.title.gsub(/[\s\&\'\,]/,'_')}.txt")
+              f = File.open("public/articles/#{@@template}/sentenced/train/#{attribute_value.article.title.gsub(/[\s\&\'\,\)\(\"]/,'_')}.txt")
             else
-              f = File.open("public/articles/#{@@template}/sentenced/test/#{attribute_value.article.title.gsub(/[\s\&\'\,]/,'_')}.txt")
+              f = File.open("public/articles/#{@@template}/sentenced/test/#{attribute_value.article.title.gsub(/[\s\&\'\,\)\(\"]/,'_')}.txt")
             end
             
             match_count = 0
@@ -298,13 +298,13 @@ class Article < ActiveRecord::Base
       
       #if !File.directory?("public/doccat/#{infobox_template.name}/test/#{article.title.gsub(/[\s\&]/,'_')}")
       
-        `mkdir public/doccat/#{infobox_template.name}/test/#{article.title.gsub(/[\s\&\'\,]/,'_')}`
+        `mkdir public/doccat/#{infobox_template.name}/test/#{article.title.gsub(/[\s\&\'\,\)\(\"\:\/]/,'_')}`
         
-        `java -jar bin/DoccatRun.jar public/doccat/#{infobox_template.name}/model/doccat.bin public/articles/#{infobox_template.name}/sentenced/test/#{article.title.gsub(/[\s\&\'\,]/,'_')}.txt public/doccat/#{infobox_template.name}/test/#{article.title.gsub(/[\s\&\'\,]/,'_')}/all.txt`
+        `java -jar bin/DoccatRun.jar public/doccat/#{infobox_template.name}/model/doccat.bin public/articles/#{infobox_template.name}/sentenced/test/#{article.title.gsub(/[\s\&\'\,\)\(\"\:\/]/,'_')}.txt public/doccat/#{infobox_template.name}/test/#{article.title.gsub(/[\s\&\'\,\)\(\"\:\/]/,'_')}/all.txt`
         
         begin
         
-          f = File.open("public/doccat/#{infobox_template.name}/test/#{article.title.gsub(/[\s\&\'\,]/,'_')}/all.txt")
+          f = File.open("public/doccat/#{infobox_template.name}/test/#{article.title.gsub(/[\s\&\'\,\)\(\"\:\/]/,'_')}/all.txt")
           
           
           collection = {}
@@ -328,7 +328,7 @@ class Article < ActiveRecord::Base
             sentences.each {|s| str += s.strip + "\n"}
             
             begin
-              File.open("public/doccat/#{infobox_template.name}/test/#{article.title.gsub(/[\s\&\'\,]/,'_')}/#{name.gsub(/[\s\/]+/,'_')}.txt", "w") { |file| file.write  str}
+              File.open("public/doccat/#{infobox_template.name}/test/#{article.title.gsub(/[\s\&\'\,\)\(\"\:\/]/,'_')}/#{name.gsub(/[\s\/]+/,'_')}.txt", "w") { |file| file.write  str}
             rescue
               puts "some error"
             end
@@ -365,7 +365,7 @@ class Article < ActiveRecord::Base
             if exsit.nil?
               #puts "not exsit!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
               
-              if File.file?("public/doccat/#{infobox_template.name}/test/#{article.title.gsub(/[\s\&\'\,]/,'_')}/#{attribute.name.gsub(/[\s\/]+/,'_')}.txt")
+              if File.file?("public/doccat/#{infobox_template.name}/test/#{article.title.gsub(/[\s\&\'\,\)\(\"\:\/]/,'_')}/#{attribute.name.gsub(/[\s\/]+/,'_')}.txt")
                 
                 File.open("public/cluster/#{infobox_template.name}/model/#{attribute.name.gsub(/[\s\/]+/,'_')}.bin") do |file|
                   cluster = Marshal.load(file)
@@ -375,7 +375,7 @@ class Article < ActiveRecord::Base
                 
                 
                 
-                f = File.open("public/doccat/#{infobox_template.name}/test/#{article.title.gsub(/[\s\&\'\,]/,'_')}/#{attribute.name.gsub(/[\s\/]+/,'_')}.txt")
+                f = File.open("public/doccat/#{infobox_template.name}/test/#{article.title.gsub(/[\s\&\'\,\)\(\"\:\/]/,'_')}/#{attribute.name.gsub(/[\s\/]+/,'_')}.txt")
                 current_line = f.gets.strip
                 c_sentence = current_line
                 
@@ -728,7 +728,7 @@ class Article < ActiveRecord::Base
     end
       
     total = AttributeSentence.where(for_test: 1).count("CONCAT(article_id,'---',attribute_id)",distinct: true).to_s
-    first_line = "Finded: " + count_finded.to_s + "\n"
+    first_line = "Found: " + count_finded.to_s + "\n"
     first_line += "Correct: " + count_t.to_s + "\n"
     first_line += "Total: " + total + "\n\n\n"
     File.open("public/crf/result_p.txt", "w") { |file| file.write  first_line + str}
