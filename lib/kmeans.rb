@@ -13,12 +13,12 @@ class Kmeans
       index = (data.length * rand).to_i
        
       rand_point = data[index]
-      c = Cluster.new(rand_point)
-       
+      c = Cluster.new(rand_point,data)
+      
       clusters.push c
       
     end
-     
+    
     # Loop
     while true
       # Assign points to clusters
@@ -28,36 +28,51 @@ class Kmeans
        
         # Find the closest cluster
         max_cluster = clusters.first
-        clusters.each do |cluster|
-          similarity = cluster.cosine(cluster.vector(cluster.clean_vocab(point)),cluster.centroid)
-           
-          if similarity < max_similarity
+        max_index = 0
+        clusters.each_with_index do |cluster,index|
+          
+          #puts cluster.centroid
+          #puts cluster.points.count
+          
+          similarity = cluster.cosine(cluster.vector(point),cluster.centroid)
+
+          if similarity > max_similarity
             max_similarity = similarity
             max_cluster = cluster
+            max_index = index
           end
+          
+          puts similarity.to_s
+          
         end
+        puts "###" +  max_similarity.to_s
+        puts "###" +  max_index.to_s
+        #sleep(2)
        
         # Add to closest cluster
         max_cluster.points.push point
-        max_cluster.refresh_vocab        
+        #max_cluster.refresh_vocab        
       end
        
       # Check deltas
-      max_delta = 0
+      min_delta = 1
        
       clusters.each do |cluster|
+        #cluster.refresh_vocab
         dist_moved = cluster.get_centroid
          
+         puts "^^^^^^^ " + dist_moved.to_s
         # Get largest delta
-        if dist_moved > max_delta
-          max_delta = dist_moved
+        if dist_moved < min_delta
+          min_delta = dist_moved
         end
       end
       #puts "@@@@@@@@@@#########" +  max_delta.to_s + "--" + delta.to_s
       #sleep(1)
       # Check exit condition
-      if max_delta > delta
-        return clusters
+      puts "min: " + min_delta.to_s
+      if min_delta > delta
+        break clusters
       end
      
       # Reset points for the next iteration
@@ -67,6 +82,19 @@ class Kmeans
       
       
     end
+    
+    maxcluster = clusters.first
+    maxcount = 0
+    clusters.each do |cluster|
+        count = cluster.points.count #cluster.refresh_vocab
+        
+        if count > maxcount
+          maxcount = count
+          maxcluster = cluster
+        end
+    end
+    puts maxcluster.centroid
+    return {'clusters' => clusters, 'maxcluster' => maxcluster}
   end
   
   def kmeans_fast(data, k, delta=0.001)

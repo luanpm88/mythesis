@@ -7,7 +7,7 @@ class Article < ActiveRecord::Base
   has_many :test_article_attribute_sentences
   
   @@template = 'actor'
-  @@no_attributes = ['name','image','caption','imagesize','bgcolour','alt','latin_name','native_name','image_size']
+  @@no_attributes = [] # ['name','image','caption','imagesize','bgcolour','alt','latin_name','native_name','image_size']
   
   def self.write_log(log)
     str = ""
@@ -46,7 +46,7 @@ class Article < ActiveRecord::Base
                               
                               Article.create(:title => page.css("title").text,
                                              :content => page.css("text").text,
-                                             :content_html => Wikitext::Parser.new.parse(page.css("text").text.gsub(/\[\[\s*category\:[^\[\]]+\]\]/mi, '')),
+                                             :content_html => Wikitext::Parser.new.parse(page.css("text").text.gsub(/\[\[\s*[a-zA-Z0-9]+\:[^\[\]]+\]\]/mi, '')),
                                              :infobox_template_id => infobox_template.id
                                              )
                               @count = @count + 1
@@ -110,7 +110,7 @@ class Article < ActiveRecord::Base
             end
     end
     
-    count_articles = (Article.count/2).to_i
+    count_articles = ((Article.count.to_f/10.00)*9.00).to_i
     
     Article.update_all("for_test=0","id <= "+count_articles.to_s)
     Article.update_all("for_test=1","id > "+count_articles.to_s)
@@ -128,7 +128,6 @@ class Article < ActiveRecord::Base
       total = infobox_template.articles.where(for_test: 0).count
       
       puts count.to_s + "/" + total.to_s
-      sleep(1)
       
       if (count.to_f / total.to_f) < 0.15
         attribute.status = 0
@@ -150,7 +149,7 @@ class Article < ActiveRecord::Base
       puts av.article.title + ": " + av.value.gsub(/\<ref(.+)\<\/ref\>/m,'').gsub(/\{\{(.+)\}\}/m, '').gsub(/\[\[(.+)\|/m, '').gsub(/[\[|\]]/m, '').gsub(/\<(.+)\/\>/m, '').gsub(/\<br\>/m, '').gsub(/\'\'/m,'')
       av.raw_value = av.value.gsub(/\<ref(.+)\<\/ref\>/m,'').gsub(/\{\{(.+)\}\}/m, '').gsub(/\[\[[^\]\[]+\|/m, '').gsub(/[\[|\]]/m, '').gsub(/\<(.+)\/\>/m, '').gsub(/\<br\>/m, '').gsub(/\'\'/m,'')
       log_str += av.value + " | " + av.raw_value + "\n"
-      #av.save
+      av.save
     end
     File.open("public/log_attribute_value.txt", "w") { |file| file.write log_str }
   end
@@ -186,12 +185,9 @@ class Article < ActiveRecord::Base
       end
       
       
-      content_fixed = article.content_html.gsub(/<([^>\/\s]+)([^>]*)>/m,'<\1>').gsub(/\<p\>(\<a\>(.{2,5})\:[^<]+\<\/a\>\s?)+\<\/p\>/mi, '')#.gsub(/\&lt\;ref\&gt\;[^(\&lt\;ref\&gt\;)(\&lt\;\/ref\&gt\;)]*\&lt\;\/ref\&gt\;/m,"")
-      
-      while content_fixed.gsub!(/\{\{[^\{\}]*?\}\}/m, ''); end
-      
-      while content_fixed.gsub!(/\{[^\{\}]*?\}/m, ''); end
-      
+      content_fixed = article.content_html.gsub(/<([^>\/\s]+)([^>]*)>/m,'<\1>').gsub(/\<p\>(\<a\>(.{2,5})\:[^<]+\<\/a\>\s?)+\<\/p\>/mi, '')#.gsub(/\&lt\;ref\&gt\;[^(\&lt\;ref\&gt\;)(\&lt\;\/ref\&gt\;)]*\&lt\;\/ref\&gt\;/m,"")      
+      while content_fixed.gsub!(/\{\{[^\{\}]*?\}\}/m, ''); end      
+      while content_fixed.gsub!(/\{[^\{\}]*?\}/m, ''); end      
       content_fixed = content_fixed.gsub(/\&lt\;ref(.*?)\&gt\;(.*?)\&lt\;\/ref\&gt\;/im,"")
       
       begin
@@ -266,7 +262,7 @@ class Article < ActiveRecord::Base
     str = ""
     
     infobox_template.attributes.where(status: 1).each do |attribute|
-      if attribute.name != "name" && attribute.name != "latin_name" && attribute.name != "native_name" && attribute.name != "image_size"
+      if !@@no_attributes.include?(attribute.name)
         attribute.attribute_sentences.where(for_test: 0).each do |as|
           str += as.attribute.name + " " + as.content if !as.attribute.name.nil? && !as.content.nil?
         end
@@ -341,10 +337,51 @@ class Article < ActiveRecord::Base
     
   end
   
+  ###test function
+  def self.test_cluster
+    cluster = ''
+                File.open("public/cluster/actor/model/birth_name.bin") do |file|
+                  cluster = Marshal.load(file)
+                end
+    
+                f = File.open("public/doccat/actor/test/Gedeon_Burkhard/birth_name.txt")
+                current_line = f.gets.strip
+                
+                similar = cluster.centroid.cosine_similarity(Clusterer::Document.new(current_line))
+                
+                puts "0: " + current_line
+                puts "$$$$: " + similar.to_s
+                
+                
+                c_sentence = current_line
+                puts current_line
+                max_similar = similar                
+                count = 0
+                while(current_line = f.gets)
+                  count += 1                  
+                  puts count.to_s + ": " + current_line
+                  
+                  # similar = cluster.cosine(cluster.vector(cluster.clean_vocab(current_line)), cluster.centroid)
+                  
+                  similar = cluster.centroid.cosine_similarity(Clusterer::Document.new(current_line))
+                  
+                  if similar > max_similar
+                    max_similar = similar
+                    c_sentence = current_line
+                  end
+                  
+                  puts "$$$$: " + similar.to_s
+                  #sleep(1)
+                end
+                
+                puts "MAX$$$$: " + max_similar.to_s
+                #sleep(10)
+  end
+  
   
   ##6.2 ///test
   def self.filter
-    #TestArticleAttributeSentence.delete_all
+    TestArticleAttributeSentence.delete_all
     
     infobox_template = InfoboxTemplate.where(name: @@template).first
     
@@ -352,7 +389,7 @@ class Article < ActiveRecord::Base
     
     infobox_template.attributes.where(status: 1).each do |attribute|
       
-      if attribute.name != "name" && attribute.name != "latin_name" && attribute.name != "native_name" && attribute.name != "image_size"
+      if !@@no_attributes.include?(attribute.name)
         if File.file?("public/cluster/#{infobox_template.name}/model/#{attribute.name.gsub(/[\s\/]+/,'_')}.bin")
         
           cluster = ""
@@ -360,6 +397,9 @@ class Article < ActiveRecord::Base
           
          
           infobox_template.articles.where(for_test: 1).each do |article|
+            
+            puts "++++++++++++++++++++++++++++++++++++++++"
+            puts attribute.name + "::::"
             
             exsit = TestArticleAttributeSentence.where(article_id: article.id, attribute_id: attribute.id).first
             if exsit.nil?
@@ -377,33 +417,35 @@ class Article < ActiveRecord::Base
                 
                 f = File.open("public/doccat/#{infobox_template.name}/test/#{article.title.gsub(/[\s\&\'\,\)\(\"\:\/]/,'_')}/#{attribute.name.gsub(/[\s\/]+/,'_')}.txt")
                 current_line = f.gets.strip
+                
+                similar = cluster.centroid.cosine_similarity(Clusterer::Document.new(current_line.gsub('>','> ').gsub('<',' <').gsub(/([\,\.\:\!\?\)\(])/,' \1 ').gsub(/\s+/,' ')))
+                
+                puts "0: " + current_line
+                puts "$$$$: " + similar.to_s
+                
                 c_sentence = current_line
-                
-                
-                #cluster.points << current_line
-                #cluster.refresh_vocab
-                #cluster.get_centroid
                 puts current_line
-                max_similar = 0
+                max_similar = similar
                 
                 count = 0
                 while(current_line = f.gets)
-                  count += 1
+                  count += 1                  
+                  puts count.to_s + ": " + current_line
                   
-                  puts count
+                  # similar = cluster.cosine(cluster.vector(cluster.clean_vocab(current_line)), cluster.centroid)
                   
-                  similar = cluster.cosine(cluster.vector(cluster.clean_vocab(current_line)), cluster.centroid)
+                  similar = cluster.centroid.cosine_similarity(Clusterer::Document.new(current_line.gsub('>','> ').gsub('<',' <').gsub(/([\,\.\:\!\?\)\(])/,' \1 ').gsub(/\s+/,' ')))
                   
                   if similar > max_similar
                     max_similar = similar
                     c_sentence = current_line
                   end
                   
+                  puts "$$$$: " + similar.to_s
                 end
                 
-                puts max_similar
+                puts "MAX$$$$: " + max_similar.to_s
 
-                
                 exsit = TestArticleAttributeSentence.where(article_id: article.id, attribute_id: attribute.id).first
                 
                 if exsit.nil?
@@ -412,6 +454,8 @@ class Article < ActiveRecord::Base
                   exsit.sentence = c_sentence
                   exsit.save
                 end
+                
+                File.open("public/doccat/#{infobox_template.name}/test/#{article.title.gsub(/[\s\&\'\,\)\(\"\:\/]/,'_')}/#{attribute.name.gsub(/[\s\/]+/,'_')}_chosen.txt", "w") { |file| file.write c_sentence}
               
               end
               
@@ -462,38 +506,47 @@ class Article < ActiveRecord::Base
     
     infobox_template.attributes.where(status: 1).each do |attribute|
       puts attribute.attribute_sentences.count
-      if attribute.name != "name" && attribute.name != "latin_name" && attribute.name != "native_name" && attribute.name != "image_size"
+      if !@@no_attributes.include?(attribute.name)
         data = []
         fn = "public/cluster/#{infobox_template.name}/train/#{attribute.name.gsub(/[\s\/]+/,'_')}.txt"
-        
+        puts fn
         f = File.open(fn)
          # Get all data
         while(current_line = f.gets)
-          data.push current_line
-          puts current_line
+          data.push current_line.gsub('>','> ').gsub('<',' <').gsub(/([\,\.\:\!\?\)\(])/,' \1 ').gsub(/\s+/,' ')
+          puts current_line.gsub('>','> ').gsub('<',' <').gsub(/([\,\.\:\!\?\)\(])/,' \1 ').gsub(/\s+/,' ')
         end
-        puts "fgdfgd"+data.count.to_s
+        puts "#####"+data.count.to_s
         
         if data.count > 0
           # Determine the number of clusters to find
-          k = 1
+          #k = 3
           
-          km = Kmeans.new
+          #km = Kmeans.new
           # Run algorithm on data
-          clusters = km.kmeans_fast(data, k)
+          # clusters = km.kmeans(data, k)
           
-          #puts clusters.first.centroid
-          
-        
+          clusters = Clusterer::Clustering.cluster(:kmeans, data)
+          maxcluster = clusters.first
+          maxcount = 0
           clusters.each do |cluster|
-            
-            puts "dddd" + cluster.points.count.to_s + "################" + cluster.center
-           
-            File.open("public/cluster/#{infobox_template.name}/model/#{attribute.name.gsub(/[\s\/]+/,'_')}.bin",'w') do|file|
-              Marshal.dump(cluster, file)
+            count = cluster.documents.count #cluster.refresh_vocab
+        
+            if count > maxcount
+              maxcount = count
+              maxcluster = cluster
             end
-          
           end
+
+          model = {"clusters" => clusters, "maxcluster" => maxcluster}
+          
+          puts model["clusters"].count
+          sleep(1)
+          
+          File.open("public/cluster/#{infobox_template.name}/model/#{attribute.name.gsub(/[\s\/]+/,'_')}.bin",'w') do|file|
+            Marshal.dump(model["maxcluster"], file)
+          end
+
         end      
           
       end       
@@ -584,19 +637,22 @@ class Article < ActiveRecord::Base
     
       infobox_template.attributes.where(status: 1).each do |attribute|
         str = ""
+        ids_str = ""
         infobox_template.articles.where(for_test: 1).each do |article|
           test_s = TestArticleAttributeSentence.where(article_id: article.id, attribute_id: attribute.id).first
         
-          puts test_s.sentence if !test_s.nil?
-          
-          if !test_s.nil?
-            str += test_s.sentence.gsub('<', ' <').gsub('>', '> ') + "\n"
-            #File.open("public/crf/#{infobox_template.name}/data/#{attribute.name.gsub(/[\s\/]+/,'_')}/#{attribute.name.gsub(/[\s\/]+/,'_')}.test.raw", "w") { |file| file.write  test_s.sentence}
+          if !test_s.nil? && test_s.sentence.strip != ''
+            str += test_s.sentence.gsub('<', ' <').gsub('>', '> ').gsub(/\s+/,' ') + "\n"
+            ids_str += test_s.id.to_s + "\n"
           end
         
         end
+      
         puts str
+        #sleep(1)
+        
         File.open("public/crf/#{infobox_template.name}/data/#{attribute.name.gsub(/[\s\/]+/,'_')}/#{attribute.name.gsub(/[\s\/]+/,'_')}.test.raw", "w") { |file| file.write  str } if str != ""
+        File.open("public/crf/#{infobox_template.name}/data/#{attribute.name.gsub(/[\s\/]+/,'_')}/#{attribute.name.gsub(/[\s\/]+/,'_')}_ids.test.raw", "w") { |file| file.write  ids_str } if ids_str != ""
       end
     
     
@@ -633,7 +689,7 @@ class Article < ActiveRecord::Base
     
     infobox_template.attributes.where(status: 1).each do |attribute|
       file_name = "public/crf/#{infobox_template.name}/out/#{attribute.name.gsub(/[\s\/]+/,'_')}/#{attribute.name.gsub(/[\s\/]+/,'_')}.test.tagged"
-      file_name_raw = "public/crf/#{infobox_template.name}/data/#{attribute.name.gsub(/[\s\/]+/,'_')}/#{attribute.name.gsub(/[\s\/]+/,'_')}.test.raw"
+      file_name_raw = "public/crf/#{infobox_template.name}/data/#{attribute.name.gsub(/[\s\/]+/,'_')}/#{attribute.name.gsub(/[\s\/]+/,'_')}_ids.test.raw"
       puts file_name
       if File.file?(file_name)
         f = File.open(file_name)
@@ -649,28 +705,29 @@ class Article < ActiveRecord::Base
           if current_line.strip != ''
             if current_line.index("|2")
               count2 += 1
-              value += current_line.gsub(/\|[12345]/,'').strip + " "              
+              value += current_line.gsub(/\|[12345]/,'').strip + " " if count2 == 1              
             end
             
             if current_line.index('|3')
               count3 += 1
-              value += current_line.gsub(/\|[12345]/,'').strip + " "
+              value += current_line.gsub(/\|[12345]/,'').strip + " " if count2 == 1  
             end
             
             if current_line.index('|4')
               count4 += 1
-              value += current_line.gsub(/\|[12345]/,'').strip + " "
+              value += current_line.gsub(/\|[12345]/,'').strip + " " if count2 == 1 && count4 == 1
             end
 
           else
             current_line_draw = f_raw.gets
-            taas = TestArticleAttributeSentence.where(sentence: current_line_draw.strip).first
-            puts taas.nil?
-            
+            taas = TestArticleAttributeSentence.find(current_line_draw.strip)
+                        
             if !taas.nil?
-              if (count2 == 1 && count3 > 0 && count4 == 1) || (count2 == 1 && count3 == 0 && count4 == 1) || (count2 == 1 && count3 == 0 && count4 == 0)
+              if !value.nil? && value.strip != '' #(count2 == 1 && count3 > 0 && count4 == 1) || (count2 == 1 && count3 == 0 && count4 == 1) || (count2 == 1 && count3 == 0 && count4 == 0)
                 puts value + ": " + attribute.name
-                taas.test_value = value.strip              
+                taas.test_value = value.strip
+                
+                #sleep(1)
               else
                 taas.test_value = nil
               end
@@ -696,7 +753,8 @@ class Article < ActiveRecord::Base
       
       #count result
       str = ""
-      count_t = 0;
+      correct = 0;
+      wrong = 0;
       count_finded = 0;
       
       infobox_template.articles.where(for_test: 1).each do |article|
@@ -707,37 +765,92 @@ class Article < ActiveRecord::Base
           article.test_article_attribute_sentences.each do |test|
             
             attribute_sentence = AttributeSentence.where(article_id: test.article_id, attribute_id: test.attribute_id).first
-            puts test.test_value
+            puts attribute_sentence.nil?
 
             #puts test.test_value = "#########"
             
-            if !attribute_sentence.nil? && !test.test_value.nil?                         
+            if !attribute_sentence.nil? && !test.test_value.nil?                
                             
               attribute_value = AttributeValue.where(article_id: test.article_id, attribute_id: test.attribute_id).first
-              str += test.test_value + " |......| " + attribute_value.raw_value + "\n"
-              puts attribute_value.raw_value
               
-              if test.test_value.strip.downcase == attribute_value.raw_value.strip.downcase
-                count_t += 1;
+              if !attribute_value.raw_value.nil?
+                
+              
+                    
+                    puts attribute_value.raw_value
+                    
+                    if test.test_value.strip.downcase == attribute_value.raw_value.strip.downcase
+                      str += count_finded.to_s + "\t" + "TRUE" + "\t" +  attribute_value.attribute.name + "\t" + attribute_value.raw_value.to_s + " / #{test.test_value.to_s}\n"
+                      correct += 1;
+                    else
+                      str += count_finded.to_s + "\t" + "FALSE" + "\t" +  attribute_value.attribute.name + "\t" + attribute_value.raw_value.to_s + " / #{test.test_value.to_s}\n"
+                      wrong += 1;
+                    end
+                    
+
               end
               
             end
-            count_finded += 1;
+            if !test.test_value.nil?              
+              str += count_finded.to_s + "\t" + "NEW" + "\t" +  test.attribute.name + "\t........ / #{test.test_value.to_s}\n"
+              count_finded += 1
+            end
           end
           
     end
       
-    total = AttributeSentence.where(for_test: 1).count("CONCAT(article_id,'---',attribute_id)",distinct: true).to_s
+    AttributeValue.joins(:article).where("articles.for_test=1").each do |value|
+      
+      attribute_sentence = AttributeSentence.where(article_id: value.article_id, attribute_id: value.attribute_id).first
+      test_value = TestArticleAttributeSentence.where(article_id: value.article_id, attribute_id: value.attribute_id).first
+      
+      
+      if !attribute_sentence.nil?
+        
+        if test_value.test_value.nil? 
+          str += "#" + "\t" + "null" + "\t" +  value.attribute.name + "\t" + value.raw_value.to_s + " / ..........\n"
+        end
+      
+      
+      end
+    
+      
+    end
+      
+      
+    artilce_count = infobox_template.articles.count.to_s
+    artilce_test = infobox_template.articles.where(for_test: 0).count.to_s
+    artilce_train = infobox_template.articles.where(for_test: 1).count.to_s
+    
+    attribute_count = infobox_template.attributes.count.to_s
+    attribute_count_for_test = infobox_template.attributes.where(status: 1).count.to_s
+    #attribute_count_high_rate = infobox_template.attributes.where(status: 1).where(high_rate: 1).count.to_s
+    
+    total = AttributeSentence.where(for_test: 1).count("CONCAT(article_id,'---',attribute_id)",distinct: true)
+    
+    first_line = "Total articles: " + artilce_count.to_s + "\n"
+    first_line += "Articles for test: " + artilce_test.to_s + "\n"
+    first_line += "Articles for train: " + artilce_train.to_s + "\n"
+    first_line += "Total attributes: " + attribute_count.to_s + "\n"
+    first_line += "Attributes with high occurrences: " + attribute_count_for_test.to_s + "/" + attribute_count.to_s + "\n" + "\n------------\n"
+    #first_line += "Attributes with high precision: " + attribute_count_high_rate.to_s + "/" + attribute_count_for_test.to_s + "\n------------\n"
+      
+    
     first_line = "Found: " + count_finded.to_s + "\n"
-    first_line += "Correct: " + count_t.to_s + "\n"
-    first_line += "Total: " + total + "\n\n\n"
+    first_line += "Found Not Null: " + (correct+wrong).to_s + "\n"
+    first_line += "Correct: " + correct.to_s + "\n"
+    first_line += "Wrong: " + wrong.to_s + "\n"
+    first_line += "Total: " + total.to_s + "\n"
+    first_line += "precision: " + (correct.to_f/(correct.to_f+wrong.to_f)).to_s + "\n" if correct+wrong > 0
+    first_line += "recall: " + (correct.to_f/total.to_f).to_s + "\n" if total > 0
+    first_line += "\n\n\n"
     File.open("public/crf/result_p.txt", "w") { |file| file.write  first_line + str}
   end
   
   def self.run_all
     
     ####1
-    #self.import(312)
+    #self.import(200)
     #self.write_log("#####1")
     #
     ####1.1
@@ -750,7 +863,7 @@ class Article < ActiveRecord::Base
     ####3
     #self.write_article_to_files
     #self.write_log("#####3")
-    ##
+    ###
     ####4
     #self.find_sentences_with_value
     #self.write_log("#####4")
@@ -779,12 +892,12 @@ class Article < ActiveRecord::Base
     ####6.1
     #self.doccat_test_files
     #self.write_log("#####6.1")
-    
+    #
     ####6.2
     #self.filter
     #self.write_log("#####6.2")
-    #
-    ###10
+    
+    ##10
     self.create_test_files_crf
     self.write_log("#####10")
     
