@@ -1,0 +1,65 @@
+Found: 19
+Found Not Null: 5
+Correct: 3
+Wrong: 2
+Total: 11
+precision: 0.6
+recall: 0.2727272727272727
+
+
+
+#	NEW	iata	........ / it	// On November 24 , 2009 , the Department of State announced that it was offering a reward of up to $5M for Abu Ibrahim , now about 73 years old .
+
+1	FALSE	NAC Air::iata	- / an	
+NAC grew steadily , evolving from the early two aircraft operation serving four communities to an eleven aircraft operation connecting <a> Sioux Lookout , Ontario </a> ; <a> Winnipeg </a> ; <a> Thunder Bay </a> ; <a> Red Lake , Ontario </a> ; <a> Thompson , Manitoba </a> and 21 First Nations communities </p>
+
+#	NEW	iata	........ / 54CF	// The aircraft was a four-engine <a> Douglas </a> <a> DC-8-54CF </a> airliner , registered CF-TJN .
+
+#	NEW	iata	........ / by	// The airline was purchased by <a> British Airways </a> and has since merged with <a> OpenSkies </a> an all business class airline owned by <a> British Airways </a> . </p>
+
+#	NEW	iata	........ / first	// The first aircraft joined the fleet in April of that year .
+
+#	NEW	iata	........ / an	// <p> The aircraft was a twin-engine <a> Douglas DC-9-33CF </a> operated on behalf of ALM by <a> Overseas National Airways </a> ( ONA ) , with an ONA aircraft and flight crew , and an ALM cabin crew .
+
+#	NEW	iata	........ / no	// The cold , <a> drizzly </a> weather was normal for the area , there were no indications that anything was wrong with the aircraft , and , although this particular aircraft had 24 , 000 flying hours since its November 1990 delivery , There were no survivors .
+
+#	NEW	iata	........ / this	// <p> The National Transportation Safety Board determines the probable cause ( s ) of this accident as follows : </p>
+
+#	NEW	iata	........ / November	// <p> <strong> Pan Am Flight 708 </strong> was a cargo flight that crashed less than 10 miles west-southwest of <a> Tegel Airport </a> in <a> Berlin </a> , <a> Germany </a> , in the early morning hours of November 15 , 1966 .
+
+#	NEW	iata	........ / ( at	// <p> The Loch Lomond Seaplanes fleet includes the following aircraft ( at April 2009 ) : </p>
+
+10	TRUE	Pan Européenne Air Service::iata	- / ch-	
+<p> The Pan Europ&#x00e9 ; enne Air Service fleet includes the following aircraft ( as of 12 July 2008 ) [ <a> http : / /www . ch-aviation . c / aircraft . php ? search=set&amp ; airline=PEA&amp ; al_op=1 </a> ] : </p>
+
+#	NEW	iata	........ / destinations :	// <p> Appalachian Airlines offered scheduled flights to the following destinations : </p>
+
+12	TRUE	Jettime::iata	- / class	
+As of January 2011 , the Jettime fleet consists of six <a> Boeing 737-300 </a> aircraft with an average age of 21 . 3 years , each of which is equipped with 148 passenger seats in an all- <a> economy class </a> cabin layout .
+
+#	NEW	iata	........ / June	// <p> The aircraft , a <a> Boeing 737-4Q8 </a> with two <a> CFMI CFM56-3C1 </a> <a> jet engine </a> s , was built by <a> Boeing </a> with manufacturer serial number 2537 / 2732 , and made its first flight on 9 June 1995 . ref
+
+14	TRUE	Agni Air::iata	ag / at	
+Agni Air provides scheduled flights at the following locations ( as of June 2010 ) : </p>
+
+15	FALSE	Skyway Enterprises::iata	ki / be	
+Both aircraft had to be written off .
+
+#	NEW	iata	........ / January	// <p> The airline was established and started operations in <a> 1978 </a> and acquired the freight operations of <a> CCAir </a> on 2 January 1990 .
+
+#	NEW	iata	........ / ( at	// <p> The Midwest Airlines fleet consists of the following aircraft ( at January 2011 ) : </p>
+
+#	NEW	iata	........ / It	// It started operations and became Mo&#x00e7 ; ambique Expresso in 1995 as an independent airline .
+
+#	null	iata	- / ..........
+
+#	null	iata	so / ..........
+
+#	null	iata	- / ..........
+
+#	null	iata	- / ..........
+
+#	null	iata	- / ..........
+
+#	null	iata	- / ..........
+

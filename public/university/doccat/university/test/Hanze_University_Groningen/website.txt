@@ -1,4 +1,0 @@
-<li>Master Arts Education</li>
-<li>Master of Fine Arts Interactive Media and Environments</li>
-<li>Master of Fine Arts Painting</li>
-<li>Master of Fine Arts Scenography</li>

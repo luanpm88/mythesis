@@ -1,7 +1,0 @@
-<li>Centre for Academic Writing (CAW)</li>
-<li>Centre for Distributed / Distance Learning (CDDL)</li>
-<li>Centre for Forest Interdisciplinary Research (C-FIR)</li>
-<li>Centre for Innovation in Teaching &amp; Learning (CITL)</li>
-<li>Centre for Research in Young People's Texts and Cultures (CRYTC)</li>
-<li>Centre for Rupert's Land Studies</li>
-<li>Centre for Sustainable Transportation</li>

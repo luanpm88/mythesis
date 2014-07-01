@@ -1,0 +1,10 @@
+Found: 1
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	birth_place	........ / Los Angeles	// <p> Although Harper obtained a JD and MPA , he chose to use neither and instead moved to <a> Los Angeles </a> to pursue acting .
+

@@ -1,6 +1,0 @@
-It hosts many classrooms, an aula magna, a <a>restaurant</a> and most of the administrative <a>offices</a>.
-<p>Bocconi is a member of the <a>Offshoring Research Network</a>, an international network researching the offshoring of business processes and services.</p>
-<h2>Student life</h2>
-<h3>Student associations</h3>
-<h3>Student publications</h3>
-<li><a>Offshoring Research Network</a></li>

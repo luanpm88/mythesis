@@ -1,0 +1,79 @@
+Found: 27
+Found Not Null: 11
+Correct: 6
+Wrong: 5
+Total: 13
+precision: 0.5454545454545454
+recall: 0.46153846153846156
+
+
+
+#	NEW	iata	........ / ( at	// <p> The TESIS fleet consisted of the following aircraft ( at August 2006 ) : </p>
+
+1	TRUE	MetroJet::iata	us / US	
+Its aircraft were among the oldest and least fuel efficient in US Airways ' s fleet , and like its parent its labor costs were among the highest in the industry .
+
+#	NEW	iata	........ / it	// The tower controller issued a <a> windshear </a> warning to all aircraft , but it was on a different radio frequency than Flight 1016 .
+
+#	NEW	iata	........ / ( at	// <p> The Air Ukraine fleet consisted of the following aircraft ( at December 2002 ) : </p>
+
+#	NEW	iata	........ / ch-	// <p> The RUTACA Airlines fleet includes the following aircraft ( as of 19 October 2008 ) [ <a> http : / /www . ch-aviation . c / aircraft . php ? search=set&amp ; airline=RUC&amp ; al_op=1 </a> ] : </p>
+
+#	NEW	iata	........ / November	// <p> LAN Peru has codeshare agreements with the following airlines as of November 2007 : </p>
+
+6	FALSE	Flyjet::iata	- / ( at	
+<p> The FlyJet fleet consisted of the following aircraft ( at January 2008 ) : </p>
+
+#	NEW	iata	........ / ( at	// <p> The Titan Airways fleet consists of the following aircraft ( at 17 November 2010 ) </p>
+
+8	FALSE	QantasLink::iata	qf / commenced	
+The service commenced in July 2010 .
+
+#	NEW	iata	........ / ( at	// <p> The PAN Air fleet consists of the following aircraft ( at June 2010 ) : </p>
+
+10	TRUE	LagunAir::iata	n7 / ch-	
+<p> The LagunAir fleet consists of the following aircraft ( as of 21 September 2008 ) [ <a> http : / /www . ch-aviation . c / aircraft . php ? search=set&amp ; airline=N7&amp ; al_op=1 </a> ] : </p>
+
+11	FALSE	Intercontinental de Aviación::iata	rs / ( at	
+<p> The Intercontinental de Avacion fleet consisted of 1 <a> Bombardier Dash 8 Q300 </a> aircraft ( at January 2005 ) , and <a> DC-9 30 </a> </p>
+
+#	NEW	iata	........ / ( at	// <p> The West Caribbean Airways fleet consisted of the following aircraft ( at January 2005 ) : </p>
+
+13	TRUE	Sky Airline::iata	h2 / ch-	
+<p> The Sky Airline fleet consists of the following aircraft ( as of 10 December 2008 ) [ <a> http : / /www . ch-aviation . c / aircraft . php ? search=set&amp ; airline=H2&amp ; al_op=1 </a> ] : </p>
+
+#	NEW	iata	........ / ( at	// The Vostok Airlines fleet includes the following aircraft ( at June 2010 ) : </p>
+
+#	NEW	iata	........ / ( at	// <p> The Saravia fleet includes the following aircraft ( at August 2006 ) : </p>
+
+#	NEW	iata	........ / at	// <p> [ [ File : KSU Direktflyg BAe Jetstream 32 . png | thumb | Direktflyg Jetstream 32 at [ [ Kristiansund Airport , Kvernberget ] ] ] ] The Direktflyg fleet consists of the following aircraft ( at March 2007 ) : ref name=&quot ; FI&quot ; / </p>
+
+17	TRUE	Regional 1::iata	- / ch-	
+<p> The Regional 1 fleet consists of the following aircraft ( as of August 2010 ) [ <a> http : / /www . ch-aviation . c / aircraft . php ? search=set&amp ; airline=TSH&amp ; al_op=1 </a> ] : </p>
+
+18	FALSE	Crimea Air::iata	or / ( at	
+<p> The Crimea Air fleet consisted of the following aircraft ( at March 2007 ) : </p>
+
+#	NEW	iata	........ / ( at	// <p> The Odessa Airlines fleet includes the following aircraft ( at March 2007 ) ref name=&quot ; FI&quot ; / : </p>
+
+20	TRUE	Ukraine Air Enterprise::iata	- / ch-	
+<p> The Ukraine Air Enterprise fleet consists of the following aircraft ( as of 13 May 2009 ) [ <a> http : / /www . ch-aviation . c / aircraft . php ? search=set&amp ; airline=UKN&amp ; al_op=1 </a> ] : </p>
+
+21	TRUE	Venezolana::iata	- / ch-	
+<p> The Venezolana fleet consists of the following aircraft ( as of 19 May 2010 ) [ <a> http : / /www . ch-aviation . c / aircraft . php ? search=set&amp ; airline=RAV&amp ; al_op=1 </a> ] : </p>
+
+22	FALSE	Línea Turística Aereotuy::iata	ld / ( at	
+It has 300 employees ( at March 2010 ) .
+
+#	NEW	iata	........ / ( at	// <p> The Servivensa fleet consists of the following aircraft ( at August 2006 ) : </p>
+
+#	NEW	iata	........ / ( at	// <p> The ABSA fleet includes the following aircraft ( at March 2010 ) ref name=&quot ; flight2010&quot ; / : </p>
+
+#	NEW	iata	........ / June	// <p> The fleet of Air Minas Linhas A&#x00e9 ; reas includes the following aircraft configured in all-economy class ( as of June 2010 ) : </p>
+
+#	NEW	iata	........ / ( at	// <p> The Gestair fleet consists of the following aircraft ( at March 2007 ) ref name=&quot ; FI&quot ; / : </p>
+
+#	null	iata	- / ..........
+
+#	null	iata	ca / ..........
+

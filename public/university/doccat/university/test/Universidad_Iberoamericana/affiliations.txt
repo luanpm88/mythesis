@@ -1,7 +1,0 @@
-<li><a>J.
-Oscar Nominee.</li>
-<li><a>Rosario Green</a> &ndash; Former Foreign Affairs Minister.</li>
-<li><a>Isaac Broid Zajman</a> &ndash; Architect (<a>Telcel</a> Building).</li>
-<li><a>Carlos Mijares Bracho</a> &ndash; Architect.</li>
-<li><a>J.
-Francisco Serrano Cacho</a> &ndash; Architect.</li>

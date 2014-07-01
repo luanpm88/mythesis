@@ -1,0 +1,36 @@
+Found: 14
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	headquarters	........ / Sydney	// <p> [ [ Image : PHMPP . JPG | thumb | A Martinair Cargo [ [ Boeing 747-400BCF ] ] takes off at <a> Sydney Airport </a> , <a> Australia </a> . ] ]
+
+#	NEW	headquarters	........ / subsidiaries :	// <p> In addition to its main operation , Lufthansa has several subsidiaries , including : b / <strong> Airline subsidiaries : </strong> </p>
+
+#	NEW	headquarters	........ / ,	// The airline had 1 , 211 employees ( at May 2008 ) .
+
+#	NEW	headquarters	........ / ,	// <p> Skywest began service in 1963 as <strong> Carnarvon Air Taxis </strong> flying charter flights with small <a> general aviation </a> aircraft out of <a> Carnarvon , Western Australia </a> .
+
+#	NEW	headquarters	........ / Express	// Today Mesa Airlines operates for <a> US Airways Express </a> .
+
+#	NEW	headquarters	........ / ,	// <p> The airline was established in 2003 and started operations on March 6 , 2003 .
+
+#	NEW	headquarters	........ / ,	// <p> The deal followed the collapse of airline <a> Skyservice </a> , who previously operated aircraft for Thomas Cook during the winter season , </p>
+
+#	NEW	headquarters	........ / Comet	// <p> In May 1952 , BOAC became the first airline to introduce a <a> passenger jet </a> , the <a> de Havilland Comet </a> .
+
+#	NEW	headquarters	........ / carrier	// <p> <strong> Singapore Airlines Limited </strong> ( <strong> SIA </strong> ) ( ; , abbreviated ; ) ( ) is the <a> flag carrier </a> of <a> Singapore </a> .
+
+#	NEW	headquarters	........ / aviation	// <p> <strong> General aviation </strong> </p>
+
+#	NEW	headquarters	........ / Florida	// <p> <strong> Florida </strong> </p>
+
+#	NEW	headquarters	........ / time .	// <p> SAA won <em> Executive Travel <strong> s best airline to Africa award for the third time . </strong> </em> </p>
+
+#	NEW	headquarters	........ / Kamenski :	// <p> <strong> Kamenski : </strong> </p>
+
+#	NEW	headquarters	........ / ,	// <p> <strong> Lauda Air </strong> is an <a> airline </a> based in <a> Schwechat </a> , <a> Austria </a> .
+

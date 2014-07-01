@@ -1,4 +1,0 @@
-<li>Erskine Majors: <a>American Studies</a>, <a>Athletic Training</a>, <a>Art</a>, <a>Behavioral Science</a>, Bible and Religion, <a>Business Administration</a>, <a>Biology</a>, <a>Chemistry</a>, <a>Early Childhood Education</a>, <a>Elementary Education</a>, <a>English</a>, <a>French</a>, <a>History</a>, <a>Mathematics</a>, <a>Music</a>, <a>Natural Science</a>, <a>Philosophy</a>, <a>Physical Education</a>, <a>Physics</a>, <a>Psychology</a>, (as of 2007) <a>Political Science</a>, <a>Spanish</a>, <a>Special Education</a>, <a>Sports Management</a>.</li>
-<li><a>Fellowship of Christian Athletes</a></li>
-<li><a>Habitat for Humanity</a></li>
-<li>Lutheran Campus Ministries</li>

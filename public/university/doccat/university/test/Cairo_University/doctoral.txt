@@ -1,4 +1,0 @@
-<li><a>The Faculty of Computer and Information Science</a></li>
-<li><a>The Faculty of Dar El-Ulum</a></li>
-<li><a>The Faculty of Economics and Political Science</a></li>
-<li><a>The Faculty of Science</a></li>

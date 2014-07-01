@@ -1,6 +1,0 @@
-<h2>Athletics</h2>
-<h3>Football</h3>
-<li><a>The New Perspective</a>, the official student-run college newspaper</li>
-<li><a>WCCX-FM</a>, the official student-run radio station</li>
-<li><a>&quot;The Correct Perspective,&quot;</a> The unofficial satirical comedy-newspaper/blog</li>
-<li><a>Carroll University Athletics website</a></li>

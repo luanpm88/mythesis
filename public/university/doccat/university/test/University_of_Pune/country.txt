@@ -1,2 +1,0 @@
-<h2>Research</h2>
-<li>Centre for Modeling and Simulation (CMS) - An autonomous department run by university.</li>

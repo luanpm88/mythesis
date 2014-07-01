@@ -1,0 +1,323 @@
+Total articles: 1697
+Articles for test: 1528
+Articles for train: 169
+Total attributes: 80
+Attributes with high occurrences: 24/80
+
+------------
+Found: 1910
+Found Not Null: 102
+Correct: 77
+Wrong: 25
+Total: 172
+precision: 0.7549019607843137
+recall: 0.4476744186046512
+
+
+
+136	TRUE	Hampshire County, West Virginia:: county	hampshire county / West Virginia	
+<p> <strong> Hampshire County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> West Virginia </a> .
+
+137	TRUE	Hampshire County, West Virginia:: state	west virginia / West Virginia	
+<p> <strong> Hampshire County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> West Virginia </a> .
+
+140	TRUE	Hampshire County, West Virginia:: area_water_sq_mi	3 / 30	
+For every 100 females age 18 and over, there were 97.30 males. </p>
+
+144	FALSE	Hampshire County, West Virginia:: area_water_km2	8 / 65	
+24.60% of all households were made up of individuals and 10.60% had someone living alone who was 65 years of age or older.
+
+183	TRUE	Fayette County, West Virginia:: county	fayette county / Fayette County	
+<p> <strong> Fayette County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> West Virginia </a> .
+
+184	TRUE	Fayette County, West Virginia:: state	west virginia / West Virginia	
+<p> <strong> Fayette County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> West Virginia </a> .
+
+186	TRUE	Fayette County, West Virginia:: area_water_sq_mi	4 / 70	
+For every 100 females age 18 and over, there were 94.70 males. </p>
+
+188	TRUE	Fayette County, West Virginia:: density_km2	28 / (28/	
+The <a> population density </a> was 72 people per square mile (28/km&#x00b2;).
+
+189	TRUE	Fayette County, West Virginia:: founded	1831 / and	
+<p> Fayette County was created by Act of the <a> Virginia General Assembly </a> , passed February 28, 1831, from parts of <a> Greenbrier </a> , <a> Kanawha </a> , <a> Nicholas </a> , and <a> Logan </a> counties.
+
+190	TRUE	Fayette County, West Virginia:: seat	fayetteville / Fayetteville	
+Its <a> county seat </a> is <a> Fayetteville </a> . </p>
+
+278	TRUE	Whitman County, Washington:: state	washington / Washington	
+<p> <strong> Whitman County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Washington </a> .
+
+281	TRUE	Whitman County, Washington:: area_water_sq_mi	18 / 90	
+For every 100 females age 18 and over, there were 101.90 males. </p>
+
+284	TRUE	Whitman County, Washington:: founded	november 29, 1871 / 1871.	
+<p> Whitman County was formed out of <a> Stevens County </a> on November 29, 1871.
+
+289	TRUE	Whitman County, Washington:: density_sq_mi	19 / (7/	
+The <a> population density </a> was 19 people per square mile (7/km&#x00b2;).
+
+290	TRUE	Whatcom County, Washington:: state	washington / Washington	
+<p> <strong> Whatcom County </strong> () is a <a> county </a> located in the <a> U.S. state </a> of <a> Washington </a> .
+
+293	TRUE	Whatcom County, Washington:: density_km2	30 / (30/	
+The <a> population density </a> was 79 people per square mile (30/km&#x00b2;).
+
+346	TRUE	Spokane County, Washington:: state	washington / Washington	
+<p> <strong> Spokane County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Washington </a> , named after the <a> Spokane </a> <a> tribe </a> .
+
+348	FALSE	Spokane County, Washington:: area_water_sq_mi	17 / 60	
+For every 100 females age 18 and over, there were 93.60 males. </p>
+
+349	TRUE	Spokane County, Washington:: pop	468,684 / 417,939,	
+As of the <a> 2000 census </a> the population was 417,939, and estimated at 468,684 in 2009, making it the fourth most populous county in Washington state.
+
+355	TRUE	Spokane County, Washington:: density_sq_mi	237 / (92/	
+The <a> population density </a> was 237 people per square mile (92/km&#x00b2;).
+
+367	TRUE	Snohomish County, Washington:: state	washington / Washington	
+<p> <strong> Snohomish County </strong> () is a <a> county </a> located in the <a> U.S. state </a> of <a> Washington </a> .
+
+370	FALSE	Snohomish County, Washington:: area_water_sq_mi	107 / 20	
+For every 100 females age 18 and over, there were 98.20 males. </p>
+
+371	FALSE	Snohomish County, Washington:: pop	711,100 / 3.13.	
+The average household size was 2.65 and the average family size was 3.13. </p>
+
+372	TRUE	Snohomish County, Washington:: density_km2	112 / (112/	
+The <a> population density </a> was 290 people per square mile (112/km&#x00b2;).
+
+407	TRUE	Pend Oreille County, Washington:: state	washington / Washington	
+<p> <strong> Pend Oreille County </strong> ( ) is a <a> county </a> located in the <a> U.S. state </a> of <a> Washington </a> .
+
+409	FALSE	Pend Oreille County, Washington:: area_water_sq_mi	25 / 60	
+For every 100 females age 18 and over, there were 99.60 males. </p>
+
+411	TRUE	Pend Oreille County, Washington:: density_km2	3 / (3/	
+The <a> population density </a> was 8 people per square mile (3/km&#x00b2;).
+
+412	TRUE	Pend Oreille County, Washington:: founded	march 1, 1911 / March 1, 1911.	
+<p> Pend Oreille County was created out of <a> Stevens County </a> on March 1, 1911. </p>
+
+413	TRUE	Pend Oreille County, Washington:: seat	newport / city.	
+The county seat is at <a> Newport </a> , which is also the county's largest city. </p>
+
+514	FALSE	King County, Washington:: area_water_sq_mi	180 / 30	
+For every 100 females age 18 and over, there were 97.30 males. </p>
+
+515	TRUE	King County, Washington:: density_km2	315 / (315/	
+The <a> population density </a> was 817 people per square mile (315/km&#x00b2;).
+
+516	FALSE	King County, Washington:: founded	december 22, 1852 / was	
+<p> The county was originally named after <a> William R. King </a> who was Vice-President when the Washington Territory was created.
+
+521	TRUE	King County, Washington:: state	washington / Washington	
+<p> <strong> King County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Washington </a> .
+
+522	TRUE	King County, Washington:: pop	1,916,441 / 1,737,034,	
+The population in the 2000 census was 1,737,034, and in 2009 was an estimated 1,916,441.
+
+534	TRUE	Island County, Washington:: state	washington / Washington	
+<strong> Island County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Washington </a> .
+
+539	TRUE	Island County, Washington:: density_km2	133 / (133/	
+The <a> population density </a> was 343 people per square mile (133/km&#x00b2;).
+
+544	TRUE	Island County, Washington:: county	island county / Island County	
+<strong> Island County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Washington </a> .
+
+569	TRUE	Garfield County, Washington:: county	garfield county / Garfield County	
+<p> <strong> Garfield County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Washington </a> .
+
+570	TRUE	Garfield County, Washington:: state	washington / Washington	
+<p> <strong> Garfield County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Washington </a> .
+
+573	TRUE	Garfield County, Washington:: area_water_sq_mi	8 / 80	
+For every 100 females age 18 and over, there were 93.80 males. </p>
+
+575	TRUE	Garfield County, Washington:: density_km2	1 / (1/	
+The <a> population density </a> was 3 people per square mile (1/km&#x00b2;).
+
+576	TRUE	Garfield County, Washington:: founded	november 29, 1881 / 1881.	
+<p> Garfield County was created out of <a> Columbia County </a> on November 29, 1881.
+
+593	TRUE	Ferry County, Washington:: state	washington / Washington	
+<p> <strong> Ferry County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Washington </a> .
+
+598	TRUE	Ferry County, Washington:: founded	february 21, 1899 / February 21, 1899.	
+<p> Ferry County was created out of <a> Stevens County </a> on February 21, 1899. </p>
+
+602	TRUE	Douglas County, Washington:: county	douglas county / Douglas County	
+<p> <strong> Douglas County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Washington </a> .
+
+603	TRUE	Douglas County, Washington:: state	washington / Washington	
+<p> <strong> Douglas County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Washington </a> .
+
+606	FALSE	Douglas County, Washington:: area_water_sq_mi	28 / 00	
+For every 100 females age 18 and over, there were 96.00 males. </p>
+
+612	TRUE	Douglas County, Washington:: density_km2	7 / (7/	
+The <a> population density </a> was 18 people per square mile (7/km&#x00b2;).
+
+613	TRUE	Douglas County, Washington:: founded	november 28, 1883 / November 28, 1883.	
+Douglas County was created out of <a> Lincoln County </a> on November 28, 1883. </p>
+
+625	TRUE	Columbia County, Washington:: county	columbia county / Columbia County	
+<p> <strong> Columbia County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Washington </a> .
+
+626	TRUE	Columbia County, Washington:: state	washington / Washington	
+<p> <strong> Columbia County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Washington </a> .
+
+629	FALSE	Columbia County, Washington:: area_water_sq_mi	5 / 80	
+For every 100 females age 18 and over, there were 94.80 males. </p>
+
+631	TRUE	Columbia County, Washington:: density_km2	2 / (2/	
+The <a> population density </a> was 5 people per square mile (2/km&#x00b2;).
+
+632	TRUE	Columbia County, Washington:: founded	november 11, 1875 / November 11, 1875.	
+<p> Columbia County was created out of <a> Walla Walla County </a> on November 11, 1875. </p>
+
+659	TRUE	Asotin County, Washington:: state	washington / Washington	
+<p> <strong> Asotin County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Washington </a> .
+
+663	TRUE	Asotin County, Washington:: founded	october 27, 1883 / October 27, 1883.	
+<p> Asotin County was created out of <a> Garfield County </a> on October 27, 1883. </p>
+
+668	FALSE	Asotin County, Washington:: area_water_sq_mi	5 / 30	
+For every 100 females age 18 and over, there were 86.30 males. </p>
+
+693	TRUE	Wise County, Virginia:: state	virginia / Virginia	
+<p> <strong> Wise County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Virginia </a> .
+
+694	FALSE	Wise County, Virginia:: area_total_sq_mi	405 / 1856	
+In 1856, the county was formed from land taken from <a> Lee </a> , <a> Scott </a> , and <a> Russell </a> Counties.
+
+695	TRUE	Wise County, Virginia:: area_land_sq_mi	404 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 405&nbsp; <a> square mile </a> s (1,050&nbsp; <a> km&#x00b2; </a> ), of which 404&nbsp;square miles (1,046&nbsp;km&#x00b2;) is land and 1&nbsp;square mile (3&nbsp;km&#x00b2;) (0.29%) is water.
+
+696	TRUE	Wise County, Virginia:: area_water_sq_mi	1 / 60	
+For every 100 females age 18 and over, there were 91.60 males. </p>
+
+699	TRUE	Wise County, Virginia:: founded	1856 / formed	
+In 1856, the county was formed from land taken from <a> Lee </a> , <a> Scott </a> , and <a> Russell </a> Counties.
+
+703	FALSE	Wise County, Virginia:: area_water_km2	3 / 65	
+25.50% of all households were made up of individuals and 11.20% had someone living alone who was 65 years of age or older.
+
+738	TRUE	Stafford County, Virginia:: county	stafford county / a <a>	
+<p> <strong> Stafford County </strong> is a <a> county </a> located in the <a> Commonwealth </a> of <a> Virginia </a> , a <a> U.S. state </a> .
+
+739	TRUE	Stafford County, Virginia:: state	virginia / Virginia	
+<p> <strong> Stafford County </strong> is a <a> county </a> located in the <a> Commonwealth </a> of <a> Virginia </a> , a <a> U.S. state </a> .
+
+740	TRUE	Stafford County, Virginia:: area_total_sq_mi	280 / 270&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 280&nbsp; <a> square mile </a> s (725&nbsp; <a> km&#x00b2; </a> ), of which 270&nbsp;square miles (700&nbsp;km&#x00b2;) is land and 10&nbsp;square miles (25&nbsp;km&#x00b2;) (3.43%) is water.
+
+741	TRUE	Stafford County, Virginia:: area_land_sq_mi	270 / (3.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 280&nbsp; <a> square mile </a> s (725&nbsp; <a> km&#x00b2; </a> ), of which 270&nbsp;square miles (700&nbsp;km&#x00b2;) is land and 10&nbsp;square miles (25&nbsp;km&#x00b2;) (3.43%) is water.
+
+742	TRUE	Stafford County, Virginia:: area_water_sq_mi	10 / 50	
+For every 100 females age 18 and over, there were 99.50 males. </p>
+
+745	TRUE	Stafford County, Virginia:: founded	1664 / 1664	
+In <a> 1664 </a> it established Stafford County from territory previously part of <a> Westmoreland </a> .
+
+848	TRUE	Roanoke County, Virginia:: state	virginia / Virginia	
+<p> <strong> Roanoke County </strong> is a <a> county </a> located in the <a> U.S. state </a> of the <a> Commonwealth of Virginia </a> .
+
+852	FALSE	Roanoke County, Virginia:: pop	91,011 / 85,778.	
+As of the <a> 2000 census </a> , the population was 85,778.
+
+859	TRUE	Richmond County, Virginia:: county	richmond county / United States	
+<p> <strong> Richmond County </strong> is a <a> county </a> located on the <a> Northern Neck </a> in the <a> Commonwealth of Virginia </a> , a <a> state </a> in the <a> United States </a> .
+
+860	TRUE	Richmond County, Virginia:: area_total_sq_mi	216 / 191&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 216&nbsp; <a> square mile </a> s (560&nbsp; <a> km&#x00b2; </a> ), of which 191&nbsp;square miles (496&nbsp;km&#x00b2;) is land and 25&nbsp;square miles (65&nbsp;km&#x00b2;) (11.52%) is water. </p>
+
+861	TRUE	Richmond County, Virginia:: area_land_sq_mi	191 / (11.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 216&nbsp; <a> square mile </a> s (560&nbsp; <a> km&#x00b2; </a> ), of which 191&nbsp;square miles (496&nbsp;km&#x00b2;) is land and 25&nbsp;square miles (65&nbsp;km&#x00b2;) (11.52%) is water. </p>
+
+862	FALSE	Richmond County, Virginia:: area_water_sq_mi	25 / 90	
+For every 100 females age 18 and over, there were 131.90 males. </p>
+
+863	FALSE	Richmond County, Virginia:: density_km2	15 / (18/	
+The <a> population density </a> was 46 people per square mile (18/km&#x00b2;).
+
+870	TRUE	Richmond County, Virginia:: state	virginia / States	
+<p> <strong> Richmond County </strong> is a <a> county </a> located on the <a> Northern Neck </a> in the <a> Commonwealth of Virginia </a> , a <a> state </a> in the <a> United States </a> .
+
+871	FALSE	Richmond County, Virginia:: pop	8809 / 2.93.	
+The average household size was 2.40 and the average family size was 2.93. </p>
+
+1215	TRUE	Hanover County, Virginia:: state	virginia / Virginia	
+<p> <strong> Hanover County </strong> is a <a> county </a> located in the <a> Commonwealth </a> of <a> Virginia </a> .
+
+1217	TRUE	Hanover County, Virginia:: area_water_sq_mi	1 / 80	
+For every 100 females age 18 and over, there were 92.80 males. </p>
+
+1222	TRUE	Hanover County, Virginia:: founded	1720 / November 26, 1720	
+Plains </em> , located on the grounds of the [[Richmond National Battlefield Park]], Hanover County]] Hanover County was created on November 26, 1720, from the area of <a> New Kent County </a> called St. Paul's Parish.
+
+1314	TRUE	Fairfax County, Virginia:: state	virginia / States	
+<p> <strong> Fairfax County </strong> is a <a> county </a> in <a> Northern </a> <a> Virginia </a> , in the <a> United States </a> .
+
+1315	FALSE	Fairfax County, Virginia:: area_land_sq_mi	395 / ,	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and is water. </p>
+
+1316	FALSE	Fairfax County, Virginia:: area_water_sq_mi	12 / 20	
+For every 100 females age 18 and over, there were 96.20 males. </p>
+
+1320	FALSE	Fairfax County, Virginia:: area_water_km2	30 / 65	
+21.40% of all households were made up of individuals and 4.80% had someone living alone who was 65 years of age or older.
+
+1322	FALSE	Fairfax County, Virginia:: area_total_sq_mi	407 / ,	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and is water. </p>
+
+1401	TRUE	Chesterfield County, Virginia:: county	chesterfield county / United States	
+<p> <strong> Chesterfield County </strong> is a <a> county </a> located in the <a> Commonwealth </a> of <a> Virginia </a> , a <a> state </a> of the <a> United States </a> .
+
+1402	TRUE	Chesterfield County, Virginia:: state	virginia / States	
+<p> <strong> Chesterfield County </strong> is a <a> county </a> located in the <a> Commonwealth </a> of <a> Virginia </a> , a <a> state </a> of the <a> United States </a> .
+
+1404	FALSE	Chesterfield County, Virginia:: area_water_sq_mi	11 / 30	
+For every 100 females age 18 and over, there were 91.30 males. </p>
+
+1479	FALSE	Brunswick County, Virginia:: area_water_sq_mi	3 / 40	
+For every 100 females age 18 and over, there were 115.40 males. </p>
+
+1481	TRUE	Brunswick County, Virginia:: density_km2	13 / (13/	
+The <a> population density </a> was 32 people per square mile (13/km&#x00b2;).
+
+1482	FALSE	Brunswick County, Virginia:: founded	1720 / proclamation	
+<p> The proclamation contains a hefty tongue-in-cheek jab at Brunswick, Georgia, which falsely claims to have created the traditional Southern dish, setting off what has been coined, &#x201c;The Stew Wars.&#x201d; </p>
+
+1487	TRUE	Brunswick County, Virginia:: state	virginia / Virginia	
+Died at <a> Battle of Spotsylvania Courthouse </a> , May 1864]] <strong> Brunswick County </strong> is a <a> county </a> located in the <a> Commonwealth </a> of <a> Virginia </a> .
+
+1531	TRUE	Augusta County, Virginia:: state	virginia / Virginia	
+<p> <strong> Augusta County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Virginia </a> .
+
+1534	TRUE	Augusta County, Virginia:: area_water_sq_mi	1 / 80	
+For every 100 females age 18 and over, there were 99.80 males. </p>
+
+1536	TRUE	Augusta County, Virginia:: density_km2	26 / (26/	
+The <a> population density </a> was 68 people per square mile (26/km&#x00b2;).
+
+1538	TRUE	Augusta County, Virginia:: area_water_km2	1 / 65	
+20.10% of all households were made up of individuals and 8.10% had someone living alone who was 65 years of age or older.
+
+1542	FALSE	Arlington County, Virginia:: state	virginia / U.	
+<p> The <a> U.S. Postal Service </a> 's <a> Zip Code </a> s with their first three digits being <strong> <em> 222 </em> </strong> are all located in Arlington County, and nowhere else.
+
+1543	TRUE	Arlington County, Virginia:: area_water_sq_mi	0 / 70	
+For every 100 females age 18 and over, there were 100.70 males. </p>
+
+1547	TRUE	Arlington County, Virginia:: county	arlington county / Arlington County	
+<p> The <a> U.S. Postal Service </a> 's <a> Zip Code </a> s with their first three digits being <strong> <em> 222 </em> </strong> are all located in Arlington County, and nowhere else.
+
+1853	FALSE	Williamson County, Texas:: area_water_sq_mi	12 / 70	
+For every 100 females age 18 and over, there were 96.70 males. </p>
+
+1861	TRUE	Williamson County, Texas:: state	texas / Texas	
+<p> <strong> Williamson County </strong> (sometimes abbreviated as &quot;Wilco&quot;) is a <a> county </a> located on the <a> Edwards Plateau </a> in the <a> U.S. state </a> of <a> Texas </a> .
+

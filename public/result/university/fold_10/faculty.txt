@@ -1,0 +1,20 @@
+Found: 30
+Found Not Null: 2
+Correct: 0
+Wrong: 2
+Total: 4
+precision: 0.0
+recall: 0.0
+
+
+
+12	FALSE	Williams College::faculty	315 / 49	
+As of 2009, the school has an enrollment of 2,124 undergraduate students and 49 graduate students. </p>
+
+26	FALSE	University of Cologne::faculty	508 / 1955	
+In 1920, the Faculty of Law and the Faculty of Arts were added, from which latter the School of Mathematics and Natural Sciences was split off in 1955 to form a separate Faculty.
+
+#	null	faculty	83 / ..........
+
+#	null	faculty	82 / ..........
+

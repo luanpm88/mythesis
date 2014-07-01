@@ -1,8 +1,0 @@
-<li>1892 - Financier <a>J.
-<li>A.A.S. - Computer-Aided Drafting and Design Technology</li>
-<li>B.Tech - Communication Design</li>
-<li>B.Tech - Computer Systems</li>
-<li>B.S - Emerging Media Technologies</li>
-<li>B.Tech - Facilities Management</li>
-<li>B.Tech - Graphic Arts Production Management</li>
-<li>B.Tech - Hospitality Management</li>

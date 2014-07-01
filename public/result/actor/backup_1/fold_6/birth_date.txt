@@ -1,0 +1,53 @@
+Found: 21
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 1
+recall: 0.0
+
+
+
+#	NEW	birth_date	........ / 3 , 1956 )	// <p> <img> <strong> Mel Colm-Cille Gerard Gibson </strong> , <a> AO </a> ( born January 3 , 1956 ) is an <a> Irish-American </a> actor , film director , producer and screenwriter .
+
+#	NEW	birth_date	........ / ( October 26 , 1963 &#	// <p> <strong> Edward &quot ; Ted&quot ; Demme </strong> ( October 26 , 1963 &#x2013 ; January 13 , 2002 ) was an <a> American </a> <a> film director </a> and <a> producer </a> . </p>
+
+#	NEW	birth_date	........ / ( 1945 )	// He first directed two short films , but his first feature film was <em> <a> A Tree Grows in Brooklyn </a> </em> ( 1945 ) , one his first attempts to film dramas focused on contemporary concerns , which became his forte .
+
+#	NEW	birth_date	........ / 17 November 1966 )	// <p> <strong> Sophie Marceau </strong> ( ; born 17 November 1966 ) is a French actress , who has appeared in 35 films .
+
+#	NEW	birth_date	........ / 30 , 1972 )	// <p> <strong> Cameron Michelle Diaz </strong> ( born August 30 , 1972 ) is an American actress and former model .
+
+#	NEW	birth_date	........ / 27 February 1932 )	// <p> <strong> Dame Elizabeth Rosemond Taylor </strong> , <a> DBE </a> ( born 27 February 1932 ) , also known as <strong> Liz Taylor </strong> , is an English-American actress .
+
+#	NEW	birth_date	........ / April 2010 .	// <p> Pacino played Dr . <a> Jack Kevorkian </a> in an HBO Films biopic entitled <em> <a> You Don ' t Know Jack </a> </em> , which premiered April 2010 .
+
+#	NEW	birth_date	........ / ,	// The film ' s director , <a> Gregory Ratoff </a> , said &quot ; She is sensational&quot ; , as an actress .
+
+#	NEW	birth_date	........ / 18 , 1950 )	// <p> <strong> Cybill Lynne Shepherd </strong> ( born February 18 , 1950 ) is an American actress and former model .
+
+#	NEW	birth_date	........ / 11 , 1982 )	// <p> <strong> Thora Birch </strong> ( born March 11 , 1982 ) is an American actress .
+
+#	NEW	birth_date	........ / 15 , 1963 )	// <p> <strong> Helen Elizabeth Hunt </strong> ( born June 15 , 1963 ) is an American actress , <a> film director </a> , and <a> screenwriter </a> .
+
+#	NEW	birth_date	........ / 22 , 1844 &#	// October 22 , 1844 &#x2013 ; March 26 , 1923 ) was a <a> French </a> stage and early film <a> actress </a> , and has been referred to as &quot ; the most famous actress the world has ever known&quot ; .
+
+#	NEW	birth_date	........ / April 21 , 1958 )	// <p> <strong> Rosalie Anderson &quot ; Andie&quot ; MacDowell </strong> ( born April 21 , 1958 ) is an American <a> model </a> and actress .
+
+#	NEW	birth_date	........ / April 17 , 2010	// On April 17 , 2010 , he was awarded the Master of Cinema Award at the 12th Annual RiverRun International Film Festival . </p>
+
+#	NEW	birth_date	........ / ( 1963 ) .	// <p> In 1964 Richardson received two <a> Academy Awards </a> ( Best Director and Best Picture ) for <em> <a> Tom Jones </a> </em> ( 1963 ) .
+
+#	NEW	birth_date	........ / 9 May 1936 )	// <p> <strong> Albert Finney </strong> ( born 9 May 1936 ) is an English actor .
+
+#	NEW	birth_date	........ / 1946 ,	// In 1946 , he made his film debut in <em> Preludio d ' amore </em> , the <a> year after </a> he appeared in five films .
+
+#	NEW	birth_date	........ / 1 , 1913 &#	// <p> <strong> Mary Virginia Martin </strong> ( December 1 , 1913 &#x2013 ; November 3 , 1990 ) was an American actress and singer .
+
+#	NEW	birth_date	........ / 27 , 1972 )	// <p> <strong> Gwyneth Kate Paltrow </strong> ( ; born September 27 , 1972 ) is an American actress . </p>
+
+#	NEW	birth_date	........ / 24 , 1922 &	// <p> <strong> Ava Lavinia Gardner </strong> ( December 24 , 1922 &ndash ; January 25 , 1990 ) was an American actress .
+
+#	NEW	birth_date	........ / 9 , 1956 )	// <p> <strong> Thomas Jeffrey </strong> &quot ; <strong> Tom </strong> &quot ; <strong> Hanks </strong> ( born July 9 , 1956 ) is an American actor , producer , writer , and director .
+
+#	null	birth_date	may 24, 1925 / ..........
+

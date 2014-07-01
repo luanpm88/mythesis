@@ -1,2 +1,0 @@
-<h2>Schools and colleges</h2>
-<li><a>Phi Alpha Delta</a> - co-ed professional law fraternity</li>

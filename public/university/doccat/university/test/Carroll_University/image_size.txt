@@ -1,5 +1,0 @@
-<p><a>Steele Hall</a></p>
-<p><a>Swarthout Hall</a></p>
-<p><a>Kilgour Hall</a></p>
-<p><a>New Hall</a></p>
-<p><a>Pioneer Hall</a></p>

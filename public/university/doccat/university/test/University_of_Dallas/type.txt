@@ -1,9 +1,0 @@
-<p>UD offers Bachelor of Arts degrees in <a>Art History</a>, <a>Biology</a>, <a>Business Leadership</a>, <a>Ceramics</a>, <a>Chemistry</a>, <a>Classics</a>, <a>Comparative Literary Traditions</a>, <a>Drama</a>, <a>Economics</a>, <a>Finance</a>, <a>Education</a>, <a>English</a>, <a>French</a>, <a>German</a>, <a>Ancient Greek</a>, <a>History</a>, <a>Latin</a>, <a>Mathematics</a>, <a>Painting</a>, <a>Philosophy</a>, <a>Physics</a>, <a>Politics</a>, <a>Psychology</a>, <a>Printmaking</a>, <a>Sculpture</a>, <a>Spanish</a>, and <a>Theology</a>.</p>
-The curriculum for pre-med students has been crafted in such a way that a student may pursue a traditional liberal arts program as well as satisfy entrance requirements for medical school.
-Courses offered include <a>Biology</a>, <a>Organic Chemistry</a>, <a>Biochemistry</a>, <a>Anatomy</a>, <a>Physics</a>, <a>Physiology</a>, <a>Microbiology</a>, <a>Immunology</a>, <a>Genetics</a>, <a>Microbiology</a>, <a>Molecular Biology</a>, <a>Biostatistics</a>, <a>Developmental biology</a>, and <a>Physical Chemistry</a>.</p>
-<li>Recognized by the <em>Princeton Review</em> for being one of the top 10 universities in the nation where students pray every day.</li>
-<li>Recognized by the <em>Princeton Review</em> for being one of the top 10 universities in the nation where students are most nostalgic for <a>Ronald Reagan</a>.</li>
-<li><a>Willmoore Kendall</a> - Professor of Politics, co-founder of <a>National Review</a></li>
-<li><a>Janet Smith</a> - Assistant Professor of Philosophy, leading scholar on <a>Humanae Vitae</a></li>
-<li><a>Gerard Wegemer</a> -  Professor of English, Founder of the Center for Thomas More Studies</li>
-<li><a>Robert E. Wood</a> - Professor of Philosophy, editor of <a>American Catholic Philosophical Quarterly</a></li>

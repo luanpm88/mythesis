@@ -1,0 +1,102 @@
+Found: 26
+Found Not Null: 18
+Correct: 18
+Wrong: 0
+Total: 29
+precision: 1.0
+recall: 0.6206896551724138
+
+
+
+0	TRUE	Aero Slovakia::airline	aero slovakia / air taxi	
+<p> <strong> Aero Slovakia </strong> is an aviation company based in <a> Slovakia </a> offering a range of aviation services , including air taxi operations .
+
+#	NEW	airline	........ / TESIS Aviation Enterprise	// <p> <strong> TESIS Aviation Enterprise </strong> was a <a> cargo airline </a> based in Moscow , Russia .
+
+2	TRUE	Slovak Airlines::airline	slovak airlines / Slovak Airlines	
+<p> <strong> Slovak Airlines </strong> ( <strong> Slovensk&#x00e9 ; aerol&#x00ed ; nie a . s . </strong> ) was an <a> airline </a> based in <a> Bratislava </a> , <a> Slovakia </a> .
+
+#	NEW	airline	........ / x00f6 ; Aviation	// <p> <strong> Malm&#x00f6 ; Aviation </strong> is a <a> regional airline </a> based in <a> Malm&#x00f6 ; </a> , Sweden .
+
+#	NEW	airline	........ / American Airlines	// <p> <strong> American Airlines Flight 1 </strong> was a domestic , scheduled passenger flight from <a> New York International ( Idlewild ) Airport </a> ( later renamed John F . Kennedy International Airport ) , <a> New York </a> to <a> Los Angeles International Airport </a> , <a> California </a> that crashed shortly after take-off on 1 March 1962 .
+
+#	NEW	airline	........ / US Airways	// <p> <strong> <a> US Airways </a> Flight 1016 </strong> was a regularly scheduled flight between <a> Columbia , South Carolina </a> and <a> Charlotte , North Carolina </a> .
+
+#	NEW	airline	........ / flight contacted National Airlines	// At 2 : 31 AM <a> Eastern Standard Time </a> , one of the pilots on the flight contacted National Airlines company radio station at Wilmington to pass on a routine progress report .
+
+#	NEW	airline	........ / based	// <p> <strong> Air Ukraine </strong> ( ) was the national <a> airline </a> of <a> Ukraine </a> , based in <a> Kiev </a> .
+
+#	NEW	airline	........ / People '	// <p> The <strong> Civil Aviation Administration of China </strong> ( <strong> CAAC </strong> ; ) , formerly the <strong> General Administration of Civil Aviation of China </strong> ( ) , is the <a> aviation authority </a> under the <a> Ministry of Transport of the People ' s Republic of China </a> .
+
+#	NEW	airline	........ / LAN	// <p> <strong> LAN Per&#x00fa ; S . A . </strong> is an <a> airline </a> based in <a> Lima </a> , <a> Peru </a> .
+
+10	TRUE	Flyjet::airline	flyjet / United	
+<p> <strong> Flyjet </strong> was a charter <a> airline </a> based at <a> London Luton Airport </a> , <a> United Kingdom </a> .
+
+11	TRUE	Titan Airways::airline	titan airways / United	
+<p> <strong> Titan Airways </strong> is a British <a> charter airline </a> based at <a> London Stansted Airport </a> , United Kingdom .
+
+12	TRUE	Palestinian Airlines::airline	palestinian airlines / Palestinian	
+<p> <strong> Palestinian Airlines </strong> ( <em> al-khutut al-filastiniya </em> ) is an <a> airline </a> based in <a> Egypt </a> that is wholly-owned by the Palestinian Authority . </p>
+
+13	TRUE	Teebah Airlines::airline	teebah airlines / other airlines	
+<p> <strong> Teebah Airlines </strong> was a <a> Sierra Leone </a> registered <a> charter airline </a> based in <a> Amman </a> , <a> Jordan </a> , leasing its aircraft out to other airlines on demand .
+
+14	TRUE	QantasLink::airline	qantaslink / alliance	
+<p> <strong> QantasLink </strong> is a regional brand of <a> Australia </a> n airline <a> Qantas </a> and is an affiliate member of the <a> Oneworld </a> <a> airline alliance </a> .
+
+15	TRUE	PAN Air::airline	pan air / PAN Air	
+<p> <strong> PAN Air </strong> L&#x00ed ; neas A&#x00e9 ; reas S . A . is a <a> cargo airline </a> based in <a> Madrid </a> , <a> Spain </a> .
+
+16	TRUE	Air Atlantique::airline	air atlantique / United	
+<p> <strong> Air Atlantique </strong> is an <a> airline </a> based in <a> Coventry </a> , <a> United Kingdom </a> .
+
+17	TRUE	West Caribbean Airways::airline	west caribbean airways / West Caribbean Airways	
+<p> <strong> West Caribbean Airways </strong> was an <a> airline </a> based in <a> Medell&#x00ed ; n </a> , <a> Colombia </a> .
+
+18	TRUE	Sky Airline::airline	sky airline / based	
+<p> <strong> Sky Airline </strong> is an <a> airline </a> based at the <a> Comodoro Arturo Merino Ben&#x00ed ; tez International Airport </a> in <a> Santiago </a> , Chile .
+
+19	TRUE	Bravo Air Congo::airline	bravo air congo / Bravo Air Congo	
+<p> <strong> Bravo Air Congo </strong> was an <a> airline </a> based in <a> Kinshasa </a> , <a> Democratic Republic of the Congo </a> operating domestic and regional passenger services .
+
+20	TRUE	Air Max Africa::airline	air max africa / Air Max Africa	
+<p> <strong> Air Max Africa </strong> was an <a> airline </a> based in <a> Libreville </a> , <a> Gabon </a> .
+
+21	TRUE	Direktflyg::airline	direktflyg / Direktflyg AB	
+<p> <strong> Direktflyg </strong> , officially <strong> Svenska Direktflyg AB </strong> is a <a> regional airline </a> based in <a> Borl&#x00e4 ; nge </a> , <a> Sweden </a> .
+
+22	TRUE	Ukraine Air Enterprise::airline	ukraine air enterprise / Air Enterprise	
+<p> <strong> Ukraine Air Enterprise </strong> is an <a> airline </a> based in <a> Kiev </a> , <a> Ukraine </a> .
+
+23	TRUE	Fly Europa::airline	fly europa / United	
+<p> <strong> Fly Europa </strong> was an <a> airline </a> based in <a> London </a> , <a> United Kingdom </a> .
+
+24	TRUE	Gulf Traveller::airline	gulf traveller / Gulf Air	
+<p> <strong> Gulf Traveller </strong> was the all-economy full service <a> subsidiary </a> <a> airline </a> of <a> Gulf Air </a> .
+
+25	TRUE	Yemenia::airline	yemenia / based	
+<p> <strong> Yemenia - Yemen Airways </strong> ( ) is the national <a> airline </a> of <a> Yemen </a> , based in <a> Sana ' a </a> .
+
+#	null	airline	saravia / ..........
+
+#	null	airline	lagunair / ..........
+
+#	null	airline	metrojet / ..........
+
+#	null	airline	regional 1 / ..........
+
+#	null	airline	crimea air / ..........
+
+#	null	airline	odessa airlines / ..........
+
+#	null	airline	tavrey airlines / ..........
+
+#	null	airline	flyglobespan / ..........
+
+#	null	airline	venezolana / ..........
+
+#	null	airline	servivensa / ..........
+
+#	null	airline	absa cargo airline / ..........
+

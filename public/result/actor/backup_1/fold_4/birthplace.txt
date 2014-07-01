@@ -1,0 +1,1381 @@
+Found: 681
+Found Not Null: 3
+Correct: 2
+Wrong: 1
+Total: 6
+precision: 0.6666666666666666
+recall: 0.3333333333333333
+
+
+
+#	NEW	birthplace	........ / [ [ United States | American ] ] -born [ [ English people | English ] ] [ [ actor ] ] and	// <p> <strong> Burn Hugh Gorman </strong> ( born 1 September 1974 ) is an [ [ United States | American ] ] -born [ [ English people | English ] ] [ [ actor ] ] and [ [ musician ] ] .
+
+#	NEW	birthplace	........ / American motion picture producer and computer scientist .	// <p> <strong> Lori McCreary </strong> is an American motion picture producer and computer scientist .
+
+#	NEW	birthplace	........ / producer	// <p> <strong> Anthony Kimmins </strong> ( 1901-1964 ) was a <a> director </a> , <a> playwright </a> , <a> screenwriter </a> , <a> producer </a> and <a> actor </a> . </p>
+
+#	NEW	birthplace	........ / American actor who has starred	// <p> <strong> Bob DeSimone </strong> ( born April 15 , 1946 ) is an American actor who has starred in several movies .
+
+#	NEW	birthplace	........ / C&# x00f3 ;	// <p> <strong> Ren&#x00e9 ; Strickler </strong> ( born Ren&#x00e9 ; Guillermo Strickler Zender April 27 , 1962 ) in <a> C&#x00f3 ; rdoba , Argentina </a> ) is an Argentine-Mexican actor . </p>
+
+#	NEW	birthplace	........ / , California	// He died peacefully on January 16 , 1998 in <a> Camarillo , California </a> .
+
+#	NEW	birthplace	........ / New York	// <p> Muller was born in the <a> Bronx , New York </a> and raised on <a> Long Island . </a>
+
+#	NEW	birthplace	........ / three children : Daisy ( born	// Moseley is the eldest of three children : Daisy ( born 1989 ) and Benjamin Moseley ( born 1992 ) .
+
+#	NEW	birthplace	........ / Indian cinema	// <p> <strong> Bindu </strong> ( born 17 January 1951 ) is an <a> actress </a> in <a> Indian cinema </a> who was most popular , receiving several award nominations , in the 1970s .
+
+#	NEW	birthplace	........ / , California	// She was born in <a> Los Angeles , California </a> . </p>
+
+#	NEW	birthplace	........ / American novelist and screenwriter known for his darkly comic novels of imploding father-child relationships .	// <p> <strong> Peter Craig </strong> ( born 1969 ) is an American novelist and screenwriter known for his darkly comic novels of imploding father-child relationships . </p>
+
+#	NEW	birthplace	........ / former pupil at <a> Bedford School	// He was a former pupil at <a> Bedford School </a> .
+
+#	NEW	birthplace	........ / Grass Roots	// <p> <strong> Creed Bratton </strong> ( born February 8 , 1943 ) is an American actor and musician , a former member of <a> The Grass Roots </a> .
+
+#	NEW	birthplace	........ / , starring alongside <a> Michael Crawford	// <p> Thorson also appeared in the theatre in 1971 , starring alongside <a> Michael Crawford </a> and <a> Anthony Valentine </a> in the London West End hit show <em> <a> No Sex Please , We ' re British </a> </em> and later appeared in <em> <a> A Midsummer Night ' s Dream </a> </em> as Titania at the Open Air Theatre , Regents Park , London . </p>
+
+#	NEW	birthplace	........ / Ohio	// <p> Was born and raised in Columbus , Ohio </p>
+
+#	NEW	birthplace	........ / American	// <p> <strong> Michael Callan </strong> ( born November 22 , 1935 ) is an <a> American </a> <a> actor </a> . </p>
+
+#	NEW	birthplace	........ / , - are distinguished by open narratives , psychologically penetrating close-ups , and poignant musical	// <p> [ [ File : Vladimir Putin with Tatyana Lioznova-1 . jpg | thumb | 250px | left | [ [ 2000 ] ] ] ] All of Lioznova ' s features - from <em> Three Poplars at Plyushchikha Street </em> ( 1967 ) , a cult film of the 1960s , to her last movie , <em> The Carnival </em> ( 1981 ) , - are distinguished by open narratives , psychologically penetrating close-ups , and poignant musical scores .
+
+#	NEW	birthplace	........ / Portage La Prairie	// <p> <strong> Reagan Dale Neis </strong> ( born September 24 , 1976 in <a> Portage La Prairie , Manitoba </a> ) is a <a> Canadian </a> actress .
+
+#	NEW	birthplace	........ / , California	// Kay was born in <a> Los Angeles , California </a> . </p>
+
+#	NEW	birthplace	........ / Sydney Woodrow Parfrey	// <p> Born as <strong> Sydney Woodrow Parfrey </strong> on October 5 , 1922 in <a> New York City </a> , he was <a> orphan </a> ed as a teenager .
+
+#	NEW	birthplace	........ / , California	// F . Lawton </strong> ) , born on August 11 , 1960 in <a> Riverside , California </a> , is an American <a> screenwriter </a> , <a> film producer </a> and <a> film director </a> .
+
+#	NEW	birthplace	........ / American	// <p> <strong> Shepard Menken </strong> ( November 2 , 1921 &ndash ; January 2 , 1999 ) was an <a> American </a> <a> voice actor </a> and <a> character actor </a> . </p>
+
+#	NEW	birthplace	........ / Asianet Film Awards	// <p> <strong> <a> Asianet Film Awards </a> </strong> </p>
+
+#	NEW	birthplace	........ / Mexico	// <p> <strong> Ingrid Martz de la Vega </strong> ( born September 17 , 1979 in <a> Mexico City </a> , <a> Distrito Federal </a> ) is a <a> Mexican </a> actress . </p>
+
+#	NEW	birthplace	........ / Freeman E . and Frances Krech , as <strong> Warren William Krech	// born the son of Freeman E . and Frances Krech , as <strong> Warren William Krech </strong> in <a> Aitkin , Minnesota </a> .
+
+#	NEW	birthplace	........ / India	// <p> <strong> Aruna Irani </strong> ( <a> Hindi </a> : &#x0905 ; &#x0930 ; &#x0941 ; &#x0923 ; &#x093e ; &#x0908 ; &#x0930 ; &#x093e ; &#x0928 ; &#x0940 ; , <a> Urdu </a> : &#x0627 ; &#x064e ; &#x0631 ; &#x064f ; &#x0646 ; &#x0627 ; &#x0627 ; &#x06cc ; &#x0631 ; &#x0627 ; &#x0646 ; &#x06cc ; ) is an <a> India </a> n actress .
+
+#	NEW	birthplace	........ / London .	// <p> Clements was born in <a> Sidcup </a> , London .
+
+#	NEW	birthplace	........ / born <strong> Pierre-Albert Espinasse	// <p> <strong> Pierre Brasseur </strong> , born <strong> Pierre-Albert Espinasse </strong> ( 22 December 1905 , <a> Paris </a> &ndash ; 16 August 1972 , <a> Bruneck </a> , <a> Italy </a> ) was a <a> French </a> <a> actor </a> . </p>
+
+#	NEW	birthplace	........ / stage work	// Her <a> stage work </a> includes productions at London ' s <a> National </a> and <a> Royal Court Theatre </a> s as well as on international tour . </p>
+
+#	NEW	birthplace	........ / actor	// <p> <strong> Thomas Hill </strong> ( June 2 , 1927&#x2013 ; April 20 , 2009 ) was an actor and director on stage for decades before starting in film in the mid 1960s and on television in the 1980s . </p>
+
+#	NEW	birthplace	........ / As actor	// <p> <strong> As actor </strong> </p>
+
+#	NEW	birthplace	........ / Canada )	// <p> <strong> Venus Terzo </strong> ( born October 17 , 1967 , in <a> Montreal </a> , <a> Quebec </a> , Canada ) is a Canadian actress best noted for her role as Detective <a> Angela Kosmo </a> in <em> <a> Da Vinci ' s Inquest </a> </em> and its spinoff , <em> <a> Da Vinci ' s City Hall </a> </em> .
+
+#	NEW	birthplace	........ / Buenos Aires	// <p> <strong> Georgina Mollo </strong> ( August 29 , 1983 , in <a> Buenos Aires </a> , <a> Federal District </a> ) is an <a> Argentine </a> <a> actress </a> .
+
+#	NEW	birthplace	........ / D . C	// <p> <strong> Caitlin Tiffany Glass </strong> ( born November 16 , 1981 in <a> Washington , D . C </a> ) is an American voice actress and ADR director .
+
+#	NEW	birthplace	........ / American actor .	// <p> <strong> Mark Famiglietti </strong> ( born September 26 , 1979 ) is an American actor .
+
+#	NEW	birthplace	........ / character actor	// <p> <strong> Vito Scotti </strong> ( January 26 , 1918 &#x2013 ; June 5 , 1996 ) was a veteran <a> character actor </a> who played many roles , primarily from the late-1940s to the mid-1990s .
+
+#	NEW	birthplace	........ / film was co-directed by <a> Apichatpong Weerasethakul	// The film was co-directed by <a> Apichatpong Weerasethakul </a> . </p>
+
+#	NEW	birthplace	........ / performances have been with ensembles	// Other performances have been with ensembles in Paris , London , Berlin , St . Petersburg , Madrid , Rome , Tokyo , Salzburg , Los Angeles , and New York City .
+
+#	NEW	birthplace	........ / Anthony ( Hopi ) and Margaret ( Karok ) Numkena .	// He is the first of five children born to Anthony ( Hopi ) and Margaret ( Karok ) Numkena .
+
+#	NEW	birthplace	........ / Ohio	// <p> <strong> Denise &quot ; Denny&quot ; Dillon </strong> ( born May 18 , 1951 , in <a> Cleveland , Ohio </a> ) is an <a> American </a> comedian and former cast member of <em> <a> Saturday Night Live </a> </em> .
+
+#	NEW	birthplace	........ / Iowa	// <p> Steines was born in <a> Dubuque , Iowa </a> .
+
+#	NEW	birthplace	........ / American	// <p> <strong> Charlie Hofheimer </strong> ( born April 17 , 1981 ) is an <a> American </a> film , television and thearte actor .
+
+#	NEW	birthplace	........ / , California	// <p> Barry Williams was born in <a> Santa Monica , California </a> to Doris May Moore and <a> Canadian </a> -born Frank Millar Blenkhorn of <a> English </a> , <a> Scottish </a> and <a> German </a> ancestry .
+
+#	NEW	birthplace	........ / Ohio	// <p> <strong> Heidi Jo Mueller </strong> ( born January 29 , 1982 in <a> Cincinnati </a> , <a> Ohio </a> ) is an <a> American </a> <a> actress </a> .
+
+#	NEW	birthplace	........ / East Prussia	// <p> Born <strong> Marianne Weiss </strong> in <a> Johannisburg </a> , <a> East Prussia </a> ( today Pisz , <a> Poland </a> ) Hold had to <a> flee </a> with her mother when <a> World War II </a> was drawing to a close , and they settled in <a> Innsbruck </a> .
+
+#	NEW	birthplace	........ / Canada	// <p> <strong> Terri Hawkes </strong> ( born in <a> Toronto , Ontario </a> in <a> Canada </a> ) is a <a> Canadian </a> <a> actress </a> .
+
+#	NEW	birthplace	........ / traditional devotional Koothus and	// He is an exponent of traditional devotional Koothus and Koodiyattams , such as <strong> Anguliyanka </strong> , <strong> <a> Mattavilasa Prahasana </a> </strong> , <strong> Mantranka </strong> , <strong> Ezhamanka </strong> ( seventh act of <em> Ascharyachoodamani </em> ) .
+
+#	NEW	birthplace	........ / India	// <p> <strong> Sundaram Balachander </strong> ( January 18 , 1927 &#x2013 ; April 15 , 1990 ) , born in <a> Madras </a> was an <a> India </a> n self-taught <a> veena </a> player . </p>
+
+#	NEW	birthplace	........ / United Kingdom	// <p> <strong> Rebecca Lacey </strong> ( born 20 April 1965 ) is a <a> British </a> actress , born in <a> Watford </a> , <a> United Kingdom </a> .
+
+#	NEW	birthplace	........ / American	// <p> <strong> Tamara Dobson </strong> ( May 14 , 1944 ( some sources say 1947 ) - October 2 , 2006 ) was an <a> American </a> <a> actress </a> and <a> fashion model </a> .
+
+#	NEW	birthplace	........ / New York	// <p> Carter was born in <a> Brooklyn </a> , <a> New York </a> as <strong> John E . DeCoste </strong> .
+
+#	NEW	birthplace	........ / American	// <p> <strong> Jayce Bartok </strong> ( born February 26 , 1974 ) is an <a> American </a> <a> actor </a> .
+
+#	NEW	birthplace	........ / Iran	// <p> The daughter of an <a> Iran </a> ian father , Pallett was born and brought up in <a> Carlisle , Cumbria </a> , by her mother and grandmother . </p>
+
+#	NEW	birthplace	........ / African American	// <p> <strong> Cynda Williams </strong> ( born May 17 , 1966 ) is an <a> African American </a> television and film <a> actress </a> . </p>
+
+#	NEW	birthplace	........ / United States	// <p> <strong> Heidi Zeigler </strong> ( born March 26 , 1979 ) is a former <a> child actress </a> from the <a> United States </a> .
+
+#	NEW	birthplace	........ / Upper Silesia	// <p> Grzimek was born in <a> Neisse </a> ( Nysa ) , <a> Upper Silesia </a> .
+
+#	NEW	birthplace	........ / Shreveport	// <p> Sidaris was born in <a> Chicago </a> , grew up in <a> Shreveport </a> , <a> Louisiana </a> graduated from <a> C . E .
+
+#	NEW	birthplace	........ / New	// <p> <strong> Clarke Timothy Gayford </strong> was born on October 24 in <a> Gisborne </a> , <a> New Zealand </a> and is a former music show presenter for the New Zealand music channel <a> C4 </a> as well as a radio host and former reality television contestant .
+
+#	NEW	birthplace	........ / American	// <p> <strong> Gail Strickland </strong> ( born May 18 , 1947 ) is an <a> American </a> <a> character actress </a> . </p>
+
+#	NEW	birthplace	........ / , California	// He died in <a> Rancho Mirage , California </a> of <a> lung cancer </a> . </p>
+
+#	NEW	birthplace	........ / Canada	// <p> <strong> Claire Rankin </strong> ( born January 23 , 1971 in <a> Canada </a> ) is a Canadian <a> actress </a> .
+
+#	NEW	birthplace	........ / American	// <p> <strong> Tamra Davis </strong> ( born January 22 , 1962 ) is an <a> American </a> <a> film </a> , <a> television </a> and <a> music video </a> <a> director </a> .
+
+#	NEW	birthplace	........ / ( after the relase of <strong> <em> ' ) Big Idea went bankrupt and Vischer sold	// In 2003 ( after the relase of <strong> <em> ' ) Big Idea went bankrupt and Vischer sold the company to <a> Entertainment Rights </a> ( now <a> Classic Media </a> ) and left the company . </em> </strong> </p>
+
+#	NEW	birthplace	........ / India	// <p> <strong> Emraan Anwar Hashmi </strong> ( ; born 24 March 1979 in <a> Mumbai </a> , <a> Maharashtra </a> , <a> India </a> ) , is a <a> Filmfare Award </a> -nominated <a> India </a> n <a> actor </a> . </p>
+
+#	NEW	birthplace	........ / indie file <em> Home </em> about which the Philadelphia City Paper said &quot ; The performances are uniformly strong , especially from winsome leads Liebrecht and Nicol Zanzarella&quot ; and	// <p> He had a leading role in the indie file <em> Home </em> about which the Philadelphia City Paper said &quot ; The performances are uniformly strong , especially from winsome leads Liebrecht and Nicol Zanzarella&quot ; and for which he was nominated for best actor at the Trenton Film Festival .
+
+#	NEW	birthplace	........ / screenwriter	// <p> <strong> Troy Duffy </strong> ( born June 8 , 1971 in <a> Hartford </a> , <a> Connecticut </a> ) is an American <a> director </a> , <a> screenwriter </a> and <a> musician </a> .
+
+#	NEW	birthplace	........ / Florida	// <p> <strong> Jordi Alejandro Vilasuso </strong> ( born June 15 , 1981 in <a> Miami , Florida </a> ) is an <a> American </a> actor .
+
+#	NEW	birthplace	........ / New Jersey	// <p> <strong> Lindsey Johnson McKeon </strong> ( born March 11 , 1982 in <a> Summit , New Jersey </a> ) is a two-time <a> Daytime Emmy </a> -nominated <a> American </a> <a> actress </a> , and distant relative of Australian celebrity , Harry McKeon .
+
+#	NEW	birthplace	........ / Australia	// <p> <strong> Catherine McClements </strong> ( born 1965 in <a> Melbourne </a> , <a> Australia </a> ) is an Australian actress . </p>
+
+#	NEW	birthplace	........ / , comic book artist and comic book store proprietor .	// <p> <strong> Walter Flanagan </strong> ( born October 23 , 1967 ) is an American actor , podcaster , comic book artist and comic book store proprietor .
+
+#	NEW	birthplace	........ / Great Arctic Seal Hunt	// After graduation from Yale in 1927 , he embarked on another film , <em> <a> The Great Arctic Seal Hunt </a> </em> , which was complied from a film he had shot aboard the <em> <a> SS Beothic </a> </em> during the seal hunt . </p>
+
+#	NEW	birthplace	........ / , also known by the pen name <strong> D .	// <p> <strong> Daryl Haney </strong> ( born June 21 , 1963 in <a> Charlottesville , Virginia </a> ) , also known by the pen name <strong> D .
+
+#	NEW	birthplace	........ / Australia	// <p> <strong> Rachael Taylor </strong> ( born 11 July 1984 ) is an <a> Australia </a> n actress and model .
+
+#	NEW	birthplace	........ / his play <em> Denial </em> received its New York premiere at the Metropolitan Playhouse	// <p> In April 2007 , his play <em> Denial </em> received its New York premiere at the Metropolitan Playhouse on the Lower East Side . </p>
+
+#	NEW	birthplace	........ / Charo Santos- Concio	// <p> Mortiz is married to Millette Santos ( born 1960 ; sister of <a> Charo Santos-Concio </a> ) on April 3 , 1977 , with 4 children : Frasco ( born 1979 ) , Badjie ( born 1980 ) , Calin ( born 1982 ) and Camille ( born 1983 ) . </p>
+
+#	NEW	birthplace	........ / Second World War	// <p> She was born in <a> Cheshire </a> , and after the <a> Second World War </a> trained at the <a> Birmingham School of Speech and Drama </a> and then the <a> London Academy of Music and Dramatic Art </a> .
+
+#	NEW	birthplace	........ / New Jersey	// <p> <strong> Yolande Donlan </strong> ( born June 2 , 1920 in <a> Jersey City , New Jersey </a> ) is an <a> American </a> actress who has worked extensively in the <a> United Kingdom </a> . </p>
+
+#	NEW	birthplace	........ / N&# x00e9 ; stor de Villa	// <p> <strong> N&#x00e9 ; stor de Villa </strong> ( July 6 , 1928 &ndash ; February 21 , 2004 ) was a <a> Filipino </a> <a> actor </a> frequently cast in musical films .
+
+#	NEW	birthplace	........ / Burma	// <p> He was born in <a> Rangoon </a> , <a> Burma </a> to a corporate executive father .
+
+#	NEW	birthplace	........ / , Duncan was honoured at the annual &quot ; <a> Tap Extravaganza	// <p> In 2004 , Duncan was honoured at the annual &quot ; <a> Tap Extravaganza </a> &quot ; in <a> New York City </a> .
+
+#	NEW	birthplace	........ / born <strong> Richard Mansfield Taylor	// <p> <strong> Jeff Richards </strong> , born <strong> Richard Mansfield Taylor </strong> ( November 1 , 1924 &ndash ; July 28 , 1989 ) , was an <a> American </a> <a> minor league baseball </a> player with the <a> Portland Beavers </a> who later became an <a> actor </a> .
+
+#	NEW	birthplace	........ / During	// <p> During his golden days , <strong> Relangi </strong> was so popular that he was paid equally as that of a main hero and heroine of the film .
+
+#	NEW	birthplace	........ / London	// <p> Huntley died in the Westminster Hospital , London in 1990 </p>
+
+#	NEW	birthplace	........ / American	// <p> <strong> Steve Ryan </strong> ( June 19 , 1947 &ndash ; September 3 , 2007 ) was an <a> American </a> actor . </p>
+
+#	NEW	birthplace	........ / , where she worked	// <p> <strong> Beverly Bayne </strong> ( born <strong> Pearl Beverly Bain </strong> ) ( November 11 , 1894 &#x2013 ; August 18 , 1982 ) was an American actress who appeared in silent films beginning in 1910 in <a> Chicago , Illinois </a> , where she worked for <a> Essanay Studios </a> . </p>
+
+#	NEW	birthplace	........ / Rattana '	// <p> Rattana ' s death was the first of two tough blows for the burgeoning Thai industry in 1970 , for later in the year , it would lose its biggest star , <a> Mitr Chaibancha </a> , in a fatal accident during the filming of a stunt . </p>
+
+#	NEW	birthplace	........ / early ' 70s .	// He had a string of action films in the 1960s and early ' 70s .
+
+#	NEW	birthplace	........ / Kent	// <p> Hilda Braid was born in <a> Northfleet </a> , <a> Kent </a> in 1929 .
+
+#	NEW	birthplace	........ / Lafayette County	// She was born in <a> Lewisville </a> , <a> Lafayette County , Arkansas </a> and died in <a> Los Angeles </a> , <a> California </a> . </p>
+
+#	NEW	birthplace	........ / American	// <p> <strong> Michael Michele </strong> ( born August 30 , 1966 ) is an <a> American </a> <a> film </a> and <a> television </a> <a> actress </a> .
+
+#	NEW	birthplace	........ / Toronto	// <p> Rosato was born in <a> Naples </a> , <a> Italy </a> , and raised in <a> Halifax </a> , <a> Ottawa </a> , and <a> Toronto </a> .
+
+#	NEW	birthplace	........ / American film	// <p> <strong> Lexie Donnell Bigham , Jr . </strong> ( August 4 , 1968 &#x2013 ; December 17 , 1995 ) was an American film and television <a> actor </a> .
+
+#	NEW	birthplace	........ / Wroc&# x0142 ; aw	// <p> <strong> Jan Jakub Kolski </strong> ( born January 29 , 1956 in <a> Wroc&#x0142 ; aw </a> ) is a <a> Polish </a> <a> film director </a> , <a> cinematographer </a> , and <a> writer </a> . </p>
+
+#	NEW	birthplace	........ / Sussex	// <p> <strong> Ben Richards </strong> ( born 27 March 1972 , in <a> Rustington </a> , <a> Sussex </a> ) is an <a> English </a> actor .
+
+#	NEW	birthplace	........ / as <strong> Carolyn Ann Khouri	// <p> <strong> Callie Khouri </strong> ( born November 27 , 1957 , as <strong> Carolyn Ann Khouri </strong> ) is an American screenwriter and film director .
+
+#	NEW	birthplace	........ / India	// V . Prasad </strong> was an <a> India </a> n <a> film </a> <a> actor </a> , <a> producer </a> and <a> director </a> .
+
+#	NEW	birthplace	........ / It	// <p> It was announced in March 2008 that he will be starring in a new British film <a> Mixed Up </a> alongside <a> Adele Silva </a> , <a> Billy Murray </a> and Terry Stone .
+
+#	NEW	birthplace	........ / Japanese animation director <a> Hayao Miyazaki	// <p> was born on January 21 , 1967 in <a> Tokyo </a> , <a> Japan </a> , the son of Japanese animation director <a> Hayao Miyazaki </a> . </p>
+
+#	NEW	birthplace	........ / , Jones took part	// <p> In 2010 , Jones took part in <em> <a> Channel 4 ' s Comedy Gala </a> </em> , a <a> benefit show </a> held in aid of <a> Great Ormond Street Children ' s Hospital </a> , filmed live at the <a> O2 Arena </a> in London on 30 March . </p>
+
+#	NEW	birthplace	........ / her role	// Prior to her role on <em> <a> Guiding Light </a> </em> , Gatschet was pursuing a <a> Bachelor of Fine Arts </a> at the <a> Tisch School of the Arts </a> at <a> New York University </a> .
+
+#	NEW	birthplace	........ / London European films ' Shooting Stars ' by European Film	// <p> <strong> Beatriz da Silveira Moreno Batarda </strong> ( born April 1 , 1974 in <a> London </a> ) is a <a> Portuguese </a> <a> actress </a> named as one of European films ' Shooting Stars ' by European Film Promotion in 1998 .
+
+#	NEW	birthplace	........ / Tamil	// Parthepan </strong> ( <a> Tamil </a> : &#x0bb0 ; &#x0bbe ; .
+
+#	NEW	birthplace	........ / Italian film	// <p> <strong> Eleonora Brown </strong> ( born August 22 , 1948 in <a> Naples </a> ) was an actress in <a> Italian film </a> s in the 1960s .
+
+#	NEW	birthplace	........ / , California	// <p> Cary was born on October 26 , 1918 in <a> San Diego , California </a> , as <strong> Peggy-Jean Montgomery </strong> , the second daughter of Marian and Jack Montgomery .
+
+#	NEW	birthplace	........ / as <strong> John Reginald Owen	// <p> Owen was born as <strong> John Reginald Owen </strong> in <a> Wheathampstead </a> , <a> Hertfordshire </a> , <a> England </a> . </p>
+
+#	NEW	birthplace	........ / , sometimes credited as <strong> Jack Russo	// <p> <strong> John A . Russo </strong> ( born 1939 ) , sometimes credited as <strong> Jack Russo </strong> or <strong> John Russo </strong> , is an <a> American </a> screenwriter and <a> film director </a> most commonly associated with the 1968 horror classic <em> <a> Night of the Living Dead </a> </em> .
+
+#	NEW	birthplace	........ / Brooklyn , New York	// <p> Sivero was born <strong> Francesco LoGiudice </strong> in <a> Siculiana </a> , <a> Sicily </a> , Italy , and raised in <a> Brooklyn , New York </a> .
+
+#	NEW	birthplace	........ / New York	// <p> Born in <a> New York City </a> as <strong> Catherine Cappa </strong> of <a> Italian </a> descent , she began acting when her son <a> Martin Scorsese </a> cast her in his film <em> It ' s Not Just You , Murray ! </em> .
+
+#	NEW	birthplace	........ / New Jersey	// <p> Donner was raised in <a> New Jersey </a> and <a> Texas </a> , and after graduating from high school he spent 4 years in the <a> U . S . Navy </a> .
+
+#	NEW	birthplace	........ / Bush '	// <p> She featured in the music video for <a> Bush ' s </a> final single &quot ; Inflatable&quot ; .
+
+110	TRUE	Peter Medak::birthplace	hungary / Jewish	
+<p> He was born in <a> Budapest </a> , <a> Hungary </a> to a <a> Jewish </a> family , but in 1956 fled his native country for <a> England </a> due to the <a> Hungarian Revolution </a> .
+
+#	NEW	birthplace	........ / American	// <p> <strong> Sharyn Moffett </strong> was an <a> American </a> <a> child actor </a> of the 1940s .
+
+#	NEW	birthplace	........ / Rose and Richard Edwin Bradford .	// <p> Bradford was born in <a> Tyler , Texas </a> , the son of Rose and Richard Edwin Bradford .
+
+#	NEW	birthplace	........ / body builder South Indian Film Artistes '	// <p> <strong> Sarathkumar Ramanathan </strong> ( ) ( born July 14 , 1954 ) is an Indian <a> journalist </a> , <a> film actor </a> , <a> politician </a> , <a> body builder </a> and the current president of the <a> South Indian Film Artistes ' Association </a> .
+
+#	NEW	birthplace	........ / Srikanth	// <p> <strong> Srikanth </strong> ( born 28 February 1979 ) is a South Indian <a> film actor </a> from a Tamil Brahmin family settled in Chennai .
+
+#	NEW	birthplace	........ / Savitri	// <p> <strong> Savitri </strong> or <strong> Savitri Ganesh </strong> ( ) ( 6 December 1937 &#x2013 ; 26 December 1981 ) , was an Indian <a> actress </a> , director and producer .
+
+#	NEW	birthplace	........ / Beauty	// <p> He has a small following outside of <a> Japan </a> thanks to a couple of notorious films : <em> <a> Entrails of a Beauty </a> </em> and <em> <a> Entrails of a Virgin </a> </em> .
+
+#	NEW	birthplace	........ / London Hospital	// He died , aged 79 , in the <a> Royal London Hospital </a> in East London , on 17 May 2002 , from injuries sustained in a road accident on 17 April , at <a> Waterloo Bridge </a> . </p>
+
+#	NEW	birthplace	........ / Australia	// <p> <strong> Sophie Katinis </strong> ( born 31 January 1979 ) is an <a> Australia </a> n <a> actress </a> who has appeared in many television and theatre roles .
+
+#	NEW	birthplace	........ / , California	// He lived in <a> Glendale , California </a> where he attended and graduated from <a> Herbert Hoover High School </a> .
+
+#	NEW	birthplace	........ / Israel	// <p> <strong> Orli Shoshan </strong> ( born December 7 , 1976 ) is an <a> Israel </a> i actress who played <a> Shaak Ti </a> in the <em> <a> Star Wars </a> </em> saga .
+
+#	NEW	birthplace	........ / Mexico	// <p> <strong> Bibelot Almendra Mansur Rodr&#x00ed ; guez </strong> ( born March 31 , 1978 ) is a Mexican <a> actress </a> , born in <a> Orizaba </a> , <a> Veracruz </a> , <a> Mexico </a> . </p>
+
+#	NEW	birthplace	........ / Be or Not	// <em> <a> To Be or Not to Be </a> </em> and <em> <a> Mrs .
+
+#	NEW	birthplace	........ / United	// <p> <strong> Brady James Monson Corbet </strong> ( born August 17 , 1988 in <a> Scottsdale , Arizona </a> , <a> United States </a> ) is an American <a> actor </a> .
+
+#	NEW	birthplace	........ / Superman	// <p> Among his many credits , Seay appeared in minor roles in a couple of episodes of <em> <a> Adventures of Superman </a> </em> TV series : <em> The Mind Machine </em> ( as a senator ) and <em> Jungle Devil </em> ( as an airplane pilot ) . </p>
+
+#	NEW	birthplace	........ / Paris	// <p> <strong> Mathieu Demy </strong> is a <a> French </a> actor , born October 15 , 1972 in <a> Paris </a> .
+
+#	NEW	birthplace	........ / Colombia	// <p> Brancato was born in <a> Bogot&#x00e1 ; </a> , <a> Colombia </a> .
+
+#	NEW	birthplace	........ / London , She has a sister Olivia and also a half-sister Sally and half-brother Michael from her father&#x2019 ; s previous marriages .	// <p> Born in London , She has a sister Olivia and also a half-sister Sally and half-brother Michael from her father&#x2019 ; s previous marriages . </p>
+
+#	NEW	birthplace	........ / London	// <p> Peacock was born in <a> Tottenham </a> , <a> London </a> , the son of Alexandria and Victor Edward Peacock .
+
+#	NEW	birthplace	........ / long period , these characters were voiced by other voice actors such	// Then , for a long period , these characters were voiced by other voice actors such as <a> Joe Alaskey </a> and <a> Billy West </a> .
+
+#	NEW	birthplace	........ / former Italian	// <p> <strong> Cino Tortorella </strong> , born June 27 , 1932 , is a former Italian <a> television </a> presenter , best known for creating and conducting the <a> Zecchino d ' Oro </a> festival of children ' s songs .
+
+#	NEW	birthplace	........ / has previously appeared	// He has previously appeared in <em> EastEnders </em> as a guest character in an episode in 1999 as the cellmate of <a> Steve Owen </a> and provided the voices on the radios in <a> Barry Evans ' </a> cab firm .
+
+#	NEW	birthplace	........ / Hong Kong	// <p> <strong> Duncan Chow </strong> ( Chinese : &#x5468 ; &#x7fa4 ; &#x9054 ; ) ( born Duncan Lai ( Chinese : &#x9ece ; &#x767b ; &#x52e4 ; ) , September 19 , 1978 ) is a <a> Hong Kong </a> -born actor who is popular in <a> Taiwan </a> .
+
+#	NEW	birthplace	........ / Missouri	// He is a graduate of <a> Odessa , Missouri </a> , High School .
+
+#	NEW	birthplace	........ / American	// <p> <strong> Maria Pitillo </strong> ( born January 8 , 1966 ) is an <a> American </a> <a> actress </a> who has starred in several films ; most notably as Audrey Timmonds in <em> <a> Godzilla </a> </em> .
+
+#	NEW	birthplace	........ / American	// <p> <strong> Luis Armand Garcia </strong> , born March 9 , 1992 , is an <a> American </a> <a> actor </a> .
+
+#	NEW	birthplace	........ / New Jersey	// <p> Oriolo was born in <a> Union City , New Jersey </a> in 1913 .
+
+#	NEW	birthplace	........ / Canada	// <p> <strong> Robert Ito </strong> ( born July 2 , 1931 , in <a> Vancouver </a> , <a> British Columbia </a> , <a> Canada </a> ) is a voice , television , and movie <a> actor </a> . </p>
+
+#	NEW	birthplace	........ / Japanese	// <p> ( born April 27 , 1987 ) is a <a> Japanese </a> actress .
+
+#	NEW	birthplace	........ / and voice actor from the 1950s onward .	// <p> <strong> Dick Tufeld </strong> ( born December 11 , 1926 ) is an <a> American </a> actor , announcer , narrator , and voice actor from the 1950s onward .
+
+#	NEW	birthplace	........ / ,	// <p> <strong> Sally Forrest </strong> ( born <strong> Sally Feeney </strong> , May 28 , 1928 , <a> San Diego , California </a> ) , is an American <a> film actress </a> of the 1940s and 1950s .
+
+#	NEW	birthplace	........ / St .	// <p> <strong> Nathaniel Taylor </strong> ( born March 31 , 1938 in <a> St .
+
+#	NEW	birthplace	........ / Italian	// <p> <strong> Salvatore Samperi </strong> ( <a> Padua </a> , July 26 , 1944&nbsp ; &ndash ; Rome , March 4 , 2009 ) was an <a> Italian </a> <a> film director </a> .
+
+#	NEW	birthplace	........ / Australia	// <p> <strong> Michelle Langstone </strong> ( born 30 January 1979 ) is a <a> New Zealand </a> actress who has been in many films and television series over the years in both <a> New Zealand </a> , and in <a> Australia </a> .
+
+#	NEW	birthplace	........ / Broadway	// <p> <strong> Emerson Treacy </strong> ( September 17 , 1900 &#x2014 ; January 10 , 1967 ) was a film , Broadway and radio actor . </p>
+
+#	NEW	birthplace	........ / Australia	// <p> <strong> Adrienne Pickering </strong> ( born 22 February 1981 ) is an <a> Australia </a> n <a> actress </a> . </p>
+
+#	NEW	birthplace	........ / Texas at Austin	// <p> Joel is a 1997 graduate of the <a> University of Texas at Austin </a> , where he received a <a> Bachelor of Fine Arts </a> degree in Drama Production .
+
+#	NEW	birthplace	........ / , California	// <p> <strong> Aubree Miller </strong> ( born 15 January 1979 in <a> Sherman Oaks , California </a> , USA ) is an American actress .
+
+#	NEW	birthplace	........ / born <strong> Kenneth Duncan MacLachlan	// <p> <strong> Kenne Duncan </strong> ( February 17 , 1903 - February 5 , 1972 ) , born <strong> Kenneth Duncan MacLachlan </strong> , was a well-known <a> B-movie </a> character <a> actor </a> .
+
+#	NEW	birthplace	........ / Brooklyn , New York Duncan won several local beauty pageants as a teenager before moving to	// <p> A native of <a> Brooklyn , New York </a> , Duncan won several local beauty pageants as a teenager before moving to California to become a movie actor .
+
+#	NEW	birthplace	........ / early 2006 she returned to Houston and has since graduated .	// In early 2006 she returned to Houston and has since graduated .
+
+#	NEW	birthplace	........ / Kmart	// During the 1960s and 1970s , Wells appeared in ads for <a> Kmart </a> .
+
+#	NEW	birthplace	........ / London	// <p> <strong> Gavin Richards </strong> ( born 3 July 1946 in <a> London </a> ) is a <a> British </a> <a> actor </a> , writer and director .
+
+#	NEW	birthplace	........ / Oakland	// <p> Jack Soo was born <strong> Goro Suzuki </strong> in <a> Oakland </a> , <a> California </a> .
+
+#	NEW	birthplace	........ / Mt .	// <p> <strong> James Stephens </strong> was born on May 18 , 1951 , in <a> Mt .
+
+#	NEW	birthplace	........ / first acted under his real name of James Harkishin , making both	// <p> Jimmi Harkishin was born in Paris in March 1965 to an Indian father and an Italian mother , and first acted under his real name of James Harkishin , making both his film and television debut in 1988 .
+
+#	NEW	birthplace	........ / Madagascar	// <p> <strong> Mike Wilson </strong> ( born February 18 , 1976 , in <a> Antanarivo , Madagascar </a> ) is an <a> American </a> documentary filmmaker , known for the 2004 documentary <em> <a> Michael Moore Hates America </a> </em> .
+
+#	NEW	birthplace	........ / New York	// <p> O ' Connor was born in <a> New York City </a> , the daughter of stage , film and TV actress <a> Lenka Peterson </a> and Daniel O ' Connor , a film producer .
+
+#	NEW	birthplace	........ / , California	// <p> Meskimen was born in <a> Los Angeles , California </a> , the son of actors <a> Marion Ross </a> and Freeman Meskimen .
+
+#	NEW	birthplace	........ / Iran	// <p> <strong> Mohammad Reza Golzar </strong> ( , born March 26 , 1977 in <a> Tehran </a> , <a> Iran </a> ) , is a Persian <a> Iran </a> ian <a> actor </a> and <a> musician </a> . </p>
+
+#	NEW	birthplace	........ / London	// <p> <strong> Azela Jacqueline Robinson Ca&#x00f1 ; edo </strong> ( born August 26 , 1965 in <a> London </a> , <a> England </a> ) is an English-born <a> Mexican </a> actress . </p>
+
+#	NEW	birthplace	........ / Legend	// <em> <a> The Legend of 1900 </a> </em> would be their first film together , a story about a piano player who was born and raised on a steam boat .
+
+#	NEW	birthplace	........ / Hamburg	// <p> <strong> Nina Bott </strong> ( born January 1 , 1978 in <a> Hamburg </a> ) is a <a> German </a> <a> actress </a> . </p>
+
+#	NEW	birthplace	........ / played biker boy Liam Collinson	// <p> During 2001 he played biker boy Liam Collinson in <a> ITV </a> ' s <em> Girls in Love </em> </p>
+
+#	NEW	birthplace	........ / New York	// <p> <strong> Gigi Erneta </strong> ( born in <a> New York </a> ) is an <a> American </a> <a> actress </a> of <a> Argentine </a> descent . </p>
+
+#	NEW	birthplace	........ / retired	// He retired in 2003 and is now living in Denver with his wife and two daughters .
+
+#	NEW	birthplace	........ / Lancashire	// <p> <strong> David Ross </strong> ( born 1945 , <a> Blackburn </a> , <a> Lancashire </a> ) is an <a> English </a> actor who has worked in theatre , cinema , and television . </p>
+
+#	NEW	birthplace	........ / American actor on soap operas like ABC- TV '	// <p> <strong> Michael George Stroka </strong> ( May 9 , 1938 in <a> Passaic , New Jersey </a> &#x2013 ; April 14 , 1997 ) was an American actor on soap operas like ABC-TV ' s <em> <a> Dark Shadows </a> </em> , in which he played Aristede , Bruno , Bruno Hess , and Laszlo Ferrari from 1969 to 1970 .
+
+#	NEW	birthplace	........ / Danny Baker	// In September 2010 , <a> Danny Baker </a> asked him about this during an interview on <a> BBC London 94 . 9 </a> .
+
+#	NEW	birthplace	........ / , started acting at age six .	// <p> <strong> Ariel Waller </strong> ( born May 16 , 1998 ) Waller , started acting at age six .
+
+#	NEW	birthplace	........ / American	// <p> <strong> Cassidy Rae </strong> , born 7 June 1976 in <a> Clermont , Florida </a> , is an <a> American </a> <a> actress </a> .
+
+#	NEW	birthplace	........ / PA	// <p> <strong> Steve Sandor </strong> ( born October 27 , 1937 in <a> Pittsburgh , PA </a> ) is an actor who made his first television appearance on <em> <a> Star Trek : The Original Series </a> </em> , playing Lars in the second season episode <em> &quot ; <a> The Gamesters of Triskelion ( TOS episode ) </a> &quot ; </em> . </p>
+
+#	NEW	birthplace	........ / born <strong> Monica Cresswell Wood	// <p> She was born <strong> Monica Cresswell Wood </strong> in <a> Tonga </a> to Australian missionaries <a> Rev .
+
+#	NEW	birthplace	........ / David Brett ( footballer )	// <p> : <em> For the former English footballer , see <a> David Brett ( footballer ) </a> </em> <strong> David Brett </strong> is an <a> English </a> <a> actor </a> , <a> singer </a> and <a> arranger </a> .
+
+#	NEW	birthplace	........ / Paris	// <p> <strong> Dan Paris </strong> ( born 15 June 1973 ) is an <a> Australian </a> <a> actor </a> .
+
+#	NEW	birthplace	........ / as <strong> Arturo Antonio Gaxiola	// <p> Born as <strong> Arturo Antonio Gaxiola </strong> in <a> San Francisco </a> , he appeared on film and onstage .
+
+#	NEW	birthplace	........ / American	// <p> <strong> William Franklin Walker </strong> ( July 1 , 1896 - January 27 , 1992 ) was an <a> American </a> television and film actor .
+
+#	NEW	birthplace	........ / Hertfordshire	// <p> <strong> Claire Rushbrook </strong> ( born 1970 in <a> Hertfordshire </a> ) is an English actress best known for playing Carrie in <em> <a> Carrie and Barry </a> </em> on <a> BBC </a> television . </p>
+
+#	NEW	birthplace	........ / film	// <p> <strong> Philip Rapp </strong> ( March 26 , 1907 &#x2013 ; January 23 , 1996 ) was a <a> film </a> and <a> television director </a> and <a> screenwriter </a> .
+
+#	NEW	birthplace	........ / American	// <p> <strong> Alan Ritchson </strong> ( born November 28 , 1982 ) is an <a> American </a> <a> fashion model </a> turned <a> actor </a> / <a> singer </a> .
+
+#	NEW	birthplace	........ / born <strong> Lawrence Bagby III	// <p> Bagby was born <strong> Lawrence Bagby III </strong> in <a> Marysville , California </a> .
+
+#	NEW	birthplace	........ / actor	// <p> <strong> Ladislav Beran </strong> ( born February 8 , 1967 ) is an <a> actor </a> and <a> choreographer </a> . </p>
+
+#	NEW	birthplace	........ / Germany	// <p> <strong> Franziska Troegner </strong> ( born July 18 , 1954 in <a> Berlin </a> , <a> Germany </a> ) is a German actress who has appeared in over fifty films .
+
+#	NEW	birthplace	........ / American	// <p> <strong> Huntley Ritter </strong> ( born January 20 , 1977 ) is an <a> American </a> acto / pro-hunte / producer from <a> Atlanta , Georgia </a> .
+
+#	NEW	birthplace	........ / remains are interred at <a> Valhalla Memorial Park Cemetery	// His remains are interred at <a> Valhalla Memorial Park Cemetery </a> . </p>
+
+#	NEW	birthplace	........ / TV programmes , most notably as John Hargreaves man who knocked down and killed Lisa Duckworth and another	// He has also appeared in many other TV programmes , most notably as John Hargreaves in <em> <a> Coronation Street </a> </em> , the man who knocked down and killed Lisa Duckworth and another role in <em> <a> Emmerdale </a> </em> , that of PC John Jarvis at the time of the Post Office raid in 1994 . </p>
+
+#	NEW	birthplace	........ / United	// <p> <strong> Robert Jezek </strong> is a <a> Canadian </a> <a> film </a> and <a> television </a> <a> actor </a> based in the <a> United Kingdom </a> . </p>
+
+#	NEW	birthplace	........ / writer	// <p> <strong> Alfred Soto , Jr . </strong> ( June 22 , 1970 &ndash ; July 10 , 2005 ) was an American <a> comedian </a> , <a> writer </a> and <a> actor </a> .
+
+#	NEW	birthplace	........ / New York	// Vincent ' s Hospital </a> in <a> Greenwich Village </a> , <a> New York City </a> , aged 79 and was cremated at <a> Ferncliff </a> . </p>
+
+189	FALSE	Page Fletcher::birthplace	nova scotia / TV mini series <strong> <em> ' as Alex Murph / RoboCop	
+<p> Page starred in the 2000 TV mini series <strong> <em> ' as Alex Murph / RoboCop , his most recent project was in the 2002 TV movie </em> <a> Haven ' t We Met Before ? </a> <em> . </em> </strong> </p>
+
+#	NEW	birthplace	........ / original player	// <p> On radio , Garland was an original player of the <strong> C </strong> alifornia <strong> A </strong> ctors <strong> R </strong> adio <strong> T </strong> heatre .
+
+#	NEW	birthplace	........ / English stage and film actor , theatre director and an immaculately stylish revue artiste .	// <p> <strong> Henry Kendall </strong> , born in London on 28 May 1897 was an English stage and film actor , theatre director and an immaculately stylish revue artiste .
+
+#	NEW	birthplace	........ / Indo	// Of <a> Indo </a> ethnicity , he is the oldest of 4 siblings to a <a> Dutch </a> father and Indonesian mother . </p>
+
+#	NEW	birthplace	........ / New Jersey	// <p> <strong> Elizabeth Bogush </strong> ( born September 24 , 1977 in <a> Perth Amboy , New Jersey </a> ) is an <a> American </a> <a> actress </a> .
+
+#	NEW	birthplace	........ / American	// <p> <strong> Harley Venton </strong> ( born November 11 , 1953 ) is an <a> American </a> <a> actor </a> . </p>
+
+#	NEW	birthplace	........ / United Kingdom	// <p> <strong> Glen Berry </strong> ( born April 21 , 1978 in <a> Romford </a> , <a> United Kingdom </a> ) is a British <a> actor </a> . </p>
+
+#	NEW	birthplace	........ / He also starred alongside <a> Rowan Atkinson	// <p> He also starred alongside <a> Rowan Atkinson </a> in an episode of <em> <a> Mr .
+
+#	NEW	birthplace	........ / West End several times	// His real passion was for the theatre , and he appeared in the West End several times , including in Twelve Angry Men , and the musical Promises Promises .
+
+#	NEW	birthplace	........ / , California	// <p> <strong> Dana Sparks </strong> ( born August 1 , 1961 ; <a> Orinda , California </a> ) is an <a> American </a> <a> television </a> <a> actress </a> . </p>
+
+#	NEW	birthplace	........ / American	// <p> <strong> Valentine Davies </strong> ( August 25 , 1905 - July 23 , 1961 ) was an <a> American </a> film and television writer , producer , and director .
+
+#	NEW	birthplace	........ / American	// T . Stevens </strong> ( July 20 , 1919 &ndash ; June 13 , 1994 ) , born <strong> Gloria Wood </strong> in <a> Los Angeles </a> , <a> California </a> , was an <a> American </a> film actress .
+
+#	NEW	birthplace	........ / acid- voiced supporting actor	// <p> <strong> Frank Jenks </strong> ( November 4 , 1902 - May 13 , 1962 ) acid-voiced supporting actor , began in vaudeville and went on to a long career in movies and television , mostly in comedy .
+
+#	NEW	birthplace	........ / Japan	// <p> is a <a> Japan </a> ese model and actor .
+
+#	NEW	birthplace	........ / child actor	// <p> <strong> Chris Hebert </strong> ( born September 28 , 1973 ) is an American former <a> child actor </a> who has appeared in a number of television series , commercials , and a few feature films . </p>
+
+#	NEW	birthplace	........ / New York	// <p> Born in <a> New York City </a> , Dowling was a model and chorus girl before moving to California in 1943 .
+
+#	NEW	birthplace	........ / Hammer Horror	// Marsh also played Lucy in the <a> Hammer Horror </a> film <em> <a> Dracula </a> </em> ( 1958 ) , Alice in the 1949 film version of <em> <a> Alice in Wonderland </a> </em> , and Fan , Scrooge ' s sister , in <em> <a> Scrooge </a> </em> ( 1951 ) . </p>
+
+#	NEW	birthplace	........ / American	// <p> <strong> Lauri Hendler </strong> ( born April 22 , 1965 ) is an <a> American </a> actress , best known for her role as the middle child Julie Kanisky on <em> <a> Gimme a Break ! </a> </em> </p>
+
+#	NEW	birthplace	........ / Polish	// <p> <strong> Bella Darvi </strong> ( October 23 , 1928 &#x2013 ; September 11 , 1971 ) was a <a> Polish </a> -born French actress . </p>
+
+#	NEW	birthplace	........ / Tehran	// <p> <strong> Leila Hatami </strong> ( , born October 1 , 1972 in <a> Tehran </a> ) is an award-winning <a> Iran </a> ian actress .
+
+#	NEW	birthplace	........ / Australia	// <p> <strong> Trevor Kent </strong> was an <a> Australia </a> n theatre and television actor who achieved a level of public recognition in the 1980s .
+
+#	NEW	birthplace	........ / American	// <p> <strong> Monica Calhoun </strong> ( born July 29 , 1971 ) is an <a> American </a> film and television <a> actress </a> .
+
+#	NEW	birthplace	........ / , animal communicator and self-proclaimed &quot ; <a> pet psychic	// <p> <strong> Amelia Kinkade </strong> ( born December 31 , 1963 ) is an <a> actress </a> , animal communicator and self-proclaimed &quot ; <a> pet psychic </a> &quot ; .
+
+#	NEW	birthplace	........ / , Drew worked various jobs and won a number of beauty contests before becoming an	// <p> Born <strong> Esther Loretta Ray </strong> in <a> Kansas City , Missouri </a> , Drew worked various jobs and won a number of beauty contests before becoming an actress .
+
+#	NEW	birthplace	........ / New Jersey	// <p> Soles was born <strong> Pamela Jayne Hardon </strong> in <a> Frankfurt </a> , Germany , to an American mother from <a> New Jersey </a> and a Dutch father .
+
+#	NEW	birthplace	........ / Carpenter ' s popular 1981 film <em> <a> Escape from New York	// He then played the Secretary of State in Carpenter ' s popular 1981 film <em> <a> Escape from New York </a> </em> , in which he appeared with Atkins and <em> Halloween </em> actress <a> Nancy Stephens </a> .
+
+#	NEW	birthplace	........ / Pennsylvania	// <p> <strong> Barry Francis Jenner </strong> ( born January 14 , 1941 in <a> Philadelphia , Pennsylvania </a> ) is an <a> American </a> actor . </p>
+
+#	NEW	birthplace	........ / primary IT professional at Rooster Teeth Productions	// <p> He is the primary IT professional at Rooster Teeth Productions , along with Ben King .
+
+#	NEW	birthplace	........ / Libertarian Party of California	// Ruprecht is a former Executive Director of the <a> Libertarian Party of California </a> . </p>
+
+#	NEW	birthplace	........ / California	// <p> Collins was born in Los Angeles , <a> California </a> .
+
+#	NEW	birthplace	........ / Florita Florencio Ho and Abelardo Leslie Ho .	// <p> Trillo was born to Florita Florencio Ho and Abelardo Leslie Ho .
+
+#	NEW	birthplace	........ / Iran	// <p> <strong> Mehran Modiri </strong> ( , was born in January 1961 in <a> Tehran </a> , <a> Iran </a> ) is a prolific Iranian actor , television director and musician .
+
+#	NEW	birthplace	........ / American	// <p> <strong> Brigid Brannagh </strong> ( born August 3 , 1972 ) is an <a> American </a> actress .
+
+#	NEW	birthplace	........ / episode broadcast over Christmas	// She also appeared in the episode broadcast over Christmas 2006 , as a <a> Thai </a> prison officer in <em> Little Britain Abroad </em> in the Vicky Pollard sketches . </p>
+
+#	NEW	birthplace	........ / actor	// <p> <strong> John Zenda </strong> ( July 21 , 1944&#x2013 ; August 3 , 1994 ) was an American <a> actor </a> who starred in films and on television .
+
+#	NEW	birthplace	........ / American actor who starred	// <p> <strong> Ralph Strait </strong> ( July 8 , 1936 &ndash ; July 31 , 1992 ) was an American actor who starred in film and on television .
+
+#	NEW	birthplace	........ / American	// <p> <strong> Beth Grant </strong> ( born September 18 , 1949 ) is an <a> American </a> <a> actress </a> .
+
+#	NEW	birthplace	........ / American	// <p> <strong> Samuel A . Taylor </strong> ( June 13 , 1912 &ndash ; May 26 , 2000 ) was an <a> American </a> <a> playwright </a> and <a> screenwriter </a> . </p>
+
+#	NEW	birthplace	........ / Newcastle upon Tyne	// <p> <strong> Kim Tserkezie </strong> , born 30 July 1973 in <a> Newcastle upon Tyne </a> , is a <a> British </a> <a> actress </a> . </p>
+
+#	NEW	birthplace	........ / model	// <p> is a Japanese <a> model </a> and <a> actress </a> .
+
+#	NEW	birthplace	........ / Canadian	// <p> <strong> Robert Christie </strong> ( September 20 , 1913 &#x2013 ; May 22 , 1996 ) was a <a> Canadian </a> actor and director . </p>
+
+#	NEW	birthplace	........ / , she formed <strong> McCalla Enterprises	// Additionally , she formed <strong> McCalla Enterprises , Inc . </strong> </p>
+
+#	NEW	birthplace	........ / American	// <p> <strong> Duane Whitaker </strong> ( born June 23 , 1959 ) is an <a> American </a> actor . </p>
+
+#	NEW	birthplace	........ / born into a Polish Jewish family	// <p> He was born into a Polish Jewish family in <a> Berlin </a> .
+
+#	NEW	birthplace	........ / Los Angeles	// <p> <strong> Brian Keith Tochi </strong> ( born May 2 , 1963 in <a> Los Angeles </a> , California ) , better known as <strong> Brian Tochi </strong> , is a <a> U . S . </a> <a> actor </a> , screen-writer , <a> movie director </a> and <a> producer </a> .
+
+#	NEW	birthplace	........ / American	// <p> <strong> Meeno Peluce </strong> ( born February 26 , 1970 ) is an <a> American </a> photographer and former <a> child actor </a> . </p>
+
+#	NEW	birthplace	........ / Nominated	// <p> <strong> Nominated </strong> </p>
+
+#	NEW	birthplace	........ / telephone operator when she was approached by Mohan Bhavnani of Kohinoor Films	// <p> She was born Ruby Myers in <a> Pune </a> and was working as a telephone operator when she was approached by Mohan Bhavnani of Kohinoor Films to work in films .
+
+#	NEW	birthplace	........ / United	// <p> <strong> Devin Neil Oatway </strong> is an artist , actor , singe / songwriter , writer and independent filmmaker born on February 2 , 1978 , in <a> Santa Barbara , California </a> , United States .
+
+#	NEW	birthplace	........ / , California	// His interment is at <a> Carpinteria , California </a> ' s cemetery . </p>
+
+#	NEW	birthplace	........ / Chinese descent .	// <p> <strong> Kristy Wu </strong> ( born October 11 , 1982 ) is an American actress of Chinese descent .
+
+#	NEW	birthplace	........ / Nagesh x0ba8 ; &#x0bbe ; &#x0b95 ; &#x0bc7 ; &#x0bb7 ; &#x0bcd ; ) ( born <strong> C .	// <p> <strong> Nagesh </strong> ( <a> Tamil </a> : &#x0ba8 ; &#x0bbe ; &#x0b95 ; &#x0bc7 ; &#x0bb7 ; &#x0bcd ; ) ( born <strong> C .
+
+#	NEW	birthplace	........ / India	// Bharathiraja </strong> ( ; born 17 July 1941 in <a> Theni </a> , <a> Tamil Nadu </a> , <a> India </a> ) , is a critically acclaimed South Indian <a> filmmaker </a> .
+
+#	NEW	birthplace	........ / silent film	// <p> <strong> Seena Owen </strong> ( November 14 , 1894 - August 15 , 1966 ) was an American <a> silent film </a> actress .
+
+#	NEW	birthplace	........ / Brooklyn , New York	// <strong> Robert Bartlett </strong> ( born May 18 , 1957 , in <a> Brooklyn , New York </a> ) is a comedian , actor and writer who gained widespread fame as a comedian on the radio and television show <em> <a> Imus in the Morning </a> </em> .
+
+#	NEW	birthplace	........ / wrote	// He wrote and directed the film <a> Turn the River </a> . </p>
+
+#	NEW	birthplace	........ / Mr .	// She also appeared in <em> <a> Mr .
+
+#	NEW	birthplace	........ / has worked	// He has worked with <a> Disney </a> numerous times . </p>
+
+#	NEW	birthplace	........ / ! awards and nominations don ' t belong here American producer of	// <p> <strong> Wendy Finerman </strong> ( born 1960 ) is an ! awards and nominations don ' t belong here American producer of nearly a dozen <a> feature films </a> .
+
+#	NEW	birthplace	........ / London	// <p> <strong> Paul Raffield </strong> ( born 19 June 1957 , <a> London </a> ) is a British <a> academic </a> , director and <a> actor </a> . </p>
+
+#	NEW	birthplace	........ / her well known roles was that of Fanny Price	// One of her well known roles was that of Fanny Price in the BBC ' s 1983 dramatisation of <a> Jane Austen ' s </a> <em> <a> Mansfield Park </a> </em> .
+
+#	NEW	birthplace	........ / New Zealand	// <p> <strong> Amber Sainsbury </strong> ( born August 28 , 1978 ) is a <a> New Zealand </a> actress .
+
+#	NEW	birthplace	........ / Illinois	// <p> Fancy was born in <a> Evanston , Illinois </a> to a radio performer mother and a salesman father .
+
+#	NEW	birthplace	........ / horror spoof TV series	// <p> Her final role was in the first episode of a horror spoof TV series , <em> <a> Dr .
+
+#	NEW	birthplace	........ / American	// <p> <strong> Kent Broadhurst </strong> ( born February 4 , 1940 ) is an <a> American </a> actor .
+
+#	NEW	birthplace	........ / American	// <p> <strong> Dylan John Fergus </strong> ( born January 4 , 1980 , in San Francisco , California ) , is an <a> American </a> <a> actor </a> , <a> producer </a> and <a> director </a> .
+
+#	NEW	birthplace	........ / Ohio	// <p> <strong> Rodney Van Johnson </strong> ( born February 20 , 1961 in <a> Cincinnati </a> , <a> Ohio </a> ) is an <a> African-American </a> <a> actor </a> .
+
+#	NEW	birthplace	........ / Canada	// <p> <strong> Keith William Miller </strong> is a Canadian <a> voice actor </a> who works for Ocean Studios in <a> Vancouver </a> , <a> British Columbia </a> , <a> Canada </a> .
+
+#	NEW	birthplace	........ / Mexico City	// <p> <strong> Liza Echeverr&#x00ed ; a </strong> ( born on August 29 , 1972 in <a> Mexico City </a> ) is a <a> Mexican </a> <a> actress </a> and <a> model </a> . </p>
+
+#	NEW	birthplace	........ / roles were	// <p> Most of her roles were on German television between <a> 1965 </a> and <a> 1992 </a> .
+
+#	NEW	birthplace	........ / American	// <p> <strong> Michael A . Spiller </strong> ( born August 1 , 1961 ) is an <a> American </a> <a> director </a> .
+
+#	NEW	birthplace	........ / American	// <p> <strong> Dorothy Gibson </strong> ( May 17 , 1889 &#x2013 ; February 17 , 1946 ) was a pioneering <a> American </a> <a> silent film </a> <a> actress </a> , <a> artist ' s model </a> and <a> singer </a> active in the early 20th century .
+
+#	NEW	birthplace	........ / American	// <p> <strong> Rick Hoffman </strong> ( born June 12 , 1970 ) is an <a> American </a> <a> actor </a> . </p>
+
+#	NEW	birthplace	........ / , Kathy Derington , said Nahan was surrounded by family when	// His daughter , Kathy Derington , said Nahan was surrounded by family when he died at his home in <a> Studio City </a> , California .
+
+#	NEW	birthplace	........ / Bulgaria	// <p> <strong> Nevena Kokanova </strong> ( ) ( December 12 , 1938 &#x2013 ; June 3 , 2000 ) , was a <a> Bulgaria </a> n film <a> actress </a> .
+
+#	NEW	birthplace	........ / American actor who got	// <p> <strong> Travis Wester </strong> ( born October 8 , 1977 ) is an American actor who got his start in the film industry by playing the part of Austin Sanders in <em> <a> Beverly Hills , 90210 </a> </em> .
+
+#	NEW	birthplace	........ / J-	// <p> <strong> Hiromi Nagasaku </strong> ( <em> Nagasaku Hiromi </em> , &#x6c38 ; &#x4f5c ; &#x535a ; &#x7f8e ; , born October 14 , 1970 age 39 ) is an <a> actress </a> , and was the member of the <a> J-pop </a> group <a> Ribbon </a> .
+
+#	NEW	birthplace	........ / , California	// <p> Johnson was born in <a> Los Angeles , California </a> , where he lived , before attending <a> Wesleyan University </a> in <a> Connecticut </a> .
+
+#	NEW	birthplace	........ / Chatham- Kent	// She was born in <a> Chatham-Kent , Ontario </a> . </p>
+
+#	NEW	birthplace	........ / pseudonym <strong> James Alan	// Under the pseudonym <strong> James Alan </strong> he wrote the play <em> The Sirens of Eroc </em> .
+
+#	NEW	birthplace	........ / Leading roles	// <p> Leading roles in <strong> bold </strong> . </p>
+
+#	NEW	birthplace	........ / American	// <p> <strong> Robert Zigler Leonard </strong> ( October 7 , 1889 - August 27 , 1968 ) was an <a> American </a> <a> film director </a> , actor , producer and screenwriter . </p>
+
+#	NEW	birthplace	........ / American	// <p> <strong> Marlene Lawston </strong> ( born January 1 , 1998 ) is an <a> American </a> <a> child actress </a> . </p>
+
+#	NEW	birthplace	........ / Sandycove	// <p> O ' Mara was born and raised in <a> Sandycove </a> in south <a> Dublin </a> , <a> Ireland </a> .
+
+#	NEW	birthplace	........ / New Mexico	// <p> Martinez was born in <a> Albuquerque , New Mexico </a> of Guatemalan ancestry .
+
+#	NEW	birthplace	........ / flashback sequence culled from	// Raft also very briefly &quot ; appeared&quot ; in Cagney ' s boxing drama <a> Winner Take All </a> ( 1932 ) , in a flashback sequence culled from Raft ' s 1929 film debut <a> Queen of the Night Clubs </a> .
+
+#	NEW	birthplace	........ / American	// <p> <strong> Hildy Parks </strong> ( March 15 , 1926 &#x2013 ; October 7 , 2004 ) was an <a> American </a> <a> actress </a> and <a> writer </a> .
+
+#	NEW	birthplace	........ / Massachusetts	// <p> <strong> Nancy Frangione </strong> ( born July 10 , 1953 in <a> Barnstable , Massachusetts </a> ) is an <a> American </a> <a> soap opera </a> <a> actress </a> .
+
+#	NEW	birthplace	........ / various UK TV shows ( see her CV at her management site ) .	// She has also appeared as an actress in various UK TV shows ( see her CV at her management site ) .
+
+#	NEW	birthplace	........ / Mexico	// <p> <strong> Manuela &#x00cd ; maz </strong> ( born <strong> Manuela Eugenia &#x00cd ; maz Hougl&#x00ed ; n </strong> on June 14 , 1979 ) is a <a> Mexican </a> actress , born in <a> Chilpancingo </a> , <a> Guerrero </a> , <a> Mexico </a> .
+
+#	NEW	birthplace	........ / American	// <p> <strong> Dina Spybey </strong> ( born August 29 , 1965 ) is an <a> American </a> actress , known as <strong> Dina Waters </strong> since her 2000 wedding to director <a> Mark Waters </a> .
+
+#	NEW	birthplace	........ / American	// <p> <strong> Sharon Wyatt </strong> ( born February 13 , 1953 ) is an <a> American </a> <a> soap opera </a> <a> actress </a> . </p>
+
+#	NEW	birthplace	........ / , Louisiana	// He was born <strong> Julian Lafaye </strong> in <a> New Orleans , Louisiana </a> . </p>
+
+#	NEW	birthplace	........ / New York	// <p> <strong> Verona Barnes </strong> ( born December 29 , 1946 ) is an <a> American </a> <a> actress </a> who appeared in multiple <a> New York City </a> theater <a> plays </a> .
+
+#	NEW	birthplace	........ / American	// <p> <strong> Judy Kaye </strong> ( born October 11 , 1948 ) is an <a> American </a> <a> singer </a> and <a> actress </a> .
+
+#	NEW	birthplace	........ / American	// <p> <strong> Alice Lake </strong> ( September 12 , 1895 &ndash ; November 15 , 1967 ) was an <a> American </a> film actress .
+
+#	NEW	birthplace	........ / high pitched voice has also served her	// Her high pitched voice has also served her well in animated cartoons , having featured on animated shows as <strong> <em> ' , </em> <a> The Critic </a> <em> and </em> <a> The Simpsons </a> <em> and movies such as </em> <a> Disney ' s Beauty and the Beast </a> <em> .
+
+#	NEW	birthplace	........ / he who started <strong> <a> demonstrations	// It was he who started <strong> <a> demonstrations </a> </strong> in Kudiyattam to popularise the same . </p>
+
+#	NEW	birthplace	........ / American film character actor best remembered for	// <p> <strong> Edward Van Sloan </strong> ( November 1 , 1882 , Minnesota &ndash ; March 6 , 1964 , California ) was an American film character actor best remembered for his roles in <a> Universal Studios horror films </a> . </p>
+
+#	NEW	birthplace	........ / New York	// <p> <strong> Robert Lewis </strong> ( March 16 , 1909 &#x2013 ; November 23 , 1997 ) was an American actor , director , teacher , author and founder of the influential <a> Actors Studio </a> in New York in 1947 . </p>
+
+#	NEW	birthplace	........ / , Goodman was notoriously secretive about her age , successfully shaving off 15 years ( giving	// <p> Born <strong> Dolores Goodman </strong> in <a> Columbus , Ohio </a> , Goodman was notoriously secretive about her age , successfully shaving off 15 years ( giving a birthyear of 1929 ) for many years before the discrepancy was publicly debunked . </p>
+
+#	NEW	birthplace	........ / American	// <p> <strong> Kevin Connolly </strong> ( born March 5 , 1974 ) is an <a> American </a> <a> actor </a> and <a> director </a> .
+
+#	NEW	birthplace	........ / he has guest starred	// Recently , he has guest starred as Davros , a European terrorist in </em> <a> 24 </a> <em> . </em> </strong> </p>
+
+#	NEW	birthplace	........ / previous relationship .	// She has a son , Tane ( born 1998 ) , from a previous relationship .
+
+#	NEW	birthplace	........ / Australia	// <p> <strong> Jane Menelaus </strong> ( born in 1959 ) is an <a> Australia </a> n actress who trained at the prestigious <a> Central School of Speech and Drama </a> in <a> London </a> , <a> England </a> . </p>
+
+#	NEW	birthplace	........ / Kevin	// <p> <strong> Kevin S . Tenney </strong> ( born 1955 ) is a film director and screenwriter . </p>
+
+#	NEW	birthplace	........ / London , England	// <p> <strong> John Hough </strong> ( born 21 November 1941 in <a> London , England </a> ) is a <a> British </a> film and television director .
+
+#	NEW	birthplace	........ / Interviews	// <p> <strong> Interviews </strong> </p>
+
+#	NEW	birthplace	........ / soap opera	// <p> <strong> Alicia Moreda Tuya </strong> ( November 1 , 1912-June 13 , 1983 ) , was a <a> soap opera </a> <a> actress </a> , a natural <a> comedian </a> , and a pioneer in Puerto Rico ' s <a> television </a> . </p>
+
+#	NEW	birthplace	........ / and motion picture executive .	// <p> <strong> Lamar Jefferson Trotti </strong> ( October 18 , 1900 - August 28 , 1952 ) was an American <a> screenwriter </a> , producer , and motion picture executive .
+
+#	NEW	birthplace	........ / American	// <p> <strong> Jennifer Runyon </strong> ( born April 1 , 1960 ) is an <a> American </a> former actress .
+
+#	NEW	birthplace	........ / his family moved from their home state	// <p> Kent ' s acting career officially began in 1958 , when he and his family moved from their home state of <a> New York </a> to <a> California </a> .
+
+#	NEW	birthplace	........ / American actor who starred	// <p> <strong> Jason Bernard </strong> ( May 17 , 1938 &ndash ; October 16 , 1996 ) was an American actor who starred in movies and on television . </p>
+
+#	NEW	birthplace	........ / New York	// <p> Bright was born in <a> Bay Ridge </a> , <a> Brooklyn </a> , <a> New York </a> , the son of Matilda ( <a> n&#x00e9 ; e </a> Scott ) and Ernest Bright , who was a shipbuilder . </p>
+
+#	NEW	birthplace	........ / cheeses have met with immediate success , winning three awards at the British Cheese Awards	// His cheeses have met with immediate success , winning three awards at the British Cheese Awards in 2009 .
+
+#	NEW	birthplace	........ / , England .	// <p> He was born in <a> Harpenden </a> , <a> Hertfordshire </a> , England . </p>
+
+#	NEW	birthplace	........ / Jalisco	// <p> Maite Perroni Beorlegui was born in <a> Mexico City </a> , and raised in the city of <a> Guadalajara , Jalisco </a> from the age of eleven months .
+
+#	NEW	birthplace	........ / California	// <p> He resides in <a> California </a> and continues to act .
+
+#	NEW	birthplace	........ / American character actor who starred	// <p> <strong> Clarence Felder </strong> ( born September 2 , 1938 ) is an American character actor who starred in films and on television and co-starred in ten Broadway productions . </p>
+
+#	NEW	birthplace	........ / New Zealand	// <p> <strong> Lani Tupu </strong> was born on 4 November 1955 , in <a> Auckland </a> , <a> New Zealand </a> .
+
+#	NEW	birthplace	........ / American actor .	// <p> <strong> Felton Perry </strong> ( born September 11 , 1945 ) is an American actor .
+
+#	NEW	birthplace	........ / and Sarah Burge are the parents of twin daughters	// He and Sarah Burge are the parents of twin daughters , Charlotte and Chloe .
+
+#	NEW	birthplace	........ / has also starred	// He has also starred in many television movies and made guest appearances on television series including <em> <a> The A-Team </a> </em> , <em> <a> Airwolf </a> </em> , <em> <a> Scarecrow and Mrs . King </a> </em> , <em> <a> Alien Nation </a> </em> , <em> <a> Ellen </a> </em> , and <strong> <em> ' . </em> </strong> </p>
+
+#	NEW	birthplace	........ / Urdu x0633 ; &#x0627 ; &#x0645 ; &#x06cc ; &#x0631 ; &#x0627 ; &#x0631 ; &#x06cc ; &#x0631 ; &# x06cc ; )	// <p> <strong> Sameera Reddy </strong> ( , , <a> Urdu </a> : &#x0633 ; &#x0627 ; &#x0645 ; &#x06cc ; &#x0631 ; &#x0627 ; &#x0631 ; &#x06cc ; &#x0631 ; &#x06cc ; ) is an Indian film actress . </p>
+
+#	NEW	birthplace	........ / Lancashire .	// <p> Cotton was born in Bury , Lancashire .
+
+#	NEW	birthplace	........ / Telch has	// <p> Telch has a daughter with his former wife , actress <a> Ninel Conde </a> , which name is Sof&#x00ed ; a ( she was born the same day Ari was born ) .
+
+#	NEW	birthplace	........ / born <strong> Tammy Lauren Vasquez	// <p> Lauren was born <strong> Tammy Lauren Vasquez </strong> in <a> San Diego </a> , <a> California </a> .
+
+#	NEW	birthplace	........ / Arkansas	// <p> He was born <strong> Robin Burn </strong> in <a> Greenwood , Arkansas </a> .
+
+#	NEW	birthplace	........ / , popularly known as <strong> Judy Ann	// <p> <strong> Judy Anne Lumagui Santos-Agoncillo </strong> ( born May 11 , 1978 in <a> Manila , Philippines </a> ) , popularly known as <strong> Judy Ann Santos </strong> or <strong> Juda / Judai </strong> , is <a> Philippines </a> film and television actress , product endorser , recording artist , and film producer . </p>
+
+#	NEW	birthplace	........ / Sri Lanka	// <p> <strong> Rukmani Devi </strong> ( January 15 , 1923&ndash ; September 25 , 1978 ) was a <a> Sri Lanka </a> n <a> singer </a> and <a> actress </a> , who was often acclaimed as &quot ; <strong> The Nightingale of Sri Lanka </strong> &quot ; .
+
+#	NEW	birthplace	........ / Wyoming Valley West Middle and High schools	// <p> Harris was raised in <a> Kingston , Pennsylvania </a> and went to Wyoming Valley West Middle and High schools , and graduated from <a> Wyoming Seminary </a> .
+
+#	NEW	birthplace	........ / Brooklyn , New York	// <p> <strong> Dondre T . Whitfield </strong> ( born May 27 , 1969 in <a> Brooklyn , New York </a> , <a> U . S . </a> ) is an <a> American </a> television <a> actor </a> . </p>
+
+#	NEW	birthplace	........ / Oakland , California	// <p> Born in <a> Merino , Colorado </a> , Edwards worked for KROW-AM in <a> Oakland , California </a> while he was still in high school .
+
+#	NEW	birthplace	........ / Italian	// <p> Ossana was born to an <a> Italian </a> immigrant father and raised in <a> St .
+
+#	NEW	birthplace	........ / Forest Lawn Memorial Park	// She was buried in <a> Forest Lawn Memorial Park </a> in <a> Glendale , California </a> . </p>
+
+#	NEW	birthplace	........ / her character was dropped ; she was only mentioned briefly in two later episodes : where her sister Leather came into town to start a fresh life from reform school ; and when Fonzie was out of town at	// When discord occurred between Kelly , the cast and producers , her character was dropped ; she was only mentioned briefly in two later episodes : where her sister Leather came into town to start a fresh life from reform school ; and when Fonzie was out of town at a <a> demolition derby </a> with Pinky . </p>
+
+#	NEW	birthplace	........ / Oakland , California	// <p> Matthews was born in <a> Oakland , California </a> .
+
+#	NEW	birthplace	........ / ,	// <p> <strong> Hilly Gene Hicks </strong> is an <a> American </a> <a> character actor </a> , born May 4 , 1950 in <a> Los Angeles , California </a> . </p>
+
+#	NEW	birthplace	........ / American	// <p> <strong> Ricco Ross </strong> ( born April 16 , 1960 ) is an <a> American </a> actor .
+
+#	NEW	birthplace	........ / American	// <p> <strong> Chris Owen </strong> ( born September 25 , 1980 ) is an <a> American </a> actor .
+
+#	NEW	birthplace	........ / New Jersey	// <p> <strong> John Charles Andes </strong> was born in <a> Ocean City , New Jersey </a> on July 12 , 1920 .
+
+#	NEW	birthplace	........ / at St . Johns Hospital in Santa Monica , California	// Farrell died on May 9 , 1989 at St . Johns Hospital in Santa Monica , California of a heart attack .
+
+#	NEW	birthplace	........ / Quebec	// <p> Caloz was born in <a> Montreal </a> , <a> Quebec </a> .
+
+#	NEW	birthplace	........ / mid- 1970s and had five children .	// The couple moved to California in the mid-1970s and had five children .
+
+#	NEW	birthplace	........ / his work there he modified the actor ' s studio by introducing new lectures , mostly designed	// During his work there he modified the actor ' s studio by introducing new lectures , mostly designed to fit the new role of the actors in television and films .
+
+#	NEW	birthplace	........ / London )	// <p> <strong> Kellie Shirley </strong> born in <a> Croydon </a> , South London ) is a <a> British </a> actress .
+
+#	NEW	birthplace	........ / London '	// <p> After graduating from London ' s <a> Royal Academy of Dramatic Art </a> ( RADA ) she worked mainly in <a> theatre </a> , using the <a> received pronunciation </a> she was taught at RADA to extend her repertoire of <a> Shakespeare </a> .
+
+#	NEW	birthplace	........ / Lancashire	// <p> Born at 96 Mitchell Street , <a> Rochdale </a> , <a> Lancashire </a> , Jack Howarth was the son of comedian Bert Howarth , and went to school with the singer and actress <a> Gracie Fields </a> . </p>
+
+#	NEW	birthplace	........ / Las Vegas	// <p> Kucan was born in <a> Las Vegas , Nevada </a> .
+
+#	NEW	birthplace	........ / Maine	// <p> <strong> Anna Belknap </strong> ( born on May 22 , 1972 in <a> Damariscotta , Maine </a> <a> U . S . </a> ) is an <a> American </a> actress .
+
+#	NEW	birthplace	........ / Ohio	// <p> Born in <a> Cleveland , Ohio </a> , he moved to Canada as a young man and became a Canadian citizen in 1998 .
+
+#	NEW	birthplace	........ / Sydney	// <p> <strong> Conrad Julius Coleby </strong> ( born 29 September 1979 in <a> Sydney </a> , <a> Australia </a> ) is an <a> Australian </a> <a> actor </a> .
+
+#	NEW	birthplace	........ / American	// <p> <strong> Jerry Penacoli </strong> ( born July 9 , 1956 ) is an <a> American </a> actor and entertainment reporter .
+
+#	NEW	birthplace	........ / short film <em> King Ponce	// <p> He also starred in the short film <em> King Ponce </em> , which debuted at the 2007 Cannes Film Festival . </p>
+
+#	NEW	birthplace	........ / New York	// <p> <strong> Wil Shriner </strong> ( born December 6 , 1953 in <a> New York City </a> , <a> New York </a> ) is an actor , comedian , director and game show host .
+
+#	NEW	birthplace	........ / , California	// <p> Grimes was born in <a> Hollywood , California </a> .
+
+#	NEW	birthplace	........ / , Michigan .	// <p> Duval was born in Detroit , Michigan .
+
+#	NEW	birthplace	........ / Canada	// <p> <strong> Shadia Simmons </strong> ( born June 28 , 1986 in <a> Toronto , Ontario </a> , <a> Canada </a> ) is an <a> actress </a> .
+
+#	NEW	birthplace	........ / Puerto Rican	// <p> <strong> Juano Hernandez </strong> ( July 19 , 1901 &#x2013 ; July 17 , 1970 ) was a pioneering <a> Puerto Rican </a> actor of African descent and the first Puerto Rican star in the African-American film industry . </p>
+
+#	NEW	birthplace	........ / Canada	// <p> Neil Ross was born in <a> London </a> , <a> England </a> , and subsequently raised in <a> Montreal </a> , <a> Canada </a> .
+
+#	NEW	birthplace	........ / U .	// <p> Wiles was born in <a> Kansas City </a> , <a> Missouri </a> , <a> U . S . </a> , and raised in <a> Lenexa , Kansas </a> where he attended Holy Trinity <a> Catholic </a> <a> School </a> .
+
+#	NEW	birthplace	........ / Australia	// <p> <strong> Nicholas &quot ; Nick&quot ; Weir </strong> ( born 1967 ) is a former <a> Entertainer </a> , who was born in <a> Australia </a> .
+
+#	NEW	birthplace	........ / 1960s .	// <p> <strong> Art Baker </strong> , born Arthur Shank , ( January 7 , 1898 &#x2013 ; August 26 , 1966 ) was a film , television and radio actor of the 1930s , 1940s , 1950s and 1960s . </p>
+
+#	NEW	birthplace	........ / her last	// She acted in her last film <strong> <em> ' in 1997 .
+
+#	NEW	birthplace	........ / IIFA Awards	// <p> <strong> Won </strong> <a> IIFA Awards </a> </p>
+
+#	NEW	birthplace	........ / USA	// <p> <strong> Ron Masak </strong> ( born July 1 , 1936 ) is an <a> USA </a> actor .
+
+#	NEW	birthplace	........ / Italy	// <p> <strong> Gabriele Ferzetti </strong> ( born <strong> Pasquale Ferzetti </strong> on 17 March 1925 in <a> Rome </a> , <a> Italy </a> ) is an <a> Italian </a> actor .
+
+#	NEW	birthplace	........ / West Virginia	// <p> Odessa was born in <a> West Virginia </a> , and brought up on a farm until moving to <a> New Orleans , Louisiana </a> , and later to <a> Los Angeles , California </a> .
+
+#	NEW	birthplace	........ / American actor who has starred	// <p> <strong> Beau Starr </strong> ( born 1944 ) is an American actor who has starred in movies and on television .
+
+#	NEW	birthplace	........ / Ohio	// <p> Biggs was born on April 4 , 1955 in <a> Toledo , Ohio </a> .
+
+#	NEW	birthplace	........ / six children .	// <p> Dunn grew up in Utah , the youngest of six children .
+
+#	NEW	birthplace	........ / , best known for playing Jack	// <p> <strong> Robert St Clair Grant </strong> ( 14 April 1932 <img> 8 November 2003 ) , usually known as <strong> Bob Grant </strong> , was an English <a> actor </a> , best known for playing Jack Harper in <em> <a> On the Buses </a> </em> . </p>
+
+#	NEW	birthplace	........ / telenovela	// <p> <strong> Cynthia Klitbo </strong> ( born on March 11 , 1967 ) in <a> Zacatecas , Zacatecas </a> , is a <a> Mexican </a> actress of <a> telenovela </a> s , theater and <a> Mexican cinema </a> . </p>
+
+#	NEW	birthplace	........ / San Diego	// <p> Leisure was born in <a> San Diego </a> and attended <a> Grossmont High School </a> in <a> El Cajon , California </a> .
+
+#	NEW	birthplace	........ / American character actor of	// <p> <strong> Jack Colvin </strong> ( October 13 , 1934 &ndash ; December 1 , 2005 ) was an American character actor of theater , film and TV .
+
+#	NEW	birthplace	........ / American actor who starred	// <p> <strong> Carmen Filpi </strong> ( March 22 , 1923 &ndash ; May 9 , 2003 ) was an American actor who starred in films and on television .
+
+#	NEW	birthplace	........ / ( born <strong> Amparo R . Custodio	// <p> <strong> Chichay </strong> ( born <strong> Amparo R . Custodio </strong> ; January 21 , 1918 &ndash ; May 31 , 1993 ) was a <a> Filipino </a> <a> comedienne </a> .
+
+#	NEW	birthplace	........ / American Academy of Dramatic Arts West	// Lisle was the Director of the American Academy of Dramatic Arts West in Pasadena , California for several years .
+
+#	NEW	birthplace	........ / Japanese	// <p> is a <a> Japanese </a> <a> actress </a> and <a> singer </a> .
+
+#	NEW	birthplace	........ / He has two daughters with ex-wife Mar&#x00ed ; a Soledad Aquino ( married May second wife Paula Robles ( married	// <p> He has two daughters with ex-wife Mar&#x00ed ; a Soledad Aquino ( married May 1986 to March 1993 ) , and a son and a daughter with his second wife Paula Robles ( married November 1997 ) .
+
+#	NEW	birthplace	........ / American	// <p> <strong> Elaine Joyce </strong> ( born December 19 , 1945 ) is an <a> American </a> actress . </p>
+
+#	NEW	birthplace	........ / Ali G Indahouse	// He also appeared in films such as <em> <a> Ali G Indahouse </a> </em> ( 2002 ) and <em> <a> The Sum of All Fears </a> </em> ( 2002 ) .
+
+#	NEW	birthplace	........ / Quincy Senior High School	// <p> Hilgenbrinck was born in <a> Quincy , Illinois </a> , and attended <a> Quincy Senior High School </a> , where he was actively involved in music and theater .
+
+#	NEW	birthplace	........ / Pennsylvania	// <p> Weber was born in <a> Allegheny , Pennsylvania </a> ( now <a> Pittsburgh </a> ' s <a> Northside </a> neighborhood ) , where she was apparently an excellent <a> pianist </a> .
+
+#	NEW	birthplace	........ / Stacy waived	// After recovering , Stacy waived <a> extradition </a> and was returned to California .
+
+#	NEW	birthplace	........ / Austria	// <p> <strong> Roland Kickinger </strong> ( born March 30 , 1968 ) is an <a> Austria </a> n-born <a> bodybuilder </a> and <a> actor </a> from <a> Vienna </a> .
+
+#	NEW	birthplace	........ / Pooley married	// <p> Pooley married the actress <a> Irlin Hall </a> in 1946 and together they had a daughter , the actress <a> Kirstie Pooley </a> ( born 1954 ) .
+
+#	NEW	birthplace	........ / New York	// <p> Rosen was born in <a> New York </a> , <a> New York </a> .
+
+#	NEW	birthplace	........ / Music	// She played Marta in <em> <a> The Sound of Music </a> </em> and Baby June in <strong> <em> ' .
+
+#	NEW	birthplace	........ / advertising sales	// <p> Kilner was born in <a> Baltimore , Maryland </a> , the son of Dorothea , a kindergarten teacher , and Edward Kilner , who worked in advertising sales and insurance .
+
+#	NEW	birthplace	........ / as <strong> Carol Marcus Saroyan	// She is usually referred to as <strong> Carol Marcus Saroyan </strong> or <strong> Carol Matthau </strong> . </p>
+
+#	NEW	birthplace	........ / song writer	// <p> <strong> Sally Boyden </strong> ( born May 21 , 1965 ) is an Australian singer , song writer and actor . </p>
+
+#	NEW	birthplace	........ / Bailey	// <p> Bailey was educated at <a> Brighton College </a> and <a> Keble College , Oxford </a> , where he took a <a> Master ' s degree </a> in Modern History , and then at the <a> Central School of Speech and Drama </a> in London . </p>
+
+#	NEW	birthplace	........ / New York	// <p> He was born in <a> New York City , New York </a> to an artist father and a dancer mother .
+
+#	NEW	birthplace	........ / appear	// <p> He is one of a handful of actors to appear on both the original and revival versions of <strong> <em> ' .
+
+#	NEW	birthplace	........ / Hesse	// <p> <strong> Jessica Schwarz </strong> ( born May 5 , 1977 in <a> Michelstadt </a> , <a> Hesse </a> ) is a German <a> actress </a> . </p>
+
+#	NEW	birthplace	........ / born	// <p> He was born on 24 November 1931 in Kolkata .
+
+#	NEW	birthplace	........ / American	// <p> <strong> Roy Brocksmith </strong> ( September 15 , 1945 &ndash ; December 16 , 2001 ) was an <a> American </a> actor .
+
+#	NEW	birthplace	........ / American	// <p> <strong> Lloyd Corrigan </strong> ( October 16 , 1900 &ndash ; November 5 , 1969 ) was an <a> American </a> film actor , producer , screenwriter and director who began working in films in the 1920s .
+
+#	NEW	birthplace	........ / Holland	// <p> Holland is married to fellow actor <a> Judy Buxton </a> . </p>
+
+#	NEW	birthplace	........ / as <strong> Gavino Maximo Teodosio	// <p> Max Alvarado was born as <strong> Gavino Maximo Teodosio </strong> in Manila .
+
+#	NEW	birthplace	........ / AIDS	// <p> <strong> Kate Shindle </strong> ( born January 31 , 1977 in Toledo , Ohio ) is an American actress , singer , dancer , and <a> AIDS </a> activist .
+
+#	NEW	birthplace	........ / Paris	// <p> <strong> Bob Paris </strong> ( born <strong> Robert Clark Paris </strong> on December 14 , 1959 ) is a writer , actor , public speaker , <a> civil rights </a> activist and former professional bodybuilder .
+
+#	NEW	birthplace	........ / Illinois )	// <p> <strong> Eddie Shin </strong> ( born July 17 , 1976 in Chicago , Illinois ) is a Korean-American actor .
+
+#	NEW	birthplace	........ / Australia	// <p> In 2009 , Hasham was awarded a <a> Medal of the Order of Australia </a> ( OAM ) &quot ; for service to performing arts through The Actors Studio , Malaysia , and as an actor , writer , producer and director&quot ; . </p>
+
+#	NEW	birthplace	........ / born <strong> Charles Everett McGill III	// <p> McGill was born <strong> Charles Everett McGill III </strong> in <a> Miami Beach </a> , <a> Florida </a> .
+
+#	NEW	birthplace	........ / United Kingdom	// <p> Coster was born in <a> London </a> , <a> United Kingdom </a> to an American mother and a father from <a> New Zealand </a> who was a marine commander .
+
+#	NEW	birthplace	........ / attractive widow flees Nazi-occupied Paris for the South with her small daughter and teen-age son ; a mysterious young man joins them .	// In 1940 , an attractive widow flees Nazi-occupied Paris for the South with her small daughter and teen-age son ; a mysterious young man joins them .
+
+#	NEW	birthplace	........ / American actor best known for	// <p> <strong> Richard Coogan </strong> ( born April 4 , 1914 ) is an American actor best known for his portrayal of <a> Captain Video </a> from 1949-1950 .
+
+#	NEW	birthplace	........ / Sarah Ann O ' Leary and William Burke .	// <p> Burke was born in <a> Peckham </a> , <a> London </a> , the son of Sarah Ann O ' Leary and William Burke .
+
+#	NEW	birthplace	........ / British	// <p> <strong> Maria Belita Gladys Olive Lyne Jepson-Turner </strong> ( 25 October 1923 &#x2013 ; 18 December 2005 ) , known professionally as <strong> Belita </strong> , was an <a> British </a> Olympic figure skater , dancer and film actress . </p>
+
+#	NEW	birthplace	........ / German capital	// <p> Homburg was born in the German capital <a> Berlin </a> .
+
+#	NEW	birthplace	........ / movie entitled <em> <a> Kundiman ng	// <p> <strong> Rudy Concepci&#x00f3 ; n </strong> ( 1912&#x2013 ; 1940 who made his film debut in 1935 , in a movie entitled <em> <a> Kundiman ng Puso </a> </em> ( Song of Heart ) .
+
+#	NEW	birthplace	........ / Tennessee	// <p> Goodwin was born <strong> Jennifer Goodwin </strong> in <a> Memphis </a> , <a> Tennessee </a> .
+
+#	NEW	birthplace	........ / Ubon Ratchathani Province	// <p> <strong> Sombat Metanee </strong> ( , born June 26 , 1937 in <a> Ubon Ratchathani Province </a> , <a> Thailand </a> ) is a <a> Thai </a> <a> actor </a> and <a> film director </a> .
+
+#	NEW	birthplace	........ / New York	// <p> Kelly was born in <a> Astoria , Queens </a> , <a> New York </a> .
+
+#	NEW	birthplace	........ / Los Angeles July	// <p> She and Dr . Jabe Walker ( oral surgeon ) had a son , Dean C . , born in Los Angeles March 29 , 1960 and a daughter , Lynn D . , born in Los Angeles July 25 , 1961 . </p>
+
+#	NEW	birthplace	........ / , Michigan	// <p> Key was born in <a> Southfield , Michigan </a> and raised in <a> Detroit </a> .
+
+#	NEW	birthplace	........ / London	// He was born in <a> London </a> . </p>
+
+#	NEW	birthplace	........ / American	// <p> <strong> Tess Harper </strong> ( born August 15 , 1950 ) is an <a> American </a> <a> actress </a> . </p>
+
+#	NEW	birthplace	........ / music video	// <p> Knight was also featured in <a> music video </a> for the group <a> Click Five </a> for the song &quot ; Just the Girl&quot ; , in which he played a high school teacher .
+
+#	NEW	birthplace	........ / Dutch	// <p> <strong> Sylvia Millecam </strong> ( February 23 , 1956 &#x2013 ; August 19 , 2001 ) was a <a> Dutch </a> <a> actress </a> and <a> comedian </a> .
+
+#	NEW	birthplace	........ / Filipina	// <p> <strong> Dely Atay-Atayan </strong> ( March 17 , 1914 &#x2013 ; August 30 , 2004 ) , born <strong> Adelaida Fernando </strong> , was a <a> Filipina </a> <a> comedian </a> and <a> singer </a> .
+
+#	NEW	birthplace	........ / Laguna .	// <p> Casimiro was born in Laguna .
+
+#	NEW	birthplace	........ / Camp Sherman	// <p> Corbett was born in 1947 in <a> Camp Sherman , Oregon </a> .
+
+#	NEW	birthplace	........ / actor	// <p> <strong> Jason Miller </strong> ( April 22 , 1939 &#x2013 ; May 13 , 2001 ) was an American <a> actor </a> and <a> playwright </a> .
+
+#	NEW	birthplace	........ / kindergarten teacher before going into acting and when younger she put on shows for Vietnam vets who were confined late 1960s and early 1970s	// She was a kindergarten teacher before going into acting and when younger she put on shows for Vietnam vets who were confined to a VA hospital in the late 1960s and early 1970s along with a childhood friend .
+
+#	NEW	birthplace	........ / Oregon City	// <p> <strong> Susan Ruttan </strong> ( born September 16 , 1948 , <a> Oregon City , Oregon </a> ) is an <a> American </a> actress .
+
+#	NEW	birthplace	........ / Iranian- American	// <p> <strong> Bahar Soomekh </strong> ( born March 30 , 1975 ) is an <a> Iranian-American </a> <a> actress </a> and environmental <a> activist </a> .
+
+#	NEW	birthplace	........ / Highland Park , Illinois	// <p> Reed was born <strong> John Robert Rietz , Jr . </strong> , in <a> Highland Park , Illinois </a> .
+
+#	NEW	birthplace	........ / is buried at <a> Holy Cross Cemetery	// McIntyre is buried at <a> Holy Cross Cemetery </a> in <a> Culver City , California </a> . </p>
+
+#	NEW	birthplace	........ / Pakistan	// <p> Angela Thorne was born in <a> Karachi </a> , <a> British India </a> , ( now <a> Pakistan </a> ) , in 1939 .
+
+#	NEW	birthplace	........ / King Alfred School	// <p> Beattie attended <a> King Alfred School </a> in <a> Hampstead </a> and later trained at <a> Guildhall School of Music and Drama </a> .
+
+#	NEW	birthplace	........ / Russia	// <p> <strong> Natasha Shneider </strong> ( May 22 , 1956 - July 2 , 2008 ) was a <a> Russia </a> n musician .
+
+#	NEW	birthplace	........ / Singapore	// <p> <strong> Jacelyn Tay </strong> ( ) was born on June 12 , 1975 in <a> Singapore </a> .
+
+#	NEW	birthplace	........ / England	// <p> <strong> Danny Cannon </strong> ( born 1968 , in <a> Luton </a> , <a> England </a> ) is a <a> film </a> and <a> television </a> screenwriter , director and producer . </p>
+
+#	NEW	birthplace	........ / , California	// <p> <strong> Peter Gowland </strong> ( born April 3 , 1916 , <a> Los Angeles , California </a> &#x2014 ; died March 17 , 2010 , <a> Pacific Palisades , Los Angeles , California </a> ) was a famous <a> American </a> <a> glamour photographer </a> and actor .
+
+#	NEW	birthplace	........ / attended Allentown ' s <a> William Allen High School	// She attended Allentown ' s <a> William Allen High School </a> .
+
+#	NEW	birthplace	........ / Austin Film Festival	// <p> <strong> <a> Austin Film Festival </a> </strong> </p>
+
+#	NEW	birthplace	........ / Rick Hurst	// <p> Hurst was born in <a> Santa Monica , California </a> , the son of Candy Kaniecki , an acting coach , and <a> Rick Hurst </a> , an actor .
+
+#	NEW	birthplace	........ / American film	// <p> <strong> Anne Gwynne </strong> ( December 10 , 1918 &#x2013 ; March 31 , 2003 ) was an American film actress of the 1940s .
+
+#	NEW	birthplace	........ / American	// <p> <strong> Gene Raymond </strong> ( August 13 , 1908 &ndash ; May 2 , 1998 ) was an <a> American </a> film , television , and stage actor of the 1930s and 1940s .
+
+431	TRUE	Nicolle Dickson::birthplace	australia / New South Wales	
+<p> Dickson was born on 1 January 1969 in Sydney , <a> New South Wales </a> , Australia and grew up in the suburb of <a> Paddington </a> with her family .
+
+#	NEW	birthplace	........ / American	// <p> <strong> Fred Andrew Stone </strong> ( August 19 , 1873 &#x2013 ; March 6 , 1959 ) was an <a> American </a> actor .
+
+#	NEW	birthplace	........ / London	// <p> Born in <a> London </a> , she was educated at <a> The King ' s High School For Girls </a> . </p>
+
+#	NEW	birthplace	........ / Born <strong> Robert J . Zdarsky	// <p> Born <strong> Robert J . Zdarsky </strong> in <a> Chicago </a> , <a> Illinois </a> , Z ' Dar is of <a> Lithuanian </a> descent .
+
+#	NEW	birthplace	........ / Vancouver	// <p> <strong> Michael Soltis </strong> ( born October 25 , 1971 ) is an actor from <a> Vancouver </a> . </p>
+
+#	NEW	birthplace	........ / four sons .	// <p> He was born in <a> Edmonton </a> , <a> Alberta </a> , the youngest of of four sons .
+
+#	NEW	birthplace	........ / underground	// <p> <strong> Damon Packard </strong> ( born May 4 , 1967 ) is an <a> underground </a> <a> American </a> <a> film director </a> and <a> actor </a> .
+
+#	NEW	birthplace	........ / Ciudad Ju&#x00e1 ;	// <p> <strong> Vanessa Guzm&#x00e1 ; n Niebla </strong> ( born October 19 , 1976 in <a> Ciudad Ju&#x00e1 ; rez </a> , <a> Chihuahua </a> ) is a <a> Mexican </a> <a> actress </a> and <a> model </a> .
+
+#	NEW	birthplace	........ / Western Australia	// <p> <strong> Cheryl Rixon </strong> ( born 12 October 1954 in <a> Perth , Western Australia </a> ) is an <a> Australia </a> n actress and model .
+
+#	NEW	birthplace	........ / Nebraska	// Godfrey was born in <a> Nebraska </a> on July 21 , 1969 .
+
+#	NEW	birthplace	........ / , California	// <p> Benet was born <strong> Brenda Ann Nelson </strong> in <a> Hollywood , Los Angeles , California </a> .
+
+#	NEW	birthplace	........ / California	// <p> , Zurer lives in <a> California </a> with her husband Gilad Londovski and their son , Liad , born in 2005 . </p>
+
+#	NEW	birthplace	........ / Australia	// <p> <strong> Keith Michell </strong> ( born 1 December 1928 ) is an <a> Australia </a> n <a> actor </a> . </p>
+
+#	NEW	birthplace	........ / diva	// <p> <strong> N&#x00e9 ; lida Roca </strong> ( May 30 , 1929 <img> December 4 , 1999 ) , was one of the first showbusiness <a> diva </a> s of <a> Argentina </a> . </p>
+
+#	NEW	birthplace	........ / New Zealand	// <p> <strong> Tom Hern </strong> is an <a> actor </a> from <a> Christchurch , New Zealand </a> .
+
+#	NEW	birthplace	........ / born <strong> Olivia Joyce Compton	// <p> She was born <strong> Olivia Joyce Compton </strong> in <a> Lexington , Kentucky </a> and not Eleanor Hunt as is frequently erroneously stated .
+
+#	NEW	birthplace	........ / , turned professional baseball player , turned produce / director	// <p> <strong> Joshua Harris </strong> an American born actor , turned professional baseball player , turned produce / director , was born on November 27 , 1978 .
+
+#	NEW	birthplace	........ / as <strong> Margherita Evans	// <p> Born as <strong> Margherita Evans </strong> , Madge Evans was featured in print ads as the ' Fairy Soap girl ' as an infant .
+
+#	NEW	birthplace	........ / Frances Louisa Olive	// <p> Roger Johnson was born in <a> London </a> , <a> England </a> , the son of Frances Louisa Olive ( <a> n&#x00e9 ; e </a> Tweed ) and Keith Holcombe Johnson .
+
+#	NEW	birthplace	........ / tap dancer	// <p> <strong> Gregg Burge </strong> ( November 14 , 1957 - July 4 , 1998 ) was a <a> tap dancer </a> and <a> choreographer </a> . </p>
+
+#	NEW	birthplace	........ / cinematographer	// <p> <strong> Fred Olen Ray </strong> ( born September 10 , 1954 ) is an American <a> director </a> , <a> producer </a> , <a> screenwriter </a> , <a> actor </a> , and <a> cinematographer </a> . </p>
+
+#	NEW	birthplace	........ / American	// <p> <strong> Richard Ward &quot ; Dick&quot ; Pelham </strong> ( February 13 , 1815 &#x2013 ; October 1876 ) , born <strong> Richard Ward Pell </strong> , was an <a> American </a> <a> blackface </a> performer .
+
+#	NEW	birthplace	........ / mother & quot ; Bunny&quot ; and father Paul	// <p> Kornbluth was born in 1959 to mother &quot ; Bunny&quot ; and father Paul , the oldest of four children .
+
+#	NEW	birthplace	........ / Yuba City	// <p> <strong> Charlotte Stewart </strong> ( born February 27 , 1941 in <a> Yuba City </a> , California , USA ) is an American film and television actress . </p>
+
+#	NEW	birthplace	........ / was hired by Jeffrey L . Kimball as an uncredited camera apprentice	// <p> Koster finished a <a> bachelor of arts </a> in New York , and was hired by Jeffrey L . Kimball as an uncredited camera apprentice on the <a> MGM </a> film <a> Windtalkers </a> .
+
+#	NEW	birthplace	........ / Born <strong> Micheline Nicole Julia &#x00c9 ; milienne Chassagne	// <p> Born <strong> Micheline Nicole Julia &#x00c9 ; milienne Chassagne </strong> in Paris , she wanted to be an actress from an early age .
+
+#	NEW	birthplace	........ / Baja California	// <p> <strong> Anette Michel Carrillo </strong> ( born June 30 , 1971 in <a> Mexicali , Baja California </a> ) is a <a> Mexican </a> <a> actress </a> and <a> model </a> . </p>
+
+#	NEW	birthplace	........ / Director	// <p> <strong> Director </strong> </p>
+
+#	NEW	birthplace	........ / Tokyo Metropolitan Koishikawa High School	// He is a graduate of the <a> Tokyo Metropolitan Koishikawa High School </a> and the arts department of <a> Nihon University </a> . </p>
+
+#	NEW	birthplace	........ / India	// <p> <strong> Ashmit Patel </strong> ( born 13 January 1978 in <a> Mumbai </a> , <a> India </a> ) is an <a> India </a> n actor who works in <a> Bollywood </a> films . </p>
+
+#	NEW	birthplace	........ / comic book artist	// <p> <strong> Norman Albert Maurer </strong> ( May 13 , 1926 &#x2013 ; November 23 , 1986 ) , a <a> comic book artist </a> and <a> writer </a> , was also a <a> director </a> and <a> producer </a> of films and television shows .
+
+#	NEW	birthplace	........ / Japan	// <p> , born is a <a> Japan </a> ese <a> kabuki </a> and film actor . </p>
+
+#	NEW	birthplace	........ / , California	// <p> Komisarjevsky ' s second wife , noted dancer Ernestine Stodelle , died January 8 , 2008 in <a> Santa Barbara , California </a> . </p>
+
+#	NEW	birthplace	........ / Married . . .	// Fans of </em> <a> Married . . . with Children </a> <em> know him in his recurring guest role as the cynical director of advertisements . </em> </strong> </p>
+
+#	NEW	birthplace	........ / Czarnk&# x00f3 ; w	// <p> <strong> Adam Slodowy , </strong> ( born 3 December 1923 in <a> Czarnk&#x00f3 ; w </a> ) is a prominent <a> Polish </a> <a> inventor </a> , author , and TV host .
+
+#	NEW	birthplace	........ / two children of Irish immigrants &ndash ; her	// <p> Duff was born on 8 October 1970 , the younger of two children of Irish immigrants &ndash ; her father was a painter and decorator and her mother worked in a shoe shop .
+
+#	NEW	birthplace	........ / Kansas	// <p> <strong> Shannon Collis </strong> ( born April 26 , 1986 in <a> Lawrence , Kansas </a> ) is an <a> American </a> <a> actress </a> . </p>
+
+#	NEW	birthplace	........ / Hollywood film actresses Joan Bennett and Constance Bennett .	// He was the grandfather of Hollywood film actresses Joan Bennett and Constance Bennett .
+
+#	NEW	birthplace	........ / Steiner System	// He graduated from the <a> Royal Academy of Dramatic Art </a> in 1998 , and was trained in the <a> Steiner System </a> , which includes movement , singing and musical instrumentation on a daily basis . </p>
+
+#	NEW	birthplace	........ / Texas	// <p> Mathur grew up in <a> Houston </a> , <a> Texas </a> and attended Albright Middle School in <a> Alief , Texas </a> and <a> Elsik High School </a> .
+
+#	NEW	birthplace	........ / matador him had two children : a daughter , singer Mar&#x00ed ; a Elena Leal , and son Jos&#x00e9 ; Leal .	// <p> She was married to <a> matador </a> and film actor <strong> Alfredo Leal </strong> and with him had two children : a daughter , singer Mar&#x00ed ; a Elena Leal , and son Jos&#x00e9 ; Leal .
+
+#	NEW	birthplace	........ / Australia	// <p> <strong> Samuel Johnson </strong> ( born 1978 , <a> Daylesford </a> , <a> Victoria </a> , <a> Australia </a> ) is an Australian actor , radio presenter and voiceover artist .
+
+#	NEW	birthplace	........ / five children ( four daughters , one son ) of Kathleen A . ( n&#x00e9 ; e Stothers )	// <p> Holmes was born in <a> Toledo , Ohio </a> , the youngest in a family of five children ( four daughters , one son ) of Kathleen A . ( n&#x00e9 ; e Stothers ) , a homemaker and a philanthropist , and Martin Joseph Holmes , Sr . ( born 1945 ) , an attorney specializing in divorces .
+
+#	NEW	birthplace	........ / and [ [ Taro Shoji ] ] ( right )	// ( left ) and [ [ Taro Shoji ] ] ( right ) in 1934 ] ] Born in <a> Hakodate </a> , <a> Hokkaid&#x014d ; </a> , <a> Japan </a> , Takamine ' s first role was in the <a> Shochiku </a> studio ' s 1929 film <em> Mother </em> ( <em> Haha </em> ) , which brought her tremendous popularity as a child actor .
+
+#	NEW	birthplace	........ / her music career was <strong> Kaoru Amane she has recently started her own project under the name <strong>	// Her alias in her music career was <strong> Kaoru Amane </strong> , but she has recently started her own project under the name <strong> Erika </strong> .
+
+#	NEW	birthplace	........ / ,	// <p> <strong> Nicole Forester </strong> is an <a> Emmy Award </a> -nominated <a> American </a> <a> actress </a> who was born on November 19 , 1972 , in <a> Ann Arbor , Michigan </a> as Nicole Theresa Schmidt .
+
+#	NEW	birthplace	........ / He guest appeared	// <p> He guest appeared in Doctors as Luke on 1 April 2010 Jonathan currently lives in <a> Kentish Town </a> , North <a> London </a> , <a> UK </a> , with his partner <a> Shelley Conn </a> , whom he met on the set of <a> <em> Merseybeat </em> </a> .
+
+#	NEW	birthplace	........ / , sometimes credited as <strong> Adrienne Shelley	// <p> <strong> Adrienne Shelly </strong> ( June 24 , 1966&nbsp ; &#x2013 ; November 1 , 2006 ) , sometimes credited as <strong> Adrienne Shelley </strong> , was an <a> American </a> <a> actress </a> , <a> director </a> and <a> screenwriter </a> .
+
+#	NEW	birthplace	........ / London	// <p> Marsh was born in <a> London </a> in 1926 and he grew up on the coast at <a> Worthing </a> .
+
+#	NEW	birthplace	........ / Midori Kin&#x014d ; chi	// He is married to idol singer and actress <a> Midori Kin&#x014d ; chi </a> . </p>
+
+#	NEW	birthplace	........ / studied film	// He studied film at <a> USC </a> , where he served as cinematographer for the <a> Academy Award </a> -winning live action short film <em> <a> The Resurrection of Broncho Billy </a> </em> . </p>
+
+#	NEW	birthplace	........ / Japanese	// <p> is a male <a> Japanese </a> <a> actor </a> born in <a> Yokosuka </a> , <a> Kanagawa </a> .
+
+#	NEW	birthplace	........ / Tommy Threlfall	// <p> The son of a plumber , Tommy Threlfall and his wife , he was born in Manchester .
+
+#	NEW	birthplace	........ / she became	// In 2003 she became a correspondent for <em> Prime 9 News </em> with <a> KCAL-TV </a> in <a> Los Angeles , California </a> . </p>
+
+#	NEW	birthplace	........ / Theatrography	// <p> <strong> Theatrography </strong> </p>
+
+#	NEW	birthplace	........ / New	// <p> <strong> Carl Anthony Payne II </strong> ( born May 24 , 1969 in <a> Trenton , New Jersey </a> ) is an <a> American </a> actor .
+
+#	NEW	birthplace	........ / British Film Academy	// The role earned her a <a> British Film Academy </a> award for best British actress .
+
+#	NEW	birthplace	........ / guest star on many TV shows and has also appeared	// He was also a guest star on many TV shows and has also appeared in film .
+
+#	NEW	birthplace	........ / India	// <p> <strong> Kuljeet Randhawa </strong> ( 1 January 1976 &#x2013 ; 8 February 2006 ) was an <a> India </a> n <a> actress </a> and <a> model </a> .
+
+#	NEW	birthplace	........ / Bailey County	// <p> Horsley was born in <a> Muleshoe , Texas </a> , the seat of <a> Bailey County </a> in the western <a> Texas Panhandle </a> .
+
+#	NEW	birthplace	........ / Oct . 2010 &amp ; 03 Dec . 2010 &#x2014 ; DennisDallas <strong> Ruth Langsford	// 15 Oct . 2010 &amp ; 03 Dec . 2010 &#x2014 ; DennisDallas <strong> Ruth Langsford </strong> ( born 17 March 1960 ) is an <a> English </a> television <a> presenter </a> . </p>
+
+#	NEW	birthplace	........ / Doyle	// <p> Doyle is the ex-husband of actress <a> Andrea Thompson </a> , who played the role of telepath <a> Talia Winters </a> in the first two seasons of &quot ; Babylon 5&quot ; . </p>
+
+#	NEW	birthplace	........ / EastEnders	// <p> Prior to his role in <em> EastEnders </em> he had a small role in the film <em> <a> Revolution </a> </em> in 1985 , in which he appeared alongside greats such as <a> Al Pacino </a> and <a> Donald Sutherland </a> .
+
+#	NEW	birthplace	........ / New York	// Talmadge was born in <a> Brooklyn </a> , <a> New York </a> .
+
+#	NEW	birthplace	........ / American	// <p> <strong> Alex Nicol </strong> ( January 20 , 1916 - July 29 , 2001 ) was an <a> American </a> <a> actor </a> and <a> director </a> .
+
+#	NEW	birthplace	........ / American	// <p> <strong> Natalie Kingston </strong> ( 19 May 1905 &#x2014 ; 2 February 1991 ) was an <a> American </a> <a> actress </a> . </p>
+
+#	NEW	birthplace	........ / Pittsburgh	// <p> Born in <a> Pittsburgh </a> , Lyle Talbot was raised in <a> Nebraska </a> .
+
+#	NEW	birthplace	........ / Australia	// <p> <strong> Emily Symons </strong> ( born 10 August 1969 ) is an <a> Australia </a> n <a> actress </a> . </p>
+
+#	NEW	birthplace	........ / New	// <p> Joe Spinell was born <strong> Joseph J . Spagnuolo </strong> in <a> Manhattan </a> , <a> New York </a> of Italian immigrant parents , and the last of six children .
+
+#	NEW	birthplace	........ / London	// They live in <a> Greenwich </a> , <a> Greater London </a> , with their daughter Kila , born on 16 September 2009 . </p>
+
+#	NEW	birthplace	........ / Yusaku Matsuda	// <p> Matsuda was born on 9 May 1983 in Tokyo to <a> Yusaku Matsuda </a> , a <a> Japanese </a> actor , and <a> Miyuki Matsuda </a> ( <a> n&#x00e9 ; e </a> Kumagai ) , a Japanese actress .
+
+#	NEW	birthplace	........ / American	// <p> <strong> Dave Harris </strong> ( born February 25 , 1971 ) is an <a> American </a> <a> disc jockey </a> , <a> songwriter </a> , and <a> musician </a> . </p>
+
+#	NEW	birthplace	........ / Greater Manchester	// <p> Davies was born in <a> Stockport </a> , <a> Greater Manchester </a> .
+
+#	NEW	birthplace	........ / Mississippi	// <p> Winston was born in <a> Lexington , Mississippi </a> , and raised in <a> Greenville , Mississippi </a> .
+
+#	NEW	birthplace	........ / Dublin	// <p> McCann was born in <a> Terenure </a> in <a> Dublin </a> .
+
+#	NEW	birthplace	........ / brain tumor	// <p> Maher died of a <a> brain tumor </a> at his home in <a> Los Angeles , California </a> on July 17 , 1998 . </p>
+
+#	NEW	birthplace	........ / American singer	// <p> <strong> Monica Lewis </strong> ( born May 5 , 1925 ) is an American singer and actress . </p>
+
+#	NEW	birthplace	........ / English born Australian actor currently living	// <p> <strong> Nicholas Hope </strong> ( born 25 December 1958 in <a> Manchester </a> , <a> England </a> ) is an English born Australian actor currently living in <a> Sydney , Australia </a> .
+
+#	NEW	birthplace	........ / Nuevo Le&#	// <p> ! Do not use the &quot ; dated prod&quot ; template directly ; the above line is generated by &quot ; subst : prod | reason&quot ; <strong> Alfonso de Nigris Guajardo </strong> ( born May 25 , 1976 in <a> Monterrey </a> , <a> Nuevo Le&#x00f3 ; n </a> ) , aka <strong> Poncho de Nigris </strong> , is a <a> Mexican </a> actor and model .
+
+#	NEW	birthplace	........ / , it was revealed that Jim went	// On the show , it was revealed that Jim went to the <a> University of California , Los Angeles </a> , where his father , Don Ward , was a professor of <a> German </a> and <a> folklore </a> . </p>
+
+#	NEW	birthplace	........ / American	// <p> <strong> Beverly Todd </strong> ( born July 11 , 1946 ) is an <a> American </a> <a> actress </a> , <a> producer </a> and <a> writer </a> .
+
+#	NEW	birthplace	........ / American	// <p> <strong> Marcella Lowery </strong> ( born April 27 , 1946 ) is an <a> American </a> <a> actress </a> .
+
+#	NEW	birthplace	........ / artist .	// <p> Lutes was born in <a> Woonsocket , Rhode Island </a> and raised in <a> Charlestown , Rhode Island </a> , the son of Claire , an astrologer and psychiatric nurse , and John Lutes , an artist .
+
+#	NEW	birthplace	........ / United States	// <p> <strong> Bradley Mitchell Silberling </strong> ( born September 8 , 1963 in <a> Washington , D . C . </a> , <a> United States </a> ) is an American <a> television </a> and <a> film director </a> .
+
+#	NEW	birthplace	........ / Michele	// Their daughters , <a> Karen </a> , <a> Michele </a> and <a> Yvette </a> , have also been actresses . </p>
+
+#	NEW	birthplace	........ / , sometimes credited as <strong> Paula Winslow	// <p> <strong> Paula Winslowe </strong> ( March 23 , 1910 &ndash ; March 7 , 1994 ) , sometimes credited as <strong> Paula Winslow </strong> , was a radio and television actress from the 1930s to the mid-1960s . </p>
+
+#	NEW	birthplace	........ / Canada	// <p> <strong> Laurence Leboeuf </strong> ( born December 13 , 1985 in <a> Montreal </a> , <a> Quebec </a> , <a> Canada </a> ) is a <a> French Canadian </a> actress .
+
+#	NEW	birthplace	........ / also appeared	// He also appeared in the comedy movie <em> <a> Hatley High </a> </em> .
+
+#	NEW	birthplace	........ / New York	// <p> <strong> Michael Manasseri </strong> ( born February 28 , 1974 in <a> Poughkeepsie , New York </a> ) is an American actor and <a> film director </a> . </p>
+
+#	NEW	birthplace	........ / American	// <p> <strong> Tommy Hollis </strong> ( March 22 , 1954 - September 9 , 2001 ) was an <a> American </a> <a> actor </a> .
+
+#	NEW	birthplace	........ / American	// <p> <strong> Jerry London </strong> ( born January 21 , 1947 ) is an <a> American </a> <a> television director </a> and <a> producer </a> . </p>
+
+#	NEW	birthplace	........ / London	// <p> Jossa lives in London with her mother and father .
+
+#	NEW	birthplace	........ / New York	// <p> <strong> William Hernandez </strong> ( born November 20 , 1979 in <a> New York City </a> ) is a <a> Puerto Rican American </a> <a> actor </a> , <a> rapper </a> , and <a> singer </a> . </p>
+
+#	NEW	birthplace	........ / American	// <p> <strong> Ed Metzger </strong> ( born January 23 , 1946 ) is an <a> American </a> actor and writer . </p>
+
+#	NEW	birthplace	........ / , California	// <p> <strong> Nathan Anthony Norman </strong> ( born March 23 , 1991 in <a> Los Angeles , California </a> ) is an <a> American </a> <a> child actor </a> , hip hop dancer and singer .
+
+#	NEW	birthplace	........ / American	// <p> <strong> Renee Griffin </strong> , aka Renee Ammann , ( born May 30 , 1968 in <a> Long Beach , California </a> ) , is an <a> American </a> actress .
+
+#	NEW	birthplace	........ / American	// <p> <strong> Gwen Stewart </strong> ( born September 5 , 1963 ) is an <a> American </a> stage <a> actress </a> .
+
+#	NEW	birthplace	........ / African- American	// <p> <strong> Ella Mitchell </strong> ( born August 15 , 1937 ) is an <a> African-American </a> soul singer and actress .
+
+#	NEW	birthplace	........ / Attended Balgowlah Boys High	// <p> Attended Balgowlah Boys High in Sydney 1969 - 1974 </p>
+
+#	NEW	birthplace	........ / California	// <p> <strong> Ada Maris </strong> ( born in <a> 1957 </a> in <a> California </a> ) is a <a> Mexican-American </a> actress .
+
+#	NEW	birthplace	........ / Brooklyn , New York	// <p> Proval was born in <a> Brooklyn , New York </a> of <a> Jew </a> ish heritage , the son of actress Clara Katz .
+
+#	NEW	birthplace	........ / Massachusetts	// <p> <strong> Frank Mayo </strong> ( 1839&#x2013 ; 1896 ) was an <a> American </a> actor and comedian , born in <a> Boston , Massachusetts </a> . </p>
+
+#	NEW	birthplace	........ / British	// Paul Milner in the <a> British </a> TV series <em> <a> Foyle ' s War </a> . </em> </p>
+
+#	NEW	birthplace	........ / had	// He had a supporting role in the box office hit <em> <a> The Matrix Reloaded </a> </em> , the second of the <em> Matrix </em> trilogy , as <a> Agent Johnson </a> , one of three newly upgraded agents . </p>
+
+#	NEW	birthplace	........ / Belgrade	// He graduated from the <em> Faculty of Dramatic Arts </em> of the <a> University of Belgrade </a> as an actor .
+
+#	NEW	birthplace	........ / New York	// <p> <strong> Angel Tang </strong> ( ) is a <a> New York City </a> -based television personality and model .
+
+#	NEW	birthplace	........ / Australian writer , reporter and entertainer and 3AW	// <p> <strong> John Michael Howson </strong> ( often written as <strong> John-Michael Howson </strong> ) <a> OAM </a> , born in <a> Melbourne , Australia </a> in <a> 1936 </a> , is an Australian writer , reporter and entertainer and 3AW commentator .
+
+#	NEW	birthplace	........ / Japan	// <p> <strong> Kyoka Suzuki </strong> ( &#x9234 ; &#x6728 ; &#x4eac ; &#x9999 ; , born 31 May 1968 in <a> Sendai </a> , <a> Japan </a> ) is an <a> actress </a> .
+
+#	NEW	birthplace	........ / New York	// At age seventeen she attended acting school in <a> New York City </a> where she studied under <a> Nelson Wheatcroft </a> .
+
+#	NEW	birthplace	........ / Manitoba	// <p> <strong> Peter Mooney </strong> ( born in <a> Winnipeg , Manitoba </a> ) is a <a> Canadian </a> actor .
+
+#	NEW	birthplace	........ / American actor	// <p> <strong> Dylan Bruno </strong> ( born September 6 , 1972 ) is an American actor and former model .
+
+#	NEW	birthplace	........ / San Diego	// <p> A native of <a> Claremont , California </a> , Buckley earned an <a> economics </a> degree from the <a> University of California , San Diego </a> .
+
+#	NEW	birthplace	........ / couple would later form <strong> Old Quay Productions	// <p> The couple would later form <strong> Old Quay Productions </strong> and present an assortment of classic plays in the 1960s and 1970s .
+
+#	NEW	birthplace	........ / role- playing game	// To fans of the <a> Ultima </a> series of <a> role-playing game </a> s , he gained fame as the voice of the Guardian , the final antagonist of the Ultima series . </p>
+
+#	NEW	birthplace	........ / Japanese	// <p> is a <a> Japanese </a> actress . </p>
+
+#	NEW	birthplace	........ / London- born English actor known as <strong> Ronnie Stevens	// <p> <strong> Ronald Stevens </strong> ( 2 September 1925 &#x2013 ; 11 November 2006 ) was a London-born English actor known as <strong> Ronnie Stevens </strong> . </p>
+
+#	NEW	birthplace	........ / American	// <p> <strong> Marguerite Chapman </strong> ( March 9 , 1918 - August 31 , 1999 ) was an <a> American </a> actress . </p>
+
+#	NEW	birthplace	........ / American	// <p> <strong> Jennifer Lyons </strong> ( born August 6 , 1977 ) is an <a> American </a> actress .
+
+#	NEW	birthplace	........ / New York	// <p> Murray was born <strong> Kenneth Doncourt </strong> in <a> New York City </a> to a family of <a> vaudeville </a> performers .
+
+#	NEW	birthplace	........ / Ohio	// Born in <a> Toledo , Ohio </a> , Welden appeared in over 120 films between <a> 1930 </a> and <a> 1966 </a> . </p>
+
+#	NEW	birthplace	........ / American	// <p> <strong> Amanda Swisten </strong> ( born December 20 , 1978 ) is an <a> American </a> <a> model </a> and <a> actress </a> who has appeared in various films and TV shows . </p>
+
+#	NEW	birthplace	........ / American	// <p> <strong> Michael Sloane </strong> ( born January 29 , 1959 ) is an <a> American </a> <a> actor </a> , <a> writer </a> and <a> director </a> .
+
+#	NEW	birthplace	........ / American	// <p> <strong> Michelle Johnson </strong> ( born September 9 , 1965 ) is an <a> American </a> actress , probably best known for her role in <em> <a> Blame It on Rio </a> </em> . </p>
+
+#	NEW	birthplace	........ / New York	// <p> <strong> Gina Mastrogiacomo </strong> ( November 5 , 1961 &ndash ; May 2 , 2001 ) was an <a> Italian-American </a> <a> actress </a> born in <a> Great Neck , New York </a> .
+
+#	NEW	birthplace	........ / American	// <p> <strong> Michael Peter Moran </strong> ( February 8 , 1944 - February 4 , 2004 ) was an <a> American </a> <a> actor </a> and <a> playwright </a> . </p>
+
+#	NEW	birthplace	........ / Middlesex	// <p> <strong> Huw Higginson </strong> ( born 21 February 1964 , in <a> Middlesex </a> ) is an English actor .
+
+#	NEW	birthplace	........ / American	// <p> <strong> Miriam Flynn </strong> ( born June 18 , 1952 ) is an <a> American </a> <a> voice actress </a> and <a> character actress </a> .
+
+#	NEW	birthplace	........ / Trinidad	// <p> Stoker was born in <a> Port of Spain </a> , <a> Trinidad and Tobago </a> .
+
+#	NEW	birthplace	........ / Real Midnight Express <em> ] ]	// <a> </em> The Real Midnight Express <em> ] ] </em> ( 2010 ) , Billy HayesBackgroundJarvis was born in Yeovil , </a> <p> , <a> England </a> and attended the <a> Littlehampton </a> Community School and Chichester College .
+
+#	NEW	birthplace	........ / New South Wales	// <p> <strong> Saskia Burmeister </strong> ( born February 12 , 1985 in <a> New South Wales </a> ) is an <a> Australian </a> <a> actress </a> .
+
+#	NEW	birthplace	........ / Hollywood	// <p> In <a> Hollywood </a> Subor starred in <a> Clive Donner </a> ' s <em> <a> What ' s New , Pussycat ? </a> </em>
+
+#	NEW	birthplace	........ / , California	// <p> Susskind died on January 21 , 2005 in an automobile accident in <a> Sunland , California </a> . </p>
+
+#	NEW	birthplace	........ / American	// <p> <strong> Christina Chang </strong> ( born June 29 , 1971 ) is an <a> American </a> <a> actress </a> . </p>
+
+#	NEW	birthplace	........ / Australia	// <p> <strong> Vincenzo Colosimo </strong> ( born in <a> Melbourne </a> , <a> Australia </a> on 11 November 1966 ) is an <a> Australian </a> stage , television and screen actor .
+
+#	NEW	birthplace	........ / , better known as <strong> Mila del Sol	// <p> <strong> Clarita Villarba Rivera </strong> ( born May 12 , 1923 ) , better known as <strong> Mila del Sol </strong> , is a <a> Filipina </a> film actress and entrepreneur .
+
+#	NEW	birthplace	........ / American	// <p> <strong> Michael Cudlitz </strong> ( born December 29 , 1964 ) is an <a> American </a> <a> actor </a> .
+
+#	NEW	birthplace	........ / Maly Theatre	// <p> <strong> Aleksandra Aleksandrovna Yablochkina </strong> ( November 3 , 1866 &#x2014 ; March 20 , 1964 ) was a leading actress of the <a> Maly Theatre </a> , <a> Moscow </a> , for more than 75 years .
+
+#	NEW	birthplace	........ / as <strong> Katherine Demetre	// <p> <strong> Katherine Cassavetes </strong> ( born June 24 , 1906 &ndash ; died March 29 , 1983 ) was an American actress , born as <strong> Katherine Demetre </strong> .
+
+#	NEW	birthplace	........ / New Jersey	// <p> <strong> Michael Marisi Ornstein </strong> , ( born 1963 in <a> Passaic , New Jersey </a> ) , is an <a> American </a> <a> actor </a> and <a> painter </a> . </p>
+
+#	NEW	birthplace	........ / Kuala Lumpur	// <p> Hoopes was born in <a> Kuala Lumpur </a> , <a> Malaysia </a> and was the fourth of five children in her family .
+
+#	NEW	birthplace	........ / American	// <p> <strong> Clarence G . Badger </strong> ( June 9 , 1880 &#x2013 ; June 17 , 1964 ) was an <a> American </a> <a> film director </a> of feature films in the 1910s , 1920s and 1930s .
+
+#	NEW	birthplace	........ / Brooklyn , New York	// <p> Lee was born in <a> Brooklyn , New York </a> , the daughter of Jacqueline ( <a> n&#x00e9 ; e </a> Shelton ) , a teacher of arts and black literature , and <a> William James Edward Lee III </a> , a jazz musician , bassist , actor and composer . </p>
+
+#	NEW	birthplace	........ / New York	// <p> Born in <a> New York City </a> , Burton was a student of <a> The Actor ' s Studio </a> .
+
+#	NEW	birthplace	........ / Baltimore	// <p> <strong> John W . Albaugh </strong> ( 30 September 1837 &ndash ; February 11 , 1909 ) was an <a> American </a> actor and manager , born in <a> Baltimore </a> .
+
+#	NEW	birthplace	........ / Upcoming	// <p> <strong> Upcoming </strong> </p>
+
+#	NEW	birthplace	........ / India	// <p> Divya was born in <a> Madurai </a> , <a> Tamil Nadu </a> , <a> India </a> as the second daughter to Mr . and Mrs . Venkat Subramanian , both engineers .
+
+#	NEW	birthplace	........ / New York	// <p> Born <strong> Edward Sedan </strong> in <a> New York City </a> , his mother was a <a> Broadway theatre </a> fashion designer and his father a <a> symphony </a> <a> conductor </a> .
+
+#	NEW	birthplace	........ / St Petersburg	// <p> Khabensky was born and trained in <a> St Petersburg </a> , and now resides in <a> Moscow </a> .
+
+#	NEW	birthplace	........ / Yugoslavia	// <p> <strong> Gojko Miti&#x0107 ; </strong> ( &#x0413 ; oj&#x043a ; o &#x041c ; &#x0438 ; &#x0442 ; &#x0438 ; &#x045b ; ) ( born June 13 , 1940 in <a> Leskovac </a> , <a> Morava Banovina </a> , <a> Kingdom of Yugoslavia </a> ) is a <a> Serbia </a> n director , actor , stuntman , and author .
+
+#	NEW	birthplace	........ / is credited alternately as <strong> Penny Sweet	// She is credited alternately as <strong> Penny Sweet </strong> and <strong> Edie S . Mirman </strong> . </p>
+
+#	NEW	birthplace	........ / well known actors who met	// She was part of a group of well known actors who met in the acting class of actor <a> Jeff Corey </a> .
+
+#	NEW	birthplace	........ / Japanese	// <p> is a <a> Japanese </a> actor , He started acting at the age of three in education programs .
+
+#	NEW	birthplace	........ / English	// <p> <strong> Lee Boardman </strong> ( born 2 July 1972 in <a> Manchester </a> , <a> England </a> ) is an <a> English </a> actor and narrator . </p>
+
+#	NEW	birthplace	........ / Ringu	// In <em> <a> Ringu 2 </a> </em> , his character was the supporting male actor . </p>
+
+#	NEW	birthplace	........ / New York	// <p> <strong> Karen Ingenthron </strong> ( born April 16 , 1945 in <a> New York City </a> , <a> New York </a> ) is an <a> American </a> actress and radio commentator . </p>
+
+#	NEW	birthplace	........ / graduated from high school at	// He graduated from high school at the <a> University of St . La Salle </a> -Integrated School Batch 1994 in Bacolod City . </p>
+
+#	NEW	birthplace	........ / New Mexico	// <p> Born as <strong> Jos&#x00e9 ; Paige </strong> in <a> Albuquerque , New Mexico </a> .
+
+#	NEW	birthplace	........ / Brooklyn , New York	// <p> <strong> Mitchell Whitfield </strong> ( born on September 8 , 1964 , in <a> Brooklyn , New York </a> ) is an American actor . </p>
+
+#	NEW	birthplace	........ / American actor who currently plays Evan Chambers	// <p> <strong> Jake McDorman </strong> ( born July 8 , 1986 ) is an <a> American </a> film and television actor who currently plays Evan Chambers on the <a> ABC Family </a> TV Series <em> <a> Greek </a> </em> . </p>
+
+#	NEW	birthplace	........ / Pane e Tulipani	// <p> <strong> Licia Maglietta </strong> ( November 16 , 1954 ) is an <a> Italian </a> actress , known for her role in the film <em> <a> Pane e Tulipani </a> </em> ( &quot ; Bread and Tulips&quot ; ) .
+
+#	NEW	birthplace	........ / , California	// <p> Shalane was born and raised in <a> North Hollywood , California </a> , the daughter of Clark McCall and Cherie Holton .
+
+#	NEW	birthplace	........ / Iran	// <p> <strong> Abolfazl Jalili </strong> ( , born 1957 in <a> Saveh </a> , <a> Iran </a> ) is an internationally acclaimed <a> Iran </a> ian ( Persian ) film director .
+
+#	NEW	birthplace	........ / , California	// <p> Born in <a> Pasadena , California </a> , Griffin graduated from <a> Colgate University </a> in 1993 .
+
+#	NEW	birthplace	........ / Brooklyn , New York	// Heather attended <a> Midwood High School </a> in <a> Brooklyn , New York </a> . </p>
+
+#	NEW	birthplace	........ / New Zealand	// <p> <strong> Nathaniel Lees </strong> is a <a> New Zealand </a> born actor and theatre director of <a> Samoan </a> descent .
+
+#	NEW	birthplace	........ / Italy	// <p> <strong> Luciana Paluzzi </strong> ( born June 10 , 1937 in <a> Rome </a> , <a> Italy </a> ) is an <a> Italian </a> actress .
+
+#	NEW	birthplace	........ / two actresses were sent	// The two actresses were sent to <a> London </a> for three months , to be tutored in English .
+
+#	NEW	birthplace	........ / singe / songwriter	// <p> <strong> Stepfanie Kramer </strong> ( born August 6 , 1956 ) is an <a> American </a> <a> actress </a> , writer , and <a> singe / songwriter </a> .
+
+#	NEW	birthplace	........ / Australia	// <p> <strong> Suzanne Bennett </strong> ( stage name , was born Suzanne Evans ) was an <a> Australia </a> n-born <a> actress </a> on <a> Broadway </a> in the <a> United States </a> .
+
+#	NEW	birthplace	........ / American	// <p> <strong> Laura Johnson </strong> ( born August 1 , 1957 ) is an <a> American </a> actress who played Terry Hartford in the <a> soap opera </a> <em> <a> Falcon Crest </a> </em> from 1983 to 1986 .
+
+#	NEW	birthplace	........ / Massachusetts	// <p> Libertini was born in <a> Cambridge , Massachusetts </a> .
+
+#	NEW	birthplace	........ / Illinois	// <p> <strong> John Beck </strong> ( born January 28 , 1943 in <a> Chicago </a> , <a> Illinois </a> ) is an American actor .
+
+#	NEW	birthplace	........ / Beatrice Reed	// She also played the role of Beatrice Reed on the television drama <em> <a> Sisters </a> </em> and <a> Catherine Langford </a> in <a> Stargate SG-1 </a> . </p>
+
+#	NEW	birthplace	........ / the South Indian film industry .	// His death was a shock to the South Indian film industry . </p>
+
+#	NEW	birthplace	........ / Jaishankar	// <p> <strong> Jaishankar </strong> is a yesteryear star of Tamil Film Industry .
+
+#	NEW	birthplace	........ / American	// <p> <strong> Melissa Sagemiller </strong> ( born June 1 , 1974 ) is an <a> American </a> <a> television </a> and <a> film </a> <a> actress </a> .
+
+#	NEW	birthplace	........ / , California	// He lives in <a> Los Angeles , California </a> , where he is a <a> Professor </a> of <a> Composition </a> at the <a> University of Southern California </a> .
+
+#	NEW	birthplace	........ / Los Angeles	// <p> <strong> Jeanette Nolan </strong> ( December 30 , 1911 &#x2013 ; June 5 , 1998 ) was an American <a> actress </a> , born in <a> Los Angeles </a> , <a> California </a> .
+
+#	NEW	birthplace	........ / London	// <p> <strong> Elaine Lordan </strong> ( born 1966 in <a> Islington </a> , <a> London </a> , <a> England </a> ) is a British actress . </p>
+
+#	NEW	birthplace	........ / New	// <p> ! Deleted image removed : <strong> Don Haggerty </strong> ( July 3 , 1914 , <a> Poughkeepsie , New York </a> &ndash ; August 19 , 1988 , <a> Cocoa Beach , Florida </a> ) was an American film actor appearing in films in the 1940s and 1950s .
+
+#	NEW	birthplace	........ / Sydney	// <p> Born <strong> Leonce Errol Sims </strong> in <a> Sydney </a> , he managed a traveling vaudeville troupe and gave a young comedian named <a> Roscoe Arbuckle </a> his first professional opportunity .
+
+#	NEW	birthplace	........ / Conservatoire National Sup&#x00e9 ; rieur d ' Art	// She also studied at the <a> Juilliard School </a> in <a> New York City </a> , <a> New York </a> , and the <a> Conservatoire National Sup&#x00e9 ; rieur d ' Art Dramatique </a> in <a> Paris </a> , <a> France </a> . </p>
+
+#	NEW	birthplace	........ / Baruah	// <p> <strong> Jamuna <a> Baruah </a> </strong> ( ) ( 1919 &#x2013 ; 24 November 2005 ) was a leading <a> India </a> n actress . </p>
+
+#	NEW	birthplace	........ / South Asia	// <p> Although born in <a> South Asia </a> , Ghosh left <a> Bengal </a> when she was eleven and moved to England , where she has lived ever since .
+
+#	NEW	birthplace	........ / American	// <p> <strong> Catherine McCord </strong> ( born May 10 , 1974 ) is an <a> American </a> <a> fashion model </a> , <a> actress </a> , <a> television program </a> hostess , and <a> blogger </a> . </p>
+
+#	NEW	birthplace	........ / American	// <p> <strong> Robert John Holthaus </strong> ( December 28 , 1928 &#x2013 ; August 2 , 1985 ) , better known as <strong> Bob Holt </strong> , was an <a> American </a> actor best known for his voice work . </p>
+
+#	NEW	birthplace	........ / BA	// <p> <strong> Gillian Wright </strong> , <a> BA </a> ( born <strong> Gillian Hambidge </strong> ; 5 May 1960 ) is a <a> British </a> actress who is currently most famous for portraying <a> Jean Slater </a> in the long running BBC soap opera <em> <a> EastEnders </a> </em> .
+
+#	NEW	birthplace	........ / Australia )	// <p> <strong> Gordon Chater </strong> ( 6 April 1922 , London , England &#x2013 ; 12 December 1999 , <a> Gold Coast , Queensland </a> , Australia ) was a comedian and actor . </p>
+
+#	NEW	birthplace	........ / Ohio	// <p> Ryan was born in <a> Cincinnati , Ohio </a> and raised in <a> Louisville , Kentucky </a> .
+
+#	NEW	birthplace	........ / County Armagh	// <p> He married Belle Sherry , also a native of <a> County Armagh </a> ; they had two children , twins Mark and Caroline ( born February 1961 , London ) . </p>
+
+#	NEW	birthplace	........ / New York	// <p> <strong> Bob Clayton </strong> ( August 17 , 1922 in <a> Atlanta , Georgia </a> &#x2013 ; November 1 , 1979 in <a> New York City </a> ) was an American television game show <a> announcer </a> and <a> host </a> of several shows .
+
+#	NEW	birthplace	........ / Langley Air Force Base	// <p> Cardenas was born at <a> Langley Air Force Base </a> , in <a> Hampton , Virginia </a> , <a> U . S . </a> and is of half <a> Mexican </a> descent .
+
+#	NEW	birthplace	........ / Sergei Bondarchuk	// <p> In <a> Sergei Bondarchuk </a> ' s 1970 film <a> <em> Waterloo </em> </a> , he is credited as both an actor ( playing Captain Ramsey ) and a military consultant . </p>
+
+#	NEW	birthplace	........ / born <strong> Norman Neale Williams II	// <p> Kincaid was born <strong> Norman Neale Williams II </strong> in <a> Los Angeles </a> , <a> California </a> .
+
+#	NEW	birthplace	........ / many great dramas like <a> Liar Game	// <p> She starred in many great dramas like <a> Liar Game </a> , <strong> Code Blue </strong> , <a> Ryusei no Kizuna </a> and <strong> Keizoku 2 : SPEC </strong> .
+
+#	NEW	birthplace	........ / Christa Miller series ; they have three children	// Lawrence is married to the actress <a> Christa Miller </a> whom he cast in both television series ; they have three children together .
+
+#	NEW	birthplace	........ / Los Angeles	// <p> Harrington was born in <a> Los Angeles </a> and attended <a> Occidental College </a> and the <a> University of Southern California </a> and graduated from the <a> University of California , Los Angeles </a> , with a film studies degree .
+
+#	NEW	birthplace	........ / American	// <p> <strong> Sicily Sewell </strong> ( born October 1 , 1985 ) is an <a> American </a> <a> actress </a> .
+
+#	NEW	birthplace	........ / , better known as <strong> Weng	// <p> <strong> Ernesto de la Cruz </strong> ( September 7 , 1957 &#x2014 ; August 29 , 1992 ) , better known as <strong> Weng Weng </strong> , was a <a> Filipino </a> <a> actor </a> and <a> martial artist </a> .
+
+#	NEW	birthplace	........ / England	// <p> Terry was born in <a> Bristol </a> , <a> England </a> and was educated at <a> Truro School </a> in Cornwall .
+
+#	NEW	birthplace	........ / film actor known for	// <p> <strong> Richard Rober </strong> ( May 14 , 1910 - May 26 , 1952 ) was a film actor known for his rugged roles in films .
+
+#	NEW	birthplace	........ / , California	// In 1971 , the family moved to <a> Thousand Oaks , California </a> where he attended <a> Newbury Park </a> High School along with his six siblings , among them cartoonis / illustrator <a> Scott Saavedra </a> ( &#x201c ; Dr .
+
+#	NEW	birthplace	........ / Hong Kong	// <p> <strong> Patricia Liu </strong> ( ) was a finalist of <a> Miss Hong Kong </a> 1997 without winning any award , and joined <a> TVB </a> afterwards .
+
+#	NEW	birthplace	........ / as <strong> Virna Lisa Pieralisi	// She was born in <a> Ancona </a> , <a> Marche </a> , as <strong> Virna Lisa Pieralisi </strong> . </p>
+
+#	NEW	birthplace	........ / used many pseudonyms , predominantly <strong> Vincent Dawn	// He used many pseudonyms , predominantly <strong> Vincent Dawn </strong> ( choosing that surname as a nod to <a> George A . Romero </a> ' s <em> <a> Dawn of the Dead </a> </em> ) . </p>
+
+#	NEW	birthplace	........ / born into poverty as Pichet Pumhem .	// <p> Mitr was born into poverty as Pichet Pumhem .
+
+#	NEW	birthplace	........ / , Byrum studied at <a> New York	// <p> Raised in <a> Winnetka </a> , <a> Illinois </a> , on the North Shore of <a> Chicago </a> , Byrum studied at <a> New York University </a> in the late 1960s .
+
+#	NEW	birthplace	........ / American	// <p> <strong> William Girdler </strong> ( October 22 , 1947 - January 21 , 1978 ) was an <a> American </a> <a> filmmaker </a> .
+
+#	NEW	birthplace	........ / character actor .	// <p> <strong> Andrew Duggan </strong> ( December 28 , 1923 &#x2013 ; May 15 , 1988 ) was a character actor . </p>
+
+#	NEW	birthplace	........ / New York	// <p> Drury was born in <a> New York , New York </a> , where his father was a <a> New York University </a> <a> professor </a> of <a> marketing </a> .
+
+#	NEW	birthplace	........ / original name	// His original name is <strong> Mohammad Umer </strong> , however he changed that to Umer Zarif when he joined the theater and later changed that to Umer Sharif . </p>
+
+#	NEW	birthplace	........ / Italy	// <p> <strong> Maria Assunta Tiotangco Schiavone-Ledesma </strong> ( born February 19 , 1981 , <a> Lecce </a> , <a> Italy </a> ) is a <a> Filipina </a> - <a> Italian </a> <a> actress </a> .
+
+#	NEW	birthplace	........ / , commonly known as <strong> Atang de la	// <p> <strong> Honorata de la Rama&ndash ; Hernandez </strong> ( January 11 , 1902 &ndash ; July 11 , 1991 ) , commonly known as <strong> Atang de la Rama </strong> was a <a> singer </a> and <a> bodabil </a> performer who became the first <a> Filipina </a> film actress .
+
+#	NEW	birthplace	........ / born <strong> Elsie Hodder	// <p> Elsie was born <strong> Elsie Hodder </strong> at <a> Armley </a> , in the <a> West Riding of Yorkshire </a> , England .
+
+#	NEW	birthplace	........ / American	// <p> <strong> Ron Sweed </strong> , ( born 1950 , <a> Cleveland , Ohio </a> ) , is an <a> American </a> entertainer best known for his late-night <a> television </a> <a> horror host </a> character <strong> The Ghoul </strong> .
+
+#	NEW	birthplace	........ / Japan	// <p> is an award-winning <a> Japan </a> ese <a> child actress </a> .
+
+#	NEW	birthplace	........ / Fort Worth	// <p> <strong> Clint Ford </strong> ( born January 27 , 1976 in <a> Fort Worth , Texas </a> ) is an <a> American </a> <a> actor </a> and <a> voice-over </a> artist .
+
+#	NEW	birthplace	........ / , where he graduated from St . Thomas More Grammar School , <a> Brother Rice High School	// <p> Zulevic , of Scottish and <a> Croatian </a> extraction , grew up in <a> Chicago </a> , where he graduated from St . Thomas More Grammar School , <a> Brother Rice High School </a> and <a> Columbia College Chicago </a> . </p>
+
+#	NEW	birthplace	........ / American	// <p> <strong> John Larch </strong> ( October 4 , 1914 - October 16 , 2005 ) was an <a> American </a> <a> film </a> and <a> television </a> <a> actor </a> . </p>
+
+#	NEW	birthplace	........ / , Barry had been	// <p> Prior to acting , Barry had been a <a> high school </a> and <a> college football </a> player .
+
+#	NEW	birthplace	........ / New York	// <p> <strong> Isabel Gillies </strong> ( born February 9 , 1970 in <a> New York City </a> , <a> New York </a> ) is an actress and author .
+
+#	NEW	birthplace	........ / Lisa	// <p> <strong> Lisa S . Blount </strong> ( July 1 , 1957 , <a> Fayetteville , Arkansas </a> &nbsp ; &#x2013 ; c .
+
+#	NEW	birthplace	........ / American	// <p> <strong> Sheila Kelley </strong> ( born October 9 , 1961 ) is an <a> American </a> television actress .
+
+#	NEW	birthplace	........ / Sydney	// <p> Born <strong> Shirley Ann Richards </strong> in <a> Sydney </a> , Australia and educated at <a> Ascham School </a> <a> Edgecliff </a> , Richards began her career as a lead actress in several successful Australian productions , including <a> Ken Hall </a> ' s <em> <a> Dad and Dave Come to Town </a> </em> ( 1938 ) . </p>
+
+#	NEW	birthplace	........ / American	// <p> <strong> Michael Gordon </strong> ( September 6 , 1909 &#x2013 ; April 29 , 1993 ) was an <a> American </a> stage actor and stage and film director . </p>
+
+#	NEW	birthplace	........ / Tony Award for Best Performance by a Featured Actor	// <p> In 1994 , he was nominated for a <a> Tony Award for Best Performance by a Featured Actor in a Musical </a> for his role in <em> <a> She Loves Me </a> </em> .
+
+#	NEW	birthplace	........ / Australia	// <p> <strong> Matthew Newton </strong> ( born 22 January 1977 ) is an <a> Australia </a> n stage and screen actor .
+
+#	NEW	birthplace	........ / Ontario	// <p> <strong> Tyler Jeffery Hynes </strong> ( born May 6 , 1986 , in <a> Toronto , Ontario </a> ) is a Canadian actor and film maker .
+
+#	NEW	birthplace	........ / actor	// <p> <strong> Ray Teal </strong> ( January 12 , 1902 &#x2013 ; April 2 , 1976 ) was an <a> actor </a> who appeared in more than 250 movies and some 90 television programs in his 37-year career .
+
+#	NEW	birthplace	........ / , George Marshall has	// <p> For his contribution to the film industry , George Marshall has a star on the <a> Hollywood Walk of Fame </a> at 7048 <a> Hollywood Boulevard </a> . </p>
+
+#	NEW	birthplace	........ / Bhavna Balsaver	// Her daughter , <a> Bhavna Balsaver </a> , is also an award-winning TV actress . </p>
+
+#	NEW	birthplace	........ / has two children named Amber ( born	// He has two children named Amber ( born 2005 ) and Buster ( born 2008 ) .
+
+#	NEW	birthplace	........ / silent film	// <p> <strong> Alma Rubens </strong> ( February 19 , 1897 &#x2013 ; January 22 , 1931 ) was an American <a> silent film </a> <a> actress </a> and stage performer . </p>
+
+#	NEW	birthplace	........ / New	// <p> <strong> Antonio S&#x00e1 ; nchez </strong> ( born January 1 , 1961 in <a> New York </a> ) is a <a> Puerto Rican </a> <a> radio </a> and <a> television </a> personality , show host and producer .
+
+#	NEW	birthplace	........ / final episode of Season 3 &quot ; Snow Day& quot ; .	// He also starred in <strong> <em> ' in 2007 in the final episode of Season 3 &quot ; Snow Day&quot ; . </em> </strong> </p>
+
+#	NEW	birthplace	........ / New	// <p> Orman&#x2019 ; s new role was announced at a community event at The Educational Alliance Boys &amp ; Girls Club in New York City , where <a> Mayor </a> <a> Michael Bloomberg&#x2019 ; s </a> office commended Orman&#x2019 ; s life work and willingness to embrace new technology to help encourage children to read books , by naming October 8 , 2008 AudibleKids Day in <a> New York City </a> . </p>
+
+#	NEW	birthplace	........ / Paris	// <p> <strong> Ellen Parker </strong> ( born September 30 , 1949 in <a> Paris </a> , <a> France </a> ) is an <a> American </a> <a> actress </a> . </p>
+
+#	NEW	birthplace	........ / was shot and killed by police officers responding	// On December 23 , 2008 , he was shot and killed by police officers responding to a hostage situation in El Monte , California . </p>
+
+#	NEW	birthplace	........ / Hoffman married	// <p> Hoffman married actress <a> Giam Kwee </a> on July 30 , 2005 . </p>
+
+#	NEW	birthplace	........ / County Louth	// <p> Lynch was born in the <a> Termonfeckin </a> townland of <a> County Louth </a> , <a> Leinster </a> , <a> Ireland </a> to Marguerite and Donal Lynch .
+
+#	NEW	birthplace	........ / India	// <p> <strong> Sonali Kulkarni </strong> ( ) ( born 3 November 1974 ) is an <a> India </a> n actress .
+
+#	NEW	birthplace	........ / comic strip character Lucy .	// She played the comic strip character Lucy . </em> </strong> </p>
+
+#	NEW	birthplace	........ / Kumamoto	// She was born in the Japanese <a> prefecture </a> of <a> Kumamoto </a> on February 25 , 1978 .
+
+#	NEW	birthplace	........ / La Bambi	// <p> She was nominated for a Internacional Emmy in the Best Performance by an Actress category in 2009 , for her role of La Bambi in the TV Series Capadocia . </p>
+
+#	NEW	birthplace	........ / Aller&# x00f8 ; d Municipality	// <p> <strong> Jan Gintberg </strong> ( born December 3 , 1963 in <a> Lynge </a> , <a> Aller&#x00f8 ; d Municipality </a> , <a> Denmark </a> ) is a Danish <a> stand-up comedian </a> and television and radio host .
+
+#	NEW	birthplace	........ / wealthy Christian Catholic Egyptian family	// <p> Lakah was born to a wealthy Christian Catholic Egyptian family , and first came to prominence with his brother <a> Michel Lakah </a> in the mid-1990s .
+
+#	NEW	birthplace	........ / four children and was schooled at <a> San Diego High School	// <p> He was one of four children and was schooled at <a> San Diego High School </a> .
+
+#	NEW	birthplace	........ / ( born <strong> Henry Blight Halicki	// Halicki </strong> ( October 18 , 1940 &#x2013 ; August 20 , 1989 ) ( born <strong> Henry Blight Halicki </strong> ) was an <a> American </a> stunt driver , <a> actor </a> , and <a> filmmaker </a> .
+
+#	NEW	birthplace	........ / Mexico	// <p> <strong> Klinton Spilsbury </strong> ( born <a> 1951 </a> ) is an <a> American </a> <a> actor </a> , born in <a> Chihuahua , Mexico </a> .
+
+#	NEW	birthplace	........ / born <strong> Esther Maria Gonzalez	// <p> Sandoval was born <strong> Esther Maria Gonzalez </strong> in <a> Ponce </a> where she received her primary and secondary education .
+
+#	null	birthplace	biloxi, mississippi / ..........
+
+#	null	birthplace	paw paw, michigan / ..........
+
+#	null	birthplace	uk / ..........
+

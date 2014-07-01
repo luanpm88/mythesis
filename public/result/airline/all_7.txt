@@ -1,0 +1,386 @@
+Total articles: 456
+Articles for test: 411
+Articles for train: 45
+Total attributes: 140
+Attributes with high occurrences: 18/140
+
+------------
+Found: 543
+Found Not Null: 123
+Correct: 70
+Wrong: 53
+Total: 156
+precision: 0.5691056910569106
+recall: 0.44871794871794873
+
+
+
+3	TRUE	Asiana Airlines:: callsign	asiana / Air	
+<p> <strong> Asiana Airlines Inc . </strong> ( ; ; formerly <strong> Seoul Airlines </strong> ) is one of <a> South Korea </a> 's two major <a> airline </a> s , along with <a> Korean Air </a> .
+
+8	FALSE	Asiana Airlines:: icao	aar / cities	
+<p> Asiana Airlines has rapidly expanded since its establishment in 1988 to become a midsized , global carrier with a fleet of 69 aircraft providing international services to 66 cities in 21 countries on 82 routes , and domestic services to 12 cities on 15 routes .
+
+11	TRUE	Asiana Airlines:: logo_size	200 / 777-	
+In order to compensate for the loss of these passenger jets , Asiana will introduce two <a> Boeing 777-200ER </a> aircraft .
+
+13	FALSE	Jat Airways:: fleet_size	15 / 3	
+( 2007 ) ]] The Jat Airways fleet consists of the following aircraft ( as of 3 October 2010 ) : </p>
+
+14	TRUE	Jat Airways:: callsign	jat / world'	
+<p> <strong> Jat Airways </strong> , the <a> national </a> <a> airline </a> of <a> Serbia </a> and the former national carrier of <a> Yugoslavia </a> , was established in <a> 1927 </a> as <a> Aeroput </a> , making it currently one of the world's oldest airlines still in operation .
+
+21	TRUE	Jat Airways:: airline	jat airways / world'	
+<p> <strong> Jat Airways </strong> , the <a> national </a> <a> airline </a> of <a> Serbia </a> and the former national carrier of <a> Yugoslavia </a> , was established in <a> 1927 </a> as <a> Aeroput </a> , making it currently one of the world's oldest airlines still in operation .
+
+25	FALSE	Jat Airways:: iata	ju / as	
+<p> <strong> Jat Airways </strong> , the <a> national </a> <a> airline </a> of <a> Serbia </a> and the former national carrier of <a> Yugoslavia </a> , was established in <a> 1927 </a> as <a> Aeroput </a> , making it currently one of the world's oldest airlines still in operation .
+
+28	FALSE	Condor Flugdienst:: iata	de / Mediterranean	
+<p> <strong> Condor Flugdienst </strong> , usually shortened to <strong> Condor </strong> , is an <a> airline </a> based in Germany , operating scheduled leisure flights to the <a> Mediterranean </a> , <a> Asia </a> , <a> Africa </a> , <a> North America </a> and the <a> Caribbean </a> as part of <a> Thomas Cook Group </a> .
+
+29	TRUE	Condor Flugdienst:: callsign	condor / North America	
+<p> <strong> Condor Flugdienst </strong> , usually shortened to <strong> Condor </strong> , is an <a> airline </a> based in Germany , operating scheduled leisure flights to the <a> Mediterranean </a> , <a> Asia </a> , <a> Africa </a> , <a> North America </a> and the <a> Caribbean </a> as part of <a> Thomas Cook Group </a> .
+
+40	TRUE	Great Lakes Airlines:: callsign	lakes air / American	
+<p> <strong> Great Lakes Airlines </strong> , is an <a> American </a> regional <a> airline </a> operating domestic scheduled and charter services .
+
+45	TRUE	Great Lakes Airlines:: airline	great lakes airlines / services.	
+<p> <strong> Great Lakes Airlines </strong> , is an <a> American </a> regional <a> airline </a> operating domestic scheduled and charter services .
+
+50	TRUE	Adria Airways:: callsign	adria / Adria	
+<p> <strong> Adria Airways d . d . </strong> is the <a> flag carrier </a> <a> airline </a> of <a> Slovenia </a> with its head office on the grounds of <a> Ljubljana Airport </a> in <a> Zgornji Brnik </a> , <a> Cerklje na Gorenjskem </a> , <a> Slovenia </a> , near <a> Ljubljana </a> .
+
+52	FALSE	Adria Airways:: founded	march 1961 / 2010	
+In September 2010 the second part of the new hangar is starting to be built .
+
+55	TRUE	Adria Airways:: icao	adr / December	
+Adria carried out its first flight with a domestic crew in December 1961 .
+
+58	FALSE	Skywest Airlines:: fleet_size	18 / 2010	
+<p> As of June 2010 the Skywest fleet consists of : </p>
+
+63	TRUE	Skywest Airlines:: founded	1963 / 1963	
+<p> Skywest began service in 1963 as <strong> Carnarvon Air Taxis </strong> flying charter flights with small <a> general aviation </a> aircraft out of <a> Carnarvon , Western Australia </a> .
+
+67	TRUE	Skywest Airlines:: airline	skywest / <a> Indonesia	
+<p> <strong> Skywest Airlines Pty Ltd </strong> ( , ) is a regional <a> airline </a> company based in <a> Perth , Western Australia </a> , <a> Australia </a> ; servicing key towns in the state of <a> Western Australia </a> , <a> Darwin , Northern Territory </a> and <a> Melbourne , Victoria </a> ; as well as charter flights to <a> Bali </a> , <a> Indonesia </a> . </p>
+
+72	TRUE	Air Georgian:: callsign	georgian / carrier.	
+<p> <strong> Air Georgian </strong> is an <a> airline </a> based in the Shell Aerocentre in <a> Mississauga </a> , <a> Ontario </a> , <a> Canada </a> . ! Select the white-colored text in the middle to see it It was established and started operations in 1994 and operates as a charter and airline carrier .
+
+77	TRUE	Air Georgian:: airline	air georgian / see	
+<p> <strong> Air Georgian </strong> is an <a> airline </a> based in the Shell Aerocentre in <a> Mississauga </a> , <a> Ontario </a> , <a> Canada </a> . ! Select the white-colored text in the middle to see it It was established and started operations in 1994 and operates as a charter and airline carrier .
+
+80	TRUE	Air Georgian:: founded	1994 / 1994	
+<p> <strong> Air Georgian </strong> is an <a> airline </a> based in the Shell Aerocentre in <a> Mississauga </a> , <a> Ontario </a> , <a> Canada </a> . ! Select the white-colored text in the middle to see it It was established and started operations in 1994 and operates as a charter and airline carrier .
+
+85	TRUE	Air Santo Domingo:: callsign	air santo domingo / Republic	
+<p> <strong> Air Santo Domingo </strong> ( Aerol&#x00ed;neas Santo Domingo ) was the <a> flag carrier </a> <a> airline </a> of the <a> Dominican Republic </a> .
+
+91	TRUE	Air Santo Domingo:: airline	air santo domingo / Republic	
+<p> <strong> Air Santo Domingo </strong> ( Aerol&#x00ed;neas Santo Domingo ) was the <a> flag carrier </a> <a> airline </a> of the <a> Dominican Republic </a> .
+
+103	TRUE	Central Mountain Air:: airline	central mountain air / British	
+<p> <strong> Central Mountain Air Ltd . </strong> is a <a> Canadian </a> <a> regional airline </a> based in <a> Smithers </a> , <a> British Columbia </a> .
+
+110	FALSE	Korean Air:: iata	ke / Co.	
+<p> <strong> Korean Air Lines Co . , Ltd . </strong> ( ) , <a> operating as </a> <strong> Korean Air </strong> , is both the <a> flag carrier </a> and the largest <a> airline </a> of <a> South Korea </a> , with global headquarters located in <a> Seoul </a> .
+
+111	TRUE	Korean Air:: callsign	korean air / located	
+<p> <strong> Korean Air Lines Co . , Ltd . </strong> ( ) , <a> operating as </a> <strong> Korean Air </strong> , is both the <a> flag carrier </a> and the largest <a> airline </a> of <a> South Korea </a> , with global headquarters located in <a> Seoul </a> .
+
+112	FALSE	Korean Air:: frequent_flyer	skypass / cycle.	
+The program's elite levels are comparable to those of other airlines' <a> frequent flyer program </a> s , requiring members to fly a 30 , 000 miles per two-year cycle . ( initial
+
+115	FALSE	Korean Air:: icao	kal / while	
+Korean Air's international passenger division and related subsidiary cargo division together serve 130 cities in 45 countries , while its domestic division serves 20 destinations .
+
+119	TRUE	EgyptAir:: logo_size	200 / 2008.	
+<p> EgyptAir is Africa's largest airline , joining <a> Star Alliance </a> on 11 July 2008 .
+
+122	FALSE	EgyptAir:: parent	egyptair holding company / following	
+<p> As of January 2011 , the EgyptAir fleet consists of the following aircraft : center /center </p>
+
+123	TRUE	EgyptAir:: callsign	egyptair / Star	
+<p> <strong> EgyptAir </strong> ( <a> Arabic </a> : &#x0645;&#x0635;&#x0631; &#x0644;&#x0644;&#x0637;&#x064a;&#x0631;&#x0627;&#x0646; , <em> </em> ) is the <a> flag carrier </a> <a> airline </a> of <a> Egypt </a> and a member of <a> Star Alliance </a> .
+
+135	FALSE	Chautauqua Airlines:: iata	rp / Holdings	
+<p> <strong> Chautauqua Airlines , Inc . </strong> is a regional <a> airline </a> and a subsidiary of <a> Republic Airways Holdings </a> based in <a> Indianapolis </a> , <a> Indiana </a> , <a> United States </a> .
+
+136	TRUE	Chautauqua Airlines:: callsign	chautauqua / United	
+<p> <strong> Chautauqua Airlines , Inc . </strong> is a regional <a> airline </a> and a subsidiary of <a> Republic Airways Holdings </a> based in <a> Indianapolis </a> , <a> Indiana </a> , <a> United States </a> .
+
+139	TRUE	Chautauqua Airlines:: airline	chautauqua airlines / United	
+<p> <strong> Chautauqua Airlines , Inc . </strong> is a regional <a> airline </a> and a subsidiary of <a> Republic Airways Holdings </a> based in <a> Indianapolis </a> , <a> Indiana </a> , <a> United States </a> .
+
+146	TRUE	US Airways:: iata	us / US	
+<p> <strong> US Airways , Inc . </strong> is a <a> major airline </a> based in the United States .
+
+147	FALSE	US Airways:: callsign	cactus / United	
+<p> <strong> US Airways , Inc . </strong> is a <a> major airline </a> based in the United States .
+
+159	FALSE	Flybe:: destinations	45 / p>	
+<p> Flybe operates short haul services to destinations throughout the <a> United Kingdom </a> , <a> Ireland </a> and continental <a> Europe </a> . </p>
+
+160	TRUE	Flybe:: iata	be / as	
+<p> <strong> Flybe Limited </strong> ( styled as <strong> flybe </strong> ) is a <a> low-cost </a> <a> regional airline </a> headquartered at the Jack Walker House at <a> Exeter International Airport </a> in <a> Devon </a> , <a> England </a> .
+
+161	FALSE	Flybe:: callsign	jersey / Limited	
+<p> <strong> Flybe Limited </strong> ( styled as <strong> flybe </strong> ) is a <a> low-cost </a> <a> regional airline </a> headquartered at the Jack Walker House at <a> Exeter International Airport </a> in <a> Devon </a> , <a> England </a> .
+
+168	TRUE	Flybe:: airline	flybe / England	
+<p> <strong> Flybe Limited </strong> ( styled as <strong> flybe </strong> ) is a <a> low-cost </a> <a> regional airline </a> headquartered at the Jack Walker House at <a> Exeter International Airport </a> in <a> Devon </a> , <a> England </a> .
+
+169	FALSE	Flybe:: icao	bee / more	
+As per the CAA's April/May 2009 passenger statistics , Flybe is now the UK's largest domestic airline ( 26% of total UK domestic passengers that flew during April chose a Flybe-branded flight , 3% more than those who chose an <a> easyJet </a> -branded flight ) .
+
+174	FALSE	BA Connect:: iata	th / BA	
+<p> <strong> BA Connect </strong> was a fully owned <a> subsidiary </a> airline of <a> British Airways </a> .
+
+175	TRUE	BA Connect:: callsign	british / BA	
+<p> <strong> BA Connect </strong> was a fully owned <a> subsidiary </a> airline of <a> British Airways </a> .
+
+178	FALSE	BA Connect:: ceased	2007 / 1993	
+On 30 July 1993 the company was renamed Brymon Airways Limited to reflect the operating name . </p>
+
+179	TRUE	BA Connect:: airline	ba connect / British Airways	
+<p> <strong> BA Connect </strong> was a fully owned <a> subsidiary </a> airline of <a> British Airways </a> .
+
+194	FALSE	KLM Cityhopper:: logo_size	100 / 50	
+The additional order of <a> Embraer </a> aircraft and the transfer of <a> Fokker 70 </a> aircraft from Air France regional in 2009 will allow KLM cityhopper to phase out its <a> Fokker 50 </a> fleet .
+
+196	FALSE	KLM Cityhopper:: iata	wa / KLM	
+<p> <strong> KLM cityhopper </strong> , is the regional subsidiary of <a> KLM </a> Royal Dutch Airlines &#x2013; part of the <a> Air France-KLM </a> Group .
+
+197	TRUE	KLM Cityhopper:: callsign	city / KLM	
+<p> <strong> KLM cityhopper </strong> , is the regional subsidiary of <a> KLM </a> Royal Dutch Airlines &#x2013; part of the <a> Air France-KLM </a> Group .
+
+203	TRUE	KLM Cityhopper:: airline	klm cityhopper / Air	
+<p> <strong> KLM cityhopper </strong> , is the regional subsidiary of <a> KLM </a> Royal Dutch Airlines &#x2013; part of the <a> Air France-KLM </a> Group .
+
+222	FALSE	Air Midwest:: fleet_size	11 / 120	
+<p> As of February 2008 , Air Midwest had 20 aircraft in its fleet consisting of : center /center Previous aircraft operated by Air Midwest include the <a> Cessna 402 </a> , <a> Beech 99 </a> , <a> Metroliner </a> , <a> Jetstream 31 </a> , <a> Saab 340 </a> and the <a> Embraer EMB 120 Brasilia </a> . </p>
+
+224	TRUE	Air Midwest:: callsign	air midwest / Inc	
+<p> <strong> Air Midwest </strong> was founded in <a> Wichita , Kansas </a> , in May 1965 by Gary Adamson as <strong> Aviation Services , Inc </strong> .
+
+227	FALSE	Air Midwest:: frequent_flyer	mesamax / Services	
+<p> <strong> Air Midwest </strong> was founded in <a> Wichita , Kansas </a> , in May 1965 by Gary Adamson as <strong> Aviation Services , Inc </strong> .
+
+231	TRUE	Air Midwest:: airline	air midwest / Inc	
+<p> <strong> Air Midwest </strong> was founded in <a> Wichita , Kansas </a> , in May 1965 by Gary Adamson as <strong> Aviation Services , Inc </strong> .
+
+232	FALSE	Air Midwest:: icao	amw / states.	
+It served 28 cities in 12 states . </p>
+
+234	FALSE	Hooters Air:: fleet_size	6 / 2005 ) :	
+<p> The Hooters Air fleet consisted of the following aircraft ( at December 2005 ) : </p>
+
+236	FALSE	Hooters Air:: callsign	pace / Air	
+<p> <strong> Hooters Air </strong> was an <a> airline </a> headquartered in <a> Myrtle Beach </a> , <a> South Carolina </a> , <a> USA </a> .
+
+243	FALSE	Philippine Airlines:: fleet_size	38 / 9	
+<p> As of 26 November 2010 , the Philippine Airlines fleet ( excluding <a> Airphil Express </a> ) consists of the following aircraft with an average age of 8 . 9 years : </p>
+
+244	FALSE	Philippine Airlines:: iata	pr / flag	
+<p> <strong> Philippine Airlines , Inc . </strong> ( abbreviated as <strong> PAL </strong> ) , also known historically as <strong> Philippine Air Lines </strong> , is the <a> flag carrier </a> and national <a> airline </a> of the <a> Philippines </a> .
+
+248	TRUE	Philippine Airlines:: icao	pal / financial	
+In the past , PAL operated a number of domestic and international non-hub routes ( most notably Iloilo-General Santos , Vancouver-New York and Z&#x00fc;rich-Paris ) , as well as non-stop services to destinations in Europe and extensive domestic operations; these services were discontinued in light of the Asian financial crisis .
+
+249	TRUE	Philippine Airlines:: callsign	philippine / Air	
+<p> <strong> Philippine Airlines , Inc . </strong> ( abbreviated as <strong> PAL </strong> ) , also known historically as <strong> Philippine Air Lines </strong> , is the <a> flag carrier </a> and national <a> airline </a> of the <a> Philippines </a> .
+
+254	TRUE	Air China:: iata	ca / Co.	
+<p> <strong> Air China Cargo Co . , Ltd . </strong> is a <a> cargo airline </a> based in <a> Beijing </a> , <a> China </a> .
+
+255	TRUE	Air China:: callsign	air china / China	
+<p> <strong> Air China Cargo Co . , Ltd . </strong> is a <a> cargo airline </a> based in <a> Beijing </a> , <a> China </a> .
+
+263	FALSE	Copa Airlines:: fleet_size	51 / 7	
+<p> As of December 2010 , the Copa Airlines fleet consists of the following aircraft with an average age of 5 . 7 years : center /center </p>
+
+264	FALSE	Copa Airlines:: iata	cm / as	
+<p> <strong> Copa Airlines </strong> is an airline based in <a> Panama City </a> , <a> Panama </a> , and serves as Panama's flag carrier .
+
+265	TRUE	Copa Airlines:: callsign	copa / as Panama'	
+<p> <strong> Copa Airlines </strong> is an airline based in <a> Panama City </a> , <a> Panama </a> , and serves as Panama's flag carrier .
+
+267	FALSE	Copa Airlines:: founded	1947 / 2010	
+<p> On 1 September 2010 , Copa Airlines has confirmed that it will start service to <a> St .
+
+270	TRUE	Copa Airlines:: airline	copa airlines / Copa Airlines	
+<p> <strong> Copa Airlines </strong> is an airline based in <a> Panama City </a> , <a> Panama </a> , and serves as Panama's flag carrier .
+
+273	TRUE	Copa Airlines:: destinations	45 / p>	
+Its main base of operations is <a> Tocumen International Airport </a> , from where it operates approximately 148 daily scheduled flights to 45 destinations in 24 countries in <a> North America </a> , <a> Central America </a> , <a> South America </a> and <a> The Caribbean </a> . </p>
+
+291	FALSE	Corsairfly:: iata	ss / an	
+<p> <strong> Corsair S . A . </strong> <a> trading as </a> <strong> Corsairfly </strong> , is an <a> airline </a> based in <a> Rungis </a> , <a> France </a> .
+
+292	TRUE	Corsairfly:: callsign	corsair / Corsair	
+<p> <strong> Corsair S . A . </strong> <a> trading as </a> <strong> Corsairfly </strong> , is an <a> airline </a> based in <a> Rungis </a> , <a> France </a> .
+
+298	TRUE	Corsairfly:: airline	corsairfly / France	
+<p> <strong> Corsair S . A . </strong> <a> trading as </a> <strong> Corsairfly </strong> , is an <a> airline </a> based in <a> Rungis </a> , <a> France </a> .
+
+299	FALSE	Corsairfly:: icao	crl / Marseille	
+<p> Corsairfly operates most of its flight from its hub at <a> Paris-Orly </a> although some flights do fly from other major French cities such as <a> Lyon </a> , <a> Marseille </a> and <a> Toulouse </a> </p>
+
+300	FALSE	Corsairfly:: fleet_size	8 / 2010 ) :	
+<p> The Corsairfly fleet consists of the following aircraft ( at May 2010 ) : </p>
+
+304	FALSE	Thai Airways International:: iata	tg / International	
+<p> <strong> Thai Airways International Public Company Limited ( Thai ) </strong> ( , ) is the <a> national flag carrier </a> and largest <a> airline </a> of <a> Thailand </a> .
+
+305	TRUE	Thai Airways International:: callsign	thai / Thai	
+<p> <strong> Thai Airways International Public Company Limited ( Thai ) </strong> ( , ) is the <a> national flag carrier </a> and largest <a> airline </a> of <a> Thailand </a> .
+
+313	FALSE	Thai Airways International:: icao	tha / Angeles	
+The airline operates one of the longest <a> non-stop commercial flights </a> , including the 18 hours non-stop flight from <a> Bangkok </a> to <a> Los Angeles </a> .
+
+315	TRUE	SkyEurope:: destinations	30 / 30	
+<p> SkyEurope operated 44 routes to 30 destinations in 17 countries .
+
+316	TRUE	SkyEurope:: iata	ne / SkyEurope	
+<p> <strong> SkyEurope Airlines </strong> was a <a> low-cost airline </a> headquartered in <a> Bratislava </a> , with its main base at <a> M .
+
+320	FALSE	SkyEurope:: founded	november 2001 / its	
+<p> <strong> SkyEurope Airlines </strong> was a <a> low-cost airline </a> headquartered in <a> Bratislava </a> , with its main base at <a> M .
+
+322	FALSE	SkyEurope:: ceased	1 september 2009 / 2009	
+<p> In June 2009 , in an effort to avoid bankruptcy , SkyEurope announced a restructuring of the company and received bankruptcy protection from the Slovak courts ( valid in the whole European Union ) .
+
+323	TRUE	SkyEurope:: airline	skyeurope / main	
+<p> <strong> SkyEurope Airlines </strong> was a <a> low-cost airline </a> headquartered in <a> Bratislava </a> , with its main base at <a> M .
+
+324	FALSE	SkyEurope:: icao	esk / Kosice	
+( 2009 ) ]] SkyEurope was established in November 2001 and started operations on 13 February 2002 ( domestic flight Bratislava-Kosice operated with 30 seat turboprop Embraer 120 ER Brasilia ) .
+
+330	FALSE	Air Canada Jazz:: destinations	82 / 5	
+Sunquest charter service to sun destination operated by Jazz Air is scheduled to begin on November 5 , 2010 . </p>
+
+333	FALSE	Air Canada Jazz:: founded	2001 / operated	
+<p> <strong> Air Canada Jazz </strong> , also known as <strong> Jazz Air </strong> , is a <a> Canadian </a> <a> regional airline </a> based at <a> Halifax Stanfield International Airport </a> in <a> Enfield </a> , <a> Nova Scotia </a> , operated by <a> Chorus Aviation </a> ( ) . </p>
+
+337	TRUE	Air Canada Jazz:: airline	air canada jazz / Aviation	
+<p> <strong> Air Canada Jazz </strong> , also known as <strong> Jazz Air </strong> , is a <a> Canadian </a> <a> regional airline </a> based at <a> Halifax Stanfield International Airport </a> in <a> Enfield </a> , <a> Nova Scotia </a> , operated by <a> Chorus Aviation </a> ( ) . </p>
+
+339	TRUE	Air Canada Jazz:: callsign	jazz / Canadian	
+<p> <strong> Air Canada Jazz </strong> , also known as <strong> Jazz Air </strong> , is a <a> Canadian </a> <a> regional airline </a> based at <a> Halifax Stanfield International Airport </a> in <a> Enfield </a> , <a> Nova Scotia </a> , operated by <a> Chorus Aviation </a> ( ) . </p>
+
+346	FALSE	AirTran Airways:: iata	fl / an	
+<p> <strong> AirTran Airways </strong> is an American <a> low-cost </a> <a> airline </a> .
+
+353	TRUE	AirTran Airways:: airline	airtran airways / AirTran Airways	
+<p> <strong> AirTran Airways </strong> is an American <a> low-cost </a> <a> airline </a> .
+
+360	TRUE	Wardair:: callsign	wardair / Wardair Canada&	
+<p> <strong> Wardair Canada </strong> was a privately-run Canadian <a> airline </a> , founded by <a> Max Ward </a> in <a> 1953 </a> under the name Wardair Ltd , before formally changing its name to &quot;Wardair Canada&quot; in <a> 1976 </a> .
+
+362	TRUE	Wardair:: founded	1953 / 1976	
+<p> <strong> Wardair Canada </strong> was a privately-run Canadian <a> airline </a> , founded by <a> Max Ward </a> in <a> 1953 </a> under the name Wardair Ltd , before formally changing its name to &quot;Wardair Canada&quot; in <a> 1976 </a> .
+
+370	FALSE	Reeve Aleutian Airways:: iata	rv / an	
+<p> <strong> Reeve Aleutian Airways </strong> was an <a> airline </a> headquartered in <a> Anchorage </a> , <a> Alaska </a> , <a> United States </a> .
+
+371	TRUE	Reeve Aleutian Airways:: callsign	reeve / Aleutian	
+<p> <strong> Reeve Aleutian Airways </strong> was an <a> airline </a> headquartered in <a> Anchorage </a> , <a> Alaska </a> , <a> United States </a> .
+
+375	TRUE	Reeve Aleutian Airways:: ceased	december 5, 2000 / December 5, 2000.	
+It ceased operations on December 5 , 2000 . </p>
+
+376	TRUE	Reeve Aleutian Airways:: airline	reeve aleutian airways / United	
+<p> <strong> Reeve Aleutian Airways </strong> was an <a> airline </a> headquartered in <a> Anchorage </a> , <a> Alaska </a> , <a> United States </a> .
+
+380	TRUE	Pulkovo Aviation Enterprise:: callsign	pulkovo / head	
+[[Ilyushin Il-86|Il-86]] ( <a> Pulkovo Airport </a> ) ]] <strong> Pulkovo Aviation Enterprise </strong> ( &#x0424;&#x0413;&#x0423;&#x0410;&#x041f; &quot;&#x041f;&#x0443;&#x043b;&#x043a;&#x043e;&#x0432;&#x043e;&quot; ) was an airline with its head office in <a> Saint Petersburg </a> , <a> Russia </a> .
+
+385	TRUE	Pulkovo Aviation Enterprise:: airline	pulkovo aviation enterprise / Aviation	
+[[Ilyushin Il-86|Il-86]] ( <a> Pulkovo Airport </a> ) ]] <strong> Pulkovo Aviation Enterprise </strong> ( &#x0424;&#x0413;&#x0423;&#x0410;&#x041f; &quot;&#x041f;&#x0443;&#x043b;&#x043a;&#x043e;&#x0432;&#x043e;&quot; ) was an airline with its head office in <a> Saint Petersburg </a> , <a> Russia </a> .
+
+412	TRUE	Air Lithuania:: callsign	kaunas / Air	
+<p> <strong> Air Lithuania </strong> ( , literally : <em> Air Company &quot;Lithuania&quot; </em> ) was a regional <a> airline </a> based in <a> Kaunas </a> in <a> Lithuania </a> .
+
+415	FALSE	Air Lithuania:: founded	13 september 1991 / <a>	
+<p> <strong> Air Lithuania </strong> ( , literally : <em> Air Company &quot;Lithuania&quot; </em> ) was a regional <a> airline </a> based in <a> Kaunas </a> in <a> Lithuania </a> .
+
+426	TRUE	SkyTeam:: alliance	skyteam / membership :	
+Benefits of SkyTeam Elite membership : </p>
+
+449	TRUE	Air Canada Tango:: founded	2001 / 2001	
+<p> <strong> Air Canada Tango </strong> was a <a> low-cost </a> branch of <a> Air Canada </a> , which was established in 2001 to offer <a> no-frills </a> service on some of Air Canada's routes and to reduce operating costs at the struggling main company .
+
+451	TRUE	Air Canada Tango:: airline	air canada tango / Air Canada'	
+<p> <strong> Air Canada Tango </strong> was a <a> low-cost </a> branch of <a> Air Canada </a> , which was established in 2001 to offer <a> no-frills </a> service on some of Air Canada's routes and to reduce operating costs at the struggling main company .
+
+456	FALSE	Czech Airlines:: logo_size	200 / 104	
+CSA was the only airline other than <a> Aeroflot </a> to operate the Tu-104 which was the world's first successful jet airliner .
+
+459	FALSE	Czech Airlines:: iata	ok / State	
+<p> CSA was founded on 6 October 1923 , by the Czechoslovak government as CSA <strong> <em> &#x010c; </em> </strong> eskoslovensk&#x00e9; <strong> S </strong> t&#x00e1;tn&#x00ed; <strong> A </strong> erolinie <em> ( Czechoslovak State Airlines ) .
+
+462	TRUE	Czech Airlines:: founded	1923 / 1923	
+<p> CSA was founded on 6 October 1923 , by the Czechoslovak government as CSA <strong> <em> &#x010c; </em> </strong> eskoslovensk&#x00e9; <strong> S </strong> t&#x00e1;tn&#x00ed; <strong> A </strong> erolinie <em> ( Czechoslovak State Airlines ) .
+
+463	TRUE	Czech Airlines:: frequent_flyer	ok plus / livery	
+The airline runs a frequent flyer programme called &quot;OK Plus&quot; in reference to the airline's <a> IATA </a> designation , as well as the <a> term of approval </a> ; <strong> OK </strong> also featured prominently in its previous <a> livery </a> .
+
+467	FALSE	Czech Airlines:: icao	csa / Europe	
+Today , it operates scheduled services to 69 destinations in 41 countries , including most major <a> Europe </a> an cities and cities in the <a> Middle East </a> , <a> North Africa </a> and <a> Asia </a> .
+
+470	FALSE	Canadian Pacific Air Lines:: fleet_size	68 / CP	
+<p> Some other incidents involving CP aircraft : </p>
+
+471	TRUE	Canadian Pacific Air Lines:: iata	cp / CP	
+<p> In 1968 , Canadian Pacific was <a> rebranded </a> as <strong> CP Air </strong> .
+
+478	FALSE	Canadian Pacific Air Lines:: airline	canadian pacific air lines / Pacific	
+<p> In 1968 , Canadian Pacific was <a> rebranded </a> as <strong> CP Air </strong> .
+
+482	TRUE	Canadian Pacific Air Lines:: founded	1942 / 1942	
+<p> <strong> Canadian Pacific Air Lines </strong> was a <a> Canadian </a> airline that operated from 1942 to 1987 .
+
+485	TRUE	World Airways:: fleet_size	20 / 1	
+World Airways [[Boeing 747-400#747-400F|Boeing 747-400BCF]] at <a> Munich Airport </a> , <a> Germany </a> ( 2009 ) ]] As of January 2011 , the World Airways fleet consists of the following aircraft with an average age of 18 . 1 years : </p>
+
+486	TRUE	World Airways:: iata	wo / an	
+<p> <strong> World Airways , Inc . </strong> is an <a> American </a> non-scheduled airline headquartered at the HLH Building in <a> Peachtree City </a> , <a> Georgia </a> . </p>
+
+487	TRUE	World Airways:: callsign	world / American	
+<p> <strong> World Airways , Inc . </strong> is an <a> American </a> non-scheduled airline headquartered at the HLH Building in <a> Peachtree City </a> , <a> Georgia </a> . </p>
+
+493	TRUE	World Airways:: airline	world airways / World Airways	
+<p> <strong> World Airways , Inc . </strong> is an <a> American </a> non-scheduled airline headquartered at the HLH Building in <a> Peachtree City </a> , <a> Georgia </a> . </p>
+
+497	FALSE	Air Moldova:: fleet_size	5 / 7	
+<p> The Air Moldova fleet consists of the following aircraft ( at 7 October 2010 ) : </p>
+
+498	TRUE	Air Moldova:: destinations	17 / 17	
+It is the national airline of Moldova and operates scheduled services to 17 destinations in Europe .
+
+500	TRUE	Air Moldova:: callsign	air moldova / u	
+<p> <strong> Air Moldova </strong> is an <a> airline </a> with its head office on the grounds of <a> Chi&#x015f;in&#x0103;u International Airport </a> in <a> Chi&#x015f;in&#x0103;u </a> , <a> Moldova </a> .
+
+502	FALSE	Air Moldova:: founded	1993 / <a>	
+<p> <strong> Air Moldova </strong> is an <a> airline </a> with its head office on the grounds of <a> Chi&#x015f;in&#x0103;u International Airport </a> in <a> Chi&#x015f;in&#x0103;u </a> , <a> Moldova </a> .
+
+507	FALSE	Moldavian Airlines:: fleet_size	3 / p>	
+<p> center <strong> Moldavian Airlines Fleet </strong> /center </p>
+
+508	FALSE	Moldavian Airlines:: destinations	4 / x0103;	
+It operates scheduled international services from Chi&#x015f;in&#x0103;u to destinations in <a> Europe </a> .
+
+510	TRUE	Moldavian Airlines:: callsign	moldavian / u	
+<p> <strong> Moldavian Airlines </strong> is an <a> airline </a> based at <a> Chi&#x015f;in&#x0103;u </a> in <a> Moldova </a> .
+
+518	TRUE	Moldavian Airlines:: airline	moldavian airlines / Moldavian Airlines	
+<p> <strong> Moldavian Airlines </strong> is an <a> airline </a> based at <a> Chi&#x015f;in&#x0103;u </a> in <a> Moldova </a> .
+
+531	FALSE	Virgin Blue:: destinations	31 / p>	
+The airline is currently preparing to order <a> Bombardier Q400 </a> s for new services on the east coast of Australia , to destinations which are unviable for the Embraer fleet ( similar to <a> QantasLink </a> ) . </p>
+
+540	FALSE	Virgin Blue:: airline	virgin blue / purchase.	
+<p> <strong> Economy Class </strong> offers a <a> buy on board </a> service with food and drinks for purchase . </p>
+

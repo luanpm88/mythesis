@@ -1,0 +1,94 @@
+Found: 38
+Found Not Null: 6
+Correct: 2
+Wrong: 4
+Total: 7
+precision: 0.3333333333333333
+recall: 0.2857142857142857
+
+
+
+#	NEW	icao	........ / June	// <p> Air Creebec operates services to the following Canadian domestic scheduled destinations ( as of June 2010 ) : and the Air Creebec site listed 14 .
+
+#	NEW	icao	........ / January	// <p> The Air Ivoire fleet includes the following aircraft ( as of January 2010 ) : </p>
+
+#	NEW	icao	........ / title	// <p> The airline was originally formed in Akureyri by Tryggvi Helgason as Nordurflug , and was incorporated under the title Flugfelag Nordurlands on 1 May 1975 .
+
+3	TRUE	AeroHonduras::icao	hon / Falcon	
+<p> In 2005 , AeroHonduras suspended operations after its only operating aircraft ( a <a> Boeing 737-300 </a> ) <a> wet lease </a> d from <a> Falcon Air Express </a> was taken back by the company .
+
+#	NEW	icao	........ / take-	// <p> Following this incident , the FAA instituted new minimums between aircraft in line-up for take-off . </p>
+
+5	FALSE	Nepal Airlines::icao	rna / Nepal	
+<p> The Nepal Airlines fleet includes the following aircraft ( as of 16 July 2010 ) : </p>
+
+#	NEW	icao	........ / Fiji	// <p> The Air Fiji fleet included the following aircraft ( at December 2008 ) : </p>
+
+#	NEW	icao	........ / May	// <p> The Druk Air fleet consists of the following aircraft ( as of 1 May 2010 ) : </p>
+
+#	NEW	icao	........ / December	// <p> The Air Inuit fleet includes the following aircraft ( as of December 2010 ) </p>
+
+#	NEW	icao	........ / Jamaica	// <p> In 2002 , the Air Jamaica Express fleet consisted of 6 <a> Bombardier Dash 8 Q100 </a> aircraft seating 37 passengers and 2 <a> de Havilland Canada DHC-6 Series 300 </a> aircraft seating 19 passengers . ref
+
+#	NEW	icao	........ / Astana	// The Air Astana fleet consists the following aircraft ( at 15 March 2010 ) : center / center </p>
+
+#	NEW	icao	........ / center /	// <p> As of January 2011 , the Aeropostal fleet consists of the following aircraft with an average age of 28 years : center / center </p>
+
+#	NEW	icao	........ / Alitalia	// <p> As of 20 May 2010 , the Alitalia Express average fleet age was 5 . 9 years old . </p>
+
+#	NEW	icao	........ / GO	// The One-Two-GO Airlines fleet was consisted in the following aircraft ( as of 22 July 2010 ) : </p>
+
+#	NEW	icao	........ / aircraft '	// The company was known for its very colorful aircraft which featured a rainbow on the aircraft ' s tail .
+
+#	NEW	icao	........ / current	// Also in the same month , the airline received first of four new <a> A320 </a> airliners , raising its current fleet to 15 aircraft .
+
+#	NEW	icao	........ / Macau	// Macau [ [ Airbus A321 ] ] ] ] The Air Macau passenger and cargo fleet consists of the following aircraft ( at December 2009 ) : </p>
+
+#	NEW	icao	........ / Sunshine	// <p> As of August 2006 the Sunshine Express Airlines fleet includes : </p>
+
+#	NEW	icao	........ / following	// ( 2004 ) ] ] When the airline ceased operating , the &#x03b1 ; jet fleet consisted of the following aircraft : </p>
+
+#	NEW	icao	........ / Mongolia	// <p> The Aero Mongolia fleet included the following aircraft ( as of 5 Feb 2010 ) : </p>
+
+#	NEW	icao	........ / Albatros	// <p> As of August <a> 2006 </a> the Albatros Airways fleet includes : </p>
+
+#	NEW	icao	........ / following	// <p> At the time of rebranding , the Britannia Airways fleet consisted of the following aircraft : </p>
+
+#	NEW	icao	........ / December	// <p> The Portugalia fleet includes the following aircraft ( as of December 2010 ) ref name=&quot ; FI&quot ; / : </p>
+
+#	NEW	icao	........ / into	// <p> The U . S . <a> National Transportation Safety Board </a> ( NTSB ) , which also participated in the investigation , disagreed with the NTSC and concluded that the evidence was consistent with a deliberate manipulation of the flight controls , most likely by the captain , which put the aircraft into a vertical dive and caused it to crash . </p>
+
+24	FALSE	Kosova Airlines::icao	- / Kosova	
+The aircraft arrived into the Kosova Airlines fleet on 1 December 2003 and remained in the fleet until 10 May 2006 .
+
+#	NEW	icao	........ / following	// <p> At the time of its sale Flying Tigers was operating the following aircraft : </p>
+
+#	NEW	icao	........ / NTSB	// <p> The NTSB also found the following contributing factor : </p>
+
+27	FALSE	MacAir Airlines::icao	mck / following	
+<p> At the end of January 2009 MacAir operated to the following scheduled destinations : </p>
+
+#	NEW	icao	........ / airline	// <p> In 2002 the airline fleet was as follows : </p>
+
+#	NEW	icao	........ / following	// <p> The ADC Airlines fleet consisted of the following aircraft ( at October 2006 ) : </p>
+
+30	FALSE	Aero California::icao	ser / airline	
+By 1995 the airline fleet was being upgraded to all-jet types with <a> Douglas DC-9-1 / 15 </a> jets and the longer <a> Douglas DC-9-32 </a> s comprising the fleet . </p>
+
+#	NEW	icao	........ / International	// <p> In 2004 , the Gambia International Airlines fleet consisted of the following aircraft : </p>
+
+32	TRUE	Debonair (airline)::icao	deb / Eleven	
+<p> Debonair operated a fleet of used <a> BAe 146 </a> aircraft , later supplemented by three <a> Boeing 737-300 </a> s and a leased <a> BAC One-Eleven </a> .
+
+#	NEW	icao	........ / July	// <p> The Kam Air fleet consists of the following aircraft ( as of 27 July 2010 ) : </p>
+
+#	NEW	icao	........ / Thailand '	// <p> However , in March 2006 , Thailand ' s Civil Aviation Department said it was withdrawing the cargo carrier ' s license , and it appears the airline has gone out of business . [ <a> http : / /www . nationmultimedia . co / 200 / 0 / 0 / busines / business_20002118 . php </a> ] </p>
+
+#	NEW	icao	........ / following	// <p> The Aerocaribe fleet consisted of the following aircraft ( at January 2005 ) : </p>
+
+#	NEW	icao	........ / Flight	// <p> On 21 December 2010 , <a> Afriqiyah Airways </a> Flight 8U-953 .
+
+#	NEW	icao	........ / DC-	// Between 1946 and 1955 , the airline operated a large fleet of <a> Douglas DC-3 </a> s . </p>
+
+#	null	icao	guy / ..........
+

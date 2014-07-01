@@ -1,0 +1,89 @@
+Found: 37
+Found Not Null: 5
+Correct: 2
+Wrong: 3
+Total: 5
+precision: 0.4
+recall: 0.4
+
+
+
+#	NEW	ceased	........ / 2010	// In September 2010 , a restructuring was announced : this will involve dropping all passenger services from November 2011 , which will be operated by KLM , and leaving only cargo services .
+
+#	NEW	ceased	........ / September 15 , 1956	// <p> On September 15 , 1956 Aeroflot began to operate the <a> Tupolev Tu-104 </a> , the USSR ' s first jet airliner in regular service .
+
+#	NEW	ceased	........ / 1991 .	// East Germany renamed its national airline to <a> Interflug </a> , which ceased operations in 1991 .
+
+#	NEW	ceased	........ / 1944	// <p> The airline was <a> nationalised </a> on 30 September 1944 and became part of <a> INI </a> .
+
+#	NEW	ceased	........ / 2008	// <p> The airline abruptly ceased operations at 00 : 00 on <a> September 8 </a> th , <a> 2008 </a> due to a lack of cash ( with debts of around &#x20ac ; 50 million ) .
+
+#	NEW	ceased	........ / 2000	// Kalitta decided to rescue it and the new airline , Kalitta Air , began operations in November 2000 , using the operating certificate and assets of the former airline . </p>
+
+#	NEW	ceased	........ / 2010	// It was delivered to the Perth operating base on 23 October 2010 and from November will operate charter services between Perth and Cloudbreak for <a> Fortescue Metals Group </a> . </p>
+
+7	FALSE	Ansett Australia::ceased	4 march 2002 / 2001	
+The airline was placed into <a> administration </a> in 2001 after suffering financial collapse , and subsequent organised <a> liquidation </a> in 2002 , subject to deed of company arrangement .
+
+#	NEW	ceased	........ / 2011 .	// <p> On September 2010 Austral received the first two <a> Embraer 190 </a> aircraft of the 20 to be delivered until June 2011 .
+
+#	NEW	ceased	........ / 1999	// <p> In September 1999 Swissair , Delta and <a> Boeing </a> ( who had acquired <a> McDonnell Douglas </a> through a merger in 1997 ) agreed to share liability for the accident and offered the families of the passengers financial compensation .
+
+#	NEW	ceased	........ / 2003 .	// <p> The airline was established in 2003 and started operations on March 6 , 2003 .
+
+#	NEW	ceased	........ / 2009 .	// Air China temporarily suspended service to S&#x00e3 ; o Paulo in September 2008 , which was resumed on December 20 , 2009 . </p>
+
+12	TRUE	SkyEurope::ceased	1 september 2009 / 2009	
+However , this failed and on 1 September 2009 , the airline went into bankruptcy .
+
+13	TRUE	Air Florida::ceased	1984 / 1984.	
+The crash of <a> Air Florida Flight 90 </a> in 1982 accelerated its demise and it declared bankruptcy and ceased operations on July 3 , 1984 .
+
+#	NEW	ceased	........ / 1966 .	// The operation was dissolved in 1966 . </p>
+
+#	NEW	ceased	........ / 2009	// In September 2009 , American Airlines announced its intent to shut down the STL hub it inherited from TWA , and in October 2009 , American Airlines announced its intent to close the Kansas City maintenance base by September 2010 . </p>
+
+#	NEW	ceased	........ / September 20 , 2005 .	// <p> After rumours and speculation surrounding the implementation of <a> extended-range twin-engine operations </a> ( ETOPS ) , WestJet announced new service to the <a> Hawaiian Islands </a> from Vancouver on September 20 , 2005 .
+
+#	NEW	ceased	........ / 1999 .	// The airline received the IATA code KK on October 13 , 1999 .
+
+#	NEW	ceased	........ / 1972	// <p> MSA ceased operations in 1972 , when political disagreements between Singapore and Malaysia resulted in the formation of two entities : Singapore Airlines and <a> Malaysian Airlines System </a> .
+
+#	NEW	ceased	........ / 1954	// The company ' s Soviet share was purchased by Romania and , on 18 September 1954 , the airline adopted the name of TAROM - ( Transporturi Aeriene Rom&#x00e2 ; ne - Romanian Air Transport ) .
+
+#	NEW	ceased	........ / 1986 .	// Turkish Airlines operating Airbus 310s in 1985 , allowing the addition of flights to Singapore in 1986 .
+
+#	NEW	ceased	........ / 1954	// In 1954 , the privately owned airline <strong> Persian Air Services </strong> ( PAS ) was established , which initially operated only freight services , followed by passenger operations between Tehran and other major cities in Iran .
+
+#	NEW	ceased	........ / 2002	// <p> From 1 September 2002 , the airline re-branded as Norwegian . </p>
+
+#	NEW	ceased	........ / 1999 .	// ANA joined the <a> Star Alliance </a> in October 1999 . </p>
+
+24	FALSE	Pan American World Airways::ceased	december 4, 1991 / 1989 2, 500 jobs ( 8.	
+In late 1989 , Pan Am also sold its IGS ( Internal German System ) routes to Berlin to Lufthansa , and in September 1990 the airline announced that it would eliminate 2 , 500 jobs ( 8 . 6% of its work force ) by October of that year . </p>
+
+#	NEW	ceased	........ / 1999	// <a> Delta Air Lines </a> acquired full ownership on October 22 , 1999 center / center </p>
+
+#	NEW	ceased	........ / 1999	// <p> On March 10 , 1999 , financial difficulties forced Aeroper&#x00fa ; to cease operations .
+
+#	NEW	ceased	........ / December 1 , 1990 .	// <p> The airline was established in October 1988 and started operations on December 1 , 1990 .
+
+#	NEW	ceased	........ / September 7 , 1997	// On Sunday September 7 , 1997 Continental Express moved its operations at Bush Intercontinental Airport from Terminal C to Terminal B . </p>
+
+#	NEW	ceased	........ / 2004	// In October 2004 , Canadian singer , <a> Celine Dion </a> became the face of Air Canada , hoping to relaunch the airline , and draw in a more international market after an eighteen month period of bankruptcy protection .
+
+#	NEW	ceased	........ / 1946	// The nation ' s flag carrier Saudi Arabian Airlines was founded in September 1946 as a fully-owned government agency under the control of the Ministry of Defense , with <a> TWA </a> running the airline under a management contract . </p>
+
+#	NEW	ceased	........ / September 14 .	// U . S . underwater operations began on September 14 .
+
+#	NEW	ceased	........ / 1985 .	// [ [ Shiodome City Center ] ] , which previously served as the airline ' s headquarters ] ] Nippon Cargo Airlines was established on September 21 , 1978 and started operations in 1985 .
+
+33	FALSE	Arrow Air::ceased	2010 / September 27, 2000	
+<p> The company filed for bankruptcy on September 27 , 2000 , and subsequently merged with Arrow Air , Inc . , leaving behind the Fine Air Services name .
+
+#	NEW	ceased	........ / 1999	// <p> Canadian adopted a short-lived new livery in January 1999 , less than a year before the airline was merged into Air Canada .
+
+#	NEW	ceased	........ / 2011	// Airlines ] ] will join Star Alliance in September 2011 ] ] </p>
+
+#	NEW	ceased	........ / 14 January 2008	// <p> On 14 January 2008 it was announced that Flybe had signed a <a> franchise </a> agreement with <a> Scottish </a> airline <a> Loganair </a> , to commence on 26 October 2008 following the termination of Loganair ' s franchise agreement with British Airways on 25 October 2008 . </p>
+

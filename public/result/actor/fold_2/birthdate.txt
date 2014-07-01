@@ -1,0 +1,27 @@
+Found: 6
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 3
+recall: 0.0
+
+
+
+#	NEW	birthdate	........ / May	// <p> <strong> Staci Greason </strong> ( born 23 May 1964 ) is an American <a> actress </a> .
+
+#	NEW	birthdate	........ / On November 18	// On November 18 , 1993 , Moriarty and Wolf , along with other television executives , met with Reno to dissuade her from supporting any law that would censor the show .
+
+#	NEW	birthdate	........ / 26 , 1916 &#	// <p> <strong> Sterling Hayden </strong> ( March 26 , 1916 &#x2013 ; May 23 , 1986 ) was an <a> American </a> actor and author .
+
+#	NEW	birthdate	........ / married on 10	// They married on 10 February 2005 .
+
+#	NEW	birthdate	........ / 5 , 1978 )	// <p> <strong> January Kristen Jones </strong> ( born January 5 , 1978 ) is an American actress .
+
+#	NEW	birthdate	........ / 20 , 1947 )	// <p> <strong> Chip Zien </strong> ( born <strong> Jerome Herbert Zien </strong> ; March 20 , 1947 ) is an American actor .
+
+#	null	birthdate	1897 / ..........
+
+#	null	birthdate	1923 / ..........
+
+#	null	birthdate	1 january 1923 or 1925 / ..........
+

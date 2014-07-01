@@ -1,3 +1,0 @@
-<li>Business Informatics Department</li>
-<li>Hotel, Catering and Tourism Department</li>
-<li>Civil Engineering and Construction Studies Department</li>

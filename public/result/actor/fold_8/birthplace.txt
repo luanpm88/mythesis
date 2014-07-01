@@ -1,0 +1,50 @@
+Found: 21
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	birthplace	........ / quot ; in this	// The actress <a> Kathleen Nolan </a> was cast as his young wife , &quot ; Kate McCoy&quot ; in this series .
+
+#	NEW	birthplace	........ / was an American	// <p> <strong> Louise Dresser </strong> ( October 5 , 1878 &ndash ; April 24 , 1965 ) was an American actress .
+
+#	NEW	birthplace	........ / screenwriter , producer	// <p> <strong> Christopher McQuarrie </strong> ( born 1968 ) is an <a> American </a> screenwriter , producer and director .
+
+#	NEW	birthplace	........ / s degree in	// <p> In April 2005 , while speaking at Illinois State , Malkovich was awarded his bachelor ' s degree in theatre .
+
+#	NEW	birthplace	........ / director , and	// <p> <strong> Charles Braun Ludlam </strong> ( April 12 , 1943 &#x2013 ; May 28 , 1987 ) was an <a> American </a> actor , director , and playwright . </p>
+
+#	NEW	birthplace	........ / March , at	// <p> He was cremated on 30 March , at Slough .
+
+#	NEW	birthplace	........ / in the comic	// <p> She was the visual basis for the character Janice Porter in the comic <strong> <em> ' . </em> </strong> </p>
+
+#	NEW	birthplace	........ / Belleville , Illinois	// <p> He was born <strong> Christian Rudolph Ebsen , Jr . </strong> in <a> Belleville , Illinois </a> .
+
+#	NEW	birthplace	........ / Loyola Marymount University	// He graduated from Loyola University ( predecessor to today ' s <a> Loyola Marymount University </a> ) in Los Angeles , California .
+
+#	NEW	birthplace	........ / was an American	// <p> <strong> Loretta Young </strong> ( January 6 , 1913 &ndash ; August 12 , 2000 ) was an American actress .
+
+#	NEW	birthplace	........ / Mark E . Solomone .	// <p> He is also the voice and face of various law firms across the northeast United States , such as that of Mark E . Solomone . </p>
+
+#	NEW	birthplace	........ / singer , and	// <p> <strong> Debra Monk </strong> ( born February 27 , 1949 ) is an American actress , singer , and writer . </p>
+
+#	NEW	birthplace	........ / before any action	// So strong were the feelings of the Autrys that <em> Newlywed </em> came close to being expelled from the KTLA facilities , but the show was discontinued by the syndicator before any action occurred .
+
+#	NEW	birthplace	........ / a Nigerian- born	// <p> <strong> Hugo Wallace Weaving </strong> ( born 4 April 1960 ) is a Nigerian-born <a> British </a> - <a> Australia </a> n film and stage actor .
+
+#	NEW	birthplace	........ / Dandridge died in	// <p> Her mother , Ruby Dandridge died in 1987 .
+
+#	NEW	birthplace	........ / of cartoon character	// He is best known as the voice of cartoon character <a> Popeye </a> . </p>
+
+#	NEW	birthplace	........ / the cancellation of	// The two returned to the United States in 2003 following the cancellation of <em> Farscape </em> .
+
+#	NEW	birthplace	........ / make a film .	// He formed his own movie production company and , in 1919 , became the first African American to make a film . <img>
+
+#	NEW	birthplace	........ / nomination for Best	// The role also won Hartman an Academy Award nomination for Best Actress .
+
+#	NEW	birthplace	........ / is an American	// <p> <strong> Kate Garry Hudson </strong> ( born April 19 , 1979 ) is an American actress .
+
+#	NEW	birthplace	........ / York , New	// <p> <strong> Diahann Carroll </strong> ( born July 17 , 1935 , in <a> New York , New York </a> ) is an American actress and singer .
+

@@ -1,0 +1,68 @@
+Found: 30
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	frequent_flyer	........ / Pan American	// <p> &quot ; Airline officials said the find had been made by a C-46 Pan American cargo plane piloted by Capt .
+
+#	NEW	frequent_flyer	........ / also began	// In addition , Edmond Rousse , Jr . , also began working at National Life . </p>
+
+#	NEW	frequent_flyer	........ / lower than	// NAC ' s airfares were 40-50% lower than its competitors ' existing fares and it also offered daily services with the possibility of same-day returns for business travellers .
+
+#	NEW	frequent_flyer	........ / but had	// When the captain during his pre-takeoff checklist called , &quot ; Cowl flaps set for takeoff&quot ; , the flight engineer replied &quot ; Set for takeoff&quot ; , but had not actually closed them .
+
+#	NEW	frequent_flyer	........ / same	// <p> Mango was launched on 30 October 2006 with bookings going on sale at midnight on the same date .
+
+#	NEW	frequent_flyer	........ / following services :	// <p> As of January <a> 2005 </a> Sierra National Airlines operated the following services : </p>
+
+#	NEW	frequent_flyer	........ / airline was	// This airline was to specialise in Far East &quot ; tramping&quot ; , concentrating on ships ' crews and freight .
+
+#	NEW	frequent_flyer	........ / Civil Aviation	// name=&quot ; france24&quot ; / Sudan ' s Civil Aviation Authority also formed a separate committee specifically to investigate how Muhammed was able to pass through security undetected . ref
+
+#	NEW	frequent_flyer	........ / crew	// All nine passengers and crew members on board were killed . </p>
+
+#	NEW	frequent_flyer	........ / accident	// The accident is one of a small number of intentional water ditchings of jet airliners .
+
+#	NEW	frequent_flyer	........ / above- mentioned	// The airline ' s name refers to its price of Sh5 , 540 per adult return fare between the above-mentioned cities . </p>
+
+#	NEW	frequent_flyer	........ / main base	// Its main base is <a> Phoenix Sky Harbor International Airport </a> .
+
+#	NEW	frequent_flyer	........ / FAA conducted	// Following the accident , the FAA conducted a National Aviation Safety Inspection Program ( NASIP ) of Continental Express ' maintenance program .
+
+#	NEW	frequent_flyer	........ / three crew	// All three crew members perished .
+
+#	NEW	frequent_flyer	........ / international air	// It was established and started operations in 1977 and operates regional and international air taxi services .
+
+#	NEW	frequent_flyer	........ / following destinations :	// <p> Appalachian Airlines offered scheduled flights to the following destinations : </p>
+
+#	NEW	frequent_flyer	........ / Superior Aviation	// <p> As of August 2006 the Superior Aviation fleet includes : </p>
+
+#	NEW	frequent_flyer	........ / following aircraft :	// <p> As of August 2010 , the Vincent Aviation fleet consists of the following aircraft : </p>
+
+#	NEW	frequent_flyer	........ / was a	// <p> <strong> Leisure International Airways </strong> was a British charter airline . </p>
+
+#	NEW	frequent_flyer	........ / wreckage was	// The crash created a deep hole at the point of impact and the wreckage was scattered over an area of around . </p>
+
+#	NEW	frequent_flyer	........ / airport was	// As a result the airport was closed for two days .
+
+#	NEW	frequent_flyer	........ / following aircraft	// <p> Over the years , Kampuchea Airlines operated the following aircraft types : </p>
+
+#	NEW	frequent_flyer	........ / Reykjav&# x00ed ;	// Its main base was <a> Reykjavik International Airport </a> , Reykjav&#x00ed ; k .
+
+#	NEW	frequent_flyer	........ / two crew	// The aircraft was substantially damaged but the two crew survived . </p>
+
+#	NEW	frequent_flyer	........ / Southern Air	// <p> In early 2010 , Southern Air also introduced a new livery to its fleet along with new corporate branding . </p>
+
+#	NEW	frequent_flyer	........ / WaltAir	// <p> <strong> WaltAir </strong> is a Swedish taxi airline .
+
+#	NEW	frequent_flyer	........ / main base	// Its main base is <a> Maputo International Airport </a> . . </p>
+
+#	NEW	frequent_flyer	........ / following aircraft :	// <p> As of December 2010 , the Nightexpress fleet consists of the following aircraft : </p>
+
+#	NEW	frequent_flyer	........ / airline	// <p> As of August 2006 the airline also operated : </p>
+
+#	NEW	frequent_flyer	........ / airline	// <p> The airline is owned by Hainan Airlines , Shanxi Airlines and Yunnan Shilin Tourism Aviation .
+

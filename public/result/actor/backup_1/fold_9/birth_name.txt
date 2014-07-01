@@ -1,0 +1,87 @@
+Found: 30
+Found Not Null: 17
+Correct: 10
+Wrong: 7
+Total: 17
+precision: 0.5882352941176471
+recall: 0.5882352941176471
+
+
+
+0	TRUE	Lars von Trier::birth_name	lars trier / Lars von Trier	
+<p> <strong> Lars von Trier </strong> ( ; born <strong> Lars Trier </strong> ; 30 April 1956 ) is a <a> Danish </a> <a> film director </a> and <a> screenwriter </a> .
+
+#	NEW	birth_name	........ / Karl Gustav Ahlefeldt	// <p> <strong> Karl Gustav Ahlefeldt </strong> ( March 13 , 1910 &#x2013 ; March 25 , 1985 ) was a <a> Danish </a> <a> film </a> <a> actor </a> .
+
+2	FALSE	Lee Van Cleef::birth_name	clarence leroy van cleef, jr. / Lee Van Cleef	
+<p> <strong> Lee Van Cleef </strong> ( January 9 , 1925 &ndash ; December 16 , 1989 ) was an American film actor who appeared mostly in <a> Western </a> and action pictures .
+
+#	NEW	birth_name	........ / into a prosperous	// She was born into a prosperous family .
+
+4	TRUE	Laura Bertram::birth_name	laura maureen bertram / Laura Maureen Bertram	
+<p> <strong> Laura Maureen Bertram </strong> ( born 5 September 1978 ) is a Canadian actress . </p>
+
+5	FALSE	Liv Ullmann::birth_name	liv johanne ullmann / Janna ( n&#x00e9 ; e Lund ) and Viggo Ullmann, an aircraft engineer who	
+<p> Ullmann was born in <a> Tokyo </a> , <a> Japan </a> , the daughter of Janna ( n&#x00e9 ; e Lund ) and Viggo Ullmann , an aircraft engineer who was working in Tokyo at the time . </p>
+
+#	NEW	birth_name	........ / Peter Wei&#x00df ; m&#x00fc ; ller	// <p> <strong> Johnny Weissmuller </strong> ( born <strong> Johann Peter Wei&#x00df ; m&#x00fc ; ller </strong> ; June 2 , 1904 &ndash ; January 20 , 1984 ) was an <a> Austro-Hungarian </a> -born American <a> swimmer </a> and actor .
+
+7	TRUE	Jerry Lewis::birth_name	joseph levitch / Joseph Levitch	
+<p> He was born <strong> Joseph Levitch </strong> in <a> Newark , New Jersey </a> , to <a> Russian Jewish </a> parents .
+
+#	NEW	birth_name	........ / Josephine , who	// name=las / ref name=hertzberg18 / <img> Has a daughter , Josephine , who was born in 2005 .
+
+9	TRUE	Jonathan Demme::birth_name	robert jonathan demme / Robert Jonathan Demme	
+<p> <strong> Robert Jonathan Demme </strong> ( born February 22 , 1944 ) is an <a> American </a> <a> filmmaker </a> , <a> producer </a> and <a> screenwriter </a> .
+
+10	TRUE	Kirsten Dunst::birth_name	kirsten caroline dunst / is an American actress	
+<p> <strong> Kirsten Caroline Dunst </strong> ( born April 30 , 1982 ) is an American actress , model , and singer .
+
+11	FALSE	Leslie Caron::birth_name	leslie claire margaret caron / Hauts- de- Seine	
+<p> Caron was born in <a> Boulogne-sur-Seine </a> , <a> Seine </a> ( now <a> Boulogne-Billancourt </a> , <a> Hauts-de-Seine </a> ) , France , the daughter of Margaret ( n&#x00e9 ; e Petit ) , an American dancer , and Claude Caron , a French chemist .
+
+#	NEW	birth_name	........ / Tadokoro Yasuo	// <p> <strong> Kiyoshi Atsumi </strong> ( &#x6e25 ; &#x7f8e ; &#x6e05 ; <em> Atsumi Kiyoshi </em> ) , born <strong> Yasuo Tadokoro </strong> ( &#x7530 ; &#x6240 ; &#x5eb7 ; &#x96c4 ; <em> Tadokoro Yasuo </em> , 10 March 1928 in <a> Tokyo </a> &#x2014 ; 4 August 1996 in <a> Tokyo </a> ) , was a <a> Japan </a> ese <a> film </a> <a> actor </a> .
+
+13	TRUE	John Frankenheimer::birth_name	john michael frankenheimer / John Michael Frankenheimer	
+<p> <strong> John Michael Frankenheimer </strong> ( February 19 , 1930 &ndash ; July 6 , 2002 ) was an award-winning American film and television director known for social dramas .
+
+14	FALSE	John Belushi::birth_name	john adam belushi / n immigrant and restaurant operator who left his native village	
+<p> Belushi was born in Chicago , Illinois , the son of Agnes Belushi ( <a> n&#x00e9 ; e </a> Samaras ) , a first generation <a> Albanian-American </a> , and Adam Belushi ( 1918 - 1996 ) , an <a> Albania </a> n immigrant and restaurant operator who left his native village , <a> Qytez&#x00eb ; </a> , in 1934 at the age of sixteen .
+
+#	NEW	birth_name	........ / James Haven Voight	// Their son <a> James Haven Voight </a> was born in 1973 ; their daughter <a> Angelina Jolie Voight </a> followed in 1975 .
+
+16	FALSE	Julia Roberts::birth_name	julia fiona roberts / where Roberts attended Fitzhugh Lee Elementary School	
+The family moved to <a> Smyrna , Georgia </a> ( a suburb of Atlanta ) in 1972 , where Roberts attended Fitzhugh Lee Elementary School , Griffin Middle School , and <a> Campbell High School </a> .
+
+17	TRUE	Kim Milford::birth_name	richard kim milford / Richard Kim Milford	
+<p> <strong> Richard Kim Milford </strong> ( February 7 , 1951 &ndash ; June 16 , 1988 ) was an <a> American </a> <a> actor </a> , <a> singer-songwriter </a> , and <a> composer </a> .
+
+#	NEW	birth_name	........ / Greek Royal Theater	// <p> Born <strong> Aikaterini </strong> ( Catherine ) <strong> Konstantopoulou </strong> in <a> Piraeus </a> , Greece , she trained as an <a> opera </a> singer , but changed career and joined the <a> Greek Royal Theater </a> in 1929 .
+
+19	TRUE	Khwaja Ahmad Abbas::birth_name	khwaja ahmad abbas / Khwaja Ahmad Abbas	
+<p> <strong> Khwaja Ahmad Abbas </strong> ( ) ( 7 June 1914 &#x2013 ; 1 June 1987 ) , popularly known as <strong> K .
+
+#	NEW	birth_name	........ / is an American actress with over sixty television and film roles to her credit .	// <p> <strong> Kimberly Beck </strong> ( born January 9 , 1956 ; <a> Glendale , California </a> ) is an American actress with over sixty television and film roles to her credit . </p>
+
+21	FALSE	James Spader::birth_name	james todd spader / teachers Jean and Todd	
+<p> Spader was born in <a> Boston , Massachusetts </a> , the son of teachers Jean and Todd Spader .
+
+#	NEW	birth_name	........ / son Brian and daughter Lisa are currently the co-chairs and co-CEOs of the company ; his daughter Cheryl	// His son Brian and daughter Lisa are currently the co-chairs and co-CEOs of the company ; his daughter Cheryl is the president of the foundation .
+
+#	NEW	birth_name	........ / is an <a> American	// <p> <strong> John Fink </strong> ( born February 11 , 1940 ) is an <a> American </a> film and television <a> actor </a> . </p>
+
+#	NEW	birth_name	........ / is an American	// <p> <strong> Jeannine Taylor </strong> ( born June 2 , 1954 ) is an American actress .
+
+25	FALSE	Keanu Reeves::birth_name	keanu charles reeves / Patricia Bond ( n&#x00e9 ; e Taylor )	
+<p> Reeves was born in <a> Beirut , Lebanon </a> , the son of Patricia Bond ( n&#x00e9 ; e Taylor ) , a costume designe / performer , and Samuel Nowlin Reeves , Jr . , a <a> geologist </a> .
+
+26	TRUE	Kyle MacLachlan::birth_name	kyle merritt maclachlan / Kyle Merritt MacLachlan	
+<p> <strong> Kyle Merritt MacLachlan </strong> ( born February 22 , 1959 ) is an <a> American </a> <a> actor </a> .
+
+27	TRUE	Kevin Spacey::birth_name	kevin spacey fowler / Kevin Spacey Fowler	
+<p> Spacey was born <strong> Kevin Spacey Fowler </strong> in <a> South Orange , New Jersey </a> , the son of Kathleen Ann ( n&#x00e9 ; e Knutson ; December 5 , 1931 &#x2013 ; March 19 , 2003 ) , a secretary , and Thomas Geoffrey Fowler ( June 4 , 1924 &#x2013 ; December 24 , 1992 ) , a <a> technical writer </a> and data consultant .
+
+#	NEW	birth_name	........ / the 1930s Ichikawa attended a technical school	// In the 1930s Ichikawa attended a technical school in <a> Osaka </a> .
+
+#	NEW	birth_name	........ / Kenneth & quot ; Ken&	// <p> <strong> Kenneth &quot ; Ken&quot ; Loach </strong> ( born 17 June 1936 ) is an <a> English </a> <a> film </a> and <a> television director </a> . </p>
+

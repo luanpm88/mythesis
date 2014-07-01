@@ -1,2 +1,0 @@
-<li>The Lowdown</li>
-<li>The Oracle</li>

@@ -1,0 +1,476 @@
+Total articles: 456
+Articles for test: 411
+Articles for train: 45
+Total attributes: 140
+Attributes with high occurrences: 18/140
+
+------------
+Found: 573
+Found Not Null: 153
+Correct: 64
+Wrong: 89
+Total: 171
+precision: 0.41830065359477125
+recall: 0.3742690058479532
+
+
+
+5	TRUE	Air Florida:: founded	1971 / 1971.	
+It started operations in 1972 , after being formed in 1971 .
+
+7	FALSE	Air Florida:: ceased	1984 / 18	
+When operations ceased , Air Florida had over 18 months of unprocessed credit card ticket purchases and dozens of flight crews idle at home because management had failed to renew leases on all DC-10-30 aircraft . </p>
+
+8	TRUE	Air Florida:: airline	air florida / Miami International	
+<p> <strong> Air Florida </strong> was a small <a> U . S . </a> and international <a> airline </a> based out of <a> Miami International Airport </a> .
+
+15	TRUE	American Airlines:: iata	aa / operating	
+<p> <strong> American Airlines , Inc . </strong> ( <strong> AA </strong> ) is the flag carrier of the United States and is the <a> world's second-largest airline </a> in passenger miles transported , passenger fleet size , and operating revenues .
+
+16	TRUE	American Airlines:: callsign	american / Inc.	
+<p> <strong> American Airlines , Inc . </strong> ( <strong> AA </strong> ) is the flag carrier of the United States and is the <a> world's second-largest airline </a> in passenger miles transported , passenger fleet size , and operating revenues .
+
+17	FALSE	American Airlines:: parent	amr corporation / regional airlines <a>	
+The move followed Delta Air Lines and its spin off of its wholly owned regional airlines <a> Compass Airlines </a> and <a> Mesaba Airlines </a> . </p>
+
+22	TRUE	American Airlines:: airline	american airlines / American Airlines	
+<p> <strong> American Airlines , Inc . </strong> ( <strong> AA </strong> ) is the flag carrier of the United States and is the <a> world's second-largest airline </a> in passenger miles transported , passenger fleet size , and operating revenues .
+
+24	FALSE	American Airlines:: logo_size	250 / </	
+She went on to become the first woman Boeing 747 airline captain when , on the afternoon of July 18 , 1984 , she commanded <a> People Express </a> flight #17 ( aircraft 604 ) departing <a> Newark International Airport </a> at 3 : 30pm to <a> Los Angeles International Airport </a> .
+
+29	FALSE	British Airways:: iata	ba / Subsidiaries	
+<p> <strong> Subsidiaries </strong> </p>
+
+31	FALSE	British Airways:: parent	international airlines group / British Airways piloted	
+After British Airways piloted this development , the configuration has been emulated by <a> Emirates </a> , <a> Air France </a> , <a> KLM </a> and <a> China Southern Airlines </a> among others .
+
+38	TRUE	British Airways:: airline	british airways / British Airways	
+<p> <strong> British Airways plc </strong> ( <strong> BA </strong> ) is the <a> flag carrier </a> <a> airline </a> of the United Kingdom which is based and headquartered in <a> Waterside </a> , near its main <a> hub </a> at <a> London Heathrow Airport </a> .
+
+43	FALSE	KLM:: iata	kl / Subsidiaries	
+<p> <strong> Subsidiaries </strong> : </p>
+
+44	FALSE	KLM:: callsign	klm / Subsidiaries	
+<p> <strong> Subsidiaries </strong> : </p>
+
+47	FALSE	KLM:: founded	7 october 1919 / 1921	
+In 1921 KLM started scheduled services .
+
+52	FALSE	KLM:: icao	klm / Subsidiaries	
+<p> <strong> Subsidiaries </strong> : </p>
+
+58	FALSE	Qantas:: iata	qf / national	
+<p> <strong> Qantas Airways Limited </strong> ( ) ( ) is the <a> national airline </a> of <a> Australia </a> .
+
+59	TRUE	Qantas:: callsign	qantas / Qantas	
+<p> <strong> Qantas Airways Limited </strong> ( ) ( ) is the <a> national airline </a> of <a> Australia </a> .
+
+61	FALSE	Qantas:: founded	1920 / 16	
+<p> ;Introduction of flights to Dallas On 14 January 2011 , Qantas announced that on 16 May of the same year , they will start services to <a> Dallas </a> .
+
+65	FALSE	Qantas:: alliance	oneworld / membership	
+Benefits of membership include lounge access , priority check-in , priority luggage handling , increased luggage allowances . </p>
+
+66	TRUE	Qantas:: airline	qantas airways / Qantas Airways	
+<p> <strong> Qantas Airways Limited </strong> ( ) ( ) is the <a> national airline </a> of <a> Australia </a> .
+
+72	FALSE	United Airlines:: iata	ua / Red	
+<p> The <strong> Red Carpet Club </strong> is United Airlines' airport lounge .
+
+73	TRUE	United Airlines:: callsign	united / Red	
+<p> The <strong> Red Carpet Club </strong> is United Airlines' airport lounge .
+
+80	TRUE	United Airlines:: airline	united airlines / Red	
+<p> The <strong> Red Carpet Club </strong> is United Airlines' airport lounge .
+
+81	FALSE	United Airlines:: icao	ual / Club	
+<p> The <strong> Red Carpet Club </strong> is United Airlines' airport lounge .
+
+96	FALSE	Silver City Airways:: iata	ss / British	
+<p> <strong> Silver City Airways </strong> was a private , <a> British </a> independent airline between 1946 and 1962 . </p>
+
+100	FALSE	Silver City Airways:: founded	1946 / s	
+That airline's failure to pay for the leases had resulted in Air Holdings repossessing the aircraft and starting its own air freight operation . ref
+
+103	TRUE	Silver City Airways:: airline	silver city airways / City Airways	
+<p> <strong> Silver City Airways </strong> was a private , <a> British </a> independent airline between 1946 and 1962 . </p>
+
+108	TRUE	Go Fly:: iata	go / as &	
+<p> <strong> Go Fly </strong> was the name of an award-winning British <a> airline </a> , trading as &quot;Go&quot; , which was purchased by <a> EasyJet </a> . </p>
+
+111	FALSE	Go Fly:: founded	1998 / 2002	
+By December 2002 , EasyJet and Go operated under one Air Operators Certificate ( AOC ) and in April 2003 the airlines operated as one , fully under the EasyJet brand .
+
+114	FALSE	Go Fly:: icao	goe / EasyJet	
+<p> <strong> Go Fly </strong> was the name of an award-winning British <a> airline </a> , trading as &quot;Go&quot; , which was purchased by <a> EasyJet </a> . </p>
+
+116	TRUE	Go Fly:: airline	go fly / EasyJet	
+<p> <strong> Go Fly </strong> was the name of an award-winning British <a> airline </a> , trading as &quot;Go&quot; , which was purchased by <a> EasyJet </a> . </p>
+
+119	FALSE	Southwest Airlines:: destinations	72 / ,	
+However on April 2 , 2010 this aircraft was photographed in full canyon blue on a photo posted on airliners . net ,
+
+120	FALSE	Southwest Airlines:: iata	wn / an	
+<p> <strong> Southwest Airlines Co . </strong> ( ) is an American airline based in <a> Dallas </a> , <a> Texas </a> .
+
+121	TRUE	Southwest Airlines:: callsign	southwest / Texas	
+<p> <strong> Southwest Airlines Co . </strong> ( ) is an American airline based in <a> Dallas </a> , <a> Texas </a> .
+
+128	TRUE	Southwest Airlines:: airline	southwest airlines / Southwest Airlines	
+<p> <strong> Southwest Airlines Co . </strong> ( ) is an American airline based in <a> Dallas </a> , <a> Texas </a> .
+
+129	FALSE	Southwest Airlines:: icao	swa / Southwest	
+<p> <strong> Southwest Airlines Co . </strong> ( ) is an American airline based in <a> Dallas </a> , <a> Texas </a> .
+
+133	FALSE	Delta Air Lines:: iata	dl / States	
+<p> <strong> Delta Air Lines , Inc . </strong> ( ) is a <a> major airline </a> based in the <a> United States </a> headquartered in <a> Atlanta </a> .
+
+134	TRUE	Delta Air Lines:: callsign	delta / Delta	
+<p> <strong> Delta Air Lines , Inc . </strong> ( ) is a <a> major airline </a> based in the <a> United States </a> headquartered in <a> Atlanta </a> .
+
+140	FALSE	Delta Air Lines:: icao	dal / Atlanta	
+<p> <strong> Delta Air Lines , Inc . </strong> ( ) is a <a> major airline </a> based in the <a> United States </a> headquartered in <a> Atlanta </a> .
+
+143	FALSE	America West Airlines:: callsign	cactus / flyer	
+<p> The airline had a <a> frequent flyer program </a> called <strong> FlightFund </strong> .
+
+149	TRUE	America West Airlines:: frequent_flyer	flightfund / FlightFund	
+<p> The airline had a <a> frequent flyer program </a> called <strong> FlightFund </strong> .
+
+151	FALSE	America West Airlines:: airline	america west airlines / had a	
+<p> The airline had a <a> frequent flyer program </a> called <strong> FlightFund </strong> .
+
+152	FALSE	America West Airlines:: icao	awe / FlightFund	
+<p> The airline had a <a> frequent flyer program </a> called <strong> FlightFund </strong> .
+
+156	TRUE	Pan American World Airways:: iata	pa / PAA	
+It used the <a> IATA </a> code <strong> PA </strong> , and the <a> ICAO </a> code <strong> PAA </strong> . </p>
+
+161	FALSE	Pan American World Airways:: ceased	december 4, 1991 / 747	
+Like other major airlines , Pan Am had invested in a large fleet of new <a> Boeing 747 </a> s with the expectation that demand for air travel would continue to rise , which was not the case . </p>
+
+162	FALSE	Pan American World Airways:: airline	pan american world airways / code	
+It used the <a> IATA </a> code <strong> PA </strong> , and the <a> ICAO </a> code <strong> PAA </strong> . </p>
+
+163	TRUE	Pan American World Airways:: icao	paa / PAA	
+It used the <a> IATA </a> code <strong> PA </strong> , and the <a> ICAO </a> code <strong> PAA </strong> . </p>
+
+165	FALSE	Pan American World Airways:: callsign	clipper / used	
+It used the <a> IATA </a> code <strong> PA </strong> , and the <a> ICAO </a> code <strong> PAA </strong> . </p>
+
+169	TRUE	Avianca:: iata	av / de	
+<p> On 14 June 1940 , in the city of Barranquilla , SCADTA , under ownership by United States businessmen , merged with Colombian Air Carrier SACO , ( <a> acronym </a> of <em> Servicio A&#x00e9;reo Colombiano </em> ) , forming the new <em> Aerov&#x00ed;as Nacionales de Colombia S . A . </em> or <strong> Avianca </strong> .
+
+175	TRUE	Avianca:: icao	ava / SCADTA	
+<p> <strong> Avianca <a> S . A . </a> </strong> ( <a> BVC </a> : <a> AVA </a> ) ( <a> acronym </a> in <a> Spanish </a> for <em> Aerov&#x00ed;as Nacionales de Colombia S . A . </em> , currently <em> Aerov&#x00ed;as del Continente Americano S . A . </em> ) is the <a> flag carrier </a> <a> airline </a> of <a> Colombia </a> since 5 December 1919 when it was registered initially under the name <a> SCADTA </a> . !
+
+177	TRUE	Avianca:: callsign	avianca / Avianca	
+<p> On 14 June 1940 , in the city of Barranquilla , SCADTA , under ownership by United States businessmen , merged with Colombian Air Carrier SACO , ( <a> acronym </a> of <em> Servicio A&#x00e9;reo Colombiano </em> ) , forming the new <em> Aerov&#x00ed;as Nacionales de Colombia S . A . </em> or <strong> Avianca </strong> .
+
+191	FALSE	Aeroméxico:: logo_size	200 / <a>	
+Its main base is <a> Mexico City International Airport </a> , with secondary hubs at <a> General Mariano Escobedo International Airport </a> , in <a> Monterrey </a> and <a> General Ignacio Pesqueira Garcia International Airport </a> in <a> Hermosillo </a> .
+
+194	FALSE	Aeroméxico:: iata	am / flag	
+<p> <strong> Airways of Mexico , SA de CV </strong> ( <strong> Aerov&#x00ed;as de M&#x00e9;xico , S . A . de C . V . </strong> ) , operating as <strong> Aerom&#x00e9;xico </strong> , is the <a> flag carrier </a> airline of Mexico based in <a> Colonia Cuauht&#x00e9;moc </a> , <a> Cuauht&#x00e9;moc </a> , <a> Mexico City </a> .
+
+195	FALSE	Aeroméxico:: callsign	aeromexico / City	
+<p> <strong> Airways of Mexico , SA de CV </strong> ( <strong> Aerov&#x00ed;as de M&#x00e9;xico , S . A . de C . V . </strong> ) , operating as <strong> Aerom&#x00e9;xico </strong> , is the <a> flag carrier </a> airline of Mexico based in <a> Colonia Cuauht&#x00e9;moc </a> , <a> Cuauht&#x00e9;moc </a> , <a> Mexico City </a> .
+
+207	TRUE	Aerolíneas Argentinas:: iata	ar / as	
+<p> <strong> Aerol&#x00ed;neas Argentinas </strong> ( <a> Spanish </a> : <strong> Argentine Airlines </strong> ) is the largest <a> airline </a> in <a> Argentina </a> and serves as Argentina's <a> flag carrier </a> .
+
+208	TRUE	Aerolíneas Argentinas:: callsign	argentina / neas	
+<p> <strong> Aerol&#x00ed;neas Argentinas </strong> ( <a> Spanish </a> : <strong> Argentine Airlines </strong> ) is the largest <a> airline </a> in <a> Argentina </a> and serves as Argentina's <a> flag carrier </a> .
+
+210	TRUE	Aerolíneas Argentinas:: founded	1950 / 1950.	
+Operations started on 7 December 1950 .
+
+216	TRUE	Aerolíneas Argentinas:: icao	arg / Argentina	
+<p> <strong> Aerol&#x00ed;neas Argentinas </strong> ( <a> Spanish </a> : <strong> Argentine Airlines </strong> ) is the largest <a> airline </a> in <a> Argentina </a> and serves as Argentina's <a> flag carrier </a> .
+
+221	FALSE	LOT Polish Airlines:: destinations	60 / 2010 ) :	
+<p> The LOT Polish Airlines Fleet consists of the following aircraft ( as of July 2010 ) : </p>
+
+222	TRUE	LOT Polish Airlines:: iata	lo / flag	
+<p> <strong> Polskie Linie Lotnicze LOT <a> S . A . </a> </strong> ( , <em> Flight </em> ) , trading as <strong> LOT Polish Airlines </strong> , is the <a> flag carrier </a> of <a> Poland </a> .
+
+223	TRUE	LOT Polish Airlines:: callsign	lot / Poland	
+<p> <strong> Polskie Linie Lotnicze LOT <a> S . A . </a> </strong> ( , <em> Flight </em> ) , trading as <strong> LOT Polish Airlines </strong> , is the <a> flag carrier </a> of <a> Poland </a> .
+
+229	TRUE	LOT Polish Airlines:: icao	lot / Poland	
+<p> <strong> Polskie Linie Lotnicze LOT <a> S . A . </a> </strong> ( , <em> Flight </em> ) , trading as <strong> LOT Polish Airlines </strong> , is the <a> flag carrier </a> of <a> Poland </a> .
+
+230	TRUE	LOT Polish Airlines:: founded	1 january 1929 / 1929	
+<p> The airline was established on 1 January 1929 by the Polish government as a state-owned self-governing corporation taking over existing domestic lines <a> Aero </a> and Aerolot , and started operations on 2 January .
+
+232	TRUE	Western Airlines:: iata	wa / Western	
+<p> <strong> Western Airlines </strong> was a large <a> airline </a> based in <a> California </a> , with operations throughout the <a> Western United States </a> , and <a> hubs </a> at <a> Los Angeles International Airport </a> , <a> Salt Lake City International Airport </a> , and the former <a> Stapleton International Airport </a> in <a> Denver </a> .
+
+233	TRUE	Western Airlines:: callsign	western / Western	
+<p> <strong> Western Airlines </strong> was a large <a> airline </a> based in <a> California </a> , with operations throughout the <a> Western United States </a> , and <a> hubs </a> at <a> Los Angeles International Airport </a> , <a> Salt Lake City International Airport </a> , and the former <a> Stapleton International Airport </a> in <a> Denver </a> .
+
+241	FALSE	Western Airlines:: icao	wal / Denver	
+<p> <strong> Western Airlines </strong> was a large <a> airline </a> based in <a> California </a> , with operations throughout the <a> Western United States </a> , and <a> hubs </a> at <a> Los Angeles International Airport </a> , <a> Salt Lake City International Airport </a> , and the former <a> Stapleton International Airport </a> in <a> Denver </a> .
+
+246	FALSE	Kenya Airways:: fleet_size	30 / 9	
+( 2006 ) ]] As of September 2010 , the Kenya Airways fleet consists of the following aircraft with an average age of 8 . 9 years : center /center </p>
+
+247	FALSE	Kenya Airways:: destinations	50 / 8.	
+( 2006 ) ]] As of September 2010 , the Kenya Airways fleet consists of the following aircraft with an average age of 8 . 9 years : center /center </p>
+
+248	FALSE	Kenya Airways:: iata	kq / flag	
+<p> <strong> Kenya Airways </strong> is the <a> flag carrier </a> and largest <a> airline </a> of <a> Kenya </a> .
+
+249	TRUE	Kenya Airways:: callsign	kenya / Kenya	
+<p> <strong> Kenya Airways </strong> is the <a> flag carrier </a> and largest <a> airline </a> of <a> Kenya </a> .
+
+260	FALSE	Air Canada:: destinations	178 / 2010.	
+The Air Canada fleet consists of 204 aircraft , as of 24 November 2010 .
+
+261	FALSE	Air Canada:: iata	ac / flag	
+<p> <strong> Air Canada </strong> ( ) is the <a> flag carrier </a> and largest <a> airline </a> of <a> Canada </a> .
+
+262	TRUE	Air Canada:: callsign	air canada / Air	
+<p> <strong> Air Canada </strong> ( ) is the <a> flag carrier </a> and largest <a> airline </a> of <a> Canada </a> .
+
+268	FALSE	Air Canada:: icao	aca / Canada	
+<p> <strong> Air Canada </strong> ( ) is the <a> flag carrier </a> and largest <a> airline </a> of <a> Canada </a> .
+
+272	TRUE	Northwest Airlines:: iata	nw / States	
+<p> <strong> Northwest Airlines , Inc . </strong> ( often abbreviated <strong> NWA </strong> ) , was a major United States <a> airline </a> headquartered in <a> Eagan , Minnesota </a> , near <a> Minneapolis-St .
+
+273	TRUE	Northwest Airlines:: callsign	northwest / Inc.	
+<p> <strong> Northwest Airlines , Inc . </strong> ( often abbreviated <strong> NWA </strong> ) , was a major United States <a> airline </a> headquartered in <a> Eagan , Minnesota </a> , near <a> Minneapolis-St .
+
+278	FALSE	Northwest Airlines:: frequent_flyer	worldperks / rental agencies :	
+<p> In addition to its <a> Delta Connection </a> and <a> SkyTeam </a> alliance partnerships , Northwest offered frequent flyer partnerships with the following airlines : Northwest also offered frequent flyer partnerships with the following car rental agencies : </p>
+
+279	FALSE	Northwest Airlines:: lounge	worldclubs / business class	
+<p> World Business Class was the equivalent of <a> business class </a> on Northwest Airlines' international flights .
+
+281	TRUE	Northwest Airlines:: airline	northwest airlines / St.	
+<p> <strong> Northwest Airlines , Inc . </strong> ( often abbreviated <strong> NWA </strong> ) , was a major United States <a> airline </a> headquartered in <a> Eagan , Minnesota </a> , near <a> Minneapolis-St .
+
+282	TRUE	Northwest Airlines:: icao	nwa / Minneapolis-	
+<p> <strong> Northwest Airlines , Inc . </strong> ( often abbreviated <strong> NWA </strong> ) , was a major United States <a> airline </a> headquartered in <a> Eagan , Minnesota </a> , near <a> Minneapolis-St .
+
+286	FALSE	Croatia Airlines:: iata	ou / Croatia	
+( 2007 ) ]] <strong> Croatia Airlines d . d . </strong> is the national <a> airline </a> and <a> flag carrier </a> of the <a> Republic of Croatia </a> .
+
+287	TRUE	Croatia Airlines:: callsign	croatia / Croatia	
+( 2007 ) ]] <strong> Croatia Airlines d . d . </strong> is the national <a> airline </a> and <a> flag carrier </a> of the <a> Republic of Croatia </a> .
+
+300	TRUE	Gol Transportes Aéreos:: callsign	gol / reas	
+<p> Gol refers to itself as <strong> Gol Intelligent Airlines </strong> ( <strong> Gol Linhas a&#x00e9;reas inteligentes </strong> in <a> Portuguese </a> ) as a slogan .
+
+303	TRUE	Gol Transportes Aéreos:: founded	2000 / 2001.	
+<p> The airline was established in 2000 and started operations on January 15 , 2001 .
+
+310	FALSE	Gol Transportes Aéreos:: icao	glo / Portuguese	
+<p> Gol refers to itself as <strong> Gol Intelligent Airlines </strong> ( <strong> Gol Linhas a&#x00e9;reas inteligentes </strong> in <a> Portuguese </a> ) as a slogan .
+
+328	TRUE	Eastern Air Lines:: iata	ea / Lines	
+<p> <strong> Eastern Air Lines </strong> was a major United States <a> airline </a> that existed from 1926 to 1991 .
+
+329	TRUE	Eastern Air Lines:: callsign	eastern / Air	
+<p> <strong> Eastern Air Lines </strong> was a major United States <a> airline </a> that existed from 1926 to 1991 .
+
+334	TRUE	Eastern Air Lines:: airline	eastern air lines / Eastern Air Lines	
+<p> <strong> Eastern Air Lines </strong> was a major United States <a> airline </a> that existed from 1926 to 1991 .
+
+336	FALSE	Eastern Air Lines:: icao	eal / existed	
+<p> <strong> Eastern Air Lines </strong> was a major United States <a> airline </a> that existed from 1926 to 1991 .
+
+337	FALSE	Virgin Atlantic Airways:: logo_size	250 / England]]	
+Atlantic [[Boeing 747-400]] in old ( 2009 ) colours takes off from <a> Manchester Airport </a> , England]] </p>
+
+339	FALSE	Virgin Atlantic Airways:: destinations	35 / 9.	
+<p> Virgin Atlantic's fleet uses both Airbus and Boeing aircraft , with an average age of 9 . 2 years as of October 2010 .
+
+341	TRUE	Virgin Atlantic Airways:: callsign	virgin / Atlantic	
+<p> <strong> Virgin Atlantic Airways Limited </strong> ( operating as <strong> Virgin Atlantic </strong> ) is a British <a> airline </a> owned by <a> Sir Richard Branson </a> 's <a> Virgin Group </a> ( 51% ) and <a> Singapore Airlines </a> ( 49% ) .
+
+344	FALSE	Virgin Atlantic Airways:: founded	1984 / 2008	
+The slogan was brought back starting in September 2008 after merger talks between British Airways , <a> Iberia Airlines </a> and American Airlines began . </p>
+
+347	TRUE	Virgin Atlantic Airways:: airline	virgin atlantic airways / Atlantic Airways	
+<p> <strong> Virgin Atlantic Airways Limited </strong> ( operating as <strong> Virgin Atlantic </strong> ) is a British <a> airline </a> owned by <a> Sir Richard Branson </a> 's <a> Virgin Group </a> ( 51% ) and <a> Singapore Airlines </a> ( 49% ) .
+
+349	FALSE	Virgin Atlantic Airways:: lounge	virgin atlantic clubhouse / business class	
+Virgin Clubhouse at [[San Francisco International Airport|SFO]] , used by Upper Class passengers]] Upper Class is the equivalent of <a> business class </a> on all Virgin Atlantic Airways&#x2019; flights .
+
+350	TRUE	Virgin Atlantic Airways:: icao	vir / Branson	
+<p> <strong> Virgin Atlantic Airways Limited </strong> ( operating as <strong> Virgin Atlantic </strong> ) is a British <a> airline </a> owned by <a> Sir Richard Branson </a> 's <a> Virgin Group </a> ( 51% ) and <a> Singapore Airlines </a> ( 49% ) .
+
+353	FALSE	Lufthansa:: iata	lh / Deutsche	
+The company's original name was <strong> Deutsche Luft Hansa Aktiengesellschaft </strong> .
+
+354	FALSE	Lufthansa:: callsign	lufthansa / Aktiengesellschaft	
+The company's original name was <strong> Deutsche Luft Hansa Aktiengesellschaft </strong> .
+
+365	FALSE	Mexicana de Aviación:: destinations	48 / 2010 ) :	
+The Mexicana fleet consisted of the following aircraft ( as of July 2010 ) : center /center </p>
+
+366	FALSE	Mexicana de Aviación:: founded	1921 / 40	
+In 2003 , the airline retired the remaining Boeing 727 after operating the type for almost 40 years .
+
+368	FALSE	Mexicana de Aviación:: ceased	august 28, 2010 / 2003	
+In 2003 , the airline retired the remaining Boeing 727 after operating the type for almost 40 years .
+
+370	FALSE	Mexicana de Aviación:: icao	mxa / de	
+<p> [[File : Mexicanatower . jpg|thumb|[[Mexicana de Aviaci&#x00f3;n Tower]] , the worldwide headquarters of the airline]] Founded in 1921 , <strong> Compa&#x00f1;&#x00ed;a Mexicana de Aviaci&#x00f3;n , S . A . de C . V . </strong> ( commonly known as <strong> Mexicana </strong> ) was <a> Mexico </a> 's oldest <a> airline </a> , before ceasing operations on August 28 , 2010 .
+
+371	FALSE	Mexicana de Aviación:: iata	mx / de	
+<p> [[File : Mexicanatower . jpg|thumb|[[Mexicana de Aviaci&#x00f3;n Tower]] , the worldwide headquarters of the airline]] Founded in 1921 , <strong> Compa&#x00f1;&#x00ed;a Mexicana de Aviaci&#x00f3;n , S . A . de C . V . </strong> ( commonly known as <strong> Mexicana </strong> ) was <a> Mexico </a> 's oldest <a> airline </a> , before ceasing operations on August 28 , 2010 .
+
+372	TRUE	Mexicana de Aviación:: callsign	mexicana / Aviaci&#	
+<p> [[File : Mexicanatower . jpg|thumb|[[Mexicana de Aviaci&#x00f3;n Tower]] , the worldwide headquarters of the airline]] Founded in 1921 , <strong> Compa&#x00f1;&#x00ed;a Mexicana de Aviaci&#x00f3;n , S . A . de C . V . </strong> ( commonly known as <strong> Mexicana </strong> ) was <a> Mexico </a> 's oldest <a> airline </a> , before ceasing operations on August 28 , 2010 .
+
+373	FALSE	Mexicana de Aviación:: parent	tenedora k / this service expansion	
+With this service expansion , Mexicana becomes the second Mexican airline with service to Europe and Brazil ( Aeromexico has long established service to Paris , <a> Madrid </a> , Rome and <a> Barcelona </a> in Europe , and S&#x00e3;o Paulo in Brazil ) , and first with service to the United Kingdom .
+
+378	TRUE	Iberia (airline):: iata	ib / de	
+<p> <strong> Iberia L&#x00ed;neas A&#x00e9;reas de Espa&#x00f1;a , S . A . </strong> ( ) is the <a> flag carrier </a> <a> airline </a> of <a> Spain </a> .
+
+379	TRUE	Iberia (airline):: callsign	iberia / L&#	
+<p> <strong> Iberia L&#x00ed;neas A&#x00e9;reas de Espa&#x00f1;a , S . A . </strong> ( ) is the <a> flag carrier </a> <a> airline </a> of <a> Spain </a> .
+
+381	FALSE	Iberia (airline):: founded	28 june 1927 / 1927.	
+Flight operations started on 14 December 1927 .
+
+385	TRUE	Iberia (airline):: icao	ibe / Spain	
+<p> <strong> Iberia L&#x00ed;neas A&#x00e9;reas de Espa&#x00f1;a , S . A . </strong> ( ) is the <a> flag carrier </a> <a> airline </a> of <a> Spain </a> .
+
+388	FALSE	El Al:: logo_size	200 / </	
+In total , there are five King David Lounges worldwide at the key airports at Ben Gurion International Airport , <a> John F . Kennedy International Airport </a> in New York , <a> Paris Charles de Gaulle Airport </a> , <a> London Heathrow Airport </a> and <a> Los Angeles International Airport </a> .
+
+390	FALSE	El Al:: iata	ly / flag	
+<p> <strong> El Al Israel Airlines Ltd </strong> ( <a> TASE </a> : <a> ELAL </a> ) , trading as <strong> El Al </strong> ( , &quot;To The Skies&quot; or &quot;Skywards , &quot; ) is the <a> flag carrier </a> <a> airline </a> of <a> Israel </a> .
+
+391	TRUE	El Al:: callsign	el al / Al	
+<p> <strong> El Al Israel Airlines Ltd </strong> ( <a> TASE </a> : <a> ELAL </a> ) , trading as <strong> El Al </strong> ( , &quot;To The Skies&quot; or &quot;Skywards , &quot; ) is the <a> flag carrier </a> <a> airline </a> of <a> Israel </a> .
+
+397	FALSE	El Al:: icao	ely / Israel	
+<p> <strong> El Al Israel Airlines Ltd </strong> ( <a> TASE </a> : <a> ELAL </a> ) , trading as <strong> El Al </strong> ( , &quot;To The Skies&quot; or &quot;Skywards , &quot; ) is the <a> flag carrier </a> <a> airline </a> of <a> Israel </a> .
+
+399	FALSE	Saudi Arabian Airlines:: logo_size	200 / a>	
+<p> The airline's main operational base is at <a> Jeddah-King Abdulaziz International Airport </a> ( JED ) .
+
+402	FALSE	Saudi Arabian Airlines:: callsign	saudia / based	
+<p> <strong> Saudi Arabian Airlines </strong> ( <em> </em> ) is the <a> flag carrier </a> <a> airline </a> of <a> Saudi Arabia </a> , based in <a> Jeddah </a> .
+
+407	FALSE	Saudi Arabian Airlines:: destinations	90 / 3	
+( 2010 ) ]] Saudi Arabian Airlines operates the following aircraft ( as of 3 December 2010 ) : center /center </p>
+
+410	FALSE	Saudi Arabian Airlines:: founded	1945 / 70	
+<p> Saudi Arabian Airlines did achieve operational profits in 2002 , which doubled in 2003 , but the profits were primarily due to over one billion riyals on deferred income amortised annually in the income statement , courtesy of the 70 aircraft gifted to the airline by the Saudi government .
+
+415	FALSE	South African Airways:: destinations	37 / 2010.	
+The aircraft was part of the long-haul fleet , after being retired permanently in 2010 . ]] </p>
+
+416	TRUE	South African Airways:: iata	sa / third	
+<p> SAA won <em> Executive Travel <strong> s best airline to Africa award for the third time . </strong> </em> </p>
+
+417	FALSE	South African Airways:: callsign	springbok / third	
+<p> SAA won <em> Executive Travel <strong> s best airline to Africa award for the third time . </strong> </em> </p>
+
+423	FALSE	South African Airways:: airline	south african airways / Executive	
+<p> SAA won <em> Executive Travel <strong> s best airline to Africa award for the third time . </strong> </em> </p>
+
+424	TRUE	South African Airways:: icao	saa / third	
+<p> SAA won <em> Executive Travel <strong> s best airline to Africa award for the third time . </strong> </em> </p>
+
+427	TRUE	Vieques Air Link:: callsign	vieques / Air	
+<p> <strong> Vieques Air Link </strong> ( VAL ) is a small <a> Puerto Rican </a> airline company that links <a> Vieques </a> with <a> Culebra </a> and mainland <a> Puerto Rico </a> . </p>
+
+437	FALSE	Royal Jordanian:: iata	rj / America	
+<p> <strong> Royal Jordanian Cargo </strong> ( Royal Jordanian Airlines Cargo ) is the company's freight division operating to Africa , Europe , North America and Middle East .
+
+438	TRUE	Royal Jordanian:: callsign	jordanian / Cargo	
+<p> <strong> Royal Jordanian Cargo </strong> ( Royal Jordanian Airlines Cargo ) is the company's freight division operating to Africa , Europe , North America and Middle East .
+
+441	TRUE	Royal Jordanian:: frequent_flyer	royal plus / Royal Plus	
+<p> Royal Plus is Royal Jordanian's frequent flyer program .
+
+461	FALSE	Continental Airlines:: iata	co / hubs	
+<p> <strong> New United Airlines hubs </strong> </p>
+
+462	FALSE	Continental Airlines:: callsign	continental / United	
+<p> <strong> New United Airlines hubs </strong> </p>
+
+469	FALSE	Continental Airlines:: airline	continental airlines / New	
+<p> <strong> New United Airlines hubs </strong> </p>
+
+470	FALSE	Continental Airlines:: icao	coa / New	
+<p> <strong> New United Airlines hubs </strong> </p>
+
+474	FALSE	China Airlines:: iata	ci / as	
+<p> <strong> China Airlines ( CAL ) </strong> ( <a> Chinese </a> : &#x4e2d;&#x83ef;&#x822a;&#x7a7a;&#x516c;&#x53f8; ( <a> pinyin </a> : Zh&#x014d;nghu&#x00e1; H&#x00e1;ngk&#x014d;ng g&#x014d;ngs&#x012b; ) , commonly abbreviated &#x83ef;&#x822a; ) ( ) is the <a> flag carrier </a> of the <a> Republic of China </a> ( commonly known as Taiwan ) .
+
+476	FALSE	China Airlines:: parent	china aviation development foundation / China Airlines operates	
+<p> In the United States China Airlines operates private bus services from airports with China Airlines flights to areas . </p>
+
+477	FALSE	China Airlines:: founded	1959 / 2010.	
+<p> China Airlines signed an agreement signaling the start of the joining process into <a> SkyTeam </a> <a> airline alliance </a> on September 14 , 2010 .
+
+482	TRUE	China Airlines:: icao	cal / China	
+<p> <strong> China Airlines ( CAL ) </strong> ( <a> Chinese </a> : &#x4e2d;&#x83ef;&#x822a;&#x7a7a;&#x516c;&#x53f8; ( <a> pinyin </a> : Zh&#x014d;nghu&#x00e1; H&#x00e1;ngk&#x014d;ng g&#x014d;ngs&#x012b; ) , commonly abbreviated &#x83ef;&#x822a; ) ( ) is the <a> flag carrier </a> of the <a> Republic of China </a> ( commonly known as Taiwan ) .
+
+496	FALSE	Aer Lingus:: logo_size	200 / </	
+The airline also serves <a> Boston </a> ( <a> Logan International Airport </a> ) , Chicago ( <a> O'Hare International Airport </a> ) , and New York ( <a> JFK Airport </a> ) .
+
+497	FALSE	Aer Lingus:: destinations	73 / 40	
+<p> On 27 February 2008 , Aer Lingus announced the purchase of four <a> A320 </a> aircraft for delivery late 2010 through early 2011 , bringing its short haul fleet to 40 aircraft . </p>
+
+498	FALSE	Aer Lingus:: iata	ei / Gold	
+<p> <strong> Gold Circle </strong> </p>
+
+501	FALSE	Aer Lingus:: founded	15 april 1936 / 1994	
+<p> In 1994 , Aer Lingus started direct services between Dublin and the United States using the <a> Airbus A330 </a> and in May of that year Aer Lingus operated the first A330-300 <a> ETOPS </a> service over the North Atlantic .
+
+506	FALSE	Aer Lingus:: icao	ein / Circle	
+<p> <strong> Gold Circle </strong> </p>
+
+511	FALSE	Air New Zealand:: iata	nz / National	
+<p> Air New Zealand also uses <a> air charter </a> operators <strong> <a> Air National </a> </strong> and <strong> <a> Vincent Aviation </a> </strong> , complementing <a> Eagle Airways </a> on selected provincial routes using <a> British Aerospace </a> <a> Jetstream 32 </a> , and <a> Beechcraft 1900 </a> C aircraft respectively . </p>
+
+512	TRUE	Air New Zealand:: callsign	new zealand / Air	
+<p> <strong> Air New Zealand Limited </strong> ( , ) is the national <a> airline </a> and <a> flag carrier </a> of <a> New Zealand </a> .
+
+518	FALSE	Air New Zealand:: icao	anz / Zealand	
+<p> <strong> Air New Zealand Limited </strong> ( , ) is the national <a> airline </a> and <a> flag carrier </a> of <a> New Zealand </a> .
+
+533	TRUE	Emirates (airline):: logo_size	200 / a>.	
+A330-200]] lands at <a> London Heathrow Airport </a> . ]]
+
+536	FALSE	Emirates (airline):: iata	ek / national	
+<p> <strong> Emirates </strong> ( <em> &#x1e6c;ayar&#x0101;n al-Im&#x0101;r&#x0101;t </em> ) ( also known as by marketing phrase <strong> Fly Emirates </strong> ) is the <a> national airline </a> of <a> Dubai </a> , <a> United Arab Emirates </a> .
+
+537	TRUE	Emirates (airline):: callsign	emirates / Fly	
+<p> <strong> Emirates </strong> ( <em> &#x1e6c;ayar&#x0101;n al-Im&#x0101;r&#x0101;t </em> ) ( also known as by marketing phrase <strong> Fly Emirates </strong> ) is the <a> national airline </a> of <a> Dubai </a> , <a> United Arab Emirates </a> .
+
+539	FALSE	Emirates (airline):: founded	1985 / 2009.	
+It operates the youngest fleet of any major airline as of May 2009 .
+
+550	FALSE	Midwest Airlines:: iata	yx / Holdings	
+<p> <strong> Midwest Airlines </strong> ( formerly <strong> Midwest Express </strong> ) was a <a> U . S . </a> -based airline and is now an operating brand of <a> Republic Airways Holdings </a> based in <a> Oak Creek </a> , <a> Wisconsin </a> .
+
+557	FALSE	Midwest Airlines:: callsign	midex / Midwest	
+<p> <strong> Midwest Airlines </strong> ( formerly <strong> Midwest Express </strong> ) was a <a> U . S . </a> -based airline and is now an operating brand of <a> Republic Airways Holdings </a> based in <a> Oak Creek </a> , <a> Wisconsin </a> .
+
+559	FALSE	Finnair:: logo_size	200 / </	
+<p> Finnair operates lounges at two airports : </p>
+
+562	FALSE	Finnair:: iata	ay / as	
+<p> <strong> Finnair Plc </strong> ! The English Finnair Group website refers to it as Finnair Plc ( <strong> Finnair <a> Oyj </a> </strong> ) is the <a> flag carrier </a> and largest <a> airline </a> of <a> Finland </a> , with its headquarters on the grounds of <a> Helsinki-Vantaa Airport </a> in <a> Vantaa </a> , Finland , and its <a> main hub </a> at Helsinki-Vantaa Airport .
+
+570	TRUE	Finnair:: callsign	finnair / main	
+<p> <strong> Finnair Plc </strong> ! The English Finnair Group website refers to it as Finnair Plc ( <strong> Finnair <a> Oyj </a> </strong> ) is the <a> flag carrier </a> and largest <a> airline </a> of <a> Finland </a> , with its headquarters on the grounds of <a> Helsinki-Vantaa Airport </a> in <a> Vantaa </a> , Finland , and its <a> main hub </a> at Helsinki-Vantaa Airport .
+
+571	TRUE	Finnair:: airline	finnair / Airport.	
+<p> <strong> Finnair Plc </strong> ! The English Finnair Group website refers to it as Finnair Plc ( <strong> Finnair <a> Oyj </a> </strong> ) is the <a> flag carrier </a> and largest <a> airline </a> of <a> Finland </a> , with its headquarters on the grounds of <a> Helsinki-Vantaa Airport </a> in <a> Vantaa </a> , Finland , and its <a> main hub </a> at Helsinki-Vantaa Airport .
+
+572	TRUE	Finnair:: icao	fin / main	
+<p> <strong> Finnair Plc </strong> ! The English Finnair Group website refers to it as Finnair Plc ( <strong> Finnair <a> Oyj </a> </strong> ) is the <a> flag carrier </a> and largest <a> airline </a> of <a> Finland </a> , with its headquarters on the grounds of <a> Helsinki-Vantaa Airport </a> in <a> Vantaa </a> , Finland , and its <a> main hub </a> at Helsinki-Vantaa Airport .
+

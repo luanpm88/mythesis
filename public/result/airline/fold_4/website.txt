@@ -1,0 +1,38 @@
+Found: 15
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	website	........ / Brindabella Airlines added a flight training school to its operations , and in April	// In 2000 , Brindabella Airlines added a flight training school to its operations , and in April 2003 , scheduled Regional airline services .
+
+#	NEW	website	........ / Twenty-four of the thirty-three people on board were killed .	// Twenty-four of the thirty-three people on board were killed . </p>
+
+#	NEW	website	........ / It operated scheduled passenger services in the Fort McMurra /	// It operated scheduled passenger services in the Fort McMurra / <a> Fort Chipewyan </a> region .
+
+#	NEW	website	........ / The flight crew consisted of captain Min-Yuan Ho , first officer Ju Yu Chang , flight engineer Kuo-Win Pei , relief captain Chien-Yuan Liao , and relief flight engineer Shih Lung Suwere .	// The flight crew consisted of captain Min-Yuan Ho , first officer Ju Yu Chang , flight engineer Kuo-Win Pei , relief captain Chien-Yuan Liao , and relief flight engineer Shih Lung Suwere .
+
+#	NEW	website	........ / It operates international cargo charters in the Americas .	// It operates international cargo charters in the Americas .
+
+#	NEW	website	........ / It was established and started operations in 1997 and operates domestic private charter services .	// It was established and started operations in 1997 and operates domestic private charter services .
+
+#	NEW	website	........ / It operates scheduled and charter cargo services throughout Russia and the	// It operates scheduled and charter cargo services throughout Russia and the <a> CIS </a> .
+
+#	NEW	website	........ / It operates air cruise / sightseeing trips as well as charter flights around Australia and	// It operates air cruise / sightseeing trips as well as charter flights around Australia and <a> New Zealand </a> .
+
+#	NEW	website	........ / It operated scheduled , charter passenger and cargo services , as well as supplying aviation fuel , ground services and aircraft maintenance and repair .	// It operated scheduled , charter passenger and cargo services , as well as supplying aviation fuel , ground services and aircraft maintenance and repair .
+
+#	NEW	website	........ / It operates scheduled overnight cargo services on behalf of owner Freightways Express .	// It operates scheduled overnight cargo services on behalf of owner Freightways Express .
+
+#	NEW	website	........ / The flight departed Amsterdam Airport Schiphol as scheduled at	// <p> The flight departed Amsterdam Airport Schiphol as scheduled at 23 : 25 on June 6 .
+
+#	NEW	website	........ / Today Rico operates scheduled and charter flights only within the state of Amazonas .	// Today Rico operates scheduled and charter flights only within the state of Amazonas . </p>
+
+#	NEW	website	........ / The aircraft was taken out of service in February 2004 and the 30-year old aircraft was scrapped in	// The aircraft was taken out of service in February 2004 and the 30-year old aircraft was scrapped in 2009 .
+
+#	NEW	website	........ / Charter flights are also operated to various destinations throughout Tasmania and mainland Australia .	// <p> Charter flights are also operated to various destinations throughout Tasmania and mainland Australia . </p>
+
+#	NEW	website	........ / The Romavia fleet includes the following aircraft ( as of December	// The Romavia fleet includes the following aircraft ( as of December 2009 ) : </p>
+

@@ -1,0 +1,102 @@
+Found: 41
+Found Not Null: 10
+Correct: 3
+Wrong: 7
+Total: 10
+precision: 0.3
+recall: 0.3
+
+
+
+#	NEW	fleet_size	........ / 2010 ) :	// <p> The Bearskin Airlines fleet includes the following aircraft ( as of August 2010 ) : </p>
+
+#	NEW	fleet_size	........ / 2007	// Air Next received two more 737s by the end of <a> 2006 </a> and another three in <a> 2007 </a> , bringing their fleet to a total of seven aircraft . </p>
+
+#	NEW	fleet_size	........ / 400	// The Flight Academy had bought flight simulators for ATR-4 / 72 aircraft , as well as <a> Boeing 737-20 / 30 / 400 </a> aircraft .
+
+3	FALSE	US Airways Shuttle::fleet_size	6 / a	
+Employees of the Shuttle also operated on a separate seniority list , since the company operated as a wholly owned subsidiary of US Airways Group&quot ; . </p>
+
+#	NEW	fleet_size	........ / 2007 .	// The new head office was scheduled to be finished by the end of 2007 . </p>
+
+#	NEW	fleet_size	........ / 11	// <p> On June 11 , 1980 , Lorenzo established a <a> holding company </a> , <a> Texas Air Corporation </a> , for Texas International .
+
+#	NEW	fleet_size	........ / 1962 .	// This aircraft was lost in a fatal accident in <a> Cameroon </a> in March 1962 .
+
+#	NEW	fleet_size	........ / 31	// In the <a> fiscal year </a> ended March 31 , 1999 , J-Air , together with its sister airlines within the JAL Group , carried over 32 <a> million </a> passengers and over 1 . 1 million <a> ton </a> s of <a> cargo </a> and <a> mail </a> . </p>
+
+8	TRUE	Di Air::fleet_size	8 / 2008 )	
+It was originally named Pelican Blue Line and is wholly owned by Dragan Ivan&#x010d ; evi&#x0107 ; and has 9 employees ( at March 2008 ) ref name=&quot ; FI&quot ; / .
+
+#	NEW	fleet_size	........ / 1999	// Seeking to acquire an <a> Air Operator ' s Certificate </a> ( AOC ) to begin scheduled flights , Finncomm partnered with Swedish carrier Golden Air in 1999 until Finncomm could receive their own AOC .
+
+#	NEW	fleet_size	........ / 1977	// It was formed following the Cayman Government ' s purchase of 51% of <a> Cayman Brac Airways </a> , from LACSA , the Costa Rican flag carrier , and became wholly government owned in December 1977 </p>
+
+#	NEW	fleet_size	........ / 1972	// <p> In May 1972 BCal ' s fleet comprised 32 jet aircraft . </p>
+
+12	FALSE	Flash Airlines::fleet_size	2 / following	
+<p> The Heliopolis Airlines fleet consisted of the following aircraft before merging into Flash group : </p>
+
+#	NEW	fleet_size	........ / 11	// It also has 11 , 173 employees . </p>
+
+14	FALSE	Air Namibia::fleet_size	8 / 24	
+( 2006 ) ] ] The Air Namibia fleet consists of the following aircraft ( at 24 May 2010 ) : </p>
+
+#	NEW	fleet_size	........ / 31	// As of 31 March 2010 , SilkAir employs 278 staff . </p>
+
+16	FALSE	Song (airline)::fleet_size	48 / <strong>	
+<p> <strong> Song , LLC </strong> was a <a> low-cost &quot ; airline </a> within an airline&quot ; brand owned and operated by <a> Delta Air Lines </a> .
+
+#	NEW	fleet_size	........ / 2007 ) .	// It is wholly owned by the government of Ethiopia and has 4 , 700 employees ( at March 2007 ) .
+
+18	FALSE	Air Sinai::fleet_size	1 / 2002	
+<p> Air Sinai ceased airline operations in its own right in 2002 and operates as a ' paper airline ' for its parent company , <a> EgyptAir </a> . ref
+
+#	NEW	fleet_size	........ / 5	// <p> At 22 March 2010 , the average age of the S7 Airlines Boeing and Airbus fleet is 7 . 5 years . </p>
+
+#	NEW	fleet_size	........ / the	// A number of former Interflug employees gained employment at Lufthansa and its subsidiary companies , including <a> Condor </a> and Lufthansa Technik , while employees in the airport operations divisions became employees of the new respective municipal-owned airport corporations , but many others became unemployed . </p>
+
+#	NEW	fleet_size	........ / 1011	// <p> Over the following months and years , employees of Eastern Air Lines began reporting sightings of the dead crew members on board another L-1011 ( N318EA ) .
+
+#	NEW	fleet_size	........ / 22	// On 22 March 2004 it became an international carrier with the start of flights from <a> Chennai </a> to <a> Colombo </a> .
+
+#	NEW	fleet_size	........ / 14	// <p> Employees were finally paid for the time prior to the airline ' s shutdown on March 14 , 2005 .
+
+24	FALSE	BWIA West Indies Airways::fleet_size	10 / 2005 ).	
+The airline was owned by the Government of the Republic of Trinidad and Tobago ( 75% ) and private shareholders ( 25% ) and had 2 , 588 employees ( at January 2005 ) .
+
+#	NEW	fleet_size	........ / 24	// <p> On 24 December 2007 , <a> Air France-KLM </a> announced it had signed an agreement for a full takeover of <a> VLM Airlines </a> NV from Panta Holdings and later they announced on 28 May 2009 that <a> VLM Airlines </a> would gradually start to operate under the brand name CityJet .
+
+#	NEW	fleet_size	........ / 72	// <p> The Air Srpska fleet consisted of two <a> ATR 72 </a> <a> turboprop </a> aircraft . </p>
+
+#	NEW	fleet_size	........ / 2007	// <p> As part of the JAL Medium Term Corporate Plan for 2005&#x2013 ; 2007 , announced on March 10 , 2005 , the JAL Group accelerated the retirement of older Boeing 747 aircraft .
+
+#	NEW	fleet_size	........ / 5	// Royal Air Maroc has 5 , 719 employees .
+
+29	TRUE	Mandarin Airlines::fleet_size	9 / 19 /	
+The first of eight leased Embraer E-19 / 195s was delivered to the airline in May 2007 , the first to a Taiwanese airline .
+
+#	NEW	fleet_size	........ / 1988	// <p> The airline was established in 1987 and started operations in 1988 as <em> Air Botnia </em> .
+
+#	NEW	fleet_size	........ / 2007 ) .	// It has 130 employees ( as of March 2007 ) . </p>
+
+#	NEW	fleet_size	........ / ,	// <p> Over the years , Air Anatolia operated the following aircraft types : </p>
+
+#	NEW	fleet_size	........ / 18	// <p> On 18 May 2004 , the airline ceased all operations with the remaining one hundred employees losing their jobs , and the islands of Tonga being left without domestic air service . </p>
+
+34	TRUE	Air Caraïbes::fleet_size	8 / 2007 ) :	
+The airline is owned by <a> Groupe Dubreuil </a> ( 85% ) and has 627 employees ( at March 2007 ) : </p>
+
+35	FALSE	Avensa::fleet_size	8 / 2007.	
+The rest of the fleet was derelict and scrapped in 2007 . </p>
+
+#	NEW	fleet_size	........ / ( 2007 )	// ( 2007 ) ] ] [ [ Image : Tunisair A300 TS-IPC . jpg | thumb | Tunisair
+
+#	NEW	fleet_size	........ / 2	// As of March 2007 it has 2 , 511 employees .
+
+#	NEW	fleet_size	........ / 3054	// It was subsequently surpassed by <a> TAM Airlines Flight 3054 </a> , which crashed on 17 July 2007 with 199 fatalities . </p>
+
+#	NEW	fleet_size	........ / 2007 .	// The result was <a> Compass Airlines </a> , which began service using E175 jets in August 2007 . </p>
+
+#	NEW	fleet_size	........ / 2008	// The full terms of the privatisation will be confirmed later in 2007 and a preferred bidder selected in <a> 2008 </a> .
+

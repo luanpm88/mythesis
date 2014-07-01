@@ -1,0 +1,50 @@
+Found: 21
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	birthplace	........ / American daytime soap	// <p> <strong> Stephen Nichols </strong> ( born February 19 , 1951 ) is an <a> American </a> <a> actor </a> , most notable for his roles on American daytime soap operas .
+
+#	NEW	birthplace	........ / Angeles , California	// <p> Scott was born <strong> Melody Ann Thomas </strong> in <a> Los Angeles , California </a> .
+
+#	NEW	birthplace	........ / his film career .	// Pennebaker served in the Navy and later worked as an engineer , founding Electronics Engineering ( the makers of the first computerized airline reservation system ) before beginning his film career . </p>
+
+#	NEW	birthplace	........ / Best Actress : ( Winner )	// <p> : * <strong> 2001 , Best Actress : ( Winner ) </strong> </p>
+
+#	NEW	birthplace	........ / ability was largely	// He was considered to be the leading <a> matinee idol </a> of his day , but unlike most matinee idols Drew ' s acting ability was largely undisputed .
+
+#	NEW	birthplace	........ / Clinton , Iowa	// <p> Lillian Russell was born <strong> Helen Louise Leonard </strong> in <a> Clinton , Iowa </a> .
+
+#	NEW	birthplace	........ / Russia with Love	// In <em> From Russia with Love </em> her voice was dubbed by <a> Barbara Jefford </a> . </p>
+
+#	NEW	birthplace	........ / Taylorville , Illinois	// <p> Yvonne Craig was born in <a> Taylorville , Illinois </a> .
+
+#	NEW	birthplace	........ / an American dramatic	// <p> <strong> Ren&#x00e9 ; e Jones </strong> ( born October 15 , 1958 ) is an American dramatic actress .
+
+#	NEW	birthplace	........ / science fiction thriller	// <p> His directorial debut was the 2001 science fiction thriller <em> Vidocq </em> . </p>
+
+#	NEW	birthplace	........ / The Running Man	// <p> He is well known for playing whiny or unlucky characters , like the agent whom Arnold Schwarzenegger stabs in the back with a pen in <em> <a> The Running Man </a> </em> . </p>
+
+#	NEW	birthplace	........ / Donegal as a	// He moved , with his family , from County Donegal as a child .
+
+#	NEW	birthplace	........ / were actors in	// McClory ' s parents , Thomas John O ' Donovan McClory ( stage name Desmond O ' Donovan ) and Winifred ( n&#x00e9 ; e Doran ) were actors in Ireland .
+
+#	NEW	birthplace	........ / was an Austrian	// <p> <strong> Joseph Schildkraut </strong> ( March 22 , 1896 &ndash ; January 21 , 1964 ) was an Austrian <a> stage </a> and film actor . </p>
+
+#	NEW	birthplace	........ / failed the English	// He was educated at local schools and attempted to gain entrance to university , but failed the English examination .
+
+#	NEW	birthplace	........ / Brothers & amp ; Sisters	// He currently has a recurring role ( as David Caplan ) on <em> <a> Brothers &amp ; Sisters </a> </em> . </p>
+
+#	NEW	birthplace	........ / role of Jessica .	// When Torpey resigned in January 2003 , Williamson was remembered by the casting department and offered the role of Jessica . </p>
+
+#	NEW	birthplace	........ / of Love in	// As well as two guest appearances in the second season of the cop drama <a> 21 Jump Street </a> in the episodes Christmas In Saigon in 1987 and Chapel of Love in 1988 playing Rosa . </p>
+
+#	NEW	birthplace	........ / her first husband .	// Tylo has been credited as <strong> Deborah Morehart </strong> ; Morehart was the last name of her first husband . </p>
+
+#	NEW	birthplace	........ / the pioneers of	// He is one of the pioneers of <a> docudrama </a> .
+
+#	NEW	birthplace	........ / Side of it .	// His burial vault was Riddler Green and had a Question Mark on the Side of it . </em> </strong> </p>
+

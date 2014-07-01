@@ -1,0 +1,96 @@
+Found: 31
+Found Not Null: 16
+Correct: 8
+Wrong: 8
+Total: 20
+precision: 0.5
+recall: 0.4
+
+
+
+0	TRUE	Northern Air Cargo::founded	1956 / 1956	
+<p> The airline was established in 1956 as a charter freight service by Bobby Sholton and Morrie Carlson .
+
+#	NEW	founded	........ / September 19 , 2008 .	// The company began operations in Florida in October 2007 and suspended operations on September 19 , 2008 . </p>
+
+#	NEW	founded	........ / 629	// <p> Flight 629 was the second known case of an airliner being destroyed by a bomb over the mainland <a> United States </a> .
+
+#	NEW	founded	........ / 2010	// <p> As per 31 March 2010 the airline has decided that all activities in the company will end as Transwede has not been operating during 2010 . </p>
+
+4	TRUE	L.A.B. Flying Service::founded	1956 / 300	
+<p> [ [ File : Piper PA-32 Cherokee Six . jpg | thumb | [ [ Piper PA-32 ] ] -300 ( N2897X ) ] ] The airline was established and started operations in 1956 .
+
+5	FALSE	XL Airways Germany::founded	2006 / of	
+Operations of the German and French airline subsidiaries were not affected , however .
+
+#	NEW	founded	........ / 1957	// <p> The <strong> Downend air crash </strong> occurred on 6 November 1957 when a prototype <a> Bristol Britannia </a> aircraft crashed in woods near Overndale Road in <a> Downend Village </a> , near <a> Bristol </a> , England , on its landing approach at <a> Filton airport </a> during a test flight .
+
+7	TRUE	Challenge Aero::founded	2002 / 2002.	
+<p> Challenge Aero airline was established in 2002 .
+
+#	NEW	founded	........ / Colombian	// <p> In <a> Colombian </a> <a> Spanish </a> , the words that made up the airline ' s former name , &quot ; Deprisa&quot ; , mean &quot ; in a hurry&quot ; , hence implying that the airline would move your cargo speedily . </p>
+
+#	NEW	founded	........ / 2006 7 January 2007 .	// Flight operations began to <a> Calabar </a> on 15 November 2006 and services to <a> Benin City </a> and <a> Enugu </a> started on 7 January 2007 .
+
+#	NEW	founded	........ / 2006 .	// A joint venture between <a> Shanghai Airlines </a> and <a> EVA Air </a> of the <a> Evergreen Group </a> based in <a> Taiwan </a> , <a> Republic of China </a> , it was established in June 2006 . </p>
+
+#	NEW	founded	........ / 2006 5 March 2007	// <p> Due to the European Union placing all 27 airlines registered in Kyrgyzstan on the banned airline list on 12 October 2006 , and those airlines still appearing on the list as of 5 March 2007 , the airline has been forced to scale back its schedule . </pre>
+
+#	NEW	founded	........ / 15 May 2006 .	// <p> The airline started operations on 15 May 2006 .
+
+#	NEW	founded	........ / 2004	// <p> The airline was created in <a> 2004 </a> and started operations in May 2006 .
+
+14	FALSE	Omni – Aviação e Tecnologia::founded	1988 / 2010	
+<p> In 2010 Omni established with a Brazilian investor the Brazilian charter airline <a> Whitejets </a> , which will operate , as of June 2010 flights from Brazil to the Caribbean . </p>
+
+15	TRUE	Air Norway::founded	2003 / 2003.	
+The airline was established in 2003 .
+
+16	FALSE	CHC Helikopter Service::founded	1956 / 1993	
+In 1993 it also started operating the <a> Eurocopter Dauphin </a> with possibilities for search and rescue purposes .
+
+17	TRUE	Mahalo Air::founded	1993 / 1993	
+The airline started service on October 4 , 1993 , using <a> Fokker F27 </a> turboprop aircraft operated by <a> Empire Airlines </a> while awaiting its own certification .
+
+#	NEW	founded	........ / 2005	// <p> The airline was established in <a> 2005 </a> by former Aeromexico COO Guillermo Heredia and received its air operator&#x2019 ; s certificate in September of the same year </p>
+
+19	FALSE	American Flyers Airline::founded	1949 / 3	
+<p> The airline initially started in <a> Fort Worth </a> with <a> Douglas DC-3 </a> aircraft .
+
+20	TRUE	Lamb Air::founded	1934 / 1981.	
+<p> <strong> Lamb Air Ltd . </strong> was an <a> airline </a> that began operations in 1934 in <a> The Pas </a> , <a> Manitoba </a> , <a> Canada </a> and went out of business in 1981 . </p>
+
+21	FALSE	PenAir::founded	1955 / 40	
+<p> <strong> Today </strong> br / PenAir is Alaska ' s second largest commuter airline , operating a fleet of 40 aircraft and providing scheduled service to 36 communities throughout Southwest Alaska .
+
+22	FALSE	TEAM Linhas Aéreas::founded	2001 / 2010	
+<p> In June 2010 TEAM Linhas A&#x00e9 ; reas operated services to the following destinations : </p>
+
+#	NEW	founded	........ / 1993	// The airline was in service between 1993 to 1996 .
+
+24	FALSE	Republic Airlines (1979–1986)::founded	july 1, 1979 / 1979	
+<p> <strong> Republic Airlines </strong> was an <a> airline </a> formed on July 1 , 1979 by the <a> merger </a> of <a> North Central Airlines </a> , <a> Southern Airways </a> , and <a> Hughes Airwest </a> .
+
+#	NEW	founded	........ / 727	// <p> <strong> American Airlines Flight 444 </strong> was a <a> Boeing 727 </a> flying from <a> Chicago </a> to <a> Washington DC </a> , which on November 15 , 1979 was attacked by the <a> Unabomber </a> .
+
+26	TRUE	Royal Wings::founded	1 january 1996 / 1996.	
+<p> The airline was established on 1 January 1996 and started operations on 10 February 1996 .
+
+27	FALSE	Dutch Antilles Express::founded	2005 / 2003	
+<p> The airline started operations with a single <a> ATR 42 </a> in 2003 as <a> BonairExel </a> ( part of the Exel Aviation Group ) and soon expanded to encompass most of the Dutch Antilles and Aruba .
+
+#	NEW	founded	........ / 1572 12 , 1995 .	// <p> <strong> <a> American Airlines </a> Flight 1572 </strong> , registration N566AA , was a <a> McDonnell Douglas MD-83 </a> flying from <a> Chicago O ' Hare </a> that was damaged while landing short of runway at <a> Hartford </a> ' s <a> Bradley International Airport </a> on November 12 , 1995 . </p>
+
+29	TRUE	NHT Linhas Aéreas::founded	2006 / 2006	
+<p> The airline started operations in August <a> 2006 </a> and is controlled by JMT holding ( Teixeira family ) , the CEO being Pedro Teixeira .
+
+#	NEW	founded	........ / 880	// It was the sixth loss of a Convair 880 and at the time the worst accident involving a Convair 880 , and 12th worst airline disaster in the U . S .
+
+#	null	founded	1995 / ..........
+
+#	null	founded	may 2006 / ..........
+
+#	null	founded	1985 / ..........
+
+#	null	founded	1997 / ..........
+

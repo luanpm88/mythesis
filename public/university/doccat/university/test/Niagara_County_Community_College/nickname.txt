@@ -1,4 +1,0 @@
-<li>The Business Education Building is the location of the Business Division.</li>
-<li>The Fine Arts Building contains the Fine Arts Division and the college's auditorium.</li>
-<p>F - Building - Fine Arts / Speech, Public Speaking Classes / Auditorium / Ceramics Studio / Drawing Studio's</p>
-While the dorms host mainly athletes, all students are able to reside there.</p>

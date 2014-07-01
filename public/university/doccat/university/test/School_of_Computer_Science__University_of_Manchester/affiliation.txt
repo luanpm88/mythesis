@@ -1,3 +1,0 @@
-<li><a>Virtual memory</a> using <a>paging</a> (see <a>Atlas Computer</a>)</li>
-<li><a>Manchester encoding</a></li>
-<li><a>Freddie Williams</a></li>

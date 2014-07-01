@@ -1,0 +1,109 @@
+Found: 38
+Found Not Null: 21
+Correct: 18
+Wrong: 3
+Total: 22
+precision: 0.8571428571428571
+recall: 0.8181818181818182
+
+
+
+0	TRUE	Brindabella Airlines::founded	1994 / 1994.	
+<p> The airline was established and started operations in 1994 .
+
+#	NEW	founded	........ / 58	// <p> Prior to the loss of United 409 , the deadliest scheduled airline accident in U . S . history was the June 1950 disappearance of <a> Northwest Orient Airlines Flight 2501 </a> over <a> Lake Michigan </a> , when 58 died . </p>
+
+2	TRUE	Aviaprad::founded	1996 / 1996.	
+<p> The airline was established in 1996 .
+
+#	NEW	founded	........ / 1968	// <p> The airline was established in 1968 and started operations as California Air Charter .
+
+#	NEW	founded	........ / 01	// <p> The flight departed <a> Berlin-Tegel International Airport </a> at 9 : 01 PM <a> CET </a> , upon arrival in Zurich about an hour later it was cleared to approach runway 28 in poor visibility conditions due to low clouds .
+
+#	NEW	founded	........ / 1961	// <p> The airline was established and started operations in 1961 as Contact Air and became wholly owned by the Mikisew Cree First Nation in 1995 .
+
+#	NEW	founded	........ / 4	// On February 19 , 1985 , it was involved in an <a> aircraft upset incident </a> after the No . 4 engine <a> flamed out </a> .
+
+#	NEW	founded	........ / 2003 .	// <p> The airline was established on 12 December 2003 and started operations in 2003 .
+
+8	FALSE	BritishJET::founded	2004 / 2005	
+Services started with a flight between <a> London Gatwick </a> and Malta on 1 May 2005 and then to other UK airports . </p>
+
+9	TRUE	Bemidji Airlines::founded	1946 / 1947.	
+<p> The airline was established in 1946 and started operations in 1947 .
+
+10	TRUE	Avioquintana::founded	1997 / 1997	
+It was established and started operations in 1997 and operates domestic private charter services .
+
+#	NEW	founded	........ / 1999	// It was established in <a> 1998 </a> and started operations in <a> 1999 </a> and operates scheduled and charter cargo services .
+
+#	NEW	founded	........ / 2009	// <p> As of December 2009 , the Aviast Air website is down , so that it is not clear whether the airline is still operational . </p>
+
+13	FALSE	Focus Air Cargo::founded	2004 / 2008	
+<p> In July 2008 , the Aircraft Operating Certificate was surrendered to the FAA and the airline ceased operations . </p>
+
+14	TRUE	Angara Airlines::founded	2000 / 2000	
+Established in 2000 , it operates regional scheduled and charter services on behalf of its owner , the <a> Irkut Corporation </a> aircraft repair factory . </p>
+
+15	TRUE	Alberta Citylink::founded	1996 / 1996.	
+<p> The airline was established and started operations in 1996 .
+
+16	TRUE	FS Air Service::founded	1986 / 1986	
+It was established in 1986 and operates regional passenger and cargo services , as well as cargo charters . </p>
+
+17	TRUE	Aircruising Australia::founded	1983 / 1983	
+<p> The airline was established by Neville Salisbury and started operations in 1983 and was formerly known as Charter Cruise Air </p>
+
+#	NEW	founded	........ / 2002	// <p> <strong> Air Universal </strong> was a privately owned <a> airline </a> based in <a> Amman </a> , <a> Jordan </a> , which operated chartered passenger flights between 2002 and 2007 .
+
+19	TRUE	Air Satellite::founded	1968 / 1968.	
+<p> The airline was established in 1968 and started operations in May 1968 .
+
+#	NEW	founded	........ / 1989	// <p> The airline started operations in July 1989 , headed by Peter Vincent .
+
+21	TRUE	American Falcon::founded	1995 / 1995	
+<p> The airline was formed in 1995 , and initially offered only charter services , though it gradually introduced scheduled flights .
+
+#	NEW	founded	........ / 5 July 2000	// <p> The airline was established in 1999 and started operations on 5 July 2000 from <a> Madrid </a> with domestic services and an initial fleet of three <a> Boeing 717 </a> aircraft .
+
+23	TRUE	Rico Linhas Aéreas::founded	1996 / 1996	
+<p> On November 1 , 1996 , while maintaining its independent air taxi operations , the owners of Rico T&#x00e1 ; xi A&#x00e9 ; reo created Rico Linhas A&#x00e9 ; reas , a regional scheduled airline .
+
+24	TRUE	Aeronáutica (Angola)::founded	2001 / 2001	
+<p> The airline was established in 2001 and is wholly owned by GVA-Investimentos , SARL . </p>
+
+#	NEW	founded	........ / were	// Rescue operations were only started after the plane ' s navigator escaped the wreck , got back to the shore and managed to reach the airport . </p>
+
+#	NEW	founded	........ / 1996 .	// <p> The airline was established in September <a> 1995 </a> and started operations in April 1996 .
+
+#	NEW	founded	........ / 2009 .	// The aircraft was taken out of service in February 2004 and the 30-year old aircraft was scrapped in 2009 .
+
+28	TRUE	Tasair::founded	1965 / 1965.	
+<p> The company was established in 1965 .
+
+29	TRUE	Romavia::founded	3 april 1991 / 1991	
+<p> The airline was established on 3 April 1991 and started operations later in the same year .
+
+#	NEW	founded	........ / 1963	// <p> The airline was established in 1962 and started operations in 1963 as <a> L&#x00ed ; neas A&#x00e9 ; reas Paraguayas </a> .
+
+#	NEW	founded	........ / 1985 .	// <p> The <a> airline </a> was established in 1985 .
+
+32	TRUE	Air Excellence::founded	2002 / 2004.	
+It was established in 2002 and ceased operations again in 2004 . </p>
+
+33	TRUE	Air D'Ayiti::founded	1997 / 1997	
+<p> <strong> Air D ' Ayiti </strong> was a short-lived <a> airline </a> from <a> Haiti </a> , which was operational between 1997 and 1999 .
+
+34	TRUE	Aero Cuahonte::founded	1957 / 1957	
+The airline was established and started operations in 1957 , founded by <a> Enrique Cuahonte </a> and <a> Marta Amezcua </a> . . </p>
+
+35	FALSE	Tavaj Linhas Aéreas::founded	1994 / 2	
+In 1995 TAVAJ added further 2 EMB110 Bandeirante and the first <a> Fokker F27 MK600 </a> .
+
+36	TRUE	TRIP Linhas Aéreas::founded	1998 / 120	
+<p> The airline was established in 1998 with two <a> Embraer EMB 120 Brasilia </a> s and was wholly owned by the Caprioli Group until November 2006 , when &#x00c1 ; guia Branca Group ( Chieppe family ) bought 49% of its capital . </p>
+
+#	NEW	founded	........ / 14	// The <a> Douglas Aircraft </a> <a> DC-9-14 </a> was operated by <a> Continental Airlines </a> and was a scheduled flight to <a> Boise , Idaho </a> .
+
+#	null	founded	1996 / ..........
+

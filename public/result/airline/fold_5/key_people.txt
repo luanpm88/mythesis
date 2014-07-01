@@ -1,0 +1,69 @@
+Found: 29
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 1
+recall: 0.0
+
+
+
+#	NEW	key_people	........ / main bases	// Its main bases were <a> Domodedovo International Airport </a> , Moscow and <a> Irkutsk Airport </a> .
+
+#	NEW	key_people	........ / is a	// <p> <strong> Malm&#x00f6 ; Aviation </strong> is a <a> regional airline </a> based in <a> Malm&#x00f6 ; </a> , Sweden .
+
+#	NEW	key_people	........ / the time	// At the time , Flight 1 was the deadliest aviation accident to occur on US soil .
+
+#	NEW	key_people	........ / the duration	// Airports even had vending machines that issued insurance policies good for the duration of the flight .
+
+#	NEW	key_people	........ / The airline	// <p> The airline was established and started operations in 1992 .
+
+#	NEW	key_people	........ / and began	// <p> Rutaca was established and began operations in 1974 .
+
+#	NEW	key_people	........ / and Chief	// <p> The airline was established in May 1997 as <em> Servicio de Transporte A&#x00e9 ; reo Regional </em> by founder , and Chief Executive , Valentin Kasyanov .
+
+#	NEW	key_people	........ / and investigates	// It oversees <a> civil aviation </a> and investigates <a> aviation accidents and incidents </a> .
+
+#	NEW	key_people	........ / is on	// Its main base is on the grounds of <a> Jorge Ch&#x00e1 ; vez International Airport </a> .
+
+#	NEW	key_people	........ / the airline	// <p> In June 2006 the airline announced plans to operate out of <a> Aberdeen Airport </a> now that 24 hour airport operation there had been confirmed .
+
+#	NEW	key_people	........ / in 2002	// <p> The Airline was established in 2002 and started operations in June 2003 .
+
+#	NEW	key_people	........ / is a	// <p> Palestinian Airlines is a member of the <a> Arab Air Carriers Organization </a> . </p>
+
+#	NEW	key_people	........ / is a	// It is a major competitor to <a> Regional Express Airlines </a> . </p>
+
+#	NEW	key_people	........ / in 1987	// <p> The airline was established in 1987 and started operations in December 1988 .
+
+#	NEW	key_people	........ / base is	// Its main base is <a> Coventry Airport </a> . </p>
+
+#	NEW	key_people	........ / The airline	// <p> The airline was founded and started operations in 1965 as <strong> Aeropesca Colombia </strong> . </p>
+
+#	NEW	key_people	........ / operated largely	// It operated largely domestic services , with its main base at <a> Olaya Herrera Airport </a> ( EOH ) , Medell&#x00ed ; n .
+
+#	NEW	key_people	........ / is the	// It is the second largest airline in Chile behind rival <a> LAN Airlines </a> . </p>
+
+#	NEW	key_people	........ / and the	// The airline is owned by Khabarovsk regional administration ( 51% ) and the airline employees ( 49% ) . </p>
+
+#	NEW	key_people	........ / base is	// Its main base is <a> Saratov Tsentralny Airport </a> ( RTW ) . </p>
+
+#	NEW	key_people	........ / September 11	// <p> Prior to September 11 , the airline served the following 5 cities in western Canada : </p>
+
+#	NEW	key_people	........ / and started	// It was established and started operations on 4 October 1996 and operated regional feeder services .
+
+#	NEW	key_people	........ / the Motor	// <p> The airline was established in 1984 and is wholly owned by the Motor Sich Joint Stock Company .
+
+#	NEW	key_people	........ / main bases	// Its main bases are <a> Odessa Airport </a> ( ODS ) and <a> Simferopol Airport </a> ( SIP ) . </p>
+
+#	NEW	key_people	........ / the following	// <p> Yemenia has also operated the following aircraft : </p>
+
+#	NEW	key_people	........ / and started	// It was established and started operations in 2001 and operates regional services .
+
+#	NEW	key_people	........ / The airline	// <p> The airline was established and started operations in 1982 .
+
+#	NEW	key_people	........ / base is	// Its main base is <a> Viracopos International Airport </a> , Campinas . </p>
+
+#	NEW	key_people	........ / August 16	// <p> Originally as general aviation company , Air Minas started its operations as a regular regional carrier on August 16 , 2006 .
+
+#	null	key_people	gene willson / ..........
+

@@ -1,0 +1,36 @@
+Found: 14
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	birth_date	........ / em>	// Her last film with him , <em> <a> A Woman of Paris </a> </em> , was also her first lead role .
+
+#	NEW	birth_date	........ / Burgess	// <p> Burgess Meredith was involved in theatre , film , and television , both as an actor and a director .
+
+#	NEW	birth_date	........ / p>	// Menzel was nominated for an Academy Award for Best Foreign Language Film again in 1986 with his dark comedy <em> <a> My Sweet Little Village </a> </em> . </p>
+
+#	NEW	birth_date	........ / June 12 , 2009	// On June 12 , 2009 , their second daughter , Luciana &quot ; Luci&quot ; Bella , was born . </p>
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Magda Szubanski </strong> ( born 12 April 1961 ) is a British-born Australian actress , comedian , television presenter , radio host and author . </p>
+
+#	NEW	birth_date	........ / ,	// Paul Jackson </strong> , is a <a> British </a> television director , producer and executive . </p>
+
+#	NEW	birth_date	........ / In October 1942	// <p> In October 1942 , he voluntarily enlisted in the U . S . Coast Guard and served in the Pacific Theater .
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Joanna Pacula </strong> ( born January 2 , 1957 ) is a <a> Polish </a> <a> actress </a> . </p>
+
+#	NEW	birth_date	........ / In 1968 ,	// <p> In 1968 , Davis married actress <a> Jaclyn Smith </a> .
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Jeremy Robert Myron Sumpter </strong> ( born February 5 , 1989 ) is an <a> American </a> actor .
+
+#	NEW	birth_date	........ / As	// <p> As executive produce / director : </p>
+
+#	NEW	birth_date	........ / Jurasik	// <p> Jurasik was born in <a> Queens , New York </a> the third of four children .
+
+#	NEW	birth_date	........ / 1956	// In 1956 , he became a full-fledged director .
+
+#	NEW	birth_date	........ / 1961	// In 1961 he did an episode of <em> <a> The Twilight Zone </a> </em> called &quot ; Shadow Play&quot ; where he was trapped inside his own dream . </p>
+

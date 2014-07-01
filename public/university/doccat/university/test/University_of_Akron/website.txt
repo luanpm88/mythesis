@@ -1,6 +1,0 @@
-The largest college of the university is the <a>Buchtel College of Arts and Sciences</a>.
-<li>Buchtel College of Arts and Sciences</li>
-<li>College of Creative and Professional Arts</li>
-<li>College of Health Sciences and Human Services</li>
-<h3>BioInnovation Institute</h3>
-<h3>Other sports</h3>

@@ -1,0 +1,17 @@
+Found: 89
+Found Not Null: 1
+Correct: 0
+Wrong: 1
+Total: 3
+precision: 0.0
+recall: 0.0
+
+
+
+17	FALSE	Oberlin College::motto	learning and labor / Colleges with a Conscience&	
+The college was ranked among the <em> <a> Princeton Review </a> 's <strong> list of </strong> </em> &quot;Colleges with a Conscience&quot; <em> in 2005.
+
+#	null	motto	sol iustitiae illustra nos / ..........
+
+#	null	motto	wabash always fights / ..........
+

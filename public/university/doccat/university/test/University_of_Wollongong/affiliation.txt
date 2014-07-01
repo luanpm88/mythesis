@@ -1,8 +1,0 @@
-<li><a>Innovation Campus</a> (iC), Wollongong</li>
-<h2>Residential colleges</h2>
-<li><a>Graduate House</a></li>
-<li><a>Gundi</a></li>
-<li><a>International House</a></li>
-<li><a>Kooloobong</a></li>
-<li><a>Keiraview</a></li>
-<li><a>Weerona College</a></li>

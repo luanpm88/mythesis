@@ -1,0 +1,58 @@
+Found: 25
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	frequent_flyer	........ / it became	// In December 2001 it became an independent airline owned by Braganza A / Bramora .
+
+#	NEW	frequent_flyer	........ / was retired	// Once the largest carrier there , its number of scheduled flights had fallen by 60 percent by the time the last MetroJet 737 was retired in December . </p>
+
+#	NEW	frequent_flyer	........ / two	// On board , there were 52 passengers ( including two infants ) , three flight attendants , and two pilots .
+
+#	NEW	frequent_flyer	........ / a Boeing	// It would also have been the first crash of a Boeing jet in passenger service .
+
+#	NEW	frequent_flyer	........ / This	// <p> This is the list of places that Rutaca flies to ( as of September 2006 ) : </p>
+
+#	NEW	frequent_flyer	........ / directly from	// In August 1971 the airline purchased six Trident 2E ' s directly from Hawker Siddeley .
+
+#	NEW	frequent_flyer	........ / domestic market .	// LAN Per&#x00fa ; is the dominant airline in Peru , controlling 73 . 4% of the domestic market . </p>
+
+#	NEW	frequent_flyer	........ / licence was	// The <a> CAA </a> suspension of the airline ' s <a> ETOPS </a> licence was also featured . </p>
+
+#	NEW	frequent_flyer	........ / G-	// The airline also operated flights to Mal&#x00e9 ; , Maldives using their 767-300ER , G-POWD .
+
+#	NEW	frequent_flyer	........ / Palestinian Airlines	// <p> Palestinian Airlines is a member of the <a> Arab Air Carriers Organization </a> . </p>
+
+#	NEW	frequent_flyer	........ / codes used	// <p> The codes used by these airlines are : </p>
+
+#	NEW	frequent_flyer	........ / a local	// In February 2005 it was subsequently bought and relaunched by AGELCO Group , acronym for <em> Agrupaci&#x00f3 ; n de Empresarios Leoneses de la Construcci&#x00f3 ; n </em> , a local Leonese investor group .
+
+#	NEW	frequent_flyer	........ / have	// Atlantic Flight Training and Atlantic Reconnaissance ( now renamed <a> RVL Group </a> ) have also become independent businesses . </p>
+
+#	NEW	frequent_flyer	........ / Medell&# x00ed ;	// It operated largely domestic services , with its main base at <a> Olaya Herrera Airport </a> ( EOH ) , Medell&#x00ed ; n .
+
+#	NEW	frequent_flyer	........ / employees ( 49% ) .	// The airline is owned by Khabarovsk regional administration ( 51% ) and the airline employees ( 49% ) . </p>
+
+#	NEW	frequent_flyer	........ / Largusgruppen	// In April 2002 the airline rebranded as Direktflyg following the sale of the turboprop operation to the Largusgruppen company .
+
+#	NEW	frequent_flyer	........ / western Canada :	// <p> Prior to September 11 , the airline served the following 5 cities in western Canada : </p>
+
+#	NEW	frequent_flyer	........ / airline	// <p> At January 2005 the airline also operated : </p>
+
+#	NEW	frequent_flyer	........ / fleet included :	// <p> As of August 2006 the fleet included : </p>
+
+#	NEW	frequent_flyer	........ / became Open	// On 20 August 2003 it changed the form of ownership and became Open Joint Stock Company Odessa Airlines .
+
+#	NEW	frequent_flyer	........ / Tavrey Airlines	// <p> As of August 2006 the Tavrey Airlines fleet includes : </p>
+
+#	NEW	frequent_flyer	........ / taking	// <p> Fly Europa ceased operations after <a> European Aviation Air Charter </a> declared bankruptcy on 2 December 2008 , taking with it the aircraft Fly Europa had leased for their charter operations .
+
+#	NEW	frequent_flyer	........ / following airlines ;	// <p> Yemenia <a> codeshare </a> with the following airlines ; </p>
+
+#	NEW	frequent_flyer	........ / operates regional	// It was established and started operations in 2001 and operates regional services .
+
+#	NEW	frequent_flyer	........ / Gestair Airline	// <p> Gestair Airline Training : Training of future Airline Transport pilots ( ATPL license ) .
+

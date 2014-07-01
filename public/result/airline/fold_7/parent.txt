@@ -1,0 +1,94 @@
+Found: 43
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	parent	........ / Air Mandalay	// <p> <strong> Air Mandalay </strong> ( ) is an <a> airline </a> based in <a> Yangon </a> , <a> Myanmar </a> .
+
+#	NEW	parent	........ / based aviation services	// It was acquired in March 2004 by <a> Darwin </a> based aviation services company Capiteq Limited , as part of a major new coalition of regional air services in Australia , RegionalLink Airlines .
+
+#	NEW	parent	........ / airline was	// <p> The airline was established and started operations in 1971 .
+
+#	NEW	parent	........ / operates domestic	// It operates domestic flights to around 30 destinations and international services to <a> Singapore </a> , <a> China </a> and <a> Malaysia </a> .
+
+#	NEW	parent	........ / cargo airline	// <p> <strong> Astral Aviation </strong> is a <a> cargo airline </a> based in <a> Nairobi </a> , <a> Kenya </a> .
+
+#	NEW	parent	........ / two were	// The two were affiliated but separate companies . </p>
+
+#	NEW	parent	........ / airline was	// <p> The airline was founded and started operations in 1990 as <strong> Varna International Airways </strong> using a brand new <a> Tupolev Tu-154M </a> aircraft .
+
+#	NEW	parent	........ / It was	// <p> It was established in <a> 1994 </a> and started operations in July <a> 2000 </a> .
+
+#	NEW	parent	........ / airline changed its	// On 23 November 2006 the airline changed its name to <strong> XL Airways France </strong> .
+
+#	NEW	parent	........ / airline was	// <p> The airline was established and started charter operations in 1989 as <em> Air Baffin </em> .
+
+#	NEW	parent	........ / operates scheduled	// It operates scheduled domestic and international tourist services , mainly feeder services linking Manila and <a> Cebu </a> with 24 domestic destinations in support of the trunk route operations of other airlines .
+
+#	NEW	parent	........ / WDL Aviation fleet	// <p> As of November 2010 the WDL Aviation fleet includes : </p>
+
+#	NEW	parent	........ / IL- 18	// An <a> IL-18 </a> started operations in 2003 and ExpoAir launched Cabin Crew training in 2004 .
+
+#	NEW	parent	........ / Australian air	// <p> <strong> Australian air Express </strong> is a <a> logistics </a> company based in <a> Melbourne </a> , <a> Australia </a> .
+
+#	NEW	parent	........ / Arkia Israel Airlines	// It filed for <a> bankruptcy </a> in October 2006 , before finding funding through a group of investors , including <a> Arkia Israel Airlines </a> .
+
+#	NEW	parent	........ / Tyrol Air	// <p> In winter it also operates for its subsidiary , the <a> Tyrol Air Ambulance </a> to transport injured skiers . </p>
+
+#	NEW	parent	........ / Rossair Europe	// <p> <strong> Rossair Europe </strong> is an <a> airline </a> based in the <a> Netherlands </a> . </p>
+
+#	NEW	parent	........ / Air Armenia	// <p> <strong> Air Armenia </strong> is an <a> airline </a> based in <a> Yerevan </a> , <a> Armenia </a> .
+
+#	NEW	parent	........ / as National Jet Express will	// The company ' s legal identity as National Jet Express will still remain however the company would trade and operate its aircraft under the name Cobham . </p>
+
+#	NEW	parent	........ / airline was	// <p> The airline was established in 1992 and started operations in 1997 .
+
+#	NEW	parent	........ / still exists	// <p> The company still exists , although it does not own an airline , but rather operates as an air ticket sales agent .
+
+#	NEW	parent	........ / aircraft was	// The aircraft was carrying 39 passengers and crew , 16 of whom died .
+
+#	NEW	parent	........ / has been	// The company has been operating these two aircraft since then , under the trading name of Zambian Airways .
+
+#	NEW	parent	........ / Nationwide Airlines	// <p> <strong> Nationwide Airlines ( Zambia ) Limited </strong> is a scheduled , domestic , passenger <a> airline </a> based in <a> Zambia </a> .
+
+#	NEW	parent	........ / Easy Link Aviation	// <p> <strong> Easy Link Aviation </strong> Services was an <a> airline </a> based in <a> Nigeria </a> . </p>
+
+#	NEW	parent	........ / Orion Air	// <p> <strong> Orion Air </strong> was an <a> airline </a> based in the <a> Seychelles </a> . </p>
+
+#	NEW	parent	........ / Phoenix Aviation	// <p> <strong> Phoenix Aviation </strong> was an <a> airline </a> based in <a> Sharjah </a> , <a> United Arab Emirates </a> .
+
+#	NEW	parent	........ / aircraft ( as of	// The Celestair fleet consists of the following aircraft ( as of March 2009 ) : </p>
+
+#	NEW	parent	........ / was established	// It was established in 1984 and operated charter services for South Africa ' s leading tour and conference operators , as well as sports unions .
+
+#	NEW	parent	........ / future service	// <p> Market appearance identical with the SunExpress parent company The market appearance and product of the German subsidiary will conform with that of the Turkish parent company , future service and product improvements will be planned and implemented identically for both airline companies .
+
+#	NEW	parent	........ / operates scheduled	// It operates scheduled domestic services and international services to <a> Italy </a> and <a> France </a> .
+
+#	NEW	parent	........ / airline was	// <p> The airline was established on 24 December 1992 and started operations on 1 June 1993 .
+
+#	NEW	parent	........ / Toll Aviation	// <p> <strong> Toll Aviation </strong> is an <a> airline </a> based in <a> Brisbane </a> , <a> Australia </a> .
+
+#	NEW	parent	........ / Air Corridor	// <p> <strong> Air Corridor </strong> was an <a> airline </a> based in <a> Nampula </a> , <a> Mozambique </a> .
+
+#	NEW	parent	........ / Bakhtar Afghan Airlines	// <p> <strong> Bakhtar Afghan Airlines </strong> was an <a> airline </a> based in <a> Afghanistan </a> .
+
+#	NEW	parent	........ / are also	// Services are also available for other aircraft users and operators .
+
+#	NEW	parent	........ / Aero Benin	// <p> <strong> Aero Benin </strong> is an <a> airline </a> based in <a> Benin </a> . </p>
+
+#	NEW	parent	........ / Premium Air	// <p> <strong> Premium Air Shuttle </strong> was an <a> airline </a> based in <a> Nigeria </a> . </p>
+
+#	NEW	parent	........ / was established	// It was established in 2000 and operates charter flights to <a> Africa </a> , <a> Europe </a> and the <a> Middle East </a> .
+
+#	NEW	parent	........ / operated domestic	// It operated domestic and international services from Jakarta and was established in 2000 .
+
+#	NEW	parent	........ / was established	// It was established in 2000 and started operations in November 2000 .
+
+#	NEW	parent	........ / KAS Air Company	// <p> <strong> KAS Air Company </strong> was an <a> airline </a> based in <a> Kyrgyzstan </a> . </p>
+
+#	NEW	parent	........ / new coalition of	// <p> Airnorth is part of a new coalition of regional air services in Australia , RegionalLink Airlines , put together by Darwin-based aviation services company Capiteq Limited .
+

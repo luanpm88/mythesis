@@ -1,0 +1,53 @@
+Found: 18
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 4
+recall: 0.0
+
+
+
+#	NEW	destinations	........ / 2009 ) :	// ( 2005 ) ] ] Blue Wings operated the following international scheduled destinations ( at November 2009 ) : </p>
+
+#	NEW	destinations	........ / 23	// Commuter services began operations on 23 April 1991 .
+
+#	NEW	destinations	........ / 1996	// In May 1996 , Alpi Eagles started scheduled passenger services from <a> Venice </a> .
+
+#	NEW	destinations	........ / 40	// <p> Based on the northern side of Male&#x2019 ; International Airport , Maldivian Air Taxi currently has a fleet of 24 Twin Otters , servicing 40 of the 90 resorts in the Maldives .
+
+#	NEW	destinations	........ / 2	// <p> In 2009 , EuroAtlantic Airways signed a deal to operate 2 <a> Boeing 777-200ER </a> on behalf of <a> Biman Bangladesh Airlines </a> .
+
+#	NEW	destinations	........ / 11	// <p> Notably , until 2009 Continental Airlines still used Flight 11 , on the Paris-Houston route ; flight numbers in the USA involved in fatal accidents are more commonly retired .
+
+#	NEW	destinations	........ / 2004	// The airline was founded in 2002 and ceased its operations in 2004 when it was merged into <a> SN Brussels Airlines </a> . </p>
+
+#	NEW	destinations	........ / 9	// <p> The airline operates a fleet of <a> DC-9 </a> s . </p>
+
+#	NEW	destinations	........ / 1991	// It was established and started operations in 1991 and operates scheduled passenger transport , charter and air taxi services .
+
+#	NEW	destinations	........ / 2007 :	// <p> The Aero Services Executive fleet as of September 2007 : </p>
+
+#	NEW	destinations	........ / 13	// <p> The Stuttgarter Flugdienst fleet consists of the following aircraft types , which provide space for 5-13 passengers : </p>
+
+#	NEW	destinations	........ / 1	// <p> <strong> Metropolis </strong> ( Metropolis Noord 1 BV ) is an <a> airline </a> based in the <a> Netherlands </a> . </p>
+
+#	NEW	destinations	........ / 1994	// In 1993 it started flying to European holiday destinations for tour operators and added international scheduled services in 1994 , to <a> Florence </a> .
+
+#	NEW	destinations	........ / 2008 ) :	// <p> Sibaviatrans operated services to the following domestic scheduled destinations ( at September 2008 ) : </p>
+
+#	NEW	destinations	........ / 2005 ) :	// <p> Airstars Airways operates freight services to the following international scheduled destinations ( at January 2005 ) : <a> Shijiazhuang </a> and <a> Tianjin </a> . </p>
+
+#	NEW	destinations	........ / 1997 .	// <p> <a> Komiinteravia </a> was established in March 1996 and started operations in July 1997 .
+
+#	NEW	destinations	........ / 2007 .	// SpiceJet was voted as the best low-cost airline in <a> South Asia </a> and <a> Central Asia </a> region by <a> Skytrax </a> in 2007 . </p>
+
+#	NEW	destinations	........ / 737	// <p> Some of the staff and assets were taken over and <a> L&#x00ed ; neas A&#x00e9 ; reas Azteca </a> was established on 9 May 2000 and started operations on 1 June 2001 operating domestic services with <a> Boeing 737 </a> aircraft . </p>
+
+#	null	destinations	2 / ..........
+
+#	null	destinations	- / ..........
+
+#	null	destinations	2 / ..........
+
+#	null	destinations	chartered / ..........
+

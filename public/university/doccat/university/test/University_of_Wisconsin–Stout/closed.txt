@@ -1,3 +1,0 @@
-<li>School Psychology</li>
-<li>School Counseling</li>
-<li>School Psychology</li>

@@ -1,0 +1,133 @@
+Total articles: 1145
+Articles for test: 1031
+Articles for train: 114
+Total attributes: 317
+Attributes with high occurrences: 25/317
+
+------------
+Found: 1845
+Found Not Null: 116
+Correct: 19
+Wrong: 97
+Total: 131
+precision: 0.16379310344827586
+recall: 0.1450381679389313
+
+
+
+0	FALSE	Northwestern College (Iowa):: type	private / <strong>	// It is also known as <strong> Northwestern IA </strong> .
+19	FALSE	Northwestern College (Iowa):: established	1882 / It	// It is also known as <strong> Northwestern IA </strong> .
+35	FALSE	Swarthmore College:: established	1864 / 500	// <p> <strong> Swarthmore College </strong> is a <a> private </a> , <a> independent </a> , <a> liberal arts college </a> in the United States with an enrollment of about 1 , 500 students .
+44	TRUE	National Autonomous University of Mexico:: city	mexico city / Mexico	// <p> The <strong> National Autonomous University of Mexico </strong> ( ) ( <strong> UNAM </strong> ) is a <a> public university </a> based primarily in <a> Mexico City </a> and is generally considered to have the largest enrollment among universities in the Americas .
+79	FALSE	University of Notre Dame:: established	1842 / Notre	// <p> The <strong> University of Notre Dame du Lac </strong> ( or simply <strong> Notre Dame </strong> , &lt; ! --don't change this to French .
+86	FALSE	University of Notre Dame:: postgrad	3,362 / ,	// Three teams have won multiple national championships with the fencing team leading them with seven , followed by the men's <a> tennis </a> and women's <a> soccer </a> teams each with two .
+99	FALSE	Clemson University:: established	1889 / 1964	// In 1964 , the college was renamed <strong> Clemson University </strong> as the state legislature formally recognized the school's expanded academic offerings and research pursuits . </p>
+155	FALSE	Gordon–Conwell Theological Seminary:: established	1969 / <strong>	// <p> <strong> Gordon&#x2013;Conwell Theological Seminary </strong> ( <strong> GCTS </strong> ) is an <a> evangelical </a> theological <a> seminary </a> based in <a> South Hamilton , Massachusetts </a> . </p>
+176	FALSE	Monash University:: established	1958 / p>	// <p> <strong> Other colleges </strong> </p>
+180	FALSE	Monash University:: country	australia / at	// Menzies]] Building at the Clayton Campus]] <strong> Monash University </strong> ( or <strong> Monash </strong> ) , is a <a> public university </a> based in <a> Melbourne </a> , <a> Victoria </a> .
+193	FALSE	Monash University:: postgrad	16,000 / Monash'	// <p> Monash's sporting teams compete in a range of local and national competitions .
+234	FALSE	Brunel University:: established	1966 / 2010	// <p> <strong> The Times Good University Guide 2010 </strong> places Brunel 47th overall . </p>
+236	FALSE	Brunel University:: city	uxbridge / Times	// <p> <strong> The Times Good University Guide 2010 </strong> places Brunel 47th overall . </p>
+254	FALSE	University of York:: established	1963 / p>	// <p> </p>
+312	FALSE	King's College London:: established	1829 / They	// They are : </p>
+342	FALSE	Université du Québec:: established	1968 / a>.	// <p> The <strong> Universit&#x00e9; du Qu&#x00e9;bec </strong> is a system of ten provincially-run public <a> universities </a> in <a> Quebec </a> , <a> Canada </a> .
+407	FALSE	Tel Aviv University:: established	1956 / <strong>	// <p> <strong> Tel Aviv University </strong> ( <strong> TAU </strong> ) ( <em> Universitat Tel Aviv </em> ) is a public <a> university </a> located in <a> Ramat Aviv </a> , <a> Israel </a> .
+424	FALSE	Western Michigan University:: established	1903 / <strong>	// <p> <strong> Vision . </strong>
+443	FALSE	Eastern Michigan University:: established	1849 / 1959.	// With the additions of departments , it became <strong> Eastern Michigan College </strong> in 1956 , and finally <strong> Eastern Michigan University </strong> in 1959 .
+461	FALSE	Eastern Michigan University:: nickname	eagles / Michigan	// <p> [[Image : Eastern michigan University indoor practice field with polyester roof . JPG|thumb|150px|Indoor practice field with air-supported [[polyester]] <a> roof </a> ]] Eastern Michigan athletic teams have been successful on a national level , winning three <a> NCAA </a> Division II national championships and 13 <a> NAIA </a> Division I national championships in five different sports ( baseball , men's cross country , men's swimming and diving , men's indoor track and field , and men's outdoor track and field ) . </p>
+471	TRUE	London Metropolitan University:: nickname	london met / Tennis	// London Metropolitan University also offers some scholarships in sports , such as <a> Hockey </a> , <a> Tennis </a> and <a> Basketball </a> . </p>
+485	FALSE	Universiti Tenaga Nasional:: established	1976 / <strong>	// <p> <strong> Universiti Tenaga Nasional </strong> ( Abbreviation : <strong> UNITEN </strong> , English : Tenaga Nasional <a> University </a> ) is a <a> private research </a> <a> university </a> located in Kajang , Selangor .
+488	FALSE	Universiti Tenaga Nasional:: city	putrajaya / Universiti	// <p> <strong> Universiti Tenaga Nasional </strong> ( Abbreviation : <strong> UNITEN </strong> , English : Tenaga Nasional <a> University </a> ) is a <a> private research </a> <a> university </a> located in Kajang , Selangor .
+494	TRUE	Universiti Tenaga Nasional:: nickname	uniten / takraw	// <p> UNITEN has a range of recreational and sporting facilities that include an <a> Olympic-size swimming pool </a> , <a> track and field </a> event facilities , fields for <a> soccer </a> , <a> hockey </a> and <a> rugby </a> as well as courts for <a> tennis </a> , <a> badminton </a> and <a> sepak takraw </a> .
+502	FALSE	University of Kansas:: established	1865 / p>	// <p> </p>
+505	FALSE	Manhattan Christian College:: established	1927 / USA.	// <p> <strong> Manhattan Christian College </strong> ( MCC ) is an institution of higher learning located in <a> Manhattan , Kansas </a> , USA .
+512	TRUE	Manhattan Christian College:: postgrad	0 / ,	// <p> The college offers many sports programs including men's and women's soccer , men's and women's basketball , women's volleyball , men's baseball , and men's and women's cross country which was recently added for the Fall 2010 season .
+513	FALSE	Manhattan Christian College:: nickname	mcc / Conference	// The program competes in the <a> National Christian College Athletic Association </a> Division II and is a member of the <a> Midwest Christian College Conference </a> . </p>
+523	FALSE	Walla Walla University:: established	1892 / 2007	// <p> <strong> Walla Walla University </strong> , known as <strong> Walla Walla College </strong> prior to September 2007 , is a college offering <a> liberal arts </a> , professional , and technical programs .
+564	FALSE	California Institute of the Arts:: established	1961 / a>.	// <p> The <strong> California Institute of the Arts </strong> , commonly referred to as <strong> CalArts </strong> , is located in <a> Valencia </a> , in <a> Los Angeles County , California </a> .
+575	FALSE	California Institute of the Arts:: president	steven d. lavine / place on May	// <p> The ground-breaking for CalArts' current campus took place on May 3 , 1969 .
+581	FALSE	California Institute of the Arts:: nickname	calarts / Alumni	// <p> In 1965 , the Alumni Association was founded as a non-profit organization and was governed by a twelve member Board of Directors to serve the best interests of the Institute and its programs .
+582	FALSE	Illinois State University:: established	1857 / <strong>	// <p> <strong> Hewett </strong> and <strong> Manchester Hall </strong> are located in East Campus .
+601	FALSE	University of Copenhagen:: established	1479 / strong> ( )	// <p> The <strong> University of Copenhagen </strong> ( ) is the oldest and largest <a> university </a> and research institution in <a> Denmark </a> .
+619	FALSE	Babson College:: established	september 3, 1919 / p>	// <p> <strong> Babson College </strong> is a private <a> business school </a> located in <a> Wellesley , Massachusetts </a> . </p>
+626	FALSE	Babson College:: undergrad	1,851 / , 1, 851	// <p> In 2008 , there were a total of 3 , 439 students attending Babson , 1 , 851 of whom were <a> undergraduate </a> s .
+629	FALSE	Babson College:: nickname	beavers / which	// Babson has twenty-two <a> varsity sports </a> teams , the majority of which compete in the New England Women's and Men's Athletic Conference ( NEWMAC ) as <a> NCAA Division III </a> .
+636	FALSE	Babson College:: students	3,439 / 1950.	// Programs are accredited by <a> Association to Advance Collegiate Schools of Business </a> ( AACSB ) and the college itself has been regionally accredited by the <a> New England Association of Schools and Colleges </a> ( NEASC ) since 1950 . </p>
+639	FALSE	Monmouth College:: established	april 18, 1853 / <strong>	// <p> <strong> Fraternities </strong> </p>
+653	FALSE	Indian Institute of Technology Bombay:: established	1958 / central	// <p> The <strong> Indian Institute of Technology Bombay </strong> ( ) ( ) , popularly known as <em> IIT Bombay </em> or <em> IITB </em> , is an autonomous university located in <a> Powai </a> , in north central <a> Mumbai </a> .
+670	TRUE	Indian Institute of Technology Bombay:: free	iitb / ,	// <p> The <strong> Indian Institute of Technology Bombay </strong> ( ) ( ) , popularly known as <em> IIT Bombay </em> or <em> IITB </em> , is an autonomous university located in <a> Powai </a> , in north central <a> Mumbai </a> .
+741	FALSE	Humboldt State University:: established	june 16, 1913 / p>	// <p> </p>
+744	FALSE	University of East Anglia:: established	1963 / a>.	// <p> The <strong> University of East Anglia </strong> ( <strong> UEA </strong> ) is a <a> public </a> <a> research university </a> in <a> Norwich </a> , <a> England </a> .
+762	FALSE	Technical University of Nova Scotia:: established	1907 / It	// It was formerly the <strong> Nova Scotia Technical College </strong> and is today the <strong> Sexton Campus </strong> of Dalhousie University . </p>
+779	FALSE	Lee College:: established	1934 / p>	// <p> <strong> Lee College </strong> is a comprehensive <a> community college </a> located in <a> Baytown , Texas </a> , approximately east of Houston , Texas . </p>
+791	FALSE	Lee College:: free_label	sports / Tennis teams.	// <p> Lee College is home to the Running Rebels Men's Basketball , Women's Volleyball , and Men's &amp; Women's Tennis teams .
+798	FALSE	Gallaudet University:: established	1864 / a>.	// <p> <strong> Gallaudet University </strong> is a federally-chartered university for the education of the <a> deaf </a> and <a> hard of hearing </a> , located in the <a> District of Columbia </a> .
+814	FALSE	Gallaudet University:: mascot	bison / Conference	// <p> Gallaudet is a member of <a> NCAA Division III </a> and the <a> North Eastern Athletic Conference </a> .
+816	FALSE	Greensboro College:: established	1838 / North	// <p> <strong> Greensboro College </strong> is a four year , independent , <a> coeducational </a> institution located in <a> Greensboro , North Carolina </a> and affiliated with the <a> United Methodist Church </a> .
+836	FALSE	Radford University:: established	1910 / s	// <p> <strong> Radford University </strong> is one of Virginia's eight doctoral-degree granting public <a> universities </a> .
+844	FALSE	Radford University:: nickname	highlanders / men'	// <p> The Radford men's <a> Rugby </a> club team won the Division 2 National Championship in 2003 and 2008 .
+851	TRUE	Radford University:: mascot	highlander / region'	// <p> The university's teams remain known as the Highlanders ( in honor of the region's <a> Scots-Irish </a> heritage ) and compete in the <a> Big South Conference </a> .
+867	FALSE	Kenyon College:: established	1824 / p>	// <p> </p>
+870	FALSE	West Virginia University:: established	1867 / a>.	// <p> <strong> West Virginia University </strong> ( <strong> WVU </strong> ) is a <a> public </a> <a> research university </a> in <a> Morgantown </a> , <a> West Virginia </a> , <a> USA </a> .
+884	FALSE	West Virginia University:: president	james p. clements / Thomas Hodges'	// President William Taft </a> to campus for WVU President Thomas Hodges's inauguration in 1911 .
+885	TRUE	West Virginia University:: mascot	the mountaineer / school'	// <p> The school's sports teams are called the Mountaineers and compete in the <a> Big East Conference </a> , a member of the <a> NCAA </a> 's Division I .
+888	FALSE	Armed Forces Medical College, Pune:: established	1948 / which	// <p> The <strong> Armed Forces Medical College </strong> ( AFMC ) is a premier medical college in <a> India </a> , which trains high quality doctors .
+906	FALSE	Dawson College:: established	1969 / a>.	// <p> <strong> Dawson College </strong> ( ) was the first English <a> CEGEP </a> and is located in <a> Westmount </a> , just west of downtown <a> Montreal </a> , <a> Quebec </a> , <a> Canada </a> .
+913	FALSE	Dawson College:: undergrad	available / 50	// It is the largest CEGEP in Quebec , with a student population of about 10 , 000 day students and 3 , 000 night students enrolled in more than 50 fields of study . </p>
+927	FALSE	Pomona College:: established	october 14, 1887 / a>.	// <p> <strong> Pomona College </strong> is a <a> private </a> , <a> residential </a> , <a> liberal arts college </a> located in <a> Claremont , California </a> .
+941	FALSE	Pomona College:: postgrad	0 / ,	// <p> Over the years , a rivalry has formed between the opposing sports teams : Pomona-Pitzer ( P-P ) and Claremont-Mudd-Scripps ( CMS ) .
+945	FALSE	Missouri State University:: established	march 17, 1905 / 1905.	// <p> <strong> Missouri State University </strong> ( <strong> MSU </strong> or <strong> Mo State </strong> formerly <strong> Southwest Missouri State University </strong> ) is a <a> public university </a> located in <a> Springfield </a> , Missouri and founded in 1905 .
+983	FALSE	Northwestern State University:: established	1884 / p>	// <p> <strong> </strong> </p>
+985	FALSE	Northwestern State University:: city	natchitoches / <strong>	// <p> <strong> </strong> </p>
+998	FALSE	Fisk University:: established	1866 / p>	// <p> </p>
+1018	FALSE	Belhaven University:: established	1883 / quot;	// <p> <strong> Belhaven University </strong> ( &quot;Belhaven&quot; or &quot;BU&quot; ) is a private Christian <a> liberal arts </a> <a> university </a> located in <a> Jackson , Mississippi </a> .
+1019	TRUE	Belhaven University:: type	private / private	// <p> <strong> Belhaven University </strong> ( &quot;Belhaven&quot; or &quot;BU&quot; ) is a private Christian <a> liberal arts </a> <a> university </a> located in <a> Jackson , Mississippi </a> .
+1035	TRUE	Belhaven University:: president	roger parrott / effective on January	// In December , 2009 , President Roger Parrott announced that the Board of Trustees had voted unanimously to change the name from &quot;Belhaven College&quot; to the current name of &quot;Belhaven University&quot; , effective on January 1 , 2010 .
+1037	FALSE	Belhaven University:: mascot	blazers / University'	// <p> Belhaven University's athletic teams compete in the <a> NAIA </a> 's <a> Mid-South Conference </a> for <a> Football </a> and the <a> NAIA </a> 's <a> Gulf Coast Athletic Conference </a> for all other sports .
+1039	FALSE	University of the Philippines:: established	june 18, 1908 / 10	// Examples of these courses include <strong> NASC 10 </strong> ( <em> Forests as Source of Life </em> ) in Los Ba&#x00f1;os , <strong> Geography 1 </strong> ( <em> Places and Landscapes in a Changing World </em> ) in Diliman , and <strong> History 3 </strong> ( <em> History of Philippine Ethnic Minorities </em> ) in Baguio . </p>
+1056	FALSE	La Trobe University:: established	1967 / Australia.	// <p> <strong> La Trobe University </strong> is a multi-campus university in <a> Victoria </a> , Australia .
+1069	FALSE	La Trobe University:: free_label	named after / also	// <p> Bundoora also has substantial sporting and recreation facilities such as an indoor pool , gyms , playing fields , and indoor stadiums .
+1073	FALSE	La Trobe University:: website	http://www.latrobe.edu.au/ / http : //www.	// [ <a> http : //www . tasa . org . au/conference/2004/healthday . php </a> ] </p>
+1075	FALSE	Art Center College of Design:: established	1930 / 60	// <p> <strong> Art Center College of Design </strong> ( aka <strong> &quot;Art Center&quot; </strong> ) is a <a> private college </a> located in <a> Pasadena , California </a> , and was cited by <em> <a> BusinessWeek </a> </em> as one of the 60 best design schools in the world .
+1076	TRUE	Art Center College of Design:: type	private / College	// <p> <strong> Art Center College of Design </strong> ( aka <strong> &quot;Art Center&quot; </strong> ) is a <a> private college </a> located in <a> Pasadena , California </a> , and was cited by <em> <a> BusinessWeek </a> </em> as one of the 60 best design schools in the world .
+1078	FALSE	Art Center College of Design:: country	united states / Center	// <p> <strong> Art Center College of Design </strong> ( aka <strong> &quot;Art Center&quot; </strong> ) is a <a> private college </a> located in <a> Pasadena , California </a> , and was cited by <em> <a> BusinessWeek </a> </em> as one of the 60 best design schools in the world .
+1122	FALSE	University of Queensland:: established	10 december 1909 / a>.	// <p> <strong> The University of Queensland </strong> , also known as <strong> UQ </strong> , is a <a> public university </a> located in <a> Brisbane </a> , <a> Australia </a> .
+1126	TRUE	University of Queensland:: country	australia / Australia	// <p> <strong> The University of Queensland </strong> , also known as <strong> UQ </strong> , is a <a> public university </a> located in <a> Brisbane </a> , <a> Australia </a> .
+1139	TRUE	Morehead State University:: established	1887 / 1887	// The school was founded in 1887 as <strong> Morehead Normal School </strong> , a church-supported teacher-training school .
+1150	FALSE	Morehead State University:: free	eagles / 1887	// The school was founded in 1887 as <strong> Morehead Normal School </strong> , a church-supported teacher-training school .
+1178	FALSE	Rensselaer Polytechnic Institute:: established	1824 / a>.	// <p> <strong> Rensselaer Polytechnic Institute </strong> , or <strong> RPI </strong> , is a <a> private </a> <a> research </a> <a> university </a> located in <a> Troy </a> , <a> New York </a> , <a> United States </a> .
+1215	FALSE	Tulane University:: established	1834 / p>	// <p> </p>
+1231	TRUE	Mount Allison University:: city	sackville / Mount	// <p> <strong> Mount Allison University </strong> ( also <strong> Mount A </strong> or <strong> MTA </strong> ) is a primarily undergraduate <a> Canadian </a> liberal arts and science university situated in <a> Sackville , New Brunswick </a> .
+1238	FALSE	Linköping University:: country	sweden / US	// The health sciences campus ( <em> Campus US </em> ) is located in connection with <a> Link&#x00f6;ping University Hospital </a> ( US stands here for <strong> U </strong> niversitets <strong> s </strong> jukhuset ) .
+1271	FALSE	Osmania University:: established	1918 / M.	// The M . P . Ed .
+1283	FALSE	University of North Carolina at Asheville:: established	1927 / also	// The university is also known as <strong> UNC Asheville </strong> and <strong> UNCA </strong> .
+1292	FALSE	University of North Carolina at Asheville:: nickname	bulldogs / NCAA'	// They are a member of the <a> NCAA's </a> Division I and compete in the <a> Big South Conference </a> .
+1303	FALSE	University of Tokyo:: established	1877 / <strong>	// <p> <strong> Bold text </strong> </p>
+1363	FALSE	The University of Western Ontario:: established	1878 / a>.	// <p> <strong> The University of Western Ontario </strong> ( known as <strong> Western </strong> or <strong> UWO </strong> ) is a public research <a> university </a> located in <a> London , Ontario </a> .
+1382	FALSE	Stetson University:: established	1883 / university	// <p> <strong> Stetson University </strong> is an independent , co-educational university with four colleges and schools located across the <a> I-4 </a> corridor in <a> Central Florida </a> .
+1383	FALSE	Stetson University:: type	private / <strong>	// <p> <strong> Stetson University </strong> is an independent , co-educational university with four colleges and schools located across the <a> I-4 </a> corridor in <a> Central Florida </a> .
+1388	FALSE	Stetson University:: faculty	200 / 4	// <p> <strong> Stetson University </strong> is an independent , co-educational university with four colleges and schools located across the <a> I-4 </a> corridor in <a> Central Florida </a> .
+1434	FALSE	Macalester College:: established	1874 / a>.	// <p> <strong> Macalester College </strong> is a private , <a> coeducational </a> <a> liberal arts college </a> located in <a> Saint Paul , Minnesota </a> .
+1443	FALSE	Macalester College:: nickname	mac / men'	// The 2010 men's team won the MIAC regular-season championship and both the men and women's teams received at-large bids for the 2010 NCAA Division III tournament .
+1463	FALSE	Haverford College:: free_label	athletics / men'	// <p> The men's and women's <a> track and field </a> and <a> cross country </a> teams are perennial powerhouses in their division .
+1472	TRUE	Colby College:: established	1813 / 1813.	// <p> <strong> Colby College </strong> is an American <a> private </a> <a> liberal arts college </a> located on Mayflower Hill in <a> Waterville , Maine </a> founded in 1813 .
+1500	FALSE	Flinders University:: established	1966 / <a>	// <p> <strong> Flinders University </strong> , or <strong> The Flinders University of South Australia </strong> , is a <a> public university </a> in <a> Adelaide </a> , <a> South Australia </a> .
+1504	TRUE	Flinders University:: country	australia / Australia	// <p> <strong> Flinders University </strong> , or <strong> The Flinders University of South Australia </strong> , is a <a> public university </a> in <a> Adelaide </a> , <a> South Australia </a> .
+1520	FALSE	Virginia Commonwealth University:: established	1838 / 2010-	// <p> <strong> 2010-2012 </strong> </p>
+1524	FALSE	Virginia Commonwealth University:: country	united states / 2010-	// <p> <strong> 2010-2012 </strong> </p>
+1563	FALSE	Hampshire College:: established	1965 / a>.	// <p> <strong> Hampshire College </strong> is a private <a> liberal arts college </a> located in <a> Amherst </a> , <a> Massachusetts </a> .
+1578	FALSE	Bard College at Simon's Rock:: established	1964 / USA.	// <p> <strong> Bard College at Simon's Rock </strong> , more commonly known as <strong> Simon's Rock </strong> ( see <a> below </a> ) , is a <a> residential </a> four-year <a> liberal arts college </a> located in <a> Great Barrington , Massachusetts </a> , USA .
+1613	FALSE	Northwestern University:: established	1851 / a>.	// <p> <strong> Northwestern University </strong> ( <strong> NU </strong> ) is a <a> private </a> university located primarily in <a> Evanston , Illinois </a> .
+1637	TRUE	Yuelu Academy:: nickname	yuelu academy of classical learning / River	// <p> The <strong> Yuelu Academy </strong> ( also as known as the &quot; <strong> Yuelu Academy of Classical Learning </strong> &quot; , ) is located on the east side of <a> Yuelu Mountain </a> in <a> Changsha </a> , the <a> capital </a> of <a> Hunan </a> <a> province </a> , <a> China </a> , on the west bank of the <a> Xiang River </a> . </p>
+1651	FALSE	Royal College of Music:: established	1882 / a>.	// <p> The <strong> Royal College of Music </strong> is a <a> conservatoire </a> located in <a> South Kensington </a> , <a> London </a> , <a> England </a> .
+1679	FALSE	The College of William & Mary:: free_label	newspaper / men	// The College fields <a> NCAA </a> <a> Division I </a> teams for men and women in basketball , cross country , golf , gymnastics , soccer , swimming and diving , tennis , and indoor and outdoor track and field .
+1697	FALSE	Wellesley College:: nickname	blue / students	// Wellesley students have a number of traditions and also participate in 13 varsity sports in the <a> NCAA </a> <a> Division III </a> 's <a> New England Women's and Men's Athletic Conference </a> . </p>
+1705	TRUE	Wellesley College:: president	h. kim bottomly / H. Kim Bottomly.	// <p> The current president of Wellesley College is H . Kim Bottomly .
+1713	TRUE	DePauw University:: nickname	tigers / Tigers	// <p> The DePauw Tigers compete in the <a> NCAA </a> <a> Division III </a> <a> Southern Collegiate Athletic Conference </a> ( SCAC ) .
+1723	FALSE	St. Thomas University (New Brunswick):: established	1910 / St.	// <p> <strong> St .
+1728	FALSE	St. Thomas University (New Brunswick):: undergrad	available / 12	// From less than 500 students , 22 faculty and 3 buildings at that time , St . Thomas has grown to nearly 3000 students , 121 full-time faculty and 12 buildings . </p>
+1777	FALSE	University of North Texas:: established	1890 / p>	// <p> </p>
+1796	FALSE	The College of New Jersey:: established	1855 / p>	// <p> : <em> For dates before 1896 , see <a> Princeton University </a> </em> <strong> The College of New Jersey </strong> , abbreviated <strong> TCNJ </strong> , formerly <strong> Trenton State College </strong> , is a <a> public </a> , <a> coeducational </a> <a> university </a> located in <a> Ewing Township , New Jersey </a> , a suburb of <a> Trenton </a> . </p>
+1798	FALSE	University of Göttingen:: established	1734 / p>	// <p> </p>
+1801	TRUE	Curry College:: established	1879 / 1879.	// <p> <strong> Curry College </strong> is a private <a> liberal arts </a> -based institution in <a> Milton </a> , <a> Massachusetts </a> that started as the School of Elocution in 1879 . </p>
+1808	FALSE	Curry College:: postgrad	380 / commuter	// There is also a <a> commuter </a> club .

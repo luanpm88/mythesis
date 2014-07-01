@@ -1,0 +1,59 @@
+Found: 24
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 1
+recall: 0.0
+
+
+
+#	NEW	birth_date	........ / April 17 , 1996 )	// She has three daughters with Connick : Georgia Tatom ( born April 17 , 1996 ) , Sarah Kate ( September 12 , 1997 ) , and Charlotte ( born June 26 , 2002 ) The family currently resides in Connecticut . </p>
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Linus William Roache </strong> ( born 1 February 1964 ) is an <a> English </a> <a> actor </a> . </p>
+
+#	NEW	birth_date	........ / George	// <a> George Burns </a> , in his memoir <em> All My Best Friends </em> , claimed that Warner Bros . created a miracle producing the movie in that &quot ; it made Eddie Cantor ' s life boring&quot ; . </p>
+
+#	NEW	birth_date	........ / She	// <p> She married actor <a> John Stamos </a> on September 19 , 1998 .
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Laura Ruth Sadler </strong> ( 25 December 1980 &ndash ; 19 June 2003 ) was an English <a> actress </a> best known for her role as nurse <a> Sandy Harper </a> in the <a> BBC One </a> <a> hospital </a> <a> drama </a> series <em> <a> Holby City </a> </em> . </p>
+
+#	NEW	birth_date	........ / a> , Fall 2006 ) .	// He worked on the US television series <em> <a> Smith </a> </em> ( <a> CBS </a> , Fall 2006 ) .
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Keith Coogan </strong> ( born January 13 , 1970 ) is an <a> American </a> actor .
+
+#	NEW	birth_date	........ / em>	// She achieved prominence for her <a> Oscar </a> and <a> Golden Globe </a> -nominated role in <em> <a> The Color of Money </a> </em> opposite <a> Paul Newman </a> and <a> Tom Cruise </a> .
+
+#	NEW	birth_date	........ / When	// <p> When Richard Hunt joined the Muppets in the early 1970s , he was quite young , so Nelson acted as a mentor to him .
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Aristotelis &quot ; Telly&quot ; Savalas </strong> ( ; January 21 , 1922 <img> January 22 , 1994 ) was an American <a> film </a> and <a> television </a> actor and singer , whose career spanned four decades . </p>
+
+#	NEW	birth_date	........ / In	// <p> In between appearing in regular film and TV roles , Sessions has made appearances on <em> <a> Have I Got News for You </a> </em> and , more recently , as a semi-regular panellist on <em> <a> QI </a> </em> .
+
+#	NEW	birth_date	........ / p>	// O ' Connell served as executive producer on the film , which starred <a> Katie Holmes </a> and <a> Michael Keaton </a> . </p>
+
+#	NEW	birth_date	........ / 1929 to 1948	// From 1929 to 1948 he composed the music for more than twenty movies .
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Krisse Salminen </strong> ( born <strong> Heidi Kristiina Salminen </strong> May 28 , 1976 in <a> Hollola </a> , <a> Finland </a> ) is a <a> Finnish </a> stand-up comedian and television talkshow hostess .
+
+#	NEW	birth_date	........ / ( 1984 )	// His best-known film acting roles are as <a> Egon Spengler </a> in <em> <a> Ghostbusters </a> </em> ( 1984 ) and Russell Ziskey in <em> <a> Stripes </a> </em> ( 1981 ) ; Ramis also co-wrote both films .
+
+#	NEW	birth_date	........ / His	// <p> His career also included more comedic films , such as <em> <a> Major League </a> </em> , the <em> <a> Hot Shots ! </a> </em> films , and <em> <a> Scary Movie 3 </a> </em> and <em> <a> 4 </a> </em> .
+
+#	NEW	birth_date	........ / em> , in 2002	// She portrayed &quot ; Mary Oakley&quot ; in <em> <a> The Trip </a> </em> , in 2002 , which to date is her most recent appearance in film or television . </p>
+
+#	NEW	birth_date	........ / is	// <p> is a <a> Japan </a> ese <a> film director </a> and <a> actor </a> with a considerable cult following both domestically and abroad .
+
+#	NEW	birth_date	........ / 2004	// In 2004 , Benicio del Toro was again nominated for a Best Supporting Actor Oscar , for his performance in the film <em> 21 Grams </em> . </p>
+
+#	NEW	birth_date	........ / For	// <p> For the latter film , which co-starred Gloria Swanson , Stroheim was nominated for the <a> Academy Award for Best Supporting Actor </a> .
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Jake Thomas </strong> ( born January 30 , 1990 ) is an American actor and singer known for his roles in the television show <em> <a> Lizzie McGuire </a> </em> , in which he plays Lizzie ' s younger brother , Matt McGuire .
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Michael Landon </strong> ( October 31 , 1936 &ndash ; July 1 , 1991 ) was an American actor , writer , <a> director </a> , and <a> producer </a> , who starred in three popular <a> NBC </a> <a> TV series </a> that spanned three decades .
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Alberto Olmedo </strong> ( August 24 , 1933 &#x2013 ; March 5 , 1988 ) was an <a> Argentine </a> comedian and actor . </p>
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Bob Flanagan </strong> ( December 26 , 1952 &ndash ; January 4 , 1996 ) was an <a> American </a> <a> performance art </a> ist , <a> comic </a> , writer , <a> poet </a> , and <a> musician </a> .
+
+#	null	birth_date	1970 / ..........
+

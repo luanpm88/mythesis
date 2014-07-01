@@ -1,2 +1,0 @@
-<li>Department of Science / Mathematics</li>
-<li>Department of Technology</li>

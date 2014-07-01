@@ -1,0 +1,69 @@
+Found: 29
+Found Not Null: 1
+Correct: 1
+Wrong: 0
+Total: 1
+precision: 1.0
+recall: 1.0
+
+
+
+#	NEW	birthname	........ / where he started several companies	// <p> After marriage , he moved to <a> Lewisville , Texas </a> , and later to <a> Killeen </a> , where he started several companies to serve local military families .
+
+#	NEW	birthname	........ / soap opera	// <p> <strong> Darnell Williams </strong> ( born March 3 , 1955 ) is a <a> British-born </a> <a> soap opera </a> <a> actor </a> .
+
+#	NEW	birthname	........ / 1938 ) is an	// <p> <strong> Elliott Gould </strong> ( born <strong> Elliot Goldstein </strong> ; August 29 , 1938 ) is an <a> American </a> actor .
+
+#	NEW	birthname	........ / n film director .	// <p> <strong> Jacobus Johannes Uys </strong> ( 30 May 1921 &ndash ; 29 January 1996 ) , better known as <strong> Jamie Uys </strong> , was a <a> South Africa </a> n film director . </p>
+
+#	NEW	birthname	........ / former record company	// <p> <strong> Saul Zaentz </strong> ( ; born February 28 , 1921 ) is an American <a> film producer </a> and former record company executive .
+
+#	NEW	birthname	........ / made guest appearances on other television programs .	// Sutton performed in dinner theater , playing , among other roles , the father in <em> <a> Norman , Is That You ? </a> </em> and made guest appearances on other television programs . </p>
+
+#	NEW	birthname	........ / Riley Elizabeth Weston	// <p> <strong> Riley Elizabeth Weston </strong> is an actress and screenwriter from <a> Poughkeepsie , New York </a> .
+
+#	NEW	birthname	........ / and dramatic	// <p> <strong> Joseph Mascolo </strong> ( born March 13 , 1929 ) is an <a> American </a> <a> musician </a> and dramatic <a> actor </a> .
+
+#	NEW	birthname	........ / 1963 ) is an	// <p> <strong> Fisher Stevens </strong> ( born November 27 , 1963 ) is an <a> American </a> actor and producer .
+
+#	NEW	birthname	........ / David Mark Morrissey	// <p> <strong> David Mark Morrissey </strong> ( born 21 June 1964 ) is an English actor and director .
+
+#	NEW	birthname	........ / in a remote part of	// <p> <strong> Mark Little </strong> ( born October 20 , 1959 ) , is an <a> Australia </a> n actor , television presenter and comedian , born in a remote part of <a> Queensland </a> . </p>
+
+#	NEW	birthname	........ / James Jonah Cummings	// <p> <strong> Jim Cummings </strong> ( born <strong> James Jonah Cummings </strong> on November 3 , 1952 ) is an <a> American </a> <a> voice-actor </a> . </p>
+
+#	NEW	birthname	........ / Walsh was born	// <p> Walsh was born in <a> Rigaud , Quebec </a> .
+
+#	NEW	birthname	........ / Rena Sherel Sofer	// <p> <strong> Rena Sherel Sofer </strong> ( born December 2 , 1968 ) is an <a> American </a> <a> actress </a> . </p>
+
+14	TRUE	Marion Hutton::birthname	marion thornburg / their father abandoned their family when they were both young	
+<p> Born as <strong> Marion Thornburg </strong> , the elder sister of actress <a> Betty Hutton </a> , their father abandoned their family when they were both young , he later committed suicide .
+
+#	NEW	birthname	........ / stage and television	// <p> <strong> Connor Trinneer </strong> ( born March 19 , 1969 ) is an <a> American </a> film , stage and television actor .
+
+#	NEW	birthname	........ / and author .	// <p> <strong> Francis Harper </strong> ( born May 17 , 1966 ) , known professionally as <strong> Hill Harper </strong> , is an <a> American </a> <a> film </a> , <a> television </a> and <a> stage </a> actor , and author .
+
+#	NEW	birthname	........ / is an American television personality	// <p> <strong> Rachael Domenica Ray </strong> ( born August 25 , 1968 ) is an American television personality , celebrity chef and author .
+
+#	NEW	birthname	........ / Davis also hosts	// <p> Davis also hosts and narrates the series <em> <a> Critical Eye </a> </em> on the <a> Science Channel </a> . </p>
+
+#	NEW	birthname	........ / His family is	// His family is <a> Irish American </a> .
+
+#	NEW	birthname	........ / and actor who	// <p> <strong> Geoffrey Durham </strong> ( born 22 July 1949 ) is a <a> British </a> comedy <a> magician </a> and actor who was known for many years as ' The Great Soprendo ' . </p>
+
+#	NEW	birthname	........ / years of acting	// After years of acting in TV movies , she starred with <a> Jason Bateman </a> as his sister on the television series <em> <a> It ' s Your Move </a> </em> .
+
+#	NEW	birthname	........ / is an American	// <p> <strong> Sean Patrick Hayes </strong> ( born June 26 , 1970 ) is an American <a> actor </a> and <a> comedian </a> .
+
+#	NEW	birthname	........ / an American film actress .	// <p> <strong> Ann Dvorak </strong> ( August 2 , 1911 &ndash ; December 10 , 1979 ) was an American film actress . </p>
+
+#	NEW	birthname	........ / New York City	// <p> <strong> Joseph Sweeney </strong> ( <a> Philadelphia </a> , <a> Pennsylvania </a> , July 26 , 1884 &#x2013 ; November 25 , 1963 , <a> New York City </a> ) was an American actor who worked in stage production , television and movies .
+
+#	NEW	birthname	........ / of his songs appeared on the debut album by American soap	// Two of his songs appeared on the debut album by American soap star <a> Jacob Young </a> in 2001 .
+
+#	NEW	birthname	........ / an American singer	// <p> <strong> Kitty Carlisle </strong> ( also billed as <strong> Kitty Carlisle Hart </strong> ; September 3 , 1910 &#x2013 ; April 17 , 2007 ) was an American singer , actress and spokeswoman for the arts .
+
+#	NEW	birthname	........ / Linda Rae Wildermuth	// <p> <strong> Linda Dano </strong> ( born <strong> Linda Rae Wildermuth </strong> on May 12 , 1943 ) is an <a> American </a> <a> soap opera </a> <a> actress </a> .
+
+#	NEW	birthname	........ / was an American	// <p> <strong> Emily McLaughlin </strong> ( December 1 , 1930 - April 26 , 1991 ) was an American <a> soap opera </a> <a> actress </a> .
+

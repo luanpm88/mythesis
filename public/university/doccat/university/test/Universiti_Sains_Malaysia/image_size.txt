@@ -1,3 +1,0 @@
-<h2>Activities at USM</h2>
-<p>Numerous movies have been filmed on or near USM's campus, including: </p>
-<p> <a>de:Science University Malaysia</a> <a>fa:&#x062f;&#x0627;&#x0646;&#x0634;&#x06af;&#x0627;&#x0647; &#x0639;&#x0644;&#x0648;&#x0645; &#x0645;&#x0627;&#x0644;&#x0632;&#x06cc;</a> <a>id:Universitas Sains Malaysia</a> <a>mr:&#x092f;&#x0941;&#x0928;&#x093f;&#x0935;&#x094d;&#x0939;&#x0930;&#x094d;&#x0938;&#x093f;&#x091f;&#x0940; &#x0938;&#x0948;&#x0928;&#x094d;&#x0938; &#x092e;&#x0932;&#x0947;&#x0936;&#x093f;&#x092f;&#x093e;</a> <a>ms:Universiti Sains Malaysia</a> <a>vi:&#x0110;&#x1ea1;i h&#x1ecd;c Sains Malaysia</a></p>

@@ -1,6 +1,0 @@
-<li>Department of Business Administration
-<li>Department of Biology
-<li>Department of Nursing
-<li>Department of Office Systems
-<li>Department of Physics- Chemistry
-<h2>Notable alumni</h2>

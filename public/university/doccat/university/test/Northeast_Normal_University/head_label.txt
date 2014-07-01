@@ -1,5 +1,0 @@
-<li>School of Economics</li>
-<li>School of Foreign Languages</li>
-<li>School of Software</li>
-<li>School of Physics</li>
-<li>School of Chemistry</li>

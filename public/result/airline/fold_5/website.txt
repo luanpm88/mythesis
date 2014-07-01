@@ -1,0 +1,42 @@
+Found: 17
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	website	........ / It operated domestic and international charter cargo flights from Moscow to destinations including China	// It operated domestic and international charter cargo flights from Moscow to destinations including China , India , <a> United Arab Emirates </a> and Turkey .
+
+#	NEW	website	........ / the airline flew the following charter flights from Bratislava ( with Boeing	// <p> In 2006 the airline flew the following charter flights from Bratislava ( with Boeing 737-300 ) : </p>
+
+#	NEW	website	........ / MetroJet operations did not improve US Airways ' s loss-making record .	// <p> MetroJet operations did not improve US Airways ' s loss-making record .
+
+#	NEW	website	........ / It currently operates scheduled and charter services throughout the country .	// It currently operates scheduled and charter services throughout the country . </p>
+
+#	NEW	website	........ / It is a scheduled airline operating passenger and cargo flights within Peru .	// It is a scheduled airline operating passenger and cargo flights within Peru .
+
+#	NEW	website	........ / CAAC began operating scheduled domestic flights to cities in China in	// <p> CAAC began operating scheduled domestic flights to cities in China in 1949 .
+
+#	NEW	website	........ / It operates scheduled domestic and international services .	// It operates scheduled domestic and international services .
+
+#	NEW	website	........ / Titan Airways operates charter flights for British tour operators .	// Titan Airways operates charter flights for British tour operators .
+
+#	NEW	website	........ / It operated domestic services and flights to neighbouring countries .	// It operated domestic services and flights to neighbouring countries .
+
+#	NEW	website	........ / It operates services to thirteen destinations in Sweden and	// It operates services to thirteen destinations in Sweden and <a> Norway </a> .
+
+#	NEW	website	........ / It was established and started operations in August 2003 and operated scheduled services in western Canada .	// It was established and started operations in August 2003 and operated scheduled services in western Canada .
+
+#	NEW	website	........ / It was established and started operations on	// It was established and started operations on 4 October 1996 and operated regional feeder services .
+
+#	NEW	website	........ / It operates passenger and cargo services , including charter and scheduled flights .	// It operates passenger and cargo services , including charter and scheduled flights .
+
+#	NEW	website	........ / It operates scheduled and charter passenger services from Ukraine to destinations in	// It operates scheduled and charter passenger services from Ukraine to destinations in <a> Russia </a> , <a> Syria </a> , <a> Turkey </a> and <a> Germany </a> .
+
+#	NEW	website	........ / It was established and started operations in 2001 and operates regional services .	// It was established and started operations in 2001 and operates regional services .
+
+#	NEW	website	........ / It operates scheduled domestic flights .	// It operates scheduled domestic flights .
+
+#	NEW	website	........ / The airline was established and started operations in	// <p> The airline was established and started operations in 1977 .
+

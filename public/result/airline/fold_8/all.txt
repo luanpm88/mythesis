@@ -1,0 +1,1058 @@
+Total articles: 456
+Articles for test: 411
+Articles for train: 45
+Total attributes: 120
+Attributes with high occurrences: 15/120
+
+------------
+Found: 432
+Found Not Null: 103
+Correct: 54
+Wrong: 49
+Total: 140
+precision: 0.5242718446601942
+recall: 0.38571428571428573
+
+
+
+#	NEW	iata	........ / Or	// <p> <strong> Air Creebec Inc . </strong> is a <a> regional airline </a> based in <a> Val-d ' Or </a> , <a> Quebec </a> , <a> Canada </a> .
+
+#	NEW	icao	........ / June	// <p> Air Creebec operates services to the following Canadian domestic scheduled destinations ( as of June 2010 ) : and the Air Creebec site listed 14 .
+
+2	TRUE	Air Creebec::callsign	cree / Canadian	
+<p> Air Creebec operates services to the following Canadian domestic scheduled destinations ( as of June 2010 ) : and the Air Creebec site listed 14 .
+
+#	NEW	ceased	........ / 14 .	// <p> Air Creebec operates services to the following Canadian domestic scheduled destinations ( as of June 2010 ) : and the Air Creebec site listed 14 .
+
+4	TRUE	Air Creebec::founded	1982 / 1982.	
+<p> The airline was established in June 1982 and started operations on July 1 , 1982 .
+
+#	NEW	hubs	........ / airline	// <p> <strong> Air Creebec Inc . </strong> is a <a> regional airline </a> based in <a> Val-d ' Or </a> , <a> Quebec </a> , <a> Canada </a> .
+
+#	NEW	destinations	........ / 16	// It operates scheduled and <a> charter </a> services to 16 </p>
+
+#	NEW	parent	........ / operates scheduled	// It operates scheduled and <a> charter </a> services to 16 </p>
+
+#	NEW	headquarters	........ / ,	// <p> The airline was established in June 1982 and started operations on July 1 , 1982 .
+
+#	NEW	fleet_size	........ / 1982	// <p> The airline was established in June 1982 and started operations on July 1 , 1982 .
+
+#	NEW	logo_size	........ / 16	// It operates scheduled and <a> charter </a> services to 16 </p>
+
+#	NEW	iata	........ / an	// <p> <strong> Air Ivoire </strong> is an <a> airline </a> headquartered in <a> Abidjan </a> , <a> C&#x00f4 ; te d ' Ivoire </a> .
+
+#	NEW	icao	........ / January	// <p> The Air Ivoire fleet includes the following aircraft ( as of January 2010 ) : </p>
+
+#	NEW	callsign	........ / Air	// <p> The Air Ivoire fleet includes the following aircraft ( as of January 2010 ) : </p>
+
+#	NEW	founded	........ / 1964	// <p> The airline was established on 14 December 1960 and started operations in August <a> 1964 </a> .
+
+#	NEW	hubs	........ / Bouet	// Its main base is <a> Port Bouet Airport </a> , Abidjan . </p>
+
+#	NEW	parent	........ / aircraft ( as of	// <p> The Air Ivoire fleet includes the following aircraft ( as of January 2010 ) : </p>
+
+#	NEW	headquarters	........ / Bouet	// Its main base is <a> Port Bouet Airport </a> , Abidjan . </p>
+
+#	NEW	website	........ / It is the national airline and operates scheduled regional and intercontinental services .	// It is the national airline and operates scheduled regional and intercontinental services .
+
+#	NEW	logo_size	........ / and	// It is the national airline and operates scheduled regional and intercontinental services .
+
+20	TRUE	Air Ivoire::airline	air ivoire / C&#	
+<p> <strong> Air Ivoire </strong> is an <a> airline </a> headquartered in <a> Abidjan </a> , <a> C&#x00f4 ; te d ' Ivoire </a> .
+
+21	TRUE	Air Ivoire::fleet_size	4 / 1964	
+<p> The airline was established on 14 December 1960 and started operations in August <a> 1964 </a> .
+
+#	NEW	icao	........ / title	// <p> The airline was originally formed in Akureyri by Tryggvi Helgason as Nordurflug , and was incorporated under the title Flugfelag Nordurlands on 1 May 1975 .
+
+#	NEW	callsign	........ / It	// It operates scheduled services to domestic destinations and to <a> Greenland </a> and the <a> Faroe Islands </a> .
+
+#	NEW	hubs	........ / k	// Its main bases are <a> Reykjav&#x00ed ; k Airport </a> and <a> Akureyri Airport </a> .
+
+#	NEW	parent	........ / Icelandair Group	// It is a subsidiary of <a> Icelandair Group </a> . </p>
+
+#	NEW	headquarters	........ / k	// Its main bases are <a> Reykjav&#x00ed ; k Airport </a> and <a> Akureyri Airport </a> .
+
+#	NEW	fleet_size	........ / <a>	// It operates scheduled services to domestic destinations and to <a> Greenland </a> and the <a> Faroe Islands </a> .
+
+#	NEW	logo_size	........ / </	// It operates scheduled services to domestic destinations and to <a> Greenland </a> and the <a> Faroe Islands </a> .
+
+#	NEW	airline	........ / Air	// <p> <strong> Air Iceland </strong> ( <a> Icelandic </a> : <strong> Flugf&#x00e9 ; lag &#x00cd ; slands </strong> ) is a <a> regional airline </a> based in <a> Reykjav&#x00ed ; k </a> , <a> Iceland </a> .
+
+#	NEW	iata	........ / an	// <p> <strong> AeroHonduras </strong> was an <a> airline </a> based in <a> Tegucigalpa </a> , <a> Honduras </a> .
+
+31	TRUE	AeroHonduras::icao	hon / Falcon	
+<p> In 2005 , AeroHonduras suspended operations after its only operating aircraft ( a <a> Boeing 737-300 </a> ) <a> wet lease </a> d from <a> Falcon Air Express </a> was taken back by the company .
+
+#	NEW	callsign	........ / Air	// <p> In 2005 , AeroHonduras suspended operations after its only operating aircraft ( a <a> Boeing 737-300 </a> ) <a> wet lease </a> d from <a> Falcon Air Express </a> was taken back by the company .
+
+33	TRUE	AeroHonduras::founded	2002 / 200	
+<p> The airline was established in January 2002 as Sol Air , and started operations on 12 July 2002 with a leased <a> Boeing 727-200 </a> .
+
+#	NEW	frequent_flyer	........ / remaining 55%	// The remaining 55% stake is owned by Ricardo Martinez , who is the President of the airline . </p>
+
+#	NEW	parent	........ / ceased operations	// It ceased operations in 2005 . </p>
+
+36	TRUE	AeroHonduras::key_people	ricardo martinez / Ricardo Martinez	
+The remaining 55% stake is owned by Ricardo Martinez , who is the President of the airline . </p>
+
+37	TRUE	AeroHonduras::fleet_size	1 / 12	
+<p> The airline was established in January 2002 as Sol Air , and started operations on 12 July 2002 with a leased <a> Boeing 727-200 </a> .
+
+#	NEW	logo_size	........ / 2005 .	// It ceased operations in 2005 . </p>
+
+39	FALSE	Trans International Airlines::airline	trans international airlines / Transamerica Airlines	
+It offered scheduled service operating as <strong> Transamerica Airlines </strong> in its last decade .
+
+#	NEW	icao	........ / take-	// <p> Following this incident , the FAA instituted new minimums between aircraft in line-up for take-off . </p>
+
+41	FALSE	Trans International Airlines::callsign	transamerica / FAA	
+<p> Following this incident , the FAA instituted new minimums between aircraft in line-up for take-off . </p>
+
+#	NEW	hubs	........ / Oakland	// It had its headquarters on the grounds of <a> Oakland International Airport </a> in <a> Oakland , California </a> . </p>
+
+#	NEW	destinations	........ / 1966	// Between 1966 and 1986 it operated regular charter flights to Europe , destinations were Paris Lyon , London Gatwick , Brussels Zaventem and Frankfurt airport .
+
+#	NEW	fleet_size	........ / 1978	// The airline remained focused on charter and cargo operations until the passage of the <a> Airline Deregulation Act </a> of 1978 , which gave it the opportunity to offer scheduled passenger service .
+
+#	NEW	logo_size	........ / </	// <p> <strong> Trans International Airlines </strong> ( TIA ) was an <a> airline </a> which offered charter service from and within the <a> United States </a> .
+
+#	NEW	founded	........ / 1978	// The airline remained focused on charter and cargo operations until the passage of the <a> Airline Deregulation Act </a> of 1978 , which gave it the opportunity to offer scheduled passenger service .
+
+#	NEW	parent	........ / Universal Airlines	// <p> Transamerica later purchased <a> Universal Airlines </a> and in December 1976 , <a> Saturn Airways </a> , and merged their operations into TIA .
+
+48	FALSE	Nepal Airlines::iata	ra / an	
+<p> <strong> Nepal Airlines </strong> , formerly known as &quot ; Royal Nepal Airlines&quot ; , is an <a> airline </a> based in <a> Kathmandu </a> , <a> Nepal </a> .
+
+49	FALSE	Nepal Airlines::icao	rna / Nepal	
+<p> The Nepal Airlines fleet includes the following aircraft ( as of 16 July 2010 ) : </p>
+
+50	FALSE	Nepal Airlines::callsign	royal nepal / Nepal	
+<p> The Nepal Airlines fleet includes the following aircraft ( as of 16 July 2010 ) : </p>
+
+#	NEW	ceased	........ / 7	// It is the government owned , national flag-carrier airline and operates more than 30 domestic and 7 international routes .
+
+52	FALSE	Nepal Airlines::founded	1958 / 2003	
+<p> In <a> 2003 </a> and <a> 2004 </a> it was reported that the Nepal Government had decided to sell off 49% of its stake in Nepal Airlines to the private sector and hand over management control ; whilst retaining a 51% share .
+
+#	NEW	hubs	........ / Tribhuvan	// Its main base is <a> Tribhuvan International Airport </a> , Kathmandu . </p>
+
+#	NEW	parent	........ / Nepal Airlines	// <p> The Nepal Airlines fleet includes the following aircraft ( as of 16 July 2010 ) : </p>
+
+#	NEW	headquarters	........ / Tribhuvan	// Its main base is <a> Tribhuvan International Airport </a> , Kathmandu . </p>
+
+56	TRUE	Nepal Airlines::fleet_size	8 / 1958	
+<p> The airline was established in July 1958 as Royal Nepal Airlines Corporation ( RNAC ) with one <a> Douglas DC-3 </a> .
+
+57	FALSE	Nepal Airlines::logo_size	200 / 30	
+It is the government owned , national flag-carrier airline and operates more than 30 domestic and 7 international routes .
+
+58	TRUE	Sun Country Airlines::airline	sun country airlines / headquartered	
+<p> <strong> MN Airlines , LLC </strong> , <a> operating as </a> <strong> Sun Country Airlines </strong> , is an <a> American </a> <a> low-cost airline </a> headquartered in the <a> Minneapolis-St .
+
+59	FALSE	Sun Country Airlines::iata	sy / an	
+<p> <strong> MN Airlines , LLC </strong> , <a> operating as </a> <strong> Sun Country Airlines </strong> , is an <a> American </a> <a> low-cost airline </a> headquartered in the <a> Minneapolis-St .
+
+60	TRUE	Sun Country Airlines::callsign	sun country / Sun	
+<p> As of December 2010 , the Sun Country Airlines fleet consists of the following aircraft with an average age of 9 . 4 years : center / center </p>
+
+#	NEW	founded	........ / 2004	// <p> In a symbolic return to success , Sun Country acquired new aircraft in 2004 and 2005 and was profitable in 2004 .
+
+#	NEW	parent	........ / Sun Country	// <p> Sun Country also provided ad-hoc charter lift to civic organizations , corporations , sports teams , and virtually any other group that wanted to charter an aircraft .
+
+#	NEW	logo_size	........ / and	// The airline also announced new service to Branson , MO . and Boston .
+
+#	NEW	frequent_flyer	........ / among other	// The airline also announced a frequent flyer program , Smile Awards , which offered frequent travelers free flights , among other benefits .
+
+#	NEW	website	........ / His wife , Joan Smith-Olsen , acted as Chief Flight Attendant and Head of Inflight Operations .	// His wife , Joan Smith-Olsen , acted as Chief Flight Attendant and Head of Inflight Operations .
+
+#	NEW	iata	........ / an	// <p> <strong> Air Fiji </strong> was an <a> airline </a> based in <a> Nausori </a> , <a> Fiji </a> .
+
+#	NEW	icao	........ / Fiji	// <p> The Air Fiji fleet included the following aircraft ( at December 2008 ) : </p>
+
+#	NEW	callsign	........ / Air	// <p> The Air Fiji fleet included the following aircraft ( at December 2008 ) : </p>
+
+#	NEW	parent	........ / following aircraft	// <p> The Air Fiji fleet included the following aircraft ( at December 2008 ) : </p>
+
+70	FALSE	Air Fiji::fleet_size	5 / 10	
+<p> The airline was established in 1967 and started operations on 10 July 1967 as Air Pacific .
+
+#	NEW	logo_size	........ / 2008 ) :	// <p> Air Fiji operated the following services ( at June 2008 ) : </p>
+
+#	NEW	founded	........ / 2004 . 03 . 12 04	// ( 2004 ) File : 2004 . 03 . 12 04 Air Fiji Matei Taveuni Fiji . jpg | An
+
+#	NEW	hubs	........ / Nausori	// Its main base was <a> Nausori International Airport </a> , <a> Suva </a> , with a base at <a> Nadi International Airport </a> . </p>
+
+#	NEW	icao	........ / May	// <p> The Druk Air fleet consists of the following aircraft ( as of 1 May 2010 ) : </p>
+
+#	NEW	callsign	........ / Air	// <p> The Druk Air fleet consists of the following aircraft ( as of 1 May 2010 ) : </p>
+
+#	NEW	ceased	........ / 2005	// <p> In July 2005 , the governments of India and Bhutan signed a new <a> bilateral air services agreement </a> which increased the allowable number of weekly flights between the two countries from 12 to 49 .
+
+#	NEW	frequent_flyer	........ / jubilee ]	// The uniforms were introduced for the [ [ centenary ] ] celebrations of the monarchy , as well as the airlines own [ [ silver jubilee ] ] .
+
+#	NEW	parent	........ / following destinations :	// <p> Druk Air operates scheduled flights to the following destinations : </p>
+
+#	NEW	key_people	........ / Bombardier the	// however , the airline was advised by Bombardier the aircraft would be unsuited for operations at Paro .
+
+80	FALSE	Druk Air::founded	5 april 1981 / 000	
+The <a> Eurocopter Ecureuil </a> helicopter operated by the <a> Nepal </a> ese operator , <a> Air Dynasty </a> , had by January 2006 seen 30 hours of service , netting Druk Air <a> US$ </a> 3 , 000 in profits .
+
+#	NEW	hubs	........ / the	// The Bhutanese Department of Civil Aviation ( DCA ) has indicated that the airport at Gelephu will be an ' all-weather ' airport that may be able to accept some international traffic in the future . </p>
+
+82	FALSE	Druk Air::fleet_size	3 / 1986	
+At the time , the <a> runway </a> was in length , Prior to the establishment of the <a> Department of Civil Aviation </a> in January 1986 , the airline was responsible for the operation and maintenance of airport infrastructure .
+
+#	NEW	logo_size	........ / 2001	// <p> Domestic <a> helicopter </a> service was inaugurated in November 2005 , in line with a <a> resolution </a> by the Council of Ministers in April 2001 which stated that domestic services should be introduced .
+
+#	NEW	iata	........ / an	// <p> <strong> Air Inuit Ltd </strong> is an <a> airline </a> based in <a> Dorval </a> , <a> Quebec </a> , <a> Canada </a> .
+
+#	NEW	icao	........ / December	// <p> The Air Inuit fleet includes the following aircraft ( as of December 2010 ) </p>
+
+86	TRUE	Air Inuit::callsign	air inuit / Air	
+<p> The Air Inuit fleet includes the following aircraft ( as of December 2010 ) </p>
+
+#	NEW	hubs	........ / Kuujjuaq	// Its main base is <a> Kuujjuaq Airport </a> . </p>
+
+#	NEW	destinations	........ / 2006 ) :	// <p> Air Inuit operates scheduled services to the following domestic destinations ( November 2006 ) : </p>
+
+#	NEW	headquarters	........ / Kuujjuaq	// Its main base is <a> Kuujjuaq Airport </a> . </p>
+
+#	NEW	fleet_size	........ / 1978	// <p> The airline was established and started operations in 1978 using a <a> de Havilland Canada DHC-2 Beaver </a> aircraft .
+
+#	NEW	logo_size	........ / 2006 ) :	// <p> Air Inuit operates scheduled services to the following domestic destinations ( November 2006 ) : </p>
+
+#	NEW	parent	........ / aircraft ( as of	// <p> The Air Inuit fleet includes the following aircraft ( as of December 2010 ) </p>
+
+93	FALSE	Air Jamaica Express::airline	air jamaica express / Air Taxi	
+The airline was established in 1973 as <strong> Jamaica Air Taxi </strong> , and later operated as <strong> Trans-Jamaican Airline </strong> until it was taken over by <a> Gordon Stewart </a> who also controlled Air Jamaica in 1994 . </p>
+
+#	NEW	iata	........ / it	// The airline was established in 1973 as <strong> Jamaica Air Taxi </strong> , and later operated as <strong> Trans-Jamaican Airline </strong> until it was taken over by <a> Gordon Stewart </a> who also controlled Air Jamaica in 1994 . </p>
+
+95	TRUE	Air Jamaica Express::callsign	jamaica express / Air	
+<p> In 2002 , the Air Jamaica Express fleet consisted of 6 <a> Bombardier Dash 8 Q100 </a> aircraft seating 37 passengers and 2 <a> de Havilland Canada DHC-6 Series 300 </a> aircraft seating 19 passengers . ref
+
+96	FALSE	Air Jamaica Express::ceased	october 14, 2005 / 2004	
+<p> When Air Jamaica was renationalized in December 2004 , responsibility for Air Jamaica Express remained with Stewart and his organization .
+
+#	NEW	founded	........ / 2004	// <p> When Air Jamaica was renationalized in December 2004 , responsibility for Air Jamaica Express remained with Stewart and his organization .
+
+#	NEW	headquarters	........ / ,	// The airline struggled financially and after attempts to reorganize and secure additional capital were unsuccessful , the airline ceased operations on October 14 , 2005 .
+
+#	NEW	website	........ / It operated domestic and inter island scheduled flights and charter services .	// It operated domestic and inter island scheduled flights and charter services .
+
+#	NEW	logo_size	........ / 14	// The airline struggled financially and after attempts to reorganize and secure additional capital were unsuccessful , the airline ceased operations on October 14 , 2005 .
+
+#	NEW	icao	........ / Jamaica	// <p> In 2002 , the Air Jamaica Express fleet consisted of 6 <a> Bombardier Dash 8 Q100 </a> aircraft seating 37 passengers and 2 <a> de Havilland Canada DHC-6 Series 300 </a> aircraft seating 19 passengers . ref
+
+#	NEW	parent	........ / airline struggled	// The airline struggled financially and after attempts to reorganize and secure additional capital were unsuccessful , the airline ceased operations on October 14 , 2005 .
+
+#	NEW	iata	........ / office	// <p> <strong> Air Astana </strong> is a <a> Kazakhstan </a> <a> airline </a> with its head office and <a> registered office </a> in <a> Almaty </a> .
+
+#	NEW	icao	........ / Astana	// The Air Astana fleet consists the following aircraft ( at 15 March 2010 ) : center / center </p>
+
+#	NEW	callsign	........ / Air	// The Air Astana fleet consists the following aircraft ( at 15 March 2010 ) : center / center </p>
+
+#	NEW	ceased	........ / 2004	// It became the <a> national carrier </a> after the government closed <a> Air Kazakhstan </a> in February 2004 and transferred all route authorities to Air Astana .
+
+#	NEW	founded	........ / 2006 .	// <p> The three aircraft below have been operated by Air Astana and were acquired by <a> Air Berlin </a> in December 2006 . </p>
+
+#	NEW	hubs	........ / Astana	// Its main bases are <a> Astana International Airport </a> and <a> Almaty International Airport </a> .
+
+#	NEW	parent	........ / Air Kazakhstan	// It became the <a> national carrier </a> after the government closed <a> Air Kazakhstan </a> in February 2004 and transferred all route authorities to Air Astana .
+
+#	NEW	key_people	........ / 2022 the	// By 2022 the airline hopes to have tripled its fleet to over 60 aircraft . </p>
+
+#	NEW	logo_size	........ / 2006 .	// It introduced four <a> Airbus A320 </a> aircraft and finalised a deal for two <a> Airbus A321 </a> aircraft which were delivered by December 2006 .
+
+#	NEW	headquarters	........ / Astana	// Its main bases are <a> Astana International Airport </a> and <a> Almaty International Airport </a> .
+
+#	NEW	iata	........ / an	// <p> <strong> Aeropostal Alas de Venezuela </strong> , normally referred to as just <em> Aeropostal </em> , is an <a> airline </a> based in Torre Polar Oeste in <a> Caracas </a> , <a> Venezuela </a> .
+
+#	NEW	icao	........ / center /	// <p> As of January 2011 , the Aeropostal fleet consists of the following aircraft with an average age of 28 years : center / center </p>
+
+#	NEW	callsign	........ / years :	// <p> As of January 2011 , the Aeropostal fleet consists of the following aircraft with an average age of 28 years : center / center </p>
+
+116	FALSE	Aeropostal Alas de Venezuela::founded	3 july 1929 / 1947.	
+This new service started on 21 March 1947 . </p>
+
+#	NEW	hubs	........ / var	// Its main base is <a> Sim&#x00f3 ; n Bol&#x00ed ; var International Airport </a> , Caracas . </p>
+
+#	NEW	parent	........ / following destinations :	// <p> Aeropostal operates flights to the following destinations : </p>
+
+#	NEW	headquarters	........ / var	// Its main base is <a> Sim&#x00f3 ; n Bol&#x00ed ; var International Airport </a> , Caracas . </p>
+
+120	TRUE	Aeropostal Alas de Venezuela::fleet_size	4 / 1947.	
+This new service started on 21 March 1947 . </p>
+
+#	NEW	logo_size	........ / </	// It operates domestic services and international services in the <a> Caribbean </a> .
+
+#	NEW	airline	........ / Express	// <p> <strong> Alitalia Express S . p . A . </strong> was a <a> regional airline </a> based in <a> Rome </a> , <a> Italy </a> and a wholly owned subsidiary of <a> Alitalia </a> .
+
+#	NEW	icao	........ / Alitalia	// <p> As of 20 May 2010 , the Alitalia Express average fleet age was 5 . 9 years old . </p>
+
+#	NEW	founded	........ / 1997 .	// <p> The airline was established and started operations on 1 October 1997 .
+
+#	NEW	hubs	........ / Vinci	// Its main bases were <a> Leonardo Da Vinci International Airport </a> , Rome , and <a> Malpensa International Airport </a> , <a> Milan </a> .
+
+#	NEW	parent	........ / Alitalia Express S .	// <p> <strong> Alitalia Express S . p . A . </strong> was a <a> regional airline </a> based in <a> Rome </a> , <a> Italy </a> and a wholly owned subsidiary of <a> Alitalia </a> .
+
+#	NEW	headquarters	........ / operations	// <p> The airline was established and started operations on 1 October 1997 .
+
+#	NEW	website	........ / It operated regional scheduled services and charter flights on behalf of Alitalia .	// It operated regional scheduled services and charter flights on behalf of Alitalia .
+
+#	NEW	fleet_size	........ / 1997 .	// <p> The airline was established and started operations on 1 October 1997 .
+
+#	NEW	logo_size	........ / 1	// <p> The airline was established and started operations on 1 October 1997 .
+
+#	NEW	callsign	........ / Alitalia	// <p> As of 20 May 2010 , the Alitalia Express average fleet age was 5 . 9 years old . </p>
+
+#	NEW	ceased	........ / 1997 .	// <p> The airline was established and started operations on 1 October 1997 .
+
+#	NEW	airline	........ / National Airways	// <p> <strong> National Airways Corporation </strong> was the national domestic airline of New Zealand from 1947 until 1978 when it amalgamated with New Zealand ' s international airline , <a> Air New Zealand </a> .
+
+134	FALSE	National Airways Corporation::iata	nz / it	
+<p> <strong> National Airways Corporation </strong> was the national domestic airline of New Zealand from 1947 until 1978 when it amalgamated with New Zealand ' s international airline , <a> Air New Zealand </a> .
+
+#	NEW	callsign	........ / twenty-	// <p> The fleet at that time of merger consisted of twenty-five aircraft : center / center </p>
+
+#	NEW	hubs	........ / Airwork	// <p> Some of the ex-NAC F27 Friendships also survive , two airworthy with <a> Airwork </a> , based at Auckland International Airport .
+
+#	NEW	parent	........ / New Zealand	// Air New Zealand then split up its fleet ( and air routes ) into management groups .
+
+#	NEW	ceased	........ / 1978	// <p> <strong> National Airways Corporation </strong> was the national domestic airline of New Zealand from 1947 until 1978 when it amalgamated with New Zealand ' s international airline , <a> Air New Zealand </a> .
+
+139	FALSE	One-Two-GO Airlines::ceased	2009 / 3 December 2003.	
+<p> The airline started operations on 3 December 2003 . </p>
+
+140	TRUE	One-Two-GO Airlines::founded	2003 / 2003.	
+<p> The airline started operations on 3 December 2003 . </p>
+
+#	NEW	hubs	........ / Mueang	// Its main base was <a> Don Mueang International Airport </a> , Bangkok .
+
+#	NEW	parent	........ / Two- GO Airlines	// The One-Two-GO Airlines fleet was consisted in the following aircraft ( as of 22 July 2010 ) : </p>
+
+#	NEW	headquarters	........ / Mueang	// Its main base was <a> Don Mueang International Airport </a> , Bangkok .
+
+144	FALSE	One-Two-GO Airlines::fleet_size	8 / 2003.	
+<p> The airline started operations on 3 December 2003 . </p>
+
+#	NEW	logo_size	........ / for	// <p> The airline was in negotiations with <a> Japan Airlines </a> to purchase several used MD-80s aircraft for expansion .
+
+#	NEW	icao	........ / GO	// The One-Two-GO Airlines fleet was consisted in the following aircraft ( as of 22 July 2010 ) : </p>
+
+#	NEW	callsign	........ / Two-	// The One-Two-GO Airlines fleet was consisted in the following aircraft ( as of 22 July 2010 ) : </p>
+
+148	FALSE	One-Two-GO Airlines::destinations	7 / 2010 ) :	
+<p> One-Two-GO Airlines was served the following destinations ( as of July 2010 ) : </p>
+
+149	TRUE	Transbrasil::airline	transbrasil / ian airline	
+<strong> TransBrasil </strong> was an international <a> Brazil </a> ian airline which ceased operations in December 2001 .
+
+#	NEW	iata	........ / an	// <strong> TransBrasil </strong> was an international <a> Brazil </a> ian airline which ceased operations in December 2001 .
+
+#	NEW	icao	........ / aircraft '	// The company was known for its very colorful aircraft which featured a rainbow on the aircraft ' s tail .
+
+152	FALSE	Transbrasil::callsign	transbrasil / known	
+The company was known for its very colorful aircraft which featured a rainbow on the aircraft ' s tail .
+
+#	NEW	founded	........ / 2001 .	// <strong> TransBrasil </strong> was an international <a> Brazil </a> ian airline which ceased operations in December 2001 .
+
+#	NEW	hubs	........ / Brasilia	// It was headquartered in <a> Brasilia International Airport </a> in <a> Brasilia </a> . </p>
+
+#	NEW	destinations	........ / 2001 .	// <strong> TransBrasil </strong> was an international <a> Brazil </a> ian airline which ceased operations in December 2001 .
+
+#	NEW	parent	........ / Brazil	// <strong> TransBrasil </strong> was an international <a> Brazil </a> ian airline which ceased operations in December 2001 .
+
+#	NEW	fleet_size	........ / 2001 .	// <strong> TransBrasil </strong> was an international <a> Brazil </a> ian airline which ceased operations in December 2001 .
+
+#	NEW	logo_size	........ / 2009 .	// The bankruptcy was confirmed on 2 October 2009 . </p>
+
+#	NEW	airline	........ / Thailand '	// <p> <strong> Thai AirAsia </strong> ( ) is a joint venture of Malaysian low-fare airline <a> AirAsia </a> ( ) and Thailand ' s <a> Asia Aviation </a> .
+
+#	NEW	callsign	........ / four	// Also in the same month , the airline received first of four new <a> A320 </a> airliners , raising its current fleet to 15 aircraft .
+
+#	NEW	founded	........ / 2004 .	// <p> Thai AirAsia launched domestic operations on February 2004 .
+
+#	NEW	hubs	........ / Suvarnabhumi	// <p> Most the airline ' s international routes connect to Bangkok ; all flights on these are served at Suvarnabhumi International Airport . </p>
+
+#	NEW	parent	........ / Asia Aviation	// <p> <strong> Thai AirAsia </strong> ( ) is a joint venture of Malaysian low-fare airline <a> AirAsia </a> ( ) and Thailand ' s <a> Asia Aviation </a> .
+
+164	FALSE	Thai AirAsia::fleet_size	19 / 2004.	
+<p> Thai AirAsia launched domestic operations on February 2004 .
+
+#	NEW	logo_size	........ / 15	// Also in the same month , the airline received first of four new <a> A320 </a> airliners , raising its current fleet to 15 aircraft .
+
+#	NEW	icao	........ / current	// Also in the same month , the airline received first of four new <a> A320 </a> airliners , raising its current fleet to 15 aircraft .
+
+#	NEW	headquarters	........ / Suvarnabhumi	// <p> Most the airline ' s international routes connect to Bangkok ; all flights on these are served at Suvarnabhumi International Airport . </p>
+
+#	NEW	website	........ / The remaining three planes are scheduled to join Thai AirAsia&#x2019 ; s operations later part of year	// The remaining three planes are scheduled to join Thai AirAsia&#x2019 ; s operations later part of year 2009 .
+
+#	NEW	airline	........ / headquartered	// <p> <strong> Air Macau Company Limited </strong> ( ) is the <a> flag carrier </a> <a> airline </a> of and headquartered in <a> Macau </a> .
+
+#	NEW	icao	........ / Macau	// Macau [ [ Airbus A321 ] ] ] ] The Air Macau passenger and cargo fleet consists of the following aircraft ( at December 2009 ) : </p>
+
+#	NEW	callsign	........ / Air	// Macau [ [ Airbus A321 ] ] ] ] The Air Macau passenger and cargo fleet consists of the following aircraft ( at December 2009 ) : </p>
+
+#	NEW	founded	........ / 2009 ) :	// Macau [ [ Airbus A321 ] ] ] ] The Air Macau passenger and cargo fleet consists of the following aircraft ( at December 2009 ) : </p>
+
+#	NEW	hubs	........ / China	// The airline operates services to 12 destinations in <a> Mainland China </a> , as well as regional international services , from its hub at <a> Macau International Airport </a> . </p>
+
+#	NEW	parent	........ / flag carrier	// <p> <strong> Air Macau Company Limited </strong> ( ) is the <a> flag carrier </a> <a> airline </a> of and headquartered in <a> Macau </a> .
+
+#	NEW	headquarters	........ / December	// Macau [ [ Airbus A321 ] ] ] ] The Air Macau passenger and cargo fleet consists of the following aircraft ( at December 2009 ) : </p>
+
+#	NEW	fleet_size	........ / 1995	// <p> The airline was established on 13 September 1994 , and began commercial operations on 9 November 1995 , with a flight from Macau to <a> Beijing </a> and <a> Shanghai </a> ( prior to 1995 , there was no air service to Macau other than the helicopter service ) .
+
+#	NEW	logo_size	........ / a> .	// The airline operates services to 12 destinations in <a> Mainland China </a> , as well as regional international services , from its hub at <a> Macau International Airport </a> . </p>
+
+#	NEW	destinations	........ / 12	// The airline operates services to 12 destinations in <a> Mainland China </a> , as well as regional international services , from its hub at <a> Macau International Airport </a> . </p>
+
+#	NEW	icao	........ / Sunshine	// <p> As of August 2006 the Sunshine Express Airlines fleet includes : </p>
+
+#	NEW	callsign	........ / August	// <p> As of August 2006 the Sunshine Express Airlines fleet includes : </p>
+
+#	NEW	founded	........ / 2006	// <p> Sunshine Express ceased all scheduled flights from 1 October 2006 to focus on charter operations .
+
+#	NEW	hubs	........ / the	// It is one of the major employers at the airport .
+
+#	NEW	parent	........ / operated routes	// <p> The operated routes were ( before 1 October 2006 ) : </p>
+
+#	NEW	headquarters	........ / Coast	// Aeromil , also founded by Steve Padgett , is Sunshine Express ' <a> parent company </a> and also has a base at Sunshine Coast Airport . </p>
+
+#	NEW	fleet_size	........ / 1998 .	// It started operations on 25 October 1998 .
+
+#	NEW	logo_size	........ / </	// From May 2009 <a> Tamworth </a> is also served by <a> Brindabella Airlines </a> .
+
+187	TRUE	Sunshine Express Airlines::airline	sunshine express airlines / Express Airlines	
+<p> <strong> Sunshine Express Airlines </strong> is an <a> air charter </a> company that previously operated as an <a> airline </a> serving many regional destinations on the East Coast of <a> Australia </a> ; from <a> Hervey Bay </a> to <a> Port Macquarie </a> .
+
+188	TRUE	Sunshine Express Airlines::iata	cq / an	
+<p> <strong> Sunshine Express Airlines </strong> is an <a> air charter </a> company that previously operated as an <a> airline </a> serving many regional destinations on the East Coast of <a> Australia </a> ; from <a> Hervey Bay </a> to <a> Port Macquarie </a> .
+
+189	TRUE	Helios Airways::airline	helios airways / an	
+<p> <strong> Helios Airways </strong> was a low-cost <a> Cypriot </a> <a> airline </a> operating <a> scheduled </a> and <a> charter </a> flights between <a> Cyprus </a> and many <a> Europe </a> an destinations .
+
+#	NEW	iata	........ / an	// <p> <strong> Helios Airways </strong> was a low-cost <a> Cypriot </a> <a> airline </a> operating <a> scheduled </a> and <a> charter </a> flights between <a> Cyprus </a> and many <a> Europe </a> an destinations .
+
+#	NEW	icao	........ / following	// ( 2004 ) ] ] When the airline ceased operating , the &#x03b1 ; jet fleet consisted of the following aircraft : </p>
+
+192	FALSE	Helios Airways::callsign	helios / jet	
+( 2004 ) ] ] When the airline ceased operating , the &#x03b1 ; jet fleet consisted of the following aircraft : </p>
+
+193	TRUE	Helios Airways::ceased	2006 / 14 March 2006	
+<p> On 14 March 2006 it was announced that Helios Airways would be rebranded as <strong> &#x03b1 ; jet </strong> and would withdraw from scheduled operations .
+
+#	NEW	hubs	........ / Larnaca	// Its main base was Larnaca International Airport .
+
+#	NEW	parent	........ / following aircraft :	// ( 2004 ) ] ] When the airline ceased operating , the &#x03b1 ; jet fleet consisted of the following aircraft : </p>
+
+#	NEW	headquarters	........ / Larnaca	// Its main base was Larnaca International Airport .
+
+197	FALSE	Helios Airways::fleet_size	3 / 15	
+On 15 May 2000 , it operated its first charter flight to <a> London Gatwick </a> .
+
+#	NEW	logo_size	........ / </	// <p> The airline had also operated the following aircraft : </p>
+
+#	NEW	icao	........ / Mongolia	// <p> The Aero Mongolia fleet included the following aircraft ( as of 5 Feb 2010 ) : </p>
+
+200	TRUE	Aero Mongolia::callsign	aero mongolia / Aero	
+<p> The Aero Mongolia fleet included the following aircraft ( as of 5 Feb 2010 ) : </p>
+
+#	NEW	founded	........ / 2003 .	// <p> The airline was established in 2001 and performed its first flight domestically on May 25 , 2003 .
+
+#	NEW	hubs	........ / Khaan	// Its main base is <a> Chinggis Khaan International Airport </a> , Ulan Bator , Mongolia . </p>
+
+203	TRUE	Aero Mongolia::frequent_flyer	skymiles / bonus card	
+&quot ; SKYMILES&quot ; also refers to the bonus card which Aero Mongolian frequent flyers are given .
+
+#	NEW	parent	........ / Feb 2010 ) :	// <p> The Aero Mongolia fleet included the following aircraft ( as of 5 Feb 2010 ) : </p>
+
+#	NEW	headquarters	........ / Khaan	// Its main base is <a> Chinggis Khaan International Airport </a> , Ulan Bator , Mongolia . </p>
+
+206	TRUE	Aero Mongolia::fleet_size	5 / 2001	
+<p> The airline was established in 2001 and performed its first flight domestically on May 25 , 2003 .
+
+#	NEW	logo_size	........ / </	// <p> The airline ' s operation was temporarily suspended from January to May , 2009 due to Mongolian Civil Aviation ' s doubt on flight safety . </p>
+
+208	TRUE	Air Alps::airline	air alps / Air	
+<p> <strong> Air Alps </strong> ( Air Alps Aviation , Alpenl&#x00e4 ; ndisches Flugunternehmen Ges . m . b . H . ) is an <a> airline </a> based in <a> Innsbruck </a> , <a> Austria </a> .
+
+209	TRUE	Air Alps::founded	1998 / 2000	
+<p> The airline was established in 1998 and started operations on 28 March 1999 with two Dornier 328 aircraft , acquiring three more in 2000 and one more in each year of operation .
+
+#	NEW	hubs	........ / Innsbruck	// Its main base is <a> Innsbruck Airport </a> , with hubs at <a> Malpensa Airport </a> , Milan and <a> Leonardo da Vinci Airport </a> , Rome . </p>
+
+211	FALSE	Air Alps::destinations	7 / 10	
+It is an independent regional airline serving 10 cities in <a> Italy </a> from <a> Milan </a> and <a> Rome </a> , international services from <a> Milan </a> , as well as charter services .
+
+#	NEW	headquarters	........ / ,	// The airline is owned by Alpen-Air consortium ( 89 . 82% ) ,
+
+#	NEW	key_people	........ / Alpen- Air	// The airline is owned by Alpen-Air consortium ( 89 . 82% ) ,
+
+214	FALSE	Air Alps::fleet_size	5 / 1999	
+<p> The airline was established in 1998 and started operations on 28 March 1999 with two Dornier 328 aircraft , acquiring three more in 2000 and one more in each year of operation .
+
+#	NEW	logo_size	........ / 2005	// In October 2005 a codeshare agreement with Alitalia on the entire Air Alps network was established .
+
+#	NEW	parent	........ / Bolzano- Bozen	// In 2001 , a group of investors from the <a> Italian </a> province of <a> Bolzano-Bozen </a> acquired the majority stake .
+
+217	TRUE	Albatros Airways::airline	albatros airways / Albatros Airways	
+<p> <strong> Albatros Airways Sh . p . k . </strong> was a <a> low-cost airline </a> based in <a> Tirana </a> in <a> Albania </a> .
+
+#	NEW	icao	........ / Albatros	// <p> As of August <a> 2006 </a> the Albatros Airways fleet includes : </p>
+
+#	NEW	callsign	........ / Albatros	// <p> As of August <a> 2006 </a> the Albatros Airways fleet includes : </p>
+
+220	TRUE	Albatros Airways::founded	2004 / 2004.	
+<p> The airline was established and started operations on 3 November 2004 . </p>
+
+#	NEW	hubs	........ / Teresa	// Its main base was <a> Rinas Mother Teresa Airport </a> ( TIR ) , Tirana .
+
+#	NEW	destinations	........ / 2006	// <p> These are the scheduled international destinations as of July <a> 2006 </a> : </p>
+
+#	NEW	parent	........ / Albatros Airways	// <p> <strong> Albatros Airways Sh . p . k . </strong> was a <a> low-cost airline </a> based in <a> Tirana </a> in <a> Albania </a> .
+
+#	NEW	headquarters	........ / Teresa	// Its main base was <a> Rinas Mother Teresa Airport </a> ( TIR ) , Tirana .
+
+225	FALSE	Albatros Airways::fleet_size	1 / 3	
+<p> The airline was established and started operations on 3 November 2004 . </p>
+
+#	NEW	logo_size	........ / 2004 .	// <p> The airline was established and started operations on 3 November 2004 . </p>
+
+227	TRUE	Trans Air Congo::airline	trans air congo / Trans Air Congo	
+<p> <strong> Trans Air Congo </strong> is a scheduled passenger and cargo <a> airline </a> based in <a> Brazzaville </a> , <a> Republic of Congo </a> .
+
+#	NEW	hubs	........ / airline	// <p> <strong> Trans Air Congo </strong> is a scheduled passenger and cargo <a> airline </a> based in <a> Brazzaville </a> , <a> Republic of Congo </a> .
+
+#	NEW	destinations	........ / 2005 ) :	// <p> Trans Air Congo operates services to the following destinations ( at January 2005 ) : </p>
+
+#	NEW	parent	........ / following destinations	// <p> Trans Air Congo operates services to the following destinations ( at January 2005 ) : </p>
+
+#	NEW	headquarters	........ / Gabon	// It currently operates some services on behalf of <a> Air Gabon </a> . </p>
+
+232	FALSE	Trans Air Congo::fleet_size	6 / 410	
+<p> It was established on 24 August 1994 by the <a> El-Hage </a> family and started services with a single <a> Let 410 </a> aircraft .
+
+#	NEW	logo_size	........ / 2005 ) :	// <p> Trans Air Congo operates services to the following destinations ( at January 2005 ) : </p>
+
+#	NEW	airline	........ / People '	// <p> <strong> Shenzhen Airlines </strong> ( ) is a domestic and international low-cost carrier airline headquartered on the grounds of <a> Shenzhen Bao ' an International Airport </a> in <a> Bao ' an District </a> , <a> Shenzhen </a> , <a> Guangdong </a> , <a> People ' s Republic of China </a> . </p>
+
+#	NEW	callsign	........ / Shenzhen	// <p> As of December 2010 , the Shenzhen Airlines fleet consists of the following aircraft with an average age of 5 . 6 years : </p>
+
+#	NEW	ceased	........ / 2010 ) :	// <p> Shenzhen Airlines has the following <a> codeshare </a> agreements ( at March 2010 ) : </p>
+
+#	NEW	founded	........ / 2010 ) :	// <p> Shenzhen Airlines has the following <a> codeshare </a> agreements ( at March 2010 ) : </p>
+
+#	NEW	hubs	........ / codeshare	// <p> Shenzhen Airlines has the following <a> codeshare </a> agreements ( at March 2010 ) : </p>
+
+#	NEW	destinations	........ / 10	// <p> In August 2010 , Shenzhen Airlines announced plans to order a further 10 Airbus A320 aircraft . </p>
+
+#	NEW	parent	........ / Shenzhen Airlines	// <p> Shenzhen Airlines has the following <a> codeshare </a> agreements ( at March 2010 ) : </p>
+
+#	NEW	headquarters	........ / codeshare	// <p> Shenzhen Airlines has the following <a> codeshare </a> agreements ( at March 2010 ) : </p>
+
+#	NEW	iata	........ / an	// <p> <strong> Shenzhen Airlines </strong> ( ) is a domestic and international low-cost carrier airline headquartered on the grounds of <a> Shenzhen Bao ' an International Airport </a> in <a> Bao ' an District </a> , <a> Shenzhen </a> , <a> Guangdong </a> , <a> People ' s Republic of China </a> . </p>
+
+#	NEW	logo_size	........ / 10	// <p> In August 2010 , Shenzhen Airlines announced plans to order a further 10 Airbus A320 aircraft . </p>
+
+#	NEW	fleet_size	........ / 2010 ) :	// <p> Shenzhen Airlines has the following <a> codeshare </a> agreements ( at March 2010 ) : </p>
+
+245	TRUE	Britannia Airways::airline	britannia airways / Thomsonfly	
+<p> <strong> Britannia Airways </strong> was the largest <a> charter airline </a> in the United Kingdom , rebranded as <strong> <a> Thomsonfly </a> </strong> in 2005 .
+
+#	NEW	icao	........ / following	// <p> At the time of rebranding , the Britannia Airways fleet consisted of the following aircraft : </p>
+
+247	TRUE	Britannia Airways::callsign	britannia / Britannia	
+<p> At the time of rebranding , the Britannia Airways fleet consisted of the following aircraft : </p>
+
+#	NEW	hubs	........ / Gatwick	// Its main bases were <a> London Gatwick </a> , <a> London Luton </a> , <a> Birmingham </a> , <a> Manchester </a> , <a> Newcastle </a> and <a> Glasgow </a> .
+
+#	NEW	parent	........ / ( TUI Group )	// <p> In 2000 Thomson Travel Group and Britannia Airways were acquired by <a> Preussag AG </a> ( TUI Group ) of Germany .
+
+250	FALSE	Britannia Airways::logo_size	200 / 767	
+Britannia was also the first European airline to fly the <a> Boeing 767 </a> .
+
+251	TRUE	Britannia Airways::founded	1 december 1961 / 1962	
+737 at [ [ East Midlands Airport ] ] in 1982 ] ] The airline was established on 1 December 1961 by Ted Langton and started operations on 5 May 1962 as <strong> Euravia ( London ) </strong> flying <a> Lockheed Constellation </a> s on <a> inclusive tour holidays </a> for Universal Sky Tours .
+
+#	NEW	website	........ / Britannia formed a wholly owned subsidiary , Britannia GmbH , based in Germany to operate long and short-haul flights from airports in Germany , Switzerland and Austria for German tour operators , but this was closed in March	// <p> In 1997 Britannia formed a wholly owned subsidiary , Britannia GmbH , based in Germany to operate long and short-haul flights from airports in Germany , Switzerland and Austria for German tour operators , but this was closed in March 2001 . </p>
+
+#	NEW	fleet_size	........ / 737	// 737 at [ [ East Midlands Airport ] ] in 1982 ] ] The airline was established on 1 December 1961 by Ted Langton and started operations on 5 May 1962 as <strong> Euravia ( London ) </strong> flying <a> Lockheed Constellation </a> s on <a> inclusive tour holidays </a> for Universal Sky Tours .
+
+#	NEW	airline	........ / Portug&#	// <p> <strong> Portug&#x00e1 ; lia </strong> ( <strong> Companhia Portuguesa de Transportes A&#x00e9 ; reos S . A . </strong> ) is a <a> regional airline </a> with its head office in <a> Lisbon </a> , <a> Portugal </a> .
+
+#	NEW	icao	........ / December	// <p> The Portugalia fleet includes the following aircraft ( as of December 2010 ) ref name=&quot ; FI&quot ; / : </p>
+
+#	NEW	ceased	........ / 1988	// <p> The airline was established on 25 July 1988 as a joint-stock company , but had to wait two years before it could start services , due to a delay in air transport liberalization .
+
+#	NEW	founded	........ / 1988	// <p> The airline was established on 25 July 1988 as a joint-stock company , but had to wait two years before it could start services , due to a delay in air transport liberalization .
+
+#	NEW	hubs	........ / Portela	// Its main base is <a> Portela Airport </a> , Lisbon with a hub at <a> Francisco S&#x00e1 ; Carneiro Airport </a> , Porto . </p>
+
+#	NEW	frequent_flyer	........ / aircraft collapsed	// <p> On 11 August 2001 the left main landing gear of a Portugalia Fokker 100 aircraft collapsed during taxi at Lisbon Airport .
+
+#	NEW	parent	........ / aircraft ( as of	// <p> The Portugalia fleet includes the following aircraft ( as of December 2010 ) ref name=&quot ; FI&quot ; / : </p>
+
+#	NEW	headquarters	........ / Carneiro	// Its main base is <a> Portela Airport </a> , Lisbon with a hub at <a> Francisco S&#x00e1 ; Carneiro Airport </a> , Porto . </p>
+
+#	NEW	website	........ / It started operations with scheduled domestic and international charter flights , as scheduled international flights were not then permitted under Portuguese legislation .	// It started operations with scheduled domestic and international charter flights , as scheduled international flights were not then permitted under Portuguese legislation .
+
+#	NEW	fleet_size	........ / 7	// It started operations on 7 July 1990 with a flight from Lisbon to Porto .
+
+#	NEW	callsign	........ / Portugalia	// <p> The Portugalia fleet includes the following aircraft ( as of December 2010 ) ref name=&quot ; FI&quot ; / : </p>
+
+#	NEW	airline	........ / US Air	// <p> The theory that the crash was caused by a defective servo valve in the plane ' s rudder , resulting in a rudder hard-over , has been compared to two other Boeing 737 crashes , <a> United Airlines Flight 585 </a> and <a> US Air Flight 427 </a> . </p>
+
+#	NEW	ceased	........ / December 19 , 1997	// <p> Silk Air issued a press release on December 19 , 1997 with a passenger count by nationality , </p>
+
+#	NEW	founded	........ / 1997	// <p> Silk Air issued a press release on December 19 , 1997 with a passenger count by nationality , </p>
+
+#	NEW	frequent_flyer	........ / state any	// <p> The Indonesian NTSC was criticised for failing to find and state any accident cause .
+
+#	NEW	website	........ / the controller informed the flight that it was abeam Palembang .	// At 16 : 10 the controller informed the flight that it was abeam Palembang .
+
+#	NEW	fleet_size	........ / 185	// Flight 185 remained level at FL350 until it started a rapid and nearly vertical dive , as shown on Jakarta radar , around 16 : 12 : 18 .
+
+#	NEW	icao	........ / into	// <p> The U . S . <a> National Transportation Safety Board </a> ( NTSB ) , which also participated in the investigation , disagreed with the NTSC and concluded that the evidence was consistent with a deliberate manipulation of the flight controls , most likely by the captain , which put the aircraft into a vertical dive and caused it to crash . </p>
+
+#	NEW	callsign	........ / National	// <p> The U . S . <a> National Transportation Safety Board </a> ( NTSB ) , which also participated in the investigation , disagreed with the NTSC and concluded that the evidence was consistent with a deliberate manipulation of the flight controls , most likely by the captain , which put the aircraft into a vertical dive and caused it to crash . </p>
+
+#	NEW	logo_size	........ / 15 :	// <p> Tsu ' s announcement ended at 15 : 46 .
+
+#	NEW	hubs	........ / Hatta	// <p> Carrying 97 passengers and a crew of seven , the Boeing departed Jakarta ' s <a> Soekarno-Hatta International Airport </a> ' s runway 25R at 15 : 37 local time ( 08 : 37 <a> UTC </a> ) for a planned 80 minute flight to <a> Singapore Changi Airport </a> , with the captain at the controls .
+
+#	NEW	parent	........ / National Transportation	// <p> The accident was investigated by the Indonesian <a> National Transportation Safety Committee </a> ( NTSC ) , which was assisted by expert groups from the U . S . , Singapore and Australia . </p>
+
+276	TRUE	Kosova Airlines::airline	kosova airlines / Kosova Airlines	
+<p> <strong> Kosova Airlines </strong> is an airline that is based in <a> Kosovo </a> .
+
+277	FALSE	Kosova Airlines::icao	- / Kosova	
+The aircraft arrived into the Kosova Airlines fleet on 1 December 2003 and remained in the fleet until 10 May 2006 .
+
+278	FALSE	Kosova Airlines::callsign	- / Kosova	
+The aircraft arrived into the Kosova Airlines fleet on 1 December 2003 and remained in the fleet until 10 May 2006 .
+
+279	TRUE	Kosova Airlines::founded	2003 / 2006.	
+The aircraft arrived into the Kosova Airlines fleet on 1 December 2003 and remained in the fleet until 10 May 2006 .
+
+#	NEW	hubs	........ / Hamburg	// The aircraft has a dark blue tail like that on the original Hamburg International livery .
+
+#	NEW	frequent_flyer	........ / Kosova Airlines	// <p> <strong> Kosova Airlines </strong> is an airline that is based in <a> Kosovo </a> .
+
+#	NEW	parent	........ / Kosova Airlines	// <p> <strong> Kosova Airlines </strong> is an airline that is based in <a> Kosovo </a> .
+
+#	NEW	headquarters	........ / Kosovo	// <p> <strong> Kosova Airlines </strong> is an airline that is based in <a> Kosovo </a> .
+
+284	TRUE	Kosova Airlines::fleet_size	1 / Airlines	
+On 10 May 2006 , the only aircraft in the Kosova Airlines fleet , a <a> Boeing 737-700 </a> , which was <a> wet leased </a> from the <a> German </a> airline <a> Hamburg International </a> , was returned to that airline , and Kosova Airlines ceased operating flights .
+
+#	NEW	logo_size	........ / 10	// The aircraft arrived into the Kosova Airlines fleet on 1 December 2003 and remained in the fleet until 10 May 2006 .
+
+#	NEW	website	........ / Kosova Airlines offers flights with these airlines from the following places :	// Kosova Airlines offers flights with these airlines from the following places : </p>
+
+287	TRUE	Flying Tiger Line::airline	flying tiger line / leased	
+<p> <strong> Flying Tiger Line </strong> , also known as <strong> Flying Tigers </strong> , was the first scheduled cargo <a> airline </a> in the <a> United States </a> and a major military charter operator during the <a> Cold War </a> era for both cargo and personnel ( the latter with leased aircraft ) .
+
+#	NEW	icao	........ / following	// <p> At the time of its sale Flying Tigers was operating the following aircraft : </p>
+
+#	NEW	callsign	........ / sale Flying	// <p> At the time of its sale Flying Tigers was operating the following aircraft : </p>
+
+#	NEW	ceased	........ / 1980	// It surpassed <a> Pan American World Airways </a> in 1980 as the world ' s largest air cargo carrier after acquiring its rival cargo airline <a> Seaboard World Airlines </a> on 1 October 1980 .
+
+291	FALSE	Flying Tiger Line::founded	1945 / 1980.	
+It surpassed <a> Pan American World Airways </a> in 1980 as the world ' s largest air cargo carrier after acquiring its rival cargo airline <a> Seaboard World Airlines </a> on 1 October 1980 .
+
+#	NEW	hubs	........ / Angeles	// It was headquartered on the grounds of <a> Los Angeles International Airport </a> in <a> Westchester </a> , <a> Los Angeles </a> , <a> California </a> . </p>
+
+#	NEW	destinations	........ / 58	// <p> By the mid-1980s , Flying Tigers operated scheduled cargo service to six continents and served 58 countries .
+
+#	NEW	parent	........ / sale Flying	// <p> At the time of its sale Flying Tigers was operating the following aircraft : </p>
+
+#	NEW	fleet_size	........ / 58	// <p> By the mid-1980s , Flying Tigers operated scheduled cargo service to six continents and served 58 countries .
+
+#	NEW	logo_size	........ / 747	// In 1965 , Flying Tiger Line began operating jet aircraft ( the <a> Boeing 707 </a> ) ; in 1974 , the airline took delivery of its first <a> Boeing 747 </a> .
+
+#	NEW	airline	........ / June 24	// <p> <strong> <a> Eastern Air Lines </a> Flight 66 </strong> , a <a> Boeing 727 </a> -225 with registration number N8845E , departed from <a> New Orleans </a> <a> Moisant Field </a> , bound for <a> John F . Kennedy International Airport </a> on the afternoon of June 24 , 1975 .
+
+#	NEW	icao	........ / NTSB	// <p> The NTSB also found the following contributing factor : </p>
+
+#	NEW	callsign	........ / NTSB	// <p> The NTSB also found the following contributing factor : </p>
+
+#	NEW	founded	........ / 8	// <p> As the investigation progressed , it was found that 10 minutes prior to Flight 66 crashing , a <a> Flying Tiger Line </a> <a> Douglas DC-8 </a> cargo jet landing on Runway 22L reported tremendous wind shear on the ground .
+
+#	NEW	hubs	........ / system	// <p> This accident led to the development of the original <a> low level windshear alert system </a> by the U . S . <a> Federal Aviation Administration </a> in 1976 that was installed at 110 FAA towered airports between 1977 and 1987 . </p>
+
+#	NEW	frequent_flyer	........ / fact but	// The pilot warned the tower of the fact but other aircraft continued to land .
+
+#	NEW	destinations	........ / 2	// Ten passengers and 2 flight attendants , who were seated in the rear of the aircraft , survived .
+
+#	NEW	parent	........ / ILS localizer	// <p> &quot ; The aircraft ' s encounter with adverse winds associated with a very strong thunderstorm located astride the <a> ILS localizer </a> course , which resulted in high descent rate into the non-frangible approach light towers .
+
+#	NEW	fleet_size	........ / 2	// Ten passengers and 2 flight attendants , who were seated in the rear of the aircraft , survived .
+
+#	NEW	logo_size	........ / <p>	// <p> The NTSB also found the following contributing factor : </p>
+
+#	NEW	website	........ / The flight crew ' s delayed recognition and correction of the high descent rate were probably associated with their reliance upon visual cues rather than on flight instrument reference .	// The flight crew ' s delayed recognition and correction of the high descent rate were probably associated with their reliance upon visual cues rather than on flight instrument reference .
+
+308	TRUE	MacAir Airlines::airline	macair airlines / Australia.	
+<p> <strong> MacAir Airlines Pty Ltd </strong> was a regional <a> airline </a> based in <a> Townsville </a> , Queensland , Australia .
+
+309	FALSE	MacAir Airlines::icao	mck / following	
+<p> At the end of January 2009 MacAir operated to the following scheduled destinations : </p>
+
+310	TRUE	MacAir Airlines::callsign	macair / January	
+<p> At the end of January 2009 MacAir operated to the following scheduled destinations : </p>
+
+311	FALSE	MacAir Airlines::ceased	january 2009 / 2000	
+In May 2000 the Collings family sold the airline to <strong> Transjet </strong> , owner of <strong> Transtates Airlines </strong> .
+
+312	TRUE	MacAir Airlines::founded	1992 / 1998.	
+<p> MacAir Airlines was established and started charter operations in 1992 as <strong> McKinlay Air Charters </strong> , adding scheduled services in 1998 .
+
+#	NEW	frequent_flyer	........ / MacAir Airlines	// <p> MacAir Airlines was a Qantas commercial partner .
+
+314	FALSE	MacAir Airlines::destinations	29 / 1992	
+<p> MacAir Airlines was established and started charter operations in 1992 as <strong> McKinlay Air Charters </strong> , adding scheduled services in 1998 .
+
+#	NEW	parent	........ / MacAir Airlines	// <p> MacAir Airlines was established and started charter operations in 1992 as <strong> McKinlay Air Charters </strong> , adding scheduled services in 1998 .
+
+#	NEW	headquarters	........ / , Australia .	// <p> <strong> MacAir Airlines Pty Ltd </strong> was a regional <a> airline </a> based in <a> Townsville </a> , Queensland , Australia .
+
+#	NEW	website	........ / It operated scheduled passenger services throughout Queensland from major regional locations , as well as regular and ad hoc charters for the minerals industry in Queensland .	// It operated scheduled passenger services throughout Queensland from major regional locations , as well as regular and ad hoc charters for the minerals industry in Queensland .
+
+#	NEW	fleet_size	........ / 1998 .	// <p> MacAir Airlines was established and started charter operations in 1992 as <strong> McKinlay Air Charters </strong> , adding scheduled services in 1998 .
+
+#	NEW	airline	........ / second air	// It was the second air disaster involving PRC aircraft in less than a month , after the <a> Air China Flight 129 </a> disaster on April 15 . </p>
+
+#	NEW	iata	........ / Capital	// <p> <strong> <a> China Northern Airlines </a> Flight 6136 </strong> ( CBF6136 , CJ6136 ) was a flight from <a> Beijing Capital International Airport </a> to <a> Dalian Zhoushuizi International Airport </a> , a coastal city in <a> Liaoning </a> province of the <a> People ' s Republic of China </a> . </p>
+
+#	NEW	callsign	........ / Air China	// It was the second air disaster involving PRC aircraft in less than a month , after the <a> Air China Flight 129 </a> disaster on April 15 . </p>
+
+#	NEW	ceased	........ / 15 .	// It was the second air disaster involving PRC aircraft in less than a month , after the <a> Air China Flight 129 </a> disaster on April 15 . </p>
+
+#	NEW	founded	........ / 15 .	// It was the second air disaster involving PRC aircraft in less than a month , after the <a> Air China Flight 129 </a> disaster on April 15 . </p>
+
+#	NEW	hubs	........ / cigarette	// According to the video monitor record , he had spent several hours smoking <a> cigarette </a> s in the waiting hall of Beijing airport .
+
+#	NEW	destinations	........ / 15 .	// It was the second air disaster involving PRC aircraft in less than a month , after the <a> Air China Flight 129 </a> disaster on April 15 . </p>
+
+#	NEW	parent	........ / radar	// At 2124 local time ( 1324 UTC ) the aircraft disappeared from the <a> radar </a> screen and lost contact with <a> ATC </a> .
+
+#	NEW	website	........ / It was the second air disaster involving PRC aircraft in less than a month	// It was the second air disaster involving PRC aircraft in less than a month , after the <a> Air China Flight 129 </a> disaster on April 15 . </p>
+
+#	NEW	fleet_size	........ / 15 .	// It was the second air disaster involving PRC aircraft in less than a month , after the <a> Air China Flight 129 </a> disaster on April 15 . </p>
+
+#	NEW	logo_size	........ / 15 .	// It was the second air disaster involving PRC aircraft in less than a month , after the <a> Air China Flight 129 </a> disaster on April 15 . </p>
+
+#	NEW	icao	........ / airline	// <p> In 2002 the airline fleet was as follows : </p>
+
+331	FALSE	Khalifa Airways::callsign	khalifa air / airline	
+<p> In 2002 the airline fleet was as follows : </p>
+
+#	NEW	ceased	........ / 5	// The airline was liquidated by a French court on 10 July 2003 after it failed to make a 5 million Euro payment to creditors . </p>
+
+333	FALSE	Khalifa Airways::founded	1999 / 2002	
+<p> In 2002 services included : </p>
+
+#	NEW	parent	........ / airline fleet	// <p> In 2002 the airline fleet was as follows : </p>
+
+335	FALSE	Khalifa Airways::fleet_size	37 / 30	
+In the Arab press that month it was reported that the airline was only operating &quot ; a dozen aircraft at the most , &quot ; out of the 30 it previously had in its fleet .
+
+336	TRUE	Khalifa Airways::airline	khalifa airways / Khalifa Airways	
+<p> <strong> Khalifa Airways </strong> ( <strong> &#x0627 ; &#x0644 ; &#x062e ; &#x0637 ; &#x0648 ; &#x0637 ; &#x0627 ; &#x0644 ; &#x062c ; &#x0648 ; &#x064a ; &#x0629 ; &#x0627 ; &#x0644 ; &#x062e ; &#x0644 ; &#x064a ; &#x0641 ; &#x0629 ; </strong> ) was a passenger and cargo <a> airline </a> based in <a> Algiers </a> , <a> Algeria </a> which was founded in June 1999 by <a> Rafik Khalifa </a> and ceased flying in 2003 . </p>
+
+#	NEW	logo_size	........ / 8	// By April 2003 , the 8 remaining aircraft were grounded as insurance contracts expired .
+
+338	TRUE	ADC Airlines::airline	aviation development company / Nigeria	
+<p> <strong> ADC Airlines </strong> was a Nigerian airline owned by <strong> Aviation Development Company plc </strong> and headquartered in <a> Ikeja </a> , <a> Lagos State </a> , <a> Nigeria </a> .
+
+#	NEW	icao	........ / following	// <p> The ADC Airlines fleet consisted of the following aircraft ( at October 2006 ) : </p>
+
+#	NEW	callsign	........ / ADC	// <p> The ADC Airlines fleet consisted of the following aircraft ( at October 2006 ) : </p>
+
+341	FALSE	ADC Airlines::ceased	2007 / 1 January 1991.	
+In 1990 the company began to set up ADC Airlines , which became operational on 1 January 1991 .
+
+#	NEW	hubs	........ / Mohammed	// Its main base was <a> Murtala Mohammed International Airport </a> , Lagos . </p>
+
+#	NEW	parent	........ / following aircraft	// <p> The ADC Airlines fleet consisted of the following aircraft ( at October 2006 ) : </p>
+
+#	NEW	headquarters	........ / Mohammed	// Its main base was <a> Murtala Mohammed International Airport </a> , Lagos . </p>
+
+#	NEW	website	........ / It operated domestic scheduled services and regional charter flights .	// It operated domestic scheduled services and regional charter flights .
+
+#	NEW	logo_size	........ / 2005	// <p> ADC airlines operated over 120 flights a week on the following services ( at February <a> 2005 </a> ) : </p>
+
+#	NEW	iata	........ / La	// <p> <strong> AeroCalifornia </strong> was a low-cost airline with its headquarters in <a> La Paz , Baja California Sur </a> , <a> Mexico </a> .
+
+348	FALSE	Aero California::icao	ser / airline	
+By 1995 the airline fleet was being upgraded to all-jet types with <a> Douglas DC-9-1 / 15 </a> jets and the longer <a> Douglas DC-9-32 </a> s comprising the fleet . </p>
+
+349	FALSE	Aero California::callsign	aerocalifornia / airline	
+By 1995 the airline fleet was being upgraded to all-jet types with <a> Douglas DC-9-1 / 15 </a> jets and the longer <a> Douglas DC-9-32 </a> s comprising the fleet . </p>
+
+#	NEW	founded	........ / 1960	// <p> The airline started in 1960 as an <a> air taxi </a> based at <a> La Paz , Baja California Sur </a> with the name of Servicios A&#x00e9 ; reos flying <a> Cessna </a> twins and <a> Beechcraft 18 </a> . </p>
+
+#	NEW	hubs	........ / n	// <a> Manuel M&#x00e1 ; rquez de Le&#x00f3 ; n International Airport </a> in La Paz was its main hub . .
+
+352	FALSE	Aero California::destinations	17 / 3	
+<p> By the early 1980s <a> Douglas DC-3 </a> s were added to the fleet as domestic charters grew .
+
+#	NEW	parent	........ / Airline continues	// The Airline continues to hold its Airline License . </p>
+
+#	NEW	fleet_size	........ / 1989	// In 1989 the first international scheduled service was started between Los Angeles and La Paz , <a> Loreto </a> and <a> Los Cabos </a> .
+
+#	NEW	logo_size	........ / its	// <p> On April 3 , 2006 , the Mexican federal <a> Secretariat of Communications and Transport </a> suspended all operations after the civil aviation authorities determined the airline was not complying with its safety standards .
+
+#	NEW	headquarters	........ / ,	// <p> <strong> AeroCalifornia </strong> was a low-cost airline with its headquarters in <a> La Paz , Baja California Sur </a> , <a> Mexico </a> .
+
+#	NEW	website	........ / the first international scheduled service was started between Los Angeles and La Paz	// In 1989 the first international scheduled service was started between Los Angeles and La Paz , <a> Loreto </a> and <a> Los Cabos </a> .
+
+358	TRUE	Gambia International Airlines::airline	gambia international airlines / headquartered	
+<p> <strong> Gambia International Airlines </strong> ( GIA ) was the national <a> airline </a> of <a> The Gambia </a> , headquartered in <a> Banjul </a> .
+
+#	NEW	icao	........ / International	// <p> In 2004 , the Gambia International Airlines fleet consisted of the following aircraft : </p>
+
+360	TRUE	Gambia International Airlines::callsign	gambia international / International	
+<p> In 2004 , the Gambia International Airlines fleet consisted of the following aircraft : </p>
+
+361	TRUE	Gambia International Airlines::founded	1996 / 1	
+<p> Gambia International Airlines was established on 23 January 1996 and started operations ( originally only <a> ground handling </a> ) on 1 March of the same year .
+
+#	NEW	hubs	........ / Africa	// It operated mostly regional passenger services within <a> West Africa </a> out of <a> Banjul International Airport </a> , as well as flights to <a> London </a> .
+
+#	NEW	parent	........ / International Airlines	// <p> In 2004 , the Gambia International Airlines fleet consisted of the following aircraft : </p>
+
+#	NEW	fleet_size	........ / 1	// <p> Gambia International Airlines was established on 23 January 1996 and started operations ( originally only <a> ground handling </a> ) on 1 March of the same year .
+
+#	NEW	logo_size	........ / 2004	// Even though claiming <a> net profit </a> of 1 . 3 million <a> dollars </a> in 2003 , the airline was forced to suspend its flight operations again in April 2004 due to operational problems .
+
+366	FALSE	Air Guyane Express::airline	air guyane express / French	
+<p> <strong> Air Guyane SP </strong> is an <a> airline </a> with its head office on the grounds of <a> Cayenne-Rochambeau Airport </a> in <a> Matoury </a> , <a> French Guiana </a> .
+
+#	NEW	callsign	........ / Air	// <p> The Air Guyane fleet includes the following aircraft ( at April 2008 ) : </p>
+
+#	NEW	ceased	........ / 2002	// <p> On 1 June 2002 Air Guyane Express took over the operations of the former Air Guyane .
+
+369	TRUE	Air Guyane Express::founded	2002 / 2002	
+<p> On 1 June 2002 Air Guyane Express took over the operations of the former Air Guyane .
+
+#	NEW	hubs	........ / Rochambeau	// Its main base is Cayenne-Rochambeau Airport . . </p>
+
+#	NEW	parent	........ / following aircraft	// <p> The Air Guyane fleet includes the following aircraft ( at April 2008 ) : </p>
+
+#	NEW	headquarters	........ / Rochambeau	// Its main base is Cayenne-Rochambeau Airport . . </p>
+
+#	NEW	website	........ / It operates regional scheduled flights .	// It operates regional scheduled flights .
+
+#	NEW	logo_size	........ / 2008 ) :	// <p> The Air Guyane fleet includes the following aircraft ( at April 2008 ) : </p>
+
+375	TRUE	Debonair (airline)::airline	debonair / Italy	
+<p> <strong> Debonair </strong> was a <a> British </a> airline operating mainly from <a> London Luton Airport </a> offering flights to and from <a> Spain </a> , <a> France </a> , <a> Germany </a> and <a> Italy </a> .
+
+376	TRUE	Debonair (airline)::icao	deb / Eleven	
+<p> Debonair operated a fleet of used <a> BAe 146 </a> aircraft , later supplemented by three <a> Boeing 737-300 </a> s and a leased <a> BAC One-Eleven </a> .
+
+377	TRUE	Debonair (airline)::callsign	debonair / Debonair	
+<p> Debonair operated a fleet of used <a> BAe 146 </a> aircraft , later supplemented by three <a> Boeing 737-300 </a> s and a leased <a> BAC One-Eleven </a> .
+
+378	TRUE	Debonair (airline)::ceased	1999 / 1999	
+On 1 October 1999 the airline ceased operations due to financial problems . </p>
+
+379	FALSE	Debonair (airline)::founded	1996 / 1999	
+It ceased operations in October <a> 1999 </a> . </p>
+
+#	NEW	parent	........ / ceased operations	// It ceased operations in October <a> 1999 </a> . </p>
+
+#	NEW	website	........ / and on its first day of operations offered all passengers free flights .	// <p> Debonair was founded in 1996 by <a> Franco Mancassola </a> and on its first day of operations offered all passengers free flights .
+
+#	NEW	fleet_size	........ / 1999	// It ceased operations in October <a> 1999 </a> . </p>
+
+#	NEW	logo_size	........ / </	// On 1 October 1999 the airline ceased operations due to financial problems . </p>
+
+#	NEW	frequent_flyer	........ / was not	// The Debonair business concept of offering budget airline travel , whilst keeping the frills ( free drinks and snacks ) associated with national carriers , was not a financial success .
+
+385	TRUE	Kam Air::airline	kam air / Centre	
+<p> <strong> Kam Air </strong> is an <a> airline </a> headquartered in the Kabul Business Centre in <a> Kabul </a> , <a> Afghanistan </a> .
+
+#	NEW	iata	........ / an	// <p> <strong> Kam Air </strong> is an <a> airline </a> headquartered in the Kabul Business Centre in <a> Kabul </a> , <a> Afghanistan </a> .
+
+#	NEW	icao	........ / July	// <p> The Kam Air fleet consists of the following aircraft ( as of 27 July 2010 ) : </p>
+
+388	FALSE	Kam Air::callsign	kamgar / Air	
+<p> The Kam Air fleet consists of the following aircraft ( as of 27 July 2010 ) : </p>
+
+389	FALSE	Kam Air::founded	august 2003 / 2010 ) :	
+<p> The Kam Air fleet consists of the following aircraft ( as of 27 July 2010 ) : </p>
+
+#	NEW	hubs	........ / Kabul	// Its main base is <a> Kabul International Airport </a> . </p>
+
+#	NEW	destinations	........ / 2010	// It operates scheduled domestic passenger services and international services to the <a> Middle East </a> , Asian republics and from August 2010 also to <a> Vienna </a> , Austria in Europe .
+
+#	NEW	parent	........ / destinations ( as of	// <p> Kam Air serves the following destinations ( as of November 2010 ) : </p>
+
+#	NEW	headquarters	........ / Kabul	// Its main base is <a> Kabul International Airport </a> . </p>
+
+394	FALSE	Kam Air::fleet_size	3 / 2010	
+It operates scheduled domestic passenger services and international services to the <a> Middle East </a> , Asian republics and from August 2010 also to <a> Vienna </a> , Austria in Europe .
+
+395	TRUE	Thai Air Cargo::airline	thai air cargo / Air Cargo	
+<p> <strong> Thai Air Cargo </strong> ( T2 Cargo ) , was a <a> cargo airline </a> based in <a> Bangkok </a> , <a> Thailand </a> . </p>
+
+#	NEW	icao	........ / Thailand '	// <p> However , in March 2006 , Thailand ' s Civil Aviation Department said it was withdrawing the cargo carrier ' s license , and it appears the airline has gone out of business . [ <a> http : / /www . nationmultimedia . co / 200 / 0 / 0 / busines / business_20002118 . php </a> ] </p>
+
+#	NEW	callsign	........ / Air	// <p> Thai Air Cargo was established in December 2004 as a joint venture between a Thai logistics firm , Commercial Transport International , or <a> CTI Holdings </a> ( 51% ) and Australian airline <a> Qantas </a> ( 49% ) . </p>
+
+#	NEW	frequent_flyer	........ / Air Cargo	// <a> &quot ; Tigers ' cargo purr&quot ; </a> , <em> Air Cargo World </em> .
+
+#	NEW	website	........ / http : / /www . worldair . co / new /	// [ <a> http : / /www . worldair . co / new / 20050310 . html </a> ] </p>
+
+#	NEW	fleet_size	........ / 2004	// <p> Thai Air Cargo was established in December 2004 as a joint venture between a Thai logistics firm , Commercial Transport International , or <a> CTI Holdings </a> ( 51% ) and Australian airline <a> Qantas </a> ( 49% ) . </p>
+
+#	NEW	logo_size	........ / 11	// <p> In 2005 , the company announced it was to <a> wet lease </a> a <a> McDonnell Douglas MD-11 </a> from US-based <a> World Airways </a> .
+
+402	TRUE	Thai Air Cargo::parent	cti holdings / Thai Air	
+<p> Thai Air Cargo was established in December 2004 as a joint venture between a Thai logistics firm , Commercial Transport International , or <a> CTI Holdings </a> ( 51% ) and Australian airline <a> Qantas </a> ( 49% ) . </p>
+
+403	TRUE	Aerocaribe::airline	aerocaribe / Aerocaribe	
+<p> <strong> Aerocaribe </strong> was an airline based in <a> M&#x00e9 ; rida , Yucat&#x00e1 ; n </a> , <a> Mexico </a> .
+
+#	NEW	iata	........ / an	// <p> <strong> Aerocaribe </strong> was an airline based in <a> M&#x00e9 ; rida , Yucat&#x00e1 ; n </a> , <a> Mexico </a> .
+
+#	NEW	icao	........ / following	// <p> The Aerocaribe fleet consisted of the following aircraft ( at January 2005 ) : </p>
+
+406	TRUE	Aerocaribe::callsign	aerocaribe / Aerocaribe	
+<p> The Aerocaribe fleet consisted of the following aircraft ( at January 2005 ) : </p>
+
+#	NEW	destinations	........ / 120	// It operated almost 120 flights a day .
+
+#	NEW	parent	........ / following aircraft	// <p> The Aerocaribe fleet consisted of the following aircraft ( at January 2005 ) : </p>
+
+#	NEW	headquarters	........ / ,	// <p> <strong> Aerocaribe </strong> was an airline based in <a> M&#x00e9 ; rida , Yucat&#x00e1 ; n </a> , <a> Mexico </a> .
+
+#	NEW	website	........ / It operated almost 120 flights a day .	// It operated almost 120 flights a day .
+
+#	NEW	fleet_size	........ / 2005 ) :	// <p> Aerocaribe operated the following services ( at January 2005 ) : </p>
+
+#	NEW	logo_size	........ / 2005 ) :	// <p> Aerocaribe operated the following services ( at January 2005 ) : </p>
+
+413	FALSE	Aerocaribe::founded	1972 / 2008	
+Its new name is <a> Click by Mexicana </a> and it is an attempt to create a Mexican <a> low-cost carrier </a> , starting operations in July 2005 . in 2008 , with mexicanas restructuration Click , was announced that it would stop being a Low Cost airline , and change its name to <a> MexicanaClick </a> operating as a regional feeder , for domestic destinations in Mexico .
+
+414	FALSE	Afriqiyah Airways::iata	8u / an	
+<p> <strong> Afriqiyah Airways </strong> ( ) is an <a> airline </a> based in <a> Tripoli </a> , <a> Libya </a> .
+
+#	NEW	icao	........ / Flight	// <p> On 21 December 2010 , <a> Afriqiyah Airways </a> Flight 8U-953 .
+
+416	TRUE	Afriqiyah Airways::callsign	afriqiyah / December	
+<p> On 21 December 2010 , <a> Afriqiyah Airways </a> Flight 8U-953 .
+
+#	NEW	hubs	........ / Tripoli	// Its main base is <a> Tripoli International Airport </a> .
+
+418	FALSE	Afriqiyah Airways::destinations	30 / 25	
+It operates domestic services between Tripoli and <a> Benghazi </a> and international scheduled services to over 25 countries in <a> Europe </a> , <a> Africa </a> , <a> Asia </a> and the <a> Middle East </a> .
+
+#	NEW	parent	........ / Afriqiyah Airways	// <p> <strong> Afriqiyah Airways </strong> ( ) is an <a> airline </a> based in <a> Tripoli </a> , <a> Libya </a> .
+
+#	NEW	headquarters	........ / Tripoli	// Its main base is <a> Tripoli International Airport </a> .
+
+421	FALSE	Afriqiyah Airways::fleet_size	13 / <a>	
+It operates domestic services between Tripoli and <a> Benghazi </a> and international scheduled services to over 25 countries in <a> Europe </a> , <a> Africa </a> , <a> Asia </a> and the <a> Middle East </a> .
+
+#	NEW	logo_size	........ / a> .	// Afriqiyah Airways also plans to introduce new services to <a> Marseille </a> . </p>
+
+#	NEW	key_people	........ / mid October	// By mid October 2010 , Afriqiyah Airways and <a> Libyan Airlines </a> ( Libya ' s other state flag carrier ) were expected to merge into one airline . </p>
+
+#	NEW	airline	........ / Lucas Aviation	// <p> In 1970 , the airline was re-constituted as a <a> regional airline </a> named <strong> Lucas Aviation </strong> .
+
+#	NEW	icao	........ / DC-	// Between 1946 and 1955 , the airline operated a large fleet of <a> Douglas DC-3 </a> s . </p>
+
+#	NEW	callsign	........ / Between	// Between 1946 and 1955 , the airline operated a large fleet of <a> Douglas DC-3 </a> s . </p>
+
+#	NEW	ceased	........ / 1970	// <p> In 1970 , the airline was re-constituted as a <a> regional airline </a> named <strong> Lucas Aviation </strong> .
+
+#	NEW	hubs	........ / Orly	// Its main bases are <a> Orly Airport </a> and <a> Charles de Gaulle Airport </a> , Paris .
+
+#	NEW	parent	........ / regional airline	// <p> In 1970 , the airline was re-constituted as a <a> regional airline </a> named <strong> Lucas Aviation </strong> .
+
+#	NEW	fleet_size	........ / <a>	// It also operates <a> charter </a> , cargo and <a> wet lease </a> services .
+
+#	NEW	logo_size	........ / a>	// It also operates <a> charter </a> , cargo and <a> wet lease </a> services .
+
+#	null	iata	by / ..........
+
+#	null	iata	- / ..........
+
+#	null	ceased	september 30, 1986 / ..........
+
+#	null	airline	nepal airlines / ..........
+
+#	null	fleet_size	13 / ..........
+
+#	null	founded	1947 / ..........
+
+#	null	ceased	2001 / ..........
+
+#	null	key_people	omar fontana / ..........
+
+#	null	key_people	steve padgett / ..........
+
+#	null	iata	cc / ..........
+
+#	null	fleet_size	3 / ..........
+
+#	null	destinations	6 / ..........
+
+#	null	founded	1984 / ..........
+
+#	null	destinations	14 / ..........
+
+#	null	iata	q8 / ..........
+
+#	null	destinations	14 / ..........
+
+#	null	founded	1998 / ..........
+
+#	null	airline	aero mongolia / ..........
+
+#	null	destinations	15 / ..........
+
+#	null	founded	2001 / ..........
+
+#	null	iata	a6 / ..........
+
+#	null	ceased	2007 / ..........
+
+#	null	airline	aerohonduras / ..........
+
+#	null	ceased	2005 / ..........
+
+#	null	airline	air astana / ..........
+
+#	null	airline	aeropostal alas de venezuela / ..........
+
+#	null	destinations	8 / ..........
+
+#	null	iata	t2 / ..........
+
+#	null	founded	2004 / ..........
+
+#	null	airline	air creebec / ..........
+
+#	null	airline	air fiji / ..........
+
+#	null	ceased	1 may 2009 / ..........
+
+#	null	destinations	9 / ..........
+
+#	null	icao	guy / ..........
+
+#	null	airline	air inuit / ..........
+
+#	null	fleet_size	8 / ..........
+
+#	null	destinations	35 / ..........
+

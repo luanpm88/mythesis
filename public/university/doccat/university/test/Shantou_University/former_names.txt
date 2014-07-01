@@ -1,2 +1,0 @@
-<li>College of Science</li>
-<h3>College of Science</h3>

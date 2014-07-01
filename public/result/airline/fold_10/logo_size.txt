@@ -1,0 +1,102 @@
+Found: 44
+Found Not Null: 4
+Correct: 2
+Wrong: 2
+Total: 4
+precision: 0.5
+recall: 0.5
+
+
+
+#	NEW	logo_size	........ / 50	// It operates passenger and cargo services to over 50 destinations worldwide .
+
+#	NEW	logo_size	........ / 32 .	// The <a> net profit </a> of the company reached $309 . 4 million ( RUB 7 . 98 billion ) in 2006 , a 32 . 3% increase from 2005 earnings of only $234 million ( RUB6 . 03 billion ) .
+
+#	NEW	logo_size	........ / </	// In 2008 , 70 . 5 million passengers flew with Lufthansa ( not including Germanwings , BMI , AUA , Brussels Airlines ) . </p>
+
+#	NEW	logo_size	........ / 126	// <p> On 31 July 2008 an Iberia <a> McDonnell Douglas </a> <a> MD-88 </a> , on flight IB3575 from <a> Vienna </a> to <a> Madrid </a> with 126 passengers and 6 crew , made an emergency landing after a burst tyre was ingested by the engine .
+
+#	NEW	logo_size	........ / 50	// <p> The airline abruptly ceased operations at 00 : 00 on <a> September 8 </a> th , <a> 2008 </a> due to a lack of cash ( with debts of around &#x20ac ; 50 million ) .
+
+#	NEW	logo_size	........ / 2003	// <p> In January 2003 , Kalitta Air announced the start of scheduled cargo flights from the US to Europe .
+
+#	NEW	logo_size	........ / 2010	// <p> As of June 2010 , Skywest Airlines operates scheduled domestic flights to the following destinations : </p>
+
+7	TRUE	America West Express::logo_size	200 / a>.	
+<p> In 2003 , America West greatly increased the size of their express operation by starting new routes operated by regional jets from its hub at <a> McCarran International Airport </a> in <a> Las Vegas , Nevada </a> . </p>
+
+#	NEW	logo_size	........ / a> '	// <p> Air New Zealand , previously a 50% shareholder , acquired full ownership of Ansett in February 2000 , buying out <a> News Corporation </a> ' s stake for A$680 million , surpassing <a> Singapore Airlines </a> ' s A$500 million bid .
+
+#	NEW	logo_size	........ / 26	// In the end , on 16 January 2007 , she flew her last scheduled service almost exactly 26 years after her first .
+
+#	NEW	logo_size	........ / 38	// <p> The resulting investigation by the <a> Transportation Safety Board of Canada </a> ( TSB ) took over four years and cost <a> CAD </a> 57 million ( at that time approximately <a> USD </a> 38 million ) .
+
+#	NEW	logo_size	........ / 6	// <p> The airline was established in 2003 and started operations on March 6 , 2003 .
+
+#	NEW	logo_size	........ / 85	// The airline posted a profit of CNY4 . 85 billion ( $711 . 5 million ) in 2009 .
+
+#	NEW	logo_size	........ / 5	// In March 2010 liabilities were estimated up to 180 million Euro and assets less than 6 million Euro ( including 0 , 5 million of cash ) . </p>
+
+#	NEW	logo_size	........ / </	// CCAL had been bought by REGCO Holdings , ( now Porter Aviation Holdings ) , the owners of <a> Porter Airlines </a> , which launched service from the airport later that year . </p>
+
+#	NEW	logo_size	........ / 3	// The crash of <a> Air Florida Flight 90 </a> in 1982 accelerated its demise and it declared bankruptcy and ceased operations on July 3 , 1984 .
+
+#	NEW	logo_size	........ / <a>	// <p> In May 1952 , BOAC became the first airline to introduce a <a> passenger jet </a> , the <a> de Havilland Comet </a> .
+
+#	NEW	logo_size	........ / </	// It is estimated TWA was losing around $150 million a year in revenue with this deal . </p>
+
+#	NEW	logo_size	........ / 000	// Founded in 1996 , WestJet is currently the second largest Canadian air carrier , behind [ [ Air Canada ] ] , operating an average of over 380 flights and carrying over 40 , 000 passengers per day . </pre>
+
+19	FALSE	TAM Airlines::logo_size	200 / 1984.	
+By 1981 , TAM had flown one million passengers , and two million by 1984 . </p>
+
+20	FALSE	Singapore Airlines::logo_size	250 / 50	
+The contract is worth <a> S$ </a> 50 million per year over the following five years .
+
+#	NEW	logo_size	........ / 1 .	// The airline transported over 1 . 7 million passengers in 2009 and 1 . 12 million passengers in the first seven months of 2010 .
+
+#	NEW	logo_size	........ / </	// In 2006 , 2007 , 2008 and 2009 , THY carried 17 million , 19 . 7 million , 22 . 5 million , and 25 . 1 million passengers with total revenues of US $2 . 23 , US $3 . 0 , US $4 . 5 , and US $4 <a> billion </a> , respectively . </p>
+
+#	NEW	logo_size	........ / 1 .	// Iran Air carried 1 . 7 million passengers in that year .
+
+#	NEW	logo_size	........ / 2010	// In 2010 13 . 0 million passengers travelled with the airline .
+
+#	NEW	logo_size	........ / 2 .	// In May 2010 , ANA&#x2019 ; s total passenger traffic is up year-on-year by 7 . 8% , and its international services grow by 22% to 2 . 07 million passengers in the first five months of 2010 .
+
+#	NEW	logo_size	........ / 500	// The new airline would have operated approximately 60 aircraft and generated about $1 . 2 billion in annual revenues with 7 , 500 employees .
+
+#	NEW	logo_size	........ / <a>	// In 2009 Avianca turned 90 ( years ) making it one of the <a> world ' s oldest airlines </a> still in operation ; It is actually the oldest continuously operating airline in the <a> Western Hemisphere </a> .
+
+#	NEW	logo_size	........ / 1977 .	// <p> The airline was established in March 1977 and started operations in April 1977 .
+
+#	NEW	logo_size	........ / </	// <p> Started in 1973 , Aeroper&#x00fa ; was formed to take over the international routes operated by <a> APSA - L&#x00ed ; neas A&#x00e9 ; reas Peruanas S . A . </a> ( owned then by <a> Pan American Airways </a> ) .
+
+#	NEW	logo_size	........ / 1	// <p> The airline was established in October 1988 and started operations on December 1 , 1990 .
+
+#	NEW	logo_size	........ / a	// <p> In July 2006 , Continental Airlines announced a new contract , in which Chautauqua Airlines would provide and operate regional jets as a Continental Express carrier .
+
+#	NEW	logo_size	........ / 9 .	// Air Canada had passenger revenues of <a> CA$ </a> 9 . 7 billion in 2008 . </p>
+
+33	TRUE	Saudi Arabian Airlines::logo_size	200 / 15	
+In 2004 , the airline carried over 15 million passengers and recorded a 14% rise in profits .
+
+#	NEW	logo_size	........ / 2009 .	// This was expected to save it $60 million during the fiscal year ending March 2009 .
+
+#	NEW	logo_size	........ / 2008 .	// <p> The airline recorded an 18% increase in passenger numbers in July 2008 .
+
+#	NEW	logo_size	........ / 246	// The flight was carrying 246 passengers and 23 crew members .
+
+#	NEW	logo_size	........ / 1978	// [ [ Shiodome City Center ] ] , which previously served as the airline ' s headquarters ] ] Nippon Cargo Airlines was established on September 21 , 1978 and started operations in 1985 .
+
+#	NEW	logo_size	........ / 3	// It lost $15 . 1 million for the year on revenues of $88 . 3 million .
+
+#	NEW	logo_size	........ / 11 .	// The airline was Canada ' s second largest <a> airline </a> after <a> Air Canada </a> , and carried more than 11 . 9 million passengers to over 160 destinations in 17 countries on five continents at its height in 1996 .
+
+#	NEW	logo_size	........ / 623 .	// The alliance currently has more than 21 , 200 daily departures to 1 , 172 airports in 181 countries , with an annual passenger number of 623 . 53 <a> million </a> . </p>
+
+#	NEW	logo_size	........ / 200	// The flotation is expected to value the airline at around &#x00a3 ; 200 million .
+
+#	NEW	logo_size	........ / <a>	// Air [ [ Boeing 737-700 ] ] lands at <a> London Heathrow Airport </a> , <a> England </a> .
+
+#	NEW	logo_size	........ / 737-	// <p> The fleet of Air Canada Tango consisted of up to 13 <a> Airbus A320 </a> and ( from 2002 ) up to 6 <a> Boeing 737-200 </a> . </p>
+

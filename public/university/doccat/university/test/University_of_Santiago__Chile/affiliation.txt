@@ -1,3 +1,0 @@
-<li><a>Engineering</a> (<em>Ingenier&#x00ed;a</em>),</li>
-<li><a>Chemistry</a> &amp; <a>Biology</a> (<em>Qu&#x00ed;mica y Biolog&#x00ed;a</em>),</li>
-<li><a>English version</a></li>

@@ -1,7 +1,0 @@
-<h3>Vincennes - Main Campus</h3>
-<li>Young Hall - State-wide Services</li>
-<li>Automotive Technology Building</li>
-<li>New Classroom Building</li>
-<p><strong>Low-Power Radio Stations</strong></p>
-<p><strong>Main High-Power Radio Station</strong></p>
-1-9.

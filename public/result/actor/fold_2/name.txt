@@ -1,0 +1,83 @@
+Found: 27
+Found Not Null: 17
+Correct: 15
+Wrong: 2
+Total: 18
+precision: 0.8823529411764706
+recall: 0.8333333333333334
+
+
+
+#	NEW	name	........ / Staci Greason	// <p> <strong> Staci Greason </strong> ( born 23 May 1964 ) is an American <a> actress </a> .
+
+1	FALSE	Lenny McLean::name	lenny mclean / hardest man	
+<p> <strong> Leonard John </strong> &quot ; <strong> Lenny </strong> &quot ; <strong> McLean </strong> ( 9 April 1949 &#x2013 ; 28 July 1998 ) , also known as &quot ; <strong> The Guv ' nor </strong> , &quot ; was a famed <a> East End of London </a> <a> bareknuckle fighter </a> , <a> bouncer </a> , former <a> criminal </a> and <a> prisoner </a> , <a> author </a> , <a> businessman </a> , <a> bodyguard </a> , <a> enforcer </a> , <a> weightlifter </a> , <a> television presenter </a> , and <a> actor </a> ; McLean was often referred to as &quot ; the hardest man in <a> Britain </a> . &quot ; </p>
+
+2	TRUE	Harry Cohn::name	harry cohn / Columbia Pictures	
+<p> <strong> Harry Cohn </strong> ( July 23 , 1891 &ndash ; February 27 , 1958 ) was the American president and production director of <a> Columbia Pictures </a> . </p>
+
+3	TRUE	Sterling Hayden::name	sterling hayden / was an	
+<p> <strong> Sterling Hayden </strong> ( March 26 , 1916 &#x2013 ; May 23 , 1986 ) was an <a> American </a> actor and author .
+
+4	TRUE	Gladys Brockwell::name	gladys brockwell / silent film	
+<p> <strong> Gladys Brockwell </strong> ( September 26 , 1893 &#x2013 ; July 2 , 1929 ) was an American actress whose career began during the <a> silent film </a> era . </p>
+
+5	TRUE	Evelyn Brent::name	evelyn brent / an American	
+<p> <strong> Evelyn Brent </strong> ( October 20 , 1899 &#x2013 ; June 4 , 1975 ) was an American film and stage actress . </p>
+
+6	FALSE	Maren Jensen::name	maren jensen / Battlestar Galactica	
+<p> <strong> Maren Kawehilani Jensen </strong> ( September 23 , 1956 , <a> Arcadia , California </a> ) is an <a> American </a> former model and actress best known for portraying <a> Athena </a> in the 1970s <a> television series </a> <em> <a> Battlestar Galactica </a> </em> . </p>
+
+#	NEW	name	........ / to America	// <p> <strong> Eriq Ki La Salle </strong> ( born July 23 , 1962 ) is an <a> American </a> actor and <a> director </a> , known for his portrayals of Darryl in the 1988 comedy film <em> <a> Coming to America </a> </em> and <a> Dr .
+
+8	TRUE	Julianne Phillips::name	julianne phillips / Julianne Phillips	
+<p> <strong> Julianne Phillips </strong> ( born May 6 , 1960 ) is an <a> American </a> <a> model </a> and <a> actress </a> .
+
+9	TRUE	Melinda Culea::name	melinda culea / a model.	
+<p> <strong> Melinda Culea </strong> ( born May 5 , 1955 in <a> Western Springs , Illinois </a> ) is an <a> American </a> film and television actress , who moved into acting after working as a model . </p>
+
+10	TRUE	Henry Darrow::name	henry darrow / and <a>	
+<p> <strong> Henry Darrow </strong> ( born September 15 , 1933 ) is a prolific Puerto Rican-American <a> character actor </a> of <a> stage </a> and <a> film </a> .
+
+11	TRUE	Namrata Shirodkar::name	namrata shirodkar / is an	
+<p> <strong> Namrata Shirodkar </strong> ( , born 22 January 1972 in <a> Mumbai </a> , <a> India </a> ) is an Indian <a> actress </a> and <a> model </a> . </p>
+
+12	TRUE	Lewis Gilbert::name	lewis gilbert / Lewis Gilbert	
+<p> <strong> Lewis Gilbert </strong> <a> CBE </a> ( born 6 March 1920 in <a> London </a> ) is an <a> English </a> <a> film director </a> , <a> producer </a> and <a> screenwriter </a> </p>
+
+#	NEW	name	........ / January Kristen	// <p> <strong> January Kristen Jones </strong> ( born January 5 , 1978 ) is an American actress .
+
+#	NEW	name	........ / is an	// <p> <strong> Chip Zien </strong> ( born <strong> Jerome Herbert Zien </strong> ; March 20 , 1947 ) is an American actor .
+
+#	NEW	name	........ / Summer Wine	// <p> <strong> Brian George Wilde </strong> ( 13 June 1927&#x2013 ; 20 March 2008 ) was an English <a> actor </a> , best known for his roles in <a> television comedy </a> , including <a> Mr Barrowclough </a> in <em> <a> Porridge </a> </em> and &quot ; Foggy&quot ; Dewhurst in <em> <a> Last of the Summer Wine </a> </em> .
+
+#	NEW	name	........ / an English	// <p> <strong> Violet Helen Carson </strong> <a> OBE </a> ( 1 September 1898 &ndash ; 26 December 1983 ) was an English actress . </p>
+
+#	NEW	name	........ / January 1988	// <p> <strong> Kathleen Mary Margaret Bryant </strong> ( 8 March 1897 in <a> Kingston upon Hull </a> &#x2013 ; 1 January 1988 in <a> Manchester </a> ) was an <a> English </a> <a> actress </a> .
+
+18	TRUE	Detlev Buck::name	detlev buck / Bad Segeberg	
+<p> <strong> Detlev Buck </strong> ( born December 1 , 1962 in <a> Bad Segeberg </a> ) is a German <a> film director </a> and actor . </p>
+
+19	TRUE	Sally Jessy Raphael::name	sally jessy raphael / show she	
+<p> <strong> Sally Angeline Lowenthal </strong> ( born February 25 , 1942 ) , better known as <strong> Sally Jessy Raphael </strong> , is an <a> American </a> <a> talk show </a> <a> host </a> , known for the eponymous <em> <a> Sally </a> </em> talk show she hosted for two decades . </p>
+
+20	TRUE	Georges Franju::name	georges franju / November 1987 )	
+<p> <strong> Georges Franju </strong> ( 12 April 1912 &ndash ; 5 November 1987 ) was a <a> French </a> <a> filmmaker </a> .
+
+#	NEW	name	........ / Kansas City	// <p> <strong> Harley Brown </strong> ( born August 2 , 1954 ) is an <a> American </a> actress , born in <a> Kansas City , Missouri </a> . </p>
+
+22	TRUE	Valentina Cortese::name	valentina cortese / film actress	
+<p> <strong> Valentina Cortese </strong> ( born 1 January 1923 or 1925 , <a> Milan , Italy </a> ) is an Italian <a> film actress </a> . </p>
+
+23	TRUE	Janet McTeer::name	janet mcteer / May 1961 )	
+<p> <strong> Janet McTeer </strong> , <a> OBE </a> ( born 8 May 1961 ) is a <a> British </a> <a> actress </a> . </p>
+
+#	NEW	name	........ / Tim McInnerny	// <p> <strong> Tim McInnerny </strong> ( pronounced born 18 September 1956 ) is an <a> English </a> actor .
+
+#	NEW	name	........ / New Zealand	// <p> <strong> Bruno Lawrence </strong> ( 12 February 1941 &#x2013 ; 10 June 1995 , <a> Wellington </a> , <a> New Zealand </a> ) was a <a> New Zealand </a> <a> musician </a> and <a> actor </a> . </p>
+
+26	TRUE	Peter Woodthorpe::name	peter woodthorpe / radio serial	
+<p> <strong> Peter Woodthorpe </strong> ( 25 September 1931 &#x2013 ; 12 August 2004 ) was an <a> English </a> <a> film </a> , <a> television </a> and <a> voice actor </a> who is best known for supplying the voice of <a> Gollum </a> in the <a> 1978 Bakshi version of <em> The Lord of the Rings </em> </a> and <a> BBC </a> ' s 1981 <a> radio serial </a> .
+
+#	null	name	philip simmons / ..........
+

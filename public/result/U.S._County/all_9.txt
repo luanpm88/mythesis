@@ -1,0 +1,824 @@
+Total articles: 1697
+Articles for test: 1528
+Articles for train: 169
+Total attributes: 80
+Attributes with high occurrences: 23/80
+
+------------
+Found: 1820
+Found Not Null: 269
+Correct: 169
+Wrong: 100
+Total: 514
+precision: 0.6282527881040892
+recall: 0.32879377431906615
+
+
+
+12	TRUE	Chilton County, Alabama:: state	alabama / Alabama	
+<p> <strong> Chilton County </strong> is a <a> county </a> of the <a> U.S. state </a> of <a> Alabama </a> famous for its <a> peach </a> es.
+
+14	TRUE	Chilton County, Alabama:: area_water_sq_mi	7 / 11	
+<p> As of the <a> census </a> of 2000, there were 39,593 people, 15,287 households, and 11,342 families residing in the county.
+
+16	FALSE	Chilton County, Alabama:: founded	december 30, 1868 / (0.	
+Nearly of it is land, and (0.97%) is water. </p>
+
+21	TRUE	Baldwin County, Alabama:: state	alabama / Alabama	
+<p> : <em> There is also a <a> Baldwin County, Georgia </a> . </em> <strong> Baldwin County </strong> is a <a> county </a> of the <a> U.S. state </a> of <a> Alabama </a> .
+
+43	TRUE	Bibb County, Alabama:: state	alabama / Alabama	
+<p> <strong> Bibb County </strong> is a <a> county </a> in the <a> U.S. state </a> of <a> Alabama </a> .
+
+45	FALSE	Bibb County, Alabama:: area_water_sq_mi	3 / 5	
+<p> As of the <a> census </a> of 2000, there were 20,826 people, 7,421 households, and 5,580 families residing in the county.
+
+47	TRUE	Bibb County, Alabama:: density_km2	13 / (13/	
+The <a> population density </a> was 33 people per square mile (13/km&#x00b2;).
+
+51	TRUE	Bibb County, Alabama:: area_water_km2	8 / 24.	
+<p> There were 7,421 households out of which 34.40% had children under the age of 18 living with them, 58.40% were <a> married couples </a> living together, 12.70% had a female householder with no husband present, and 24.80% were non-families.
+
+52	TRUE	Bibb County, Alabama:: density_sq_mi	33 / (13/	
+The <a> population density </a> was 33 people per square mile (13/km&#x00b2;).
+
+64	TRUE	Bullock County, Alabama:: state	alabama / Alabama	
+<p> <strong> Bullock County, Alabama </strong> is a <a> county </a> of the <a> U.S. state </a> of <a> Alabama </a> .
+
+66	TRUE	Bullock County, Alabama:: area_water_sq_mi	1 / 2	
+<p> As of the <a> census </a> of 2000, there were 11,714 people, 3,986 households, and 2,730 families residing in the county.
+
+68	TRUE	Bullock County, Alabama:: density_km2	7 / (7/	
+The <a> population density </a> was 19 people per square mile (7/km&#x00b2;).
+
+69	FALSE	Bullock County, Alabama:: founded	december 5, 1866 / According	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and (0.17%) is water.
+
+104	FALSE	Jackson County, Alabama:: density_sq_mi	22 / (19/	
+The <a> population density </a> was 50 people per square mile (19/km&#x00b2;).
+
+105	TRUE	Jackson County, Alabama:: county	jackson county / Decatur Metro	
+<p> <strong> Jackson County </strong> is a <a> county </a> of the <a> U.S. state </a> of <a> Alabama </a> , and is included in the <a> Huntsville-Decatur Metro Area </a> .
+
+106	TRUE	Jackson County, Alabama:: state	alabama / Metro	
+<p> <strong> Jackson County </strong> is a <a> county </a> of the <a> U.S. state </a> of <a> Alabama </a> , and is included in the <a> Huntsville-Decatur Metro Area </a> .
+
+108	TRUE	Jackson County, Alabama:: density_km2	9 / (19/	
+The <a> population density </a> was 50 people per square mile (19/km&#x00b2;).
+
+109	FALSE	Jefferson County, Alabama:: county	jefferson county / States.	
+<p> Birmingham is the location of the <a> Birmingham-Shuttlesworth International Airport </a> , which provides a significant amount of service, either direct or connecting, to most of the rest of the United States.
+
+110	TRUE	Jefferson County, Alabama:: state	alabama / Alabama	
+<p> <a> Jefferson County </a> is the most populous <a> county </a> in <a> Alabama </a> , with its <a> county seat </a> being located in <a> Birmingham </a> .
+
+112	FALSE	Jefferson County, Alabama:: area_water_sq_mi	11 / 175	
+<p> As of the <a> census </a> of 2000, there were 662,047 people, 263,265 households, and 175,861 families residing in the county.
+
+131	TRUE	Henry County, Alabama:: state	alabama / Alabama	
+<p> <strong> Henry County </strong> is a <a> county </a> of the <a> U.S. state </a> of <a> Alabama </a> .
+
+133	TRUE	Henry County, Alabama:: area_water_sq_mi	7 / 4	
+<p> As of the <a> census </a> of 2000, there were 16,310 people, 6,525 households, and 4,730 families residing in the county.
+
+135	FALSE	Henry County, Alabama:: founded	december 13, 1819 / (1.	
+Nearly of it is land, and (1.15%) is water. </p>
+
+155	FALSE	Inyo County, California:: area_water_sq_mi	24 / 4	
+<p> As of the <a> census </a> of 2000, there were 17,945 people, 7,703 households, and 4,937 families residing in the county.
+
+164	TRUE	Inyo County, California:: state	california / Nevada	
+<p> <strong> Death Valley National Park </strong> is a mostly <a> arid </a> <a> United States National Park </a> located east of the <a> Sierra Nevada </a> mountain range in southern Inyo County and northern <a> San Bernardino County </a> in <a> California </a> , with a small extension into southwestern <a> Nye County </a> and extreme southern <a> Esmeralda County </a> in <a> Nevada </a> .
+
+184	TRUE	Lee County, Alabama:: state	alabama / Alabama	
+<p> <strong> Lee County </strong> is a <a> county </a> of the <a> U.S. state </a> of <a> Alabama </a> .
+
+185	TRUE	Lee County, Alabama:: area_water_sq_mi	7 / 27	
+<p> As of the <a> census </a> of 2000, there were 115,092 people, 45,702 households, and 27,284 families residing in the county.
+
+190	TRUE	Lee County, Alabama:: area_land_sq_mi	609 / (1.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 616&nbsp;square miles (1,594&nbsp;km&#x00b2;), of which 609&nbsp;square miles (1,577&nbsp;km&#x00b2;) is land and 7&nbsp;square miles (18&nbsp;km&#x00b2;) (1.11%) is water. </p>
+
+191	FALSE	Lee County, Alabama:: density_km2	86 / (73/	
+The <a> population density </a> was 189 people per square mile (73/km&#x00b2;).
+
+223	TRUE	Madison County, Alabama:: state	alabama / Metropolitan	
+<p> <strong> Madison County </strong> is a <a> county </a> of the <a> U.S. state </a> of <a> Alabama </a> , and is a major part of the <a> Huntsville Metropolitan Area </a> .
+
+224	FALSE	Madison County, Alabama:: area_land_sq_mi	805 / 319	
+<p> As of the <a> census </a> of 2000, there were 276,700 people, 109,955 households, and 75,319 families residing in the county.
+
+225	FALSE	Madison County, Alabama:: area_water_sq_mi	8 / 75	
+<p> As of the <a> census </a> of 2000, there were 276,700 people, 109,955 households, and 75,319 families residing in the county.
+
+227	TRUE	Madison County, Alabama:: density_km2	133 / (133/	
+The <a> population density </a> was 344 people per square mile (133/km&#x00b2;).
+
+232	TRUE	Madison County, Alabama:: area_total_sq_mi	813 / (813	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 2,105&nbsp;km&#x00b2; (813 square miles).
+
+233	TRUE	Marengo County, Alabama:: state	alabama / Alabama	
+<p> <strong> Marengo County </strong> is a <a> county </a> of the <a> U.S. state </a> of <a> Alabama </a> .
+
+236	FALSE	Marengo County, Alabama:: area_water_sq_mi	6 / 22	
+As of 2000 the population was 22,539.
+
+242	FALSE	Marengo County, Alabama:: density_sq_mi	23 / 22	
+As of 2000 the population was 22,539.
+
+256	TRUE	Marshall County, Alabama:: county	marshall county / Decatur Combined	
+<p> <strong> Marshall County </strong> is a <a> county </a> of the <a> U.S. state </a> of <a> Alabama </a> , and is included in the <a> Huntsville-Decatur Combined Statistical Area </a> .
+
+257	TRUE	Marshall County, Alabama:: state	alabama / Decatur	
+<p> <strong> Marshall County </strong> is a <a> county </a> of the <a> U.S. state </a> of <a> Alabama </a> , and is included in the <a> Huntsville-Decatur Combined Statistical Area </a> .
+
+258	TRUE	Marshall County, Alabama:: area_total_sq_mi	623 / 567&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 623&nbsp; <a> square mile </a> s (1,614&nbsp; <a> km&#x00b2; </a> ), of which 567&nbsp;square miles (1,469&nbsp;km&#x00b2;) is land and 56&nbsp;square miles (145&nbsp;km&#x00b2;) (9.00%) is water.
+
+259	FALSE	Marshall County, Alabama:: area_land_sq_mi	567 / 531	
+<p> As of the <a> census </a> of 2000, there were 82,231 people, 32,547 households, and 23,531 families residing in the county.
+
+260	FALSE	Marshall County, Alabama:: area_water_sq_mi	56 / 23	
+<p> As of the <a> census </a> of 2000, there were 82,231 people, 32,547 households, and 23,531 families residing in the county.
+
+269	TRUE	Mobile County, Alabama:: state	alabama / Alabama	
+<p> <strong> Mobile County </strong> ] <a> supp/sup </a> is a <a> county </a> of the <a> U.S. state </a> of <a> Alabama </a> .
+
+278	FALSE	Mobile County, Alabama:: area_water_sq_mi	411 / 106	
+<p> As of the <a> census </a> of 2000, there were 399,843 people, 150,179 households, and 106,777 families residing in the county.
+
+292	TRUE	Monroe County, Alabama:: state	alabama / Alabama	
+<p> <strong> Monroe County </strong> is a <a> county </a> of the <a> U.S. state </a> of <a> Alabama </a> .
+
+295	TRUE	Monroe County, Alabama:: area_water_sq_mi	9 / 6	
+<p> As of the <a> census </a> of 2000, there were 24,324 people, 9,383 households, and 6,774 families residing in the county.
+
+297	TRUE	Monroe County, Alabama:: density_km2	9 / (9/	
+The <a> population density </a> was 24 people per square mile (9/km&#x00b2;).
+
+303	TRUE	Perry County, Alabama:: state	alabama / Alabama	
+<p> <strong> Perry County </strong> is a <a> county </a> of the <a> U.S. state </a> of <a> Alabama </a> .
+
+304	TRUE	Perry County, Alabama:: area_land_sq_mi	719 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 724&nbsp; <a> square mile </a> s (1,875&nbsp; <a> km&#x00b2; </a> ), of which 719&nbsp;square miles (1,863&nbsp;km&#x00b2;) is land and 5&nbsp;square miles (12&nbsp;km&#x00b2;) (0.63%) is water. </p>
+
+305	FALSE	Perry County, Alabama:: area_water_sq_mi	5 / 3	
+<p> As of the <a> census </a> of 2000, there were 11,861 people, 4,333 households, and 3,046 families residing in the county.
+
+306	TRUE	Perry County, Alabama:: density_km2	6 / (6/	
+The <a> population density </a> was 16 people per square mile (6/km&#x00b2;).
+
+311	TRUE	Perry County, Alabama:: area_total_sq_mi	724 / 719&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 724&nbsp; <a> square mile </a> s (1,875&nbsp; <a> km&#x00b2; </a> ), of which 719&nbsp;square miles (1,863&nbsp;km&#x00b2;) is land and 5&nbsp;square miles (12&nbsp;km&#x00b2;) (0.63%) is water. </p>
+
+314	TRUE	Pickens County, Alabama:: state	alabama / Alabama	
+<p> <strong> Pickens County </strong> is a <a> county </a> of the <a> U.S. state </a> of <a> Alabama </a> .
+
+316	TRUE	Pickens County, Alabama:: area_water_sq_mi	9 / 5	
+<p> As of the <a> census </a> of 2000, there were 20,949 people, 8,086 households, and 5,789 families residing in the county.
+
+321	TRUE	Pickens County, Alabama:: density_km2	9 / (9/	
+The <a> population density </a> was 24 people per square mile (9/km&#x00b2;).
+
+335	TRUE	Randolph County, Alabama:: state	alabama / Alabama	
+<p> <strong> Randolph County </strong> is a <a> county </a> of the <a> U.S. state </a> of <a> Alabama </a> .
+
+336	FALSE	Randolph County, Alabama:: area_total_sq_mi	584 / 581&	
+Nearly 581&nbsp;square miles (1,505&nbsp;km&#x00b2;) of it is land, and 3&nbsp;square miles (8&nbsp;km&#x00b2;) of it (0.52%) is water. </p>
+
+337	FALSE	Randolph County, Alabama:: area_land_sq_mi	581 / 222	
+<p> As of the <a> census </a> of 2000, there were 22,380 people, 8,642 households, and 6,222 families residing in the county.
+
+338	TRUE	Randolph County, Alabama:: area_water_sq_mi	3 / 6	
+<p> As of the <a> census </a> of 2000, there were 22,380 people, 8,642 households, and 6,222 families residing in the county.
+
+340	TRUE	Randolph County, Alabama:: density_km2	15 / (15/	
+The <a> population density </a> was 38 people per square mile (15/km&#x00b2;).
+
+346	TRUE	Russell County, Alabama:: state	alabama / Alabama	
+<p> <strong> Russell County </strong> is a <a> county </a> of the <a> U.S. state </a> of <a> Alabama </a> .
+
+347	TRUE	Russell County, Alabama:: area_total_sq_mi	647 / (647	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 1,677&nbsp;km&#x00b2; (647 square miles).
+
+348	FALSE	Russell County, Alabama:: area_land_sq_mi	641 / 423	
+<p> As of the <a> census </a> of 2000, there were 49,756 people, 19,741 households, and 13,423 families residing in the county.
+
+349	TRUE	Russell County, Alabama:: area_water_sq_mi	6 / 13	
+<p> As of the <a> census </a> of 2000, there were 49,756 people, 19,741 households, and 13,423 families residing in the county.
+
+350	FALSE	Russell County, Alabama:: density_km2	14 / (30/	
+The <a> population density </a> was 78 people per square mile (30/km&#x00b2;).
+
+351	TRUE	Russell County, Alabama:: founded	december 18, 1832 / December 18, 1832	
+<p> Russell County was established by an act of the state general assembly on December 18, 1832, from lands ceded to the state by the <a> Creek Indians </a> .
+
+368	TRUE	Shelby County, Ohio:: county	shelby county / United States	
+<p> <strong> Shelby County </strong> is a <a> county </a> located in the <a> state </a> of <a> Ohio </a> , <a> United States </a> .
+
+369	TRUE	Shelby County, Ohio:: state	ohio / Ohio	
+<p> <strong> Shelby County </strong> is a <a> county </a> located in the <a> state </a> of <a> Ohio </a> , <a> United States </a> .
+
+370	FALSE	Shelby County, Ohio:: area_land_sq_mi	409 / 085	
+<p> As of the <a> census </a> of 2000, there were 47,910 people, 17,636 households, and 13,085 families residing in the county.
+
+371	TRUE	Shelby County, Ohio:: area_water_sq_mi	2 / 13	
+<p> As of the <a> census </a> of 2000, there were 47,910 people, 17,636 households, and 13,085 families residing in the county.
+
+373	TRUE	Shelby County, Ohio:: density_km2	45 / (45/	
+The <a> population density </a> was 117 people per square mile (45/km&#x00b2;).
+
+377	TRUE	Shelby County, Ohio:: area_water_km2	5 / 25.	
+<p> There were 17,636 households out of which 36.90% had children under the age of 18 living with them, 60.70% were <a> married couples </a> living together, 9.30% had a female householder with no husband present, and 25.80% were non-families.
+
+378	TRUE	Shelby County, Ohio:: density_sq_mi	117 / (45/	
+The <a> population density </a> was 117 people per square mile (45/km&#x00b2;).
+
+380	TRUE	Shelby County, Kentucky:: state	kentucky / Kentucky	
+<p> <strong> Shelby County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Kentucky </a> .
+
+383	TRUE	Shelby County, Kentucky:: area_water_sq_mi	2 / 9	
+<p> As of the <a> census </a> of 2000, there were 33,337 people, 12,104 households, and 9,126 families residing in the county.
+
+388	TRUE	Shelby County, Iowa:: state	iowa / Iowa	
+<p> <strong> Shelby County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Iowa </a> .
+
+389	FALSE	Shelby County, Iowa:: area_total_sq_mi	591 / 9	
+There were 5,459 housing units at an average density of 9 per square&nbsp;mile (4/km&#x00b2;).
+
+390	TRUE	Shelby County, Iowa:: area_land_sq_mi	591 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 591&nbsp;square miles (1,532&nbsp;km&#x00b2;), of which 591&nbsp;square miles (1,530&nbsp;km&#x00b2;) is land and 1&nbsp;square mile (1&nbsp;km&#x00b2;) (0.09%) is water. </p>
+
+391	TRUE	Shelby County, Iowa:: area_water_sq_mi	1 / 3	
+<p> &#x0009; &#x0009; As of the <a> census </a> of 2000, there were 13,173 people, 5,173 households, and 3,703 families residing in the county.
+
+393	TRUE	Shelby County, Iowa:: density_km2	9 / (9/	
+The <a> population density </a> was 22 people per square mile (9/km&#x00b2;).
+
+394	TRUE	Shelby County, Iowa:: founded	1851 / 1851.	
+<p> Shelby County was formed on January 15, 1851.
+
+400	TRUE	Sumter County, Alabama:: state	alabama / Alabama	
+<p> <strong> Sumter County </strong> is a <a> county </a> of the <a> U.S. state </a> of <a> Alabama </a> .
+
+408	TRUE	Talladega County, Alabama:: state	alabama / Alabama	
+<p> <strong> Talladega County </strong> is a <a> county </a> of the <a> U.S. state </a> of <a> Alabama </a> .
+
+409	TRUE	Talladega County, Alabama:: area_total_sq_mi	760 / (760	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 1,969&nbsp;km&#x00b2; (760 square miles).
+
+410	FALSE	Talladega County, Alabama:: area_land_sq_mi	740 / 901	
+<p> As of the <a> census </a> of 2000, there were 80,321 people, 30,674 households, and 21,901 families residing in the county.
+
+411	TRUE	Talladega County, Alabama:: area_water_sq_mi	21 / 21	
+<p> As of the <a> census </a> of 2000, there were 80,321 people, 30,674 households, and 21,901 families residing in the county.
+
+413	FALSE	Talladega County, Alabama:: density_km2	18 / (42/	
+The <a> population density </a> was 109 people per square mile (42/km&#x00b2;).
+
+419	TRUE	Tallapoosa County, Alabama:: state	alabama / Alabama	
+<p> <strong> Tallapoosa County </strong> is a <a> county </a> of the <a> U.S. state </a> of <a> Alabama </a> .
+
+420	TRUE	Tallapoosa County, Alabama:: area_total_sq_mi	766 / (766	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 1,985&nbsp;km&#x00b2; (766 square miles).
+
+421	FALSE	Tallapoosa County, Alabama:: area_land_sq_mi	718 / 809	
+<p> As of the <a> census </a> of 2000, there were 41,475 people, 16,656 households, and 11,809 families residing in the county.
+
+422	FALSE	Tallapoosa County, Alabama:: area_water_sq_mi	48 / 11	
+<p> As of the <a> census </a> of 2000, there were 41,475 people, 16,656 households, and 11,809 families residing in the county.
+
+424	FALSE	Tallapoosa County, Alabama:: density_km2	11 / (22/	
+The <a> population density </a> was 58 people per square mile (22/km&#x00b2;).
+
+430	TRUE	Tuscaloosa County, Alabama:: state	alabama / Alabama	
+<p> <strong> Tuscaloosa County </strong> is a <a> county </a> of the <a> U.S. </a> <a> state </a> of <a> Alabama </a> .
+
+439	TRUE	Walker County, Alabama:: state	alabama / Alabama	
+<p> <strong> Walker County </strong> is a <a> county </a> of the <a> U.S. state </a> of <a> Alabama </a> .
+
+440	TRUE	Walker County, Alabama:: area_total_sq_mi	805 / (805	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 2,086&nbsp;km&#x00b2; (805 square miles).
+
+441	FALSE	Walker County, Alabama:: area_land_sq_mi	794 / 478	
+<p> As of the <a> census </a> of 2000, there were 70,713 people, 28,364 households, and 20,478 families residing in the county.
+
+442	FALSE	Walker County, Alabama:: area_water_sq_mi	11 / 20	
+<p> As of the <a> census </a> of 2000, there were 70,713 people, 28,364 households, and 20,478 families residing in the county.
+
+444	TRUE	Walker County, Alabama:: density_km2	34 / (34/	
+The <a> population density </a> was 89 people per square mile (34/km&#x00b2;).
+
+461	TRUE	Salt Lake County, Utah:: state	utah / Utah	
+<p> <strong> Salt Lake County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Utah </a> .
+
+462	TRUE	Salt Lake County, Utah:: area_total_sq_mi	808 / 808&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 808&nbsp;square miles (2,092&nbsp;km&#x00b2;), of which 737&nbsp;square miles (1,910&nbsp;km&#x00b2;) is land and 70&nbsp;square miles (182&nbsp;km&#x00b2;) (8.72%) is water. </p>
+
+463	FALSE	Salt Lake County, Utah:: area_land_sq_mi	737 / 977	
+<p> As of the <a> census </a> of 2000, there were 898,387 people, 295,141 households, and 213,977 families residing in the county.
+
+469	FALSE	Salt Lake County, Utah:: area_water_km2	182 / 27.	
+<p> In 2000 there were 295,141 households out of which 40.10% had children under the age of 18 living with them, 57.80% were <a> married couples </a> living together, 10.40% had a female householder with no husband present, and 27.50% were non-families.
+
+470	FALSE	Salt Lake County, Utah:: area_water_sq_mi	70 / 213	
+<p> As of the <a> census </a> of 2000, there were 898,387 people, 295,141 households, and 213,977 families residing in the county.
+
+474	FALSE	San Juan County, Utah:: area_water_sq_mi	113 / 3	
+<p> As of the <a> census </a> of 2000, there were 14,413 people, 4,089 households, and 3,234 families residing in the county.
+
+478	FALSE	San Juan County, Utah:: area_water_km2	292 / 20.	
+<p> There were 4,089 households out of which 47.00% had children under the age of 18 living with them, 60.40% were <a> married couples </a> living together, 14.10% had a female householder with no husband present, and 20.90% were non-families.
+
+479	TRUE	San Juan County, Utah:: state	utah / Utah	
+Bridge, in [[Natural Bridges National Monument]] ]] [[File:House on Fire Ruin.jpg|thumb|House on Fire ruin, one of many [[Ancestral Pueblo]] ruins in the county]] <strong> San Juan County </strong> is a <a> county </a> located in the southeastern portion of the <a> U.S. state </a> of <a> Utah </a> .
+
+481	TRUE	Summit County, Utah:: state	utah / Utah	
+<p> <strong> Summit County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Utah </a> , occupying a rugged and mountainous area.
+
+482	FALSE	Summit County, Utah:: area_water_sq_mi	11 / 7	
+<p> As of the <a> census </a> of 2000, there were 29,736 people, 10,332 households, and 7,501 families residing in the county.
+
+488	FALSE	Summit County, Utah:: area_water_km2	28 / 27.	
+<p> There were 10,332 households out of which 40.80% had children under the age of 18 living with them, 63.50% were <a> married couples </a> living together, 6.20% had a female householder with no husband present, and 27.40% were non-families.
+
+490	TRUE	Summit County, Utah:: county	summit county / a rugged	
+<p> <strong> Summit County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Utah </a> , occupying a rugged and mountainous area.
+
+493	TRUE	Sanpete County, Utah:: state	utah / Utah	
+<p> <strong> Sanpete County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Utah </a> .
+
+495	FALSE	Sanpete County, Utah:: area_water_sq_mi	15 / 5	
+<p> As of the <a> census </a> of 2000, there were 22,763 people, 6,547 households, and 5,067 families residing in the county.
+
+501	FALSE	Sanpete County, Utah:: area_water_km2	38 / 22.	
+<p> There were 6,547 households out of which 43.40% had children under the age of 18 living with them, 67.00% were <a> married couples </a> living together, 7.20% had a female householder with no husband present, and 22.60% were non-families.
+
+503	TRUE	Sevier County, Utah:: state	utah / Utah	
+<p> <strong> Sevier County </strong> () is a <a> county </a> located in the <a> U.S. state </a> of <a> Utah </a> .
+
+506	TRUE	Sevier County, Utah:: area_water_sq_mi	8 / 4	
+<p> As of the <a> census </a> of 2000, there were 18,842 people, 6,081 households, and 4,907 families residing in the county.
+
+512	FALSE	Sevier County, Utah:: area_water_km2	21 / 19.	
+<p> There were 6,081 households out of which 43.00% had children under the age of 18 living with them, 70.10% were <a> married couples </a> living together, 7.80% had a female householder with no husband present, and 19.30% were non-families.
+
+514	TRUE	Tooele County, Utah:: state	utah / Utah	
+<p> <strong> Tooele County </strong> () is a <a> county </a> located in the <a> U.S. state </a> of <a> Utah </a> .
+
+517	FALSE	Tooele County, Utah:: area_water_sq_mi	357 / 10	
+<p> As of the <a> census </a> of 2000, there were 40,735 people, 12,677 households, and 10,128 families residing in the county.
+
+523	FALSE	Tooele County, Utah:: area_water_km2	924 / 20.	
+<p> There were 12,677 households out of which 47.40% had children under the age of 18 living with them, 66.00% were <a> married couples </a> living together, 9.50% had a female householder with no husband present, and 20.10% were non-families.
+
+526	TRUE	Wasatch County, Utah:: state	utah / Utah	
+<p> <strong> Wasatch County </strong> () is a <a> county </a> located in the <a> U.S. state </a> of <a> Utah </a> .
+
+531	FALSE	Wasatch County, Utah:: area_water_km2	82 / 18.	
+<p> There were 4,743 households out of which 46.20% had children under the age of 18 living with them, 71.00% were <a> married couples </a> living together, 7.50% had a female householder with no husband present, and 18.40% were non-families.
+
+533	FALSE	Wasatch County, Utah:: area_water_sq_mi	32 / 3	
+<p> As of the <a> census </a> of 2000, there were 15,215 people, 4,743 households, and 3,870 families residing in the county.
+
+537	TRUE	Utah County, Utah:: state	utah / Utah	
+<p> <strong> Utah County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Utah </a> .
+
+545	FALSE	Utah County, Utah:: area_water_km2	369 / 19.	
+<p> In 2000 There were 99,937 households out of which 48.30% had children under the age of 18 living with them, 69.80% were <a> married couples </a> living together, 8.00% had a female householder with no husband present, and 19.20% were non-families.
+
+547	FALSE	Utah County, Utah:: area_water_sq_mi	143 / 80	
+<p> As of the <a> census </a> of 2000, there were 368,536 people, 99,937 households, and 80,749 families residing in the county.
+
+548	TRUE	Uintah County, Utah:: state	utah / Utah	
+<p> <strong> Uintah County </strong> () is a <a> county </a> located in the <a> U.S. state </a> of <a> Utah </a> .
+
+549	TRUE	Uintah County, Utah:: area_water_sq_mi	22 / 6	
+<p> As of the <a> census </a> of 2000, there were 25,224 people, 8,187 households, and 6,541 families residing in the county.
+
+556	FALSE	Uintah County, Utah:: area_water_km2	57 / 20.	
+<p> There were 8,187 households out of which 44.50% had children under the age of 18 living with them, 65.70% were <a> married couples </a> living together, 10.60% had a female householder with no husband present, and 20.10% were non-families.
+
+559	TRUE	Washington County, Utah:: state	utah / Utah	
+<p> <strong> Washington County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Utah </a> .
+
+561	TRUE	Washington County, Utah:: area_water_sq_mi	3 / 23	
+<p> As of the <a> census </a> of 2000, there were 90,354 people, 29,939 households, and 23,442 families residing in the county.
+
+563	FALSE	Washington County, Utah:: density_km2	22 / (14/	
+The <a> population density </a> was 37 people per square mile (14/km&#x00b2;).
+
+565	TRUE	Washington County, Utah:: area_water_km2	8 / 21.	
+<p> In 2000 there were 29,939 households out of which 37.10% had children under the age of 18 living with them, 67.60% were <a> married couples </a> living together, 8.00% had a female householder with no husband present, and 21.70% were non-families.
+
+566	FALSE	Washington County, Utah:: density_sq_mi	57 / (14/	
+The <a> population density </a> was 37 people per square mile (14/km&#x00b2;).
+
+568	TRUE	Wayne County, Utah:: state	utah / Utah	
+<p> <strong> Wayne County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Utah </a> .
+
+569	TRUE	Wayne County, Utah:: area_water_sq_mi	6 / 669	
+<p> As of the <a> census </a> of 2000, there were 2,509 people, 890 households, and 669 families residing in the county.
+
+576	FALSE	Wayne County, Utah:: area_water_km2	16 / 24.	
+<p> There were 890 households out of which 36.20% had children under the age of 18 living with them, 66.50% were <a> married couples </a> living together, 5.30% had a female householder with no husband present, and 24.80% were non-families.
+
+580	TRUE	Weber County, Utah:: state	utah / Mountains	
+<p> <strong> Weber County </strong> () is a <a> county </a> located in the <a> U.S. state </a> of <a> Utah </a> , occupying a stretch of the <a> Wasatch Front </a> , part of the eastern shores of <a> Great Salt Lake </a> , and much of the rugged <a> Wasatch Mountains </a> .
+
+581	TRUE	Weber County, Utah:: area_total_sq_mi	659 / 659&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 659&nbsp;square miles (1708&nbsp;km&#x00b2;), of which, 576&nbsp;square miles (1491&nbsp;km&#x00b2;) of it is land and 217&nbsp;km&#x00b2; (84 sq&nbsp;mi or 12.73%) is water. </p>
+
+582	TRUE	Weber County, Utah:: area_land_sq_mi	576 / (84	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 659&nbsp;square miles (1708&nbsp;km&#x00b2;), of which, 576&nbsp;square miles (1491&nbsp;km&#x00b2;) of it is land and 217&nbsp;km&#x00b2; (84 sq&nbsp;mi or 12.73%) is water. </p>
+
+583	FALSE	Weber County, Utah:: area_water_sq_mi	84 / 49	
+<p> As of the <a> census </a> of 2000, there are 196,533 people in the county, organized into 65,698 households and 49,536 families.
+
+589	FALSE	Weber County, Utah:: area_water_km2	217 / 24.	
+<p> There are 65,698 households out of which 40.30% have children under the age of 18 living with them, 60.20% are <a> married couples </a> living together, 10.70% have a female householder with no husband present, and 24.60% are non-families.
+
+647	TRUE	Alachua County, Florida:: state	florida / Florida	
+<p> <strong> Alachua County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Florida </a> .
+
+650	TRUE	Alachua County, Florida:: area_water_sq_mi	95 / 47	
+<p> As of the <a> census </a> of 2000, there were 217,955 people, 87,509 households, and 47,779 families residing in the county.
+
+652	TRUE	Alachua County, Florida:: density_km2	94.93 / (94.	
+The <a> population density </a> was 249.31/sq&nbsp;mi (94.93/km&#x00b2;).
+
+657	TRUE	Alachua County, Florida:: density_sq_mi	249.31 / 93/	
+The <a> population density </a> was 249.31/sq&nbsp;mi (94.93/km&#x00b2;).
+
+658	TRUE	Baker County, Florida:: state	florida / Florida	
+<p> <strong> Baker County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Florida </a> .
+
+660	TRUE	Baker County, Florida:: area_water_sq_mi	4 / 5	
+<p> As of the <a> census </a> of 2000, there were 22,259 people, 7,043 households, and 5,599 families residing in the county.
+
+661	TRUE	Baker County, Florida:: density_km2	15 / (15/	
+The <a> population density </a> was 38 people per square mile (15/km&#x00b2;).
+
+669	TRUE	Bay County, Florida:: state	florida / Florida	
+County Courthouse (Florida)|Bay County Courthouse]]]] <strong> Bay County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Florida </a> .
+
+674	TRUE	Bay County, Florida:: density_km2	75 / (75/	
+The <a> population density </a> was 194 people per square mile (75/km&#x00b2;).
+
+681	TRUE	Bradford County, Florida:: state	florida / Florida	
+<p> <strong> Bradford County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Florida </a> .
+
+684	TRUE	Bradford County, Florida:: area_water_sq_mi	7 / 6	
+<p> As of the <a> census </a> of 2000, there were 26,088 people, 8,497 households, and 6,194 families residing in the county.
+
+686	FALSE	Bradford County, Florida:: density_km2	13 / (34/	
+The <a> population density </a> was 89 people per square mile (34/km&#x00b2;).
+
+742	TRUE	Clarke County, Alabama:: state	alabama / Alabama	
+<p> <strong> Clarke County </strong> is a <a> county </a> of the <a> U.S. state </a> of <a> Alabama </a> .
+
+744	FALSE	Clarke County, Alabama:: area_water_sq_mi	14 / 7	
+<p> As of the <a> census </a> of 2000, there were 27,867 people, 10,578 households, and 7,700 families residing in the county.
+
+745	FALSE	Clarke County, Alabama:: founded	december 10, 1812 / (1.	
+Nearly of it is land, and (1.13%) is water. </p>
+
+751	FALSE	Clarke County, Alabama:: density_km2	4 / (9/	
+The <a> population density </a> was 22 people per square mile (9/km&#x00b2;).
+
+752	TRUE	Autauga County, Alabama:: state	alabama / Alabama	
+<p> <strong> Autauga County </strong> is a <a> county </a> in the <a> U.S. state </a> of <a> Alabama </a> .
+
+754	FALSE	Autauga County, Alabama:: area_water_sq_mi	8 / 12	
+<p> As of the <a> census </a> of 2000, there were 43,671 people, 16,003 households, and 12,354 families residing in the county.
+
+756	TRUE	Autauga County, Alabama:: seat	prattville / Prattville	
+Its <a> county seat </a> is <a> Prattville </a> . </p>
+
+762	TRUE	Cherokee County, Alabama:: state	alabama / Alabama	
+<p> <strong> Cherokee County, Alabama </strong> is a <a> county </a> of the <a> U.S. state </a> of <a> Alabama </a> .
+
+767	FALSE	Cherokee County, Alabama:: founded	january 9, 1836 / former	
+The county was created on the former Cherokee Nation that encompassed the southern Appalachians of Alabama with parts of adjacent Georgia, Tennessee, and North and South Carolina.
+
+773	TRUE	Cherokee County, Alabama:: density_km2	17 / (17/	
+The <a> population density </a> was 43 people per square mile (17/km&#x00b2;).
+
+774	TRUE	Etowah County, Alabama:: state	alabama / Alabama	
+<p> <strong> Etowah County </strong> is a <a> county </a> of the <a> U.S. state </a> of <a> Alabama </a> .
+
+777	FALSE	Etowah County, Alabama:: area_water_sq_mi	14 / 29	
+<p> As of the <a> census </a> of 2000, there were 103,459 people, 41,615 households, and 29,463 families residing in the county.
+
+778	TRUE	Etowah County, Alabama:: density_km2	75 / (75/	
+The <a> population density </a> was 193 people per square mile (75/km&#x00b2;).
+
+779	FALSE	Etowah County, Alabama:: founded	december 7, 1866 / Alabama	
+<p> Etowah was originally the southern part of <a> DeKalb County, Alabama </a> .
+
+786	TRUE	Winston County, Alabama:: area_total_sq_mi	632 / (632	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 1,637&nbsp;km&#x00b2; (632 square miles).
+
+787	FALSE	Winston County, Alabama:: area_land_sq_mi	614 / 287	
+<p> As of the <a> census </a> of 2000, there were 24,843 people, 10,107 households, and 7,287 families residing in the county.
+
+788	FALSE	Winston County, Alabama:: area_water_sq_mi	17 / 7	
+<p> As of the <a> census </a> of 2000, there were 24,843 people, 10,107 households, and 7,287 families residing in the county.
+
+796	TRUE	Winston County, Alabama:: county	winston county / Hancock County	
+<p> sup/sup <strong> Winston County </strong> is a <a> county </a> of the <a> U.S. state </a> of <a> Alabama </a> , formerly known as Hancock County before 1858.
+
+797	TRUE	Winston County, Alabama:: state	alabama / Alabama	
+<p> sup/sup <strong> Winston County </strong> is a <a> county </a> of the <a> U.S. state </a> of <a> Alabama </a> , formerly known as Hancock County before 1858.
+
+798	TRUE	Morgan County, Alabama:: county	morgan county / populous county	
+<p> <strong> Morgan County </strong> is the most populous <a> county </a> in the <a> Decatur Metropolitan Area </a> , and the second most populous county in the <a> Huntsville-Decatur Combined Statistical Area </a> .
+
+799	FALSE	Morgan County, Alabama:: state	alabama / Decatur	
+<p> <strong> Morgan County </strong> is the most populous <a> county </a> in the <a> Decatur Metropolitan Area </a> , and the second most populous county in the <a> Huntsville-Decatur Combined Statistical Area </a> .
+
+800	FALSE	Morgan County, Alabama:: area_land_sq_mi	582 / 437	
+<p> As of the <a> census </a> of 2000, there were 111,064 people, 43,602 households, and 31,437 families residing in the county.
+
+801	FALSE	Morgan County, Alabama:: area_water_sq_mi	17 / 31	
+<p> As of the <a> census </a> of 2000, there were 111,064 people, 43,602 households, and 31,437 families residing in the county.
+
+803	FALSE	Morgan County, Alabama:: density_km2	75 / (74/	
+The <a> population density </a> was 191 people per square mile (74/km&#x00b2;).
+
+808	TRUE	Colbert County, Alabama:: state	alabama / Alabama	
+<p> <strong> Colbert County </strong> is a <a> county </a> of the <a> U.S. state </a> of <a> Alabama </a> .
+
+810	FALSE	Colbert County, Alabama:: area_water_sq_mi	29 / 16	
+<p> As of the <a> census </a> of 2000, there were 54,984 people, 22,461 households, and 16,037 families residing in the county.
+
+812	FALSE	Colbert County, Alabama:: density_km2	16 / (36/	
+The <a> population density </a> was 92 people per square mile (36/km&#x00b2;).
+
+813	FALSE	Colbert County, Alabama:: founded	february 6, 1867 / According	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and (4.66%) is water. </p>
+
+895	TRUE	Dallas County, Alabama:: state	alabama / Alabama	
+<p> <strong> Dallas County </strong> is a <a> county </a> of the <a> U.S. state </a> of <a> Alabama </a> .
+
+897	TRUE	Dallas County, Alabama:: density_km2	8 / (18/	
+The <a> population density </a> was 47 people per square mile (18/km&#x00b2;).
+
+898	FALSE	Dallas County, Alabama:: founded	february 9, 1818 / (1.	
+Nearly of it is land, and (1.27%) is water. </p>
+
+904	FALSE	Dallas County, Alabama:: area_water_sq_mi	13 / 12	
+<p> As of the <a> census </a> of 2000, there were 46,365 people, 17,841 households, and 12,488 families residing in the county.
+
+932	TRUE	Broward County, Florida:: density_km2	520 / (520/	
+The <a> population density </a> was 1,346 people per square mile (520/km&#x00b2;).
+
+938	TRUE	Broward County, Florida:: state	florida / Florida	
+<p> <strong> Broward County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Florida </a> .
+
+939	TRUE	Calhoun County, Florida:: state	florida / Florida	
+<p> <strong> Calhoun County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Florida </a> .
+
+941	TRUE	Calhoun County, Florida:: area_water_sq_mi	7 / 3	
+<p> As of the <a> census </a> of 2000, there were 13,017 people, 4,468 households, and 3,132 families residing in the county.
+
+943	TRUE	Calhoun County, Florida:: density_km2	9 / (9/	
+The <a> population density </a> was 23 people per square mile (9/km&#x00b2;).
+
+971	TRUE	Collier County, Florida:: state	florida / Florida	
+<p> <strong> Collier County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Florida </a> .
+
+975	TRUE	Collier County, Florida:: pop	315,839 / 315,839.	
+The <a> U.S. Census Bureau </a> 2007 estimate for the county is 315,839.
+
+981	TRUE	Collier County, Florida:: density_km2	48 / (48/	
+The <a> population density </a> was 124 people per square mile (48/km&#x00b2;).
+
+1032	FALSE	Escambia County, Florida:: founded	july 21, 1821 / According	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of . is land and (24.35%) is water. </p>
+
+1038	FALSE	Escambia County, Florida:: state	florida / 60	
+<p> <strong> <em> By <a> channel </a> </em> </strong> :br / <a> 3 </a> | <a> 5 </a> | <a> 8 </a> | <a> 10 </a> | <a> 12 </a> | <a> 15 </a> | <a> 21 </a> | <a> 23 </a> | <a> 30 </a> | <a> 33 </a> | <a> 35 </a> | <a> 39 </a> | <a> 42 </a> | <a> 44 </a> | <a> 48 </a> | <a> 53 </a> | <a> 55 </a> | <a> 58 </a> | <a> 60 </a> </p>
+
+1106	TRUE	Sarasota County, Florida:: state	florida / Florida	
+<p> <strong> Sarasota County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Florida </a> .
+
+1107	FALSE	Sarasota County, Florida:: area_land_sq_mi	572 / 460	
+As of the <a> census </a> of 2000, there were 325,957 people, 149,937 households, and 94,460 families residing in the county.
+
+1108	FALSE	Sarasota County, Florida:: area_water_sq_mi	154 / 94	
+As of the <a> census </a> of 2000, there were 325,957 people, 149,937 households, and 94,460 families residing in the county.
+
+1109	TRUE	Sarasota County, Florida:: pop	372,057 / 372,057.	
+The <a> U.S. Census Bureau </a> 2008 estimate for the county was 372,057.
+
+1115	TRUE	Sarasota County, Florida:: density_km2	220 / (220/	
+The <a> population density </a> was 570 people per square mile (220/km&#x00b2;).
+
+1139	TRUE	Suwannee County, Florida:: state	florida / Florida	
+<p> <strong> Suwannee County </strong> is a <a> county </a> located in the <a> state </a> of <a> Florida </a> .
+
+1140	FALSE	Suwannee County, Florida:: area_total_sq_mi	692 / ,	
+It was named after the <a> Suwannee River </a> , which forms the county's northern, western, and much of its southern border.
+
+1141	TRUE	Suwannee County, Florida:: area_water_sq_mi	4 / 9	
+<p> As of the <a> census </a> of 2000, there were 34,844 people, 13,460 households, and 9,691 families residing in the county.
+
+1143	TRUE	Suwannee County, Florida:: density_km2	20 / (20/	
+The <a> population density </a> was 51 people per square mile (20/km&#x00b2;).
+
+1150	TRUE	Suwannee County, Florida:: area_land_sq_mi	688 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 692&nbsp; <a> square mile </a> s (1,792&nbsp; <a> km&#x00b2; </a> ), of which 688&nbsp;square miles (1,781&nbsp;km&#x00b2;) is land and 4&nbsp;square miles (11&nbsp;km&#x00b2;) (0.62%) is water. </p>
+
+1262	TRUE	Fayette County, Alabama:: state	alabama / Alabama	
+<p> <strong> Fayette County </strong> is a <a> county </a> of the <a> U.S. state </a> of <a> Alabama </a> .
+
+1264	TRUE	Fayette County, Alabama:: area_water_sq_mi	2 / 5	
+<p> As of the <a> census </a> of 2000, there were 18,495 people, 7,493 households, and 5,342 families residing in the county.
+
+1266	TRUE	Fayette County, Alabama:: density_km2	11 / (11/	
+The <a> population density </a> was 30 people per square mile (11/km&#x00b2;).
+
+1271	TRUE	Fayette County, Alabama:: density_sq_mi	30 / (11/	
+The <a> population density </a> was 30 people per square mile (11/km&#x00b2;).
+
+1272	TRUE	Fayette County, Alabama:: area_water_km2	4 / 28.	
+<p> There were 7,493 households out of which 30.80% had children under the age of 18 living with them, 57.30% were <a> married couples </a> living together, 10.60% had a female householder with no husband present, and 28.70% were non-families.
+
+1273	TRUE	Franklin County, Alabama:: state	alabama / Alabama	
+<p> <strong> Franklin County </strong> is a <a> county </a> of the <a> U.S. state </a> of <a> Alabama </a> .
+
+1275	FALSE	Franklin County, Alabama:: area_water_sq_mi	11 / 8	
+<p> As of the <a> census </a> of 2000, there were 31,223 people, 12,259 households, and 8,949 families residing in the county.
+
+1277	TRUE	Franklin County, Alabama:: density_km2	19 / (19/	
+The <a> population density </a> was 49 people per square mile (19/km&#x00b2;).
+
+1281	FALSE	Franklin County, Alabama:: area_water_km2	28 / 27.	
+<p> There were 12,259 households out of which 32.50% had children under the age of 18 living with them, 59.20% were <a> married couples </a> living together, 10.40% had a female householder with no husband present, and 27.00% were non-families.
+
+1282	TRUE	Franklin County, Alabama:: density_sq_mi	49 / (19/	
+The <a> population density </a> was 49 people per square mile (19/km&#x00b2;).
+
+1388	FALSE	Middlesex County, Massachusetts:: area_total_sq_mi	848 / (2.	
+823 sq&nbsp;mi (2,133 km&#x00b2;) of it is land and 24 sq&nbsp;mi (62 km&#x00b2; ) of it (2.84%) is water. </p>
+
+1389	FALSE	Middlesex County, Massachusetts:: area_land_sq_mi	823 / 864	
+<p> As of the <a> census </a> of 2000, there were 1,465,396 people, 561,220 households, and 360,864 families residing in the county.
+
+1390	FALSE	Middlesex County, Massachusetts:: area_water_sq_mi	24 / 360	
+<p> As of the <a> census </a> of 2000, there were 1,465,396 people, 561,220 households, and 360,864 families residing in the county.
+
+1391	TRUE	Middlesex County, Massachusetts:: density_km2	687 / (687/	
+The <a> population density </a> was 1,780/sq&nbsp;mi (687/km&#x00b2;).
+
+1394	FALSE	Middlesex County, Massachusetts:: area_water_km2	63 / 35.	
+<p> There were 561,220 households out of which 30.20% had children under the age of 18 living with them, 51.30% were <a> married couples </a> living together, 9.90% had a female householder with no husband present, and 35.70% were non-families.
+
+1396	TRUE	Middlesex County, Massachusetts:: county	middlesex county / populous county	
+<p> <strong> Middlesex County </strong> , in the <a> U.S. state </a> of <a> Massachusetts </a> , is the twenty-third most populous <a> county </a> in the <a> United States </a> and the most populous county in <a> New England </a> .
+
+1397	TRUE	Middlesex County, Massachusetts:: state	massachusetts / New	
+<p> <strong> Middlesex County </strong> , in the <a> U.S. state </a> of <a> Massachusetts </a> , is the twenty-third most populous <a> county </a> in the <a> United States </a> and the most populous county in <a> New England </a> .
+
+1398	FALSE	Middlesex County, Massachusetts:: pop	1,482,478 / 3.11.	
+The average household size was 2.52 and the average family size was 3.11. </p>
+
+1434	TRUE	Wilcox County, Alabama:: state	alabama / Alabama	
+<p> <strong> Wilcox County </strong> is a <a> county </a> of the <a> U.S. state </a> of <a> Alabama </a> .
+
+1435	FALSE	Wilcox County, Alabama:: area_land_sq_mi	889 / 376	
+<p> As of the <a> census </a> of 2000, there were 13,183 people, 4,776 households, and 3,376 families residing in the county.
+
+1436	FALSE	Wilcox County, Alabama:: area_water_sq_mi	19 / 3	
+<p> As of the <a> census </a> of 2000, there were 13,183 people, 4,776 households, and 3,376 families residing in the county.
+
+1438	TRUE	Wilcox County, Alabama:: density_km2	6 / (6/	
+The <a> population density </a> was 15 people per square mile (6/km&#x00b2;).
+
+1439	FALSE	Wilcox County, Alabama:: founded	december 13, 1819 / 889& (2, 302&	
+Nearly 889&nbsp;square miles (2,302&nbsp;km&#x00b2;) of it is land and 19&nbsp;square miles (49&nbsp;km&#x00b2;) of it (2.07%) is water. </p>
+
+1445	TRUE	Mono County, California:: state	california / Nevada	
+<p> <strong> Mono County </strong> is a <a> county </a> located in the east central portion of the <a> U.S. state </a> of <a> California </a> , to the east of the <a> Sierra Nevada </a> between <a> Yosemite National Park </a> and <a> Nevada </a> .
+
+1451	FALSE	Mono County, California:: density_sq_mi	4 / 12	
+As of 2000 the population was 12,853.
+
+1452	TRUE	Hill County, Montana:: state	montana / Montana	
+<p> <strong> Hill County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Montana </a> .
+
+1455	TRUE	Hill County, Montana:: density_km2	2 / (2/	
+The <a> population density </a> was 6 people per square mile (2/km&#x00b2;).
+
+1462	TRUE	Hill County, Montana:: area_water_sq_mi	20 / 4	
+<p> As of the <a> census </a> of 2000, there were 16,673 people, 6,457 households, and 4,255 families residing in the county.
+
+1464	TRUE	Will County, Illinois:: state	illinois / Illinois	
+<p> <strong> Will County </strong> is a <a> county </a> located in the northern part of the <a> U.S. state </a> of <a> Illinois </a> .
+
+1465	FALSE	Will County, Illinois:: area_land_sq_mi	837 / 017	
+<p> As of the <a> census </a> of 2000, there were 502,266 people, 167,542 households, and 131,017 families residing in the county.
+
+1467	TRUE	Will County, Illinois:: density_km2	232 / (232/	
+The <a> population density </a> was 600 people per square mile (232/km&#x00b2;).
+
+1468	TRUE	Will County, Illinois:: founded	1836 / 1836	
+<p> Will County was formed in 1836 out of <a> Cook </a> , <a> Iroquois </a> and <a> Vermilion Counties </a> .
+
+1472	FALSE	Will County, Illinois:: area_water_sq_mi	12 / 131	
+<p> As of the <a> census </a> of 2000, there were 502,266 people, 167,542 households, and 131,017 families residing in the county.
+
+1474	TRUE	Lancaster County, Pennsylvania:: county	lancaster county / United States	
+<p> <strong> Lancaster County </strong> , known as <em> the Garden Spot of America </em> or <em> Pennsylvania Dutch Country </em> , is a <a> county </a> located in the <a> south-central </a> part of the Commonwealth of <a> Pennsylvania </a> , in the <a> United States </a> .
+
+1475	TRUE	Lancaster County, Pennsylvania:: state	pennsylvania / Pennsylvania	
+<p> <strong> Lancaster County </strong> , known as <em> the Garden Spot of America </em> or <em> Pennsylvania Dutch Country </em> , is a <a> county </a> located in the <a> south-central </a> part of the Commonwealth of <a> Pennsylvania </a> , in the <a> United States </a> .
+
+1476	TRUE	Lancaster County, Pennsylvania:: area_total_sq_mi	984 / 984&	
+<p> Lancaster County has a total area of 984&nbsp;square miles (2,548&nbsp;km&#x00b2;). 949&nbsp;square miles (2,458&nbsp;km&#x00b2;) of which is land and 35&nbsp;square miles (90&nbsp;km&#x00b2;) of it (3.53%) is water. </p>
+
+1480	TRUE	Lancaster County, Pennsylvania:: area_land_sq_mi	949 / (3.	
+<p> Lancaster County has a total area of 984&nbsp;square miles (2,548&nbsp;km&#x00b2;). 949&nbsp;square miles (2,458&nbsp;km&#x00b2;) of which is land and 35&nbsp;square miles (90&nbsp;km&#x00b2;) of it (3.53%) is water. </p>
+
+1481	FALSE	Lancaster County, Pennsylvania:: area_water_sq_mi	35 / 2000	
+39.8% were of <a> German </a> , 11.8% <a> United States </a> or American, 7.2% <a> Irish </a> and 5.7% <a> English </a> ancestry according to the <a> United States Census, 2000 </a> . </p>
+
+1523	TRUE	Highlands County, Florida:: state	florida / Florida	
+<p> <strong> Highlands County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Florida </a> .
+
+1526	TRUE	Highlands County, Florida:: area_water_sq_mi	78 / 25	
+<p> As of the <a> census </a> of 2000, there were 87,366 people, 37,471 households, and 25,780 families residing in the county.
+
+1528	TRUE	Highlands County, Florida:: density_km2	32.82 / (32.	
+The <a> population density </a> was 85.00 people per square&nbsp;mile (32.82/km&#x00b2;).
+
+1532	TRUE	Highlands County, Florida:: density_sq_mi	85.0 / 82/	
+The <a> population density </a> was 85.00 people per square&nbsp;mile (32.82/km&#x00b2;).
+
+1599	TRUE	Lake County, Florida:: county	lake county / United States	
+<p> <strong> Lake County </strong> is a <a> county </a> located in the <a> state </a> of <a> Florida </a> , <a> United States </a> .
+
+1600	TRUE	Lake County, Florida:: state	florida / Florida	
+<p> <strong> Lake County </strong> is a <a> county </a> located in the <a> state </a> of <a> Florida </a> , <a> United States </a> .
+
+1601	FALSE	Lake County, Florida:: area_land_sq_mi	953 / 507	
+<p> As of the <a> census </a> of 2000, there were 210,528 people, 88,413 households, and 62,507 families residing in the county.
+
+1602	FALSE	Lake County, Florida:: area_water_sq_mi	203 / 62	
+<p> As of the <a> census </a> of 2000, there were 210,528 people, 88,413 households, and 62,507 families residing in the county.
+
+1675	TRUE	Nassau County, Florida:: state	florida / Florida	
+<p> <strong> Nassau County </strong> is a <a> county </a> located in the <a> state </a> of <a> Florida </a> .
+
+1676	TRUE	Nassau County, Florida:: area_total_sq_mi	726 / (726	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 1,880&nbsp;km&#x00b2; (726 sq&nbsp;mi).
+
+1677	FALSE	Nassau County, Florida:: area_land_sq_mi	652 / 528	
+<p> As of the <a> census </a> of 2000, there were 57,663 people, 21,980 households, and 16,528 families residing in the county.
+
+1678	FALSE	Nassau County, Florida:: area_water_sq_mi	74 / 16	
+<p> As of the <a> census </a> of 2000, there were 57,663 people, 21,980 households, and 16,528 families residing in the county.
+
+1680	TRUE	Nassau County, Florida:: density_km2	34 / 34/	
+The <a> population density </a> was 34/km&#x00b2; (88/sq&nbsp;mi).
+
+1696	TRUE	Monroe County, Florida:: state	florida / Florida	
+<p> <strong> Monroe County </strong> is a <a> county </a> located in the <a> state </a> of <a> Florida </a> .
+
+1697	FALSE	Monroe County, Florida:: area_land_sq_mi	997 / 384	
+<p> As of the <a> census </a> of 2000, there were 79,589 people, 35,086 households, and 20,384 families residing in the county.
+
+1706	TRUE	Okaloosa County, Florida:: state	florida / Florida	
+<p> <strong> Okaloosa County </strong> is a <a> county </a> located in the <a> state </a> of <a> Florida </a> .
+
+1707	FALSE	Okaloosa County, Florida:: area_land_sq_mi	936 / 520	
+<p> As of the <a> census </a> of 2000, there were 170,498 people, 66,269 households, and 46,520 families residing in the county.
+
+1708	FALSE	Okaloosa County, Florida:: area_water_sq_mi	146 / 46	
+<p> As of the <a> census </a> of 2000, there were 170,498 people, 66,269 households, and 46,520 families residing in the county.
+
+1710	TRUE	Okaloosa County, Florida:: density_km2	70 / (70/	
+The <a> population density </a> was 182 people per square mile (70/km&#x00b2;).
+
+1739	TRUE	Osceola County, Florida:: state	florida / Florida	
+<p> <strong> Osceola County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Florida </a> .
+
+1741	FALSE	Osceola County, Florida:: area_water_sq_mi	184 / 45	
+<p> As of the <a> census </a> of 2000, there were 172,493 people, 60,977 households, and 45,062 families residing in the county.
+
+1742	TRUE	Osceola County, Florida:: density_km2	50 / (50/	
+The <a> population density </a> was 130 people per square mile (50/km&#x00b2;).
+
+1788	TRUE	Polk County, Florida:: state	florida / Florida	
+<p> <strong> Polk County </strong> is a <a> county </a> located in the <a> U.S. </a> in <a> Florida </a> .
+
+1789	FALSE	Polk County, Florida:: area_total_sq_mi	2010 / 010&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 2,010&nbsp;square miles (5,206&nbsp;km&#x00b2;), of which, 1,874&nbsp;square miles (4,855&nbsp;km&#x00b2;) of it is land and 136&nbsp;square miles (351&nbsp;km&#x00b2;) of it is water.
+
+1791	FALSE	Polk County, Florida:: area_water_sq_mi	136 / 132	
+<p> As of the <a> census </a> of 2000, there were 483,924 people, 187,233 households, and 132,373 families residing in the county.
+
+1793	TRUE	Polk County, Florida:: density_km2	100 / (100/	
+The <a> population density </a> was 258 people per square mile (100/km&#x00b2;).
+

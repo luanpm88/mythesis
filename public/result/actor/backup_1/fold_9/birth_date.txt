@@ -1,0 +1,60 @@
+Found: 26
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	birth_date	........ / April 1956 )	// <p> <strong> Lars von Trier </strong> ( ; born <strong> Lars Trier </strong> ; 30 April 1956 ) is a <a> Danish </a> <a> film director </a> and <a> screenwriter </a> .
+
+#	NEW	birth_date	........ / 13 , 1910 &# 25 ,	// <p> <strong> Karl Gustav Ahlefeldt </strong> ( March 13 , 1910 &#x2013 ; March 25 , 1985 ) was a <a> Danish </a> <a> film </a> <a> actor </a> .
+
+#	NEW	birth_date	........ / 9 , 1925 &	// <p> <strong> Lee Van Cleef </strong> ( January 9 , 1925 &ndash ; December 16 , 1989 ) was an American film actor who appeared mostly in <a> Western </a> and action pictures .
+
+#	NEW	birth_date	........ / would	// <em> SOS Iceberg </em> would be Riefenstahl ' s only English-language film role as an actress .
+
+#	NEW	birth_date	........ / 5 September 1978 )	// <p> <strong> Laura Maureen Bertram </strong> ( born 5 September 1978 ) is a Canadian actress . </p>
+
+#	NEW	birth_date	........ / 16 December 1938 )	// <p> <strong> Liv Johanne Ullmann </strong> ( born 16 December 1938 ) is a <a> Norwegian </a> actress and film director , as well as one of the muses of the <a> Swedish </a> director <a> Ingmar Bergman </a> .
+
+#	NEW	birth_date	........ / Newark	// <p> He was born <strong> Joseph Levitch </strong> in <a> Newark , New Jersey </a> , to <a> Russian Jewish </a> parents .
+
+#	NEW	birth_date	........ / ,	// He is best known for directing <em> <a> The Silence of the Lambs </a> </em> , which won him the <a> Academy Award </a> for Best Director . </p>
+
+#	NEW	birth_date	........ / April 30 , 1982 )	// <p> <strong> Kirsten Caroline Dunst </strong> ( born April 30 , 1982 ) is an American actress , model , and singer .
+
+#	NEW	birth_date	........ / 1 July 1931 )	// <p> <strong> Leslie Claire Margaret Caron </strong> ( ; born 1 July 1931 ) is a French film actress and dancer , who appeared in 45 films between 1951 and 2003 .
+
+#	NEW	birth_date	........ / 19 , 1930 &	// <p> <strong> John Michael Frankenheimer </strong> ( February 19 , 1930 &ndash ; July 6 , 2002 ) was an award-winning American film and television director known for social dramas .
+
+#	NEW	birth_date	........ / Shortly	// <p> Shortly before his death , he filmed a cameo for the comedy series <em> <a> Police Squad ! </a> </em> .
+
+#	NEW	birth_date	........ / 29 , 1938 )	// <p> <strong> Jonathan Vincent &quot ; Jon&quot ; Voight </strong> ( born December 29 , 1938 ) is an American film and television actor .
+
+#	NEW	birth_date	........ / October 28 , 1967 )	// <p> <strong> Julia Fiona Roberts </strong> ( born October 28 , 1967 ) is an American actress .
+
+#	NEW	birth_date	........ / 17 , 1900 &#	// <p> <strong> Katina Paxinou </strong> ( December 17 , 1900 &#x2013 ; February 22 , 1973 ) was a Greek film and <a> theatre </a> actress .
+
+#	NEW	birth_date	........ / ( 7 June 1914 &#	// <p> <strong> Khwaja Ahmad Abbas </strong> ( ) ( 7 June 1914 &#x2013 ; 1 June 1987 ) , popularly known as <strong> K .
+
+#	NEW	birth_date	........ / 9 , 1956 ;	// <p> <strong> Kimberly Beck </strong> ( born January 9 , 1956 ; <a> Glendale , California </a> ) is an American actress with over sixty television and film roles to her credit . </p>
+
+#	NEW	birth_date	........ / In October 2006	// <p> In October 2006 , Spader narrated <em> <a> China Revealed </a> </em> , the first episode of <a> Discovery Channel </a> ' s documentary series <em> <a> Discovery Atlas </a> </em> .
+
+#	NEW	birth_date	........ / 24 , 1936 &#	// <p> <strong> James Maury </strong> &quot ; <strong> Jim </strong> &quot ; <strong> Henson </strong> ( September 24 , 1936 &#x2013 ; May 16 , 1990 ) was an <a> American </a> <a> puppeteer </a> best known as the creator of <a> The Muppets </a> .
+
+#	NEW	birth_date	........ / 11 , 1940 )	// <p> <strong> John Fink </strong> ( born February 11 , 1940 ) is an <a> American </a> film and television <a> actor </a> . </p>
+
+#	NEW	birth_date	........ / 2 , 1954 )	// <p> <strong> Jeannine Taylor </strong> ( born June 2 , 1954 ) is an American actress .
+
+#	NEW	birth_date	........ / 2 , 1964 )	// <p> <strong> Keanu Charles Reeves </strong> ( [ <em> kay-AH-noo </em> , often pronounced <em> kee-AH-noo </em> ] ; born September 2 , 1964 ) is a <a> Canadian </a> actor .
+
+#	NEW	birth_date	........ / 22 , 1959 )	// <p> <strong> Kyle Merritt MacLachlan </strong> ( born February 22 , 1959 ) is an <a> American </a> <a> actor </a> .
+
+#	NEW	birth_date	........ / 26 , 1959 )	// <p> <strong> Kevin Spacey </strong> , <a> CBE </a> ( born July 26 , 1959 ) is an American actor , director , <a> screenwriter </a> , producer , and <a> crooner </a> .
+
+#	NEW	birth_date	........ / 17 June 1936 )	// <p> <strong> Kenneth &quot ; Ken&quot ; Loach </strong> ( born 17 June 1936 ) is an <a> English </a> <a> film </a> and <a> television director </a> . </p>
+
+#	NEW	birth_date	........ / May 14 , 1932 )	// <p> <strong> Kenji Sahara </strong> ( &#x4f50 ; &#x539f ; &#x5065 ; &#x4e8c ; <em> Sahara Kenji </em> , born <em> Tadashi Ishihara </em> ) ( born May 14 , 1932 ) is a <a> Japan </a> ese <a> actor </a> .
+

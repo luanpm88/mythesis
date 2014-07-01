@@ -1,4 +1,0 @@
-<li><em>Engenharia Aeron&#x00e1;utica</em> (<a>aeronautical engineering</a>)</li>
-<li><em>Engenharia Inform&#x00e1;tica</em> (<a>informatics</a> engineering)</li>
-<li><em>Matem&#x00e1;tica</em> (<a>mathematics</a>)</li>
-All libraries of UBI have an information desk where one can obtain information and help.

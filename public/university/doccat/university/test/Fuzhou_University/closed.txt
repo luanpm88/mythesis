@@ -1,2 +1,0 @@
-<li>College of Mathematics and Computer Science</li>
-<li>College of Material Science and Engineering</li>

@@ -1,0 +1,77 @@
+Found: 29
+Found Not Null: 5
+Correct: 2
+Wrong: 3
+Total: 7
+precision: 0.4
+recall: 0.2857142857142857
+
+
+
+0	FALSE	Brindabella Airlines::destinations	10 / 5	
+<p> Brindabella Airlines introduced the <a> BAe Jetstream 41 </a> aircraft on 5 May 2008 as the new member of their domestic fleet .
+
+#	NEW	destinations	........ / 4	// The <a> aircraft registration </a> number was , a <a> Douglas DC-4 </a> <a> propliner </a> .
+
+#	NEW	destinations	........ / 28	// <p> The flight departed <a> Berlin-Tegel International Airport </a> at 9 : 01 PM <a> CET </a> , upon arrival in Zurich about an hour later it was cleared to approach runway 28 in poor visibility conditions due to low clouds .
+
+#	NEW	destinations	........ / 1985	// On February 19 , 1985 , it was involved in an <a> aircraft upset incident </a> after the No . 4 engine <a> flamed out </a> .
+
+#	NEW	destinations	........ / 2010 :	// <p> The Air China Cargo fleet consists of the following aircraft as of January 2010 : </p>
+
+#	NEW	destinations	........ / 2010 ) :	// <p> The Business Aviation Center fleet consists of the following aircraft ( at May 2010 ) : </p>
+
+#	NEW	destinations	........ / 2007 ) :	// <p> The BritishJET fleet consisted of the following aircraft ( at March 2007 ) : </p>
+
+#	NEW	destinations	........ / 2009 ) :	// <p> The Blue Bird Aviation fleet includes the following aircraft ( as of 4 July 2009 ) : </p>
+
+#	NEW	destinations	........ / 2006 ) :	// <p> The Avioquintana fleet includes the following aircraft ( at August 2006 ) : </p>
+
+#	NEW	destinations	........ / 15	// <p> The Aviavilsa fleet includes the following aircraft ( as of 15 March 2009 ) [ <a> http : / /www . ch-aviation . c / aircraft . php ? search=set&amp ; airline=LVR&amp ; al_op=1 </a> ] : </p>
+
+10	TRUE	Aviast Air::destinations	2 / 2007 ) :	
+<p> The Aviast fleet includes the following aircraft ( at March 2007 ) : </p>
+
+#	NEW	destinations	........ / 2005 ) :	// <p> The FS Air Service fleet consists of the following aircraft ( at January 2005 ) : </p>
+
+#	NEW	destinations	........ / 2008	// <p> As of June 2008 , the fleet consists of : </p>
+
+#	NEW	destinations	........ / 2003	// <p> The airline operated a maximum of five aircraft after its 2003 expansion&mdash ; three <a> Boeing 737-200 </a> s and two <a> Fokker F28 </a> s . ref
+
+#	NEW	destinations	........ / 8	// <p> The aircraft was an older four-engined DC-8 passenger jet which had first flown in 1969 as part of the air fleet of <a> Braniff International Airways </a> .
+
+15	FALSE	Quantum Air::destinations	10 / 2009 ) :	
+<p> The Quantum Air fleet consisted of the following aircraft ( as of November 12 , 2009 ) : </p>
+
+#	NEW	destinations	........ / 2010 ) :	// <p> The fleet of Rico Linhas A&#x00e9 ; reas includes the following aircraft configured in all-economy class ( as of June 2010 ) : </p>
+
+#	NEW	destinations	........ / 8	// <p> The Capital Cargo International Airlines fleet consists of the following aircraft ( as of 8 November 2008 ) [ <a> http : / /www . ch-aviation . c / aircraft . php ? search=set&amp ; airline=CCI&amp ; al_op=1 </a> ] : </p>
+
+#	NEW	destinations	........ / 2009 .	// The aircraft was taken out of service in February 2004 and the 30-year old aircraft was scrapped in 2009 .
+
+19	FALSE	Tasair::destinations	4 / 2009	
+<p> As of December 2009 the Tasair fleet consists of the following : </p>
+
+20	TRUE	Romavia::destinations	2 / 2009 ) :	
+The Romavia fleet includes the following aircraft ( as of December 2009 ) : </p>
+
+#	NEW	destinations	........ / 2010 ) :	// <p> The TAM Mercosur fleet consists of the following aircraft ( as of August 2010 ) : center / center </p>
+
+#	NEW	destinations	........ / 11	// <p> Two newly acquired former <a> Alitalia </a> MD-11 combis recently joined the fleet . </p>
+
+#	NEW	destinations	........ / 2007	// In April 2007 AirBridge had purchased <a> Mal&#x00e9 ; v </a> airline from Hungarian government .
+
+#	NEW	destinations	........ / 2006	// <p> As of August 2006 the Air Excellence fleet included : </p>
+
+#	NEW	destinations	........ / 1999 .	// <p> <strong> Air D ' Ayiti </strong> was a short-lived <a> airline </a> from <a> Haiti </a> , which was operational between 1997 and 1999 .
+
+#	NEW	destinations	........ / 5	// <p> Initially it was a direct competitor of <a> TABA &#x2013 ; Transportes A&#x00e9 ; reos da Bacia Amaz&#x00f4 ; nica </a> and flew with a fleet of 5 <a> Embraer EMB 110 Bandeirante </a> .
+
+#	NEW	destinations	........ / 2010 ) :	// <p> The fleet of Trip Linhas A&#x00e9 ; reas includes the following aircraft configured in all-economy class ( as of December 2010 ) : </p>
+
+#	NEW	destinations	........ / 14	// The <a> Douglas Aircraft </a> <a> DC-9-14 </a> was operated by <a> Continental Airlines </a> and was a scheduled flight to <a> Boise , Idaho </a> .
+
+#	null	destinations	2 / ..........
+
+#	null	destinations	3 / ..........
+

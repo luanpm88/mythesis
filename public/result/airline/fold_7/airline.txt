@@ -1,0 +1,128 @@
+Found: 36
+Found Not Null: 30
+Correct: 24
+Wrong: 6
+Total: 38
+precision: 0.8
+recall: 0.631578947368421
+
+
+
+0	TRUE	Air Mandalay::airline	air mandalay / Air	
+<p> <strong> Air Mandalay </strong> ( ) is an <a> airline </a> based in <a> Yangon </a> , <a> Myanmar </a> .
+
+1	TRUE	Emu Airways::airline	emu airways / operating	
+<p> <strong> Emu Airways </strong> was an <a> airline </a> based in <a> Adelaide </a> in <a> Australia </a> operating tourist flights to nearby <a> Kangaroo Island </a> .
+
+2	TRUE	Batavia Air::airline	batavia air / Air	
+<p> <strong> Batavia Air </strong> ( PT .
+
+3	TRUE	Astral Aviation::airline	astral aviation / Astral Aviation	
+<p> <strong> Astral Aviation </strong> is a <a> cargo airline </a> based in <a> Nairobi </a> , <a> Kenya </a> .
+
+#	NEW	airline	........ / Caribbean	// <p> <strong> Caribbean Star Airlines </strong> was an <a> airline </a> based in <a> Antigua and Barbuda </a> .
+
+5	FALSE	Air VIA::airline	air via / Varna International Airways	
+<p> The airline was founded and started operations in 1990 as <strong> Varna International Airways </strong> using a brand new <a> Tupolev Tu-154M </a> aircraft .
+
+6	TRUE	Sosoliso Airlines::airline	sosoliso airlines / Sosoliso Airlines	
+<p> <strong> Sosoliso Airlines </strong> was a scheduled , domestic , passenger <a> airline </a> .
+
+#	NEW	airline	........ / China Cargo Airlines	// <p> <strong> China Cargo Airlines </strong> ( ) sometimes as abbreviated &#x4e2d ; &#x8d27 ; &#x822a ; , is a <a> cargo airline </a> based in <a> Shanghai </a> , <a> People ' s Republic of China </a> .
+
+8	TRUE	XL Airways France::airline	xl airways france / XL Airways	
+On 23 November 2006 the airline changed its name to <strong> XL Airways France </strong> .
+
+9	TRUE	WDL Aviation::airline	wdl aviation / WDL Aviation	
+<p> <strong> WDL Aviation </strong> is an <a> charter airline </a> based at <a> Cologne Bonn Airport </a> , <a> Germany </a> . </p>
+
+10	FALSE	Expo Aviation::airline	expoair / Pakistan	
+<p> <strong> <a> Pakistan </a> </strong> </p>
+
+11	TRUE	Australian air Express::airline	australian air express / air Express	
+<p> <strong> Australian air Express </strong> is a <a> logistics </a> company based in <a> Melbourne </a> , <a> Australia </a> .
+
+12	TRUE	New Axis Airways::airline	new axis airways / France	
+<p> <strong> New Axis Airways </strong> was an <a> airline </a> based in <a> Marseille </a> , <a> France </a> .
+
+13	TRUE	Welcome Air::airline	welcome air / Air	
+<p> <strong> Welcome Air </strong> Luftfahrt is an <a> airline </a> based in <a> Innsbruck </a> , <a> Austria </a> . </p>
+
+14	TRUE	Rossair Europe::airline	rossair europe / Europe	
+<p> <strong> Rossair Europe </strong> is an <a> airline </a> based in the <a> Netherlands </a> . </p>
+
+#	NEW	airline	........ / Air	// <p> <strong> Air Armenia </strong> is an <a> airline </a> based in <a> Yerevan </a> , <a> Armenia </a> .
+
+16	TRUE	Cobham Aviation Services Australia::airline	cobham aviation services australia / Australia	
+<p> <strong> Cobham Aviation Services Australia </strong> ( formerly <strong> National Jet </strong> Systems ) , is a scheduled and charter <a> airline </a> with its Headquarters based in <a> Adelaide </a> , <a> Australia </a> .
+
+#	NEW	airline	........ / Tunisair	// <p> <strong> Sevenair </strong> ( ( ) , formerly known as <strong> Tuninter </strong> ( ) is an <a> airline </a> based in <a> Tunis </a> , Tunisia and operates internal , short-distance flights as part of <a> Tunisair </a> . </p>
+
+18	FALSE	Nationwide Airlines (Zambia)::airline	nationwide airlines (zambia) / Nationwide Airlines	
+<p> <strong> Nationwide Airlines ( Zambia ) Limited </strong> is a scheduled , domestic , passenger <a> airline </a> based in <a> Zambia </a> .
+
+19	TRUE	Easy Link Aviation::airline	easy link aviation / Link Aviation	
+<p> <strong> Easy Link Aviation </strong> Services was an <a> airline </a> based in <a> Nigeria </a> . </p>
+
+20	TRUE	Orion Air::airline	orion air / Air	
+<p> <strong> Orion Air </strong> was an <a> airline </a> based in the <a> Seychelles </a> . </p>
+
+21	TRUE	Phoenix Aviation::airline	phoenix aviation / United	
+<p> <strong> Phoenix Aviation </strong> was an <a> airline </a> based in <a> Sharjah </a> , <a> United Arab Emirates </a> .
+
+22	FALSE	Celestair::airline	celestair group / Group	
+<p> <strong> Celestair </strong> is a group of airlines <a> Air Burkina </a> , <a> Air Mali </a> and <a> Air Uganda </a> , part of <a> AKFED </a> Group </p>
+
+#	NEW	airline	........ / South Africa	// <p> <strong> Executive Aerospace </strong> was a charter <a> airline </a> based in <a> Johannesburg </a> , <a> South Africa </a> .
+
+24	TRUE	Darwin Airline::airline	darwin airline / near	
+<p> <strong> Darwin Airline </strong> is a <a> regional airline </a> with its head office on the grounds of <a> Lugano Airport </a> in <a> Agno </a> , <a> Switzerland </a> , near <a> Lugano </a> .
+
+#	NEW	airline	........ / People '	// <p> <strong> Chang&#x2019 ; an Airlines Co . , Ltd . </strong> ( &#x957f ; &#x5b89 ; &#x822a ; &#x7a7a ; ) is an <a> airline </a> based in <a> Xi ' an </a> , <a> Shaanxi </a> , the <a> People ' s Republic of China </a> .
+
+26	TRUE	Toll Aviation::airline	toll aviation / Australia	
+<p> <strong> Toll Aviation </strong> is an <a> airline </a> based in <a> Brisbane </a> , <a> Australia </a> .
+
+27	TRUE	Air Corridor::airline	air corridor / Air	
+<p> <strong> Air Corridor </strong> was an <a> airline </a> based in <a> Nampula </a> , <a> Mozambique </a> .
+
+28	TRUE	Bakhtar Afghan Airlines::airline	bakhtar afghan airlines / Afghan Airlines	
+<p> <strong> Bakhtar Afghan Airlines </strong> was an <a> airline </a> based in <a> Afghanistan </a> .
+
+29	FALSE	CTK – CiTylinK::airline	citylink airlines / based	
+<p> <strong> CTK CiTylinK </strong> is an <a> airline </a> in <a> Ghana </a> based in <a> Accra </a> .
+
+30	TRUE	Aero Benin::airline	aero benin / Aero	
+<p> <strong> Aero Benin </strong> is an <a> airline </a> based in <a> Benin </a> . </p>
+
+31	TRUE	Premium Air Shuttle::airline	premium air shuttle / Air Shuttle	
+<p> <strong> Premium Air Shuttle </strong> was an <a> airline </a> based in <a> Nigeria </a> . </p>
+
+32	FALSE	Yeti Airlines::airline	yeti airlines / Nepal	
+Ltd . </strong> is an <a> airline </a> based in <a> Nepal </a> .
+
+33	TRUE	Trans Air Benin::airline	trans air benin / Trans Air	
+<p> <strong> Trans Air Benin </strong> is a scheduled passenger <a> airline </a> based in <a> Cotonou </a> in <a> Benin </a> .
+
+34	TRUE	KAS Air Company::airline	kas air company / Air	
+<p> <strong> KAS Air Company </strong> was an <a> airline </a> based in <a> Kyrgyzstan </a> . </p>
+
+35	TRUE	Airnorth::airline	airnorth / Australia	
+<p> <strong> Capiteq Limited </strong> , ref name=&quot ; ABN&quot ; / trading as <strong> Airnorth </strong> , is a <a> regional airline </a> ref name=&quot ; AOC&quot ; / based in <a> Darwin </a> in <a> Australia </a> .
+
+#	null	airline	airfast indonesia / ..........
+
+#	null	airline	jatayu airlines / ..........
+
+#	null	airline	nolinor aviation / ..........
+
+#	null	airline	sunexpress / ..........
+
+#	null	airline	faso airways / ..........
+
+#	null	airline	royal swazi national airways / ..........
+
+#	null	airline	air nunavut / ..........
+
+#	null	airline	zambian airways / ..........
+

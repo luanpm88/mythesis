@@ -1,6 +1,0 @@
-<li>College of Humanities and Natural Sciences</li>
-<li>College of Social Sciences</li>
-<h4>College of Humanities and Natural Sciences</h4>
-<h4>College of Social Sciences</h4>
-<li>Gillis Long Poverty Law Center</li>
-<li>Jesuit Center</li>

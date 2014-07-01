@@ -1,0 +1,44 @@
+Total articles: 312
+Articles for test: 281
+Articles for train: 31
+Total attributes: 64
+Attributes with high occurrences: 5/64
+
+------------
+Found: 82
+Found Not Null: 27
+Correct: 14
+Wrong: 13
+Total: 29
+precision: 0.5185185185185185
+recall: 0.4827586206896552
+
+
+
+0	FALSE	Mel Blanc:: birth_name	melvin jerome blank / an American <a> voice actor	// <p> <strong> Mel Blanc </strong> ( May 30 , 1908 &ndash; July 10 , 1989 ) was an American <a> voice actor </a> and <a> comedian </a> .
+4	FALSE	Luchino Visconti:: birth_name	luchino visconti di modrone / Feature Films	// <h4> Feature Films </h4>
+6	FALSE	Paul Muni:: birth_name	meshilem meier weisenfreund / Paul Muni	// <p> <strong> Paul Muni </strong> ( September 22 , 1895 &#x2013; August 25 , 1967 ) was an <a> Austrian-Hungarian </a> -born American stage and film actor .
+7	FALSE	Paul Muni:: occupation	actor / presented.	// The film won an <a> Academy Award </a> for <a> Best Original Screenplay </a> - the first year the awards were presented . </p>
+9	TRUE	Sacha Baron Cohen:: birth_name	sacha noam baron cohen / Sacha Noam Baron Cohen	// <p> <strong> Sacha Noam Baron Cohen </strong> ( born 13 October 1971 ) is a British <a> comedian </a> , actor , and writer .
+12	TRUE	Richard Barthelmess:: occupation	actor / Actor	// Richard Barthelmess in [[Broken Blossoms]] <em> ]] </em> In the coming years , he was one of <a> Hollywood </a> 's highest paid performers , starring in such classics as <em> <a> The Patent Leather Kid </a> </em> ( 1927 ) and <em> <a> The Noose </a> </em> ( 1928 ) ; he was nominated for Best Actor at the first <a> Academy Awards </a> for his performance in both these films , and he won a Special Citation for producing <em> <a> The Patent Leather Kid </a> </em> .
+14	TRUE	Victor McLaglen:: occupation	actor / actor	// Four of his brothers also became actors : Arthur ( 1888&#x2013;1972 ) , an actor and sculptor , and Clifford ( 1892&#x2013;1978 ) , Cyril ( 1899&#x2013;1987 ) and Kenneth ( circa 1901-1979 ) .
+15	TRUE	Victor McLaglen:: birth_name	victor andrew de bier everleigh mclaglen / Victor Andrew de Bier Everleigh McLaglen	// <p> <strong> Victor Andrew de Bier Everleigh McLaglen </strong> ( 10 December 1886 &#x2013; 7 November 1959 ) was an <a> English </a> <a> boxer </a> and <a> World War I </a> veteran who became a leading <a> American </a> <a> film actor </a> . </p>
+17	TRUE	Spencer Tracy:: birth_name	spencer bonaventure tracy / Spencer Bonaventure Tracy	// <p> <strong> Spencer Bonaventure Tracy </strong> ( April 5 , 1900 &#x2013; June 10 , 1967 ) was an American theatrical and film actor , who appeared in 74 films from 1930 to 1967 .
+18	TRUE	Spencer Tracy:: occupation	actor / Actor	// He was nominated for nine <a> Academy Awards for Best Actor </a> in all , winning two . </p>
+20	FALSE	Janet Gaynor:: birth_name	laura augusta gainor / was an American	// <p> <strong> Janet Gaynor </strong> ( October 6 , 1906 &ndash; September 14 , 1984 ) was an American actress .
+21	FALSE	Janet Gaynor:: occupation	actress / Born	// <p> In 1937 , she was again nominated for an Academy Award , this time for her role in <em> <a> A Star Is Born </a> </em> .
+22	FALSE	Richard Burton:: birth_name	richard walter jenkins / November 1925 &#x2013; 5 August	// <p> <strong> Richard Burton </strong> , <a> CBE </a> ( 10 November 1925 &#x2013; 5 August 1984 ) was a <a> Welsh </a> actor .
+23	TRUE	Richard Burton:: occupation	actor / Actor	// <p> He was nominated six times for an <a> Academy Award for Best Actor </a> and once for an <a> Academy Award for Best Supporting Actor </a> &#x2013; but he never won .
+25	FALSE	Milton Berle:: birth_name	milton berlinger / an <a> American	// <p> <strong> Milton Berle </strong> ( July 12 , 1908 &#x2013; March 27 , 2002 ) was an <a> American </a> <a> comedian </a> and <a> actor </a> .
+30	TRUE	Roberto Benigni:: birth_name	roberto remigio benigni / Roberto Remigio Benigni	// <p> <strong> Roberto Remigio Benigni </strong> , <a> Knight Grand Cross OMRI </a> ( born 27 October 1952 ) is an Italian actor , comedian , screenwriter and <a> director </a> of film , theatre and television . </p>
+32	TRUE	Jane Seymour (actress):: birth_name	joyce penelope wilhelmina frankenberg / Joyce Penelope Wilhelmina Frankenberg	// <p> <strong> Jane Seymour </strong> , <a> OBE </a> ( born <strong> Joyce Penelope Wilhelmina Frankenberg </strong> ; 15 February 1951 ) is an English actress well-known for her roles as the <a> Bond girl </a> in the 1973 <a> James Bond </a> film <em> <a> Live and Let Die </a> </em> , the 1990s American <a> television series </a> <em> <a> Dr .
+34	TRUE	Goldie Hawn:: birth_name	goldie jeanne hawn / occasional singer.	// <p> <strong> Goldie Jeanne Hawn </strong> ( born November 21 , 1945 ) is an American actress , <a> film director </a> , <a> producer </a> , and occasional singer .
+36	FALSE	Leonard Rossiter:: birth_date	21 october 1926 / ,	// <p> Rossiter was born in <a> Liverpool </a> , the son of Elizabeth ( n&#x00e9;e Howell ) and John Rossiter .
+38	TRUE	Leonard Rossiter:: birth_name	leonard rossiter / Reginald Iolanthe Perrin	// <p> <strong> Leonard Rossiter </strong> ( 21 October 1926 &#x2013; 5 October 1984 ) was an <a> English </a> <a> actor </a> known for his roles as Rupert Rigsby , in the <a> British </a> comedy television series <em> <a> Rising Damp </a> </em> ( 1974&#x2013;78 ) , and Reginald Iolanthe Perrin , in <em> <a> The Fall and Rise of Reginald Perrin </a> </em> ( 1976&#x2013;79 ) .
+41	FALSE	María Félix:: birth_date	april 8, 1914 / em>	// However , her obituary in <em> <a> The New York Times </a> </em> states that she was born on May 4 , 1914 , which would have made her 87 at the time of her death on April 8 , 2002 .
+54	FALSE	Patrick Troughton:: birth_name	patrick george troughton / After Troughton left Doctor Who	// <p> After Troughton left Doctor Who in 1969 , he appeared in various films and television roles .
+58	TRUE	Meg Ryan:: occupation	actress / actress	// <p> Ryan was raised a <a> Roman Catholic </a> who noted it &quot;a first-class production , accentuated by fine performances and an unflinching script , &quot; Ryan was applauded for the performance of her &quot;roller-coaster role . &quot; the actress received her first <a> Screen Actors Guild Award </a> nomination the following year .
+64	FALSE	Kate Winslet:: birth_name	kate elizabeth winslet / has won awards from	// She has won awards from the <a> Screen Actors Guild </a> , <a> British Academy of Film and Television Arts </a> , and the <a> Hollywood Foreign Press Association </a> among others , and has been nominated for an <a> Emmy Award </a> for television acting . </p>
+67	TRUE	Leonardo DiCaprio:: birth_name	leonardo wilhelm dicaprio / is an American actor	// <p> <strong> Leonardo Wilhelm DiCaprio </strong> ( ; born November 11 , 1974 ) is an American actor and <a> film producer </a> .
+73	TRUE	Leonard Nimoy:: birth_name	leonard simon nimoy / Leonard Simon Nimoy	// <p> <strong> Leonard Simon Nimoy </strong> ( , ; born March 26 , 1931 ) is an American actor , film director , poet , musician , and photographer .
+80	FALSE	Ub Iwerks:: birth_name	ubbe ert iwwerks / his work for	// <p> <strong> Ub Iwerks </strong> , A . S . C . ( March 24 , 1901&nbsp;&#x2013; July 7 , 1971 ) was a two-time <a> Academy Award </a> winning <a> American </a> <a> animator </a> , <a> cartoonist </a> and special effects technician , who was famous for his work for <a> Walt Disney </a> .

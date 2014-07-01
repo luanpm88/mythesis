@@ -1,0 +1,68 @@
+Found: 25
+Found Not Null: 2
+Correct: 2
+Wrong: 0
+Total: 5
+precision: 1.0
+recall: 0.4
+
+
+
+#	NEW	ceased	........ / 2003	// In 2000 , Brindabella Airlines added a flight training school to its operations , and in April 2003 , scheduled Regional airline services .
+
+#	NEW	ceased	........ / 409	// <p> <strong> <a> United Airlines </a> Flight 409 </strong> was a scheduled flight departing from <a> Denver , Colorado </a> to <a> Salt Lake City , Utah </a> on October 6 , 1955 .
+
+#	NEW	ceased	........ / 34	// It operates regularly scheduled cargo charter services to over 34 US airports and nine international airports , as well as worldwide charter freight services .
+
+#	NEW	ceased	........ / 1968	// <p> The airline was established in 1968 and started operations as California Air Charter .
+
+#	NEW	ceased	........ / 01	// <p> The flight departed <a> Berlin-Tegel International Airport </a> at 9 : 01 PM <a> CET </a> , upon arrival in Zurich about an hour later it was cleared to approach runway 28 in poor visibility conditions due to low clouds .
+
+#	NEW	ceased	........ / 1961	// <p> The airline was established and started operations in 1961 as Contact Air and became wholly owned by the Mikisew Cree First Nation in 1995 .
+
+#	NEW	ceased	........ / 2003 .	// <p> The airline was established on 12 December 2003 and started operations in 2003 .
+
+#	NEW	ceased	........ / 1947 .	// <p> The airline was established in 1946 and started operations in 1947 .
+
+#	NEW	ceased	........ / 2009	// <p> As of December 2009 , the Aviast Air website is down , so that it is not clear whether the airline is still operational . </p>
+
+#	NEW	ceased	........ / 2000	// In 2000 , Air Canada cancelled its contract , but services continued for <a> Peace Air </a> until 2004 .
+
+#	NEW	ceased	........ / 2005 ) :	// <p> The FS Air Service fleet consists of the following aircraft ( at January 2005 ) : </p>
+
+#	NEW	ceased	........ / 2006	// <p> As of August 2006 the airline operated : </p>
+
+12	TRUE	Air Universal::ceased	2007 / 2007.	
+<p> The airline was shut down in 2007 . </p>
+
+#	NEW	ceased	........ / 1968 .	// <p> The airline was established in 1968 and started operations in May 1968 .
+
+#	NEW	ceased	........ / 1989	// <p> The airline started operations in July 1989 , headed by Peter Vincent .
+
+#	NEW	ceased	........ / 2005 .	// The airline began operations in 1996 and shut down in 2005 . </p>
+
+#	NEW	ceased	........ / 2000	// <p> The airline was established in 1999 and started operations on 5 July 2000 from <a> Madrid </a> with domestic services and an initial fleet of three <a> Boeing 717 </a> aircraft .
+
+#	NEW	ceased	........ / 2010 .	// The airline was grounded on June 1 , 2010 . </p>
+
+#	NEW	ceased	........ / 2001	// <p> The airline was established in 2001 and is wholly owned by GVA-Investimentos , SARL . </p>
+
+#	NEW	ceased	........ / 633	// <p> <strong> <a> KLM </a> Flight 633 </strong> was a passenger flight from <a> Amsterdam </a> to <a> New York City </a> .
+
+#	NEW	ceased	........ / 1 September 1996	// On 1 September 1996 , ARPA purchased 80% of the shares of the former state-owned <strong> LAP - L&#x00ed ; neas A&#x00e9 ; reas Paraguayas </strong> and both airlines were merged under the name TAM - Transportes A&#x00e9 ; reos del Mercosur .
+
+#	NEW	ceased	........ / 1985 .	// <p> The <a> airline </a> was established in 1985 .
+
+22	TRUE	Aero Cuahonte::ceased	2007 / 2007	
+<p> In 2007 , Aero Cuahonte was shut down . </p>
+
+#	NEW	ceased	........ / 120	// <p> The airline was established in 1998 with two <a> Embraer EMB 120 Brasilia </a> s and was wholly owned by the Caprioli Group until November 2006 , when &#x00c1 ; guia Branca Group ( Chieppe family ) bought 49% of its capital . </p>
+
+#	NEW	ceased	........ / 1713	// <p> <strong> Continental Airlines Flight 1713 </strong> crashed while taking off in a snowstorm from <a> Stapleton International Airport </a> in <a> Denver , Colorado </a> on .
+
+#	null	ceased	2004 / ..........
+
+#	null	ceased	2008 / ..........
+
+#	null	ceased	1999 / ..........
+

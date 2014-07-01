@@ -1,0 +1,22 @@
+Found: 7
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	birthdate	........ / 18 , 1955 ) is an American actor , singer , musician , producer , director , and	// <p> <strong> Kevin Michael Costner </strong> ( born January 18 , 1955 ) is an American actor , singer , musician , producer , director , and businessman .
+
+#	NEW	birthdate	........ / 1960 )	// <p> <strong> Chris Barrie </strong> ( born 28 March 1960 ) is a <a> British </a> <a> actor </a> .
+
+#	NEW	birthdate	........ / 2007 , She explained that the decision was significant , as the films represented a further four-year commitment to the role , but eventually conceded that she &quot ; could never let [ the role of ] Hermione go&quot ; , signing for the role on	// Radcliffe eventually signed for the final films on 2 March 2007 , She explained that the decision was significant , as the films represented a further four-year commitment to the role , but eventually conceded that she &quot ; could never let [ the role of ] Hermione go&quot ; , signing for the role on 23 March 2007 .
+
+#	NEW	birthdate	........ / <strong> Charles Patrick Ryan O ' Neal , Jr .	// <p> <strong> Ryan O ' Neal </strong> ( born <strong> Charles Patrick Ryan O ' Neal , Jr . </strong> ; April 20 , 1941 ) is an American actor . </p>
+
+#	NEW	birthdate	........ / 1921 &# x2013 ; 27	// <p> <strong> Joan Greenwood </strong> ( 4 March 1921 &#x2013 ; 27 February 1987 ) was an <a> English </a> actress .
+
+#	NEW	birthdate	........ / 1914 &# x2013 ; 12	// <p> <strong> William John Owen Rowbotham </strong> <a> MBE </a> ( 14 March 1914 &#x2013 ; 12 July 1999 ) , better known as <strong> Bill Owen </strong> , was an English <a> actor </a> and <a> songwriter </a> . </p>
+
+#	NEW	birthdate	........ / ( April 5 , 1922 - June 27 , 2009 ) , First prize was a one-year contract with a movie	// <p> <strong> Josephine Owaissa Cottle </strong> ( April 5 , 1922 - June 27 , 2009 ) , First prize was a one-year contract with a movie studio .
+

@@ -1,5 +1,0 @@
-<li>Faculty of Arts Research Center</li>
-<li>College of <a>computer</a> and Information Sciences,</li>
-<li>College of Health Sciences,</li>
-<li>College of <a>Arts</a>,</li>
-<li>Arabic Language Institute,</li>

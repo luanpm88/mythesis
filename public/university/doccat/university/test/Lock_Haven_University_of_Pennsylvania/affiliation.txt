@@ -1,4 +1,0 @@
-<li><a>Legal advice</a></li>
-<li><a>Game room</a></li>
-<li><a>Clearfield Campus Website</a></li>
-<li><a>Campus Violence Prevention Program</a></li>

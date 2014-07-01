@@ -1,3 +1,0 @@
-<li>President Office</li>
-<li>Student Affairs Office</li>
-<li><a>Meishi Film Academy</a></li>

@@ -1,5 +1,0 @@
-<li>Department of Economics</li>
-<li>Department of Mathematics</li>
-<li>Department of Geography</li>
-<li>Department of Psychology</li>
-<h3>Notable alumni</h3>

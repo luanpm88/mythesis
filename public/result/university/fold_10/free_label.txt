@@ -1,0 +1,66 @@
+Found: 113
+Found Not Null: 18
+Correct: 3
+Wrong: 15
+Total: 19
+precision: 0.02654867256637168
+recall: 0.15789473684210525
+
+
+
+4	FALSE	Simon Fraser University::free_label	satellite campuses / varsity	
+<p> There are also teams at Simon Fraser University that compete against other university teams at the varsity level.
+
+6	FALSE	Syracuse University::free_label	newspaper / teams	
+The men's and women's basketball teams, the football team, and both the men's and women's lacrosse teams play in the <a> Carrier Dome </a> .
+
+8	TRUE	University of Michigan::free_label	sports / sports teams	
+<p> [[File:MichiganStadium2010UConn.JPG|thumb|A football game at [[Michigan Stadium]]|alt=Crowded stadium with yellow-colored &quot;Michigan&quot; written on a green field]] The University of Michigan's sports teams are called the <a> Wolverines </a> .
+
+16	FALSE	University of Southern California::free_label	newspaper / NCAA	
+Excluding football, USC men's teams have combined for 78 NCAA championships.
+
+26	FALSE	Columbia University::free_label	newspaper / sports	
+This period also witnessed the inauguration of Columbia's participation in intercollegiate sports, with the creation of the baseball team in 1867, the organization of the football team in 1870, and the creation of a <a> crew </a> team by 1873.
+
+32	TRUE	University of Tulsa::free_label	sports / sports	
+The University of Tulsa currently fields a varsity team in eight men's sports and ten women's sports.
+
+36	FALSE	University of New Brunswick::free_label	sports teams / was	
+UNBF used to have different names for each individual sport's team; for instance, the men's swim team was the Beavers, and the hockey team was the Red Devils. </p>
+
+41	TRUE	Crandall University::free_label	sports teams / sports teams	
+ABU sports teams play under the name <em> Blue Tide </em> .
+
+54	FALSE	Wabash College::free_label	athletics / sports teams	
+<p> The school's sports teams are called the Little Giants.
+
+55	FALSE	Williams College::free_label	athletics / to	
+Williams was the first New England basketball team to have won a Division III championship, and since they have been eligible to compete in the NCAA tournament, no team in the country has played in more Final Fours. </p>
+
+57	FALSE	York University::free_label	sports teams / events	
+<p> SportYork offers 29 interuniversity sport teams, 12 sport clubs, 35 intramural sport leagues, special events and 10 pick-up sport activities offered daily. </p>
+
+61	FALSE	Macquarie University::free_label	named after / of	
+<p> Also affiliated with the university are several research centres, schools and institutes including the <a> Macquarie Graduate School of Management </a> , Australian Proteome Analysis Facility, the Institute of Human Cognition and Brain Science, the <a> Macquarie University Research Park </a> and the <a> Macquarie University Hospital </a> . </p>
+
+68	FALSE	Iowa State University::free_label	nickname / school	
+Football first made its way onto the Iowa State campus in 1878 as a recreational sport, but it was not until 1892 that Iowa State organized its first team to represent the school in football.
+
+85	FALSE	University of California, Berkeley::free_label	newspaper / athletics	
+<p> Cal's sports teams compete in intercollegiate athletics as the <a> California Golden Bears </a> .
+
+87	FALSE	University of California, Davis::free_label	newspaper / school	
+14 women's teams and 9 men's teams will be funded for the 2010-2011 school year. </p>
+
+88	FALSE	University of California, San Diego::free_label	newspaper / sports	
+<p> UCSD fields a number of <a> club sports </a> teams.
+
+106	FALSE	University of California, Irvine::free_label	newspaper / at	
+Prior to that, the most recent championship was won also by the men's volleyball team, on May 5, 2007 against IPFW ( 3-1 ) at Ohio State.
+
+112	FALSE	Lehigh University::free_label	athletics / campus.	
+<p> Lehigh also has a program called ArtsLehigh, oriented towards enhancing interest in the arts on campus. </p>
+
+#	null	free_label	newspaper / ..........
+

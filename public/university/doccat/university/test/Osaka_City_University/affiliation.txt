@@ -1,2 +1,0 @@
-<li><a>Takeshi Kaiko</a>, a writer</li>
-<li><a>Official website</a></li>

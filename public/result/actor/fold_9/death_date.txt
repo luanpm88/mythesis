@@ -1,0 +1,56 @@
+Found: 24
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	death_date	........ / 1982 )	// <p> <strong> Romy Schneider </strong> ( 23 September 1938 <img> 29 May 1982 ) was a German film actress who was born in Austria and also held French citizenship . </p>
+
+#	NEW	death_date	........ / January 18 , 1955 )	// <p> <strong> Kevin Michael Costner </strong> ( born January 18 , 1955 ) is an American actor , singer , musician , producer , director , and businessman .
+
+#	NEW	death_date	........ / films	// <p> <strong> Alexander David Linz </strong> ( born January 3 , 1989 ) is an <a> American </a> actor who starred in several late 1990s and early 2000s films and television programs as a <a> child actor </a> .
+
+#	NEW	death_date	........ / January 5 , 1990 )	// <p> <strong> Arthur Kennedy </strong> ( February 17 , 1914 &ndash ; January 5 , 1990 ) was an <a> American </a> stage and film actor best known for his performances in <a> Westerns </a> . </p>
+
+#	NEW	death_date	........ / actor	// <p> <strong> Chris Barrie </strong> ( born 28 March 1960 ) is a <a> British </a> <a> actor </a> .
+
+#	NEW	death_date	........ / describing	// Watson enjoys a close friendship with her fellow <em> Harry Potter </em> stars <a> Daniel Radcliffe </a> and <a> Rupert Grint </a> , describing them as a &quot ; unique support system&quot ; for the stresses of film work , and saying that , after working with them for the ten years of the film series , &quot ; they really are like my siblings&quot ; . </p>
+
+#	NEW	death_date	........ / is	// <p> <strong> Catherine &#x00c9 ; lise &quot ; Cate&quot ; Blanchett </strong> ( born 14 May 1969 ) is an Australian actress and theatre director .
+
+#	NEW	death_date	........ / film	// <p> <strong> Marcello Vincenzo Domenico Mastroianni </strong> <a> Knight Grand Cross </a> ( 28 September 1924&nbsp ; &#x2013 ; 19 December 1996 ) was an <a> Italian </a> <a> film actor </a> .
+
+#	NEW	death_date	........ / April 20 , 1941 )	// <p> <strong> Ryan O ' Neal </strong> ( born <strong> Charles Patrick Ryan O ' Neal , Jr . </strong> ; April 20 , 1941 ) is an American actor . </p>
+
+#	NEW	death_date	........ / 1987 )	// <p> <strong> Joan Greenwood </strong> ( 4 March 1921 &#x2013 ; 27 February 1987 ) was an <a> English </a> actress .
+
+#	NEW	death_date	........ / 27 , 2009 )	// <p> <strong> Josephine Owaissa Cottle </strong> ( April 5 , 1922 - June 27 , 2009 ) , First prize was a one-year contract with a movie studio .
+
+#	NEW	death_date	........ / renowned	// <p> <strong> Michael Latham Powell </strong> ( 30 September 1905 &ndash ; 19 February 1990 ) was an <a> English </a> <a> film director </a> , renowned for his partnership with <a> Emeric Pressburger </a> .
+
+#	NEW	death_date	........ / television	// <p> <strong> Susan Dey </strong> ( born December 10 , 1952 ) is an <a> American </a> <a> actress </a> , known primarily for her roles in <a> film </a> and <a> television </a> .
+
+#	NEW	death_date	........ / September 11 , 1970 )	// <p> <strong> Chester Morris </strong> ( February 16 , 1901 &ndash ; September 11 , 1970 ) was an American actor , who starred in the <em> <a> Boston Blackie </a> </em> detective series of the 1940s . </p>
+
+#	NEW	death_date	........ / singer	// <p> <strong> Andy ! not Andrew Samuel Griffith </strong> ( born June 1 , 1926 ) is an <a> American </a> <a> actor </a> , <a> director </a> , <a> producer </a> , <a> Grammy Award </a> -winning <a> Southern-gospel </a> singer , and <a> writer </a> .
+
+#	NEW	death_date	........ / He	// <p> He worked briefly as a teacher before returning to Tokyo in 1923 to join the <a> Shochiku Film Company </a> . </p>
+
+#	NEW	death_date	........ / 1994 )	// <p> <strong> Massimo Troisi </strong> ( 19 February 1953 &#x2013 ; 4 June 1994 ) was an Italian actor , <a> film director </a> , and poet .
+
+#	NEW	death_date	........ / and	// <p> <strong> Norman Frederick Jewison </strong> , <a> CC </a> , <a> O . Ont </a> ( born 21 July 1926 ) is a <a> Canadian </a> <a> film director </a> , <a> producer </a> , <a> actor </a> and founder of the <a> Canadian Film Centre </a> .
+
+#	NEW	death_date	........ / April 22 , 1959 )	// <p> <strong> Ryan Lee Stiles </strong> ( born April 22 , 1959 ) is an America / Canadian actor , <a> comedian </a> , <a> director </a> , and <a> voice actor </a> whose work is often associated with <a> improvisational comedy </a> .
+
+#	NEW	death_date	........ / winning	// <p> <strong> Robert Oxton Bolt </strong> , <a> CBE </a> ( 15 August 1924 &#x2013 ; 21 February 1995 ) was an <a> English </a> playwright and a two-time <a> Oscar </a> winning screenwriter .
+
+#	NEW	death_date	........ / February 15 , 1984 )	// <p> <strong> Ethel Merman </strong> ( January 16 , 1908 &#x2013 ; February 15 , 1984 ) was an <a> American </a> actress and singer .
+
+#	NEW	death_date	........ / there	// From around 1970 there was a considerable interest among academic film scholars for Sirk ' s work - especially his American melodramas .
+
+#	NEW	death_date	........ / cast .	// <p> <strong> Laraine Newman </strong> ( born March 2 , 1952 ) is an <a> American </a> <a> comedienne </a> and <a> actress </a> , and part of the original <em> <a> Saturday Night Live </a> </em> cast . </p>
+
+#	NEW	death_date	........ / 1979 )	// <p> <strong> Jean Renoir </strong> ( ; 15 September 1894 &ndash ; 12 February 1979 ) was a French <a> film director </a> , screenwriter , actor , producer and author .
+

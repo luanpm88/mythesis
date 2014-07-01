@@ -1,0 +1,206 @@
+Total articles: 312
+Articles for test: 281
+Articles for train: 31
+Total attributes: 64
+Attributes with high occurrences: 5/64
+
+------------
+Found: 79
+Found Not Null: 29
+Correct: 18
+Wrong: 11
+Total: 30
+precision: 0.6206896551724138
+recall: 0.6
+
+
+
+#	NEW	birth_name	........ / ndash ; August 17	// <p> <strong> Clarence Brown </strong> ( May 10 , 1890 &ndash ; August 17 , 1987 ) was an <a> American </a> <a> film director </a> . </p>
+
+#	NEW	occupation	........ / film	// Brown himself received six Academy Award nominations and in 1949 won the British Academy Award for the film version of William Faulkner ' s Intruder in the Dust . </p>
+
+#	NEW	birth_date	........ / ( May 10 , 1890 &	// <p> <strong> Clarence Brown </strong> ( May 10 , 1890 &ndash ; August 17 , 1987 ) was an <a> American </a> <a> film director </a> . </p>
+
+#	NEW	birth_date	........ / 11 , 1964 )	// <p> <strong> Calista Kay Flockhart </strong> ( born November 11 , 1964 ) is an American actor who is primarily recognized for her work in television .
+
+4	TRUE	Calista Flockhart::birth_name	calista kay flockhart / Calista Kay Flockhart	
+<p> <strong> Calista Kay Flockhart </strong> ( born November 11 , 1964 ) is an American actor who is primarily recognized for her work in television .
+
+5	FALSE	Calista Flockhart::occupation	actress / Globe	
+She is best known for playing the <a> title character </a> in the <a> Fox </a> comedy-drama series <em> <a> Ally McBeal </a> </em> ( 1997&#x2013 ; 2002 ) for which she won a <a> Golden Globe Award </a> .
+
+#	NEW	birth_date	........ / Apfelschnitt ,	// <p> His most recent film roles were in <em> <a> Left Luggage </a> </em> ( 1998 ) in the role of Mr . Apfelschnitt , and <em> <a> Time Elevator </a> </em> ( 1998 ) as Shalem . </p>
+
+#	NEW	occupation	........ / Actor	// <p> In 1972 , Topol won a <a> Golden Globe Award </a> and was nominated for a <a> Best Actor Oscar </a> for his performance in the film .
+
+#	NEW	birth_name	........ / is an <a> Israel	// <p> <strong> Chaim Topol </strong> ( ; born September 9 , 1935 ) , often billed simply as <strong> Topol </strong> , is an <a> Israel </a> i <a> theatrical </a> and <a> film </a> performer . </p>
+
+#	NEW	birth_date	........ / 3 , 1943 )	// <p> <strong> Blythe Katherine Danner </strong> ( born February 3 , 1943 ) is an American <a> actress </a> .
+
+10	TRUE	Blythe Danner::birth_name	blythe katherine danner / Blythe Katherine Danner	
+<p> <strong> Blythe Katherine Danner </strong> ( born February 3 , 1943 ) is an American <a> actress </a> .
+
+11	FALSE	Blythe Danner::occupation	actress / Peter	
+<p> In 1972 , Danner portrayed Martha Jefferson in the movie version of <em> <a> 1776 </a> </em> . Also that same year , she played a jilted wife opposite <a> Peter Falk </a> and <a> John Cassavetes </a> in the <em> <a> Columbo </a> </em> episode &quot ; Etude in Black&quot ; . </p>
+
+12	TRUE	Brian De Palma::birth_name	brian russell de palma / Brian Russell De Palma	
+<p> <strong> Brian Russell De Palma </strong> ( born September 11 , 1940 ) is an <a> American </a> <a> film director </a> and <a> writer </a> .
+
+#	NEW	birth_date	........ / directors , a	// Palma at the [ [ 2009 Toronto International Film Festival ] ] ] ] De Palma is often cited as a leading member of the <a> New Hollywood </a> generation of film directors , a distinct pedigree who either emerged from film schools or are overtly cine-literate .
+
+#	NEW	birth_date	........ / film , Campbell	// <p> Outside of film , Campbell has appeared in a number of television series .
+
+15	TRUE	Bruce Campbell::birth_name	bruce lorne campbell / is an American actor	
+<p> <strong> Bruce Lorne Campbell </strong> ( born June 22 , 1958 ) is an American actor , <a> producer </a> , writer , and <a> director </a> .
+
+#	NEW	occupation	........ / The	// He also was in the <a> Jim Carrey </a> drama <em> <a> The Majestic </a> </em> . </p>
+
+#	NEW	birth_name	........ / former <a> fashion model	// <p> <strong> Charlize Theron </strong> ( ; born August 7 , 1975 ) is a <a> South Africa </a> n actress , <a> film producer </a> and former <a> fashion model </a> . </p>
+
+#	NEW	occupation	........ / Actress	// <p> Theron received Best Actress <a> Academy Award </a> and <a> Golden Globe </a> nominations for her lead performance in the drama <em> <a> North Country </a> </em> .
+
+#	NEW	birth_date	........ / ( 1986 ) ,	// <p> <strong> Movies </strong> : <em> <a> Mayflower Madam </a> </em> ( 1986 ) , <em> <a> Love , Lies and Murder </a> </em> ( 1991 ) , <em> <a> The Stepford Husbands </a> </em> ( 1996 ) . </p>
+
+20	FALSE	Caitlin Clarke::birth_name	katherine anne clarke / actress best known for her role	
+<p> <strong> Caitlin Clarke </strong> ( May 3 , 1952 &#x2013 ; September 9 , 2004 ) was an American <a> theater </a> and <a> film </a> actress best known for her role as Valerian in the 1981 fantasy film <em> <a> Dragonslayer </a> </em> and for her role as Charlotte Cardoza in the 1998&#x2013 ; 1999 <a> Broadway </a> <a> musical </a> <em> <a> Titanic </a> </em> . </p>
+
+#	NEW	occupation	........ / Titanic	// <p> <strong> Caitlin Clarke </strong> ( May 3 , 1952 &#x2013 ; September 9 , 2004 ) was an American <a> theater </a> and <a> film </a> actress best known for her role as Valerian in the 1981 fantasy film <em> <a> Dragonslayer </a> </em> and for her role as Charlotte Cardoza in the 1998&#x2013 ; 1999 <a> Broadway </a> <a> musical </a> <em> <a> Titanic </a> </em> . </p>
+
+#	NEW	birth_date	........ / role ,	// His performance in that film led director <a> Rob Reiner </a> to cast Elwes in another leading role , this time as the stable boy turned swashbuckler Westley in the comedy <em> <a> The Princess Bride </a> </em> .
+
+23	FALSE	Cary Elwes::birth_name	ivan simon cary elwes / an <a> American	
+He is the stepson of <a> Elliott Kastner </a> , an <a> American </a> <a> film producer </a> .
+
+24	FALSE	Cary Elwes::occupation	actor / Wars	
+He earned two <a> Golden Satellite Award </a> nominations for his performances in the television films <em> <a> The Pentagon Wars </a> </em> and <em> <a> Uprising </a> </em> .
+
+25	TRUE	David Cronenberg::birth_name	david paul cronenberg / David Paul Cronenberg	
+<p> <strong> David Paul Cronenberg </strong> , <a> OC </a> , <a> FRSC </a> ( born March 15 , 1943 ) is a <a> Canadian </a> <a> filmmaker </a> and <a> screenwriter </a> .
+
+#	NEW	occupation	........ / actor	// <p> Cronenberg has also appeared as an actor in other directors ' films .
+
+#	NEW	birth_name	........ / Delroy George Lindo	// <p> <strong> Delroy George Lindo </strong> ( born 18 November 1952 ) is a <a> British </a> actor and <a> theatre director </a> .
+
+28	TRUE	Delroy Lindo::occupation	actor / Tony	
+Lindo has been nominated for the <a> Tony </a> and <a> Screen Actors Guild </a> awards and has won a <a> Satellite Award </a> .
+
+#	NEW	birth_date	........ / 24 , 1947 )	// <p> <strong> William Dwight Schultz </strong> ( born November 24 , 1947 ) is an <a> American </a> stage , television , and film <a> actor </a> .
+
+30	TRUE	Dwight Schultz::birth_name	william dwight schultz / William Dwight Schultz	
+<p> <strong> William Dwight Schultz </strong> ( born November 24 , 1947 ) is an <a> American </a> stage , television , and film <a> actor </a> .
+
+#	NEW	occupation	........ / actress	// <p> Schultz has also appeared in films including <em> <a> The Fan </a> </em> ( 1981 ) , as <a> Broadway </a> <a> actress </a> <a> Lauren Bacall </a> ' s director , and <em> <a> Fat Man and Little Boy </a> </em> ( 1989 ) , as <a> J .
+
+#	NEW	birth_date	........ / Georgia ,	// <p> Benedict ' s film debut was in the 1972 film <em> <a> Georgia , Georgia </a> </em> , which was entered into the <a> 23rd Berlin International Film Festival </a> .
+
+33	TRUE	Dirk Benedict::birth_name	dirk niewoehner / perhaps best known for playing the characters	
+<p> <strong> Dirk Benedict </strong> ( born <strong> Dirk Niewoehner </strong> ; March 1 , 1945 ) is an <a> American </a> <a> movie </a> , <a> television </a> and <a> stage </a> <a> actor </a> , perhaps best known for playing the characters <a> Lieutenant Templeton &quot ; Faceman&quot ; Peck </a> in <em> <a> The A-Team </a> </em> <a> television series </a> and <a> Lieutenant Starbuck </a> in the original <em> <a> Battlestar Galactica </a> </em> film and television series . </p>
+
+34	FALSE	Dolores Fuller::birth_date	1923 / overall,	
+However , she stated that she liked the film overall , praising <a> Johnny Depp </a> ' s performance in the title role . </p>
+
+#	NEW	birth_name	........ / the low-budget film director <a> Edward D . Wood , Jr .	// <p> <strong> Dolores Fuller </strong> ( born 1923 ) is an American <a> actress </a> and <a> songwriter </a> best known as the one-time girlfriend of the low-budget film director <a> Edward D . Wood , Jr . </a>
+
+#	NEW	occupation	........ / time .	// Fuller also had her music recorded by <a> Nat ' King ' Cole </a> , <a> Peggy Lee </a> , and other leading talents of the time . </p>
+
+#	NEW	birth_date	........ / ( 17 May 1866 &#	// <p> <strong> &#x00c9 ; ric Alfred Leslie Satie </strong> ( 17 May 1866 &#x2013 ; Paris , 1 July 1925 ) was a French <a> composer </a> and <a> pianist </a> .
+
+#	NEW	birth_name	........ / ric Alfred Leslie Satie	// <p> <strong> &#x00c9 ; ric Alfred Leslie Satie </strong> ( 17 May 1866 &#x2013 ; Paris , 1 July 1925 ) was a French <a> composer </a> and <a> pianist </a> .
+
+#	NEW	occupation	........ / 1903 .	// Another summary , of the period prior to the Schola , also appeared in 1911 : the <em> Trois morceaux en forme de poire </em> , which was a kind of compilation of the best of what he had written up to 1903 . </p>
+
+40	FALSE	Elizabeth Gracen::birth_name	elizabeth grace ward / Elizabeth Ward Gracen	
+<p> <strong> Elizabeth Ward Gracen </strong> is an <a> American </a> <a> actress </a> known almost as much for her off-screen activities as for her <a> movie </a> and <a> television </a> roles .
+
+#	NEW	occupation	........ / role	// She also appeared with a starring role in the series <em> Extreme </em> for NBC and the syndicated series <em> <a> Renegade </a> </em> and <em> <a> Queen of Swords </a> </em> . </p>
+
+#	NEW	birth_name	........ / is an American	// <p> <strong> Fredrick Aaron &quot ; Fred&quot ; Savage </strong> ( born July 9 , 1976 ) is an American <a> actor </a> , director and producer of <a> television </a> and <a> film </a> . </p>
+
+#	NEW	occupation	........ / Actor	// His tenure in the show resulted in two <a> Golden Globe </a> nominations and two <a> Emmy </a> nominations for <a> Outstanding Lead Actor in a Comedy Series </a> ; at the age of 13 he was the youngest actor ever to receive these honors .
+
+#	NEW	birth_date	........ / death ,	// <p> Shortly after Coleman ' s death , it was announced that <em> Avenue Q <strong> s rendition of Coleman would live on in the show . </strong> </em> </p>
+
+45	TRUE	Gary Coleman::birth_name	gary wayne coleman / Gary Wayne Coleman	
+<p> <strong> Gary Wayne Coleman </strong> ( February 8 , 1968&nbsp ; &#x2013 ; May 28 , 2010 ) was an American actor , known for his childhood role as <a> Arnold Jackson </a> in the American sitcom <em> <a> Diff ' rent Strokes </a> </em> ( 1978&#x2013 ; 1986 ) and for his small stature as an adult .
+
+46	FALSE	Gary Coleman::occupation	actor / musical	
+<p> Coleman is parodied in the hit 2003 Broadway <a> musical </a> <em> <a> Avenue Q </a> </em> , which won the 2004 <a> Tony Award </a> for <a> best musical </a> .
+
+#	NEW	birth_date	........ / quot ; , but	// Chapman was also to have played a guest role as a television presenter in the <em> <a> Red Dwarf </a> </em> episode &quot ; Timeslides&quot ; , but died before filming was to have started . </p>
+
+48	TRUE	Graham Chapman::birth_name	graham arthur chapman / Graham Arthur Chapman	
+<p> <strong> Graham Arthur Chapman </strong> ( 8 January 1941 &#x2013 ; 4 October 1989 ) was an <a> English </a> <a> comedian </a> , <a> actor </a> , <a> writer </a> , <a> physician </a> and one of the six members of the <a> Monty Python </a> comedy troupe .
+
+#	NEW	occupation	........ / was	// They also wrote a show for <a> Ringo Starr </a> , which was never made .
+
+50	FALSE	Halle Berry::birth_name	maria halle berry / is an American actress	
+<p> <strong> Halle Berry </strong> ( ; born August 14 , 1966 ) is an American actress , former <a> fashion model </a> , and <a> beauty queen </a> .
+
+51	TRUE	Halle Berry::occupation	actress / Actress &#	
+She was awarded the <a> African-American Film Critics Association </a> for best actress and also was nominated for the <a> Golden Globe Award for Best Actress &#x2013 ; Motion Picture Drama </a> . </p>
+
+52	TRUE	Gary Busey::birth_name	william gary busey / William Gary Busey	
+<p> <strong> Gary Busey </strong> ( born <strong> William Gary Busey </strong> June 29 , 1944 in <a> Baytown , Texas </a> ) is an American <a> film </a> and <a> stage </a> actor and artist .
+
+53	TRUE	Gary Busey::occupation	actor / Actor	
+The movie earned Busey an <a> Oscar </a> nomination for <a> Best Actor </a> .
+
+#	NEW	birth_name	........ / Gordon Michael Woolvett	// <p> <strong> Gordon Michael Woolvett </strong> ( born June 12 , 1970 ) is a <a> Canadian </a> -born <a> actor </a> from <a> Hamilton , Ontario </a> <a> Canada </a> , best known for his work as <a> Seamus Zelazny Harper </a> on the television series <em> <a> Andromeda </a> </em> ( 2000&#x2013 ; 2005 ) .
+
+#	NEW	occupation	........ / on	// <p> Woolvett was also one of the first program jockeys for <a> YTV </a> ' s <em> <a> The Zone </a> </em> ( then called <em> The After-School Zone </em> ) and the original main host for a program called <em> <a> Video &amp ; Arcade Top 10 </a> </em> which also aired on YTV .
+
+#	NEW	birth_date	........ / Roddenberry ,	// <p> <strong> Eugene Wesley &quot ; Gene&quot ; Roddenberry , Sr </strong> ( August 19 , 1921 &#x2013 ; October 24 , 1991 ) was an American television screenwriter , producer and <a> futurist </a> , best known for creating the American science fiction series <em> <a> Star Trek </a> </em> .
+
+#	NEW	birth_name	........ / best known for creating the American science fiction series	// <p> <strong> Eugene Wesley &quot ; Gene&quot ; Roddenberry , Sr </strong> ( August 19 , 1921 &#x2013 ; October 24 , 1991 ) was an American television screenwriter , producer and <a> futurist </a> , best known for creating the American science fiction series <em> <a> Star Trek </a> </em> .
+
+#	NEW	occupation	........ / First	// The result , <em> <a> Star Trek : The Motion Picture </a> </em> , received a lukewarm critical response , but it performed well at the box office &#x2013 ; it was the highest-grossing of all Star Trek movies until the release of <em> First Contact </em> in 1996 . </p>
+
+59	TRUE	George Lucas::birth_name	george walton lucas, jr. / George Walton Lucas, Jr.	
+<p> <strong> George Walton Lucas , Jr . </strong> ( born May 14 , 1944 ) is an American film producer , <a> screenwriter </a> , director and founde / chairman of <a> Lucasfilm </a> Ltd .
+
+#	NEW	occupation	........ / Star	// <p> Lucas was nominated for four Academy Awards : <a> Best Directing </a> and <a> Writing </a> for <em> American Graffiti </em> , and <a> Best Directing </a> and <a> Writing </a> for <em> Star Wars </em> .
+
+#	NEW	birth_date	........ / ( 8 September 1921 &#	// <p> <strong> Sir Harry Donald Secombe </strong> <a> CBE </a> ( 8 September 1921 &#x2013 ; 11 April 2001 ) was a <a> Welsh </a> entertainer with a talent for comedy and a noted fine tenor singing voice .
+
+62	TRUE	Harry Secombe::birth_name	harry donald secombe / Sir Harry Donald Secombe	
+<p> <strong> Sir Harry Donald Secombe </strong> <a> CBE </a> ( 8 September 1921 &#x2013 ; 11 April 2001 ) was a <a> Welsh </a> entertainer with a talent for comedy and a noted fine tenor singing voice .
+
+#	NEW	occupation	........ / Television	// He was also a special programming consultant to <a> Harlech Television </a> .
+
+#	NEW	birth_date	........ / 25 , 1899 &# ,	// <p> <strong> Humphrey DeForest Bogart </strong> ( December 25 , 1899 &#x2013 ; January 14 , 1957 ) was an <a> American </a> actor .
+
+65	TRUE	Humphrey Bogart::birth_name	humphrey deforest bogart / Humphrey DeForest Bogart	
+<p> <strong> Humphrey DeForest Bogart </strong> ( December 25 , 1899 &#x2013 ; January 14 , 1957 ) was an <a> American </a> actor .
+
+66	FALSE	Humphrey Bogart::occupation	actor / Picture	
+<p> <em> Casablanca </em> won the 1943 <a> Academy Award for Best Picture </a> .
+
+67	TRUE	Harry Shearer::birth_name	harry julius shearer / Harry Julius Shearer	
+<p> <strong> Harry Julius Shearer </strong> ( born December 23 , 1943 ) is an American actor , comedian , writer , <a> voice artist </a> , musician , author and radio host .
+
+68	FALSE	Izabella Scorupco::birth_name	izabela dorota skorupko / Poland ) is an actress who is most famous for appearing	
+<p> <strong> Izabella Scorupco </strong> , or <strong> Skorupko </strong> ( born June 4 , 1970 in <a> Bia&#x0142 ; ystok </a> , Poland ) is an actress who is most famous for appearing as <a> Bond girl </a> <a> Natalya Simonova </a> in the 1995 <a> James Bond </a> film <em> <a> GoldenEye </a> </em> . </p>
+
+#	NEW	occupation	........ / went	// In the early nineties , she also had a brief but successful career as a pop singer , releasing an album which went gold in Sweden . </p>
+
+#	NEW	birth_date	........ / films , Caprino	// <p> In addition to the short films , Caprino produced dozens of advertising films with puppets .
+
+#	NEW	birth_name	........ / Ivo Caprino	// <p> <strong> Ivo Caprino </strong> ( 17 February 1920&nbsp ; &#x2013 ; 8 February 2001 ) was a <a> Norwegian </a> <a> film director </a> and <a> writer </a> , best known for his <a> puppet </a> films .
+
+#	NEW	occupation	........ / motion	// In 1959 , he directed a live action feature film , <em> Ugler i Mosen </em> , which also contained stop motion sequences .
+
+#	NEW	birth_date	........ / April	// In April and May 2005 , he played the role of Mel Hutchwright in <a> Granada Television </a> ' s long running soap opera , <em> <a> Coronation Street </a> </em> , fulfilling a lifelong ambition .
+
+#	NEW	birth_name	........ / Ian Murray McKellen	// <p> <a> Sir </a> <strong> Ian Murray McKellen </strong> , <a> CH </a> , <a> CBE </a> ! he is a Knight Bachelor , not a KBE ( born 25 May 1939 ) is an English actor .
+
+75	TRUE	Ian McKellen::occupation	actor / actor	
+His performance in the title role garnered best actor nominations for the <a> BAFTA Award </a> and <a> Golden Globe </a> , and won the <a> European Film Award for Best Actor </a> .
+
+#	NEW	birth_date	........ / May 30 , 1959 )	// <p> <strong> Elyssa Davalos </strong> ( born May 30 , 1959 ) was an American <a> television </a> and <a> movie </a> actress .
+
+#	NEW	birth_name	........ / was an American	// <p> <strong> Elyssa Davalos </strong> ( born May 30 , 1959 ) was an American <a> television </a> and <a> movie </a> actress .
+
+#	NEW	occupation	........ / actress .	// <p> <strong> Elyssa Davalos </strong> ( born May 30 , 1959 ) was an American <a> television </a> and <a> movie </a> actress .
+
+#	null	spouse	michele morand / ..........
+

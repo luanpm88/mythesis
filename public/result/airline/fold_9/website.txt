@@ -1,0 +1,38 @@
+Found: 15
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	website	........ / Flights were operated with AN / NH flight numbers , although Air Next had its own airline codes .	// Flights were operated with AN / NH flight numbers , although Air Next had its own airline codes . </p>
+
+#	NEW	website	........ / it carried more than seven million passengers , compared with	// In 2009 , it carried more than seven million passengers , compared with 340 , 000 in its first full year of operations in 2004 .
+
+#	NEW	website	........ / The Finnish Civil Aviation Authority ( FCAA ) ordered some changes to Finncomm ' s operating procedures and temporarily increased their weather minimums in ATR operations following an incident in late	// <p> The Finnish Civil Aviation Authority ( FCAA ) ordered some changes to Finncomm ' s operating procedures and temporarily increased their weather minimums in ATR operations following an incident in late 2006 .
+
+#	NEW	website	........ / it operates mainly as an international and domestic scheduled passenger carrier , with cargo services available on all routes and a limited charter service offered .	// With its head office in <a> Grand Cayman </a> , it operates mainly as an international and domestic scheduled passenger carrier , with cargo services available on all routes and a limited charter service offered .
+
+#	NEW	website	........ / A rapid decompression followed .	// A rapid decompression followed .
+
+#	NEW	website	........ / It operates scheduled domestic , regional , and international passenger and freight services .	// It operates scheduled domestic , regional , and international passenger and freight services .
+
+#	NEW	website	........ / The aircraft was operating a domestic scheduled passenger flight to	// The aircraft was operating a domestic scheduled passenger flight to <a> Beica Airport </a> . </p>
+
+#	NEW	website	........ / Air Sinai ceased airline operations in its own right in 2002 and operates as a ' paper airline ' for its parent company	// <p> Air Sinai ceased airline operations in its own right in 2002 and operates as a ' paper airline ' for its parent company , <a> EgyptAir </a> . ref
+
+#	NEW	website	........ / Following reunification , the airports in the former GDR were sold off separately .	// Following reunification , the airports in the former GDR were sold off separately .
+
+#	NEW	website	........ / As a result , the flight gradually lost altitude while the flight crew was preoccupied and eventually crashed .	// As a result , the flight gradually lost altitude while the flight crew was preoccupied and eventually crashed .
+
+#	NEW	website	........ / Jet Airways has withdrawn from many of its routes and has replaced it with Jetlite operations to compete with full service carriers operating on those sectors .	// Jet Airways has withdrawn from many of its routes and has replaced it with Jetlite operations to compete with full service carriers operating on those sectors . </p>
+
+#	NEW	website	........ / CityJet operates flights using four IATA flight prefixes .	// <p> CityJet operates flights using four IATA flight prefixes .
+
+#	NEW	website	........ / The airline obtained a license to operate scheduled services on July	// The airline obtained a license to operate scheduled services on July 30 , 1999 and operated its first scheduled passenger service on October 1 .
+
+#	NEW	website	........ / became the second largest Finnish airline with more than 100 daily flights and biggest operator between Finland and Scandinavia .	// <p> In 2005 Blue1 became the second largest Finnish airline with more than 100 daily flights and biggest operator between Finland and Scandinavia .
+
+#	NEW	website	........ / Only Beirut and Stockholm are served by regular scheduled flights , Lisbon is seasonal .	// Only Beirut and Stockholm are served by regular scheduled flights , Lisbon is seasonal .
+

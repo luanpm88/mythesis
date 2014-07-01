@@ -1,9 +1,0 @@
-<li><a>Alumni Stadium</a></li>
-<p>The university consists of six colleges:  <img></p>
-<li><a>baseball</a></li>
-<li><a>bowling</a></li>
-<li><a>soccer</a></li>
-<li><a>softball</a></li>
-<li><a>tennis</a></li>
-<li><a>volleyball</a></li>
-<li><a>Official website</a></li>

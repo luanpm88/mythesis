@@ -1,4 +1,0 @@
-<h2>Campus and academic facilities</h2>
-<h3>School of Architecture</h3>
-<h3>School of Communication</h3>
-<h3>Graduate School of Planning</h3>

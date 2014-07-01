@@ -1,1 +1,0 @@
-<li><a>LORIT</a>: an <a>user interface</a> laboratory</li>

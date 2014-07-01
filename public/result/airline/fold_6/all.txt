@@ -1,0 +1,1178 @@
+Total articles: 456
+Articles for test: 411
+Articles for train: 45
+Total attributes: 120
+Attributes with high occurrences: 15/120
+
+------------
+Found: 507
+Found Not Null: 95
+Correct: 67
+Wrong: 28
+Total: 121
+precision: 0.7052631578947368
+recall: 0.5537190082644629
+
+
+
+0	TRUE	Blue Wings::callsign	blue wings / Blue	
+<p> <strong> Blue Wings AG </strong> was a <a> charter airline </a> based in <a> Germany </a> , focussing on serving <a> Turkey </a> , the <a> Middle East </a> and <a> Russia </a> from its base at <a> D&#x00fc ; sseldorf International Airport </a> ; the headquarters were in <a> Bocholt , Germany </a> . </p>
+
+1	TRUE	Blue Wings::ceased	13 january 2010 / 13 January 2010	
+<p> On 13 January 2010 , Blue Wings ceased all operations , filing bankrupt due to the <a> economical crisis </a> which had led to a pull-out of investors . </p>
+
+2	TRUE	Blue Wings::founded	2002 / 2003	
+<p> Blue Wings was established in 2002 , received the <a> AOC </a> on 27 June 2003 and started operations in July of the same year .
+
+#	NEW	frequent_flyer	........ / Airbus A320	// It initially operated charter flights from D&#x00fc ; sseldorf using a wet-leased <a> Airbus A320 </a> .
+
+#	NEW	destinations	........ / 2009 ) :	// ( 2005 ) ] ] Blue Wings operated the following international scheduled destinations ( at November 2009 ) : </p>
+
+#	NEW	parent	........ / following international	// ( 2005 ) ] ] Blue Wings operated the following international scheduled destinations ( at November 2009 ) : </p>
+
+#	NEW	headquarters	........ / Airbus	// It initially operated charter flights from D&#x00fc ; sseldorf using a wet-leased <a> Airbus A320 </a> .
+
+#	NEW	website	........ / Blue Wings operated the following international scheduled destinations ( at November	// ( 2005 ) ] ] Blue Wings operated the following international scheduled destinations ( at November 2009 ) : </p>
+
+#	NEW	fleet_size	........ / 27	// <p> Blue Wings was established in 2002 , received the <a> AOC </a> on 27 June 2003 and started operations in July of the same year .
+
+9	TRUE	Blue Wings::logo_size	200 / 2009 ) :	
+( 2007 ) ] ] The Blue Wings fleet consists of the following aircraft ( at 25 November 2009 ) : </p>
+
+10	TRUE	Blue Wings::airline	blue wings / Germany	
+<p> <strong> Blue Wings AG </strong> was a <a> charter airline </a> based in <a> Germany </a> , focussing on serving <a> Turkey </a> , the <a> Middle East </a> and <a> Russia </a> from its base at <a> D&#x00fc ; sseldorf International Airport </a> ; the headquarters were in <a> Bocholt , Germany </a> . </p>
+
+#	NEW	iata	........ / European	// <p> On 5 August 2009 , it was announced that <a> Iraqi Airways </a> , <a> Iraq </a> ' s national airline , had signed a contract to lease three <a> Airbus A320-232 </a> of Blue Wings , which were used on European routes . </p>
+
+#	NEW	icao	........ / Blue	// <p> <strong> Blue Wings AG </strong> was a <a> charter airline </a> based in <a> Germany </a> , focussing on serving <a> Turkey </a> , the <a> Middle East </a> and <a> Russia </a> from its base at <a> D&#x00fc ; sseldorf International Airport </a> ; the headquarters were in <a> Bocholt , Germany </a> . </p>
+
+#	NEW	airline	........ / NRT	// <p> It also operated the <a> Sendai Airport </a> ( <strong> SDJ </strong> ) , near <a> Sendai , Miyagi </a> to <a> Narita International Airport </a> ( <strong> NRT </strong> ) route . </p>
+
+#	NEW	iata	........ / x016b ;	// It operated passenger services as <a> All Nippon Airways </a> ( ANA ) flights from its main base is <a> Ch&#x016b ; bu Centrair International Airport </a> near <a> Nagoya </a> .
+
+#	NEW	icao	........ / ( ANA )	// It operated passenger services as <a> All Nippon Airways </a> ( ANA ) flights from its main base is <a> Ch&#x016b ; bu Centrair International Airport </a> near <a> Nagoya </a> .
+
+#	NEW	callsign	........ / It	// <p> It also operated the <a> Sendai Airport </a> ( <strong> SDJ </strong> ) , near <a> Sendai , Miyagi </a> to <a> Narita International Airport </a> ( <strong> NRT </strong> ) route . </p>
+
+#	NEW	ceased	........ / 23 April 1991 .	// Commuter services began operations on 23 April 1991 .
+
+#	NEW	founded	........ / 23 April 1991 .	// Commuter services began operations on 23 April 1991 .
+
+#	NEW	hubs	........ / Centrair	// It operated passenger services as <a> All Nippon Airways </a> ( ANA ) flights from its main base is <a> Ch&#x016b ; bu Centrair International Airport </a> near <a> Nagoya </a> .
+
+#	NEW	frequent_flyer	........ / its shares .	// As of September 2006 , ANA bears 86 . 7% of the shares of Air Central ; and Nagoya Railroad bears 13 . 3% of its shares . </p>
+
+#	NEW	destinations	........ / 23	// Commuter services began operations on 23 April 1991 .
+
+#	NEW	parent	........ / Nakanihon Airlines	// <p> A new <a> affiliate </a> company , <a> Nakanihon Airlines </a> ( NAL ) , was founded on May 12 , 1988 to handle NAS ' s scheduled commuter services .
+
+#	NEW	headquarters	........ / Osaka	// <p> Between <a> Osaka International Airport </a> ( <strong> ITM </strong> ) <a> Itami , &#x014c ; saka </a> and : </p>
+
+#	NEW	key_people	........ / still operates	// It still operates as a general aviation company . </p>
+
+#	NEW	fleet_size	........ / 23	// Commuter services began operations on 23 April 1991 .
+
+#	NEW	logo_size	........ / 2007	// <p> As of March 2007 the Air Central fleet included : </p>
+
+#	NEW	website	........ / The flight schedules were amended for convenience of domestic and international flight changeover there .	// The flight schedules were amended for convenience of domestic and international flight changeover there .
+
+28	TRUE	Compass Airlines (Australia)::airline	compass airlines / early	
+<p> <strong> Compass Airlines </strong> operated in <a> Australia </a> for two brief periods in the early 1990s .
+
+#	NEW	icao	........ / early	// <p> <strong> Compass Airlines </strong> operated in <a> Australia </a> for two brief periods in the early 1990s .
+
+#	NEW	callsign	........ / Compass	// <p> <strong> Compass Airlines </strong> operated in <a> Australia </a> for two brief periods in the early 1990s .
+
+31	TRUE	Compass Airlines (Australia)::founded	1990 / 1990.	
+It was established following deregulation of the Australian airline industry in 1990 .
+
+#	NEW	frequent_flyer	........ / It	// <p> It is also important to assess the method by which the airline was shut down .
+
+#	NEW	parent	........ / market .	// Qantas ' domestic operation now has the largest share of the market .
+
+#	NEW	website	........ / It was established following deregulation of the Australian airline industry in	// It was established following deregulation of the Australian airline industry in 1990 .
+
+#	NEW	fleet_size	........ / 1990 .	// It was established following deregulation of the Australian airline industry in 1990 .
+
+36	TRUE	Compass Airlines (Australia)::key_people	bryan grey / Bryan Grey	
+<p> Compass Mk I , as it later became known , was established by Bryan Grey , who had previously run <a> regional airline </a> <a> East-West Airlines </a> .
+
+37	TRUE	East-West Airlines (Australia)::airline	east-west airlines / New	
+<p> <strong> East-West Airlines </strong> was an <a> Australia </a> n <a> regional airline </a> founded in <a> Tamworth , New South Wales </a> in 1947 .
+
+38	FALSE	East-West Airlines (Australia)::iata	ew / by	
+It continued to operate as a separate entity until 1993 when its operations were merged into those already established by Ansett . </p>
+
+#	NEW	icao	........ / New	// <p> <strong> East-West Airlines </strong> was an <a> Australia </a> n <a> regional airline </a> founded in <a> Tamworth , New South Wales </a> in 1947 .
+
+#	NEW	callsign	........ / West	// <p> <strong> East-West Airlines </strong> was an <a> Australia </a> n <a> regional airline </a> founded in <a> Tamworth , New South Wales </a> in 1947 .
+
+41	TRUE	East-West Airlines (Australia)::ceased	1993 / 1993	
+It continued to operate as a separate entity until 1993 when its operations were merged into those already established by Ansett . </p>
+
+#	NEW	hubs	........ / Farm	// The plane was en route from <a> Eagle Farm Airport </a> ( Brisbane ) to <a> Armidale Airport </a> when one engine caught fire , filling the <a> cockpit </a> with smoke .
+
+#	NEW	frequent_flyer	........ / East- West	// Because of its operating structure , East-West was able to significantly undercut other airlines .
+
+#	NEW	parent	........ / continued to	// It continued to operate as a separate entity until 1993 when its operations were merged into those already established by Ansett . </p>
+
+#	NEW	fleet_size	........ / 1993	// It continued to operate as a separate entity until 1993 when its operations were merged into those already established by Ansett . </p>
+
+#	NEW	logo_size	........ / 1947 .	// <p> <strong> East-West Airlines </strong> was an <a> Australia </a> n <a> regional airline </a> founded in <a> Tamworth , New South Wales </a> in 1947 .
+
+#	NEW	website	........ / It continued to operate as a separate entity until 1993 when its operations were merged into those already established by Ansett .	// It continued to operate as a separate entity until 1993 when its operations were merged into those already established by Ansett . </p>
+
+48	FALSE	Manchukuo National Airways::airline	manchukuo national airways / Air Transport Company	
+It is sometimes referred to as <strong> Manchukuo Air Transport Company </strong> . </p>
+
+#	NEW	icao	........ / passengers	// Civilian passengers were carried and <a> charter operations </a> undertaken on a lower priority . </p>
+
+#	NEW	callsign	........ / Air	// It is sometimes referred to as <strong> Manchukuo Air Transport Company </strong> . </p>
+
+#	NEW	ceased	........ / 1945	// <p> The Manchukuo National Airways ceased operations in August 1945 during the <a> Soviet invasion of Manchuria </a> , however wartime fuel and equipment shortages had previously curtailed its operations considerably .
+
+#	NEW	hubs	........ / airline	// <p> was the name of the <a> national airline </a> of <a> Manchukuo </a> .
+
+#	NEW	parent	........ / Manchukuo Air	// It is sometimes referred to as <strong> Manchukuo Air Transport Company </strong> . </p>
+
+#	NEW	headquarters	........ / Company	// It is sometimes referred to as <strong> Manchukuo Air Transport Company </strong> . </p>
+
+#	NEW	key_people	........ / long distance	// A long distance route between Hsinking and <a> Berlin </a> was also pioneered in 1938 . </p>
+
+#	NEW	website	........ / however wartime fuel and equipment shortages had previously curtailed its operations considerably .	// <p> The Manchukuo National Airways ceased operations in August 1945 during the <a> Soviet invasion of Manchuria </a> , however wartime fuel and equipment shortages had previously curtailed its operations considerably .
+
+#	NEW	logo_size	........ / </	// It is sometimes referred to as <strong> Manchukuo Air Transport Company </strong> . </p>
+
+#	NEW	fleet_size	........ / 1945	// <p> The Manchukuo National Airways ceased operations in August 1945 during the <a> Soviet invasion of Manchuria </a> , however wartime fuel and equipment shortages had previously curtailed its operations considerably .
+
+59	TRUE	Air Contractors::airline	air contractors / Air	
+<p> <strong> Air Contractors ( Ireland ) Limited </strong> is a freight <a> airline </a> based in <a> Dublin </a> , <a> Ireland </a> .
+
+#	NEW	icao	........ / East	// <p> The airline was established and started operations in 1972 , as <strong> AirBridge Carriers </strong> at <a> East Midlands </a> .
+
+61	TRUE	Air Contractors::callsign	contract / Air	
+<p> <strong> Air Contractors ( Ireland ) Limited </strong> is a freight <a> airline </a> based in <a> Dublin </a> , <a> Ireland </a> .
+
+62	TRUE	Air Contractors::founded	1972 / 1972	
+<p> The airline was established and started operations in 1972 , as <strong> AirBridge Carriers </strong> at <a> East Midlands </a> .
+
+#	NEW	hubs	........ / Midlands	// The aircraft , EI-JIV , is based at East Midlands airport in the UK . </p>
+
+#	NEW	parent	........ / airline was	// <p> The airline was established and started operations in 1972 , as <strong> AirBridge Carriers </strong> at <a> East Midlands </a> .
+
+#	NEW	headquarters	........ / ,	// <p> <strong> Air Contractors ( Ireland ) Limited </strong> is a freight <a> airline </a> based in <a> Dublin </a> , <a> Ireland </a> .
+
+#	NEW	key_people	........ / EI- JIV	// The aircraft , EI-JIV , is based at East Midlands airport in the UK . </p>
+
+#	NEW	website	........ / It operates scheduled freight services throughout Europe on behalf of major integrators such as	// It operates scheduled freight services throughout Europe on behalf of major integrators such as <a> FedEx Feeder </a> and DHL Express . </p>
+
+#	NEW	fleet_size	........ / 1972	// <p> The airline was established and started operations in 1972 , as <strong> AirBridge Carriers </strong> at <a> East Midlands </a> .
+
+#	NEW	logo_size	........ / 2010 ) :	// <p> The Air Contractors fleet consists of the following aircraft ( at 7 September 2010 ) : </p>
+
+70	FALSE	Eirjet::icao	eir / International	
+Its main bases were <a> Dublin International Airport </a> , Shannon International Airport and <a> Cork Airport </a> . </p>
+
+71	TRUE	Eirjet::callsign	eirjet / Shannon International	
+<p> <strong> Eirjet </strong> was a <a> charter airline </a> with its head office on the grounds of <a> Shannon International Airport </a> in <a> Shannon </a> , <a> County Clare </a> , <a> Ireland </a> .
+
+#	NEW	ceased	........ / 2006	// <p> On October 18 , 2006 the airline announced that due to financial diffuculties they would cease operations .
+
+73	TRUE	Eirjet::founded	2004 / 2004	
+( 2006 ) ] ] The airline was established in 2004 and started operations on 23 December 2004 </p>
+
+#	NEW	hubs	........ / Dublin	// Its main bases were <a> Dublin International Airport </a> , Shannon International Airport and <a> Cork Airport </a> . </p>
+
+#	NEW	frequent_flyer	........ / airline announced	// <p> On October 18 , 2006 the airline announced that due to financial diffuculties they would cease operations .
+
+#	NEW	parent	........ / airline was	// ( 2006 ) ] ] The airline was established in 2004 and started operations on 23 December 2004 </p>
+
+#	NEW	headquarters	........ / Dublin	// Its main bases were <a> Dublin International Airport </a> , Shannon International Airport and <a> Cork Airport </a> . </p>
+
+#	NEW	key_people	........ / main bases	// Its main bases were <a> Dublin International Airport </a> , Shannon International Airport and <a> Cork Airport </a> . </p>
+
+79	TRUE	Eirjet::fleet_size	4 / 23	
+( 2006 ) ] ] The airline was established in 2004 and started operations on 23 December 2004 </p>
+
+#	NEW	logo_size	........ / 2006	// <p> On October 18 , 2006 the airline announced that due to financial diffuculties they would cease operations .
+
+81	TRUE	Alpi Eagles::airline	alpi eagles / di	
+<p> <strong> Alpi Eagles SpA </strong> was an <a> airline </a> headquartered in <a> Sant ' Angelo di Piove di Sacco </a> , <a> Italy </a> .
+
+#	NEW	icao	........ / main	// Its main base was <a> Marco Polo International Airport </a> ) , <a> Venice </a> . </p>
+
+83	TRUE	Alpi Eagles::callsign	alpi eagles / di	
+<p> <strong> Alpi Eagles SpA </strong> was an <a> airline </a> headquartered in <a> Sant ' Angelo di Piove di Sacco </a> , <a> Italy </a> .
+
+#	NEW	ceased	........ / January 3 , 2008 .	// <p> Alpi Eagles suspended all flights starting January 3 , 2008 .
+
+85	FALSE	Alpi Eagles::founded	1979 / 1996	
+In May 1996 , Alpi Eagles started scheduled passenger services from <a> Venice </a> .
+
+#	NEW	hubs	........ / Polo	// Its main base was <a> Marco Polo International Airport </a> ) , <a> Venice </a> . </p>
+
+#	NEW	destinations	........ / 1996	// In May 1996 , Alpi Eagles started scheduled passenger services from <a> Venice </a> .
+
+#	NEW	parent	........ / was established	// <p> The company was established in 1979 as an aerobatic team and later diversified into the executive transport market .
+
+#	NEW	headquarters	........ / Polo	// Its main base was <a> Marco Polo International Airport </a> ) , <a> Venice </a> . </p>
+
+#	NEW	key_people	........ / main base	// Its main base was <a> Marco Polo International Airport </a> ) , <a> Venice </a> . </p>
+
+#	NEW	website	........ / Alpi Eagles suspended all flights starting January	// <p> Alpi Eagles suspended all flights starting January 3 , 2008 .
+
+92	FALSE	Alpi Eagles::fleet_size	10 / 2006 :	
+It operated flights to the following cities as of October 2006 : </p>
+
+#	NEW	logo_size	........ / 2006 :	// It operated flights to the following cities as of October 2006 : </p>
+
+94	TRUE	Maldivian Air Taxi::airline	maldivian air taxi / northern	
+<p> Based on the northern side of Male&#x2019 ; International Airport , Maldivian Air Taxi currently has a fleet of 24 Twin Otters , servicing 40 of the 90 resorts in the Maldives .
+
+95	FALSE	Maldivian Air Taxi::icao	mat / Male&#	
+<p> Based on the northern side of Male&#x2019 ; International Airport , Maldivian Air Taxi currently has a fleet of 24 Twin Otters , servicing 40 of the 90 resorts in the Maldives .
+
+#	NEW	callsign	........ / Air	// <p> Based on the northern side of Male&#x2019 ; International Airport , Maldivian Air Taxi currently has a fleet of 24 Twin Otters , servicing 40 of the 90 resorts in the Maldives .
+
+#	NEW	ceased	........ / 2008	// In 2008 MAT has carried over half a million passengers on the distinctive red and white planes to some of the most picturesque locations in the country . </p>
+
+#	NEW	founded	........ / 1993	// <p> The airline was established in 1993 by Danish investors and started operations in the same year .
+
+#	NEW	hubs	........ / Male&#	// <p> Based on the northern side of Male&#x2019 ; International Airport , Maldivian Air Taxi currently has a fleet of 24 Twin Otters , servicing 40 of the 90 resorts in the Maldives .
+
+#	NEW	frequent_flyer	........ / right |	// <p> [ [ Image : Maldivian air taxi . jpg | thumb | right | Flight
+
+#	NEW	parent	........ / following aircraft	// <p> The Maldivian Air Taxi fleet includes the following aircraft ( at December 2010 ) . </p>
+
+#	NEW	key_people	........ / Lars Erik	// It is wholly owned by Lars Erik Nielsen ( Chairman ) and has 275 employees ( at March 2007 ) . </p>
+
+#	NEW	fleet_size	........ / 1993	// <p> The airline was established in 1993 by Danish investors and started operations in the same year .
+
+#	NEW	logo_size	........ / 2010 ) .	// <p> The Maldivian Air Taxi fleet includes the following aircraft ( at December 2010 ) . </p>
+
+#	NEW	destinations	........ / 40	// <p> Based on the northern side of Male&#x2019 ; International Airport , Maldivian Air Taxi currently has a fleet of 24 Twin Otters , servicing 40 of the 90 resorts in the Maldives .
+
+#	NEW	iata	........ / are	// Livingston flight are operated with <a> EuroAtlantic Airways </a> Boeing 767 aircraft .
+
+#	NEW	icao	........ / main	// Its main base was <a> Malpensa International Airport </a> , Milan . </p>
+
+108	TRUE	Livingston Energy Flight::callsign	livingston / Livingston	
+<p> <strong> Livingston S . p . A . </strong> was an <a> Italian </a> <a> airline </a> with its head office in <a> Cardano al Campo </a> , <a> Varese </a> , <a> Italy </a> .
+
+#	NEW	ceased	........ / 2010 .	// <p> The airline had temporarily suspended operations as of 9 October 2010 , finally their AOC was revoked as of 14 October 2010 .
+
+#	NEW	founded	........ / 2003 .	// <p> The airline was established on 13 January 2003 and started operations in May 2003 .
+
+#	NEW	hubs	........ / Malpensa	// Its main base was <a> Malpensa International Airport </a> , Milan . </p>
+
+#	NEW	frequent_flyer	........ / remaining A321	// Also the remaining A321 is due to be returned to the lessor .
+
+113	FALSE	Livingston Energy Flight::parent	livingston aviation group / Malpensa International	
+Its main base was <a> Malpensa International Airport </a> , Milan . </p>
+
+#	NEW	headquarters	........ / Malpensa	// Its main base was <a> Malpensa International Airport </a> , Milan . </p>
+
+#	NEW	key_people	........ / the remaining	// Also the remaining A321 is due to be returned to the lessor .
+
+116	FALSE	Livingston Energy Flight::fleet_size	6 / 2003.	
+<p> The airline was established on 13 January 2003 and started operations in May 2003 .
+
+#	NEW	logo_size	........ / 2003	// <p> The airline was established on 13 January 2003 and started operations in May 2003 .
+
+118	TRUE	Kato Airline::airline	kato air / Norway	
+<p> <strong> Kato Airline </strong> was an <a> airline </a> based in <a> Evenes </a> , <a> Norway </a> .
+
+119	TRUE	Kato Airline::icao	kat / R&#	
+<p> At the time of closure , Kato Air operated scheduled passenger flights between <a> R&#x00f8 ; st </a> ( <a> R&#x00f8 ; st Airport </a> ) and <a> Bod&#x00f8 ; </a> ( <a> Bod&#x00f8 ; Airport </a> ) .
+
+#	NEW	ceased	........ / 2 September <a> 2008	// The company therefore decided to cancel all operations as of 2 September <a> 2008 </a> . </p>
+
+#	NEW	founded	........ / 1995	// <p> The airline was established in 1995 and started operations on 2 February 1995 </p>
+
+#	NEW	hubs	........ / Narvik	// Its main base was <a> Harsta / Narvik Airport , Evenes </a> .
+
+#	NEW	frequent_flyer	........ / all Kato	// <p> Late August <a> 2008 </a> the <a> Norwegian Civil Aviation Authority </a> discontinued the company ' s maintenance authorization issued to Kato Air Service , and all Kato Airs four planes were grounded .
+
+#	NEW	parent	........ / airline was	// <p> The airline was established in 1995 and started operations on 2 February 1995 </p>
+
+#	NEW	headquarters	........ / ,	// Its main base was <a> Harsta / Narvik Airport , Evenes </a> .
+
+#	NEW	key_people	........ / main base	// Its main base was <a> Harsta / Narvik Airport , Evenes </a> .
+
+#	NEW	website	........ / The company therefore decided to cancel all operations as of	// The company therefore decided to cancel all operations as of 2 September <a> 2008 </a> . </p>
+
+#	NEW	fleet_size	........ / 1995	// <p> The airline was established in 1995 and started operations on 2 February 1995 </p>
+
+#	NEW	logo_size	........ / ,	// The airline , using the brand name <strong> Kato Air </strong> operated scheduled passenger and cargo services , as well as daily freight services for the National Mail company , northern Norway .
+
+#	NEW	iata	........ / an	// In 2000 the company ceased to be an independent carrier and became an operator .
+
+#	NEW	icao	........ / short-	// It operates for its parent company as a short-haul operator , as well as ad-hoc <a> charter flights </a> .
+
+132	TRUE	EuroLOT::callsign	eurolot / Warsaw	
+<p> <strong> EuroLOT </strong> is an <a> airline </a> based in <a> Warsaw </a> , <a> Poland </a> .
+
+#	NEW	ceased	........ / 2000	// In 2000 the company ceased to be an independent carrier and became an operator .
+
+#	NEW	founded	........ / 1 July 1997 .	// <p> EuroLOT was established on 19 December 1996 and commenced regular air operations on 1 July 1997 .
+
+#	NEW	hubs	........ / Chopin	// Its main base is <a> Warsaw Frederic Chopin Airport </a> . </p>
+
+#	NEW	parent	........ / EuroLOT was	// <p> EuroLOT was established on 19 December 1996 and commenced regular air operations on 1 July 1997 .
+
+#	NEW	headquarters	........ / Chopin	// Its main base is <a> Warsaw Frederic Chopin Airport </a> . </p>
+
+#	NEW	key_people	........ / main base	// Its main base is <a> Warsaw Frederic Chopin Airport </a> . </p>
+
+#	NEW	fleet_size	........ / 1	// <p> EuroLOT was established on 19 December 1996 and commenced regular air operations on 1 July 1997 .
+
+#	NEW	logo_size	........ / of	// Initially EuroLOT operated as an air carrier with its own network of connections .
+
+#	NEW	website	........ / Eurolot operates an all ATR fleet and consists of the following aircraft ( June	// <p> Eurolot operates an all ATR fleet and consists of the following aircraft ( June 2009 ) : </p>
+
+#	NEW	icao	........ / euroAtlantic	// <p> <strong> EuroAtlantic Airways - Transportes A&#x00e9 ; reos S . A . </strong> , operating and styled as <strong> euroAtlantic airways </strong> , is a <a> charter airline </a> based in <a> Sintra </a> , <a> Lisbon </a> , <a> Portugal </a> .
+
+143	FALSE	EuroAtlantic Airways::callsign	euroatlantic / I	
+It operates worldwide charter services , with an emphasis on <a> the USA </a> , <a> Canada </a> , <a> Mexico </a> , <a> Pakistan </a> and <a> Australia </a> , as well as ACMI ( <strong> A </strong> ircraft , <strong> C </strong> rew , <strong> M </strong> aintenance and <strong> I </strong> nsurance ) and other <a> wet lease </a> operations .
+
+#	NEW	hubs	........ / Portela	// Its main base is <a> Portela Airport </a> , <a> Lisbon </a> . </p>
+
+#	NEW	destinations	........ / 2	// <p> In 2009 , EuroAtlantic Airways signed a deal to operate 2 <a> Boeing 777-200ER </a> on behalf of <a> Biman Bangladesh Airlines </a> .
+
+#	NEW	parent	........ / Bangladesh Airlines	// <p> In 2009 , EuroAtlantic Airways signed a deal to operate 2 <a> Boeing 777-200ER </a> on behalf of <a> Biman Bangladesh Airlines </a> .
+
+#	NEW	headquarters	........ / Portela	// Its main base is <a> Portela Airport </a> , <a> Lisbon </a> . </p>
+
+#	NEW	key_people	........ / main base	// Its main base is <a> Portela Airport </a> , <a> Lisbon </a> . </p>
+
+149	TRUE	EuroAtlantic Airways::fleet_size	7 / 2009	
+<p> In 2009 , EuroAtlantic Airways signed a deal to operate 2 <a> Boeing 777-200ER </a> on behalf of <a> Biman Bangladesh Airlines </a> .
+
+#	NEW	logo_size	........ / 757-	// EuroAtlantic [ [ Boeing 757 | Boeing 757-200 ] ] taking off from <a> Bristol International Airport </a> , <a> England </a> .
+
+#	NEW	ceased	........ / 777-	// <p> In 2009 , EuroAtlantic Airways signed a deal to operate 2 <a> Boeing 777-200ER </a> on behalf of <a> Biman Bangladesh Airlines </a> .
+
+#	NEW	airline	........ / Flight 11	// <p> Author <a> Arthur Hailey </a> based a subplot of his 1968 novel <em> <a> Airport </a> </em> on the Flight 11 bombing . </p>
+
+#	NEW	iata	........ / numbers	// <p> Notably , until 2009 Continental Airlines still used Flight 11 , on the Paris-Houston route ; flight numbers in the USA involved in fatal accidents are more commonly retired .
+
+#	NEW	icao	........ / Missouri	// <p> <strong> <a> Continental Airlines </a> Flight 11 </strong> , registration N70775 , was a <a> Boeing 707 </a> aircraft which exploded close to <a> Centerville , Iowa </a> , while en route from <a> O ' Hare Airport </a> , <a> Chicago , Illinois </a> , to <a> Kansas City , Missouri </a> , on May 22 , 1962 .
+
+#	NEW	callsign	........ / Continental	// <p> <strong> <a> Continental Airlines </a> Flight 11 </strong> , registration N70775 , was a <a> Boeing 707 </a> aircraft which exploded close to <a> Centerville , Iowa </a> , while en route from <a> O ' Hare Airport </a> , <a> Chicago , Illinois </a> , to <a> Kansas City , Missouri </a> , on May 22 , 1962 .
+
+#	NEW	ceased	........ / 33 .	// Effective October 25 , 2009 Flight 11 was replaced on the Paris-Houston route by flight 33 . </p>
+
+#	NEW	destinations	........ / 11	// <p> Notably , until 2009 Continental Airlines still used Flight 11 , on the Paris-Houston route ; flight numbers in the USA involved in fatal accidents are more commonly retired .
+
+#	NEW	parent	........ / flight 33 .	// Effective October 25 , 2009 Flight 11 was replaced on the Paris-Houston route by flight 33 . </p>
+
+#	NEW	headquarters	........ / flight	// Effective October 25 , 2009 Flight 11 was replaced on the Paris-Houston route by flight 33 . </p>
+
+#	NEW	key_people	........ / October 25	// Effective October 25 , 2009 Flight 11 was replaced on the Paris-Houston route by flight 33 . </p>
+
+#	NEW	fleet_size	........ / 25	// Effective October 25 , 2009 Flight 11 was replaced on the Paris-Houston route by flight 33 . </p>
+
+#	NEW	logo_size	........ / of	// The flight was routine until just before the <a> Mississippi River </a> , when it deviated from its filed flight plan to the north to avoid a line of thunderstorms .
+
+#	NEW	founded	........ / 11	// <p> Notably , until 2009 Continental Airlines still used Flight 11 , on the Paris-Houston route ; flight numbers in the USA involved in fatal accidents are more commonly retired .
+
+#	NEW	hubs	........ / Hailey	// <p> Author <a> Arthur Hailey </a> based a subplot of his 1968 novel <em> <a> Airport </a> </em> on the Flight 11 bombing . </p>
+
+#	NEW	frequent_flyer	........ / this incident	// The ASN entry for this incident refers back to this Wikipedia article as a source .
+
+#	NEW	icao	........ / regional	// It operated scheduled regional and international passenger services , freight transport , cargo handling and charter services from the main base is <a> Krasnoyarsk Yemelyanovo Airport </a> , as part of <a> AiRUnion </a> alliance .
+
+167	TRUE	KrasAir::callsign	krasnoyarsk air / Krasnoyarsk	
+<p> <strong> KrasAir </strong> or <strong> Krasnoyarsk Airlines </strong> ( ) was a <a> Russia </a> n airline with its head office on the grounds of <a> Krasnoyarsk Yemelyanovo Airport </a> in <a> Krasnoyarsk </a> .
+
+#	NEW	frequent_flyer	........ / cheaper than	// The airline ' s airfares were to be 30-40% cheaper than other carriers . </p>
+
+#	NEW	fleet_size	........ / 2008 .	// In 2008 Krasair suffered a <a> liquidity crisis </a> , and after a string of operational shutdowns , administrative and <a> strikes </a> , the company ceased operations in October 2008 . </p>
+
+#	NEW	logo_size	........ / 2008 ) :	// <p> The KrasAir fleet consisted of the following aircraft ( as at May 2008 ) : </p>
+
+#	NEW	ceased	........ / 2008	// In 2008 Krasair suffered a <a> liquidity crisis </a> , and after a string of operational shutdowns , administrative and <a> strikes </a> , the company ceased operations in October 2008 . </p>
+
+#	NEW	hubs	........ / Yemelyanovo	// It operated scheduled regional and international passenger services , freight transport , cargo handling and charter services from the main base is <a> Krasnoyarsk Yemelyanovo Airport </a> , as part of <a> AiRUnion </a> alliance .
+
+#	NEW	parent	........ / operated scheduled	// It operated scheduled regional and international passenger services , freight transport , cargo handling and charter services from the main base is <a> Krasnoyarsk Yemelyanovo Airport </a> , as part of <a> AiRUnion </a> alliance .
+
+#	NEW	key_people	........ / In October	// <p> In October 2004 KrasAir and <a> Domodedovo Airlines </a> set up a joint management company called AirBridge .
+
+175	TRUE	Anikay Air::airline	anikay air / Air	
+<p> <strong> Anikay Air </strong> Company is a <a> charter airline </a> based in <a> Bishkek </a> in <a> Kyrgyzstan </a> .
+
+#	NEW	iata	........ / Middle	// The airline president , Alfiya Galiaskarova , plans to establish Anikay Air as a major operator from Kyrgyzstan to <a> CIS </a> and the <a> Middle East </a> . </p>
+
+#	NEW	icao	........ / Anikay	// <p> <strong> Anikay Air </strong> Company is a <a> charter airline </a> based in <a> Bishkek </a> in <a> Kyrgyzstan </a> .
+
+178	TRUE	Anikay Air::callsign	anikay / Air	
+<p> <strong> Anikay Air </strong> Company is a <a> charter airline </a> based in <a> Bishkek </a> in <a> Kyrgyzstan </a> .
+
+#	NEW	ceased	........ / 2008 ) :	// <p> The Anikay Air fleet includes the following aircraft ( at March 2008 ) : </p>
+
+#	NEW	hubs	........ / airline	// <p> <strong> Anikay Air </strong> Company is a <a> charter airline </a> based in <a> Bishkek </a> in <a> Kyrgyzstan </a> .
+
+#	NEW	parent	........ / charter airline	// <p> <strong> Anikay Air </strong> Company is a <a> charter airline </a> based in <a> Bishkek </a> in <a> Kyrgyzstan </a> .
+
+#	NEW	headquarters	........ / March	// <p> The Anikay Air fleet includes the following aircraft ( at March 2008 ) : </p>
+
+#	NEW	key_people	........ / The Anikay	// <p> The Anikay Air fleet includes the following aircraft ( at March 2008 ) : </p>
+
+#	NEW	fleet_size	........ / <a>	// The airline president , Alfiya Galiaskarova , plans to establish Anikay Air as a major operator from Kyrgyzstan to <a> CIS </a> and the <a> Middle East </a> . </p>
+
+#	NEW	logo_size	........ / 2008 ) :	// <p> The Anikay Air fleet includes the following aircraft ( at March 2008 ) : </p>
+
+186	TRUE	Elbe Air::airline	elbe air / Air	
+<p> <strong> Elbe Air </strong> ( Elbe Air Lufttransport GmbH ) was an <a> airline </a> based in <a> Germany </a> . </p>
+
+#	NEW	iata	........ / be	// Three of the aircraft will be operated for ad hoc charter missions as well as private flights for the owners , whereas the fourth will be operated privately .
+
+#	NEW	icao	........ / fourth	// Three of the aircraft will be operated for ad hoc charter missions as well as private flights for the owners , whereas the fourth will be operated privately .
+
+#	NEW	callsign	........ / Air	// <p> <strong> Elbe Air </strong> ( Elbe Air Lufttransport GmbH ) was an <a> airline </a> based in <a> Germany </a> . </p>
+
+#	NEW	hubs	........ / Lippstadt	// Some of the Hawkers will be based at <a> Paderborn Lippstadt Airport </a> and the other aircraft will join the company&#x2019 ; s two <a> Dassault Falcon 20 </a> s in <a> Russia </a> . </p>
+
+#	NEW	headquarters	........ / Germany	// <p> <strong> Elbe Air </strong> ( Elbe Air Lufttransport GmbH ) was an <a> airline </a> based in <a> Germany </a> . </p>
+
+#	NEW	key_people	........ / the aircraft	// Three of the aircraft will be operated for ad hoc charter missions as well as private flights for the owners , whereas the fourth will be operated privately .
+
+#	NEW	logo_size	........ / a> .	// <p> <strong> Elbe Air </strong> ( Elbe Air Lufttransport GmbH ) was an <a> airline </a> based in <a> Germany </a> . </p>
+
+#	NEW	iata	........ / It	// It also operates air taxi and air ambulance services .
+
+#	NEW	icao	........ / First	// <p> <strong> Italy First </strong> was a regional charter <a> airline </a> based in <a> Rimini </a> in <a> Italy </a> .
+
+196	TRUE	Italy First::ceased	2005 / January 2005 ).	
+<p> The Italy First fleet consists of 2 <a> ATR 42-320 </a> aircraft ( at January 2005 ) .
+
+#	NEW	hubs	........ / Miramare	// Its main base is <a> Miramare Airport </a> , Rimini .
+
+#	NEW	frequent_flyer	........ / is 100%	// <p> The airline was established in 1999 and is 100% owned by Gruppo Condor . </p>
+
+#	NEW	parent	........ / airline was	// <p> The airline was established in 1999 and is 100% owned by Gruppo Condor . </p>
+
+#	NEW	headquarters	........ / Miramare	// Its main base is <a> Miramare Airport </a> , Rimini .
+
+#	NEW	key_people	........ / Gruppo Condor .	// <p> The airline was established in 1999 and is 100% owned by Gruppo Condor . </p>
+
+#	NEW	website	........ / It also operates air taxi and air ambulance services .	// It also operates air taxi and air ambulance services .
+
+203	FALSE	Italy First::fleet_size	2 / 1999	
+<p> The airline was established in 1999 and is 100% owned by Gruppo Condor . </p>
+
+#	NEW	callsign	........ / First	// <p> <strong> Italy First </strong> was a regional charter <a> airline </a> based in <a> Rimini </a> in <a> Italy </a> .
+
+205	TRUE	Birdy Airlines::airline	birdy airlines / offered	
+<p> <strong> Birdy Airlines </strong> was an <a> airline </a> based in <a> Belgium </a> that offered long-haul flights using a fleet of three <a> Airbus A330-300 </a> aircraft .
+
+#	NEW	iata	........ / it	// The airline was founded in 2002 and ceased its operations in 2004 when it was merged into <a> SN Brussels Airlines </a> . </p>
+
+207	TRUE	Birdy Airlines::ceased	2004 / 2004	
+The airline was founded in 2002 and ceased its operations in 2004 when it was merged into <a> SN Brussels Airlines </a> . </p>
+
+208	TRUE	Birdy Airlines::founded	2002 / 2004	
+The airline was founded in 2002 and ceased its operations in 2004 when it was merged into <a> SN Brussels Airlines </a> . </p>
+
+#	NEW	destinations	........ / 2004	// The airline was founded in 2002 and ceased its operations in 2004 when it was merged into <a> SN Brussels Airlines </a> . </p>
+
+#	NEW	parent	........ / airline was	// The airline was founded in 2002 and ceased its operations in 2004 when it was merged into <a> SN Brussels Airlines </a> . </p>
+
+#	NEW	headquarters	........ / Airlines	// The airline was founded in 2002 and ceased its operations in 2004 when it was merged into <a> SN Brussels Airlines </a> . </p>
+
+#	NEW	fleet_size	........ / 2004	// The airline was founded in 2002 and ceased its operations in 2004 when it was merged into <a> SN Brussels Airlines </a> . </p>
+
+#	NEW	logo_size	........ / 2004	// The airline was founded in 2002 and ceased its operations in 2004 when it was merged into <a> SN Brussels Airlines </a> . </p>
+
+#	NEW	callsign	........ / Birdy	// <p> <strong> Birdy Airlines </strong> was an <a> airline </a> based in <a> Belgium </a> that offered long-haul flights using a fleet of three <a> Airbus A330-300 </a> aircraft .
+
+215	FALSE	Isleña Airlines::iata	wc / It	
+It operates scheduled and charter passenger flights to <a> Miami </a> and to destinations in Honduras and the <a> Cayman Islands </a> as part of the <a> TACA </a> regional airline system ( isle&#x00f1 ; a means islander ) .
+
+#	NEW	icao	........ / main	// Its main base is <a> Golos&#x00f3 ; n International Airport </a> , La Ceiba . </p>
+
+217	FALSE	Isleña Airlines::callsign	islena / Isle&#	
+<p> <strong> Isle&#x00f1 ; a Airlines </strong> ( Isle&#x00f1 ; a de Inversiones SA de CV ) is an <a> airline </a> based in <a> La Ceiba </a> , <a> Honduras </a> .
+
+218	TRUE	Isleña Airlines::founded	1981 / 1981	
+<p> The airline was established in 1981 by Arturo Alvarado Wood and started operations on 31 March 1981 .
+
+#	NEW	hubs	........ / n	// Its main base is <a> Golos&#x00f3 ; n International Airport </a> , La Ceiba . </p>
+
+#	NEW	parent	........ / n International	// Its main base is <a> Golos&#x00f3 ; n International Airport </a> , La Ceiba . </p>
+
+#	NEW	headquarters	........ / n	// Its main base is <a> Golos&#x00f3 ; n International Airport </a> , La Ceiba . </p>
+
+#	NEW	key_people	........ / main base	// Its main base is <a> Golos&#x00f3 ; n International Airport </a> , La Ceiba . </p>
+
+#	NEW	fleet_size	........ / 31	// <p> The airline was established in 1981 by Arturo Alvarado Wood and started operations on 31 March 1981 .
+
+#	NEW	logo_size	........ / 2009 ) :	// Isle&#x00f1 ; a Airlines operates the following services ( at January 2009 ) : </p>
+
+#	NEW	airline	........ / a Airlines	// <p> <strong> Isle&#x00f1 ; a Airlines </strong> ( Isle&#x00f1 ; a de Inversiones SA de CV ) is an <a> airline </a> based in <a> La Ceiba </a> , <a> Honduras </a> .
+
+226	TRUE	Windrose Air::airline	windrose air / operating	
+<p> <strong> Windrose Air </strong> is an <a> airline </a> based in <a> Sch&#x00f6 ; nefeld </a> , <a> Germany </a> operating business and private charter services , cargo and air ambulance services .
+
+227	FALSE	Windrose Air::iata	- / an	
+<p> <strong> Windrose Air </strong> is an <a> airline </a> based in <a> Sch&#x00f6 ; nefeld </a> , <a> Germany </a> operating business and private charter services , cargo and air ambulance services .
+
+#	NEW	icao	........ / business	// <p> <strong> Windrose Air </strong> is an <a> airline </a> based in <a> Sch&#x00f6 ; nefeld </a> , <a> Germany </a> operating business and private charter services , cargo and air ambulance services .
+
+#	NEW	callsign	........ / Air	// <p> <strong> Windrose Air </strong> is an <a> airline </a> based in <a> Sch&#x00f6 ; nefeld </a> , <a> Germany </a> operating business and private charter services , cargo and air ambulance services .
+
+#	NEW	ceased	........ / 2008 ) :	// <p> The Windrose Air fleet comprises ( as of January 2008 ) : </p>
+
+#	NEW	founded	........ / Sch&#	// <p> <strong> Windrose Air </strong> is an <a> airline </a> based in <a> Sch&#x00f6 ; nefeld </a> , <a> Germany </a> operating business and private charter services , cargo and air ambulance services .
+
+#	NEW	hubs	........ / nefeld	// It operates from <a> Berlin-Sch&#x00f6 ; nefeld International Airport </a> , <a> Leipzig </a> and <a> Pozna&#x0144 ; -&#x0141 ; awica </a> . </p>
+
+#	NEW	headquarters	........ / January	// <p> The Windrose Air fleet comprises ( as of January 2008 ) : </p>
+
+#	NEW	key_people	........ / The Windrose	// <p> The Windrose Air fleet comprises ( as of January 2008 ) : </p>
+
+#	NEW	fleet_size	........ / air	// <p> <strong> Windrose Air </strong> is an <a> airline </a> based in <a> Sch&#x00f6 ; nefeld </a> , <a> Germany </a> operating business and private charter services , cargo and air ambulance services .
+
+#	NEW	logo_size	........ / 2008 ) :	// <p> The Windrose Air fleet comprises ( as of January 2008 ) : </p>
+
+#	NEW	parent	........ / Berlin- Sch&#	// It operates from <a> Berlin-Sch&#x00f6 ; nefeld International Airport </a> , <a> Leipzig </a> and <a> Pozna&#x0144 ; -&#x0141 ; awica </a> . </p>
+
+#	NEW	callsign	........ / Willow	// <p> <strong> USA Jet Airlines </strong> is an <a> American </a> air carrier with its headquarters on the grounds of <a> Willow Run Airport </a> and in <a> Van Buren Township </a> , <a> Michigan </a> .
+
+#	NEW	ceased	........ / 9	// <p> The airline operates a fleet of <a> DC-9 </a> s . </p>
+
+#	NEW	founded	........ / 9	// <p> The airline operates a fleet of <a> DC-9 </a> s . </p>
+
+#	NEW	frequent_flyer	........ / USA Jet	// <p> USA Jet Airlines is a division of <a> Active Aero Group </a> .
+
+242	FALSE	USA Jet Airlines::parent	active aero group / KYIP Passenger	
+<p> KYIP Passenger Aircraft : </p>
+
+#	NEW	headquarters	........ / DC-	// <p> The airline operates a fleet of <a> DC-9 </a> s . </p>
+
+#	NEW	key_people	........ / The airline	// <p> The airline operates a fleet of <a> DC-9 </a> s . </p>
+
+#	NEW	fleet_size	........ / 9	// <p> The airline operates a fleet of <a> DC-9 </a> s . </p>
+
+#	NEW	logo_size	........ / 2010	// <p> As May , 2010 the USA Jet Airlines fleet includes : </p>
+
+#	NEW	icao	........ / demand	// USA Jet operates on-demand air charter passenger and freight flights out of Willow Run Airport as well as aircraft on a government contract out of <a> Kirtland Air Force Base </a> in <a> Albuquerque , New Mexico </a> . </p>
+
+#	NEW	destinations	........ / 9	// <p> The airline operates a fleet of <a> DC-9 </a> s . </p>
+
+#	NEW	iata	........ / It	// It was established and started operations in 1991 and operates scheduled passenger transport , charter and air taxi services .
+
+#	NEW	icao	........ / scheduled	// It was established and started operations in 1991 and operates scheduled passenger transport , charter and air taxi services .
+
+251	TRUE	Avies::callsign	avies / Tallinn	
+<p> <strong> Avies </strong> Air Company is an <a> airline </a> based in <a> Tallinn </a> , <a> Estonia </a> .
+
+#	NEW	ceased	........ / 1991	// It was established and started operations in 1991 and operates scheduled passenger transport , charter and air taxi services .
+
+253	TRUE	Avies::founded	1991 / 1991	
+It was established and started operations in 1991 and operates scheduled passenger transport , charter and air taxi services .
+
+#	NEW	hubs	........ / Tallinn	// Its main base is <a> Lennart Meri Tallinn Airport </a> . </p>
+
+#	NEW	destinations	........ / 1991	// It was established and started operations in 1991 and operates scheduled passenger transport , charter and air taxi services .
+
+#	NEW	parent	........ / was established	// It was established and started operations in 1991 and operates scheduled passenger transport , charter and air taxi services .
+
+#	NEW	headquarters	........ / Tallinn	// Its main base is <a> Lennart Meri Tallinn Airport </a> . </p>
+
+#	NEW	key_people	........ / main base	// Its main base is <a> Lennart Meri Tallinn Airport </a> . </p>
+
+259	TRUE	Avies::fleet_size	9 / 1991	
+It was established and started operations in 1991 and operates scheduled passenger transport , charter and air taxi services .
+
+#	NEW	frequent_flyer	........ / ref name=&	// <p> The Avies fleet includes the following aircraft ( at August 2007 ) ref name=&quot ; FI&quot ; / : </p>
+
+#	NEW	website	........ / It was established and started operations in 1991 and operates scheduled passenger transport , charter and air taxi services .	// It was established and started operations in 1991 and operates scheduled passenger transport , charter and air taxi services .
+
+#	NEW	logo_size	........ / 1991	// It was established and started operations in 1991 and operates scheduled passenger transport , charter and air taxi services .
+
+263	FALSE	Copenhagen Air Taxi::icao	cat / Denmark	
+<p> <strong> Copenhagen Air Taxi </strong> is an <a> airline </a> based in <a> Roskilde </a> , <a> Denmark </a> .
+
+#	NEW	callsign	........ / Air	// <p> <strong> Copenhagen Air Taxi </strong> is an <a> airline </a> based in <a> Roskilde </a> , <a> Denmark </a> .
+
+#	NEW	hubs	........ / airline	// <p> <strong> Copenhagen Air Taxi </strong> is an <a> airline </a> based in <a> Roskilde </a> , <a> Denmark </a> .
+
+#	NEW	parent	........ / major air	// It also is the major air taxi service in Denmark , operating from EKRK .
+
+#	NEW	key_people	........ / has a	// CAT also has a large maintenance facility . </p>
+
+#	NEW	website	........ / It also is the major air taxi service in Denmark , operating from EKRK .	// It also is the major air taxi service in Denmark , operating from EKRK .
+
+#	NEW	fleet_size	........ / ,	// It also is the major air taxi service in Denmark , operating from EKRK .
+
+#	NEW	logo_size	........ / <a>	// <p> <strong> Copenhagen Air Taxi </strong> is an <a> airline </a> based in <a> Roskilde </a> , <a> Denmark </a> .
+
+271	TRUE	Aero Services Executive::airline	aero services executive / France	
+<p> <strong> Aero Services Executive </strong> is an <a> airline </a> company based in <a> France </a> .
+
+#	NEW	iata	........ / an	// <p> <strong> Aero Services Executive </strong> is an <a> airline </a> company based in <a> France </a> .
+
+#	NEW	icao	........ / France	// <p> <strong> Aero Services Executive </strong> is an <a> airline </a> company based in <a> France </a> .
+
+#	NEW	callsign	........ / France	// <p> <strong> Aero Services Executive </strong> is an <a> airline </a> company based in <a> France </a> .
+
+#	NEW	founded	........ / airline	// <p> <strong> Aero Services Executive </strong> is an <a> airline </a> company based in <a> France </a> .
+
+#	NEW	hubs	........ / airline	// <p> <strong> Aero Services Executive </strong> is an <a> airline </a> company based in <a> France </a> .
+
+#	NEW	destinations	........ / 2007 :	// <p> The Aero Services Executive fleet as of September 2007 : </p>
+
+#	NEW	parent	........ / Aero Services	// <p> <strong> Aero Services Executive </strong> is an <a> airline </a> company based in <a> France </a> .
+
+#	NEW	key_people	........ / offers on-	// It offers on-demand service of flights aboard <a> business jet </a> s . </p>
+
+#	NEW	fleet_size	........ / <a>	// <p> <strong> Aero Services Executive </strong> is an <a> airline </a> company based in <a> France </a> .
+
+#	NEW	logo_size	........ / </	// It offers on-demand service of flights aboard <a> business jet </a> s . </p>
+
+#	NEW	headquarters	........ / France	// <p> <strong> Aero Services Executive </strong> is an <a> airline </a> company based in <a> France </a> .
+
+#	NEW	airline	........ / France	// <p> <strong> Finist ' air </strong> is an <a> airline </a> based at <a> Brest Guipavas Airport </a> in <a> France </a> .
+
+#	NEW	icao	........ / Brest	// <p> <strong> Finist ' air </strong> is an <a> airline </a> based at <a> Brest Guipavas Airport </a> in <a> France </a> .
+
+#	NEW	callsign	........ / air	// <p> <strong> Finist ' air </strong> is an <a> airline </a> based at <a> Brest Guipavas Airport </a> in <a> France </a> .
+
+286	FALSE	Finist'air::founded	1981 / airline	
+<p> <strong> Finist ' air </strong> is an <a> airline </a> based at <a> Brest Guipavas Airport </a> in <a> France </a> .
+
+#	NEW	hubs	........ / airline	// <p> <strong> Finist ' air </strong> is an <a> airline </a> based at <a> Brest Guipavas Airport </a> in <a> France </a> .
+
+#	NEW	parent	........ / provides passenger	// It provides passenger service , air taxi , and freight transport .
+
+#	NEW	headquarters	........ / Cessna	// <p> The airline has two <a> Cessna 208 </a> Caravan . </p>
+
+#	NEW	key_people	........ / The airline	// <p> The airline has two <a> Cessna 208 </a> Caravan . </p>
+
+291	TRUE	Finist'air::fleet_size	2 / 208	
+<p> The airline has two <a> Cessna 208 </a> Caravan . </p>
+
+#	NEW	logo_size	........ / and	// It provides passenger service , air taxi , and freight transport .
+
+293	TRUE	Stuttgarter Flugdienst::airline	stuttgarter flugdienst / Airport	
+<p> <strong> Stuttgarter Flugdienst </strong> , commonly abbreviated <strong> SFD </strong> , is an <a> airline </a> based in <a> Stuttgart </a> , <a> Germany </a> , operating <a> corporate </a> charter flights out of <a> Stuttgart Airport </a> . </p>
+
+#	NEW	callsign	........ / Germany	// <p> <strong> Stuttgarter Flugdienst </strong> , commonly abbreviated <strong> SFD </strong> , is an <a> airline </a> based in <a> Stuttgart </a> , <a> Germany </a> , operating <a> corporate </a> charter flights out of <a> Stuttgart Airport </a> . </p>
+
+#	NEW	ceased	........ / 13	// <p> The Stuttgarter Flugdienst fleet consists of the following aircraft types , which provide space for 5-13 passengers : </p>
+
+#	NEW	hubs	........ / types	// <p> The Stuttgarter Flugdienst fleet consists of the following aircraft types , which provide space for 5-13 passengers : </p>
+
+#	NEW	fleet_size	........ / 13	// <p> The Stuttgarter Flugdienst fleet consists of the following aircraft types , which provide space for 5-13 passengers : </p>
+
+#	NEW	logo_size	........ / 5-	// <p> The Stuttgarter Flugdienst fleet consists of the following aircraft types , which provide space for 5-13 passengers : </p>
+
+#	NEW	icao	........ / corporate	// <p> <strong> Stuttgarter Flugdienst </strong> , commonly abbreviated <strong> SFD </strong> , is an <a> airline </a> based in <a> Stuttgart </a> , <a> Germany </a> , operating <a> corporate </a> charter flights out of <a> Stuttgart Airport </a> . </p>
+
+#	NEW	destinations	........ / 13	// <p> The Stuttgarter Flugdienst fleet consists of the following aircraft types , which provide space for 5-13 passengers : </p>
+
+#	NEW	parent	........ / following aircraft	// <p> The Stuttgarter Flugdienst fleet consists of the following aircraft types , which provide space for 5-13 passengers : </p>
+
+#	NEW	headquarters	........ / for	// <p> The Stuttgarter Flugdienst fleet consists of the following aircraft types , which provide space for 5-13 passengers : </p>
+
+#	NEW	key_people	........ / The Stuttgarter	// <p> The Stuttgarter Flugdienst fleet consists of the following aircraft types , which provide space for 5-13 passengers : </p>
+
+304	TRUE	Aviator Airways::airline	aviator airways / Aviator Airways	
+<p> <strong> Aviator Airways </strong> is an <a> airline </a> based at <a> Athens International Airport </a> in <a> Greece </a> .
+
+#	NEW	iata	........ / at	// <p> <strong> Aviator Airways </strong> is an <a> airline </a> based at <a> Athens International Airport </a> in <a> Greece </a> .
+
+#	NEW	icao	........ / International	// <p> <strong> Aviator Airways </strong> is an <a> airline </a> based at <a> Athens International Airport </a> in <a> Greece </a> .
+
+307	TRUE	Aviator Airways::callsign	aviator / Aviator	
+<p> <strong> Aviator Airways </strong> is an <a> airline </a> based at <a> Athens International Airport </a> in <a> Greece </a> .
+
+#	NEW	hubs	........ / airline	// <p> <strong> Aviator Airways </strong> is an <a> airline </a> based at <a> Athens International Airport </a> in <a> Greece </a> .
+
+#	NEW	parent	........ / operates business	// It operates business and executive flights , cargo and <a> air ambulance </a> services . </p>
+
+#	NEW	headquarters	........ / ambulance	// It operates business and executive flights , cargo and <a> air ambulance </a> services . </p>
+
+#	NEW	key_people	........ / operates business	// It operates business and executive flights , cargo and <a> air ambulance </a> services . </p>
+
+#	NEW	fleet_size	........ / air	// It operates business and executive flights , cargo and <a> air ambulance </a> services . </p>
+
+#	NEW	logo_size	........ / a>	// It operates business and executive flights , cargo and <a> air ambulance </a> services . </p>
+
+314	TRUE	Trans Island Air 2000::airline	trans island air / operating	
+<p> <strong> Trans Island Air </strong> is an <a> airline </a> based in <a> Christ Church </a> in <a> Barbados </a> operating charters throughout the Caribbean .
+
+#	NEW	iata	........ / an	// <p> <strong> Trans Island Air </strong> is an <a> airline </a> based in <a> Christ Church </a> in <a> Barbados </a> operating charters throughout the Caribbean .
+
+#	NEW	icao	........ / throughout	// <p> <strong> Trans Island Air </strong> is an <a> airline </a> based in <a> Christ Church </a> in <a> Barbados </a> operating charters throughout the Caribbean .
+
+317	TRUE	Trans Island Air 2000::callsign	trans island / Trans	
+<p> <strong> Trans Island Air </strong> is an <a> airline </a> based in <a> Christ Church </a> in <a> Barbados </a> operating charters throughout the Caribbean .
+
+#	NEW	ceased	........ / 2006	// <p> The Trans Island Air 2000 fleet includes the following aircraft ( at August <a> 2006 </a> ) : </p>
+
+#	NEW	founded	........ / Barbados	// <p> <strong> Trans Island Air </strong> is an <a> airline </a> based in <a> Christ Church </a> in <a> Barbados </a> operating charters throughout the Caribbean .
+
+#	NEW	hubs	........ / Adams	// Its main base is at <a> Grantley Adams International Airport </a> , Barbados . </p>
+
+#	NEW	parent	........ / Adams International	// Its main base is at <a> Grantley Adams International Airport </a> , Barbados . </p>
+
+#	NEW	headquarters	........ / Adams	// Its main base is at <a> Grantley Adams International Airport </a> , Barbados . </p>
+
+#	NEW	key_people	........ / main base	// Its main base is at <a> Grantley Adams International Airport </a> , Barbados . </p>
+
+#	NEW	logo_size	........ / 2006	// <p> The Trans Island Air 2000 fleet includes the following aircraft ( at August <a> 2006 </a> ) : </p>
+
+#	NEW	fleet_size	........ / <a>	// <p> <strong> Trans Island Air </strong> is an <a> airline </a> based in <a> Christ Church </a> in <a> Barbados </a> operating charters throughout the Caribbean .
+
+#	NEW	iata	........ / It	// It started operations in September 1979 .
+
+#	NEW	icao	........ / are	// Its main bases are <a> Malta International Airport </a> and <a> Tripoli International Airport </a> , <a> Libya </a> .
+
+328	TRUE	Medavia::callsign	medavia / Medavia	
+<p> <strong> Medavia </strong> ( Mediterranean Aviation Co . Ltd ) is an <a> airline </a> based in <a> Luqa </a> , <a> Malta </a> .
+
+#	NEW	ceased	........ / 2008 ) :	// <p> The Medavia fleet includes the following aircraft ( as of March 2008 ) : </p>
+
+330	FALSE	Medavia::founded	1978 / 1979.	
+It started operations in September 1979 .
+
+#	NEW	hubs	........ / Malta	// Its main bases are <a> Malta International Airport </a> and <a> Tripoli International Airport </a> , <a> Libya </a> .
+
+#	NEW	parent	........ / LAFI group	// <p> The airline is a Maltese registered company founded in 1978 as part of the LAFI group of companies .
+
+#	NEW	headquarters	........ / Malta	// Its main bases are <a> Malta International Airport </a> and <a> Tripoli International Airport </a> , <a> Libya </a> .
+
+#	NEW	website	........ / It started operations in September	// It started operations in September 1979 .
+
+335	FALSE	Medavia::fleet_size	8 / 1979.	
+It started operations in September 1979 .
+
+#	NEW	key_people	........ / The organisation	// <p> The organisation is an internationally accredited enterprise that primarily offers a range of aviation services namely flight operations charters with its own fleet , aircraft maintenance services and business charter brokerage . </p>
+
+#	NEW	logo_size	........ / aircraft	// <p> The organisation is an internationally accredited enterprise that primarily offers a range of aviation services namely flight operations charters with its own fleet , aircraft maintenance services and business charter brokerage . </p>
+
+#	NEW	iata	........ / an	// <p> <strong> Metropolis </strong> ( Metropolis Noord 1 BV ) is an <a> airline </a> based in the <a> Netherlands </a> . </p>
+
+#	NEW	icao	........ / Netherlands	// <p> <strong> Metropolis </strong> ( Metropolis Noord 1 BV ) is an <a> airline </a> based in the <a> Netherlands </a> . </p>
+
+#	NEW	callsign	........ / Metropolis	// <p> <strong> Metropolis </strong> ( Metropolis Noord 1 BV ) is an <a> airline </a> based in the <a> Netherlands </a> . </p>
+
+#	NEW	ceased	........ / 1	// <p> <strong> Metropolis </strong> ( Metropolis Noord 1 BV ) is an <a> airline </a> based in the <a> Netherlands </a> . </p>
+
+#	NEW	founded	........ / 1	// <p> <strong> Metropolis </strong> ( Metropolis Noord 1 BV ) is an <a> airline </a> based in the <a> Netherlands </a> . </p>
+
+#	NEW	hubs	........ / airline	// <p> <strong> Metropolis </strong> ( Metropolis Noord 1 BV ) is an <a> airline </a> based in the <a> Netherlands </a> . </p>
+
+#	NEW	destinations	........ / 1	// <p> <strong> Metropolis </strong> ( Metropolis Noord 1 BV ) is an <a> airline </a> based in the <a> Netherlands </a> . </p>
+
+#	NEW	parent	........ / ( Metropolis Noord	// <p> <strong> Metropolis </strong> ( Metropolis Noord 1 BV ) is an <a> airline </a> based in the <a> Netherlands </a> . </p>
+
+#	NEW	fleet_size	........ / 1	// <p> <strong> Metropolis </strong> ( Metropolis Noord 1 BV ) is an <a> airline </a> based in the <a> Netherlands </a> . </p>
+
+#	NEW	logo_size	........ / a> .	// <p> <strong> Metropolis </strong> ( Metropolis Noord 1 BV ) is an <a> airline </a> based in the <a> Netherlands </a> . </p>
+
+348	TRUE	Air Turks and Caicos::airline	air turks and caicos / Interisland Airways	
+<p> <strong> Air Turks and Caicos </strong> ( formerly known as <strong> Interisland Airways </strong> ) is a passenger <a> airline </a> based on the <a> Turks and Caicos Islands </a> .
+
+#	NEW	iata	........ / January	// <p> As of January 2010 , Air Turks and Caicos operates scheduled flights to the following destinations within the <a> Caribbean </a> : </p>
+
+#	NEW	icao	........ / domestic	// The airline offers scheduled domestic and short-haul international services , as well as <a> charter flight </a> s .
+
+#	NEW	callsign	........ / Interisland	// <p> <strong> Air Turks and Caicos </strong> ( formerly known as <strong> Interisland Airways </strong> ) is a passenger <a> airline </a> based on the <a> Turks and Caicos Islands </a> .
+
+#	NEW	ceased	........ / 2010	// <p> As of January 2010 , Air Turks and Caicos operates scheduled flights to the following destinations within the <a> Caribbean </a> : </p>
+
+#	NEW	hubs	........ / haul	// The airline offers scheduled domestic and short-haul international services , as well as <a> charter flight </a> s .
+
+#	NEW	parent	........ / airline offers	// The airline offers scheduled domestic and short-haul international services , as well as <a> charter flight </a> s .
+
+#	NEW	key_people	........ / airline offers	// The airline offers scheduled domestic and short-haul international services , as well as <a> charter flight </a> s .
+
+#	NEW	website	........ / The airline offers scheduled domestic and short-haul international services	// The airline offers scheduled domestic and short-haul international services , as well as <a> charter flight </a> s .
+
+#	NEW	fleet_size	........ / 2010	// <p> As of January 2010 , Air Turks and Caicos operates scheduled flights to the following destinations within the <a> Caribbean </a> : </p>
+
+#	NEW	logo_size	........ / 2008 .	// The SkyKing fleet and crew was merged into Air Turks and Caicos on 22 October 2008 . brbr </p>
+
+359	FALSE	Air Corsica::airline	air corsica / x00e9 ;	
+The airline is owned by Collectivit&#x00e9 ; Territoriale de Corse ( 60 . 37% ) ,
+
+#	NEW	iata	........ / January	// <p> The airline was established on 1 January 1989 and started services in June 1990 .
+
+361	FALSE	Air Corsica::founded	2000 / 1990.	
+<p> The airline was established on 1 January 1989 and started services in June 1990 .
+
+#	NEW	parent	........ / airline was	// <p> The airline was established on 1 January 1989 and started services in June 1990 .
+
+#	NEW	key_people	........ / x00e9 ; Territoriale	// The airline is owned by Collectivit&#x00e9 ; Territoriale de Corse ( 60 . 37% ) ,
+
+#	NEW	website	........ / It operates passenger services from Corsica to metropolitan France .	// It operates passenger services from Corsica to metropolitan France .
+
+#	NEW	fleet_size	........ / 1990 .	// <p> The airline was established on 1 January 1989 and started services in June 1990 .
+
+366	TRUE	Air Corsica::logo_size	200 / 2010.	
+In November 2000 it changed its name from Compagnie Corse Mediterranee to CCM Airlines , then to Air Corsica in October 2010 .
+
+367	TRUE	Air Corsica::icao	ccm / Compagnie	
+<p> <strong> Compagnie A&#x00e9 ; rienne Corse M&#x00e9 ; diterran&#x00e9 ; e S . A . E . M . </strong> , <a> trading as </a> <strong> Air Corsica </strong> ( formerly <em> CCM Airlines </em> ) , is a <a> regional airline </a> with its head office on the grounds of <a> Ajaccio &#x2013 ; Campo dell ' Oro Airport </a> ( Napoleon Bonaparte Airport ) in <a> Ajaccio </a> , <a> Corsica </a> , <a> France </a> .
+
+368	TRUE	Air Corsica::callsign	corsica / Air	
+<p> <strong> Compagnie A&#x00e9 ; rienne Corse M&#x00e9 ; diterran&#x00e9 ; e S . A . E . M . </strong> , <a> trading as </a> <strong> Air Corsica </strong> ( formerly <em> CCM Airlines </em> ) , is a <a> regional airline </a> with its head office on the grounds of <a> Ajaccio &#x2013 ; Campo dell ' Oro Airport </a> ( Napoleon Bonaparte Airport ) in <a> Ajaccio </a> , <a> Corsica </a> , <a> France </a> .
+
+369	TRUE	Augsburg Airways::airline	augsburg air / Germany	
+<p> <strong> Augsburg Airways <a> GmbH </a> </strong> is a regional <a> airline </a> based in <a> Hallbergmoos </a> , <a> Germany </a> .
+
+#	NEW	icao	........ / International	// It is part of the <a> Lufthansa Regional </a> group and operates domestic and international services on behalf of <a> Lufthansa </a> out of <a> Munich International Airport </a> . </p>
+
+#	NEW	callsign	........ / Augsburg	// <p> <strong> Augsburg Airways <a> GmbH </a> </strong> is a regional <a> airline </a> based in <a> Hallbergmoos </a> , <a> Germany </a> .
+
+#	NEW	ceased	........ / 1993	// In 1993 it started flying to European holiday destinations for tour operators and added international scheduled services in 1994 , to <a> Florence </a> .
+
+#	NEW	frequent_flyer	........ / Cirrus Group .	// name=&quot ; FI&quot ; / Augsburg Airways was purchased by <a> Cirrus Airlines </a> and forms part of the Cirrus Group . </p>
+
+#	NEW	destinations	........ / 1994	// In 1993 it started flying to European holiday destinations for tour operators and added international scheduled services in 1994 , to <a> Florence </a> .
+
+#	NEW	headquarters	........ / ,	// In 1993 it started flying to European holiday destinations for tour operators and added international scheduled services in 1994 , to <a> Florence </a> .
+
+#	NEW	fleet_size	........ / 1986	// <p> The airline was established in 1980 as <strong> Interot Airways </strong> , but started revenue operations only in 1986 with flights from Augsburg to <a> D&#x00fc ; sseldorf </a> .
+
+#	NEW	logo_size	........ / 9 .	// As of December 2010 , the Augsburg Airways fleet consists of the following aircraft with an average age of 9 . 2 years : center / center </p>
+
+#	NEW	iata	........ / but	// <p> The airline was established in 1980 as <strong> Interot Airways </strong> , but started revenue operations only in 1986 with flights from Augsburg to <a> D&#x00fc ; sseldorf </a> .
+
+379	TRUE	Augsburg Airways::founded	1980 / 1986	
+<p> The airline was established in 1980 as <strong> Interot Airways </strong> , but started revenue operations only in 1986 with flights from Augsburg to <a> D&#x00fc ; sseldorf </a> .
+
+#	NEW	website	........ / it started flying to European holiday destinations for tour operators and added international scheduled services in	// In 1993 it started flying to European holiday destinations for tour operators and added international scheduled services in 1994 , to <a> Florence </a> .
+
+#	NEW	iata	........ / February	// <p> The airline was established and started operations on 23 February 1995 .
+
+382	FALSE	Sibaviatrans::icao	sib / scheduled	
+It operated scheduled and charter passenger and cargo flights from various locations around Russia .
+
+383	TRUE	Sibaviatrans::callsign	sibavia / Krasnoyarsk	
+<p> <strong> Sibaviatrans </strong> ( Joint Stock Company SIAT ) was an <a> airline </a> based in <a> Krasnoyarsk </a> , <a> Russia </a> .
+
+#	NEW	ceased	........ / 2008	// <p> It had suspended operations at the end of September 2008 due to the <a> Air Union </a> collapse . </p>
+
+385	TRUE	Sibaviatrans::founded	23 february 1995 / 1995.	
+<p> The airline was established and started operations on 23 February 1995 .
+
+#	NEW	destinations	........ / 2008 ) :	// <p> Sibaviatrans operated services to the following domestic scheduled destinations ( at September 2008 ) : </p>
+
+#	NEW	parent	........ / operated scheduled	// It operated scheduled and charter passenger and cargo flights from various locations around Russia .
+
+#	NEW	headquarters	........ / around Russia .	// It operated scheduled and charter passenger and cargo flights from various locations around Russia .
+
+#	NEW	key_people	........ / The airline	// <p> The airline was established and started operations on 23 February 1995 .
+
+#	NEW	fleet_size	........ / 23	// <p> The airline was established and started operations on 23 February 1995 .
+
+#	NEW	logo_size	........ / 2008	// <p> It had suspended operations at the end of September 2008 due to the <a> Air Union </a> collapse . </p>
+
+#	NEW	airline	........ / Australian airline	// <p> <strong> Skytrans </strong> is an Australian airline and air charter business with bases in Cairns , Townsville , Darwin , Brisbane and Perth .
+
+393	FALSE	Skytrans Airlines::iata	q6 / by	
+<p> In December 2006 , the airline was acquired from its founders by Australian Aviation Holdings , which also owns <a> Queensland Regional Airlines </a> and <a> Inland Pacific Air </a> .
+
+#	NEW	icao	........ / and	// <p> <strong> Skytrans </strong> is an Australian airline and air charter business with bases in Cairns , Townsville , Darwin , Brisbane and Perth .
+
+395	TRUE	Skytrans Airlines::callsign	skytrans / Darwin	
+<p> <strong> Skytrans </strong> is an Australian airline and air charter business with bases in Cairns , Townsville , Darwin , Brisbane and Perth .
+
+#	NEW	ceased	........ / 2005	// In January 2005 , the airline began to operate in competition with <a> QantasLink </a> on the Cairns &mdash ; Townsville route , operating from its own terminals in both cities . </p>
+
+#	NEW	fleet_size	........ / 2005	// In January 2005 , the airline began to operate in competition with <a> QantasLink </a> on the Cairns &mdash ; Townsville route , operating from its own terminals in both cities . </p>
+
+#	NEW	logo_size	........ / <a>	// <p> In December 2006 , the airline was acquired from its founders by Australian Aviation Holdings , which also owns <a> Queensland Regional Airlines </a> and <a> Inland Pacific Air </a> .
+
+399	FALSE	Skytrans Airlines::parent	australian aviation holdings / Skytrans	
+<p> <strong> Skytrans </strong> is an Australian airline and air charter business with bases in Cairns , Townsville , Darwin , Brisbane and Perth .
+
+#	NEW	key_people	........ / November 2000	// In November 2000 , Skytrans merged with AirSwift Aviation , another small regional airline based in Cairns .
+
+401	TRUE	Continental Airways::airline	continental airways / Continental Airways	
+<p> <strong> Continental Airways </strong> was a scheduled passenger <a> airline </a> based in <a> Moscow </a> , <a> Russia </a> .
+
+#	NEW	icao	........ / International	// It was established in 1995 and operated out of <a> Sheremetyevo International Airport </a> , Moscow , using a fleet of three <a> Tupolev Tu-154 </a> aircraft .
+
+#	NEW	callsign	........ / Continental	// <p> <strong> Continental Airways </strong> was a scheduled passenger <a> airline </a> based in <a> Moscow </a> , <a> Russia </a> .
+
+404	TRUE	Continental Airways::ceased	2007 / 2007	
+In 2007 , Continental Airways was shut down . </p>
+
+405	TRUE	Continental Airways::founded	1995 / 1995	
+It was established in 1995 and operated out of <a> Sheremetyevo International Airport </a> , Moscow , using a fleet of three <a> Tupolev Tu-154 </a> aircraft .
+
+#	NEW	hubs	........ / Sheremetyevo	// It was established in 1995 and operated out of <a> Sheremetyevo International Airport </a> , Moscow , using a fleet of three <a> Tupolev Tu-154 </a> aircraft .
+
+#	NEW	frequent_flyer	........ / left |	// <p> [ [ Image : Continental Airways T154 RA-85847 . jpg | thumb | left | Continental
+
+#	NEW	parent	........ / Continental Airways	// <p> <strong> Continental Airways </strong> was a scheduled passenger <a> airline </a> based in <a> Moscow </a> , <a> Russia </a> .
+
+#	NEW	fleet_size	........ / 154	// It was established in 1995 and operated out of <a> Sheremetyevo International Airport </a> , Moscow , using a fleet of three <a> Tupolev Tu-154 </a> aircraft .
+
+#	NEW	logo_size	........ / 154	// It was established in 1995 and operated out of <a> Sheremetyevo International Airport </a> , Moscow , using a fleet of three <a> Tupolev Tu-154 </a> aircraft .
+
+#	NEW	iata	........ / It	// It also operates regular domestic flights from Moscow and international charter passenger and cargo services . </p>
+
+#	NEW	icao	........ / domestic	// It also operates regular domestic flights from Moscow and international charter passenger and cargo services . </p>
+
+413	TRUE	Gazpromavia::callsign	gazprom / Gazpromavia	
+<p> <strong> Gazpromavia </strong> ( Gazpromavia Aviation ) is an <a> airline </a> based in <a> Moscow </a> , <a> Russia </a> .
+
+#	NEW	ceased	........ / 34	// <p> GAZPROMAVIA operates 34 fix-winged aircraft of the following types : </p>
+
+415	TRUE	Gazpromavia::founded	1995 / 16 April 1995.	
+<p> The airline was established in March 1995 and started operations on 16 April 1995 .
+
+#	NEW	hubs	........ / and	// It also operates regular domestic flights from Moscow and international charter passenger and cargo services . </p>
+
+#	NEW	frequent_flyer	........ / following services :	// <p> Gazpromavia also provides the following services : </p>
+
+#	NEW	parent	........ / also operates	// It also operates regular domestic flights from Moscow and international charter passenger and cargo services . </p>
+
+#	NEW	key_people	........ / provides the	// <p> Gazpromavia also provides the following services : </p>
+
+#	NEW	fleet_size	........ / 16	// <p> The airline was established in March 1995 and started operations on 16 April 1995 .
+
+#	NEW	logo_size	........ / 16	// <p> The airline was established in March 1995 and started operations on 16 April 1995 .
+
+#	NEW	iata	........ / ( at	// <p> Airstars Airways operates freight services to the following international scheduled destinations ( at January 2005 ) : <a> Shijiazhuang </a> and <a> Tianjin </a> . </p>
+
+423	TRUE	Airstars::icao	ase / main	
+Its main base is <a> Domodedovo International Airport </a> , Moscow . </p>
+
+#	NEW	callsign	........ / Ltd	// <p> <strong> Airstars , Ltd </strong> ( ) is a <a> cargo airline </a> based in <a> Moscow </a> , <a> Russia </a> .
+
+#	NEW	ceased	........ / 2005 ) :	// <p> Airstars Airways operates freight services to the following international scheduled destinations ( at January 2005 ) : <a> Shijiazhuang </a> and <a> Tianjin </a> . </p>
+
+426	TRUE	Airstars::founded	2000 / 2000	
+It was established in 2000 and operates cargo services throughout Russia and eastern <a> Europe </a> .
+
+#	NEW	hubs	........ / Domodedovo	// Its main base is <a> Domodedovo International Airport </a> , Moscow . </p>
+
+#	NEW	frequent_flyer	........ / main base	// Its main base is <a> Domodedovo International Airport </a> , Moscow . </p>
+
+#	NEW	destinations	........ / 2005 ) :	// <p> Airstars Airways operates freight services to the following international scheduled destinations ( at January 2005 ) : <a> Shijiazhuang </a> and <a> Tianjin </a> . </p>
+
+#	NEW	parent	........ / was established	// It was established in 2000 and operates cargo services throughout Russia and eastern <a> Europe </a> .
+
+#	NEW	headquarters	........ / Moscow .	// Its main base is <a> Domodedovo International Airport </a> , Moscow . </p>
+
+#	NEW	key_people	........ / main base	// Its main base is <a> Domodedovo International Airport </a> , Moscow . </p>
+
+#	NEW	fleet_size	........ / 2000	// It was established in 2000 and operates cargo services throughout Russia and eastern <a> Europe </a> .
+
+#	NEW	logo_size	........ / 2005 ) :	// <p> Airstars Airways operates freight services to the following international scheduled destinations ( at January 2005 ) : <a> Shijiazhuang </a> and <a> Tianjin </a> . </p>
+
+#	NEW	iata	........ / an	// <p> <strong> Centre-Avia Airlines </strong> is an <a> airline </a> based in <a> Moscow </a> , <a> Russia </a> , operating domestic and international services .
+
+#	NEW	icao	........ / main	// Its main base is <a> Bykovo Airport </a> , Moscow , from where it operates <a> charter flight </a> s .
+
+#	NEW	callsign	........ / Centre-	// <p> <strong> Centre-Avia Airlines </strong> is an <a> airline </a> based in <a> Moscow </a> , <a> Russia </a> , operating domestic and international services .
+
+#	NEW	ceased	........ / 2000	// <p> The airline was established and started operations in 2000 as <strong> Bykovo Avia </strong> , and merged into Centre-Avia in December 1999 .
+
+439	TRUE	Centre-Avia::founded	2000 / 2000	
+<p> The airline was established and started operations in 2000 as <strong> Bykovo Avia </strong> , and merged into Centre-Avia in December 1999 .
+
+#	NEW	hubs	........ / Bykovo	// Its main base is <a> Bykovo Airport </a> , Moscow , from where it operates <a> charter flight </a> s .
+
+#	NEW	frequent_flyer	........ / airline	// The airline is owned by Bykovo Aircraft Repair Plant ( 29 . 4% ) ,
+
+#	NEW	parent	........ / airline was	// <p> The airline was established and started operations in 2000 as <strong> Bykovo Avia </strong> , and merged into Centre-Avia in December 1999 .
+
+#	NEW	headquarters	........ / Moscow	// Its main base is <a> Bykovo Airport </a> , Moscow , from where it operates <a> charter flight </a> s .
+
+#	NEW	key_people	........ / Bykovo Aircraft	// The airline is owned by Bykovo Aircraft Repair Plant ( 29 . 4% ) ,
+
+#	NEW	logo_size	........ / 2007	// <p> As of March 2007 the Centre-Avia Airlines fleet included : ref name=&quot ; FI&quot ; / </p>
+
+446	TRUE	Centre-Avia::airline	centre-avia airlines / operating	
+<p> <strong> Centre-Avia Airlines </strong> is an <a> airline </a> based in <a> Moscow </a> , <a> Russia </a> , operating domestic and international services .
+
+447	FALSE	Centre-Avia::fleet_size	4 / 1999.	
+<p> The airline was established and started operations in 2000 as <strong> Bykovo Avia </strong> , and merged into Centre-Avia in December 1999 .
+
+448	TRUE	Karat (airline)::airline	karat / Air Company	
+<p> The airline was established in 1993 as <strong> Karat Air Company </strong> ( formerly known as <strong> Rikor </strong> ) .
+
+#	NEW	iata	........ / It	// It operates scheduled services from Moscow and charter flights from <a> Kazan </a> , as well as VIP and business aviation services .
+
+#	NEW	icao	........ / main	// Its main base is <a> Vnukovo International Airport </a> , Moscow , with a hub at <a> Kazan International Airport </a> . </p>
+
+#	NEW	callsign	........ / Rikor	// <p> The airline was established in 1993 as <strong> Karat Air Company </strong> ( formerly known as <strong> Rikor </strong> ) .
+
+#	NEW	parent	........ / airline was	// <p> The airline was established in 1993 as <strong> Karat Air Company </strong> ( formerly known as <strong> Rikor </strong> ) .
+
+#	NEW	key_people	........ / The airline	// <p> The airline was established in 1993 as <strong> Karat Air Company </strong> ( formerly known as <strong> Rikor </strong> ) .
+
+#	NEW	fleet_size	........ / 1993	// <p> The airline was established in 1993 as <strong> Karat Air Company </strong> ( formerly known as <strong> Rikor </strong> ) .
+
+#	NEW	website	........ / It operates scheduled services from Moscow and charter flights from	// It operates scheduled services from Moscow and charter flights from <a> Kazan </a> , as well as VIP and business aviation services .
+
+#	NEW	logo_size	........ / 2007	// <p> As of March 2007 the Karat Air fleet includesref name=&quot ; FI&quot ; / : </p>
+
+457	TRUE	UTair Express::airline	utair express / Express	
+<p> <strong> UTair Express </strong> is an <a> airline </a> based in <a> Russia </a> .
+
+458	FALSE	UTair Express::iata	- / by	
+It is planned by <a> UTair Aviation </a> as a new regional division based on and replacing , its subsidiary <a> Komiinteravia </a> . </p>
+
+#	NEW	icao	........ / Russia	// <p> <strong> UTair Express </strong> is an <a> airline </a> based in <a> Russia </a> .
+
+460	FALSE	UTair Express::callsign	- / UTair Express	
+<p> <strong> UTair Express </strong> is an <a> airline </a> based in <a> Russia </a> .
+
+#	NEW	ceased	........ / 2004	// In 2004 UTair gained control of more than 70% of <a> Komiinteravia </a> . </p>
+
+#	NEW	founded	........ / 1997 .	// <p> <a> Komiinteravia </a> was established in March 1996 and started operations in July 1997 .
+
+#	NEW	hubs	........ / airline	// <p> <strong> UTair Express </strong> is an <a> airline </a> based in <a> Russia </a> .
+
+#	NEW	destinations	........ / 1997 .	// <p> <a> Komiinteravia </a> was established in March 1996 and started operations in July 1997 .
+
+#	NEW	parent	........ / Komiinteravia	// <p> <a> Komiinteravia </a> was established in March 1996 and started operations in July 1997 .
+
+#	NEW	headquarters	........ / Russia	// <p> <strong> UTair Express </strong> is an <a> airline </a> based in <a> Russia </a> .
+
+#	NEW	key_people	........ / 2004 UTair	// In 2004 UTair gained control of more than 70% of <a> Komiinteravia </a> . </p>
+
+#	NEW	fleet_size	........ / 1996	// <p> <a> Komiinteravia </a> was established in March 1996 and started operations in July 1997 .
+
+#	NEW	logo_size	........ / <a>	// <p> <strong> UTair Express </strong> is an <a> airline </a> based in <a> Russia </a> .
+
+#	NEW	iata	........ / by	// SpiceJet was voted as the best low-cost airline in <a> South Asia </a> and <a> Central Asia </a> region by <a> Skytrax </a> in 2007 . </p>
+
+#	NEW	icao	........ / India	// <p> <strong> SpiceJet </strong> is a <a> low-cost airline </a> headquartered in <a> Gurgaon </a> , <a> India </a> .
+
+472	TRUE	SpiceJet::callsign	spicejet / SpiceJet	
+<p> <strong> SpiceJet </strong> is a <a> low-cost airline </a> headquartered in <a> Gurgaon </a> , <a> India </a> .
+
+#	NEW	ceased	........ / 2008	// <p> On 15 July 2008 Billionaire <a> Wilbur Ross </a> suggested he would invest in the low cost airline .
+
+#	NEW	founded	........ / is	// <p> <strong> SpiceJet </strong> is a <a> low-cost airline </a> headquartered in <a> Gurgaon </a> , <a> India </a> .
+
+#	NEW	hubs	........ / Delhi	// But just 15 minutes after take-off , the aircraft had to make an emergency landing at <a> Delhi Airport </a> after the pilot reported a fall in cabin pressure .
+
+#	NEW	frequent_flyer	........ / great guest	// Their marketing theme &quot ; offering low ' everyday spicy fares ' and great guest services to price conscious travelers .
+
+#	NEW	destinations	........ / 2007 .	// SpiceJet was voted as the best low-cost airline in <a> South Asia </a> and <a> Central Asia </a> region by <a> Skytrax </a> in 2007 . </p>
+
+#	NEW	parent	........ / Kalanidhi Maran	// <p> Indian media baron <a> Kalanidhi Maran </a> acquired a major stake ( 37 . 7% ) in this airline on June 2010 .
+
+#	NEW	headquarters	........ / ModiLuft	// <p> SpiceJet , India ' s leading low cost airline , is a reincarnation of <a> ModiLuft </a> .
+
+#	NEW	key_people	........ / Indian media	// <p> Indian media baron <a> Kalanidhi Maran </a> acquired a major stake ( 37 . 7% ) in this airline on June 2010 .
+
+#	NEW	website	........ / This deal was followed it up with a 999 promotional scheme on select routes .	// <p> This deal was followed it up with a 999 promotional scheme on select routes .
+
+#	NEW	fleet_size	........ / 2007 .	// SpiceJet was voted as the best low-cost airline in <a> South Asia </a> and <a> Central Asia </a> region by <a> Skytrax </a> in 2007 . </p>
+
+483	FALSE	SpiceJet::logo_size	200 / </	
+center / center br Each aircraft in the SpiceJet fleet is named after a spice : </p>
+
+#	NEW	airline	........ / ATR 42	// <p> <strong> <a> ATR 42 </a> </strong> </p>
+
+#	NEW	icao	........ / City	// <p> <strong> TAESA </strong> ( <strong> Transportes A&#x00e9 ; reos Ejecutivos </strong> ) was a low cost <a> airline </a> with its headquarters in No . 27 of Hangar Zone C on the grounds of <a> Mexico City International Airport </a> in <a> Mexico City </a> , <a> Mexico </a> .
+
+#	NEW	callsign	........ / ATR	// <p> <strong> <a> ATR 42 </a> </strong> </p>
+
+487	FALSE	TAESA::founded	1988 / the	
+<p> Some of the staff and assets were taken over and <a> L&#x00ed ; neas A&#x00e9 ; reas Azteca </a> was established on 9 May 2000 and started operations on 1 June 2001 operating domestic services with <a> Boeing 737 </a> aircraft . </p>
+
+#	NEW	hubs	........ / Uruapan	// On November 9 , 1999 , flight 725 went down a few minutes after leaving the <a> Uruapan International Airport </a> en-route to <a> Mexico City </a> .
+
+#	NEW	parent	........ / main carriers	// In the domestic Market , TAESA started a fare war with the main carriers , AeroMexico and Mexicana . </p>
+
+#	NEW	headquarters	........ / States :	// <p> <strong> Airports served in the United States : </strong> </p>
+
+#	NEW	key_people	........ / <strong> Airports	// <p> <strong> Airports served in the United States : </strong> </p>
+
+492	TRUE	TAESA::ceased	2000 / 737	
+<p> Some of the staff and assets were taken over and <a> L&#x00ed ; neas A&#x00e9 ; reas Azteca </a> was established on 9 May 2000 and started operations on 1 June 2001 operating domestic services with <a> Boeing 737 </a> aircraft . </p>
+
+#	NEW	destinations	........ / 737	// <p> Some of the staff and assets were taken over and <a> L&#x00ed ; neas A&#x00e9 ; reas Azteca </a> was established on 9 May 2000 and started operations on 1 June 2001 operating domestic services with <a> Boeing 737 </a> aircraft . </p>
+
+#	NEW	fleet_size	........ / 9	// <p> Some of the staff and assets were taken over and <a> L&#x00ed ; neas A&#x00e9 ; reas Azteca </a> was established on 9 May 2000 and started operations on 1 June 2001 operating domestic services with <a> Boeing 737 </a> aircraft . </p>
+
+#	NEW	logo_size	........ / 737	// <p> Some of the staff and assets were taken over and <a> L&#x00ed ; neas A&#x00e9 ; reas Azteca </a> was established on 9 May 2000 and started operations on 1 June 2001 operating domestic services with <a> Boeing 737 </a> aircraft . </p>
+
+#	NEW	airline	........ / Germany	// <strong> Germania Fluggesellschaft mbH </strong> , operating as <strong> Germania </strong> is an <a> airline </a> with its headquarters in <a> Berlin </a> , <a> Germany </a> .
+
+#	NEW	iata	........ / It	// It operates scheduled and chartered flights and <a> aircraft lease </a> services .
+
+#	NEW	icao	........ / aircraft	// It operates scheduled and chartered flights and <a> aircraft lease </a> services .
+
+#	NEW	callsign	........ / Germany	// <strong> Germania Fluggesellschaft mbH </strong> , operating as <strong> Germania </strong> is an <a> airline </a> with its headquarters in <a> Berlin </a> , <a> Germany </a> .
+
+#	NEW	ceased	........ / 2008 .	// ( 2005 ) brGermania operated Fokker 100 aircraft between 2003 and 2008 . ] ]
+
+#	NEW	frequent_flyer	........ / IATA code &	// Germania Express has adopted the IATA code &quot ; ST&quot ; which was previously used by Yanda Airlines . </p>
+
+#	NEW	fleet_size	........ / 5	// ( 2007 ) ] ] The airline was founded in April 1978 as <strong> Special Air Transport </strong> ( <strong> SAT </strong> ) in <a> Cologne </a> and started operations on 5 Sep 1978 .
+
+#	NEW	hubs	........ / Tegel	// From its bases at <a> Berlin Tegel Airport </a> and <a> D&#x00fc ; sseldorf Airport </a> , scheduled flights to <a> Turkey </a> , <a> Kosovo </a> <a> Syria </a> and <a> Lebanon </a> are offered , aiming at the ethnic minorities living in Germany .
+
+#	NEW	logo_size	........ / 5	// ( 2007 ) ] ] The airline was founded in April 1978 as <strong> Special Air Transport </strong> ( <strong> SAT </strong> ) in <a> Cologne </a> and started operations on 5 Sep 1978 .
+
+#	NEW	parent	........ / other hand	// Germania on the other hand , with all aircraft having been leased to other airlines , no longer offered routes directly to passengers .
+
+#	NEW	key_people	........ / Yanda Airlines .	// Germania Express has adopted the IATA code &quot ; ST&quot ; which was previously used by Yanda Airlines . </p>
+
+#	null	founded	october 1990 / ..........
+
+#	null	airline	spicejet / ..........
+
+#	null	airline	usa jet airlines / ..........
+
+#	null	airline	avies / ..........
+
+#	null	airline	copenhagen air taxi / ..........
+
+#	null	destinations	2 / ..........
+
+#	null	iata	- / ..........
+
+#	null	iata	ym / ..........
+
+#	null	founded	1947 / ..........
+
+#	null	key_people	bryan grey / ..........
+
+#	null	iata	- / ..........
+
+#	null	iata	ag / ..........
+
+#	null	destinations	- / ..........
+
+#	null	airline	eirjet / ..........
+
+#	null	airline	italy first / ..........
+
+#	null	founded	1999 / ..........
+
+#	null	airline	livingston / ..........
+
+#	null	airline	medavia / ..........
+
+#	null	destinations	2 / ..........
+
+#	null	airline	eurolot / ..........
+
+#	null	airline	euroatlantic airways / ..........
+
+#	null	founded	1993 / ..........
+
+#	null	airline	gazpromavia / ..........
+
+#	null	founded	1993 / ..........
+
+#	null	airline	sibaviatrans / ..........
+
+#	null	destinations	chartered / ..........
+

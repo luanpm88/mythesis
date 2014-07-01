@@ -1,0 +1,80 @@
+Found: 27
+Found Not Null: 4
+Correct: 1
+Wrong: 3
+Total: 10
+precision: 0.25
+recall: 0.1
+
+
+
+#	NEW	iata	........ / It	// It operated domestic and international cargo charters from <a> Yekaterinburg </a> to destinations within the <a> CIS </a> , Western <a> Europe </a> , <a> China </a> and the <a> United Arab Emirates </a> .
+
+1	TRUE	Astar Air Cargo::iata	er / It	
+It operates regularly scheduled cargo charter services to over 34 US airports and nine international airports , as well as worldwide charter freight services .
+
+#	NEW	iata	........ / US	// It is the largest United States <a> FAA </a> <a> Part 135 </a> cargo carrier , operating scheduled and contract cargo services to destinations in 30 US states , <a> Canada </a> , <a> Mexico </a> , and the <a> Caribbean </a> .
+
+#	NEW	iata	........ / at	// <p> <strong> <a> Crossair </a> Flight LX 3597 </strong> was an <a> Avro RJ100 </a> regional airliner , registration HB-IXM , on a scheduled flight from Berlin , Germany to <a> Zurich </a> , Switzerland that crashed during its approach to land at <a> Zurich International Airport </a> on November 24 , 2001 .
+
+#	NEW	iata	........ / At	// At that time , with permission of Transport Canada , the company , which had given up its <a> Air Operator Certificate </a> , had obtained the services of other aircraft to cover the flights .
+
+#	NEW	iata	........ / National	// The flight crew were under the impression that all four engines had flamed out , but the <a> National Transportation Safety Board </a> believes only engine No . 4 had failed .
+
+#	NEW	iata	........ / It	// It operates international cargo charters in the Americas .
+
+#	NEW	iata	........ / It	// It operates charter and air taxi services in <a> CIS </a> , <a> Europe </a> and <a> Asia </a> .
+
+8	FALSE	BritishJET::iata	- / It	
+It operated inclusive tour charter flights from <a> Malta International Airport </a> .
+
+#	NEW	iata	........ / It	// It operates regional <a> air charter </a> services in addition to maintenance and <a> aircraft ground handling </a> . </p>
+
+#	NEW	iata	........ / It	// It was established and started operations in 1997 and operates domestic private charter services .
+
+11	FALSE	Aviavilsa::iata	- / It	
+It was established in <a> 1998 </a> and started operations in <a> 1999 </a> and operates scheduled and charter cargo services .
+
+#	NEW	iata	........ / It	// It operates scheduled and charter cargo services throughout Russia and the <a> CIS </a> .
+
+#	NEW	iata	........ / it	// Established in 2000 , it operates regional scheduled and charter services on behalf of its owner , the <a> Irkut Corporation </a> aircraft repair factory . </p>
+
+#	NEW	iata	........ / It	// It was established in 1986 and operates regional passenger and cargo services , as well as cargo charters . </p>
+
+#	NEW	iata	........ / an	// It held an <a> AOC </a> as commercial operator of scheduled and chartered flights for both passengers and cargo , specializing on operating chartered flights on behalf of other airlines , including aircraft leases .
+
+#	NEW	iata	........ / It	// It operated scheduled , charter passenger and cargo services , as well as supplying aviation fuel , ground services and aircraft maintenance and repair .
+
+#	NEW	iata	........ / it	// On 1 March 2004 , due to rising fuel costs , the airline announced it was ending all operations within a week . ref
+
+#	NEW	iata	........ / by	// b ) As underlying factor in the accident was the failure of SLM ' s ( Surinam Airways ) operational management to observe the pertinent regulations as well as the procedures prescribed in the SLM Operations Manual concerning qualification and certification during recruitment and employment of the crew members furnished by ACI . &quot ; </p>
+
+#	NEW	iata	........ / It	// It operated domestic scheduled services within Spain , as well as <a> charter </a> and <a> ACMI </a> operations all over Europe .
+
+#	NEW	iata	........ / At	// At that time Rico operated 23 <a> Douglas DC-3 </a> s being the largest private operator of this type of aircraft in the world .
+
+21	FALSE	Aeronáutica (Angola)::iata	- / an	
+<p> <strong> Aeron&#x00e1 ; utica </strong> ( also known as <strong> Gira Globo Aeron&#x00e1 ; utica </strong> after its parent company ) is an <a> airline </a> based in <a> Luanda </a> , <a> Angola </a> , operating domestic chartered freight and passenger flights out of <a> Quatro de Fevereiro Airport </a> , Luanda . </p>
+
+#	NEW	iata	........ / S7	// <p> AiRUnion was competing with <a> S7 Airlines </a> to become the second largest domestic carrier in Russia in 2007 , after <a> Aeroflot </a> .
+
+#	NEW	iata	........ / It	// It was established in 2002 and ceased operations again in 2004 . </p>
+
+#	NEW	iata	........ / It	// It operated scheduled and charter flights within the <a> Caribbean </a> and to <a> Miami </a> in the <a> USA </a> . </p>
+
+#	NEW	iata	........ / It	// It ceased operations in 2004 . </p>
+
+#	NEW	iata	........ / by	// The <a> Douglas Aircraft </a> <a> DC-9-14 </a> was operated by <a> Continental Airlines </a> and was a scheduled flight to <a> Boise , Idaho </a> .
+
+#	null	iata	fq / ..........
+
+#	null	iata	ch / ..........
+
+#	null	iata	- / ..........
+
+#	null	iata	- / ..........
+
+#	null	iata	af / ..........
+
+#	null	iata	ta / ..........
+

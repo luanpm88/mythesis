@@ -1,0 +1,22 @@
+Found: 7
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	birthdate	........ / ( April 12 , 1943 &#x2013 ; May 28 , 1987 )	// <p> <strong> Charles Braun Ludlam </strong> ( April 12 , 1943 &#x2013 ; May 28 , 1987 ) was an <a> American </a> actor , director , and playwright . </p>
+
+#	NEW	birthdate	........ / ( April 2 , 1908 &	// <p> <strong> Buddy Ebsen </strong> ( April 2 , 1908 &ndash ; July 6 , 2003 ) was an American <a> character actor </a> and dancer .
+
+#	NEW	birthdate	........ / 27 , 1949 ) is an American actress , singer , and writer .	// <p> <strong> Debra Monk </strong> ( born February 27 , 1949 ) is an American actress , singer , and writer . </p>
+
+#	NEW	birthdate	........ / 4 April 1960 )	// <p> <strong> Hugo Wallace Weaving </strong> ( born 4 April 1960 ) is a Nigerian-born <a> British </a> - <a> Australia </a> n film and stage actor .
+
+#	NEW	birthdate	........ / ( 2 January 1884 &#x2013 ; 25	// <p> <strong> Oscar Devereaux Micheaux </strong> ( 2 January 1884 &#x2013 ; 25 March 1951 ) was an American <a> author </a> , film <a> director </a> and independent producer of more than 44 films .
+
+#	NEW	birthdate	........ / 1939 )	// <p> <strong> Samantha Eggar </strong> ( born 5 March 1939 ) is an <a> English </a> actress . </p>
+
+#	NEW	birthdate	........ / April 19 , 1979 )	// <p> <strong> Kate Garry Hudson </strong> ( born April 19 , 1979 ) is an American actress .
+

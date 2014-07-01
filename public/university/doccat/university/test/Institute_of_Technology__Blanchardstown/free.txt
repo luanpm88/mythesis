@@ -1,4 +1,0 @@
-<li>Department of Business</li>
-<li>Department of Humanities</li>
-<li>Department of Computing</li>
-<li>Department of Engineering</li>

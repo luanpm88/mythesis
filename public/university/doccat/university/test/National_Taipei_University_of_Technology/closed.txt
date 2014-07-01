@@ -1,3 +1,0 @@
-<h3>College of Electric Engineering and Computer Science</h3>
-<li>Dept. of Computer Science and Information Engineering</li>
-<li>Dept. of Molecular Science and Engineering</li>

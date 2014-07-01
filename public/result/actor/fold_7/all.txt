@@ -1,0 +1,451 @@
+Total articles: 312
+Articles for test: 281
+Articles for train: 31
+Total attributes: 64
+Attributes with high occurrences: 13/64
+
+------------
+Found: 189
+Found Not Null: 32
+Correct: 18
+Wrong: 14
+Total: 44
+precision: 0.5625
+recall: 0.4090909090909091
+
+
+
+#	NEW	caption	........ / family	// She has three daughters with Connick : Georgia Tatom ( born April 17 , 1996 ) , Sarah Kate ( September 12 , 1997 ) , and Charlotte ( born June 26 , 2002 ) The family currently resides in Connecticut . </p>
+
+1	TRUE	Jill Goodacre::birth_name	jill goodacre / Jill Goodacre Connick	
+<p> <strong> Jill Goodacre Connick </strong> ( born March 29 , 1965 in <a> Lubbock </a> , <a> Texas </a> ) is an <a> American </a> actress and former <a> model </a> .
+
+#	NEW	birth_date	........ / April 17 , 1996 )	// She has three daughters with Connick : Georgia Tatom ( born April 17 , 1996 ) , Sarah Kate ( September 12 , 1997 ) , and Charlotte ( born June 26 , 2002 ) The family currently resides in Connecticut . </p>
+
+#	NEW	occupation	........ / actress	// <p> <strong> Jill Goodacre Connick </strong> ( born March 29 , 1965 in <a> Lubbock </a> , <a> Texas </a> ) is an <a> American </a> actress and former <a> model </a> .
+
+#	NEW	death_place	........ / New York Big	// <p> She directed one of Harry Connick , Jr . ' s live performance videos ( <a> The New York Big Band Concert </a> ) in 1992 .
+
+#	NEW	birthplace	........ / Victoria ' s Secret	// She was one of <a> Victoria ' s Secret </a> main models in the 1980s and early 1990s .
+
+6	TRUE	Jill Goodacre::name	jill goodacre connick / is an	
+<p> <strong> Jill Goodacre Connick </strong> ( born March 29 , 1965 in <a> Lubbock </a> , <a> Texas </a> ) is an <a> American </a> actress and former <a> model </a> .
+
+#	NEW	death_date	........ / model	// <p> <strong> Jill Goodacre Connick </strong> ( born March 29 , 1965 in <a> Lubbock </a> , <a> Texas </a> ) is an <a> American </a> actress and former <a> model </a> .
+
+#	NEW	birthname	........ / actress and former	// <p> <strong> Jill Goodacre Connick </strong> ( born March 29 , 1965 in <a> Lubbock </a> , <a> Texas </a> ) is an <a> American </a> actress and former <a> model </a> .
+
+9	TRUE	Robert Blake (actor)::name	robert blake / Robert Blake	
+<p> <strong> Robert Blake </strong> ( b .
+
+#	NEW	caption	........ / he	// <p> According to Blake , he had an unhappy childhood with a miserable home life and was abused by his alcoholic father .
+
+11	FALSE	Robert Blake (actor)::birth_name	michael james vincenzo gubitosi / actor who starred	
+September 18 , 1933 ) is an <a> American </a> actor who starred in the film <em> <a> In Cold Blood </a> </em> and the U . S . <a> television series </a> <em> <a> Baretta </a> </em> .
+
+#	NEW	death_date	........ / strong>	// <p> <strong> Robert Blake </strong> ( b .
+
+#	NEW	birthname	........ / were married in	// <p> He and actress <a> Sondra Kerr </a> were married in 1961 and divorced in 1983 .
+
+#	NEW	name	........ / William Roache	// <p> <strong> Linus William Roache </strong> ( born 1 February 1964 ) is an <a> English </a> <a> actor </a> . </p>
+
+15	TRUE	Linus Roache::birth_name	linus william roache / Linus William Roache	
+<p> <strong> Linus William Roache </strong> ( born 1 February 1964 ) is an <a> English </a> <a> actor </a> . </p>
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Linus William Roache </strong> ( born 1 February 1964 ) is an <a> English </a> <a> actor </a> . </p>
+
+#	NEW	caption	........ / it	// <p> In June 2010 , it was announced that he would return to play Lawrence Cunningham , alongside his father <a> William Roache </a> , in <em> <a> Coronation Street </a> </em> . </p>
+
+#	NEW	birthname	........ / Linus William Roache	// <p> <strong> Linus William Roache </strong> ( born 1 February 1964 ) is an <a> English </a> <a> actor </a> . </p>
+
+#	NEW	caption	........ / Eddie	// On October 10 , 1964 in <a> Beverly Hills , California </a> , Eddie Cantor suffered another <a> heart attack </a> and died , aged 72 .
+
+20	FALSE	Eddie Cantor::birth_name	edward israel iskowitz / and <a> songwriter	
+<p> <strong> Eddie Cantor </strong> ( January 31 , 1892 &#x2013 ; October 10 , 1964 ) was an <a> American </a> &quot ; <a> illustrated song </a> &quot ; performer , <a> comedian </a> , <a> dancer </a> , <a> singer </a> , <a> actor </a> and <a> songwriter </a> .
+
+#	NEW	death_place	........ / New York ' s	// He made his first public appearance in <a> Vaudeville </a> in 1907 at New York ' s Clinton Music Hall .
+
+#	NEW	birthplace	........ / Florenz Ziegfeld Jr .	// Esther died on January 29 , 1917 , two days before he signed a long-term contract with <a> Florenz Ziegfeld Jr . </a> to appear in his <em> Follies </em> . </p>
+
+#	NEW	birthname	........ / Edward Israel Iskowitz	// <p> Cantor was born <strong> Edward Israel Iskowitz </strong> in <a> New York City </a> , the son of <a> Russian </a> - <a> Jewish </a> immigrants , Meta and Mechel Iskowitz .
+
+#	NEW	birth_date	........ / George	// <a> George Burns </a> , in his memoir <em> All My Best Friends </em> , claimed that Warner Bros . created a miracle producing the movie in that &quot ; it made Eddie Cantor ' s life boring&quot ; . </p>
+
+#	NEW	death_date	........ / songwriter	// <p> <strong> Eddie Cantor </strong> ( January 31 , 1892 &#x2013 ; October 10 , 1964 ) was an <a> American </a> &quot ; <a> illustrated song </a> &quot ; performer , <a> comedian </a> , <a> dancer </a> , <a> singer </a> , <a> actor </a> and <a> songwriter </a> .
+
+26	FALSE	Rebecca Romijn::name	rebecca romijn / fashion model	
+<p> <strong> Rebecca Alie Romijn </strong> ( , ; born November 6 , 1972 ) is a <a> Dutch American </a> <a> actress </a> and former <a> fashion model </a> .
+
+#	NEW	caption	........ / Romijn	// <p> Among other jobs , Romijn started her modeling career in 1991 .
+
+#	NEW	birth_name	........ / She married actor <a> John Stamos	// <p> She married actor <a> John Stamos </a> on September 19 , 1998 .
+
+#	NEW	birth_date	........ / She	// <p> She married actor <a> John Stamos </a> on September 19 , 1998 .
+
+#	NEW	death_date	........ / fashion	// <p> <strong> Rebecca Alie Romijn </strong> ( , ; born November 6 , 1972 ) is a <a> Dutch American </a> <a> actress </a> and former <a> fashion model </a> .
+
+#	NEW	birthplace	........ / personal and professional	// During her marriage , she used the name <strong> Rebecca Romijn-Stamos </strong> in both her personal and professional life .
+
+#	NEW	birthname	........ / fashion model	// <p> <strong> Rebecca Alie Romijn </strong> ( , ; born November 6 , 1972 ) is a <a> Dutch American </a> <a> actress </a> and former <a> fashion model </a> .
+
+33	TRUE	Melanie Chartoff::name	melanie chartoff / Melanie Chartoff	
+<p> <strong> Melanie Chartoff </strong> ( born December 15 , 1950 ) is an <a> American </a> actress .
+
+#	NEW	birth_name	........ / is an <a> American	// <p> <strong> Melanie Chartoff </strong> ( born December 15 , 1950 ) is an <a> American </a> actress .
+
+#	NEW	occupation	........ / actress	// <p> Chartoff has continued her work as an in-demand voice actress , and also takes occasional TV and stage roles .
+
+#	NEW	death_date	........ / a>	// <p> <strong> Melanie Chartoff </strong> ( born December 15 , 1950 ) is an <a> American </a> actress .
+
+#	NEW	birthname	........ / is an	// <p> <strong> Melanie Chartoff </strong> ( born December 15 , 1950 ) is an <a> American </a> actress .
+
+#	NEW	birthdate	........ / 15 , 1950 )	// <p> <strong> Melanie Chartoff </strong> ( born December 15 , 1950 ) is an <a> American </a> actress .
+
+#	NEW	caption	........ / Sadler	// <p> Sadler was born in <a> Ascot </a> , <a> Berkshire </a> , and took up television acting as a young girl .
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Laura Ruth Sadler </strong> ( 25 December 1980 &ndash ; 19 June 2003 ) was an English <a> actress </a> best known for her role as nurse <a> Sandy Harper </a> in the <a> BBC One </a> <a> hospital </a> <a> drama </a> series <em> <a> Holby City </a> </em> . </p>
+
+#	NEW	occupation	........ / actress .	// After the play had finished Hoffman asked to meet the young actress .
+
+#	NEW	birthplace	........ / meet the young	// After the play had finished Hoffman asked to meet the young actress .
+
+#	NEW	name	........ / Holby City	// <p> <strong> Laura Ruth Sadler </strong> ( 25 December 1980 &ndash ; 19 June 2003 ) was an English <a> actress </a> best known for her role as nurse <a> Sandy Harper </a> in the <a> BBC One </a> <a> hospital </a> <a> drama </a> series <em> <a> Holby City </a> </em> . </p>
+
+#	NEW	birthname	........ / the play had finished Hoffman asked	// After the play had finished Hoffman asked to meet the young actress .
+
+45	TRUE	Laura Sadler::birth_name	laura ruth sadler / Laura Ruth Sadler	
+<p> <strong> Laura Ruth Sadler </strong> ( 25 December 1980 &ndash ; 19 June 2003 ) was an English <a> actress </a> best known for her role as nurse <a> Sandy Harper </a> in the <a> BBC One </a> <a> hospital </a> <a> drama </a> series <em> <a> Holby City </a> </em> . </p>
+
+#	NEW	name	........ / le Liljeberg	// <p> <strong> Rebecka M&#x00e5 ; nstr&#x00e5 ; le Liljeberg </strong> ( born May 13 , 1981 ) is a Swedish actress . </p>
+
+#	NEW	caption	........ / and	// They have three children : Harry Teodor , born in June 2002 , Vera , born on January 1 , 2005 and Kerstin born June 2009 .
+
+#	NEW	birth_name	........ / have three children : Harry Teodor	// They have three children : Harry Teodor , born in June 2002 , Vera , born on January 1 , 2005 and Kerstin born June 2009 .
+
+#	NEW	death_date	........ / May 13 , 1981 )	// <p> <strong> Rebecka M&#x00e5 ; nstr&#x00e5 ; le Liljeberg </strong> ( born May 13 , 1981 ) is a Swedish actress . </p>
+
+#	NEW	birthplace	........ / a Swedish actress .	// <p> <strong> Rebecka M&#x00e5 ; nstr&#x00e5 ; le Liljeberg </strong> ( born May 13 , 1981 ) is a Swedish actress . </p>
+
+#	NEW	birthname	........ / is a Swedish actress .	// <p> <strong> Rebecka M&#x00e5 ; nstr&#x00e5 ; le Liljeberg </strong> ( born May 13 , 1981 ) is a Swedish actress . </p>
+
+#	NEW	name	........ / Marcia Lynne &	// <p> <strong> Marcia Lynne &quot ; Marcheline&quot ; Bertrand </strong> , and a sister , Debbie Bertrand .
+
+#	NEW	birth_name	........ / the executive producer of a documentary <em> Trudell	// She was the executive producer of a documentary <em> Trudell </em> , about Native American activist <a> John Trudell </a> .
+
+#	NEW	death_date	........ / Marcia	// <p> <strong> Marcia Lynne &quot ; Marcheline&quot ; Bertrand </strong> , and a sister , Debbie Bertrand .
+
+#	NEW	birthname	........ / during her early years	// <p> Bertrand studied with <a> Lee Strasberg </a> during her early years as an actress .
+
+#	NEW	birthplace	........ / sister , Debbie	// <p> <strong> Marcia Lynne &quot ; Marcheline&quot ; Bertrand </strong> , and a sister , Debbie Bertrand .
+
+57	FALSE	Sam Mendes::name	sam mendes / Samuel Alexander &	
+<p> <strong> Samuel Alexander &quot ; Sam&quot ; Mendes </strong> , <a> CBE </a> ( born 1 August 1965 ) is an English stage and film director .
+
+#	NEW	caption	........ / boredom and	// The film focused on the boredom and other psychological challenges of wartime , instead of being a traditional combat-action film . </p>
+
+#	NEW	birth_name	........ / debut film <em> <a> American Beauty	// His debut film <em> <a> American Beauty </a> </em> ( 1999 ) earned him an <a> Academy Award for Best Director </a> . </p>
+
+#	NEW	death_date	........ / is	// <p> <strong> Samuel Alexander &quot ; Sam&quot ; Mendes </strong> , <a> CBE </a> ( born 1 August 1965 ) is an English stage and film director .
+
+#	NEW	birthplace	........ / stage and film	// <p> <strong> Samuel Alexander &quot ; Sam&quot ; Mendes </strong> , <a> CBE </a> ( born 1 August 1965 ) is an English stage and film director .
+
+#	NEW	birthname	........ / Academy Award for Best Director	// His debut film <em> <a> American Beauty </a> </em> ( 1999 ) earned him an <a> Academy Award for Best Director </a> . </p>
+
+#	NEW	name	........ / Jonathan Lee	// <p> <strong> Jonathan Lee </strong> &quot ; <strong> Jonny Lee </strong> &quot ; <strong> Miller </strong> ( born 15 November 1972 ) is an <a> English </a> <a> actor </a> .
+
+#	NEW	birth_date	........ / a> , Fall 2006 ) .	// He worked on the US television series <em> <a> Smith </a> </em> ( <a> CBS </a> , Fall 2006 ) .
+
+#	NEW	death_date	........ / actor	// <p> <strong> Jonathan Lee </strong> &quot ; <strong> Jonny Lee </strong> &quot ; <strong> Miller </strong> ( born 15 November 1972 ) is an <a> English </a> <a> actor </a> .
+
+#	NEW	birthname	........ / November 1972 ) is an	// <p> <strong> Jonathan Lee </strong> &quot ; <strong> Jonny Lee </strong> &quot ; <strong> Miller </strong> ( born 15 November 1972 ) is an <a> English </a> <a> actor </a> .
+
+#	NEW	caption	........ / he	// In 1997 , he played Billy Prior in the film adaptation of <a> Pat Barker </a> ' s <a> World War I </a> novel , <em> <a> Regeneration </a> </em> , and in <a> 2000 </a> he played the role of Cameron Colley in <em> <a> Complicity </a> </em> ( video title <em> Retribution </em> ) , based on the book by <a> Iain Banks </a> .
+
+#	NEW	birth_name	........ / worked on the US television series	// He worked on the US television series <em> <a> Smith </a> </em> ( <a> CBS </a> , Fall 2006 ) .
+
+69	TRUE	Keith Coogan::name	keith coogan / Keith Coogan	
+<p> <strong> Keith Coogan </strong> ( born January 13 , 1970 ) is an <a> American </a> actor .
+
+70	FALSE	Keith Coogan::birth_name	keith eric mitchell / is an <a> American	
+<p> <strong> Keith Coogan </strong> ( born January 13 , 1970 ) is an <a> American </a> actor .
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Keith Coogan </strong> ( born January 13 , 1970 ) is an <a> American </a> actor .
+
+72	TRUE	Keith Coogan::occupation	actor / actor.	
+<p> <strong> Keith Coogan </strong> ( born January 13 , 1970 ) is an <a> American </a> actor .
+
+#	NEW	death_date	........ / a>	// <p> <strong> Keith Coogan </strong> ( born January 13 , 1970 ) is an <a> American </a> actor .
+
+#	NEW	birthdate	........ / 13 , 1970 )	// <p> <strong> Keith Coogan </strong> ( born January 13 , 1970 ) is an <a> American </a> actor .
+
+#	NEW	birthname	........ / is an	// <p> <strong> Keith Coogan </strong> ( born January 13 , 1970 ) is an <a> American </a> actor .
+
+#	NEW	birth_date	........ / em>	// She achieved prominence for her <a> Oscar </a> and <a> Golden Globe </a> -nominated role in <em> <a> The Color of Money </a> </em> opposite <a> Paul Newman </a> and <a> Tom Cruise </a> .
+
+#	NEW	death_date	........ / West	// She also starred in <em> <a> Grand Hotel </a> </em> at the <a> Donmar Warehouse </a> in <a> London </a> ' s <a> West End </a> .
+
+#	NEW	birthplace	........ / The January Man ,	// <p> Mastrantonio has been married to director <a> Pat O ' Connor </a> , who helmed <em> The January Man </em> , since 1990 .
+
+79	TRUE	Mary Elizabeth Mastrantonio::name	mary elizabeth mastrantonio / Robin Hood :	
+<p> <strong> Mary Elizabeth Mastrantonio </strong> ( born November 17 , 1958 ) is an <a> American </a> actress and singer known for her role as Carmen in <em> <a> The Color of Money </a> </em> , as well as for her roles as Lindsey Brigman in <em> <a> The Abyss </a> </em> , Gina Montana in <em> <a> Scarface </a> </em> , and <a> Maid Marian </a> in <em> <a> Robin Hood : Prince of Thieves </a> </em> . </p>
+
+#	NEW	birthname	........ / University of Illinois	// She was raised in <a> Oak Park , Illinois </a> and attended the <a> University of Illinois </a> . </p>
+
+#	NEW	birth_name	........ / Mary Elizabeth Mastrantonio	// <p> <strong> Mary Elizabeth Mastrantonio </strong> ( born November 17 , 1958 ) is an <a> American </a> actress and singer known for her role as Carmen in <em> <a> The Color of Money </a> </em> , as well as for her roles as Lindsey Brigman in <em> <a> The Abyss </a> </em> , Gina Montana in <em> <a> Scarface </a> </em> , and <a> Maid Marian </a> in <em> <a> Robin Hood : Prince of Thieves </a> </em> . </p>
+
+#	NEW	name	........ / Richard Hunt	// <p> <strong> Jerry Nelson </strong> ( born July 10 , 1934 ) is an American <a> Muppet </a> <a> puppeteer </a> , known for his wide range of characters , singing abilities , and his frequent partnership with <a> Richard Hunt </a> . </p>
+
+#	NEW	birth_name	........ / is an American	// <p> <strong> Jerry Nelson </strong> ( born July 10 , 1934 ) is an American <a> Muppet </a> <a> puppeteer </a> , known for his wide range of characters , singing abilities , and his frequent partnership with <a> Richard Hunt </a> . </p>
+
+#	NEW	birth_date	........ / When	// <p> When Richard Hunt joined the Muppets in the early 1970s , he was quite young , so Nelson acted as a mentor to him .
+
+#	NEW	death_date	........ / known	// <p> <strong> Jerry Nelson </strong> ( born July 10 , 1934 ) is an American <a> Muppet </a> <a> puppeteer </a> , known for his wide range of characters , singing abilities , and his frequent partnership with <a> Richard Hunt </a> . </p>
+
+#	NEW	birthplace	........ / s first season .	// Her health problems were the reason her father took so much time off <em> The Muppet Show <strong> s first season . </strong> </em> </p>
+
+#	NEW	birthname	........ / known for his wide range of characters	// <p> <strong> Jerry Nelson </strong> ( born July 10 , 1934 ) is an American <a> Muppet </a> <a> puppeteer </a> , known for his wide range of characters , singing abilities , and his frequent partnership with <a> Richard Hunt </a> . </p>
+
+88	FALSE	Telly Savalas::name	telly savalas / four decades.	
+<p> <strong> Aristotelis &quot ; Telly&quot ; Savalas </strong> ( ; January 21 , 1922 <img> January 22 , 1994 ) was an American <a> film </a> and <a> television </a> actor and singer , whose career spanned four decades . </p>
+
+89	FALSE	Telly Savalas::birth_name	aristotelis savalas / Aristotelis & quot ; Telly&quot ; Savalas	
+<p> <strong> Aristotelis &quot ; Telly&quot ; Savalas </strong> ( ; January 21 , 1922 <img> January 22 , 1994 ) was an American <a> film </a> and <a> television </a> actor and singer , whose career spanned four decades . </p>
+
+#	NEW	death_date	........ / actor	// <p> <strong> Aristotelis &quot ; Telly&quot ; Savalas </strong> ( ; January 21 , 1922 <img> January 22 , 1994 ) was an American <a> film </a> and <a> television </a> actor and singer , whose career spanned four decades . </p>
+
+#	NEW	birthname	........ / whose career spanned four decades .	// <p> <strong> Aristotelis &quot ; Telly&quot ; Savalas </strong> ( ; January 21 , 1922 <img> January 22 , 1994 ) was an American <a> film </a> and <a> television </a> actor and singer , whose career spanned four decades . </p>
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Aristotelis &quot ; Telly&quot ; Savalas </strong> ( ; January 21 , 1922 <img> January 22 , 1994 ) was an American <a> film </a> and <a> television </a> actor and singer , whose career spanned four decades . </p>
+
+93	TRUE	Telly Savalas::occupation	actor / actor and singer	
+<p> <strong> Aristotelis &quot ; Telly&quot ; Savalas </strong> ( ; January 21 , 1922 <img> January 22 , 1994 ) was an American <a> film </a> and <a> television </a> actor and singer , whose career spanned four decades . </p>
+
+94	TRUE	John Sessions::name	john sessions / John Sessions	
+<p> <strong> John Gibb Marshall </strong> ( born 11 January 1953 ) , better known by the stage name <strong> John Sessions </strong> , is a <a> Scottish </a> <a> actor </a> and <a> comedian </a> .
+
+#	NEW	caption	........ / He	// <p> He played to his strengths in improvisation and comedy with his one-man stage show <em> Napoleon </em> , which ran in London ' s <a> West End </a> for some time in the mid-1980s .
+
+96	TRUE	John Sessions::birth_name	john gibb marshall / John Gibb Marshall	
+<p> <strong> John Gibb Marshall </strong> ( born 11 January 1953 ) , better known by the stage name <strong> John Sessions </strong> , is a <a> Scottish </a> <a> actor </a> and <a> comedian </a> .
+
+#	NEW	birth_date	........ / In	// <p> In between appearing in regular film and TV roles , Sessions has made appearances on <em> <a> Have I Got News for You </a> </em> and , more recently , as a semi-regular panellist on <em> <a> QI </a> </em> .
+
+#	NEW	occupation	........ / actor	// <p> <strong> John Gibb Marshall </strong> ( born 11 January 1953 ) , better known by the stage name <strong> John Sessions </strong> , is a <a> Scottish </a> <a> actor </a> and <a> comedian </a> .
+
+#	NEW	death_date	........ / comedian	// <p> <strong> John Gibb Marshall </strong> ( born 11 January 1953 ) , better known by the stage name <strong> John Sessions </strong> , is a <a> Scottish </a> <a> actor </a> and <a> comedian </a> .
+
+#	NEW	birthname	........ / John Sessions	// <p> <strong> John Gibb Marshall </strong> ( born 11 January 1953 ) , better known by the stage name <strong> John Sessions </strong> , is a <a> Scottish </a> <a> actor </a> and <a> comedian </a> .
+
+#	NEW	name	........ / Crossing Jordan	// <p> <strong> Jeremiah &quot ; Jerry&quot ; O ' Connell </strong> ( born February 17 , 1974 ) is an American actor , best known for his roles in the TV series <em> <a> Sliders </a> </em> , Andrew Clements in <em> <a> My Secret Identity </a> </em> , Vern Tessio in the film <em> <a> Stand by Me </a> </em> , Charlie Carbone in <em> <a> Kangaroo Jack </a> </em> , and Detective Woody Hoyt on the drama <em> <a> Crossing Jordan </a> </em> .
+
+#	NEW	caption	........ / O '	// <p> In early 2008 , O ' Connell acted in a widely circulated Internet video parody of the leaked <a> Tom Cruise </a> video on <a> Scientology </a> .
+
+#	NEW	birth_name	........ / Jeremiah & quot ; Jerry&quot ; O ' Connell	// <p> <strong> Jeremiah &quot ; Jerry&quot ; O ' Connell </strong> ( born February 17 , 1974 ) is an American actor , best known for his roles in the TV series <em> <a> Sliders </a> </em> , Andrew Clements in <em> <a> My Secret Identity </a> </em> , Vern Tessio in the film <em> <a> Stand by Me </a> </em> , Charlie Carbone in <em> <a> Kangaroo Jack </a> </em> , and Detective Woody Hoyt on the drama <em> <a> Crossing Jordan </a> </em> .
+
+#	NEW	birth_date	........ / p>	// O ' Connell served as executive producer on the film , which starred <a> Katie Holmes </a> and <a> Michael Keaton </a> . </p>
+
+105	FALSE	Jerry O'Connell::occupation	actor / ( also	
+In his Junior year , O ' Connell auditioned for the TV pilot <em> <a> Sliders </a> </em> ( also filmed in Canada ) .
+
+#	NEW	death_date	........ / as &	// <p> Most recently , he appeared in the 2009 <a> thriller </a> film <em> <a> Obsessed </a> </em> as &quot ; Ben&quot ; , the best friend and co-worker of the film ' s <a> protagonist </a> Derek Charles ( <a> Idris Elba </a> ) . </p>
+
+#	NEW	birthname	........ / O ' Connell married actress	// <p> On July 14 , 2007 , O ' Connell married actress and former model <a> Rebecca Romijn </a> near Los Angeles in <a> Calabasas , California </a> . </p>
+
+#	NEW	caption	........ / Born in	// <p> Born in <a> Pittsburgh , Pennsylvania </a> to an <a> Orthodox Jewish </a> family from <a> Russia </a> , Levant moved to <a> New York </a> with his mother , Annie , in 1922 , following the death of his father , Max .
+
+#	NEW	birth_name	........ / and <a> actor	// <p> <strong> Oscar Levant </strong> ( December 27 , 1906 &ndash ; August 14 , 1972 ) was an American <a> pianist </a> , <a> composer </a> , <a> author </a> , <a> comedian </a> , and <a> actor </a> .
+
+#	NEW	birth_date	........ / 1929 to 1948	// From 1929 to 1948 he composed the music for more than twenty movies .
+
+#	NEW	occupation	........ / actor	// <p> <strong> Oscar Levant </strong> ( December 27 , 1906 &ndash ; August 14 , 1972 ) was an American <a> pianist </a> , <a> composer </a> , <a> author </a> , <a> comedian </a> , and <a> actor </a> .
+
+#	NEW	death_date	........ / actor	// <p> <strong> Oscar Levant </strong> ( December 27 , 1906 &ndash ; August 14 , 1972 ) was an American <a> pianist </a> , <a> composer </a> , <a> author </a> , <a> comedian </a> , and <a> actor </a> .
+
+#	NEW	birthplace	........ / they divorced in	// He married actress Barbara Woodell ; they divorced in 1932 . </p>
+
+114	TRUE	Krisse Salminen::name	krisse salminen / television talkshow	
+<p> <strong> Krisse Salminen </strong> ( born <strong> Heidi Kristiina Salminen </strong> May 28 , 1976 in <a> Hollola </a> , <a> Finland </a> ) is a <a> Finnish </a> stand-up comedian and television talkshow hostess .
+
+115	TRUE	Krisse Salminen::birth_name	heidi kristiina salminen / Heidi Kristiina Salminen	
+<p> <strong> Krisse Salminen </strong> ( born <strong> Heidi Kristiina Salminen </strong> May 28 , 1976 in <a> Hollola </a> , <a> Finland </a> ) is a <a> Finnish </a> stand-up comedian and television talkshow hostess .
+
+#	NEW	occupation	........ / Show	// She has had TV shows called <em> Krisse Show </em> and <em> Krisse Road Show </em> . </p>
+
+#	NEW	death_date	........ / stand-	// <p> <strong> Krisse Salminen </strong> ( born <strong> Heidi Kristiina Salminen </strong> May 28 , 1976 in <a> Hollola </a> , <a> Finland </a> ) is a <a> Finnish </a> stand-up comedian and television talkshow hostess .
+
+#	NEW	birthname	........ / stand- up comedian	// <p> <strong> Krisse Salminen </strong> ( born <strong> Heidi Kristiina Salminen </strong> May 28 , 1976 in <a> Hollola </a> , <a> Finland </a> ) is a <a> Finnish </a> stand-up comedian and television talkshow hostess .
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Krisse Salminen </strong> ( born <strong> Heidi Kristiina Salminen </strong> May 28 , 1976 in <a> Hollola </a> , <a> Finland </a> ) is a <a> Finnish </a> stand-up comedian and television talkshow hostess .
+
+#	NEW	name	........ / specializing in	// <p> <strong> Harold Allen Ramis </strong> ( born November 21 , 1944 ) is an <a> American </a> <a> actor </a> , <a> director </a> , and <a> writer </a> , specializing in comedy .
+
+121	TRUE	Harold Ramis::birth_name	harold allen ramis / Harold Allen Ramis	
+<p> <strong> Harold Allen Ramis </strong> ( born November 21 , 1944 ) is an <a> American </a> <a> actor </a> , <a> director </a> , and <a> writer </a> , specializing in comedy .
+
+#	NEW	birth_date	........ / ( 1984 )	// His best-known film acting roles are as <a> Egon Spengler </a> in <em> <a> Ghostbusters </a> </em> ( 1984 ) and Russell Ziskey in <em> <a> Stripes </a> </em> ( 1981 ) ; Ramis also co-wrote both films .
+
+#	NEW	birth_place	........ / shopkeepers who	// <p> Ramis was born in <a> Chicago </a> , <a> Illinois </a> , the son of Ruth ( <a> n&#x00e9 ; e </a> Cokee ) and Nathan Ramis , shopkeepers who owned the store Ace Food &amp ; Liquor Mart on the city ' s far North Side .
+
+#	NEW	death_date	........ / specializing	// <p> <strong> Harold Allen Ramis </strong> ( born November 21 , 1944 ) is an <a> American </a> <a> actor </a> , <a> director </a> , and <a> writer </a> , specializing in comedy .
+
+#	NEW	birthplace	........ / Zeta Beta Tau	// Louis , Missouri </a> , where he was a member of the Alpha Xi chapter of <a> Zeta Beta Tau </a> fraternity .
+
+#	NEW	birthname	........ / specializing in	// <p> <strong> Harold Allen Ramis </strong> ( born November 21 , 1944 ) is an <a> American </a> <a> actor </a> , <a> director </a> , and <a> writer </a> , specializing in comedy .
+
+127	TRUE	Charlie Sheen::name	charlie sheen / Charlie Sheen	
+<p> <strong> Carlos Irwin Estevez </strong> ( born September 3 , 1965 ) , known professionally as <strong> Charlie Sheen </strong> , is an American actor .
+
+128	FALSE	Charlie Sheen::birth_name	carlos irwin estevez / Sheen played himself	
+In 1999 , Sheen played himself in <em> <a> Being John Malkovich </a> </em> .
+
+#	NEW	birth_date	........ / His	// <p> His career also included more comedic films , such as <em> <a> Major League </a> </em> , the <em> <a> Hot Shots ! </a> </em> films , and <em> <a> Scary Movie 3 </a> </em> and <em> <a> 4 </a> </em> .
+
+#	NEW	death_date	........ / September 3 , 1965 )	// <p> <strong> Carlos Irwin Estevez </strong> ( born September 3 , 1965 ) , known professionally as <strong> Charlie Sheen </strong> , is an American actor .
+
+#	NEW	birthname	........ / also involved for a time with former pornographic actress	// He was also involved for a time with former pornographic actress <a> Heather Hunter </a> . </p>
+
+#	NEW	birthdate	........ / 9 , 2004 )	// They have two daughters , Sam J . Sheen ( born March 9 , 2004 ) and Lola Rose Sheen ( born June 1 , 2005 ) .
+
+#	NEW	birthplace	........ / is an American	// <p> <strong> Carlos Irwin Estevez </strong> ( born September 3 , 1965 ) , known professionally as <strong> Charlie Sheen </strong> , is an American actor .
+
+#	NEW	name	........ / Alexander Medawar &	// <p> <strong> Alexander Medawar &quot ; Alex&quot ; Garland </strong> ( born 1970 ) is a British <a> novelist </a> and screenwriter . </p>
+
+#	NEW	birth_name	........ / film has been pushed back to	// The film has been pushed back to 2012 .
+
+#	NEW	death_date	........ / and	// <p> <strong> Alexander Medawar &quot ; Alex&quot ; Garland </strong> ( born 1970 ) is a British <a> novelist </a> and screenwriter . </p>
+
+#	NEW	birthplace	........ / is a British	// <p> <strong> Alexander Medawar &quot ; Alex&quot ; Garland </strong> ( born 1970 ) is a British <a> novelist </a> and screenwriter . </p>
+
+#	NEW	birthname	........ / Alexander Medawar &quot ; Alex&quot ; Garland	// <p> <strong> Alexander Medawar &quot ; Alex&quot ; Garland </strong> ( born 1970 ) is a British <a> novelist </a> and screenwriter . </p>
+
+#	NEW	name	........ / St . John	// <p> <strong> Jill St . John </strong> ( born August 19 , 1940 ) is an <a> American </a> <a> actress </a> .
+
+140	FALSE	Jill St. John::birth_name	jill arlyn oppenheim / Jill St. John	
+<p> <strong> Jill St . John </strong> ( born August 19 , 1940 ) is an <a> American </a> <a> actress </a> .
+
+#	NEW	birth_date	........ / em> , in 2002	// She portrayed &quot ; Mary Oakley&quot ; in <em> <a> The Trip </a> </em> , in 2002 , which to date is her most recent appearance in film or television . </p>
+
+#	NEW	death_date	........ / actress	// <p> <strong> Jill St . John </strong> ( born August 19 , 1940 ) is an <a> American </a> <a> actress </a> .
+
+#	NEW	birthdate	........ / 19 , 1940 )	// <p> <strong> Jill St . John </strong> ( born August 19 , 1940 ) is an <a> American </a> <a> actress </a> .
+
+#	NEW	birthname	........ / Jill St . John	// <p> <strong> Jill St . John </strong> ( born August 19 , 1940 ) is an <a> American </a> <a> actress </a> .
+
+#	NEW	name	........ / destroy it .	// Tsukamoto has stated he has a love-hate relationship with Tokyo , and in the end the characters of this film set out to destroy it . </em> </strong>
+
+#	NEW	caption	........ / Tsukamoto '	// <p> Tsukamoto ' s early films , <em> Futsu saizu no kaijin </em> ( <em> A Phantom of Regular Size </em> ) and <em> Denchu Kozo no boken </em> ( <em> The Adventures Of Electric Rod Boy </em> ) made in 198 / 87 , were short subject <a> science fiction </a> films shot on colour <a> 8 mm film </a> .
+
+#	NEW	birth_name	........ / with a considerable cult following both domestically and	// <p> is a <a> Japan </a> ese <a> film director </a> and <a> actor </a> with a considerable cult following both domestically and abroad .
+
+#	NEW	birth_date	........ / is	// <p> is a <a> Japan </a> ese <a> film director </a> and <a> actor </a> with a considerable cult following both domestically and abroad .
+
+#	NEW	birthplace	........ / to destroy it .	// Tsukamoto has stated he has a love-hate relationship with Tokyo , and in the end the characters of this film set out to destroy it . </em> </strong>
+
+#	NEW	birthname	........ / It ' s worth noting that Tsukamoto acts	// <p> It ' s worth noting that Tsukamoto acts in nearly all of his films , with the exception of those that he worked on as a ' director for hire ' ( namely <em> Hiruko the Goblin </em> and <em> Gemini </em> ) .
+
+#	NEW	name	........ / del Toro	// <p> <strong> Benicio Monserrate Rafael del Toro S&#x00e1 ; nchez </strong> ( born February 19 , 1967 ) , better known as <strong> Benicio del Toro </strong> , is a <a> Puerto Rican </a> - <a> American </a> <a> actor </a> and <a> film producer </a> .
+
+#	NEW	caption	........ / in	// Filming began late 2009 , in New Zealand .
+
+#	NEW	birth_date	........ / 2004	// In 2004 , Benicio del Toro was again nominated for a Best Supporting Actor Oscar , for his performance in the film <em> 21 Grams </em> . </p>
+
+#	NEW	death_date	........ / film	// <p> <strong> Benicio Monserrate Rafael del Toro S&#x00e1 ; nchez </strong> ( born February 19 , 1967 ) , better known as <strong> Benicio del Toro </strong> , is a <a> Puerto Rican </a> - <a> American </a> <a> actor </a> and <a> film producer </a> .
+
+#	NEW	birthname	........ / film producer	// <p> <strong> Benicio Monserrate Rafael del Toro S&#x00e1 ; nchez </strong> ( born February 19 , 1967 ) , better known as <strong> Benicio del Toro </strong> , is a <a> Puerto Rican </a> - <a> American </a> <a> actor </a> and <a> film producer </a> .
+
+#	NEW	birth_name	........ / Benicio Monserrate Rafael del Toro S&#x00e1 ; nchez	// <p> <strong> Benicio Monserrate Rafael del Toro S&#x00e1 ; nchez </strong> ( born February 19 , 1967 ) , better known as <strong> Benicio del Toro </strong> , is a <a> Puerto Rican </a> - <a> American </a> <a> actor </a> and <a> film producer </a> .
+
+157	FALSE	Jean Harlow::birth_name	harlean harlow carpenter / an American film actress and <a> sex symbol	
+<p> <strong> Jean Harlow </strong> ( March 3 , 1911&nbsp ; &#x2013 ; June 7 , 1937 ) was an American film actress and <a> sex symbol </a> of the 1930s .
+
+#	NEW	death_date	........ / 7 , 1937 )	// <p> <strong> Jean Harlow </strong> ( March 3 , 1911&nbsp ; &#x2013 ; June 7 , 1937 ) was an American film actress and <a> sex symbol </a> of the 1930s .
+
+#	NEW	birthname	........ / an American film actress	// <p> <strong> Jean Harlow </strong> ( March 3 , 1911&nbsp ; &#x2013 ; June 7 , 1937 ) was an American film actress and <a> sex symbol </a> of the 1930s .
+
+160	FALSE	Erich von Stroheim::name	erich von stroheim / Director	
+<p> <strong> Director </strong> </p>
+
+161	FALSE	Erich von Stroheim::birth_name	erich oswald stroheim / known to be dictatorial and demanding, often antagonizing his	
+As a director , Stroheim was known to be dictatorial and demanding , often antagonizing his actors .
+
+#	NEW	birth_date	........ / For	// <p> For the latter film , which co-starred Gloria Swanson , Stroheim was nominated for the <a> Academy Award for Best Supporting Actor </a> .
+
+#	NEW	name	........ / Jake Thomas	// <p> <strong> Jake Thomas </strong> ( born January 30 , 1990 ) is an American actor and singer known for his roles in the television show <em> <a> Lizzie McGuire </a> </em> , in which he plays Lizzie ' s younger brother , Matt McGuire .
+
+#	NEW	caption	........ / Jake	// <p> <strong> Jake Thomas </strong> ( born January 30 , 1990 ) is an American actor and singer known for his roles in the television show <em> <a> Lizzie McGuire </a> </em> , in which he plays Lizzie ' s younger brother , Matt McGuire .
+
+#	NEW	birth_name	........ / is an American actor and singer known for his roles in the television show <em> <a> Lizzie McGuire	// <p> <strong> Jake Thomas </strong> ( born January 30 , 1990 ) is an American actor and singer known for his roles in the television show <em> <a> Lizzie McGuire </a> </em> , in which he plays Lizzie ' s younger brother , Matt McGuire .
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Jake Thomas </strong> ( born January 30 , 1990 ) is an American actor and singer known for his roles in the television show <em> <a> Lizzie McGuire </a> </em> , in which he plays Lizzie ' s younger brother , Matt McGuire .
+
+#	NEW	occupation	........ / actor and singer	// <p> <strong> Jake Thomas </strong> ( born January 30 , 1990 ) is an American actor and singer known for his roles in the television show <em> <a> Lizzie McGuire </a> </em> , in which he plays Lizzie ' s younger brother , Matt McGuire .
+
+#	NEW	death_date	........ / portraying	// He is also seen in <em> <a> Cory in the House </a> </em> , portraying the role of Jason Stickler . </p>
+
+#	NEW	birthplace	........ / brother , Matt	// <p> <strong> Jake Thomas </strong> ( born January 30 , 1990 ) is an American actor and singer known for his roles in the television show <em> <a> Lizzie McGuire </a> </em> , in which he plays Lizzie ' s younger brother , Matt McGuire .
+
+#	NEW	birthname	........ / is an American actor	// <p> <strong> Jake Thomas </strong> ( born January 30 , 1990 ) is an American actor and singer known for his roles in the television show <em> <a> Lizzie McGuire </a> </em> , in which he plays Lizzie ' s younger brother , Matt McGuire .
+
+#	NEW	birth_place	........ / Los Angeles	// <p> Thomas travels between Los Angeles , California and <a> Knoxville </a> , <a> Tennessee </a> .
+
+172	TRUE	Michael Landon::name	michael landon / that spanned	
+<p> <strong> Michael Landon </strong> ( October 31 , 1936 &ndash ; July 1 , 1991 ) was an American actor , writer , <a> director </a> , and <a> producer </a> , who starred in three popular <a> NBC </a> <a> TV series </a> that spanned three decades .
+
+#	NEW	caption	........ / Landon '	// <p> In February 1959 , Landon ' s father succumbed to a <a> heart attack </a> .
+
+174	FALSE	Michael Landon::birth_name	eugene maurice orowitz / an American actor	
+<p> <strong> Michael Landon </strong> ( October 31 , 1936 &ndash ; July 1 , 1991 ) was an American actor , writer , <a> director </a> , and <a> producer </a> , who starred in three popular <a> NBC </a> <a> TV series </a> that spanned three decades .
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Michael Landon </strong> ( October 31 , 1936 &ndash ; July 1 , 1991 ) was an American actor , writer , <a> director </a> , and <a> producer </a> , who starred in three popular <a> NBC </a> <a> TV series </a> that spanned three decades .
+
+#	NEW	death_date	........ / New	// <p> Michael Landon was born <strong> Eugene Maurice Orowitz </strong> in <a> Forest Hills </a> , a neighborhood of <a> Queens </a> , <a> New York </a> .
+
+#	NEW	birthplace	........ / Foundation and United	// She has been awarded : &quot ; Ambassador of Peace&quot ; from the Washington Times Foundation and United Nations .
+
+#	NEW	birthname	........ / he wrote his first	// In 1962 , he wrote his first script .
+
+179	TRUE	Alberto Olmedo::name	alberto olmedo / and actor.	
+<p> <strong> Alberto Olmedo </strong> ( August 24 , 1933 &#x2013 ; March 5 , 1988 ) was an <a> Argentine </a> comedian and actor . </p>
+
+#	NEW	birth_name	........ / comedian and actor .	// <p> <strong> Alberto Olmedo </strong> ( August 24 , 1933 &#x2013 ; March 5 , 1988 ) was an <a> Argentine </a> comedian and actor . </p>
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Alberto Olmedo </strong> ( August 24 , 1933 &#x2013 ; March 5 , 1988 ) was an <a> Argentine </a> comedian and actor . </p>
+
+#	NEW	death_date	........ / March 5 , 1988 )	// <p> <strong> Alberto Olmedo </strong> ( August 24 , 1933 &#x2013 ; March 5 , 1988 ) was an <a> Argentine </a> comedian and actor . </p>
+
+#	NEW	birthname	........ / comedian and actor .	// <p> <strong> Alberto Olmedo </strong> ( August 24 , 1933 &#x2013 ; March 5 , 1988 ) was an <a> Argentine </a> comedian and actor . </p>
+
+#	NEW	caption	........ / He	// <p> He was the subject of the documentary <strong> <em> ' ( 1997 ) a film by <a> Kirby Dick </a> , ref name=Terminal / which films the final years of Bob ' s life . </em> </strong> </p>
+
+#	NEW	birth_name	........ / and <a> musician	// <p> <strong> Bob Flanagan </strong> ( December 26 , 1952 &ndash ; January 4 , 1996 ) was an <a> American </a> <a> performance art </a> ist , <a> comic </a> , writer , <a> poet </a> , and <a> musician </a> .
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Bob Flanagan </strong> ( December 26 , 1952 &ndash ; January 4 , 1996 ) was an <a> American </a> <a> performance art </a> ist , <a> comic </a> , writer , <a> poet </a> , and <a> musician </a> .
+
+#	NEW	birthname	........ / he died of	// <p> On January 4 , 1996 , he died of <a> cystic fibrosis </a> , aged 43 . </p>
+
+#	NEW	death_date	........ / musician	// <p> <strong> Bob Flanagan </strong> ( December 26 , 1952 &ndash ; January 4 , 1996 ) was an <a> American </a> <a> performance art </a> ist , <a> comic </a> , writer , <a> poet </a> , and <a> musician </a> .
+
+#	null	birth_date	1970 / ..........
+
+#	null	occupation	director / ..........
+
+#	null	occupation	actor / ..........
+
+#	null	occupation	actor / ..........
+
+#	null	occupation	actor / ..........
+
+#	null	name	eddie cantor / ..........
+
+#	null	occupation	actress / ..........
+
+#	null	name	oscar levant / ..........
+
+#	null	occupation	actor / ..........
+
+#	null	occupation	actress / ..........
+
+#	null	occupation	actress / ..........
+
+#	null	name	bob flanagan / ..........
+

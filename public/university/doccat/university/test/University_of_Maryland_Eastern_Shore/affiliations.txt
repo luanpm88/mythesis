@@ -1,4 +1,0 @@
-<li><a>www.umes.edu</a>
-<li><a>www.umes.edu/alumni</a>
--- Official alumni web site</li>
-<li><a>umeshawks.cstv.com</a>

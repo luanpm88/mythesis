@@ -1,5 +1,0 @@
-<li>Mechanical Engineering and Metal Trades</li>
-<li>Applied Physics and Electrical Engineering</li>
-<li>Domestic Economy and Women's Trades</li>
-<h4>Government, politics and society</h4>
-<h4>Media and entertainment</h4>

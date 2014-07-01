@@ -1,0 +1,91 @@
+Found: 32
+Found Not Null: 7
+Correct: 0
+Wrong: 7
+Total: 12
+precision: 0.0
+recall: 0.0
+
+
+
+#	NEW	destinations	........ / 2010	// In September 2010 , a restructuring was announced : this will involve dropping all passenger services from November 2011 , which will be operated by KLM , and leaving only cargo services .
+
+#	NEW	destinations	........ / 1957 .	// In 1956 , it became the first airline to successfully operate regular jet airliner services ( with the <a> Tupolev Tu-104 </a> ) , <a> Czech Airlines </a> being the second airline to do so in 1957 . </p>
+
+#	NEW	destinations	........ / 2010	// <p> As of December 2010 , the Lufthansa fleet consists of the following aircraft with an average age of 13 . 1 years : center / center </p>
+
+#	NEW	destinations	........ / 14	// Flight operations started on 14 December 1927 .
+
+#	NEW	destinations	........ / 1989	// <p> The airline was established in 1989 by <a> Aer Lingus </a> , <a> Belton Air </a> and <a> Banco Santander </a> , starting operations on 17 February 1990 with a flight from <a> Palma de Mallorca </a> to <a> Manchester </a> .
+
+#	NEW	destinations	........ / 2000	// Kalitta decided to rescue it and the new airline , Kalitta Air , began operations in November 2000 , using the operating certificate and assets of the former airline . </p>
+
+#	NEW	destinations	........ / 2010	// <p> As of June 2010 , Skywest Airlines operates scheduled domestic flights to the following destinations : </p>
+
+#	NEW	destinations	........ / 23	// ( 2009 ) ] ] The Austral L&#x00ed ; neas A&#x00e9 ; reas fleet consists of the following aircraft ( as of 23 December 2010 ) : </p>
+
+#	NEW	destinations	........ / 2005 ) :	// <p> The Hooters Air fleet consisted of the following aircraft ( at December 2005 ) : </p>
+
+9	FALSE	Air Canada Jazz::destinations	82 / 2010.	
+Sunquest charter service to sun destination operated by Jazz Air is scheduled to begin on November 5 , 2010 . </p>
+
+#	NEW	destinations	........ / 1957 .	// In summer 1948 , the unpressurised Yorks were still operating passenger services as far afield as Nairobi ( Kenya ) , Accra ( Gold Coast , later Ghana ) and Delhi and Calcutta ( India ) and the type continued to operate freight schedules until late 1957 . </p>
+
+#	NEW	destinations	........ / 1930	// The airline operated from 1930 until it was acquired by <a> American Airlines </a> in 2001 . </p>
+
+#	NEW	destinations	........ / 2010	// However , in April 2010 WestJet announced that the airline partnership with Southwest Airlines was terminated , in October 2010 WestJet partnered with <a> American Airlines </a> instead . </pre>
+
+#	NEW	destinations	........ / 2010 ) :	// <p> The fleet of TAM Airlines includes the following aircraft ( as of December 2010 ) : </p>
+
+14	FALSE	Singapore Airlines::destinations	61 / 2010	
+On December 15 , 2010 , Singapore Airlines was announced by the <a> International Air Transport Association </a> as the world ' s second largest airline in the world by market capitalisation with a worth of 14 billion dollars . </p>
+
+#	NEW	destinations	........ / 111	// <p> In November and December 2006 , TAROM took delivery of its first two <a> Airbus A318-111 </a> , becoming only the second commercial operator of this type of aircraft in <a> Europe </a> , after <a> Air France </a> .
+
+16	FALSE	Turkish Airlines::destinations	171 / 2010	
+<p> As of December 2010 , the Turkish Airlines fleet ( excluding subsidiaries ) consists of 151 passenger and 5 cargo aircraft with an average age of 6 . 8 years . </p>
+
+#	NEW	destinations	........ / 1954	// In 1954 , the privately owned airline <strong> Persian Air Services </strong> ( PAS ) was established , which initially operated only freight services , followed by passenger operations between Tehran and other major cities in Iran .
+
+18	FALSE	All Nippon Airways::destinations	71 / 2010	
+( 2009 ) ] ] As of December 2010 , the ANA passenger fleet ( excluding subsidiaries ) consists of the following aircraft : </p>
+
+#	NEW	destinations	........ / 2009	// In 2009 Avianca turned 90 ( years ) making it one of the <a> world ' s oldest airlines </a> still in operation ; It is actually the oldest continuously operating airline in the <a> Western Hemisphere </a> .
+
+#	NEW	destinations	........ / 1977	// <p> The airline was established in March 1977 and started operations in April 1977 .
+
+#	NEW	destinations	........ / 1988	// <p> The airline was established in October 1988 and started operations on December 1 , 1990 .
+
+#	NEW	destinations	........ / 20	// As of 2009 , Continental Express consists of 214 aircraft operated by ExpressJet Airlines , and 20 aircraft operated by Chautauqua Airlines . </p>
+
+23	FALSE	Saudi Arabian Airlines::destinations	90 / 3	
+( 2010 ) ] ] Saudi Arabian Airlines operates the following aircraft ( as of 3 December 2010 ) : center / center </p>
+
+#	NEW	destinations	........ / 9	// The airline was established on 9 December 1963 and started operations on 15 December 1963 after a royal decree by the late <a> King Hussein </a> .
+
+#	NEW	destinations	........ / 14 .	// U . S . underwater operations began on September 14 .
+
+#	NEW	destinations	........ / 2003 .	// Cargo Airlines Boeing 747 at Amsterdam Schiphol Airport in December 2003 .
+
+#	NEW	destinations	........ / 2005 ) :	// <p> Arrow Air operated the following freight services ( at January 2005 ) : </p>
+
+#	NEW	destinations	........ / 2010 .	// <a> TAM Airlines </a> moved on March 28 , 2010 .
+
+29	FALSE	Flybe::destinations	45 / 2010	
+Trading in Flybe Group shares began on 10th December 2010 with full public release on the 15th December 2010 .
+
+30	FALSE	Virgin Blue::destinations	31 / 2010	
+<p> As of December 2010 the Virgin Blue fleet consists of the following aircraft with an average age of 6 . 4 years : </p>
+
+#	NEW	destinations	........ / 2001	// <p> <strong> Air Canada Tango </strong> was a <a> low-cost </a> branch of <a> Air Canada </a> , which was established in 2001 to offer <a> no-frills </a> service on some of Air Canada ' s routes and to reduce operating costs at the struggling main company .
+
+#	null	destinations	37 / ..........
+
+#	null	destinations	178 / ..........
+
+#	null	destinations	94 / ..........
+
+#	null	destinations	88 / ..........
+
+#	null	destinations	30 / ..........
+

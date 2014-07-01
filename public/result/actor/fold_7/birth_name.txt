@@ -1,0 +1,87 @@
+Found: 31
+Found Not Null: 15
+Correct: 6
+Wrong: 9
+Total: 15
+precision: 0.4
+recall: 0.4
+
+
+
+0	TRUE	Jill Goodacre::birth_name	jill goodacre / Jill Goodacre Connick	
+<p> <strong> Jill Goodacre Connick </strong> ( born March 29 , 1965 in <a> Lubbock </a> , <a> Texas </a> ) is an <a> American </a> actress and former <a> model </a> .
+
+1	FALSE	Robert Blake (actor)::birth_name	michael james vincenzo gubitosi / actor who starred	
+September 18 , 1933 ) is an <a> American </a> actor who starred in the film <em> <a> In Cold Blood </a> </em> and the U . S . <a> television series </a> <em> <a> Baretta </a> </em> .
+
+2	TRUE	Linus Roache::birth_name	linus william roache / Linus William Roache	
+<p> <strong> Linus William Roache </strong> ( born 1 February 1964 ) is an <a> English </a> <a> actor </a> . </p>
+
+3	FALSE	Eddie Cantor::birth_name	edward israel iskowitz / and <a> songwriter	
+<p> <strong> Eddie Cantor </strong> ( January 31 , 1892 &#x2013 ; October 10 , 1964 ) was an <a> American </a> &quot ; <a> illustrated song </a> &quot ; performer , <a> comedian </a> , <a> dancer </a> , <a> singer </a> , <a> actor </a> and <a> songwriter </a> .
+
+#	NEW	birth_name	........ / She married actor <a> John Stamos	// <p> She married actor <a> John Stamos </a> on September 19 , 1998 .
+
+#	NEW	birth_name	........ / is an <a> American	// <p> <strong> Melanie Chartoff </strong> ( born December 15 , 1950 ) is an <a> American </a> actress .
+
+6	TRUE	Laura Sadler::birth_name	laura ruth sadler / Laura Ruth Sadler	
+<p> <strong> Laura Ruth Sadler </strong> ( 25 December 1980 &ndash ; 19 June 2003 ) was an English <a> actress </a> best known for her role as nurse <a> Sandy Harper </a> in the <a> BBC One </a> <a> hospital </a> <a> drama </a> series <em> <a> Holby City </a> </em> . </p>
+
+#	NEW	birth_name	........ / have three children : Harry Teodor	// They have three children : Harry Teodor , born in June 2002 , Vera , born on January 1 , 2005 and Kerstin born June 2009 .
+
+#	NEW	birth_name	........ / the executive producer of a documentary <em> Trudell	// She was the executive producer of a documentary <em> Trudell </em> , about Native American activist <a> John Trudell </a> .
+
+#	NEW	birth_name	........ / debut film <em> <a> American Beauty	// His debut film <em> <a> American Beauty </a> </em> ( 1999 ) earned him an <a> Academy Award for Best Director </a> . </p>
+
+#	NEW	birth_name	........ / worked on the US television series	// He worked on the US television series <em> <a> Smith </a> </em> ( <a> CBS </a> , Fall 2006 ) .
+
+11	FALSE	Keith Coogan::birth_name	keith eric mitchell / is an <a> American	
+<p> <strong> Keith Coogan </strong> ( born January 13 , 1970 ) is an <a> American </a> actor .
+
+#	NEW	birth_name	........ / Mary Elizabeth Mastrantonio	// <p> <strong> Mary Elizabeth Mastrantonio </strong> ( born November 17 , 1958 ) is an <a> American </a> actress and singer known for her role as Carmen in <em> <a> The Color of Money </a> </em> , as well as for her roles as Lindsey Brigman in <em> <a> The Abyss </a> </em> , Gina Montana in <em> <a> Scarface </a> </em> , and <a> Maid Marian </a> in <em> <a> Robin Hood : Prince of Thieves </a> </em> . </p>
+
+#	NEW	birth_name	........ / is an American	// <p> <strong> Jerry Nelson </strong> ( born July 10 , 1934 ) is an American <a> Muppet </a> <a> puppeteer </a> , known for his wide range of characters , singing abilities , and his frequent partnership with <a> Richard Hunt </a> . </p>
+
+14	FALSE	Telly Savalas::birth_name	aristotelis savalas / Aristotelis & quot ; Telly&quot ; Savalas	
+<p> <strong> Aristotelis &quot ; Telly&quot ; Savalas </strong> ( ; January 21 , 1922 <img> January 22 , 1994 ) was an American <a> film </a> and <a> television </a> actor and singer , whose career spanned four decades . </p>
+
+15	TRUE	John Sessions::birth_name	john gibb marshall / John Gibb Marshall	
+<p> <strong> John Gibb Marshall </strong> ( born 11 January 1953 ) , better known by the stage name <strong> John Sessions </strong> , is a <a> Scottish </a> <a> actor </a> and <a> comedian </a> .
+
+#	NEW	birth_name	........ / Jeremiah & quot ; Jerry&quot ; O ' Connell	// <p> <strong> Jeremiah &quot ; Jerry&quot ; O ' Connell </strong> ( born February 17 , 1974 ) is an American actor , best known for his roles in the TV series <em> <a> Sliders </a> </em> , Andrew Clements in <em> <a> My Secret Identity </a> </em> , Vern Tessio in the film <em> <a> Stand by Me </a> </em> , Charlie Carbone in <em> <a> Kangaroo Jack </a> </em> , and Detective Woody Hoyt on the drama <em> <a> Crossing Jordan </a> </em> .
+
+#	NEW	birth_name	........ / and <a> actor	// <p> <strong> Oscar Levant </strong> ( December 27 , 1906 &ndash ; August 14 , 1972 ) was an American <a> pianist </a> , <a> composer </a> , <a> author </a> , <a> comedian </a> , and <a> actor </a> .
+
+18	TRUE	Krisse Salminen::birth_name	heidi kristiina salminen / Heidi Kristiina Salminen	
+<p> <strong> Krisse Salminen </strong> ( born <strong> Heidi Kristiina Salminen </strong> May 28 , 1976 in <a> Hollola </a> , <a> Finland </a> ) is a <a> Finnish </a> stand-up comedian and television talkshow hostess .
+
+19	TRUE	Harold Ramis::birth_name	harold allen ramis / Harold Allen Ramis	
+<p> <strong> Harold Allen Ramis </strong> ( born November 21 , 1944 ) is an <a> American </a> <a> actor </a> , <a> director </a> , and <a> writer </a> , specializing in comedy .
+
+20	FALSE	Charlie Sheen::birth_name	carlos irwin estevez / Sheen played himself	
+In 1999 , Sheen played himself in <em> <a> Being John Malkovich </a> </em> .
+
+#	NEW	birth_name	........ / film has been pushed back to	// The film has been pushed back to 2012 .
+
+22	FALSE	Jill St. John::birth_name	jill arlyn oppenheim / Jill St. John	
+<p> <strong> Jill St . John </strong> ( born August 19 , 1940 ) is an <a> American </a> <a> actress </a> .
+
+#	NEW	birth_name	........ / with a considerable cult following both domestically and	// <p> is a <a> Japan </a> ese <a> film director </a> and <a> actor </a> with a considerable cult following both domestically and abroad .
+
+#	NEW	birth_name	........ / Benicio Monserrate Rafael del Toro S&#x00e1 ; nchez	// <p> <strong> Benicio Monserrate Rafael del Toro S&#x00e1 ; nchez </strong> ( born February 19 , 1967 ) , better known as <strong> Benicio del Toro </strong> , is a <a> Puerto Rican </a> - <a> American </a> <a> actor </a> and <a> film producer </a> .
+
+25	FALSE	Jean Harlow::birth_name	harlean harlow carpenter / an American film actress and <a> sex symbol	
+<p> <strong> Jean Harlow </strong> ( March 3 , 1911&nbsp ; &#x2013 ; June 7 , 1937 ) was an American film actress and <a> sex symbol </a> of the 1930s .
+
+26	FALSE	Erich von Stroheim::birth_name	erich oswald stroheim / known to be dictatorial and demanding, often antagonizing his	
+As a director , Stroheim was known to be dictatorial and demanding , often antagonizing his actors .
+
+#	NEW	birth_name	........ / is an American actor and singer known for his roles in the television show <em> <a> Lizzie McGuire	// <p> <strong> Jake Thomas </strong> ( born January 30 , 1990 ) is an American actor and singer known for his roles in the television show <em> <a> Lizzie McGuire </a> </em> , in which he plays Lizzie ' s younger brother , Matt McGuire .
+
+28	FALSE	Michael Landon::birth_name	eugene maurice orowitz / an American actor	
+<p> <strong> Michael Landon </strong> ( October 31 , 1936 &ndash ; July 1 , 1991 ) was an American actor , writer , <a> director </a> , and <a> producer </a> , who starred in three popular <a> NBC </a> <a> TV series </a> that spanned three decades .
+
+#	NEW	birth_name	........ / comedian and actor .	// <p> <strong> Alberto Olmedo </strong> ( August 24 , 1933 &#x2013 ; March 5 , 1988 ) was an <a> Argentine </a> comedian and actor . </p>
+
+#	NEW	birth_name	........ / and <a> musician	// <p> <strong> Bob Flanagan </strong> ( December 26 , 1952 &ndash ; January 4 , 1996 ) was an <a> American </a> <a> performance art </a> ist , <a> comic </a> , writer , <a> poet </a> , and <a> musician </a> .
+

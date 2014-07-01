@@ -1,0 +1,121 @@
+Found: 44
+Found Not Null: 21
+Correct: 13
+Wrong: 8
+Total: 22
+precision: 0.6190476190476191
+recall: 0.5909090909090909
+
+
+
+#	NEW	callsign	........ / Amsterdam	// <p> <strong> Martinair </strong> is an <a> airline </a> headquartered on the grounds of <a> Amsterdam Airport Schiphol </a> , the <a> Netherlands </a> .
+
+#	NEW	callsign	........ / air	// <p> <strong> OJSC &quot ; Aeroflot <img> Russian Airlines&quot ; </strong> ( ) ( ) , commonly known as <strong> Aeroflot </strong> ( , English translation : &quot ; air fleet&quot ; ) , is the <a> flag carrier </a> and largest <a> airline </a> in Russia , based on passengers carried per year .
+
+2	TRUE	Lufthansa::callsign	lufthansa / Lufthansa	
+<p> In addition to its main operation , Lufthansa has several subsidiaries , including : b / <strong> Airline subsidiaries : </strong> </p>
+
+3	TRUE	Iberia (airline)::callsign	iberia / Iberia	
+<p> <strong> Iberia L&#x00ed ; neas A&#x00e9 ; reas de Espa&#x00f1 ; a , S . A . </strong> ( ) is the <a> flag carrier </a> <a> airline </a> of <a> Spain </a> .
+
+4	TRUE	Futura International Airways::callsign	futura / Futura International	
+<p> <strong> Futura International Airways </strong> was an <a> airline </a> based in <a> Palma de Mallorca </a> , <a> Spain </a> .
+
+5	FALSE	Kalitta Air::callsign	connie / American	
+<p> <strong> Kalitta Air </strong> is an <a> American </a> <a> cargo airline </a> headquartered in <a> Ypsilanti Township </a> , <a> Michigan </a> , <a> United States </a> .
+
+#	NEW	callsign	........ / Darwin	// <p> <strong> Skywest Airlines Pty Ltd </strong> ( , ) is a regional <a> airline </a> company based in <a> Perth , Western Australia </a> , <a> Australia </a> ; servicing key towns in the state of <a> Western Australia </a> , <a> Darwin , Northern Territory </a> and <a> Melbourne , Victoria </a> ; as well as charter flights to <a> Bali </a> , <a> Indonesia </a> . </p>
+
+#	NEW	callsign	........ / West Express	// <p> <strong> America West Express </strong> was the name for <a> America West Airlines </a> commuter and regional flights operated by <a> Mesa Air Group </a> ' s <a> Mesa Airlines </a> under a <a> code share </a> agreement .
+
+8	TRUE	Ansett Australia::callsign	ansett / ANSETT-	
+<p> <strong> Ansett Australia </strong> , <strong> Ansett </strong> , <strong> Ansett Airlines of Australia </strong> , or <strong> ANSETT-ANA </strong> as it was commonly known in earlier years , was a major <a> Australia </a> n <a> airline </a> group , based in <a> Melbourne </a> , <a> Australia </a> , flying domestically within <a> Australia </a> and to destinations in Asia at its height in 1996 .
+
+#	NEW	callsign	........ / Aires	// <p> <strong> Austral L&#x00ed ; neas A&#x00e9 ; reas </strong> is an <a> airline </a> based in <a> Buenos Aires </a> , <a> Argentina </a> .
+
+#	NEW	callsign	........ / Swissair	// <p> <strong> Swissair Flight 111 </strong> ( SR-111 , SWR-111 ) was a <a> Swissair </a> <a> McDonnell Douglas MD-11 </a> on a scheduled airline flight from <a> John F . Kennedy International Airport </a> in New York City , United States to <a> Cointrin International Airport </a> in <a> Geneva </a> , Switzerland .
+
+11	FALSE	Hooters Air::callsign	pace / Air	
+<p> <strong> Hooters Air </strong> was an <a> airline </a> headquartered in <a> Myrtle Beach </a> , <a> South Carolina </a> , <a> USA </a> .
+
+12	TRUE	Air China::callsign	air china / Air	
+<p> <strong> Air China Cargo Co . , Ltd . </strong> is a <a> cargo airline </a> based in <a> Beijing </a> , <a> China </a> .
+
+#	NEW	callsign	........ / SkyEurope	// <p> <strong> SkyEurope Airlines </strong> was a <a> low-cost airline </a> headquartered in <a> Bratislava </a> , with its main base at <a> M .
+
+14	TRUE	Air Canada Jazz::callsign	jazz / Air	
+<p> <strong> Air Canada Jazz </strong> , also known as <strong> Jazz Air </strong> , is a <a> Canadian </a> <a> regional airline </a> based at <a> Halifax Stanfield International Airport </a> in <a> Enfield </a> , <a> Nova Scotia </a> , operated by <a> Chorus Aviation </a> ( ) . </p>
+
+#	NEW	callsign	........ / Air	// <p> <strong> Air Florida </strong> was a small <a> U . S . </a> and international <a> airline </a> based out of <a> Miami International Airport </a> .
+
+#	NEW	callsign	........ / British	// <p> The <strong> British Overseas Airways Corporation </strong> ( <strong> BOAC </strong> ) was the British state airline from 1939 until 1946 and the long-haul British state airline from 1946 to 1974 .
+
+17	TRUE	Trans World Airlines::callsign	twa / Trans	
+<p> <strong> Trans World Airlines </strong> ( <strong> TWA </strong> ) was a major <a> United States </a> -based airline with hubs in <a> St .
+
+#	NEW	callsign	........ / WestJet	// <p> <strong> WestJet Airlines Ltd . </strong> ( ) is a <a> Canadian </a> <a> low-cost carrier </a> that provides scheduled and charter air service to 71 destinations in Canada , the [ [ United States ] ] , [ [ Mexico ] ] and the [ [ Caribbean ] ] .
+
+19	TRUE	TAM Airlines::callsign	tam / PZ.	
+The new airline was named <strong> TAM </strong> - <strong> T </strong> ransportes <strong> A </strong> &#x00e9 ; reos del <strong> M </strong> ercosur and maintained the IATA code of LAP , PZ .
+
+20	TRUE	Singapore Airlines::callsign	singapore / Singapore	
+<p> <strong> Singapore Airlines Limited </strong> ( <strong> SIA </strong> ) ( ; , abbreviated ; ) ( ) is the <a> flag carrier </a> of <a> Singapore </a> .
+
+21	TRUE	TAROM::callsign	tarom / Nationala	
+Compania Nationala de Transporturi Aeriene Romane TAROM S . A . </strong> , doing business as <strong> TAROM Romanian Air Transport </strong> , is the <a> flag carrier </a> and oldest currently-operating <a> airline </a> of <a> Romania </a> .
+
+#	NEW	callsign	........ / THY &#	// <p> <strong> THY &#x2013 ; Turkish Airlines , Inc . </strong> ( <a> Turkish </a> : <em> T&#x00fc ; rk Hava Yollar&#x0131 ; Anonim Ortakl&#x0131 ; &#x011f ; &#x0131 ; </em> ) is the national <a> flag carrier </a> <a> airline </a> of <a> Turkey </a> , headquartered in the Turkish Airlines General Management Building on the grounds of <a> Atat&#x00fc ; rk Airport </a> in <a> Ye&#x015f ; ilk&#x00f6 ; y </a> , <a> Istanbul </a> .
+
+23	FALSE	Iran Air::callsign	iranair / Air Cargo	
+<p> <strong> Iran Air Cargo </strong> is the freight wing of the airline .
+
+#	NEW	callsign	........ / Norwegian	// <p> <strong> Norwegian Air Shuttle ASA </strong> ( ) , trading as <strong> Norwegian </strong> , is the second-largest <a> airline </a> in <a> Scandinavia </a> and the third-largest <a> low-cost carrier </a> in Europe .
+
+25	FALSE	All Nippon Airways::callsign	all nippon / International	
+<p> <strong> International </strong> </p>
+
+26	FALSE	Pan American World Airways::callsign	clipper / IATA	
+It used the <a> IATA </a> code <strong> PA </strong> , and the <a> ICAO </a> code <strong> PAA </strong> . </p>
+
+#	NEW	callsign	........ / Delta Air	// <p> <strong> Comair </strong> is a wholly owned subsidiary of <a> Delta Air Lines </a> headquartered on the grounds of <a> Cincinnati-Northern Kentucky International Airport </a> in <a> unincorporated </a> <a> Boone County </a> , <a> Kentucky </a> , <a> United States </a> , west of <a> Erlanger </a> , and south of <a> Cincinnati , Ohio </a> . </p>
+
+#	NEW	callsign	........ / xico	// <p> <strong> Aeroper&#x00fa ; </strong> ( short form for <em> Empresa Nacional de <strong> Aero </strong> navegaci&#x00f3 ; n del <strong> Per&#x00fa ; </strong> </em> , <em> National Air Navigation Company of Peru </em> ) was the former national <a> flag carrier </a> of <a> Peru </a> , and a wholly owned subsidiary of <a> AeroM&#x00e9 ; xico </a> .
+
+#	NEW	callsign	........ / Florida	// <p> <strong> Florida </strong> </p>
+
+#	NEW	callsign	........ / Continental Express	// <p> <strong> Continental Express </strong> is the operating <a> brand </a> name used by a number of independently owned <a> regional airline </a> s providing regional jet feeder service under agreement with <a> Continental Airlines </a> .
+
+31	TRUE	Air Canada::callsign	air canada / Air	
+<p> <strong> Air Canada </strong> ( ) is the <a> flag carrier </a> and largest <a> airline </a> of <a> Canada </a> .
+
+32	FALSE	Saudi Arabian Airlines::callsign	saudia / Saudi	
+<p> <strong> Saudi Arabian Airlines </strong> ( <em> </em> ) is the <a> flag carrier </a> <a> airline </a> of <a> Saudi Arabia </a> , based in <a> Jeddah </a> .
+
+33	FALSE	South African Airways::callsign	springbok / time.	
+<p> SAA won <em> Executive Travel <strong> s best airline to Africa award for the third time . </strong> </em> </p>
+
+34	TRUE	Royal Jordanian::callsign	jordanian / Royal	
+<p> <strong> Royal Jordanian Airlines </strong> ( ; <a> transliterated </a> : al-Malakiyah al-Orduniyah ) is an <a> airline </a> with its head office in <a> Amman </a> , <a> Jordan </a> , operating scheduled international services over four continents from its main base at <a> Queen Alia International Airport </a> at Amman ( AMM ) Jordan .
+
+#	NEW	callsign	........ / Kamenski :	// <p> <strong> Kamenski : </strong> </p>
+
+#	NEW	callsign	........ / NCA	// <p> , or <strong> NCA </strong> , is a <a> cargo airline </a> based in the Onarimon Yusen Building in <a> Minato </a> , Tokyo , Japan .
+
+#	NEW	callsign	........ / Miami International	// <p> <strong> Arrow Cargo </strong> was an American <a> cargo airline </a> ( originally known as Arrow Air ) based in Building 712 on the grounds of <a> Miami International Airport </a> in <a> unincorporated </a> <a> Miami-Dade County </a> , Florida , <a> USA </a> .
+
+38	TRUE	Canadian Airlines::callsign	canadian / Canadian	
+<p> <strong> Canadian Airlines </strong> operated the largest tour operator in <a> Canada </a> called <a> Canadian Holidays </a> and the <strong> Canadian Getaways </strong> program .
+
+#	NEW	callsign	........ / Star	// <p> <strong> Star Alliance </strong> is the world ' s first and largest <a> airline alliance </a> , headquartered in <a> Frankfurt am Main </a> , <a> Germany </a> .
+
+40	FALSE	Flybe::callsign	jersey / flybe	
+<p> <strong> Flybe Limited </strong> ( styled as <strong> flybe </strong> ) is a <a> low-cost </a> <a> regional airline </a> headquartered at the Jack Walker House at <a> Exeter International Airport </a> in <a> Devon </a> , <a> England </a> .
+
+#	NEW	callsign	........ / Air	// <p> <strong> Lauda Air </strong> is an <a> airline </a> based in <a> Schwechat </a> , <a> Austria </a> .
+
+#	NEW	callsign	........ / Class	// <p> <strong> Economy Class </strong> offers a <a> buy on board </a> service with food and drinks for purchase . </p>
+
+#	NEW	callsign	........ / Air	// <p> <strong> Air Canada Tango </strong> was a <a> low-cost </a> branch of <a> Air Canada </a> , which was established in 2001 to offer <a> no-frills </a> service on some of Air Canada ' s routes and to reduce operating costs at the struggling main company .
+
+#	null	callsign	avianca / ..........
+

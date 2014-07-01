@@ -1,0 +1,120 @@
+Found: 44
+Found Not Null: 22
+Correct: 18
+Wrong: 4
+Total: 22
+precision: 0.8181818181818182
+recall: 0.8181818181818182
+
+
+
+0	TRUE	Brindabella Airlines::airline	brindabella airlines / new	
+<p> Brindabella Airlines introduced the <a> BAe Jetstream 41 </a> aircraft on 5 May 2008 as the new member of their domestic fleet .
+
+#	NEW	airline	........ / United	// It operated domestic and international cargo charters from <a> Yekaterinburg </a> to destinations within the <a> CIS </a> , Western <a> Europe </a> , <a> China </a> and the <a> United Arab Emirates </a> .
+
+2	TRUE	Astar Air Cargo::airline	astar air cargo / Air Cargo	
+<p> The ASTAR Air Cargo fleet consists of the following aircraft : </p>
+
+3	FALSE	Ameriflight::airline	ameriflight / passenger-	
+<p> All aircraft are &quot ; straight freighters&quot ; except for the King Air 200 , and two Learjet 35As , which are passenger-configured . ref name=&quot ; APC&quot ; / </p>
+
+#	NEW	airline	........ / crashed	// <p> <strong> <a> Crossair </a> Flight LX 3597 </strong> was an <a> Avro RJ100 </a> regional airliner , registration HB-IXM , on a scheduled flight from Berlin , Germany to <a> Zurich </a> , Switzerland that crashed during its approach to land at <a> Zurich International Airport </a> on November 24 , 2001 .
+
+#	NEW	airline	........ / plan	// His plan was to disable the aircraft ' s <a> cockpit voice recorder </a> before take-off and once airborne he intended to kill the crew using blunt force so their injuries would appear consistent with an accident rather than a hijacking .
+
+6	TRUE	Air Mikisew::airline	air mikisew / Air	
+<p> As of June 2010 , the Air Mikisew fleet consisted of the following aircraft until it ' s audit by Transport Canada : ref name=&quot ; FI&quot ; / </p>
+
+#	NEW	airline	........ / after	// On February 19 , 1985 , it was involved in an <a> aircraft upset incident </a> after the No . 4 engine <a> flamed out </a> .
+
+#	NEW	airline	........ / Air China Cargo	// <p> The Air China Cargo fleet consists of the following aircraft as of January 2010 : </p>
+
+9	FALSE	BETA Cargo::airline	beta cargo / operates international cargo	
+It operates international cargo charters in the Americas .
+
+10	TRUE	Business Aviation Center::airline	business aviation center / Business Aviation	
+<p> The Business Aviation Center fleet consists of the following aircraft ( at May 2010 ) : </p>
+
+11	TRUE	BritishJET::airline	britishjet / BritishJET	
+<p> The BritishJET fleet consisted of the following aircraft ( at March 2007 ) : </p>
+
+12	TRUE	Blue Bird Aviation::airline	blue bird aviation / Bird Aviation	
+<p> The Blue Bird Aviation fleet includes the following aircraft ( as of 4 July 2009 ) : </p>
+
+13	TRUE	Bemidji Airlines::airline	bemidji airlines / Bemidji Airlines	
+<p> The Bemidji Airlines fleet consists of the following aircraft ( at March 2007 ) ref name=&quot ; FI&quot ; / : </p>
+
+14	TRUE	Avioquintana::airline	avioquintana / Avioquintana	
+<p> The Avioquintana fleet includes the following aircraft ( at August 2006 ) : </p>
+
+15	TRUE	Aviavilsa::airline	aviavilsa / ch- aviation.	
+<p> The Aviavilsa fleet includes the following aircraft ( as of 15 March 2009 ) [ <a> http : / /www . ch-aviation . c / aircraft . php ? search=set&amp ; airline=LVR&amp ; al_op=1 </a> ] : </p>
+
+#	NEW	airline	........ / Aviast	// <p> The Aviast fleet includes the following aircraft ( at March 2007 ) : </p>
+
+17	TRUE	Focus Air Cargo::airline	focus air cargo / Air cargo	
+<p> The Focus Air cargo fleet consisted of the following aircraft ( at December 2007 ) ref name=&quot ; FI&quot ; / : </p>
+
+#	NEW	airline	........ / Angara Airlines	// <p> The Angara Airlines fleet includes the following aircraft ( at March ) </p>
+
+19	TRUE	Alberta Citylink::airline	alberta citylink / Citylink	
+<p> The Alberta Citylink fleet consists of the following aircraft ( at March 2007 ) ref name=&quot ; FI&quot ; / : </p>
+
+#	NEW	airline	........ / Air Service	// <p> The FS Air Service fleet consists of the following aircraft ( at January 2005 ) : </p>
+
+21	FALSE	Aircruising Australia::airline	aircruising australia / June 2008	
+<p> As of June 2008 , the fleet consists of : </p>
+
+22	TRUE	Air Universal::airline	air universal / Air	
+<p> The Air Universal fleet included the following aircraft : </p>
+
+23	FALSE	Air Satellite::airline	exact air / Air	
+Satellite uses the [ [ Cessna 402 ] ] ] ] The Air Satellite fleet was consisted in the following aircraft ( at August 2007 ) ref name=&quot ; FI&quot ; / : </p>
+
+24	TRUE	Air Freight NZ::airline	air freight nz / Air	
+<p> The Air Freight NZ fleet consists of the following aircraft ( at March <a> 2007 </a> ) ref name=&quot ; FI&quot ; / : </p>
+
+#	NEW	airline	........ / two	// <p> The airline operated a maximum of five aircraft after its 2003 expansion&mdash ; three <a> Boeing 737-200 </a> s and two <a> Fokker F28 </a> s . ref
+
+#	NEW	airline	........ / follows :	// The results of that investigation are as follows : </p>
+
+27	TRUE	Quantum Air::airline	quantum air / Air	
+<p> The Quantum Air fleet consisted of the following aircraft ( as of November 12 , 2009 ) : </p>
+
+#	NEW	airline	........ / June 2010 ) :	// <p> The fleet of Rico Linhas A&#x00e9 ; reas includes the following aircraft configured in all-economy class ( as of June 2010 ) : </p>
+
+#	NEW	airline	........ / Aeron&#	// <p> The Aeron&#x00e1 ; utica fleet includes the following aircraft ( at March 2007 ) : ref name=&quot ; FI&quot ; / </p>
+
+#	NEW	airline	........ / river .	// <p> Less than a minute after takeoff , the aircraft crashed into a mudbank of the river .
+
+#	NEW	airline	........ / Capital Cargo International Airlines	// <p> The Capital Cargo International Airlines fleet consists of the following aircraft ( as of 8 November 2008 ) [ <a> http : / /www . ch-aviation . c / aircraft . php ? search=set&amp ; airline=CCI&amp ; al_op=1 </a> ] : </p>
+
+#	NEW	airline	........ / year	// The aircraft was taken out of service in February 2004 and the 30-year old aircraft was scrapped in 2009 .
+
+33	TRUE	Tasair::airline	tasair / Tasair	
+<p> As of December 2009 the Tasair fleet consists of the following : </p>
+
+34	TRUE	Romavia::airline	romavia / December 2009 ) :	
+The Romavia fleet includes the following aircraft ( as of December 2009 ) : </p>
+
+#	NEW	airline	........ / center	// <p> The TAM Mercosur fleet consists of the following aircraft ( as of August 2010 ) : center / center </p>
+
+#	NEW	airline	........ / Challenge Air Cargo	// Centurion Air Cargo was then formed in July 1999 , taking over the <a> operating certificate </a> of Challenge Air Cargo includes : </p>
+
+#	NEW	airline	........ / Sibaviatrans	// It included <a> KrasAir </a> , <a> Domodedovo Airlines </a> , <a> Omskavia </a> , <a> Samara Airlines </a> and <a> Sibaviatrans </a> .
+
+38	TRUE	Air Excellence::airline	air excellence / Air	
+<p> As of August 2006 the Air Excellence fleet included : </p>
+
+#	NEW	airline	........ / Air	// <p> <strong> Air D ' Ayiti </strong> was a short-lived <a> airline </a> from <a> Haiti </a> , which was operational between 1997 and 1999 .
+
+40	TRUE	Aero Cuahonte::airline	aero cuahonte / Aero	
+<p> Aero Cuahonte served the following destinations : </p>
+
+#	NEW	airline	........ / Initially	// <p> Initially it was a direct competitor of <a> TABA &#x2013 ; Transportes A&#x00e9 ; reos da Bacia Amaz&#x00f4 ; nica </a> and flew with a fleet of 5 <a> Embraer EMB 110 Bandeirante </a> .
+
+#	NEW	airline	........ / December 2010 ) :	// <p> The fleet of Trip Linhas A&#x00e9 ; reas includes the following aircraft configured in all-economy class ( as of December 2010 ) : </p>
+
+#	NEW	airline	........ / aircraft .	// The majority of the passengers who died were in the middle of the aircraft .
+

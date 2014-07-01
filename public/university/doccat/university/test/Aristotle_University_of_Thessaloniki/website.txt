@@ -1,7 +1,0 @@
-<li><strong>Faculty of <a>Fine Arts</a></strong>
-<li>School of Visual and Applied Arts</li>
-<li>School of <a>Political Sciences</a></li>
-<li><strong>Faculty of Sciences</strong>
-<li>Internet connectivity to all AUTH members (students and staff)</li>
-<li>Organizes numerous activities and events related to its objectives.</li>
-These events can be theatrical plays, music concerts, <a>debate</a>s, chess competitions, art exhibitions and many more.

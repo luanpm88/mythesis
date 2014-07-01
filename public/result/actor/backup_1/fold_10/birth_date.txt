@@ -1,0 +1,51 @@
+Found: 20
+Found Not Null: 1
+Correct: 0
+Wrong: 1
+Total: 1
+precision: 0.0
+recall: 0.0
+
+
+
+#	NEW	birth_date	........ / ( May 10 , 1890 &	// <p> <strong> Clarence Brown </strong> ( May 10 , 1890 &ndash ; August 17 , 1987 ) was an <a> American </a> <a> film director </a> . </p>
+
+#	NEW	birth_date	........ / 11 , 1964 )	// <p> <strong> Calista Kay Flockhart </strong> ( born November 11 , 1964 ) is an American actor who is primarily recognized for her work in television .
+
+#	NEW	birth_date	........ / Apfelschnitt ,	// <p> His most recent film roles were in <em> <a> Left Luggage </a> </em> ( 1998 ) in the role of Mr . Apfelschnitt , and <em> <a> Time Elevator </a> </em> ( 1998 ) as Shalem . </p>
+
+#	NEW	birth_date	........ / 3 , 1943 )	// <p> <strong> Blythe Katherine Danner </strong> ( born February 3 , 1943 ) is an American <a> actress </a> .
+
+#	NEW	birth_date	........ / directors , a	// Palma at the [ [ 2009 Toronto International Film Festival ] ] ] ] De Palma is often cited as a leading member of the <a> New Hollywood </a> generation of film directors , a distinct pedigree who either emerged from film schools or are overtly cine-literate .
+
+#	NEW	birth_date	........ / film , Campbell	// <p> Outside of film , Campbell has appeared in a number of television series .
+
+#	NEW	birth_date	........ / ( 1986 ) ,	// <p> <strong> Movies </strong> : <em> <a> Mayflower Madam </a> </em> ( 1986 ) , <em> <a> Love , Lies and Murder </a> </em> ( 1991 ) , <em> <a> The Stepford Husbands </a> </em> ( 1996 ) . </p>
+
+#	NEW	birth_date	........ / role ,	// His performance in that film led director <a> Rob Reiner </a> to cast Elwes in another leading role , this time as the stable boy turned swashbuckler Westley in the comedy <em> <a> The Princess Bride </a> </em> .
+
+#	NEW	birth_date	........ / 24 , 1947 )	// <p> <strong> William Dwight Schultz </strong> ( born November 24 , 1947 ) is an <a> American </a> stage , television , and film <a> actor </a> .
+
+#	NEW	birth_date	........ / Georgia ,	// <p> Benedict ' s film debut was in the 1972 film <em> <a> Georgia , Georgia </a> </em> , which was entered into the <a> 23rd Berlin International Film Festival </a> .
+
+10	FALSE	Dolores Fuller::birth_date	1923 / overall,	
+However , she stated that she liked the film overall , praising <a> Johnny Depp </a> ' s performance in the title role . </p>
+
+#	NEW	birth_date	........ / ( 17 May 1866 &#	// <p> <strong> &#x00c9 ; ric Alfred Leslie Satie </strong> ( 17 May 1866 &#x2013 ; Paris , 1 July 1925 ) was a French <a> composer </a> and <a> pianist </a> .
+
+#	NEW	birth_date	........ / death ,	// <p> Shortly after Coleman ' s death , it was announced that <em> Avenue Q <strong> s rendition of Coleman would live on in the show . </strong> </em> </p>
+
+#	NEW	birth_date	........ / quot ; , but	// Chapman was also to have played a guest role as a television presenter in the <em> <a> Red Dwarf </a> </em> episode &quot ; Timeslides&quot ; , but died before filming was to have started . </p>
+
+#	NEW	birth_date	........ / Roddenberry ,	// <p> <strong> Eugene Wesley &quot ; Gene&quot ; Roddenberry , Sr </strong> ( August 19 , 1921 &#x2013 ; October 24 , 1991 ) was an American television screenwriter , producer and <a> futurist </a> , best known for creating the American science fiction series <em> <a> Star Trek </a> </em> .
+
+#	NEW	birth_date	........ / ( 8 September 1921 &#	// <p> <strong> Sir Harry Donald Secombe </strong> <a> CBE </a> ( 8 September 1921 &#x2013 ; 11 April 2001 ) was a <a> Welsh </a> entertainer with a talent for comedy and a noted fine tenor singing voice .
+
+#	NEW	birth_date	........ / 25 , 1899 &# ,	// <p> <strong> Humphrey DeForest Bogart </strong> ( December 25 , 1899 &#x2013 ; January 14 , 1957 ) was an <a> American </a> actor .
+
+#	NEW	birth_date	........ / films , Caprino	// <p> In addition to the short films , Caprino produced dozens of advertising films with puppets .
+
+#	NEW	birth_date	........ / April	// In April and May 2005 , he played the role of Mel Hutchwright in <a> Granada Television </a> ' s long running soap opera , <em> <a> Coronation Street </a> </em> , fulfilling a lifelong ambition .
+
+#	NEW	birth_date	........ / May 30 , 1959 )	// <p> <strong> Elyssa Davalos </strong> ( born May 30 , 1959 ) was an American <a> television </a> and <a> movie </a> actress .
+

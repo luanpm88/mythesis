@@ -1,0 +1,118 @@
+Found: 44
+Found Not Null: 20
+Correct: 17
+Wrong: 3
+Total: 20
+precision: 0.85
+recall: 0.85
+
+
+
+0	TRUE	Blue Wings::callsign	blue wings / Blue	
+<p> <strong> Blue Wings AG </strong> was a <a> charter airline </a> based in <a> Germany </a> , focussing on serving <a> Turkey </a> , the <a> Middle East </a> and <a> Russia </a> from its base at <a> D&#x00fc ; sseldorf International Airport </a> ; the headquarters were in <a> Bocholt , Germany </a> . </p>
+
+#	NEW	callsign	........ / It	// <p> It also operated the <a> Sendai Airport </a> ( <strong> SDJ </strong> ) , near <a> Sendai , Miyagi </a> to <a> Narita International Airport </a> ( <strong> NRT </strong> ) route . </p>
+
+#	NEW	callsign	........ / Compass	// <p> <strong> Compass Airlines </strong> operated in <a> Australia </a> for two brief periods in the early 1990s .
+
+#	NEW	callsign	........ / West	// <p> <strong> East-West Airlines </strong> was an <a> Australia </a> n <a> regional airline </a> founded in <a> Tamworth , New South Wales </a> in 1947 .
+
+#	NEW	callsign	........ / Air	// It is sometimes referred to as <strong> Manchukuo Air Transport Company </strong> . </p>
+
+5	TRUE	Air Contractors::callsign	contract / Air	
+<p> <strong> Air Contractors ( Ireland ) Limited </strong> is a freight <a> airline </a> based in <a> Dublin </a> , <a> Ireland </a> .
+
+6	TRUE	Eirjet::callsign	eirjet / Shannon International	
+<p> <strong> Eirjet </strong> was a <a> charter airline </a> with its head office on the grounds of <a> Shannon International Airport </a> in <a> Shannon </a> , <a> County Clare </a> , <a> Ireland </a> .
+
+7	TRUE	Alpi Eagles::callsign	alpi eagles / di	
+<p> <strong> Alpi Eagles SpA </strong> was an <a> airline </a> headquartered in <a> Sant ' Angelo di Piove di Sacco </a> , <a> Italy </a> .
+
+#	NEW	callsign	........ / Air	// <p> Based on the northern side of Male&#x2019 ; International Airport , Maldivian Air Taxi currently has a fleet of 24 Twin Otters , servicing 40 of the 90 resorts in the Maldives .
+
+9	TRUE	Livingston Energy Flight::callsign	livingston / Livingston	
+<p> <strong> Livingston S . p . A . </strong> was an <a> Italian </a> <a> airline </a> with its head office in <a> Cardano al Campo </a> , <a> Varese </a> , <a> Italy </a> .
+
+10	TRUE	EuroLOT::callsign	eurolot / Warsaw	
+<p> <strong> EuroLOT </strong> is an <a> airline </a> based in <a> Warsaw </a> , <a> Poland </a> .
+
+11	FALSE	EuroAtlantic Airways::callsign	euroatlantic / I	
+It operates worldwide charter services , with an emphasis on <a> the USA </a> , <a> Canada </a> , <a> Mexico </a> , <a> Pakistan </a> and <a> Australia </a> , as well as ACMI ( <strong> A </strong> ircraft , <strong> C </strong> rew , <strong> M </strong> aintenance and <strong> I </strong> nsurance ) and other <a> wet lease </a> operations .
+
+#	NEW	callsign	........ / Continental	// <p> <strong> <a> Continental Airlines </a> Flight 11 </strong> , registration N70775 , was a <a> Boeing 707 </a> aircraft which exploded close to <a> Centerville , Iowa </a> , while en route from <a> O ' Hare Airport </a> , <a> Chicago , Illinois </a> , to <a> Kansas City , Missouri </a> , on May 22 , 1962 .
+
+13	TRUE	KrasAir::callsign	krasnoyarsk air / Krasnoyarsk	
+<p> <strong> KrasAir </strong> or <strong> Krasnoyarsk Airlines </strong> ( ) was a <a> Russia </a> n airline with its head office on the grounds of <a> Krasnoyarsk Yemelyanovo Airport </a> in <a> Krasnoyarsk </a> .
+
+14	TRUE	Anikay Air::callsign	anikay / Air	
+<p> <strong> Anikay Air </strong> Company is a <a> charter airline </a> based in <a> Bishkek </a> in <a> Kyrgyzstan </a> .
+
+#	NEW	callsign	........ / Air	// <p> <strong> Elbe Air </strong> ( Elbe Air Lufttransport GmbH ) was an <a> airline </a> based in <a> Germany </a> . </p>
+
+#	NEW	callsign	........ / First	// <p> <strong> Italy First </strong> was a regional charter <a> airline </a> based in <a> Rimini </a> in <a> Italy </a> .
+
+#	NEW	callsign	........ / Birdy	// <p> <strong> Birdy Airlines </strong> was an <a> airline </a> based in <a> Belgium </a> that offered long-haul flights using a fleet of three <a> Airbus A330-300 </a> aircraft .
+
+18	FALSE	Isleña Airlines::callsign	islena / Isle&#	
+<p> <strong> Isle&#x00f1 ; a Airlines </strong> ( Isle&#x00f1 ; a de Inversiones SA de CV ) is an <a> airline </a> based in <a> La Ceiba </a> , <a> Honduras </a> .
+
+#	NEW	callsign	........ / Air	// <p> <strong> Windrose Air </strong> is an <a> airline </a> based in <a> Sch&#x00f6 ; nefeld </a> , <a> Germany </a> operating business and private charter services , cargo and air ambulance services .
+
+#	NEW	callsign	........ / Willow	// <p> <strong> USA Jet Airlines </strong> is an <a> American </a> air carrier with its headquarters on the grounds of <a> Willow Run Airport </a> and in <a> Van Buren Township </a> , <a> Michigan </a> .
+
+21	TRUE	Avies::callsign	avies / Tallinn	
+<p> <strong> Avies </strong> Air Company is an <a> airline </a> based in <a> Tallinn </a> , <a> Estonia </a> .
+
+#	NEW	callsign	........ / Air	// <p> <strong> Copenhagen Air Taxi </strong> is an <a> airline </a> based in <a> Roskilde </a> , <a> Denmark </a> .
+
+#	NEW	callsign	........ / France	// <p> <strong> Aero Services Executive </strong> is an <a> airline </a> company based in <a> France </a> .
+
+#	NEW	callsign	........ / air	// <p> <strong> Finist ' air </strong> is an <a> airline </a> based at <a> Brest Guipavas Airport </a> in <a> France </a> .
+
+#	NEW	callsign	........ / Germany	// <p> <strong> Stuttgarter Flugdienst </strong> , commonly abbreviated <strong> SFD </strong> , is an <a> airline </a> based in <a> Stuttgart </a> , <a> Germany </a> , operating <a> corporate </a> charter flights out of <a> Stuttgart Airport </a> . </p>
+
+26	TRUE	Aviator Airways::callsign	aviator / Aviator	
+<p> <strong> Aviator Airways </strong> is an <a> airline </a> based at <a> Athens International Airport </a> in <a> Greece </a> .
+
+27	TRUE	Trans Island Air 2000::callsign	trans island / Trans	
+<p> <strong> Trans Island Air </strong> is an <a> airline </a> based in <a> Christ Church </a> in <a> Barbados </a> operating charters throughout the Caribbean .
+
+28	TRUE	Medavia::callsign	medavia / Medavia	
+<p> <strong> Medavia </strong> ( Mediterranean Aviation Co . Ltd ) is an <a> airline </a> based in <a> Luqa </a> , <a> Malta </a> .
+
+#	NEW	callsign	........ / Metropolis	// <p> <strong> Metropolis </strong> ( Metropolis Noord 1 BV ) is an <a> airline </a> based in the <a> Netherlands </a> . </p>
+
+#	NEW	callsign	........ / Interisland	// <p> <strong> Air Turks and Caicos </strong> ( formerly known as <strong> Interisland Airways </strong> ) is a passenger <a> airline </a> based on the <a> Turks and Caicos Islands </a> .
+
+31	TRUE	Air Corsica::callsign	corsica / Air	
+<p> <strong> Compagnie A&#x00e9 ; rienne Corse M&#x00e9 ; diterran&#x00e9 ; e S . A . E . M . </strong> , <a> trading as </a> <strong> Air Corsica </strong> ( formerly <em> CCM Airlines </em> ) , is a <a> regional airline </a> with its head office on the grounds of <a> Ajaccio &#x2013 ; Campo dell ' Oro Airport </a> ( Napoleon Bonaparte Airport ) in <a> Ajaccio </a> , <a> Corsica </a> , <a> France </a> .
+
+#	NEW	callsign	........ / Augsburg	// <p> <strong> Augsburg Airways <a> GmbH </a> </strong> is a regional <a> airline </a> based in <a> Hallbergmoos </a> , <a> Germany </a> .
+
+33	TRUE	Sibaviatrans::callsign	sibavia / Krasnoyarsk	
+<p> <strong> Sibaviatrans </strong> ( Joint Stock Company SIAT ) was an <a> airline </a> based in <a> Krasnoyarsk </a> , <a> Russia </a> .
+
+34	TRUE	Skytrans Airlines::callsign	skytrans / Darwin	
+<p> <strong> Skytrans </strong> is an Australian airline and air charter business with bases in Cairns , Townsville , Darwin , Brisbane and Perth .
+
+#	NEW	callsign	........ / Continental	// <p> <strong> Continental Airways </strong> was a scheduled passenger <a> airline </a> based in <a> Moscow </a> , <a> Russia </a> .
+
+36	TRUE	Gazpromavia::callsign	gazprom / Gazpromavia	
+<p> <strong> Gazpromavia </strong> ( Gazpromavia Aviation ) is an <a> airline </a> based in <a> Moscow </a> , <a> Russia </a> .
+
+#	NEW	callsign	........ / Ltd	// <p> <strong> Airstars , Ltd </strong> ( ) is a <a> cargo airline </a> based in <a> Moscow </a> , <a> Russia </a> .
+
+#	NEW	callsign	........ / Centre-	// <p> <strong> Centre-Avia Airlines </strong> is an <a> airline </a> based in <a> Moscow </a> , <a> Russia </a> , operating domestic and international services .
+
+#	NEW	callsign	........ / Rikor	// <p> The airline was established in 1993 as <strong> Karat Air Company </strong> ( formerly known as <strong> Rikor </strong> ) .
+
+40	FALSE	UTair Express::callsign	- / UTair Express	
+<p> <strong> UTair Express </strong> is an <a> airline </a> based in <a> Russia </a> .
+
+41	TRUE	SpiceJet::callsign	spicejet / SpiceJet	
+<p> <strong> SpiceJet </strong> is a <a> low-cost airline </a> headquartered in <a> Gurgaon </a> , <a> India </a> .
+
+#	NEW	callsign	........ / ATR	// <p> <strong> <a> ATR 42 </a> </strong> </p>
+
+#	NEW	callsign	........ / Germany	// <strong> Germania Fluggesellschaft mbH </strong> , operating as <strong> Germania </strong> is an <a> airline </a> with its headquarters in <a> Berlin </a> , <a> Germany </a> .
+

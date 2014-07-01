@@ -1,0 +1,107 @@
+Found: 41
+Found Not Null: 13
+Correct: 3
+Wrong: 10
+Total: 14
+precision: 0.23076923076923078
+recall: 0.21428571428571427
+
+
+
+#	NEW	fleet_size	........ / 7	// <p> On the night of June 6 , 1992 , the aircraft , a <a> Boeing 737-204 Advanced </a> registered as HP-1205 , took off from <a> Tocumen International Airport </a> in <a> Panama City </a> for a flight to <a> Cali </a> , <a> Colombia </a> with 40 passengers and 7 crew .
+
+1	FALSE	DHL International Aviation ME::fleet_size	7 / 22	
+<p> The DHL International fleet consists of the following aircraft ( at 22 March 2009 ) : </p>
+
+#	NEW	fleet_size	........ / 2010	// <p> As of December 2010 , the Chengdu Airlines fleet consists of the following aircraft with an average age of 7 . 7 years : center / center </p>
+
+3	FALSE	Tatarstan Airlines::fleet_size	7 / 2010 :	
+<p> Tatarstan Airlines operates the following aircraft , as of July , 2010 : </p>
+
+4	FALSE	Europe Airpost::fleet_size	19 / 2010	
+<p> As in October 2010 , the average age of the Europe Airpost fleet is 17 . 8 years . </p>
+
+#	NEW	fleet_size	........ / 2008 ) :	// <p> The Dolphin Air fleet includes the following aircraft ( at February 2008 ) : </p>
+
+6	FALSE	Chukotavia::fleet_size	19 / 26	
+An-26 ] ] at <a> Ugolny Airport </a> ] ] As of July 2007 , the ChukotAVIA fleet includes the following aircraft : ref name=&quot ; ATM&quot ; / </p>
+
+#	NEW	fleet_size	........ / 2010	// <p> As of December 2010 , the Hi Fly fleet consists of the following aircraft with an average of 11 . 9 years : br center / center </p>
+
+8	FALSE	Jet Air::fleet_size	5 / following	
+<p> The Jet Air fleet consists of the following aircraft ( ) : </p>
+
+#	NEW	fleet_size	........ / 2010	// <p> As of November 2010 West Wind Aviation had the following aircraft registered with <a> Transport Canada </a> . .
+
+10	FALSE	IBC Airways::fleet_size	19 / 2011 ) :	
+<p> The IBC Airways fleet includes the following aircraft ( at Jan 2011 ) : ref name=&quot ; FI&quot ; / </p>
+
+#	NEW	fleet_size	........ / 14	// <p> The NTSB found that the Flight Data Recorder on board the aircraft had become inoperative approximately 14 minutes before the crash .
+
+#	NEW	fleet_size	........ / 707	// Cargo fleet includes 3 <a> Boeing 707 </a> aircraft .
+
+#	NEW	fleet_size	........ / ,	// <p> Following the incident , the aircraft was repaired and returned to service still bearing the name &quot ; Canyon Blue . &quot ; </p>
+
+#	NEW	fleet_size	........ / The	// <p> The FAA did follow through with a suspension of their licenses , shortly after they finally appeared . </p>
+
+#	NEW	fleet_size	........ / 2007 )	// <p> The FIGAS fleet consists of the following aircraft ( at March 2007 ) ref name=&quot ; FI&quot ; / : </p>
+
+#	NEW	fleet_size	........ / 2007 ) :	// <p> The Girjet fleet consisted of the following aircraft ( at December 2007 ) : </p>
+
+#	NEW	fleet_size	........ / 22	// The fleet reached 22 aircraft at its peak with aircraft being acquired second hand up to 1992 . </p>
+
+#	NEW	fleet_size	........ / 1998 .	// / br / The airline suspended air operations in late 1997 to focus its attention on expanding its facilities , and acquiring a modern aircraft fleet starting with a new <a> STOL </a> type 19-seater <a> Dornier </a> 228-212 aircraft in April 1998 . br
+
+#	NEW	fleet_size	........ / 1936 )	// 1936 ) was the only one of the family who was not onboard the aircraft .
+
+20	TRUE	Concors::fleet_size	1 / 410	
+<p> As of March 2007 , the Concors fleet included of only one small aircraft , a <a> Let L-410 UVP </a> . ref
+
+#	NEW	fleet_size	........ / 2007	// <p> The Dornier Aviation Nigeria fleet includes the following aircraft ( at March <a> 2007 </a> ) ref name=&quot ; FI&quot ; / : </p>
+
+#	NEW	fleet_size	........ / 200	// <p> The East African Airlines fleet consisted of one single ageing <a> Boeing 737-200 </a> aircraft . </p>
+
+#	NEW	fleet_size	........ / operated	// <p> Cascade operated the following aircraft types : </p>
+
+24	FALSE	Egoli Air::fleet_size	4 / 2007 )	
+<p> The Egoli Air fleet consists of the following aircraft ( at March 2007 ) ref name=&quot ; FI&quot ; / : </p>
+
+#	NEW	fleet_size	........ / 76	// The fleet of helicopters includes a <a> Sikorsky S-76 </a> C and an <a> Agusta A109 </a> Power ' Elite ' .
+
+26	TRUE	Gensa::fleet_size	2 / 2010	
+<p> As of August 2010 the GENSA fleet includes </p>
+
+#	NEW	fleet_size	........ / 2006 .	// The airline suspended services in March 2006 .
+
+28	FALSE	Estafeta Carga Aérea::fleet_size	7 / 2009	
+<p> As of April 2009 , the average age of the Estafeta Carga A&#x00e9 ; rea fleet is 19 . 8 years . </p>
+
+#	NEW	fleet_size	........ / operated	// <p> Fairline operated the following services : </p>
+
+#	NEW	fleet_size	........ / 2005 ) .	// <p> The Flight Alaska fleet consists of <a> Cessna 207 </a> and <a> Cessna 207A </a> aircraft ( at January 2005 ) . </p>
+
+#	NEW	fleet_size	........ / 2009	// <p> As of January 2009 , the Freight Runners Express fleet consists of the following aircraft : </p>
+
+#	NEW	fleet_size	........ / wet-	// It operated cargo services in <a> West Africa </a> using <a> wet-lease </a> d aircraft as required . </p>
+
+33	FALSE	Yangtze River Express::fleet_size	9 / 2011 ) :	
+<p> The Yangtse River Express fleet consists of the following aircraft ( as of January 2011 ) : </p>
+
+#	NEW	fleet_size	........ / 2010	// <p> As of April 2010 Voyageur Airways had the following aircraft registered with <a> Transport Canada </a> ref name=&quot ; TCFleet&quot ; / : </p>
+
+#	NEW	fleet_size	........ / ,	// <p> When operations ceased , the Knighthawk Air Express fleet consisted of the following aircraft : </p>
+
+36	FALSE	Guinea Ecuatorial Airlines::fleet_size	1 / 2008 ) :	
+<p> The Guinea Ecuatorial Airlines fleet includes the following aircraft ( at February 2008 ) : </p>
+
+37	TRUE	Imair Airlines::fleet_size	2 / 23	
+<p> The Imair Airlines fleet included the following aircraft ( at 23 November 2009 ) </p>
+
+#	NEW	fleet_size	........ / 2007 )	// <p> The Inversija fleet consists of the following aircraft ( at March 2007 ) ref name=&quot ; FI&quot ; / : </p>
+
+#	NEW	fleet_size	........ / x00e9 ;	// <p> When Garcez believed the aircraft to be close to the destination , he attempted to use his <a> VHF </a> <a> radio </a> to communicate with Bel&#x00e9 ; m Tower , but failed to do so directly , so he utilized another Varig airliner , RG-266 , as a radio relay to be able to talk to Bel&#x00e9 ; m Airport .
+
+#	NEW	fleet_size	........ / 15	// <p> The Jetairfly fleet includes the following aircraft ( at 15 May 2009 ) : </p>
+
+#	null	fleet_size	7 / ..........
+

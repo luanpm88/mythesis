@@ -1,0 +1,14 @@
+Found: 3
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	birthdate	........ / 10 May 1944 )	// <p> <strong> Marie-France Pisier </strong> ( born 10 May 1944 ) is a French actress .
+
+#	NEW	birthdate	........ / April 1961 ) is a British-born Australian actress , comedian , television presenter , radio host and author .	// <p> <strong> Magda Szubanski </strong> ( born 12 April 1961 ) is a British-born Australian actress , comedian , television presenter , radio host and author . </p>
+
+#	NEW	birthdate	........ / 2 , 1957 )	// <p> <strong> Joanna Pacula </strong> ( born January 2 , 1957 ) is a <a> Polish </a> <a> actress </a> . </p>
+

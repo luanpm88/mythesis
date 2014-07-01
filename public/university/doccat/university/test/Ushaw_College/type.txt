@@ -1,8 +1,0 @@
-<li><a>Cardinal Bourne</a> - Cardinal Archbishop of Westminster</li>
-<li><a>Cardinal Hinsley</a> - Cardinal Archbishop of Westminster</li>
-<li><a>Cardinal Godfrey</a> - Cardinal Archbishop of Westminster</li>
-<li><a>Cardinal Heenan</a> - Cardinal Archbishop of Westminster</li>
-<li><a>Cardinal Merry del Val y Zulueta</a> - Cardinal Secretary of State</li>
-<li><a>Bishop Hugh Lindsay</a> - 10th <a>Bishop of Hexham and Newcastle</a></li>
-<li><a>Bishop Alexander Goss</a> - <a>Bishop of Liverpool</a></li>
-<li><a>Bishop Mark Davies</a> - <a>Bishop of Shrewsbury</a></li>

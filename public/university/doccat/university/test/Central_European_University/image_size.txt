@@ -1,8 +1,0 @@
-<p>CEU has been recognized for its academic excellence in two surveys.
-<p>Today, CEU is an internationally recognized institution of higher education, serving as an advanced center for research, policy making and academic dialogue.
-<li><a>P&#x00e9;ter Bal&#x00e1;zs</a>, <a>International Relations</a>, Minister of Foreign Affairs of Hungary</li>
-<li><a>Wai Chee Dimock</a>, English and American Studies</li>
-<li><a>P&#x00e9;ter Han&#x00e1;k</a>, <a>History</a></li>
-<li><a>J&#x00e1;nos Kis</a>, <a>Political Philosophy</a></li>
-<li><a>J&#x00e1;nos Kornai</a>, <a>Economics</a></li>
-<li><a>Tibor V&#x00e1;rady</a>, <a>Law</a></li>

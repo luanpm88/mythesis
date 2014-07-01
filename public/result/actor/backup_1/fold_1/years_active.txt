@@ -1,0 +1,430 @@
+Found: 211
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	years_active	........ / 1939 .	// The sole film in which she played the leading role was <em> Mrs Pym of Scotland Yard </em> in 1939 .
+
+#	NEW	years_active	........ / 1996 .	// After acting in several films , he got his first leading role through <a> Suami , Isteri , dan . . . </a> in 1996 .
+
+#	NEW	years_active	........ / 22	// With Rains unavailable for the series ' second season in July 2008 , his brother Ethan was cast in the role starting 22 July 2008 . </p>
+
+#	NEW	years_active	........ / 7	// In 2008 , she appeared in 7 films , predominantly in Telugu-language films .
+
+#	NEW	years_active	........ / 1996 )	// <p> <strong> Bobb ' e Jaques Thompson </strong> ( born February 28 , 1996 ) is an American teen actor .
+
+#	NEW	years_active	........ / 1976-1977	// <p> <strong> Earl William Billings </strong> ( born July 4 , 1945 ) is an American character actor who may best be known as Rob in the 1976-1977 television series <em> <a> What ' s Happening ! ! </a> </em> . </p>
+
+#	NEW	years_active	........ / 2007	// In 2007 she began filming for a new television series , again with Anabel Barnston ( Mona in <em> The New Worst Witch </em> ) .
+
+#	NEW	years_active	........ / 16	// He is also set to portray the role of Rudra in DJ ' s creative unit serial airing on Zee TV , <em> Sanjog se Bani . . . Sangini </em> , set to begin airing on 16 August 2010 . </p>
+
+#	NEW	years_active	........ / 17	// <p> <strong> Lee Whitlock </strong> ( born 17 April 1968 ) is a British television actor . </p>
+
+#	NEW	years_active	........ / 33 .	// <em> Lulu in Hollywood : Expanded Edition </em> , p . 33 .
+
+#	NEW	years_active	........ / ( 8	// <p> <strong> James Gordon Reid </strong> ( 8 June 1939 &ndash ; 26 November 2003 ) </p>
+
+#	NEW	years_active	........ / 12 .	// <p> She was brought up in <a> Holme Wood </a> in Bradford , West Yorkshire , and has been acting since age 12 .
+
+#	NEW	years_active	........ / 2009	// He was elevated to star billing for the third series , broadcast on BBC One in Summer 2009 , reflecting his growing role in the series .
+
+#	NEW	years_active	........ / 12	// <p> <strong> Phoebe Jane Elizabeth Tonkin </strong> ( born 12 July She has appeared in various commercials , including ones for <a> Vauxhall Motors </a> and Chic Management . </p>
+
+#	NEW	years_active	........ / 1989 .	// He played the role of Mumtaz ' s son in her disastrous comeback film Aandhiyaan in 1989 .
+
+#	NEW	years_active	........ / 2002	// In February 2002 she moved back to <a> Los Angeles </a> to pursue film and television .
+
+#	NEW	years_active	........ / ( 2001&#	// She had a recurring role on <em> <a> Felicity </a> </em> as Zoe Webb ( 2001&#x2013 ; 2002 ) .
+
+#	NEW	years_active	........ / 2009	// His profesional partner for 2009 was one of the new girls Aliona Vilani .
+
+#	NEW	years_active	........ / ( 1920 ) .	// She made twenty-six motion pictures , ending with the role of Violet Bronson in <em> The Mystery Mind </em> ( 1920 ) .
+
+#	NEW	years_active	........ / 1990 .	// <p> He has appeared in Belgian TV series such as <em> <a> Alfa Papa Tango </a> </em> in 1990 .
+
+#	NEW	years_active	........ / ( 2000 ) .	// Other notable television credits include roles in <em> Big Bad World </em> ( 1999 ) ; <em> <a> Bad Girls </a> </em> ( 1999 ) and <em> Meaningful Sex </em> ( 2000 ) .
+
+#	NEW	years_active	........ / 50	// <p> Bob Van der Veken , a familiar face on Belgian television began his career in television in 1956 and has made well over 100 appearances in his 50 year career .
+
+#	NEW	years_active	........ / 6	// <p> She first took the stage at the age of 6 , participating in the Red Army Theatre plays .
+
+#	NEW	years_active	........ / 27	// <p> <strong> Cristian Solimeno </strong> ( born 27 April 1975 in <a> London </a> ) is an English actor . </p>
+
+#	NEW	years_active	........ / 8	// <p> Kym Marsh and Jamie Lomas announced their split , and on the 8 October 2009 Lomas moved out of Marsh ' s home .
+
+#	NEW	years_active	........ / 45	// In order to pursue a show business career , and not deal with certain SAG issues regarding minors , it was necessary for Cheryl to obtain papers stating that she was born two years earlier , thus making her only 45 years old when she died . </p>
+
+#	NEW	years_active	........ / ( 2006 ) .	// He signed for a regular role as Joe Whedon on the hit prime-time family drama <a> Brothers &amp ; Sisters </a> ( 2006 ) .
+
+#	NEW	years_active	........ / 22-	// He fell in love with a 22-year-old Indian girl when he was 17 .
+
+#	NEW	years_active	........ / 1952	// <p> After appearing in ten films within five years , Norden left Britain for America in 1952 , where she settled in New York and married her third husband , US Air Force sergeant Mitchell Dodge .
+
+#	NEW	years_active	........ / 1 . 78	// He has brown eyes and black hair , is 1 . 78 m ( 5 <code> 10 ) tall , and is not to be confused with Daniel Percival , the British writer and director . </code> </p>
+
+#	NEW	years_active	........ / 50	// She made it through the Hollywood round to the top 50 but got cut just before the Top 24 were selected . </p>
+
+#	NEW	years_active	........ / 2006	// On January 24 , 2006 , Kristy replaced Gasteyer in the lead role .
+
+#	NEW	years_active	........ / 1979 )	// <p> <strong> Erin Chambers </strong> ( born September 24 , 1979 ) is an American actress commonly known for her roles in <a> LDS films </a> .
+
+#	NEW	years_active	........ / 4	// <p> <strong> Se&#x00e1 ; n Barrett </strong> ( born 4 May 1940 , Hampstead , London , England , UK ) is a <a> British </a> actor and voice actor . </p>
+
+#	NEW	years_active	........ / 1989	// From 1989 onwards she had a number of minor parts in prominent television series . </p>
+
+#	NEW	years_active	........ / 1962 .	// Despite these moves , a federal antitrust suit was started against MCA in 1962 .
+
+#	NEW	years_active	........ / 1958 ) .	// They have two children , Leslie Price ( who was born in 1956 ) , and Donald L . Petersen ( who was born in 1958 ) .
+
+#	NEW	years_active	........ / 27	// On 27 November 2009 , he appeared on the Channel 4 Show <em> <a> Comedy Showcase : The Increasingly Poor Decisions of Todd Margaret </a> </em> as a Bomb Disposal Officer .
+
+#	NEW	years_active	........ / 2002	// He studied English Literature and Drama at Birmingham University , graduating in 2002 with first class honours , and set up a small theatre company before deciding to go to drama school .
+
+#	NEW	years_active	........ / 1987	// When Smith ' s parents divorced in 1987 , his father left the family , so he was raised by his mother .
+
+#	NEW	years_active	........ / 1998	// He moved to <a> Austin </a> in 1998 to open ADV ' s Monster Island Studios .
+
+#	NEW	years_active	........ / 1988 )	// <p> <strong> Katrina Bowden </strong> ( born September 19 , 1988 ) is an American actress .
+
+#	NEW	years_active	........ / ( 3	// <p> <strong> Robert Walter Quarry </strong> ( 3 November 1925 &ndash ; 20 February 2009 ) was an <a> American </a> actor , known for several prominent <a> horror film </a> roles . </p>
+
+#	NEW	years_active	........ / 1973	// <p> <strong> David Julian Hirsh </strong> ( born October 26 , 1973 in Montreal ) stars on the TV series Hawthorne on TNT .
+
+#	NEW	years_active	........ / 2000	// Malcolm became a pantomime dame , in 2000 when he took on the role of Mother Goose at Coventry&#x2019 ; s Belgrade Theatre .
+
+#	NEW	years_active	........ / 2000	// She returned to the role again in the 2000 film <strong> <em> ' .
+
+#	NEW	years_active	........ / 1925 .	// After divorcing Cruze , Marguerite married <a> Neely Edwards </a> , film comedian , on December 25 , 1925 .
+
+#	NEW	years_active	........ / 1991	// <p> Mullan hired Lewis for a role in the short <em> Close </em> which began filming in 1991 but took some three years to complete .
+
+#	NEW	years_active	........ / 1994	// <p> She became popular after her role in <a> Hum Aapke Hain Kaun </a> , a 1994 blockbuster film .
+
+#	NEW	years_active	........ / 25	// <p> <strong> Oliver Milburn </strong> ( b . 25 February 1973 , <a> Northumberland </a> ) , occasionally known by the name <strong> Oz Milburn </strong> , is an <a> English </a> actor . </p>
+
+#	NEW	years_active	........ / 1967	// <p> Wint moved to Canada in 1967 with his family .
+
+#	NEW	years_active	........ / 1943 .	// His last film , <em> <a> Devotion </a> </em> , was released three years after his death in 1943 .
+
+#	NEW	years_active	........ / 2010 .	// Memorial services were held in Tokyo Memolead Hall on January 19 , 2010 .
+
+#	NEW	years_active	........ / 18	// <p> <strong> Sophie Choudry </strong> ( born <strong> Sophia Choudhry </strong> , 18 February 1981 ) is an Indian film actress , singer , former <a> MTV India </a> VJ and occasional model and anchor . </p>
+
+#	NEW	years_active	........ / 1937 ) .	// Her early roles were in such films as <em> Footloose Heiress </em> , <em> Three Legionnaires </em> , <em> Torchy Blane , the Adventurous Blonde </em> ( all from 1937 ) .
+
+#	NEW	years_active	........ / ( 1984	// Her last film was INTEHA ( 1984 film ) .
+
+#	NEW	years_active	........ / 17	// <p> <strong> Harry Lloyd </strong> ( born 17 November 1983 ) is an English actor .
+
+#	NEW	years_active	........ / 140	// A specialist in <em> <a> jidaigeki </a> </em> , Kinnosuke appeared in more than 140 films .
+
+#	NEW	years_active	........ / 1930 &	// <p> <strong> Bud Ekins </strong> ( May 11 , 1930 &ndash ; October 6 , 2007 ) was one of the foremost <a> stuntmen </a> of his generation .
+
+#	NEW	years_active	........ / 1921 &	// <p> <strong> Michael Fox </strong> ( February 27 , 1921 &ndash ; June 1 , 1996 ) was an American <a> character actor </a> who was in numerous movies and television roles .
+
+#	NEW	years_active	........ / ( 1955 ) .	// Her mother Ammaji ( aka Jayasree ) was an actress , who had acted in films such as the Tamil film &quot ; Mahaveeran&quot ; ( 1955 ) .
+
+#	NEW	years_active	........ / 2002 .	// Sisco received two <a> Emmy Award </a> nominations , in 2001 and 2002 .
+
+#	NEW	years_active	........ / 2011 .	// <p> R and R Film are also developing the feature film &quot ; Tides&quot ; , written by Jason Clarke , which aims to shoot early summer 2011 .
+
+#	NEW	years_active	........ / 1935	// He began his film career at <a> Warner Bros . </a> in 1935 , directing screen tests .
+
+#	NEW	years_active	........ / 1995 .	// <p> Helovirta entered film in <a> 1950 </a> and made about 40 Finnish films between then and 1995 .
+
+#	NEW	years_active	........ / 15	// <p> <strong> Pamela Tola </strong> ( born 15 October 1981 ) is a <a> Finnish </a> <a> actress </a> . </p>
+
+#	NEW	years_active	........ / 2007 .	// <p> He appeared in an Apple ' Get a Mac ' advertisement in 2007 .
+
+#	NEW	years_active	........ / 16	// <p> <strong> Nicholas Frankau </strong> ( born 16 July 1954 in <a> Stockport </a> ) is an English actor best known for playing the role of <a> Flt .
+
+#	NEW	years_active	........ / ( 1994 ) .	// He starred in the movie <a> Tom &amp ; Viv </a> as Maurice Haigh-Wood in ( 1994 ) .
+
+#	NEW	years_active	........ / 25	// It was revealed on 25 April 2010 , that Haworth had been axed from <a> Coronation Street </a> alongside the rest of the Peacock Family . </p>
+
+#	NEW	years_active	........ / 1917 -	// <p> <strong> Meg Wyllie </strong> ( born <strong> Margaret Gillespie Wyllie </strong> ; February 15 , 1917 - January 1 , 2002 ) was an American <a> actress </a> .
+
+#	NEW	years_active	........ / 1901&	// <p> <strong> Jean Yarbrough </strong> ( August 22 , 1901&ndash ; August 2 , 1975 ) was an <a> American </a> <a> film director </a> . </p>
+
+#	NEW	years_active	........ / ( 2008 )	// Wyler had already filmed her appearance in McKay ' s sequel , </em> Broadway : Beyond the Golden Age <em> ( 2008 ) before she died . </em> </strong> </p>
+
+#	NEW	years_active	........ / 19 .	// Nam left Sydney to follow his dreams of an acting career in <a> New York City </a> at the age of 19 .
+
+#	NEW	years_active	........ / 20	// <p> Dominic is a self-confessed zombie obsessive and together with fellow <em> Emmerdale </em> actor <a> Mark Charnock </a> , conducted Leeds ' first zombie film festival on 20 April 2008 . </p>
+
+#	NEW	years_active	........ / 1979 )	// <p> <strong> Kaj-Erik Eriksen </strong> ( born February 15 , 1979 ) is a Canadian actor .
+
+#	NEW	years_active	........ / ( 1986 ) .	// <p> Coquillon&#x2019 ; s other films include <em> <a> The Wilby Conspiracy </a> </em> ( 1975 ) and <em> <a> Clockwise </a> </em> ( 1986 ) .
+
+#	NEW	years_active	........ / 1965 )	// <p> <strong> Jonathan Breck </strong> ( born February 17 , 1965 ) is an American actor .
+
+#	NEW	years_active	........ / ( 21	// <p> <strong> Ronald Edmund Magill </strong> ( 21 April 1920 &ndash ; 6 September 2007 ) was an <a> English </a> <a> actor </a> .
+
+#	NEW	years_active	........ / 2009 .	// Melchior has made guest returns to The Bold and the Beautiful in 2004 , 2005 , 2006 , 2007 , 2008 , and 2009 .
+
+#	NEW	years_active	........ / 17	// <p> <strong> Thomas John Law </strong> ( born 17 December 1992 ) is a <a> British </a> <a> actor </a> .
+
+#	NEW	years_active	........ / 2002 .	// <p> When O ' Malley became mayor , Burton was involved in his Believe campaign and became the campaign ' s director in 2002 .
+
+#	NEW	years_active	........ / 6 ' 2&	// The 6 ' 2&quot ; , 200 pound Dimitri was a U . S . Navy veteran and former muscleman in a Mae West Las Vegas Revue .
+
+#	NEW	years_active	........ / 1941 )	// <p> <strong> Barry Otto </strong> ( born 1941 ) is an established Australian actor with a long list of memorable roles on stage and in film .
+
+#	NEW	years_active	........ / 1991	// Riis created his &quot ; The Great Dane Bear&quot ; in 1991 and has been his image to this day .
+
+#	NEW	years_active	........ / 1978 )	// <p> <strong> Jeffrey Landman </strong> ( born April 5 , 1978 ) is an American child actor .
+
+#	NEW	years_active	........ / 27	// <p> <strong> Jean-Yves Berteloot </strong> ( born 27 August 1958 in <a> Saint-Omer </a> ) is a French actor . </p>
+
+#	NEW	years_active	........ / 2008 .	// <p> Major has also done work in television and radio commercials , as well as voice-overs for animated children series , ref name=&quot ; TribeWorld&quot ; / and lives in London as of February 2008 .
+
+#	NEW	years_active	........ / ( 11	// <p> <strong> Maurice Browning </strong> ( 11 May 1919-4 December 1983 ) was a <a> British television </a> actor . </p>
+
+#	NEW	years_active	........ / 25	// <a> Film Threat Magazine </a> , in its <em> Film Threat Video Guide </em> , labelled it as one of the &quot ; 25 Underground Films You Must See&quot ; .
+
+#	NEW	years_active	........ / 9 .	// He began making <a> super 8 </a> films when he was 9 .
+
+#	NEW	years_active	........ / 1915 .	// His theatrical career was interrupted when he joined the <a> Royal Artillery </a> for a four-year stint beginning in 1915 .
+
+#	NEW	years_active	........ / 1983 .	// He continued in the role until the end of the series in December 1983 .
+
+#	NEW	years_active	........ / 1997	// Her role was written out of the play before its short 1997 Broadway run .
+
+#	NEW	years_active	........ / 19	// <p> He headed for <a> Hollywood </a> at 19 after his mother encouraged him not to join the navy .
+
+#	NEW	years_active	........ / 12	// <p> <strong> Duane Chase </strong> ( born 12 December 1950 ) is an <a> actor </a> , best remembered as Kurt von Trapp in <em> <a> The Sound of Music </a> </em> .
+
+#	NEW	years_active	........ / 1997	// In 1997 , she moved to Los Angeles with her mother , Chellie .
+
+#	NEW	years_active	........ / 4	// <p> <strong> Heather McEwen </strong> ( born 4 February 1984 ) is a <a> Canadian </a> actress .
+
+#	NEW	years_active	........ / 22	// <p> <strong> Paul Rogers </strong> ( born 22 March 1917 ) is an English actor of film , stage and television . </p>
+
+#	NEW	years_active	........ / 24	// <p> On 24 June 2010 , Bowes announced on Twitter that she was fired from <em> Hollyoaks </em> after four years . </p>
+
+#	NEW	years_active	........ / 9	// <p> On 9 August 2009 , it was announced that Marcel will take time off filming in September to do a charity trek in Romania ' s Carpathian Mountains . </p>
+
+#	NEW	years_active	........ / ( 26	// <p> <strong> Al Bridge </strong> ( 26 February 1891&ndash ; 27 December 1957 ) was an American <a> character actor </a> who played mostly small roles in over 270 films between 1931 and 1954 .
+
+#	NEW	years_active	........ / 2008	// The film won the 2008 Jury Award at the Durango Film Festival .
+
+#	NEW	years_active	........ / 1973	// Later in 1973 he got an offer to act in films .
+
+#	NEW	years_active	........ / ( 1997 ) .	// <p> Model turned actress , Richa Pallod , made her entry into the tinsel world with a minute role in the film ' Pardes ' ( 1997 ) .
+
+#	NEW	years_active	........ / 1915	// <p> Ralph Morgan made his film debut in silent films in 1915 appearing in several production made on the East Coast .
+
+#	NEW	years_active	........ / 2002	// Her parents divorced in 2002 after 13 years of marriage . </p>
+
+#	NEW	years_active	........ / 6	// <p> <strong> Ulrich Thomsen </strong> ( born 6 December 1963 ) is a <a> Danish </a> <a> actor </a> . </p>
+
+#	NEW	years_active	........ / 2001	// She is probably most famous for playing the role of ' Sasha Williams ' in the British teen soap <em> <a> As If </a> </em> from 2001 to 2004 .
+
+#	NEW	years_active	........ / 6	// <p> <strong> J&#x00e9 ; r&#x00e9 ; mie Renier </strong> ( born 6 January 1981 ) is a <a> Belgian </a> <a> actor </a> .
+
+#	NEW	years_active	........ / 6	// <p> <strong> Robert C . Bruce , Jr . </strong> ( born 6 October 1914 - died 24 August 2003 ) was a voice actor , and the son of Robert C . Bruce ( 1887-1948 ) who was also an actor .
+
+#	NEW	years_active	........ / 1976	// She began her professional career in 1976 when Gianni Bongiovanni choose her for the <a> RAI </a> TV film <em> Una donna </em> .
+
+#	NEW	years_active	........ / 2006 .	// <p> He also had a minor role in <em> <a> Vincent </a> </em> in 2006 .
+
+#	NEW	years_active	........ / 10	// He studied with Stella Adler for 10 years before becoming the founding principal instructor at her studio in <a> Hollywood </a> . </p>
+
+#	NEW	years_active	........ / 1982 .	// <p> <strong> Garrett Strommen </strong> is an <a> American </a> actor who was born on October 8 , 1982 .
+
+#	NEW	years_active	........ / 1968 )	// <p> <strong> Yolanda Ramos </strong> ( <a> Barcelona </a> , September 4 , 1968 ) is a Spanish comedian actress and scriptwriter .
+
+#	NEW	years_active	........ / 2008	// In 2008 she had appeared in six films .
+
+#	NEW	years_active	........ / 1996	// He died in a road accident in 1996 one week before his 40th birthday .
+
+#	NEW	years_active	........ / 11	// Mensah moved to <a> Canada </a> 11 years ago .
+
+#	NEW	years_active	........ / 1998	// <p> Stenlake is perhaps best known for the role of Constable Oscar Stone which he played in the Australian police drama series <em> <a> Stingers </a> </em> from 1998 to 2002 .
+
+#	NEW	years_active	........ / ( 1999 )	// She made her film debut in <em> Santa &amp ; Pete </em> ( 1999 ) and has since appeared in various television shows .
+
+#	NEW	years_active	........ / ( 1939 ) .	// Her other screen credits include parts in <em> I ' ll Take Romance </em> ( 1937 ) , <em> City Girl </em> ( 1938 ) , and <em> The Girl and the Gambler </em> ( 1939 ) .
+
+#	NEW	years_active	........ / 1981	// He subsequently recorded as a solo artist , releasing two albums between 1980 and 1981 before further released with The Engine Room up to the early 1990s .
+
+#	NEW	years_active	........ / 1979	// He has not acted since 1979 , yet acted in several famously reputted films .
+
+#	NEW	years_active	........ / 50	// He has appeared in over 50 commercials since he was 2 years old .
+
+#	NEW	years_active	........ / 1925 -	// <p> <strong> Al Mulock </strong> ( June 30 , 1925 - May 1968 ) was a character actor , born in <a> Toronto , Ontario , Canada </a> .
+
+#	NEW	years_active	........ / 1966 )	// <p> <strong> John Frizzell </strong> ( born 1966 ) is an American film and television composer .
+
+#	NEW	years_active	........ / 5	// He has appeared in 5 films directed by David Cronenberg .
+
+#	NEW	years_active	........ / 46	// He has made 80 on screen film and television appearances and 46 more as a stunt coordinator or stunt double .
+
+#	NEW	years_active	........ / 6	// Erin then took over the part for the remaining 6 seasons .
+
+#	NEW	years_active	........ / 19	// <p> <strong> Patrick Casey </strong> ( born 19 December 1978 ) is an <a> American </a> writer and actor .
+
+#	NEW	years_active	........ / 1949 .	// She then made her first film appearance in <em> <a> Pinky </a> </em> in 1949 .
+
+#	NEW	years_active	........ / 1979 .	// He has been a member of the <a> Steppenwolf Theatre Company </a> ensemble since 1979 .
+
+#	NEW	years_active	........ / 1986	// It was , however , with his second film <em> Nakakshathangal </em> in 1986 that he caught the public eye in films .
+
+#	NEW	years_active	........ / 2004	// <p> Efira ' s film career took off in 2004 , appearing as <a> Dr .
+
+#	NEW	years_active	........ / 60	// He has appeared in more than 60 films and TV shows .
+
+#	NEW	years_active	........ / 10 .	// She moved to <a> Elgin , Illinois </a> at the age of 10 .
+
+#	NEW	years_active	........ / 2006	// <p> Bobbi just finished filming 3 feature films already in 2006 and is slated to begin filming of a 4th at the end of May .
+
+#	NEW	years_active	........ / ( 13	// <p> <strong> Ian Hunter </strong> ( 13 June 1900 &ndash ; 22 September 1975 ) was a British <a> character actor </a> . </p>
+
+#	NEW	years_active	........ / 12	// When she was 12 , she has got a leading role in musical directed by her grandfather ( a band - master ) .
+
+#	NEW	years_active	........ / ( 1999&#	// <p> His key television roles include <a> Jason La Penna </a> on <em> <a> The Sopranos </a> </em> ( 1999&#x2013 ; 2001 ) .
+
+#	NEW	years_active	........ / 19 .	// He moved to Florida with his mother at the age of 19 .
+
+#	NEW	years_active	........ / ( 1907&	// <p> <strong> Willis Ben Bouchey </strong> ( 1907&ndash ; 1977 ) was an American character actor who appeared in almost 150 films and television shows .
+
+#	NEW	years_active	........ / 1992 .	// <p> Sen attended <a> Bradford Grammar School </a> between the 1984 and 1992 .
+
+#	NEW	years_active	........ / 476	// She filmed 476 episodes during this time .
+
+#	NEW	years_active	........ / ,	// <p> After two seasons , she left the series when her contract ran out .
+
+#	NEW	years_active	........ / 2008 .	// Shane was featured in one episode of <em> <a> Wizards of Waverly Place </a> </em> in 2008 .
+
+#	NEW	years_active	........ / 1984 .	// He played a small number of very minor roles , but has not been involved in film or television since 1984 .
+
+#	NEW	years_active	........ / 1941	// <p> In January 1942 , the Fleischer brothers were forced to resign from the studio they had created ; they had borrowed money from Paramount between 1938 and 1941 to finance their expanded Miami facilities and two feature films .
+
+#	NEW	years_active	........ / 2007 .	// His most recent film , <em> <a> Borderland </a> </em> , was released in 2007 .
+
+#	NEW	years_active	........ / 328	// <p> Beginning his career with the 1988 film <em> Chakravaalathinappuram </em> , Gireesh went on to write lyrics for about 1556 songs in about 328 Malayalam films .
+
+#	NEW	years_active	........ / 18- 1985 )	// <p> <strong> Chelsea Raelle Hobbs </strong> ( born February 18- 1985 ) is a <a> Canadian </a> actress and singer .
+
+#	NEW	years_active	........ / ,	// <p> As the contract years ended in <a> Hollywood </a> , she started her own school &mdash ; the Estelle Harman Actors Workshop .
+
+#	NEW	years_active	........ / 2006 .	// True Hollywood Story </a> </em> in 2006 .
+
+#	NEW	years_active	........ / ( 1917 &	// <p> <strong> Georgia Ellis </strong> ( 1917 &ndash ; 1988 ) was an American actress who is best known for her recurring role of Kitty in the popular Western radio drama <em> <a> Gunsmoke </a> </em> . </p>
+
+#	NEW	years_active	........ / 21	// <p> <strong> Laura Morante </strong> ( born 21 August 1956 ) is an Italian film actress . </p>
+
+#	NEW	years_active	........ / 2009 .	// <p> Whitnall ' s critically acclaimed 2005 theatre play ' The Sociable Plover ' was made into a feature film by Poisson Rouge Pictures and Solution Films ( re-titled as ' The Hide ' ) which received its UK premiere on Film4 in February 2009 .
+
+#	NEW	years_active	........ / ( 1934 ) .	// <p> He made his first screen appearance , as an extra , in the film <em> <a> Jud S&#x00fc ; &#x00df ; </a> </em> ( 1934 ) .
+
+#	NEW	years_active	........ / 60	// He starred in about 60 films between 1914 and his retirement from film in 1927 .
+
+#	NEW	years_active	........ / 100	// <p> Born <strong> William Reeves Eason </strong> in <a> New York City </a> , he directed 150 films and starred in almost 100 films over his career .
+
+#	NEW	years_active	........ / 2000 .	// His noted roles include the lead role in <em> <a> Nuvve Kavali </a> </em> Which was Tollywood ' s biggest hit for the year 2000 .
+
+#	NEW	years_active	........ / 19	// <p> <strong> Gadde Rajendra Prasad </strong> ( ) ( born 19 July 1956 , is a <a> Telugu film </a> actor .
+
+#	NEW	years_active	........ / 5	// <p> Film Fare Awards -5 times Nandi Awards - 2 times Film Fare Life Time Achievement Award </p>
+
+#	NEW	years_active	........ / 17	// <p> <strong> Jane Hazlegrove </strong> ( born <strong> Sarah Jane Hazlegrove </strong> ; 17 July 1968 ) is an <a> English </a> <a> actress </a> .
+
+#	NEW	years_active	........ / 30	// <p> She was signed in 1917 and starred in about 30 films before her retirement in 1926 at age 27 to have children .
+
+#	NEW	years_active	........ / 1995 .	// <p> pLatham moved to <a> New Zealand </a> in 1995 .
+
+#	NEW	years_active	........ / 300	// He starred in over 300 films up to 1924 . </p>
+
+#	NEW	years_active	........ / 2000	// <p> After graduating from high school in 2000 , Blake has avoided child roles and has been taking on more serious adult roles .
+
+#	NEW	years_active	........ / 15	// <p> <strong> Margaret &quot ; Maggie&quot ; O ' Neill </strong> ( born 15 November 1962 ) is an <a> English </a> <a> actress </a> . </p>
+
+#	NEW	years_active	........ / 000	// Over time he acquired adjacent parcels of land to swell the size of his ranch to 13 , 000 acres ( 53 km&#x00b2 ; ) .
+
+#	NEW	years_active	........ / 200	// She was signed in 1910 and starred in over 200 films before her retirement in 1940 . </p>
+
+#	NEW	years_active	........ / 26	// <p> <strong> Michael Cumpsty </strong> ( born 26 February 1960 ) is a <a> British </a> <a> actor </a> . </p>
+
+#	NEW	years_active	........ / 1940	// In 1940 , Pickford considered making a biographical film about her mother .
+
+#	NEW	years_active	........ / 200	// A hard worker , Ricketts acted in almost 200 films , right until his death .
+
+#	NEW	years_active	........ / ( 1941 - 21	// <p> <strong> Colin McEwan </strong> ( 1941 - 21 August 2005 ) was an <a> Australia </a> n actor .
+
+#	NEW	years_active	........ / 2000	// Following this , she had a recurring role in <em> <a> Stingers </a> </em> from 2000 until 2004 .
+
+#	NEW	years_active	........ / 150	// <p> Otto contributed to over 150 films throughout his career working as an actor and a director throughout .
+
+#	NEW	years_active	........ / 9	// <p> ( b . 9 December 1939 ) is a Japanese <a> Kabuki </a> actor , famous for his love of <em> <a> keren </a> </em> ( stage tricks ) .
+
+#	NEW	years_active	........ / 100	// Mitchell made her film debut in 1912 and would eventually appear in over 100 films during her career .
+
+#	NEW	years_active	........ / 28	// <p> <strong> Ivana Bozilovic </strong> ( born 28 September 1977 ) is an <a> American </a> model and actress . </p>
+
+#	NEW	years_active	........ / 2007 .	// He played the lead role of Lucas in the short film <em> Rotten Apple </em> , which won the Prix Up at Berlin Festival 2007 .
+
+#	NEW	years_active	........ / 2002	// <p> Gemma joined to CBBC continuity team in 2002 , since then she has presented on the CBBC Channel and also on BBC One and BBC Two .
+
+#	NEW	years_active	........ / 1915 .	// <p> Nicknamed &quot ; The Madonna of the Movies&quot ; , she married actor <a> Allan Dwan </a> in 1915 .
+
+#	NEW	years_active	........ / 1989 )	// <p> <strong> Linsey Godfrey </strong> ( born 1989 ) is an American actress best known for her role as Charlotte in the 2010 <a> Hallmark </a> movie production <em> Jack ' s Family Adventure </em> . </p>
+
+#	NEW	years_active	........ / ( 1971 ) .	// He is most popular for his film <em> <a> Vanishing Point </a> </em> ( 1971 ) .
+
+#	NEW	years_active	........ / 2008	// In November 2008 her role was upgraded to series regular . </p>
+
+#	NEW	years_active	........ / 1944 .	// Tully started out on stage before eventually acting in Hollywood films in 1944 .
+
+#	NEW	years_active	........ / 2	// <p> <strong> Dustin Watchman </strong> ( born 2 March 1979 in <a> Salem , Oregon </a> ) is an <a> American </a> actor .
+
+#	NEW	years_active	........ / 29	// <p> <strong> Sora Jung </strong> ( born as <strong> Kim Sora </strong> on the 29 January 1968 in <a> Seoul , Korea </a> ) is a Korean television actress .
+
+#	NEW	years_active	........ / 1969 .	// He Graduated with honors from New York ' s American Academy of Dramatic Arts in 1969 .
+
+#	NEW	years_active	........ / 13	// <p> <strong> Suzanne Maddock </strong> ( born 13 February 1976 ) in <a> Liverpool </a> .
+
+#	NEW	years_active	........ / ( 1911 ) .	// <p> Her first film role was in <em> The Fortunes of War </em> ( 1911 ) .
+
+#	NEW	years_active	........ / 21	// <p> <strong> David Lonsdale </strong> ( born 21 May 1963 ) is an <a> English </a> <a> actor </a> .
+
+#	NEW	years_active	........ / 54	// They produced 54 episodes of the Fox comedy .
+
+#	NEW	years_active	........ / 1995-1996 ) .	// Mark also appeared in <em> <a> Married with Children </a> </em> as Carlos ( 2 episodes , 1995-1996 ) . </p>
+
+#	NEW	years_active	........ / 5	// <p> <strong> Ian Frederick Virgo </strong> ( born 5 May 1981 ) is an <a> American-British </a> actor . </p>
+
+#	NEW	years_active	........ / 1982-1984	// She played the role from 1982-1984 , then briefly in 1986 , and then from 1996-2001 .
+
+#	NEW	years_active	........ / 1985	// <p> <strong> Ryan Mark Lambert </strong> ( born March 29 , 1971 ) is an American performer who starred in the television show <em> <a> Kids Incorporated </a> </em> from 1985 until 1988 , in which he played himself .
+
+#	NEW	years_active	........ / 1989	// For acting he is best known for his role in <em> <a> The Bill </a> </em> where he played PC Richard Turnham from 1989 to 1990 .
+
+#	NEW	years_active	........ / 20	// <p> <strong> Susanna Haavisto </strong> ( born 20 October 1957 , <a> Helsinki </a> ) is a Finnish actress and singer . </p>
+
+#	NEW	years_active	........ / 1995	// <p> Heyborne graduated from <a> Alta High School </a> in 1995 , where he was student body president .
+
+#	NEW	years_active	........ / 29	// <p> <strong> Tom Butcher </strong> ( born 29 June 1963 ) in <a> Stamford </a> , <a> England </a> .
+
+#	NEW	years_active	........ / 24	// <p> <strong> Lisa Maxwell </strong> ( born 24 November 1963 ) is an <a> English </a> actress and television presenter .
+
+#	NEW	years_active	........ / 200 / 9	// <p> Longley took the starring role in Cinderella in Bristol ' s 200 / 9 pantomime ' Cinderella ' at the Hippodrome alongside Bobby Davro , Michelle Collins and Mickey Rooney . </p>
+
+#	NEW	years_active	........ / 2005 ) .	// The two have a son and a daughter : Will Theron Roth , born November 20 , 1993 , and Mae Akins , born by a surrogate ( July 2005 ) .
+
+#	NEW	years_active	........ / 1972	// <p> In 1972 she made her last film appearance in <em> <a> The Adventures of Barry Mackenzie </a> </em> . </p>
+
+#	NEW	years_active	........ / ( 2001 )	// He is perhaps best known for his role in highly successful <em> <a> Raid </a> </em> tv-series ( 2001 ) where he played the title role .
+
+#	NEW	years_active	........ / 1986	// <p> Suosalo began his career in 1986 appearing on a mini TV series .
+
+#	NEW	years_active	........ / 2004 .	// <p> Although Kuoppam&#x00e4 ; ki began her career in 1986 working in film , she mainly appeared on television between 2000 and 2004 .
+
+#	NEW	years_active	........ / 1919 -	// <p> <strong> Donald Richards </strong> ( March 24 , 1919 - September 26 , 1953 ) was an <a> American </a> singer and actor . </p>
+
+#	NEW	years_active	........ / 30	// Her career spans 30 years with more than 250 TV and film credits .
+

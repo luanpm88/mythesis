@@ -1,0 +1,43 @@
+Found: 11
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 6
+recall: 0.0
+
+
+
+#	NEW	destinations	........ / 10 :	// <p> The aircraft received instructions to taxi to New York International Airport ' s Runway 31L at 09 : 54 AM EST , and clearance to proceed to Los Angeles non-stop under <a> instrument flight rules </a> ( IFR ) at 10 : 02 AM EST .
+
+#	NEW	destinations	........ / 18 :	// On Saturday , July 2 , 1994 , the plane , a <a> McDonnell Douglas DC-9 </a> registered N954VJ , departed <a> Columbia Metropolitan Airport </a> at 18 : 15 <a> EST </a> for the 35-minute flight to <a> Charlott / Douglas International Airport </a> .
+
+#	NEW	destinations	........ / 2002 .	// Ukraine [ [ Tupolev Tu-154 ] ] at Moscow ' s <a> Vnukovo Airport </a> in 1994 ] ] The airline ' s operations ceased in December 2002 . </p>
+
+#	NEW	destinations	........ / ( 49 .	// It was owned by Mike Hawkins ( 49 . 9% ) and Shaun Dewey ( 49 . 9% ) and operated from London Gatwick Airport , Newcastle International Airport and Manchester Ringway Airport .
+
+#	NEW	destinations	........ / ]	// Q400 at [ [ Wagga Wagga Airport ] ] . ] ]
+
+#	NEW	destinations	........ / 2010 ) :	// <p> The PAN Air fleet consists of the following aircraft ( at June 2010 ) : </p>
+
+#	NEW	destinations	........ / 2002	// It was established in 2002 as <strong> Air Max-Gabon </strong> and operated charter and passenger flights in <a> West Africa </a> out of <a> Libreville International Airport </a> .
+
+#	NEW	destinations	........ / 6	// The company also operated two Dash 8 and two DHC-6 Twin Otter aircraft for Flamingo Air in Haiti , until operations were halted after the fall of former President Aristide .
+
+#	NEW	destinations	........ / 13	// <p> The Ukraine Air Enterprise fleet consists of the following aircraft ( as of 13 May 2009 ) [ <a> http : / /www . ch-aviation . c / aircraft . php ? search=set&amp ; airline=UKN&amp ; al_op=1 </a> ] : </p>
+
+#	NEW	destinations	........ / 1990 .	// <p> The airline was established in 1990 .
+
+#	NEW	destinations	........ / 0 .	// According to the <a> National Civil Aviation Agency of Brazil </a> ( ANAC ) , between January and December 2009 , Air Minas had 0 . 04% of the domestic <a> market share </a> in terms of passengers per kilometre flown .
+
+#	null	destinations	19 / ..........
+
+#	null	destinations	9 / ..........
+
+#	null	destinations	30 / ..........
+
+#	null	destinations	9 / ..........
+
+#	null	destinations	10 / ..........
+
+#	null	destinations	5 / ..........
+

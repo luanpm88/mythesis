@@ -1,0 +1,45 @@
+Found: 17
+Found Not Null: 1
+Correct: 0
+Wrong: 1
+Total: 1
+precision: 0.0
+recall: 0.0
+
+
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Stephen Nichols </strong> ( born February 19 , 1951 ) is an <a> American </a> <a> actor </a> , most notable for his roles on American daytime soap operas .
+
+#	NEW	birth_date	........ / Scott	// <p> Scott was born <strong> Melody Ann Thomas </strong> in <a> Los Angeles , California </a> .
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> John Drew , Jr . </strong> ( November 13 , 1853&ndash ; July 9 , 1927 ) was an <a> American </a> stage actor noted for his roles in <a> Shakespeare </a> an comedy , society drama , and light comedies .
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Lillian Russell </strong> ( December 4 , 1861 &ndash ; June 6 , 1922 ) was an <a> American </a> actress and <a> singer </a> .
+
+#	NEW	birth_date	........ / She	// <p> She made a number of French and Italian movies after <em> From Russia with Love </em> , the last being <em> Scacco Internazionale </em> in 1968 .
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Ren&#x00e9 ; e Jones </strong> ( born October 15 , 1958 ) is an American dramatic actress .
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Douglas Peter </strong> &quot ; <strong> Doug </strong> &quot ; <strong> Savant </strong> ( born June 21 , 1964 ) is an <a> American </a> <a> actor </a> .
+
+#	NEW	birth_date	........ / His	// <p> His directorial debut was the 2001 science fiction thriller <em> Vidocq </em> . </p>
+
+#	NEW	birth_date	........ / McClory	// <p> McClory was born in <a> Dublin </a> and suffered from <a> dyslexia </a> .
+
+#	NEW	birth_date	........ / Bolam	// <p> Bolam was born in <a> Sunderland </a> , <a> England </a> .
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> B&#x00e9 ; atrice Dalle </strong> ( born 19 December 1964 ) is a <a> French </a> actress . </p>
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Joseph Schildkraut </strong> ( March 22 , 1896 &ndash ; January 21 , 1964 ) was an Austrian <a> stage </a> and film actor . </p>
+
+12	FALSE	William Boyd (actor)::birth_date	june 5, 1895 / <strong>	
+<p> <strong> William Lawrence Boyd </strong> ( June 5 , 1895 &ndash ; September 12 , 1972 ) was an <a> American </a> film actor best known for portraying <a> Hopalong Cassidy </a> . </p>
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Hugh Emrys Griffith </strong> ( 30 May 1912 &ndash ; 14 May 1980 ) was a <a> Welsh </a> film , stage and television <a> actor </a> . </p>
+
+#	NEW	birth_date	........ / June 2010 ,	// In June 2010 , Clark temporarily reprised her role as Carrie on DAYS . </p>
+
+#	NEW	birth_date	........ / 1999	// From 1999 to 2001 , Pressly starred as &quot ; Audrey&quot ; on the drama series <em> <a> Jack and Jill </a> </em> .
+
+#	NEW	birth_date	........ / In 2010 ,	// <p> In 2010 , she plays the role of Violet , the leading character in Casper Andreas ' movie <em> Violet Tendencies </em> . </p>
+

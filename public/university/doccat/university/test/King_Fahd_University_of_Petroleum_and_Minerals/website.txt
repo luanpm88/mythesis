@@ -1,9 +1,0 @@
-<li>introductory <a>Physical Sciences</a></li>
-<h4>College of Engineering Sciences</h4>
-<h4>College of Sciences</h4>
-<h3>Innovation Center</h3>
-<h3>Consulting Services Center</h3>
-<h3>The Research Institute (RI)</h3>
-<li><strong>Center for Applied Physical Sciences</strong>: The Metrology &amp; Standards Section and the Central Analytical Laboratory.</li>
-<li>Fine Arts Club</li>
-<li>Earth Sciences Club</li>

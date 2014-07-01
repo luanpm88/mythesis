@@ -1,0 +1,44 @@
+Found: 18
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	website	........ / The airline would continue to operate independently until its merger with	// The airline would continue to operate independently until its merger with <a> Delta Air Lines </a> in the 1970s . </p>
+
+#	NEW	website	........ / http : / /corsicanadailysun . co / loca /	// [ <a> http : / /corsicanadailysun . co / loca / x21237792 / Dawson-plane-crash-remembered ? keyword=leadpicturestory </a> ] . </p>
+
+#	NEW	website	........ / It operates domestic scheduled budget services .	// It operates domestic scheduled budget services .
+
+#	NEW	website	........ / originates in Geneva and terminates in Toronto with a stopover in Montreal .	// Flight 831 originates in Geneva and terminates in Toronto with a stopover in Montreal . </p>
+
+#	NEW	website	........ / These flights were operated with Britannias .	// These flights were operated with Britannias .
+
+#	NEW	website	........ / The plane was piloted by Captain Bo von Willebrand , and Tauno Launis was the wireless operator .	// <p> The plane was piloted by Captain Bo von Willebrand , and Tauno Launis was the wireless operator .
+
+#	NEW	website	........ / made a normal departure from Kennedy Airport and had an uneventful flight to the Caribbean .	// <p> Flight 980 made a normal departure from Kennedy Airport and had an uneventful flight to the Caribbean .
+
+#	NEW	website	........ / After this information was made public , a number of countries that had previously been reluctant to do so outlawed cell phones on flights ( including Switzerland ) .	// After this information was made public , a number of countries that had previously been reluctant to do so outlawed cell phones on flights ( including Switzerland ) . </em> </p>
+
+#	NEW	website	........ / It operates a fleet of business jets available for charter and private use .	// It operates a fleet of business jets available for charter and private use .
+
+#	NEW	website	........ / It was established and started operations in 1977 and operates regional and international air taxi services .	// It was established and started operations in 1977 and operates regional and international air taxi services .
+
+#	NEW	website	........ / It was established in 1979 and operates scheduled passenger services , passenger and cargo charter flights and aircraft sales and maintenance .	// It was established in 1979 and operates scheduled passenger services , passenger and cargo charter flights and aircraft sales and maintenance .
+
+#	NEW	website	........ / The airline was founded by a group of Danish investors and operated its first flight on	// The airline was founded by a group of Danish investors and operated its first flight on 19 September 2006 . </p>
+
+#	NEW	website	........ / It operates domestic on demand cargo and passenger charter flights , as well as contract flights for	// It operates domestic on demand cargo and passenger charter flights , as well as contract flights for <a> FedEx </a> and <a> Mario ' s Air </a> . </p>
+
+#	NEW	website	........ / It operates feeder flights for overnight package delivery services	// It operates feeder flights for overnight package delivery services , including <a> UPS </a> and <a> DHL </a> .
+
+#	NEW	website	........ / Concerted efforts during 2009 brought Midwest back into the air operations scene .	// Concerted efforts during 2009 brought Midwest back into the air operations scene .
+
+#	NEW	website	........ / It operates domestic and regional scheduled and charter services .	// It operates domestic and regional scheduled and charter services .
+
+#	NEW	website	........ / It was established and started operations in	// It was established and started operations in 1995 .
+
+#	NEW	website	........ / It started operations with a flight between Kunming and Dali within Yunnan on	// It started operations with a flight between Kunming and Dali within Yunnan on 26 February 2006 . </p>
+

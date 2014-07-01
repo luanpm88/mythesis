@@ -1,0 +1,14 @@
+Found: 3
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	birth_place	........ / Los Angeles	// <p> Crenna was born in <a> Los Angeles </a> , the son of Edith J . Pollette Crenna , who was a hotel manager in Los Angeles , and Dominick Anthony Crenna , a <a> pharmacist </a> , both of whom were of <a> Italian </a> ancestry .
+
+#	NEW	birth_place	........ / Los Angeles	// Right after Clarksons ' s family moved back to <a> Los Angeles County </a> , Lana pursued a career in <a> entertainment industry </a> as a performer and <a> fashion model </a> . </p>
+
+#	NEW	birth_place	........ / Paris ( Cafe	// This very successful appearance led to offers to appear in Paris ( Cafe de Paris ) , New York ( La Vie en Rose ) as well as numerous guest television appearances .
+

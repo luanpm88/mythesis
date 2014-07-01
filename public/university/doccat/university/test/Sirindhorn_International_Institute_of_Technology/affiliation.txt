@@ -1,4 +1,0 @@
-<h3>Graduate degrees offered</h3>
-<li><a>Knowledge Information &amp; Data Management Laboratory</a></li>
-<li><a>Mobile Soccer Robot Group (RoboCup)</a></li>
-<li><a>SIIT Network</a> &mdash; Online community</li>

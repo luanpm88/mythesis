@@ -1,0 +1,869 @@
+Total articles: 1697
+Articles for test: 1528
+Articles for train: 169
+Total attributes: 80
+Attributes with high occurrences: 23/80
+
+------------
+Found: 1912
+Found Not Null: 284
+Correct: 211
+Wrong: 73
+Total: 540
+precision: 0.7429577464788732
+recall: 0.3907407407407407
+
+
+
+0	TRUE	Lincoln County, Wisconsin:: state	wisconsin / Wisconsin	
+<p> <strong> Lincoln County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Wisconsin </a> .
+
+1	TRUE	Lincoln County, Wisconsin:: area_land_sq_mi	883 / (2.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 907&nbsp; <a> square mile </a> s (2,349&nbsp; <a> km&#x00b2; </a> ), of which 883&nbsp;square miles (2,288&nbsp;km&#x00b2;) is land and 24&nbsp;square miles (62&nbsp;km&#x00b2;) (2.62%) is water. </p>
+
+3	TRUE	Lincoln County, Wisconsin:: density_km2	13 / (13/	
+The <a> population density </a> was 34 people per square mile (13/km&#x00b2;).
+
+7	TRUE	Lincoln County, Wisconsin:: density_sq_mi	34 / (13/	
+The <a> population density </a> was 34 people per square mile (13/km&#x00b2;).
+
+8	TRUE	Lincoln County, Wisconsin:: area_total_sq_mi	907 / 24&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 907&nbsp; <a> square mile </a> s (2,349&nbsp; <a> km&#x00b2; </a> ), of which 883&nbsp;square miles (2,288&nbsp;km&#x00b2;) is land and 24&nbsp;square miles (62&nbsp;km&#x00b2;) (2.62%) is water. </p>
+
+9	FALSE	Lincoln County, Wisconsin:: area_water_sq_mi	24 / 0.	
+The racial makeup of the county was 97.76% <a> White </a> , 0.41% <a> Black </a> or <a> African American </a> , 0.44% <a> Native American </a> , 0.39% <a> Asian </a> , 0.03% <a> Pacific Islander </a> , 0.29% from <a> other races </a> , and 0.68% from two or more races.
+
+56	TRUE	La Paz County, Arizona:: state	arizona / U.	
+<p> <strong> La Paz County </strong> is a <a> county </a> in the western part of the <a> U.S. state </a> of <a> Arizona </a> .
+
+57	FALSE	La Paz County, Arizona:: area_water_sq_mi	13 / 2.	
+The racial makeup of the county was 74.15% <a> White </a> , 0.79% <a> Black </a> or <a> African American </a> , 12.53% <a> Native American </a> , 0.41% <a> Asian </a> , 0.10% <a> Pacific Islander </a> , 9.35% from <a> other races </a> , and 2.68% from two or more races.
+
+59	TRUE	La Paz County, Arizona:: density_km2	2 / (2/	
+The <a> population density </a> was 4 people per square mile (2/km&#x00b2;).
+
+67	TRUE	Maricopa County, Arizona:: state	arizona / U.	
+<p> <strong> Maricopa County </strong> ( ) is located in the south-central part of the <a> U.S. state </a> of <a> Arizona </a> .
+
+69	FALSE	Maricopa County, Arizona:: area_water_sq_mi	21 / 2.	
+The racial makeup of the county was 77.35% <a> White </a> , 3.73% <a> African American </a> , 1.85% <a> Native American </a> , 2.16% <a> Asian </a> , 0.14% <a> Pacific Islander </a> , 11.86% from <a> other races </a> , and 2.91% from two or more races.
+
+76	TRUE	Mohave County, Arizona:: state	arizona / U.	
+<p> <strong> Mohave County </strong> is located in the northwestern corner of the <a> U.S. state </a> of <a> Arizona </a> .
+
+78	FALSE	Mohave County, Arizona:: area_water_sq_mi	158 / 2.	
+The racial makeup of the county was 90.06% <a> White </a> , 0.54% <a> Black </a> or <a> African American </a> , 2.41% <a> Native American </a> , 0.77% <a> Asian </a> , 0.11% <a> Pacific Islander </a> , 4.00% from <a> other races </a> , and 2.13% from two or more races.
+
+170	TRUE	Fairfield County, Connecticut:: state	connecticut / U.	
+<p> <strong> Fairfield County </strong> is a <a> county </a> located in the southwestern corner of the <a> U.S. state </a> of <a> Connecticut </a> .
+
+174	FALSE	Fairfield County, Connecticut:: pop	882567 / 895,030.	
+Its population according to the 2000 census was 882,567, but a 2008 survey put the population at 895,030.
+
+175	TRUE	Fairfield County, Connecticut:: density_km2	545 / (545/	
+The <a> population density </a> was 1,410 people per square mile (545/km&#x00b2;).
+
+193	TRUE	Litchfield County, Connecticut:: state	connecticut / U.	
+<p> <strong> Litchfield County </strong> is a <a> county </a> located in the northwestern corner of the <a> U.S. state </a> of <a> Connecticut </a> .
+
+194	TRUE	Litchfield County, Connecticut:: area_total_sq_mi	945 / 25&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 945&nbsp; <a> square mile </a> s (2,446&nbsp; <a> km&#x00b2; </a> ), of which 920&nbsp;square miles (2,383&nbsp;km&#x00b2;) is land and 25&nbsp;square miles (64&nbsp;km&#x00b2;) (2.61%) is water.
+
+195	TRUE	Litchfield County, Connecticut:: area_land_sq_mi	920 / (2.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 945&nbsp; <a> square mile </a> s (2,446&nbsp; <a> km&#x00b2; </a> ), of which 920&nbsp;square miles (2,383&nbsp;km&#x00b2;) is land and 25&nbsp;square miles (64&nbsp;km&#x00b2;) (2.61%) is water.
+
+197	FALSE	Litchfield County, Connecticut:: area_water_sq_mi	25 / 1.	
+The racial makeup of the county was 95.77% <a> White </a> , 1.10% <a> Black </a> or <a> African American </a> , 0.18% <a> Native American </a> , 1.17% <a> Asian </a> , 0.02% <a> Pacific Islander </a> , 0.68% from <a> other races </a> , and 1.09% from two or more races.
+
+198	TRUE	Litchfield County, Connecticut:: density_km2	76 / (76/	
+The <a> population density </a> was 198 people per square mile (76/km&#x00b2;).
+
+217	TRUE	New London County, Connecticut:: state	connecticut / U.	
+<p> <strong> New London County </strong> is a <a> county </a> located in the southeastern corner of the <a> U.S. state </a> of <a> Connecticut </a> .
+
+218	TRUE	New London County, Connecticut:: area_total_sq_mi	772 / 106&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 772&nbsp;square miles (1,999&nbsp;km&#x00b2;), of which 666&nbsp;square miles (1,725&nbsp;km&#x00b2;) is land and 106&nbsp;square miles (274&nbsp;km&#x00b2;) (13.70%) is water. </p>
+
+219	TRUE	New London County, Connecticut:: area_land_sq_mi	666 / (13.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 772&nbsp;square miles (1,999&nbsp;km&#x00b2;), of which 666&nbsp;square miles (1,725&nbsp;km&#x00b2;) is land and 106&nbsp;square miles (274&nbsp;km&#x00b2;) (13.70%) is water. </p>
+
+220	FALSE	New London County, Connecticut:: area_water_sq_mi	106 / 2.	
+The racial makeup of the county was 87.00% <a> White </a> , 5.29% <a> Black </a> or <a> African American </a> , 0.96% <a> Native American </a> , 1.96% <a> Asian </a> , 0.06% <a> Pacific Islander </a> , 2.05% from <a> other races </a> , and 2.68% from two or more races.
+
+222	TRUE	New London County, Connecticut:: density_km2	150 / (150/	
+The <a> population density </a> was 389 people per square mile (150/km&#x00b2;).
+
+261	TRUE	New Castle County, Delaware:: state	delaware / Delaware	
+<p> <strong> New Castle County </strong> is the <a> northernmost </a> of the <a> three </a> <a> counties </a> of the <a> U.S. state </a> of <a> Delaware </a> .
+
+262	FALSE	New Castle County, Delaware:: area_total_sq_mi	494 / ,	
+It does not maintain the water distribution system, which is owned and operated by several private companies.
+
+263	FALSE	New Castle County, Delaware:: area_water_sq_mi	67 / 1.	
+The racial makeup of the county is 73.12% <a> White </a> , 20.22% <a> Black </a> or <a> African American </a> , 0.20% <a> Native American </a> , 2.59% <a> Asian </a> , 0.03% <a> Pacific Islander </a> , 2.22% from <a> other races </a> , and 1.62% from two or more races.
+
+265	TRUE	New Castle County, Delaware:: density_km2	453 / (453/	
+The <a> population density </a> is 1,174 people per square mile (453/km&#x00b2;).
+
+271	TRUE	New Castle County, Delaware:: area_land_sq_mi	426 / (13.	
+According to the <a> U.S. Census Bureau </a> , the county has a total area of 494&nbsp;square miles (1,278&nbsp;km&#x00b2;).426&nbsp;square miles (1,104&nbsp;km&#x00b2;) of it is land, and 67&nbsp;square miles (174&nbsp;km&#x00b2;) of it (13.62%) is water.
+
+272	TRUE	Sussex County, Delaware:: state	delaware / Delaware	
+<p> <strong> Sussex County </strong> is a <a> county </a> located in the southern part of the <a> U.S. state </a> of <a> Delaware </a> .
+
+274	TRUE	Sussex County, Delaware:: area_land_sq_mi	938 / (21.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 1,196&nbsp;square miles (3,097&nbsp;km&#x00b2;), of which 938&nbsp;square miles (2,428&nbsp;km&#x00b2;) is land and 258&nbsp;square miles (668&nbsp;km&#x00b2;) (21.58%) is water. </p>
+
+275	FALSE	Sussex County, Delaware:: area_water_sq_mi	258 / 1.	
+The racial makeup of the county was 80.35% <a> White </a> , 14.89% <a> Black </a> or <a> African American </a> , 0.60% <a> Native American </a> , 0.75% <a> Asian </a> , 0.04% <a> Pacific Islander </a> , 2.02% from <a> other races </a> , and 1.35% from two or more races.
+
+283	TRUE	McCracken County, Kentucky:: state	kentucky / Kentucky	
+<p> <strong> McCracken County </strong> is a <a> county </a> located in the <a> Jackson Purchase </a> , the extreme western end of the <a> U.S. state </a> of <a> Kentucky </a> .
+
+289	FALSE	McCracken County, Kentucky:: area_water_sq_mi	17 / 1.	
+The racial makeup of the county was 86.76% <a> White </a> , 10.88% <a> Black or African American </a> , 0.22% <a> Native American </a> , 0.51% <a> Asian </a> , 0.05% <a> Pacific Islander </a> , 0.40% from <a> other races </a> , and 1.18% from two or more races.
+
+290	TRUE	Allegheny County, Pennsylvania:: state	pennsylvania / Pennsylvania	
+<p> <strong> Allegheny County </strong> is a <a> county </a> in the southwestern part of the <a> U.S. state </a> of <a> Pennsylvania </a> .
+
+293	FALSE	Allegheny County, Pennsylvania:: area_water_sq_mi	15 / a>.	
+<p> Allegheny County was the first in Pennsylvania to be given a <a> Native American </a> name, being named after the <a> Allegheny River </a> .
+
+347	TRUE	Bedford County, Pennsylvania:: county	bedford county / Bedford County	
+<p> <strong> Bedford County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Pennsylvania </a> .
+
+348	TRUE	Bedford County, Pennsylvania:: state	pennsylvania / Pennsylvania	
+<p> <strong> Bedford County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Pennsylvania </a> .
+
+351	TRUE	Bedford County, Pennsylvania:: area_water_sq_mi	3 / 0.	
+The racial makeup of the county was 98.54% <a> White </a> , 0.36% <a> Black </a> or <a> African American </a> , 0.11% <a> Native American </a> , 0.29% <a> Asian </a> , 0.01% <a> Pacific Islander </a> , 0.16% from <a> other races </a> , and 0.54% from two or more races.
+
+353	TRUE	Bedford County, Pennsylvania:: density_km2	19 / (19/	
+The <a> population density </a> was 49 people per square mile (19/km&#x00b2;).
+
+396	TRUE	Uinta County, Wyoming:: area_water_sq_mi	6 / 1.	
+The racial makeup of the county was 94.32% <a> White </a> , 0.11% <a> Black </a> or <a> African American </a> , 0.87% <a> Native American </a> , 0.27% <a> Asian </a> , 0.07% <a> Pacific Islander </a> , 2.86% from <a> other races </a> , and 1.50% from two or more races.
+
+404	TRUE	Uinta County, Wyoming:: state	wyoming / U.	
+<p> <strong> Uinta County </strong> () is a <a> county </a> located in the <a> U.S. state </a> of <a> Wyoming </a> .
+
+405	TRUE	Teton County, Wyoming:: state	wyoming / U.	
+<p> <strong> Teton County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Wyoming </a> .
+
+408	FALSE	Teton County, Wyoming:: area_water_sq_mi	214 / 1.	
+The racial makeup of the county was 93.59% <a> White </a> , 0.15% <a> Black </a> or <a> African American </a> , 0.53% <a> Native American </a> , 0.54% <a> Asian </a> , 0.03% <a> Pacific Islander </a> , 3.93% from <a> other races </a> , and 1.22% from two or more races.
+
+414	FALSE	Teton County, Wyoming:: density_sq_mi	4.3 / (2/	
+The <a> population density </a> was 5 people per square mile (2/km&#x00b2;).
+
+471	TRUE	Natrona County, Wyoming:: state	wyoming / U.	
+<p> <strong> Natrona County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Wyoming </a> .
+
+473	FALSE	Natrona County, Wyoming:: area_water_sq_mi	36 / 1.	
+The <a> racial </a> makeup of the county was 94.15% <a> White </a> , 0.76% <a> Black </a> or <a> African American </a> , 1.03% <a> Native American </a> , 0.42% <a> Asian </a> , 0.04% <a> Pacific Islander </a> , 1.92% from <a> other races </a> , and 1.68% from two or more races.
+
+492	TRUE	Laramie County, Wyoming:: state	wyoming / U.	
+<p> <strong> Laramie County </strong> is the most populous of the <a> 23 counties </a> of the <a> U.S. state </a> of <a> Wyoming </a> .
+
+494	TRUE	Laramie County, Wyoming:: area_water_sq_mi	2 / 2.	
+The racial makeup of the county was 88.92% <a> White </a> , 2.60% <a> Black </a> or <a> African American </a> , 0.85% <a> Native American </a> , 0.95% <a> Asian </a> , 0.11% <a> Pacific Islander </a> , 4.00% from <a> other races </a> , and 2.57% from two or more races.
+
+537	TRUE	Crook County, Wyoming:: state	wyoming / U.	
+<p> <strong> Crook County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Wyoming </a> .
+
+542	TRUE	Crook County, Wyoming:: density_km2	1 / (1/	
+The <a> population density </a> was 2 people per square mile (1/km&#x00b2;).
+
+635	TRUE	Waupaca County, Wisconsin:: state	wisconsin / Wisconsin	
+<p> div style=&quot;float:right; margin: 0 0 1em 1em;&quot;/div <strong> Waupaca County </strong> is a <a> county </a> in the <a> U.S. state </a> of <a> Wisconsin </a> .
+
+642	TRUE	Waukesha County, Wisconsin:: state	wisconsin / Wisconsin	
+<p> <strong> Waukesha County </strong> is a <a> county </a> in the <a> U.S. state </a> of <a> Wisconsin </a> .
+
+644	FALSE	Waukesha County, Wisconsin:: area_water_sq_mi	25 / a>.	
+<p> <strong> Waukesha County </strong> is a <a> county </a> in the <a> U.S. state </a> of <a> Wisconsin </a> .
+
+663	TRUE	Washburn County, Wisconsin:: state	wisconsin / Wisconsin	
+<p> <strong> Washburn County </strong> is a <a> county </a> in the <a> U.S. state </a> of <a> Wisconsin </a> .
+
+664	TRUE	Washburn County, Wisconsin:: area_total_sq_mi	853 / 43&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 853&nbsp;square miles (2,209&nbsp;km&#x00b2;), of which 810&nbsp;square miles (2,097&nbsp;km&#x00b2;) is land and 43&nbsp;square miles (112&nbsp;km&#x00b2;) (5.08%) is water. </p>
+
+665	TRUE	Washburn County, Wisconsin:: area_land_sq_mi	810 / (5.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 853&nbsp;square miles (2,209&nbsp;km&#x00b2;), of which 810&nbsp;square miles (2,097&nbsp;km&#x00b2;) is land and 43&nbsp;square miles (112&nbsp;km&#x00b2;) (5.08%) is water. </p>
+
+666	FALSE	Washburn County, Wisconsin:: area_water_sq_mi	43 / 1.	
+The racial makeup of the county was 97.27% <a> White </a> , 0.17% <a> Black </a> or <a> African American </a> , 1.01% <a> Native American </a> , 0.19% <a> Asian </a> , 0.02% <a> Pacific Islander </a> , 0.12% from <a> other races </a> , and 1.22% from two or more races.
+
+668	TRUE	Washburn County, Wisconsin:: density_km2	8 / (8/	
+The <a> population density </a> was 20 people per square mile (8/km&#x00b2;).
+
+672	FALSE	Washburn County, Wisconsin:: area_water_km2	112 / 42	
+The median age was 42 years.
+
+673	TRUE	Washburn County, Wisconsin:: density_sq_mi	20 / (8/	
+The <a> population density </a> was 20 people per square mile (8/km&#x00b2;).
+
+674	TRUE	Walworth County, Wisconsin:: state	wisconsin / Wisconsin	
+<p> <strong> Walworth County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Wisconsin </a> .
+
+675	TRUE	Walworth County, Wisconsin:: area_land_sq_mi	555 / (3.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 576&nbsp;square miles (1,493&nbsp;km&#x00b2;), of which 555&nbsp;square miles (1,438&nbsp;km&#x00b2;) is land and 21&nbsp;square miles (55&nbsp;km&#x00b2;) (3.68%) is water.
+
+676	FALSE	Walworth County, Wisconsin:: area_water_sq_mi	21 / 1.	
+The racial makeup of the county was 94.49% <a> White </a> , 0.84% <a> Black </a> or <a> African American </a> , 0.23% <a> Native American </a> , 0.65% <a> Asian </a> , 0.03% <a> Pacific Islander </a> , 2.62% from <a> other races </a> , and 1.14% from two or more races.
+
+678	TRUE	Walworth County, Wisconsin:: density_km2	65 / (65/	
+The <a> population density </a> was 169 people per square mile (65/km&#x00b2;).
+
+681	FALSE	Walworth County, Wisconsin:: area_water_km2	55 / 35	
+The median age was 35 years.
+
+682	TRUE	Walworth County, Wisconsin:: density_sq_mi	169 / (65/	
+The <a> population density </a> was 169 people per square mile (65/km&#x00b2;).
+
+684	TRUE	Vilas County, Wisconsin:: state	wisconsin / Wisconsin	
+<p> <strong> Vilas County </strong> is a <a> county </a> in the <a> U.S. state </a> of <a> Wisconsin </a> .
+
+686	TRUE	Vilas County, Wisconsin:: area_land_sq_mi	874 / (14.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 1,018&nbsp;square miles (2,636&nbsp;km&#x00b2;), of which 874&nbsp;square miles (2,263&nbsp;km&#x00b2;) is land and 144&nbsp;square miles (373&nbsp;km&#x00b2;) (14.16%) is water.
+
+687	FALSE	Vilas County, Wisconsin:: area_water_sq_mi	144 / 0.	
+The racial makeup of the county was 89.69% <a> White </a> , 0.20% <a> Black </a> or <a> African American </a> , 9.08% <a> Native American </a> , 0.18% <a> Asian </a> , 0.01% <a> Pacific Islander </a> , 0.19% from <a> other races </a> , and 0.65% from two or more races.
+
+689	TRUE	Vilas County, Wisconsin:: density_km2	9 / (9/	
+The <a> population density </a> was 24 people per square mile (9/km&#x00b2;).
+
+693	FALSE	Vilas County, Wisconsin:: area_water_km2	373 / 46	
+The median age was 46 years.
+
+694	TRUE	Vilas County, Wisconsin:: density_sq_mi	24 / (9/	
+The <a> population density </a> was 24 people per square mile (9/km&#x00b2;).
+
+695	TRUE	Vernon County, Wisconsin:: state	wisconsin / Wisconsin	
+<p> <strong> Vernon County </strong> is a <a> county </a> in the <a> U.S. state </a> of <a> Wisconsin </a> .
+
+696	TRUE	Vernon County, Wisconsin:: area_total_sq_mi	816 / 22&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 816&nbsp;square miles (2,114&nbsp;km&#x00b2;), of which 795&nbsp;square miles (2,059&nbsp;km&#x00b2;) is land and 22&nbsp;square miles (56&nbsp;km&#x00b2;) (2.64%) is water. </p>
+
+697	TRUE	Vernon County, Wisconsin:: area_land_sq_mi	795 / (2.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 816&nbsp;square miles (2,114&nbsp;km&#x00b2;), of which 795&nbsp;square miles (2,059&nbsp;km&#x00b2;) is land and 22&nbsp;square miles (56&nbsp;km&#x00b2;) (2.64%) is water. </p>
+
+698	FALSE	Vernon County, Wisconsin:: area_water_sq_mi	22 / 0.	
+The racial makeup of the county was 98.81% <a> White </a> , 0.06% <a> Black </a> or <a> African American </a> , 0.15% <a> Native American </a> , 0.21% <a> Asian </a> , 0.01% <a> Pacific Islander </a> , 0.27% from <a> other races </a> , and 0.48% from two or more races.
+
+700	TRUE	Vernon County, Wisconsin:: density_km2	14 / (14/	
+The <a> population density </a> was 35 people per square mile (14/km&#x00b2;).
+
+702	FALSE	Vernon County, Wisconsin:: area_water_km2	56 / 39	
+The median age was 39 years.
+
+703	TRUE	Vernon County, Wisconsin:: density_sq_mi	35 / (14/	
+The <a> population density </a> was 35 people per square mile (14/km&#x00b2;).
+
+706	TRUE	Trempealeau County, Wisconsin:: state	wisconsin / Wisconsin	
+<p> <strong> Trempealeau County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Wisconsin </a> .
+
+707	TRUE	Trempealeau County, Wisconsin:: area_land_sq_mi	734 / (1.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 742&nbsp; <a> square mile </a> s (1,922&nbsp; <a> km&#x00b2; </a> ), of which 734&nbsp;square miles (1,901&nbsp;km&#x00b2;) is land and 8&nbsp;square miles (20&nbsp;km&#x00b2;) (1.06%) is water.
+
+708	TRUE	Trempealeau County, Wisconsin:: area_water_sq_mi	8 / 0.	
+The racial makeup of the county was 98.81% <a> White </a> , 0.13% <a> Black </a> or <a> African American </a> , 0.17% <a> Native American </a> , 0.13% <a> Asian </a> , 0.01% <a> Pacific Islander </a> , 0.29% from <a> other races </a> , and 0.47% from two or more races.
+
+710	TRUE	Trempealeau County, Wisconsin:: density_km2	14 / (14/	
+The <a> population density </a> was 37 people per square mile (14/km&#x00b2;).
+
+714	FALSE	Trempealeau County, Wisconsin:: area_water_km2	20 / 38	
+The median age was 38 years.
+
+715	TRUE	Trempealeau County, Wisconsin:: density_sq_mi	37 / (14/	
+The <a> population density </a> was 37 people per square mile (14/km&#x00b2;).
+
+716	TRUE	Taylor County, Wisconsin:: state	wisconsin / Wisconsin	
+<p> <strong> Taylor County </strong> is a <a> county </a> in the <a> U.S. state </a> of <a> Wisconsin </a> .
+
+717	TRUE	Taylor County, Wisconsin:: area_land_sq_mi	975 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 984&nbsp;square miles (2,550&nbsp;km&#x00b2;), of which 975&nbsp;square miles (2,525&nbsp;km&#x00b2;) is land and 10&nbsp;square miles (25&nbsp;km&#x00b2;) (0.98%) is water. </p>
+
+718	FALSE	Taylor County, Wisconsin:: area_water_sq_mi	10 / 0.	
+The racial makeup of the county was 98.71% <a> White </a> , 0.09% <a> Black </a> or <a> African American </a> , 0.19% <a> Native American </a> , 0.23% <a> Asian </a> , 0.19% from <a> other races </a> , and 0.59% from two or more races.
+
+720	TRUE	Taylor County, Wisconsin:: density_km2	8 / (8/	
+The <a> population density </a> was 20 people per square mile (8/km&#x00b2;).
+
+760	TRUE	Kewaunee County, Wisconsin:: state	wisconsin / Wisconsin	
+<p> <strong> Kewaunee County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Wisconsin </a> .
+
+762	TRUE	Kewaunee County, Wisconsin:: area_land_sq_mi	343 / (68.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 1,085&nbsp;square miles (2,809&nbsp;km&#x00b2;), of which 343&nbsp;square miles (887&nbsp;km&#x00b2;) is land and 742&nbsp;square miles (1,921&nbsp;km&#x00b2;) (68.41%) is water. </p>
+
+763	FALSE	Kewaunee County, Wisconsin:: area_water_sq_mi	742 / 0.	
+The racial makeup of the county was 98.56% <a> White </a> , 0.15% <a> Black </a> or <a> African American </a> , 0.27% <a> Native American </a> , 0.13% <a> Asian </a> , 0.30% from <a> other races </a> , and 0.57% from two or more races.
+
+765	TRUE	Kewaunee County, Wisconsin:: density_km2	23 / (23/	
+The <a> population density </a> was 59 people per square mile (23/km&#x00b2;).
+
+768	TRUE	Kewaunee County, Wisconsin:: area_land_km2	887 / (1,921&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 1,085&nbsp;square miles (2,809&nbsp;km&#x00b2;), of which 343&nbsp;square miles (887&nbsp;km&#x00b2;) is land and 742&nbsp;square miles (1,921&nbsp;km&#x00b2;) (68.41%) is water. </p>
+
+770	TRUE	Kewaunee County, Wisconsin:: density_sq_mi	59 / (23/	
+The <a> population density </a> was 59 people per square mile (23/km&#x00b2;).
+
+782	TRUE	Juneau County, Wisconsin:: state	wisconsin / Wisconsin	
+<p> <strong> Juneau County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Wisconsin </a> .
+
+785	FALSE	Juneau County, Wisconsin:: area_water_sq_mi	37 / 0.	
+The racial makeup of the county was 96.61% <a> White </a> , 0.33% <a> Black </a> or <a> African American </a> , 1.30% <a> Native American </a> , 0.44% <a> Asian </a> , 0.02% <a> Pacific Islander </a> , 0.57% from <a> other races </a> , and 0.74% from two or more races.
+
+787	TRUE	Juneau County, Wisconsin:: density_km2	12 / (12/	
+The <a> population density </a> was 32 people per square mile (12/km&#x00b2;).
+
+793	TRUE	Juneau County, Wisconsin:: density_sq_mi	32 / (12/	
+The <a> population density </a> was 32 people per square mile (12/km&#x00b2;).
+
+794	TRUE	Jefferson County, Wisconsin:: state	wisconsin / Wisconsin	
+<p> <strong> Jefferson County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Wisconsin </a> .
+
+799	TRUE	Jefferson County, Wisconsin:: density_km2	51 / (51/	
+The <a> population density </a> was 133 people per square mile (51/km&#x00b2;).
+
+805	TRUE	Jefferson County, Wisconsin:: density_sq_mi	133 / (51/	
+The <a> population density </a> was 133 people per square mile (51/km&#x00b2;).
+
+806	TRUE	Jackson County, Wisconsin:: state	wisconsin / Wisconsin	
+<p> <strong> Jackson County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Wisconsin </a> .
+
+810	TRUE	Jackson County, Wisconsin:: density_km2	7 / (7/	
+The <a> population density </a> was 19 people per square mile (7/km&#x00b2;).
+
+814	TRUE	Jackson County, Wisconsin:: density_sq_mi	19 / (7/	
+The <a> population density </a> was 19 people per square mile (7/km&#x00b2;).
+
+815	TRUE	Jackson County, Wisconsin:: county	jackson county / Jackson County	
+<p> <strong> Jackson County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Wisconsin </a> .
+
+818	TRUE	Iron County, Wisconsin:: state	wisconsin / Wisconsin	
+<p> <strong> Iron County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Wisconsin </a> .
+
+823	TRUE	Iron County, Wisconsin:: density_km2	9 / (4/	
+The <a> population density </a> was 9 people per square mile (4/km&#x00b2;).
+
+828	TRUE	Iron County, Wisconsin:: density_sq_mi	4 / (4/	
+The <a> population density </a> was 9 people per square mile (4/km&#x00b2;).
+
+830	TRUE	Iowa County, Wisconsin:: state	wisconsin / Wisconsin	
+<p> <strong> Iowa County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Wisconsin </a> .
+
+834	TRUE	Iowa County, Wisconsin:: density_km2	12 / (12/	
+The <a> population density </a> was 30 people per square mile (12/km&#x00b2;).
+
+839	TRUE	Iowa County, Wisconsin:: density_sq_mi	30 / (12/	
+The <a> population density </a> was 30 people per square mile (12/km&#x00b2;).
+
+840	TRUE	Iowa County, Wisconsin:: area_water_sq_mi	5 / 0.	
+The racial makeup of the county was 98.70% <a> White </a> , 0.17% <a> Black </a> or <a> African American </a> , 0.11% <a> Native American </a> , 0.34% <a> Asian </a> , 0.01% <a> Pacific Islander </a> , 0.11% from <a> other races </a> , and 0.55% from two or more races.
+
+843	FALSE	Green Lake County, Wisconsin:: area_water_sq_mi	26 / 0.	
+The racial makeup of the county was 97.81% <a> White </a> , 0.15% <a> Black </a> or <a> African American </a> , 0.20% <a> Native American </a> , 0.31% <a> Asian </a> , 0.04% <a> Pacific Islander </a> , 0.89% from <a> other races </a> , and 0.60% from two or more races.
+
+844	TRUE	Green Lake County, Wisconsin:: density_km2	21 / (21/	
+The <a> population density </a> was 54 people per square mile (21/km&#x00b2;).
+
+850	TRUE	Green Lake County, Wisconsin:: density_sq_mi	54 / (21/	
+The <a> population density </a> was 54 people per square mile (21/km&#x00b2;).
+
+851	TRUE	Green Lake County, Wisconsin:: state	wisconsin / Wisconsin	
+<p> <strong> Green Lake County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Wisconsin </a> .
+
+853	TRUE	Green County, Wisconsin:: state	wisconsin / Wisconsin	
+<p> <strong> Green County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Wisconsin </a> .
+
+856	TRUE	Green County, Wisconsin:: area_water_sq_mi	1 / 0.	
+The racial makeup of the county was 98.14% <a> White </a> , 0.26% <a> Black </a> or <a> African American </a> , 0.21% <a> Native American </a> , 0.29% <a> Asian </a> , 0.36% from <a> other races </a> , and 0.75% from two or more races.
+
+858	TRUE	Green County, Wisconsin:: density_km2	22 / (22/	
+The <a> population density </a> was 58 people per square mile (22/km&#x00b2;).
+
+863	FALSE	Green County, Wisconsin:: area_water_km2	2 / 38	
+The median age was 38 years.
+
+864	TRUE	Green County, Wisconsin:: density_sq_mi	58 / (22/	
+The <a> population density </a> was 58 people per square mile (22/km&#x00b2;).
+
+865	TRUE	Grant County, Wisconsin:: state	wisconsin / Wisconsin	
+<p> <strong> Grant County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Wisconsin </a> .
+
+869	FALSE	Grant County, Wisconsin:: pop	49,597 / 49,238.	
+Estimates for 2008 show a population of 49,238.
+
+870	TRUE	Grant County, Wisconsin:: density_km2	17 / (17/	
+The <a> population density </a> was 43 people per square mile (17/km&#x00b2;).
+
+876	TRUE	Grant County, Wisconsin:: density_sq_mi	43 / (17/	
+The <a> population density </a> was 43 people per square mile (17/km&#x00b2;).
+
+877	TRUE	Forest County, Wisconsin:: state	wisconsin / Wisconsin	
+<p> <strong> Forest County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Wisconsin </a> .
+
+880	FALSE	Forest County, Wisconsin:: area_water_sq_mi	32 / 1.	
+The racial makeup of the county was 85.86% <a> White </a> , 11.30% <a> Native American </a> , 1.18% <a> Black </a> or <a> African American </a> , 0.17% <a> Asian </a> , 0.04% <a> Pacific Islander </a> , 0.23% from <a> other races </a> , and 1.22% from two or more races.
+
+882	TRUE	Forest County, Wisconsin:: density_km2	4 / (4/	
+The <a> population density </a> was 10 people per square mile (4/km&#x00b2;).
+
+888	TRUE	Forest County, Wisconsin:: density_sq_mi	10 / (4/	
+The <a> population density </a> was 10 people per square mile (4/km&#x00b2;).
+
+889	TRUE	Fond du Lac County, Wisconsin:: state	wisconsin / Wisconsin	
+<p> <strong> Fond du Lac County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Wisconsin </a> .
+
+898	TRUE	Fond du Lac County, Wisconsin:: density_km2	52 / (52/	
+The <a> population density </a> was 135 people per square mile (52/km&#x00b2;).
+
+899	TRUE	Fond du Lac County, Wisconsin:: density_sq_mi	135 / (52/	
+The <a> population density </a> was 135 people per square mile (52/km&#x00b2;).
+
+912	TRUE	Ashland County, Wisconsin:: state	wisconsin / Wisconsin	
+<p> <strong> Ashland County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Wisconsin </a> .
+
+923	TRUE	Wyoming County, West Virginia:: county	wyoming county / West Virginia	
+<p> <strong> Wyoming County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> West Virginia </a> .
+
+924	TRUE	Wyoming County, West Virginia:: state	west virginia / West Virginia	
+<p> <strong> Wyoming County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> West Virginia </a> .
+
+925	FALSE	Wyoming County, West Virginia:: area_total_sq_mi	502 / 23	
+There were 11,698 housing units at an average density of 23 per square&nbsp;mile (9/km&#x00b2;).
+
+926	TRUE	Wyoming County, West Virginia:: area_water_sq_mi	1 / 0.	
+The racial makeup of the county was 98.59% <a> White </a> , 0.63% <a> Black </a> or <a> African American </a> , 0.12% <a> Native American </a> , 0.08% <a> Asian </a> , 0.07% from <a> other races </a> , and 0.51% from two or more races.
+
+928	TRUE	Wyoming County, West Virginia:: density_km2	20 / (20/	
+The <a> population density </a> was 51 people per square mile (20/km&#x00b2;).
+
+929	TRUE	Wyoming County, West Virginia:: seat	pineville / Pineville	
+Its <a> county seat </a> is <a> Pineville </a> .
+
+972	TRUE	Webster County, West Virginia:: state	west virginia / West Virginia	
+/div <strong> Webster County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> West Virginia </a> .
+
+973	FALSE	Webster County, West Virginia:: area_total_sq_mi	556 / 10	
+There were 5,273 housing units at an average density of 10 per square&nbsp;mile (4/km&#x00b2;).
+
+974	TRUE	Webster County, West Virginia:: area_land_sq_mi	556 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 556&nbsp;square miles (1,440&nbsp;km&#x00b2;), of which 556&nbsp;square miles (1,440&nbsp;km&#x00b2;) is land and 0&nbsp;square miles (0&nbsp;km&#x00b2;) (0.03%) is water. </p>
+
+975	TRUE	Webster County, West Virginia:: area_water_sq_mi	0 / 0.	
+The racial makeup of the county was 99.18% <a> White </a> , 0.01% <a> Black </a> or <a> African American </a> , 0.07% <a> Native American </a> , 0.06% <a> Asian </a> , 0.01% <a> Pacific Islander </a> , 0.01% from <a> other races </a> , and 0.66% from two or more races.
+
+976	TRUE	Webster County, West Virginia:: pop	9,719 / 9,719.	
+As of 2000, the population is 9,719.
+
+977	TRUE	Webster County, West Virginia:: density_km2	7 / (7/	
+The <a> population density </a> was 18 people per square mile (7/km&#x00b2;).
+
+978	TRUE	Webster County, West Virginia:: seat	webster springs / Webster	
+Its <a> county seat </a> is <a> Webster Springs </a> .
+
+982	TRUE	Webster County, West Virginia:: county	webster county / West Virginia	
+/div <strong> Webster County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> West Virginia </a> .
+
+1372	TRUE	Apache County, Arizona:: state	arizona / U.	
+<p> <strong> Apache County </strong> is located in the northeast corner of the <a> U.S. state </a> of <a> Arizona </a> .
+
+1374	FALSE	Apache County, Arizona:: area_water_sq_mi	14 / 1.	
+The racial makeup of the county was 76.88% <a> Native American </a> , 19.50% <a> White </a> , 0.25% <a> Black </a> or <a> African American </a> , 0.13% <a> Asian </a> , 0.06% <a> Pacific Islander </a> , 1.75% from <a> other races </a> , and 1.43% from two or more races.
+
+1376	TRUE	Apache County, Arizona:: density_km2	2 / (2/	
+The <a> population density </a> was 6 people per square mile (2/km&#x00b2;).
+
+1452	TRUE	Shawano County, Wisconsin:: state	wisconsin / Wisconsin	
+<p> <strong> Shawano County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Wisconsin </a> .
+
+1455	FALSE	Shawano County, Wisconsin:: area_water_sq_mi	17 / 1.	
+The racial makeup of the county was 91.61% <a> White </a> , 0.22% <a> Black </a> or <a> African American </a> , 6.26% <a> Native American </a> , 0.33% <a> Asian </a> , 0.04% <a> Pacific Islander </a> , 0.31% from <a> other races </a> , and 1.22% from two or more races.
+
+1461	FALSE	Shawano County, Wisconsin:: area_water_km2	44 / 38	
+The median age was 38 years.
+
+1462	TRUE	Shawano County, Wisconsin:: density_sq_mi	46 / (18/	
+The <a> population density </a> was 46 people per square mile (18/km&#x00b2;).
+
+1463	TRUE	Shawano County, Wisconsin:: density_km2	18 / (18/	
+The <a> population density </a> was 46 people per square mile (18/km&#x00b2;).
+
+1464	TRUE	Sawyer County, Wisconsin:: state	wisconsin / Wisconsin	
+<p> <strong> Sawyer County </strong> is a <a> county </a> in the <a> U.S. state </a> of <a> Wisconsin </a> .
+
+1467	FALSE	Sawyer County, Wisconsin:: area_water_sq_mi	94 / 1.	
+<a> Native American </a> , 0.30% <a> Asian </a> , 0.02% <a> Pacific Islander </a> , 0.35% from <a> other races </a> , and 1.23% from two or more races.
+
+1469	TRUE	Sawyer County, Wisconsin:: density_km2	5 / (5/	
+The <a> population density </a> was 13 people per square mile (5/km&#x00b2;).
+
+1473	FALSE	Sawyer County, Wisconsin:: area_water_km2	243 / 42	
+The median age was 42 years.
+
+1474	TRUE	Sawyer County, Wisconsin:: density_sq_mi	13 / (5/	
+The <a> population density </a> was 13 people per square mile (5/km&#x00b2;).
+
+1475	TRUE	Sauk County, Wisconsin:: state	wisconsin / Wisconsin	
+<p> <strong> Sauk County </strong> is a <a> county </a> in the <a> U.S. state </a> of <a> Wisconsin </a> .
+
+1476	TRUE	Sauk County, Wisconsin:: area_total_sq_mi	848 / 11&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 848&nbsp;square miles (2,197&nbsp;km&#x00b2;), of which 838&nbsp;square miles (2,169&nbsp;km&#x00b2;) is land and 11&nbsp;square miles (28&nbsp;km&#x00b2;) (1.27%) is water.
+
+1477	TRUE	Sauk County, Wisconsin:: area_land_sq_mi	838 / (1.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 848&nbsp;square miles (2,197&nbsp;km&#x00b2;), of which 838&nbsp;square miles (2,169&nbsp;km&#x00b2;) is land and 11&nbsp;square miles (28&nbsp;km&#x00b2;) (1.27%) is water.
+
+1478	FALSE	Sauk County, Wisconsin:: area_water_sq_mi	11 / 0.	
+The racial makeup of the county was 97.37% <a> White </a> , 0.26% <a> Black </a> or <a> African American </a> , 0.87% <a> Native American </a> , 0.26% <a> Asian </a> , 0.02% <a> Pacific Islander </a> , 0.59% from <a> other races </a> , and 0.64% from two or more races.
+
+1480	TRUE	Sauk County, Wisconsin:: density_km2	25 / (25/	
+The <a> population density </a> was 66 people per square mile (25/km&#x00b2;).
+
+1484	FALSE	Sauk County, Wisconsin:: area_water_km2	28 / 37	
+The median age was 37 years.
+
+1485	TRUE	Sauk County, Wisconsin:: density_sq_mi	66 / (25/	
+The <a> population density </a> was 66 people per square mile (25/km&#x00b2;).
+
+1486	FALSE	Rusk County, Wisconsin:: area_total_sq_mi	931 / 8	
+There were 7,609 housing units at an average density of 8 per square&nbsp;mile (3/km&#x00b2;).
+
+1487	TRUE	Rusk County, Wisconsin:: area_land_sq_mi	913 / (1.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 931&nbsp; <a> square mile </a> s (2,411&nbsp; <a> km&#x00b2; </a> ), of which 913&nbsp;square miles (2,365&nbsp;km&#x00b2;) is land and 18&nbsp;square miles (46&nbsp;km&#x00b2;) (1.91%) is water. </p>
+
+1489	TRUE	Rusk County, Wisconsin:: density_km2	6 / (6/	
+The <a> population density </a> was 17 people per square mile (6/km&#x00b2;).
+
+1493	FALSE	Rusk County, Wisconsin:: area_water_km2	46 / 40	
+The median age was 40 years.
+
+1494	TRUE	Rusk County, Wisconsin:: density_sq_mi	17 / (6/	
+The <a> population density </a> was 17 people per square mile (6/km&#x00b2;).
+
+1495	TRUE	Rusk County, Wisconsin:: state	wisconsin / Wisconsin	
+<p> <strong> Rusk County </strong> is a <a> county </a> in the <a> U.S. state </a> of <a> Wisconsin </a> .
+
+1496	FALSE	Rusk County, Wisconsin:: area_water_sq_mi	18 / 0.	
+The racial makeup of the county was 97.69% <a> White </a> , 0.51% <a> Black </a> or <a> African American </a> , 0.42% <a> Native American </a> , 0.26% <a> Asian </a> , 0.10% <a> Pacific Islander </a> , 0.35% from <a> other races </a> , and 0.66% from two or more races.
+
+1507	TRUE	Richland County, Wisconsin:: state	wisconsin / Wisconsin	
+<p> <strong> Richland County </strong> is a <a> county </a> in the <a> U.S. state </a> of <a> Wisconsin </a> .
+
+1508	TRUE	Richland County, Wisconsin:: area_land_sq_mi	586 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 589&nbsp; <a> square mile </a> s (1,526&nbsp; <a> km&#x00b2; </a> ), of which 586&nbsp;square miles (1,518&nbsp;km&#x00b2;) is land and 3&nbsp;square miles (8&nbsp;km&#x00b2;) (0.54%) is water. </p>
+
+1509	TRUE	Richland County, Wisconsin:: area_water_sq_mi	3 / 0.	
+The racial makeup of the county was 98.39% <a> White </a> , 0.15% <a> Black </a> or <a> African American </a> , 0.26% <a> Native American </a> , 0.21% <a> Asian </a> , 0.03% <a> Pacific Islander </a> , 0.28% from <a> other races </a> , and 0.68% from two or more races.
+
+1511	TRUE	Richland County, Wisconsin:: density_km2	12 / (12/	
+The <a> population density </a> was 31 people per square mile (12/km&#x00b2;).
+
+1528	TRUE	Price County, Wisconsin:: state	wisconsin / Wisconsin	
+<p> <strong> Price County </strong> is a <a> county </a> in the <a> U.S. state </a> of <a> Wisconsin </a> .
+
+1531	FALSE	Price County, Wisconsin:: area_water_sq_mi	26 / 0.	
+The racial makeup of the county was 98.22% <a> White </a> , 0.10% <a> Black </a> or <a> African American </a> , 0.60% <a> Native American </a> , 0.30% <a> Asian </a> , 0.03% <a> Pacific Islander </a> , 0.15% from <a> other races </a> , and 0.60% from two or more races.
+
+1533	TRUE	Price County, Wisconsin:: density_km2	5 / (5/	
+The <a> population density </a> was 13 people per square mile (5/km&#x00b2;).
+
+1535	FALSE	Price County, Wisconsin:: area_water_km2	67 / 42	
+The median age was 42 years.
+
+1536	TRUE	Price County, Wisconsin:: density_sq_mi	13 / (5/	
+The <a> population density </a> was 13 people per square mile (5/km&#x00b2;).
+
+1540	TRUE	Portage County, Wisconsin:: state	wisconsin / Wisconsin	
+<p> <strong> Portage County </strong> is a <a> county </a> in the <a> U.S. state </a> of <a> Wisconsin </a> .
+
+1541	TRUE	Portage County, Wisconsin:: area_total_sq_mi	823 / 16&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 823&nbsp;square miles (2,131&nbsp;km&#x00b2;), of which 806&nbsp;square miles (2,088&nbsp;km&#x00b2;) is land and 16&nbsp;square miles (43&nbsp;km&#x00b2;) (2.00%) is water. </p>
+
+1542	TRUE	Portage County, Wisconsin:: area_land_sq_mi	806 / (2.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 823&nbsp;square miles (2,131&nbsp;km&#x00b2;), of which 806&nbsp;square miles (2,088&nbsp;km&#x00b2;) is land and 16&nbsp;square miles (43&nbsp;km&#x00b2;) (2.00%) is water. </p>
+
+1543	FALSE	Portage County, Wisconsin:: area_water_sq_mi	16 / 0.	
+The racial makeup of the county was 95.73% <a> White </a> , 0.32% <a> Black </a> or <a> African American </a> , 0.36% <a> Native American </a> , 2.25% <a> Asian </a> , 0.04% <a> Pacific Islander </a> , 0.43% from <a> other races </a> , and 0.86% from two or more races.
+
+1544	TRUE	Portage County, Wisconsin:: density_km2	32 / (32/	
+The <a> population density </a> was 83 people per square mile (32/km&#x00b2;).
+
+1547	FALSE	Portage County, Wisconsin:: area_water_km2	43 / 33	
+The median age was 33 years.
+
+1548	TRUE	Portage County, Wisconsin:: density_sq_mi	83 / (32/	
+The <a> population density </a> was 83 people per square mile (32/km&#x00b2;).
+
+1562	TRUE	Pierce County, Wisconsin:: state	wisconsin / Wisconsin	
+<p> <strong> Pierce County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Wisconsin </a> .
+
+1563	TRUE	Pierce County, Wisconsin:: area_land_sq_mi	576 / (2.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 592&nbsp;square miles (1,532&nbsp;km&#x00b2;), of which 576&nbsp;square miles (1,493&nbsp;km&#x00b2;) is land and 15&nbsp;square miles (39&nbsp;km&#x00b2;) (2.55%) is water. </p>
+
+1564	FALSE	Pierce County, Wisconsin:: area_water_sq_mi	15 / 0.	
+The racial makeup of the county was 98.01% <a> White </a> , 0.25% <a> Black </a> or <a> African American </a> , 0.29% <a> Native American </a> , 0.43% <a> Asian </a> , 0.03% <a> Pacific Islander </a> , 0.28% from <a> other races </a> , and 0.72% from two or more races.
+
+1565	TRUE	Pierce County, Wisconsin:: density_km2	25 / (25/	
+The <a> population density </a> was 64 people per square mile (25/km&#x00b2;).
+
+1568	FALSE	Pierce County, Wisconsin:: area_water_km2	39 / 32	
+The median age was 32 years.
+
+1571	TRUE	Pierce County, Wisconsin:: density_sq_mi	64 / (25/	
+The <a> population density </a> was 64 people per square mile (25/km&#x00b2;).
+
+1583	TRUE	Ozaukee County, Wisconsin:: state	wisconsin / Wisconsin	
+<p> <strong> Ozaukee County </strong> is a <a> county </a> in the <a> U.S. state </a> of <a> Wisconsin </a> .
+
+1585	FALSE	Ozaukee County, Wisconsin:: area_land_sq_mi	232 / 116	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 2,891 <a> km&#x00b2; </a> (1,116 <a> sq&nbsp;mi </a> ).
+
+1586	FALSE	Ozaukee County, Wisconsin:: area_water_sq_mi	884 / 0.	
+The racial makeup of the county was 96.72% <a> White </a> , 0.93% <a> Black </a> or <a> African American </a> , 0.20% <a> Native American </a> , 1.07% <a> Asian </a> , 0.02% <a> Pacific Islander </a> , 0.34% from <a> other races </a> , and 0.73% from two or more races.
+
+1588	TRUE	Ozaukee County, Wisconsin:: seat	port washington / Port	
+Its <a> county seat </a> is <a> Port Washington </a> .
+
+1593	TRUE	Ozaukee County, Wisconsin:: density_km2	137 / (137/	
+The <a> population density </a> was 355 people per square mile (137/km&#x00b2;).
+
+1601	TRUE	Oneida County, Wisconsin:: state	wisconsin / Wisconsin	
+<p> <strong> Oneida County </strong> is a <a> county </a> in the <a> U.S. state </a> of <a> Wisconsin </a> .
+
+1603	FALSE	Oneida County, Wisconsin:: area_water_sq_mi	111 / 0.	
+The racial makeup of the county was 97.71% <a> White </a> , 0.33% <a> Black </a> or <a> African American </a> , 0.66% <a> Native American </a> , 0.30% <a> Asian </a> , 0.05% <a> Pacific Islander </a> , 0.21% from <a> other races </a> , and 0.75% from two or more races.
+
+1605	TRUE	Oneida County, Wisconsin:: density_km2	13 / (13/	
+The <a> population density </a> was 33 people per square mile (13/km&#x00b2;).
+
+1609	FALSE	Oneida County, Wisconsin:: area_water_km2	288 / 42	
+The median age was 42 years.
+
+1610	TRUE	Oneida County, Wisconsin:: density_sq_mi	33 / (13/	
+The <a> population density </a> was 33 people per square mile (13/km&#x00b2;).
+
+1613	TRUE	Oconto County, Wisconsin:: state	wisconsin / Wisconsin	
+<p> <strong> Oconto County </strong> is a <a> county </a> in the <a> U.S. state </a> of <a> Wisconsin </a> .
+
+1615	TRUE	Oconto County, Wisconsin:: area_land_sq_mi	998 / (13.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 1,149&nbsp;square miles (2,976&nbsp;km&#x00b2;), of which 998&nbsp;square miles (2,585&nbsp;km&#x00b2;) is land and 151&nbsp;square miles (391&nbsp;km&#x00b2;) (13.15%) is water. </p>
+
+1616	FALSE	Oconto County, Wisconsin:: area_water_sq_mi	151 / 0.	
+The racial makeup of the county was 97.76% <a> White </a> , 0.13% <a> Black </a> or <a> African American </a> , 0.78% <a> Native American </a> , 0.20% <a> Asian </a> , 0.01% <a> Pacific Islander </a> , 0.24% from <a> other races </a> , and 0.88% from two or more races.
+
+1618	TRUE	Oconto County, Wisconsin:: density_km2	14 / (14/	
+The <a> population density </a> was 36 people per square mile (14/km&#x00b2;).
+
+1622	FALSE	Oconto County, Wisconsin:: area_water_km2	391 / 39	
+The median age was 39 years.
+
+1623	TRUE	Oconto County, Wisconsin:: density_sq_mi	36 / (14/	
+The <a> population density </a> was 36 people per square mile (14/km&#x00b2;).
+
+1624	TRUE	Monroe County, Wisconsin:: state	wisconsin / Wisconsin	
+<p> <strong> Monroe County </strong> is a <a> county </a> in the <a> U.S. state </a> of <a> Wisconsin </a> .
+
+1625	FALSE	Monroe County, Wisconsin:: area_total_sq_mi	908 / 18	
+There were 16,672 housing units at an average density of 18 per square&nbsp;mile (7/km&#x00b2;).
+
+1626	TRUE	Monroe County, Wisconsin:: area_land_sq_mi	901 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 908&nbsp;square miles (2,352&nbsp;km&#x00b2;), of which 901&nbsp;square miles (2,333&nbsp;km&#x00b2;) is land and 8&nbsp;square miles (19&nbsp;km&#x00b2;) (0.83%) is water. </p>
+
+1627	TRUE	Monroe County, Wisconsin:: area_water_sq_mi	8 / 0.	
+The racial makeup of the county was 96.52% <a> White </a> , 0.46% <a> Black </a> or <a> African American </a> , 0.92% <a> Native American </a> , 0.48% <a> Asian </a> , 0.04% <a> Pacific Islander </a> , 0.85% from <a> other races </a> , and 0.74% from two or more races.
+
+1629	TRUE	Monroe County, Wisconsin:: density_km2	18 / (18/	
+The <a> population density </a> was 45 people per square mile (18/km&#x00b2;).
+
+1633	FALSE	Monroe County, Wisconsin:: area_water_km2	19 / 37	
+The median age was 37 years.
+
+1634	TRUE	Monroe County, Wisconsin:: density_sq_mi	45 / (18/	
+The <a> population density </a> was 45 people per square mile (18/km&#x00b2;).
+
+1656	TRUE	Marquette County, Wisconsin:: state	wisconsin / Wisconsin	
+<p> <strong> Marquette County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Wisconsin </a> .
+
+1657	FALSE	Marquette County, Wisconsin:: area_total_sq_mi	464 / 19	
+There were 8,664 housing units at an average density of 19 per square&nbsp;mile (7/km&#x00b2;).
+
+1658	TRUE	Marquette County, Wisconsin:: area_land_sq_mi	455 / (1.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 464&nbsp; <a> square mile </a> s (1,203&nbsp; <a> km&#x00b2; </a> ), of which 455&nbsp;square miles (1,180&nbsp;km&#x00b2;) is land and 9&nbsp;square miles (23&nbsp;km&#x00b2;) (1.92%) is water.
+
+1659	TRUE	Marquette County, Wisconsin:: area_water_sq_mi	9 / 1.	
+The racial makeup of the county was 93.66% <a> White </a> , 3.44% <a> Black </a> or <a> African American </a> , 1.04% <a> Native American </a> , 0.27% <a> Asian </a> , 0.10% <a> Pacific Islander </a> , 0.38% from <a> other races </a> , and 1.11% from two or more races.
+
+1661	TRUE	Marquette County, Wisconsin:: density_km2	13 / (13/	
+The <a> population density </a> was 35 people per square mile (13/km&#x00b2;).
+
+1665	FALSE	Marquette County, Wisconsin:: area_water_km2	23 / 41	
+The median age was 41 years.
+
+1666	TRUE	Marquette County, Wisconsin:: density_sq_mi	35 / (13/	
+The <a> population density </a> was 35 people per square mile (13/km&#x00b2;).
+
+1667	TRUE	Marinette County, Wisconsin:: state	wisconsin / Wisconsin	
+<p> <strong> Marinette County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Wisconsin </a> .
+
+1670	FALSE	Marinette County, Wisconsin:: area_water_sq_mi	148 / 0.	
+The racial makeup of the county was 98.08% <a> White </a> , 0.23% <a> Black </a> or <a> African American </a> , 0.50% <a> Native American </a> , 0.27% <a> Asian </a> , 0.02% <a> Pacific Islander </a> , 0.21% from <a> other races </a> , and 0.69% from two or more races.
+
+1672	TRUE	Marinette County, Wisconsin:: density_km2	12 / (12/	
+The <a> population density </a> was 31 people per square mile (12/km&#x00b2;).
+
+1676	FALSE	Marinette County, Wisconsin:: area_water_km2	384 / 40	
+The median age was 40 years.
+
+1677	TRUE	Marinette County, Wisconsin:: density_sq_mi	31 / (12/	
+The <a> population density </a> was 31 people per square mile (12/km&#x00b2;).
+
+1688	TRUE	Manitowoc County, Wisconsin:: state	wisconsin / Wisconsin	
+<p> <strong> Manitowoc County </strong> is a <a> county </a> in the <a> U.S. state </a> of <a> Wisconsin </a> .
+
+1689	TRUE	Manitowoc County, Wisconsin:: area_land_sq_mi	592 / (60.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 1,494&nbsp; <a> square mile </a> s (3,869&nbsp; <a> km&#x00b2; </a> ), of which 592&nbsp;square miles (1,532&nbsp;km&#x00b2;) is land and 902&nbsp;square miles (2,337&nbsp;km&#x00b2;) (60.40%) is water. </p>
+
+1690	FALSE	Manitowoc County, Wisconsin:: area_water_sq_mi	902 / 0.	
+The racial makeup of the county was 95.90% <a> White </a> , 0.30% <a> Black </a> or <a> African American </a> , 0.43% <a> Native American </a> , 1.98% <a> Asian </a> , 0.04% <a> Pacific Islander </a> , 0.60% from <a> other races </a> , and 0.76% from two or more races.
+
+1691	TRUE	Manitowoc County, Wisconsin:: density_km2	54 / (54/	
+The <a> population density </a> was 140 people per square mile (54/km&#x00b2;).
+
+1696	TRUE	Manitowoc County, Wisconsin:: density_sq_mi	140 / (54/	
+The <a> population density </a> was 140 people per square mile (54/km&#x00b2;).
+
+1697	TRUE	Langlade County, Wisconsin:: area_land_sq_mi	873 / (1.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 888&nbsp;square miles (2,300&nbsp;km&#x00b2;), of which 873&nbsp;square miles (2,260&nbsp;km&#x00b2;) is land and 15&nbsp;square miles (39&nbsp;km&#x00b2;) (1.71%) is water. </p>
+
+1699	TRUE	Langlade County, Wisconsin:: density_km2	9 / (9/	
+The <a> population density </a> was 24 people per square mile (9/km&#x00b2;).
+
+1702	FALSE	Langlade County, Wisconsin:: area_water_km2	31 / 40	
+The median age was 40 years.
+
+1703	TRUE	Langlade County, Wisconsin:: density_sq_mi	24 / (9/	
+The <a> population density </a> was 24 people per square mile (9/km&#x00b2;).
+
+1704	TRUE	Langlade County, Wisconsin:: state	wisconsin / Wisconsin	
+<p> <strong> Langlade County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Wisconsin </a> .
+
+1705	TRUE	Langlade County, Wisconsin:: area_water_sq_mi	15 / 0.	
+The racial makeup of the county was 97.93% <a> White </a> , 0.15% <a> Black </a> or <a> African American </a> , 0.54% <a> Native American </a> , 0.27% <a> Asian </a> , 0.02% <a> Pacific Islander </a> , 0.20% from <a> other races </a> , and 0.87% from two or more races.
+
+1707	TRUE	Lafayette County, Wisconsin:: state	wisconsin / Wisconsin	
+<p> <strong> Lafayette County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Wisconsin </a> .
+
+1708	TRUE	Lafayette County, Wisconsin:: area_land_sq_mi	634 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 635&nbsp;square miles (1,644&nbsp;km&#x00b2;), of which 634&nbsp;square miles (1,641&nbsp;km&#x00b2;) is land and 1&nbsp;square mile (3&nbsp;km&#x00b2;) (0.16%) is water. </p>
+
+1709	TRUE	Lafayette County, Wisconsin:: area_water_sq_mi	1 / 0.	
+The racial makeup of the county was 99.03% <a> White </a> , 0.11% <a> Black </a> or <a> African American </a> , 0.11% <a> Native American </a> , 0.22% <a> Asian </a> , 0.04% <a> Pacific Islander </a> , 0.14% from <a> other races </a> , and 0.35% from two or more races.
+
+1711	TRUE	Lafayette County, Wisconsin:: density_km2	10 / (10/	
+The <a> population density </a> was 26 people per square mile (10/km&#x00b2;).
+
+1716	TRUE	Lafayette County, Wisconsin:: area_water_km2	3 / 38	
+The median age was 38 years.
+
+1717	TRUE	Lafayette County, Wisconsin:: density_sq_mi	26 / (10/	
+The <a> population density </a> was 26 people per square mile (10/km&#x00b2;).
+
+1718	TRUE	Florence County, Wisconsin:: state	wisconsin / Wisconsin	
+<p> <strong> Florence County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Wisconsin </a> .
+
+1721	TRUE	Florence County, Wisconsin:: area_water_sq_mi	9 / 0.	
+The racial makeup of the county was 98.17% <a> White </a> , 0.16% <a> Black </a> or <a> African American </a> , 0.43% <a> Native American </a> , 0.28% <a> Asian </a> , 0.02% <a> Pacific Islander </a> , 0.14% from <a> other races </a> , and 0.81% from two or more races.
+
+1723	TRUE	Florence County, Wisconsin:: density_km2	4 / (4/	
+The <a> population density </a> was 10 people per square mile (4/km&#x00b2;).
+
+1728	FALSE	Florence County, Wisconsin:: area_water_km2	24 / 42	
+The median age was 42 years.
+
+1729	TRUE	Florence County, Wisconsin:: density_sq_mi	10 / (4/	
+The <a> population density </a> was 10 people per square mile (4/km&#x00b2;).
+
+1752	TRUE	Douglas County, Wisconsin:: state	wisconsin / Wisconsin	
+<p> <strong> Douglas County </strong> is a <a> county </a> located at the north-west corner of the <a> U.S. state </a> of <a> Wisconsin </a> .
+
+1764	TRUE	Door County, Wisconsin:: state	wisconsin / Wisconsin	
+<p> <strong> Door County </strong> is a <a> county </a> in the U.S. state of <a> Wisconsin </a> .
+
+1773	TRUE	Door County, Wisconsin:: county	door county / Door County	
+<p> <strong> Door County </strong> is a <a> county </a> in the U.S. state of <a> Wisconsin </a> .
+
+1776	TRUE	Dodge County, Wisconsin:: state	wisconsin / Wisconsin	
+<p> <strong> Dodge County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Wisconsin </a> .
+
+1779	FALSE	Dodge County, Wisconsin:: area_water_sq_mi	25 / 0.	
+The racial makeup of the county was 95.28% <a> White </a> , 2.49% <a> Black </a> or <a> African American </a> , 0.40% <a> Native American </a> , 0.34% <a> Asian </a> , 0.03% <a> Pacific Islander </a> , 0.87% from <a> other races </a> , and 0.58% from two or more races.
+
+1781	TRUE	Dodge County, Wisconsin:: density_km2	38 / (38/	
+The <a> population density </a> was 97 people per square mile (38/km&#x00b2;).
+
+1786	FALSE	Dodge County, Wisconsin:: area_water_km2	64 / 37	
+The median age was 37 years.
+
+1787	TRUE	Dodge County, Wisconsin:: density_sq_mi	97 / (38/	
+The <a> population density </a> was 97 people per square mile (38/km&#x00b2;).
+
+1813	TRUE	Columbia County, Wisconsin:: state	wisconsin / Wisconsin	
+<p> <strong> Columbia County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Wisconsin </a> .
+
+1817	TRUE	Columbia County, Wisconsin:: density_km2	26 / (26/	
+The <a> population density </a> was 68 people per square mile (26/km&#x00b2;).
+
+1823	FALSE	Columbia County, Wisconsin:: area_water_sq_mi	22 / 0.	
+The racial makeup of the county was 97.18% <a> White </a> , 0.88% <a> Black </a> or <a> African American </a> , 0.35% <a> Native American </a> , 0.33% <a> Asian </a> , 0.02% <a> Pacific Islander </a> , 0.44% from <a> other races </a> , and 0.79% from two or more races.
+
+1824	TRUE	Clark County, Wisconsin:: state	wisconsin / Wisconsin	
+<p> <strong> Clark County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Wisconsin </a> .
+
+1826	TRUE	Clark County, Wisconsin:: area_water_sq_mi	3 / 0.	
+The racial makeup of the county was 98.05% <a> White </a> , 0.13% <a> Black </a> or <a> African American </a> , 0.48% <a> Native American </a> , 0.30% <a> Asian </a> , 0.01% <a> Pacific Islander </a> , 0.56% from <a> other races </a> , and 0.47% from two or more races.
+
+1828	TRUE	Clark County, Wisconsin:: density_km2	11 / (11/	
+The <a> population density </a> was 28 people per square mile (11/km&#x00b2;).
+
+1833	TRUE	Clark County, Wisconsin:: density_sq_mi	28 / (11/	
+The <a> population density </a> was 28 people per square mile (11/km&#x00b2;).
+
+1834	FALSE	Clark County, Wisconsin:: area_water_km2	9 / 36	
+The median age was 36 years.
+
+1847	TRUE	Calumet County, Wisconsin:: state	wisconsin / Wisconsin	
+<p> <strong> Calumet County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Wisconsin </a> .
+
+1854	FALSE	Calumet County, Wisconsin:: area_water_km2	200 / 35	
+The median age was 35 years.
+
+1866	TRUE	Buffalo County, Wisconsin:: state	wisconsin / Wisconsin	
+<p> <strong> Buffalo County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Wisconsin </a> .
+
+1869	FALSE	Buffalo County, Wisconsin:: area_water_sq_mi	25 / 0.	
+The racial makeup of the county was 98.69% <a> White </a> , 0.12% <a> Black </a> or <a> African American </a> , 0.30% <a> Native American </a> , 0.33% <a> Asian </a> , 0.02% <a> Pacific Islander </a> , 0.08% from <a> other races </a> , and 0.46% from two or more races.
+
+1871	TRUE	Buffalo County, Wisconsin:: density_km2	8 / (8/	
+The <a> population density </a> was 20 people per square mile (8/km&#x00b2;).
+
+1876	FALSE	Buffalo County, Wisconsin:: area_water_km2	65 / 39	
+The median age was 39 years.
+
+1877	TRUE	Buffalo County, Wisconsin:: density_sq_mi	20 / (8/	
+The <a> population density </a> was 20 people per square mile (8/km&#x00b2;).
+
+1890	TRUE	Bayfield County, Wisconsin:: state	wisconsin / Wisconsin	
+<p> <strong> Bayfield County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Wisconsin </a> .
+
+1894	TRUE	Bayfield County, Wisconsin:: density_km2	4 / (4/	
+The <a> population density </a> was 10 people per square mile (4/km&#x00b2;).
+
+1899	FALSE	Bayfield County, Wisconsin:: area_water_km2	1 / 42	
+The median age was 42 years.
+
+1900	TRUE	Bayfield County, Wisconsin:: density_sq_mi	10 / (4/	
+The <a> population density </a> was 10 people per square mile (4/km&#x00b2;).
+

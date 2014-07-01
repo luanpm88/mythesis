@@ -1,0 +1,94 @@
+Found: 41
+Found Not Null: 2
+Correct: 1
+Wrong: 1
+Total: 2
+precision: 0.5
+recall: 0.5
+
+
+
+#	NEW	logo_size	........ / 2007	// <p> As of August 2007 , TESIS Aviation Enterprise operated scheduled cargo flights to the following destinations : </p>
+
+#	NEW	logo_size	........ / </	// In winter 200 / 2007 OM-AAE was based in Tripoli ( November - January ) to operate flights for Libyan Arab Airlines . </p>
+
+#	NEW	logo_size	........ / 2007 ) .	// It is wholly owned by Braathens Aviation and has 500 employees ( at March 2007 ) . </p>
+
+#	NEW	logo_size	........ / 9	// The flight recorder was found on March 9 and sent to Washington for analysis .
+
+#	NEW	logo_size	........ / 24 .	// <p> The <a> September 11 , 2001 attacks </a> gave US Airways a rationale to invoke a <a> force majeure </a> clause in its labor contracts to close the operation , announced on September 24 .
+
+#	NEW	logo_size	........ / 52	// On board , there were 52 passengers ( including two infants ) , three flight attendants , and two pilots .
+
+#	NEW	logo_size	........ / 967	// <p> : * On November 16 , 1959 , less than two months before the crash of Flight 2511 , <a> National Airlines Flight 967 </a> disappeared over the Gulf of Mexico .
+
+#	NEW	logo_size	........ / 1992 .	// <p> The airline was established and started operations in 1992 .
+
+#	NEW	logo_size	........ / a>	// <p> [ [ Image : Canada 005 . jpg | thumb | left | Rutaca [ [ Boeing 737-200 | Boeing 732 ] ] parking at <a> Juan Vicente G&#x00f3 ; mez International Airport </a> in <a> San Antonio del T&#x00e1 ; chira </a> ] ] </p>
+
+9	FALSE	Star Perú::logo_size	200 / and	
+It is a scheduled airline operating passenger and cargo flights within Peru .
+
+#	NEW	logo_size	........ / </	// <p> CAAC used the IATA code <strong> CA </strong> on international flights only , domestic flights were not prefixed with the airline code . </p>
+
+#	NEW	logo_size	........ / 2007	// It is owned by <a> LAN Airlines </a> ( 49% ) , <a> ER Larra&#x00ed ; n </a> ( 30% ) and <a> Inversiones A&#x00e9 ; reas </a> ( 21% ) and has 1 , 500 employees ( at March <a> 2007 </a> ) : </p>
+
+#	NEW	logo_size	........ / 2007 .	// The airline also began Liverpool ' s first long haul flight , to <a> New York </a> ( <a> JFK </a> ) , using <a> Boeing 757-200 </a> aircraft , daily in May 2007 .
+
+#	NEW	logo_size	........ / for	// Titan Airways operates charter flights for British tour operators .
+
+#	NEW	logo_size	........ / 1997	// <p> The airline was established on 1 January 1995 and started operations in June 1997 with a series of charter flights carrying pilgrims to Jeddah .
+
+#	NEW	logo_size	........ / <a>	// <p> The airline was established in 2004 , with the first flight having been operated on behalf of <a> Iraqi Airways </a> , linking <a> Baghdad </a> with <a> Basra </a> .
+
+#	NEW	logo_size	........ / 717-	// [ [ Boeing 717 | Boeing 717-200 ] ] taking off from <a> Perth International Airport </a> ] ] QantasLink flights are operated by the airlines that make up the group - Eastern Australia Airlines and Sunstate Airlines ; and also contracted carrier Cobham Aviation ( formerly National Jet Systems ) ] ] .
+
+#	NEW	logo_size	........ / 1988 .	// <p> The airline was established in 1987 and started operations in December 1988 .
+
+#	NEW	logo_size	........ / a>	// <p> Initially owned by the <a> Le&#x00f3 ; n Airport </a> <a> Consortium </a> the company began to operate on September 29 , 2003 with a flight from Le&#x00f3 ; n to <a> Barcelona </a> ' s <a> El Prat </a> airport .
+
+#	NEW	logo_size	........ / 2009 ) :	// <p> RVL Group own and operate the following aircraft : ( correct as of June 2009 ) : </p>
+
+#	NEW	logo_size	........ / 2001	// A group of Medell&#x00ed ; n-based investors acquired the airline in 2001 and moved the headquarters to Medell&#x00ed ; n . </p>
+
+#	NEW	logo_size	........ / 2001 .	// <p> The airline started operations in December 2001 .
+
+#	NEW	logo_size	........ / ( 49% ) .	// The airline is owned by Khabarovsk regional administration ( 51% ) and the airline employees ( 49% ) . </p>
+
+#	NEW	logo_size	........ / ( 40% ) .	// It is owned by the State ( 51% ) and by the airline employees ( 40% ) . </p>
+
+#	NEW	logo_size	........ / <strong>	// In <a> 2006 </a> , wishing to expand their operations in the African market , Bravo Airlines became an airline group , and joined with several Congolese private investors , to create a new airline , named <strong> Bravo Air Congo </strong> .
+
+#	NEW	logo_size	........ / <a>	// It was established in 2002 as <strong> Air Max-Gabon </strong> and operated charter and passenger flights in <a> West Africa </a> out of <a> Libreville International Airport </a> .
+
+#	NEW	logo_size	........ / 2007 ) :	// It is wholly owned by Skyway Holdings and has 58 employees ( as of March 2007 ) : </p>
+
+#	NEW	logo_size	........ / of	// The company also operated two Dash 8 and two DHC-6 Twin Otter aircraft for Flamingo Air in Haiti , until operations were halted after the fall of former President Aristide .
+
+28	TRUE	Crimea Air::logo_size	200 / 2005	
+<p> At January 2005 the airline also operated : </p>
+
+#	NEW	logo_size	........ / and	// It operates passenger and cargo services , including charter and scheduled flights .
+
+#	NEW	logo_size	........ / 1996 .	// <p> The airline was established and started operations in 1996 .
+
+#	NEW	logo_size	........ / 2008 ) :	// <p> Tavrey Airlines operates the following services ( at September 2008 ) : </p>
+
+#	NEW	logo_size	........ / a> .	// It was established and started operations in 1996 and operates wet-lease flights on behalf of a number of local organisations including the <a> Ukrainian government </a> . </p>
+
+#	NEW	logo_size	........ / </	// The airline ' s flight hubs were <a> London Stansted Airport </a> , <a> Gibraltar </a> , Germany and Spain . </p>
+
+#	NEW	logo_size	........ / 767	// The female pilot is a French national , Caroline Le Cann , flying the Gulf Traveller <a> Boeing 767 </a> . </p>
+
+#	NEW	logo_size	........ / 1962	// <p> The airline was established on 4 August 1961 as Yemen Airlines and started operations in <a> 1962 </a> .
+
+#	NEW	logo_size	........ / 737-	// [ [ Boeing 737-200 | Boeing 737-200 Adv ] ] at <a> Sim&#x00f3 ; n Bol&#x00ed ; var International Airport </a> , Maiquet&#x00ed ; a ] ] </p>
+
+#	NEW	logo_size	........ / 1982 .	// <p> The airline was established and started operations in 1982 .
+
+#	NEW	logo_size	........ / 2007 )	// It is owned by LAN Airlines ( 74% ) , Jochmann ( 13% ) and TADEF ( 13% ) and has 285 employees ( at March 2007 ) ref name=&quot ; FI&quot ; / . </p>
+
+#	NEW	logo_size	........ / 2010	// <p> The airline temporarily suspended all operations on May 30 , 2010 for a major operational restructuring . </p>
+
+#	NEW	logo_size	........ / </	// <p> The Gestair Group is structured in three business units with its corresponding divisions : </p>
+

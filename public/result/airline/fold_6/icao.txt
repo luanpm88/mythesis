@@ -1,0 +1,105 @@
+Found: 44
+Found Not Null: 7
+Correct: 3
+Wrong: 4
+Total: 7
+precision: 0.42857142857142855
+recall: 0.42857142857142855
+
+
+
+#	NEW	icao	........ / Blue	// <p> <strong> Blue Wings AG </strong> was a <a> charter airline </a> based in <a> Germany </a> , focussing on serving <a> Turkey </a> , the <a> Middle East </a> and <a> Russia </a> from its base at <a> D&#x00fc ; sseldorf International Airport </a> ; the headquarters were in <a> Bocholt , Germany </a> . </p>
+
+#	NEW	icao	........ / ( ANA )	// It operated passenger services as <a> All Nippon Airways </a> ( ANA ) flights from its main base is <a> Ch&#x016b ; bu Centrair International Airport </a> near <a> Nagoya </a> .
+
+#	NEW	icao	........ / early	// <p> <strong> Compass Airlines </strong> operated in <a> Australia </a> for two brief periods in the early 1990s .
+
+#	NEW	icao	........ / New	// <p> <strong> East-West Airlines </strong> was an <a> Australia </a> n <a> regional airline </a> founded in <a> Tamworth , New South Wales </a> in 1947 .
+
+#	NEW	icao	........ / passengers	// Civilian passengers were carried and <a> charter operations </a> undertaken on a lower priority . </p>
+
+#	NEW	icao	........ / East	// <p> The airline was established and started operations in 1972 , as <strong> AirBridge Carriers </strong> at <a> East Midlands </a> .
+
+6	FALSE	Eirjet::icao	eir / International	
+Its main bases were <a> Dublin International Airport </a> , Shannon International Airport and <a> Cork Airport </a> . </p>
+
+#	NEW	icao	........ / main	// Its main base was <a> Marco Polo International Airport </a> ) , <a> Venice </a> . </p>
+
+8	FALSE	Maldivian Air Taxi::icao	mat / Male&#	
+<p> Based on the northern side of Male&#x2019 ; International Airport , Maldivian Air Taxi currently has a fleet of 24 Twin Otters , servicing 40 of the 90 resorts in the Maldives .
+
+#	NEW	icao	........ / main	// Its main base was <a> Malpensa International Airport </a> , Milan . </p>
+
+10	TRUE	Kato Airline::icao	kat / R&#	
+<p> At the time of closure , Kato Air operated scheduled passenger flights between <a> R&#x00f8 ; st </a> ( <a> R&#x00f8 ; st Airport </a> ) and <a> Bod&#x00f8 ; </a> ( <a> Bod&#x00f8 ; Airport </a> ) .
+
+#	NEW	icao	........ / short-	// It operates for its parent company as a short-haul operator , as well as ad-hoc <a> charter flights </a> .
+
+#	NEW	icao	........ / euroAtlantic	// <p> <strong> EuroAtlantic Airways - Transportes A&#x00e9 ; reos S . A . </strong> , operating and styled as <strong> euroAtlantic airways </strong> , is a <a> charter airline </a> based in <a> Sintra </a> , <a> Lisbon </a> , <a> Portugal </a> .
+
+#	NEW	icao	........ / Missouri	// <p> <strong> <a> Continental Airlines </a> Flight 11 </strong> , registration N70775 , was a <a> Boeing 707 </a> aircraft which exploded close to <a> Centerville , Iowa </a> , while en route from <a> O ' Hare Airport </a> , <a> Chicago , Illinois </a> , to <a> Kansas City , Missouri </a> , on May 22 , 1962 .
+
+#	NEW	icao	........ / regional	// It operated scheduled regional and international passenger services , freight transport , cargo handling and charter services from the main base is <a> Krasnoyarsk Yemelyanovo Airport </a> , as part of <a> AiRUnion </a> alliance .
+
+#	NEW	icao	........ / Anikay	// <p> <strong> Anikay Air </strong> Company is a <a> charter airline </a> based in <a> Bishkek </a> in <a> Kyrgyzstan </a> .
+
+#	NEW	icao	........ / fourth	// Three of the aircraft will be operated for ad hoc charter missions as well as private flights for the owners , whereas the fourth will be operated privately .
+
+#	NEW	icao	........ / First	// <p> <strong> Italy First </strong> was a regional charter <a> airline </a> based in <a> Rimini </a> in <a> Italy </a> .
+
+#	NEW	icao	........ / main	// Its main base is <a> Golos&#x00f3 ; n International Airport </a> , La Ceiba . </p>
+
+#	NEW	icao	........ / business	// <p> <strong> Windrose Air </strong> is an <a> airline </a> based in <a> Sch&#x00f6 ; nefeld </a> , <a> Germany </a> operating business and private charter services , cargo and air ambulance services .
+
+#	NEW	icao	........ / demand	// USA Jet operates on-demand air charter passenger and freight flights out of Willow Run Airport as well as aircraft on a government contract out of <a> Kirtland Air Force Base </a> in <a> Albuquerque , New Mexico </a> . </p>
+
+#	NEW	icao	........ / scheduled	// It was established and started operations in 1991 and operates scheduled passenger transport , charter and air taxi services .
+
+22	FALSE	Copenhagen Air Taxi::icao	cat / Denmark	
+<p> <strong> Copenhagen Air Taxi </strong> is an <a> airline </a> based in <a> Roskilde </a> , <a> Denmark </a> .
+
+#	NEW	icao	........ / France	// <p> <strong> Aero Services Executive </strong> is an <a> airline </a> company based in <a> France </a> .
+
+#	NEW	icao	........ / Brest	// <p> <strong> Finist ' air </strong> is an <a> airline </a> based at <a> Brest Guipavas Airport </a> in <a> France </a> .
+
+#	NEW	icao	........ / corporate	// <p> <strong> Stuttgarter Flugdienst </strong> , commonly abbreviated <strong> SFD </strong> , is an <a> airline </a> based in <a> Stuttgart </a> , <a> Germany </a> , operating <a> corporate </a> charter flights out of <a> Stuttgart Airport </a> . </p>
+
+#	NEW	icao	........ / International	// <p> <strong> Aviator Airways </strong> is an <a> airline </a> based at <a> Athens International Airport </a> in <a> Greece </a> .
+
+#	NEW	icao	........ / throughout	// <p> <strong> Trans Island Air </strong> is an <a> airline </a> based in <a> Christ Church </a> in <a> Barbados </a> operating charters throughout the Caribbean .
+
+#	NEW	icao	........ / are	// Its main bases are <a> Malta International Airport </a> and <a> Tripoli International Airport </a> , <a> Libya </a> .
+
+#	NEW	icao	........ / Netherlands	// <p> <strong> Metropolis </strong> ( Metropolis Noord 1 BV ) is an <a> airline </a> based in the <a> Netherlands </a> . </p>
+
+#	NEW	icao	........ / domestic	// The airline offers scheduled domestic and short-haul international services , as well as <a> charter flight </a> s .
+
+31	TRUE	Air Corsica::icao	ccm / Compagnie	
+<p> <strong> Compagnie A&#x00e9 ; rienne Corse M&#x00e9 ; diterran&#x00e9 ; e S . A . E . M . </strong> , <a> trading as </a> <strong> Air Corsica </strong> ( formerly <em> CCM Airlines </em> ) , is a <a> regional airline </a> with its head office on the grounds of <a> Ajaccio &#x2013 ; Campo dell ' Oro Airport </a> ( Napoleon Bonaparte Airport ) in <a> Ajaccio </a> , <a> Corsica </a> , <a> France </a> .
+
+#	NEW	icao	........ / International	// It is part of the <a> Lufthansa Regional </a> group and operates domestic and international services on behalf of <a> Lufthansa </a> out of <a> Munich International Airport </a> . </p>
+
+33	FALSE	Sibaviatrans::icao	sib / scheduled	
+It operated scheduled and charter passenger and cargo flights from various locations around Russia .
+
+#	NEW	icao	........ / and	// <p> <strong> Skytrans </strong> is an Australian airline and air charter business with bases in Cairns , Townsville , Darwin , Brisbane and Perth .
+
+#	NEW	icao	........ / International	// It was established in 1995 and operated out of <a> Sheremetyevo International Airport </a> , Moscow , using a fleet of three <a> Tupolev Tu-154 </a> aircraft .
+
+#	NEW	icao	........ / domestic	// It also operates regular domestic flights from Moscow and international charter passenger and cargo services . </p>
+
+37	TRUE	Airstars::icao	ase / main	
+Its main base is <a> Domodedovo International Airport </a> , Moscow . </p>
+
+#	NEW	icao	........ / main	// Its main base is <a> Bykovo Airport </a> , Moscow , from where it operates <a> charter flight </a> s .
+
+#	NEW	icao	........ / main	// Its main base is <a> Vnukovo International Airport </a> , Moscow , with a hub at <a> Kazan International Airport </a> . </p>
+
+#	NEW	icao	........ / Russia	// <p> <strong> UTair Express </strong> is an <a> airline </a> based in <a> Russia </a> .
+
+#	NEW	icao	........ / India	// <p> <strong> SpiceJet </strong> is a <a> low-cost airline </a> headquartered in <a> Gurgaon </a> , <a> India </a> .
+
+#	NEW	icao	........ / City	// <p> <strong> TAESA </strong> ( <strong> Transportes A&#x00e9 ; reos Ejecutivos </strong> ) was a low cost <a> airline </a> with its headquarters in No . 27 of Hangar Zone C on the grounds of <a> Mexico City International Airport </a> in <a> Mexico City </a> , <a> Mexico </a> .
+
+#	NEW	icao	........ / aircraft	// It operates scheduled and chartered flights and <a> aircraft lease </a> services .
+

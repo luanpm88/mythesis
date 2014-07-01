@@ -1,0 +1,70 @@
+Found: 31
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	birth_name	........ / is an <a> American	// <p> <strong> Clifton James </strong> ( born May 29 , 1921 ) is an <a> American </a> <a> actor </a> .
+
+#	NEW	birth_name	........ / Claudia Grace Wells	// <p> <strong> Claudia Grace Wells </strong> ( born July 5 , 1966 ) is an Malaysian-born <a> American </a> actress . </p>
+
+#	NEW	birth_name	........ / writer , and	// <p> <strong> Trace Beaulieu </strong> ( born November 6 , 1958 ) is an <a> American </a> puppeteer , writer , and actor .
+
+#	NEW	birth_name	........ / Samuel Zachary Arkoff	// <p> <strong> Samuel Zachary Arkoff </strong> ( June 12 , 1918 &ndash ; September 16 , 2001 ) was an <a> American </a> <a> producer </a> of <a> B movie </a> s . </p>
+
+#	NEW	birth_name	........ / Claudia Lee Black	// <p> <strong> Claudia Lee Black </strong> ( born 11 October 1972 ) is an Australian actress , known for her portrayals of <a> Aeryn Sun </a> in the <a> science fiction </a> <a> television series </a> <em> <a> Farscape </a> </em> , <a> Vala Mal Doran </a> in the science fiction series <em> <a> Stargate SG-1 </a> </em> , <a> Chloe Frazer </a> in <a> Uncharted 2 : Among Thieves </a> , and the witch Morrigan in <em> <a> Dragon Age : Origins </a> </em> . </p>
+
+#	NEW	birth_name	........ / is an American	// <p> <strong> Sherilyn Fenn </strong> ( born February 1 , 1965 ) is an American actress .
+
+#	NEW	birth_name	........ / Michael Barrett &quot ; Barry&quot ; Watson	// <p> <strong> Michael Barrett &quot ; Barry&quot ; Watson </strong> ( born April 23 , 1974 ) is an <a> American </a> <a> actor </a> , known for his roles of <a> Dr .
+
+#	NEW	birth_name	........ / John Marcum Wells	// <p> <strong> John Marcum Wells </strong> ( born May 28 , 1956 ) is an American <a> theater </a> and <a> television producer </a> , <a> writer </a> and director .
+
+#	NEW	birth_name	........ / Jonathan Firth	// <p> <strong> Jonathan Firth </strong> ( born 6 April 1967 ) is a <a> British </a> <a> actor </a> . </p>
+
+#	NEW	birth_name	........ / Atlantic City , New Jersey	// <p> <strong> Patsy Garrett </strong> ( born May 4 , 1921 ; <a> Atlantic City , New Jersey </a> ) is an actress best known for her recurring roles as nosey neighbor &quot ; Mrs .
+
+#	NEW	birth_name	........ / is an <a> America	// <p> <strong> Cheryl Hines </strong> ( born September 21 , 1965 ) is an <a> America </a> n <a> actress </a> and <a> television director </a> , best known for her role as <a> Larry David </a> ' s wife Cheryl on <a> HBO </a> ' s <em> <a> Curb Your Enthusiasm </a> </em> .
+
+#	NEW	birth_name	........ / Mark Williams	// <p> <strong> Mark Williams </strong> ( born 22 August 1959 ) is an <a> English </a> <a> actor </a> , <a> comedian </a> , <a> screenwriter </a> and presenter .
+
+#	NEW	birth_name	........ / Up With Dead People	// His movie , <em> Otto , or , Up With Dead People </em> debuted at the 2008 Sundance Film Festival .
+
+#	NEW	birth_name	........ / Laura La Plante	// <p> <strong> Laura La Plante </strong> ( November 1 , 1904 - October 14 , 1996 ) was an <a> American </a> <a> actress </a> , best-known for her roles in <a> silent film </a> s . </p>
+
+#	NEW	birth_name	........ / nbsp ; &# x2013 ; October	// <p> <strong> Edith Massey </strong> ( May 28 , 1918&nbsp ; &#x2013 ; October 24 , 1984 ) was an <a> American </a> <a> actress </a> and <a> singer </a> .
+
+#	NEW	birth_name	........ / years later he appeared	// Two years later he appeared in <em> April in Paris </em> at the same theatre .
+
+#	NEW	birth_name	........ / Jean Vander Pyl	// <p> <strong> Jean Vander Pyl </strong> ( October 11 , 1919 &ndash ; April 10 , 1999 ) was an <a> American </a> actress on radio , television and movies .
+
+#	NEW	birth_name	........ / Hermannus Jantinus &quot ; Herman&quot ; van Veen	// <p> <strong> Hermannus Jantinus &quot ; Herman&quot ; van Veen </strong> ( born 14 March 1945 ) is a <a> Dutch </a> stage performer , <a> actor </a> , <a> musician </a> and <a> singer </a> / <a> songwriter </a> and <a> author </a> .
+
+#	NEW	birth_name	........ / Gerda Nicolson	// <p> <strong> Gerda Nicolson </strong> , ( 11 November 1937 - 12 June 1992 ) was an <a> Australia </a> n theatre and television actor best known for several long-running television roles . </p>
+
+#	NEW	birth_name	........ / Force earned her first ever NHRA professional win , defeating her father in the final round , and becoming the first woman to earn a win in the Funny Car class at the NHRA Summit Southern Nationals held at the Atlanta Dragway in Commerce , Georgia .	// On April 27 , 2008 , Force earned her first ever NHRA professional win , defeating her father in the final round , and becoming the first woman to earn a win in the Funny Car class at the NHRA Summit Southern Nationals held at the Atlanta Dragway in Commerce , Georgia . </p>
+
+#	NEW	birth_name	........ / Penny Johnson Jerald	// <p> <strong> Penny Johnson Jerald </strong> ( born March 14 , 1961 ) is an American actress .
+
+#	NEW	birth_name	........ / was an American 20th Century	// <p> <strong> Ben Lyon </strong> ( February 6 , 1901 &#x2013 ; March 22 , 1979 ) was an American <a> film </a> <a> actor </a> and a <a> 20th Century Fox </a> studio executive . </p>
+
+#	NEW	birth_name	........ / Barbara La Marr	// <p> <strong> Barbara La Marr </strong> ( July 28 , 1896 &ndash ; January 30 , 1926 ) was an American stage and film actress , cabaret artist and <a> screenwriter </a> . </p>
+
+#	NEW	birth_name	........ / Commented out because image	// <p> ! Commented out because image was deleted : <strong> Frank Silva </strong> ( 31 October 1949-13 September 1995 ) was a <a> Native American </a> <a> set dresser </a> and sometime actor best known for his disturbing performance as the evil spirit <a> Killer BOB </a> in the TV series <em> <a> Twin Peaks </a> </em> . </p>
+
+#	NEW	birth_name	........ / June 1936 ) is an	// <p> Dr . <strong> Daggubati Ramanaidu </strong> ( ) ( born 6 June 1936 ) is an <a> India </a> n <a> movie </a> <a> producer </a> and the <a> Dadasaheb Phalke Award </a> winner for the year 2009 .
+
+#	NEW	birth_name	........ / Christopher Boyd Lemmon	// <p> <strong> Christopher Boyd Lemmon </strong> ( born January 22 , 1954 ) is an American <a> actor </a> and <a> author </a> . </p>
+
+#	NEW	birth_name	........ / He has been nominated for numerous awards including a	// <p> He has been nominated for numerous awards including a <a> Genie Award for Best Performance by an Actor in a Leading Role </a> for <em> <a> The Uncles </a> </em> . </p>
+
+#	NEW	birth_name	........ / is an American	// <p> <strong> John Ingle </strong> ( born May 7 , 1928 ) is an American <a> actor </a> known for his role as scheming patriarch <a> Edward Quartermaine </a> on the <a> ABC </a> daytime drama , <em> <a> General Hospital </a> </em> . </p>
+
+#	NEW	birth_name	........ / Walter Lane Smith III	// <p> <strong> Walter Lane Smith III </strong> ( April 29 , 1936 &ndash ; June 13 , 2005 ) was an <a> American </a> <a> actor </a> .
+
+#	NEW	birth_name	........ / Michael Emmet Walsh	// <p> <strong> Michael Emmet Walsh </strong> ( born March 22 , 1935 ) is an <a> American </a> <a> actor </a> who has appeared in over 100 <a> film </a> and <a> television </a> productions . </p>
+
+#	NEW	birth_name	........ / an American film actress .	// <p> <strong> Dorothy Dell </strong> ( January 30 , 1915 &ndash ; June 8 , 1934 ) was an American film actress . </p>
+

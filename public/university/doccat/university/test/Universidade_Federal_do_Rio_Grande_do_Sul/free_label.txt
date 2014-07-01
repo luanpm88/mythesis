@@ -1,5 +1,0 @@
-<li>College of Education Faculty (Faculdade de Educa&#x00e7;&#x00e3;o)</li>
-<li>Institute of Food Technology (Instituto de Ci&#x00ea;ncia e Tecnologia de Alimentos)</li>
-<li>Institute of Health Sciences (Instituto de Ci&#x00ea;ncias B&#x00e1;sicas da Sa&#x00fa;de)</li>
-<h2>Clinicas Hospital (Hospital de Clinicas de Porto Alegre, or &quot;HCPA&quot;)</h2>
-<li><a>Jos&#x00e9; Mauro Volkmer de Castilho</a>, engineer</li>

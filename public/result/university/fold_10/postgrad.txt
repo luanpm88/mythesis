@@ -1,0 +1,22 @@
+Found: 113
+Found Not Null: 4
+Correct: 0
+Wrong: 4
+Total: 4
+precision: 0.0
+recall: 0.0
+
+
+
+43	FALSE	Barnard College::postgrad	none / Admissions	
+<p> Admissions to Barnard College is considered most selective by <em> <a> U.S. News &amp; World Report </a> </em> , which most recently ranked the school as the 26th best liberal college in the <a> United States </a> .
+
+44	FALSE	Bob Jones University::postgrad	500 / arts	
+It is the largest private <a> liberal arts </a> university in South Carolina and has a reputation for being one of the most conservative of religious schools in the United States.
+
+55	FALSE	Williams College::postgrad	49 / U.	
+<p> Williams ranks first in <em> <a> U.S. News &amp; World Report </a> <strong> s 2011 list of Best Liberal Arts Colleges in the nation.
+
+103	FALSE	University of Cologne::postgrad	3,718 / ,	
+<p> The University is a leader in the area of economics and is regularly placed in top positions for law and commerce, both for national and international rankings.
+

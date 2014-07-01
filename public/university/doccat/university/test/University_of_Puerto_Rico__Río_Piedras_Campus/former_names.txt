@@ -1,2 +1,0 @@
-<h3>College of Education</h3>
-<li><a>Tendenciaspr</a> research project of the UPR</li>

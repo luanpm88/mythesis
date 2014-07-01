@@ -1,8 +1,0 @@
-<li>Faculty of <a>Business</a>, <a>Enterprise</a> and <a>Lifelong Learning</a>
-<li>Faculty of <a>Education</a> and Children's Services</li>
-<li>Faculty of <a>Humanities</a>
-<li><a>Jim Bowen</a>, <em><a>Bullseye</a></em> presenter (<a>Cert Ed</a> Physical Education, 1957&#x2013;1959)</li>
-<li><a>John Carleton</a>, international rugby union player</li>
-<li><a>Jon Clarke</a>, international rugby league player (<a>BSc</a>(Hons) Sport and Exercise Sciences, 2006&#x2013;present)</li>
-<li><a>Jo Fletcher</a>, international footballer (<a>MSc</a> Exercise and Nutrition Science, 2003&#x2013;2005)</li>
-<li><a>Eddie Lever</a>, footballer and manager (<a>Cert Ed</a>, 1931&#x2013;1933)</li>

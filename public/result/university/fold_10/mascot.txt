@@ -1,0 +1,21 @@
+Found: 111
+Found Not Null: 3
+Correct: 1
+Wrong: 2
+Total: 4
+precision: 0.009009009009009009
+recall: 0.25
+
+
+
+36	TRUE	University of Prince Edward Island::mascot	panther / Sport	
+<p> The UPEI Panthers have nine teams playing in the <a> Atlantic University Sport </a> ( AUS ) and the <a> Canadian Interuniversity Sport </a> ( CIS ) , including men's and women's <a> ice hockey </a> , <a> soccer </a> , <a> basketball </a> , as well as women's <a> field hockey </a> and <a> rugby union </a> and co-ed <a> swimming </a> . </p>
+
+53	FALSE	Williams College::mascot	purple cow / NCAA	
+They participate in the <a> NCAA </a> 's <a> Division III </a> and the <a> New England Small College Athletic Conference </a> ( NESCAC ) .
+
+104	FALSE	University of California, Irvine::mascot	peter the anteater / conferences	
+<p> Since the return of baseball in 2002 ( the sport was eliminated in 1992 due to state budget cuts ) , UC Irvine has been ranked as high as #1 in the country in 2009, and has been at the top of the Big West Conference standings, which is considered by some to be one of the top Division I Baseball Conferences outside the major conferences in the country.
+
+#	null	mascot	captain cane / ..........
+

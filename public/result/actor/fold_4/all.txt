@@ -1,0 +1,481 @@
+Total articles: 312
+Articles for test: 281
+Articles for train: 31
+Total attributes: 64
+Attributes with high occurrences: 13/64
+
+------------
+Found: 207
+Found Not Null: 44
+Correct: 21
+Wrong: 23
+Total: 49
+precision: 0.4772727272727273
+recall: 0.42857142857142855
+
+
+
+#	NEW	birth_name	........ / and director of	// <p> <strong> John Braden </strong> ( April 18 , 1949 - May 22 , 2004 ) was a writer , producer , and director of <a> motion pictures </a> and <a> television </a> programs , as well as a public advocate against drugs in the movie industry .
+
+#	NEW	birth_date	........ / After	// <p> After marriage , he moved to <a> Lewisville , Texas </a> , and later to <a> Killeen </a> , where he started several companies to serve local military families .
+
+#	NEW	death_date	........ / May 22 , 2004 )	// <p> <strong> John Braden </strong> ( April 18 , 1949 - May 22 , 2004 ) was a writer , producer , and director of <a> motion pictures </a> and <a> television </a> programs , as well as a public advocate against drugs in the movie industry .
+
+#	NEW	birthdate	........ / After marriage , he moved to <a> Lewisville , Texas </a> , and later to	// <p> After marriage , he moved to <a> Lewisville , Texas </a> , and later to <a> Killeen </a> , where he started several companies to serve local military families .
+
+#	NEW	birthname	........ / where he started several companies	// <p> After marriage , he moved to <a> Lewisville , Texas </a> , and later to <a> Killeen </a> , where he started several companies to serve local military families .
+
+5	FALSE	John Braden::name	john braden / Harry Thomason	
+Known best for his work on shows including <em> <a> Magnum , P . I . </a> </em> , <em> <a> The A-Team </a> </em> , <em> <a> Knight Rider </a> </em> , <em> <a> Dukes of Hazzard </a> </em> , and <em> <a> The Fall Guy </a> </em> , he also supplied the voice for Senator Alfred Woden in the videogame series <a> Max Payne </a> , he often worked with producer <a> Harry Thomason </a> .
+
+#	NEW	caption	........ / 2004 )	// <p> <strong> John Braden </strong> ( April 18 , 1949 - May 22 , 2004 ) was a writer , producer , and director of <a> motion pictures </a> and <a> television </a> programs , as well as a public advocate against drugs in the movie industry .
+
+7	FALSE	Darnell Williams::name	darnell williams / My Children	
+Williams won two <a> Daytime Emmy Awards </a> for his work on <em> All My Children </em> in the 1980s . </p>
+
+#	NEW	caption	........ / 1955 )	// <p> <strong> Darnell Williams </strong> ( born March 3 , 1955 ) is a <a> British-born </a> <a> soap opera </a> <a> actor </a> .
+
+#	NEW	birth_name	........ / 1955 ) is a	// <p> <strong> Darnell Williams </strong> ( born March 3 , 1955 ) is a <a> British-born </a> <a> soap opera </a> <a> actor </a> .
+
+#	NEW	birth_date	........ / Williams	// <p> Williams was born in <a> London </a> , <a> UK </a> .
+
+#	NEW	birthname	........ / soap opera	// <p> <strong> Darnell Williams </strong> ( born March 3 , 1955 ) is a <a> British-born </a> <a> soap opera </a> <a> actor </a> .
+
+12	TRUE	Darnell Williams::occupation	actor / actor	
+<p> <strong> Darnell Williams </strong> ( born March 3 , 1955 ) is a <a> British-born </a> <a> soap opera </a> <a> actor </a> .
+
+#	NEW	death_date	........ / actor	// <p> <strong> Darnell Williams </strong> ( born March 3 , 1955 ) is a <a> British-born </a> <a> soap opera </a> <a> actor </a> .
+
+#	NEW	name	........ / Second Film	// <p> Gould became one of the many celebrity producers of <a> The 1 Second Film </a> collaboration in June 2009 . </p>
+
+#	NEW	caption	........ / Elliott	// <p> <strong> Elliott Gould </strong> ( born <strong> Elliot Goldstein </strong> ; August 29 , 1938 ) is an <a> American </a> actor .
+
+#	NEW	birth_date	........ / Gould	// <p> Gould became one of the many celebrity producers of <a> The 1 Second Film </a> collaboration in June 2009 . </p>
+
+17	TRUE	Elliott Gould::occupation	actor / actor.	
+<p> <strong> Elliott Gould </strong> ( born <strong> Elliot Goldstein </strong> ; August 29 , 1938 ) is an <a> American </a> actor .
+
+#	NEW	death_date	........ / a>	// <p> <strong> Elliott Gould </strong> ( born <strong> Elliot Goldstein </strong> ; August 29 , 1938 ) is an <a> American </a> actor .
+
+#	NEW	birthname	........ / 1938 ) is an	// <p> <strong> Elliott Gould </strong> ( born <strong> Elliot Goldstein </strong> ; August 29 , 1938 ) is an <a> American </a> actor .
+
+#	NEW	birth_name	........ / the most prominent	// <p> Gould was one of the most prominent <a> American </a> film <a> actor </a> s in the early-1970s , best known for playing <a> Trapper John </a> in <a> Robert Altman </a> ' s satirical <a> 1970 film </a> <em> <a> MASH </a> </em> . <em> <a> Time </a> </em> magazine placed him on one of its covers in 1970 , when he was at the brief height of his long career , calling him a &quot ; star for an uptight age&quot ; .
+
+21	FALSE	Jamie Uys::name	jamie uys / age of	
+<p> Uys died of a <a> heart attack </a> in 1996 at the age of 74 . </p>
+
+#	NEW	caption	........ / Jacobus	// <p> <strong> Jacobus Johannes Uys </strong> ( 30 May 1921 &ndash ; 29 January 1996 ) , better known as <strong> Jamie Uys </strong> , was a <a> South Africa </a> n film director . </p>
+
+23	TRUE	Jamie Uys::birth_name	jacobus johannes uys / Jacobus Johannes Uys	
+<p> <strong> Jacobus Johannes Uys </strong> ( 30 May 1921 &ndash ; 29 January 1996 ) , better known as <strong> Jamie Uys </strong> , was a <a> South Africa </a> n film director . </p>
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Jacobus Johannes Uys </strong> ( 30 May 1921 &ndash ; 29 January 1996 ) , better known as <strong> Jamie Uys </strong> , was a <a> South Africa </a> n film director . </p>
+
+#	NEW	occupation	........ / director .	// <p> <strong> Jacobus Johannes Uys </strong> ( 30 May 1921 &ndash ; 29 January 1996 ) , better known as <strong> Jamie Uys </strong> , was a <a> South Africa </a> n film director . </p>
+
+#	NEW	birthdate	........ / May 1921 &ndash ; 29 January 1996 )	// <p> <strong> Jacobus Johannes Uys </strong> ( 30 May 1921 &ndash ; 29 January 1996 ) , better known as <strong> Jamie Uys </strong> , was a <a> South Africa </a> n film director . </p>
+
+#	NEW	death_date	........ / 1996 )	// <p> <strong> Jacobus Johannes Uys </strong> ( 30 May 1921 &ndash ; 29 January 1996 ) , better known as <strong> Jamie Uys </strong> , was a <a> South Africa </a> n film director . </p>
+
+#	NEW	birthname	........ / n film director .	// <p> <strong> Jacobus Johannes Uys </strong> ( 30 May 1921 &ndash ; 29 January 1996 ) , better known as <strong> Jamie Uys </strong> , was a <a> South Africa </a> n film director . </p>
+
+29	FALSE	Saul Zaentz::name	saul zaentz / began looking	
+New Line executive <a> Robert Shaye </a> took great offense , declared that they would never work with Jackson again , and began looking for another director . </p>
+
+#	NEW	birth_name	........ / is an American	// <p> <strong> Saul Zaentz </strong> ( ; born February 28 , 1921 ) is an American <a> film producer </a> and former record company executive .
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Saul Zaentz </strong> ( ; born February 28 , 1921 ) is an American <a> film producer </a> and former record company executive .
+
+#	NEW	death_date	........ / and	// <p> <strong> Saul Zaentz </strong> ( ; born February 28 , 1921 ) is an American <a> film producer </a> and former record company executive .
+
+#	NEW	birthdate	........ / 28 , 1921 )	// <p> <strong> Saul Zaentz </strong> ( ; born February 28 , 1921 ) is an American <a> film producer </a> and former record company executive .
+
+#	NEW	birthname	........ / former record company	// <p> <strong> Saul Zaentz </strong> ( ; born February 28 , 1921 ) is an American <a> film producer </a> and former record company executive .
+
+#	NEW	caption	........ / 1921 )	// <p> <strong> Saul Zaentz </strong> ( ; born February 28 , 1921 ) is an American <a> film producer </a> and former record company executive .
+
+36	TRUE	Frank Sutton::name	frank sutton / age of	
+<p> While preparing for a performance of the comedy <em> <a> Luv </a> </em> at the Beverly Barn Dinner Playhouse in <a> Shreveport , Louisiana </a> , Frank Sutton died of a <a> heart attack </a> on June 28 , 1974 , at the age of 50 .
+
+#	NEW	birth_date	........ / Sutton	// <p> Sutton was born in <a> Clarksville , Tennessee </a> , the only child to Frank Sims Sutton and Thelma Spencer .
+
+#	NEW	birthname	........ / made guest appearances on other television programs .	// Sutton performed in dinner theater , playing , among other roles , the father in <em> <a> Norman , Is That You ? </a> </em> and made guest appearances on other television programs . </p>
+
+#	NEW	caption	........ / 1974 )	// <p> <strong> Frank Spencer Sutton </strong> ( October 23 , 1923&#x2014 ; June 28 , 1974 ) was an <a> American </a> actor best remembered for his role of <a> Gunnery Sergeant Vince Carter </a> on the <a> CBS </a> <a> television </a> series <em> <a> Gomer Pyle , U . S . M . C . </a> </em> </p>
+
+#	NEW	birth_name	........ / Frank Spencer Sutton	// <p> <strong> Frank Spencer Sutton </strong> ( October 23 , 1923&#x2014 ; June 28 , 1974 ) was an <a> American </a> actor best remembered for his role of <a> Gunnery Sergeant Vince Carter </a> on the <a> CBS </a> <a> television </a> series <em> <a> Gomer Pyle , U . S . M . C . </a> </em> </p>
+
+#	NEW	occupation	........ / ,	// <p> <strong> Frank Spencer Sutton </strong> ( October 23 , 1923&#x2014 ; June 28 , 1974 ) was an <a> American </a> actor best remembered for his role of <a> Gunnery Sergeant Vince Carter </a> on the <a> CBS </a> <a> television </a> series <em> <a> Gomer Pyle , U . S . M . C . </a> </em> </p>
+
+#	NEW	caption	........ / Riley	// <p> <strong> Riley Elizabeth Weston </strong> is an actress and screenwriter from <a> Poughkeepsie , New York </a> .
+
+#	NEW	birth_name	........ / Weston had bit film and television roles as a young girl , including the 1980s sitcoms	// <p> Weston had bit film and television roles as a young girl , including the 1980s sitcoms <em> <a> Growing Pains </a> </em> and <em> <a> Who ' s the Boss ? </a> </em> .
+
+#	NEW	occupation	........ / actress	// <p> <strong> Riley Elizabeth Weston </strong> is an actress and screenwriter from <a> Poughkeepsie , New York </a> .
+
+#	NEW	death_date	........ / is	// <p> <strong> Riley Elizabeth Weston </strong> is an actress and screenwriter from <a> Poughkeepsie , New York </a> .
+
+#	NEW	birthname	........ / Riley Elizabeth Weston	// <p> <strong> Riley Elizabeth Weston </strong> is an actress and screenwriter from <a> Poughkeepsie , New York </a> .
+
+#	NEW	birthdate	........ / May 1997 , she began claiming her date of birth as 1979	// In May 1997 , she began claiming her date of birth as 1979 in order to be considered for acting roles .
+
+48	FALSE	Joseph Mascolo::name	joseph mascolo / Stefano DiMera	
+He decided not to renew his contract with the show in July 2006 due to a lack of storyline and decided to return to <em> <a> Days of our Lives </a> </em> , where his character <a> Stefano DiMera </a> was resurrected after six years . </p>
+
+#	NEW	caption	........ / 1929 )	// <p> <strong> Joseph Mascolo </strong> ( born March 13 , 1929 ) is an <a> American </a> <a> musician </a> and dramatic <a> actor </a> .
+
+#	NEW	birth_name	........ / 1929 ) is an	// <p> <strong> Joseph Mascolo </strong> ( born March 13 , 1929 ) is an <a> American </a> <a> musician </a> and dramatic <a> actor </a> .
+
+51	TRUE	Joseph Mascolo::occupation	actor / actor	
+<p> <strong> Joseph Mascolo </strong> ( born March 13 , 1929 ) is an <a> American </a> <a> musician </a> and dramatic <a> actor </a> .
+
+#	NEW	death_date	........ / actor	// <p> <strong> Joseph Mascolo </strong> ( born March 13 , 1929 ) is an <a> American </a> <a> musician </a> and dramatic <a> actor </a> .
+
+#	NEW	birthname	........ / and dramatic	// <p> <strong> Joseph Mascolo </strong> ( born March 13 , 1929 ) is an <a> American </a> <a> musician </a> and dramatic <a> actor </a> .
+
+#	NEW	name	........ / Fisher Stevens	// <p> <strong> Fisher Stevens </strong> ( born November 27 , 1963 ) is an <a> American </a> actor and producer .
+
+#	NEW	caption	........ / 1963 )	// <p> <strong> Fisher Stevens </strong> ( born November 27 , 1963 ) is an <a> American </a> actor and producer .
+
+56	FALSE	Fisher Stevens::birth_name	steven fisher / 1963 ) is an	
+<p> <strong> Fisher Stevens </strong> ( born November 27 , 1963 ) is an <a> American </a> actor and producer .
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Fisher Stevens </strong> ( born November 27 , 1963 ) is an <a> American </a> actor and producer .
+
+58	TRUE	Fisher Stevens::occupation	actor / actor	
+<p> <strong> Fisher Stevens </strong> ( born November 27 , 1963 ) is an <a> American </a> actor and producer .
+
+#	NEW	death_date	........ / actor	// <p> <strong> Fisher Stevens </strong> ( born November 27 , 1963 ) is an <a> American </a> actor and producer .
+
+#	NEW	birthdate	........ / 27 , 1963 )	// <p> <strong> Fisher Stevens </strong> ( born November 27 , 1963 ) is an <a> American </a> actor and producer .
+
+#	NEW	birthname	........ / 1963 ) is an	// <p> <strong> Fisher Stevens </strong> ( born November 27 , 1963 ) is an <a> American </a> actor and producer .
+
+62	FALSE	David Morrissey::name	david morrissey / took up	
+After his acting career took off , he got into directing because he was aware that , as an actor , he was coming into a project quite late into development and then leaving before post-production ; he wanted to see a film through to the end , so took up professional directing .
+
+#	NEW	caption	........ / David	// <p> <strong> David Mark Morrissey </strong> ( born 21 June 1964 ) is an English actor and director .
+
+#	NEW	birth_name	........ / David Mark Morrissey	// <p> <strong> David Mark Morrissey </strong> ( born 21 June 1964 ) is an English actor and director .
+
+#	NEW	birth_date	........ / In	// <em> In The Director ' s Chair </em> .
+
+#	NEW	occupation	........ / actor	// <p> <strong> David Mark Morrissey </strong> ( born 21 June 1964 ) is an English actor and director .
+
+#	NEW	death_date	........ / is	// <p> <strong> David Mark Morrissey </strong> ( born 21 June 1964 ) is an English actor and director .
+
+#	NEW	birthdate	........ / 21 June 1964 )	// <p> <strong> David Mark Morrissey </strong> ( born 21 June 1964 ) is an English actor and director .
+
+#	NEW	birthname	........ / David Mark Morrissey	// <p> <strong> David Mark Morrissey </strong> ( born 21 June 1964 ) is an English actor and director .
+
+70	FALSE	Mark Little (Australian actor)::name	mark little / opening July	
+<p> Little appeared as Roy in a production of <a> Louis Nowra ' s </a> play <em> <a> Cosi </a> </em> at <a> The White Bear Theatre </a> Club in <a> Kennington </a> , <a> London </a> , opening July 29 , 2008 . </p>
+
+#	NEW	caption	........ / in	// <p> <strong> Mark Little </strong> ( born October 20 , 1959 ) , is an <a> Australia </a> n actor , television presenter and comedian , born in a remote part of <a> Queensland </a> . </p>
+
+#	NEW	birth_name	........ / Mark Little	// <p> <strong> Mark Little </strong> ( born October 20 , 1959 ) , is an <a> Australia </a> n actor , television presenter and comedian , born in a remote part of <a> Queensland </a> . </p>
+
+#	NEW	occupation	........ / actor	// <p> <strong> Mark Little </strong> ( born October 20 , 1959 ) , is an <a> Australia </a> n actor , television presenter and comedian , born in a remote part of <a> Queensland </a> . </p>
+
+#	NEW	death_date	........ / n	// <p> <strong> Mark Little </strong> ( born October 20 , 1959 ) , is an <a> Australia </a> n actor , television presenter and comedian , born in a remote part of <a> Queensland </a> . </p>
+
+#	NEW	birthname	........ / in a remote part of	// <p> <strong> Mark Little </strong> ( born October 20 , 1959 ) , is an <a> Australia </a> n actor , television presenter and comedian , born in a remote part of <a> Queensland </a> . </p>
+
+#	NEW	birthdate	........ / Australian Television Society Nomination for Best Actor 1990 &	// <p> Australian Television Society Nomination for Best Actor 1990 &quot ; Neighbours&quot ; ( Joe Mangel ) </p>
+
+#	NEW	name	........ / he worked &	// He later moved to <a> Anaheim , California </a> , where he worked &quot ; odd jobs&quot ; until the early 1980s .
+
+#	NEW	birth_date	........ / 2007	// The 2007 film was Cummings ' s sixth computer-animated movie appearance .
+
+#	NEW	caption	........ / Jim	// <p> <strong> Jim Cummings </strong> ( born <strong> James Jonah Cummings </strong> on November 3 , 1952 ) is an <a> American </a> <a> voice-actor </a> . </p>
+
+80	FALSE	Jim Cummings::birth_name	james jonah cummings / the only original	
+<p> Cummings was the only original <em> <a> Teenage Mutant Ninja Turtles </a> </em> voice actor to return for the <a> 2007 film </a> .
+
+81	TRUE	Jim Cummings::occupation	voice-actor / actor	
+<p> <strong> Jim Cummings </strong> ( born <strong> James Jonah Cummings </strong> on November 3 , 1952 ) is an <a> American </a> <a> voice-actor </a> . </p>
+
+#	NEW	birthdate	........ / on November 3 , 1952 )	// <p> <strong> Jim Cummings </strong> ( born <strong> James Jonah Cummings </strong> on November 3 , 1952 ) is an <a> American </a> <a> voice-actor </a> . </p>
+
+#	NEW	birthname	........ / James Jonah Cummings	// <p> <strong> Jim Cummings </strong> ( born <strong> James Jonah Cummings </strong> on November 3 , 1952 ) is an <a> American </a> <a> voice-actor </a> . </p>
+
+84	FALSE	Amanda Walsh::name	amanda walsh / her acting	
+Amanda started her acting career &quot ; acting&quot ; out border-crossing scenarios at the <a> Canada Customs </a> college in her home town of Rigaud . </p>
+
+#	NEW	occupation	........ / actress	// <p> <strong> Amanda Walsh </strong> ( born October 3 , 1981 ) is a <a> Canadian </a> <a> actress </a> and former <a> VJ </a> for the <a> Canadian </a> <a> television station </a> <a> MuchMusic </a> . </p>
+
+#	NEW	death_date	........ / Amanda	// <p> Amanda co-starred in the straight to video sequel to the 1983 film <em> <a> WarGames </a> </em> called <strong> <em> ' . </em> </strong> </p>
+
+#	NEW	birthname	........ / Walsh was born	// <p> Walsh was born in <a> Rigaud , Quebec </a> .
+
+#	NEW	birth_name	........ / Amanda has been working as a professional actor and dabbled in sketches and stand-up comedy , with numerous TV appearances and a gold medal win at the 2000 Improv Games	// Since the age of 12 , Amanda has been working as a professional actor and dabbled in sketches and stand-up comedy , with numerous TV appearances and a gold medal win at the 2000 Improv Games in Quebec as a member of the &quot ; 8 People&quot ; troupe .
+
+89	FALSE	Rena Sofer::name	rena sofer / Hallmark Channel	
+<p> She starred in the television movie <a> Always and Forever </a> which aired October 24 , 2009 on the <a> Hallmark Channel </a> . </p>
+
+#	NEW	caption	........ / Rena	// <p> <strong> Rena Sherel Sofer </strong> ( born December 2 , 1968 ) is an <a> American </a> <a> actress </a> . </p>
+
+91	TRUE	Rena Sofer::birth_name	rena sherel sofer / Rena Sherel Sofer	
+<p> <strong> Rena Sherel Sofer </strong> ( born December 2 , 1968 ) is an <a> American </a> <a> actress </a> . </p>
+
+92	TRUE	Rena Sofer::occupation	actress / actress	
+<p> <strong> Rena Sherel Sofer </strong> ( born December 2 , 1968 ) is an <a> American </a> <a> actress </a> . </p>
+
+#	NEW	birthname	........ / Rena Sherel Sofer	// <p> <strong> Rena Sherel Sofer </strong> ( born December 2 , 1968 ) is an <a> American </a> <a> actress </a> . </p>
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Rena Sherel Sofer </strong> ( born December 2 , 1968 ) is an <a> American </a> <a> actress </a> . </p>
+
+#	NEW	caption	........ / the	// <p> Born as <strong> Marion Thornburg </strong> , the elder sister of actress <a> Betty Hutton </a> , their father abandoned their family when they were both young , he later committed suicide .
+
+#	NEW	birth_name	........ / the executive director .	// She was the executive director .
+
+#	NEW	occupation	........ / actress	// <p> <strong> Marion Hutton </strong> ( 10 March 1919 , <a> Battle Creek , Michigan </a> - 10 January 1987 , <a> Kirkland , Washington </a> ) was a <a> United States </a> <a> singer </a> and <a> actress </a> . </p>
+
+#	NEW	name	........ / both young	// <p> Born as <strong> Marion Thornburg </strong> , the elder sister of actress <a> Betty Hutton </a> , their father abandoned their family when they were both young , he later committed suicide .
+
+99	TRUE	Marion Hutton::birthname	marion thornburg / their father abandoned their family when they were both young	
+<p> Born as <strong> Marion Thornburg </strong> , the elder sister of actress <a> Betty Hutton </a> , their father abandoned their family when they were both young , he later committed suicide .
+
+100	FALSE	Connor Trinneer::name	connor trinneer / An Angel	
+<p> More recently , he has had several guest-starring roles on television , including <em> <a> One Life to Live </a> </em> , <em> <a> Sliders </a> </em> and <em> <a> Touched By An Angel </a> </em> .
+
+#	NEW	caption	........ / 1969 )	// <p> <strong> Connor Trinneer </strong> ( born March 19 , 1969 ) is an <a> American </a> film , stage and television actor .
+
+#	NEW	birth_name	........ / stage and television	// <p> <strong> Connor Trinneer </strong> ( born March 19 , 1969 ) is an <a> American </a> film , stage and television actor .
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Connor Trinneer </strong> ( born March 19 , 1969 ) is an <a> American </a> film , stage and television actor .
+
+#	NEW	occupation	........ / actor .	// <p> <strong> Connor Trinneer </strong> ( born March 19 , 1969 ) is an <a> American </a> film , stage and television actor .
+
+#	NEW	death_date	........ / film	// <p> <strong> Connor Trinneer </strong> ( born March 19 , 1969 ) is an <a> American </a> film , stage and television actor .
+
+#	NEW	birthdate	........ / 19 , 1969 )	// <p> <strong> Connor Trinneer </strong> ( born March 19 , 1969 ) is an <a> American </a> film , stage and television actor .
+
+#	NEW	birthname	........ / stage and television	// <p> <strong> Connor Trinneer </strong> ( born March 19 , 1969 ) is an <a> American </a> film , stage and television actor .
+
+108	FALSE	Hill Harper::name	hill harper / a Dog	
+<p> Harper broke into both film and television in 1993 , doing recurring work on the <a> Fox </a> series <em> <a> Married . . . with Children </a> </em> and making his film debut in the short <em> Confessions of a Dog </em> .
+
+#	NEW	caption	........ / and	// <p> <strong> Francis Harper </strong> ( born May 17 , 1966 ) , known professionally as <strong> Hill Harper </strong> , is an <a> American </a> <a> film </a> , <a> television </a> and <a> stage </a> actor , and author .
+
+#	NEW	birth_name	........ / Hill Harper	// <p> <strong> Francis Harper </strong> ( born May 17 , 1966 ) , known professionally as <strong> Hill Harper </strong> , is an <a> American </a> <a> film </a> , <a> television </a> and <a> stage </a> actor , and author .
+
+#	NEW	birth_place	........ / Los Angeles	// <p> Although Harper obtained a JD and MPA , he chose to use neither and instead moved to <a> Los Angeles </a> to pursue acting .
+
+112	TRUE	Hill Harper::occupation	actor / actor	
+<p> <strong> Francis Harper </strong> ( born May 17 , 1966 ) , known professionally as <strong> Hill Harper </strong> , is an <a> American </a> <a> film </a> , <a> television </a> and <a> stage </a> actor , and author .
+
+#	NEW	death_date	........ / actor	// <p> <strong> Francis Harper </strong> ( born May 17 , 1966 ) , known professionally as <strong> Hill Harper </strong> , is an <a> American </a> <a> film </a> , <a> television </a> and <a> stage </a> actor , and author .
+
+#	NEW	birthdate	........ / As of October 2009 , Hill has made several contributions to political candidates , exclusively to	// <p> As of October 2009 , Hill has made several contributions to political candidates , exclusively to <a> Democrats </a> .
+
+#	NEW	birthname	........ / and author .	// <p> <strong> Francis Harper </strong> ( born May 17 , 1966 ) , known professionally as <strong> Hill Harper </strong> , is an <a> American </a> <a> film </a> , <a> television </a> and <a> stage </a> actor , and author .
+
+#	NEW	caption	........ / o	// In 2007 , <em> The Oxford American College Dictionary </em> announced the addition of the term <em> EVOO , </em> short for <strong> <em> e </em> </strong> xtra- <strong> <em> v </em> </strong> irgin <a> <strong> <em> o </em> </strong> live <strong> <em> o </em> </strong> il </a> , which Ray had helped to popularize , and credited her with coining the phrase . </p>
+
+117	TRUE	Rachael Ray::birth_name	rachael domenica ray / Rachael Domenica Ray	
+<p> <strong> Rachael Domenica Ray </strong> ( born August 25 , 1968 ) is an American television personality , celebrity chef and author .
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Rachael Domenica Ray </strong> ( born August 25 , 1968 ) is an American television personality , celebrity chef and author .
+
+#	NEW	occupation	........ / ,	// In 2007 , <em> The Oxford American College Dictionary </em> announced the addition of the term <em> EVOO , </em> short for <strong> <em> e </em> </strong> xtra- <strong> <em> v </em> </strong> irgin <a> <strong> <em> o </em> </strong> live <strong> <em> o </em> </strong> il </a> , which Ray had helped to popularize , and credited her with coining the phrase . </p>
+
+#	NEW	birthname	........ / is an American television personality	// <p> <strong> Rachael Domenica Ray </strong> ( born August 25 , 1968 ) is an American television personality , celebrity chef and author .
+
+#	NEW	birthdate	........ / 25 , 1968 )	// <p> <strong> Rachael Domenica Ray </strong> ( born August 25 , 1968 ) is an American television personality , celebrity chef and author .
+
+#	NEW	death_date	........ / which	// In 2007 , <em> The Oxford American College Dictionary </em> announced the addition of the term <em> EVOO , </em> short for <strong> <em> e </em> </strong> xtra- <strong> <em> v </em> </strong> irgin <a> <strong> <em> o </em> </strong> live <strong> <em> o </em> </strong> il </a> , which Ray had helped to popularize , and credited her with coining the phrase . </p>
+
+#	NEW	name	........ / X- Files	// <p> <strong> William Bruce Davis </strong> ( born January 13 , 1938 ) is a <a> Canadian </a> <a> actor </a> , known for his role as <a> The Smoking Man </a> on <em> <a> The X-Files </a> </em> .
+
+#	NEW	caption	........ / William	// <p> <strong> William Bruce Davis </strong> ( born January 13 , 1938 ) is a <a> Canadian </a> <a> actor </a> , known for his role as <a> The Smoking Man </a> on <em> <a> The X-Files </a> </em> .
+
+125	TRUE	William B. Davis::birth_name	william bruce davis / William Bruce Davis	
+<p> <strong> William Bruce Davis </strong> ( born January 13 , 1938 ) is a <a> Canadian </a> <a> actor </a> , known for his role as <a> The Smoking Man </a> on <em> <a> The X-Files </a> </em> .
+
+#	NEW	birthname	........ / Davis also hosts	// <p> Davis also hosts and narrates the series <em> <a> Critical Eye </a> </em> on the <a> Science Channel </a> . </p>
+
+#	NEW	name	........ / married Mary	// On September 10 , 1960 , he married Mary Cox .
+
+#	NEW	caption	........ / and	// <p> <strong> Daniel Ronald &quot ; Ronny&quot ; Cox </strong> ( born July 23 , 1938 ) is an <a> American </a> <a> character actor </a> , <a> singer </a> / <a> songwriter </a> , and <a> guitar </a> ist . </p>
+
+#	NEW	occupation	........ / actor	// <p> <strong> Daniel Ronald &quot ; Ronny&quot ; Cox </strong> ( born July 23 , 1938 ) is an <a> American </a> <a> character actor </a> , <a> singer </a> / <a> songwriter </a> , and <a> guitar </a> ist . </p>
+
+#	NEW	death_date	........ / ist .	// <p> <strong> Daniel Ronald &quot ; Ronny&quot ; Cox </strong> ( born July 23 , 1938 ) is an <a> American </a> <a> character actor </a> , <a> singer </a> / <a> songwriter </a> , and <a> guitar </a> ist . </p>
+
+#	NEW	birth_name	........ / an actor , known for his debut performance as Drew Ballinger	// <p> As an actor , known for his debut performance as Drew Ballinger in the acclaimed 1972 film <em> <a> Deliverance </a> </em> in which he plays the instrumental &quot ; <a> Dueling Banjos </a> &quot ; on his guitar with a <a> mentally retarded </a> <a> banjo </a> -playing mountain boy named Lonnie , played by child actor <a> Billy Redden </a> .
+
+#	NEW	birthdate	........ / One of his roles was that of Dr . John Gideon during the final season of the television medical drama	// <p> One of his roles was that of Dr . John Gideon during the final season of the television medical drama <a> St .
+
+#	NEW	name	........ / Midnight Madness	// <p> <strong> David Walsh Naughton </strong> ( born February 13 , 1951 ) is an <a> American </a> <a> actor </a> and <a> singer </a> best known for his starring roles in the 1981 <a> horror film </a> <em> <a> An American Werewolf in London </a> </em> and the 1980 <a> Walt Disney </a> comedy , <em> <a> Midnight Madness </a> </em> . </p>
+
+#	NEW	caption	........ / David	// <p> <strong> David Walsh Naughton </strong> ( born February 13 , 1951 ) is an <a> American </a> <a> actor </a> and <a> singer </a> best known for his starring roles in the 1981 <a> horror film </a> <em> <a> An American Werewolf in London </a> </em> and the 1980 <a> Walt Disney </a> comedy , <em> <a> Midnight Madness </a> </em> . </p>
+
+135	TRUE	David Naughton (actor)::birth_name	david walsh naughton / David Walsh Naughton	
+<p> <strong> David Walsh Naughton </strong> ( born February 13 , 1951 ) is an <a> American </a> <a> actor </a> and <a> singer </a> best known for his starring roles in the 1981 <a> horror film </a> <em> <a> An American Werewolf in London </a> </em> and the 1980 <a> Walt Disney </a> comedy , <em> <a> Midnight Madness </a> </em> . </p>
+
+#	NEW	occupation	........ / ,	// <p> <strong> David Walsh Naughton </strong> ( born February 13 , 1951 ) is an <a> American </a> <a> actor </a> and <a> singer </a> best known for his starring roles in the 1981 <a> horror film </a> <em> <a> An American Werewolf in London </a> </em> and the 1980 <a> Walt Disney </a> comedy , <em> <a> Midnight Madness </a> </em> . </p>
+
+#	NEW	death_date	........ / of	// He is the <a> brother </a> of theater and film actor <a> James Naughton </a> .
+
+#	NEW	birthname	........ / His family is	// His family is <a> Irish American </a> .
+
+139	FALSE	Geoffrey Durham::name	geoffrey durham / stage shows	
+After working in various stage shows for several years his interest in magic was rekindled while preparing for a show in Liverpool , in which his character performed some tricks .
+
+#	NEW	caption	........ / Geoffrey	// <p> <strong> Geoffrey Durham </strong> ( born 22 July 1949 ) is a <a> British </a> comedy <a> magician </a> and actor who was known for many years as ' The Great Soprendo ' . </p>
+
+#	NEW	birth_name	........ / July 1949 ) is a	// <p> <strong> Geoffrey Durham </strong> ( born 22 July 1949 ) is a <a> British </a> comedy <a> magician </a> and actor who was known for many years as ' The Great Soprendo ' . </p>
+
+#	NEW	birth_date	........ / Durham	// <p> Durham married writer and comedian <a> Victoria Wood </a> in March 1980 , but they separated in October 2002 .
+
+#	NEW	occupation	........ / actor	// <p> <strong> Geoffrey Durham </strong> ( born 22 July 1949 ) is a <a> British </a> comedy <a> magician </a> and actor who was known for many years as ' The Great Soprendo ' . </p>
+
+#	NEW	death_date	........ / and	// <p> <strong> Geoffrey Durham </strong> ( born 22 July 1949 ) is a <a> British </a> comedy <a> magician </a> and actor who was known for many years as ' The Great Soprendo ' . </p>
+
+#	NEW	birthname	........ / and actor who	// <p> <strong> Geoffrey Durham </strong> ( born 22 July 1949 ) is a <a> British </a> comedy <a> magician </a> and actor who was known for many years as ' The Great Soprendo ' . </p>
+
+146	FALSE	Tricia Cast::name	tricia cast / that she	
+However , her character proved so popular that she was added as a regular after the storyline ended .
+
+147	TRUE	Tricia Cast::caption	tricia cast / New	
+<p> <strong> Tricia Cast </strong> ( born November 16 , 1966 in <a> Medford , New York </a> ) is an <a> American </a> <a> actress </a> , best known for her role as <a> Nina Webster </a> on <em> <a> The Young and the Restless </a> </em> . </p>
+
+#	NEW	birth_name	........ / Medford , New York	// <p> <strong> Tricia Cast </strong> ( born November 16 , 1966 in <a> Medford , New York </a> ) is an <a> American </a> <a> actress </a> , best known for her role as <a> Nina Webster </a> on <em> <a> The Young and the Restless </a> </em> . </p>
+
+#	NEW	birth_date	........ / Her	// <p> Her most-recognized role is as &quot ; Nina Webster&quot ; on the daytime drama , <em> The Young and the Restless </em> .
+
+#	NEW	death_date	........ / win	// <p> Cast nabbed a <a> Daytime Emmy Award </a> win for Outstanding Younger Actress In a Drama Series in 1992 . </p>
+
+#	NEW	birthname	........ / years of acting	// After years of acting in TV movies , she starred with <a> Jason Bateman </a> as his sister on the television series <em> <a> It ' s Your Move </a> </em> .
+
+152	FALSE	Sean Hayes (actor)::name	sean hayes / Patrick Hayes	
+<p> <strong> Sean Patrick Hayes </strong> ( born June 26 , 1970 ) is an American <a> actor </a> and <a> comedian </a> .
+
+#	NEW	caption	........ / Sean	// <p> <strong> Sean Patrick Hayes </strong> ( born June 26 , 1970 ) is an American <a> actor </a> and <a> comedian </a> .
+
+154	TRUE	Sean Hayes (actor)::birth_name	sean patrick hayes / Sean Patrick Hayes	
+<p> <strong> Sean Patrick Hayes </strong> ( born June 26 , 1970 ) is an American <a> actor </a> and <a> comedian </a> .
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Sean Patrick Hayes </strong> ( born June 26 , 1970 ) is an American <a> actor </a> and <a> comedian </a> .
+
+#	NEW	occupation	........ / actor	// <p> <strong> Sean Patrick Hayes </strong> ( born June 26 , 1970 ) is an American <a> actor </a> and <a> comedian </a> .
+
+#	NEW	death_date	........ / comedian	// <p> <strong> Sean Patrick Hayes </strong> ( born June 26 , 1970 ) is an American <a> actor </a> and <a> comedian </a> .
+
+#	NEW	birthdate	........ / on Sunday , June 13 , 2010	// <p> Hayes was host of the <a> 64th Annual Tony Awards </a> on Sunday , June 13 , 2010 on CBS . </p>
+
+#	NEW	birthname	........ / is an American	// <p> <strong> Sean Patrick Hayes </strong> ( born June 26 , 1970 ) is an American <a> actor </a> and <a> comedian </a> .
+
+160	FALSE	Ann Dvorak::name	ann dvorak / Literary Digest	
+<p> Asked how to pronounce her adopted surname , she told <em> <a> The Literary Digest </a> </em> : &quot ; My name is properly pronounced <em> vor ' shack </em> .
+
+#	NEW	caption	........ / 1979 )	// <p> <strong> Ann Dvorak </strong> ( August 2 , 1911 &ndash ; December 10 , 1979 ) was an American film actress . </p>
+
+162	FALSE	Ann Dvorak::birth_name	anna mckim / an American film actress.	
+<p> <strong> Ann Dvorak </strong> ( August 2 , 1911 &ndash ; December 10 , 1979 ) was an American film actress . </p>
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Ann Dvorak </strong> ( August 2 , 1911 &ndash ; December 10 , 1979 ) was an American film actress . </p>
+
+164	TRUE	Ann Dvorak::occupation	actress / actress.	
+<p> <strong> Ann Dvorak </strong> ( August 2 , 1911 &ndash ; December 10 , 1979 ) was an American film actress . </p>
+
+#	NEW	death_date	........ / December 10 , 1979 )	// <p> <strong> Ann Dvorak </strong> ( August 2 , 1911 &ndash ; December 10 , 1979 ) was an American film actress . </p>
+
+#	NEW	birthdate	........ / 2 , 1911 &	// <p> <strong> Ann Dvorak </strong> ( August 2 , 1911 &ndash ; December 10 , 1979 ) was an American film actress . </p>
+
+#	NEW	birthname	........ / an American film actress .	// <p> <strong> Ann Dvorak </strong> ( August 2 , 1911 &ndash ; December 10 , 1979 ) was an American film actress . </p>
+
+168	TRUE	Joseph Sweeney (actor)::name	joseph sweeney / New York	
+<p> <strong> Joseph Sweeney </strong> ( <a> Philadelphia </a> , <a> Pennsylvania </a> , July 26 , 1884 &#x2013 ; November 25 , 1963 , <a> New York City </a> ) was an American actor who worked in stage production , television and movies .
+
+#	NEW	caption	........ / New	// <p> <strong> Joseph Sweeney </strong> ( <a> Philadelphia </a> , <a> Pennsylvania </a> , July 26 , 1884 &#x2013 ; November 25 , 1963 , <a> New York City </a> ) was an American actor who worked in stage production , television and movies .
+
+#	NEW	birth_name	........ / Joseph Sweeney	// <p> <strong> Joseph Sweeney </strong> ( <a> Philadelphia </a> , <a> Pennsylvania </a> , July 26 , 1884 &#x2013 ; November 25 , 1963 , <a> New York City </a> ) was an American actor who worked in stage production , television and movies .
+
+#	NEW	birth_date	........ / p>	// His most famous role was as juror number nine in the 1957 film <em> <a> Twelve Angry Men </a> </em> . </p>
+
+172	TRUE	Joseph Sweeney (actor)::occupation	actor / actor	
+<p> <strong> Joseph Sweeney </strong> ( <a> Philadelphia </a> , <a> Pennsylvania </a> , July 26 , 1884 &#x2013 ; November 25 , 1963 , <a> New York City </a> ) was an American actor who worked in stage production , television and movies .
+
+#	NEW	death_date	........ / November 25 , 1963	// <p> <strong> Joseph Sweeney </strong> ( <a> Philadelphia </a> , <a> Pennsylvania </a> , July 26 , 1884 &#x2013 ; November 25 , 1963 , <a> New York City </a> ) was an American actor who worked in stage production , television and movies .
+
+#	NEW	birthname	........ / New York City	// <p> <strong> Joseph Sweeney </strong> ( <a> Philadelphia </a> , <a> Pennsylvania </a> , July 26 , 1884 &#x2013 ; November 25 , 1963 , <a> New York City </a> ) was an American actor who worked in stage production , television and movies .
+
+175	FALSE	Gary Kemp::name	gary kemp / Frank was	
+Eileen was undergoing treatment for a heart bypass at <a> Bournemouth Hospital </a> , where Frank was brought in after suffering a fatal heart attack .
+
+#	NEW	caption	........ / Gary	// <p> <strong> Gary Kemp </strong> ( born 16 October 1959 ) is an <a> English </a> <a> pop </a> musician and actor who is the <a> guitar </a> player and chief <a> songwriter </a> for the 1980s <a> Synthpop </a> <a> band </a> <a> Spandau Ballet </a> .
+
+#	NEW	birth_name	........ / October 1959 ) is an	// <p> <strong> Gary Kemp </strong> ( born 16 October 1959 ) is an <a> English </a> <a> pop </a> musician and actor who is the <a> guitar </a> player and chief <a> songwriter </a> for the 1980s <a> Synthpop </a> <a> band </a> <a> Spandau Ballet </a> .
+
+#	NEW	birth_date	........ / He	// <p> He played a lead role in Blockbuster Movie - The Bodyguard . </p>
+
+#	NEW	death_date	........ / Spandau	// <p> <strong> Gary Kemp </strong> ( born 16 October 1959 ) is an <a> English </a> <a> pop </a> musician and actor who is the <a> guitar </a> player and chief <a> songwriter </a> for the 1980s <a> Synthpop </a> <a> band </a> <a> Spandau Ballet </a> .
+
+#	NEW	birthdate	........ / Lauren Barber , with whom he has two further sons , Milo Wolf , born in 2004 , and Kit , born in 2009 .	// In 2003 , Kemp married <a> costume designer </a> Lauren Barber , with whom he has two further sons , Milo Wolf , born in 2004 , and Kit , born in 2009 . </p>
+
+#	NEW	birthname	........ / of his songs appeared on the debut album by American soap	// Two of his songs appeared on the debut album by American soap star <a> Jacob Young </a> in 2001 .
+
+182	FALSE	Kitty Carlisle::name	kitty carlisle hart / one episode	
+<p> Carlisle became a household name through <em> To Tell the Truth </em> , where she was a regular panelist from 1957 to 1978 , and later appeared on revivals of the series in 1980 , 1990&#x2013 ; 91 and one episode in 2000 .
+
+#	NEW	caption	........ / Kitty	// <p> <strong> Kitty Carlisle </strong> ( also billed as <strong> Kitty Carlisle Hart </strong> ; September 3 , 1910 &#x2013 ; April 17 , 2007 ) was an American singer , actress and spokeswoman for the arts .
+
+184	FALSE	Kitty Carlisle::birth_name	catherine conn / Kitty Carlisle Hart	
+<p> <strong> Kitty Carlisle </strong> ( also billed as <strong> Kitty Carlisle Hart </strong> ; September 3 , 1910 &#x2013 ; April 17 , 2007 ) was an American singer , actress and spokeswoman for the arts .
+
+#	NEW	occupation	........ / actress	// <p> <strong> Kitty Carlisle </strong> ( also billed as <strong> Kitty Carlisle Hart </strong> ; September 3 , 1910 &#x2013 ; April 17 , 2007 ) was an American singer , actress and spokeswoman for the arts .
+
+#	NEW	death_date	........ / April 17 , 2007 )	// <p> <strong> Kitty Carlisle </strong> ( also billed as <strong> Kitty Carlisle Hart </strong> ; September 3 , 1910 &#x2013 ; April 17 , 2007 ) was an American singer , actress and spokeswoman for the arts .
+
+#	NEW	birthname	........ / an American singer	// <p> <strong> Kitty Carlisle </strong> ( also billed as <strong> Kitty Carlisle Hart </strong> ; September 3 , 1910 &#x2013 ; April 17 , 2007 ) was an American singer , actress and spokeswoman for the arts .
+
+#	NEW	birthdate	........ / April 17 , 2007 )	// <p> <strong> Kitty Carlisle </strong> ( also billed as <strong> Kitty Carlisle Hart </strong> ; September 3 , 1910 &#x2013 ; April 17 , 2007 ) was an American singer , actress and spokeswoman for the arts .
+
+189	FALSE	Linda Dano::name	linda dano / Frank Attardi	
+<p> Linda was married to advertising executive Frank Attardi for over 20 years .
+
+#	NEW	caption	........ / Linda	// <p> <strong> Linda Dano </strong> ( born <strong> Linda Rae Wildermuth </strong> on May 12 , 1943 ) is an <a> American </a> <a> soap opera </a> <a> actress </a> .
+
+#	NEW	birth_name	........ / Linda Rae Wildermuth	// <p> <strong> Linda Dano </strong> ( born <strong> Linda Rae Wildermuth </strong> on May 12 , 1943 ) is an <a> American </a> <a> soap opera </a> <a> actress </a> .
+
+#	NEW	occupation	........ / actress	// <p> <strong> Linda Dano </strong> ( born <strong> Linda Rae Wildermuth </strong> on May 12 , 1943 ) is an <a> American </a> <a> soap opera </a> <a> actress </a> .
+
+#	NEW	death_date	........ / actress	// <p> <strong> Linda Dano </strong> ( born <strong> Linda Rae Wildermuth </strong> on May 12 , 1943 ) is an <a> American </a> <a> soap opera </a> <a> actress </a> .
+
+#	NEW	birthdate	........ / Looking Great : Fashion Authority and Television Star Linda Dano Shares Her Style and Beauty Secrets to Help You Look Your Best	// <em> Looking Great : Fashion Authority and Television Star Linda Dano Shares Her Style and Beauty Secrets to Help You Look Your Best </em> .
+
+#	NEW	birth_date	........ / 2003	// In 2003 Dano was nominated for a Daytime Emmy for Supporting Actress for the role , and left <em> One Life to Live </em> on March 13 , 2004 . </p>
+
+#	NEW	birthname	........ / Linda Rae Wildermuth	// <p> <strong> Linda Dano </strong> ( born <strong> Linda Rae Wildermuth </strong> on May 12 , 1943 ) is an <a> American </a> <a> soap opera </a> <a> actress </a> .
+
+197	FALSE	Susan Ward::name	susan ward / Love interest	
+Love interest for the main character .
+
+#	NEW	caption	........ / 1976 )	// <p> <strong> Susan Ward </strong> ( born April 15 , 1976 ) is an <a> American </a> <a> actress </a> and <a> model </a> . </p>
+
+#	NEW	birth_name	........ / 1976 ) is an	// <p> <strong> Susan Ward </strong> ( born April 15 , 1976 ) is an <a> American </a> <a> actress </a> and <a> model </a> . </p>
+
+#	NEW	occupation	........ / actress	// <p> <strong> Susan Ward </strong> ( born April 15 , 1976 ) is an <a> American </a> <a> actress </a> and <a> model </a> . </p>
+
+201	TRUE	Emily McLaughlin::name	emily mclaughlin / Emily McLaughlin	
+<p> Emily McLaughlin is interred next to Jeffrey Hunter in the Glen Haven Memorial Park cemetery in <a> Sylmar , California </a> . </p>
+
+#	NEW	caption	........ / 1991 )	// <p> <strong> Emily McLaughlin </strong> ( December 1 , 1930 - April 26 , 1991 ) was an American <a> soap opera </a> <a> actress </a> .
+
+#	NEW	birth_name	........ / an American <a> soap opera	// <p> <strong> Emily McLaughlin </strong> ( December 1 , 1930 - April 26 , 1991 ) was an American <a> soap opera </a> <a> actress </a> .
+
+204	TRUE	Emily McLaughlin::occupation	actress / actress	
+<p> <strong> Emily McLaughlin </strong> ( December 1 , 1930 - April 26 , 1991 ) was an American <a> soap opera </a> <a> actress </a> .
+
+#	NEW	death_date	........ / April 26 , 1991 )	// <p> <strong> Emily McLaughlin </strong> ( December 1 , 1930 - April 26 , 1991 ) was an American <a> soap opera </a> <a> actress </a> .
+
+#	NEW	birthname	........ / was an American	// <p> <strong> Emily McLaughlin </strong> ( December 1 , 1930 - April 26 , 1991 ) was an American <a> soap opera </a> <a> actress </a> .
+
+#	null	birthdate	1919 / ..........
+
+#	null	name	rachael ray / ..........
+
+#	null	occupation	actor / ..........
+

@@ -1,6 +1,0 @@
-<h2>Riga Technical University, 1958-now</h2>
-<li>Faculty of Building and Civil Engineering</li>
-<li>Faculty of Electronics and Telecommunications</li>
-<li>Faculty of Engineering Economics</li>
-<li>Faculty of Materials Science and Applied Chemistry</li>
-<li>Faculty of Power and Electrical Engineering</li>

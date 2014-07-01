@@ -1,3 +1,0 @@
-<p>&lt;timeline&gt; ImageSize = width:444 height:200 PlotArea  = left:70 right:40 top:20 bottom:20 TimeAxis  = orientation:vertical  AlignBars = justify  Colors = </p>
-<li>Faculty 09 - Agricultural Sciences, Nutritional Sciences and Environmental Management</li>
-<li><a>Current events at the University</a></li>

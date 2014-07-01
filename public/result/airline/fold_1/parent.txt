@@ -1,0 +1,92 @@
+Found: 40
+Found Not Null: 2
+Correct: 0
+Wrong: 2
+Total: 2
+precision: 0.0
+recall: 0.0
+
+
+
+#	NEW	parent	........ / C- 46	// <p> &quot ; Airline officials said the find had been made by a C-46 Pan American cargo plane piloted by Capt .
+
+#	NEW	parent	........ / blast also	// The blast also injured 15 other people ( including the boy ' s parents ) and caused damage to the floor and ceiling .
+
+#	NEW	parent	........ / Air Traffic	// <a> Air Traffic Control </a> replied and gave the crew weather , visibility and other information regarding conditions at the airport . </p>
+
+#	NEW	parent	........ / crew of	// It was carrying a crew of 5 and 80 passengers .
+
+#	NEW	parent	........ / Canadian	// <p> <strong> NAC Air </strong> was a <a> Canadian </a> <a> regional airline </a> .
+
+#	NEW	parent	........ / accident flight	// <p> The accident flight is known in some references ( and in the CAB report ) as Northwest Airlines Flight 2 , but it actually flew under the Northwest Orient Airlines name . </p>
+
+#	NEW	parent	........ / crash .	// <p> Trans-Canada Airline , predecessor to <a> Air Canada </a> , created a memorial garden near the site of the crash .
+
+7	FALSE	L'Avion::parent	elysair sas / carriers have	
+US carriers have previously operated to Orly but were forced to move to <a> Charles de Gaulle International Airport </a> by the French government .
+
+#	NEW	parent	........ / operated scheduled	// It operated scheduled domestic , regional and international services , but is currently not active . </p>
+
+#	NEW	parent	........ / increase air	// to increase air cargo volumes . </p>
+
+#	NEW	parent	........ / passengers and	// <p> The passengers and crew subsequently re-boarded the aircraft , which then returned to Khartoum International at 22 : 00 local time ( 1900 GMT ) .
+
+#	NEW	parent	........ / U . S .	// The American courier was reportedly transporting the U . S . military codes to safety from Estonia . </p>
+
+#	NEW	parent	........ / flight carried	// The flight carried 57 passengers and 6 crew .
+
+#	NEW	parent	........ / Hatta International	// It operated passenger and cargo charters out of <a> Soekarno-Hatta International Airport </a> , Jakarta . . </p>
+
+#	NEW	parent	........ / airline started	// <p> The airline started operations between <a> Nairobi </a> and <a> Mombasa </a> on November 24 , 2006 .
+
+#	NEW	parent	........ / Swiss regional	// It was the first fatal crash for the Swiss regional airline <a> Crossair </a> in its 25-year history . </p>
+
+#	NEW	parent	........ / Swift Air	// <p> As of May 2010 the Swift Air fleet includes : </p>
+
+#	NEW	parent	........ / on National Summit	// Paper presented on National Summit by NTSB on transportation safety .
+
+#	NEW	parent	........ / Companies House	// <p> <a> Companies House </a> Company Number SC243178 </p>
+
+#	NEW	parent	........ / following aircraft ( ) :	// <p> The Scandjet fleet includes the following aircraft ( ) : </p>
+
+#	NEW	parent	........ / Appalachian Airlines	// <p> <strong> Appalachian Airlines </strong> was a US <a> commuter airline </a> , operating out of <a> Tri-Cities Regional Airport </a> , <a> Tennessee </a> .
+
+#	NEW	parent	........ / Superior Aviation fleet	// <p> As of August 2006 the Superior Aviation fleet includes : </p>
+
+#	NEW	parent	........ / Vincent Aviation serves	// <p> Vincent Aviation serves primarily as a charter airline .
+
+#	NEW	parent	........ / Leisure International	// <p> <strong> Leisure International Airways </strong> was a British charter airline . </p>
+
+#	NEW	parent	........ / Sikorsky S-	// Norrlandsflyg operates twelve <a> Sikorsky S-76 </a> helicopters . </p>
+
+#	NEW	parent	........ / were no	// There were no passengers on board , all the 6 crew members died in the accident . </p>
+
+#	NEW	parent	........ / Sita Air	// <p> As of August 2008 the Sita Air fleet includes : </p>
+
+#	NEW	parent	........ / airline	// Ltd . </strong> is an <a> airline </a> based in <a> Nepal </a> which started operations in March 2006 .
+
+#	NEW	parent	........ / Thai Airlines	// <a> Orient Thai Airlines </a> owned a 49% stake in the airline and operated charter services on behalf of Kampuchea Airlines .
+
+#	NEW	parent	........ / ( Air Domestic )	// <p> <strong> Landsflug </strong> ( Air Domestic ) was an <a> airline </a> based in <a> Reykjav&#x00ed ; k </a> , <a> Iceland </a> .
+
+#	NEW	parent	........ / aircraft was	// The aircraft was substantially damaged but the two crew survived . </p>
+
+31	FALSE	Southern Air::parent	oak hill capital partners / Air also	
+Southern Air also offer cargo charters to brokers , as well as cargo transportation for the government . </p>
+
+#	NEW	parent	........ / operates feeder	// It operates feeder flights for overnight package delivery services , including <a> UPS </a> and <a> DHL </a> .
+
+#	NEW	parent	........ / airline stopped	// Due to circumstances attributable to the then owners , the airline stopped operations in 2006 .
+
+#	NEW	parent	........ / airline was	// <p> The airline was established in September 1995 as Special Operations Department of <a> Linhas A&#x00e9 ; reas de Mo&#x00e7 ; ambique </a> ( LAM ) .
+
+#	NEW	parent	........ / Frankfurt Airport	// It operates scheduled and chartered cargo flights out of <a> Frankfurt Airport </a> , most of which are either to <a> Birmingham Airport </a> or <a> Coventry Airport </a> . </p>
+
+#	NEW	parent	........ / airline also	// <p> As of August 2006 the airline also operated : </p>
+
+#	NEW	parent	........ / Marsland Aviation	// <p> <strong> Marsland Aviation </strong> is an <a> airline </a> based in <a> Khartoum </a> , <a> Sudan </a> .
+
+#	NEW	parent	........ / Shilin Airlines	// <p> On 23 December 2005 , Shilin Airlines changed name to Lucky Air .
+
+#	NEW	parent	........ / started services	// It started services in <a> 1971 </a> between Land ' s End Airport and the Scilly Isles with a <a> de Havilland Dragon Rapide </a> and <a> Britten-Norman Islander </a> . </p>
+

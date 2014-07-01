@@ -1,0 +1,42 @@
+Found: 17
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	caption	........ / family	// She has three daughters with Connick : Georgia Tatom ( born April 17 , 1996 ) , Sarah Kate ( September 12 , 1997 ) , and Charlotte ( born June 26 , 2002 ) The family currently resides in Connecticut . </p>
+
+#	NEW	caption	........ / he	// <p> According to Blake , he had an unhappy childhood with a miserable home life and was abused by his alcoholic father .
+
+#	NEW	caption	........ / it	// <p> In June 2010 , it was announced that he would return to play Lawrence Cunningham , alongside his father <a> William Roache </a> , in <em> <a> Coronation Street </a> </em> . </p>
+
+#	NEW	caption	........ / Eddie	// On October 10 , 1964 in <a> Beverly Hills , California </a> , Eddie Cantor suffered another <a> heart attack </a> and died , aged 72 .
+
+#	NEW	caption	........ / Romijn	// <p> Among other jobs , Romijn started her modeling career in 1991 .
+
+#	NEW	caption	........ / Sadler	// <p> Sadler was born in <a> Ascot </a> , <a> Berkshire </a> , and took up television acting as a young girl .
+
+#	NEW	caption	........ / and	// They have three children : Harry Teodor , born in June 2002 , Vera , born on January 1 , 2005 and Kerstin born June 2009 .
+
+#	NEW	caption	........ / boredom and	// The film focused on the boredom and other psychological challenges of wartime , instead of being a traditional combat-action film . </p>
+
+#	NEW	caption	........ / he	// In 1997 , he played Billy Prior in the film adaptation of <a> Pat Barker </a> ' s <a> World War I </a> novel , <em> <a> Regeneration </a> </em> , and in <a> 2000 </a> he played the role of Cameron Colley in <em> <a> Complicity </a> </em> ( video title <em> Retribution </em> ) , based on the book by <a> Iain Banks </a> .
+
+#	NEW	caption	........ / He	// <p> He played to his strengths in improvisation and comedy with his one-man stage show <em> Napoleon </em> , which ran in London ' s <a> West End </a> for some time in the mid-1980s .
+
+#	NEW	caption	........ / O '	// <p> In early 2008 , O ' Connell acted in a widely circulated Internet video parody of the leaked <a> Tom Cruise </a> video on <a> Scientology </a> .
+
+#	NEW	caption	........ / Born in	// <p> Born in <a> Pittsburgh , Pennsylvania </a> to an <a> Orthodox Jewish </a> family from <a> Russia </a> , Levant moved to <a> New York </a> with his mother , Annie , in 1922 , following the death of his father , Max .
+
+#	NEW	caption	........ / Tsukamoto '	// <p> Tsukamoto ' s early films , <em> Futsu saizu no kaijin </em> ( <em> A Phantom of Regular Size </em> ) and <em> Denchu Kozo no boken </em> ( <em> The Adventures Of Electric Rod Boy </em> ) made in 198 / 87 , were short subject <a> science fiction </a> films shot on colour <a> 8 mm film </a> .
+
+#	NEW	caption	........ / in	// Filming began late 2009 , in New Zealand .
+
+#	NEW	caption	........ / Jake	// <p> <strong> Jake Thomas </strong> ( born January 30 , 1990 ) is an American actor and singer known for his roles in the television show <em> <a> Lizzie McGuire </a> </em> , in which he plays Lizzie ' s younger brother , Matt McGuire .
+
+#	NEW	caption	........ / Landon '	// <p> In February 1959 , Landon ' s father succumbed to a <a> heart attack </a> .
+
+#	NEW	caption	........ / He	// <p> He was the subject of the documentary <strong> <em> ' ( 1997 ) a film by <a> Kirby Dick </a> , ref name=Terminal / which films the final years of Bob ' s life . </em> </strong> </p>
+

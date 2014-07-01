@@ -1,2 +1,0 @@
-<li>Theatre Arts </li>
-<li>Liberal Arts</li>

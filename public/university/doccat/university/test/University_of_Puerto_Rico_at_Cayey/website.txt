@@ -1,4 +1,0 @@
-<h3>Arts</h3>
-<li>Department of Social Sciences</li>
-<h3>Natural Sciences</h3>
-<li>Natural Sciences Program</li>

@@ -1,3 +1,0 @@
-<h3>On-Campus Housing</h3>
-<li>David B. Dillard</li>
-<li>John Mendel</li>

@@ -1,6 +1,0 @@
-<li><strong>College of Business and Applied Professional Sciences</strong>
-<li>Department of Family &amp; Consumer Sciences</li>
-<li>Department of Health Sciences</li>
-<li>Department of Visual and Performing Arts</li>
-<li>Department of Biological and Physical Sciences</li>
-<li>Department of Mathematics and Computer Sciences</li>

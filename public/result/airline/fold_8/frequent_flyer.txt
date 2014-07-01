@@ -1,0 +1,33 @@
+Found: 11
+Found Not Null: 1
+Correct: 1
+Wrong: 0
+Total: 1
+precision: 1.0
+recall: 1.0
+
+
+
+#	NEW	frequent_flyer	........ / remaining 55%	// The remaining 55% stake is owned by Ricardo Martinez , who is the President of the airline . </p>
+
+#	NEW	frequent_flyer	........ / among other	// The airline also announced a frequent flyer program , Smile Awards , which offered frequent travelers free flights , among other benefits .
+
+#	NEW	frequent_flyer	........ / jubilee ]	// The uniforms were introduced for the [ [ centenary ] ] celebrations of the monarchy , as well as the airlines own [ [ silver jubilee ] ] .
+
+3	TRUE	Aero Mongolia::frequent_flyer	skymiles / bonus card	
+&quot ; SKYMILES&quot ; also refers to the bonus card which Aero Mongolian frequent flyers are given .
+
+#	NEW	frequent_flyer	........ / aircraft collapsed	// <p> On 11 August 2001 the left main landing gear of a Portugalia Fokker 100 aircraft collapsed during taxi at Lisbon Airport .
+
+#	NEW	frequent_flyer	........ / state any	// <p> The Indonesian NTSC was criticised for failing to find and state any accident cause .
+
+#	NEW	frequent_flyer	........ / Kosova Airlines	// <p> <strong> Kosova Airlines </strong> is an airline that is based in <a> Kosovo </a> .
+
+#	NEW	frequent_flyer	........ / fact but	// The pilot warned the tower of the fact but other aircraft continued to land .
+
+#	NEW	frequent_flyer	........ / MacAir Airlines	// <p> MacAir Airlines was a Qantas commercial partner .
+
+#	NEW	frequent_flyer	........ / was not	// The Debonair business concept of offering budget airline travel , whilst keeping the frills ( free drinks and snacks ) associated with national carriers , was not a financial success .
+
+#	NEW	frequent_flyer	........ / Air Cargo	// <a> &quot ; Tigers ' cargo purr&quot ; </a> , <em> Air Cargo World </em> .
+

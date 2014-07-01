@@ -1,0 +1,100 @@
+Found: 41
+Found Not Null: 6
+Correct: 0
+Wrong: 6
+Total: 7
+precision: 0.0
+recall: 0.0
+
+
+
+#	NEW	parent	........ / is an aviation company	// <p> <strong> Aero Slovakia </strong> is an aviation company based in <a> Slovakia </a> offering a range of aviation services , including air taxi operations .
+
+#	NEW	parent	........ / TESIS Aviation Enterprise	// <p> <strong> TESIS Aviation Enterprise </strong> was a <a> cargo airline </a> based in Moscow , Russia .
+
+#	NEW	parent	........ / Austrian Airlines	// In January 2005 <a> Austrian Airlines </a> acquired the majority stake ( 62% ) in the company .
+
+#	NEW	parent	........ / Braathens Aviation and	// It is wholly owned by Braathens Aviation and has 500 employees ( at March 2007 ) . </p>
+
+#	NEW	parent	........ / passengers and	// All 87 passengers and eight crew died in the crash .
+
+#	NEW	parent	........ / last MetroJet	// Once the largest carrier there , its number of scheduled flights had fallen by 60 percent by the time the last MetroJet 737 was retired in December . </p>
+
+#	NEW	parent	........ / flight crew	// The flight crew desperately tried to control the airplane as it plummeted toward the ground .
+
+#	NEW	parent	........ / flight contacted National Airlines	// At 2 : 31 AM <a> Eastern Standard Time </a> , one of the pilots on the flight contacted National Airlines company radio station at Wilmington to pass on a routine progress report .
+
+#	NEW	parent	........ / following aircraft	// <p> The Air Ukraine fleet consisted of the following aircraft ( at December 2002 ) : </p>
+
+#	NEW	parent	........ / list of	// <p> This is the list of places that Rutaca flies to ( as of September 2006 ) : </p>
+
+#	NEW	parent	........ / airline was	// <p> The airline was established in May 1997 as <em> Servicio de Transporte A&#x00e9 ; reo Regional </em> by founder , and Chief Executive , Valentin Kasyanov .
+
+#	NEW	parent	........ / on international	// <p> CAAC used the IATA code <strong> CA </strong> on international flights only , domestic flights were not prefixed with the airline code . </p>
+
+#	NEW	parent	........ / LAN Airlines	// It is a subsidiary of Chilean publicly-traded company <a> LAN Airlines </a> ( ) , which owns 49% of the airline .
+
+13	FALSE	Flyglobespan::parent	globespan group plc / with its	
+Now with its own Operating Licence , expansion was swift for the new airline .
+
+#	NEW	parent	........ / Arab Air	// <p> Palestinian Airlines is a member of the <a> Arab Air Carriers Organization </a> . </p>
+
+#	NEW	parent	........ / List of	// <p> The airline was on the <a> List of air carriers banned in the European Union </a> . </p>
+
+#	NEW	parent	........ / Regional Express Airlines	// It is a major competitor to <a> Regional Express Airlines </a> . </p>
+
+17	FALSE	PAN Air::parent	tnt express spain / airline was	
+<p> The airline was established in 1987 and started operations in December 1988 .
+
+18	FALSE	LagunAir::parent	agelco group / investors have	
+The company and the investors have received extensive local government support .
+
+#	NEW	parent	........ / airline was	// <p> The airline was founded and started operations in 1965 as <strong> Aeropesca Colombia </strong> . </p>
+
+#	NEW	parent	........ / A group	// A group of Medell&#x00ed ; n-based investors acquired the airline in 2001 and moved the headquarters to Medell&#x00ed ; n . </p>
+
+#	NEW	parent	........ / is owned by	// It is owned by Jurgen Paulmann ( 95% ) , founder , and two minority partners .
+
+#	NEW	parent	........ / airline is owned by	// The airline is owned by Khabarovsk regional administration ( 51% ) and the airline employees ( 49% ) . </p>
+
+#	NEW	parent	........ / airline employees	// It is owned by the State ( 51% ) and by the airline employees ( 40% ) . </p>
+
+24	FALSE	Bravo Air Congo::parent	bravo airlines / Bravo Air	
+<p> The destinations of the Bravo Air Congo were ( starting 11 September 2006 ) : </p>
+
+#	NEW	parent	........ / airline was	// The airline was shut down in 2006 . </p>
+
+#	NEW	parent	........ / Skyway Holdings	// It is wholly owned by Skyway Holdings and has 58 employees ( as of March 2007 ) : </p>
+
+27	FALSE	Regional 1::parent	avmax / According to its	
+<p> According to its website , Regional 1 is also looking at introducing the <a> Bombardier CRJ </a> . </p>
+
+#	NEW	parent	........ / following aircraft	// <p> The Crimea Air fleet consisted of the following aircraft ( at March 2007 ) : </p>
+
+#	NEW	parent	........ / airline was	// <p> The airline was established in 1984 and is wholly owned by the Motor Sich Joint Stock Company .
+
+#	NEW	parent	........ / Odessa Airlines	// <p> <strong> Odessa Airlines </strong> is an <a> airline </a> based in <a> Odessa </a> , <a> Ukraine </a> .
+
+#	NEW	parent	........ / Ukraine air	// <p> Ukraine air enterprise has ordered 1 Airbus A340-500 . </p>
+
+#	NEW	parent	........ / Fly Europa	// <p> <strong> Fly Europa </strong> was an <a> airline </a> based in <a> London </a> , <a> United Kingdom </a> .
+
+#	NEW	parent	........ / female pilot - the	// <p> Gulf Traveller also made history with the appointment of a female pilot - the first airline in the region to do so .
+
+#	NEW	parent	........ / Arab Air	// <p> Yemenia is a member of the <a> Arab Air Carriers Organization </a> . </p>
+
+#	NEW	parent	........ / is an	// <p> <strong> Venezolana </strong> is an <a> airline </a> based in <a> Maracaibo </a> , <a> Venezuela </a> .
+
+#	NEW	parent	........ / L&# x00ed ;	// <p> <strong> L&#x00ed ; nea Tur&#x00ed ; stica Aereotuy </strong> is an <a> airline </a> based in <a> Caracas </a> , <a> Venezuela </a> .
+
+#	NEW	parent	........ / is an	// <p> <strong> Servivensa </strong> is an <a> airline </a> based in <a> Caracas </a> , <a> Venezuela </a> .
+
+#	NEW	parent	........ / LAN Airlines	// It is owned by LAN Airlines ( 74% ) , Jochmann ( 13% ) and TADEF ( 13% ) and has 285 employees ( at March 2007 ) ref name=&quot ; FI&quot ; / . </p>
+
+39	FALSE	Air Minas Linhas Aéreas::parent	braspress / Originally as general aviation company	
+<p> Originally as general aviation company , Air Minas started its operations as a regular regional carrier on August 16 , 2006 .
+
+#	NEW	parent	........ / Commercial Aviation	// <p> <strong> - Commercial Aviation </strong> </p>
+
+#	null	parent	tavrey aircompany / ..........
+

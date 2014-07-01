@@ -1,0 +1,1116 @@
+Total articles: 456
+Articles for test: 411
+Articles for train: 45
+Total attributes: 120
+Attributes with high occurrences: 15/120
+
+------------
+Found: 482
+Found Not Null: 91
+Correct: 49
+Wrong: 42
+Total: 114
+precision: 0.5384615384615384
+recall: 0.4298245614035088
+
+
+
+0	FALSE	Northern Air Cargo::iata	nc / It	
+It operates services within Alaska and to <a> Canada </a> and mainland USA .
+
+1	FALSE	Northern Air Cargo::icao	nac / Northern	
+<p> <strong> Northern Air Cargo </strong> is an <a> American </a> <a> cargo airline </a> based in <a> Anchorage </a> , <a> Alaska </a> , <a> USA </a> .
+
+2	TRUE	Northern Air Cargo::founded	1956 / 1956	
+<p> The airline was established in 1956 as a charter freight service by Bobby Sholton and Morrie Carlson .
+
+#	NEW	hubs	........ / Seattle	// In February 2006 the airline and its subsidiaries were wholly acquired by <a> Seattle </a> -based Saltchuk Resources .
+
+#	NEW	frequent_flyer	........ / based Saltchuk	// In February 2006 the airline and its subsidiaries were wholly acquired by <a> Seattle </a> -based Saltchuk Resources .
+
+5	TRUE	Northern Air Cargo::destinations	19 / 1956	
+<p> The airline was established in 1956 as a charter freight service by Bobby Sholton and Morrie Carlson .
+
+#	NEW	parent	........ / operates services	// It operates services within Alaska and to <a> Canada </a> and mainland USA .
+
+#	NEW	key_people	........ / Alaska ' s	// It was Alaska ' s first scheduled all-cargo airline .
+
+8	FALSE	Northern Air Cargo::fleet_size	4 / 2007 ).	
+It has 289 employees ( at March 2007 ) .
+
+#	NEW	logo_size	........ / 2010	// <p> As of November 2010 the Northern Air Cargo fleet includes : </p>
+
+10	TRUE	Northern Air Cargo::airline	northern air cargo / USA	
+<p> <strong> Northern Air Cargo </strong> is an <a> American </a> <a> cargo airline </a> based in <a> Anchorage </a> , <a> Alaska </a> , <a> USA </a> .
+
+#	NEW	callsign	........ / Air	// <p> <strong> Northern Air Cargo </strong> is an <a> American </a> <a> cargo airline </a> based in <a> Anchorage </a> , <a> Alaska </a> , <a> USA </a> .
+
+#	NEW	icao	........ / DayJet	// <p> <strong> DayJet </strong> was an <a> American </a> commercial aviation operation that provided <a> on-demand jet travel </a> using <a> Eclipse 500 </a> <a> Very Light Jet </a> s .
+
+13	TRUE	DayJet::callsign	dayjet / American	
+<p> <strong> DayJet </strong> was an <a> American </a> commercial aviation operation that provided <a> on-demand jet travel </a> using <a> Eclipse 500 </a> <a> Very Light Jet </a> s .
+
+#	NEW	founded	........ / September 19 , 2008 .	// The company began operations in Florida in October 2007 and suspended operations on September 19 , 2008 . </p>
+
+15	FALSE	DayJet::destinations	60 / 2007	
+The company began operations in Florida in October 2007 and suspended operations on September 19 , 2008 . </p>
+
+#	NEW	parent	........ / commercial aviation operation	// <p> <strong> DayJet </strong> was an <a> American </a> commercial aviation operation that provided <a> on-demand jet travel </a> using <a> Eclipse 500 </a> <a> Very Light Jet </a> s .
+
+#	NEW	headquarters	........ / ,	// The company began operations in Florida in October 2007 and suspended operations on September 19 , 2008 . </p>
+
+#	NEW	key_people	........ / the 28	// The company also sold or leased out 16 of the 28 Eclipse 500s it owned . </p>
+
+#	NEW	logo_size	........ / 000	// <p> Canadian light aircraft fractional aircraft company <a> OurPlane </a> bid on the entire DayJet fleet of aircraft , offering more than &quot ; $500 , 000 each but less than $1 . 5 million&quot ; each .
+
+20	TRUE	DayJet::airline	dayjet / Jet	
+<p> <strong> DayJet </strong> was an <a> American </a> commercial aviation operation that provided <a> on-demand jet travel </a> using <a> Eclipse 500 </a> <a> Very Light Jet </a> s .
+
+#	NEW	fleet_size	........ / 500	// The first delivery of three Eclipse 500 aircraft took place on March 31 , 2007 . </p>
+
+#	NEW	airline	........ / United Airlines	// <p> <strong> United Airlines Flight 629 </strong> , registration N37559 , was a <a> Douglas DC-6 </a> B aircraft , named &quot ; Mainliner Denver , &quot ; which was blown up with a dynamite bomb placed in the checked luggage .
+
+#	NEW	icao	........ / checked	// <p> <strong> United Airlines Flight 629 </strong> , registration N37559 , was a <a> Douglas DC-6 </a> B aircraft , named &quot ; Mainliner Denver , &quot ; which was blown up with a dynamite bomb placed in the checked luggage .
+
+#	NEW	callsign	........ / United	// <p> <strong> United Airlines Flight 629 </strong> , registration N37559 , was a <a> Douglas DC-6 </a> B aircraft , named &quot ; Mainliner Denver , &quot ; which was blown up with a dynamite bomb placed in the checked luggage .
+
+#	NEW	ceased	........ / 629	// <p> <strong> United Airlines Flight 629 </strong> , registration N37559 , was a <a> Douglas DC-6 </a> B aircraft , named &quot ; Mainliner Denver , &quot ; which was blown up with a dynamite bomb placed in the checked luggage .
+
+#	NEW	founded	........ / 629	// <p> Flight 629 was the second known case of an airliner being destroyed by a bomb over the mainland <a> United States </a> .
+
+#	NEW	hubs	........ / later	// Eleven minutes later , Stapleton Airport tower controllers saw two bright lights suddenly appear in the sky north-northwest of the airport .
+
+#	NEW	frequent_flyer	........ / they were	// They also found an additional $40 , 000 in insurance policies ; however , Mrs . King had not signed either these policies or those purchased at the airport , and they were therefore worthless .
+
+#	NEW	parent	........ / minutes later	// Eleven minutes later , Stapleton Airport tower controllers saw two bright lights suddenly appear in the sky north-northwest of the airport .
+
+#	NEW	key_people	........ / speculation that	// <p> There was early speculation that something other than a mechanical problem or pilot error was responsible .
+
+#	NEW	logo_size	........ / the	// <p> <strong> United Airlines Flight 629 </strong> , registration N37559 , was a <a> Douglas DC-6 </a> B aircraft , named &quot ; Mainliner Denver , &quot ; which was blown up with a dynamite bomb placed in the checked luggage .
+
+#	NEW	airline	........ / Alitalia	// <p> On behalf of <strong> Alitalia </strong> </p>
+
+#	NEW	icao	........ / Alitalia	// <p> On behalf of <strong> Alitalia </strong> </p>
+
+34	FALSE	Transwede Airways::callsign	transwede / Alitalia	
+<p> On behalf of <strong> Alitalia </strong> </p>
+
+35	FALSE	Transwede Airways::ceased	31 march 2010 / of	
+<p> On behalf of <strong> Alitalia </strong> </p>
+
+#	NEW	founded	........ / 2010	// <p> As per 31 March 2010 the airline has decided that all activities in the company will end as Transwede has not been operating during 2010 . </p>
+
+#	NEW	hubs	........ / AB	// <p> <strong> Transwede Airways <a> AB </a> </strong> was a <a> charter airline </a> based at <a> Gothenburg-Landvetter Airport </a> in <a> Landvetter </a> , <a> H&#x00e4 ; rryda Municipality </a> , near <a> Gothenburg </a> .
+
+#	NEW	frequent_flyer	........ / Jimmie Bergqvist .	// Transwede Airways had appointed a new CEO , Trygve Gjertsen , who started January 1 , 2007 , taking over Jimmie Bergqvist . </p>
+
+#	NEW	parent	........ / airline has	// <p> As per 31 March 2010 the airline has decided that all activities in the company will end as Transwede has not been operating during 2010 . </p>
+
+#	NEW	headquarters	........ / Alitalia	// <p> On behalf of <strong> Alitalia </strong> </p>
+
+41	FALSE	Transwede Airways::fleet_size	6 / 2008 ) :	
+<p> The Transwede Airways fleet consisted of the following aircraft ( as of March 2008 ) : </p>
+
+#	NEW	logo_size	........ / 2008 ) :	// <p> The Transwede Airways fleet consisted of the following aircraft ( as of March 2008 ) : </p>
+
+#	NEW	airline	........ / U .	// Flying Service </strong> was an <a> American </a> <a> airline </a> based in <a> Haines </a> , <a> Alaska </a> , <a> U . S . </a>
+
+#	NEW	iata	........ / It	// It operated scheduled , charter and sightseeing flights in <a> Southeast Alaska </a> .
+
+45	FALSE	L.A.B. Flying Service::icao	lab / U.	
+Flying Service </strong> was an <a> American </a> <a> airline </a> based in <a> Haines </a> , <a> Alaska </a> , <a> U . S . </a>
+
+46	FALSE	L.A.B. Flying Service::callsign	lab / Flying	
+Flying Service </strong> was an <a> American </a> <a> airline </a> based in <a> Haines </a> , <a> Alaska </a> , <a> U . S . </a>
+
+47	TRUE	L.A.B. Flying Service::founded	1956 / 300	
+<p> [ [ File : Piper PA-32 Cherokee Six . jpg | thumb | [ [ Piper PA-32 ] ] -300 ( N2897X ) ] ] The airline was established and started operations in 1956 .
+
+#	NEW	hubs	........ / Haines	// Its main base was <a> Haines Airport </a> , with a hub at <a> Juneau International Airport </a> . </p>
+
+#	NEW	parent	........ / operated scheduled	// It operated scheduled , charter and sightseeing flights in <a> Southeast Alaska </a> .
+
+#	NEW	headquarters	........ / Juneau	// Its main base was <a> Haines Airport </a> , with a hub at <a> Juneau International Airport </a> . </p>
+
+#	NEW	key_people	........ / airlines in	// <p> <a> List of airlines in Alaska </a> </p>
+
+#	NEW	fleet_size	........ / 2007 .	// It had 55 employees as of March 2007 . </p>
+
+#	NEW	airline	........ / August	// <p> <strong> TWA Flight 840 </strong> was a <a> Trans World Airlines </a> flight from <a> Leonardo Da Vinci International Airport </a> in <a> Rome , Italy </a> to <a> Ben Gurion International Airport </a> in <a> Tel Aviv </a> , <a> Israel </a> , that was <a> hijacked </a> on 29 August 1969 .
+
+#	NEW	iata	........ / N28714	// The aircraft was re-registered N28714 and returned to service .
+
+#	NEW	icao	........ / TWA	// <p> <strong> TWA Flight 840 </strong> was a <a> Trans World Airlines </a> flight from <a> Leonardo Da Vinci International Airport </a> in <a> Rome , Italy </a> to <a> Ben Gurion International Airport </a> in <a> Tel Aviv </a> , <a> Israel </a> , that was <a> hijacked </a> on 29 August 1969 .
+
+#	NEW	ceased	........ / ( 1986 )	// For the 1986 bombing , see <a> TWA Flight 840 ( 1986 ) </a> . </em> </p>
+
+#	NEW	frequent_flyer	........ / returned to	// The aircraft was re-registered N28714 and returned to service .
+
+#	NEW	destinations	........ / 840	// For the 1986 bombing , see <a> TWA Flight 840 ( 1986 ) </a> . </em> </p>
+
+#	NEW	parent	........ / operation was	// The operation was successful , although Rabin was not aboard .
+
+#	NEW	key_people	........ / This article	// <p> : <em> This article is about the 1969 hijacking .
+
+#	NEW	fleet_size	........ / 1984 .	// The aircraft ' s registration was canceled in March 1984 . ref
+
+#	NEW	logo_size	........ / N28714	// The aircraft was re-registered N28714 and returned to service .
+
+#	NEW	callsign	........ / TWA	// <p> <strong> TWA Flight 840 </strong> was a <a> Trans World Airlines </a> flight from <a> Leonardo Da Vinci International Airport </a> in <a> Rome , Italy </a> to <a> Ben Gurion International Airport </a> in <a> Tel Aviv </a> , <a> Israel </a> , that was <a> hijacked </a> on 29 August 1969 .
+
+64	FALSE	XL Airways Germany::airline	xl airways germany / May	
+<p> The airline was founded as <strong> Star XL German Airlines </strong> by <a> Avion Group </a> from <a> Iceland </a> and received its <a> AOC </a> on 3 May 2006 .
+
+#	NEW	icao	........ / Group	// <p> The airline was founded as <strong> Star XL German Airlines </strong> by <a> Avion Group </a> from <a> Iceland </a> and received its <a> AOC </a> on 3 May 2006 .
+
+#	NEW	callsign	........ / Star	// <p> The airline was founded as <strong> Star XL German Airlines </strong> by <a> Avion Group </a> from <a> Iceland </a> and received its <a> AOC </a> on 3 May 2006 .
+
+#	NEW	ceased	........ / 3 May 2006 .	// <p> The airline was founded as <strong> Star XL German Airlines </strong> by <a> Avion Group </a> from <a> Iceland </a> and received its <a> AOC </a> on 3 May 2006 .
+
+68	FALSE	XL Airways Germany::founded	2006 / of	
+Operations of the German and French airline subsidiaries were not affected , however .
+
+#	NEW	parent	........ / German and	// Operations of the German and French airline subsidiaries were not affected , however .
+
+70	TRUE	XL Airways Germany::fleet_size	3 / A320	
+Previously , the fleet had consisted of <a> Airbus A320 </a> airliners . </p>
+
+#	NEW	logo_size	........ / a>	// Previously , the fleet had consisted of <a> Airbus A320 </a> airliners . </p>
+
+#	NEW	frequent_flyer	........ / French airline	// Operations of the German and French airline subsidiaries were not affected , however .
+
+#	NEW	headquarters	........ / , however .	// Operations of the German and French airline subsidiaries were not affected , however .
+
+#	NEW	key_people	........ / the German	// Operations of the German and French airline subsidiaries were not affected , however .
+
+#	NEW	airline	........ / landing	// <p> The <strong> Downend air crash </strong> occurred on 6 November 1957 when a prototype <a> Bristol Britannia </a> aircraft crashed in woods near Overndale Road in <a> Downend Village </a> , near <a> Bristol </a> , England , on its landing approach at <a> Filton airport </a> during a test flight .
+
+#	NEW	iata	........ / Britannia	// <p> The <strong> Downend air crash </strong> occurred on 6 November 1957 when a prototype <a> Bristol Britannia </a> aircraft crashed in woods near Overndale Road in <a> Downend Village </a> , near <a> Bristol </a> , England , on its landing approach at <a> Filton airport </a> during a test flight .
+
+#	NEW	icao	........ / Downend	// <p> The <strong> Downend air crash </strong> occurred on 6 November 1957 when a prototype <a> Bristol Britannia </a> aircraft crashed in woods near Overndale Road in <a> Downend Village </a> , near <a> Bristol </a> , England , on its landing approach at <a> Filton airport </a> during a test flight .
+
+#	NEW	callsign	........ / Britannia	// <p> The <strong> Downend air crash </strong> occurred on 6 November 1957 when a prototype <a> Bristol Britannia </a> aircraft crashed in woods near Overndale Road in <a> Downend Village </a> , near <a> Bristol </a> , England , on its landing approach at <a> Filton airport </a> during a test flight .
+
+#	NEW	frequent_flyer	........ / nobody was	// Despite the aircraft coming down in a residential area , nobody was killed on the ground .
+
+#	NEW	parent	........ / aircraft coming	// Despite the aircraft coming down in a residential area , nobody was killed on the ground .
+
+#	NEW	key_people	........ / fifteen onboard	// All fifteen onboard , four crew and 11 technicians died in the crash . </pre>
+
+#	NEW	logo_size	........ / the	// Despite the aircraft coming down in a residential area , nobody was killed on the ground .
+
+#	NEW	founded	........ / 1957	// <p> The <strong> Downend air crash </strong> occurred on 6 November 1957 when a prototype <a> Bristol Britannia </a> aircraft crashed in woods near Overndale Road in <a> Downend Village </a> , near <a> Bristol </a> , England , on its landing approach at <a> Filton airport </a> during a test flight .
+
+#	NEW	destinations	........ / 6	// <p> The <strong> Downend air crash </strong> occurred on 6 November 1957 when a prototype <a> Bristol Britannia </a> aircraft crashed in woods near Overndale Road in <a> Downend Village </a> , near <a> Bristol </a> , England , on its landing approach at <a> Filton airport </a> during a test flight .
+
+#	NEW	fleet_size	........ / 6	// <p> The <strong> Downend air crash </strong> occurred on 6 November 1957 when a prototype <a> Bristol Britannia </a> aircraft crashed in woods near Overndale Road in <a> Downend Village </a> , near <a> Bristol </a> , England , on its landing approach at <a> Filton airport </a> during a test flight .
+
+86	TRUE	Challenge Aero::airline	challenge aero / Ukraine	
+<p> <strong> Challenge Aero </strong> is an <a> airline </a> based in <a> Kiev </a> , <a> Ukraine </a> .
+
+87	FALSE	Challenge Aero::iata	- / It	
+It operates charter flights within <a> Ukraine </a> and to neighbouring <a> CIS </a> countries . </p>
+
+#	NEW	icao	........ / Ukraine	// <p> <strong> Challenge Aero </strong> is an <a> airline </a> based in <a> Kiev </a> , <a> Ukraine </a> .
+
+#	NEW	callsign	........ / Aero	// <p> <strong> Challenge Aero </strong> is an <a> airline </a> based in <a> Kiev </a> , <a> Ukraine </a> .
+
+90	TRUE	Challenge Aero::founded	2002 / 2002.	
+<p> Challenge Aero airline was established in 2002 .
+
+#	NEW	hubs	........ / airline	// <p> <strong> Challenge Aero </strong> is an <a> airline </a> based in <a> Kiev </a> , <a> Ukraine </a> .
+
+#	NEW	frequent_flyer	........ / providing services	// However , the airline now holds the leading position in business aviation and providing services for VIP passengers .
+
+#	NEW	parent	........ / Challenge Aero	// <p> <strong> Challenge Aero </strong> is an <a> airline </a> based in <a> Kiev </a> , <a> Ukraine </a> .
+
+#	NEW	key_people	........ / the airline	// However , the airline now holds the leading position in business aviation and providing services for VIP passengers .
+
+#	NEW	fleet_size	........ / 2006 ) :	// <p> The Challenge Aero fleet consists of the following aircraft ( at November 2006 ) : </p>
+
+#	NEW	logo_size	........ / 2006 ) :	// <p> The Challenge Aero fleet consists of the following aircraft ( at November 2006 ) : </p>
+
+97	TRUE	Blu-express::airline	blu-express / Italy	
+<p> <strong> Blu-Express </strong> is a <a> low cost airline </a> based in <a> Rome </a> , <a> Italy </a> .
+
+#	NEW	iata	........ / Blue	// It is the low cost arm of <a> Blue Panorama Airlines </a> and operates domestic and international services .
+
+#	NEW	icao	........ / Blu-	// <p> <strong> Blu-Express </strong> is a <a> low cost airline </a> based in <a> Rome </a> , <a> Italy </a> .
+
+100	FALSE	Blu-express::callsign	blue panorama / Blu- Express	
+<p> <strong> Blu-Express </strong> is a <a> low cost airline </a> based in <a> Rome </a> , <a> Italy </a> .
+
+#	NEW	hubs	........ / Airlines	// It is the low cost arm of <a> Blue Panorama Airlines </a> and operates domestic and international services .
+
+#	NEW	frequent_flyer	........ / Blu- express	// <p> As of September 2009 , the Blu-express fleet includes : </p>
+
+#	NEW	key_people	........ / September 2009	// <p> As of September 2009 , the Blu-express fleet includes : </p>
+
+#	NEW	fleet_size	........ / 2009	// <p> As of September 2009 , the Blu-express fleet includes : </p>
+
+105	TRUE	Blu-express::logo_size	200 / 2009	
+<p> As of September 2009 , the Blu-express fleet includes : </p>
+
+#	NEW	parent	........ / low cost	// <p> <strong> Blu-Express </strong> is a <a> low cost airline </a> based in <a> Rome </a> , <a> Italy </a> .
+
+107	FALSE	Avianca Cargo::iata	- / It	
+<p> It also includes more than 400 sales points with the easiest access and comfort needed to offer a fast and timely service .
+
+108	FALSE	Avianca Cargo::icao	- / Avianca	
+<p> <strong> Avianca Cargo </strong> is a <a> cargo airline </a> based at <a> El Dorado International Airport </a> in <a> Bogot&#x00e1 ; </a> , <a> Colombia </a> .
+
+109	FALSE	Avianca Cargo::callsign	- / Avianca	
+<p> <strong> Avianca Cargo </strong> is a <a> cargo airline </a> based at <a> El Dorado International Airport </a> in <a> Bogot&#x00e1 ; </a> , <a> Colombia </a> .
+
+#	NEW	founded	........ / Colombian	// <p> In <a> Colombian </a> <a> Spanish </a> , the words that made up the airline ' s former name , &quot ; Deprisa&quot ; , mean &quot ; in a hurry&quot ; , hence implying that the airline would move your cargo speedily . </p>
+
+#	NEW	hubs	........ / Current	// <p> : <em> Main article : <a> Avianca - Fleet - Current </a> </em> </p>
+
+#	NEW	headquarters	........ / Current	// <p> : <em> Main article : <a> Avianca - Fleet - Current </a> </em> </p>
+
+#	NEW	key_people	........ / than 400	// <p> It also includes more than 400 sales points with the easiest access and comfort needed to offer a fast and timely service .
+
+#	NEW	fleet_size	........ / Fleet -	// <p> : <em> Main article : <a> Avianca - Fleet - Current </a> </em> </p>
+
+#	NEW	logo_size	........ / a>	// <p> : <em> Main article : <a> Avianca - Fleet - Current </a> </em> </p>
+
+#	NEW	frequent_flyer	........ / comfort needed	// <p> It also includes more than 400 sales points with the easiest access and comfort needed to offer a fast and timely service .
+
+#	NEW	parent	........ / It also	// <p> It also includes more than 400 sales points with the easiest access and comfort needed to offer a fast and timely service .
+
+118	TRUE	Arik Air::airline	arik air / Air	
+<p> <strong> Arik Air </strong> is a <a> Nigeria </a> n <a> airline </a> operating a domestic , regional and international flight network .
+
+#	NEW	icao	........ / Arik	// <p> <strong> Arik Air </strong> is a <a> Nigeria </a> n <a> airline </a> operating a domestic , regional and international flight network .
+
+120	TRUE	Arik Air::callsign	arik air / Air	
+<p> <strong> Arik Air </strong> is a <a> Nigeria </a> n <a> airline </a> operating a domestic , regional and international flight network .
+
+#	NEW	founded	........ / 2006 7 January 2007 .	// Flight operations began to <a> Calabar </a> on 15 November 2006 and services to <a> Benin City </a> and <a> Enugu </a> started on 7 January 2007 .
+
+#	NEW	hubs	........ / Mohammed	// It operates mainly from two hubs at <a> Murtala Mohammed International Airport </a> , Lagos and <a> Nnamdi Azikiwe International Airport </a> , Abuja .
+
+#	NEW	parent	........ / Arik Air	// <p> <strong> Arik Air </strong> is a <a> Nigeria </a> n <a> airline </a> operating a domestic , regional and international flight network .
+
+#	NEW	key_people	........ / Ojemai Investments .	// The airline is wholly owned by Ojemai Investments . </p>
+
+#	NEW	fleet_size	........ / 2010 ) :	// The Arik Air fleet includes the following aircraft ( at December 2010 ) : </p>
+
+#	NEW	logo_size	........ / 2010 ) :	// The Arik Air fleet includes the following aircraft ( at December 2010 ) : </p>
+
+127	TRUE	Shanghai Airlines Cargo::airline	shanghai airlines cargo / Airlines Cargo	
+<p> <strong> Shanghai Airlines Cargo </strong> ( &#x4e0a ; &#x6d77 ; &#x822a ; &#x7a7a ; &#x80a1 ; &#x4efd ; &#x6709 ; &#x9650 ; &#x516c ; &#x53f8 ; ) is a <a> cargo airline </a> based in the <a> People ' s Republic of China </a> .
+
+#	NEW	icao	........ / Shanghai	// <p> <strong> Shanghai Airlines Cargo </strong> ( &#x4e0a ; &#x6d77 ; &#x822a ; &#x7a7a ; &#x80a1 ; &#x4efd ; &#x6709 ; &#x9650 ; &#x516c ; &#x53f8 ; ) is a <a> cargo airline </a> based in the <a> People ' s Republic of China </a> .
+
+#	NEW	callsign	........ / Shanghai	// <p> <strong> Shanghai Airlines Cargo </strong> ( &#x4e0a ; &#x6d77 ; &#x822a ; &#x7a7a ; &#x80a1 ; &#x4efd ; &#x6709 ; &#x9650 ; &#x516c ; &#x53f8 ; ) is a <a> cargo airline </a> based in the <a> People ' s Republic of China </a> .
+
+#	NEW	founded	........ / 2006 .	// A joint venture between <a> Shanghai Airlines </a> and <a> EVA Air </a> of the <a> Evergreen Group </a> based in <a> Taiwan </a> , <a> Republic of China </a> , it was established in June 2006 . </p>
+
+#	NEW	hubs	........ / Airlines	// A joint venture between <a> Shanghai Airlines </a> and <a> EVA Air </a> of the <a> Evergreen Group </a> based in <a> Taiwan </a> , <a> Republic of China </a> , it was established in June 2006 . </p>
+
+#	NEW	parent	........ / Shanghai Airlines	// <p> Shanghai Airlines Cargo serves the following : </p>
+
+#	NEW	key_people	........ / Shanghai Airlines	// <p> Shanghai Airlines Cargo serves the following : </p>
+
+134	FALSE	Shanghai Airlines Cargo::fleet_size	6 / Airlines	
+<p> Shanghai Airlines Cargo serves the following : </p>
+
+#	NEW	logo_size	........ / </	// <p> Shanghai Airlines Cargo serves the following : </p>
+
+#	NEW	airline	........ / Air	// <p> <strong> Galaxy Air , Ltd </strong> ( ) was an Airline based in <a> Kyrgyzstan </a> . </p>
+
+#	NEW	icao	........ / Kyrgyzstan	// <p> <strong> Galaxy Air , Ltd </strong> ( ) was an Airline based in <a> Kyrgyzstan </a> . </p>
+
+#	NEW	callsign	........ / Ltd	// <p> <strong> Galaxy Air , Ltd </strong> ( ) was an Airline based in <a> Kyrgyzstan </a> . </p>
+
+#	NEW	founded	........ / 2006 5 March 2007	// <p> Due to the European Union placing all 27 airlines registered in Kyrgyzstan on the banned airline list on 12 October 2006 , and those airlines still appearing on the list as of 5 March 2007 , the airline has been forced to scale back its schedule . </pre>
+
+#	NEW	parent	........ / Galaxy Air	// <p> <strong> Galaxy Air , Ltd </strong> ( ) was an Airline based in <a> Kyrgyzstan </a> . </p>
+
+#	NEW	fleet_size	........ / 2007	// <p> As of May 2007 , the Galaxy Air fleet includes the following : </p>
+
+#	NEW	logo_size	........ / 2007	// <p> As of May 2007 , the Galaxy Air fleet includes the following : </p>
+
+#	NEW	destinations	........ / 2007	// <p> As of May 2007 , Galaxy Air operates scheduled cargo flights to the following destinations : </p>
+
+#	NEW	headquarters	........ / Kyrgyzstan	// <p> <strong> Galaxy Air , Ltd </strong> ( ) was an Airline based in <a> Kyrgyzstan </a> . </p>
+
+#	NEW	key_people	........ / Galaxy Air	// <p> <strong> Galaxy Air , Ltd </strong> ( ) was an Airline based in <a> Kyrgyzstan </a> . </p>
+
+#	NEW	airline	........ / USA	// <p> <strong> Cargo 360 </strong> was a <a> cargo airline </a> based in <a> Seattle </a> , <a> Washington </a> , <a> USA </a> .
+
+#	NEW	iata	........ / It	// It specialised in ACMI ( Aircraft , Crew , Maintenance , and Insurance ) <a> wet lease </a> operations .
+
+#	NEW	icao	........ / Cargo	// <p> <strong> Cargo 360 </strong> was a <a> cargo airline </a> based in <a> Seattle </a> , <a> Washington </a> , <a> USA </a> .
+
+#	NEW	callsign	........ / Cargo	// <p> <strong> Cargo 360 </strong> was a <a> cargo airline </a> based in <a> Seattle </a> , <a> Washington </a> , <a> USA </a> .
+
+#	NEW	ceased	........ / 360	// <p> <strong> Cargo 360 </strong> was a <a> cargo airline </a> based in <a> Seattle </a> , <a> Washington </a> , <a> USA </a> .
+
+#	NEW	founded	........ / 15 May 2006 .	// <p> The airline started operations on 15 May 2006 .
+
+#	NEW	destinations	........ / 15	// <p> The airline started operations on 15 May 2006 .
+
+#	NEW	headquarters	........ / Tacoma	// Its main headquarters was <a> Seattle-Tacoma International Airport </a> . </p>
+
+#	NEW	key_people	........ / The airline	// <p> The airline started operations on 15 May 2006 .
+
+#	NEW	fleet_size	........ / 2007	// <p> As of September 2007 the Cargo 360 fleet includedref name=&quot ; FI&quot ; / : </p>
+
+#	NEW	logo_size	........ / 15	// <p> The airline started operations on 15 May 2006 .
+
+#	NEW	hubs	........ / Tacoma	// Its main headquarters was <a> Seattle-Tacoma International Airport </a> . </p>
+
+#	NEW	parent	........ / cargo airline	// <p> <strong> Cargo 360 </strong> was a <a> cargo airline </a> based in <a> Seattle </a> , <a> Washington </a> , <a> USA </a> .
+
+159	TRUE	Bravo Airlines::airline	bravo airlines / Africa	
+<p> <strong> Bravo Airlines </strong> was an <a> airline </a> based in <a> Madrid </a> , <a> Spain </a> operating long-haul passenger and cargo services between <a> Europe </a> and <a> Africa </a> .
+
+#	NEW	callsign	........ / Bravo	// <p> <strong> Bravo Airlines </strong> was an <a> airline </a> based in <a> Madrid </a> , <a> Spain </a> operating long-haul passenger and cargo services between <a> Europe </a> and <a> Africa </a> .
+
+#	NEW	ceased	........ / 2006 .	// <p> The airline was created in <a> 2004 </a> and started operations in May 2006 .
+
+#	NEW	founded	........ / 2004	// <p> The airline was created in <a> 2004 </a> and started operations in May 2006 .
+
+#	NEW	hubs	........ / Barajas	// Its main base was <a> Madrid Barajas International Airport </a> . </p>
+
+#	NEW	parent	........ / Bravo Air	// Flights will connect with domestic and regional services operated by sister company <a> Bravo Air Congo </a> ref name=&quot ; FI&quot ; / .
+
+#	NEW	headquarters	........ / Barajas	// Its main base was <a> Madrid Barajas International Airport </a> . </p>
+
+#	NEW	key_people	........ / The airline	// <p> The airline was created in <a> 2004 </a> and started operations in May 2006 .
+
+167	TRUE	Bravo Airlines::fleet_size	1 / 21	
+<p> The Bravo Airlines fleet included the following aircraft ( as of 21 September 2008 ) : [ <a> http : / /www . ch-aviation . c / aircraft . php ? search=set&amp ; airline=BRV&amp ; al_op=1 </a> ] </p>
+
+#	NEW	logo_size	........ / a>	// <p> The Bravo Airlines fleet included the following aircraft ( as of 21 September 2008 ) : [ <a> http : / /www . ch-aviation . c / aircraft . php ? search=set&amp ; airline=BRV&amp ; al_op=1 </a> ] </p>
+
+169	TRUE	Bravo Airlines::icao	- / Spain	
+<p> <strong> Bravo Airlines </strong> was an <a> airline </a> based in <a> Madrid </a> , <a> Spain </a> operating long-haul passenger and cargo services between <a> Europe </a> and <a> Africa </a> .
+
+#	NEW	airline	........ / after	// <p> On October 8 , 1979 , <strong> Comair Flight 444 </strong> , a <a> Piper PA-31 Navajo </a> , crashed shortly after takeoff from <a> Greater Cincinnati Airport </a> .
+
+#	NEW	iata	........ / pilot '	// Contributing factors were the pilot ' s inexperience with multi-engine aircraft , a hurried departure , inadequate training , inexperienced company management , ineffective FAA certification and surveillance of the operator ( Comair ) . </p>
+
+#	NEW	icao	........ / PA-	// <p> On October 8 , 1979 , <strong> Comair Flight 444 </strong> , a <a> Piper PA-31 Navajo </a> , crashed shortly after takeoff from <a> Greater Cincinnati Airport </a> .
+
+#	NEW	callsign	........ / Comair	// <p> On October 8 , 1979 , <strong> Comair Flight 444 </strong> , a <a> Piper PA-31 Navajo </a> , crashed shortly after takeoff from <a> Greater Cincinnati Airport </a> .
+
+#	NEW	ceased	........ / 444	// <p> On October 8 , 1979 , <strong> Comair Flight 444 </strong> , a <a> Piper PA-31 Navajo </a> , crashed shortly after takeoff from <a> Greater Cincinnati Airport </a> .
+
+#	NEW	destinations	........ / 18	// <p> The flight was cleared to runway 18 shortly after 10 : 06 .
+
+#	NEW	parent	........ / Piper PA-	// <p> On October 8 , 1979 , <strong> Comair Flight 444 </strong> , a <a> Piper PA-31 Navajo </a> , crashed shortly after takeoff from <a> Greater Cincinnati Airport </a> .
+
+#	NEW	key_people	........ / October 8	// <p> On October 8 , 1979 , <strong> Comair Flight 444 </strong> , a <a> Piper PA-31 Navajo </a> , crashed shortly after takeoff from <a> Greater Cincinnati Airport </a> .
+
+#	NEW	fleet_size	........ / 31	// <p> The Piper PA-31 Navajo , tail number N6642L was an aircraft used for commuter flights .
+
+#	NEW	logo_size	........ / and	// The aircraft rolled to the right and impacted the ground .
+
+#	NEW	hubs	........ / Hebron	// Flight 444 was scheduled between <a> Hebron , Kentucky </a> ' s Greater Cincinnati Airport ( <a> Cincinnati , Ohio </a> area ) and <a> Nashville , Tennessee </a> .
+
+#	NEW	headquarters	........ / Cincinnati	// <p> On October 8 , 1979 , <strong> Comair Flight 444 </strong> , a <a> Piper PA-31 Navajo </a> , crashed shortly after takeoff from <a> Greater Cincinnati Airport </a> .
+
+182	TRUE	Omni – Aviação e Tecnologia::callsign	omni / national	
+<p> <strong> Omni - Avia&#x00e7 ; &#x00e3 ; o e Tecnologia </strong> was incorporated in <a> Portugal </a> in 1988 and has developed from a single-contrac / single-client seasonal provider , to a group of 11 companies and a key-player in the national aviation sector , involving a staff complement of 400 personnel and an annual turnover of 90 million euros . </p>
+
+183	FALSE	Omni – Aviação e Tecnologia::founded	1988 / 2010	
+<p> In 2010 Omni established with a Brazilian investor the Brazilian charter airline <a> Whitejets </a> , which will operate , as of June 2010 flights from Brazil to the Caribbean . </p>
+
+#	NEW	destinations	........ / 2010	// <p> In 2010 Omni established with a Brazilian investor the Brazilian charter airline <a> Whitejets </a> , which will operate , as of June 2010 flights from Brazil to the Caribbean . </p>
+
+#	NEW	parent	........ / TAP Portugal	// <p> Star Alliance carrier <a> TAP Portugal </a> has reached an agreement to sell its charter operation <a> White Airways </a> to Portuguese multi-sector aviation company Omni .
+
+#	NEW	key_people	........ / The Omni -	// <p> The Omni - Aviacao e Tecnologia fleet includes the following aircraft ( at April 2008 ) : </p>
+
+187	FALSE	Omni – Aviação e Tecnologia::fleet_size	45 / 2008 ) :	
+<p> The Omni - Aviacao e Tecnologia fleet includes the following aircraft ( at April 2008 ) : </p>
+
+#	NEW	logo_size	........ / 2008 ) :	// <p> The Omni - Aviacao e Tecnologia fleet includes the following aircraft ( at April 2008 ) : </p>
+
+#	NEW	airline	........ / Avia&#	// <p> <strong> Omni - Avia&#x00e7 ; &#x00e3 ; o e Tecnologia </strong> was incorporated in <a> Portugal </a> in 1988 and has developed from a single-contrac / single-client seasonal provider , to a group of 11 companies and a key-player in the national aviation sector , involving a staff complement of 400 personnel and an annual turnover of 90 million euros . </p>
+
+#	NEW	icao	........ / million	// <p> <strong> Omni - Avia&#x00e7 ; &#x00e3 ; o e Tecnologia </strong> was incorporated in <a> Portugal </a> in 1988 and has developed from a single-contrac / single-client seasonal provider , to a group of 11 companies and a key-player in the national aviation sector , involving a staff complement of 400 personnel and an annual turnover of 90 million euros . </p>
+
+191	TRUE	Cosmos Air Cargo::airline	cosmos air cargo / Air Cargo	
+<p> <strong> Cosmos Air Cargo </strong> is a <a> cargo airline </a> based at <a> El Dorado International Airport </a> in <a> Bogot&#x00e1 ; </a> , <a> Colombia </a> .
+
+#	NEW	iata	........ / at	// <p> <strong> Cosmos Air Cargo </strong> is a <a> cargo airline </a> based at <a> El Dorado International Airport </a> in <a> Bogot&#x00e1 ; </a> , <a> Colombia </a> .
+
+#	NEW	icao	........ / Cosmos	// <p> <strong> Cosmos Air Cargo </strong> is a <a> cargo airline </a> based at <a> El Dorado International Airport </a> in <a> Bogot&#x00e1 ; </a> , <a> Colombia </a> .
+
+#	NEW	callsign	........ / Air	// <p> <strong> Cosmos Air Cargo </strong> is a <a> cargo airline </a> based at <a> El Dorado International Airport </a> in <a> Bogot&#x00e1 ; </a> , <a> Colombia </a> .
+
+#	NEW	hubs	........ / September	// <p> Cosmos Air Cargo ( Transporte A&#x00e9 ; reo de Carga COSMOS ) fleet consists of the following aircraft ( at September 2005 ) : </p>
+
+#	NEW	destinations	........ / 2005 ) :	// <p> Cosmos Air Cargo ( Transporte A&#x00e9 ; reo de Carga COSMOS ) fleet consists of the following aircraft ( at September 2005 ) : </p>
+
+#	NEW	parent	........ / Cosmos Air	// <p> Cosmos Air Cargo ( Transporte A&#x00e9 ; reo de Carga COSMOS ) fleet consists of the following aircraft ( at September 2005 ) : </p>
+
+#	NEW	key_people	........ / Cosmos Air	// <p> Cosmos Air Cargo ( Transporte A&#x00e9 ; reo de Carga COSMOS ) fleet consists of the following aircraft ( at September 2005 ) : </p>
+
+#	NEW	fleet_size	........ / 2005 ) :	// <p> Cosmos Air Cargo ( Transporte A&#x00e9 ; reo de Carga COSMOS ) fleet consists of the following aircraft ( at September 2005 ) : </p>
+
+#	NEW	logo_size	........ / 2005 ) :	// <p> Cosmos Air Cargo ( Transporte A&#x00e9 ; reo de Carga COSMOS ) fleet consists of the following aircraft ( at September 2005 ) : </p>
+
+#	NEW	airline	........ / SADELCA	// <p> <strong> SADELCA </strong> ( Sociedad A&#x00e9 ; rea Del Caquet&#x00e1 ; ) is a <a> cargo airline </a> based at <a> El Dorado International Airport </a> in <a> Bogot&#x00e1 ; </a> , <a> Colombia </a> . </p>
+
+#	NEW	icao	........ / SADELCA	// <p> <strong> SADELCA </strong> ( Sociedad A&#x00e9 ; rea Del Caquet&#x00e1 ; ) is a <a> cargo airline </a> based at <a> El Dorado International Airport </a> in <a> Bogot&#x00e1 ; </a> , <a> Colombia </a> . </p>
+
+#	NEW	callsign	........ / SADELCA	// <p> <strong> SADELCA </strong> ( Sociedad A&#x00e9 ; rea Del Caquet&#x00e1 ; ) is a <a> cargo airline </a> based at <a> El Dorado International Airport </a> in <a> Bogot&#x00e1 ; </a> , <a> Colombia </a> . </p>
+
+#	NEW	ceased	........ / 2006	// <p> As of August <a> 2006 </a> the SADELCA fleet includes : </p>
+
+#	NEW	hubs	........ / 2006	// <p> As of August <a> 2006 </a> the SADELCA fleet includes : </p>
+
+#	NEW	frequent_flyer	........ / SADELCA fleet	// <p> As of August <a> 2006 </a> the SADELCA fleet includes : </p>
+
+#	NEW	parent	........ / SADELCA fleet	// <p> As of August <a> 2006 </a> the SADELCA fleet includes : </p>
+
+#	NEW	key_people	........ / the SADELCA	// <p> As of August <a> 2006 </a> the SADELCA fleet includes : </p>
+
+#	NEW	fleet_size	........ / 2006	// <p> As of August <a> 2006 </a> the SADELCA fleet includes : </p>
+
+#	NEW	logo_size	........ / 2006	// <p> As of August <a> 2006 </a> the SADELCA fleet includes : </p>
+
+211	FALSE	AeroSur (Colombia)::iata	- / at	
+<p> <strong> AeroSur </strong> is a <a> cargo airline </a> based at <a> El Dorado International Airport </a> in <a> Bogot&#x00e1 ; </a> , <a> Colombia </a> . </p>
+
+212	FALSE	AeroSur (Colombia)::icao	- / AeroSur	
+<p> <strong> AeroSur </strong> is a <a> cargo airline </a> based at <a> El Dorado International Airport </a> in <a> Bogot&#x00e1 ; </a> , <a> Colombia </a> . </p>
+
+213	FALSE	AeroSur (Colombia)::callsign	- / AeroSur	
+<p> <strong> AeroSur </strong> is a <a> cargo airline </a> based at <a> El Dorado International Airport </a> in <a> Bogot&#x00e1 ; </a> , <a> Colombia </a> . </p>
+
+#	NEW	ceased	........ / 2006	// <p> The AeroSur fleet consists of the following aircraft ( at September <a> 2006 </a> ) .
+
+#	NEW	hubs	........ / 2006	// <p> The AeroSur fleet consists of the following aircraft ( at September <a> 2006 </a> ) .
+
+#	NEW	destinations	........ / 2006	// <p> The AeroSur fleet consists of the following aircraft ( at September <a> 2006 </a> ) .
+
+#	NEW	parent	........ / that aircraft	// Note that aircraft are rented from other Colombian carriers : An-32s belong to SAEP and B727 and B737 belong to Aerosucre : </p>
+
+#	NEW	headquarters	........ / September	// <p> The AeroSur fleet consists of the following aircraft ( at September <a> 2006 </a> ) .
+
+#	NEW	fleet_size	........ / 2006	// <p> The AeroSur fleet consists of the following aircraft ( at September <a> 2006 </a> ) .
+
+#	NEW	logo_size	........ / 2006	// <p> The AeroSur fleet consists of the following aircraft ( at September <a> 2006 </a> ) .
+
+#	NEW	key_people	........ / The AeroSur	// <p> The AeroSur fleet consists of the following aircraft ( at September <a> 2006 </a> ) .
+
+222	TRUE	Air Norway::airline	air norway / in	
+<p> <strong> Air Norway AS </strong> is a <a> virtual </a> , <a> regional airline </a> based at <a> &#x00d8 ; rland Airport </a> in the town of <a> Brekstad </a> , the administrative centre of the <a> municipality </a> of <a> &#x00d8 ; rland </a> , in <a> S&#x00f8 ; r-Tr&#x00f8 ; ndelag </a> county , <a> Norway </a> .
+
+223	TRUE	Air Norway::founded	2003 / 2003.	
+The airline was established in 2003 .
+
+#	NEW	iata	........ / commenced	// Scheduled services from &#x00d8 ; rland to Oslo commenced on 23 May 2003 .
+
+#	NEW	icao	........ / r-	// <p> <strong> Air Norway AS </strong> is a <a> virtual </a> , <a> regional airline </a> based at <a> &#x00d8 ; rland Airport </a> in the town of <a> Brekstad </a> , the administrative centre of the <a> municipality </a> of <a> &#x00d8 ; rland </a> , in <a> S&#x00f8 ; r-Tr&#x00f8 ; ndelag </a> county , <a> Norway </a> .
+
+226	FALSE	Air Norway::callsign	north flying / Air	
+<p> <strong> Air Norway AS </strong> is a <a> virtual </a> , <a> regional airline </a> based at <a> &#x00d8 ; rland Airport </a> in the town of <a> Brekstad </a> , the administrative centre of the <a> municipality </a> of <a> &#x00d8 ; rland </a> , in <a> S&#x00f8 ; r-Tr&#x00f8 ; ndelag </a> county , <a> Norway </a> .
+
+#	NEW	ceased	........ / 2003 .	// The airline was established in 2003 .
+
+#	NEW	hubs	........ / Station	// &#x00d8 ; rland Airport is the civilian section of the military <a> &#x00d8 ; rland Main Air Station </a> .
+
+#	NEW	frequent_flyer	........ / per	// When this was granted , it saved the company NOK&nbsp ; 540 , 000 per year .
+
+#	NEW	parent	........ / main customer group	// Traditionally , the main customer group for Air Norway has been military personnel .
+
+#	NEW	key_people	........ / the Municipality	// <p> The airline is owned 40% by Nordic Air , 40% by the Municipality of &#x00d8 ; rland and 20% by North Flying .
+
+232	FALSE	Air Norway::fleet_size	1 / 2009.	
+Following the bankruptcy of <a> Coast Air </a> in January 2008 , the airline stepped in and was serving <a> Fagernes Airport , Leirin </a> with two daily flights to <a> Oslo </a> , and one daily flight to <a> Trondheim </a> , but these were terminated in 2009 . </p>
+
+#	NEW	logo_size	........ / </	// From 1 April 2009 , the Fagernes PSO contract was lost to <a> DOT LT </a> , and Air Norway terminated those routes . </p>
+
+234	FALSE	Air Norway::destinations	3 / 2009.	
+Following the bankruptcy of <a> Coast Air </a> in January 2008 , the airline stepped in and was serving <a> Fagernes Airport , Leirin </a> with two daily flights to <a> Oslo </a> , and one daily flight to <a> Trondheim </a> , but these were terminated in 2009 . </p>
+
+235	TRUE	CHC Helikopter Service::airline	chc helikopter service / Service	
+<p> <strong> CHC Helikopter Service </strong> , previously <strong> CHC Norway </strong> , <strong> CHC Helikopter Service </strong> and <strong> Helikopter Service </strong> is the Norwegian division of <a> CHC Helicopter Corporation </a> .
+
+#	NEW	iata	........ / It	// It also operated a <a> public service obligation </a> on the route <a> Bod&#x00f8 ; </a> - <a> V&#x00e6 ; r&#x00f8 ; y </a> and the national rescue helicopter service for some years . </p>
+
+#	NEW	icao	........ / Corporation	// <p> <strong> CHC Helikopter Service </strong> , previously <strong> CHC Norway </strong> , <strong> CHC Helikopter Service </strong> and <strong> Helikopter Service </strong> is the Norwegian division of <a> CHC Helicopter Corporation </a> .
+
+#	NEW	callsign	........ / Helikopter	// <p> <strong> CHC Helikopter Service </strong> , previously <strong> CHC Norway </strong> , <strong> CHC Helikopter Service </strong> and <strong> Helikopter Service </strong> is the Norwegian division of <a> CHC Helicopter Corporation </a> .
+
+#	NEW	hubs	........ / Canada	// Though the global headquarters are in Richmond , B . C . , <a> Canada </a> , the company has its main base at <a> Stavanger Airport , Sola </a> . </p>
+
+#	NEW	frequent_flyer	........ / current CHC	// <p> On the 26 october 2010 the name was changed back to the current CHC Helikopter Service .
+
+#	NEW	destinations	........ / 1993	// In 1993 it also started operating the <a> Eurocopter Dauphin </a> with possibilities for search and rescue purposes .
+
+#	NEW	key_people	........ / Scandinavian Airlines	// The airline had by then been acquired by <a> Scandinavian Airlines </a> and <a> Fred .
+
+#	NEW	logo_size	........ / 2009	// <p> On 2 April 2009 the name was again changed to CHC Norway . </p>
+
+244	FALSE	CHC Helikopter Service::founded	1956 / 1993	
+In 1993 it also started operating the <a> Eurocopter Dauphin </a> with possibilities for search and rescue purposes .
+
+#	NEW	parent	........ / Scancopter- Service	// <p> The company started out operating under the name <strong> Scancopter-Service </strong> / S in 1956 , using various small helicopters .
+
+#	NEW	icao	........ / Hawaii	// <p> <strong> Mahalo Air </strong> was an airline that provided inter-island service within the state of <a> Hawaii </a> between 1993 and 1997 .
+
+247	TRUE	Mahalo Air::callsign	mahalo / provided inter-	
+<p> <strong> Mahalo Air </strong> was an airline that provided inter-island service within the state of <a> Hawaii </a> between 1993 and 1997 .
+
+248	TRUE	Mahalo Air::ceased	1997 / 1997.	
+<p> <strong> Mahalo Air </strong> was an airline that provided inter-island service within the state of <a> Hawaii </a> between 1993 and 1997 .
+
+249	TRUE	Mahalo Air::founded	1993 / 1993	
+The airline started service on October 4 , 1993 , using <a> Fokker F27 </a> turboprop aircraft operated by <a> Empire Airlines </a> while awaiting its own certification .
+
+#	NEW	destinations	........ / 1993	// The airline started service on October 4 , 1993 , using <a> Fokker F27 </a> turboprop aircraft operated by <a> Empire Airlines </a> while awaiting its own certification .
+
+#	NEW	parent	........ / Mahalo Air	// <p> <strong> Mahalo Air </strong> was an airline that provided inter-island service within the state of <a> Hawaii </a> between 1993 and 1997 .
+
+#	NEW	key_people	........ / May 31	// On May 31 , 1994 , the agreement with Empire ran out , shutting down the airline .
+
+#	NEW	fleet_size	........ / 4	// The airline started service on October 4 , 1993 , using <a> Fokker F27 </a> turboprop aircraft operated by <a> Empire Airlines </a> while awaiting its own certification .
+
+#	NEW	logo_size	........ / a>	// The airline started service on October 4 , 1993 , using <a> Fokker F27 </a> turboprop aircraft operated by <a> Empire Airlines </a> while awaiting its own certification .
+
+#	NEW	iata	........ / Fokker	// The airline started service on October 4 , 1993 , using <a> Fokker F27 </a> turboprop aircraft operated by <a> Empire Airlines </a> while awaiting its own certification .
+
+256	TRUE	AIRES::airline	aires / de	
+<p> <strong> AIRES </strong> ( <a> Acronym </a> : <em> Aerov&#x00ed ; as de Integraci&#x00f3 ; n Regional </em> , lit .
+
+#	NEW	iata	........ / It	// It operates scheduled regional domestic and international services , as well as a domestic cargo service .
+
+258	FALSE	AIRES::icao	are / as	
+<p> <strong> AIRES </strong> ( <a> Acronym </a> : <em> Aerov&#x00ed ; as de Integraci&#x00f3 ; n Regional </em> , lit .
+
+259	TRUE	AIRES::callsign	aires / de	
+<p> <strong> AIRES </strong> ( <a> Acronym </a> : <em> Aerov&#x00ed ; as de Integraci&#x00f3 ; n Regional </em> , lit .
+
+#	NEW	hubs	........ / plane	// The Dash 8-301 passenger plane , registered HK-3952 , operated on an international flight from Cura&#x00e7 ; ao-Hato International Airport ( CUR ) .
+
+#	NEW	frequent_flyer	........ / airline plans	// The airline plans to fly to other countries like Brazil , Mexico and Canada .
+
+#	NEW	parent	........ / ACES airline	// This operation was further strengthened with the disappearance of the ACES airline market , which had a strong operation in the airport .
+
+#	NEW	headquarters	........ / , lit .	// <p> <strong> AIRES </strong> ( <a> Acronym </a> : <em> Aerov&#x00ed ; as de Integraci&#x00f3 ; n Regional </em> , lit .
+
+264	FALSE	AIRES::fleet_size	23 / 25	
+<p> The AIRES fleet consists of the following aircraft ( at 25 July 2010 ) : </p>
+
+#	NEW	logo_size	........ / 2010 ) :	// <p> The AIRES fleet consists of the following aircraft ( at 25 July 2010 ) : </p>
+
+#	NEW	key_people	........ / is now	// The airline is now a steadily growing company that has managed to cope very well own the aviation industry crisis and the country .
+
+267	TRUE	Canadian Affair::airline	canadian affair / Canadian	
+<p> <strong> Canadian Affair </strong> is the UK&#x2019 ; s largest Tour Operator to Canada .
+
+#	NEW	icao	........ / Canadian	// <p> <strong> Canadian Affair </strong> is the UK&#x2019 ; s largest Tour Operator to Canada .
+
+#	NEW	callsign	........ / Canadian	// <p> <strong> Canadian Affair </strong> is the UK&#x2019 ; s largest Tour Operator to Canada .
+
+#	NEW	hubs	........ / operator	// <p> Transat A . T . is an international <a> tour operator </a> and holiday travel specialist based in <a> Montreal </a> .
+
+#	NEW	destinations	........ / 2010	// It added three weekly services between <a> Manchester International Airport </a> and <a> Toronto Pearson International Airport </a> for its 2010 Summer schedule , which addded an extra 10 , 000 seats on flights between the two cities . </p>
+
+#	NEW	parent	........ / Canadian Affair	// <p> <strong> Canadian Affair </strong> is the UK&#x2019 ; s largest Tour Operator to Canada .
+
+#	NEW	key_people	........ / own 20	// The company own 20 business units in 8 countries , providing services to 60 destinations .
+
+#	NEW	logo_size	........ / to	// <p> In December 2009 , the company announced its plans to increase the frequency of flights from the UK to Toronto by 35% .
+
+#	NEW	fleet_size	........ / 2009	// <p> In December 2009 , the company announced its plans to increase the frequency of flights from the UK to Toronto by 35% .
+
+#	NEW	icao	........ / Guadalajara	// <p> <strong> Aerol&#x00ed ; neas Mesoamericanas , S . A . de C . V . </strong> , <a> operating as </a> <strong> ALMA de Mexico </strong> , was a <a> low-cost airline </a> based in <a> Guadalajara </a> , <a> Mexico </a> .
+
+277	TRUE	ALMA de México::callsign	alma / de	
+<p> <strong> Aerol&#x00ed ; neas Mesoamericanas , S . A . de C . V . </strong> , <a> operating as </a> <strong> ALMA de Mexico </strong> , was a <a> low-cost airline </a> based in <a> Guadalajara </a> , <a> Mexico </a> .
+
+#	NEW	founded	........ / 2005	// <p> The airline was established in <a> 2005 </a> by former Aeromexico COO Guillermo Heredia and received its air operator&#x2019 ; s certificate in September of the same year </p>
+
+#	NEW	hubs	........ / Costilla	// Its main base was <a> Don Miguel Hidalgo y Costilla International Airport </a> , Guadalajara . </p>
+
+#	NEW	destinations	........ / 18	// The airline once operated flights to more than 18 domestic destinations , with future plans for international service to the <a> USA </a> .
+
+#	NEW	parent	........ / former Aeromexico	// <p> The airline was established in <a> 2005 </a> by former Aeromexico COO Guillermo Heredia and received its air operator&#x2019 ; s certificate in September of the same year </p>
+
+#	NEW	headquarters	........ / Costilla	// Its main base was <a> Don Miguel Hidalgo y Costilla International Airport </a> , Guadalajara . </p>
+
+#	NEW	key_people	........ / June 1	// <p> At June 1 , 2007 , ALMA de M&#x00e9 ; xico codeshared with the following airlines : </p>
+
+284	FALSE	ALMA de México::ceased	2008 / 18	
+The airline once operated flights to more than 18 domestic destinations , with future plans for international service to the <a> USA </a> .
+
+#	NEW	fleet_size	........ / 7	// <p> The ALMA de M&#x00e9 ; xico fleet consisted of the following aircraft ( as of 7 November 2008 ) [ <a> http : / /www . ch-aviation . c / aircraft . php ? search=set&amp ; airline=AMX&amp ; al_op=1 </a> ] : </p>
+
+#	NEW	logo_size	........ / a>	// <p> The ALMA de M&#x00e9 ; xico fleet consisted of the following aircraft ( as of 7 November 2008 ) [ <a> http : / /www . ch-aviation . c / aircraft . php ? search=set&amp ; airline=AMX&amp ; al_op=1 </a> ] : </p>
+
+287	TRUE	American Flyers Airline::airline	american flyers airline / Corporation	
+<p> ! <strong> American Flyers Airline Corporation </strong> was a United States &quot ; supplemental&quot ; charter airline that operated from 1949 to 1971 . </p>
+
+#	NEW	iata	........ / United	// <p> ! <strong> American Flyers Airline Corporation </strong> was a United States &quot ; supplemental&quot ; charter airline that operated from 1949 to 1971 . </p>
+
+#	NEW	icao	........ / operated	// <p> ! <strong> American Flyers Airline Corporation </strong> was a United States &quot ; supplemental&quot ; charter airline that operated from 1949 to 1971 . </p>
+
+#	NEW	callsign	........ / American	// <p> ! <strong> American Flyers Airline Corporation </strong> was a United States &quot ; supplemental&quot ; charter airline that operated from 1949 to 1971 . </p>
+
+#	NEW	ceased	........ / 1971 .	// <p> ! <strong> American Flyers Airline Corporation </strong> was a United States &quot ; supplemental&quot ; charter airline that operated from 1949 to 1971 . </p>
+
+292	FALSE	American Flyers Airline::founded	1949 / 3	
+<p> The airline initially started in <a> Fort Worth </a> with <a> Douglas DC-3 </a> aircraft .
+
+#	NEW	destinations	........ / 1971 .	// <p> ! <strong> American Flyers Airline Corporation </strong> was a United States &quot ; supplemental&quot ; charter airline that operated from 1949 to 1971 . </p>
+
+#	NEW	parent	........ / Flyers Airline Corporation	// <p> ! <strong> American Flyers Airline Corporation </strong> was a United States &quot ; supplemental&quot ; charter airline that operated from 1949 to 1971 . </p>
+
+#	NEW	headquarters	........ / from	// <p> ! <strong> American Flyers Airline Corporation </strong> was a United States &quot ; supplemental&quot ; charter airline that operated from 1949 to 1971 . </p>
+
+#	NEW	key_people	........ / a United	// <p> ! <strong> American Flyers Airline Corporation </strong> was a United States &quot ; supplemental&quot ; charter airline that operated from 1949 to 1971 . </p>
+
+#	NEW	fleet_size	........ / 727	// It then began equipping itself with jet aircraft , starting with two <a> Boeing 727 </a> aircraft .
+
+#	NEW	logo_size	........ / 727	// It then began equipping itself with jet aircraft , starting with two <a> Boeing 727 </a> aircraft .
+
+#	NEW	iata	........ / by	// The flights are operated by a number of airlines including <a> VanAir Europe </a> and <a> Jetstream Executive </a> . </p>
+
+#	NEW	icao	........ / Man	// <p> <strong> Manx2 </strong> is a virtual commuter airline , based in the <a> Isle of Man </a> .
+
+#	NEW	callsign	........ / Man	// <p> <strong> Manx2 </strong> is a virtual commuter airline , based in the <a> Isle of Man </a> .
+
+#	NEW	hubs	........ / UK	// It sells flights and services from several airports in the <a> UK </a> and <a> Ireland </a> with bases in <a> Belfast City </a> , <a> Blackpool </a> , <a> Cardiff </a> and <a> Isle of Man </a> .
+
+#	NEW	parent	........ / Isle of	// <p> <strong> Manx2 </strong> is a virtual commuter airline , based in the <a> Isle of Man </a> .
+
+#	NEW	headquarters	........ / launched	// <p> Manx2 was launched on 11 May 2006 with services starting on 15 July .
+
+#	NEW	key_people	........ / Noel Hayes	// It is owned by Noel Hayes ( Chairman ) . : </p>
+
+#	NEW	fleet_size	........ / <a>	// The flights are operated by a number of airlines including <a> VanAir Europe </a> and <a> Jetstream Executive </a> . </p>
+
+#	NEW	logo_size	........ / 15	// <p> Manx2 was launched on 11 May 2006 with services starting on 15 July .
+
+308	TRUE	Lamb Air::airline	lamb air / business	
+<p> <strong> Lamb Air Ltd . </strong> was an <a> airline </a> that began operations in 1934 in <a> The Pas </a> , <a> Manitoba </a> , <a> Canada </a> and went out of business in 1981 . </p>
+
+#	NEW	icao	........ / business	// <p> <strong> Lamb Air Ltd . </strong> was an <a> airline </a> that began operations in 1934 in <a> The Pas </a> , <a> Manitoba </a> , <a> Canada </a> and went out of business in 1981 . </p>
+
+#	NEW	callsign	........ / business	// <p> <strong> Lamb Air Ltd . </strong> was an <a> airline </a> that began operations in 1934 in <a> The Pas </a> , <a> Manitoba </a> , <a> Canada </a> and went out of business in 1981 . </p>
+
+311	TRUE	Lamb Air::founded	1934 / 1981.	
+<p> <strong> Lamb Air Ltd . </strong> was an <a> airline </a> that began operations in 1934 in <a> The Pas </a> , <a> Manitoba </a> , <a> Canada </a> and went out of business in 1981 . </p>
+
+#	NEW	frequent_flyer	........ / Flying Lambs&	// <p> In 1965 , the Canadian Broadcasting Corporation ( <a> CBC </a> ) produced a television show called &quot ; The Flying Lambs&quot ; .
+
+#	NEW	parent	........ / Lamb Air	// <p> Lamb Air operated many aircraft .
+
+#	NEW	headquarters	........ / Fame	// <p> On 30 May 2009 , Thomas Lamb was inducted posthumously into <a> Canada ' s Aviation Hall of Fame </a> .
+
+#	NEW	key_people	........ / Founder Tom	// <p> Founder Tom lamb ' s father , Thomas Henry Peacock Lamb , had emigrated from England in the late 19th century .
+
+#	NEW	fleet_size	........ / <p>	// <p> Lamb Air operated many aircraft .
+
+#	NEW	logo_size	........ / <p>	// <p> Lamb Air operated many aircraft .
+
+#	NEW	airline	........ / Alaska	// <p> <strong> Peninsula Airways </strong> , doing business as <strong> PenAir </strong> , is an <a> American </a> <a> airline </a> headquartered in <a> Anchorage </a> , <a> Alaska </a> .
+
+#	NEW	iata	........ / an	// It is Alaska ' s second largest commuter airline operating an extensive scheduled passenger and cargo service , as well as charter and <a> medevac </a> services .
+
+320	TRUE	PenAir::icao	pen / Alaska	
+<p> <strong> Peninsula Airways </strong> , doing business as <strong> PenAir </strong> , is an <a> American </a> <a> airline </a> headquartered in <a> Anchorage </a> , <a> Alaska </a> .
+
+#	NEW	ceased	........ / 1955	// <p> <strong> 1955 </strong> br / Orin Seybert founded Peninsula Airways .
+
+#	NEW	key_people	........ / br / Peninsula	// <p> <strong> 1991 </strong> br / Peninsula Airways began doing business as PenAir and became a code-share and mileage plan partner with Alaska Airlines . </p>
+
+323	FALSE	PenAir::fleet_size	36 / 2007	
+<p> As of October 2007 the PenAir fleet includes : </p>
+
+324	TRUE	PenAir::callsign	peninsula / American	
+<p> <strong> Peninsula Airways </strong> , doing business as <strong> PenAir </strong> , is an <a> American </a> <a> airline </a> headquartered in <a> Anchorage </a> , <a> Alaska </a> .
+
+#	NEW	logo_size	........ / 2007	// <p> As of October 2007 the PenAir fleet includes : </p>
+
+326	FALSE	PenAir::founded	1955 / 40	
+<p> <strong> Today </strong> br / PenAir is Alaska ' s second largest commuter airline , operating a fleet of 40 aircraft and providing scheduled service to 36 communities throughout Southwest Alaska .
+
+#	NEW	parent	........ / br / On	// <p> <strong> 1965 </strong> br / On March 1 , 1965 Peninsula Airways became incorporated and purchased the fixed base operation in King Salmon , which included the Chevron Airport Dealership . </p>
+
+#	NEW	airline	........ / TEAM	// <p> <strong> TEAM Linhas A&#x00e9 ; reas </strong> ( <strong> T </strong> ransportes <strong> E </strong> speciais <strong> A </strong> &#x00e9 ; reos e <strong> M </strong> alotes ) is a regional domestic airline based in <a> Rio de Janeiro </a> , <a> Brazil </a> .
+
+#	NEW	icao	........ / Brazil	// <p> <strong> TEAM Linhas A&#x00e9 ; reas </strong> ( <strong> T </strong> ransportes <strong> E </strong> speciais <strong> A </strong> &#x00e9 ; reos e <strong> M </strong> alotes ) is a regional domestic airline based in <a> Rio de Janeiro </a> , <a> Brazil </a> .
+
+#	NEW	callsign	........ / M	// <p> <strong> TEAM Linhas A&#x00e9 ; reas </strong> ( <strong> T </strong> ransportes <strong> E </strong> speciais <strong> A </strong> &#x00e9 ; reos e <strong> M </strong> alotes ) is a regional domestic airline based in <a> Rio de Janeiro </a> , <a> Brazil </a> .
+
+331	FALSE	TEAM Linhas Aéreas::founded	2001 / 2010	
+<p> In June 2010 TEAM Linhas A&#x00e9 ; reas operated services to the following destinations : </p>
+
+#	NEW	hubs	........ / Janeiro	// <p> The company ' s main objective is to operate in the market of scheduled regional flights , connecting the city of Rio de Janeiro to other cities within the state of <a> Rio de Janeiro </a> and neighboring States .
+
+#	NEW	frequent_flyer	........ / A&# x00e9 ;	// <p> In June 2010 TEAM Linhas A&#x00e9 ; reas operated services to the following destinations : </p>
+
+#	NEW	destinations	........ / 2010	// <p> In June 2010 TEAM Linhas A&#x00e9 ; reas operated services to the following destinations : </p>
+
+#	NEW	parent	........ / share was of	// In November 2010 , its market share was of 0 . 00% . </p>
+
+#	NEW	key_people	........ / Czech aircraft	// <p> On May 2010 TEAM was named by Czech aircraft manufacturer <a> Let Aircraft Industries </a> its general sales agent for Brazil .
+
+#	NEW	fleet_size	........ / 2010 ) :	// <p> The fleet of Team Linhas A&#x00e9 ; reas includes the following aircraft configured in all-economy class ( as of December 2010 ) : </p>
+
+#	NEW	logo_size	........ / 2010 ) :	// <p> The fleet of Team Linhas A&#x00e9 ; reas includes the following aircraft configured in all-economy class ( as of December 2010 ) : </p>
+
+#	NEW	ceased	........ / 0 .	// According to the <a> National Civil Aviation Agency of Brazil </a> ( ANAC ) , between January and December 2009 , Team had 0 . 01% of the domestic <a> market share </a> in terms of passengers per kilometre flown .
+
+340	TRUE	Air Hawaii::airline	air hawaii / West	
+<p> <strong> Air Hawaii </strong> was a scheduled passenger <a> airline </a> providing service between <a> Honolulu </a> and the U . S . West Coast cities , <a> Los Angeles </a> and <a> San Francisco </a> .
+
+#	NEW	icao	........ / Los	// <p> <strong> Air Hawaii </strong> was a scheduled passenger <a> airline </a> providing service between <a> Honolulu </a> and the U . S . West Coast cities , <a> Los Angeles </a> and <a> San Francisco </a> .
+
+342	TRUE	Air Hawaii::callsign	air hawaii / Air	
+<p> <strong> Air Hawaii </strong> was a scheduled passenger <a> airline </a> providing service between <a> Honolulu </a> and the U . S . West Coast cities , <a> Los Angeles </a> and <a> San Francisco </a> .
+
+#	NEW	frequent_flyer	........ / airline advertised	// The airline advertised its service as <em> &quot ; High Class .
+
+#	NEW	destinations	........ / 19	// The airline almost immediately ran into financial problems and discontinued operations of on 19 February 1986 . </p>
+
+#	NEW	parent	........ / McDonnell Douglas	// <p> Air Hawaii operated two <a> McDonnell Douglas DC-10-10 </a> aircraft . </p>
+
+#	NEW	headquarters	........ / of	// The airline almost immediately ran into financial problems and discontinued operations of on 19 February 1986 . </p>
+
+#	NEW	key_people	........ / airline advertised	// The airline advertised its service as <em> &quot ; High Class .
+
+348	FALSE	Air Hawaii::fleet_size	2 / 10	
+<p> Air Hawaii operated two <a> McDonnell Douglas DC-10-10 </a> aircraft . </p>
+
+#	NEW	logo_size	........ / 10-	// <p> Air Hawaii operated two <a> McDonnell Douglas DC-10-10 </a> aircraft . </p>
+
+#	NEW	icao	........ / Sonora	// <p> <strong> Arizona Airways </strong> was an <a> airline </a> that was conceived as a <a> regional airline </a> to provide service to cities throughout the <a> Southwestern United States </a> and the Mexican state of Sonora from Texas to California .
+
+#	NEW	ceased	........ / 1996 .	// The airline was in service between 1993 to 1996 .
+
+#	NEW	founded	........ / 1993	// The airline was in service between 1993 to 1996 .
+
+#	NEW	parent	........ / deal with	// In August 1995 , the deal with Great Lakes became official and the carrier was rebranded as ' ' ' Arizona Airways Express ' ' ' . </pre>
+
+#	NEW	key_people	........ / between 1993	// The airline was in service between 1993 to 1996 .
+
+#	NEW	fleet_size	........ / 1996 .	// The airline was in service between 1993 to 1996 .
+
+356	TRUE	Arizona Airways (1993–1996)::airline	arizona airways / Texas	
+<p> <strong> Arizona Airways </strong> was an <a> airline </a> that was conceived as a <a> regional airline </a> to provide service to cities throughout the <a> Southwestern United States </a> and the Mexican state of Sonora from Texas to California .
+
+#	NEW	callsign	........ / Texas	// <p> <strong> Arizona Airways </strong> was an <a> airline </a> that was conceived as a <a> regional airline </a> to provide service to cities throughout the <a> Southwestern United States </a> and the Mexican state of Sonora from Texas to California .
+
+#	NEW	logo_size	........ / </	// In August 1995 , the deal with Great Lakes became official and the carrier was rebranded as ' ' ' Arizona Airways Express ' ' ' . </pre>
+
+#	NEW	hubs	........ / of	// At the time of this announcement , the airline also stated it was considering flying all of its domestic flights out of [ [ Avra Valley Airport ] ] in neighboring [ [ Marana , Arizona | Marana ] ] due to the higher gate fees at Tucson International Airport ; however , these plans never materialized .
+
+#	NEW	airline	........ / ( around ) .	// <p> The <strong> disappearance </strong> of the <a> Douglas DC-3 </a> airliner <strong> <a> NC16002 </a> </strong> occurred on the night of December 28 , 1948 near the end of a scheduled flight from <a> San Juan , Puerto Rico </a> to <a> Miami , Florida </a> ( around ) .
+
+#	NEW	iata	........ / be	// In subsequent years , researchers into unexplained disappearances have included the flight among others said to have disappeared in what came to be termed the <a> Bermuda Triangle </a> . </p>
+
+#	NEW	icao	........ / Florida	// <p> The <strong> disappearance </strong> of the <a> Douglas DC-3 </a> airliner <strong> <a> NC16002 </a> </strong> occurred on the night of December 28 , 1948 near the end of a scheduled flight from <a> San Juan , Puerto Rico </a> to <a> Miami , Florida </a> ( around ) .
+
+#	NEW	frequent_flyer	........ / three crew	// The aircraft carried 29 passengers and three crew members .
+
+#	NEW	destinations	........ / 29	// The aircraft carried 29 passengers and three crew members .
+
+#	NEW	parent	........ / aircraft carried	// The aircraft carried 29 passengers and three crew members .
+
+#	NEW	key_people	........ / the official	// No probable cause for the loss was determined by the official investigation and it remains unsolved . </p>
+
+#	NEW	fleet_size	........ / ,	// In subsequent years , researchers into unexplained disappearances have included the flight among others said to have disappeared in what came to be termed the <a> Bermuda Triangle </a> . </p>
+
+#	NEW	callsign	........ / Rico	// <p> The <strong> disappearance </strong> of the <a> Douglas DC-3 </a> airliner <strong> <a> NC16002 </a> </strong> occurred on the night of December 28 , 1948 near the end of a scheduled flight from <a> San Juan , Puerto Rico </a> to <a> Miami , Florida </a> ( around ) .
+
+369	TRUE	Republic Airlines (1979–1986)::airline	republic airlines / Southern Airways	
+<p> <strong> Republic Airlines </strong> was an <a> airline </a> formed on July 1 , 1979 by the <a> merger </a> of <a> North Central Airlines </a> , <a> Southern Airways </a> , and <a> Hughes Airwest </a> .
+
+370	TRUE	Republic Airlines (1979–1986)::icao	rep / Central	
+<p> <strong> Republic Airlines </strong> was an <a> airline </a> formed on July 1 , 1979 by the <a> merger </a> of <a> North Central Airlines </a> , <a> Southern Airways </a> , and <a> Hughes Airwest </a> .
+
+371	TRUE	Republic Airlines (1979–1986)::callsign	republic / Southern	
+<p> <strong> Republic Airlines </strong> was an <a> airline </a> formed on July 1 , 1979 by the <a> merger </a> of <a> North Central Airlines </a> , <a> Southern Airways </a> , and <a> Hughes Airwest </a> .
+
+372	FALSE	Republic Airlines (1979–1986)::ceased	1986 / 1979	
+<p> Republic Airlines came to being in 1979 with the merger of <a> North Central Airlines </a> and <a> Southern Airways </a> .
+
+373	FALSE	Republic Airlines (1979–1986)::founded	july 1, 1979 / 1979	
+<p> <strong> Republic Airlines </strong> was an <a> airline </a> formed on July 1 , 1979 by the <a> merger </a> of <a> North Central Airlines </a> , <a> Southern Airways </a> , and <a> Hughes Airwest </a> .
+
+#	NEW	hubs	........ / Paul	// Republic operated hubs at <a> Minneapolis-Saint Paul International Airport </a> , <a> Memphis International Airport </a> , and <a> Detroit Metropolitan Wayne County Airport </a> .
+
+#	NEW	frequent_flyer	........ / United	// At the time of its formation , Republic was the sixth largest airline in the United States .
+
+#	NEW	destinations	........ / 1980	// In <a> 1980 </a> , following its buyout of <a> Hughes Airwest </a> , Republic became the largest airline in the <a> United States </a> by destinations served .
+
+#	NEW	parent	........ / Northwest ' s	// These airports became the backbone of Northwest ' s domestic route network . </p>
+
+#	NEW	key_people	........ / headquarters were	// Its headquarters were located on the grounds of <a> Minneapolis-St .
+
+#	NEW	fleet_size	........ / 1980	// In <a> 1980 </a> , following its buyout of <a> Hughes Airwest </a> , Republic became the largest airline in the <a> United States </a> by destinations served .
+
+380	TRUE	Republic Airlines (1979–1986)::iata	rc / it	
+<p> On January 23 , 1986 , <a> Northwest Orient Airlines </a> announced that it would purchase Republic for $884 million in response to <a> United Airlines </a> ' purchase of the Pacific routes of <a> Pan American World Airways </a> and in order to provide the domestic feed it required to compete effectively .
+
+#	NEW	logo_size	........ / </	// Northwest was subsequently purchased by <a> Delta Air Lines </a> , with Delta to be the surviving brand . </p>
+
+#	NEW	icao	........ / Singapore	// <p> On 10 January 1954 , <a> British Overseas Airways Corporation </a> <strong> Flight 781 </strong> a <a> de Havilland DH . 106 Comet 1 </a> registered <em> G-ALYP </em> , took off from <a> Ciampino Airport </a> in <a> Rome , Italy </a> , en route to <a> Heathrow Airport </a> in <a> London </a> , <a> England </a> , on the final leg of its flight from <a> Singapore </a> .
+
+#	NEW	callsign	........ / Singapore	// <p> On 10 January 1954 , <a> British Overseas Airways Corporation </a> <strong> Flight 781 </strong> a <a> de Havilland DH . 106 Comet 1 </a> registered <em> G-ALYP </em> , took off from <a> Ciampino Airport </a> in <a> Rome , Italy </a> , en route to <a> Heathrow Airport </a> in <a> London </a> , <a> England </a> , on the final leg of its flight from <a> Singapore </a> .
+
+#	NEW	ceased	........ / 8	// But a second BOAC Comet was lost on <a> April 8 </a> : a charter flight operating as <a> South African Airways Flight 201 </a> took off from Rome bound for Egypt , with 14 passengers and seven crew .
+
+#	NEW	destinations	........ / 8	// But a second BOAC Comet was lost on <a> April 8 </a> : a charter flight operating as <a> South African Airways Flight 201 </a> took off from Rome bound for Egypt , with 14 passengers and seven crew .
+
+#	NEW	parent	........ / were a group	// <p> Witnesses to the crash were a group of Italian fishermen who were preparing to do their catch .
+
+#	NEW	fleet_size	........ / <em>	// <p> The following day , the <em> New York Times </em> reported that BOAC had withdrawn all Comets from service .
+
+#	NEW	airline	........ / Singapore	// <p> On 10 January 1954 , <a> British Overseas Airways Corporation </a> <strong> Flight 781 </strong> a <a> de Havilland DH . 106 Comet 1 </a> registered <em> G-ALYP </em> , took off from <a> Ciampino Airport </a> in <a> Rome , Italy </a> , en route to <a> Heathrow Airport </a> in <a> London </a> , <a> England </a> , on the final leg of its flight from <a> Singapore </a> .
+
+#	NEW	logo_size	........ / 09 :	// <p> On 10 January 1954 , the flight took off at 09 : 34 GMT for the final-stage flight to London .
+
+#	NEW	frequent_flyer	........ / then all	// 33 minutes into the flight the pilot reported to be on course flying at 10 , 000 metres , then all contact was lost . </p>
+
+#	NEW	key_people	........ / protocol for	// Established protocol for aircraft accident investigation did not exist . ref
+
+#	NEW	airline	........ / American Airlines	// <p> <strong> American Airlines Flight 444 </strong> was a <a> Boeing 727 </a> flying from <a> Chicago </a> to <a> Washington DC </a> , which on November 15 , 1979 was attacked by the <a> Unabomber </a> .
+
+#	NEW	icao	........ / Unabomber	// <p> <strong> American Airlines Flight 444 </strong> was a <a> Boeing 727 </a> flying from <a> Chicago </a> to <a> Washington DC </a> , which on November 15 , 1979 was attacked by the <a> Unabomber </a> .
+
+#	NEW	callsign	........ / American	// <p> <strong> American Airlines Flight 444 </strong> was a <a> Boeing 727 </a> flying from <a> Chicago </a> to <a> Washington DC </a> , which on November 15 , 1979 was attacked by the <a> Unabomber </a> .
+
+#	NEW	ceased	........ / 444	// <p> American still uses the <a> Flight Number </a> 444 despite the incident .
+
+#	NEW	founded	........ / 727	// <p> <strong> American Airlines Flight 444 </strong> was a <a> Boeing 727 </a> flying from <a> Chicago </a> to <a> Washington DC </a> , which on November 15 , 1979 was attacked by the <a> Unabomber </a> .
+
+#	NEW	frequent_flyer	........ / aircraft had	// It was later determined that the bomb was powerful enough to have destroyed the aircraft had it worked correctly . </p>
+
+#	NEW	destinations	........ / 444	// <p> American still uses the <a> Flight Number </a> 444 despite the incident .
+
+#	NEW	parent	........ / bomb was	// It was later determined that the bomb was powerful enough to have destroyed the aircraft had it worked correctly . </p>
+
+#	NEW	key_people	........ / the bomb	// It was later determined that the bomb was powerful enough to have destroyed the aircraft had it worked correctly . </p>
+
+#	NEW	logo_size	........ / </	// It was later determined that the bomb was powerful enough to have destroyed the aircraft had it worked correctly . </p>
+
+402	TRUE	Royal Wings::airline	royal wings / Royal Wings	
+<p> <strong> Royal Wings </strong> is an <a> airline </a> based in <a> Amman </a> , <a> Jordan </a> operating regional scheduled and charter flights .
+
+#	NEW	iata	........ / an	// <p> <strong> Royal Wings </strong> is an <a> airline </a> based in <a> Amman </a> , <a> Jordan </a> operating regional scheduled and charter flights .
+
+404	FALSE	Royal Wings::icao	aws / Jordan	
+<p> <strong> Royal Wings </strong> is an <a> airline </a> based in <a> Amman </a> , <a> Jordan </a> operating regional scheduled and charter flights .
+
+#	NEW	callsign	........ / Royal Wings	// <p> <strong> Royal Wings </strong> is an <a> airline </a> based in <a> Amman </a> , <a> Jordan </a> operating regional scheduled and charter flights .
+
+406	TRUE	Royal Wings::founded	1 january 1996 / 1996.	
+<p> The airline was established on 1 January 1996 and started operations on 10 February 1996 .
+
+#	NEW	hubs	........ / Hussein	// It was formed to help develop local and international tourism with support from <a> Prince Faisal bin Al Hussein </a> .
+
+#	NEW	frequent_flyer	........ / airline	// The airline is owned by <a> Royal Jordanian </a> . </p>
+
+#	NEW	parent	........ / http : / / www .	// <p> Royal Wings operates scheduled flights to the following as of April 2009 [ <a> http : / /www . royalwings . com . j / about_us . shtm </a> ] : </p>
+
+#	NEW	headquarters	........ / Jordanian	// The airline is owned by <a> Royal Jordanian </a> . </p>
+
+#	NEW	key_people	........ / Royal Jordanian	// The airline is owned by <a> Royal Jordanian </a> . </p>
+
+412	TRUE	Royal Wings::fleet_size	1 / 10	
+<p> The Royal Wings fleet includes the following aircraft ( as of 10 September 2008 ) [ <a> http : / /ch-aviation . c / aircraft . php ? search=set&amp ; airline=AWS&amp ; al_op=1 </a> ] : </p>
+
+#	NEW	logo_size	........ / a>	// <p> The Royal Wings fleet includes the following aircraft ( as of 10 September 2008 ) [ <a> http : / /ch-aviation . c / aircraft . php ? search=set&amp ; airline=AWS&amp ; al_op=1 </a> ] : </p>
+
+414	FALSE	Dutch Antilles Express::airline	dutch antilles express / aircraft	
+<p> On the ATR 42-300 the aircraft has the standard <strong> flydae . com </strong>
+
+#	NEW	iata	........ / It	// It operates high-frequency scheduled services in the Dutch Caribbean and to <a> Venezuela </a> , <a> Colombia </a> and <a> The Dominican Republic </a> .
+
+#	NEW	icao	........ / flydae .	// <p> On the ATR 42-300 the aircraft has the standard <strong> flydae . com </strong>
+
+417	FALSE	Dutch Antilles Express::callsign	dutch antilles / ATR	
+<p> On the ATR 42-300 the aircraft has the standard <strong> flydae . com </strong>
+
+#	NEW	ceased	........ / 300	// <p> On the ATR 42-300 the aircraft has the standard <strong> flydae . com </strong>
+
+419	FALSE	Dutch Antilles Express::founded	2005 / 2003	
+<p> The airline started operations with a single <a> ATR 42 </a> in 2003 as <a> BonairExel </a> ( part of the Exel Aviation Group ) and soon expanded to encompass most of the Dutch Antilles and Aruba .
+
+#	NEW	hubs	........ / Hato	// Its main base is at <a> Hato International Airport </a> , Cura&#x00e7 ; ao .
+
+#	NEW	frequent_flyer	........ / were	// On 9 December 2005 , its first international services to <a> Valencia </a> , Venezuela , were launched .
+
+422	FALSE	Dutch Antilles Express::destinations	10 / 2007	
+In April 2007 the airline moved its head office from Bonaire to Cura&#x00e7 ; ao , where the airline ' s flight operations have been based .
+
+#	NEW	parent	........ / Fokker	// <p> DAE is the only <a> Fokker </a> operator in the Caribbean . </p>
+
+#	NEW	headquarters	........ / Hato	// Its main base is at <a> Hato International Airport </a> , Cura&#x00e7 ; ao .
+
+#	NEW	key_people	........ / airline ' s	// The airline ' s call centre and its revenue accounting and handling departments remained in Bonaire . </strong> </em> </p>
+
+426	TRUE	Dutch Antilles Express::fleet_size	5 / 2010 ) :	
+<p> The Dutch Antilles Express fleet consists of the following aircraft ( at 25 February 2010 ) : </p>
+
+#	NEW	logo_size	........ / 2010 ) :	// <p> The Dutch Antilles Express fleet consists of the following aircraft ( at 25 February 2010 ) : </p>
+
+#	NEW	airline	........ / November 12	// <p> <strong> <a> American Airlines </a> Flight 1572 </strong> , registration N566AA , was a <a> McDonnell Douglas MD-83 </a> flying from <a> Chicago O ' Hare </a> that was damaged while landing short of runway at <a> Hartford </a> ' s <a> Bradley International Airport </a> on November 12 , 1995 . </p>
+
+#	NEW	iata	........ / it	// While not standard operating procedure it worked to a limited extent until the plane clipped a tree near the end of the runway .
+
+#	NEW	icao	........ / Chicago	// <p> <strong> <a> American Airlines </a> Flight 1572 </strong> , registration N566AA , was a <a> McDonnell Douglas MD-83 </a> flying from <a> Chicago O ' Hare </a> that was damaged while landing short of runway at <a> Hartford </a> ' s <a> Bradley International Airport </a> on November 12 , 1995 . </p>
+
+#	NEW	callsign	........ / American	// <p> <strong> <a> American Airlines </a> Flight 1572 </strong> , registration N566AA , was a <a> McDonnell Douglas MD-83 </a> flying from <a> Chicago O ' Hare </a> that was damaged while landing short of runway at <a> Hartford </a> ' s <a> Bradley International Airport </a> on November 12 , 1995 . </p>
+
+#	NEW	founded	........ / 1572 12 , 1995 .	// <p> <strong> <a> American Airlines </a> Flight 1572 </strong> , registration N566AA , was a <a> McDonnell Douglas MD-83 </a> flying from <a> Chicago O ' Hare </a> that was damaged while landing short of runway at <a> Hartford </a> ' s <a> Bradley International Airport </a> on November 12 , 1995 . </p>
+
+#	NEW	hubs	........ / Hare	// <p> Flight 1572 was en route from <a> Chicago O ' Hare </a> to <a> Hartford </a> ' s <a> Bradley International Airport </a> on November 12 , 1995 .
+
+#	NEW	frequent_flyer	........ / delayed connecting	// The flight departed O ' Hare over 90 minutes late due to bad weather and delayed connecting passengers .
+
+#	NEW	destinations	........ / 1572	// <p> Flight 1572 was en route from <a> Chicago O ' Hare </a> to <a> Hartford </a> ' s <a> Bradley International Airport </a> on November 12 , 1995 .
+
+#	NEW	parent	........ / Charlie Victor	// <p> The <a> cockpit voice recording </a> of the incident became part of the script of a play called <em> <a> Charlie Victor Romeo </a> . </em> </p>
+
+#	NEW	key_people	........ / tower supervisor	// The tower supervisor remained behind to assist the flight .
+
+#	NEW	logo_size	........ / a>	// <p> At some point during the descent , the sink rate alarm went off immediately followed by a loud thump as the plane began shearing off treetops along <a> Peak Mountain </a> ridge .
+
+#	NEW	iata	........ / by	// The airline applied to the <a> FAA </a> for authority to operate as a scheduled passenger airline , but this was not received by the time the airline shut down . </p>
+
+#	NEW	icao	........ / City	// <p> <strong> WinAir Airlines </strong> was a <a> charter passenger airline </a> in the <a> United States </a> based in <a> Salt Lake City </a> , <a> Utah </a> .
+
+441	TRUE	WinAir Airlines::callsign	winair / WinAir	
+<p> <strong> WinAir Airlines </strong> was a <a> charter passenger airline </a> in the <a> United States </a> based in <a> Salt Lake City </a> , <a> Utah </a> .
+
+442	TRUE	WinAir Airlines::destinations	5 / 1997	
+Established in 1997 , its first flight was a <a> Super Bowl </a> charter on January 25 , 1998 .
+
+#	NEW	parent	........ / film was	// The film was released in September 1999 , two months after the airline ceased operations . </p>
+
+#	NEW	key_people	........ / The airline	// <p> The airline also planned flights to <a> Seattle , Washington </a> .
+
+445	FALSE	WinAir Airlines::fleet_size	10 / 400	
+<p> After running into substantial financial difficulties and maintenance concerns caused by the leaseholders and former aircraft owners including <a> Pegasus Airlines </a> of Turkey and <a> Garuda Indonesia </a> regarding some of the airline ' s leased 737-400 aircraft , the airline shut down on July 6 , 1999 . </p>
+
+#	NEW	logo_size	........ / 1999 .	// <p> After running into substantial financial difficulties and maintenance concerns caused by the leaseholders and former aircraft owners including <a> Pegasus Airlines </a> of Turkey and <a> Garuda Indonesia </a> regarding some of the airline ' s leased 737-400 aircraft , the airline shut down on July 6 , 1999 . </p>
+
+#	NEW	airline	........ / NHT	// <p> ! Deleted image removed : <strong> NHT </strong> Linhas A&#x00e9 ; reas is a regional Brazilian domestic airline based at <a> Salgado Filho International Airport </a> , <a> Porto Alegre </a> in <a> Rio Grande do Sul </a> , <a> Brazil </a> .
+
+#	NEW	icao	........ / NHT	// <p> ! Deleted image removed : <strong> NHT </strong> Linhas A&#x00e9 ; reas is a regional Brazilian domestic airline based at <a> Salgado Filho International Airport </a> , <a> Porto Alegre </a> in <a> Rio Grande do Sul </a> , <a> Brazil </a> .
+
+#	NEW	callsign	........ / NHT	// <p> ! Deleted image removed : <strong> NHT </strong> Linhas A&#x00e9 ; reas is a regional Brazilian domestic airline based at <a> Salgado Filho International Airport </a> , <a> Porto Alegre </a> in <a> Rio Grande do Sul </a> , <a> Brazil </a> .
+
+#	NEW	ceased	........ / 2006	// <p> The airline started operations in August <a> 2006 </a> and is controlled by JMT holding ( Teixeira family ) , the CEO being Pedro Teixeira .
+
+451	TRUE	NHT Linhas Aéreas::founded	2006 / 2006	
+<p> The airline started operations in August <a> 2006 </a> and is controlled by JMT holding ( Teixeira family ) , the CEO being Pedro Teixeira .
+
+#	NEW	hubs	........ / Paran&#	// <p> After developing services in the states of <a> Paran&#x00e1 ; </a> , <a> Rio Grande do Sul </a> and <a> Santa Catarina </a> , on April 9 2010 , after being granted much sought-for slots at <a> S&#x00e3 ; o Paulo - Congonhas Airport </a> , NHT started services to the state of <a> S&#x00e3 ; o Paulo </a> . </p>
+
+#	NEW	frequent_flyer	........ / following destinations :	// <p> NHT operates services to the following destinations : </p>
+
+#	NEW	parent	........ / following destinations :	// <p> NHT operates services to the following destinations : </p>
+
+#	NEW	key_people	........ / of 0 .	// In November 2010 its market share was of 0 . 02% . </p>
+
+#	NEW	fleet_size	........ / 2010 ) :	// <p> The fleet of NHT Linhas A&#x00e9 ; reas includes the following aircraft configured in all-economy class ( as of December 2010 ) : </p>
+
+#	NEW	logo_size	........ / 2010 ) :	// <p> The fleet of NHT Linhas A&#x00e9 ; reas includes the following aircraft configured in all-economy class ( as of December 2010 ) : </p>
+
+#	NEW	airline	........ / TWA	// <p> <strong> TWA Flight 128 </strong> was a domestic <a> U . S . </a> Flight en route from <a> Los Angeles , CA </a> to <a> Boston , MA </a> with scheduled stops at <a> Cincinnati , OH </a> and <a> Pittsburgh , PA </a> .
+
+#	NEW	iata	........ / CA	// <p> <strong> TWA Flight 128 </strong> was a domestic <a> U . S . </a> Flight en route from <a> Los Angeles , CA </a> to <a> Boston , MA </a> with scheduled stops at <a> Cincinnati , OH </a> and <a> Pittsburgh , PA </a> .
+
+#	NEW	icao	........ / TWA	// <p> <strong> TWA Flight 128 </strong> was a domestic <a> U . S . </a> Flight en route from <a> Los Angeles , CA </a> to <a> Boston , MA </a> with scheduled stops at <a> Cincinnati , OH </a> and <a> Pittsburgh , PA </a> .
+
+#	NEW	callsign	........ / TWA	// <p> <strong> TWA Flight 128 </strong> was a domestic <a> U . S . </a> Flight en route from <a> Los Angeles , CA </a> to <a> Boston , MA </a> with scheduled stops at <a> Cincinnati , OH </a> and <a> Pittsburgh , PA </a> .
+
+#	NEW	ceased	........ / 880	// It was the sixth loss of a Convair 880 and at the time the worst accident involving a Convair 880 , and 12th worst airline disaster in the U . S .
+
+#	NEW	founded	........ / 880	// It was the sixth loss of a Convair 880 and at the time the worst accident involving a Convair 880 , and 12th worst airline disaster in the U . S .
+
+#	NEW	frequent_flyer	........ / crew	// <p> As a result of the crash , 65 passengers and 5 crew members were fatally injured .
+
+#	NEW	destinations	........ / 128	// <p> <strong> TWA Flight 128 </strong> was a domestic <a> U . S . </a> Flight en route from <a> Los Angeles , CA </a> to <a> Boston , MA </a> with scheduled stops at <a> Cincinnati , OH </a> and <a> Pittsburgh , PA </a> .
+
+#	NEW	parent	........ / crew members	// Two crew members and ten passengers survived , including Robert Deters Sr . [ <a> http : / /www . enquirer . co / edition / 200 / 0 / 1 / loc_ledeobit12 . html </a> ] .
+
+#	NEW	key_people	........ / The aircraft	// <p> The aircraft involved was a <a> Convair 880 </a> , tail number N821TW .
+
+#	NEW	fleet_size	........ / the	// Four of the passengers died from injuries in the days following the crash .
+
+#	NEW	logo_size	........ / </	// The aircraft was destroyed by impact and fire . </p>
+
+470	TRUE	Colombian Air Cargo::airline	colombian air cargo / Air Cargo	
+<p> <strong> Colombian Air Cargo </strong> is a <a> cargo airline </a> based at <a> El Dorado International Airport </a> in <a> Bogot&#x00e1 ; </a> , <a> Colombia </a> . </p>
+
+#	NEW	iata	........ / it	// <p> In addition it offers charter flights . </p>
+
+#	NEW	icao	........ / Colombian	// <p> <strong> Colombian Air Cargo </strong> is a <a> cargo airline </a> based at <a> El Dorado International Airport </a> in <a> Bogot&#x00e1 ; </a> , <a> Colombia </a> . </p>
+
+#	NEW	callsign	........ / Air	// <p> <strong> Colombian Air Cargo </strong> is a <a> cargo airline </a> based at <a> El Dorado International Airport </a> in <a> Bogot&#x00e1 ; </a> , <a> Colombia </a> . </p>
+
+#	NEW	ceased	........ / 2006	// <p> The Colombian Air Cargo fleet consists of the following aircraft ( at September <a> 2006 </a> ) : </p>
+
+#	NEW	hubs	........ / 2006	// <p> The Colombian Air Cargo fleet consists of the following aircraft ( at September <a> 2006 </a> ) : </p>
+
+#	NEW	frequent_flyer	........ / addition it	// <p> In addition it offers charter flights . </p>
+
+#	NEW	parent	........ / addition it	// <p> In addition it offers charter flights . </p>
+
+#	NEW	headquarters	........ / September	// <p> The Colombian Air Cargo fleet consists of the following aircraft ( at September <a> 2006 </a> ) : </p>
+
+#	NEW	key_people	........ / In addition	// <p> In addition it offers charter flights . </p>
+
+#	NEW	fleet_size	........ / 2006	// <p> The Colombian Air Cargo fleet consists of the following aircraft ( at September <a> 2006 </a> ) : </p>
+
+#	NEW	logo_size	........ / 2006	// <p> The Colombian Air Cargo fleet consists of the following aircraft ( at September <a> 2006 </a> ) : </p>
+
+#	null	destinations	8 / ..........
+
+#	null	airline	mahalo air / ..........
+
+#	null	destinations	31 / ..........
+
+#	null	founded	1995 / ..........
+
+#	null	airline	avianca cargo / ..........
+
+#	null	airline	manx2 / ..........
+
+#	null	founded	may 2006 / ..........
+
+#	null	ceased	1981 / ..........
+
+#	null	destinations	34 / ..........
+
+#	null	destinations	6 / ..........
+
+#	null	iata	- / ..........
+
+#	null	destinations	6 / ..........
+
+#	null	iata	- / ..........
+
+#	null	iata	- / ..........
+
+#	null	founded	1985 / ..........
+
+#	null	airline	winair airlines / ..........
+
+#	null	ceased	1999 / ..........
+
+#	null	iata	nt / ..........
+
+#	null	iata	- / ..........
+
+#	null	airline	aerosur / ..........
+
+#	null	ceased	september 19, 2008 / ..........
+
+#	null	founded	1997 / ..........
+

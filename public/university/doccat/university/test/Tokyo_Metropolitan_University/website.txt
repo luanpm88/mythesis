@@ -1,4 +1,0 @@
-<li>Humanities and Social Sciences</li>
-<li>Health Sciences</li>
-<li>Social Sciences</li>
-<li>Human Health Sciences</li>

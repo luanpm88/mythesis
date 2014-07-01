@@ -1,0 +1,1109 @@
+Total articles: 1697
+Articles for test: 1528
+Articles for train: 169
+Total attributes: 80
+Attributes with high occurrences: 23/80
+
+------------
+Found: 1983
+Found Not Null: 364
+Correct: 283
+Wrong: 81
+Total: 643
+precision: 0.7774725274725275
+recall: 0.4401244167962675
+
+
+
+2	FALSE	Jackson County, Michigan:: area_water_sq_mi	17 / (2.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and (2.37%) is water. </p>
+
+4	TRUE	Jackson County, Michigan:: density_km2	87 / (87/	
+The population density was 224 people per square mile (87/km&#x00b2;).
+
+10	TRUE	Jackson County, Michigan:: state	michigan / U.	
+<p> <strong> Jackson County </strong> is a <a> county </a> in the <a> U.S. state </a> of <a> Michigan </a> .
+
+12	FALSE	Montgomery County, Maryland:: area_water_sq_mi	12 / p>	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and is water. </p>
+
+16	FALSE	Montgomery County, Maryland:: area_water_km2	31 / p>	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and is water. </p>
+
+17	TRUE	Montgomery County, Maryland:: county	montgomery county / the county.	
+<p> The <a> Montgomery County Airpark </a> ( <a> FAA </a> <strong> GAI </strong> , <a> ICAO </a> <strong> KGAI </strong> ), a general aviation facility in Gaithersburg, is the major <a> airport </a> in the county.
+
+27	TRUE	Frederick County, Virginia:: state	virginia / Virginia	
+<p> <strong> Frederick County </strong> is a <a> county </a> located in the <a> Commonwealth </a> of <a> Virginia </a> .
+
+29	FALSE	Frederick County, Virginia:: area_water_sq_mi	1 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and (0.24%) is water.
+
+30	TRUE	Frederick County, Virginia:: density_km2	55 / (55/	
+The <a> population density </a> was 143 people per square mile (55/km&#x00b2;).
+
+35	FALSE	Frederick County, Virginia:: area_water_km2	3 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and (0.24%) is water.
+
+48	TRUE	Garrett County, Maryland:: state	maryland / Maryland	
+<p> <strong> Garrett County </strong> is the westernmost <a> county </a> of the <a> U.S. state </a> of <a> Maryland </a> .
+
+49	FALSE	Garrett County, Maryland:: area_water_sq_mi	8 / been	
+Geographically, this is an area which seems to have been affected by the last great ice sheet of North America.
+
+55	TRUE	Baltimore County, Maryland:: state	maryland / Maryland	
+<p> <strong> Baltimore County </strong> is a <a> county </a> located in the northern part of the <a> U.S. state </a> of <a> Maryland </a> .
+
+57	TRUE	Baltimore County, Maryland:: area_water_sq_mi	83 / (12.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which (87.83%) is land and (12.17%) is water. </p>
+
+58	TRUE	Baltimore County, Maryland:: density_km2	487 / (487/	
+The <a> population density </a> was 1,260 people per square mile (487/km&#x00b2;).
+
+76	TRUE	Cache County, Utah:: county	cache county / border,	
+<p> <strong> Cache County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Utah </a> , comprising the <a> Cache Valley </a> , up to the <a> Idaho </a> border, and the surrounding mountains.
+
+77	TRUE	Cache County, Utah:: state	utah / Utah	
+<p> <strong> Cache County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Utah </a> , comprising the <a> Cache Valley </a> , up to the <a> Idaho </a> border, and the surrounding mountains.
+
+80	FALSE	Cache County, Utah:: area_water_sq_mi	9 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and (0.73%) is water. </p>
+
+87	FALSE	Cache County, Utah:: area_water_km2	22 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and (0.73%) is water. </p>
+
+221	TRUE	Cattaraugus County, New York:: county	cattaraugus county / New York	
+<p> <strong> Cattaraugus County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> New York </a> .
+
+222	TRUE	Cattaraugus County, New York:: state	new york / New	
+<p> <strong> Cattaraugus County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> New York </a> .
+
+225	FALSE	Cattaraugus County, New York:: area_water_sq_mi	12 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and (0.94%) is water. </p>
+
+227	TRUE	Cattaraugus County, New York:: density_km2	25 / (25/	
+The <a> population density </a> was 64 people per square mile (25/km&#x00b2;).
+
+228	FALSE	Cattaraugus County, New York:: founded	1808 / northern	
+<p> The northern border of the county is formed by <a> Cattaraugus Creek </a> . </p>
+
+257	TRUE	Suffolk County, New York:: county	suffolk county / Long Island	
+<p> <strong> Suffolk County </strong> () is a <a> county </a> located in the <a> U.S. state </a> of <a> New York </a> on the eastern portion of <a> Long Island </a> .
+
+258	TRUE	Suffolk County, New York:: state	new york / Long	
+<p> <strong> Suffolk County </strong> () is a <a> county </a> located in the <a> U.S. state </a> of <a> New York </a> on the eastern portion of <a> Long Island </a> .
+
+261	FALSE	Suffolk County, New York:: founded	1683 / Poospatuck	
+Also part of the county, but not considered parts of the above towns, are the <a> Poospatuck </a> and <a> Shinnecock </a> <a> Indian reservation </a> s.
+
+366	TRUE	Monroe County, New York:: county	monroe county / New York	
+<p> <strong> Monroe County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> New York </a> .
+
+367	TRUE	Monroe County, New York:: state	new york / New	
+<p> <strong> Monroe County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> New York </a> .
+
+369	TRUE	Monroe County, New York:: area_land_sq_mi	659 / (51.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 1,366&nbsp;square miles (3,537&nbsp;km&#x00b2;), of which 659&nbsp;square miles (1,708&nbsp;km&#x00b2;) is land and 706&nbsp;square miles (1,829&nbsp;km&#x00b2;) (51.72%) is water. </p>
+
+370	TRUE	Monroe County, New York:: area_water_sq_mi	706 / 706&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 1,366&nbsp;square miles (3,537&nbsp;km&#x00b2;), of which 659&nbsp;square miles (1,708&nbsp;km&#x00b2;) is land and 706&nbsp;square miles (1,829&nbsp;km&#x00b2;) (51.72%) is water. </p>
+
+372	TRUE	Monroe County, New York:: density_km2	431 / (431/	
+The <a> population density </a> was 1,115 people per square mile (431/km&#x00b2;).
+
+373	TRUE	Monroe County, New York:: founded	1821 / formed	
+<p> Finally, Monroe County was formed from parts of Genesee and Ontario Counties in 1821. </p>
+
+483	TRUE	Orange County, New York:: state	new york / New	
+<p> <strong> Orange County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> New York </a> .
+
+487	TRUE	Orange County, New York:: density_km2	161 / (161/	
+The <a> population density </a> was 418 people per square mile (161/km&#x00b2;).
+
+488	FALSE	Orange County, New York:: founded	1683 / Wallkill	
+The land in between is the valley of the <a> Wallkill River </a> .
+
+493	TRUE	Orange County, New York:: county	orange county / New York	
+<p> <strong> Orange County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> New York </a> .
+
+494	FALSE	Orange County, New York:: area_water_sq_mi	22 / p>	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , with as land and as water. </p>
+
+523	TRUE	Douglas County, Colorado:: county	douglas county / United States	
+<p> <strong> Douglas County </strong> is the eighth most populous of the <a> 64 counties </a> of the <a> State of Colorado </a> of the <a> United States </a> .
+
+525	TRUE	Douglas County, Colorado:: area_water_sq_mi	3 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and (0.31%) is water. </p>
+
+526	TRUE	Douglas County, Colorado:: density_km2	81 / (81/	
+The <a> population density </a> was 209 people per square mile (81/km&#x00b2;).
+
+530	FALSE	Douglas County, Colorado:: area_water_km2	7 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and (0.31%) is water. </p>
+
+531	TRUE	Douglas County, Colorado:: density_sq_mi	209 / (81/	
+The <a> population density </a> was 209 people per square mile (81/km&#x00b2;).
+
+532	TRUE	Douglas County, Colorado:: state	colorado / States	
+<p> <strong> Douglas County </strong> is the eighth most populous of the <a> 64 counties </a> of the <a> State of Colorado </a> of the <a> United States </a> .
+
+597	TRUE	Tompkins County, New York:: state	new york / metropolitan	
+<p> <strong> Tompkins County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> New York </a> , and comprises the whole of the <a> Ithaca </a> <a> metropolitan area </a> .
+
+598	TRUE	Tompkins County, New York:: area_total_sq_mi	476 / 492&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 492&nbsp; <a> square mile </a> s (1,273&nbsp; <a> km&#x00b2; </a> ), of which 476&nbsp;square miles (1,233&nbsp;km&#x00b2;) is land and 16&nbsp;square miles (40&nbsp;km&#x00b2;) (3.17%) is water. </p>
+
+599	TRUE	Tompkins County, New York:: area_water_sq_mi	16 / 16&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 492&nbsp; <a> square mile </a> s (1,273&nbsp; <a> km&#x00b2; </a> ), of which 476&nbsp;square miles (1,233&nbsp;km&#x00b2;) is land and 16&nbsp;square miles (40&nbsp;km&#x00b2;) (3.17%) is water. </p>
+
+601	TRUE	Tompkins County, New York:: density_km2	78 / (78/	
+The <a> population density </a> was 203 people per square mile (78/km&#x00b2;).
+
+602	FALSE	Tompkins County, New York:: founded	1817 / 1794	
+<p> <a> Onondaga County </a> was formed in 1794 by the splitting of Herkimer County. </p>
+
+609	TRUE	Sullivan County, New York:: state	new york / New	
+<p> <strong> Sullivan County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> New York </a> .
+
+610	TRUE	Sullivan County, New York:: area_total_sq_mi	997 / 997&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 997&nbsp; <a> square mile </a> s (2,582&nbsp; <a> km&#x00b2; </a> ), of which 970&nbsp;square miles (2,512&nbsp;km&#x00b2;) is land and 27&nbsp;square miles (70&nbsp;km&#x00b2;) (2.72%) is water. </p>
+
+611	TRUE	Sullivan County, New York:: area_land_sq_mi	970 / (2.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 997&nbsp; <a> square mile </a> s (2,582&nbsp; <a> km&#x00b2; </a> ), of which 970&nbsp;square miles (2,512&nbsp;km&#x00b2;) is land and 27&nbsp;square miles (70&nbsp;km&#x00b2;) (2.72%) is water. </p>
+
+612	TRUE	Sullivan County, New York:: area_water_sq_mi	27 / 27&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 997&nbsp; <a> square mile </a> s (2,582&nbsp; <a> km&#x00b2; </a> ), of which 970&nbsp;square miles (2,512&nbsp;km&#x00b2;) is land and 27&nbsp;square miles (70&nbsp;km&#x00b2;) (2.72%) is water. </p>
+
+614	TRUE	Sullivan County, New York:: density_km2	29 / (29/	
+The <a> population density </a> was 76 people per square mile (29/km&#x00b2;).
+
+615	FALSE	Sullivan County, New York:: founded	1809 / Monticello	
+The <a> county seat </a> is <a> Monticello </a> .
+
+621	TRUE	Sullivan County, New York:: county	sullivan county / New York	
+<p> <strong> Sullivan County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> New York </a> .
+
+684	TRUE	Iron County, Utah:: state	utah / Utah	
+<p> <strong> Iron County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Utah </a> .
+
+686	FALSE	Iron County, Utah:: area_water_sq_mi	4 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and (0.12%) is water.
+
+688	TRUE	Iron County, Utah:: density_km2	4 / (4/	
+The <a> population density </a> was 10 people per square mile (4/km&#x00b2;).
+
+692	FALSE	Iron County, Utah:: area_water_km2	10 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and (0.12%) is water.
+
+693	TRUE	Iron County, Utah:: density_sq_mi	10 / (4/	
+The <a> population density </a> was 10 people per square mile (4/km&#x00b2;).
+
+695	TRUE	Box Elder County, Utah:: state	utah / Utah	
+<p> <strong> Box Elder County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Utah </a> .
+
+707	TRUE	Beaver County, Utah:: state	utah / Utah	
+<p> <strong> Beaver County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Utah </a> .
+
+709	FALSE	Beaver County, Utah:: area_water_sq_mi	2 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and (0.09%) is water.
+
+715	FALSE	Beaver County, Utah:: area_water_km2	6 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and (0.09%) is water.
+
+717	TRUE	Duchesne County, Utah:: state	utah / Utah	
+<p> <strong> Duchesne County </strong> () is a <a> county </a> located in the <a> U.S. state </a> of <a> Utah </a> .
+
+719	FALSE	Duchesne County, Utah:: area_water_sq_mi	18 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and (0.55%) is water.
+
+725	FALSE	Duchesne County, Utah:: area_water_km2	46 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and (0.55%) is water.
+
+727	TRUE	Emery County, Utah:: state	utah / Utah	
+<p> <strong> Emery County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Utah </a> .
+
+730	FALSE	Emery County, Utah:: area_water_sq_mi	10 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and (0.22%) is water.
+
+736	FALSE	Emery County, Utah:: density_sq_mi	2 / 600	
+<p> By 1900, the population of Emery County had reached over 4,600 people.
+
+737	TRUE	Emery County, Utah:: density_km2	1 / 4	
+<p> By 1900, the population of Emery County had reached over 4,600 people.
+
+738	TRUE	Garfield County, Utah:: state	utah / Utah	
+<p> <strong> Garfield County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Utah </a> .
+
+741	FALSE	Garfield County, Utah:: area_water_sq_mi	34 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and (0.65%) is water.
+
+749	FALSE	Garfield County, Utah:: area_water_km2	88 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and (0.65%) is water.
+
+750	TRUE	Grand County, Utah:: county	grand county / Grand County	
+<p> <strong> Grand County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Utah </a> .
+
+751	TRUE	Grand County, Utah:: state	utah / Utah	
+<p> <strong> Grand County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Utah </a> .
+
+760	FALSE	Grand County, Utah:: area_water_km2	32 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and (0.34%) is water.
+
+762	TRUE	Juab County, Utah:: state	utah / Utah	
+<strong> Juab County </strong> () is a <a> county </a> located in the <a> U.S. state </a> of <a> Utah </a> .
+
+764	FALSE	Juab County, Utah:: area_water_sq_mi	15 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and (0.43%) is water. </p>
+
+771	FALSE	Juab County, Utah:: area_water_km2	38 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and (0.43%) is water. </p>
+
+775	TRUE	Kane County, Utah:: area_water_sq_mi	116 / 116&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 4,108&nbsp;square miles (10,641&nbsp;km&#x00b2;), of which 3,992&nbsp;square miles (10,339&nbsp;km&#x00b2;) is land and 116&nbsp;square miles (302&nbsp;km&#x00b2;) (2.83%) is water.
+
+781	TRUE	Kane County, Utah:: area_water_km2	302 / (302&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 4,108&nbsp;square miles (10,641&nbsp;km&#x00b2;), of which 3,992&nbsp;square miles (10,339&nbsp;km&#x00b2;) is land and 116&nbsp;square miles (302&nbsp;km&#x00b2;) (2.83%) is water.
+
+782	FALSE	Kane County, Utah:: density_sq_mi	1.5 / (1/	
+The <a> population density </a> was 2 people per square mile (1/km&#x00b2;).
+
+783	TRUE	Kane County, Utah:: state	utah / Utah	
+<p> <strong> Kane County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Utah </a> .
+
+785	TRUE	Millard County, Utah:: state	utah / Utah	
+<p> <strong> Millard County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Utah </a> .
+
+788	FALSE	Millard County, Utah:: area_water_sq_mi	239 / (6	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 17,684&nbsp;km&#x00b2; (6,828 <a> sq&nbsp;mi </a> ).
+
+796	TRUE	Piute County, Utah:: state	utah / Utah	
+<p> <strong> Piute County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Utah </a> .
+
+797	TRUE	Piute County, Utah:: area_land_sq_mi	758 / (1.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 766&nbsp;square miles (1,983&nbsp;km&#x00b2;), of which 758&nbsp;square miles (1,963&nbsp;km&#x00b2;) is land and 8&nbsp;square miles (21&nbsp;km&#x00b2;) (1.04%) is water. </p>
+
+806	TRUE	Piute County, Utah:: area_total_sq_mi	766 / 8&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 766&nbsp;square miles (1,983&nbsp;km&#x00b2;), of which 758&nbsp;square miles (1,963&nbsp;km&#x00b2;) is land and 8&nbsp;square miles (21&nbsp;km&#x00b2;) (1.04%) is water. </p>
+
+807	TRUE	Piute County, Utah:: area_water_sq_mi	8 / 8&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 766&nbsp;square miles (1,983&nbsp;km&#x00b2;), of which 758&nbsp;square miles (1,963&nbsp;km&#x00b2;) is land and 8&nbsp;square miles (21&nbsp;km&#x00b2;) (1.04%) is water. </p>
+
+808	TRUE	Piute County, Utah:: area_water_km2	21 / (21&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 766&nbsp;square miles (1,983&nbsp;km&#x00b2;), of which 758&nbsp;square miles (1,963&nbsp;km&#x00b2;) is land and 8&nbsp;square miles (21&nbsp;km&#x00b2;) (1.04%) is water. </p>
+
+809	TRUE	Rich County, Utah:: state	utah / Utah	
+<p> <strong> Rich County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Utah </a> .
+
+811	TRUE	Rich County, Utah:: area_water_sq_mi	58 / 58&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 1,086&nbsp;square miles (2,813&nbsp;km&#x00b2;), of which 1,029&nbsp;square miles (2,664&nbsp;km&#x00b2;) is land and 58&nbsp;square miles (150&nbsp;km&#x00b2;) (5.32%) is water. </p>
+
+817	TRUE	Rich County, Utah:: area_water_km2	150 / (150&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 1,086&nbsp;square miles (2,813&nbsp;km&#x00b2;), of which 1,029&nbsp;square miles (2,664&nbsp;km&#x00b2;) is land and 58&nbsp;square miles (150&nbsp;km&#x00b2;) (5.32%) is water. </p>
+
+821	TRUE	Morgan County, Utah:: state	utah / Utah	
+<p> <strong> Morgan County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Utah </a> .
+
+822	TRUE	Morgan County, Utah:: area_total_sq_mi	611 / 2&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 611&nbsp;square miles (1,582&nbsp;km&#x00b2;), of which 609&nbsp;square miles (1,578&nbsp;km&#x00b2;) is land and 2&nbsp;square miles (4&nbsp;km&#x00b2;) (0.27%) is water. </p>
+
+823	TRUE	Morgan County, Utah:: area_land_sq_mi	609 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 611&nbsp;square miles (1,582&nbsp;km&#x00b2;), of which 609&nbsp;square miles (1,578&nbsp;km&#x00b2;) is land and 2&nbsp;square miles (4&nbsp;km&#x00b2;) (0.27%) is water. </p>
+
+824	TRUE	Morgan County, Utah:: area_water_sq_mi	2 / 2&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 611&nbsp;square miles (1,582&nbsp;km&#x00b2;), of which 609&nbsp;square miles (1,578&nbsp;km&#x00b2;) is land and 2&nbsp;square miles (4&nbsp;km&#x00b2;) (0.27%) is water. </p>
+
+829	TRUE	Morgan County, Utah:: area_water_km2	4 / (4&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 611&nbsp;square miles (1,582&nbsp;km&#x00b2;), of which 609&nbsp;square miles (1,578&nbsp;km&#x00b2;) is land and 2&nbsp;square miles (4&nbsp;km&#x00b2;) (0.27%) is water. </p>
+
+837	TRUE	Clinton County, Ohio:: county	clinton county / United States	
+<p> <strong> Clinton County </strong> is a <a> county </a> located in the <a> state </a> of <a> Ohio </a> , <a> United States </a> .
+
+838	TRUE	Clinton County, Ohio:: state	ohio / Ohio	
+<p> <strong> Clinton County </strong> is a <a> county </a> located in the <a> state </a> of <a> Ohio </a> , <a> United States </a> .
+
+840	FALSE	Clinton County, Ohio:: area_water_sq_mi	1 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of . is land and (0.34%) is water. </p>
+
+842	TRUE	Clinton County, Ohio:: density_km2	38 / (38/	
+The <a> population density </a> was 99 people per square mile (38/km&#x00b2;).
+
+847	TRUE	Clinton County, Ohio:: area_water_km2	4 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of . is land and (0.34%) is water. </p>
+
+848	TRUE	Clinton County, Ohio:: density_sq_mi	99 / (38/	
+The <a> population density </a> was 99 people per square mile (38/km&#x00b2;).
+
+853	FALSE	Clinton County, Illinois:: founded	1824 / p>	
+Its <a> county seat </a> is <a> Carlyle, Illinois </a> . </p>
+
+858	TRUE	Clinton County, Illinois:: state	illinois / U.	
+<p> <strong> Clinton County </strong> is a <a> county </a> located in the U.S. state of <a> Illinois </a> , and determined by the <a> U.S. Census Bureau </a> to include the <a> mean center of U.S. population </a> in 1960.
+
+859	FALSE	Clinton County, Illinois:: area_water_sq_mi	29 / (5.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and (5.81%) is water.
+
+861	TRUE	Clinton County, Indiana:: state	indiana / U.	
+<p> <strong> Clinton County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Indiana </a> .
+
+863	TRUE	Clinton County, Indiana:: area_water_sq_mi	0 / 0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which 0.04% is water. </p>
+
+870	TRUE	Clinton County, Indiana:: density_km2	32 / (32/	
+The <a> population density </a> was 84 people per square mile (32/km&#x00b2;).
+
+873	TRUE	DeWitt County, Illinois:: state	illinois / Illinois	
+<p> <strong> DeWitt County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Illinois </a> .
+
+877	TRUE	DeWitt County, Illinois:: founded	1839 / 1839	
+The county was formed in 1839 from <a> Macon </a> and <a> McLean Counties </a> . </p>
+
+881	FALSE	DeWitt County, Illinois:: area_water_km2	20 / (1.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and (1.87%) is water. </p>
+
+882	TRUE	DeWitt County, Illinois:: density_sq_mi	42 / (16/	
+The <a> population density </a> was 42 people per square mile (16/km&#x00b2;).
+
+883	TRUE	DeWitt County, Illinois:: area_water_sq_mi	8 / (1.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and (1.87%) is water. </p>
+
+884	TRUE	DeWitt County, Illinois:: density_km2	16 / (16/	
+The <a> population density </a> was 42 people per square mile (16/km&#x00b2;).
+
+885	TRUE	Clinton County, Iowa:: state	iowa / Iowa	
+<p> <strong> Clinton County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Iowa </a> .
+
+888	FALSE	Clinton County, Iowa:: area_water_sq_mi	15 / (2.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and (2.14%) is water.
+
+890	TRUE	Clinton County, Iowa:: density_km2	28 / (28/	
+The <a> population density </a> was 72 people per square mile (28/km&#x00b2;).
+
+891	TRUE	Clinton County, Iowa:: founded	1837 / December 21, 1837.	
+<p> Clinton County was formed on December 21, 1837.
+
+897	TRUE	Clinton County, Kentucky:: state	kentucky / Kentucky	
+<p> <strong> Clinton County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Kentucky </a> .
+
+899	FALSE	Clinton County, Kentucky:: area_water_sq_mi	8 / p>	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and is water. </p>
+
+904	TRUE	Clinton County, Michigan:: county	clinton county / Area.	
+<p> <strong> Clinton County </strong> is a <a> county </a> in the <a> U.S. state </a> of <a> Michigan </a> , and is part of the Lansing Metropolitan Area.
+
+905	TRUE	Clinton County, Michigan:: state	michigan / Metropolitan	
+<p> <strong> Clinton County </strong> is a <a> county </a> in the <a> U.S. state </a> of <a> Michigan </a> , and is part of the Lansing Metropolitan Area.
+
+907	FALSE	Clinton County, Michigan:: area_water_sq_mi	3 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and (0.54%) is water. </p>
+
+914	TRUE	Clinton County, Michigan:: density_km2	44 / (44/	
+The <a> population density </a> was 113 people per square mile (44/km&#x00b2;).
+
+915	TRUE	Clinton County, Missouri:: state	missouri / U.	
+<p> [[Image:Atchison-statue.jpg|thumb|Statue of &quot;President for a Day&quot; [[David Rice Atchison]] at the Clinton County Courthouse]] <strong> Clinton County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Missouri </a> .
+
+918	FALSE	Clinton County, Missouri:: area_water_sq_mi	5 / (1.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and (1.11%) is water. </p>
+
+920	TRUE	Clinton County, Missouri:: density_km2	18 / (18/	
+The <a> population density </a> was 45 people per square mile (18/km&#x00b2;).
+
+927	TRUE	Clinton County, Pennsylvania:: state	pennsylvania / Pennsylvania	
+<p> <strong> Clinton County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Pennsylvania </a> .
+
+930	FALSE	Clinton County, Pennsylvania:: area_water_sq_mi	7 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of of which is land and (0.81%) is water. </p>
+
+931	TRUE	Clinton County, Pennsylvania:: density_km2	16 / (16/	
+The <a> population density </a> was 43 people per square mile (16/km&#x00c3;&#x201a;&#x00c2;&#x00b2;).
+
+936	FALSE	Clinton County, Pennsylvania:: founded	june 21, 1839 / is	
+Its <a> county seat </a> is at Lock Haven. </p>
+
+950	TRUE	Putnam County, Georgia:: area_total_sq_mi	361 / 361&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 361&nbsp; <a> square mile </a> s (934&nbsp; <a> km&#x00b2; </a> ), of which 345&nbsp;square miles (892&nbsp;km&#x00b2;) is land and 16&nbsp;square miles (42&nbsp;km&#x00b2;) (4.46%) is water. </p>
+
+951	TRUE	Putnam County, Georgia:: area_land_sq_mi	345 / (4.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 361&nbsp; <a> square mile </a> s (934&nbsp; <a> km&#x00b2; </a> ), of which 345&nbsp;square miles (892&nbsp;km&#x00b2;) is land and 16&nbsp;square miles (42&nbsp;km&#x00b2;) (4.46%) is water. </p>
+
+952	TRUE	Putnam County, Georgia:: area_water_sq_mi	16 / 16&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 361&nbsp; <a> square mile </a> s (934&nbsp; <a> km&#x00b2; </a> ), of which 345&nbsp;square miles (892&nbsp;km&#x00b2;) is land and 16&nbsp;square miles (42&nbsp;km&#x00b2;) (4.46%) is water. </p>
+
+954	TRUE	Putnam County, Georgia:: density_km2	21 / (21/	
+The <a> population density </a> was 55 people per square mile (21/km&#x00b2;).
+
+955	FALSE	Putnam County, Georgia:: founded	december 10, 1807 / Eatonton	
+The <a> county seat </a> is <a> Eatonton </a> . </p>
+
+961	TRUE	Putnam County, Georgia:: state	georgia / U.	
+<p> <strong> Putnam County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Georgia </a> .
+
+974	TRUE	Putnam County, Indiana:: state	indiana / U.	
+<p> <strong> Putnam County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Indiana </a> .
+
+977	FALSE	Putnam County, Indiana:: area_water_sq_mi	2 / p>	
+There are three in this area, including. </p>
+
+985	TRUE	Putnam County, Missouri:: state	missouri / U.	
+<p> <strong> Putnam County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Missouri </a> .
+
+986	TRUE	Putnam County, Missouri:: area_total_sq_mi	520 / 520&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 520&nbsp; <a> square mile </a> s (1,346&nbsp; <a> km&#x00b2; </a> ), of which, 518&nbsp;square miles (1,341&nbsp;km&#x00b2;) of it is land and 2&nbsp;square miles (5&nbsp;km&#x00b2;) of it (0.34%) is water. </p>
+
+987	TRUE	Putnam County, Missouri:: area_land_sq_mi	518 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 520&nbsp; <a> square mile </a> s (1,346&nbsp; <a> km&#x00b2; </a> ), of which, 518&nbsp;square miles (1,341&nbsp;km&#x00b2;) of it is land and 2&nbsp;square miles (5&nbsp;km&#x00b2;) of it (0.34%) is water. </p>
+
+988	TRUE	Putnam County, Missouri:: area_water_sq_mi	2 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 520&nbsp; <a> square mile </a> s (1,346&nbsp; <a> km&#x00b2; </a> ), of which, 518&nbsp;square miles (1,341&nbsp;km&#x00b2;) of it is land and 2&nbsp;square miles (5&nbsp;km&#x00b2;) of it (0.34%) is water. </p>
+
+990	TRUE	Putnam County, Missouri:: density_km2	4 / (4/	
+The <a> population density </a> was 10 people per square mile (4/km&#x00b2;).
+
+997	TRUE	Adams County, Ohio:: county	adams county / United States	
+<p> <strong> Adams County </strong> is a <a> county </a> located in the <a> state </a> of <a> Ohio </a> , <a> United States </a> .
+
+999	TRUE	Adams County, Ohio:: area_water_sq_mi	2 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of . is land and of it (0.32%) is water.
+
+1001	TRUE	Adams County, Ohio:: density_km2	18 / (18/	
+The <a> population density </a> was 47 people per square mile (18/km&#x00b2;).
+
+1004	FALSE	Adams County, Ohio:: area_water_km2	5 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of . is land and of it (0.32%) is water.
+
+1005	TRUE	Adams County, Ohio:: density_sq_mi	47 / (18/	
+The <a> population density </a> was 47 people per square mile (18/km&#x00b2;).
+
+1006	TRUE	Adams County, Ohio:: state	ohio / Ohio	
+<p> <strong> Adams County </strong> is a <a> county </a> located in the <a> state </a> of <a> Ohio </a> , <a> United States </a> .
+
+1010	TRUE	Adams County, Idaho:: state	idaho / Idaho	
+<p> <strong> Adams County </strong> is a rural <a> county </a> located in the <a> state </a> of <a> Idaho </a> .
+
+1013	FALSE	Adams County, Idaho:: area_water_sq_mi	5 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and (0.40%) is water. </p>
+
+1015	TRUE	Adams County, Idaho:: density_km2	1.0 / (1.	
+The <a> population density </a> was 2.5 people per square mile (1.0/km&#x00b2;).
+
+1019	FALSE	Adams County, Idaho:: area_water_km2	14 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and (0.40%) is water. </p>
+
+1021	TRUE	Adams County, Idaho:: density_sq_mi	2.5 / 0/	
+The <a> population density </a> was 2.5 people per square mile (1.0/km&#x00b2;).
+
+1058	TRUE	Adams County, Pennsylvania:: state	pennsylvania / Pennsylvania	
+<p> <strong> Adams County </strong> is a <a> county </a> in the <a> U.S. state </a> of <a> Pennsylvania </a> .
+
+1060	TRUE	Adams County, Pennsylvania:: area_water_sq_mi	2 / (0.	
+Light Peace Memorial at [[Gettysburg Battlefield]]]] According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and (0.29%) is water.
+
+1061	TRUE	Adams County, Pennsylvania:: density_km2	68 / (68/	
+The <a> population density </a> was 176 people per square mile (68/km&#x00b2;).
+
+1065	FALSE	Adams County, Pennsylvania:: area_water_km2	5 / (0.	
+Light Peace Memorial at [[Gettysburg Battlefield]]]] According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and (0.29%) is water.
+
+1066	TRUE	Adams County, Pennsylvania:: density_sq_mi	176 / (68/	
+The <a> population density </a> was 176 people per square mile (68/km&#x00b2;).
+
+1078	TRUE	Adams County, Wisconsin:: state	wisconsin / Wisconsin	
+<p> <strong> Adams County </strong> is a <a> county </a> in the <a> U.S. state </a> of <a> Wisconsin </a> .
+
+1083	TRUE	Adams County, Wisconsin:: density_km2	11 / (11/	
+The <a> population density </a> was 29 people per square mile (11/km&#x00b2;).
+
+1088	TRUE	Adams County, Wisconsin:: density_sq_mi	29 / (11/	
+The <a> population density </a> was 29 people per square mile (11/km&#x00b2;).
+
+1090	TRUE	Adams County, Illinois:: state	illinois / Illinois	
+<p> <strong> Adams County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Illinois </a> .
+
+1095	TRUE	Adams County, Illinois:: density_km2	31 / (31/	
+The <a> population density </a> was 80 people per square mile (31/km&#x00b2;).
+
+1096	TRUE	Adams County, Illinois:: founded	1825 / 1825	
+<p> Adams County was formed in 1825 out of <a> Pike County </a> .
+
+1100	FALSE	Adams County, Illinois:: area_water_km2	38 / (1.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and (1.68%) is water. </p>
+
+1101	TRUE	Adams County, Illinois:: density_sq_mi	80 / (31/	
+The <a> population density </a> was 80 people per square mile (31/km&#x00b2;).
+
+1113	TRUE	Adams County, North Dakota:: state	north dakota / North Dakota	
+<p> <strong> Adams County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> North Dakota </a> .
+
+1115	FALSE	Adams County, North Dakota:: area_water_sq_mi	1 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and (0.09%) is water. </p>
+
+1117	TRUE	Adams County, North Dakota:: density_km2	1 / (1.	
+The <a> population density </a> was 2.6 people per square mile (1.0/km&#x00b2;).
+
+1125	TRUE	Adams County, Colorado:: area_water_sq_mi	6 / 2000	
+The <a> United States Census Bureau </a> estimates that the county population was 430,826 in 2008, a 23.87% increase since <a> U.S. Census 2000 </a> .
+
+1128	TRUE	Adams County, Colorado:: county	adams county / United States	
+<p> <strong> Adams County </strong> is the fifth most populous of the <a> 64 counties </a> of the <a> State of Colorado </a> of the <a> United States </a> .
+
+1129	TRUE	Adams County, Colorado:: state	colorado / States	
+<p> <strong> Adams County </strong> is the fifth most populous of the <a> 64 counties </a> of the <a> State of Colorado </a> of the <a> United States </a> .
+
+1134	TRUE	Socorro County, New Mexico:: county	socorro county / New Mexico	
+<p> <strong> Socorro County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> New Mexico </a> , <a> United States </a> .
+
+1135	TRUE	Socorro County, New Mexico:: state	new mexico / New Mexico	
+<p> <strong> Socorro County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> New Mexico </a> , <a> United States </a> .
+
+1137	TRUE	Socorro County, New Mexico:: area_water_sq_mi	2 / (17	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 6,649 <a> sq&nbsp;mi </a> (17,220 <a> km&#x00b2; </a> ).
+
+1139	TRUE	Socorro County, New Mexico:: density_km2	1 / (1/	
+The <a> population density </a> was 3 people per square mile (1/km&#x00b2;).
+
+1146	TRUE	Clay County, Alabama:: state	alabama / Alabama	
+<p> <strong> Clay County </strong> is a <a> county </a> of the <a> U.S. state </a> of <a> Alabama </a> .
+
+1150	TRUE	Clay County, Alabama:: density_km2	4 / (9/	
+The <a> population density </a> was 24 people per square mile (9/km&#x00b2;).
+
+1154	FALSE	Clay County, Alabama:: density_sq_mi	11 / (9/	
+The <a> population density </a> was 24 people per square mile (9/km&#x00b2;).
+
+1156	TRUE	Clay County, Florida:: state	florida / Florida	
+<p> <strong> Clay County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Florida </a> .
+
+1159	FALSE	Clay County, Florida:: area_water_sq_mi	43 / (6.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and (6.62%) is water. </p>
+
+1161	TRUE	Clay County, Florida:: density_km2	90 / (90/	
+The <a> population density </a> was 234 people per square mile (90/km&#x00b2;).
+
+1162	FALSE	Clay County, Florida:: founded	december 31, 1858 / Florida	
+Its <a> county seat </a> is <a> Green Cove Springs, Florida </a> .
+
+1168	TRUE	Clay County, Illinois:: state	illinois / U.	
+<p> <strong> Clay County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Illinois </a> , and determined by the <a> U.S. Census Bureau </a> to include the <a> mean center of U.S. population </a> in 1950.
+
+1171	TRUE	Clay County, Illinois:: area_water_sq_mi	1 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and (0.13%) is water. </p>
+
+1173	TRUE	Clay County, Illinois:: density_km2	12 / (12/	
+The <a> population density </a> was 31 people per square mile (12/km&#x00b2;).
+
+1174	TRUE	Clay County, Illinois:: founded	1824 / 1824	
+<p> Clay County was formed in 1824 out of portions of <a> Wayne </a> , <a> Crawford </a> , and <a> Fayette </a> counties.
+
+1178	FALSE	Clay County, Illinois:: area_water_km2	2 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and (0.13%) is water. </p>
+
+1179	TRUE	Clay County, Illinois:: density_sq_mi	31 / (12/	
+The <a> population density </a> was 31 people per square mile (12/km&#x00b2;).
+
+1192	TRUE	Clay County, Indiana:: state	indiana / U.	
+<p> <strong> Clay County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Indiana </a> .
+
+1194	FALSE	Clay County, Indiana:: area_water_sq_mi	3 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and (0.77%) is water. </p>
+
+1196	TRUE	Clay County, Indiana:: density_km2	29 / (29/	
+The <a> population density </a> was 74 people per square mile (29/km&#x00b2;).
+
+1201	TRUE	Clay County, Indiana:: area_water_km2	7 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and (0.77%) is water. </p>
+
+1202	TRUE	Clay County, Indiana:: density_sq_mi	74 / (29/	
+The <a> population density </a> was 74 people per square mile (29/km&#x00b2;).
+
+1203	TRUE	Clay County, Minnesota:: state	minnesota / U.	
+<strong> Clay County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Minnesota </a> .
+
+1206	TRUE	Clay County, Minnesota:: area_water_sq_mi	7 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and (0.71%) is water. </p>
+
+1207	TRUE	Clay County, Minnesota:: density_km2	19 / (19/	
+The <a> population density </a> was 49 people per square mile (19/km&#x00b2;).
+
+1212	FALSE	Clay County, Minnesota:: area_water_km2	19 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and (0.71%) is water. </p>
+
+1213	TRUE	Clay County, Minnesota:: density_sq_mi	49 / (19/	
+The <a> population density </a> was 49 people per square mile (19/km&#x00b2;).
+
+1285	TRUE	Clay County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Clay County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Tennessee </a> .
+
+1288	FALSE	Clay County, Tennessee:: area_water_sq_mi	23 / (8.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and (8.93%) is water.
+
+1290	TRUE	Clay County, Tennessee:: density_km2	13 / (13/	
+The <a> population density </a> was 34 people per square mile (13/km&#x00b2;).
+
+1294	FALSE	Clay County, Tennessee:: area_water_km2	60 / (8.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and (8.93%) is water.
+
+1295	TRUE	Clay County, Tennessee:: density_sq_mi	34 / (13/	
+The <a> population density </a> was 34 people per square mile (13/km&#x00b2;).
+
+1296	TRUE	Clay County, Tennessee:: founded	1870 / 1870	
+<p> Clay County was formed in 1870 by combining pieces from surrounding <a> Jackson County </a> and <a> Overton County </a> .
+
+1309	TRUE	Clay County, Arkansas:: state	arkansas / Arkansas	
+<p> <strong> Clay County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Arkansas </a> .
+
+1313	FALSE	Clay County, Arkansas:: founded	march 24, 1873 / Corning	
+The county has two <a> county seat </a> s, <a> Corning </a> and <a> Piggott </a> .
+
+1319	FALSE	Clay County, Arkansas:: area_water_sq_mi	2 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and (0.33%) is water. </p>
+
+1320	TRUE	Clay County, Kentucky:: state	kentucky / Kentucky	
+<p> <strong> Clay County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Kentucky </a> .
+
+1322	TRUE	Clay County, Kentucky:: area_water_sq_mi	0 / 0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which 0.01% is water.
+
+1324	TRUE	Clay County, Kentucky:: density_km2	20 / (20/	
+The <a> population density </a> was 52 people per square mile (20/km&#x00b2;).
+
+1329	TRUE	Clay County, Kentucky:: area_water_km2	0 / 0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which 0.01% is water.
+
+1330	TRUE	Clay County, Kentucky:: density_sq_mi	52 / (20/	
+The <a> population density </a> was 52 people per square mile (20/km&#x00b2;).
+
+1332	TRUE	Clay County, Georgia:: state	georgia / U.	
+<p> <strong> Clay County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Georgia </a> .
+
+1335	TRUE	Clay County, Georgia:: density_km2	7 / (7/	
+The <a> population density </a> was 17 people per square mile (7/km&#x00b2;).
+
+1336	TRUE	Clay County, Georgia:: founded	1854 / February 16, 1854	
+<p> Clay was created by a February 16, 1854, act of the <a> Georgia General Assembly </a> using portions of <a> Early </a> and <a> Randolph </a> counties. </p>
+
+1337	TRUE	Clay County, Georgia:: seat	fort gaines / Fort	
+The <a> county seat </a> is <a> Fort Gaines </a> . </p>
+
+1341	TRUE	Clay County, Georgia:: density_sq_mi	17 / (7/	
+The <a> population density </a> was 17 people per square mile (7/km&#x00b2;).
+
+1344	TRUE	Nez Perce County, Idaho:: county	nez perce county / Perce County	
+<p> <strong> Nez Perce County </strong> [Eng.
+
+1345	FALSE	Nez Perce County, Idaho:: state	idaho / County	
+<p> <strong> Nez Perce County </strong> [Eng.
+
+1346	TRUE	Nez Perce County, Idaho:: area_total_sq_mi	856 / 7&	
+<p> According to the <a> United States Census Bureau </a> , the county has a total area of 856&nbsp;square miles (2,218&nbsp;km&#x00b2;), of which 849&nbsp;square miles (2,199&nbsp;km&#x00b2;) is land and 7&nbsp;square miles (19&nbsp;km&#x00b2;) (0.85%) is water.
+
+1347	TRUE	Nez Perce County, Idaho:: area_land_sq_mi	849 / (0.	
+<p> According to the <a> United States Census Bureau </a> , the county has a total area of 856&nbsp;square miles (2,218&nbsp;km&#x00b2;), of which 849&nbsp;square miles (2,199&nbsp;km&#x00b2;) is land and 7&nbsp;square miles (19&nbsp;km&#x00b2;) (0.85%) is water.
+
+1349	TRUE	Nez Perce County, Idaho:: density_km2	17 / (17/	
+The <a> population density </a> was 44 people per square mile (17/km&#x00b2;).
+
+1354	TRUE	Nez Perce County, Idaho:: density_sq_mi	44 / (17/	
+The <a> population density </a> was 44 people per square mile (17/km&#x00b2;).
+
+1355	TRUE	Nez Perce County, Idaho:: area_water_sq_mi	7 / 7&	
+<p> According to the <a> United States Census Bureau </a> , the county has a total area of 856&nbsp;square miles (2,218&nbsp;km&#x00b2;), of which 849&nbsp;square miles (2,199&nbsp;km&#x00b2;) is land and 7&nbsp;square miles (19&nbsp;km&#x00b2;) (0.85%) is water.
+
+1356	TRUE	Nez Perce County, Idaho:: area_water_km2	19 / (19&	
+<p> According to the <a> United States Census Bureau </a> , the county has a total area of 856&nbsp;square miles (2,218&nbsp;km&#x00b2;), of which 849&nbsp;square miles (2,199&nbsp;km&#x00b2;) is land and 7&nbsp;square miles (19&nbsp;km&#x00b2;) (0.85%) is water.
+
+1357	TRUE	Montgomery County, Texas:: county	montgomery county / Land&# x2013;	
+<p> <strong> Montgomery County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Texas </a> within the <a> Houston&#x2013;Sugar&nbsp;Land&#x2013;Baytown metropolitan area </a> .
+
+1358	TRUE	Montgomery County, Texas:: state	texas / Texas	
+<p> <strong> Montgomery County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Texas </a> within the <a> Houston&#x2013;Sugar&nbsp;Land&#x2013;Baytown metropolitan area </a> .
+
+1361	TRUE	Montgomery County, Texas:: area_water_sq_mi	33 / 33&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 1,077&nbsp;square miles (2,789&nbsp;km&#x00b2;), of which 1,044&nbsp;square miles (2,704&nbsp;km&#x00b2;) is land and 33&nbsp;square miles (85&nbsp;km&#x00b2;) (3.04%) is water. </p>
+
+1363	TRUE	Montgomery County, Texas:: density_km2	109 / (109/	
+The <a> population density </a> was 281 people per square mile (109/km&#x00b2;).
+
+1364	FALSE	Montgomery County, Texas:: founded	1837 / of	
+The <a> seat </a> of the county is <a> Conroe </a> . </p>
+
+1382	TRUE	Montgomery County, Pennsylvania:: county	montgomery county / United States	
+<p> <strong> Montgomery County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Pennsylvania </a> , in the <a> United States </a> .
+
+1383	TRUE	Montgomery County, Pennsylvania:: state	pennsylvania / Pennsylvania	
+<p> <strong> Montgomery County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Pennsylvania </a> , in the <a> United States </a> .
+
+1384	TRUE	Montgomery County, Pennsylvania:: area_total_sq_mi	487 / 4&	
+<p> According to the <a> United States Census Bureau </a> , the county has a total area of 487square miles (1,262&nbsp;km&#x00b2;), of which 483 square miles (1,251&nbsp;km&#x00b2;) is land and 4&nbsp;square miles (11&nbsp;km&#x00b2;) (0.89%) is water. </p>
+
+1385	TRUE	Montgomery County, Pennsylvania:: area_land_sq_mi	483 / (0.	
+<p> According to the <a> United States Census Bureau </a> , the county has a total area of 487square miles (1,262&nbsp;km&#x00b2;), of which 483 square miles (1,251&nbsp;km&#x00b2;) is land and 4&nbsp;square miles (11&nbsp;km&#x00b2;) (0.89%) is water. </p>
+
+1386	TRUE	Montgomery County, Pennsylvania:: area_water_sq_mi	4 / 4&	
+<p> According to the <a> United States Census Bureau </a> , the county has a total area of 487square miles (1,262&nbsp;km&#x00b2;), of which 483 square miles (1,251&nbsp;km&#x00b2;) is land and 4&nbsp;square miles (11&nbsp;km&#x00b2;) (0.89%) is water. </p>
+
+1387	TRUE	Montgomery County, Pennsylvania:: density_km2	599 / (599/	
+The <a> population density </a> was 1,553 people per square mile (599/km&#x00b2;).
+
+1417	TRUE	Montgomery County, Alabama:: state	alabama / Alabama	
+<p> <strong> Montgomery County </strong> is a <a> county </a> in the <a> U.S. state </a> of <a> Alabama </a> .
+
+1420	TRUE	Montgomery County, Alabama:: area_water_sq_mi	10 / 223	
+It is the most populous county in the Montgomery <a> Metropolitan Statistical Area </a> ; its population in 2000 was 223,510. </p>
+
+1429	TRUE	Poweshiek County, Iowa:: area_total_sq_mi	586 / (0.	
+<p> According to the <a> United States Census Bureau </a> , the county has a total area of 586&nbsp;square miles (1,518&nbsp;km&#x00b2;), of which 585&nbsp;square miles (1,515&nbsp;km&#x00b2;) is land and 1&nbsp;square mile (3&nbsp;km&#x00b2;) (0.19%) is water. </p>
+
+1430	TRUE	Poweshiek County, Iowa:: area_land_sq_mi	585 / (0.	
+<p> According to the <a> United States Census Bureau </a> , the county has a total area of 586&nbsp;square miles (1,518&nbsp;km&#x00b2;), of which 585&nbsp;square miles (1,515&nbsp;km&#x00b2;) is land and 1&nbsp;square mile (3&nbsp;km&#x00b2;) (0.19%) is water. </p>
+
+1431	TRUE	Poweshiek County, Iowa:: area_water_sq_mi	1 / (0.	
+<p> According to the <a> United States Census Bureau </a> , the county has a total area of 586&nbsp;square miles (1,518&nbsp;km&#x00b2;), of which 585&nbsp;square miles (1,515&nbsp;km&#x00b2;) is land and 1&nbsp;square mile (3&nbsp;km&#x00b2;) (0.19%) is water. </p>
+
+1433	TRUE	Poweshiek County, Iowa:: density_km2	12 / (12/	
+The <a> population density </a> was 32 people per square mile (12/km&#x00b2;).
+
+1434	TRUE	Poweshiek County, Iowa:: founded	1843 / 1843.	
+<p> Poweshiek County was formed in 1843.
+
+1437	TRUE	Poweshiek County, Iowa:: area_water_km2	3 / (3&	
+<p> According to the <a> United States Census Bureau </a> , the county has a total area of 586&nbsp;square miles (1,518&nbsp;km&#x00b2;), of which 585&nbsp;square miles (1,515&nbsp;km&#x00b2;) is land and 1&nbsp;square mile (3&nbsp;km&#x00b2;) (0.19%) is water. </p>
+
+1438	TRUE	Poweshiek County, Iowa:: density_sq_mi	32 / (12/	
+The <a> population density </a> was 32 people per square mile (12/km&#x00b2;).
+
+1439	TRUE	Poweshiek County, Iowa:: county	poweshiek county / Iowa City	
+<p> <strong> Poweshiek County </strong> is a <a> county </a> located in southeastern part of the <a> U.S. state </a> of <a> Iowa </a> along <a> Interstate 80 </a> , between <a> Des Moines </a> and <a> Iowa City </a> .
+
+1440	TRUE	Poweshiek County, Iowa:: state	iowa / Iowa	
+<p> <strong> Poweshiek County </strong> is a <a> county </a> located in southeastern part of the <a> U.S. state </a> of <a> Iowa </a> along <a> Interstate 80 </a> , between <a> Des Moines </a> and <a> Iowa City </a> .
+
+1442	TRUE	Caroline County, Maryland:: state	maryland / Shore	
+<p> <strong> Caroline County </strong> is a wholly rural <a> county </a> located in the <a> U.S. state </a> of <a> Maryland </a> on its <a> Eastern Shore </a> .
+
+1445	FALSE	Caroline County, Maryland:: area_water_sq_mi	6 / (1.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and (1.82%) is water.
+
+1452	TRUE	Caroline County, Maryland:: density_sq_mi	93 / (36/	
+The <a> population density </a> was 93 people per square mile (36/km&#x00b2;).
+
+1455	FALSE	Carroll County, Maryland:: area_water_sq_mi	3 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and (0.72%) is water. </p>
+
+1456	TRUE	Carroll County, Maryland:: density_km2	130 / (130/	
+The <a> population density </a> was 336 people per square mile (130/km&#x00b2;).
+
+1463	TRUE	Carroll County, Maryland:: state	maryland / Maryland	
+<p> <strong> Carroll County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Maryland </a> .
+
+1464	TRUE	Dorchester County, Maryland:: state	maryland / Shore	
+<p> <strong> Dorchester County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Maryland </a> on its <a> Eastern Shore </a> .
+
+1467	TRUE	Dorchester County, Maryland:: density_km2	21 / (21/	
+The <a> population density </a> was 55 people per square mile (21/km&#x00b2;).
+
+1496	TRUE	Ohio County, West Virginia:: state	west virginia / West Virginia	
+<p> <strong> Ohio County </strong> is a <a> county </a> located in the <a> Northern Panhandle of West Virginia </a> .
+
+1497	TRUE	Ohio County, West Virginia:: area_total_sq_mi	109 / 109&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 109&nbsp; <a> square mile </a> s (282&nbsp; <a> km&#x00b2; </a> ), of which 106&nbsp;square miles (275&nbsp;kmsup2/sup) is land and 3&nbsp;square miles (7&nbsp;kmsup2/sup) (2.46%) is water.
+
+1498	TRUE	Ohio County, West Virginia:: area_land_sq_mi	106 / 106&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 109&nbsp; <a> square mile </a> s (282&nbsp; <a> km&#x00b2; </a> ), of which 106&nbsp;square miles (275&nbsp;kmsup2/sup) is land and 3&nbsp;square miles (7&nbsp;kmsup2/sup) (2.46%) is water.
+
+1499	TRUE	Ohio County, West Virginia:: area_water_sq_mi	3 / (2.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 109&nbsp; <a> square mile </a> s (282&nbsp; <a> km&#x00b2; </a> ), of which 106&nbsp;square miles (275&nbsp;kmsup2/sup) is land and 3&nbsp;square miles (7&nbsp;kmsup2/sup) (2.46%) is water.
+
+1500	TRUE	Ohio County, West Virginia:: density_km2	172 / (172/	
+The <a> population density </a> was 447 people per square mile (172/km&#x00b2;).
+
+1501	TRUE	Ohio County, West Virginia:: founded	1776 / 1776.	
+Formed from the <a> District of West Augusta </a> , <a> Virginia </a> , in 1776.
+
+1506	TRUE	Ohio County, West Virginia:: county	ohio county / West Virginia	
+<p> <strong> Ohio County </strong> is a <a> county </a> located in the <a> Northern Panhandle of West Virginia </a> .
+
+1516	TRUE	Davis County, Utah:: state	utah / Utah	
+<p> : <em> For the Davis County Cooperative Society, see <a> Latter Day Church of Christ </a> . </em> <strong> Davis County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Utah </a> .
+
+1519	FALSE	Davis County, Utah:: area_water_sq_mi	329 / (51.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and (51.95%) is water.
+
+1528	TRUE	Daggett County, Utah:: state	utah / Utah	
+<p> <strong> Daggett County </strong> is a <a> county </a> located in the northeastern corner of the <a> U.S. state </a> of <a> Utah </a> .
+
+1531	FALSE	Daggett County, Utah:: area_water_sq_mi	24 / (3.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and (3.42%) is water.
+
+1535	FALSE	Daggett County, Utah:: area_water_km2	64 / (3.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and (3.42%) is water.
+
+1536	TRUE	Daggett County, Utah:: density_sq_mi	1 / (1/	
+The <a> population density </a> was 1 people per square mile (1/km&#x00b2;).
+
+1537	TRUE	Daggett County, Utah:: pop	921 / 921	
+<p> As of the <a> census </a> of 2000, there were 921 people, 340 households, and 240 families residing in the county.
+
+1538	TRUE	Daggett County, Utah:: density_km2	1 / (1/	
+The <a> population density </a> was 1 people per square mile (1/km&#x00b2;).
+
+1540	TRUE	Carbon County, Utah:: state	utah / Utah	
+<p> <strong> Carbon County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Utah </a> .
+
+1542	FALSE	Carbon County, Utah:: area_water_sq_mi	6 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and (0.41%) is water. </p>
+
+1615	FALSE	Washington County, Maryland:: county	washington county / Private high	
+<p> <img> <strong> Private high schools </strong> </p>
+
+1616	TRUE	Washington County, Maryland:: area_total_sq_mi	468 / 9&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 468&nbsp;square miles (1,211&nbsp;km&#x00b2;), of which 458&nbsp;square miles (1,187&nbsp;km&#x00b2;) is land and 9&nbsp;square miles (24&nbsp;km&#x00b2;) (2.01%) is water.
+
+1617	TRUE	Washington County, Maryland:: area_land_sq_mi	458 / (2.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 468&nbsp;square miles (1,211&nbsp;km&#x00b2;), of which 458&nbsp;square miles (1,187&nbsp;km&#x00b2;) is land and 9&nbsp;square miles (24&nbsp;km&#x00b2;) (2.01%) is water.
+
+1624	TRUE	Washington County, Maryland:: state	maryland / West Virginia	
+<p> <strong> Washington County </strong> is a <a> county </a> located in the <a> western part </a> of the <a> U.S. state </a> of <a> Maryland </a> , bordering southern <a> Pennsylvania </a> to the north, <a> northern Virginia </a> to the south, and the <a> Eastern Panhandle of West Virginia </a> to the south and west.
+
+1626	TRUE	Washington County, Maryland:: area_water_sq_mi	9 / 9&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 468&nbsp;square miles (1,211&nbsp;km&#x00b2;), of which 458&nbsp;square miles (1,187&nbsp;km&#x00b2;) is land and 9&nbsp;square miles (24&nbsp;km&#x00b2;) (2.01%) is water.
+
+1653	TRUE	Nassau County, New York:: county	nassau county / New York	
+<strong> Nassau County </strong> () is a suburban <a> county </a> on <a> Long Island </a> , east of <a> New York City </a> in the <a> U.S. state </a> of <a> New York </a> , within the <a> New York Metropolitan Area </a> .
+
+1654	TRUE	Nassau County, New York:: state	new york / New	
+<strong> Nassau County </strong> () is a suburban <a> county </a> on <a> Long Island </a> , east of <a> New York City </a> in the <a> U.S. state </a> of <a> New York </a> , within the <a> New York Metropolitan Area </a> .
+
+1655	TRUE	Nassau County, New York:: area_total_sq_mi	453 / (36.	
+<p> According to the U.S. Census Bureau, the county has a total area of 453&nbsp;square miles (1,173&nbsp;km&#x00b2;) of which 287&nbsp;square miles (743&nbsp;km&#x00b2;) of it is land and 166&nbsp;square miles (431&nbsp;km&#x00b2;) of it (36.72%) is water. </p>
+
+1656	TRUE	Nassau County, New York:: area_land_sq_mi	287 / (36.	
+<p> According to the U.S. Census Bureau, the county has a total area of 453&nbsp;square miles (1,173&nbsp;km&#x00b2;) of which 287&nbsp;square miles (743&nbsp;km&#x00b2;) of it is land and 166&nbsp;square miles (431&nbsp;km&#x00b2;) of it (36.72%) is water. </p>
+
+1657	TRUE	Nassau County, New York:: area_water_sq_mi	166 / (36.	
+<p> According to the U.S. Census Bureau, the county has a total area of 453&nbsp;square miles (1,173&nbsp;km&#x00b2;) of which 287&nbsp;square miles (743&nbsp;km&#x00b2;) of it is land and 166&nbsp;square miles (431&nbsp;km&#x00b2;) of it (36.72%) is water. </p>
+
+1660	FALSE	Nassau County, New York:: founded	1899 / 1994	
+<p> In 1994, Federal Judge Arthur Spatt declared the Nassau County Board of Supervisors unconstitutional and directed that a 19-member legislature be formed.
+
+1700	TRUE	Clay County, Iowa:: state	iowa / Iowa	
+<p> <strong> Clay County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Iowa </a> .
+
+1703	TRUE	Clay County, Iowa:: density_km2	12 / (12/	
+The <a> population density </a> was 30 people per square mile (12/km&#x00b2;).
+
+1708	FALSE	Clay County, Iowa:: area_water_km2	9 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and (0.63%) is water.
+
+1709	TRUE	Clay County, Iowa:: density_sq_mi	30 / (12/	
+The <a> population density </a> was 30 people per square mile (12/km&#x00b2;).
+
+1710	FALSE	Clay County, Iowa:: area_water_sq_mi	4 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and (0.63%) is water.
+
+1721	TRUE	Genesee County, New York:: county	genesee county / New York	
+<p> <strong> Genesee County </strong> is a <a> county </a> located in <a> Western </a> <a> New York </a> , <a> United States </a> .
+
+1722	TRUE	Genesee County, New York:: state	new york / New	
+<p> <strong> Genesee County </strong> is a <a> county </a> located in <a> Western </a> <a> New York </a> , <a> United States </a> .
+
+1724	FALSE	Genesee County, New York:: area_water_sq_mi	1 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and (0.25%) is water. </p>
+
+1726	TRUE	Genesee County, New York:: density_km2	47 / (47/	
+The <a> population density </a> was 122 people per square mile (47/km&#x00b2;).
+
+1756	TRUE	Warren County, New York:: county	warren county / Warren County	
+<p> <strong> Warren County </strong> is a <a> county </a> in the U.S. state of <a> New York </a> .
+
+1757	TRUE	Warren County, New York:: state	new york / New	
+<p> <strong> Warren County </strong> is a <a> county </a> in the U.S. state of <a> New York </a> .
+
+1758	TRUE	Warren County, New York:: area_total_sq_mi	932 / 62&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 932&nbsp;square miles (2,413&nbsp;km&#x00b2;), of which 869&nbsp;square miles (2,251&nbsp;km&#x00b2;) consists of land and 62&nbsp;square miles (162&nbsp;km&#x00b2;) (6.69%) consists of water.
+
+1759	TRUE	Warren County, New York:: area_water_sq_mi	62 / 62&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 932&nbsp;square miles (2,413&nbsp;km&#x00b2;), of which 869&nbsp;square miles (2,251&nbsp;km&#x00b2;) consists of land and 62&nbsp;square miles (162&nbsp;km&#x00b2;) (6.69%) consists of water.
+
+1764	TRUE	Warren County, New York:: density_km2	28 / (28/	
+The <a> population density </a> was 73 people per square mile (28/km&#x00b2;).
+
+1794	TRUE	Montgomery County, Illinois:: state	illinois / Illinois	
+<p> <strong> Montgomery County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Illinois </a> .
+
+1795	TRUE	Montgomery County, Illinois:: area_total_sq_mi	710 / 6&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 710&nbsp;square miles (1,838&nbsp;km&#x00b2;), of which 704&nbsp;square miles (1,823&nbsp;km&#x00b2;) is land and 6&nbsp;square miles (15&nbsp;km&#x00b2;) (0.84%) is water. </p>
+
+1796	TRUE	Montgomery County, Illinois:: area_land_sq_mi	704 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 710&nbsp;square miles (1,838&nbsp;km&#x00b2;), of which 704&nbsp;square miles (1,823&nbsp;km&#x00b2;) is land and 6&nbsp;square miles (15&nbsp;km&#x00b2;) (0.84%) is water. </p>
+
+1797	TRUE	Montgomery County, Illinois:: area_water_sq_mi	6 / 6&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 710&nbsp;square miles (1,838&nbsp;km&#x00b2;), of which 704&nbsp;square miles (1,823&nbsp;km&#x00b2;) is land and 6&nbsp;square miles (15&nbsp;km&#x00b2;) (0.84%) is water. </p>
+
+1799	TRUE	Montgomery County, Illinois:: density_km2	17 / (17/	
+The <a> population density </a> was 44 people per square mile (17/km&#x00b2;).
+
+1800	TRUE	Montgomery County, Illinois:: founded	1821 / 1821	
+<p> Montgomery County was formed in 1821 out of <a> Bond </a> and <a> Madison Counties </a> .
+
+1804	TRUE	Montgomery County, Illinois:: area_water_km2	15 / (15&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 710&nbsp;square miles (1,838&nbsp;km&#x00b2;), of which 704&nbsp;square miles (1,823&nbsp;km&#x00b2;) is land and 6&nbsp;square miles (15&nbsp;km&#x00b2;) (0.84%) is water. </p>
+
+1805	TRUE	Montgomery County, Illinois:: density_sq_mi	44 / (17/	
+The <a> population density </a> was 44 people per square mile (17/km&#x00b2;).
+
+1818	TRUE	Montgomery County, Iowa:: state	iowa / Iowa	
+<p> <strong> Montgomery County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Iowa </a> .
+
+1819	TRUE	Montgomery County, Iowa:: area_total_sq_mi	425 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 425&nbsp;square miles (1,100&nbsp;km&#x00b2;), of which 424&nbsp;square miles (1,098&nbsp;km&#x00b2;) is land and 1&nbsp;square mile (2&nbsp;km&#x00b2;) (0.22%) is water. </p>
+
+1820	TRUE	Montgomery County, Iowa:: area_land_sq_mi	424 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 425&nbsp;square miles (1,100&nbsp;km&#x00b2;), of which 424&nbsp;square miles (1,098&nbsp;km&#x00b2;) is land and 1&nbsp;square mile (2&nbsp;km&#x00b2;) (0.22%) is water. </p>
+
+1821	TRUE	Montgomery County, Iowa:: area_water_sq_mi	1 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 425&nbsp;square miles (1,100&nbsp;km&#x00b2;), of which 424&nbsp;square miles (1,098&nbsp;km&#x00b2;) is land and 1&nbsp;square mile (2&nbsp;km&#x00b2;) (0.22%) is water. </p>
+
+1823	TRUE	Montgomery County, Iowa:: density_km2	11 / (11/	
+The <a> population density </a> was 28 people per square mile (11/km&#x00b2;).
+
+1827	TRUE	Montgomery County, Iowa:: area_water_km2	2 / (2&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 425&nbsp;square miles (1,100&nbsp;km&#x00b2;), of which 424&nbsp;square miles (1,098&nbsp;km&#x00b2;) is land and 1&nbsp;square mile (2&nbsp;km&#x00b2;) (0.22%) is water. </p>
+
+1828	TRUE	Montgomery County, Iowa:: density_sq_mi	28 / (11/	
+The <a> population density </a> was 28 people per square mile (11/km&#x00b2;).
+
+1829	FALSE	Montgomery County, Iowa:: web	www.montgomerycountyiowa.com / <p> [[File:Montgomery County, Iowa.jpg|right50px|thumb|Montgomery County Courthouse, [[Henry C. Koch]], architect, 1891]]	
+<p> [[File:Montgomery County, Iowa.jpg|right|250px|thumb|Montgomery County Courthouse, [[Henry C. Koch]], architect, 1891]] </p>
+
+1831	TRUE	Montgomery County, Kentucky:: state	kentucky / Kentucky	
+<p> <strong> Montgomery County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Kentucky </a> .
+
+1832	FALSE	Montgomery County, Kentucky:: area_water_sq_mi	0 / p>	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of essentially all of which is land. </p>
+
+1862	TRUE	Montgomery County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Montgomery County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Tennessee </a> .
+
+1863	TRUE	Montgomery County, Tennessee:: area_total_sq_mi	544 / 5&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 544&nbsp;square miles (1,409&nbsp;km&#x00b2;), of which 539&nbsp;square miles (1,397&nbsp;km&#x00b2;) is land and 5&nbsp;square miles (12&nbsp;km&#x00b2;) (0.84%) is water. </p>
+
+1864	TRUE	Montgomery County, Tennessee:: area_land_sq_mi	539 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 544&nbsp;square miles (1,409&nbsp;km&#x00b2;), of which 539&nbsp;square miles (1,397&nbsp;km&#x00b2;) is land and 5&nbsp;square miles (12&nbsp;km&#x00b2;) (0.84%) is water. </p>
+
+1865	TRUE	Montgomery County, Tennessee:: area_water_sq_mi	5 / 5&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 544&nbsp;square miles (1,409&nbsp;km&#x00b2;), of which 539&nbsp;square miles (1,397&nbsp;km&#x00b2;) is land and 5&nbsp;square miles (12&nbsp;km&#x00b2;) (0.84%) is water. </p>
+
+1867	TRUE	Montgomery County, Tennessee:: density_km2	96 / (96/	
+The <a> population density </a> was 250 people per square mile (96/km&#x00b2;).
+
+1874	TRUE	Montgomery County, Missouri:: state	missouri / U.	
+<p> <strong> Montgomery County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Missouri </a> .
+
+1875	TRUE	Montgomery County, Missouri:: area_total_sq_mi	540 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 540&nbsp;square miles (1,399&nbsp;km&#x00b2;), of which, 537&nbsp;square miles (1,392&nbsp;km&#x00b2;) of it is land and 3&nbsp;square miles (7&nbsp;km&#x00b2;) of it (0.53%) is water. </p>
+
+1876	TRUE	Montgomery County, Missouri:: area_land_sq_mi	537 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 540&nbsp;square miles (1,399&nbsp;km&#x00b2;), of which, 537&nbsp;square miles (1,392&nbsp;km&#x00b2;) of it is land and 3&nbsp;square miles (7&nbsp;km&#x00b2;) of it (0.53%) is water. </p>
+
+1877	TRUE	Montgomery County, Missouri:: area_water_sq_mi	3 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 540&nbsp;square miles (1,399&nbsp;km&#x00b2;), of which, 537&nbsp;square miles (1,392&nbsp;km&#x00b2;) of it is land and 3&nbsp;square miles (7&nbsp;km&#x00b2;) of it (0.53%) is water. </p>
+
+1879	TRUE	Montgomery County, Missouri:: density_km2	9 / (9/	
+The <a> population density </a> was 23 people per square mile (9/km&#x00b2;).
+
+1884	TRUE	Montgomery County, Missouri:: area_water_km2	7 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 540&nbsp;square miles (1,399&nbsp;km&#x00b2;), of which, 537&nbsp;square miles (1,392&nbsp;km&#x00b2;) of it is land and 3&nbsp;square miles (7&nbsp;km&#x00b2;) of it (0.53%) is water. </p>
+
+1885	TRUE	Montgomery County, Missouri:: density_sq_mi	23 / (9/	
+The <a> population density </a> was 23 people per square mile (9/km&#x00b2;).
+
+1910	TRUE	Montgomery County, Indiana:: state	indiana / U.	
+<p> <strong> Montgomery County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Indiana </a> .
+
+1913	TRUE	Montgomery County, Indiana:: area_water_sq_mi	1 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 505&nbsp;square miles (1,309&nbsp;km&#x00b2;), of which 505&nbsp;square miles (1,307&nbsp;km&#x00b2;) is land and 1&nbsp;square mile (2&nbsp;km&#x00b2;) (0.16%) is water. </p>
+
+1914	TRUE	Montgomery County, Indiana:: density_km2	29 / (29/	
+The <a> population density </a> was 75 people per square mile (29/km&#x00b2;).
+
+1915	FALSE	Montgomery County, Indiana:: founded	1823 / and	
+The money raised from the sale, mostly in the form of gold and silver, was packed into kegs, hauled by wagon to Louisville, carried by boat up the Ohio River, and eventually to Washington, D.C. Settlement increased substantially during the subsequent year. </pre>
+
+1918	TRUE	Montgomery County, Indiana:: area_water_km2	2 / (2&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 505&nbsp;square miles (1,309&nbsp;km&#x00b2;), of which 505&nbsp;square miles (1,307&nbsp;km&#x00b2;) is land and 1&nbsp;square mile (2&nbsp;km&#x00b2;) (0.16%) is water. </p>
+
+1921	TRUE	Montgomery County, Indiana:: density_sq_mi	75 / (29/	
+The <a> population density </a> was 75 people per square mile (29/km&#x00b2;).
+
+1922	TRUE	Putnam County, Ohio:: county	putnam county / United States	
+<p> <strong> Putnam County </strong> is a <a> county </a> located in the <a> state </a> of <a> Ohio </a> , <a> United States </a> .
+
+1923	TRUE	Putnam County, Ohio:: state	ohio / Ohio	
+<p> <strong> Putnam County </strong> is a <a> county </a> located in the <a> state </a> of <a> Ohio </a> , <a> United States </a> .
+
+1924	TRUE	Putnam County, Ohio:: area_land_sq_mi	484 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 484&nbsp;square miles (1,254&nbsp;km&#x00b2;). 484&nbsp;square miles (1,253&nbsp;km&#x00b2;) of it is land and 0&nbsp;square miles (1&nbsp;km&#x00b2;) of it (0.07%) is water. </p>
+
+1925	TRUE	Putnam County, Ohio:: area_water_sq_mi	0 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 484&nbsp;square miles (1,254&nbsp;km&#x00b2;). 484&nbsp;square miles (1,253&nbsp;km&#x00b2;) of it is land and 0&nbsp;square miles (1&nbsp;km&#x00b2;) of it (0.07%) is water. </p>
+
+1931	TRUE	Putnam County, Ohio:: density_sq_mi	72 / (28/	
+The <a> population density </a> was 72 people per square mile (28/km&#x00b2;).
+
+1932	TRUE	Putnam County, Ohio:: density_km2	28 / (28/	
+The <a> population density </a> was 72 people per square mile (28/km&#x00b2;).
+
+1933	TRUE	Putnam County, Ohio:: area_water_km2	1 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 484&nbsp;square miles (1,254&nbsp;km&#x00b2;). 484&nbsp;square miles (1,253&nbsp;km&#x00b2;) of it is land and 0&nbsp;square miles (1&nbsp;km&#x00b2;) of it (0.07%) is water. </p>
+
+1947	TRUE	Putnam County, Tennessee:: area_total_sq_mi	403 / 403&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 403&nbsp; <a> square mile </a> s (1,043&nbsp; <a> km&#x00b2; </a> ), of which 401&nbsp;square miles (1,039&nbsp;km&#x00b2;) is land and 2&nbsp;square miles (4&nbsp;km&#x00b2;) (0.37%) is water. </p>
+
+1948	TRUE	Putnam County, Tennessee:: area_land_sq_mi	401 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 403&nbsp; <a> square mile </a> s (1,043&nbsp; <a> km&#x00b2; </a> ), of which 401&nbsp;square miles (1,039&nbsp;km&#x00b2;) is land and 2&nbsp;square miles (4&nbsp;km&#x00b2;) (0.37%) is water. </p>
+
+1949	TRUE	Putnam County, Tennessee:: area_water_sq_mi	2 / 2&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 403&nbsp; <a> square mile </a> s (1,043&nbsp; <a> km&#x00b2; </a> ), of which 401&nbsp;square miles (1,039&nbsp;km&#x00b2;) is land and 2&nbsp;square miles (4&nbsp;km&#x00b2;) (0.37%) is water. </p>
+
+1951	TRUE	Putnam County, Tennessee:: density_km2	60 / (60/	
+The <a> population density </a> was 155 people per square mile (60/km&#x00b2;).
+
+1952	FALSE	Putnam County, Tennessee:: founded	11 february 1854 / 1854	
+The 1854 act reestablishing Putnam was passed after Representative Henderson M. Clements of Jackson County assured his colleagues that a new survey showed that there was sufficient area to form the county.
+
+1957	TRUE	Putnam County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Putnam County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Tennessee </a> .
+
+1959	TRUE	Benton County, Washington:: state	washington / Washington	
+<p> <strong> Benton County </strong> is a <a> county </a> located in the south-central portion of the <a> U.S. state </a> of <a> Washington </a> .
+
+1962	FALSE	Benton County, Washington:: area_water_sq_mi	57 / (3.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and (3.24%) is water. </p>
+
+1964	TRUE	Benton County, Washington:: density_km2	32 / (32/	
+The <a> population density </a> was 84 people per square mile (32/km&#x00b2;).
+
+1965	FALSE	Benton County, Washington:: founded	march 8, 1905 / (3.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and (3.24%) is water. </p>
+
+1971	TRUE	Montgomery County, Georgia:: state	georgia / U.	
+<p> <strong> Montgomery County </strong> is a <a> county </a> in the <a> U.S. state </a> of <a> Georgia </a> .
+
+1972	FALSE	Montgomery County, Georgia:: area_total_sq_mi	247 / (0.	
+635&nbsp;km&#x00b2; (245&nbsp;mi&#x00b2;) of it is land and 5&nbsp;km&#x00b2; (2&nbsp;mi&#x00b2;) of it (0.80%) is water. </p>
+
+1974	TRUE	Montgomery County, Georgia:: area_water_sq_mi	2 / (247&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 641&nbsp;km&#x00b2; (247&nbsp;mi&#x00b2;).
+
+1976	TRUE	Montgomery County, Georgia:: density_km2	13 / 13/	
+The <a> population density </a> was 13/km&#x00b2; (34/mi&#x00b2;).
+
+1979	FALSE	Montgomery County, Georgia:: area_total_km2	641 / 635&	
+635&nbsp;km&#x00b2; (245&nbsp;mi&#x00b2;) of it is land and 5&nbsp;km&#x00b2; (2&nbsp;mi&#x00b2;) of it (0.80%) is water. </p>
+
+1981	FALSE	Montgomery County, Georgia:: area_water_km2	5 / 641&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 641&nbsp;km&#x00b2; (247&nbsp;mi&#x00b2;).
+
+1982	TRUE	Montgomery County, Georgia:: density_sq_mi	34 / (34/	
+The <a> population density </a> was 13/km&#x00b2; (34/mi&#x00b2;).
+

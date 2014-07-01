@@ -1,3 +1,0 @@
-<li>mathematics and natural sciences</li>
-<li>agriculture and environmental sciences</li>
-<li>economic and social sciences</li>

@@ -1,2 +1,0 @@
-<li><strong>College of Arts and Humanities</strong></li>
-<li><strong>College of Social Sciences</strong></li>

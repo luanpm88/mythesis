@@ -1,0 +1,13 @@
+Found: 91
+Found Not Null: 1
+Correct: 0
+Wrong: 1
+Total: 1
+precision: 0.0
+recall: 0.0
+
+
+
+35	FALSE	Barnard College::campus	urban / <a>	
+<p> <strong> Barnard College </strong> is an independently incorporated <a> women's </a> <a> liberal arts college </a> , an official college of <a> Columbia University </a> , and a member of the <a> Seven Sisters </a> .
+

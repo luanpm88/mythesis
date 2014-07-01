@@ -1,0 +1,84 @@
+Found: 27
+Found Not Null: 14
+Correct: 10
+Wrong: 4
+Total: 17
+precision: 0.7142857142857143
+recall: 0.5882352941176471
+
+
+
+0	TRUE	Jill Goodacre::name	jill goodacre connick / is an	
+<p> <strong> Jill Goodacre Connick </strong> ( born March 29 , 1965 in <a> Lubbock </a> , <a> Texas </a> ) is an <a> American </a> actress and former <a> model </a> .
+
+1	TRUE	Robert Blake (actor)::name	robert blake / Robert Blake	
+<p> <strong> Robert Blake </strong> ( b .
+
+#	NEW	name	........ / William Roache	// <p> <strong> Linus William Roache </strong> ( born 1 February 1964 ) is an <a> English </a> <a> actor </a> . </p>
+
+3	FALSE	Rebecca Romijn::name	rebecca romijn / fashion model	
+<p> <strong> Rebecca Alie Romijn </strong> ( , ; born November 6 , 1972 ) is a <a> Dutch American </a> <a> actress </a> and former <a> fashion model </a> .
+
+4	TRUE	Melanie Chartoff::name	melanie chartoff / Melanie Chartoff	
+<p> <strong> Melanie Chartoff </strong> ( born December 15 , 1950 ) is an <a> American </a> actress .
+
+#	NEW	name	........ / Holby City	// <p> <strong> Laura Ruth Sadler </strong> ( 25 December 1980 &ndash ; 19 June 2003 ) was an English <a> actress </a> best known for her role as nurse <a> Sandy Harper </a> in the <a> BBC One </a> <a> hospital </a> <a> drama </a> series <em> <a> Holby City </a> </em> . </p>
+
+#	NEW	name	........ / le Liljeberg	// <p> <strong> Rebecka M&#x00e5 ; nstr&#x00e5 ; le Liljeberg </strong> ( born May 13 , 1981 ) is a Swedish actress . </p>
+
+#	NEW	name	........ / Marcia Lynne &	// <p> <strong> Marcia Lynne &quot ; Marcheline&quot ; Bertrand </strong> , and a sister , Debbie Bertrand .
+
+8	FALSE	Sam Mendes::name	sam mendes / Samuel Alexander &	
+<p> <strong> Samuel Alexander &quot ; Sam&quot ; Mendes </strong> , <a> CBE </a> ( born 1 August 1965 ) is an English stage and film director .
+
+#	NEW	name	........ / Jonathan Lee	// <p> <strong> Jonathan Lee </strong> &quot ; <strong> Jonny Lee </strong> &quot ; <strong> Miller </strong> ( born 15 November 1972 ) is an <a> English </a> <a> actor </a> .
+
+10	TRUE	Keith Coogan::name	keith coogan / Keith Coogan	
+<p> <strong> Keith Coogan </strong> ( born January 13 , 1970 ) is an <a> American </a> actor .
+
+11	TRUE	Mary Elizabeth Mastrantonio::name	mary elizabeth mastrantonio / Robin Hood :	
+<p> <strong> Mary Elizabeth Mastrantonio </strong> ( born November 17 , 1958 ) is an <a> American </a> actress and singer known for her role as Carmen in <em> <a> The Color of Money </a> </em> , as well as for her roles as Lindsey Brigman in <em> <a> The Abyss </a> </em> , Gina Montana in <em> <a> Scarface </a> </em> , and <a> Maid Marian </a> in <em> <a> Robin Hood : Prince of Thieves </a> </em> . </p>
+
+#	NEW	name	........ / Richard Hunt	// <p> <strong> Jerry Nelson </strong> ( born July 10 , 1934 ) is an American <a> Muppet </a> <a> puppeteer </a> , known for his wide range of characters , singing abilities , and his frequent partnership with <a> Richard Hunt </a> . </p>
+
+13	FALSE	Telly Savalas::name	telly savalas / four decades.	
+<p> <strong> Aristotelis &quot ; Telly&quot ; Savalas </strong> ( ; January 21 , 1922 <img> January 22 , 1994 ) was an American <a> film </a> and <a> television </a> actor and singer , whose career spanned four decades . </p>
+
+14	TRUE	John Sessions::name	john sessions / John Sessions	
+<p> <strong> John Gibb Marshall </strong> ( born 11 January 1953 ) , better known by the stage name <strong> John Sessions </strong> , is a <a> Scottish </a> <a> actor </a> and <a> comedian </a> .
+
+#	NEW	name	........ / Crossing Jordan	// <p> <strong> Jeremiah &quot ; Jerry&quot ; O ' Connell </strong> ( born February 17 , 1974 ) is an American actor , best known for his roles in the TV series <em> <a> Sliders </a> </em> , Andrew Clements in <em> <a> My Secret Identity </a> </em> , Vern Tessio in the film <em> <a> Stand by Me </a> </em> , Charlie Carbone in <em> <a> Kangaroo Jack </a> </em> , and Detective Woody Hoyt on the drama <em> <a> Crossing Jordan </a> </em> .
+
+16	TRUE	Krisse Salminen::name	krisse salminen / television talkshow	
+<p> <strong> Krisse Salminen </strong> ( born <strong> Heidi Kristiina Salminen </strong> May 28 , 1976 in <a> Hollola </a> , <a> Finland </a> ) is a <a> Finnish </a> stand-up comedian and television talkshow hostess .
+
+#	NEW	name	........ / specializing in	// <p> <strong> Harold Allen Ramis </strong> ( born November 21 , 1944 ) is an <a> American </a> <a> actor </a> , <a> director </a> , and <a> writer </a> , specializing in comedy .
+
+18	TRUE	Charlie Sheen::name	charlie sheen / Charlie Sheen	
+<p> <strong> Carlos Irwin Estevez </strong> ( born September 3 , 1965 ) , known professionally as <strong> Charlie Sheen </strong> , is an American actor .
+
+#	NEW	name	........ / Alexander Medawar &	// <p> <strong> Alexander Medawar &quot ; Alex&quot ; Garland </strong> ( born 1970 ) is a British <a> novelist </a> and screenwriter . </p>
+
+#	NEW	name	........ / St . John	// <p> <strong> Jill St . John </strong> ( born August 19 , 1940 ) is an <a> American </a> <a> actress </a> .
+
+#	NEW	name	........ / destroy it .	// Tsukamoto has stated he has a love-hate relationship with Tokyo , and in the end the characters of this film set out to destroy it . </em> </strong>
+
+#	NEW	name	........ / del Toro	// <p> <strong> Benicio Monserrate Rafael del Toro S&#x00e1 ; nchez </strong> ( born February 19 , 1967 ) , better known as <strong> Benicio del Toro </strong> , is a <a> Puerto Rican </a> - <a> American </a> <a> actor </a> and <a> film producer </a> .
+
+23	FALSE	Erich von Stroheim::name	erich von stroheim / Director	
+<p> <strong> Director </strong> </p>
+
+#	NEW	name	........ / Jake Thomas	// <p> <strong> Jake Thomas </strong> ( born January 30 , 1990 ) is an American actor and singer known for his roles in the television show <em> <a> Lizzie McGuire </a> </em> , in which he plays Lizzie ' s younger brother , Matt McGuire .
+
+25	TRUE	Michael Landon::name	michael landon / that spanned	
+<p> <strong> Michael Landon </strong> ( October 31 , 1936 &ndash ; July 1 , 1991 ) was an American actor , writer , <a> director </a> , and <a> producer </a> , who starred in three popular <a> NBC </a> <a> TV series </a> that spanned three decades .
+
+26	TRUE	Alberto Olmedo::name	alberto olmedo / and actor.	
+<p> <strong> Alberto Olmedo </strong> ( August 24 , 1933 &#x2013 ; March 5 , 1988 ) was an <a> Argentine </a> comedian and actor . </p>
+
+#	null	name	eddie cantor / ..........
+
+#	null	name	oscar levant / ..........
+
+#	null	name	bob flanagan / ..........
+

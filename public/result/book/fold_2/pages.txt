@@ -1,0 +1,950 @@
+Found: 462
+Found Not Null: 6
+Correct: 2
+Wrong: 4
+Total: 12
+precision: 0.3333333333333333
+recall: 0.16666666666666666
+
+
+
+#	NEW	pages	........ / 2008 .	// It was published on 25 January 2008 . </p>
+
+#	NEW	pages	........ / 1981 .	// the book was first published in 1976 , and republished in 1981 .
+
+#	NEW	pages	........ / 1889 .	// <p> The book was first printed in 1889 . </p>
+
+#	NEW	pages	........ / 2001 .	// They return to the U . S . , however , in early September 2001 , and Corey makes crucial discoveries which are quickly overshadowed by the tragic events of Sept . 11 , 2001 . </p>
+
+#	NEW	pages	........ / 2007 .	// <a> Bantam </a> published this edition in the <a> United States </a> in 2007 .
+
+#	NEW	pages	........ / ,	// Later Wallach realizes that he left the letter from his mother in the pages of the book and in his attempt to retrieve the book he meets Paul ' s wife , Libby .
+
+#	NEW	pages	........ / 2004	// E . Modesitt </a> published in <a> 2004 </a> . </p>
+
+#	NEW	pages	........ / ,	// <p> ! Release details ! ~*year , country , publisher ISBN 1234567890 , Pub date DD Month Year , binding~ ! major publication history to be included here , not everything if too extensive ! example ! *1999 , USA , C . S . Black &amp ; sons ISBN 8768768760 , Pub date 1 April 1999 , Hardback </p>
+
+#	NEW	pages	........ / 1964 .	// <p> <strong> <em> Black Hearts in Battersea </em> </strong> is a children ' s novel by <a> Joan Aiken </a> first published in 1964 .
+
+#	NEW	pages	........ / ,	// <p> Charlie then receives a mysterious visit from a man Mr . Onimous , who tells Charlie he was brought there by his three cats . ( Aries , Leo
+
+#	NEW	pages	........ / 2002 .	// <p> <strong> Invariances </strong> , published in 2001 by Harvard University Press , was <a> Robert Nozick </a> ' s last book before his death in 2002 . </p>
+
+#	NEW	pages	........ / 1966 .	// <p> <strong> <em> Vanity Dies Hard </em> </strong> is a novel by British writer <a> Ruth Rendell </a> , published in 1966 . </p>
+
+#	NEW	pages	........ / ,	// The book ends with Rick contemplating his future in Italy with his girlfriend , Livvy . </p>
+
+#	NEW	pages	........ / 1937 .	// It was originally published by <a> Grosset &amp ; Dunlap </a> in 1937 . </p>
+
+#	NEW	pages	........ / 2000 .	// Published by <a> Orion Publishing </a> in London in 1998 , it was translated into German by Deutscher Taschenbuch Verlag ( DTV ) in 2000 .
+
+#	NEW	pages	........ / 2001 .	// <p> <strong> <em> One Door Away From Heaven </em> </strong> is a novel by the best-selling author <a> Dean Koontz </a> , released in 2001 . </p>
+
+#	NEW	pages	........ / 1954	// <p> There is a compilation of short science-fiction stories published under the same title : <a> John Carnell </a> ' s <em> No Place like Earth : A Science Fiction Anthology ' ( <a> 1954 </a> ) .
+
+#	NEW	pages	........ / 2010 .	// The standard edition was finally published in February 2010 .
+
+#	NEW	pages	........ / ,	// <p> The book begins precisely where <em> Kidnapped </em> ends , at 2 PM on 25 August 1751 outside the <a> British Linen Company </a> in <a> Edinburgh </a> , Scotland . </p>
+
+#	NEW	pages	........ / quot ; .	// Mi&#x0142 ; osz describes the book as having been written &quot ; under great inner conflict&quot ; . </p>
+
+#	NEW	pages	........ / 2006 .	// A full-color poster of the book ' s cover was released on June 28 , 2006 . </strong> </em> </p>
+
+#	NEW	pages	........ / ,	// <p> ! Release details ! ~*year , country , publisher ISBN 1234567890 , Pub date DD Month Year , binding~ ! major publication history to be included here , not everything if too extensive ! example ! *1999 , USA , C . S . Black &amp ; sons ISBN 8768768760 , Pub date 1 April 1999 , Hardback </p>
+
+#	NEW	pages	........ / ( 109	// <p> There was also the <em> SuperBolan </em> series consisting of larger and thicker paperback books ( 109 issues published ) .
+
+#	NEW	pages	........ / 1951	// <p> <strong> <em> Ginger Pye </em> </strong> is a book by <a> Eleanor Estes </a> , originally published in <a> 1951 </a> .
+
+#	NEW	pages	........ / ,	// <p> Not only does his rival Davis find yet another rich tomb , right next to the debris-filled and empty tomb he excavates , once again somebody is still after the Emersons&#x2014 ; particularly , it seems , Amelia .
+
+#	NEW	pages	........ / 1972 .	// <p> <strong> <em> Murder Being Once Done </em> </strong> is a novel by British crime-writer <a> Ruth Rendell </a> , first published in 1972 .
+
+#	NEW	pages	........ / 55	// <p> The book opens with a short prologue set during the <a> first Roman invasion </a> in 55 BC .
+
+#	NEW	pages	........ / 1953 .	// <p> The story is referred to by <a> Ludwig Wittgenstein </a> in his <em> <a> Philosophical Investigations </a> </em> ( Section 339 ) , published posthumously in 1953 . </p>
+
+#	NEW	pages	........ / 1977 .	// A <a> film adaptation </a> of the book was released in 1977 . </p>
+
+#	NEW	pages	........ / 1859 .	// <p> <strong> <em> The Lifted Veil </em> </strong> is a <a> novella </a> by <a> George Eliot </a> , first published in 1859 .
+
+#	NEW	pages	........ / 3	// Ruby marries a young man who worked for them a few years and has 3 children . </p>
+
+#	NEW	pages	........ / 2002 .	// The novel was first published in New York in October , 2002 . </p>
+
+#	NEW	pages	........ / quot ; .	// The book was published in December 1918 bearing the dedication , &quot ; To Aesop in the shadows&quot ; . </p>
+
+#	NEW	pages	........ / book .	// <p> Its Dalrymple ' s fifth major book . </p>
+
+#	NEW	pages	........ / 1997 .	// <p> <strong> <em> Donnerjack </em> </strong> , a science fiction novel begun by <a> Roger Zelazny </a> and completed by <a> Jane Lindskold </a> , published 1997 . </p>
+
+#	NEW	pages	........ / 1941 .	// <p> <strong> <em> Missee Lee </em> </strong> is the tenth book of <a> Arthur Ransome </a> ' s <a> Swallows and Amazons </a> series of children ' s books , published in 1941 .
+
+#	NEW	pages	........ / book .	// The Gaia Hypothesis figures heavily in the book . </p>
+
+#	NEW	pages	........ / 2008 .	// The book was published by <a> Cartoon Books </a> in black-and-white in 2001 and in color by <a> Scholastic Press </a> in 2008 . </p>
+
+#	NEW	pages	........ / book .	// It is the second installment in the <em> Hatchet </em> series , but third in terms of chronology with <em> <a> Brian ' s Winter </a> </em> serving as an alternative second book . </p>
+
+#	NEW	pages	........ / 1982 .	// It was first published in 1982 . </p>
+
+#	NEW	pages	........ / 1860 .	// <p> The novel , for which is Collins most famous , was published in 1860 .
+
+#	NEW	pages	........ / 1968 .	// It was originally published in 1968 . </p>
+
+#	NEW	pages	........ / 300	// <p> The <a> Scottish Parliament </a> is about to reopen in <a> Edinburgh </a> after 300 years .
+
+#	NEW	pages	........ / 2005 .	// It was first published in 2005 . </p>
+
+#	NEW	pages	........ / 1995 .	// J . Cherryh </a> , and was first published by <a> Warner Books </a> in August 1995 .
+
+#	NEW	pages	........ / 1995 .	// The first book in the series , <em> <a> Rider at the Gate </a> </em> was published in August 1995 .
+
+#	NEW	pages	........ / ,	// He also plans to investigate the disappearance of a young musician , Sophrona .
+
+#	NEW	pages	........ / 2006 .	// <p> <strong> <em> Pig Island </em> </strong> is a novel by British writer <a> Mo Hayder </a> , first published in 2006 .
+
+#	NEW	pages	........ / 2006 .	// ISBN 1-59448-171-7 ( paperback ) 2006 . </p>
+
+#	NEW	pages	........ / 2007	// It is his first novel followed by <a> The Twenty-Second Day </a> in <a> 2007 </a> . </p>
+
+#	NEW	pages	........ / 1997 .	// <p> The 1st unabridged edition was published in 1995 and the 2nd unabridged edition was published in 1997 .
+
+#	NEW	pages	........ / ,	// <p> ! Release details ! ~*year , country , publisher ISBN 1234567890 , Pub date DD Month Year , binding~ ! major publication history to be included here , not everything if too extensive ! example ! *1999 , USA , C . S . Black &amp ; sons ISBN 8768768760 , Pub date 1 April 1999 , Hardback </p>
+
+#	NEW	pages	........ / ,	// <p> 1998 , USA , Tor Books , ISBN 0-812-57094-4 , October 1998 , Paperback </p>
+
+#	NEW	pages	........ / 2007	// It was also shortlisted for the Best First Book by the <a> Commonwealth Writers ' Prize </a> and won the Prix Grand Public at the 2007 Paris Book Fair . </p>
+
+#	NEW	pages	........ / 1993 .	// <p> <strong> <em> The Art of Dreaming </em> </strong> is an allegedly non-fictional book written by autho / anthropologist <a> Carlos Castaneda </a> and published in 1993 .
+
+#	NEW	pages	........ / ,	// <p> ! major publication history to be included here , not everything if too extensive ! example ! *1999 , USA , C . S . Black &amp ; sons ISBN 8768768760 , Pub date 1 April 1999 , Hardback </p>
+
+#	NEW	pages	........ / 1987	// It was published by Yearling Books in 1987 </p>
+
+#	NEW	pages	........ / 1971 .	// It was first published in hardback by <a> Doubleday </a> , and in paperback by <a> Curtis </a> in 1971 .
+
+#	NEW	pages	........ / 0810454769 ) .	// It was published by Hayden in 1977 and then by <a> SAMS </a> in 1980 ( ISBN 0810454769 ) . </p>
+
+#	NEW	pages	........ / 1942 .	// <p> <strong> <em> The Just and the Unjust </em> </strong> is a novel by <a> James Gould Cozzens </a> published in 1942 .
+
+#	NEW	pages	........ / 2008 .	// It was published in the <a> United States </a> on March 4 , 2008 . </p>
+
+#	NEW	pages	........ / 1910 .	// <p> <strong> <em> The Magic City </em> </strong> is a children ' s book by <a> Edith Nesbit </a> , first published in 1910 . </p>
+
+#	NEW	pages	........ / 2003 .	// The first hardcover edition was published by <a> Tor Books </a> in June 2002 ; a trade paperback followed from the same publisher in 2003 .
+
+#	NEW	pages	........ / 253 .	// Publishers Weekly 253 . 12 ( 20 Mar .
+
+#	NEW	pages	........ / 431	// Sprague de Camp </a> , published by <a> Arkham House </a> in an edition of 5 , 431 copies .
+
+#	NEW	pages	........ / 1984	// It was published in <a> 1984 </a> . </p>
+
+#	NEW	pages	........ / 1995 .	// The book was published in the United Kingdom as <strong> <em> The Dragons of Heorot </em> </strong> in 1995 .
+
+#	NEW	pages	........ / 2007 .	// <p> The follow-up to <em> The Healthy Dead </em> is <a> The Lees Of Laughter ' s End </a> , also published by PS Publishing in 2007 . </p>
+
+#	NEW	pages	........ / ,	// <p> The book follows Walter Mosca , an <a> American </a> <a> World War II </a> veteran who returns to <a> Germany </a> for his girlfriend , Hella .
+
+#	NEW	pages	........ / 2002 .	// <p> <strong> <em> A Corner of the Universe </em> </strong> is a children ' s novel by <a> Ann M . Martin </a> , published in 2002 .
+
+#	NEW	pages	........ / 1986 .	// It was first published by <a> Ballantine Books </a> in 1986 .
+
+#	NEW	pages	........ / 500 .	// : In April 2006 , <em> Firsts : The Book Collector ' s Magazine </em> estimated that the first edition of <em> Over My Dead Body </em> had a value of between $4 , 000 and $7 , 500 . </p>
+
+#	NEW	pages	........ / 1989 .	// It was first published by <a> Del Rey Books </a> in 1989 .
+
+#	NEW	pages	........ / 1997 .	// <p> <em> The Thief </em> was a <a> Newbery Honor </a> Book in 1997 . </p>
+
+#	NEW	pages	........ / ,	// It was first published in 1971 and , like the other volumes , remains in print . </p>
+
+#	NEW	pages	........ / 1963 .	// The story was originally serialized in <a> <em> Analog </em> </a> magazine ( November 1962 &#x2013 ; February 1963 ) , then published by <a> Ace Books </a> in 1963 .
+
+#	NEW	pages	........ / 1992 .	// It was first published in paperback by <a> Baen Books </a> in 1992 .
+
+#	NEW	pages	........ / 2007	// <p> The Scottish children ' s author Nicola Morgan used the poem as the background for her historical novels , <em> The Highwayman ' s Footsteps </em> and <em> The Highwayman ' s Curse </em> , published in 2006 and 2007 respectively . </p>
+
+#	NEW	pages	........ / 2002 .	// The first hardcover edition was issued by <a> Robert Hale </a> in 1984 , and the second by Tor Books in 2002 .
+
+#	NEW	pages	........ / 400	// People are consistently disappointed to learn that Christ weighed 400 lbs .
+
+80	TRUE	The Lost Generation (book)::pages	264 / 2006.	
+The book is 264 pages long and published by Haynes Group in August 2006 . </p>
+
+#	NEW	pages	........ / 6	// <p> The book is divided into 6 sections .
+
+#	NEW	pages	........ / 1999	// <p> <em> Ethel and Ernest </em> won the &quot ; Best Illustrated Book Of The Year&quot ; at the 1999 British Book Awards . </p>
+
+#	NEW	pages	........ / book .	// There are 4 special photo sections in the book . </p>
+
+#	NEW	pages	........ / 2004 .	// The hardcover edition of the novel was first published in July 2004 .
+
+#	NEW	pages	........ / 2007 .	// Although it was thought that the last annual was to be produced was the 2005 edition after the cancellation of the Chaser newspaper , the 2007 edition was released in mid-November 2007 . </p>
+
+#	NEW	pages	........ / ,	// <p> HarperCollins Publishers had planned to publish it under their Regan Books imprint on November 30 , 2006 .
+
+#	NEW	pages	........ / 1948 .	// The book was first published in <a> Zagreb </a> in 1948 . </p>
+
+#	NEW	pages	........ / 2004 .	// <p> The book was especially popular in <a> Australia </a> , where it was the seventh best-selling book in the country for a week in April 2004 .
+
+#	NEW	pages	........ / ,	// <p> The novel was released by publishing house <a> Alfred A . Knopf , Inc . </a> on September 26 , 2006 .
+
+#	NEW	pages	........ / quot ;	// The fact remains that the characters , events , and tricks now seem close to played out . &quot ; </p>
+
+#	NEW	pages	........ / 1976 .	// <p> The novel incorporates features of a substantially shorter and significantly different version published in <em> <a> The Magazine of Fantasy &amp ; Science Fiction </a> </em> in 1976 . </p>
+
+#	NEW	pages	........ / ,	// All books after The Unknown were dedicated to Applegate ' s son , Jake , as well as her husband and co-writer , Michael .
+
+#	NEW	pages	........ / ( 1980 ) .	// A few of the short stories were not published chronologically in book form , but appeared later , collected in <em> <a> More Tales of the Unexpected </a> </em> ( 1980 ) .
+
+#	NEW	pages	........ / 2007 .	// It was released on February 6 , 2007 . </p>
+
+#	NEW	pages	........ / be .	// Along the way , with Am ' s guidance , Ed comes to realize that his father was not the hapless , pathetic man he had always believed him to be . </p>
+
+#	NEW	pages	........ / quot ; /	// The New York Times Book Reviewref name=&quot ; BloRev&quot ; / </p>
+
+#	NEW	pages	........ / 1894	// XV , No . 6 ( October <a> 1893 </a> ) , and eventually in book form during <a> 1894 </a> . </p>
+
+#	NEW	pages	........ / 500	// It was released in <a> 1964 </a> by <a> Arkham House </a> in an edition of 500 copies .
+
+#	NEW	pages	........ / 405	// It was released in <a> 1966 </a> by <a> Arkham House </a> in an edition of 2 , 405 copies .
+
+#	NEW	pages	........ / ,	// It debuted at Number 6 on <a> The New York Times Best Seller list </a> on August 3 , 2003 .
+
+#	NEW	pages	........ / 118	// It was released in <a> 1971 </a> by <a> Arkham House </a> in an edition of 2 , 118 copies .
+
+#	NEW	pages	........ / 051	// It was released in <a> 1971 </a> by <a> Arkham House </a> in an edition of 3 , 051 copies .
+
+#	NEW	pages	........ / 045	// It was released in <a> 1971 </a> by <a> Arkham House </a> in an edition of 2 , 045 copies .
+
+#	NEW	pages	........ / 947	// It was released in <a> 1977 </a> by <a> Arkham House </a> in an edition of 2 , 947 copies .
+
+#	NEW	pages	........ / 1985 .	// It was first published in August 1985 . </p>
+
+#	NEW	pages	........ / 025	// It was released in <a> 1988 </a> by <a> Arkham House </a> in an edition of 5 , 025 copies .
+
+#	NEW	pages	........ / 000	// It was published in <a> 2001 </a> by <a> Arkham House </a> in an edition of approximately 4 , 000 copies .
+
+#	NEW	pages	........ / Book	// <p> In 2010 , another large poster book was published titled <em> The Spectacular Poster Book </em> . </p>
+
+#	NEW	pages	........ / 1854 .	// It was first published in 1854 . </p>
+
+#	NEW	pages	........ / 1948 .	// <p> In a 2007 survey among 25 top Israeli publishers , editors , and critics , <em> Past Continuous </em> was chosen the best Hebrew book written in Israel since the foundation of the state in 1948 . </p>
+
+#	NEW	pages	........ / quot ; .	// Delivered to the Italian publishers on 21 September 2001 , awaiting the escalation&quot ; . </p>
+
+#	NEW	pages	........ / 000	// As with all of the other Fandorin novels , <em> The Diamond Chariot </em> was hugely successful in Russia , selling out its first printing of 200 , 000 copies in a week . </p>
+
+#	NEW	pages	........ / 2007 .	// It was also named a <a> Printz Honor book </a> in 2007 .
+
+#	NEW	pages	........ / 2003	// It was first published in hardback in <a> 2003 </a> .
+
+#	NEW	pages	........ / 2000 .	// <p> The book has also been published in <a> German </a> , in 1998 , and in <a> French </a> , in 2000 . </p>
+
+#	NEW	pages	........ / quot ;	// <p> Guevara dedicated the book to his recently deceased comrade <a> Camilo Cienfuegos </a> , &quot ; who should have read and corrected it , but whose fate prevented him from carrying out the task . &quot ; </p>
+
+#	NEW	pages	........ / 2007 .	// The book was released November 13 , 2007 . </p>
+
+#	NEW	pages	........ / quot ;	// The day before Hitler commits suicide , he arranges for Nazi leader <a> Martin Bormann </a> to flee to South America in a German U-boat . &quot ; </p>
+
+#	NEW	pages	........ / ,	// <p> Players may use the information in this book to shape their characters for the dungeon , including new feats , skills , prestige classes , and equipment . </p>
+
+#	NEW	pages	........ / 1936 .	// The first book edition was published by <a> Edgar Rice Burroughs , Inc . </a> in February , 1936 . </p>
+
+#	NEW	pages	........ / 1976 .	// The book was also published in <a> German </a> , by <a> Rowohlt </a> , in 1976 . </p>
+
+#	NEW	pages	........ / 1978 .	// B . Lippincott Company </a> in June 1954 and reprinted in paperback by <a> Pocket Books </a> in February 1978 .
+
+#	NEW	pages	........ / 958	// It was released in <a> 1968 </a> by <a> Mycroft &amp ; Moran </a> in an edition of 1 , 958 copies .
+
+#	NEW	pages	........ / 1965	// It was first published in <a> 1965 </a> .
+
+#	NEW	pages	........ / Book .	// It was chosen as both a <em> <a> New York Times </a> </em> and <em> <a> Washington Post </a> </em> Notable Book . </p>
+
+#	NEW	pages	........ / 2004 .	// Published by <a> Penguin Books </a> and <a> Dutton Books </a> in 2004 .
+
+#	NEW	pages	........ / 2000 .	// <p> <strong> Disciplined Minds </strong> is a book by physicist <a> Jeff Schmidt </a> , published in the year 2000 .
+
+#	NEW	pages	........ / ,	// <p> The book was first published in the United States as a hardcover on October&nbsp ; 14 , 2003 .
+
+#	NEW	pages	........ / 1999 .	// A trade paperback edition was published by <a> Wildside Press </a> in 1999 .
+
+#	NEW	pages	........ / ,	// The book was published in both hardcover and paperback editions , in 2001 .
+
+#	NEW	pages	........ / 2006 .	// It also won the 2006 Highlands Children ' s Book award for Long Novels in 2006 .
+
+#	NEW	pages	........ / 2001 .	// This book was also awarded the <a> Christopher Award for Adult Books </a> in 2001 .
+
+#	NEW	pages	........ / ,	// <p> This article summarises Goldberg ' s argument as originally published in the United States ( US ) , but revised in various places for release in the United Kingdom ( UK , 1977 ) .
+
+#	NEW	pages	........ / quot ;	// It is a pity that these aspects of the book fail to achieve the same heights as the universe in which it is set . &quot ; </p>
+
+#	NEW	pages	........ / quot ;	// <p> : *&quot ; Publisher ' s Note&quot ; : *&quot ; First Tale : Idle Days on the Yann&quot ; : *&quot ; Second Tale : A Shop in Go-By Street&quot ; : *&quot ; Third Tale : The Avenger of Perd&#x00f3 ; ndaris&quot ; </p>
+
+#	NEW	pages	........ / 2007 .	// It was published in May 2007 . </p>
+
+#	NEW	pages	........ / ,	// The book was released on May 31 , 2007 .
+
+#	NEW	pages	........ / 2008 .	// <p> A paperback edition of the book was published by <a> Three Rivers Press </a> on April 8 , 2008 . </p>
+
+#	NEW	pages	........ / ,	// <a> Janet Maslin </a> , Books of the Times , <a> New York Times </a> , August 27 , 2001 .
+
+#	NEW	pages	........ / 1000 .	// All three conspirators , Sabbag , Marks and Hirst hand signed all 1000 . </p>
+
+#	NEW	pages	........ / book .	// Naturally , just a slight fraction from letters finished up to the definitive book . </p>
+
+#	NEW	pages	........ / 2008 .	// It was released in May 2008 . </p>
+
+#	NEW	pages	........ / 2008 .	// It was published in the USA in January 2007 , and will be published in the UK in 2008 . </p>
+
+#	NEW	pages	........ / 2005 .	// The novel was originally published in Sweden in 2005 . </p>
+
+#	NEW	pages	........ / 2007	// <p> Jove Mass market paperback printing : December 2007 </p>
+
+#	NEW	pages	........ / 978-	// The ISBN numbers for the audiobook are : ISBN 0-7393-5032-3 ( UK ) , ISBN 978-0-7393-5032-4 ( U . S . A ) . </p>
+
+#	NEW	pages	........ / 0	// It was printed by <a> Penguin publishers </a> ISBN 0 7181 4735 9 . </p>
+
+#	NEW	pages	........ / 100	// The other , is the villain Klosterheim , the same man who attempted to kill Ulrich von Bek more than 100 years previously .
+
+#	NEW	pages	........ / ,	// <p> ! year , country , publisher ISBN 1234567890 , Pub date DD Month Year , binding ! major publication history to be included here , not everything if too extensive ! example ! *1999 , USA , C . S . Black &amp ; sons ISBN 8768768760 , Pub date 1 April 1999 , Hardback </p>
+
+#	NEW	pages	........ / ,	// <p> ! year , country , publisher ISBN 1234567890 , Pub date DD Month Year , binding ! major publication history to be included here , not everything if too extensive ! example ! *1999 , USA , C . S . Black &amp ; sons ISBN 8768768760 , Pub date 1 April 1999 , Hardback </p>
+
+#	NEW	pages	........ / 0-	// It was subsequently released as a paperback version by <a> Scholastic Books </a> on October 31 , 2006 ( ISBN 0-439-87847-0 ) . ref
+
+#	NEW	pages	........ / 1908 .	// <p> <a> Baroness Orczy </a> wrote the novel <strong> <em> Beau Brocade </em> </strong> in 1907 , and followed it up with the play of the same name in 1908 .
+
+#	NEW	pages	........ / 2001 .	// The second volume , written by Ferriter , is entitled <em> The Capricious Growth of a Single Root </em> and was added in 2001 . </p>
+
+#	NEW	pages	........ / ( 2005 ) .	// It is currently published by the <a> University of Washington Press </a> ( 2005 ) .
+
+#	NEW	pages	........ / ,	// It was edited by <a> Mark L . Olson </a> and first published in hardover by <a> NESFA Press </a> in February , 2007 .
+
+#	NEW	pages	........ / 1873 .	// The two-volume first original French edition and the first illustrated large-format edition were published in 1873 .
+
+#	NEW	pages	........ / ,	// <p> 2007 , Canada , Rain Publishing , ISBN 9781897381212 , Pub date 1 March 2007 , Paperback </p>
+
+#	NEW	pages	........ / quot ; .	// recommends the book to young adults , describing it as &quot ; an excellent book for its clear writing and positive message&quot ; . </p>
+
+#	NEW	pages	........ / quot ;	// Havel After Twenty Years&quot ; br / &quot ; Eduard and God&quot ; </p>
+
+#	NEW	pages	........ / ,	// <p> <a> The New York Times Book Review </a> published a dismissive review on February 24 , 1952 .
+
+#	NEW	pages	........ / quot ; .	// <p> The story follows Boston based PI Spenser as he tracks a serial killer the press has dubbed the &quot ; Red Rose Killer&quot ; . </p>
+
+#	NEW	pages	........ / 1980 .	// <p> The <em> <a> New York Times Book Review </a> </em> called <em> Man in the Holocene </em> the most important and interesting of the year 1980 .
+
+#	NEW	pages	........ / 2006 .	// It is published by <a> Yale University Press </a> and was released in 2006 .
+
+#	NEW	pages	........ / 2004 .	// It was published in Turkish in 2002 and in English ( translated by <a> Maureen Freely </a> ) in 2004 .
+
+#	NEW	pages	........ / 2006 .	// The <a> audiobook </a> version ( ISBN 1-4193-8723-5 ) is narrated by <a> George Guidall </a> and published by Recorded Books in 2006 .
+
+#	NEW	pages	........ / book .	// <em> The Unmentionable Man </em> was unique to the book . </p>
+
+#	NEW	pages	........ / 1997 .	// <p> <strong> <em> Sole Survivor </em> </strong> is a novel by the best-selling author <a> Dean Koontz </a> , published in 1997 .
+
+#	NEW	pages	........ / ,	// Cambridge University Press , 2001 .
+
+#	NEW	pages	........ / quot ; .	// First published in Australia , Irvine ' s latest novel , the first in a trilogy of eco-thrillers , portrays a frighteningly plausible near future&quot ; . </p>
+
+#	NEW	pages	........ / 1981 .	// <p> <strong> <em> The Eyes of Darkness </em> </strong> is a best-selling novel written by <a> Dean Koontz </a> , released in 1981 .
+
+#	NEW	pages	........ / 1923 .	// The study was conducted over years of meticulous research and was first published in 1923 .
+
+#	NEW	pages	........ / 2006 .	// <p> <em> Leven Thumps and the Gateway to Foo </em> won the Benjamin Franklin award from the <a> Independent Book Publishers Association </a> in 2006 . </p>
+
+#	NEW	pages	........ / ,	// <p> In January 2010 , <a> Disney </a> announced that the film will be released on May 20 , 2011 .
+
+#	NEW	pages	........ / 1992 .	// <p> <strong> <em> Looking for Alibrandi </em> </strong> is the debut novel of Australian author <a> Melina Marchetta </a> , published in 1992 .
+
+#	NEW	pages	........ / 2004 .	// <p> <a> Vote For Larry </a> , was published on May 1 , 2004 . </p>
+
+#	NEW	pages	........ / 2006 .	// <p> <strong> <em> The Fourth Bear </em> </strong> is a myster / fantasy novel by <a> Jasper Fforde </a> published in July 2006 .
+
+#	NEW	pages	........ / ,	// <p> Most of the books had their first <a> United Kingdom </a> editions published by <a> Souvenir Press </a> , with <a> Pan Books </a> publishing all but the final volume , <em> <a> Cobra Trap </a> </em> , in paperback .
+
+#	NEW	pages	........ / 1988 .	// It was published <a> posthumously </a> with a shortened title in 1988 . </p>
+
+#	NEW	pages	........ / 2001 .	// <p> <strong> <em> Conundrum </em> </strong> is a fantasy novel by <a> Jeff Crook </a> , published in 2001 .
+
+#	NEW	pages	........ / book :	// Selden gave this explanation of what was the initial idea for the book : </p>
+
+#	NEW	pages	........ / 1913 .	// The sequel to the book is <em> <a> The Golden Road </a> </em> , written in 1913 . </p>
+
+182	FALSE	Rise of the Ogre::pages	304 / 2007.	
+A <a> paperback </a> edition of the book was released in the US on 6 November 2007 . </p>
+
+#	NEW	pages	........ / ,	// It was published by <a> Donald M . Grant , Publisher , Inc . </a> . </p>
+
+#	NEW	pages	........ / 1300	// The first edition was published in <a> 1988 </a> ; the second , extensively revised and expanded edition ( more than 1300 pages ) , in 1997 .
+
+#	NEW	pages	........ / 5 .	// Natural Law and Reasonbr / 2 . Natural Law as &quot ; Science&quot ; br / 3 . Natural Law Versus Positive Lawbr / 4 . Natural Law and Natural Rightsbr / 5 .
+
+#	NEW	pages	........ / 2001 .	// <p> In the beginning of the book , Nicole is a fifteen-year-old American <a> high school </a> student living in the year 2001 .
+
+#	NEW	pages	........ / 1989 .	// It was published in <em> Masques III </em> ( edited by J . N . Williamson ) in 1989 . </p>
+
+#	NEW	pages	........ / 2001	// <p> An animated TV series inspired by the book was produced in 2001 in France . </p>
+
+#	NEW	pages	........ / ( 2006 ) .	// The entire contents of this book are reprinted in Didion ' s <em> <a> We Tell Ourselves Stories in Order to Live </a> : Collected Nonfiction </em> ( 2006 ) . </p>
+
+#	NEW	pages	........ / 1939 .	// It was first published in book form by <a> Farrar &amp ; Rinehart </a> in 1939 .
+
+#	NEW	pages	........ / 2006 .	// <p> <strong> <em> Culture Warrior </em> </strong> is a book by <a> Fox News Channel </a> political commentator <a> Bill O ' Reilly </a> , published in the fall of 2006 .
+
+#	NEW	pages	........ / 1978 .	// They have five daughters ( Chani , Malki , Rochel , Sorah , Brocha ) when the book begins , and a sixth ( Chaya ) is born in early 1978 . </p>
+
+#	NEW	pages	........ / 1983	// It was published in <a> 1983 </a> .
+
+#	NEW	pages	........ / 1985 .	// The second edition was first published in 1978 , while the third edition was first published in 1985 .
+
+#	NEW	pages	........ / 2001 .	// <p> The book won the Nestle Smartie award in 2001 .
+
+#	NEW	pages	........ / 1992 .	// <p> The first edition was published in <a> Britain </a> by <a> Penguin Books </a> in 1992 .
+
+#	NEW	pages	........ / ,	// Wesleyan University Press , 2004 .
+
+#	NEW	pages	........ / 990	// It was published in an edition of 3 , 990 copies . </p>
+
+#	NEW	pages	........ / 2006 .	// <p> <strong> <em> Wikinomics : How Mass Collaboration Changes Everything </em> </strong> ( ISBN 1591841380 ) is a book by <a> Don Tapscott </a> and <a> Anthony D . Williams </a> , first published in December 2006 .
+
+#	NEW	pages	........ / ,	// <p> ! major publication history to be included here , not everything if too extensive ! example ! *1999 , USA , C . S . Black &amp ; sons ISBN 8768768760 , Pub date 1 April 1999 , Hardback </p>
+
+#	NEW	pages	........ / 030	// It was released in <a> 1981 </a> by <a> Arkham House </a> in an edition of 1 , 030 copies .
+
+#	NEW	pages	........ / quot ;	// [ . . . ] Ironically , anti-cult organizations are also susceptible to fanaticism and scandal : one of the cleverest things about this book is the way it anatomizes them alongside the cults . &quot ; </p>
+
+#	NEW	pages	........ / 959	// It was released in <a> 1995 </a> by <a> Arkham House </a> an edition of 4 , 959 copies .
+
+#	NEW	pages	........ / 1986 .	// It was originally published by Beech Tree in April 1986 .
+
+#	NEW	pages	........ / 2002 .	// <p> The translation in complicated Chinese ( ISBN 9570484969 ) of this autobiography was done by Fongfong Olivia Wei , and published by Triumph Publishing Company in Taipei , Taiwan in the year 2002 . </p>
+
+#	NEW	pages	........ / ,	// Triage focuses on the psychological effects of war on the <a> photo journalist </a> protagonist , Mark . </p>
+
+#	NEW	pages	........ / 1790 .	// The book is set on 1 January 1790 . </p>
+
+#	NEW	pages	........ / 1980 .	// The book was published in paperback and hardcover editions , in 1980 . </p>
+
+#	NEW	pages	........ / 1971 .	// The book was published in paperback in 1970 , and reprinted in 1971 .
+
+210	FALSE	Tamerlane and Other Poems::pages	40 / ,	
+New York : Checkmark Books , 2001 .
+
+#	NEW	pages	........ / 2005	// <p> The book was first published as a <a> hardcover </a> on December 27 , 2005 in the US .
+
+#	NEW	pages	........ / 2006 .	// The book ' s second edition contains an Afterword section written in May 2006 .
+
+#	NEW	pages	........ / ,	// Within weeks of their first encounter , Kay will join him for an extraordinary journey into the old man ' s past , initially in search of a murderer , but finally in celebration of a glorious , undying love . </p>
+
+#	NEW	pages	........ / 1990	// This book was published in <a> 1990 </a> . </p>
+
+#	NEW	pages	........ / 978	// The current UK edition of the book is published by <a> Egmont Publishing </a> ( ISBN 978 14052 2552 1 ) . </p>
+
+#	NEW	pages	........ / book .	// They also read the collection of journals that is the original ' ' Dracula ' ' book . </p>
+
+#	NEW	pages	........ / 2006 .	// The story was republished in hardcover in 2006 . </p>
+
+#	NEW	pages	........ / 1976	// It was published in <a> 1976 </a> .
+
+#	NEW	pages	........ / 2002 .	// The book was short listed for the <a> Whitbread Children&#x2019 ; s Book of the Year </a> in 2002 .
+
+#	NEW	pages	........ / ( 196 /	// <p> Simon , Herbert A . ( 196 / 2001 ) .
+
+#	NEW	pages	........ / 2008 .	// The book was released on April 21 , 2008 . </p>
+
+#	NEW	pages	........ / book	// I know this is not a good intro , but I promise that the whole article will get much better once I actually read the book </p>
+
+#	NEW	pages	........ / 1911 .	// M . Forster </a> , first published in 1911 .
+
+224	TRUE	The EBCC Atlas of European Breeding Birds::pages	903 / 903	
+<p> The book has cxli + 903 pages .
+
+#	NEW	pages	........ / ( 1912-	// <p> <a> Richard Erdoes </a> ( 1912-2008 ) edited the book .
+
+#	NEW	pages	........ / 1978 .	// It was first published in France as <em> Quand Mourut Jonathan </em> in 1978 . </p>
+
+#	NEW	pages	........ / 1995 .	// It was published in 1994 , and won the <a> Newbery Honor </a> in 1995 . </p>
+
+#	NEW	pages	........ / 2003	// <p> This story was adapted to <a> film </a> as <em> <a> Young Adam </a> </em> in <a> 2003 </a> . </p>
+
+#	NEW	pages	........ / 1977 .	// <p> <strong> <em> The Vision </em> </strong> is a novel by the best-selling author <a> Dean Koontz </a> , released in 1977 . </p>
+
+#	NEW	pages	........ / 2007 .	// The third novel in the series , <em> <a> The Sweet Far Thing </a> </em> , was published on December 26 , 2007 . </p>
+
+#	NEW	pages	........ / 1993 .	// It was written and released in 1993 . </p>
+
+#	NEW	pages	........ / 2000 .	// It was published by Greenwood Press in 2000 . </p>
+
+#	NEW	pages	........ / 2003 .	// The book was a <em> <a> New York Times </a> </em> Notable Book for 2003 . </p>
+
+#	NEW	pages	........ / 2007 .	// The third book in the series , <em> <a> A Sword from Red Ice </a> </em> , was released in October 2007 . </p>
+
+#	NEW	pages	........ / 1971 .	// it was first published in 1971 .
+
+#	NEW	pages	........ / 2005 .	// It was published in <a> Britain </a> in 2005 .
+
+#	NEW	pages	........ / 2001	// <p> The film contains a scene where a 747 crashes into an office block - as with the book cover this is reminiscent of the 2001 terrorist attacks . </p>
+
+#	NEW	pages	........ / 1989 .	// <p> <strong> <em> The Bridesmaid </em> </strong> is a novel by British writer <a> Ruth Rendell </a> , first published in 1989 .
+
+#	NEW	pages	........ / 1984 .	// <p> <strong> <em> The Killing Doll </em> </strong> is a novel by British writer <a> Ruth Rendell </a> , first published in 1984 .
+
+#	NEW	pages	........ / 000	// First published in 1927 , <em> Jalna </em> won the <em> <a> Atlantic Monthly </a> <strong> s $10 , 000 Book Award .
+
+#	NEW	pages	........ / 1974 .	// <p> <strong> <em> The Face of Trespass </em> </strong> is a novel by British writer <a> Ruth Rendell </a> , first published in 1974 . </p>
+
+#	NEW	pages	........ / 1961 .	// The first <a> British </a> edition by <a> Hodder and Stoughton </a> was not published until 1961 .
+
+#	NEW	pages	........ / 765	// <p> <a> WorldCat </a> Identities contains records of seven editions of this book in 765 libraries worldwide </p>
+
+#	NEW	pages	........ / 1969	// The book won the <a> Newbery Honor </a> Award and was loosely adapted into a <a> movie in 1969 </a> . </p>
+
+#	NEW	pages	........ / 2007 .	// It was made into <a> a film </a> released in 2007 .
+
+#	NEW	pages	........ / 7	// <p> The book consisted of 7 stories : </p>
+
+#	NEW	pages	........ / 1998 .	// It was first published in 1998 . </p>
+
+#	NEW	pages	........ / quot ; .	// This is heralded by a newspaper headline that reads : &quot ; THE END OF THE AMERICAN CENTURY&quot ; . </p>
+
+#	NEW	pages	........ / 1948	// The book was first published in the United Kingdom by <a> Methuen </a> in <a> 1948 </a> .
+
+#	NEW	pages	........ / 2005 .	// <p> The final five stories all appeared in the book <em> T&#x014d ; ky&#x014d ; Kitansh&#x016b ; </em> ( Strange Tales From Tokyo ) , published in Japan in 2005 . </p>
+
+#	NEW	pages	........ / 2007 .	// It was <a> published </a> in June 2007 .
+
+#	NEW	pages	........ / 466	// It is set in the last years of the reign of King <a> Xerxes I </a> of <a> Persia </a> , and begins in 466 BC . </p>
+
+#	NEW	pages	........ / 1971 .	// It was first published in 1971 .
+
+#	NEW	pages	........ / 2000 .	// <p> This book was first published in Illustrated Hardcover edition in December 2000 .
+
+#	NEW	pages	........ / quot ; .	// <p> <a> Random House </a> has published a series of <a> chapter book </a> s under the banner &quot ; Tales of Pixie Hollow&quot ; . </p>
+
+#	NEW	pages	........ / 1921 .	// The sixth edition , written in 1842 , a year before his death , was retitled <em> Organon of Medicine </em> and not published until 1921 . </p>
+
+#	NEW	pages	........ / 1991 .	// It was first published in 1991 . </p>
+
+#	NEW	pages	........ / 1975	// <p> <strong> <em> Eight Days of Luke </em> </strong> is a children ' s fantasy novel written by <a> Diana Wynne Jones </a> published in <a> 1975 </a> .
+
+#	NEW	pages	........ / 1989 .	// It was first published in paperback by <a> Ace Books </a> in 1989 . </p>
+
+#	NEW	pages	........ / 0-	// New York : <a> Macmillan </a> , 1981 , 167 pp . &nbsp ; ISBN 0-02-619200-4 .
+
+#	NEW	pages	........ / 1922 .	// It was first published in book form in hardcover by A . C . McClurg in July , 1922 . </p>
+
+#	NEW	pages	........ / 2001 .	// The second edition was published in August 2001 .
+
+#	NEW	pages	........ / 2002 .	// It was a School Library Journal Best Book of the Year in 2002 . </p>
+
+#	NEW	pages	........ / 2005 .	// <p> The novel was short listed for the <a> Booker Prize </a> in 2005 . </p>
+
+#	NEW	pages	........ / 1972 .	// Sprague de Camp </a> and <a> Catherine Crook de Camp </a> , first published by <a> Macmillan </a> in 1972 . </p>
+
+#	NEW	pages	........ / 1970	// Sprague de Camp ] ] , <a> Curtis Books </a> , <a> 1970 </a> ] ] </p>
+
+#	NEW	pages	........ / ,	// The book was first published in March 1999 by Gauntlet Press as a signed , limited edition .
+
+#	NEW	pages	........ / 2007 ) .	// The book was first published by Gauntlet Press in a signed limited first edition ( May 2006 ) , later as a trade hardcover from Forge ( September 2006 ) , and finally as a mass market paperback from Forge ( August 2007 ) . </p>
+
+#	NEW	pages	........ / 1995 .	// It was published posthumously in 1998 by <a> Random House </a> under their <a> Vintage </a> imprint , following Zelazny ' s death in 1995 . </p>
+
+#	NEW	pages	........ / 1956 .	// It was first published in the UK by <a> William Heinemann Ltd </a> in 1956 . </p>
+
+#	NEW	pages	........ / 2001 .	// Whiting was eventually brought to trial , found guilty of murder and sentenced to life imprisonment in December 2001 . </p>
+
+#	NEW	pages	........ / 2006 .	// This book was published by <a> Indiana University Press </a> , and released around March 2006 . </p>
+
+#	NEW	pages	........ / 1977 .	// The first British edition was published by Magnum in 1977 .
+
+#	NEW	pages	........ / 2005 .	// <p> A modern translation by William Butcher was published by Oxford University Press in 2005 . </p>
+
+#	NEW	pages	........ / quot ; .	// The first English translation was published in 1892 in &quot ; <a> Strand Magazine </a> &quot ; . </p>
+
+#	NEW	pages	........ / 0-	// <p> <em> Any Human Heart </em> , William Boyd , Penguin Books , 2003 , ISBN 0-141-00928-4 </p>
+
+#	NEW	pages	........ / 1974 .	// It was first published in 1974 . </p>
+
+#	NEW	pages	........ / 1966 .	// This novel was first published in 1966 .
+
+#	NEW	pages	........ / 1977 .	// It was first published in 1977 .
+
+#	NEW	pages	........ / 1960 .	// It was the first Helm book published since 1977 and the nineteenth book published overall since 1960 . </p>
+
+#	NEW	pages	........ / 1984 .	// It was first published in 1984 . </p>
+
+#	NEW	pages	........ / 952-	// <em> Athena-Artemis </em> ( Revised 2nd Edition in 2006 ) , ISBN 952-92-0560-0 .
+
+#	NEW	pages	........ / 2000 .	// It was written in 1999 in French and published in 2000 .
+
+#	NEW	pages	........ / 1928 )	// <p> This was the first book featuring Templar since <em> <a> Salvage for the Saint </a> </em> ended the original series of books ( which began in 1928 ) in 1983 .
+
+#	NEW	pages	........ / 1969 .	// <p> <strong> <em> The Process </em> </strong> is a novel by <a> Brion Gysin </a> which was published in 1969 .
+
+#	NEW	pages	........ / 1887	// It was published in 1911 , although the action takes place between 1887 and 1898 .
+
+#	NEW	pages	........ / 1961	// Schuyler Miller </a> , <a> Berkley Books </a> , 1961 ] ] </p>
+
+#	NEW	pages	........ / 1964 .	// It was subsequently adapted into a 4-part <a> BBC </a> television series in 1964 . </p>
+
+#	NEW	pages	........ / ,	// This book was first published on April 12 , 1994 .
+
+#	NEW	pages	........ / 1990 .	// It was first published in 1990 .
+
+#	NEW	pages	........ / 1953 .	// The original edition by L . Sprague de Camp alone , subtitled <strong> <em> The Writing of Imaginative Fiction </em> </strong> , was published in hardcover by <a> Hermitage House </a> in 1953 .
+
+#	NEW	pages	........ / 1957 .	// It was published by <a> Scholastic </a> in 1956 , and won the <a> Caldecott Medal </a> in 1957 .
+
+#	NEW	pages	........ / ,	// Cambridge University Press , 2001 .
+
+#	NEW	pages	........ / 1984 .	// It was first published by <a> Ballantine Books </a> in 1984 .
+
+#	NEW	pages	........ / book .	// <p> Nosaka won the <a> Naoki Prize </a> for best popular literature for this book . </p>
+
+#	NEW	pages	........ / 1986 .	// This collection was first published in the <a> United Kingdom </a> in 1985 , followed by an <a> American </a> edition in 1986 .
+
+#	NEW	pages	........ / 2006 .	// The hardcover collection of <em> Sticky </em> is 80 pages long , and was published by Bruno Gm&#x00fc ; nder Verlag ( Berlin , Germany ) in March 2006 . </p>
+
+#	NEW	pages	........ / 124	// It was published in an edition of 4 , 124 copies . </p>
+
+#	NEW	pages	........ / 471	// It was originally published in 1965 by <a> Arkham House </a> in an edition of 3 , 471 copies . </p>
+
+#	NEW	pages	........ / 1998 .	// <p> Manchester Slingback won the <a> Crime Writer ' s Association </a> Silver Dagger in 1998 . </p>
+
+#	NEW	pages	........ / 2000	// The book was first published by <a> Kids Can Press </a> in September <a> 2000 </a> . </p>
+
+#	NEW	pages	........ / 1939 .	// It was first published in the fantasy magazine <em> <a> Unknown </a> </em> in September 1939 .
+
+#	NEW	pages	........ / 1970 .	// <p> The book was also published in English with the title <em> Time and the Hunter </em> in 1970 . </p>
+
+#	NEW	pages	........ / 1935	// <p> The collection features eight short stories originally published in <a> pulp magazines </a> between 1935 and 1941 .
+
+#	NEW	pages	........ / ,	// Most of the crew mysteriously disappears soon after touchdown , leaving only the psychiatrist Paul Marlow , the book ' s protagonist .
+
+#	NEW	pages	........ / 1968 .	// It was originally published in the November 1967 issue of <a> McCall ' s </a> magazine , and later published as a book by Random House , Inc . in 1968 .
+
+#	NEW	pages	........ / ( 1988 ) .	// It also found a place in <a> David Pringle </a> ' s <em> Modern Fantasy : The Hundred Best Novels </em> ( 1988 ) . </p>
+
+#	NEW	pages	........ / book .	// It is his murder that forms the mystery of the book . </p>
+
+#	NEW	pages	........ / 1994	// The book was published by <a> Hunter House Publishers </a> in <a> 1994 </a> . </p>
+
+#	NEW	pages	........ / 1991 .	// <p> <strong> <em> Almanac of the Dead </em> </strong> is a novel by <a> Leslie Marmon Silko </a> , first published in 1991 . </p>
+
+#	NEW	pages	........ / 1977 .	// <p> Howard ' s daughter <a> Joan Howard Maurer </a> completed her father ' s book and it was eventually published in 1977 .
+
+#	NEW	pages	........ / book .	// <p> <em> Click , Clack , Moo : Cows That Type </em> is a 2001 <a> Caldecott Honor </a> book . </p>
+
+#	NEW	pages	........ / 2001 .	// <p> The story begins in December 2001 .
+
+#	NEW	pages	........ / 1999 .	// <p> It was also released as <em> Hatchet : The Call </em> by Macmillan Children ' s Books in the UK on January 8 , 1999 . </p>
+
+#	NEW	pages	........ / 1980 .	// <p> <strong> <em> Amazons </em> </strong> is a novel co-written by <a> Don DeLillo </a> , published under the pseudonym Cleo Birdwell in 1980 .
+
+#	NEW	pages	........ / 1927 .	// <p> <strong> <em> Doomsday </em> </strong> is a novel by <a> Warwick Deeping </a> which was published in 1927 . </p>
+
+#	NEW	pages	........ / ,	// <p> As of 2000 , this title was still in print ( ISBN 1861343043 , 2nd revised edition ) . </p>
+
+#	NEW	pages	........ / 1872	// It was first published in <a> 1872 </a> .
+
+#	NEW	pages	........ / 1891	// It was first published in <a> 1891 </a> .
+
+#	NEW	pages	........ / ,	// This book was written specifically for <a> Dungeon Master </a> s , and details how to create and effectively run campaigns centered around cities ( and less often , towns ) . </p>
+
+#	NEW	pages	........ / 1997 .	// The book was released in <a> Australia </a> on August 4 , 1997 . </p>
+
+#	NEW	pages	........ / 1 /	// The book is the sixth in the <a> Where ' s Wally ? </a> series and the first in nine years . [ <a> http : / /www . guardian . co . u / book / 200 / ju / 1 / featuresreviews . guardianreview26 </a> ] </p>
+
+#	NEW	pages	........ / 2002 .	// It is also a title of a collection of various works by Sergey Lukyaninko , which was published in 2002 .
+
+#	NEW	pages	........ / 2006 .	// A new English translation by <a> Ann Goldstein </a> was published in 2006 . </p>
+
+#	NEW	pages	........ / book .	// <p> A quote from the ballad written for the book . </p>
+
+#	NEW	pages	........ / 1953	// <p> This book was originally written by Robert van Gulik sometime between 1953 and 1956 .
+
+#	NEW	pages	........ / 1953 .	// Then the author translated the book into Chinese himself and it was published by the Nanyang Press in <a> Singapore </a> in 1953 .
+
+#	NEW	pages	........ / ,	// <p> ~*year , country , publisher ISBN 1234567890 , Pub date DD Month Year , binding~ ! major publication history to be included here , not everything if too extensive ! example ! *1999 , USA , C . S . Black &amp ; sons ISBN 8768768760 , Pub date 1 April 1999 , Hardback </p>
+
+#	NEW	pages	........ / 2003	// between <a> 2001 </a> and <a> 2003 </a> .
+
+#	NEW	pages	........ / 014	// It was published by <a> Arkham House </a> in <a> 1946 </a> in an edition of 3 , 014 copies .
+
+#	NEW	pages	........ / 033	// It was published in an edition of 4 , 033 copies . </p>
+
+#	NEW	pages	........ / 609	// It was published in an edition of 2 , 609 copies . </p>
+
+#	NEW	pages	........ / 082	// It was published by <a> Arkham House </a> with an edition of 3 , 082 copies . </p>
+
+#	NEW	pages	........ / 1957 .	// It was reprinted under the title &quot ; The Synthetic Man&quot ; by Pyramid Books in 1957 . </p>
+
+#	NEW	pages	........ / 217	// It was released in an edition of 1 , 217 copies . </p>
+
+#	NEW	pages	........ / 051	// It was released in <a> 1958 </a> by <a> Arkham House </a> in an edition of 2 , 051 copies . </p>
+
+#	NEW	pages	........ / 1959 .	// <p> <strong> <em> Arkham House : The First 20 Years </em> </strong> is a <a> bibliography </a> of books published by <a> Arkham House </a> from 1939 to 1959 .
+
+#	NEW	pages	........ / 1975 .	// <p> <strong> <em> The Black Tower </em> </strong> is an <a> Adam Dalgliesh </a> novel by <a> P . D . James </a> , published in 1975 . </p>
+
+#	NEW	pages	........ / 522	// It was released in <a> 1967 </a> by <a> Arkham House </a> in an edition of 1 , 522 copies .
+
+#	NEW	pages	........ / 2006 .	// It was published in 2005 , and the author died in 2006 .
+
+#	NEW	pages	........ / 137	// It was released in 1970 by <a> Arkham House </a> in an edition of 2 , 137 copies .
+
+#	NEW	pages	........ / 650	// It was published in an edition of 3 , 650 copies . </p>
+
+#	NEW	pages	........ / 391	// It was published by <a> Arkham House </a> in an edition of 4 , 391 copies .
+
+#	NEW	pages	........ / 162	// It was published in an edition of 4 , 162 copies .
+
+#	NEW	pages	........ / 288	// It was published in an edition of 4 , 288 copies .
+
+#	NEW	pages	........ / 120	// It was published in an edition of 4 , 120 copies .
+
+#	NEW	pages	........ / 081	// It was published in <a> 1982 </a> by <a> Arkham House </a> in an edition of 4 , 081 copies .
+
+#	NEW	pages	........ / 2006 .	// <p> <strong> Voidfarer </strong> is a fantasy book by <a> Sean McMullen </a> released in 2006 .
+
+#	NEW	pages	........ / 542	// It was published by <a> Arkham House </a> in an edition of 2 , 542 copies .
+
+#	NEW	pages	........ / 500	// It was published in an edition of approximately 2 , 500 copies .
+
+#	NEW	pages	........ / 052	// It was released in <a> 1961 </a> by <a> Mycroft &amp ; Moran </a> in an edition of 2 , 052 copies .
+
+#	NEW	pages	........ / 022	// It was released in <a> 1966 </a> by <a> Mycroft &amp ; Moran </a> in an edition of 2 , 022 copies .
+
+#	NEW	pages	........ / 20	// <p> In the book , there are 20 animal fables : </p>
+
+#	NEW	pages	........ / 2010	// <p> There is now a fully revised and updated version of this book with a Foreword by Burton G . Malkeil , published in 2010 </p>
+
+355	FALSE	A field guide to the birds of Hawaii and the Tropical Pacific::pages	xx + 409 / 0-	
+It is published by <a> Princeton University Press </a> and is produced as both hardback ( ISBN 0-691-08402-5 ) and softback ( ISBN 0-691-02399-9 ) editions .
+
+#	NEW	pages	........ / 1973 .	// Released by <a> Dutton Press </a> , it was the recipient of the <a> Caldecott Medal </a> for <a> illustration </a> in 1973 . </p>
+
+#	NEW	pages	........ / quot ;	// Its plot has nothing in common with the 1946 film &quot ; Tarzan and the Leopard Woman . &quot ; </p>
+
+#	NEW	pages	........ / 2004	// First published in <a> Dutch </a> as part of their annual &quot ; BookWeek&quot ; scheme , the story wasn ' t available in <a> English </a> until <a> 2004 </a> . </p>
+
+#	NEW	pages	........ / 1974 .	// A paperback edition was issued by <a> Ballantine Books </a> in 1974 . </p>
+
+#	NEW	pages	........ / 904	// It was released in <a> 1968 </a> by <a> Mycroft &amp ; Moran </a> in an edition of 2 , 904 copies .
+
+#	NEW	pages	........ / 1980 .	// <p> <strong> <em> Metroland </em> </strong> is an English novel written by <a> Julian Barnes </a> and published in 1980 .
+
+#	NEW	pages	........ / 1930 '	// It takes place in <a> Vancouver </a> , <a> Canada </a> during the 1930 ' s and 40 ' s . </p>
+
+#	NEW	pages	........ / ( 1928 ) .	// His Memoirs , By His Confidential Clerk </strong> ( 1928 ) .
+
+#	NEW	pages	........ / 1894	// <p> The illustrations in the book were provided by her husband , Montagu Barstow , whom she married in <a> 1894 </a> . </p>
+
+#	NEW	pages	........ / 2000 .	// Edited by Tore Boeckmann , it was published by Plume in 2000 .
+
+#	NEW	pages	........ / 2002 .	// <p> <strong> <em> Beasts </em> </strong> is a novella by <a> Joyce Carol Oates </a> and was originally published in 2002 . </p>
+
+#	NEW	pages	........ / 1894	// <p> The illustrations in the book were provided by her husband , Montagu Barstow , who she married in <a> 1894 </a> . </p>
+
+#	NEW	pages	........ / 2004 .	// His first published book , <em> Natasha </em> was published in 2004 .
+
+#	NEW	pages	........ / 1996	// <p> The book won the Bisto Children ' s books in Ireland Book of the Year in 1996 </p>
+
+#	NEW	pages	........ / 000	// The book became a <a> bestseller </a> in <a> 2002 </a> and sold more than 125 , 000 copies .
+
+#	NEW	pages	........ / 2006	// The omnibus was released in <a> 2006 </a> . </p>
+
+#	NEW	pages	........ / 1999 .	// <p> <strong> <em> Better Angels </em> </strong> is a <a> science fiction novel </a> by <a> Howard V . Hendrix </a> first published in 1999 . </p>
+
+#	NEW	pages	........ / 2007 .	// It was released in March 2007 . </p>
+
+#	NEW	pages	........ / 0-	// <p> ( 2002 , ISBN 0-575-07396-9 ) </p>
+
+#	NEW	pages	........ / 15	// ( This foreshadows chapter 15 of book three ) .
+
+#	NEW	pages	........ / 2007 .	// The British hardcover edition was published on November 5 , 2007 . </p>
+
+#	NEW	pages	........ / 1998 .	// It is her first book , and jointly won the <a> Betty Trask Award </a> in 1998 .
+
+#	NEW	pages	........ / 2007 .	// It was released on March 2 , 2007 . </p>
+
+#	NEW	pages	........ / quot ;	// There is nothing more beautiful and honorable than killing ! &quot ; </p>
+
+#	NEW	pages	........ / 2007	// It was released in hardback on 6 November 2006 in the UK , and 9 January 2007 in the US .
+
+#	NEW	pages	........ / 2002 .	// A sequel , <em> <a> Big Al and Shrimpy </a> </em> , was published in 2002 . </p>
+
+#	NEW	pages	........ / 2001	// <p> <strong> <em> All About Love : New Visions </em> </strong> is a book by <a> bell hooks </a> published in <a> 2001 </a> .
+
+#	NEW	pages	........ / 2007 .	// It was released October 5 , 2007 . </p>
+
+#	NEW	pages	........ / 2000 .	// It was later reprinted in the <a> United States </a> by <a> Tor Books </a> in 2000 .
+
+#	NEW	pages	........ / 5	// <p> The book is set in November 2258 , the same year as the first season of <em> Babylon 5 </em> .
+
+#	NEW	pages	........ / 2007 .	// <p> <strong> <em> Travels in the Scriptorium </em> </strong> is a novel by <a> Paul Auster </a> first published in 2007 . </p>
+
+#	NEW	pages	........ / 1984 .	// It was written by American author <a> Denise Giardina </a> and was published in 1984 . </p>
+
+#	NEW	pages	........ / 1935 .	// It was penned between 1925&#x2013 ; 29 and was published in Bharathi magazine in 1935 . </p>
+
+#	NEW	pages	........ / 1959 .	// The novel was adapted for the silver screen in Italy in 1959 . </p>
+
+#	NEW	pages	........ / 2003 .	// It was originally published by <a> Viking Press </a> in 2002 and subsequently by Penguin in 2003 . </p>
+
+#	NEW	pages	........ / ,	// It is the 11th entry in the <a> Aurelio Zen </a> series , and also , given Dibdin ' s death in <a> 2007 </a> , the last . </p>
+
+#	NEW	pages	........ / ,	// The English translation by <a> Laurie Thompson </a> was published in September , 2007 .
+
+#	NEW	pages	........ / 1976 .	// <p> <strong> <em> Promised Land </em> </strong> is the fourth <a> Spenser </a> novel by <a> Robert B . Parker </a> , first published in 1976 .
+
+#	NEW	pages	........ / ,	// <p> The ' War ' section is divided into writings ' Before September ' and ' After September ' , showing Hitchens ' reaction to the Terrorist attacks of September 11 , 2001 .
+
+#	NEW	pages	........ / 2006 .	// <p> <strong> <em> Between Mom and Jo </em> </strong> is an American young adult novel by <a> Julie Anne Peters </a> , published in 2006 . </p>
+
+#	NEW	pages	........ / 1894	// <p> The illustrations in the book were provided by her husband , Montagu Barstow , who she married in <a> 1894 </a> . </p>
+
+#	NEW	pages	........ / 1899	// It was first published by <a> Doubleday &amp ; McClure Co . </a> in <a> 1899 </a> .
+
+#	NEW	pages	........ / 2007 .	// <p> The book was released on 31 May 2007 . </p>
+
+#	NEW	pages	........ / quot ; .	// <em> <a> Publishers Weekly </a> </em> said that Conroy explored the carnage of war through various viewpoints with &quot ; moving and thought provoking results&quot ; . </p>
+
+#	NEW	pages	........ / book .	// <p> The Irish rock band <a> The Boomtown Rats </a> took their name from a gang in the book . </p>
+
+#	NEW	pages	........ / 2007 .	// <p> The paperback edition was published on 2 April 2007 . </p>
+
+#	NEW	pages	........ / 1949	// The first edition was published in <a> London </a> by <a> Jarrolds </a> in December , <a> 1949 </a> . </p>
+
+#	NEW	pages	........ / 2007 .	// <p> A paperback edition was released in 2007 . </p>
+
+404	FALSE	J.R.R. Tolkien Encyclopedia::pages	720 / 978-	
+<p> The <strong> <em> J . R . R . Tolkien Encyclopedia </em> </strong> , subtitled <em> Scholarship and Critical Assessment </em> , edited by <a> Michael D . C . Drout </a> , was published by <a> Routledge </a> in 2006 ( ISBN 978-0415969420 ) .
+
+#	NEW	pages	........ / 2007 .	// Connelly later rewrote and expanded several of the chapters , and <em> The Overlook </em> was published in book form in May 2007 .
+
+#	NEW	pages	........ / 3	// The book was released on September 3 2007 . </p>
+
+#	NEW	pages	........ / 2 .	// The first edition retailed at <a> $ </a> 2 . 50ref
+
+#	NEW	pages	........ / 2003	// <p> <strong> <em> Collaborator </em> </strong> is an <a> alternate history </a> novel by <a> Murray Davies </a> , published as a hardcover on 19 September 2003 </p>
+
+#	NEW	pages	........ / 1-	// It was released on July 18 , 2006 ( ISBN 1-4000-4387-5 ) .
+
+#	NEW	pages	........ / 2000 .	// It was first published in hardcover in August 1999 , and was released in paperback in July 2000 .
+
+#	NEW	pages	........ / 1991 .	// It was first published as a trade paperback by <a> Donnin / Starblaze Editions </a> in 1988 , and as a mass market paperback by <a> Baen Books </a> in 1991 .
+
+#	NEW	pages	........ / 1959	// Wright Mills </a> , first published by <a> Oxford University Press </a> in 1959 and still in print . </p>
+
+#	NEW	pages	........ / book .	// Crutcher places himself in the novel&#x2019 ; s climax as a speaker at the board meeting on the removal of the book . </p>
+
+#	NEW	pages	........ / ,	// Marco closes the book commenting that he has never been more appreciative of a hot , hot shower . </p>
+
+#	NEW	pages	........ / ,	// New York : Metropolitan Books , 2006 .
+
+#	NEW	pages	........ / 0674012127 .	// The book was published in 1999 by <a> Harvard University Press </a> , ISBN 0674012127 . </p>
+
+#	NEW	pages	........ / ,	// Two years later , <a> Pantheon Books </a> and <a> Random House of Canada , Ltd . </a> published the English translation in the United States and Canada , respectively . </p>
+
+#	NEW	pages	........ / 2007 .	// <p> The series , originally designed to be a trilogy , has four books , with the fourth released in 2007 .
+
+#	NEW	pages	........ / 2009 .	// This book is due to be re-released as a revised edition in September 2009 . </p>
+
+#	NEW	pages	........ / 1999 .	// <p> <strong> <em> Hannibal </em> </strong> is a <a> novel </a> written by <a> Thomas Harris </a> , published in 1999 .
+
+#	NEW	pages	........ / 1973 .	// G . Farrell </a> , published in 1973 . </p>
+
+#	NEW	pages	........ / 0671733354 .	// It is currently published as a Mass Market Paperback of 352 pages by Pocket ( Revised edition : September 15 , 1990 ) , ISBN 0671733354 . </p>
+
+#	NEW	pages	........ / 1973 .	// The novel form was first published in 1973 . </p>
+
+#	NEW	pages	........ / 2008 .	// The English translation was published in January 2008 . </p>
+
+#	NEW	pages	........ / 1997 .	// <p> <strong> <em> Eight Habits of the Heart : Embracing the Values That Build Strong Communities </em> </strong> is a <a> memoir </a> by <a> Clifton Taulbert </a> , first published in 1997 .
+
+#	NEW	pages	........ / quot ; / .	// <p> An English translation was published by the <a> University of Michigan Press </a> in 2002ref name=&quot ; dumb luck&quot ; / . </p>
+
+#	NEW	pages	........ / quot ;	// <p> The book is dedicated : &quot ; To the memory of MRS WILLIAM A . HOUSTON , a dear friend who has gone beyond . &quot ; </p>
+
+#	NEW	pages	........ / 1983 .	// It was first published as a hardcover by <a> Ballantine Books </a> in 1983 . </p>
+
+#	NEW	pages	........ / 1998 .	// It was first published in the <a> United States </a> by <a> Arthur A . Levine Books </a> in 1998 .
+
+#	NEW	pages	........ / 1995 .	// It was originally published in 1995 . </p>
+
+#	NEW	pages	........ / 2007	// The book was shortlisted for the 2007 Calderdale Children ' s Book Award . </p>
+
+#	NEW	pages	........ / book '	// The author , <a> L&#x00fc ; Jiamin </a> , wrote the book under the pseudonym Jiang Rong ; his true identity did not become publicly known until several years after the book ' s publication . </p>
+
+#	NEW	pages	........ / 1964 .	// Its first hardcover book publication was in July 1964 . </p>
+
+#	NEW	pages	........ / ,	// <p> ! Publication history ~*year , country , publisher ISBN 1234567890 , Pub date DD Month Year , binding~ ! major publication history to be included here , not everything if too extensive ! example ! *1999 , USA , C . S . Black &amp ; sons ISBN 8768768760 , Pub date 1 April 1999 , Hardback </p>
+
+#	NEW	pages	........ / ,	// <p> ! Publication history ~*year , country , publisher ISBN 1234567890 , Pub date DD Month Year , binding~ ! major publication history to be included here , not everything if too extensive ! example ! *1999 , USA , C . S . Black &amp ; sons ISBN 8768768760 , Pub date 1 April 1999 , Hardback </p>
+
+#	NEW	pages	........ / ,	// <p> <strong> <em> Memories with Food at Gipsy House </em> </strong> is a collection of anecdotes and recipes by <a> Roald Dahl </a> and his second wife , Felicity .
+
+#	NEW	pages	........ / 2005 .	// The book was published in North America by <a> Vertical , Inc . </a> in 2005 . </p>
+
+#	NEW	pages	........ / ,	// <p> Njego&#x0161 ; published <em> The Mountain Wreath </em> , in 1847 .
+
+#	NEW	pages	........ / ,	// <p> ! year , country , publisher ISBN 1234567890 , Pub date DD Month Year , binding ! major publication history to be included here , not everything if too extensive ! example ! *1999 , USA , C . S . Black &amp ; sons ISBN 8768768760 , Pub date 1 April 1999 , Hardback </p>
+
+#	NEW	pages	........ / 1989 .	// It was first published by Viking Canada in 1989 .
+
+#	NEW	pages	........ / 1921 .	// <p> This book takes place from 26 December 1920 to early February in 1921 .
+
+#	NEW	pages	........ / 2001 .	// It was placed on several top book lists , including Amazon ' s Best Books of 2001 .
+
+#	NEW	pages	........ / 1970 .	// Sprague de Camp </a> , first published in hardback by <a> Shasta </a> and in paperback by <a> Berkley Books </a> in 1970 .
+
+#	NEW	pages	........ / 1888	// It was largely written during his later residence in <a> Bristol </a> , and was first published in <a> 1888 </a> . </p>
+
+#	NEW	pages	........ / 2002 ' .	// <p> Although <em> The Gatekeepers </em> was not a best-seller , it was however named as one of the New York Times Book Review ' s ' Notable Books of 2002 ' .
+
+#	NEW	pages	........ / 0226320847	// <p> <em> The Constitution of Liberty </em> , University of Chicago Press , 1960 , ISBN 0226320847 </p>
+
+#	NEW	pages	........ / ,	// <p> ! major publication history to be included here , not everything if too extensive ! example ! *1999 , USA , C . S . Black &amp ; sons ISBN 8768768760 , Pub date 1 April 1999 , Hardback </p>
+
+#	NEW	pages	........ / 1913 .	// It was first published in 1913 .
+
+#	NEW	pages	........ / book :	// <p> This is a selection of the people interviewed for the book : </p>
+
+#	NEW	pages	........ / 1878 .	// It was first serialized between December 11 , 1877 , and April 4 , 1878 , in <em> Le Bien public , </em> before being published in novel form by Charpentier in April 1878 .
+
+#	NEW	pages	........ / 997	// It was published by <a> Arkham House </a> in <a> 1963 </a> in an edition of 1 , 997 copies .
+
+#	NEW	pages	........ / 013	// It was released in <a> 1963 </a> by <a> Arkham House </a> in an edition of 2 , 013 copies .
+
+#	NEW	pages	........ / book .	// Wellman contributed new linking episodes to the book . </p>
+
+#	NEW	pages	........ / 031	// It was released in <a> 1982 </a> by <a> Arkham House </a> in an edition of 3 , 031 copies .
+
+#	NEW	pages	........ / 1923	// It was published in <a> 1923 </a> . </p>
+
+#	NEW	pages	........ / 2005 .	// <p> A mass-market edition was issued by <a> Tor Books </a> in 2005 .
+
+#	NEW	pages	........ / 1986 .	// The most widely acclaimed English translation was made by Stephen Tapscott and published in 1986 .
+
+#	NEW	pages	........ / quot ; /	// In 2003 <a> Penguin Press </a> published a new translation by Robin Buss . ref name=&quot ; Barbusse&quot ; / </p>
+
+#	NEW	pages	........ / book .	// Also , photos of actual circuses and circus performers of the time are included throughout the book . </p>
+
+#	NEW	pages	........ / ,	// The hardback was released on April 4 , 2006 and the paperback on March 27 , 2007 .
+
+#	NEW	pages	........ / ,	// <p> ! Publication history ~*year , country , publisher ISBN 1234567890 , Pub date DD Month Year , binding~ ! major publication history to be included here , not everything if too extensive ! example ! *1999 , USA , C . S . Black &amp ; sons ISBN 8768768760 , Pub date 1 April 1999 , Hardback </p>
+
+#	null	pages	416 pp / ..........
+
+#	null	pages	197 / ..........
+
+#	null	pages	200 / ..........
+
+#	null	pages	357 / ..........
+
+#	null	pages	124 / ..........
+

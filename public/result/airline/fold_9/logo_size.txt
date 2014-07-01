@@ -1,0 +1,97 @@
+Found: 39
+Found Not Null: 9
+Correct: 0
+Wrong: 9
+Total: 9
+precision: 0.0
+recall: 0.0
+
+
+
+#	NEW	logo_size	........ / 2010 ) :	// <p> The Bearskin Airlines fleet includes the following aircraft ( as of August 2010 ) : </p>
+
+#	NEW	logo_size	........ / </	// <p> As of December 2009 , the Air Next fleet included the following aircraft : </p>
+
+#	NEW	logo_size	........ / 2010 ) :	// <p> The Etihad Airways fleet consists of the following aircraft ( as of 11 November 2010 ) : </p>
+
+#	NEW	logo_size	........ / 1961 .	// <p> The initial aircraft type operated was the Douglas DC-7C , the first of which was leased from <a> Sabena </a> in November 1961 .
+
+#	NEW	logo_size	........ / 170	// The airline has a fleet 12 aircraft , consisting of <a> Bombardier CRJ-200 </a> s and <a> Embraer 170 </a> s . </p>
+
+5	FALSE	Di Air::logo_size	200 / 2010 )	
+<p> The DI Air fleet includes the following aircraft ( at Sep 2010 ) ref name=&quot ; FI&quot ; / : </p>
+
+#	NEW	logo_size	........ / 2010 ) :	// <p> The Finncomm Airlines fleet includes the following aircraft ( as of 14 October 2010 ) : </p>
+
+#	NEW	logo_size	........ / 7	// <p> The airline was established and started operations on August 7 , 1968 .
+
+#	NEW	logo_size	........ / 2010 ) :	// <p> The TACA fleet consists of the following aircraft ( at 16 August 2010 ) : </p>
+
+#	NEW	logo_size	........ / </	// <p> BCal and its subsidiaries operated the following <a> fixed wing </a> aircraft types : </p>
+
+#	NEW	logo_size	........ / </	// <p> The Flash Airlines fleet consisted of the following aircraft during operations : </p>
+
+11	FALSE	LAN Airlines::logo_size	200 / 2010 ) :	
+<p> The LAN Airlines fleet consists of the following aircraft ( as of November 2010 ) : </p>
+
+#	NEW	logo_size	........ / 24	// ( 2006 ) ] ] The Air Namibia fleet consists of the following aircraft ( at 24 May 2010 ) : </p>
+
+#	NEW	logo_size	........ / </	// <p> Today , the SilkAir fleet , with an average of 5 . 5 years in operation , consists of the following aircraft : </p>
+
+14	FALSE	Song (airline)::logo_size	200 / </	
+<p> The following destinations were operated when Song merged operations back into Delta . </p>
+
+15	FALSE	Ethiopian Airlines::logo_size	200 / a>.	
+The aircraft was operating a domestic scheduled passenger flight to <a> Beica Airport </a> . </p>
+
+#	NEW	logo_size	........ / a>	// Services started using a <a> Boeing 737-200 </a> leased from EgyptAir and new routes from Egypt ' s <a> tourist destination </a> s followed .
+
+#	NEW	logo_size	........ / 16	// <p> The S7 Airlines fleet consists of the following aircraft ( at 16 May 2010 ) : </p>
+
+18	FALSE	Interflug::logo_size	200 / 1997.	
+Others went to <a> Aeroflot-Russian International Airlines </a> and 12 were acquired by <a> Vietnam Airlines </a> and used for domestic and regional flights until 1997 .
+
+#	NEW	logo_size	........ / 1011	// <p> Over the following months and years , employees of Eastern Air Lines began reporting sightings of the dead crew members on board another L-1011 ( N318EA ) .
+
+20	FALSE	JetLite::logo_size	200 / 2010 :	
+<p> Jet Lite ' s fleet consists of the following aircraft families as of November 2010 : </p>
+
+#	NEW	logo_size	........ / 2006 ) :	// <p> The BWIA fleet consisted of the following aircraft ( at August 2006 ) : center / center </p>
+
+#	NEW	logo_size	........ / </	// <p> As of November 2010 the CityJet fleet consists of the following aircraft : </p>
+
+#	NEW	logo_size	........ / </	// <p> On 20 November 2003 , the compensation <a> agreement </a> was signed between the governments of <a> Ukraine </a> and <a> Israel </a> .
+
+#	NEW	logo_size	........ / </	// <p> The Air Srpska fleet consisted of two <a> ATR 72 </a> <a> turboprop </a> aircraft . </p>
+
+25	FALSE	JALways::logo_size	200 / 3	
+<p> Until November 30 , 2010 , JALways operated scheduled services to 12 international and 3 domestic destinations in 9 different countries and 3 different continents . </p>
+
+26	FALSE	Royal Air Maroc::logo_size	116 / </	
+<p> As of January 2011 , the Royal Air Maroc fleet consists of the following aircraft : center / center </p>
+
+#	NEW	logo_size	........ / 2009 ) :	// <p> The Mandarin Airlines fleet includes the following aircraft ( as of October 2009 ) : </p>
+
+#	NEW	logo_size	........ / 10 .	// <p> As of December 2010 , the Blue1 fleet consists of the following aircraft with an average age of 10 . 6 years : center / center </p>
+
+#	NEW	logo_size	........ / 19 .	// <p> As of December 2010 , the Nok Air fleet consists of the following aircraft with an average age of 19 . 4 years : </p>
+
+#	NEW	logo_size	........ / </	// <p> Over the years , Air Anatolia operated the following aircraft types : </p>
+
+#	NEW	logo_size	........ / </	// It was a government agency and operated interisland services and international routes . </p>
+
+32	FALSE	Air Caraïbes::logo_size	200 / </	
+<p> The airline also operated the following aircraft in the past : </p>
+
+#	NEW	logo_size	........ / 727	// Avensa operated a smaller <a> low-cost airline </a> called <a> Servivensa </a> , which operated mainly Boeing 727 aircraft .
+
+#	NEW	logo_size	........ / 2010 ) :	// <p> The Tunisair fleet consists of the following aircraft ( as of July 2010 ) : center / center </p>
+
+#	NEW	logo_size	........ / 747	// Its route network now spans 28 destinations in 12 countries with a fleet of 25 Airbus and Boeing 747 aircraft .
+
+#	NEW	logo_size	........ / 2011 ) :	// Currently , the Gulf Air fleet consists of the following aircraft ( as of January 2011 ) : </p>
+
+#	NEW	logo_size	........ / </	// On January 5 , 2006 <a> Independence Air </a> ceased operations . </p>
+
+#	NEW	logo_size	........ / 23	// ( 2004 ) ] ] The Uzbekistan Airways fleet includes the following aircraft ( as of 23 December 2010 ) : </p>
+

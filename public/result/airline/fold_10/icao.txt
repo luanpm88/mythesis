@@ -1,0 +1,114 @@
+Found: 42
+Found Not Null: 14
+Correct: 6
+Wrong: 8
+Total: 17
+precision: 0.42857142857142855
+recall: 0.35294117647058826
+
+
+
+#	NEW	icao	........ / are	// Services are largely on a scheduled basis , but charter services are also operated .
+
+#	NEW	icao	........ / quot ;	// <p> <strong> OJSC &quot ; Aeroflot <img> Russian Airlines&quot ; </strong> ( ) ( ) , commonly known as <strong> Aeroflot </strong> ( , English translation : &quot ; air fleet&quot ; ) , is the <a> flag carrier </a> and largest <a> airline </a> in Russia , based on passengers carried per year .
+
+#	NEW	icao	........ / subsidiaries :	// <p> In addition to its main operation , Lufthansa has several subsidiaries , including : b / <strong> Airline subsidiaries : </strong> </p>
+
+3	TRUE	Iberia (airline)::icao	ibe / European	
+<p> In addition , <strong> Iberia </strong> is an <a> aircraft maintenance company </a> , servicing its fleet and those of another 48 companies , including some leading European airlines .
+
+#	NEW	icao	........ / scheduled	// It operated scheduled services and charter flights for tour operators and other airlines , in <a> Europe </a> , as well as <a> wet lease </a> and ad hoc charters .
+
+#	NEW	icao	........ / hoc	// It operates international scheduled and ad-hoc cargo charter services .
+
+#	NEW	icao	........ / Carnarvon	// <p> Skywest began service in 1963 as <strong> Carnarvon Air Taxis </strong> flying charter flights with small <a> general aviation </a> aircraft out of <a> Carnarvon , Western Australia </a> .
+
+7	FALSE	America West Express::icao	ash / West	
+<p> <strong> America West Express </strong> was the name for <a> America West Airlines </a> commuter and regional flights operated by <a> Mesa Air Group </a> ' s <a> Mesa Airlines </a> under a <a> code share </a> agreement .
+
+#	NEW	icao	........ / other	// <p> With the demise of Ansett airline operations in 2002 , the engineering services business , formerly known as the <strong> Ansett Australia Maintenance Base </strong> located at Melbourne Airport , was retained under the name of <strong> Ansett Aviation Engineering Services ( AAES ) </strong> , primarily to care for the Ansett aircraft held in storage having mandatory ongoing maintenance , and also for other airlines supplying third party maintenance .
+
+#	NEW	icao	........ / Argentina	// <p> <strong> Austral L&#x00ed ; neas A&#x00e9 ; reas </strong> is an <a> airline </a> based in <a> Buenos Aires </a> , <a> Argentina </a> .
+
+#	NEW	icao	........ / International	// <p> <strong> Swissair Flight 111 </strong> ( SR-111 , SWR-111 ) was a <a> Swissair </a> <a> McDonnell Douglas MD-11 </a> on a scheduled airline flight from <a> John F . Kennedy International Airport </a> in New York City , United States to <a> Cointrin International Airport </a> in <a> Geneva </a> , Switzerland .
+
+#	NEW	icao	........ / Carolina	// Hooters Air flights were operated by <a> Winston-Salem , North Carolina </a> -based <a> Pace Airlines </a> both as ad-hoc private charters , and as scheduled <a> USDOT </a> public charters .
+
+#	NEW	icao	........ / Ltd .	// <p> <strong> Air China Cargo Co . , Ltd . </strong> is a <a> cargo airline </a> based in <a> Beijing </a> , <a> China </a> .
+
+13	FALSE	SkyEurope::icao	esk / operated	
+The airline operated short-haul scheduled and charter passenger services . </p>
+
+#	NEW	icao	........ / Jazz	// <p> <strong> Air Canada Jazz </strong> , also known as <strong> Jazz Air </strong> , is a <a> Canadian </a> <a> regional airline </a> based at <a> Halifax Stanfield International Airport </a> in <a> Enfield </a> , <a> Nova Scotia </a> , operated by <a> Chorus Aviation </a> ( ) . </p>
+
+#	NEW	icao	........ / Florida	// <p> <strong> Air Florida </strong> was a small <a> U . S . </a> and international <a> airline </a> based out of <a> Miami International Airport </a> .
+
+16	FALSE	British Overseas Airways Corporation::icao	ba / Caribbean	
+<p> In 1962 , BOAC and <a> Cunard </a> formed <strong> BOAC-Cunard Ltd </strong> to operate scheduled services to North America , the Caribbean and South America .
+
+17	TRUE	Trans World Airlines::icao	twa / TWA	
+<p> <strong> Trans World Airlines </strong> ( <strong> TWA </strong> ) was a major <a> United States </a> -based airline with hubs in <a> St .
+
+#	NEW	icao	........ / WestJet	// <p> <strong> WestJet Airlines Ltd . </strong> ( ) is a <a> Canadian </a> <a> low-cost carrier </a> that provides scheduled and charter air service to 71 destinations in Canada , the [ [ United States ] ] , [ [ Mexico ] ] and the [ [ Caribbean ] ] .
+
+19	TRUE	TAM Airlines::icao	tam / LAP	
+The new airline was named <strong> TAM </strong> - <strong> T </strong> ransportes <strong> A </strong> &#x00e9 ; reos del <strong> M </strong> ercosur and maintained the IATA code of LAP , PZ .
+
+20	TRUE	Singapore Airlines::icao	sia / Singapore	
+<p> <strong> Singapore Airlines Limited </strong> ( <strong> SIA </strong> ) ( ; , abbreviated ; ) ( ) is the <a> flag carrier </a> of <a> Singapore </a> .
+
+21	FALSE	TAROM::icao	rot / Navigation	
+DH . 9 | de Havilland DH . 9 ] ] on <a> airmail stamp </a> ] ] <a> Romania </a> ' s first national airline was founded in 1920 under the name <strong> CFRNA </strong> - ( <em> French-Romanian Company for Air Navigation </em> ) .
+
+22	TRUE	Iran Air::icao	ira / Persian	
+In 1954 , the privately owned airline <strong> Persian Air Services </strong> ( PAS ) was established , which initially operated only freight services , followed by passenger operations between Tehran and other major cities in Iran .
+
+23	FALSE	Norwegian Air Shuttle::icao	nax / carrier	
+<p> <strong> Norwegian Air Shuttle ASA </strong> ( ) , trading as <strong> Norwegian </strong> , is the second-largest <a> airline </a> in <a> Scandinavia </a> and the third-largest <a> low-cost carrier </a> in Europe .
+
+24	FALSE	All Nippon Airways::icao	ana / International	
+<p> <strong> International </strong> </p>
+
+25	FALSE	Pan American World Airways::icao	paa / PN	
+<p> <a> The first </a> operated from 1996 to 1998 , with a focus on low-cost , long-distance flights between the U . S . and the <a> Caribbean </a> with the <a> IATA airline designator </a> <strong> PN </strong> . </p>
+
+#	NEW	icao	........ / Bahamas	// Operating under the brand name <a> Delta Connection </a> , Comair operates passenger services to a large number of destinations in the USA , <a> Canada </a> , <a> Mexico </a> and the <a> Bahamas </a> . </p>
+
+#	NEW	icao	........ / AeroM&#	// <p> <strong> Aeroper&#x00fa ; </strong> ( short form for <em> Empresa Nacional de <strong> Aero </strong> navegaci&#x00f3 ; n del <strong> Per&#x00fa ; </strong> </em> , <em> National Air Navigation Company of Peru </em> ) was the former national <a> flag carrier </a> of <a> Peru </a> , and a wholly owned subsidiary of <a> AeroM&#x00e9 ; xico </a> .
+
+#	NEW	icao	........ / Florida	// <p> <strong> Florida </strong> </p>
+
+#	NEW	icao	........ / regional	// <p> <strong> Continental Express </strong> is the operating <a> brand </a> name used by a number of independently owned <a> regional airline </a> s providing regional jet feeder service under agreement with <a> Continental Airlines </a> .
+
+#	NEW	icao	........ / It	// It is planned that ground services , technical services , <a> air cargo </a> and the <a> Prince Sultan Aviation Academy </a> , as well as the catering unit , will become subsidiaries of a holding company . </p>
+
+31	TRUE	South African Airways::icao	saa / time.	
+<p> SAA won <em> Executive Travel <strong> s best airline to Africa award for the third time . </strong> </em> </p>
+
+#	NEW	icao	........ / International	// <p> <strong> Royal Jordanian Airlines </strong> ( ; <a> transliterated </a> : al-Malakiyah al-Orduniyah ) is an <a> airline </a> with its head office in <a> Amman </a> , <a> Jordan </a> , operating scheduled international services over four continents from its main base at <a> Queen Alia International Airport </a> at Amman ( AMM ) Jordan .
+
+#	NEW	icao	........ / KE	// <p> <strong> Korean Air Lines Flight 007 </strong> ( <strong> KAL&nbsp ; 007 </strong> , <strong> KE 007 </strong> ) was a <a> Korean Air Lines </a> civilian <a> airliner </a> that was shot down by <a> Soviet </a> <a> interceptors </a> on 1 September 1983 , over the <a> Sea of Japan </a> <a> ( East Sea ) </a> , near <a> Moneron Island </a> just west of <a> Sakhalin </a> island .
+
+#	NEW	icao	........ / Minato	// <p> , or <strong> NCA </strong> , is a <a> cargo airline </a> based in the Onarimon Yusen Building in <a> Minato </a> , Tokyo , Japan .
+
+#	NEW	icao	........ / scheduled	// It operated over 90 weekly scheduled cargo flights , and had a strong charter business .
+
+#	NEW	icao	........ / Canadian	// The following is a list of aircraft belonging to both <strong> Canadian Airlines and CP Air </strong> : </p>
+
+#	NEW	icao	........ / Olympic	// All flights to be operated under United name br / Merger into <a> Olympic Air </a> announced on February 2010 .
+
+38	FALSE	Flybe::icao	bee / International	
+<p> <strong> Flybe Limited </strong> ( styled as <strong> flybe </strong> ) is a <a> low-cost </a> <a> regional airline </a> headquartered at the Jack Walker House at <a> Exeter International Airport </a> in <a> Devon </a> , <a> England </a> .
+
+#	NEW	icao	........ / Austria	// <p> <strong> Lauda Air </strong> is an <a> airline </a> based in <a> Schwechat </a> , <a> Austria </a> .
+
+#	NEW	icao	........ / Class	// <p> <strong> Economy Class </strong> offers a <a> buy on board </a> service with food and drinks for purchase . </p>
+
+#	NEW	icao	........ / main	// <p> <strong> Air Canada Tango </strong> was a <a> low-cost </a> branch of <a> Air Canada </a> , which was established in 2001 to offer <a> no-frills </a> service on some of Air Canada ' s routes and to reduce operating costs at the struggling main company .
+
+#	null	icao	ava / ..........
+
+#	null	icao	aca / ..........
+
+#	null	icao	thy / ..........
+

@@ -1,0 +1,57 @@
+Found: 23
+Found Not Null: 1
+Correct: 0
+Wrong: 1
+Total: 1
+precision: 0.0
+recall: 0.0
+
+
+
+0	FALSE	TESIS Aviation Enterprise::headquarters	moscow, russia / Airport	
+Its main bases were <a> Domodedovo International Airport </a> , Moscow and <a> Irkutsk Airport </a> .
+
+#	NEW	headquarters	........ / Airport	// Its main base is <a> Malm&#x00f6 ; Airport </a> , with a hub at <a> Stockholm-Bromma Airport </a> . </p>
+
+#	NEW	headquarters	........ / Airport	// Many of MetroJet ' s passengers were cannibalized from other US Airways operations , such as its major presence at <a> Ronald Reagan Washington National Airport </a> .
+
+#	NEW	headquarters	........ / airport	// It then crashed through the airport fence and impacted several trees , breaking apart while skidding down a residential street that was on the airport boundary .
+
+#	NEW	headquarters	........ / Airport	// Its main base is on the grounds of <a> Jorge Ch&#x00e1 ; vez International Airport </a> .
+
+#	NEW	headquarters	........ / Airport	// Its main bases were <a> Glasgow International Airport </a> , <a> Edinburgh Airport </a> and <a> Aberdeen Airport </a> .
+
+#	NEW	headquarters	........ / Airport	// <p> <strong> Flyjet </strong> was a charter <a> airline </a> based at <a> London Luton Airport </a> , <a> United Kingdom </a> .
+
+#	NEW	headquarters	........ / Airport	// <p> <strong> Titan Airways </strong> is a British <a> charter airline </a> based at <a> London Stansted Airport </a> , United Kingdom .
+
+#	NEW	headquarters	........ / Airport	// Its main base was <a> Queen Alia International Airport </a> . </p>
+
+#	NEW	headquarters	........ / Airport	// Its main base is <a> Coventry Airport </a> . </p>
+
+#	NEW	headquarters	........ / Airport	// Its main base is <a> Khabarovsk Novy Airport </a> . </p>
+
+#	NEW	headquarters	........ / Airport	// Its main base is <a> Saratov Tsentralny Airport </a> ( RTW ) . </p>
+
+#	NEW	headquarters	........ / Airport	// Its main base was <a> Kinshasa International Airport </a> .
+
+#	NEW	headquarters	........ / Airport	// Its main base is <a> Borl&#x00e4 ; nge Airport </a> . </p>
+
+#	NEW	headquarters	........ / Airport . .	// Its main base is Simferopol International Airport . . </p>
+
+#	NEW	headquarters	........ / Airport	// Its main base is <a> Zaporizhia International Airport </a> . </p>
+
+#	NEW	headquarters	........ / Airport	// Its main base is <a> Odessa International Airport </a> . </p>
+
+#	NEW	headquarters	........ / Airport	// Its main bases are <a> Odessa Airport </a> ( ODS ) and <a> Simferopol Airport </a> ( SIP ) . </p>
+
+#	NEW	headquarters	........ / Airport	// Its main base was <a> Abu Dhabi International Airport </a> .
+
+#	NEW	headquarters	........ / 1962	// <p> The airline was established on 4 August 1961 as Yemen Airlines and started operations in <a> 1962 </a> .
+
+#	NEW	headquarters	........ / Airport	// Its main base is <a> Sim&#x00f3 ; n Bol&#x00ed ; var International Airport </a> , Caracas . </p>
+
+#	NEW	headquarters	........ / Airport	// Its main base is <a> Viracopos International Airport </a> , Campinas . </p>
+
+#	NEW	headquarters	........ / Airport	// Its main base is <a> Madrid-Torrej&#x00f3 ; n Airport </a> . </p>
+

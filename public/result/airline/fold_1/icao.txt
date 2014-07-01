@@ -1,0 +1,98 @@
+Found: 42
+Found Not Null: 4
+Correct: 1
+Wrong: 3
+Total: 4
+precision: 0.25
+recall: 0.25
+
+
+
+#	NEW	icao	........ / Brazil	// <p> Flight 202 had begun its route the previous evening in <a> Buenos Aires </a> , <a> Argentina </a> , with stopovers in <a> Montevideo </a> , <a> Uruguay </a> , and <a> Rio de Janeiro </a> , <a> Brazil </a> .
+
+#	NEW	icao	........ / International	// <p> <strong> Pan Am Flight 830 </strong> was a <a> Boeing 747-121 </a> , named &quot ; Clipper Ocean Rover&quot ; , flying from <a> Narita International Airport </a> in <a> Tokyo </a> to <a> Honolulu International Airport </a> in <a> Hawaii </a> on August 11 , 1982 . </p>
+
+#	NEW	icao	........ / Northeast	// <p> <strong> Northeast Airlines Flight 946 </strong> was a domestic <a> U . S . </a> flight from <a> Boston , Massachusetts </a> to <a> Montpelier , Vermont </a> , with a refueling stop in <a> Lebanon , New Hampshire </a> , operated by <a> Northeast Airlines </a> .
+
+#	NEW	icao	........ / Texas	// <p> <strong> <a> Braniff International Airways </a> Flight 352 </strong> was a scheduled domestic flight from <a> William P . Hobby Airport </a> in <a> Houston </a> , <a> Texas </a> , <a> United States </a> to <a> Dallas , Texas </a> ; on May 3 , 1968 a <a> Lockheed L-188A Electra </a> flying on the route , registration N9707C , broke up in mid air and crashed near <a> Dawson , Texas </a> after flying into a severe <a> thunderstorm </a> .
+
+#	NEW	icao	........ / NAC	// <p> NAC Air ceased operations indefinitely in early <a> 2008 </a> due to financial difficulties . </p>
+
+#	NEW	icao	........ / Orient	// <p> The accident flight is known in some references ( and in the CAB report ) as Northwest Airlines Flight 2 , but it actually flew under the Northwest Orient Airlines name . </p>
+
+#	NEW	icao	........ / budget	// It operates domestic scheduled budget services .
+
+#	NEW	icao	........ / same	// <p> Though it is customary for airlines to retire a flight number after a major incident , Air Canada continues to use Flight 831 for the same route .
+
+8	FALSE	L'Avion::icao	avi / OpenSkies.	
+Operations of the two airlines were merged on 4 April 2009 , with the former now operating as OpenSkies . </p>
+
+#	NEW	icao	........ / regional	// It operated scheduled domestic , regional and international services , but is currently not active . </p>
+
+#	NEW	icao	........ / flights	// These flights were operated with Britannias .
+
+#	NEW	icao	........ / Sudan	// <p> <strong> Air West Flight 612 </strong> was a scheduled domestic passenger flight operated by <a> Air West </a> between <a> Khartoum </a> , <a> Sudan </a> and <a> Al-Fashir </a> .
+
+#	NEW	icao	........ / Launis	// <p> The plane was piloted by Captain Bo von Willebrand , and Tauno Launis was the wireless operator .
+
+#	NEW	icao	........ / International	// <p> <strong> <a> ALM </a> Flight 980 </strong> was a flight scheduled to fly from <a> John F . Kennedy International Airport </a> in <a> New York , New York </a> to <a> Princess Juliana International Airport </a> in <a> St .
+
+#	NEW	icao	........ / domestic	// It operates domestic and international passenger and freight services . </p>
+
+#	NEW	icao	........ / aircraft	// The crash of Crossair Flight LX498 was the first time in Crossair ' s 25-year history that the regional airline had lost an aircraft , </p>
+
+#	NEW	icao	........ / business	// It operates a fleet of business jets available for charter and private use .
+
+#	NEW	icao	........ / Texas	// <p> <strong> <a> Continental Express </a> Flight 2574 </strong> ( Jetlink 2574 ) was a scheduled domestic passenger <a> airline </a> flight operated by <a> Britt Airways </a> from <a> Laredo International Airport </a> in <a> Laredo , Texas </a> to <a> Bush Intercontinental Airport </a> in <a> Houston , Texas </a> .
+
+#	NEW	icao	........ / navigation	// Some major components were not returned , including the flight data and <a> cockpit voice recorder </a> s , flight control systems , navigation and communication equipment .
+
+#	NEW	icao	........ / Mull	// <p> The airline operates tour and charter flights , as well as regular flights around the west coast of Scotland , with a two times a day service from Glasgow to <a> Oban </a> which operates from November to February , and Glasgow to <a> Tobermory , Mull </a> .
+
+20	TRUE	Scandjet::icao	- / Dubrovnik	
+During the season of April-October ScandJet offers direct flights from Scandinavia ( Stockholm , Gothenburg , Oslo and Copenhagen ) to Croatia ( Pula , Zadar , Split , Dubrovnik and Zagreb ) and Bosnia &amp ; Herzegovina ( Sarajevo ) .
+
+21	FALSE	Pan Européenne Air Service::icao	pea / regional	
+It was established and started operations in 1977 and operates regional and international air taxi services .
+
+#	NEW	icao	........ / following	// <p> Appalachian Airlines offered scheduled flights to the following destinations : </p>
+
+#	NEW	icao	........ / scheduled	// It was established in 1979 and operates scheduled passenger services , passenger and cargo charter flights and aircraft sales and maintenance .
+
+#	NEW	icao	........ / September	// The airline was founded by a group of Danish investors and operated its first flight on 19 September 2006 . </p>
+
+#	NEW	icao	........ / County	// <p> <strong> Norrlandsflyg AB </strong> is a <a> Swedish </a> <a> helicopter </a> operator which provides <a> search and rescue </a> under contract with the <a> Swedish Maritime Administration </a> and <a> air ambulance </a> services for <a> Norrbotten County </a> and <a> V&#x00e4 ; stra G&#x00f6 ; taland County </a> .
+
+#	NEW	icao	........ / Turkey	// <p> <strong> Turkish Airlines Flight 5904 </strong> was a <a> Boeing 737-4Q8 </a> operated by the <a> Turkish Airlines </a> , registered TC-JEP and named <em> Trakya </em> , on a repositioning flight that crashed on 7 April 1999 in <a> Ceyhan </a> , <a> Adana Province </a> in southern <a> Turkey </a> .
+
+#	NEW	icao	........ / domestic	// <p> <strong> Sita Air </strong> is an <a> airline </a> based in <a> Kathmandu </a> , <a> Nepal </a> , operating domestic flights .
+
+#	NEW	icao	........ / as	// <p> The Civil Aviation Authority of Nepal ( CAAN ) granted Agni Air an air operators certificate , allowing it to operate scheduled flights , as well as mountain flights .
+
+#	NEW	icao	........ / operated	// <a> Orient Thai Airlines </a> owned a 49% stake in the airline and operated charter services on behalf of Kampuchea Airlines .
+
+#	NEW	icao	........ / domestic	// It operated domestic passenger services .
+
+#	NEW	icao	........ / domestic	// It operates domestic on demand cargo and passenger charter flights , as well as contract flights for <a> FedEx </a> and <a> Mario ' s Air </a> . </p>
+
+#	NEW	icao	........ / ACMI	// It operates ACMI and charter operations utilizing Boeing 777 and 747 cargo aircraft to international <a> air cargo </a> carriers .
+
+#	NEW	icao	........ / WaltAir	// <p> <strong> WaltAir </strong> is a Swedish taxi airline .
+
+#	NEW	icao	........ / DHL	// It operates feeder flights for overnight package delivery services , including <a> UPS </a> and <a> DHL </a> .
+
+#	NEW	icao	........ / Europe	// <p> <strong> Midwest Airlines </strong> is an <a> airline </a> based in <a> Cairo </a> , <a> Egypt </a> , operating chartered passenger flights within <a> Egypt </a> and to <a> Europe </a> . </p>
+
+#	NEW	icao	........ / scheduled	// It operates domestic and regional scheduled and charter services .
+
+#	NEW	icao	........ / are	// It operates scheduled and chartered cargo flights out of <a> Frankfurt Airport </a> , most of which are either to <a> Birmingham Airport </a> or <a> Coventry Airport </a> . </p>
+
+#	NEW	icao	........ / airline	// <p> As of August 2006 the airline also operated : </p>
+
+#	NEW	icao	........ / following	// <p> As of May <a> 2007 </a> , Marsland Aviations operates scheduled passenger flights to the following destinations : </p>
+
+#	NEW	icao	........ / Yunnan	// It started operations with a flight between Kunming and Dali within Yunnan on 26 February 2006 . </p>
+
+41	FALSE	Westward Airways (United Kingdom)::icao	- / operates	
+<p> The airline is owned by the <a> Isles of Scilly Steamship Company </a> , which operates shipping services to the <a> Isles of Scilly </a> in its own name , and also owns <a> Isles of Scilly Skybus </a> , which operates air services to the islands . .
+

@@ -1,4 +1,0 @@
-<li><a>Architecture</a> </li>
-<li><a>Electronic Engineering</a></li>
-<li><a>Universidad Iberoamericana Puebla</a></li>
-<li><a>Official website</a></li>

@@ -1,0 +1,91 @@
+Found: 31
+Found Not Null: 19
+Correct: 10
+Wrong: 9
+Total: 19
+precision: 0.5263157894736842
+recall: 0.5263157894736842
+
+
+
+0	TRUE	Ava Gardner::birth_name	ava lavinia gardner / Ava Lavinia Gardner	
+<p> <strong> Ava Lavinia Gardner </strong> ( December 24 , 1922 &ndash ; January 25 , 1990 ) was an American actress .
+
+1	FALSE	Khwaja Ahmad Abbas::birth_name	khwaja ahmad abbas / best known fictional work remains ' Inquilab ', based Communal violence	
+His best known fictional work remains ' Inquilab ' , based Communal violence , which made him a household name in Indian literature .
+
+#	NEW	birth_name	........ / Nicolas Cage	// <p> <strong> Nicolas Cage </strong> ( born <strong> Nicolas Kim Coppola </strong> ; January 7 , 1964 ) is an American actor , producer and director , having appeared in over 60 films including <em> <a> The Rock </a> </em> ( 1996 ) , <em> <a> Fac / Off </a> </em> ( 1997 ) , <em> <a> Gone In 60 Seconds </a> </em> ( 2000 ) , <em> <a> National Treasure </a> </em> ( 2004 ) , <em> <a> Ghost Rider </a> </em> ( 2007 ) , <em> <a> Bad Lieutenant : Port of Call New Orleans </a> </em> ( 2009 ) , and <em> <a> Kick-Ass </a> </em> ( 2010 ) .
+
+#	NEW	birth_name	........ / Sir Ridley Scott	// <p> <strong> Sir Ridley Scott </strong> ( born 30 November 1937 ) is an English film director and producer known for his stylish visuals and an obsession for detail .
+
+#	NEW	birth_name	........ / Robert Anthony Rodr&#x00ed ; guez	// <p> <strong> Robert Anthony Rodr&#x00ed ; guez </strong> ( born June 20 , 1968 ) is an American <a> film director </a> , <a> screenwriter </a> , <a> producer </a> , <a> cinematographer </a> , <a> editor </a> and <a> musician </a> .
+
+5	FALSE	Robin Wright Penn::birth_name	robin gayle wright / is best known for her roles as Jenny Forrest	
+She is best known for her roles as Jenny in the film <em> <a> Forrest Gump </a> </em> and as Buttercup in <em> <a> The Princess Bride </a> </em> , credited as <strong> Robin Wright </strong> .
+
+6	TRUE	Steven Soderbergh::birth_name	steven andrew soderbergh / Steven Andrew Soderbergh	
+<p> <strong> Steven Andrew Soderbergh </strong> ( ; born January 14 , 1963 ) is an American film producer , screenwriter , <a> cinematographer </a> , editor , actor , and an <a> Academy Award </a> -winning film director .
+
+#	NEW	birth_name	........ / Theodore & quot ; Ted&quot ; Raimi	// <p> <strong> Theodore &quot ; Ted&quot ; Raimi </strong> ( born December 14 , 1965 ) is an <a> American </a> <a> actor </a> , perhaps best known for his roles as <a> Lieutenant Tim O ' Neill </a> in <em> <a> seaQuest DSV </a> </em> and <a> Joxer the Mighty </a> in <strong> <em> ' / </em> </strong> ' .
+
+#	NEW	birth_name	........ / Timothy James	// <p> <strong> Timothy James </strong> &quot ; <strong> Tim </strong> &quot ; <strong> Curry </strong> ( born 19 April 1946 ) is an <a> English </a> <a> actor </a> , <a> singer </a> , <a> composer </a> and <a> voice actor </a> , known for his work in a diverse range of theatre , film and television productions .
+
+9	FALSE	Otto Preminger::birth_name	otto ludwig preminger / the film opened to modest business	
+When the film opened to modest business in July 1948 , it received better notices than it deserved as reviewers scrambled to discern traces of Lubitsch ' s hand .
+
+#	NEW	birth_name	........ / Sophie Marceau	// <p> <strong> Sophie Marceau </strong> ( ; born 17 November 1966 ) is a French actress , who has appeared in 35 films .
+
+11	TRUE	Calista Flockhart::birth_name	calista kay flockhart / Calista Kay Flockhart	
+<p> <strong> Calista Kay Flockhart </strong> ( born November 11 , 1964 ) is an American actor who is primarily recognized for her work in television .
+
+12	TRUE	Jerry Lewis::birth_name	joseph levitch / Jerry Lewis	
+<p> <strong> Jerry Lewis </strong> ( born <strong> Joseph Levitch </strong> , March 16 , 1926 ) is an <a> American </a> <a> comedian </a> , <a> actor </a> , <a> film producer </a> , <a> writer </a> , <a> film director </a> and <a> singer </a> .
+
+13	TRUE	Jonathan Demme::birth_name	robert jonathan demme / Robert Jonathan Demme	
+<p> <strong> Robert Jonathan Demme </strong> ( born February 22 , 1944 ) is an <a> American </a> <a> filmmaker </a> , <a> producer </a> and <a> screenwriter </a> .
+
+#	NEW	birth_name	........ / Henson&# x2019 ; s companies	// Henson&#x2019 ; s companies , which are now run by his children , continue to produce films and television shows . </p>
+
+15	TRUE	John Frankenheimer::birth_name	john michael frankenheimer / John Michael Frankenheimer	
+<p> <strong> John Michael Frankenheimer </strong> ( February 19 , 1930 &ndash ; July 6 , 2002 ) was an award-winning American film and television director known for social dramas .
+
+16	FALSE	Julia Roberts::birth_name	julia fiona roberts / meant the conductor <a> Bill Conti	
+She meant the conductor <a> Bill Conti </a> , who had tried to hasten the conclusion of her Oscar speech the previous year , but instead named the Scottish actor .
+
+#	NEW	birth_name	........ / Godfrey Reggio	// <p> <strong> Godfrey Reggio </strong> ( born March 29 , 1940 ) is an American <a> director </a> of experimental <a> documentary film </a> s . </p>
+
+18	TRUE	Helen Hunt::birth_name	helen elizabeth hunt / Helen Elizabeth Hunt	
+<p> <strong> Helen Elizabeth Hunt </strong> ( born June 15 , 1963 ) is an American actress , <a> film director </a> , and <a> screenwriter </a> .
+
+19	FALSE	Paul Muni::birth_name	meshilem meier weisenfreund / Paul Muni	
+<p> <strong> Paul Muni </strong> ( September 22 , 1895 &#x2013 ; August 25 , 1967 ) was an <a> Austrian-Hungarian </a> -born American stage and film actor .
+
+20	TRUE	Roberto Benigni::birth_name	roberto remigio benigni / Roberto Remigio Benigni	
+<p> <strong> Roberto Remigio Benigni </strong> , <a> Knight Grand Cross OMRI </a> ( born 27 October 1952 ) is an Italian actor , comedian , screenwriter and <a> director </a> of film , theatre and television . </p>
+
+21	TRUE	Leonard Rossiter::birth_name	leonard rossiter / Leonard Rossiter	
+<p> <strong> Leonard Rossiter </strong> ( 21 October 1926 &#x2013 ; 5 October 1984 ) was an <a> English </a> <a> actor </a> known for his roles as Rupert Rigsby , in the <a> British </a> comedy television series <em> <a> Rising Damp </a> </em> ( 1974&#x2013 ; 78 ) , and Reginald Iolanthe Perrin , in <em> <a> The Fall and Rise of Reginald Perrin </a> </em> ( 1976&#x2013 ; 79 ) .
+
+#	NEW	birth_name	........ / Laura Jeanne Reese Witherspoon	// <p> <strong> Laura Jeanne Reese Witherspoon </strong> ( born March 22 , 1976 ) , better known as <strong> Reese Witherspoon </strong> , is an American actress and film producer .
+
+#	NEW	birth_name	........ / Tony Robinson	// <p> <strong> Tony Robinson </strong> ( born 15 August 1946 ) is an <a> English </a> <a> actor </a> , <a> comedian </a> , <a> author </a> , <a> broadcaster </a> and <a> political campaigner </a> .
+
+24	FALSE	Lionel Barrymore::birth_name	lionel herbert blythe / Lionel Barrymore	
+<p> <strong> Lionel Barrymore </strong> ( April 28 , 1878 &ndash ; November 15 , 1954 ) was an American actor of stage , screen and radio .
+
+25	TRUE	Boris Karloff::birth_name	william henry pratt / Boris Karloff	
+<p> <strong> Boris Karloff </strong> ( 23 November 1887 &#x2013 ; 2 February 1969 ) , whose real name was <strong> William Henry Pratt </strong> , was an <a> English </a> -born actor who emigrated to <a> Canada </a> in 1909 .
+
+26	FALSE	Leo McKern::birth_name	reginald mckern / Reginald & quot ; Leo&quot ; McKern	
+<p> <strong> Reginald &quot ; Leo&quot ; McKern </strong> , <a> AO </a> ( 16 March 1920 <img> 23 July 2002 ) was an <a> Australia </a> n-born <a> English </a> <a> actor </a> who appeared in numerous British and Australian <a> television </a> programmes and <a> movies </a> , and more than 200 <a> stage </a> roles .
+
+27	FALSE	Debbie Reynolds::birth_name	mary frances reynolds / Debbie Reynolds	
+<p> <strong> Debbie Reynolds </strong> ( born April 1 , 1932 ) is an <a> American </a> <a> actress </a> , <a> singer </a> , and <a> dancer </a> who was an <a> MGM </a> contract star .
+
+28	FALSE	M. Night Shyamalan::birth_name	manoj nelliyattu shyamalan / is also known for filming his movies ( and staging his plots ) in and around	
+He is also known for filming his movies ( and staging his plots ) in and around <a> Philadelphia , Pennsylvania </a> , where he was raised .
+
+#	NEW	birth_name	........ / William Christopher	// <p> <strong> William Christopher </strong> ( born October 20 , 1932 ) is an <a> American </a> <a> actor </a> who is best known for playing <a> Father Mulcahy </a> on the <a> television </a> <a> series </a> <em> <a> M*A*S*H </a> </em> and Private Lester Hummel on <em> <a> Gomer Pyle , U . S . M . C . </a> </em> </p>
+
+#	NEW	birth_name	........ / Thora Hird	// <p> <a> Dame </a> <strong> Thora Hird </strong> <a> DBE </a> ( 28 May 1911 <img> 15 March 2003 ) was an <a> English </a> <a> actress </a> . </p>
+

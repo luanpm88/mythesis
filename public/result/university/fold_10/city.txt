@@ -1,0 +1,25 @@
+Found: 111
+Found Not Null: 5
+Correct: 2
+Wrong: 3
+Total: 5
+precision: 0.018018018018018018
+recall: 0.4
+
+
+
+73	FALSE	University of Manchester Institute of Science and Technology::city	manchester / bowling	
+They included the <a> Maths and Social Sciences Tower </a> , the <a> Faraday Building </a> , the <a> Renold Building </a> , and the <a> Barnes Wallis Building </a> , the last two of which faced each other across a <a> bowling green </a> , which later became a landscaped garden. </p>
+
+79	FALSE	Victoria University, Australia::city	melbourne / Within	
+<p> Within Vocational Education ( TAFE ) there are two faculties and one service area: </p>
+
+82	TRUE	University of California, San Francisco::city	san francisco / largest	
+<p> UCSF's <a> Mission Bay </a> Campus, also located in San Francisco, is the largest ongoing biomedical construction project in the world.
+
+104	TRUE	Odense University::city	odense / departments	
+Odense is also by far the biggest campus of the SDU - both in terms of physical size and the number of students, staff, departments and degrees. </p>
+
+105	FALSE	University of California, Irvine::city	irvine / Arts	
+<p> Other areas of the university outside of the core campus such as the College of Medicine and the School of Arts are connected by four pedestrian bridges.
+

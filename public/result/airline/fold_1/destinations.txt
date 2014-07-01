@@ -1,0 +1,71 @@
+Found: 26
+Found Not Null: 7
+Correct: 4
+Wrong: 3
+Total: 8
+precision: 0.5714285714285714
+recall: 0.5
+
+
+
+0	FALSE	NAC Air::destinations	26 / 21	
+NAC grew steadily , evolving from the early two aircraft operation serving four communities to an eleven aircraft operation connecting <a> Sioux Lookout , Ontario </a> ; <a> Winnipeg </a> ; <a> Thunder Bay </a> ; <a> Red Lake , Ontario </a> ; <a> Thompson , Manitoba </a> and 21 First Nations communities </p>
+
+#	NEW	destinations	........ / 800	// <p> Mango operates four Boeing 737-800 aircraft which are serviced and maintained by SAA Technical .
+
+#	NEW	destinations	........ / 8-	// The aircraft was a four-engine <a> Douglas </a> <a> DC-8-54CF </a> airliner , registered CF-TJN .
+
+3	TRUE	L'Avion::destinations	2 / 90	
+It used two <a> Boeing 757-200 </a> aircraft , modified by Lufthansa Technik , Gamco and H4 Aerospace , with only 90 seats in a 2x2 configuration .
+
+#	NEW	destinations	........ / 2005	// <p> As of January <a> 2005 </a> Sierra National Airlines operated the following services : </p>
+
+#	NEW	destinations	........ / 9	// The aircraft was shot down by two <a> Soviet </a> <a> Ilyushin DB-3 </a> bombers during <a> peacetime </a> between the Soviet Union and Finland on June 14 , 1940 , while en route from <a> Tallinn </a> to <a> Helsinki </a> , killing all 9 onboard . </p>
+
+6	FALSE	Fly540::destinations	16 / 2010	
+<p> As of July 2010 the Fly540 fleet consists of the following aircraft : </p>
+
+#	NEW	destinations	........ / 2010	// <p> As of May 2010 the Swift Air fleet includes : </p>
+
+#	NEW	destinations	........ / 2574	// <p> Continental still uses Flight 2574 on its Houston-Fayetteville-Newark route , and it continues to fly under <a> Continental Express </a> banner operated by <a> ExpressJet Airlines </a> . </p>
+
+#	NEW	destinations	........ / 727	// The flight was a <a> Boeing 727 </a> ( N317PA ) routed from <a> Frankfurt </a> to Berlin-Tegel and was on initial approach .
+
+10	TRUE	Loch Lomond Seaplanes::destinations	2 / 2009 ) :	
+<p> The Loch Lomond Seaplanes fleet includes the following aircraft ( at April 2009 ) : </p>
+
+#	NEW	destinations	........ / ( 2009 ) .	// Jettime [ [ Boeing 737-300 ] ] with deployed <a> thrust reversers </a> shortly after landing at <a> Salzburg Airport </a> , <a> Austria </a> ( 2009 ) . ] ]
+
+#	NEW	destinations	........ / 2010	// <p> As of August 2010 , the Vincent Aviation fleet consists of the following aircraft : </p>
+
+#	NEW	destinations	........ / 76	// Norrlandsflyg operates twelve <a> Sikorsky S-76 </a> helicopters . </p>
+
+#	NEW	destinations	........ / 1995 .	// <p> The aircraft , a <a> Boeing 737-4Q8 </a> with two <a> CFMI CFM56-3C1 </a> <a> jet engine </a> s , was built by <a> Boeing </a> with manufacturer serial number 2537 / 2732 , and made its first flight on 9 June 1995 . ref
+
+#	NEW	destinations	........ / 2008	// <p> As of August 2008 the Sita Air fleet includes : </p>
+
+16	FALSE	Agni Air::destinations	8 / 2010 ) :	
+Agni Air provides scheduled flights at the following locations ( as of June 2010 ) : </p>
+
+17	TRUE	Landsflug::destinations	5 / 1	
+<p> The airline was established in 2004 and started operations on 1 October 2004 The owners of <a> City Star Airlines </a> , a ticket sales office based in Aberdeen , Scotland , acquired the controlling shares of the airline in 2005 in order to acquire JAR OPS 1 licensed operator for its expanding Aberdeen operation .
+
+#	NEW	destinations	........ / 2010	// <p> In February and March of 2010 , Southern Air took delivery of two Boeing 777 freighters .
+
+#	NEW	destinations	........ / 2	// <p> The airline was established and started operations in <a> 1978 </a> and acquired the freight operations of <a> CCAir </a> on 2 January 1990 .
+
+#	NEW	destinations	........ / 2011 ) :	// <p> The Midwest Airlines fleet consists of the following aircraft ( at January 2011 ) : </p>
+
+#	NEW	destinations	........ / 50	// It is wholly owned by LAM and has 50 employees ( at March 2007 ) .
+
+#	NEW	destinations	........ / 2010	// <p> As of December 2010 , the Nightexpress fleet consists of the following aircraft : </p>
+
+#	NEW	destinations	........ / 2009	// <p> As of March 2009 the Novosibirsk Air Enterprise fleet includes : </p>
+
+24	TRUE	Marsland Aviation::destinations	10 / 2010 ) :	
+<p> The Marsland Aviation fleet consists of the following aircraft ( as of June 2010 ) : </p>
+
+#	NEW	destinations	........ / 2009	// Until February 2009 it operated sight seeing flights in the local area , also running the former <a> Lands End Flying School </a> and is the operator of <a> Land ' s End Airport </a> .
+
+#	null	destinations	worldwide / ..........
+

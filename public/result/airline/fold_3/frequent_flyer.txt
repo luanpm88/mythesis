@@ -1,0 +1,54 @@
+Found: 23
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	frequent_flyer	........ / its passengers	// Among its passengers were Colombian merchants conducting business in Panama .
+
+#	NEW	frequent_flyer	........ / airline	// <p> At January 2005 the airline also operated : </p>
+
+#	NEW	frequent_flyer	........ / Santa Cruz	// It was formerly known as Flying Dolphin Airlines and Santa Cruz Imperial Airlines .
+
+#	NEW	frequent_flyer	........ / Air Luxor	// In 2003 , Air Luxor announced the launch of scheduled <a> low cost flights </a> under the <strong> Air Luxor Light </strong> branding .
+
+#	NEW	frequent_flyer	........ / branded operation	// The airline ' s branded operation is based in <a> Bydgoszcz </a> . </p>
+
+#	NEW	frequent_flyer	........ / killed Dorothy	// I think they [ the <a> CIA </a> ] killed Dorothy Hunt . &quot ;
+
+#	NEW	frequent_flyer	........ / then became	// Ladeco then became exclusively an internal carrier between Chilean cities .
+
+#	NEW	frequent_flyer	........ / returned to	// <p> Following the incident , the aircraft was repaired and returned to service still bearing the name &quot ; Canyon Blue . &quot ; </p>
+
+#	NEW	frequent_flyer	........ / they heard	// Moments later , they heard a &quot ; bang&quot ; and then a rumbling noise .
+
+#	NEW	frequent_flyer	........ / economic exclusion	// It also undertakes aerial surveillance of the economic exclusion zone surrounding the islands .
+
+#	NEW	frequent_flyer	........ / three fatal	// <p> The airline ' s three fatal accidents were : </p>
+
+#	NEW	frequent_flyer	........ / airline initiated	// The airline initiated on-demand passenger service with two 9-seater <a> Aero Commander </a> aircraft . br
+
+#	NEW	frequent_flyer	........ / which was	// All aboard died in the crash , which was proven to have been deliberately caused by an on-board explosive device . </p>
+
+#	NEW	frequent_flyer	........ / guests dressed	// <p> Louis ' wedding was held as scheduled on the following day , but it was small and quiet , with the guests dressed in mourning .
+
+#	NEW	frequent_flyer	........ / emergency medical	// It also undertakes agricultural flying , aerial photography and emergency medical evacuation services .
+
+#	NEW	frequent_flyer	........ / Air Operators	// The helicopters are flown using the Air Operators Certificate of Oxford Air Services Limited . </p>
+
+#	NEW	frequent_flyer	........ / GENSA fleet	// <p> As of August 2010 the GENSA fleet includes </p>
+
+#	NEW	frequent_flyer	........ / also provides	// It operates scheduled services to over 70 villages in Alaska and also provides charter services throughout Alaska .
+
+#	NEW	frequent_flyer	........ / largest foreign	// China Airlines ' became the largest foreign shareholder with a 25% stake . </p>
+
+#	NEW	frequent_flyer	........ / North Ba /	// They also provide ground handling , fuel services and terminal services at the <a> North Ba / Jack Garland Airport </a> .
+
+#	NEW	frequent_flyer	........ / as well	// It started operations in March 1991 and undertakes all types of cargo operations , as well as maintenance work for third parties .
+
+#	NEW	frequent_flyer	........ / survivors decided	// <p> Two days later , four of the survivors decided to try to walk and look for help .
+
+#	NEW	frequent_flyer	........ / name ' Jetairfly '	// The name ' Jetairfly ' has been removed and replaced with ' operated by TUI Airlines Belgium ' .
+

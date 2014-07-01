@@ -1,0 +1,86 @@
+Found: 35
+Found Not Null: 6
+Correct: 6
+Wrong: 0
+Total: 6
+precision: 1.0
+recall: 1.0
+
+
+
+0	TRUE	Blue Wings::ceased	13 january 2010 / 13 January 2010	
+<p> On 13 January 2010 , Blue Wings ceased all operations , filing bankrupt due to the <a> economical crisis </a> which had led to a pull-out of investors . </p>
+
+#	NEW	ceased	........ / 23 April 1991 .	// Commuter services began operations on 23 April 1991 .
+
+2	TRUE	East-West Airlines (Australia)::ceased	1993 / 1993	
+It continued to operate as a separate entity until 1993 when its operations were merged into those already established by Ansett . </p>
+
+#	NEW	ceased	........ / 1945	// <p> The Manchukuo National Airways ceased operations in August 1945 during the <a> Soviet invasion of Manchuria </a> , however wartime fuel and equipment shortages had previously curtailed its operations considerably .
+
+#	NEW	ceased	........ / 2006	// <p> On October 18 , 2006 the airline announced that due to financial diffuculties they would cease operations .
+
+#	NEW	ceased	........ / January 3 , 2008 .	// <p> Alpi Eagles suspended all flights starting January 3 , 2008 .
+
+#	NEW	ceased	........ / 2008	// In 2008 MAT has carried over half a million passengers on the distinctive red and white planes to some of the most picturesque locations in the country . </p>
+
+#	NEW	ceased	........ / 2010 .	// <p> The airline had temporarily suspended operations as of 9 October 2010 , finally their AOC was revoked as of 14 October 2010 .
+
+#	NEW	ceased	........ / 2 September <a> 2008	// The company therefore decided to cancel all operations as of 2 September <a> 2008 </a> . </p>
+
+#	NEW	ceased	........ / 2000	// In 2000 the company ceased to be an independent carrier and became an operator .
+
+#	NEW	ceased	........ / 777-	// <p> In 2009 , EuroAtlantic Airways signed a deal to operate 2 <a> Boeing 777-200ER </a> on behalf of <a> Biman Bangladesh Airlines </a> .
+
+#	NEW	ceased	........ / 33 .	// Effective October 25 , 2009 Flight 11 was replaced on the Paris-Houston route by flight 33 . </p>
+
+#	NEW	ceased	........ / 2008	// In 2008 Krasair suffered a <a> liquidity crisis </a> , and after a string of operational shutdowns , administrative and <a> strikes </a> , the company ceased operations in October 2008 . </p>
+
+#	NEW	ceased	........ / 2008 ) :	// <p> The Anikay Air fleet includes the following aircraft ( at March 2008 ) : </p>
+
+14	TRUE	Italy First::ceased	2005 / January 2005 ).	
+<p> The Italy First fleet consists of 2 <a> ATR 42-320 </a> aircraft ( at January 2005 ) .
+
+15	TRUE	Birdy Airlines::ceased	2004 / 2004	
+The airline was founded in 2002 and ceased its operations in 2004 when it was merged into <a> SN Brussels Airlines </a> . </p>
+
+#	NEW	ceased	........ / 2008 ) :	// <p> The Windrose Air fleet comprises ( as of January 2008 ) : </p>
+
+#	NEW	ceased	........ / 9	// <p> The airline operates a fleet of <a> DC-9 </a> s . </p>
+
+#	NEW	ceased	........ / 1991	// It was established and started operations in 1991 and operates scheduled passenger transport , charter and air taxi services .
+
+#	NEW	ceased	........ / 13	// <p> The Stuttgarter Flugdienst fleet consists of the following aircraft types , which provide space for 5-13 passengers : </p>
+
+#	NEW	ceased	........ / 2006	// <p> The Trans Island Air 2000 fleet includes the following aircraft ( at August <a> 2006 </a> ) : </p>
+
+#	NEW	ceased	........ / 2008 ) :	// <p> The Medavia fleet includes the following aircraft ( as of March 2008 ) : </p>
+
+#	NEW	ceased	........ / 1	// <p> <strong> Metropolis </strong> ( Metropolis Noord 1 BV ) is an <a> airline </a> based in the <a> Netherlands </a> . </p>
+
+#	NEW	ceased	........ / 2010	// <p> As of January 2010 , Air Turks and Caicos operates scheduled flights to the following destinations within the <a> Caribbean </a> : </p>
+
+#	NEW	ceased	........ / 1993	// In 1993 it started flying to European holiday destinations for tour operators and added international scheduled services in 1994 , to <a> Florence </a> .
+
+#	NEW	ceased	........ / 2008	// <p> It had suspended operations at the end of September 2008 due to the <a> Air Union </a> collapse . </p>
+
+#	NEW	ceased	........ / 2005	// In January 2005 , the airline began to operate in competition with <a> QantasLink </a> on the Cairns &mdash ; Townsville route , operating from its own terminals in both cities . </p>
+
+27	TRUE	Continental Airways::ceased	2007 / 2007	
+In 2007 , Continental Airways was shut down . </p>
+
+#	NEW	ceased	........ / 34	// <p> GAZPROMAVIA operates 34 fix-winged aircraft of the following types : </p>
+
+#	NEW	ceased	........ / 2005 ) :	// <p> Airstars Airways operates freight services to the following international scheduled destinations ( at January 2005 ) : <a> Shijiazhuang </a> and <a> Tianjin </a> . </p>
+
+#	NEW	ceased	........ / 2000	// <p> The airline was established and started operations in 2000 as <strong> Bykovo Avia </strong> , and merged into Centre-Avia in December 1999 .
+
+#	NEW	ceased	........ / 2004	// In 2004 UTair gained control of more than 70% of <a> Komiinteravia </a> . </p>
+
+#	NEW	ceased	........ / 2008	// <p> On 15 July 2008 Billionaire <a> Wilbur Ross </a> suggested he would invest in the low cost airline .
+
+33	TRUE	TAESA::ceased	2000 / 737	
+<p> Some of the staff and assets were taken over and <a> L&#x00ed ; neas A&#x00e9 ; reas Azteca </a> was established on 9 May 2000 and started operations on 1 June 2001 operating domestic services with <a> Boeing 737 </a> aircraft . </p>
+
+#	NEW	ceased	........ / 2008 .	// ( 2005 ) brGermania operated Fokker 100 aircraft between 2003 and 2008 . ] ]
+

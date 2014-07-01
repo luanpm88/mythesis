@@ -1,2 +1,0 @@
-<p>&lt;!--Please keep &quot;the official %%% website&quot; wording for Google:--&gt;</p>
-<p> &lt;!--Categories, from closest/narrowest to farthest/most generic:--&gt; &lt;!--In other languages, alphabetically by language (not code) name:--&gt;</p>

@@ -1,5 +1,0 @@
-<li>College of Information Science and Engineering</li>
-<li>College of Food Science and Engineering</li>
-<li>College of Environmental Science and Engineering</li>
-<li>School of Law and Political Science</li>
-<li>College of Materials Science and Engineering</li>

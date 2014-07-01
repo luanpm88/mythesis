@@ -1,0 +1,43 @@
+Found: 108
+Found Not Null: 11
+Correct: 2
+Wrong: 9
+Total: 11
+precision: 0.018518518518518517
+recall: 0.18181818181818182
+
+
+
+2	FALSE	Stanford University::country	united states / World	
+The <a> Times Higher Education World University Rankings </a> ranked Stanford 4th best research university in the world in 2010 ( In 2010 <a> Times Higher Education World University Rankings </a> and <a> QS World University Rankings </a> parted ways to produce separate rankings ) .
+
+7	FALSE	Texas A&M University::country	u.s. / world.	
+The 2010 <a> QS World University Rankings </a> ranked the university 198th overall in the world. </p>
+
+19	FALSE	Oberlin College::country	united states / an &	
+In 2008, Oberlin received an &quot;A-&quot; on the annual College Sustainability Report Card.
+
+41	FALSE	Brown University::country	united states / U.	
+<p> <em> <a> U.S. News &amp; World Report </a> </em> ranked Brown 15th among national universities, tied with <a> Cornell </a> , in its 2011 edition ( published in August 2010 ) .
+
+73	TRUE	University for Peace::country	costa rica / its	
+<p> At present, the UPEACE Costa Rica campus has 192 students from 55 countries, making it one of the most diverse universities in the world for its size.
+
+77	FALSE	Victoria University, Australia::country	australia / China.	
+Two of the largest affiliates are <a> Sunway University College </a> in <a> Malaysia </a> and <a> Liaoning University </a> in China. </p>
+
+80	FALSE	University of California, San Francisco::country	united states / US	
+<p> US News and World Report in 2008 ranked UCSF seventh best overall.
+
+83	TRUE	University of California, Santa Cruz::country	united states / US	
+<p> UC Santa Cruz is currently ranked #71 in the list of Best National Universities in the United States by the <em> <a> US News &amp; World Reports </a> </em> , and 56supth/sup best by <em> <a> The Washington Monthly </a> </em> .
+
+84	FALSE	University of California, Davis::country	united states / world	
+<p> In 2010, UC Davis was ranked 110th in the world by <a> QS World University Rankings </a> , and came 44th in Life Sciences &amp; Biomedicine. </p>
+
+100	FALSE	Odense University::country	denmark / references/	
+<p> references/ </p>
+
+107	FALSE	Lehigh University::country	usa / U.	
+Lehigh student-athletes' success on the field and in the classroom has resulted in Lehigh being one of the 20 Division I schools included in <em> <a> U.S. News &amp; World Report </a> <strong> s &quot;America's Best College Sports Programs.&quot;
+

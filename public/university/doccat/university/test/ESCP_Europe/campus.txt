@@ -1,6 +1,0 @@
-<li>Auditing and Consulting</li>
-<li>Private Banking and Financial Planning</li>
-<li>Innovation and Entrepreneurship</li>
-<li>Strategy and Operations Management</li>
-<li>Information and Decision Systems</li>
-<li>Strategy and Management</li>

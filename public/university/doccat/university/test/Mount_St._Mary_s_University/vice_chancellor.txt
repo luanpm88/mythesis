@@ -1,2 +1,0 @@
-<li><a>John Baer</a>, journalist.</li>
-<li><a>John LaFarge</a>, artist</li>

@@ -1,3 +1,0 @@
-<li>College of Natural Sciences</li>
-<li>College of Humanities and Social Sciences</li>
-<li>College of Arts </li>

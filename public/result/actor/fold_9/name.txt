@@ -1,0 +1,89 @@
+Found: 31
+Found Not Null: 17
+Correct: 13
+Wrong: 4
+Total: 17
+precision: 0.7647058823529411
+recall: 0.7647058823529411
+
+
+
+#	NEW	name	........ / December 2003 )	// <p> <strong> Robert Alan Monkhouse </strong> , <a> OBE </a> ( 1 June 1928 &#x2013 ; 29 December 2003 ) </p>
+
+1	TRUE	Robert Powell::name	robert powell / Richard Hannay	
+<p> <strong> Robert Powell </strong> ( born 1 June 1944 ) is an <a> English </a> television and film <a> actor </a> , probably most famous for his title role in <em> <a> Jesus of Nazareth </a> </em> ( 1977 ) and as the fictional <a> secret agent </a> <a> Richard Hannay </a> .
+
+2	TRUE	Romy Schneider::name	romy schneider / film actress	
+<p> <strong> Romy Schneider </strong> ( 23 September 1938 <img> 29 May 1982 ) was a German film actress who was born in Austria and also held French citizenship . </p>
+
+#	NEW	name	........ / and businessman .	// <p> <strong> Kevin Michael Costner </strong> ( born January 18 , 1955 ) is an American actor , singer , musician , producer , director , and businessman .
+
+#	NEW	name	........ / child actor	// <p> <strong> Alexander David Linz </strong> ( born January 3 , 1989 ) is an <a> American </a> actor who starred in several late 1990s and early 2000s films and television programs as a <a> child actor </a> .
+
+5	TRUE	Arthur Kennedy (actor)::name	arthur kennedy / was an	
+<p> <strong> Arthur Kennedy </strong> ( February 17 , 1914 &ndash ; January 5 , 1990 ) was an <a> American </a> stage and film actor best known for his performances in <a> Westerns </a> . </p>
+
+6	TRUE	Chris Barrie::name	chris barrie / Chris Barrie	
+<p> <strong> Chris Barrie </strong> ( born 28 March 1960 ) is a <a> British </a> <a> actor </a> .
+
+#	NEW	name	........ / Harry Potter	// <strong> Emma Charlotte Duerre Watson </strong> ( born 15 April 1990 ) is an <a> English </a> <a> actress </a> and <a> model </a> who rose to prominence playing <a> Hermione Granger </a> , one of three starring roles in the <a> <em> Harry Potter </em> film series </a> .
+
+#	NEW	name	........ / Catherine &# x00c9 ;	// <p> <strong> Catherine &#x00c9 ; lise &quot ; Cate&quot ; Blanchett </strong> ( born 14 May 1969 ) is an Australian actress and theatre director .
+
+#	NEW	name	........ / February 2005 )	// <p> <strong> Daniel O ' Herlihy </strong> ( 1 May 1919 <img> 17 February 2005 ) was an <a> Oscar </a> nominated , <a> Irish </a> <a> film </a> <a> actor </a> . </p>
+
+#	NEW	name	........ / film actor	// <p> <strong> Marcello Vincenzo Domenico Mastroianni </strong> <a> Knight Grand Cross </a> ( 28 September 1924&nbsp ; &#x2013 ; 19 December 1996 ) was an <a> Italian </a> <a> film actor </a> .
+
+#	NEW	name	........ / Patrick Ryan	// <p> <strong> Ryan O ' Neal </strong> ( born <strong> Charles Patrick Ryan O ' Neal , Jr . </strong> ; April 20 , 1941 ) is an American actor . </p>
+
+12	TRUE	Joan Greenwood::name	joan greenwood / February 1987 )	
+<p> <strong> Joan Greenwood </strong> ( 4 March 1921 &#x2013 ; 27 February 1987 ) was an <a> English </a> actress .
+
+13	TRUE	Bill Owen (actor)::name	bill owen / Bill Owen	
+<p> <strong> William John Owen Rowbotham </strong> <a> MBE </a> ( 14 March 1914 &#x2013 ; 12 July 1999 ) , better known as <strong> Bill Owen </strong> , was an English <a> actor </a> and <a> songwriter </a> . </p>
+
+14	TRUE	Gale Storm::name	gale storm / Gale Storm	
+She won and was immediately given the stage name <strong> Gale Storm </strong> .
+
+15	FALSE	Michael Powell (director)::name	michael powell / Emeric Pressburger	
+<p> <strong> Michael Latham Powell </strong> ( 30 September 1905 &ndash ; 19 February 1990 ) was an <a> English </a> <a> film director </a> , renowned for his partnership with <a> Emeric Pressburger </a> .
+
+16	TRUE	Susan Dey::name	susan dey / known primarily	
+<p> <strong> Susan Dey </strong> ( born December 10 , 1952 ) is an <a> American </a> <a> actress </a> , known primarily for her roles in <a> film </a> and <a> television </a> .
+
+17	TRUE	Chester Morris::name	chester morris / Boston Blackie	
+<p> <strong> Chester Morris </strong> ( February 16 , 1901 &ndash ; September 11 , 1970 ) was an American actor , who starred in the <em> <a> Boston Blackie </a> </em> detective series of the 1940s . </p>
+
+18	FALSE	Andy Griffith::name	andy griffith / Southern- gospel	
+<p> <strong> Andy ! not Andrew Samuel Griffith </strong> ( born June 1 , 1926 ) is an <a> American </a> <a> actor </a> , <a> director </a> , <a> producer </a> , <a> Grammy Award </a> -winning <a> Southern-gospel </a> singer , and <a> writer </a> .
+
+#	NEW	name	........ / film director	// <p> was a prominent <a> Japanese </a> <a> film director </a> and <a> script writer </a> .
+
+20	TRUE	Massimo Troisi::name	massimo troisi / film director	
+<p> <strong> Massimo Troisi </strong> ( 19 February 1953 &#x2013 ; 4 June 1994 ) was an Italian actor , <a> film director </a> , and poet .
+
+#	NEW	name	........ / Scripps McKellar	// <p> <strong> Crystal Dawn Scripps McKellar </strong> ( born August 16 , 1976 ) is an American <a> attorney </a> and former <a> child actress </a> . </p>
+
+22	FALSE	Norman Jewison::name	norman jewison / Film Centre	
+<p> <strong> Norman Frederick Jewison </strong> , <a> CC </a> , <a> O . Ont </a> ( born 21 July 1926 ) is a <a> Canadian </a> <a> film director </a> , <a> producer </a> , <a> actor </a> and founder of the <a> Canadian Film Centre </a> .
+
+#	NEW	name	........ / improvisational comedy	// <p> <strong> Ryan Lee Stiles </strong> ( born April 22 , 1959 ) is an America / Canadian actor , <a> comedian </a> , <a> director </a> , and <a> voice actor </a> whose work is often associated with <a> improvisational comedy </a> .
+
+#	NEW	name	........ / France	// <p> <strong> Max Oph&#x00fc ; ls </strong> ( born <strong> Maximillian Oppenheimer </strong> , 6 May 1902 , <a> Saarbr&#x00fc ; cken </a> , <a> Germany </a> - 26 March 1957 , <a> Hamburg </a> , Germany ) was an influential German-born <a> film director </a> who worked in Germany , the <a> United States </a> and <a> France </a> .
+
+25	FALSE	Robert Bolt::name	robert bolt / two- time	
+<p> <strong> Robert Oxton Bolt </strong> , <a> CBE </a> ( 15 August 1924 &#x2013 ; 21 February 1995 ) was an <a> English </a> playwright and a two-time <a> Oscar </a> winning screenwriter .
+
+#	NEW	name	........ / was an	// <p> <strong> Ethel Merman </strong> ( January 16 , 1908 &#x2013 ; February 15 , 1984 ) was an <a> American </a> actress and singer .
+
+27	TRUE	Frank Oz::name	frank oz / Frank Oz	
+<p> <strong> Frank Oz </strong> ( born <strong> Richard Frank Oznowicz </strong> ; May 25 , 1944 ) is a British-born American !
+
+28	TRUE	Douglas Sirk::name	douglas sirk / film director	
+<p> <strong> Douglas Sirk </strong> ( born <strong> Hans Detlef Sierck </strong> ; April 26 , 1897 &ndash ; January 14 , 1987 ) was a <a> Danish </a> - <a> German </a> <a> film director </a> best known for his work in <a> Hollywood </a> <a> melodrama </a> s in the 1950s . </p>
+
+#	NEW	name	........ / Night Live	// <p> <strong> Laraine Newman </strong> ( born March 2 , 1952 ) is an <a> American </a> <a> comedienne </a> and <a> actress </a> , and part of the original <em> <a> Saturday Night Live </a> </em> cast . </p>
+
+30	TRUE	Jean Renoir::name	jean renoir / producer and	
+<p> <strong> Jean Renoir </strong> ( ; 15 September 1894 &ndash ; 12 February 1979 ) was a French <a> film director </a> , screenwriter , actor , producer and author .
+

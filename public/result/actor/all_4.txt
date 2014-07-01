@@ -1,0 +1,37 @@
+Total articles: 312
+Articles for test: 281
+Articles for train: 31
+Total attributes: 64
+Attributes with high occurrences: 5/64
+
+------------
+Found: 82
+Found Not Null: 20
+Correct: 13
+Wrong: 7
+Total: 25
+precision: 0.65
+recall: 0.52
+
+
+
+0	TRUE	John Travolta:: birth_name	john joseph travolta / is an American actor, dancer	// <p> <strong> John Joseph Travolta </strong> ( born February 18 , 1954 ) is an American actor , dancer and singer .
+4	TRUE	Bob Keeshan:: birth_name	robert james keeshan / an American <a> television producer	// Keeshan as [[Captain Kangaroo]] . ]] --&gt; <strong> Robert James Keeshan </strong> ( June 27 , 1927 &ndash; January 23 , 2004 ) was an American <a> television producer </a> and <a> actor </a> .
+6	TRUE	Whoopi Goldberg:: birth_name	caryn elaine johnson / Caryn Elaine Johnson	// <p> <img> <strong> Whoopi Goldberg </strong> ( ; born <strong> Caryn Elaine Johnson </strong> ; November 13 , 1955 ) is an American <a> comedian </a> , actress , <a> singer-songwriter </a> , <a> political activist </a> , and <a> talk show host </a> . </p>
+11	FALSE	Gedeon Burkhard:: occupation	actor / television	// Although he has appeared in numerous films and TV series in both Europe and the US , he is probably best recognised for his role as Alexander Brandtner in the Austrian/German television series <em> <a> Kommissar Rex </a> </em> ( 1998-2001 ) , which has been aired on television in numerous countries around the world . </p>
+27	TRUE	Margaret Rutherford:: occupation	actress / Actress	// <p> In 1963 Rutherford was awarded an <a> Academy Award </a> and <a> Golden Globe </a> as <a> Best Supporting Actress </a> for her performance as the absent-minded , impoverished , pill-popping Duchess of Brighton , the only light relief , in <a> Terence Rattigan </a> 's <em> <a> The V . I . P . s </a> </em> , a film featuring a star-studded cast led by <a> Elizabeth Taylor </a> and <a> Richard Burton </a> .
+28	FALSE	Margaret Rutherford:: birth_name	margaret taylor rutherford / the only light relief	// <p> In 1963 Rutherford was awarded an <a> Academy Award </a> and <a> Golden Globe </a> as <a> Best Supporting Actress </a> for her performance as the absent-minded , impoverished , pill-popping Duchess of Brighton , the only light relief , in <a> Terence Rattigan </a> 's <em> <a> The V . I . P . s </a> </em> , a film featuring a star-studded cast led by <a> Elizabeth Taylor </a> and <a> Richard Burton </a> .
+33	FALSE	Gene Rayburn:: birth_name	eugene rubessa / a very successful actor and radio	// <p> Before appearing in television , Rayburn was a very successful actor and radio performer .
+37	FALSE	James Baskett:: occupation	actor / one. &	// name=&quot;imdb-awards&quot;/&gt;&lt;ref name=&quot;Cohen2004&quot; /&gt; He was the first black man to win an Academy Award , albeit a non-competitive one . &lt;ref
+38	TRUE	Maurice Chevalier:: birth_name	maurice auguste chevalier / Maurice Auguste Chevalier	// <p> <strong> Maurice Auguste Chevalier </strong> ( September 12 , 1888 &ndash; January 1 , 1972 ) was a French actor , singer , and popular vaudeville entertainer .
+44	TRUE	Mistinguett:: birth_name	jeanne bourgeois / Mistinguett in shop.	// <p> [[Image : Mistinguett in shop . jpg|250px|right|thumb|Mistinguett in the [[USA]] in 1924]] <strong> Mistinguett </strong> ( April 5 , 1875 &#x2013; January 5 , 1956 ) was a <a> French </a> <a> actress </a> and <a> singer </a> , whose birth name was <strong> Jeanne Bourgeois </strong> . </p>
+48	TRUE	Rod Steiger:: occupation	actor / Actor	// Borgnine would receive the <a> Academy Award </a> for <a> Best Actor in a Leading Role </a> .
+51	TRUE	Claudette Colbert:: occupation	actress / Actress	// Colbert won the <a> Academy Award for Best Actress </a> for her role .
+56	FALSE	Michael Caine:: birth_name	maurice joseph micklewhite / has been married to actress and model <a> Shakira Baksh	// Caine has been married to actress and model <a> Shakira Baksh </a> since 8 January 1973 .
+59	FALSE	Yul Brynner:: birth_name	yuliy borisovich bryner / whom he married on the set during shooting	// Brynner's second wife , from 1960 to 1967 , Doris Kleiner , was a <a> Chile </a> an model , whom he married on the set during shooting of <em> <a> The Magnificent Seven </a> </em> in 1960 .
+60	TRUE	Yul Brynner:: occupation	actor / Actor	// He was best known for his portrayal of <a> Mongkut </a> , king of <a> Siam </a> , in the <a> Rodgers and Hammerstein </a> musical <em> <a> The King and I </a> </em> , for which he won an <a> Academy Award for Best Actor </a> for the film version; he also played the role over 4 , 500 times on stage .
+69	TRUE	Robert Redford:: birth_name	charles robert redford jr. / Charles Robert Redford Jr.	// <p> <strong> Charles Robert Redford Jr . </strong> ( born August 18 , 1936 ) , better known as <strong> Robert Redford </strong> , is an American <a> actor </a> , <a> film director </a> , <a> producer </a> , <a> businessman </a> , <a> model </a> , <a> environmentalist </a> , <a> philanthropist </a> , and founder of the <a> Sundance Film Festival </a> .
+71	FALSE	Simone Signoret:: birth_name	simone henriette charlotte kaminker / actress to receive an Oscar until <a> Juliette Binoche	// She was the only <a> French cinema </a> actress to receive an Oscar until <a> Juliette Binoche </a> in 1997 ( Supporting Actress ) and <a> Marion Cotillard </a> in 2008 ( Best Actress ) , and the first woman to win the award appearing in a foreign film .
+72	TRUE	Simone Signoret:: occupation	actress / Actress	// In 1958 , Signoret acted in the English set <em> <a> Room at the Top </a> </em> ( 1959 ) , which won her numerous awards including the <a> Best Female Performance Prize </a> at <a> Cannes </a> and the <a> Academy Award for Best Actress </a> .
+74	TRUE	Lewis Milestone:: birth_name	lev milstein / Lev Milstein	// <p> <strong> Lewis Milestone </strong> ( born <strong> Lev Milstein </strong> ) ( September 30 , 1895 &#x2013; September 25 , 1980 ) was a <a> Russian-American </a> <a> motion picture </a> director .
+77	TRUE	William Wyler:: birth_name	wilhelm weiller / a German mother	// <p> Wyler was born <strong> Wilhelm Weiller </strong> to a <a> Jewish </a> family , a Swiss father and a German mother , in <a> Mulhouse </a> in the <a> French </a> region of <a> Alsace </a> ( then part of the <a> German Empire </a> ) .

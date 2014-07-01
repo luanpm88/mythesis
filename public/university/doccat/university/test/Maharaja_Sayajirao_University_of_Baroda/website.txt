@@ -1,6 +1,0 @@
-<h2>Faculty of Performing Arts</h2>
-<h3>Faculty of Fine Arts</h3>
-<h2>Faculty of Arts</h2>
-<h2>Oriental Institute</h2>
-<li>M K Amin Arts &amp; Science College and College of Commerce, Padra Library: 14,750</li>
-<li>Faculty of Performing Arts Library: 13,077</li>

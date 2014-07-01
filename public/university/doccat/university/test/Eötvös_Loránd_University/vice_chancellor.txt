@@ -1,1 +1,0 @@
-<li><a>John von Neumann</a></li>

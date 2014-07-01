@@ -1,2 +1,0 @@
-<p>College clubs: </p>
-<li>College Republicans</li>

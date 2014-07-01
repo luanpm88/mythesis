@@ -1,3 +1,0 @@
-<h2>Academics and campus life</h2>
-<li>College of Arts and Sciences</li>
-<li>School of Computer and Information Sciences</li>

@@ -1,2 +1,0 @@
-<li>College Democrats</li>
-<li>College Republicans</li>

@@ -1,9 +1,0 @@
-The university-owned forest is administered by a &quot;university forester&quot;.</p>
-<li><a>Anatomical</a> Collection (<em>Anatomische Sammlung</em>)</li>
-<li><a>Herbarium</a></li>
-<li><a>Pathological</a> Collection (<em>Pathologische Sammlung</em>)</li>
-<a>Binz</a>, <a>Sellin</a>, <a>Heringsdorf</a>.
-<li>university big band</li>
-<li>university choir</li>
-<li>university symphonic orchestra</li>
-<li><a>Medieval university</a></li>

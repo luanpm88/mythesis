@@ -1,2 +1,0 @@
-<p>The College is located in two buildings:</p>
-<li><a>Official website</a></li>

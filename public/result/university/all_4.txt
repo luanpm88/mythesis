@@ -1,0 +1,155 @@
+Total articles: 1145
+Articles for test: 1031
+Articles for train: 114
+Total attributes: 317
+Attributes with high occurrences: 25/317
+
+------------
+Found: 1833
+Found Not Null: 138
+Correct: 21
+Wrong: 117
+Total: 164
+precision: 0.15217391304347827
+recall: 0.12804878048780488
+
+
+
+7	TRUE	Padmabhushan Vasantdada Patil Pratishthan's College of Engineering:: established	1991 / 1991 ).	// <p> <strong> Padmabhushan Vasantdada Patil Pratishthan&#x2019;s College of Engineering </strong> ( <strong> PVPP COE </strong> ) is an engineering college in <a> Mumbai </a> , <a> India </a> ( established 1991 ) .
+20	FALSE	Moscow State University:: undergrad	40,000 / 15, 000	// Currently the university employs more than 4 , 000 academic staff and 15 , 000 other staff members .
+21	FALSE	Moscow State University:: postgrad	7,000 / 000	// Around 2 , 000 overseas students form a main part of the student body of the university . </p>
+29	FALSE	Moscow State University:: established	1755 / (,	// V . Lomonosov Moscow State University </strong> ( , <em> Mosk&#x00f3;vskiy gosud&#x00e1;rstvennyy universit&#x00e9;t &#x00ed;meni M . V . Lomon&#x00f3;sova </em> ) , previously known as <strong> Lomonosov University </strong> or <strong> MSU </strong> ( , <em> Universit&#x00e9;t Lomon&#x00f3;sova </em> ; , <em> MGU </em> ) , is the largest <a> university </a> in <a> Russia </a> .
+33	FALSE	Moscow State University:: staff	15,000 / 4,	// Currently the university employs more than 4 , 000 academic staff and 15 , 000 other staff members .
+56	FALSE	Keio University:: established	1858 / p>	// --&gt; &lt; ! -- --&gt; </p>
+69	FALSE	Waseda University:: established	1882 / and	// Its individual subject rankings were : 76th in Arts &amp; Humanities , 117th in Engineering &amp; IT , 222nd in Life Sciences &amp; Biomedicine , 204th in Natural Sciences , and 88th in Social Sciences . </p>
+96	FALSE	Howard University:: city	washington, d.c. / jpg|thumb|left|WHUT-	// [[File : WHUT-TV , Howard University . jpg|thumb|left|WHUT-TV
+101	FALSE	Howard University:: nickname	bison / teams	// <p> Athletic teams compete in the NCAA as a part of the Mid-Eastern Athletic Conference .
+106	FALSE	Howard University:: mascot	bison / Athletic	// <p> Athletic teams compete in the NCAA as a part of the Mid-Eastern Athletic Conference .
+113	FALSE	University of Georgia:: established	january 27, 1785 / a>.	// <p> The <strong> University of Georgia </strong> ( <strong> UGA </strong> ) is a <a> public </a> <a> research university </a> located in <a> Athens </a> , <a> Georgia </a> , <a> United States </a> .
+131	FALSE	University of Padua:: established	1222 / strong>	// <p> The <strong> University of Padua </strong> ( <a> Italian </a> <em> Universit&#x00e0; degli Studi di Padova </em> , <strong> UNIPD </strong> ) is a premier Italian university located in the city of <a> Padua </a> , <a> Italy </a> .
+146	FALSE	University of Padua:: students	65,000 / 65, 000	// As of 2003 the university had approximately 65 , 000 students and in 2009 , was nominated as &quot;best university&quot; among Italian institutions of higher education with more than 40 , 000 students . . </p>
+151	FALSE	San Jose State University:: established	1857 / San	// <p> <strong> San Jose State University </strong> ( often abbreviated <strong> San Jose State </strong> or <strong> SJSU </strong> ) is a <a> public university </a> located in <a> San Jose , California </a> , <a> United States </a> , at the southern end of <a> San Francisco Bay </a> .
+173	FALSE	Jacksonville State University:: established	1883 / a>.	// <p> <strong> Jacksonville State University </strong> is a regional <a> public </a> <a> coeducation </a> al <a> university </a> located in <a> Jacksonville </a> , <a> Alabama </a> , <a> USA </a> .
+189	FALSE	Jacksonville State University:: president	dr. william a. meehan / State University in	// The university began operating as Jacksonville State University in 1967 .
+195	FALSE	Indiana State University:: mascot	sycamore sam / <p>	// <p> </p>
+196	FALSE	Messiah College:: established	1909 / the	// <p> <strong> Messiah College </strong> is a <a> private </a> <a> Christian </a> <a> college of the liberal </a> and applied arts and sciences in the <a> unincorporated </a> <a> village </a> of <a> Grantham </a> in south-central <a> Pennsylvania </a> .
+210	FALSE	Messiah College:: mascot	the falcon / athletic	// <p> The Messiah College Falcons compete in <a> NCAA Division III </a> athletics with 22 different intercollegiate athletic teams .
+214	FALSE	Robert Gordon University:: established	1992 / <p>	// <p> <strong> Robert Gordon University </strong> ( often known as <strong> RGU </strong> ) is a modern <a> university </a> located in <a> Aberdeen </a> , <a> Scotland </a> .
+232	FALSE	Polytechnic Institute of New York University:: established	1854 / <strong>	// <p> The <strong> Polytechnic Institute of New York University </strong> ( also known as <strong> Polytechnic Institute of NYU </strong> , <strong> NYU Polytechnic </strong> , or <strong> NYU-Poly </strong> ) is one of the oldest private technology institutes in the <a> United States </a> .
+251	FALSE	Polytechnic Institute of New York University:: mascot	fighting blue jays / Blue	// The Blue Jays compete in NCAA Division III Championships in Men's and Women's Soccer , Women's Volleyball , Women's Lacrosse , Men's Track , Men's and Women's Basketball , Softball , and Baseball . </p>
+271	FALSE	UBC Thunderbirds:: city	vancouver / quot;	// They also play a two game , combined score series against the University of California Berkeley ( consistently the best university rugby team in the US ) for the &quot;World Cup&quot; trophy ( a competition started in 1921 ) .
+272	FALSE	UBC Thunderbirds:: state	british columbia / ( 3 )	// <p> <strong> Football ( 3 ) </strong> </p>
+278	FALSE	UBC Thunderbirds:: nickname	t-birds / teams	// <p> Thunderbird teams compete in : </p>
+282	TRUE	UBC Thunderbirds:: mascot	thunderbird / Athletics	// <p> The Thunderbirds compete in the United States as the only Canadian member of the <a> National Association of Intercollegiate Athletics </a> ( NAIA ) .
+284	FALSE	Aalborg University:: established	1974 / a>.	// <p> <strong> Aalborg University </strong> is located in <a> Aalborg </a> , <a> Denmark </a> .
+301	FALSE	California State University, Long Beach:: established	1949 / 000	// <p> The <strong> University Art Museum </strong> ( UAM ) ranks in the top 10% of the nation's over 6 , 000 museums .
+320	FALSE	California State University, San Marcos:: established	1989 / 23	// <p> <strong> California State University San Marcos </strong> ( also <strong> CSUSM </strong> or <strong> Cal State San Marcos </strong> ) is a public , coeducational university and one of the 23 general campuses of the <a> California State University </a> system .
+321	TRUE	California State University, San Marcos:: type	public / public	// <p> <strong> California State University San Marcos </strong> ( also <strong> CSUSM </strong> or <strong> Cal State San Marcos </strong> ) is a public , coeducational university and one of the 23 general campuses of the <a> California State University </a> system .
+330	FALSE	California State University, San Marcos:: nickname	cougars / NAIA	// Cougar athletic teams compete as independents in Region II of the <a> NAIA </a> .
+338	FALSE	Universidade Federal de Minas Gerais:: established	1927 / University	// <p> <strong> University population </strong> </p>
+357	FALSE	Eastern Washington University:: type	public / State	// In 1889 the school was renamed <strong> State Normal School </strong> and in 1937 to <strong> Eastern Washington College of Education </strong> .
+366	FALSE	Eastern Washington University:: nickname	eagles / NCAA	// EWU athletic teams participate in the <a> Big Sky Conference </a> at the <a> NCAA </a> Division I ( I - FCS for <a> football </a> ) level .
+374	FALSE	Eastern Washington University:: mascot	swoop / football	// EWU athletic teams participate in the <a> Big Sky Conference </a> at the <a> NCAA </a> Division I ( I - FCS for <a> football </a> ) level .
+377	FALSE	University of Illinois at Urbana–Champaign:: established	1867 / p>	// <p> </p>
+394	TRUE	Texas Christian University:: established	1873 / 1873.	// <p> <strong> Texas Christian University </strong> ( <strong> TCU </strong> ) is a <a> private </a> , <a> coeducation </a> al <a> university </a> located in <a> Fort Worth , Texas </a> and was founded in 1873 .
+457	FALSE	London South Bank University:: staff	1,700 / 120	// The university serves over 3 , 000 <a> EU </a> and other international students , from more than 120 different countries .
+483	FALSE	Florida International University:: established	1965 / p>	// <p> </p>
+485	FALSE	Memorial University of Newfoundland:: established	1925 / ( colloquially	// <p> <strong> Memorial University of Newfoundland </strong> , ( colloquially known as <strong> Memorial University </strong> or <strong> &quot;MUN&quot; </strong> ) is a comprehensive university located primarily in <a> St .
+536	FALSE	Dublin City University:: students	10,000 / 6, 000 600 research postgraduates, 1, 800	// <p> The university currently has around 6 , 000 undergraduate students , over 600 research postgraduates , 1 , 800 taught postgraduate students and over 35 , 000 alumni .
+548	FALSE	Indiana University – Purdue University Fort Wayne:: free_label	athletics / newspaper	// <p> IPFW&#x2019;s award-winning student newspaper celebrated its 40th anniversary in 2009 [19] .
+556	TRUE	Indiana University – Purdue University Fort Wayne:: colors	blue and white / blue and white	// By the close of the Wallace administration , the major accomplishment was the re-establishment of blue and white as IPFW&#x2019;s official school colors , which is a notable act of autonomy because IPFW is the only member of either the <a> Purdue </a> system or the <a> IU </a> system to have neither red nor crimson nor gold nor old gold as one of its school colors [6] .
+559	FALSE	Nihon University:: established	1889 / <p>	// <p> <strong> Nihon University </strong> ( ; <em> Nihon Daigaku </em> abbreviated as <em> Nichidai </em> ) is the largest <a> university </a> in <a> Japan </a> .
+575	FALSE	Furman University:: established	1826 / p>	// <p> </p>
+577	FALSE	Brock University:: established	1964 / St.	// <p> <strong> Brock University </strong> , generally referred to simply as <strong> Brock </strong> , is a comprehensive university located in <a> St .
+586	FALSE	Brock University:: nickname	badgers / following	// <p> Brock has the following varsity sports : </p>
+612	FALSE	Bellarmine University:: established	1950 / state.	// <p> <strong> Bellarmine University </strong> is an independent , <a> Roman Catholic </a> liberal-arts <a> university </a> in <a> Louisville , Kentucky </a> ; it is the largest traditional , <a> non-profit </a> <a> private university </a> in the state .
+621	TRUE	Bellarmine University:: nickname	knights / Knights	// <p> Most of the university's sports teams , the Knights , compete in the <a> Great Lakes Valley Conference </a> , considered by many to be the toughest conference at the <a> NCAA </a> <a> Division II </a> .
+627	FALSE	Bellarmine University:: president	joseph j. mcgowan / to Bellarmine	// The name was changed by the <a> Board of Trustees </a> in 2000 to Bellarmine University .
+634	TRUE	Liverpool John Moores University:: state	england / England	// <p> <strong> Liverpool John Moores University </strong> ( informally <strong> LJMU </strong> ) is a <a> British </a> <a> 'modern' university </a> located in the city of <a> Liverpool </a> , <a> England </a> .
+637	FALSE	Liverpool John Moores University:: campus	urban / by	// The third LRC is sited on the <a> IM Marsh </a> campus in Aigburth and is used exclusively ( due to location outside the City centre ) by student at this campus . </p>
+647	TRUE	Liverpool John Moores University:: country	united kingdom / United	// At present , LJMU serves more than 24 , 000 students comprising 20 , 270 <a> undergraduate </a> students and 4 , 100 <a> postgraduate </a> students , making it the largest university in Liverpool by student population - as well as the <a> twentieth largest in the United Kingdom </a> . </p>
+658	FALSE	CUNY Graduate Center:: president	william p. kelly / Mina S. Rees.	// <p> The CUNY Graduate Center is served by the Mina Rees Library , named after former president Mina S . Rees .
+662	FALSE	CUNY Graduate Center:: established	1961 / York	// <p> <strong> The Graduate School and University Center of the City University of New York </strong> ( known more commonly as the <strong> CUNY Graduate Center </strong> or the <strong> GC </strong> ) is the main doctorate-granting institution of the <a> City University of New York </a> ( while other CUNY schools may house doctoral degree programs , the degrees are granted through the GC ) .
+669	FALSE	Loras College:: established	1839 / and	// Joseph's College </strong> , <strong> Dubuque College </strong> , and <strong> Columbia College </strong> .
+676	FALSE	Loras College:: nickname	duhawks / men&#	// The school fields 21 men&#x2019;s and women&#x2019;s varsity teams in the <a> NCAA </a> Division III .
+702	FALSE	The Chinese University of Hong Kong:: established	1963 / 61	// <p> The University has 61 academic departments organized under eight faculties : arts , business administration , education , engineering , social science , medicine , science , and law .
+721	FALSE	South China University of Technology:: established	1952 / the	// <p> <strong> South China University of Technology </strong> ( <strong> SCUT </strong> ; ) is a Chinese university located in <a> Guangzhou </a> , capital of the <a> Guangdong </a> province .
+762	FALSE	Dhirubhai Ambani Institute of Information and Communication Technology:: type	private / Ph.	// <p> <strong> Ph . D . - Doctor of Philosophy </strong> </p>
+769	FALSE	Dhirubhai Ambani Institute of Information and Communication Technology:: nickname	da-iict / Philosophy	// <p> <strong> Ph . D . - Doctor of Philosophy </strong> </p>
+808	FALSE	ESADE:: established	1958 / <p>	// <p> The <strong> Escuela Superior de Administraci&#x00f3;n y Direcci&#x00f3;n de Empresas ( ESADE ) </strong> is a <a> college </a> associated with the <a> Ramon Llull University </a> located in <a> Barcelona </a> , <a> Catalonia </a> , <a> Spain </a> .
+827	TRUE	Emerson College:: established	1880 / 1880	// <p> <strong> Emerson College </strong> is a private coeducational university located in <a> Boston </a> , <a> Massachusetts </a> . Founded in 1880 by <a> Charles Wesley Emerson </a> as a &quot;school of oratory , &quot; Emerson is &quot;the only comprehensive college or university in America dedicated exclusively to communication and the arts in a <a> liberal arts </a> context . &quot;
+828	TRUE	Emerson College:: type	private / private	// <p> <strong> Emerson College </strong> is a private coeducational university located in <a> Boston </a> , <a> Massachusetts </a> . Founded in 1880 by <a> Charles Wesley Emerson </a> as a &quot;school of oratory , &quot; Emerson is &quot;the only comprehensive college or university in America dedicated exclusively to communication and the arts in a <a> liberal arts </a> context . &quot;
+833	FALSE	Emerson College:: undergrad	3,453 / 3, 453	// There are currently 3 , 453 undergraduate and 837 graduate students .
+834	TRUE	Emerson College:: postgrad	837 / 837	// There are currently 3 , 453 undergraduate and 837 graduate students .
+886	FALSE	University of Illinois at Springfield:: established	1969 / at	// <p> The <strong> University of Illinois at Springfield </strong> ( <strong> UIS </strong> ) is a liberal arts university in <a> Springfield , Illinois </a> .
+902	TRUE	University of Illinois at Springfield:: mascot	prairie stars / Conference	// <p> UIS athletic teams are known as the <em> Prairie Stars </em> , the university competes in the <a> NCAA </a> <a> Division II </a> <a> Great Lakes Valley Conference </a> .
+904	FALSE	University of New Mexico:: established	february 28, 1889 / a>.	// <p> The <strong> University of New Mexico </strong> ( <strong> UNM </strong> ) is a <a> state university </a> located in <a> Albuquerque </a> , <a> New Mexico </a> , <a> USA </a> .
+939	FALSE	University of North Carolina at Pembroke:: established	1887 / ( also	// <p> The <strong> University of North Carolina at Pembroke </strong> ( also known as <strong> UNC Pembroke </strong> or <strong> UNCP </strong> ) is a public , co-educational , historically <a> American Indian </a> liberal arts <a> university </a> in the town of <a> Pembroke </a> in <a> Robeson County , North Carolina </a> . </p>
+944	FALSE	University of North Carolina at Pembroke:: faculty	326 full-time / 734	// In spring 2009 , the school had an enrollment of 6 , 433 students; of these , 5 , 699 students were undergraduate , and 734 were graduate students .
+945	FALSE	University of North Carolina at Pembroke:: undergrad	5,699 / , 5, 699	// In spring 2009 , the school had an enrollment of 6 , 433 students; of these , 5 , 699 students were undergraduate , and 734 were graduate students .
+946	TRUE	University of North Carolina at Pembroke:: postgrad	734 / 734	// In spring 2009 , the school had an enrollment of 6 , 433 students; of these , 5 , 699 students were undergraduate , and 734 were graduate students .
+949	FALSE	University of North Carolina at Pembroke:: nickname	braves / varsity	// The school fields 16 varsity sports teams .
+956	FALSE	University of North Carolina at Pembroke:: free_label	athletics / students	// In spring 2009 , the school had an enrollment of 6 , 433 students; of these , 5 , 699 students were undergraduate , and 734 were graduate students .
+958	FALSE	University of North Carolina at Pembroke:: mascot	red-tailed hawk / NCAA'	// <p> The school is a member of the <a> NCAA's </a> <a> Division II </a> and competes in the <a> Peach Belt Conference </a> , with the exceptions of football and wrestling , in which it competes as an <a> independent </a> .
+993	FALSE	Whittier College:: established	1887 / a>.	// <p> <strong> Whittier College </strong> is a <a> private </a> <a> liberal arts college </a> in <a> Whittier , California </a> .
+998	FALSE	Whittier College:: faculty	96 / 1540	// As of January 2009 , the college has approximately 1540 enrolled students . </p>
+1002	FALSE	Whittier College:: nickname	the poets / school	// The school has fielded sports teams for over 100 years .
+1014	FALSE	California Lutheran University:: established	1959 / California	// <p> &quot;California Lutheran University is a selective institution offering undergraduate and graduate degrees in the liberal arts and sciences and professional fields .
+1026	FALSE	California Lutheran University:: free_label	athletics / students	// The University maintains its residential emphasis with 61 percent of traditional undergraduate students living on campus .
+1063	FALSE	Griffith University:: established	1971 / offers	// Griffith University offers undergraduate and postgraduate degrees across ten discipline areas including Arts , Education , Business , Health , Law , Engineering , IT , Environment , Music and Visual Arts . </p>
+1106	TRUE	Fanshawe College:: established	1967 / of	// In 1967 it became Fanshawe College , one of a province-wide system of colleges of applied arts and technology .
+1143	FALSE	Vrije Universiteit Brussel:: president	eddy van gelder / They are :	// They are : </p>
+1156	FALSE	Université Libre de Bruxelles:: students	21,000 / 21, 000	// It has 21 , 000 students , 29% of whom come from abroad , and an equally cosmopolitan staff .
+1159	FALSE	Université Libre de Bruxelles:: established	1834 / 1831	// <p> For this reason , in 1831 a group of leading Brussels Masonic figures in the fields of the arts , science and education set themselves the objective of creating a university for the city .
+1163	FALSE	Northeastern University:: established	1898 / p>	// <p> </p>
+1180	FALSE	Royal Military College of Canada:: established	1876 / p>	// <p> </p>
+1201	FALSE	Haas School of Business:: established	1898 / 14	// <p> The <strong> Walter A . Haas School of Business </strong> , also known as the <strong> Haas School of Business </strong> or simply <strong> Haas </strong> , is one of 14 schools and colleges at the <a> University of California , Berkeley </a> .
+1249	FALSE	University of Maine:: established	1865 / p>	// <p> </p>
+1253	FALSE	Curtin University:: country	australia / Postgraduate	// <p> Postgraduate students are represented by <a> Curtin Student Guild Postgraduate Student Association </a> .
+1260	FALSE	Curtin University:: free_label	organisations / students	// <p> Free workshops held on campus bimonthly to provide students with skills in : </p>
+1265	FALSE	Curtin University:: established	1986 / <p>	// <p> [[Image : CBRCCcurtin . jpg|thumb|150px|Centre for Behavioural Research in Cancer Control in [[Perth , Western Australia|Perth]] <strong> ]] </strong> <strong> Curtin University </strong> is an <a> Australian </a> <a> university </a> with its main campus ( Bentley ) in <a> Perth , Western Australia </a> .
+1274	FALSE	Kansai Gaidai University:: postgrad	45 / 000	// Currently , there are about 15 , 000 students enrolled .
+1283	FALSE	Kansai Gaidai University:: students	15,000 / 15, 000	// Currently , there are about 15 , 000 students enrolled .
+1288	FALSE	Osgoode Hall Law School:: established	1889 / <p>	// <p> <strong> Others </strong> </p>
+1305	FALSE	University of North Carolina Wilmington:: established	1947 / of	// <p> The <strong> University of North Carolina at Wilmington </strong> , commonly referred to as <strong> UNCW </strong> ( sometimes known as <strong> UNC Wilmington </strong> ) is a public , coeducational <a> university </a> located in <a> Wilmington , North Carolina </a> . </p>
+1313	FALSE	University of North Carolina Wilmington:: nickname	seahawks / There	// There are 19 varsity athletic teams for men and women .
+1324	TRUE	Wilmington College (Ohio):: established	1870 / 1870	// <p> <strong> Wilmington College </strong> is a private career-oriented <a> liberal arts </a> institution established by <a> Quakers </a> in 1870 in <a> Wilmington </a> , <a> Ohio </a> .
+1325	FALSE	Wilmington College (Ohio):: city	wilmington / Cincinnati	// The college also offers a <a> master's degree </a> program in education , with specialties in <a> special education </a> and reading and undergraduate courses at several sites in <a> Cincinnati </a> .
+1326	TRUE	Wilmington College (Ohio):: state	ohio / Ohio	// <p> <strong> Wilmington College </strong> is a private career-oriented <a> liberal arts </a> institution established by <a> Quakers </a> in 1870 in <a> Wilmington </a> , <a> Ohio </a> .
+1329	FALSE	Wilmington College (Ohio):: postgrad	50 / welcomes	// The college welcomes transfer students and has a significant number of commuting students .
+1331	FALSE	Wilmington College (Ohio):: nickname	quakers / students	// More than half of the students participate in intercollegiate athletics .
+1337	TRUE	Wilmington College (Ohio):: type	private / private	// <p> <strong> Wilmington College </strong> is a private career-oriented <a> liberal arts </a> institution established by <a> Quakers </a> in 1870 in <a> Wilmington </a> , <a> Ohio </a> .
+1339	FALSE	University of Portland:: established	1901 / and	// It is the only university in Oregon to offer , at one location , a college of arts and sciences; a graduate school; and schools of business , education , engineering , and nursing . </p>
+1392	FALSE	Hofstra University:: established	1935 / 100	// Nationally , fewer than 100 colleges and universities match this achievement . </p>
+1395	FALSE	Hofstra University:: state	new york / ( 88.	// <p> The university operates Long Island's oldest <a> public radio </a> station , <strong> <a> WRHU-FM </a> </strong> ( 88 . 7 ) .
+1398	FALSE	Hofstra University:: undergrad	7,631 / 12, 400	// <p> There are 1 , 185 faculty members , 7 , 631 full-time undergraduates <a> enrollment </a> , and a total of approximately 12 , 400 students overall , a figure which includes part-time undergraduates , graduates and law students . </p>
+1405	FALSE	Hofstra University:: students	12,400 / 3, 2009,	// <p> On December 3 , 2009 , the university announced it was terminating the football program .
+1410	TRUE	College of the Atlantic:: established	1969 / a>.	// <p> The <strong> College of the Atlantic </strong> , founded in 1969 , is a private , alternative <a> liberal-arts college </a> located in <a> Bar Harbor </a> on <a> Mount Desert Island </a> , <a> Maine </a> , <a> United States </a> .
+1415	FALSE	College of the Atlantic:: postgrad	6 / 15	// With international students comprising an average of 15 percent of its student population , College of the Atlantic is among the five liberal arts colleges with the highest proportion of international students . .
+1426	FALSE	North Carolina Central University:: established	1910 / 1925	// In 1925 , it was renamed the North Carolina College for Negroes , the nation's only state-supported liberal arts college for black students .
+1486	FALSE	Northwest University (United States):: nickname	nu / Seahawks	// <p> Northwest College also extended a 20 year lease to the <a> Seattle Seahawks </a> team in 1984 on a plot of undeveloped land on the west side of campus .
+1494	FALSE	Portland Community College:: established	1961 / States.	// <p> <strong> Portland Community College </strong> ( or PCC ) is <a> Oregon </a> 's largest <a> community college </a> , located in <a> Portland </a> , United States .
+1511	TRUE	Emporia State University:: established	1863 / 1863	// <p> The university was founded in March 1863 when the Kansas Legislature passed the enabling act to establish the <strong> Kansas State Normal School </strong> .
+1521	FALSE	Emporia State University:: free	ncaa division ii / 1977	// On April 21 , 1977 , the college became <strong> Emporia State University </strong> .
+1525	FALSE	Pepperdine University:: established	1937 / p>	// <p> &lt; ! ----&gt; </p>
+1532	FALSE	Pepperdine University:: nickname	waves / gt;	// <p> &lt; ! ----&gt; </p>
+1538	FALSE	City University of Seattle:: established	1973 / a>.	// <p> <strong> City University of Seattle </strong> , also known as <strong> CityU </strong> , is a private not-for-profit institution of higher learning based in <a> Bellevue , Washington </a> , across <a> Lake Washington </a> from <a> Seattle </a> .
+1557	FALSE	William Jewell College:: established	1849 / S.	// <p> <strong> William Jewell College </strong> is a private , four-year <a> liberal arts college </a> of 1 , 050 undergraduate students located in <a> Liberty , Missouri </a> , <a> U . S . </a>
+1563	FALSE	William Jewell College:: postgrad	none / ,	// <p> <strong> William Jewell College </strong> is a private , four-year <a> liberal arts college </a> of 1 , 050 undergraduate students located in <a> Liberty , Missouri </a> , <a> U . S . </a>
+1570	FALSE	William Jewell College:: mascot	cardinal / NAIA	// Its athletic teams compete in the <a> Heart of America Conference </a> of the <a> NAIA </a> .
+1573	FALSE	University of Canberra:: established	1990 / a>.	// <p> The <strong> University of Canberra </strong> , also known as <strong> UC </strong> and <strong> Australia's Capital University </strong> , is a <a> university </a> located in <a> Canberra </a> , <a> ACT </a> , the national capital of <a> Australia </a> .
+1577	TRUE	University of Canberra:: country	australia / third	// UC is the third largest tertiary institution in Canberra ( after the Canberra Institute of Technology , with 30 , 000 students , and the Australian National University , with 13 , 500 students ) . </p>
+1593	FALSE	University of Basel:: established	1460 / was	// Originally the University of Basel was decreed to have four faculties , namely those of arts , medicine , theology and jurisprudence .
+1594	FALSE	University of Basel:: type	public / University	// <p> The <strong> University of Basel </strong> ( German : <em> Universit&#x00e4;t Basel </em> ) is located in <a> Basel </a> , <a> Switzerland </a> , and is considered to be one of leading universities in the country .
+1595	TRUE	University of Basel:: city	basel / Basel	// Around the same time as the university itself , the University Library of Basel was founded .
+1597	FALSE	University of Basel:: country	switzerland / them	// More than half of them stay between 1 and 5 years only , for different reasons : about 120 are postdocs , independent scientists , grant holders and assistant professors ( 1 &#x2013; 5 years ) , about 80 are PhD students ( 3 &#x2013; 4 years ) and 50 are diploma students ( undergraduate students in their 4th year of studies ) .
+1610	FALSE	Elizabeth City State University:: established	1891 / the	// <p> <strong> Elizabeth City State University </strong> ( <strong> ECSU </strong> ) is a public , <a> historically black college </a> located in <a> Elizabeth City </a> , <a> North Carolina </a> , in the <a> United States </a> .
+1627	FALSE	Minot State University:: established	1913 / strong>	// <p> <strong> Minot State University </strong> ( <strong> MSU </strong> or <strong> MiSU </strong> ) is a four-year institution of higher learning in <a> Minot , North Dakota </a> .
+1691	FALSE	University of South Carolina Beaufort:: nickname	sand sharks / Intercollegiate	// The teams are members of the <a> National Association of Intercollegiate Athletics </a> ( NAIA ) .
+1718	FALSE	Fordham University:: established	1841 / p>	// <p> </p>
+1731	FALSE	University of San Francisco:: staff	506 / 2007.	// <p> The University of San Francisco enrolled 5 , 278 undergraduates , 2 , 518 graduate students , and 738 law students in Fall 2007 . </p>
+1735	FALSE	University of San Francisco:: students	8,772 / 35	// which is broadcast on Channel 35 in the dormitories and around campus .
+1736	FALSE	University of San Francisco:: mascot	the don / University	// <p> USF competes in the <a> NCAA </a> 's <a> Division I </a> and is a charter member of the <a> West Coast Conference </a> , along with local rivals <a> Santa Clara University </a> and <a> Saint Mary's College of California </a> .
+1741	FALSE	National University of Lesotho:: established	1945 / 1975.	// <p> The decision to establish the National University of Lesotho on , the Lesotho ( Roma ) campus site of the former U . B . L . S . was taken on October 20 , 1975 , by the National Assembly through Act No . 1 3 of 1975 .
+1743	FALSE	National University of Lesotho:: city	roma / London	// Despite these problems , advice received from Sir John Lockwood and Sir James Cook , both Vice-Chancellors' of British universities at the time , discouraged the College authorities from seeking an affiliation with either the <a> University of London </a> , or for that matter , any other overseas University .
+1759	FALSE	University of the West of Scotland:: established	2007 / and	// Later , the Design schools were renamed Schools of Art , and once again as Schools of Art and Science . </p>

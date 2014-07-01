@@ -1,0 +1,65 @@
+Found: 18
+Found Not Null: 5
+Correct: 0
+Wrong: 5
+Total: 12
+precision: 0.0
+recall: 0.0
+
+
+
+#	NEW	destinations	........ / 16	// It operates scheduled and <a> charter </a> services to 16 </p>
+
+#	NEW	destinations	........ / 1966	// Between 1966 and 1986 it operated regular charter flights to Europe , destinations were Paris Lyon , London Gatwick , Brussels Zaventem and Frankfurt airport .
+
+#	NEW	destinations	........ / 2006 ) :	// <p> Air Inuit operates scheduled services to the following domestic destinations ( November 2006 ) : </p>
+
+3	FALSE	One-Two-GO Airlines::destinations	7 / 2010 ) :	
+<p> One-Two-GO Airlines was served the following destinations ( as of July 2010 ) : </p>
+
+#	NEW	destinations	........ / 2001 .	// <strong> TransBrasil </strong> was an international <a> Brazil </a> ian airline which ceased operations in December 2001 .
+
+#	NEW	destinations	........ / 12	// The airline operates services to 12 destinations in <a> Mainland China </a> , as well as regional international services , from its hub at <a> Macau International Airport </a> . </p>
+
+6	FALSE	Air Alps::destinations	7 / 10	
+It is an independent regional airline serving 10 cities in <a> Italy </a> from <a> Milan </a> and <a> Rome </a> , international services from <a> Milan </a> , as well as charter services .
+
+#	NEW	destinations	........ / 2006	// <p> These are the scheduled international destinations as of July <a> 2006 </a> : </p>
+
+#	NEW	destinations	........ / 2005 ) :	// <p> Trans Air Congo operates services to the following destinations ( at January 2005 ) : </p>
+
+#	NEW	destinations	........ / 10	// <p> In August 2010 , Shenzhen Airlines announced plans to order a further 10 Airbus A320 aircraft . </p>
+
+#	NEW	destinations	........ / 58	// <p> By the mid-1980s , Flying Tigers operated scheduled cargo service to six continents and served 58 countries .
+
+#	NEW	destinations	........ / 2	// Ten passengers and 2 flight attendants , who were seated in the rear of the aircraft , survived .
+
+12	FALSE	MacAir Airlines::destinations	29 / 1992	
+<p> MacAir Airlines was established and started charter operations in 1992 as <strong> McKinlay Air Charters </strong> , adding scheduled services in 1998 .
+
+#	NEW	destinations	........ / 15 .	// It was the second air disaster involving PRC aircraft in less than a month , after the <a> Air China Flight 129 </a> disaster on April 15 . </p>
+
+14	FALSE	Aero California::destinations	17 / 3	
+<p> By the early 1980s <a> Douglas DC-3 </a> s were added to the fleet as domestic charters grew .
+
+#	NEW	destinations	........ / 2010	// It operates scheduled domestic passenger services and international services to the <a> Middle East </a> , Asian republics and from August 2010 also to <a> Vienna </a> , Austria in Europe .
+
+#	NEW	destinations	........ / 120	// It operated almost 120 flights a day .
+
+17	FALSE	Afriqiyah Airways::destinations	30 / 25	
+It operates domestic services between Tripoli and <a> Benghazi </a> and international scheduled services to over 25 countries in <a> Europe </a> , <a> Africa </a> , <a> Asia </a> and the <a> Middle East </a> .
+
+#	null	destinations	6 / ..........
+
+#	null	destinations	14 / ..........
+
+#	null	destinations	14 / ..........
+
+#	null	destinations	15 / ..........
+
+#	null	destinations	8 / ..........
+
+#	null	destinations	9 / ..........
+
+#	null	destinations	35 / ..........
+

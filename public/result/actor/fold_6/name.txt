@@ -1,0 +1,92 @@
+Found: 30
+Found Not Null: 22
+Correct: 3
+Wrong: 19
+Total: 22
+precision: 0.13636363636363635
+recall: 0.13636363636363635
+
+
+
+0	FALSE	Gordon Jump::name	gordon jump / Los Angeles	
+<p> Jump died in 2003 from <a> pulmonary fibrosis </a> , leading to <a> respiratory failure </a> at his home near <a> Los Angeles , California </a> . </p>
+
+#	NEW	name	........ / who had	// In 1972 , Dullea married a third time to Susie Fuller , who had two daughters from a previous relationship .
+
+2	FALSE	Edna Purviance::name	edna purviance / California death	
+<p> Purviance died of <a> cancer </a> on January 13 , 1958 , at the age of 62 ( as per her official California death certificate ) .
+
+3	TRUE	Burgess Meredith::name	burgess meredith / an actor	
+<p> Burgess Meredith was involved in theatre , film , and television , both as an actor and a director .
+
+4	FALSE	Victor Garber::name	victor garber / a bank	
+<p> Recently Garber had an uncredited cameo in <em> <a> The Town </a> </em> as a bank manager .
+
+5	FALSE	Leonor Varela::name	leonor varela / Arrested Development	
+<p> Varela also had a short recurring role in the <a> Fox Television </a> series <em> <a> Arrested Development </a> </em> as the original Marta .
+
+6	FALSE	Christina Cox::name	christina cox / currently resides	
+<p> Cox currently resides in <a> Los Angeles </a> , <a> California </a> . ref
+
+7	FALSE	Ingrid Thulin::name	ingrid thulin / although they	
+<p> She was married to <a> Harry Schein </a> , the founder of the <a> Swedish Film Institute </a> , for more than 30 years until 1989 , although they had lived separately for many years before the divorce .
+
+8	FALSE	Peter Strauss::name	peter strauss / more recent	
+A more recent film in which he appears is </em> </strong> ' ( 2005 ) .
+
+#	NEW	name	........ / said it '	// Speaking to the <a> Canadian Broadcasting Corporation </a> in an interview that aired on March 7 , 2010 , Plummer appeared slightly irritated that it had taken so long to receive a personal <a> Academy Award </a> nomination , saying , &quot ; Well , I said it ' s about time !
+
+10	FALSE	Bob Barker::name	bob barker / told people	
+In an interview , Barker told people at home : </p>
+
+11	TRUE	Edwin Thanhouser::name	edwin thanhouser / had changed	
+He did this early in 1915 , but as the film industry , its practices , and the tastes of the public had changed since he had last been in films in 1912 , Edwin Thanhouser ' s re-entry did not duplicate the success he had scored in earlier years .
+
+12	FALSE	Dick Clark::name	dick clark / Elvis Presley	
+On that day , Clark interviewed <a> Elvis Presley </a> . </p>
+
+13	FALSE	Marie-France Pisier::name	marie-france pisier / French Postcards	
+She did not fare well with either her TV credits ( the 1979 ABC miniseries <em> The French Atlantic Affair </em> and 1980s <em> Scruples </em> ) or her second Hollywood film <em> French Postcards </em> ( 1979 ) .
+
+14	FALSE	Dorothy Loudon::name	dorothy loudon / she meets	
+<p> In 1979 , <a> Michael Bennett </a> cast Loudon as Bea Asher , a widow who becomes romantically involved with a mail carrier she meets at the local dance hall , in <em> <a> Ballroom </a> </em> .
+
+15	FALSE	Carnie Wilson::name	carnie wilson / her daughter	
+<p> In 2006 , she finally launched her solo career , with an album of lullabies , <em> A Mother ' s Gift : Lullabies from the Heart </em> , created shortly after the birth of her daughter Lola . </p>
+
+#	NEW	name	........ / D- Generation	// <p> In 1985 , whilst performing in a <a> University of Melbourne </a> revue of <em> Too Cool for Sandals </em> , with Michael Veitch and <a> Tom Gleisner </a> , Szubanski was talent-spotted by producers from the <a> ABC </a> network , who convinced her to join up with some other university friends in creating the television sketch comedy show , <em> <a> The D-Generation </a> </em> . </p>
+
+17	FALSE	Paul Jackson (producer)::name	paul jackson / Harry Enfield	
+<em> Saturday Live </em> featured such comedy stars as Lenny Henry , <a> Pamela Stephenson </a> , <a> Michael Barrymore </a> , <a> Peter Cook </a> and <a> Barry Humphries </a> and bought to prominence talents such as Ben Elton ( as a performer ) , Fry and Laurie , <a> Harry Enfield </a> and <a> Julian Clary </a> .
+
+18	FALSE	Cesar Romero::name	cesar romero / to be	
+However , he was almost always described in interviews and articles as a &quot ; confirmed bachelor , &quot ; and after his death was reported by many sources to be <a> gay </a> . </p>
+
+#	NEW	name	........ / Christopher Nolan	// More recently , director <a> Christopher Nolan </a> attached to a proposed film version .
+
+#	NEW	name	........ / Krzysztof Zanussi	// She also found work in a handful of films , including <a> Krzysztof Zanussi </a> ' s <em> Barwy ochronn / Camouflage </em> ( 1977 ) . </p>
+
+21	FALSE	Roger Davis (television actor)::name	roger davis / an interest	
+<p> Davis develops land and builds luxury homes in southern California , and owns an interest in movie developer Lonetree Entertainment in <a> Los Angeles </a> .
+
+#	NEW	name	........ / Prep School	// Other upcoming films include <em> <a> Death And Cremation </a> </em> , and <em> <a> Prep School </a> </em> . </p>
+
+23	FALSE	Tia Carrere::name	tia carrere / an all	
+Carrere attended <a> Sacred Hearts Academy </a> , an all girls school .
+
+#	NEW	name	........ / very interested	// <p> In the early 1970s , Joff&#x00e9 ; had attended <a> Workers&#x2019 ; Revolutionary Party </a> meetings , but he never became a party member , and by 1977 he had long severed his association with it : &#x201c ; I was very interested in politics at that time .
+
+25	TRUE	Peter Jurasik::name	peter jurasik / Hill Street	
+<p> <strong> Peter Jurasik </strong> ( born April 25 , 1950 ) is an <a> American </a> actor known for his television roles as <a> Londo Mollari </a> in the 1990s science fiction series <em> <a> Babylon 5 </a> </em> and Sid the Snitch on the 1980s series <em> <a> Hill Street Blues </a> </em> and its short-lived spinoff <em> <a> Beverly Hills Buntz </a> </em> . </p>
+
+26	FALSE	Seijun Suzuki::name	seijun suzuki / making films	
+Two friends of Suzuki met with Hori the next day and were informed that &quot ; Suzuki ' s films were incomprehensible , that they did not make any money and that Suzuki might as well give up his career as a director as he would not be making films for any other companies . &quot ;
+
+27	FALSE	Kareena Kapoor::name	kareena kapoor / During her	
+During her career , Kapoor has received five <a> Filmfare Awards </a> and has been noted for her performances in a range of <a> film genre </a> s ; these include her work from contemporary <a> romantic dramas </a> to <a> comedies </a> , <a> period film </a> s to major Bollywood productions , as well as less publicised <a> independent film </a> s . </p>
+
+#	NEW	name	........ / He attended	// <p> He attended Catholic grammar school .
+
+29	FALSE	Dennis Weaver::name	dennis weaver / recycled materials	
+<p> The &#x201c ; <a> Earth Ship </a> , &#x201d ; the personal home he commissioned architect <a> Michael Reynolds </a> to design and build in <a> Ridgway , Colorado </a> during the late 1980s , incorporated recycled materials in its construction and featured advanced eco-technologies . </p>
+

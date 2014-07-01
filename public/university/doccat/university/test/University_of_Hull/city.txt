@@ -1,5 +1,0 @@
-<h3>New campuses</h3>
-<h3>Institute for Learning (IfL)</h3>
-<h3>Postgraduate Medical Institute (PGMI)</h3>
-<h3>Maritime Historical Studies Centre</h3>
-<h2>Hull History Centre</h2>

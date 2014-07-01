@@ -1,0 +1,404 @@
+Total articles: 456
+Articles for test: 411
+Articles for train: 45
+Total attributes: 140
+Attributes with high occurrences: 18/140
+
+------------
+Found: 573
+Found Not Null: 129
+Correct: 60
+Wrong: 69
+Total: 149
+precision: 0.46511627906976744
+recall: 0.40268456375838924
+
+
+
+4	FALSE	Cape Air:: parent	hyannis air service, inc. / New	
+<p> The airline continued its expansion into New York when they started to fly the EAS routes out of <a> Albany </a> to <a> Watertown </a> , <a> Ogdensburg </a> , and <a> Massena </a> .
+
+23	FALSE	Star Alliance:: alliance	star alliance / SkyTeam	
+/ Left the alliance in 2010 as a result of its merger with <a> China Eastern Airlines </a> , a future <a> SkyTeam </a> member . br
+
+27	FALSE	Aloha Airlines:: destinations	12 / 18.	
+<p> At the time the Aloha airlines ceased operations , the airline's fleet consisted of the following aircraft : center /center As of March 2008 , the average age of the Aloha Airlines fleet was 18 . 2 years . </p>
+
+29	FALSE	Aloha Airlines:: callsign	aloha / United	
+<p> <strong> <a> United States </a> </strong> </p>
+
+30	FALSE	Aloha Airlines:: parent	aloha air group / March 31	
+Ten days later , on March 30 , 2008 , Aloha Airlines announced the suspension of all scheduled passenger flights , with the final day of operation to be March 31 , 2008 .
+
+33	TRUE	Aloha Airlines:: frequent_flyer	alohapass / earned miles	
+Aloha also marketed some inter-island routes served by partner <a> Island Air </a> , and passengers earned miles in either its own <a> frequent flyer program </a> , AlohaPass , or in <a> United Airlines </a> ' Mileage Plus program . </p>
+
+40	TRUE	Aero Airlines:: fleet_size	0 / 200	
+<p> The Aero Airlines fleet consisted of <a> ATR-72 </a> -200 <a> turboprop </a> airplanes , which were formerly operated by its parent company Finnair .
+
+41	TRUE	Aero Airlines:: destinations	0 / the	
+<p> Aero Airlines operated services to the following scheduled destinations ( at December 2007 ) : <a> Helsinki </a> , <a> Tallinn </a> , <a> Turku </a> and <a> Vaasa </a> . </p>
+
+42	TRUE	Aero Airlines:: iata	ee / AY	
+<p> Finnair retained Aero AS's IATA designator <strong> AY </strong> , while the modern-day Aero Airlines flew as <strong> EE </strong> .
+
+45	TRUE	Aero Airlines:: founded	2000 / 2002	
+The airline was re-established in 2000 and started operations in March 2002 within the <a> Baltic region </a> .
+
+49	TRUE	Aero Airlines:: airline	aero airlines / Finnair	
+<p> Finnair retained Aero AS's IATA designator <strong> AY </strong> , while the modern-day Aero Airlines flew as <strong> EE </strong> .
+
+55	TRUE	Air America (airline):: founded	1950 / 1950	
+<p> <strong> Air America </strong> was an American passenger and cargo airline established in 1950 and covertly owned and operated by the <a> Central Intelligence Agency </a> 's ( CIA ) <a> Special Activities Division </a> from 1950 to 1976 .
+
+58	TRUE	Air America (airline):: ceased	1976 / 1975	
+<p> After pulling out of South Vietnam in 1975 , there was an attempt to keep a company presence in Thailand; after this fell through , Air America officially disbanded on June 30 , 1976 , and was later purchased by <a> Evergreen International Airlines </a> , which continues to provide support for U . S . covert operations .
+
+59	TRUE	Air America (airline):: airline	air america / Air America	
+<p> <strong> Air America </strong> was an American passenger and cargo airline established in 1950 and covertly owned and operated by the <a> Central Intelligence Agency </a> 's ( CIA ) <a> Special Activities Division </a> from 1950 to 1976 .
+
+62	TRUE	Air America (airline):: callsign	air america / American	
+<p> <strong> Air America </strong> was an American passenger and cargo airline established in 1950 and covertly owned and operated by the <a> Central Intelligence Agency </a> 's ( CIA ) <a> Special Activities Division </a> from 1950 to 1976 .
+
+63	FALSE	Cyprus Airways:: logo_size	250 / off	
+<p> The airline ordered still more different aircraft types in the late 1970s which replaced some earlier aircraft coming off lease .
+
+64	TRUE	Cyprus Airways:: fleet_size	12 / 2011 ) :	
+<p> The Cyprus Airways fleet consists of the following aircraft ( as of 12 January 2011 ) : </p>
+
+65	FALSE	Cyprus Airways:: destinations	22 / 2011 ) :	
+<p> The Cyprus Airways fleet consists of the following aircraft ( as of 12 January 2011 ) : </p>
+
+66	TRUE	Cyprus Airways:: iata	cy / national	
+<p> <strong> Cyprus Airways </strong> ( , <em> Kypriak&#x00e9;s Aerogramm&#x00e9;s </em> - CY ) is the <a> national </a> <a> airline </a> of <a> Cyprus </a> , a public limited company with its head offices located in the capital of the island , <a> Nicosia </a> .
+
+67	TRUE	Cyprus Airways:: callsign	cyprus / Cyprus	
+<p> <strong> Cyprus Airways </strong> ( , <em> Kypriak&#x00e9;s Aerogramm&#x00e9;s </em> - CY ) is the <a> national </a> <a> airline </a> of <a> Cyprus </a> , a public limited company with its head offices located in the capital of the island , <a> Nicosia </a> .
+
+68	FALSE	Cyprus Airways:: parent	government of cyprus / special	
+<p> BEA took over the operation of all Cyprus Airways services effective 26 January 1958 by special arrangement . </p>
+
+70	TRUE	Cyprus Airways:: founded	1947 / 24 September 1947	
+<p> The airline was established on 24 September 1947 as a joint venture between the colonial government of Cyprus , <a> BEA ( British European Airways ) </a> , and private interests .
+
+72	FALSE	Cyprus Airways:: frequent_flyer	sunmiles / Student	
+There are four tiers of membership : Student , Regular , Premier , and Elite .
+
+74	TRUE	Cyprus Airways:: icao	cyp / be	
+<p> All of the Cypriot airline's operations had to be suspended following the end of the hostilities in 1974 because the Nicosia International Airport , the only airport of the island , had to be closed .
+
+77	FALSE	Futura International Airways:: iata	fh / de	
+<p> <strong> Futura International Airways </strong> was an <a> airline </a> based in <a> Palma de Mallorca </a> , <a> Spain </a> .
+
+78	TRUE	Futura International Airways:: callsign	futura / International	
+<p> <strong> Futura International Airways </strong> was an <a> airline </a> based in <a> Palma de Mallorca </a> , <a> Spain </a> .
+
+81	TRUE	Futura International Airways:: founded	1989 / 1989	
+<p> The airline was established in 1989 by <a> Aer Lingus </a> , <a> Belton Air </a> and <a> Banco Santander </a> , starting operations on 17 February 1990 with a flight from <a> Palma de Mallorca </a> to <a> Manchester </a> .
+
+85	TRUE	Futura International Airways:: airline	futura international airways / International Airways	
+<p> <strong> Futura International Airways </strong> was an <a> airline </a> based in <a> Palma de Mallorca </a> , <a> Spain </a> .
+
+90	FALSE	Libyan Airlines:: destinations	30 / <a>	
+It operates scheduled passenger and cargo services within Libya and to <a> Europe </a> , <a> North Africa </a> and the <a> Middle East </a> .
+
+92	TRUE	Libyan Airlines:: callsign	libyan / based	
+<p> <strong> Libyan Airlines </strong> ( ; <a> transliterated </a> : al-Khutut al-Jawiyah al-Libiyah ) , is the national <a> flag carrier </a> <a> airline </a> of <a> Libya </a> , based in <a> Tripoli </a> .
+
+93	FALSE	Libyan Airlines:: parent	libyan african aviation holding company / brand	
+The brand will offer holiday packages , including flights and accommodation , under a new brand to keep the product isolated from its normal regional operations .
+
+94	TRUE	Libyan Airlines:: founded	1965 / 1965	
+<p> Libyan Airlines was established in 1964 as Kingdom of Libya Airlines and started services in October 1965 using <a> Caravelle </a> jets to <a> Europe </a> .
+
+98	FALSE	Libyan Airlines:: icao	laa / International	
+Its main base is <a> Tripoli International Airport </a> .
+
+103	FALSE	Sterling Airlines:: iata	nb / Sterling	
+<p> <strong> Sterling Airlines A/S </strong> was a <a> low-cost airline </a> based at <a> Copenhagen Airport </a> , <a> Denmark </a> .
+
+104	TRUE	Sterling Airlines:: callsign	sterling / Sterling	
+<p> <strong> Sterling Airlines A/S </strong> was a <a> low-cost airline </a> based at <a> Copenhagen Airport </a> , <a> Denmark </a> .
+
+108	TRUE	Sterling Airlines:: airline	sterling airlines a/s / Airlines A/	
+<p> <strong> Sterling Airlines A/S </strong> was a <a> low-cost airline </a> based at <a> Copenhagen Airport </a> , <a> Denmark </a> .
+
+113	FALSE	Sterling Airlines:: ceased	29 october 2008 / 1962	
+<p> Sterling Airlines traces its history back to 1962 , when <a> Eilif Krogager </a> , founder of Danish travel agency <a> Tj&#x00e6;reborg </a> ( today part of <a> MyTravel Group </a> ) , started the <a> charter airline </a> <strong> Sterling Airways </strong> with two <a> Douglas DC-6 </a> B bought from <a> Swissair </a> , in order to better service his own package tours from Scandinavia to the Mediterranean .
+
+152	TRUE	Air Finland:: fleet_size	3 / 2003.	
+<p> The airline was established in January 2002 and started flight operations on 3 April 2003 .
+
+154	TRUE	Air Finland:: iata	of / Oy	
+<p> <strong> Oy Air Finland Ltd </strong> is an <a> airline </a> with its head office on the grounds of <a> Helsinki-Vantaa Airport </a> in <a> Vantaa </a> , <a> Finland </a> .
+
+155	TRUE	Air Finland:: callsign	air finland / Air	
+<p> <strong> Oy Air Finland Ltd </strong> is an <a> airline </a> with its head office on the grounds of <a> Helsinki-Vantaa Airport </a> in <a> Vantaa </a> , <a> Finland </a> .
+
+157	TRUE	Air Finland:: founded	2002 / 2003.	
+<p> The airline was established in January 2002 and started flight operations on 3 April 2003 .
+
+180	FALSE	American Eagle Airlines:: callsign	eagle flight / American	
+<p> <strong> American Eagle Airlines </strong> is a brand name used by American Eagle Airlines , Inc . ( formerly Simmons Airlines ) , based in Fort Worth , Texas , and <a> Executive Airlines </a> based in San Juan , Puerto Rico , in the operation of passenger air service as <a> regional affiliates </a> of <a> American Airlines </a> .
+
+181	FALSE	American Eagle Airlines:: parent	amr corporation / unrelated airlines under	
+American Airlines also has unrelated airlines under contract to provide regional service under the <a> American Connection </a> brand . </p>
+
+183	FALSE	American Eagle Airlines:: founded	1984 / 1980	
+<p> The name was also used between April 1980 and April 1981 by an unrelated air charter service that suspended operations and filed bankruptcy before flying any scheduled operations . </p>
+
+186	TRUE	American Eagle Airlines:: airline	american eagle / American Airlines	
+<p> <strong> American Eagle Airlines </strong> is a brand name used by American Eagle Airlines , Inc . ( formerly Simmons Airlines ) , based in Fort Worth , Texas , and <a> Executive Airlines </a> based in San Juan , Puerto Rico , in the operation of passenger air service as <a> regional affiliates </a> of <a> American Airlines </a> .
+
+205	FALSE	Air Vanuatu:: iata	nf / Port	
+<p> <strong> Air Vanuatu </strong> is an <a> airline </a> with its head office in the Air Vanuatu House , <a> Port Vila </a> , <a> Vanuatu </a> .
+
+206	TRUE	Air Vanuatu:: callsign	air van / Air	
+<p> <strong> Air Vanuatu </strong> is an <a> airline </a> with its head office in the Air Vanuatu House , <a> Port Vila </a> , <a> Vanuatu </a> .
+
+209	TRUE	Air Vanuatu:: founded	1981 / 1981.	
+The first Air Vanuatu flight , a <a> McDonnell Douglas DC-9-31 </a> owned and operated by Ansett , departed <a> Sydney </a> for Port Vila on 5 September 1981 .
+
+217	TRUE	SATA International:: fleet_size	8 / 28	
+<p> The SATA International fleet consists of the following aircraft ( as of 28 July 2010 ) : </p>
+
+220	TRUE	SATA International:: callsign	azores / E	
+<p> <strong> SATA International </strong> ( full name <em> SATA Internacional Servi&#x00e7;os E Transportes A&#x00e9;reos </em> ) is an <a> airline </a> based in <a> Ponta Delgada </a> , in the <a> Azores </a> , <a> Portugal </a> .
+
+222	FALSE	SATA International:: founded	1990 / 1998.	
+On 20 February 1998 it was renamed SATA International and started operations on 8 April 1998 .
+
+235	TRUE	Maersk Air:: airline	maersk air / A. P.	
+<p> <strong> Maersk Air </strong> was a <a> Danish </a> <a> low-fare airline </a> , based in <a> Drag&#x00f8;r </a> , <a> Drag&#x00f8;r Municipality </a> ; Maersk was part of the <a> A . P . Moller-Maersk Group </a> .
+
+236	FALSE	Maersk Air:: icao	dan / routes	
+A number of routes were operated to European destinations including <a> Amsterdam Schiphol Airport </a> .
+
+239	FALSE	Maersk Air:: founded	1969 / first	
+<p> The first international routes were established in the early 1980s , first to <a> Stavanger </a> in <a> Norway </a> and to <a> Southend-on-Sea </a> in the <a> United Kingdom </a> .
+
+241	FALSE	Dragonair:: fleet_size	32 / 13	
+The airline has an all <a> Airbus </a> fleet with a mix of <a> narrow- </a> and <a> wide-body aircraft </a> , with an average age of = 8 . 7 years ( as of 13 December 2009 ) .
+
+242	FALSE	Dragonair:: destinations	32 / 29	
+<p> The airline currently operates its own aircraft to 29 destinations in <a> Asia </a> from its home in <a> Hong Kong </a> .
+
+243	TRUE	Dragonair:: callsign	dragon / Dragonair	
+<p> <strong> Hong Kong Dragon Airlines Limited </strong> , operating as <strong> Dragonair </strong> , is an international <a> airline </a> headquartered in <a> Hong Kong </a> ; with its corporate <a> headquarter </a> s , Dragonair House , and <a> main hub </a> at <a> Hong Kong International Airport </a> . ! The citation can be omitted IF it occurs elsewhere in the article ( not in an infobox ) .
+
+250	FALSE	Dragonair:: iata	ka / international	
+<p> <strong> Hong Kong Dragon Airlines Limited </strong> , operating as <strong> Dragonair </strong> , is an international <a> airline </a> headquartered in <a> Hong Kong </a> ; with its corporate <a> headquarter </a> s , Dragonair House , and <a> main hub </a> at <a> Hong Kong International Airport </a> . ! The citation can be omitted IF it occurs elsewhere in the article ( not in an infobox ) .
+
+252	FALSE	Dragonair:: founded	24 may 1985 / 1985 737- 200	
+It started operations in July 1985 with a <a> Boeing 737-200 </a> service from <a> Kai Tak International Airport </a> to <a> Kota Kinabalu International Airport </a> in Malaysia , after receiving an <a> Air Operator's Certificate </a> ( AOC ) from the <a> Hong Kong Government </a> .
+
+256	FALSE	Court Line:: iata	ou / it	
+In 1960 , it became <strong> Autair ( Luton ) </strong> .
+
+262	FALSE	Court Line:: ceased	1974 / 27 September 1963	
+On 27 September 1963 , it changed to <strong> Autair International Airways </strong> . </p>
+
+270	FALSE	Kalitta Air:: callsign	connie / American	
+<p> <strong> Kalitta Air </strong> is an <a> American </a> <a> cargo airline </a> headquartered in <a> Ypsilanti Township </a> , <a> Michigan </a> , <a> United States </a> .
+
+272	FALSE	Kalitta Air:: founded	2000 / 2003	
+<p> In January 2003 , Kalitta Air announced the start of scheduled cargo flights from the US to Europe .
+
+281	FALSE	All Nippon Airways:: destinations	71 / 2010	
+( 2009 ) ]] As of December 2010 , the ANA passenger fleet ( excluding subsidiaries ) consists of the following aircraft : </p>
+
+282	FALSE	All Nippon Airways:: iata	nh / International	
+<p> <strong> International </strong> </p>
+
+283	FALSE	All Nippon Airways:: callsign	all nippon / International	
+<p> <strong> International </strong> </p>
+
+285	FALSE	All Nippon Airways:: frequent_flyer	ana mileage club / Categories	
+<p> ! Categories </p>
+
+288	FALSE	All Nippon Airways:: icao	ana / May	
+It operates services to 49 destinations in Japan and 35 international routes and employed over 14 , 000 employees as of May 2009 .
+
+315	FALSE	Nantucket Airlines:: callsign	ack air / United	
+<p> <strong> Nantucket Airlines </strong> is a wholly owned subsidiary of <a> Cape Air </a> based in <a> Hyannis </a> , <a> Massachusetts </a> , <a> United States </a> .
+
+319	FALSE	Nantucket Airlines:: icao	ack / Nantucket	
+The airline offers regularly scheduled passenger service between <a> Barnstable Municipal Airport </a> in Hyannis and <a> Nantucket Memorial Airport </a> on the island of <a> Nantucket </a> .
+
+321	TRUE	Nantucket Airlines:: fleet_size	5 / 55	
+Nantucket Airlines , or ACK Air as it is commonly referred to ( ACK is the 3 letter identifier for Nantucket's Airport ) utilizes a fleet of 6 <a> Cessna 402 </a> C Businessliners/Utililiners ( the Cape Air/Nantucket Airlines fleet consists of 60 Cessna 402Cs with 5 painted in the ACK Air livery and the remaining 55 painted in the Cape Air livery ) .
+
+322	TRUE	Nantucket Airlines:: destinations	2 / 55	
+Nantucket Airlines , or ACK Air as it is commonly referred to ( ACK is the 3 letter identifier for Nantucket's Airport ) utilizes a fleet of 6 <a> Cessna 402 </a> C Businessliners/Utililiners ( the Cape Air/Nantucket Airlines fleet consists of 60 Cessna 402Cs with 5 painted in the ACK Air livery and the remaining 55 painted in the Cape Air livery ) .
+
+328	FALSE	Ryanair:: iata	fr / Irish	
+<p> <strong> Ryanair </strong> ( , , ) is an <a> Irish </a> <a> low-cost airline </a> with its head office at <a> Dublin Airport </a> , and with primary operational bases at Dublin Airport and <a> London Stansted Airport </a> . </p>
+
+329	TRUE	Ryanair:: callsign	ryanair / an	
+<p> <strong> Ryanair </strong> ( , , ) is an <a> Irish </a> <a> low-cost airline </a> with its head office at <a> Dublin Airport </a> , and with primary operational bases at Dublin Airport and <a> London Stansted Airport </a> . </p>
+
+335	FALSE	Ryanair:: icao	ryr / than	
+Flights were scheduled into regional airports , which offered lower landing and handling charges than larger established international airports .
+
+337	TRUE	Ryanair:: airline	ryanair / bases	
+<p> <strong> Ryanair </strong> ( , , ) is an <a> Irish </a> <a> low-cost airline </a> with its head office at <a> Dublin Airport </a> , and with primary operational bases at Dublin Airport and <a> London Stansted Airport </a> . </p>
+
+341	TRUE	Hughes Airwest:: iata	rw / Hughes	
+<p> <strong> Hughes Airwest </strong> was an <a> airline </a> that was backed by <a> Howard Hughes </a> .
+
+342	FALSE	Hughes Airwest:: callsign	hughes-air / Airwest	
+<p> <strong> Hughes Airwest </strong> was an <a> airline </a> that was backed by <a> Howard Hughes </a> .
+
+348	FALSE	Hughes Airwest:: icao	rw / California	
+Its headquarters were on the grounds of <a> San Francisco International Airport </a> in <a> unincorporated </a> <a> San Mateo County </a> , <a> California </a> . </p>
+
+351	FALSE	Horizon Air:: iata	qx / Inc.	
+<p> <strong> Horizon Air Industries , Inc . </strong> ( <a> d/b/a </a> <strong> Horizon Air </strong> ) is a <a> regional </a> <a> low-cost airline </a> based in <a> SeaTac </a> ! It IS SeaTac !
+
+352	TRUE	Horizon Air:: callsign	horizon air / Air	
+<p> <strong> Horizon Air Industries , Inc . </strong> ( <a> d/b/a </a> <strong> Horizon Air </strong> ) is a <a> regional </a> <a> low-cost airline </a> based in <a> SeaTac </a> ! It IS SeaTac !
+
+354	TRUE	Horizon Air:: founded	1981 / 1981	
+Horizon Air was formed in May 1981 by Milt Kuolt , and started operations on September 1 , 1981 with three <a> Fairchild F-27 </a> aircraft .
+
+356	FALSE	Horizon Air:: frequent_flyer	mileage plan / MVP	
+<p> The MVP and MVP Gold program is the frequent flyer service status program and is divided into two membership levels , MVP and MVP Gold based on the member's travel in the last calendar year .
+
+358	TRUE	Horizon Air:: airline	horizon air / It	
+<p> <strong> Horizon Air Industries , Inc . </strong> ( <a> d/b/a </a> <strong> Horizon Air </strong> ) is a <a> regional </a> <a> low-cost airline </a> based in <a> SeaTac </a> ! It IS SeaTac !
+
+361	FALSE	Horizon Air:: destinations	47 / 57	
+Horizon Air operates 57 <a> narrow-body aircraft </a> as of June 2010 , with a single <a> economy class </a> service : </p>
+
+365	FALSE	Alaska Airlines:: destinations	91 / 2010	
+In 2010 , <a> J .
+
+366	TRUE	Alaska Airlines:: iata	as / Washington	
+<p> <strong> Alaska Airlines </strong> , ( ) is an airline based in the <a> Seattle </a> suburb of <a> SeaTac , Washington </a> , United States .
+
+367	TRUE	Alaska Airlines:: callsign	alaska / United	
+<p> <strong> Alaska Airlines </strong> , ( ) is an airline based in the <a> Seattle </a> suburb of <a> SeaTac , Washington </a> , United States .
+
+373	TRUE	Alaska Airlines:: airline	alaska airlines / United	
+<p> <strong> Alaska Airlines </strong> , ( ) is an airline based in the <a> Seattle </a> suburb of <a> SeaTac , Washington </a> , United States .
+
+390	FALSE	CommutAir:: fleet_size	16 / the	
+<p> The CommutAir fleet includes the following aircraft : </p>
+
+392	TRUE	CommutAir:: callsign	commutair / American	
+<p> <strong> Champlain Enterprises , Inc . </strong> , operating name <strong> CommutAir </strong> , is an <a> American </a> <a> regional airline </a> with its headquarters in <a> South Burlington </a> , <a> Vermont </a> and its operations center in <a> North Olmsted </a> , <a> Ohio </a> .
+
+394	TRUE	CommutAir:: founded	1989 / 1989.	
+<p> The airline was established in 1989 and started operations on August 1 , 1989 .
+
+412	TRUE	Ansett Australia:: iata	an / it	
+<p> <strong> Ansett Australia </strong> , <strong> Ansett </strong> , <strong> Ansett Airlines of Australia </strong> , or <strong> ANSETT-ANA </strong> as it was commonly known in earlier years , was a major <a> Australia </a> n <a> airline </a> group , based in <a> Melbourne </a> , <a> Australia </a> , flying domestically within <a> Australia </a> and to destinations in Asia at its height in 1996 .
+
+413	TRUE	Ansett Australia:: callsign	ansett / Asia	
+<p> <strong> Ansett Australia </strong> , <strong> Ansett </strong> , <strong> Ansett Airlines of Australia </strong> , or <strong> ANSETT-ANA </strong> as it was commonly known in earlier years , was a major <a> Australia </a> n <a> airline </a> group , based in <a> Melbourne </a> , <a> Australia </a> , flying domestically within <a> Australia </a> and to destinations in Asia at its height in 1996 .
+
+419	FALSE	Ansett Australia:: destinations	88 / 2001	
+A320 aircraft at [[Melbourne Airport]] after the airline's last flight in 2002]] The Ansett Australia fleet as of September 13 , 2001 ( last day of trading ) was made up of the following aircraft : </p>
+
+421	TRUE	Ansett Australia:: airline	ansett australia / destinations	
+<p> <strong> Ansett Australia </strong> , <strong> Ansett </strong> , <strong> Ansett Airlines of Australia </strong> , or <strong> ANSETT-ANA </strong> as it was commonly known in earlier years , was a major <a> Australia </a> n <a> airline </a> group , based in <a> Melbourne </a> , <a> Australia </a> , flying domestically within <a> Australia </a> and to destinations in Asia at its height in 1996 .
+
+423	FALSE	Arrow Air:: fleet_size	7 / 2009 ) :	
+<p> The Arrow Cargo fleet includes the following aircraft ( at 01 Aug 2009 ) : </p>
+
+427	FALSE	Arrow Air:: founded	1947 / 3	
+The carrier established its base at Torrance Municipal Airport , <a> Lomita , California </a> , from where it operated <a> Douglas DC-3 </a> 's on passenger and cargo services within the State .
+
+430	FALSE	Arrow Air:: ceased	2010 / 1981	
+<p> On May 26 , 1981 , Arrow Air relaunched as a charter airline under Miami's Batchelor Enterprises , whose aviation operations included fixed-base operator ( FBO ) Batch Air and International Air Leases , Inc . , Arrow's parent company .
+
+434	TRUE	BMI (airline):: logo_size	200 / 2010.	
+<p> As a result of a restructuring of mainline operations announced in November 2009 , in which BMI will suspend loss making routes and adjust capacity across the group , nine aircraft will be withdrawn from the airline's fleet in 2010 . </p>
+
+435	FALSE	BMI (airline):: fleet_size	28 / 2010	
+Shortly thereafter in November 2009 , and following a due diligence exercise by Lufthansa , the airline announced a restructuring , suspending seven routes from 2010 and reducing the fleet by nine aircraft . </p>
+
+436	FALSE	BMI (airline):: destinations	31 / 2010.	
+The measures include a fleet reduction of nine aircraft from the mainline fleet ( two of which are operated by BMI Regional ) and the suspension of routes from London Heathrow to Amsterdam , Brussels , Tel Aviv , Kiev and Aleppo in 2010 .
+
+437	FALSE	BMI (airline):: iata	bd / at	
+<p> <strong> British Midland Airways Limited </strong> ( styled as <strong> bmi </strong> , <strong> British Midland International </strong> ) , is an <a> airline </a> based at <a> Donington Hall </a> in <a> Castle Donington </a> , <a> England </a> , <a> United Kingdom </a> , close to <a> East Midlands Airport </a> , and a fully owned <a> subsidiary </a> of <a> Lufthansa </a> .
+
+440	FALSE	BMI (airline):: frequent_flyer	diamond club / Blue Plus	
+<h4> Blue Plus membership </h4>
+
+444	TRUE	BMI (airline):: airline	bmi / Lufthansa	
+<p> <strong> British Midland Airways Limited </strong> ( styled as <strong> bmi </strong> , <strong> British Midland International </strong> ) , is an <a> airline </a> based at <a> Donington Hall </a> in <a> Castle Donington </a> , <a> England </a> , <a> United Kingdom </a> , close to <a> East Midlands Airport </a> , and a fully owned <a> subsidiary </a> of <a> Lufthansa </a> .
+
+445	FALSE	BMI (airline):: icao	bma / a	
+The airline flies to destinations in <a> Europe </a> , the <a> Middle East </a> , <a> Africa </a> and <a> Central Asia </a> from its operational base at <a> London Heathrow Airport </a> , where it holds 11% of all take off and landing slots and operates over 2 , 000 flights a week .
+
+447	TRUE	BMI (airline):: callsign	midland / Lufthansa	
+<p> <strong> British Midland Airways Limited </strong> ( styled as <strong> bmi </strong> , <strong> British Midland International </strong> ) , is an <a> airline </a> based at <a> Donington Hall </a> in <a> Castle Donington </a> , <a> England </a> , <a> United Kingdom </a> , close to <a> East Midlands Airport </a> , and a fully owned <a> subsidiary </a> of <a> Lufthansa </a> .
+
+449	FALSE	Canadian Airlines:: fleet_size	163 / 2001.	
+The airline and its aircraft were acquired by <a> Air Canada </a> in 2001 . </p>
+
+451	FALSE	Canadian Airlines:: iata	cp / Canada	
+<p> <strong> Canadian Airlines </strong> operated the largest tour operator in <a> Canada </a> called <a> Canadian Holidays </a> and the <strong> Canadian Getaways </strong> program .
+
+452	TRUE	Canadian Airlines:: callsign	canadian / Canadian	
+<p> <strong> Canadian Airlines </strong> operated the largest tour operator in <a> Canada </a> called <a> Canadian Holidays </a> and the <strong> Canadian Getaways </strong> program .
+
+453	FALSE	Canadian Airlines:: parent	canadian airlines corporation / Food	
+<p> Food from flights within <a> Canada </a> were provided by <a> LSG Sky Chefs </a> and all other flights by local contractors . </p>
+
+465	FALSE	Biman Bangladesh Airlines:: destinations	16 / 17	
+<p> Biman Bangladesh Airlines fleet includes the following aircraft ( as of 17 June 2010 ) : </p>
+
+466	FALSE	Biman Bangladesh Airlines:: iata	bg / do	
+<p> <strong> Biman Bangladesh Airlines </strong> ( ! Please do not change the Bengali text .
+
+467	TRUE	Biman Bangladesh Airlines:: callsign	bangladesh / do	
+<p> <strong> Biman Bangladesh Airlines </strong> ( ! Please do not change the Bengali text .
+
+469	FALSE	Biman Bangladesh Airlines:: founded	1972 / supplying	
+It is one of Biman's profitable operations , supplying food to <a> British Airways </a> , <a> Qatar Airways </a> , <a> Dragonair </a> , <a> Uzbekistan Airways </a> , and <a> Iran Air </a> , along with casual orders from other airlines operating into Bangladesh .
+
+478	FALSE	AirAsia:: iata	ak / AirAsia	
+<p> <strong> AirAsia Berhad </strong> ( ) is a <a> Malaysia </a> -based <a> low-cost airline </a> .
+
+481	TRUE	AirAsia:: founded	1993 / 1996.	
+<p> AirAsia was established in 1993 and commenced operations on 18 November 1996 .
+
+489	TRUE	AirAsia:: logo_size	200 / 50	
+The airline made its latest order of 25 firm orders on 25 November 2007 , bringing its total orders of Airbus aircraft to 175 with 50 on option . </p>
+
+505	FALSE	Independence Air:: destinations	37 / 2006	
+<p> On March 10 , 2006 , <a> Northwest Airlines </a> bought the operating certificate of Independence Air for $2 million to establish a new regional airline .
+
+507	TRUE	Independence Air:: callsign	independence / Air	
+<p> <strong> Independence Air </strong> was a <a> low-cost airline </a> , owned by <a> FLYi , Inc . </a> , headquartered in <a> Dulles </a> , <a> unincorporated </a> <a> Loudoun County , Virginia </a> , <a> United States </a> ( near <a> Washington , D . C . </a> ) that operated from 1989 until 2006 .
+
+513	TRUE	Independence Air:: airline	independence air / until	
+<p> <strong> Independence Air </strong> was a <a> low-cost airline </a> , owned by <a> FLYi , Inc . </a> , headquartered in <a> Dulles </a> , <a> unincorporated </a> <a> Loudoun County , Virginia </a> , <a> United States </a> ( near <a> Washington , D . C . </a> ) that operated from 1989 until 2006 .
+
+514	FALSE	Independence Air:: icao	ide / Paul	
+The first flight route would be a twice daily service between <a> Washington Dulles International Airport </a> and <a> Minneapolis-Saint Paul International Airport </a> beginning in early June 2006 . </p>
+
+515	FALSE	Independence Air:: ceased	january 5, 2006 / 2006.	
+<p> <strong> Independence Air </strong> was a <a> low-cost airline </a> , owned by <a> FLYi , Inc . </a> , headquartered in <a> Dulles </a> , <a> unincorporated </a> <a> Loudoun County , Virginia </a> , <a> United States </a> ( near <a> Washington , D . C . </a> ) that operated from 1989 until 2006 .
+
+523	FALSE	Continental Express:: founded	1986 / 1985	
+New York Air began operations in 1980 between Boston , New York/LaGuardia , and Washington/National , while Continental West started in 1985 , operating an hourly shuttle between Los Angeles and San Jose .
+
+527	TRUE	Continental Express:: airline	continental express / Continental Airlines	
+<p> <strong> Continental Express </strong> is the operating <a> brand </a> name used by a number of independently owned <a> regional airline </a> s providing regional jet feeder service under agreement with <a> Continental Airlines </a> .
+
+540	FALSE	Continental Micronesia:: airline	continental micronesia / Air	
+The airline was established by Continental and other regional shareholders in the former <a> U . S . Trust Territory </a> and started operations on May 16 , <a> 1968 </a> as <strong> Air Micronesia </strong> , hence the nickname and callsign &quot;Air Mike&quot; .
+
+550	TRUE	O'Connor Airlines:: founded	1973 / 1973.	
+<p> The airline was established and started operations in 1973 .
+
+560	FALSE	America West Express:: logo_size	200 / 1985.	
+The name &quot;America West Express&quot; was taken from the old America West Airlines cargo service which had begun in 1985 .
+
+572	FALSE	America West Express:: icao	ash / California	
+<p> <a> Mesa Airlines </a> operated America West Express from hubs at <a> Sky Harbor International Airport </a> in <a> Phoenix , Arizona </a> , <a> McCarran International Airport </a> in <a> Las Vegas , Nevada </a> , and <a> Los Angeles International Airport </a> in <a> Los Angeles , California </a> to regional destinations .
+

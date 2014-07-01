@@ -1,0 +1,45 @@
+Found: 17
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 1
+recall: 0.0
+
+
+
+#	NEW	birthdate	........ / After marriage , he moved to <a> Lewisville , Texas </a> , and later to	// <p> After marriage , he moved to <a> Lewisville , Texas </a> , and later to <a> Killeen </a> , where he started several companies to serve local military families .
+
+#	NEW	birthdate	........ / May 1921 &ndash ; 29 January 1996 )	// <p> <strong> Jacobus Johannes Uys </strong> ( 30 May 1921 &ndash ; 29 January 1996 ) , better known as <strong> Jamie Uys </strong> , was a <a> South Africa </a> n film director . </p>
+
+#	NEW	birthdate	........ / 28 , 1921 )	// <p> <strong> Saul Zaentz </strong> ( ; born February 28 , 1921 ) is an American <a> film producer </a> and former record company executive .
+
+#	NEW	birthdate	........ / May 1997 , she began claiming her date of birth as 1979	// In May 1997 , she began claiming her date of birth as 1979 in order to be considered for acting roles .
+
+#	NEW	birthdate	........ / 27 , 1963 )	// <p> <strong> Fisher Stevens </strong> ( born November 27 , 1963 ) is an <a> American </a> actor and producer .
+
+#	NEW	birthdate	........ / 21 June 1964 )	// <p> <strong> David Mark Morrissey </strong> ( born 21 June 1964 ) is an English actor and director .
+
+#	NEW	birthdate	........ / Australian Television Society Nomination for Best Actor 1990 &	// <p> Australian Television Society Nomination for Best Actor 1990 &quot ; Neighbours&quot ; ( Joe Mangel ) </p>
+
+#	NEW	birthdate	........ / on November 3 , 1952 )	// <p> <strong> Jim Cummings </strong> ( born <strong> James Jonah Cummings </strong> on November 3 , 1952 ) is an <a> American </a> <a> voice-actor </a> . </p>
+
+#	NEW	birthdate	........ / 19 , 1969 )	// <p> <strong> Connor Trinneer </strong> ( born March 19 , 1969 ) is an <a> American </a> film , stage and television actor .
+
+#	NEW	birthdate	........ / As of October 2009 , Hill has made several contributions to political candidates , exclusively to	// <p> As of October 2009 , Hill has made several contributions to political candidates , exclusively to <a> Democrats </a> .
+
+#	NEW	birthdate	........ / 25 , 1968 )	// <p> <strong> Rachael Domenica Ray </strong> ( born August 25 , 1968 ) is an American television personality , celebrity chef and author .
+
+#	NEW	birthdate	........ / One of his roles was that of Dr . John Gideon during the final season of the television medical drama	// <p> One of his roles was that of Dr . John Gideon during the final season of the television medical drama <a> St .
+
+#	NEW	birthdate	........ / on Sunday , June 13 , 2010	// <p> Hayes was host of the <a> 64th Annual Tony Awards </a> on Sunday , June 13 , 2010 on CBS . </p>
+
+#	NEW	birthdate	........ / 2 , 1911 &	// <p> <strong> Ann Dvorak </strong> ( August 2 , 1911 &ndash ; December 10 , 1979 ) was an American film actress . </p>
+
+#	NEW	birthdate	........ / Lauren Barber , with whom he has two further sons , Milo Wolf , born in 2004 , and Kit , born in 2009 .	// In 2003 , Kemp married <a> costume designer </a> Lauren Barber , with whom he has two further sons , Milo Wolf , born in 2004 , and Kit , born in 2009 . </p>
+
+#	NEW	birthdate	........ / April 17 , 2007 )	// <p> <strong> Kitty Carlisle </strong> ( also billed as <strong> Kitty Carlisle Hart </strong> ; September 3 , 1910 &#x2013 ; April 17 , 2007 ) was an American singer , actress and spokeswoman for the arts .
+
+#	NEW	birthdate	........ / Looking Great : Fashion Authority and Television Star Linda Dano Shares Her Style and Beauty Secrets to Help You Look Your Best	// <em> Looking Great : Fashion Authority and Television Star Linda Dano Shares Her Style and Beauty Secrets to Help You Look Your Best </em> .
+
+#	null	birthdate	1919 / ..........
+

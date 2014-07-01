@@ -1,0 +1,48 @@
+Found: 20
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	birthplace	........ / as Frankie Warner .	// <p> Marcus Chong ' s acting debut was in <strong> <em> ' as Frankie Warner .
+
+#	NEW	birthplace	........ / was an American	// <p> <strong> Thelma &quot ; Butterfly&quot ; McQueen </strong> ( January 7 , 1911 &ndash ; December 22 , 1995 ) was an American actress .
+
+#	NEW	birthplace	........ / is an American	// <p> <strong> Mark-Paul Harry Gosselaar </strong> ( born March 1 , 1974 ) is an American <a> actor </a> .
+
+#	NEW	birthplace	........ / Battle Stations ( 1956 ) - Buck	// <p> 32 &#x0009 ; Battle Stations ( 1956 ) - Buck Fitzpatrick </p>
+
+#	NEW	birthplace	........ / quot ; American Carol&	// <p> Her recent film credits include &quot ; Get Smart&quot ; and &quot ; American Carol&quot ; .
+
+#	NEW	birthplace	........ / played supporting roles .	// <p> <strong> Susan Blakely </strong> ( born September 7 , 1948 ) is an American film actress who has mainly played supporting roles . </p>
+
+#	NEW	birthplace	........ / Lane celebrated his	// On January 26 , 2007 , Lane celebrated his 102nd birthday .
+
+#	NEW	birthplace	........ / had five children .	// <p> He married Martha Louise Montgomery ( born December 5 , 1920 , Clarksdale , Mississippi - died May 9 , 2005 , Pacific Palisades , California ) , a former actress and Goldwyn Girl ; they had five children . </p>
+
+#	NEW	birthplace	........ / in a comedy	// This role won Wyatt three <a> Emmy Award </a> s for best actress in a comedy series .
+
+#	NEW	birthplace	........ / Best Supporting Actor	// Paymer was nominated for an <a> Academy Award for Best Supporting Actor </a> in 1992 for <em> <a> Mr .
+
+#	NEW	birthplace	........ / is an American	// <p> <strong> Anne Jacqueline Hathaway </strong> ( born November 12 , 1982 ) is an American actress .
+
+#	NEW	birthplace	........ / Jose , California	// <p> Diamond was born on January 7 , 1977 , in <a> San Jose , California </a> . </p>
+
+#	NEW	birthplace	........ / is an Australian	// <p> <strong> Sigrid Thornton </strong> ( born 12 February 1959 ) is an Australian <a> actress </a> . </p>
+
+#	NEW	birthplace	........ / movies , and	// She has gone on to star in many TV shows , movies , and commercials . </p>
+
+#	NEW	birthplace	........ / Brigadas Internacionales& quot ;	// <p> <strong> From &quot ; Canciones de las Brigadas Internacionales&quot ; </strong> and <strong> &quot ; Solidarit&#x00e4 ; t&quot ; </strong> </p>
+
+#	NEW	birthplace	........ / and television actress	// <p> <strong> Ann Sothern </strong> ( January 22 , 1909 &ndash ; March 15 , 2001 ) was an American <a> film and television actress </a> with a career spanning six decades . </p>
+
+#	NEW	birthplace	........ / and film actor .	// <p> <strong> Robert Preston </strong> ( June 8 , 1918 &ndash ; March 21 , 1987 ) was an <a> American </a> stage and film actor . </p>
+
+#	NEW	birthplace	........ / and varied musical	// As a child , he exhibited strong and varied musical talents .
+
+#	NEW	birthplace	........ / Harvey , a	// <p> Harvey was born in <a> Welch , West Virginia </a> , the son of Eloise and Jesse Harvey , a coal miner .
+
+#	NEW	birthplace	........ / was a Japanese	// <p> <strong> Ken Ogata </strong> ( &#x7dd2 ; &#x5f62 ; &#x62f3 ; <em> Ogata Ken </em> , 20 July 1937-5 October 2008 ) was a Japanese <a> actor </a> .
+

@@ -1,0 +1,42 @@
+Total articles: 312
+Articles for test: 281
+Articles for train: 31
+Total attributes: 64
+Attributes with high occurrences: 5/64
+
+------------
+Found: 74
+Found Not Null: 25
+Correct: 8
+Wrong: 17
+Total: 26
+precision: 0.32
+recall: 0.3076923076923077
+
+
+
+2	FALSE	Leo McKern:: birth_name	reginald mckern / McKern' s final acting appearances came	// <p> McKern's final acting appearances came in the film <strong> <em> ' ( 1999 ) and on stage in 2000 . </em> </strong> </p>
+6	FALSE	Esai Morales:: birth_name	esai manuel morales, jr. / was also cast	// He was also cast in the film <em> <a> American Fusion </a> </em> , and on June 19 , 2006 , he joined the cast of Fox's series <em> <a> Vanished </a> </em> , as <a> FBI </a> agent Michael Tyner alongside actors <a> Gale Harold </a> and <a> Ming-Na </a> .
+8	TRUE	Lillie Langtry:: birth_name	emilie charlotte le breton / Emilie Charlotte Le Breton	// <p> <strong> Lillie Langtry </strong> ( 13 October 1853 &#x2013; 12 February 1929 ) , born <strong> Emilie Charlotte Le Breton </strong> , was a <a> British </a> <a> actress </a> born on the island of <a> Jersey </a> .
+9	FALSE	Lillie Langtry:: occupation	actress / Academy	// The painting caused great interest when exhibited at the <a> Royal Academy </a> .
+12	FALSE	Alicia Silverstone:: occupation	actress / Awards	// However she also won a Blimp Award at the <a> Kid's Choice Awards </a> for the role .
+14	FALSE	Gracie Allen:: birth_name	grace ethel cecile rosalie allen / also made two films with	// They also made two films with <a> W .
+17	FALSE	Debbie Reynolds:: birth_name	mary frances reynolds / who was an	// <p> <strong> Debbie Reynolds </strong> ( born April 1 , 1932 ) is an <a> American </a> <a> actress </a> , <a> singer </a> , and <a> dancer </a> who was an <a> MGM </a> contract star .
+19	TRUE	Lukas Moodysson:: birth_name	karl frederik lukas moodysson / Karl Frederik Lukas Moodysson	// <p> <strong> Karl Frederik Lukas Moodysson </strong> ( ) ( born 17 January 1969 ) is a <a> Swedish </a> <a> film writer </a> and <a> director </a> . </p>
+21	FALSE	Yves Montand:: birth_name	ivo livi / French actor and singer.	// <p> <strong> Yves Montand </strong> ( ; 13 October 1921 &ndash; 9 November 1991 ) was an Italian-born French actor and singer . </p>
+37	FALSE	M. Night Shyamalan:: birth_name	manoj nelliyattu shyamalan / parents were the	// His parents were the film's <a> associate producers </a> .
+39	FALSE	Katy Jurado:: occupation	actress / Academy	// In 1954 she replaced Dolores del R&#x00ed;o in the film <em> <a> Broken Lance </a> </em> ( for which she received an <a> Academy Award </a> nomination ) .
+40	TRUE	Kevin Sorbo:: birth_name	kevin david sorbo / David Sorbo	// <p> <strong> Kevin David Sorbo </strong> ( born September 24 , 1958 ) is an <a> American </a> <a> actor </a> best known for the roles of <a> Hercules </a> in <strong> <em> ' and Captain <a> Dylan Hunt </a> in </em> <a> Andromeda </a> <em> . </em> </strong> </p>
+41	FALSE	Kevin Sorbo:: occupation	actor / film	// In between the years playing <em> Hercules </em> , he played his first leading film role in <em> <a> Kull the Conqueror </a> </em> ( 1997 ) . </p>
+43	TRUE	James Mason:: birth_name	james neville mason / James Neville Mason	// <p> <strong> James Neville Mason </strong> ( 15 May 1909 &#x2013; 27 July 1984 ) was an English actor who attained stardom in both British and American films .
+44	FALSE	James Mason:: occupation	actor / Globe	// Mason remained a powerful figure in the industry throughout his career and was nominated for three <a> Academy Award </a> s as well as three <a> Golden Globe </a> s ( winning once ) . </p>
+46	FALSE	Michael Moore:: birth_name	michael francis moore / film premiered at	// The film premiered at the <a> Cannes Film Festival </a> on 19 May 2007 , receiving a lengthy standing ovation , and was released in the U . S . and Canada on 29 June 2007 .
+50	TRUE	Ricardo Montalbán:: occupation	actor / in	// He won an [[Emmy Award]] in 1978 , and a <em> Lifetime Achievement Award </em> from the [[Screen Actors Guild]] in 1993 .
+52	FALSE	Ronnie Barker:: birth_name	ronald william george barker / In 1969 Barker	// <p> In 1969 Barker was able to produce the film <em> <a> Futtocks End </a> </em> which featured no dialogue and only &quot;grumble[s] and grunt[s]&quot;; Barker played General Futtock in the film and also wrote it . </p>
+55	FALSE	Kevin Smith (New Zealand actor):: birth_name	kevin tod smith / he won the 1995 New Zealand Film and Television Award for Best Supporting	// For this role , he won the 1995 New Zealand Film and Television Award for Best Supporting Actor .
+59	FALSE	Rose Hobart:: occupation	actress / Film	// <p> Her first film role was the part of Julie in the first talking picture version of <a> Ferenc Moln&#x00e1;r </a> 's <em> <a> Liliom </a> </em> , made by <a> Fox Film Corporation </a> in 1930 , starring <a> Charles Farrell </a> in the title role , and directed by <a> Frank Borzage </a> .
+66	FALSE	Natalie Wood:: birth_name	natalia nikolaevna zakharenko / She appeared in 56 films for cinema	// <p> She appeared in 56 films for cinema and television .
+67	TRUE	Natalie Wood:: occupation	actress / Actress	// She was nominated for an <a> Academy Award for Best Supporting Actress </a> .
+69	FALSE	Gregory Peck:: birth_name	eldred gregory peck / was an American	// <p> <strong> Gregory Peck </strong> ( April 5 , 1916 &ndash; June 12 , 2003 ) was an American <a> actor </a> . </p>
+70	TRUE	Gregory Peck:: occupation	actor / Actor	// He won the <a> Academy Award for Best Actor </a> for his role as Atticus Finch in the 1962 film <em> <a> To Kill a Mockingbird </a> </em> .
+73	TRUE	James Doohan:: occupation	actor / actor	// <p> <strong> James Montgomery &quot;Jimmy&quot; Doohan </strong> ( March 3 , 1920 &ndash; July 20 , 2005 ) was an <a> Irish-Canadian </a> <a> character </a> and <a> voice actor </a> best known for his role as <a> Montgomery &quot;Scotty&quot; Scott </a> in the <a> television </a> and <a> film </a> series <em> <a> Star Trek </a> </em> .

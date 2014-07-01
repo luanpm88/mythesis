@@ -1,8 +1,0 @@
-Three faculties (Faculty of Engineering, Faculty of Arts and Sciences, Faculty of Economic and Administrative Sciences) and two institutes (Institute of Science and Engineering and Institute of Social Sciences) are located in &#x015e;ile Campus.</p>
-<li>Faculty of Arts and Sciences
-<li>Faculty of Economic and Administrative Sciences
-<li>Department of Political Sciences</li>
-<li>Faculty of Fine Arts
-<li>Department of Graphic Arts and Graphical Design</li>
-<li>Department of Visual Arts</li>
-<li>Institute of Social Sciences

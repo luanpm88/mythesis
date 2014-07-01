@@ -1,0 +1,38 @@
+Found: 15
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	headquarters	........ / Airlines	// On January 23 , 2010 , the airline was renamed <strong> Chengdu Airlines </strong> . </p>
+
+#	NEW	headquarters	........ / Sydney	// Eastern Australia DHC-8-201 at rest at the Sydney main base .
+
+#	NEW	headquarters	........ / Domestic	// <p> <strong> Domestic </strong> </p>
+
+#	NEW	headquarters	........ / Emirates	// <p> <strong> Dolphin Air </strong> is a <a> charter airline </a> based in <a> Dubai </a> , <a> United Arab Emirates </a> .
+
+#	NEW	headquarters	........ / Barcelona	// Its base was <a> Barcelona International Airport </a> . </p>
+
+#	NEW	headquarters	........ / ,	// The airline provided domestic on-demand charter passenger and cargo air service between <a> Pago Pago </a> , <a> Ofu </a> and <a> Tau </a> . br
+
+#	NEW	headquarters	........ / Riga	// Founded in 1991 , it operated regional and international charter flights out of <a> Riga International Airport </a> between 1995 and 2005 . </p>
+
+#	NEW	headquarters	........ / Airlines	// It was originally incorporated as <strong> Africa Air </strong> in March 2002 , but the name was changed to East African Airlines on 17 May 2002 .
+
+#	NEW	headquarters	........ / Limited .	// The helicopters are flown using the Air Operators Certificate of Oxford Air Services Limited . </p>
+
+#	NEW	headquarters	........ / operations	// <p> The airline was established on 9 February 2000 and started operations on 2 November 2000 .
+
+#	NEW	headquarters	........ / Austria	// <p> <strong> Fairline </strong> was a regional <a> airline </a> based in <a> Austria </a> .
+
+#	NEW	headquarters	........ / ,	// <p> <strong> Georgian Cargo Airlines Africa </strong> was a <a> cargo airline </a> based in <a> Dakar </a> , <a> Senegal </a> .
+
+#	NEW	headquarters	........ / February	// <p> The Guinea Ecuatorial Airlines fleet includes the following aircraft ( at February 2008 ) : </p>
+
+#	NEW	headquarters	........ / collapse	// It was a private airline operating international scheduled and charter passenger services from 1995 until its collapse on 23 November 2009 .
+
+#	NEW	headquarters	........ / Riga	// Its main base is <a> Riga International Airport </a> . </p>
+

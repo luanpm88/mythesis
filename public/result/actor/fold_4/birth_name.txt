@@ -1,0 +1,82 @@
+Found: 31
+Found Not Null: 10
+Correct: 6
+Wrong: 4
+Total: 10
+precision: 0.6
+recall: 0.6
+
+
+
+#	NEW	birth_name	........ / and director of	// <p> <strong> John Braden </strong> ( April 18 , 1949 - May 22 , 2004 ) was a writer , producer , and director of <a> motion pictures </a> and <a> television </a> programs , as well as a public advocate against drugs in the movie industry .
+
+#	NEW	birth_name	........ / 1955 ) is a	// <p> <strong> Darnell Williams </strong> ( born March 3 , 1955 ) is a <a> British-born </a> <a> soap opera </a> <a> actor </a> .
+
+#	NEW	birth_name	........ / the most prominent	// <p> Gould was one of the most prominent <a> American </a> film <a> actor </a> s in the early-1970s , best known for playing <a> Trapper John </a> in <a> Robert Altman </a> ' s satirical <a> 1970 film </a> <em> <a> MASH </a> </em> . <em> <a> Time </a> </em> magazine placed him on one of its covers in 1970 , when he was at the brief height of his long career , calling him a &quot ; star for an uptight age&quot ; .
+
+3	TRUE	Jamie Uys::birth_name	jacobus johannes uys / Jacobus Johannes Uys	
+<p> <strong> Jacobus Johannes Uys </strong> ( 30 May 1921 &ndash ; 29 January 1996 ) , better known as <strong> Jamie Uys </strong> , was a <a> South Africa </a> n film director . </p>
+
+#	NEW	birth_name	........ / is an American	// <p> <strong> Saul Zaentz </strong> ( ; born February 28 , 1921 ) is an American <a> film producer </a> and former record company executive .
+
+#	NEW	birth_name	........ / Frank Spencer Sutton	// <p> <strong> Frank Spencer Sutton </strong> ( October 23 , 1923&#x2014 ; June 28 , 1974 ) was an <a> American </a> actor best remembered for his role of <a> Gunnery Sergeant Vince Carter </a> on the <a> CBS </a> <a> television </a> series <em> <a> Gomer Pyle , U . S . M . C . </a> </em> </p>
+
+#	NEW	birth_name	........ / Weston had bit film and television roles as a young girl , including the 1980s sitcoms	// <p> Weston had bit film and television roles as a young girl , including the 1980s sitcoms <em> <a> Growing Pains </a> </em> and <em> <a> Who ' s the Boss ? </a> </em> .
+
+#	NEW	birth_name	........ / 1929 ) is an	// <p> <strong> Joseph Mascolo </strong> ( born March 13 , 1929 ) is an <a> American </a> <a> musician </a> and dramatic <a> actor </a> .
+
+8	FALSE	Fisher Stevens::birth_name	steven fisher / 1963 ) is an	
+<p> <strong> Fisher Stevens </strong> ( born November 27 , 1963 ) is an <a> American </a> actor and producer .
+
+#	NEW	birth_name	........ / David Mark Morrissey	// <p> <strong> David Mark Morrissey </strong> ( born 21 June 1964 ) is an English actor and director .
+
+#	NEW	birth_name	........ / Mark Little	// <p> <strong> Mark Little </strong> ( born October 20 , 1959 ) , is an <a> Australia </a> n actor , television presenter and comedian , born in a remote part of <a> Queensland </a> . </p>
+
+11	FALSE	Jim Cummings::birth_name	james jonah cummings / the only original	
+<p> Cummings was the only original <em> <a> Teenage Mutant Ninja Turtles </a> </em> voice actor to return for the <a> 2007 film </a> .
+
+#	NEW	birth_name	........ / Amanda has been working as a professional actor and dabbled in sketches and stand-up comedy , with numerous TV appearances and a gold medal win at the 2000 Improv Games	// Since the age of 12 , Amanda has been working as a professional actor and dabbled in sketches and stand-up comedy , with numerous TV appearances and a gold medal win at the 2000 Improv Games in Quebec as a member of the &quot ; 8 People&quot ; troupe .
+
+13	TRUE	Rena Sofer::birth_name	rena sherel sofer / Rena Sherel Sofer	
+<p> <strong> Rena Sherel Sofer </strong> ( born December 2 , 1968 ) is an <a> American </a> <a> actress </a> . </p>
+
+#	NEW	birth_name	........ / the executive director .	// She was the executive director .
+
+#	NEW	birth_name	........ / stage and television	// <p> <strong> Connor Trinneer </strong> ( born March 19 , 1969 ) is an <a> American </a> film , stage and television actor .
+
+#	NEW	birth_name	........ / Hill Harper	// <p> <strong> Francis Harper </strong> ( born May 17 , 1966 ) , known professionally as <strong> Hill Harper </strong> , is an <a> American </a> <a> film </a> , <a> television </a> and <a> stage </a> actor , and author .
+
+17	TRUE	Rachael Ray::birth_name	rachael domenica ray / Rachael Domenica Ray	
+<p> <strong> Rachael Domenica Ray </strong> ( born August 25 , 1968 ) is an American television personality , celebrity chef and author .
+
+18	TRUE	William B. Davis::birth_name	william bruce davis / William Bruce Davis	
+<p> <strong> William Bruce Davis </strong> ( born January 13 , 1938 ) is a <a> Canadian </a> <a> actor </a> , known for his role as <a> The Smoking Man </a> on <em> <a> The X-Files </a> </em> .
+
+#	NEW	birth_name	........ / an actor , known for his debut performance as Drew Ballinger	// <p> As an actor , known for his debut performance as Drew Ballinger in the acclaimed 1972 film <em> <a> Deliverance </a> </em> in which he plays the instrumental &quot ; <a> Dueling Banjos </a> &quot ; on his guitar with a <a> mentally retarded </a> <a> banjo </a> -playing mountain boy named Lonnie , played by child actor <a> Billy Redden </a> .
+
+20	TRUE	David Naughton (actor)::birth_name	david walsh naughton / David Walsh Naughton	
+<p> <strong> David Walsh Naughton </strong> ( born February 13 , 1951 ) is an <a> American </a> <a> actor </a> and <a> singer </a> best known for his starring roles in the 1981 <a> horror film </a> <em> <a> An American Werewolf in London </a> </em> and the 1980 <a> Walt Disney </a> comedy , <em> <a> Midnight Madness </a> </em> . </p>
+
+#	NEW	birth_name	........ / July 1949 ) is a	// <p> <strong> Geoffrey Durham </strong> ( born 22 July 1949 ) is a <a> British </a> comedy <a> magician </a> and actor who was known for many years as ' The Great Soprendo ' . </p>
+
+#	NEW	birth_name	........ / Medford , New York	// <p> <strong> Tricia Cast </strong> ( born November 16 , 1966 in <a> Medford , New York </a> ) is an <a> American </a> <a> actress </a> , best known for her role as <a> Nina Webster </a> on <em> <a> The Young and the Restless </a> </em> . </p>
+
+23	TRUE	Sean Hayes (actor)::birth_name	sean patrick hayes / Sean Patrick Hayes	
+<p> <strong> Sean Patrick Hayes </strong> ( born June 26 , 1970 ) is an American <a> actor </a> and <a> comedian </a> .
+
+24	FALSE	Ann Dvorak::birth_name	anna mckim / an American film actress.	
+<p> <strong> Ann Dvorak </strong> ( August 2 , 1911 &ndash ; December 10 , 1979 ) was an American film actress . </p>
+
+#	NEW	birth_name	........ / Joseph Sweeney	// <p> <strong> Joseph Sweeney </strong> ( <a> Philadelphia </a> , <a> Pennsylvania </a> , July 26 , 1884 &#x2013 ; November 25 , 1963 , <a> New York City </a> ) was an American actor who worked in stage production , television and movies .
+
+#	NEW	birth_name	........ / October 1959 ) is an	// <p> <strong> Gary Kemp </strong> ( born 16 October 1959 ) is an <a> English </a> <a> pop </a> musician and actor who is the <a> guitar </a> player and chief <a> songwriter </a> for the 1980s <a> Synthpop </a> <a> band </a> <a> Spandau Ballet </a> .
+
+27	FALSE	Kitty Carlisle::birth_name	catherine conn / Kitty Carlisle Hart	
+<p> <strong> Kitty Carlisle </strong> ( also billed as <strong> Kitty Carlisle Hart </strong> ; September 3 , 1910 &#x2013 ; April 17 , 2007 ) was an American singer , actress and spokeswoman for the arts .
+
+#	NEW	birth_name	........ / Linda Rae Wildermuth	// <p> <strong> Linda Dano </strong> ( born <strong> Linda Rae Wildermuth </strong> on May 12 , 1943 ) is an <a> American </a> <a> soap opera </a> <a> actress </a> .
+
+#	NEW	birth_name	........ / 1976 ) is an	// <p> <strong> Susan Ward </strong> ( born April 15 , 1976 ) is an <a> American </a> <a> actress </a> and <a> model </a> . </p>
+
+#	NEW	birth_name	........ / an American <a> soap opera	// <p> <strong> Emily McLaughlin </strong> ( December 1 , 1930 - April 26 , 1991 ) was an American <a> soap opera </a> <a> actress </a> .
+

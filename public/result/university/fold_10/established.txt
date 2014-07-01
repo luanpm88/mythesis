@@ -1,0 +1,243 @@
+Found: 113
+Found Not Null: 77
+Correct: 10
+Wrong: 67
+Total: 78
+precision: 0.08849557522123894
+recall: 0.1282051282051282
+
+
+
+3	FALSE	St. John Fisher College::established	1948 / an	
+<a> John Fisher </a> College </strong> is a <a> private </a> <a> liberal arts college </a> located in <a> Pittsford, New York </a> , <a> United States </a> , an eastern suburb of <a> Rochester </a> .
+
+4	FALSE	Simon Fraser University::established	1965 / p>	
+<p> <strong> Board of Governors </strong> </p>
+
+5	FALSE	Seattle University::established	1891 / USA.	
+<p> <strong> Seattle University ( SU ) </strong> is a Jesuit Catholic university located in the <a> First Hill </a> neighborhood of <a> Seattle </a> , <a> Washington </a> , USA.
+
+9	TRUE	University of Washington::established	1861 / a>.	
+<p> The <strong> University of Washington </strong> ( <strong> UW </strong> , commonly called <strong> U-Dub </strong> ) is a public research <a> university </a> , founded in 1861 in <a> Seattle, Washington </a> , <a> United States </a> .
+
+14	FALSE	University of Oslo::established	1811 / the	
+<p> The <strong> University of Oslo </strong> ( ) , is the <a> oldest </a> and largest <a> university in Norway </a> , situated in the Norwegian capital of <a> Oslo </a> .
+
+15	FALSE	University of Sydney::established	1850 / <a>	
+<p> <strong> The University of Sydney </strong> ( informally <strong> Sydney University </strong> or <strong> USyd </strong> ) is a university located in <a> Sydney </a> , <a> Australia </a> .
+
+16	FALSE	University of Southern California::established	1880 / and	
+These other names include <strong> SC </strong> , <strong> Southern California </strong> , and <strong> Southern Cal </strong> .
+
+17	FALSE	KAIST::established	february 16, 1971 / South	
+<p> <strong> KAIST </strong> ( formerly the <strong> Korea Advanced Institute of Science and Technology </strong> ) , is located in <a> Daedeok Science Town </a> , <a> Daejeon </a> , <a> South Korea </a> .
+
+18	FALSE	Millsaps College::established	1890 / a>.	
+<p> <strong> Millsaps College </strong> is a private <a> liberal arts college </a> located in <a> Jackson, Mississippi </a> .
+
+20	FALSE	Occidental College::established	april 20, 1887 / <strong>	
+<p> <strong> <a> Social Sciences </a> </strong> </p>
+
+21	FALSE	Purdue University::established	may 6, 1869 / a>.	
+<p> <strong> Purdue University </strong> , located in <a> West Lafayette </a> , <a> Indiana </a> , <a> U.S. </a> , is the <a> flagship university </a> of the six-campus <a> Purdue University System </a> .
+
+22	FALSE	Princeton University::established	1746 / a>.	
+<p> <strong> Princeton University </strong> is a <a> private </a> <a> research university </a> located in <a> Princeton </a> , <a> New Jersey </a> , <a> United States </a> .
+
+23	FALSE	Reed College::established	1908 / a>.	
+<p> <strong> Reed College </strong> is a <a> private </a> , <a> independent </a> , <a> liberal arts college </a> located in southeast <a> Portland, Oregon </a> .
+
+24	FALSE	Royal Institute of Technology::established	1827 / <a>	
+guarding the entrance to the courtyard]] The <strong> Royal Institute of Technology </strong> ( , abbreviated <strong> KTH </strong> ) is a <a> university </a> in <a> Stockholm </a> , <a> Sweden </a> .
+
+25	TRUE	American Film Institute::established	1967 / 1967	
+<p> The <strong> American Film Institute </strong> is an independent <a> non-profit organization </a> created by the <a> National Endowment for the Arts </a> , which was established in 1967 when President <a> Lyndon B. Johnson </a> signed the National Foundation on the Arts and the Humanities Act.
+
+26	FALSE	Columbia University::established	1754 / the	
+<p> <strong> Columbia University in the City of New York </strong> ( <strong> Columbia University </strong> ) is a private research <a> university </a> in New York City and one of the eight members of the <a> Ivy League </a> .
+
+27	FALSE	George Mason University::established	1957 / and	
+<p> <strong> George Mason University </strong> ( often referred to as <strong> GMU </strong> or <strong> Mason </strong> ) is a <a> public university </a> based in <a> unincorporated </a> <a> Fairfax County </a> , <a> Virginia </a> , <a> United States </a> , south of and adjacent to the city of <a> Fairfax </a> .
+
+28	FALSE	Geneva College::established	1848 / 2007	
+<p> In April 2007, the college reached a settlement with <strong> CareerLink </strong> in U.S. District Court in Pittsburgh.
+
+29	FALSE	Grinnell College::established	1846 / s	
+<p> The school's varsity sports teams are named the <strong> Pioneers </strong> .
+
+31	FALSE	University of Texas at Austin::established	1883 / a>.	
+<p> <strong> The University of Texas at Austin </strong> ( also referred to as the <strong> University of Texas </strong> , <strong> UT </strong> , <strong> UT Austin </strong> , or <strong> Texas </strong> ) is a <a> public </a> <a> research university </a> located in <a> Austin </a> , <a> Texas </a> , <a> United States </a> , and is the <a> flagship </a> institution of <a> The University of Texas System </a> .
+
+32	FALSE	University of Tulsa::established	1894 / USA.	
+<p> The <strong> University of Tulsa </strong> ( <strong> TU </strong> ) is a <a> private university </a> awarding bachelor's, master's, and doctoral degrees located in <a> Tulsa, Oklahoma </a> , USA.
+
+33	FALSE	University of Sussex::established	1961 / <a>	
+<p> The <strong> University of Sussex </strong> is an English <a> campus university </a> situated next to the <a> East Sussex </a> village of <a> Falmer </a> , within the city of <a> Brighton and Hove </a> .
+
+34	FALSE	Utrecht University::established	1636 / <a>	
+<p> <strong> Utrecht University </strong> ( <em> Universiteit Utrecht </em> in <a> Dutch </a> ) is a <a> university </a> in <a> Utrecht </a> , <a> Netherlands </a> .
+
+36	FALSE	University of New Brunswick::established	1785 / New	
+<p> The <strong> University of New Brunswick </strong> ( <strong> UNB </strong> ) is a Canadian university located in the province of <a> New Brunswick </a> .
+
+38	FALSE	University of Prince Edward Island::established	1969 / and	
+<p> The <strong> University of Prince Edward Island </strong> ( <strong> UPEI </strong> ) is a <a> public </a> <a> liberal arts </a> university in <a> Charlottetown </a> , <a> Prince Edward Island </a> , <a> Canada </a> , and the sole university in the province.
+
+41	FALSE	Crandall University::established	1949 / a>.	
+<p> <strong> Crandall University </strong> is a small <a> Liberal Arts </a> university located in <a> Moncton, New Brunswick </a> , <a> Canada </a> .
+
+42	FALSE	Brown University::established	1764 / Rhode	
+<p> <strong> Brown University </strong> is a <a> private </a> <a> Ivy League </a> <a> university </a> located in <a> Providence, Rhode Island </a> .
+
+43	FALSE	Barnard College::established	1889 / and	
+<p> <strong> Barnard College </strong> is an independently incorporated <a> women's </a> <a> liberal arts college </a> , an official college of <a> Columbia University </a> , and a member of the <a> Seven Sisters </a> .
+
+44	FALSE	Bob Jones University::established	1927 / South	
+<p> ! article starts here <strong> Bob Jones University </strong> ( <strong> BJU </strong> ) is a <a> private </a> , non-denominational <a> Protestant </a> university in <a> Greenville </a> , <a> South Carolina </a> .
+
+45	FALSE	Chalmers University of Technology::established	1829 / natural	
+<p> <strong> Chalmers University of Technology </strong> ( , often shortened to <strong> Chalmers </strong> ) , is a <a> university </a> in <a> Gothenburg </a> , <a> Sweden </a> , that focuses on research and education in technology, natural science and architecture.
+
+46	FALSE	California Institute of Technology::established	1891 / 1921.	
+The school was known successively as <strong> Throop University </strong> , <strong> Throop Polytechnic Institute </strong> , and <strong> Throop College of Technology </strong> , before acquiring its current name in 1921. </p>
+
+48	FALSE	Drexel University::established	1891 / a>.	
+<p> <strong> Drexel University </strong> is a <a> private </a> <a> coeducation </a> al <a> university </a> with the main campus located in the <a> University City </a> area within <a> Philadelphia </a> , <a> Pennsylvania </a> , <a> United States </a> .
+
+50	FALSE	Dalhousie University::established	1818 / a>.	
+<p> <strong> Dalhousie University </strong> is a <a> university </a> located in <a> Halifax </a> , <a> Nova Scotia </a> , <a> Canada </a> .
+
+53	FALSE	Victoria University of Wellington::established	1897 / p>	
+<p> <strong> Collections </strong> </p>
+
+54	FALSE	Wabash College::established	1832 / p>	
+<p> <strong> Miscellaneous </strong> </p>
+
+55	FALSE	Williams College::established	1793 / a>.	
+<p> <strong> Williams College </strong> is a private <a> liberal arts college </a> located in <a> Williamstown </a> , <a> Massachusetts </a> , <a> United States </a> .
+
+56	TRUE	Yale University::established	1701 / a>.	
+creating Collegiate School, which became <a> Yale College </a> , 9 October 1701]] <strong> Yale University </strong> is a <a> private </a> <a> Ivy League </a> <a> university </a> located in <a> New Haven, Connecticut </a> .
+
+57	FALSE	York University::established	1959 / a>.	
+<p> <strong> York University </strong> ( ) is a <a> public </a> <a> research university </a> in <a> Toronto </a> , <a> Ontario </a> , <a> Canada </a> .
+
+58	FALSE	Columbia Business School::established	1916 / a>.	
+<p> <strong> Columbia Business School </strong> ( <strong> CBS </strong> ) is the <a> business school </a> of <a> Columbia University </a> in <a> Manhattan </a> , <a> New York City </a> .
+
+59	FALSE	Indian Institute of Science::established	1909 / a>.	
+<p> The <strong> Indian Institute of Science </strong> ( <strong> IISc </strong> ) is a research institution of higher learning located in <a> Bangalore </a> , <a> India </a> .
+
+60	FALSE	University of Glasgow::established	1451 / is	
+<p> The <strong> University of Glasgow </strong> is the <a> fourth-oldest university </a> in the <a> English-speaking world </a> and one of Scotland's four <a> ancient universities </a> .
+
+61	FALSE	Macquarie University::established	1964 / 1989	
+<p> <strong> Access Macquarie </strong> Limited ( <a> Access MQ </a> ) was established in 1989 as the commercial arm of the university.
+
+62	TRUE	Mount Saint Vincent University::established	1873 / 1873	
+It was established in 1873 and is locally referred to as <strong> The Mount </strong> . </p>
+
+63	FALSE	Northern Michigan University::established	1899 / <strong>	
+<p> <strong> Placement Data </strong> </p>
+
+64	FALSE	Norwegian School of Management::established	1943 / p>	
+<p> <strong> Undegraduate </strong> , <em> Bachelor in </em> : </p>
+
+65	FALSE	Ohio State University::established	1870 / a>.	
+<p> <strong> Ohio State University </strong> , commonly referred to as <strong> Ohio State </strong> or <strong> OSU </strong> , is a <a> public </a> research university located in <a> Columbus, Ohio </a> .
+
+67	TRUE	Hunter College::established	1870 / s	
+<p> <strong> Hunter College </strong> , established in 1870 by Thomas Hunter, is a public university and one of the constituent colleges of the <a> City University of New York </a> ( CUNY ) system, located on <a> Manhattan </a> 's <a> Upper East Side </a> .
+
+68	FALSE	Iowa State University::established	1858 / a>.	
+<p> <strong> Iowa State University of Science and Technology </strong> , more commonly known as <strong> Iowa State University </strong> ( <strong> ISU </strong> ) , is a <a> public </a> <a> land-grant </a> and <a> space-grant </a> research university located in <a> Ames, Iowa </a> , <a> United States </a> .
+
+69	TRUE	Indian Institute of Technology Kanpur::established	1959 / 1959.	
+<p> The <strong> Indian Institute of Technology Kanpur </strong> ( ) ( also known as <strong> IIT Kanpur </strong> or <strong> IITK </strong> ) is an <a> Indian Institutes of Technology </a> , set up in <a> Kanpur </a> in 1959.
+
+70	FALSE	Ithaca College::established	1892 / a>.	
+<p> <strong> Ithaca College </strong> is a <a> private college </a> located on the South Hill of <a> Ithaca, New York </a> .
+
+71	TRUE	James Madison University::established	1908 / 1908	
+<p> <strong> James Madison University </strong> ( also known as <strong> JMU </strong> , <strong> Madison </strong> , or <strong> James Madison </strong> ) is a <a> public </a> <a> coeducation </a> al <a> research </a> <a> university </a> located in <a> Harrisonburg </a> , <a> Virginia </a> , <a> U.S. </a> Founded in 1908 as the State Normal and Industrial School for Women at Harrisonburg, the university has undergone four name changes until settling with James Madison University.
+
+73	FALSE	University of Manitoba::established	1877 / <a>	
+<p> The <strong> University of Manitoba </strong> , in <a> Winnipeg </a> , <a> Manitoba </a> , <a> Canada </a> , is the largest university in the province of <a> Manitoba </a> .
+
+74	FALSE	University of Manchester Institute of Science and Technology::established	1824 / <a>	
+<p> The <strong> University of Manchester Institute of Science and Technology </strong> ( <strong> UMIST </strong> ) was a <a> university </a> based in the centre of the <a> city </a> of <a> Manchester </a> in <a> England </a> .
+
+75	FALSE	University of Chicago::established	1890 / <a>	
+<p> The <strong> University of Chicago </strong> ( <strong> U of C </strong> , <strong> UC </strong> , or simply <strong> UChicago </strong> ) is a <a> private </a> , <a> research university </a> in <a> Chicago </a> , <a> Illinois </a> , <a> USA </a> .
+
+76	TRUE	University for Peace::established	1980 / 1980	
+<p> The <strong> University for Peace </strong> ( <strong> UPEACE </strong> ) was established in <a> Costa Rica </a> in <a> 1980 </a> &quot;to provide humanity with an international institution of higher education for peace and with the aim of promoting among all human beings the spirit of understanding, tolerance and <a> peaceful coexistence </a> .&quot;
+
+78	FALSE	University of Canterbury::established	1873 / strong> ( ;	
+<p> The <strong> University of Canterbury </strong> ( ; postnominal abbreviation <strong> <em> <a> Cantuar </a> . </em> </strong> or <strong> <em> Cant. </em> </strong>
+
+79	FALSE	Victoria University, Toronto::established	october 12, 1836 / <p>	
+<p> The oldest residence building at Victoria is <strong> <a> Annesley Hall </a> </strong> .
+
+80	FALSE	Victoria University, Australia::established	1916 / strong>	
+<p> <strong> Victoria University </strong> ( VU ) is a multi-sector tertiary institution ( higher education and <a> TAFE </a> ) based in Melbourne, Australia with 10 campuses. </p>
+
+81	FALSE	Uppsala University::established	1477 / University	
+<p> <strong> University Park and Cathedral area </strong> </p>
+
+82	FALSE	University of Rochester::established	1850 / a>.	
+<p> The <strong> University of Rochester </strong> ( <strong> U of R </strong> , <strong> UR </strong> , or URoc ) is a <a> private </a> , nonsectarian, research university located in <a> Rochester, New York </a> .
+
+83	FALSE	University of California, San Francisco::established	1873 / the	
+<p> The <strong> University of California, San Francisco </strong> ( <strong> UCSF </strong> ) is one of the world's leading centers of health sciences research, patient care, and education.
+
+84	FALSE	University of California::established	1868 / a>.	
+<p> The <strong> University of California </strong> ( <strong> UC </strong> ) is a <a> public university </a> <a> system </a> in the <a> state </a> of <a> California </a> .
+
+86	FALSE	University of California, Santa Cruz::established	1965 / a>.	
+<p> The <strong> University of California, Santa Cruz </strong> , also known as <strong> UC Santa Cruz </strong> or <strong> UCSC </strong> , is a <a> public </a> , <a> collegiate </a> <a> university </a> ; one of ten campuses in the <a> University of California </a> .
+
+89	FALSE	Kansas State University::established	1863 / a>.	
+<p> <strong> Kansas State University </strong> , commonly shortened to <strong> K-State </strong> , is an institution of higher learning located in <a> Manhattan </a> , <a> Kansas </a> , in the <a> United States </a> .
+
+90	FALSE	Kent State University::established	1910 / a>.	
+<p> <strong> Kent State University </strong> ( also known as <strong> Kent </strong> , <strong> Kent State </strong> , and <strong> KSU </strong> ) is a <a> public </a> research <a> university </a> located in <a> Kent, Ohio </a> , <a> United States </a> .
+
+91	FALSE	Lund University::established	1666 / s	
+<p> <strong> Lund University </strong> ( ) , located in <a> Lund </a> in the province of <a> Scania </a> , <a> Sweden </a> , is one of northern Europe's most prestigious <a> universities </a> and one of <a> Scandinavia </a> 's largest institutions for education and research, frequently ranked among the world's top 100 universities.
+
+92	TRUE	Jagiellonian University::established	1364 / 1364	
+<p> The <strong> Jagiellonian University </strong> ( , often shortened to <em> UJ </em> ; historical names: , University of Krakow, Krak&#x00f3;w Academy, The Main Crown School, Main School of Krak&#x00f3;w ) was established in 1364 by <a> Casimir III the Great </a> in <a> Krak&#x00f3;w </a> .
+
+94	FALSE	Poznań University of Technology::established	1919 / name:	
+<p> <strong> Pozna&#x0144; University of Technology </strong> , <strong> PUT </strong> ( Polish name: <em> Politechnika Pozna&#x0144;ska </em> ; note that in Polish <em> Politechnika </em> has a different meaning from English, hence the translation ) is a <a> university </a> located in <a> Pozna&#x0144; </a> , <a> Poland </a> .
+
+100	FALSE	School of the Art Institute of Chicago::established	1866 / <a>	
+The <strong> School of the Art Institute of Chicago </strong> ( <strong> SAIC </strong> ) is one of America's largest accredited independent schools of art and design, located in the <a> Loop </a> in <a> Chicago </a> , <a> Illinois </a> .
+
+101	FALSE	Emory University::established	1836 / the	
+<p> <strong> Emory University </strong> is a private research university located in the metropolitan <a> Atlanta </a> area of <a> Druid Hills, Georgia </a> .
+
+102	FALSE	Los Angeles Pierce College::established	1947 / p>	
+<p> <strong> Los Angeles Pierce College </strong> , also known as <strong> Pierce College </strong> , <strong> Pierce </strong> , is a two-year <a> community college </a> that serves more than 23,000 students in the northern <a> Chalk Hills </a> of <a> Woodland Hills </a> , a community within the <a> San Fernando Valley </a> region of the <a> city of Los Angeles </a> , <a> California </a> . </p>
+
+105	FALSE	Odense University::established	1966 / 1998	
+<p> <strong> Odense University </strong> , now <strong> Syddansk Universitet Odense </strong> ( or <strong> SDU Odense </strong> in abbreviated form ) , has been part of the <a> University of Southern Denmark </a> since 1998 of which it forms the biggest campus.
+
+106	TRUE	University of California, Irvine::established	1965 / USA.	
+<p> The <strong> University of California, Irvine </strong> ( <strong> UCI </strong> or <strong> UC Irvine </strong> ) , founded in 1965, is one of the ten general campuses of the <a> University of California </a> , located in <a> Irvine </a> , <a> California </a> , USA.
+
+107	FALSE	Michigan Technological University::established	1885 / Michigan	
+<p> <strong> Michigan Technological University </strong> ( <a> abbr. </a>
+
+109	FALSE	Mendel University Brno::established	1919 / <a>	
+<p> <strong> Mendel University in Brno </strong> is located in <a> Brno </a> , <a> Czech Republic </a> .
+
+110	FALSE	University College London::established	1826 / a>.	
+<p> <strong> University College London </strong> ( <strong> UCL </strong> ) is a public research <a> university </a> located in <a> London </a> , <a> United Kingdom </a> and the largest <a> constituent college </a> of the federal <a> University of London </a> .
+
+112	FALSE	Lehigh University::established	1865 / the	
+<p> <strong> Lehigh University </strong> is a <a> private </a> , co-educational university located in <a> Bethlehem, Pennsylvania </a> , in the <a> Lehigh Valley </a> region of the United States.
+
+#	null	established	1919 / ..........
+

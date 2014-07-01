@@ -1,0 +1,530 @@
+Total articles: 312
+Articles for test: 281
+Articles for train: 31
+Total attributes: 64
+Attributes with high occurrences: 13/64
+
+------------
+Found: 232
+Found Not Null: 47
+Correct: 28
+Wrong: 19
+Total: 48
+precision: 0.5957446808510638
+recall: 0.5833333333333334
+
+
+
+#	NEW	caption	........ / Ava	// <p> <strong> Ava Lavinia Gardner </strong> ( December 24 , 1922 &ndash ; January 25 , 1990 ) was an American actress .
+
+1	TRUE	Ava Gardner::birth_name	ava lavinia gardner / Ava Lavinia Gardner	
+<p> <strong> Ava Lavinia Gardner </strong> ( December 24 , 1922 &ndash ; January 25 , 1990 ) was an American actress .
+
+2	TRUE	Ava Gardner::occupation	actress / actress.	
+<p> <strong> Ava Lavinia Gardner </strong> ( December 24 , 1922 &ndash ; January 25 , 1990 ) was an American actress .
+
+#	NEW	death_date	........ / January 25 , 1990 )	// <p> <strong> Ava Lavinia Gardner </strong> ( December 24 , 1922 &ndash ; January 25 , 1990 ) was an American actress .
+
+#	NEW	birthplace	........ / was an American	// <p> <strong> Ava Lavinia Gardner </strong> ( December 24 , 1922 &ndash ; January 25 , 1990 ) was an American actress .
+
+#	NEW	birthname	........ / Ava Lavinia Gardner	// <p> <strong> Ava Lavinia Gardner </strong> ( December 24 , 1922 &ndash ; January 25 , 1990 ) was an American actress .
+
+6	FALSE	Ava Gardner::name	ava gardner / an American	
+<p> <strong> Ava Lavinia Gardner </strong> ( December 24 , 1922 &ndash ; January 25 , 1990 ) was an American actress .
+
+#	NEW	birth_date	........ / It	// &quot ; It was a sort of madness , honey , &quot ; she said later of the time . </p>
+
+#	NEW	name	........ / K .	// <p> <strong> Khwaja Ahmad Abbas </strong> ( ) ( 7 June 1914 &#x2013 ; 1 June 1987 ) , popularly known as <strong> K .
+
+#	NEW	birth_date	........ / Meanwhile	// <p> Meanwhile he had started writing scripts for other directors , <em> <a> Neecha Nagar </a> </em> for Chetan Anand and <em> <a> Dr .
+
+#	NEW	death_date	........ / 1987 )	// <p> <strong> Khwaja Ahmad Abbas </strong> ( ) ( 7 June 1914 &#x2013 ; 1 June 1987 ) , popularly known as <strong> K .
+
+#	NEW	birthplace	........ / popularly known as	// <p> <strong> Khwaja Ahmad Abbas </strong> ( ) ( 7 June 1914 &#x2013 ; 1 June 1987 ) , popularly known as <strong> K .
+
+#	NEW	birthname	........ / popularly known as	// <p> <strong> Khwaja Ahmad Abbas </strong> ( ) ( 7 June 1914 &#x2013 ; 1 June 1987 ) , popularly known as <strong> K .
+
+#	NEW	caption	........ / Khwaja	// <p> <strong> Khwaja Ahmad Abbas </strong> ( ) ( 7 June 1914 &#x2013 ; 1 June 1987 ) , popularly known as <strong> K .
+
+14	FALSE	Khwaja Ahmad Abbas::birth_name	khwaja ahmad abbas / best known fictional work remains ' Inquilab ', based Communal violence	
+His best known fictional work remains ' Inquilab ' , based Communal violence , which made him a household name in Indian literature .
+
+#	NEW	birth_date	........ / Cage	// <p> Cage was born in <a> Long Beach , California </a> .
+
+#	NEW	death_date	........ / 32	// Cage , at age 32 , became the fifth youngest actor ever to win the <a> Academy Award for Best Actor </a> for his performance in <em> <a> Leaving Las Vegas </a> </em> . </p>
+
+#	NEW	birthplace	........ / California State University	// <p> In May 2001 , Cage was awarded an Honorary Doctorate in Fine Arts by <a> California State University </a> , Fullerton .
+
+#	NEW	name	........ / Kick- Ass	// <p> <strong> Nicolas Cage </strong> ( born <strong> Nicolas Kim Coppola </strong> ; January 7 , 1964 ) is an American actor , producer and director , having appeared in over 60 films including <em> <a> The Rock </a> </em> ( 1996 ) , <em> <a> Fac / Off </a> </em> ( 1997 ) , <em> <a> Gone In 60 Seconds </a> </em> ( 2000 ) , <em> <a> National Treasure </a> </em> ( 2004 ) , <em> <a> Ghost Rider </a> </em> ( 2007 ) , <em> <a> Bad Lieutenant : Port of Call New Orleans </a> </em> ( 2009 ) , and <em> <a> Kick-Ass </a> </em> ( 2010 ) .
+
+#	NEW	caption	........ / Nicolas	// <p> <strong> Nicolas Cage </strong> ( born <strong> Nicolas Kim Coppola </strong> ; January 7 , 1964 ) is an American actor , producer and director , having appeared in over 60 films including <em> <a> The Rock </a> </em> ( 1996 ) , <em> <a> Fac / Off </a> </em> ( 1997 ) , <em> <a> Gone In 60 Seconds </a> </em> ( 2000 ) , <em> <a> National Treasure </a> </em> ( 2004 ) , <em> <a> Ghost Rider </a> </em> ( 2007 ) , <em> <a> Bad Lieutenant : Port of Call New Orleans </a> </em> ( 2009 ) , and <em> <a> Kick-Ass </a> </em> ( 2010 ) .
+
+#	NEW	birth_name	........ / Nicolas Cage	// <p> <strong> Nicolas Cage </strong> ( born <strong> Nicolas Kim Coppola </strong> ; January 7 , 1964 ) is an American actor , producer and director , having appeared in over 60 films including <em> <a> The Rock </a> </em> ( 1996 ) , <em> <a> Fac / Off </a> </em> ( 1997 ) , <em> <a> Gone In 60 Seconds </a> </em> ( 2000 ) , <em> <a> National Treasure </a> </em> ( 2004 ) , <em> <a> Ghost Rider </a> </em> ( 2007 ) , <em> <a> Bad Lieutenant : Port of Call New Orleans </a> </em> ( 2009 ) , and <em> <a> Kick-Ass </a> </em> ( 2010 ) .
+
+#	NEW	birthname	........ / the fifth youngest	// Cage , at age 32 , became the fifth youngest actor ever to win the <a> Academy Award for Best Actor </a> for his performance in <em> <a> Leaving Las Vegas </a> </em> . </p>
+
+22	TRUE	Ridley Scott::name	ridley scott / Ridley Scott	
+<p> <strong> Sir Ridley Scott </strong> ( born 30 November 1937 ) is an English film director and producer known for his stylish visuals and an obsession for detail .
+
+#	NEW	caption	........ / Sir	// <p> <strong> Sir Ridley Scott </strong> ( born 30 November 1937 ) is an English film director and producer known for his stylish visuals and an obsession for detail .
+
+#	NEW	birth_name	........ / Sir Ridley Scott	// <p> <strong> Sir Ridley Scott </strong> ( born 30 November 1937 ) is an English film director and producer known for his stylish visuals and an obsession for detail .
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Sir Ridley Scott </strong> ( born 30 November 1937 ) is an English film director and producer known for his stylish visuals and an obsession for detail .
+
+#	NEW	birth_place	........ / Los Angeles .	// He divides his time between homes in London , France , and Los Angeles . </p>
+
+#	NEW	death_date	........ / is	// <p> <strong> Sir Ridley Scott </strong> ( born 30 November 1937 ) is an English film director and producer known for his stylish visuals and an obsession for detail .
+
+#	NEW	birthplace	........ / Super Bowl XVIII	// It was released for a single airing in the United States on 22 January 1984 during the third quarter of <a> Super Bowl XVIII </a> .
+
+#	NEW	birthname	........ / Sir Ridley Scott	// <p> <strong> Sir Ridley Scott </strong> ( born 30 November 1937 ) is an English film director and producer known for his stylish visuals and an obsession for detail .
+
+#	NEW	birthdate	........ / 30 November 1937 ) is an English film director and producer known for his stylish visuals and an obsession for	// <p> <strong> Sir Ridley Scott </strong> ( born 30 November 1937 ) is an English film director and producer known for his stylish visuals and an obsession for detail .
+
+#	NEW	caption	........ / Robert	// <p> <strong> Robert Anthony Rodr&#x00ed ; guez </strong> ( born June 20 , 1968 ) is an American <a> film director </a> , <a> screenwriter </a> , <a> producer </a> , <a> cinematographer </a> , <a> editor </a> and <a> musician </a> .
+
+#	NEW	birth_name	........ / Robert Anthony Rodr&#x00ed ; guez	// <p> <strong> Robert Anthony Rodr&#x00ed ; guez </strong> ( born June 20 , 1968 ) is an American <a> film director </a> , <a> screenwriter </a> , <a> producer </a> , <a> cinematographer </a> , <a> editor </a> and <a> musician </a> .
+
+#	NEW	birth_date	........ / has	// This has earned him the nickname of &quot ; the one-man film crew . &quot ;
+
+#	NEW	death_date	........ / musician	// <p> <strong> Robert Anthony Rodr&#x00ed ; guez </strong> ( born June 20 , 1968 ) is an American <a> film director </a> , <a> screenwriter </a> , <a> producer </a> , <a> cinematographer </a> , <a> editor </a> and <a> musician </a> .
+
+#	NEW	birthname	........ / ( b . 10 December	// January 1999 ) , <a> Rogue Joaquin </a> and daughter <a> Rhiannon Elizabeth </a> ( b . 10 December 2005 ) . </p>
+
+#	NEW	occupation	........ / ,	// <p> <strong> Robert Anthony Rodr&#x00ed ; guez </strong> ( born June 20 , 1968 ) is an American <a> film director </a> , <a> screenwriter </a> , <a> producer </a> , <a> cinematographer </a> , <a> editor </a> and <a> musician </a> .
+
+37	FALSE	Robin Wright Penn::name	robin wright / Gayle Wright	
+<p> <strong> Robin Gayle Wright </strong> ( born April 8 , 1966 ) is an American actress .
+
+#	NEW	caption	........ / Robin	// <p> <strong> Robin Gayle Wright </strong> ( born April 8 , 1966 ) is an American actress .
+
+39	FALSE	Robin Wright Penn::birth_name	robin gayle wright / is best known for her roles as Jenny Forrest	
+She is best known for her roles as Jenny in the film <em> <a> Forrest Gump </a> </em> and as Buttercup in <em> <a> The Princess Bride </a> </em> , credited as <strong> Robin Wright </strong> .
+
+#	NEW	birth_date	........ / daughter 13 , 1991 .	// Their daughter Dylan Frances Penn was born on April 13 , 1991 .
+
+41	TRUE	Robin Wright Penn::occupation	actress / actress.	
+<p> <strong> Robin Gayle Wright </strong> ( born April 8 , 1966 ) is an American actress .
+
+#	NEW	death_date	........ / April 8 , 1966 )	// <p> <strong> Robin Gayle Wright </strong> ( born April 8 , 1966 ) is an American actress .
+
+#	NEW	birthplace	........ / is an American	// <p> <strong> Robin Gayle Wright </strong> ( born April 8 , 1966 ) is an American actress .
+
+#	NEW	birthname	........ / Robin Gayle Wright	// <p> <strong> Robin Gayle Wright </strong> ( born April 8 , 1966 ) is an American actress .
+
+#	NEW	name	........ / Academy Award	// <p> <strong> Steven Andrew Soderbergh </strong> ( ; born January 14 , 1963 ) is an American film producer , screenwriter , <a> cinematographer </a> , editor , actor , and an <a> Academy Award </a> -winning film director .
+
+#	NEW	caption	........ / and	// <p> <strong> Steven Andrew Soderbergh </strong> ( ; born January 14 , 1963 ) is an American film producer , screenwriter , <a> cinematographer </a> , editor , actor , and an <a> Academy Award </a> -winning film director .
+
+47	TRUE	Steven Soderbergh::birth_name	steven andrew soderbergh / Steven Andrew Soderbergh	
+<p> <strong> Steven Andrew Soderbergh </strong> ( ; born January 14 , 1963 ) is an American film producer , screenwriter , <a> cinematographer </a> , editor , actor , and an <a> Academy Award </a> -winning film director .
+
+#	NEW	occupation	........ / director .	// <p> <strong> Steven Andrew Soderbergh </strong> ( ; born January 14 , 1963 ) is an American film producer , screenwriter , <a> cinematographer </a> , editor , actor , and an <a> Academy Award </a> -winning film director .
+
+#	NEW	death_date	........ / January 14 , 1963 )	// <p> <strong> Steven Andrew Soderbergh </strong> ( ; born January 14 , 1963 ) is an American film producer , screenwriter , <a> cinematographer </a> , editor , actor , and an <a> Academy Award </a> -winning film director .
+
+#	NEW	birthname	........ / is an American	// <p> <strong> Steven Andrew Soderbergh </strong> ( ; born January 14 , 1963 ) is an American film producer , screenwriter , <a> cinematographer </a> , editor , actor , and an <a> Academy Award </a> -winning film director .
+
+#	NEW	birth_date	........ / quot ;	// <p> &quot ; I ' ve always gotten along with them , &quot ; says Soderbergh of actors , &quot ; I try and make sure they ' re OK , and when they ' re in the zone , I leave them alone .
+
+#	NEW	birthdate	........ / 14 , 1963 ) is an American film producer , screenwriter , <a> cinematographer </a> , editor , actor , and an	// <p> <strong> Steven Andrew Soderbergh </strong> ( ; born January 14 , 1963 ) is an American film producer , screenwriter , <a> cinematographer </a> , editor , actor , and an <a> Academy Award </a> -winning film director .
+
+#	NEW	name	........ / seaQuest DSV	// <p> <strong> Theodore &quot ; Ted&quot ; Raimi </strong> ( born December 14 , 1965 ) is an <a> American </a> <a> actor </a> , perhaps best known for his roles as <a> Lieutenant Tim O ' Neill </a> in <em> <a> seaQuest DSV </a> </em> and <a> Joxer the Mighty </a> in <strong> <em> ' / </em> </strong> ' .
+
+#	NEW	caption	........ / Ted& quot ;	// <p> <strong> Theodore &quot ; Ted&quot ; Raimi </strong> ( born December 14 , 1965 ) is an <a> American </a> <a> actor </a> , perhaps best known for his roles as <a> Lieutenant Tim O ' Neill </a> in <em> <a> seaQuest DSV </a> </em> and <a> Joxer the Mighty </a> in <strong> <em> ' / </em> </strong> ' .
+
+#	NEW	birth_name	........ / Theodore & quot ; Ted&quot ; Raimi	// <p> <strong> Theodore &quot ; Ted&quot ; Raimi </strong> ( born December 14 , 1965 ) is an <a> American </a> <a> actor </a> , perhaps best known for his roles as <a> Lieutenant Tim O ' Neill </a> in <em> <a> seaQuest DSV </a> </em> and <a> Joxer the Mighty </a> in <strong> <em> ' / </em> </strong> ' .
+
+#	NEW	birth_date	........ / began	// He began acting as an extra in his elder brother , director <a> Sam Raimi </a> ' s Super 8 films .
+
+#	NEW	birthplace	........ / on his costume .	// Several early promo photos still have the original name visible on his costume . </em> </strong> </p>
+
+#	NEW	birthname	........ / early promo photos	// Several early promo photos still have the original name visible on his costume . </em> </strong> </p>
+
+59	FALSE	Tim Curry::name	tim curry / film and	
+<p> <strong> Timothy James </strong> &quot ; <strong> Tim </strong> &quot ; <strong> Curry </strong> ( born 19 April 1946 ) is an <a> English </a> <a> actor </a> , <a> singer </a> , <a> composer </a> and <a> voice actor </a> , known for his work in a diverse range of theatre , film and television productions .
+
+#	NEW	caption	........ / Curry	// <p> <strong> Timothy James </strong> &quot ; <strong> Tim </strong> &quot ; <strong> Curry </strong> ( born 19 April 1946 ) is an <a> English </a> <a> actor </a> , <a> singer </a> , <a> composer </a> and <a> voice actor </a> , known for his work in a diverse range of theatre , film and television productions .
+
+#	NEW	birth_name	........ / Timothy James	// <p> <strong> Timothy James </strong> &quot ; <strong> Tim </strong> &quot ; <strong> Curry </strong> ( born 19 April 1946 ) is an <a> English </a> <a> actor </a> , <a> singer </a> , <a> composer </a> and <a> voice actor </a> , known for his work in a diverse range of theatre , film and television productions .
+
+#	NEW	birth_date	........ / record	// The record included Curry ' s only US charting songs : &quot ; I Do the Rock&quot ; and &quot ; Paradise Garage&quot ; . </p>
+
+#	NEW	occupation	........ / actor	// <p> <strong> Timothy James </strong> &quot ; <strong> Tim </strong> &quot ; <strong> Curry </strong> ( born 19 April 1946 ) is an <a> English </a> <a> actor </a> , <a> singer </a> , <a> composer </a> and <a> voice actor </a> , known for his work in a diverse range of theatre , film and television productions .
+
+#	NEW	birthname	........ / brought him a	// It brought him a third Tony nomination , again for Best Actor in a Musical .
+
+65	FALSE	Otto Preminger::name	otto preminger / strong reviews	
+The film premiered at the Emperor Theater in Vienna on 21 December 1931 , to strong reviews and business .
+
+66	FALSE	Otto Preminger::birth_name	otto ludwig preminger / the film opened to modest business	
+When the film opened to modest business in July 1948 , it received better notices than it deserved as reviewers scrambled to discern traces of Lubitsch ' s hand .
+
+#	NEW	birthname	........ / played Crain ' s	// Veteran character actor <a> Eugene Pallette </a> played Crain ' s father .
+
+#	NEW	birthplace	........ / husband , Alexander	// Lee called the boy Erik Kirkland , after her separated husband , Alexander Kirkland .
+
+69	TRUE	Sophie Marceau::name	sophie marceau / Sophie Marceau	
+<p> <strong> Sophie Marceau </strong> ( ; born 17 November 1966 ) is a French actress , who has appeared in 35 films .
+
+#	NEW	caption	........ / Sophie	// <p> <strong> Sophie Marceau </strong> ( ; born 17 November 1966 ) is a French actress , who has appeared in 35 films .
+
+#	NEW	birth_name	........ / Sophie Marceau	// <p> <strong> Sophie Marceau </strong> ( ; born 17 November 1966 ) is a French actress , who has appeared in 35 films .
+
+#	NEW	birth_date	........ / son	// Their son Vincent was born in June 1995 .
+
+#	NEW	occupation	........ / actress	// <p> <strong> Sophie Marceau </strong> ( ; born 17 November 1966 ) is a French actress , who has appeared in 35 films .
+
+#	NEW	death_date	........ / is	// <p> <strong> Sophie Marceau </strong> ( ; born 17 November 1966 ) is a French actress , who has appeared in 35 films .
+
+#	NEW	birthplace	........ / has appeared in	// <p> <strong> Sophie Marceau </strong> ( ; born 17 November 1966 ) is a French actress , who has appeared in 35 films .
+
+#	NEW	birthname	........ / is a French	// <p> <strong> Sophie Marceau </strong> ( ; born 17 November 1966 ) is a French actress , who has appeared in 35 films .
+
+77	FALSE	Calista Flockhart::name	calista flockhart / Kay Flockhart	
+<p> <strong> Calista Kay Flockhart </strong> ( born November 11 , 1964 ) is an American actor who is primarily recognized for her work in television .
+
+#	NEW	caption	........ / Calista	// <p> <strong> Calista Kay Flockhart </strong> ( born November 11 , 1964 ) is an American actor who is primarily recognized for her work in television .
+
+79	TRUE	Calista Flockhart::birth_name	calista kay flockhart / Calista Kay Flockhart	
+<p> <strong> Calista Kay Flockhart </strong> ( born November 11 , 1964 ) is an American actor who is primarily recognized for her work in television .
+
+#	NEW	birth_date	........ / January 11 , 2001	// <p> On January 11 , 2001 , Flockhart adopted a ten-day-old baby , Liam ( born January 1 , 2001 ) , in San Diego . </p>
+
+81	FALSE	Calista Flockhart::occupation	actress / actor	
+<p> <strong> Calista Kay Flockhart </strong> ( born November 11 , 1964 ) is an American actor who is primarily recognized for her work in television .
+
+#	NEW	death_date	........ / November 11 , 1964 )	// <p> <strong> Calista Kay Flockhart </strong> ( born November 11 , 1964 ) is an American actor who is primarily recognized for her work in television .
+
+#	NEW	birthdate	........ / ( born November 11 , 1964 )	// <p> <strong> Calista Kay Flockhart </strong> ( born November 11 , 1964 ) is an American actor who is primarily recognized for her work in television .
+
+#	NEW	birthplace	........ / her work in	// <p> <strong> Calista Kay Flockhart </strong> ( born November 11 , 1964 ) is an American actor who is primarily recognized for her work in television .
+
+#	NEW	birthname	........ / is an American	// <p> <strong> Calista Kay Flockhart </strong> ( born November 11 , 1964 ) is an American actor who is primarily recognized for her work in television .
+
+86	TRUE	Jerry Lewis::name	jerry lewis / film director	
+<p> <strong> Jerry Lewis </strong> ( born <strong> Joseph Levitch </strong> , March 16 , 1926 ) is an <a> American </a> <a> comedian </a> , <a> actor </a> , <a> film producer </a> , <a> writer </a> , <a> film director </a> and <a> singer </a> .
+
+#	NEW	caption	........ / film	// <p> <strong> Jerry Lewis </strong> ( born <strong> Joseph Levitch </strong> , March 16 , 1926 ) is an <a> American </a> <a> comedian </a> , <a> actor </a> , <a> film producer </a> , <a> writer </a> , <a> film director </a> and <a> singer </a> .
+
+88	TRUE	Jerry Lewis::birth_name	joseph levitch / Jerry Lewis	
+<p> <strong> Jerry Lewis </strong> ( born <strong> Joseph Levitch </strong> , March 16 , 1926 ) is an <a> American </a> <a> comedian </a> , <a> actor </a> , <a> film producer </a> , <a> writer </a> , <a> film director </a> and <a> singer </a> .
+
+#	NEW	birth_date	........ / 1968	// In 1968 , he screened Spielberg ' s early film , <em> <a> Amblin ' </a> </em> and told his students , &quot ; That ' s what filmmaking is all about . &quot ;
+
+#	NEW	occupation	........ / director	// <p> <strong> Jerry Lewis </strong> ( born <strong> Joseph Levitch </strong> , March 16 , 1926 ) is an <a> American </a> <a> comedian </a> , <a> actor </a> , <a> film producer </a> , <a> writer </a> , <a> film director </a> and <a> singer </a> .
+
+#	NEW	death_place	........ / New York State	// <p> Lewis started performing at age five and would often perform alongside his parents in the <a> Catskill Mountains </a> in <a> New York State </a> .
+
+#	NEW	birthname	........ / met Lewis during	// Hayes met Lewis during shooting of the televised film and went on to receive a <a> Screen Actors Guild Award </a> for best actor . </p>
+
+#	NEW	death_date	........ / singer	// <p> <strong> Jerry Lewis </strong> ( born <strong> Joseph Levitch </strong> , March 16 , 1926 ) is an <a> American </a> <a> comedian </a> , <a> actor </a> , <a> film producer </a> , <a> writer </a> , <a> film director </a> and <a> singer </a> .
+
+#	NEW	birthplace	........ / playing an eccentric	// He appeared on television on one episode of <em> <a> Mad About You </a> ' s <strong> first season in 1992 , playing an eccentric billionaire .
+
+95	TRUE	Jonathan Demme::name	jonathan demme / Robert Jonathan	
+<p> <strong> Robert Jonathan Demme </strong> ( born February 22 , 1944 ) is an <a> American </a> <a> filmmaker </a> , <a> producer </a> and <a> screenwriter </a> .
+
+#	NEW	caption	........ / Robert	// <p> <strong> Robert Jonathan Demme </strong> ( born February 22 , 1944 ) is an <a> American </a> <a> filmmaker </a> , <a> producer </a> and <a> screenwriter </a> .
+
+97	TRUE	Jonathan Demme::birth_name	robert jonathan demme / Robert Jonathan Demme	
+<p> <strong> Robert Jonathan Demme </strong> ( born February 22 , 1944 ) is an <a> American </a> <a> filmmaker </a> , <a> producer </a> and <a> screenwriter </a> .
+
+#	NEW	birth_date	........ / Demme	// <p> Demme is on the Board of Directors at <a> Jacob Burns Film Center </a> in <a> Pleasantville , NY </a> .
+
+#	NEW	death_date	........ / screenwriter	// <p> <strong> Robert Jonathan Demme </strong> ( born February 22 , 1944 ) is an <a> American </a> <a> filmmaker </a> , <a> producer </a> and <a> screenwriter </a> .
+
+#	NEW	birthplace	........ / in his movie	// <p> During the 1980s , Demme had a brief romantic relationship with rock singer <a> Belinda Carlisle </a> , who appeared in his movie <em> Swing Shift </em> . </p>
+
+#	NEW	occupation	........ / ,	// <p> <strong> Robert Jonathan Demme </strong> ( born February 22 , 1944 ) is an <a> American </a> <a> filmmaker </a> , <a> producer </a> and <a> screenwriter </a> .
+
+#	NEW	birthname	........ / which won him	// He is best known for directing <em> <a> The Silence of the Lambs </a> </em> , which won him the <a> Academy Award </a> for Best Director . </p>
+
+103	FALSE	Jim Henson::name	jim henson / The Muppets	
+<p> <strong> James Maury </strong> &quot ; <strong> Jim </strong> &quot ; <strong> Henson </strong> ( September 24 , 1936 &#x2013 ; May 16 , 1990 ) was an <a> American </a> <a> puppeteer </a> best known as the creator of <a> The Muppets </a> .
+
+#	NEW	caption	........ / 1990 )	// <p> <strong> James Maury </strong> &quot ; <strong> Jim </strong> &quot ; <strong> Henson </strong> ( September 24 , 1936 &#x2013 ; May 16 , 1990 ) was an <a> American </a> <a> puppeteer </a> best known as the creator of <a> The Muppets </a> .
+
+#	NEW	birth_name	........ / Henson&# x2019 ; s companies	// Henson&#x2019 ; s companies , which are now run by his children , continue to produce films and television shows . </p>
+
+#	NEW	birth_date	........ / 1964	// From 1964 to 1968 , Henson began exploring film-making and produced a series of experimental films .
+
+#	NEW	death_date	........ / best	// <p> <strong> James Maury </strong> &quot ; <strong> Jim </strong> &quot ; <strong> Henson </strong> ( September 24 , 1936 &#x2013 ; May 16 , 1990 ) was an <a> American </a> <a> puppeteer </a> best known as the creator of <a> The Muppets </a> .
+
+#	NEW	birthplace	........ / and Jane began	// Upon Henson ' s return to the United States , he and Jane began dating .
+
+#	NEW	birthname	........ / best known as	// <p> <strong> James Maury </strong> &quot ; <strong> Jim </strong> &quot ; <strong> Henson </strong> ( September 24 , 1936 &#x2013 ; May 16 , 1990 ) was an <a> American </a> <a> puppeteer </a> best known as the creator of <a> The Muppets </a> .
+
+110	FALSE	John Frankenheimer::name	john frankenheimer / British Academy	
+<p> <strong> <a> British Academy Film Awards </a> </strong> </p>
+
+#	NEW	caption	........ / John	// <p> <strong> John Michael Frankenheimer </strong> ( February 19 , 1930 &ndash ; July 6 , 2002 ) was an award-winning American film and television director known for social dramas .
+
+112	TRUE	John Frankenheimer::birth_name	john michael frankenheimer / John Michael Frankenheimer	
+<p> <strong> John Michael Frankenheimer </strong> ( February 19 , 1930 &ndash ; July 6 , 2002 ) was an award-winning American film and television director known for social dramas .
+
+#	NEW	birth_date	........ / became	// He became a &quot ; pioneer&quot ; of the &quot ; modern-day political thriller , &quot ; having begun his career at the peak of the <a> Cold War </a> .
+
+#	NEW	occupation	........ / director	// <p> <strong> John Michael Frankenheimer </strong> ( February 19 , 1930 &ndash ; July 6 , 2002 ) was an award-winning American film and television director known for social dramas .
+
+#	NEW	birthplace	........ / Cannes Film Festival	// <p> <strong> <a> Cannes Film Festival </a> </strong> </p>
+
+#	NEW	birthname	........ / John Michael Frankenheimer	// <p> <strong> John Michael Frankenheimer </strong> ( February 19 , 1930 &ndash ; July 6 , 2002 ) was an award-winning American film and television director known for social dramas .
+
+#	NEW	death_date	........ / July 6 , 2002 )	// <p> <strong> John Michael Frankenheimer </strong> ( February 19 , 1930 &ndash ; July 6 , 2002 ) was an award-winning American film and television director known for social dramas .
+
+#	NEW	name	........ / Fiona Roberts	// <p> <strong> Julia Fiona Roberts </strong> ( born October 28 , 1967 ) is an American actress .
+
+#	NEW	caption	........ / Julia	// <p> <strong> Julia Fiona Roberts </strong> ( born October 28 , 1967 ) is an American actress .
+
+120	FALSE	Julia Roberts::birth_name	julia fiona roberts / meant the conductor <a> Bill Conti	
+She meant the conductor <a> Bill Conti </a> , who had tried to hasten the conclusion of her Oscar speech the previous year , but instead named the Scottish actor .
+
+#	NEW	birth_date	........ / 2005	// In 2005 , she was featured in the music video for the hit single &quot ; <a> Dreamgirl </a> &quot ; by the <a> Dave Matthews Band </a> . </p>
+
+122	TRUE	Julia Roberts::occupation	actress / actress.	
+<p> <strong> Julia Fiona Roberts </strong> ( born October 28 , 1967 ) is an American actress .
+
+#	NEW	death_date	........ / October 28 , 1967 )	// <p> <strong> Julia Fiona Roberts </strong> ( born October 28 , 1967 ) is an American actress .
+
+#	NEW	birthdate	........ / 25 , 1993	// On June 25 , 1993 , she married country singer <a> Lyle Lovett </a> .
+
+#	NEW	birthplace	........ / is an American	// <p> <strong> Julia Fiona Roberts </strong> ( born October 28 , 1967 ) is an American actress .
+
+#	NEW	birthname	........ / is an American	// <p> <strong> Julia Fiona Roberts </strong> ( born October 28 , 1967 ) is an American actress .
+
+127	TRUE	Godfrey Reggio::name	godfrey reggio / documentary film	
+<p> <strong> Godfrey Reggio </strong> ( born March 29 , 1940 ) is an American <a> director </a> of experimental <a> documentary film </a> s . </p>
+
+#	NEW	caption	........ / Godfrey	// <p> <strong> Godfrey Reggio </strong> ( born March 29 , 1940 ) is an American <a> director </a> of experimental <a> documentary film </a> s . </p>
+
+#	NEW	birth_name	........ / Godfrey Reggio	// <p> <strong> Godfrey Reggio </strong> ( born March 29 , 1940 ) is an American <a> director </a> of experimental <a> documentary film </a> s . </p>
+
+#	NEW	birth_date	........ / of	// All of the film titles are taken from the <a> Hopi language </a> ; Koyaanisquatsi meaning &quot ; life out of balance , &quot ; Powaqqatsi meaning &quot ; life in transformation , &quot ; and Naqoyqatsi meaning &quot ; life as war . &quot ;
+
+#	NEW	occupation	........ / director	// <p> <strong> Godfrey Reggio </strong> ( born March 29 , 1940 ) is an American <a> director </a> of experimental <a> documentary film </a> s . </p>
+
+#	NEW	death_date	........ / s .	// <p> <strong> Godfrey Reggio </strong> ( born March 29 , 1940 ) is an American <a> director </a> of experimental <a> documentary film </a> s . </p>
+
+#	NEW	birthdate	........ / 29 , 1940 )	// <p> <strong> Godfrey Reggio </strong> ( born March 29 , 1940 ) is an American <a> director </a> of experimental <a> documentary film </a> s . </p>
+
+#	NEW	birthplace	........ / is an American	// <p> <strong> Godfrey Reggio </strong> ( born March 29 , 1940 ) is an American <a> director </a> of experimental <a> documentary film </a> s . </p>
+
+#	NEW	birthname	........ / and raised in	// <p> Born and raised in <a> New Orleans </a> , <a> Louisiana </a> .
+
+#	NEW	name	........ / Elizabeth Hunt	// <p> <strong> Helen Elizabeth Hunt </strong> ( born June 15 , 1963 ) is an American actress , <a> film director </a> , and <a> screenwriter </a> .
+
+#	NEW	caption	........ / Helen	// <p> <strong> Helen Elizabeth Hunt </strong> ( born June 15 , 1963 ) is an American actress , <a> film director </a> , and <a> screenwriter </a> .
+
+138	TRUE	Helen Hunt::birth_name	helen elizabeth hunt / Helen Elizabeth Hunt	
+<p> <strong> Helen Elizabeth Hunt </strong> ( born June 15 , 1963 ) is an American actress , <a> film director </a> , and <a> screenwriter </a> .
+
+#	NEW	birth_date	........ / Hunt	// <p> Hunt began working in the 1970s as a child actress .
+
+#	NEW	occupation	........ / actress	// <p> <strong> Helen Elizabeth Hunt </strong> ( born June 15 , 1963 ) is an American actress , <a> film director </a> , and <a> screenwriter </a> .
+
+#	NEW	death_date	........ / 15 , 1963 )	// <p> <strong> Helen Elizabeth Hunt </strong> ( born June 15 , 1963 ) is an American actress , <a> film director </a> , and <a> screenwriter </a> .
+
+#	NEW	birthdate	........ / 15 , 1963 )	// <p> <strong> Helen Elizabeth Hunt </strong> ( born June 15 , 1963 ) is an American actress , <a> film director </a> , and <a> screenwriter </a> .
+
+#	NEW	birthplace	........ / as a child	// <p> Hunt began working in the 1970s as a child actress .
+
+#	NEW	birthname	........ / Helen Elizabeth Hunt	// <p> <strong> Helen Elizabeth Hunt </strong> ( born June 15 , 1963 ) is an American actress , <a> film director </a> , and <a> screenwriter </a> .
+
+145	TRUE	Paul Muni::name	paul muni / American stage	
+<p> <strong> Paul Muni </strong> ( September 22 , 1895 &#x2013 ; August 25 , 1967 ) was an <a> Austrian-Hungarian </a> -born American stage and film actor .
+
+#	NEW	caption	........ / 1967 )	// <p> <strong> Paul Muni </strong> ( September 22 , 1895 &#x2013 ; August 25 , 1967 ) was an <a> Austrian-Hungarian </a> -born American stage and film actor .
+
+147	FALSE	Paul Muni::birth_name	meshilem meier weisenfreund / Paul Muni	
+<p> <strong> Paul Muni </strong> ( September 22 , 1895 &#x2013 ; August 25 , 1967 ) was an <a> Austrian-Hungarian </a> -born American stage and film actor .
+
+#	NEW	birth_date	........ / note	// They note that despite his enormous success on both Broadway and in films , &quot ; he threw himself into each role with a sense of dedication . &quot ;
+
+149	TRUE	Paul Muni::occupation	actor / actor.	
+<p> <strong> Paul Muni </strong> ( September 22 , 1895 &#x2013 ; August 25 , 1967 ) was an <a> Austrian-Hungarian </a> -born American stage and film actor .
+
+#	NEW	birthplace	........ / United States in	// His family emigrated to the United States in 1902 .
+
+#	NEW	birthname	........ / born American stage	// <p> <strong> Paul Muni </strong> ( September 22 , 1895 &#x2013 ; August 25 , 1967 ) was an <a> Austrian-Hungarian </a> -born American stage and film actor .
+
+#	NEW	death_date	........ / August 25 , 1967 )	// <p> <strong> Paul Muni </strong> ( September 22 , 1895 &#x2013 ; August 25 , 1967 ) was an <a> Austrian-Hungarian </a> -born American stage and film actor .
+
+153	FALSE	Roberto Benigni::name	roberto benigni / and television.	
+<p> <strong> Roberto Remigio Benigni </strong> , <a> Knight Grand Cross OMRI </a> ( born 27 October 1952 ) is an Italian actor , comedian , screenwriter and <a> director </a> of film , theatre and television . </p>
+
+#	NEW	caption	........ / Roberto	// <p> <strong> Roberto Remigio Benigni </strong> , <a> Knight Grand Cross OMRI </a> ( born 27 October 1952 ) is an Italian actor , comedian , screenwriter and <a> director </a> of film , theatre and television . </p>
+
+#	NEW	birth_date	........ / Benigni '	// <p> Benigni ' s first film as director was <em> <a> Tu mi turbi </a> </em> ( <em> You upset me </em> , <a> 1983 </a> ) .
+
+#	NEW	death_date	........ / with	// <p> Benigni began North American presentations of <em> TuttoDante </em> with an announcement that he learned English to bring the gift of Dante ' s work to English speakers .
+
+#	NEW	birthplace	........ / Francisco , Boston	// <p> In 2009 , Benigni brought &quot ; TuttoDante&quot ; to the United States with performances in San Francisco , Boston and Chicago .
+
+158	TRUE	Roberto Benigni::birth_name	roberto remigio benigni / Roberto Remigio Benigni	
+<p> <strong> Roberto Remigio Benigni </strong> , <a> Knight Grand Cross OMRI </a> ( born 27 October 1952 ) is an Italian actor , comedian , screenwriter and <a> director </a> of film , theatre and television . </p>
+
+#	NEW	occupation	........ / actor	// <p> <strong> Roberto Remigio Benigni </strong> , <a> Knight Grand Cross OMRI </a> ( born 27 October 1952 ) is an Italian actor , comedian , screenwriter and <a> director </a> of film , theatre and television . </p>
+
+#	NEW	birthname	........ / is an Italian	// <p> <strong> Roberto Remigio Benigni </strong> , <a> Knight Grand Cross OMRI </a> ( born 27 October 1952 ) is an Italian actor , comedian , screenwriter and <a> director </a> of film , theatre and television . </p>
+
+#	NEW	caption	........ / Leonard	// <p> <strong> Leonard Rossiter </strong> ( 21 October 1926 &#x2013 ; 5 October 1984 ) was an <a> English </a> <a> actor </a> known for his roles as Rupert Rigsby , in the <a> British </a> comedy television series <em> <a> Rising Damp </a> </em> ( 1974&#x2013 ; 78 ) , and Reginald Iolanthe Perrin , in <em> <a> The Fall and Rise of Reginald Perrin </a> </em> ( 1976&#x2013 ; 79 ) .
+
+162	TRUE	Leonard Rossiter::birth_name	leonard rossiter / Leonard Rossiter	
+<p> <strong> Leonard Rossiter </strong> ( 21 October 1926 &#x2013 ; 5 October 1984 ) was an <a> English </a> <a> actor </a> known for his roles as Rupert Rigsby , in the <a> British </a> comedy television series <em> <a> Rising Damp </a> </em> ( 1974&#x2013 ; 78 ) , and Reginald Iolanthe Perrin , in <em> <a> The Fall and Rise of Reginald Perrin </a> </em> ( 1976&#x2013 ; 79 ) .
+
+163	FALSE	Leonard Rossiter::birth_date	21 october 1926 / local	
+The local critic said he &quot ; was particularly outstanding , his one fault being a tendency to speak too fast on one or two occasions . &quot ;
+
+#	NEW	birthplace	........ / his only daughter	// He left behind Gillian Raine , the actress , his second wife , and his only daughter Camilla .
+
+#	NEW	birthname	........ / ran for a	// The play opened on Friday 8 June 1962 at the <a> Belgrade Theatre </a> in <a> Coventry </a> and ran for a week .
+
+#	NEW	name	........ / Reese Witherspoon	// <p> <strong> Laura Jeanne Reese Witherspoon </strong> ( born March 22 , 1976 ) , better known as <strong> Reese Witherspoon </strong> , is an American actress and film producer .
+
+#	NEW	caption	........ / Laura	// <p> <strong> Laura Jeanne Reese Witherspoon </strong> ( born March 22 , 1976 ) , better known as <strong> Reese Witherspoon </strong> , is an American actress and film producer .
+
+#	NEW	birth_name	........ / Laura Jeanne Reese Witherspoon	// <p> <strong> Laura Jeanne Reese Witherspoon </strong> ( born March 22 , 1976 ) , better known as <strong> Reese Witherspoon </strong> , is an American actress and film producer .
+
+#	NEW	occupation	........ / actress	// <p> <strong> Laura Jeanne Reese Witherspoon </strong> ( born March 22 , 1976 ) , better known as <strong> Reese Witherspoon </strong> , is an American actress and film producer .
+
+#	NEW	death_date	........ / March 22 , 1976 )	// <p> <strong> Laura Jeanne Reese Witherspoon </strong> ( born March 22 , 1976 ) , better known as <strong> Reese Witherspoon </strong> , is an American actress and film producer .
+
+#	NEW	birth_date	........ / Award&	// Academy Award&nbsp ; &#x2013 ; winning director <a> Alexander Payne </a> praised her : &quot ; She ' s got that quality that men find attractive , while women would like to be her friend .
+
+#	NEW	birthplace	........ / actress and film	// <p> <strong> Laura Jeanne Reese Witherspoon </strong> ( born March 22 , 1976 ) , better known as <strong> Reese Witherspoon </strong> , is an American actress and film producer .
+
+173	TRUE	Reese Witherspoon::birthname	laura jeanne reese witherspoon / Laura Jeanne Reese	
+<p> <strong> Laura Jeanne Reese Witherspoon </strong> ( born March 22 , 1976 ) , better known as <strong> Reese Witherspoon </strong> , is an American actress and film producer .
+
+174	TRUE	Tony Robinson::name	tony robinson / political campaigner	
+<p> <strong> Tony Robinson </strong> ( born 15 August 1946 ) is an <a> English </a> <a> actor </a> , <a> comedian </a> , <a> author </a> , <a> broadcaster </a> and <a> political campaigner </a> .
+
+#	NEW	caption	........ / Tony	// <p> <strong> Tony Robinson </strong> ( born 15 August 1946 ) is an <a> English </a> <a> actor </a> , <a> comedian </a> , <a> author </a> , <a> broadcaster </a> and <a> political campaigner </a> .
+
+#	NEW	birth_name	........ / Tony Robinson	// <p> <strong> Tony Robinson </strong> ( born 15 August 1946 ) is an <a> English </a> <a> actor </a> , <a> comedian </a> , <a> author </a> , <a> broadcaster </a> and <a> political campaigner </a> .
+
+#	NEW	birth_date	........ / He	// <p> He is honorary president of the Young Archaeologists ' Club of the <a> Council for British Archaeology </a> . </p>
+
+#	NEW	occupation	........ / actor	// <p> <strong> Tony Robinson </strong> ( born 15 August 1946 ) is an <a> English </a> <a> actor </a> , <a> comedian </a> , <a> author </a> , <a> broadcaster </a> and <a> political campaigner </a> .
+
+#	NEW	death_date	........ / political	// <p> <strong> Tony Robinson </strong> ( born 15 August 1946 ) is an <a> English </a> <a> actor </a> , <a> comedian </a> , <a> author </a> , <a> broadcaster </a> and <a> political campaigner </a> .
+
+#	NEW	birthplace	........ / millennium , entitled	// <p> In 1999 , Robinson returned to star in a one-off <em> Blackadder </em> short film to celebrate the millennium , entitled <strong> <em> ' .
+
+#	NEW	birthname	........ / his former wife	// <p> Robinson and his former wife Mary Shepherd were active in Bristol Labour politics from the early 1980s . </p>
+
+182	TRUE	Lionel Barrymore::name	lionel barrymore / screen and	
+<p> <strong> Lionel Barrymore </strong> ( April 28 , 1878 &ndash ; November 15 , 1954 ) was an American actor of stage , screen and radio .
+
+#	NEW	caption	........ / 1954 )	// <p> <strong> Lionel Barrymore </strong> ( April 28 , 1878 &ndash ; November 15 , 1954 ) was an American actor of stage , screen and radio .
+
+184	FALSE	Lionel Barrymore::birth_name	lionel herbert blythe / Lionel Barrymore	
+<p> <strong> Lionel Barrymore </strong> ( April 28 , 1878 &ndash ; November 15 , 1954 ) was an American actor of stage , screen and radio .
+
+#	NEW	birth_date	........ / role	// The role suggested that of the &quot ; unreformed&quot ; stage of Barrymore ' s &quot ; Scrooge&quot ; characterization .
+
+#	NEW	occupation	........ / actor	// <p> <strong> Lionel Barrymore </strong> ( April 28 , 1878 &ndash ; November 15 , 1954 ) was an American actor of stage , screen and radio .
+
+#	NEW	death_date	........ / November 15 , 1954 )	// <p> <strong> Lionel Barrymore </strong> ( April 28 , 1878 &ndash ; November 15 , 1954 ) was an American actor of stage , screen and radio .
+
+#	NEW	birthdate	........ / ( April 28 , 1878 &ndash ; November 15 , 1954 ) was an American actor of stage , screen and	// <p> <strong> Lionel Barrymore </strong> ( April 28 , 1878 &ndash ; November 15 , 1954 ) was an American actor of stage , screen and radio .
+
+#	NEW	birthplace	........ / stage , screen	// <p> <strong> Lionel Barrymore </strong> ( April 28 , 1878 &ndash ; November 15 , 1954 ) was an American actor of stage , screen and radio .
+
+#	NEW	birthname	........ / an American actor	// <p> <strong> Lionel Barrymore </strong> ( April 28 , 1878 &ndash ; November 15 , 1954 ) was an American actor of stage , screen and radio .
+
+191	TRUE	Boris Karloff::name	boris karloff / William Henry	
+<p> <strong> Boris Karloff </strong> ( 23 November 1887 &#x2013 ; 2 February 1969 ) , whose real name was <strong> William Henry Pratt </strong> , was an <a> English </a> -born actor who emigrated to <a> Canada </a> in 1909 .
+
+#	NEW	caption	........ / Boris	// <p> <strong> Boris Karloff </strong> ( 23 November 1887 &#x2013 ; 2 February 1969 ) , whose real name was <strong> William Henry Pratt </strong> , was an <a> English </a> -born actor who emigrated to <a> Canada </a> in 1909 .
+
+193	TRUE	Boris Karloff::birth_name	william henry pratt / Boris Karloff	
+<p> <strong> Boris Karloff </strong> ( 23 November 1887 &#x2013 ; 2 February 1969 ) , whose real name was <strong> William Henry Pratt </strong> , was an <a> English </a> -born actor who emigrated to <a> Canada </a> in 1909 .
+
+#	NEW	birth_date	........ / thought	// Karloff thought it was ridiculous and said so . &quot ; Berg continues , &quot ; Mr .
+
+195	TRUE	Boris Karloff::occupation	actor / actor	
+<p> <strong> Boris Karloff </strong> ( 23 November 1887 &#x2013 ; 2 February 1969 ) , whose real name was <strong> William Henry Pratt </strong> , was an <a> English </a> -born actor who emigrated to <a> Canada </a> in 1909 .
+
+#	NEW	death_date	........ / 1969 )	// <p> <strong> Boris Karloff </strong> ( 23 November 1887 &#x2013 ; 2 February 1969 ) , whose real name was <strong> William Henry Pratt </strong> , was an <a> English </a> -born actor who emigrated to <a> Canada </a> in 1909 .
+
+#	NEW	birthplace	........ / quot ; Boris Karloff . &	// <p> Despite living and working in the United States for many years , Karloff never became a naturalized American citizen , and he never legally changed his name to &quot ; Boris Karloff . &quot ;
+
+#	NEW	birth_place	........ / Los Angeles	// Four Mexican films for which Karloff shot his scenes in Los Angeles were released over a two-year period after he had died .
+
+#	NEW	birthname	........ / William Henry Pratt	// <p> <strong> Boris Karloff </strong> ( 23 November 1887 &#x2013 ; 2 February 1969 ) , whose real name was <strong> William Henry Pratt </strong> , was an <a> English </a> -born actor who emigrated to <a> Canada </a> in 1909 .
+
+#	NEW	name	........ / on stage	// <p> McKern ' s final acting appearances came in the film <strong> <em> ' ( 1999 ) and on stage in 2000 . </em> </strong> </p>
+
+#	NEW	caption	........ / July 2002 )	// <p> <strong> Reginald &quot ; Leo&quot ; McKern </strong> , <a> AO </a> ( 16 March 1920 <img> 23 July 2002 ) was an <a> Australia </a> n-born <a> English </a> <a> actor </a> who appeared in numerous British and Australian <a> television </a> programmes and <a> movies </a> , and more than 200 <a> stage </a> roles .
+
+#	NEW	birth_date	........ / was	// Mortimer was to say , &quot ; He not only played the character Rumpole , he added to it , brightened it and brought it fully to life . &quot ;
+
+#	NEW	occupation	........ / stage	// <p> McKern ' s final acting appearances came in the film <strong> <em> ' ( 1999 ) and on stage in 2000 . </em> </strong> </p>
+
+#	NEW	birthplace	........ / on stage in	// <p> McKern ' s final acting appearances came in the film <strong> <em> ' ( 1999 ) and on stage in 2000 . </em> </strong> </p>
+
+205	FALSE	Leo McKern::birth_name	reginald mckern / Reginald & quot ; Leo&quot ; McKern	
+<p> <strong> Reginald &quot ; Leo&quot ; McKern </strong> , <a> AO </a> ( 16 March 1920 <img> 23 July 2002 ) was an <a> Australia </a> n-born <a> English </a> <a> actor </a> who appeared in numerous British and Australian <a> television </a> programmes and <a> movies </a> , and more than 200 <a> stage </a> roles .
+
+#	NEW	birthname	........ / McKern ' s final	// <p> McKern ' s final acting appearances came in the film <strong> <em> ' ( 1999 ) and on stage in 2000 . </em> </strong> </p>
+
+207	TRUE	Debbie Reynolds::name	debbie reynolds / who was	
+<p> <strong> Debbie Reynolds </strong> ( born April 1 , 1932 ) is an <a> American </a> <a> actress </a> , <a> singer </a> , and <a> dancer </a> who was an <a> MGM </a> contract star .
+
+#	NEW	caption	........ / Features	// <p> <strong> Features </strong> : </p>
+
+209	FALSE	Debbie Reynolds::birth_name	mary frances reynolds / Debbie Reynolds	
+<p> <strong> Debbie Reynolds </strong> ( born April 1 , 1932 ) is an <a> American </a> <a> actress </a> , <a> singer </a> , and <a> dancer </a> who was an <a> MGM </a> contract star .
+
+#	NEW	birth_date	........ / In	// <p> In 1959 Reynolds recorded her first album for Dot Records , simply called <em> Debbie </em> , which included her own selection of 12 standards including &quot ; S&#x2019 ; posin ' &quot ; , &quot ; Moonglow&quot ; , &quot ; Mean To Me&quot ; and &quot ; Time After Time&quot ; .
+
+#	NEW	birthname	........ / Features	// <p> <strong> Features </strong> : </p>
+
+#	NEW	name	........ / TV show	// In 2010 , he directed <em> The Last Airbender </em> , based on the <a> Nickelodeon </a> TV show <strong> <em> ' . </em> </strong> </p>
+
+#	NEW	caption	........ / Nickelodeon	// In 2010 , he directed <em> The Last Airbender </em> , based on the <a> Nickelodeon </a> TV show <strong> <em> ' . </em> </strong> </p>
+
+214	FALSE	M. Night Shyamalan::birth_name	manoj nelliyattu shyamalan / is also known for filming his movies ( and staging his plots ) in and around	
+He is also known for filming his movies ( and staging his plots ) in and around <a> Philadelphia , Pennsylvania </a> , where he was raised .
+
+#	NEW	birth_date	........ / the	// After the film fell through , Shyamalan later said it was too &quot ; tricky&quot ; to arrange and &quot ; not the right thing&quot ; for him to do . </p>
+
+#	NEW	birthplace	........ / based on the	// In 2010 , he directed <em> The Last Airbender </em> , based on the <a> Nickelodeon </a> TV show <strong> <em> ' . </em> </strong> </p>
+
+#	NEW	birthname	........ / known for making	// Night Shyamalan </strong> , is an Indian-born American <a> filmmaker </a> and <a> screenwriter </a> , known for making movies with contemporary supernatural plots that climax with a <a> twist ending </a> .
+
+#	NEW	caption	........ / William	// <p> <strong> William Christopher </strong> ( born October 20 , 1932 ) is an <a> American </a> <a> actor </a> who is best known for playing <a> Father Mulcahy </a> on the <a> television </a> <a> series </a> <em> <a> M*A*S*H </a> </em> and Private Lester Hummel on <em> <a> Gomer Pyle , U . S . M . C . </a> </em> </p>
+
+#	NEW	birth_name	........ / William Christopher	// <p> <strong> William Christopher </strong> ( born October 20 , 1932 ) is an <a> American </a> <a> actor </a> who is best known for playing <a> Father Mulcahy </a> on the <a> television </a> <a> series </a> <em> <a> M*A*S*H </a> </em> and Private Lester Hummel on <em> <a> Gomer Pyle , U . S . M . C . </a> </em> </p>
+
+#	NEW	birth_date	........ / Broadway	// His Broadway debut came in <em> <a> Beyond the Fringe </a> </em> , a <a> British </a> <a> revue </a> .
+
+#	NEW	occupation	........ / ,	// <p> <strong> William Christopher </strong> ( born October 20 , 1932 ) is an <a> American </a> <a> actor </a> who is best known for playing <a> Father Mulcahy </a> on the <a> television </a> <a> series </a> <em> <a> M*A*S*H </a> </em> and Private Lester Hummel on <em> <a> Gomer Pyle , U . S . M . C . </a> </em> </p>
+
+#	NEW	birthplace	........ / John and Ned .	// He met his future wife on a blind date , with whom he would eventually have two sons , John and Ned . </p>
+
+223	TRUE	William Christopher::name	william christopher / Gomer Pyle	
+<p> <strong> William Christopher </strong> ( born October 20 , 1932 ) is an <a> American </a> <a> actor </a> who is best known for playing <a> Father Mulcahy </a> on the <a> television </a> <a> series </a> <em> <a> M*A*S*H </a> </em> and Private Lester Hummel on <em> <a> Gomer Pyle , U . S . M . C . </a> </em> </p>
+
+#	NEW	birthname	........ / a book about	// In 1985 , he and his wife Barbara wrote <em> Mixed Blessings </em> , a book about their experiences raising Ned . ref name=BestCar / </p>
+
+225	TRUE	Thora Hird::name	thora hird / March 2003 )	
+<p> <a> Dame </a> <strong> Thora Hird </strong> <a> DBE </a> ( 28 May 1911 <img> 15 March 2003 ) was an <a> English </a> <a> actress </a> . </p>
+
+#	NEW	caption	........ / Thora	// <p> <a> Dame </a> <strong> Thora Hird </strong> <a> DBE </a> ( 28 May 1911 <img> 15 March 2003 ) was an <a> English </a> <a> actress </a> . </p>
+
+#	NEW	birth_name	........ / Thora Hird	// <p> <a> Dame </a> <strong> Thora Hird </strong> <a> DBE </a> ( 28 May 1911 <img> 15 March 2003 ) was an <a> English </a> <a> actress </a> . </p>
+
+#	NEW	birth_date	........ / Thora	// <p> Thora Hird played Dirk Borgarde ' s love interest in the 1949 film &quot ; Once A Jolly Swagman&quot ; ( also known as &quot ; Maniacs On Wheels&quot ; ) . </p>
+
+#	NEW	occupation	........ / actress	// <p> <a> Dame </a> <strong> Thora Hird </strong> <a> DBE </a> ( 28 May 1911 <img> 15 March 2003 ) was an <a> English </a> <a> actress </a> . </p>
+
+#	NEW	birthdate	........ / 2003 , having suffered	// <p> She died , aged 91 , in March 2003 , having suffered a <a> stroke </a> .
+
+#	NEW	birthplace	........ / having suffered a	// <p> She died , aged 91 , in March 2003 , having suffered a <a> stroke </a> .
+
+#	null	name	leonard rossiter / ..........
+

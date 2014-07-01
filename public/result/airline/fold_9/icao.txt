@@ -1,0 +1,111 @@
+Found: 44
+Found Not Null: 11
+Correct: 6
+Wrong: 5
+Total: 12
+precision: 0.5454545454545454
+recall: 0.5
+
+
+
+#	NEW	icao	........ / Canada	// <p> <strong> Bearskin Lake Air Services Ltd . </strong> , trading as <strong> Bearskin Airlines </strong> , is a <a> regional airline </a> based in <a> Sioux Lookout </a> , <a> Ontario </a> , <a> Canada </a> .
+
+#	NEW	icao	........ / codes .	// Flights were operated with AN / NH flight numbers , although Air Next had its own airline codes . </p>
+
+2	TRUE	Olympic Aviation::icao	oly / Macedonian	
+The company was also responsible for charter flights in the <strong> Olympic Airways Group of Companies </strong> , until <strong> <a> Macedonian Airlines </a> </strong> was created . </p>
+
+#	NEW	icao	........ / States	// <p> <strong> US Airways Shuttle </strong> is the brand name for <a> US Airways </a> ' hourly <a> air shuttle </a> service operating in the <a> Northeastern United States </a> .
+
+#	NEW	icao	........ / Airways	// <p> <strong> Etihad Airways </strong> ( , <em> &#x02bc ; al-&#x02bb ; iti&#x0127 ; &#x0101 ; d </em> ) is the <a> flag carrier </a> <a> airline </a> of <a> Abu Dhabi </a> , <a> United Arab Emirates </a> .
+
+#	NEW	icao	........ / Continental	// <p> <strong> Texas International Airlines </strong> was a <a> United States </a> <a> airline </a> , known from 1944 until 1947 as <strong> Aviation Enterprises </strong> , until 1969 as <strong> Trans-Texas Airways </strong> , and as <strong> Texas International Airlines </strong> until 1982 , when it merged with <a> Continental Airlines </a> .
+
+#	NEW	icao	........ / dam&	// As part of this campaign , it had coined the slogans &quot ; <strong> B </strong> etter <strong> o </strong> ff <strong> a </strong> t <strong> C </strong> aledonian&quot ; and &quot ; <strong> B </strong> etter <strong> u </strong> nder <strong> A </strong> dam&quot ; .
+
+7	FALSE	J-Air::icao	jlj / passenger	
+Its operations include scheduled <a> passenger </a> services to 16 destinations across regional <a> Japan </a> , under <a> Japan Airlines </a> ' flight numbers .
+
+#	NEW	icao	........ / Montenegro	// <p> <strong> DI Air </strong> is an <a> airline </a> based in <a> Podgorica </a> , <a> Montenegro </a> .
+
+#	NEW	icao	........ / Sein&#	// <p> <strong> Finnish Commuter Airlines Oy </strong> , trading as <strong> Finncomm Airlines </strong> , is a regional <a> airline </a> with its head office on the grounds of <a> Sein&#x00e4 ; joki Airport </a> in <a> Ilmajoki </a> , <a> Finland </a> , near <a> Sein&#x00e4 ; joki </a> .
+
+#	NEW	icao	........ / Islands	// <p> <strong> Cayman Airways </strong> is the national <a> flag carrier </a> of the <a> Cayman Islands </a> .
+
+#	NEW	icao	........ / brand	// <p> <strong> TACA </strong> is the <a> trade name </a> &quot ; brand&quot ; comprising a group of five independently IATA-coded and -owned <a> Central American </a> airlines , whose operations are combined to function as one and a number of other independently owned and IATA-coded <a> regional airlines </a> which <a> code-share </a> and feed the TACA brand system .
+
+#	NEW	icao	........ / Gatwick	// <p> <strong> British Caledonian </strong> was a private , <a> British </a> independent airline , operating out of <a> Gatwick Airport </a> in the 1970s and 1980s .
+
+#	NEW	icao	........ / Organization	// <p> <strong> EgyptAir Flight 648 </strong> was a <a> Boeing 737-200 </a> airliner registered SU-AYH <a> hijacked </a> in 1985 by the terrorist <a> Abu Nidal Organization </a> .
+
+#	NEW	icao	........ / Heliopolis	// ( 2003 ) ] ] The airline was established in 1995 as <strong> Heliopolis Airlines </strong> .
+
+15	TRUE	LAN Airlines::icao	lan / branding	
+In March 2004 Lan Chile and its subsidiaries <a> LAN Per&#x00fa ; </a> , <a> LAN Ecuador </a> , <a> LAN Dominicana </a> and <a> LANExpress </a> became unified under the single <strong> LAN </strong> brand , instead of prior <strong> L </strong> inea <strong> A </strong> erea <strong> N </strong> acional . On June 17 , 2004 LAN Chile changed its formal name to <strong> LAN Airlines </strong> ( which was said to mean <strong> L </strong> atin <strong> A </strong> merican <strong> N </strong> etwork Airlines , even though the airline says LAN is no longer an abbreviation now ) as part of this re-branding process .
+
+#	NEW	icao	........ / Windhoek	// <p> <strong> Air Namibia </strong> is the national <a> airline </a> of <a> Namibia </a> , headquartered in the Trans Namib Building in <a> Windhoek </a> .
+
+17	FALSE	SilkAir::icao	slk / Singapore	
+<p> <strong> SilkAir ( Singapore ) Private Limited </strong> is an <a> airline </a> based in <a> Singapore </a> .
+
+#	NEW	icao	........ / Delta	// <p> <strong> Song , LLC </strong> was a <a> low-cost &quot ; airline </a> within an airline&quot ; brand owned and operated by <a> Delta Air Lines </a> .
+
+19	TRUE	Ethiopian Airlines::icao	eth / Ethiopian	
+The CEO of ASKY came from Ethiopian Airlines . The <a> Boeing customer code </a> for Ethiopian Airlines is <strong> 60 </strong> ( I . e .
+
+#	NEW	icao	........ / Egypt	// <p> <strong> Air Sinai </strong> ( <em> </em> ) is an <a> airline </a> based in <a> Cairo </a> , <a> Egypt </a> .
+
+#	NEW	icao	........ / Airlines	// <p> <strong> OJSC Siberia Airlines </strong> ( ) , operating as <strong> S7 Airlines </strong> , is an <a> airline </a> headquartered in <a> Ob </a> , <a> Novosibirsk Oblast </a> , <a> Russia </a> , with offices in <a> Moscow </a> . ! The &quot ; English&quot ; page does not list the company headquarters <strong> S7 Airlines </strong> is currently <a> Russia </a> ' s fastest growing airline and recently passed <a> Aeroflot </a> as <a> Russia </a> ' s largest domestic airline . </p>
+
+#	NEW	icao	........ / Germany	// <p> [ [ File : Iljuschin Il-14 Interflug DM-SAB 02 . JPG | thumb | 200px | An Interflug [ [ Ilyushin Il-14 ] ] ] ] [ [ File : Hans-Grade-Museum 03 . jpg | thumb | 200px | An Interflug [ [ Ilyushin Il-18 ] ] ] ] [ [ File : Baade-152-2 . png | thumb | 200px | Sketch of the [ [ Baade 152 ] ] as it would have appeared in service with Interflug ] ] <strong> Interflug </strong> ( <strong> Interflug GmbH </strong> , <strong> Gesellschaft f&#x00fc ; r Internationalen Flugverkehr mbH </strong> ) was the state <a> airline </a> of <a> East Germany </a> from 1963 to 1991 , when it ceased operations following <a> German reunification </a> .
+
+#	NEW	icao	........ / Eastern	// <p> <strong> <a> Eastern Air Lines </a> Flight 401 </strong> was a <a> Lockheed L-1011 Tristar 1 </a> jet that crashed into the <a> Florida Everglades </a> on the night of December 29 , 1972 , causing 101 fatalities ( 77 initial crash survivors , two died shortly afterward ) .
+
+#	NEW	icao	........ / India	// <p> <strong> JetLite </strong> , formerly <strong> Air Sahara </strong> , is an <a> airline </a> based in <a> Mumbai </a> , <a> India </a> . </p>
+
+#	NEW	icao	........ / Montreal	// <p> <strong> Jetsgo Corporation </strong> was a <a> Canadian </a> <a> low-cost carrier </a> based in the <a> Saint-Laurent </a> area of <a> Montreal </a> .
+
+#	NEW	icao	........ / Trinidad	// <p> <strong> BWIA West Indies Airways Limited </strong> , known locally as &quot ; B-wee&quot ; , was the national airline of <a> Trinidad and Tobago </a> .
+
+#	NEW	icao	........ / Florida	// <p> <strong> Flight 19 </strong> was the designation of five <a> TBM Avenger </a> <a> torpedo bomber </a> s that disappeared on December 5 , 1945 , during a <a> United States Navy </a> -authorized overwater navigation training flight from <a> Naval Air Station Fort Lauderdale </a> , <a> Florida </a> .
+
+#	NEW	icao	........ / Ireland	// <p> <strong> CityJet Limited </strong> is an Irish regional airline headquartered in Swords , <a> County Dublin </a> , <a> Ireland </a> .
+
+#	NEW	icao	........ / Sea	// <p> <strong> Siberia Airlines Flight 1812 </strong> crashed over the <a> Black Sea </a> on 4 October 2001 , en route from <a> Tel Aviv </a> , <a> Israel </a> to <a> Novosibirsk </a> , Russia .
+
+#	NEW	icao	........ / Bosnia	// <p> <strong> Air Srpska </strong> was an <a> airline </a> of <a> Srpska </a> , an entity of the <a> State of Bosnia and Herzegovina </a> , which was operational between 1999 and 2003 . </p>
+
+31	TRUE	Royal Air Maroc::icao	ram / RAM	
+<p> <strong> Royal Air Maroc </strong> ( commonly called <strong> RAM </strong> , &#x0627 ; &#x0644 ; &#x062e ; &#x0637 ; &#x0648 ; &#x0637 ; &#x0627 ; &#x0644 ; &#x0645 ; &#x0644 ; &#x0643 ; &#x064a ; &#x0629 ; &#x0627 ; &#x0644 ; &#x0645 ; &#x063a ; &#x0631 ; &#x0628 ; &#x064a ; &#x0629 ; <em> Al-Khu&#x1e6d ; &#x016b ; &#x1e6d ; al-Malak&#x012b ; yyah al-Maghrib&#x012b ; yyah </em> in Arabic ) is the <a> flag carrier </a> <a> airline </a> of <a> Morocco </a> , headquartered on the grounds of <a> Casablanca-Anfa Airport </a> in <a> Casablanca </a> .
+
+#	NEW	icao	........ / Taiwan	// <p> <strong> Mandarin Airlines , Limited </strong> ( &#x83ef ; &#x4fe1 ; &#x822a ; &#x7a7a ; ; <a> pinyin </a> : Hu&#x00e1 ; x&#x00ec ; n H&#x00e1 ; ngk&#x014d ; ng ) is an <a> airline </a> based in <a> Songshan District </a> , <a> Taipei </a> , <a> Taiwan </a> .
+
+#	NEW	icao	........ / Vantaa	// <p> <strong> Blue1 <a> Oy </a> </strong> is a Finnish airline owned by <a> SAS Group </a> and a full member of <a> Star Alliance </a> , the world&#x2019 ; s largest airline alliance , with a hub at <a> Helsinki-Vantaa Airport </a> .
+
+#	NEW	icao	........ / Mueang	// <p> <strong> Nok Air </strong> ( , derived from <em> nok </em> ( &#x0e19 ; &#x0e01 ; ) , the Thai word for <em> bird </em> ) is a <a> low-cost airline </a> headquartered in <a> Sathorn </a> , <a> Bangkok </a> , <a> Thailand </a> , operating domestic and international services out of <a> Bangkok Don Mueang Airport </a> . </p>
+
+#	NEW	icao	........ / Turkish	// <p> <strong> Air Anatolia </strong> ( <a> Turkish </a> : Anadolu Hava&#x00e7 ; ilik A . S . ) was a <a> charter airline </a> from <a> Turkey </a> , which was operational between 1998 and 2002 . </p>
+
+#	NEW	icao	........ / Tonga	// <p> <strong> Royal Tongan Airlines </strong> was the national <a> airline </a> of <a> Tonga </a> until liquidation in 2004 .
+
+#	NEW	icao	........ / Guadeloupe	// <p> <strong> Air Cara&#x00ef ; bes </strong> is the <a> regional airline </a> of the <a> French Caribbean </a> which comprises the overseas departments of France : <a> Guadeloupe </a> and <a> Martinique </a> .
+
+38	TRUE	Avensa::icao	ave / after	
+<p> <strong> Avensa </strong> ( <strong> <em> A </em> </strong> erov&#x00ed ; as <strong> Ven </strong> ezolanas <strong> S </strong> ociedad <strong> A </strong> nonima <em> ) was a <a> Venezuela </a> n <a> airline </a> , which is in the process of financial restructuring , after it went into <a> bankruptcy </a> due to poor management in 2002 .
+
+39	FALSE	Tunisair::icao	tar / Tunisia	
+<p> <strong> Soci&#x00e9 ; t&#x00e9 ; Tunisienne de l ' Air </strong> , or <strong> Tunisair </strong> ( ) is the <a> flag carrier </a> <a> airline </a> of <a> Tunisia </a> .
+
+40	FALSE	Mahan Air::icao	irm / Iran	
+<p> Officially <strong> Mahan Airlines </strong> ( ) is a private <a> airline </a> based in <a> Tehran </a> , <a> Iran </a> .
+
+41	FALSE	Gulf Air::icao	gfa / Gulf	
+<p> <strong> Gulf Air </strong> ( <em> &#x1e6c ; ayar&#x0101 ; n al-Khal&#x012b ; j </em> ) is the principal <a> flag carrier </a> of the Kingdom of <a> Bahrain </a> .
+
+#	NEW	icao	........ / Inc .	// <p> <strong> Atlantic Coast Airlines </strong> was an <a> airline </a> based in the <a> United States </a> owned by <a> Atlantic Coast Holdings , Inc . </a> .
+
+43	TRUE	Uzbekistan Airways::icao	uzb / Tashkent	
+<p> <strong> Uzbekistan Airways </strong> ( ) , ( ) is the <a> flag carrier </a> <a> airline </a> of <a> Uzbekistan </a> , headquartered in <a> Tashkent </a> . </p>
+
+#	null	icao	jaz / ..........
+

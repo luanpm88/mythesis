@@ -1,2 +1,0 @@
-<li><strong>The Faculty of Law and Political Science</strong>, has two departments: Law and Management(Political Science).</li>
-<li><strong>The Faculty of Science</strong>, has five departments: Computer Science, Biology, Chemistry, Mathematics and  Physics .</li>

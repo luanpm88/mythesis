@@ -1,2 +1,0 @@
-<li><a>Official Website</a></li>
-<li><a>UMUC Profile</a></li>

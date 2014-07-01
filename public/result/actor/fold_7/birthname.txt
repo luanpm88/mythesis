@@ -1,0 +1,66 @@
+Found: 29
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	birthname	........ / actress and former	// <p> <strong> Jill Goodacre Connick </strong> ( born March 29 , 1965 in <a> Lubbock </a> , <a> Texas </a> ) is an <a> American </a> actress and former <a> model </a> .
+
+#	NEW	birthname	........ / were married in	// <p> He and actress <a> Sondra Kerr </a> were married in 1961 and divorced in 1983 .
+
+#	NEW	birthname	........ / Linus William Roache	// <p> <strong> Linus William Roache </strong> ( born 1 February 1964 ) is an <a> English </a> <a> actor </a> . </p>
+
+#	NEW	birthname	........ / Edward Israel Iskowitz	// <p> Cantor was born <strong> Edward Israel Iskowitz </strong> in <a> New York City </a> , the son of <a> Russian </a> - <a> Jewish </a> immigrants , Meta and Mechel Iskowitz .
+
+#	NEW	birthname	........ / fashion model	// <p> <strong> Rebecca Alie Romijn </strong> ( , ; born November 6 , 1972 ) is a <a> Dutch American </a> <a> actress </a> and former <a> fashion model </a> .
+
+#	NEW	birthname	........ / is an	// <p> <strong> Melanie Chartoff </strong> ( born December 15 , 1950 ) is an <a> American </a> actress .
+
+#	NEW	birthname	........ / the play had finished Hoffman asked	// After the play had finished Hoffman asked to meet the young actress .
+
+#	NEW	birthname	........ / is a Swedish actress .	// <p> <strong> Rebecka M&#x00e5 ; nstr&#x00e5 ; le Liljeberg </strong> ( born May 13 , 1981 ) is a Swedish actress . </p>
+
+#	NEW	birthname	........ / during her early years	// <p> Bertrand studied with <a> Lee Strasberg </a> during her early years as an actress .
+
+#	NEW	birthname	........ / Academy Award for Best Director	// His debut film <em> <a> American Beauty </a> </em> ( 1999 ) earned him an <a> Academy Award for Best Director </a> . </p>
+
+#	NEW	birthname	........ / November 1972 ) is an	// <p> <strong> Jonathan Lee </strong> &quot ; <strong> Jonny Lee </strong> &quot ; <strong> Miller </strong> ( born 15 November 1972 ) is an <a> English </a> <a> actor </a> .
+
+#	NEW	birthname	........ / is an	// <p> <strong> Keith Coogan </strong> ( born January 13 , 1970 ) is an <a> American </a> actor .
+
+#	NEW	birthname	........ / University of Illinois	// She was raised in <a> Oak Park , Illinois </a> and attended the <a> University of Illinois </a> . </p>
+
+#	NEW	birthname	........ / known for his wide range of characters	// <p> <strong> Jerry Nelson </strong> ( born July 10 , 1934 ) is an American <a> Muppet </a> <a> puppeteer </a> , known for his wide range of characters , singing abilities , and his frequent partnership with <a> Richard Hunt </a> . </p>
+
+#	NEW	birthname	........ / whose career spanned four decades .	// <p> <strong> Aristotelis &quot ; Telly&quot ; Savalas </strong> ( ; January 21 , 1922 <img> January 22 , 1994 ) was an American <a> film </a> and <a> television </a> actor and singer , whose career spanned four decades . </p>
+
+#	NEW	birthname	........ / John Sessions	// <p> <strong> John Gibb Marshall </strong> ( born 11 January 1953 ) , better known by the stage name <strong> John Sessions </strong> , is a <a> Scottish </a> <a> actor </a> and <a> comedian </a> .
+
+#	NEW	birthname	........ / O ' Connell married actress	// <p> On July 14 , 2007 , O ' Connell married actress and former model <a> Rebecca Romijn </a> near Los Angeles in <a> Calabasas , California </a> . </p>
+
+#	NEW	birthname	........ / stand- up comedian	// <p> <strong> Krisse Salminen </strong> ( born <strong> Heidi Kristiina Salminen </strong> May 28 , 1976 in <a> Hollola </a> , <a> Finland </a> ) is a <a> Finnish </a> stand-up comedian and television talkshow hostess .
+
+#	NEW	birthname	........ / specializing in	// <p> <strong> Harold Allen Ramis </strong> ( born November 21 , 1944 ) is an <a> American </a> <a> actor </a> , <a> director </a> , and <a> writer </a> , specializing in comedy .
+
+#	NEW	birthname	........ / also involved for a time with former pornographic actress	// He was also involved for a time with former pornographic actress <a> Heather Hunter </a> . </p>
+
+#	NEW	birthname	........ / Alexander Medawar &quot ; Alex&quot ; Garland	// <p> <strong> Alexander Medawar &quot ; Alex&quot ; Garland </strong> ( born 1970 ) is a British <a> novelist </a> and screenwriter . </p>
+
+#	NEW	birthname	........ / Jill St . John	// <p> <strong> Jill St . John </strong> ( born August 19 , 1940 ) is an <a> American </a> <a> actress </a> .
+
+#	NEW	birthname	........ / It ' s worth noting that Tsukamoto acts	// <p> It ' s worth noting that Tsukamoto acts in nearly all of his films , with the exception of those that he worked on as a ' director for hire ' ( namely <em> Hiruko the Goblin </em> and <em> Gemini </em> ) .
+
+#	NEW	birthname	........ / film producer	// <p> <strong> Benicio Monserrate Rafael del Toro S&#x00e1 ; nchez </strong> ( born February 19 , 1967 ) , better known as <strong> Benicio del Toro </strong> , is a <a> Puerto Rican </a> - <a> American </a> <a> actor </a> and <a> film producer </a> .
+
+#	NEW	birthname	........ / an American film actress	// <p> <strong> Jean Harlow </strong> ( March 3 , 1911&nbsp ; &#x2013 ; June 7 , 1937 ) was an American film actress and <a> sex symbol </a> of the 1930s .
+
+#	NEW	birthname	........ / is an American actor	// <p> <strong> Jake Thomas </strong> ( born January 30 , 1990 ) is an American actor and singer known for his roles in the television show <em> <a> Lizzie McGuire </a> </em> , in which he plays Lizzie ' s younger brother , Matt McGuire .
+
+#	NEW	birthname	........ / he wrote his first	// In 1962 , he wrote his first script .
+
+#	NEW	birthname	........ / comedian and actor .	// <p> <strong> Alberto Olmedo </strong> ( August 24 , 1933 &#x2013 ; March 5 , 1988 ) was an <a> Argentine </a> comedian and actor . </p>
+
+#	NEW	birthname	........ / he died of	// <p> On January 4 , 1996 , he died of <a> cystic fibrosis </a> , aged 43 . </p>
+

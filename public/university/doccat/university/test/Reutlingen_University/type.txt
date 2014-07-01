@@ -1,8 +1,0 @@
-<p>The university offers <a>undergraduate</a> and <a>graduate</a> programs in the main fields of:</p>
-<li>Technologies (<a>chemistry</a>, <a>textile</a> design/technology, and <a>engineering</a>).</li>
-<li>Cooperation with partner universities of International Partnership of Business Schools (IPBS)</li>
-<li>European and international study-abroad programs for incoming and outgoing students</li>
-<li>Scholarships and other types of funding for study periods and internships (<a>DAAD</a>, <a>Fulbright</a>, Landesstiftung Baden-W&#x00fc;rttemberg, InWEnt <a>gGmbH</a> and others)</li>
-<li>International examinations and qualifications such as <a>TOEFL</a>, <a>APIEL</a>, <a>GMAT</a>, <a>GRE</a>, <a>DSH</a>, etc.</li>
-<li>Assistance with accommodation for international students from partner universities</li>
-The large laboratories for <a>Mechanical Engineering</a> and <a>Chemistry</a> are also located in this building.</p>

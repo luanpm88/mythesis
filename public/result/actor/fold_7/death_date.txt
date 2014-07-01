@@ -1,0 +1,62 @@
+Found: 27
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	death_date	........ / model	// <p> <strong> Jill Goodacre Connick </strong> ( born March 29 , 1965 in <a> Lubbock </a> , <a> Texas </a> ) is an <a> American </a> actress and former <a> model </a> .
+
+#	NEW	death_date	........ / strong>	// <p> <strong> Robert Blake </strong> ( b .
+
+#	NEW	death_date	........ / songwriter	// <p> <strong> Eddie Cantor </strong> ( January 31 , 1892 &#x2013 ; October 10 , 1964 ) was an <a> American </a> &quot ; <a> illustrated song </a> &quot ; performer , <a> comedian </a> , <a> dancer </a> , <a> singer </a> , <a> actor </a> and <a> songwriter </a> .
+
+#	NEW	death_date	........ / fashion	// <p> <strong> Rebecca Alie Romijn </strong> ( , ; born November 6 , 1972 ) is a <a> Dutch American </a> <a> actress </a> and former <a> fashion model </a> .
+
+#	NEW	death_date	........ / a>	// <p> <strong> Melanie Chartoff </strong> ( born December 15 , 1950 ) is an <a> American </a> actress .
+
+#	NEW	death_date	........ / May 13 , 1981 )	// <p> <strong> Rebecka M&#x00e5 ; nstr&#x00e5 ; le Liljeberg </strong> ( born May 13 , 1981 ) is a Swedish actress . </p>
+
+#	NEW	death_date	........ / Marcia	// <p> <strong> Marcia Lynne &quot ; Marcheline&quot ; Bertrand </strong> , and a sister , Debbie Bertrand .
+
+#	NEW	death_date	........ / is	// <p> <strong> Samuel Alexander &quot ; Sam&quot ; Mendes </strong> , <a> CBE </a> ( born 1 August 1965 ) is an English stage and film director .
+
+#	NEW	death_date	........ / actor	// <p> <strong> Jonathan Lee </strong> &quot ; <strong> Jonny Lee </strong> &quot ; <strong> Miller </strong> ( born 15 November 1972 ) is an <a> English </a> <a> actor </a> .
+
+#	NEW	death_date	........ / a>	// <p> <strong> Keith Coogan </strong> ( born January 13 , 1970 ) is an <a> American </a> actor .
+
+#	NEW	death_date	........ / West	// She also starred in <em> <a> Grand Hotel </a> </em> at the <a> Donmar Warehouse </a> in <a> London </a> ' s <a> West End </a> .
+
+#	NEW	death_date	........ / known	// <p> <strong> Jerry Nelson </strong> ( born July 10 , 1934 ) is an American <a> Muppet </a> <a> puppeteer </a> , known for his wide range of characters , singing abilities , and his frequent partnership with <a> Richard Hunt </a> . </p>
+
+#	NEW	death_date	........ / actor	// <p> <strong> Aristotelis &quot ; Telly&quot ; Savalas </strong> ( ; January 21 , 1922 <img> January 22 , 1994 ) was an American <a> film </a> and <a> television </a> actor and singer , whose career spanned four decades . </p>
+
+#	NEW	death_date	........ / comedian	// <p> <strong> John Gibb Marshall </strong> ( born 11 January 1953 ) , better known by the stage name <strong> John Sessions </strong> , is a <a> Scottish </a> <a> actor </a> and <a> comedian </a> .
+
+#	NEW	death_date	........ / as &	// <p> Most recently , he appeared in the 2009 <a> thriller </a> film <em> <a> Obsessed </a> </em> as &quot ; Ben&quot ; , the best friend and co-worker of the film ' s <a> protagonist </a> Derek Charles ( <a> Idris Elba </a> ) . </p>
+
+#	NEW	death_date	........ / actor	// <p> <strong> Oscar Levant </strong> ( December 27 , 1906 &ndash ; August 14 , 1972 ) was an American <a> pianist </a> , <a> composer </a> , <a> author </a> , <a> comedian </a> , and <a> actor </a> .
+
+#	NEW	death_date	........ / stand-	// <p> <strong> Krisse Salminen </strong> ( born <strong> Heidi Kristiina Salminen </strong> May 28 , 1976 in <a> Hollola </a> , <a> Finland </a> ) is a <a> Finnish </a> stand-up comedian and television talkshow hostess .
+
+#	NEW	death_date	........ / specializing	// <p> <strong> Harold Allen Ramis </strong> ( born November 21 , 1944 ) is an <a> American </a> <a> actor </a> , <a> director </a> , and <a> writer </a> , specializing in comedy .
+
+#	NEW	death_date	........ / September 3 , 1965 )	// <p> <strong> Carlos Irwin Estevez </strong> ( born September 3 , 1965 ) , known professionally as <strong> Charlie Sheen </strong> , is an American actor .
+
+#	NEW	death_date	........ / and	// <p> <strong> Alexander Medawar &quot ; Alex&quot ; Garland </strong> ( born 1970 ) is a British <a> novelist </a> and screenwriter . </p>
+
+#	NEW	death_date	........ / actress	// <p> <strong> Jill St . John </strong> ( born August 19 , 1940 ) is an <a> American </a> <a> actress </a> .
+
+#	NEW	death_date	........ / film	// <p> <strong> Benicio Monserrate Rafael del Toro S&#x00e1 ; nchez </strong> ( born February 19 , 1967 ) , better known as <strong> Benicio del Toro </strong> , is a <a> Puerto Rican </a> - <a> American </a> <a> actor </a> and <a> film producer </a> .
+
+#	NEW	death_date	........ / 7 , 1937 )	// <p> <strong> Jean Harlow </strong> ( March 3 , 1911&nbsp ; &#x2013 ; June 7 , 1937 ) was an American film actress and <a> sex symbol </a> of the 1930s .
+
+#	NEW	death_date	........ / portraying	// He is also seen in <em> <a> Cory in the House </a> </em> , portraying the role of Jason Stickler . </p>
+
+#	NEW	death_date	........ / New	// <p> Michael Landon was born <strong> Eugene Maurice Orowitz </strong> in <a> Forest Hills </a> , a neighborhood of <a> Queens </a> , <a> New York </a> .
+
+#	NEW	death_date	........ / March 5 , 1988 )	// <p> <strong> Alberto Olmedo </strong> ( August 24 , 1933 &#x2013 ; March 5 , 1988 ) was an <a> Argentine </a> comedian and actor . </p>
+
+#	NEW	death_date	........ / musician	// <p> <strong> Bob Flanagan </strong> ( December 26 , 1952 &ndash ; January 4 , 1996 ) was an <a> American </a> <a> performance art </a> ist , <a> comic </a> , writer , <a> poet </a> , and <a> musician </a> .
+

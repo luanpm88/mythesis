@@ -1,0 +1,96 @@
+Found: 41
+Found Not Null: 4
+Correct: 2
+Wrong: 2
+Total: 4
+precision: 0.5
+recall: 0.5
+
+
+
+#	NEW	destinations	........ / 201	// <p> The crash of <strong> <a> Copa Airlines </a> Flight 201 </strong> is the deadliest airline disaster in Panama in 50 years , and the deadliest disaster in the history of <a> Copa Airlines </a> . </p>
+
+#	NEW	destinations	........ / 1979 .	// <p> The airline was established and started operations in 1979 .
+
+#	NEW	destinations	........ / 2005 .	// <p> The airline was established in 2004 as <strong> United Eagle Airlines </strong> ( , also known as <strong> UEAir </strong> ) . Scheduled revenue flights were launched when the first aircraft , an <a> Airbus A320-200 </a> , was delivered in July 2005 .
+
+3	FALSE	Eastern Australia Airlines::destinations	16 / 1949.	
+<p> The airline was established and started operations in 1949 .
+
+#	NEW	destinations	........ / 2007 ) :	// <p> Tatarstan Airlines operates flights to the following ( as of May 2007 ) : </p>
+
+#	NEW	destinations	........ / 2008	// On March 14 , 2008 <a> Air Contractors </a> of <a> Ireland </a> officially acquired the airline .
+
+#	NEW	destinations	........ / 2002 .	// <p> The airline started operations in 2002 .
+
+#	NEW	destinations	........ / 1996 .	// <p> The airline was established and started operations in 1996 .
+
+#	NEW	destinations	........ / 1997	// In 1997 , the airline was reorganized towards offering commercial charter flights .
+
+9	TRUE	IBC Airways::destinations	9 / 1991.	
+<p> The airline was established in 1991 .
+
+#	NEW	destinations	........ / 737	// The pilots ' union contract at the time compelled United Airlines to have three licensed pilots on board , even though Boeing had designed the 737 to be flown by a crew of two , instead of three .
+
+#	NEW	destinations	........ / 737	// At the time of takeover , Ladeco was equipped mainly with <a> Boeing 737 </a> aircraft as well as some <a> Boeing 727 </a> s and <a> Boeing 757 </a> s .
+
+#	NEW	destinations	........ / p>	// Therefore , the aircraft was towed to a <a> Continental Airlines </a> hangar at LAX for evaluation . </p>
+
+#	NEW	destinations	........ / 140	// Michael Martin was a new Boeing 737 captain , logging only about 140 hours in the left seat of the 737 .
+
+#	NEW	destinations	........ / 24	// <p> The airline was established in 1948 and started operations on 24 December 1948 .
+
+#	NEW	destinations	........ / 2007 ) :	// <p> The Girjet fleet consisted of the following aircraft ( at December 2007 ) : </p>
+
+#	NEW	destinations	........ / 1960	// However , it was 1960 when the airline started regular commercial services . </p>
+
+#	NEW	destinations	........ / 1998 .	// / br / The airline suspended air operations in late 1997 to focus its attention on expanding its facilities , and acquiring a modern aircraft fleet starting with a new <a> STOL </a> type 19-seater <a> Dornier </a> 228-212 aircraft in April 1998 . br
+
+#	NEW	destinations	........ / 1933	// <p> On October 10 , 1933 , a <a> Boeing 247 </a> <a> propliner </a> operated by <a> United Air Lines </a> and <a> registered </a> as NC13304 , crashed near <a> Chesterton , Indiana </a> .
+
+#	NEW	destinations	........ / p>	// World War II began less than two years later . </p>
+
+#	NEW	destinations	........ / 1991	// Founded in 1991 , it operated regional and international charter flights out of <a> Riga International Airport </a> between 1995 and 2005 . </p>
+
+#	NEW	destinations	........ / 200	// <p> The East African Airlines fleet consisted of one single ageing <a> Boeing 737-200 </a> aircraft . </p>
+
+#	NEW	destinations	........ / 1983	// <p> When <a> Horizon Air </a> began operating in 1983 , Cascade was competing against an unstoppable airline that eventually acquired <a> Air Oregon </a> and <a> Transwestern Airlines </a> .
+
+23	FALSE	Egoli Air::destinations	/ / 1996.	
+<p> The airline was established in 1996 and started operations in June 1996 .
+
+#	NEW	destinations	........ / p>	// The helicopters are flown using the Air Operators Certificate of Oxford Air Services Limited . </p>
+
+#	NEW	destinations	........ / 2005	// It was founded in 1996 , and since 2005 it operates flights in code share with <a> Varig </a> and <a> TAM Linhas A&#x00e9 ; reas </a> . </p>
+
+#	NEW	destinations	........ / 2006 .	// The airline suspended services in March 2006 .
+
+#	NEW	destinations	........ / 2	// <p> The airline was established on 9 February 2000 and started operations on 2 November 2000 .
+
+#	NEW	destinations	........ / 2003	// <p> The airline was established in 2003 and started operations in January 2004 .
+
+#	NEW	destinations	........ / 2005 ) .	// <p> The Flight Alaska fleet consists of <a> Cessna 207 </a> and <a> Cessna 207A </a> aircraft ( at January 2005 ) . </p>
+
+#	NEW	destinations	........ / 1985	// It was established and started operations in 1985 and operates scheduled and on-demand air cargo services .
+
+#	NEW	destinations	........ / 2003 .	// <p> The airline was established and started operations in 2003 . </p>
+
+#	NEW	destinations	........ / 2010	// From 2010 a <a> Shanghai </a> , <a> Tianjin Binhai International Airport </a> , <a> Prague </a> , <a> Luxembourg </a> , <a> Shanghai </a> round trip route has been operated . </p>
+
+#	NEW	destinations	........ / 1968 .	// <p> <strong> Voyageur Airways </strong> is an airline based in <a> North Bay </a> , <a> Ontario </a> , <a> Canada </a> that commenced operations in 1968 .
+
+#	NEW	destinations	........ / 1993	// <p> The airline was established in December <a> 1993 </a> .
+
+#	NEW	destinations	........ / 1996	// It was established and started operations in 1996 and operates domestic charter services .
+
+36	TRUE	Imair Airlines::destinations	6 / 1995.	
+<p> The airline was established on 6 October 1994 and started operations in July 1995 .
+
+#	NEW	destinations	........ / 1991	// It started operations in March 1991 and undertakes all types of cargo operations , as well as maintenance work for third parties .
+
+#	NEW	destinations	........ / x00e9 ;	// <p> After setting the HSI , Garcez programmed the aircraft <a> Flight management system </a> ( FMS ) to the distance to Bel&#x00e9 ; m ( ) .
+
+#	NEW	destinations	........ / 1997	// It became a subsidiary of Malaysia Airlines in April 1997 with two <a> Boeing 747-200F </a> freighters from the parent company .
+
+#	NEW	destinations	........ / 767-	// The livery is adapted because both <a> Boeing 767-300ER </a> aircraft are also operating long-haul flights in cooperation with <a> Thomas Cook Airlines ( Belgium ) </a> . </p>
+

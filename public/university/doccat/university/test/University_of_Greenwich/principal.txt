@@ -1,2 +1,0 @@
-<h3>Bird College</h3>
-<li>Orpington College</li>

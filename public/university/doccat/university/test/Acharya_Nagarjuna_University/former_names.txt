@@ -1,3 +1,0 @@
-<li>Department of Adult Education</li>
-<li>Department of Electronics &amp; Instrumentation Technology</li>
-<li>Department of Environmental Science</li>

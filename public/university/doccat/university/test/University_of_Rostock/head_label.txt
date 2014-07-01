@@ -1,4 +1,0 @@
-<li> <a>University of Georgia</a>, <a>United States</a></li>
-<li> <a>Brown University</a>, <a>United States</a></li>
-<li> <a>University of Utah</a>, <a>United States</a></li>
-<li> <a>University of Wyoming</a>, <a>United States</a></li>

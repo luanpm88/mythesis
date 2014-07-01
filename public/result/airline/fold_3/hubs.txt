@@ -1,0 +1,74 @@
+Found: 33
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	hubs	........ / Airlines	// <p> The crash of <strong> <a> Copa Airlines </a> Flight 201 </strong> is the deadliest airline disaster in Panama in 50 years , and the deadliest disaster in the history of <a> Copa Airlines </a> . </p>
+
+#	NEW	hubs	........ / Bahrain	// Its main base is <a> Bahrain International Airport </a> . </p>
+
+#	NEW	hubs	........ / Airlines	// United Eagle Airlines [ [ Airbus A319-100 ] ] at <a> Kunming Wujiaba International Airport </a> ( 2006 ) . ] ]
+
+#	NEW	hubs	........ / Sydney	// Its main base is <a> Sydney Airport </a> , with a hub at <a> Melbourne Airport </a> . </p>
+
+#	NEW	hubs	........ / Gaulle	// Its main base in Europe is <a> Paris-Charles de Gaulle Airport </a> and in Africa <a> Ibn Batouta International Airport </a> .
+
+#	NEW	hubs	........ / Dubai	// Its main base is <a> Dubai International Airport </a> . </p>
+
+#	NEW	hubs	........ / Ugolny	// Its main base is <a> Anadyr Ugolny Airport </a> ref name=&quot ; ATM&quot ; / . </p>
+
+#	NEW	hubs	........ / Lufttransport	// <p> Starting from October 2010 , Jet Air operated flights on behalf of <a> Ostfriesische Lufttransport </a> ( OLT ) from their hub at <a> Bremen Airport </a> to both <a> Nuremberg Airport </a> and <a> Brussels Airport </a> . : </p>
+
+#	NEW	hubs	........ / Miami	// Its main base is <a> Miami International Airport </a> .
+
+#	NEW	hubs	........ / Stanley	// Its main base is <a> Port Stanley Airport </a> . </p>
+
+#	NEW	hubs	........ / Barcelona	// Its base was <a> Barcelona International Airport </a> . </p>
+
+#	NEW	hubs	........ / Orly	// <p> The company established its operational and engineering base at <a> Paris-Orly Airport </a> , where its flights were concentrated at <a> Orly Ouest </a> , Orly Airport ' s West Terminal . </p>
+
+#	NEW	hubs	........ / Pago	// Its main base of operations is at <a> Pago Pago International Airport </a> .
+
+#	NEW	hubs	........ / section	// The <a> tail section </a> had been severed just aft of the toilet and was found mostly intact almost a mile away from the main wreckage . </p>
+
+#	NEW	hubs	........ / Stene	// Unfortunately , conditions were little better at Ostend , and the aircraft hit a factory chimney while circling to land at Stene Airport . </p>
+
+#	NEW	hubs	........ / Riga	// Founded in 1991 , it operated regional and international charter flights out of <a> Riga International Airport </a> between 1995 and 2005 . </p>
+
+#	NEW	hubs	........ / Kaduna	// Its main base is <a> Kaduna Airport </a> . </p>
+
+#	NEW	hubs	........ / Wenatchee	// <p> Other points served by Cascade included Wenatchee , WA , Moses Lake , WA , Walla Walla , WA ( the main maintenance base ) , Lewiston , ID , Idaho Falls , ID , Pocatello , ID , Kalispell , Missoula , Helena , and Butte in Montana , and Calgary , Alberta in Canada .
+
+#	NEW	hubs	........ / Tambo	// Its main base is <a> OR Tambo International Airport </a> , Johannesburg . </p>
+
+#	NEW	hubs	........ / Stansted	// Based at London <a> Stansted Airport </a> , Air Harrods operates a fleet of <a> helicopter </a> s liveried in green and gold ; colours commonly associated with the Harrods name .
+
+#	NEW	hubs	........ / Varig	// It was founded in 1996 , and since 2005 it operates flights in code share with <a> Varig </a> and <a> TAM Linhas A&#x00e9 ; reas </a> . </p>
+
+#	NEW	hubs	........ / Maribor	// <p> Slovenian Spirit operated flights on the Styrian Spirit network connecting <a> Maribor Airport </a> in <a> Slovenia </a> with <a> Salzburg </a> in <a> Austria </a> , and <a> Paris </a> .
+
+#	NEW	hubs	........ / Arriaga	// Its main base is <a> Ponciano Arriaga International Airport </a> , <a> San Luis Potos&#x00ed ; </a> . </p>
+
+#	NEW	hubs	........ / Anchorage	// Its main base is <a> Ted Stevens Anchorage International Airport </a> .
+
+#	NEW	hubs	........ / Mitchell	// Freight Runners is located at the <a> General Mitchell International Airport </a> , Milwaukee . </p>
+
+#	NEW	hubs	........ / Shanghai	// From 2010 a <a> Shanghai </a> , <a> Tianjin Binhai International Airport </a> , <a> Prague </a> , <a> Luxembourg </a> , <a> Shanghai </a> round trip route has been operated . </p>
+
+#	NEW	hubs	........ / Garland	// They also provide ground handling , fuel services and terminal services at the <a> North Ba / Jack Garland Airport </a> .
+
+#	NEW	hubs	........ / Malabo	// Its main base is <a> Malabo International Airport </a> . </p>
+
+#	NEW	hubs	........ / Aliyev	// Its main base was <a> Heydar Aliyev International Airport </a> , <a> Baku </a> .
+
+#	NEW	hubs	........ / Riga	// Its main base is <a> Riga International Airport </a> . </p>
+
+#	NEW	hubs	........ / call	// In that call , the pilot said he was from the airport and was starting to descend .
+
+#	NEW	hubs	........ / Guarulhos	// <p> At 9 : 43 , flight 254 left <a> Guarulhos International Airport </a> , S&#x00e3 ; o Paulo , heading towards Bel&#x00e9 ; m .
+
+#	NEW	hubs	........ / KLIA	// <p> Opened in 1998 , the same year <a> KLIA </a> ( <a> Kuala Lumpur International Airport </a> ) began operations , the MASkargo Animal Hotel started as a centre catering to inbound animal shipments for staging and delivery .
+

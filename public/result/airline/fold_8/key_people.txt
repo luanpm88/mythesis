@@ -1,0 +1,25 @@
+Found: 5
+Found Not Null: 1
+Correct: 1
+Wrong: 0
+Total: 3
+precision: 1.0
+recall: 0.3333333333333333
+
+
+
+0	TRUE	AeroHonduras::key_people	ricardo martinez / Ricardo Martinez	
+The remaining 55% stake is owned by Ricardo Martinez , who is the President of the airline . </p>
+
+#	NEW	key_people	........ / Bombardier the	// however , the airline was advised by Bombardier the aircraft would be unsuited for operations at Paro .
+
+#	NEW	key_people	........ / 2022 the	// By 2022 the airline hopes to have tripled its fleet to over 60 aircraft . </p>
+
+#	NEW	key_people	........ / Alpen- Air	// The airline is owned by Alpen-Air consortium ( 89 . 82% ) ,
+
+#	NEW	key_people	........ / mid October	// By mid October 2010 , Afriqiyah Airways and <a> Libyan Airlines </a> ( Libya ' s other state flag carrier ) were expected to merge into one airline . </p>
+
+#	null	key_people	omar fontana / ..........
+
+#	null	key_people	steve padgett / ..........
+

@@ -1,0 +1,305 @@
+Total articles: 456
+Articles for test: 411
+Articles for train: 45
+Total attributes: 140
+Attributes with high occurrences: 18/140
+
+------------
+Found: 588
+Found Not Null: 96
+Correct: 36
+Wrong: 60
+Total: 113
+precision: 0.375
+recall: 0.3185840707964602
+
+
+
+15	TRUE	British Caledonian:: iata	br / Caledonian	
+<p> <strong> British Caledonian </strong> was a private , <a> British </a> independent airline , operating out of <a> Gatwick Airport </a> in the 1970s and 1980s .
+
+16	FALSE	British Caledonian:: callsign	caledonian / inaugural	
+The <a> aircraft </a> operated the inaugural flight between <a> London Gatwick </a> and <a> Houston </a> on 24 October 1977 . ]]
+
+19	TRUE	British Caledonian:: founded	1970 / the	
+<p> <strong> British Caledonian </strong> was a private , <a> British </a> independent airline , operating out of <a> Gatwick Airport </a> in the 1970s and 1980s .
+
+22	TRUE	British Caledonian:: airline	british caledonian / 1980s.	
+<p> <strong> British Caledonian </strong> was a private , <a> British </a> independent airline , operating out of <a> Gatwick Airport </a> in the 1970s and 1980s .
+
+38	FALSE	Flash Airlines:: fleet_size	2 / of	
+<p> The Flash Airlines fleet consisted of the following aircraft during operations : </p>
+
+40	FALSE	Flash Airlines:: iata	- / as	
+( 2003 ) ]] The airline was established in 1995 as <strong> Heliopolis Airlines </strong> .
+
+41	TRUE	Flash Airlines:: callsign	flash / at	
+Flash Airlines [[Boeing 737-300]] at <a> Paris </a> <a> Charles de Gaulle Airport </a> , <a> France </a> .
+
+42	TRUE	Flash Airlines:: parent	flash group / Airlines	
+<p> <strong> Flash Airlines </strong> was a private charter <a> airline </a> operating out of <a> Cairo </a> , <a> Egypt </a> that was part of the Flash Group tourism company .
+
+44	TRUE	Flash Airlines:: founded	1995 / 1995	
+( 2003 ) ]] The airline was established in 1995 as <strong> Heliopolis Airlines </strong> .
+
+49	FALSE	Flash Airlines:: airline	flash airlines / Heliopolis Airlines	
+( 2003 ) ]] The airline was established in 1995 as <strong> Heliopolis Airlines </strong> .
+
+67	FALSE	SilkAir:: destinations	31 / 1998	
+It began replacing its Boeing fleet with Airbus aircraft when the first <a> Airbus A320-200 </a> arrived in 1998 , and retired all Boeing aircraft a year later .
+
+68	TRUE	SilkAir:: iata	mi / an	
+<p> <strong> SilkAir ( Singapore ) Private Limited </strong> is an <a> airline </a> based in <a> Singapore </a> .
+
+69	FALSE	SilkAir:: callsign	silkair / Singapore'	
+Scheduled services were introduced as Tradewinds Airlines on 21 February 1989 , when it leased <a> McDonnell Douglas MD-87 </a> airplanes for services to six destinations , namely <a> Bandar Seri Begawan </a> , <a> Pattaya </a> , <a> Phuket </a> , <a> Hat Yai </a> and <a> Kuantan </a> from Singapore's <a> Changi Airport </a> and <a> Tioman </a> from Singapore's <a> Seletar Airport </a> .
+
+76	TRUE	SilkAir:: airline	silkair / ( Singapore )	
+<p> <strong> SilkAir ( Singapore ) Private Limited </strong> is an <a> airline </a> based in <a> Singapore </a> .
+
+77	FALSE	SilkAir:: icao	slk / Limited	
+<p> <strong> SilkAir ( Singapore ) Private Limited </strong> is an <a> airline </a> based in <a> Singapore </a> .
+
+81	FALSE	Union des Transports Aériens:: iata	ut / re-	
+The airline also had two Boeing 747-200s converted to 747-200 SUDs ( <strong> SUD </strong> stood for <strong> s </strong> tretched <strong> u </strong> pper <strong> d </strong> eck ) , thereby joining a select group of only three airlines that chose to have some of their 747-200s re-manufactured in this manner .
+
+82	TRUE	Union des Transports Aériens:: callsign	uta / local	
+The <a> Fokker Friendship </a> s and <a> Boeing 737 </a> were based out of <a> La Tontouta Airport </a> , New Caledonia and used on local <a> Pacific </a> services .
+
+91	FALSE	Union des Transports Aériens:: ceased	1992 / 2009	
+As of June 2009 , it ranks as the second-deadliest ( see <a> Air France flight 447 </a> ) . </p>
+
+92	FALSE	Union des Transports Aériens:: icao	uta / this	
+The airline also had two Boeing 747-200s converted to 747-200 SUDs ( <strong> SUD </strong> stood for <strong> s </strong> tretched <strong> u </strong> pper <strong> d </strong> eck ) , thereby joining a select group of only three airlines that chose to have some of their 747-200s re-manufactured in this manner .
+
+107	TRUE	VASP:: fleet_size	0 / 300	
+<p> When the airline ceased its operations , its fleet consisted of <a> Airbus A300 </a> B2-200 , <a> Boeing 727 </a> -200F and <a> Boeing 737 </a> -200/-300 aircraft . </p>
+
+110	FALSE	VASP:: callsign	vasp / o	
+It had main bases at Congonhas Airport ( CGH ) and <a> Guarulhos International Airport </a> ( GRU ) , S&#x00e3;o Paulo . </p>
+
+114	FALSE	VASP:: ceased	2005 / the	
+However , after many years of mismanagement , financial losses , soaring debt and bad credit , in 2002 it cancelled all of its international operations to concentrate in the domestic market .
+
+117	TRUE	Song (airline):: logo_size	200 / </	
+The airline operated more than 200 flights a day and carried over ten million passengers . </p>
+
+118	FALSE	Song (airline):: fleet_size	48 / 2006	
+<p> In May 2006 , Song merged into Delta Air Lines's mainline fleet .
+
+121	FALSE	Song (airline):: callsign	delta / Song'	
+Song's final flight was #2056 from <a> Las Vegas McCarran International Airport </a> to <a> Orlando International Airport </a> , which departed at 11 : 48 p . m . on April 30 , 2006 . </p>
+
+131	FALSE	Song (airline):: founded	2003 / owned	
+<p> <strong> Song , LLC </strong> was a <a> low-cost &quot;airline </a> within an airline&quot; brand owned and operated by <a> Delta Air Lines </a> .
+
+132	TRUE	Song (airline):: airline	song / Delta Air Lines	
+<p> <strong> Song , LLC </strong> was a <a> low-cost &quot;airline </a> within an airline&quot; brand owned and operated by <a> Delta Air Lines </a> .
+
+147	FALSE	Carnival Air Lines:: logo_size	200 / Carnival'	
+<p> In 1992 Carnival Air Lines began a code-share agreement with <a> Iberia Airlines </a> of Spain to transport connecting passengers from Madrid to Los Angeles via Carnival's Miami Hub .
+
+148	TRUE	Carnival Air Lines:: fleet_size	25 / 25	
+<p> This is an extract found regarding the Carnival Air Lines fleet : Carnival Air Lines has grown to include approximately 1 , 350 employees and a fleet of 25 aircraft ( nine Airbus A-300s , seven Boeing 727-200 , seven Boeing 737-400 and two Boeing 737-200 ) .
+
+151	FALSE	Carnival Air Lines:: callsign	carnival air / New	
+The exclusive route was from Miami to New York's JFK airport .
+
+153	TRUE	Carnival Air Lines:: founded	1988 / 1988	
+<p> <strong> Carnival Air Lines </strong> was a charter and low-cost air division of <a> Carnival Cruise Lines </a> started in 1988 after Carnival Cruise Lines purchased Pacific Interstate Airlines .
+
+157	TRUE	Carnival Air Lines:: ceased	1998 / 1998.	
+Before either airlines could fully merge , the holding company and its two independently operated airlines , Pan Am and Carnival , filed for bankruptcy protection and ceased scheduled flight operations in February 1998 .
+
+158	TRUE	Carnival Air Lines:: airline	carnival air lines / Pacific	
+<p> <strong> Carnival Air Lines </strong> was a charter and low-cost air division of <a> Carnival Cruise Lines </a> started in 1988 after Carnival Cruise Lines purchased Pacific Interstate Airlines .
+
+160	FALSE	Air Algérie:: logo_size	175 / 3	
+The Company carries annually nearly 3 Millions passengers on its regular services . </p>
+
+161	FALSE	Air Algérie:: fleet_size	39 / 2011	
+<p> As of January 2011 , the Air Alg&#x00e9;rie fleet consists of the following aircraft with an average age of 8 years : center /center </p>
+
+163	FALSE	Air Algérie:: iata	ah / flag	
+<p> <strong> Air Alg&#x00e9;rie SpA </strong> ( ) is the national <a> flag carrier </a> <a> airline </a> of <a> Algeria </a> , with its head office in <a> Algiers </a> .
+
+164	FALSE	Air Algérie:: callsign	air algerie / Air	
+With flights operating from <a> Houari Boumedienne Airport </a> , Air Alg&#x00e9;rie operates scheduled international services to 39 destinations in 28 countries in <a> Europe </a> , <a> North America </a> , <a> Africa </a> , <a> Asia </a> , and the <a> Middle East </a> , as well as domestic services to 32 airports . </p>
+
+172	FALSE	Royal Air Maroc:: logo_size	116 / a>	
+It was announced in May 2008 that RAM had transported a record-breaking 6 . 33 million passengers in the previous fiscal year , the year 2007 [ <a> http : //www . map . ma/eng/sections/box2/ram_group_activities/view </a> ] .
+
+176	TRUE	Royal Air Maroc:: parent	moroccan government / government, 2.	
+<p> The airline is owned 95 . 95% by the Moroccan government , 2 . 86% by <a> Air France </a> and 0 . 95% by <a> Iberia Airlines </a> .
+
+180	TRUE	Royal Air Maroc:: icao	ram / Casablanca	
+<p> <strong> Royal Air Maroc </strong> ( commonly called <strong> RAM </strong> , &#x0627;&#x0644;&#x062e;&#x0637;&#x0648;&#x0637; &#x0627;&#x0644;&#x0645;&#x0644;&#x0643;&#x064a;&#x0629; &#x0627;&#x0644;&#x0645;&#x063a;&#x0631;&#x0628;&#x064a;&#x0629; <em> Al-Khu&#x1e6d;&#x016b;&#x1e6d; al-Malak&#x012b;yyah al-Maghrib&#x012b;yyah </em> in Arabic ) is the <a> flag carrier </a> <a> airline </a> of <a> Morocco </a> , headquartered on the grounds of <a> Casablanca-Anfa Airport </a> in <a> Casablanca </a> .
+
+182	FALSE	Royal Air Maroc:: iata	at / flag	
+<p> <strong> Royal Air Maroc </strong> ( commonly called <strong> RAM </strong> , &#x0627;&#x0644;&#x062e;&#x0637;&#x0648;&#x0637; &#x0627;&#x0644;&#x0645;&#x0644;&#x0643;&#x064a;&#x0629; &#x0627;&#x0644;&#x0645;&#x063a;&#x0631;&#x0628;&#x064a;&#x0629; <em> Al-Khu&#x1e6d;&#x016b;&#x1e6d; al-Malak&#x012b;yyah al-Maghrib&#x012b;yyah </em> in Arabic ) is the <a> flag carrier </a> <a> airline </a> of <a> Morocco </a> , headquartered on the grounds of <a> Casablanca-Anfa Airport </a> in <a> Casablanca </a> .
+
+216	FALSE	Qatar Airways:: destinations	100 / 777-	
+Qatar Airways has introduced new flat-bed seats in Business Class on its fleet of new Boeing 777-300ER and Boeing 777-200LR aircraft . </p>
+
+218	FALSE	Qatar Airways:: callsign	qatari / Cargo	
+<p> [[File : Doha Airport 2008 ( 40 ) . JPG|thumb|Airbus [[Airbus A300|A300-600RF]] Cargo at <a> Doha International Airport </a> ]] </p>
+
+242	FALSE	Spanair:: callsign	spanair / focus	
+Its main hub is <a> El Prat Airport </a> in Barcelona , with focus cities at <a> Barajas Airport </a> in <a> Madrid </a> and <a> Son Sant Joan Airport </a> in <a> Palma de Mallorca </a> .
+
+243	FALSE	Spanair:: founded	1986 / <a>	
+<p> <strong> Spanair </strong> is a Spanish <a> airline </a> , with its head office in the Spanair Building in <a> L'Hospitalet de Llobregat </a> , near <a> Barcelona </a> .
+
+251	FALSE	Air Berlin:: destinations	146 / 15	
+<p> On 28 November 2006 , aircraft manufacturer <a> Boeing </a> announced an Air Berlin order of 60 <a> Boeing 737-800 </a> aircraft , as well as for 15 aircraft of the smaller <a> Boeing 737-700 </a> variant .
+
+252	FALSE	Air Berlin:: iata	ab / com	
+Luftverkehrs <a> KG </a> </strong> ( stylized as <strong> airberlin </strong> or <strong> airberlin . com </strong> ) is <a> Germany </a> 's second largest <a> airline </a> , after <a> Lufthansa </a> , and Europe's fifth largest airline in terms of passengers .
+
+253	FALSE	Air Berlin:: callsign	air berlin / below	
+A total of 23 German cities are served , more than any other airline . ! Should be referenced below Its largest <a> hub </a> is <a> Berlin-Tegel Airport </a> , followed by <a> D&#x00fc;sseldorf Airport </a> .
+
+256	FALSE	Air Berlin:: airline	air berlin / com	
+Luftverkehrs <a> KG </a> </strong> ( stylized as <strong> airberlin </strong> or <strong> airberlin . com </strong> ) is <a> Germany </a> 's second largest <a> airline </a> , after <a> Lufthansa </a> , and Europe's fifth largest airline in terms of passengers .
+
+257	TRUE	Air Berlin:: icao	ber / passengers.	
+Luftverkehrs <a> KG </a> </strong> ( stylized as <strong> airberlin </strong> or <strong> airberlin . com </strong> ) is <a> Germany </a> 's second largest <a> airline </a> , after <a> Lufthansa </a> , and Europe's fifth largest airline in terms of passengers .
+
+272	TRUE	Blue1:: airline	blue1 / world&#	
+<p> <strong> Blue1 <a> Oy </a> </strong> is a Finnish airline owned by <a> SAS Group </a> and a full member of <a> Star Alliance </a> , the world&#x2019;s largest airline alliance , with a hub at <a> Helsinki-Vantaa Airport </a> .
+
+279	TRUE	ALM Antillean Airlines:: iata	lm / of	
+<p> <strong> ALM Antillean Airlines </strong> ( <a> Dutch </a> : <strong> Antilliaanse Luchtvaart Maatschappij </strong> ) was the main <a> airline </a> of the <a> Netherlands Antilles </a> between its foundation in 1964 and its shut-down in 2001 , operating out of <a> Aruba </a> , <a> Bonaire </a> , and <a> Cura&#x00e7;ao </a> . </p>
+
+280	FALSE	ALM Antillean Airlines:: callsign	antillean / International	
+Before its shutdown its headquarters were on the grounds of <a> Hato International Airport </a> . </p>
+
+283	TRUE	ALM Antillean Airlines:: founded	1964 / 2001	
+<p> <strong> ALM Antillean Airlines </strong> ( <a> Dutch </a> : <strong> Antilliaanse Luchtvaart Maatschappij </strong> ) was the main <a> airline </a> of the <a> Netherlands Antilles </a> between its foundation in 1964 and its shut-down in 2001 , operating out of <a> Aruba </a> , <a> Bonaire </a> , and <a> Cura&#x00e7;ao </a> . </p>
+
+287	TRUE	ALM Antillean Airlines:: ceased	2001 / <a>	
+<p> <strong> ALM Antillean Airlines </strong> ( <a> Dutch </a> : <strong> Antilliaanse Luchtvaart Maatschappij </strong> ) was the main <a> airline </a> of the <a> Netherlands Antilles </a> between its foundation in 1964 and its shut-down in 2001 , operating out of <a> Aruba </a> , <a> Bonaire </a> , and <a> Cura&#x00e7;ao </a> . </p>
+
+288	TRUE	ALM Antillean Airlines:: icao	alm / Cura&#	
+<p> <strong> ALM Antillean Airlines </strong> ( <a> Dutch </a> : <strong> Antilliaanse Luchtvaart Maatschappij </strong> ) was the main <a> airline </a> of the <a> Netherlands Antilles </a> between its foundation in 1964 and its shut-down in 2001 , operating out of <a> Aruba </a> , <a> Bonaire </a> , and <a> Cura&#x00e7;ao </a> . </p>
+
+316	FALSE	Bangkok Airways:: iata	pg / Co.	
+Airways [[Airbus A320]]]] <strong> Bangkok Airways Co . , Ltd . </strong> is a regional <a> airline </a> based in <a> Chatuchak District </a> , <a> Bangkok </a> , <a> Thailand </a> .
+
+317	FALSE	Bangkok Airways:: callsign	bangkok air / Bangkok.	
+Its main base is <a> Suvarnabhumi Airport </a> , Bangkok . </p>
+
+342	TRUE	Orient Thai Airlines:: destinations	7 / 200	
+Udom acquired two B727-200 aircraft and operated them under the name Orient Express Air .
+
+351	FALSE	Orient Thai Airlines:: callsign	orient thai / main	
+Its main base is <a> Suvarnabhumi Airport </a> , Bangkok .
+
+354	FALSE	Air Calédonie:: fleet_size	4 / 2009 ) :	
+<p> The Air Cal&#x00e9;donie fleet includes the following aircraft ( as of December 2009 ) : </p>
+
+356	FALSE	Air Calédonie:: iata	ty / de	
+<p> <strong> Soci&#x00e9;t&#x00e9; Cal&#x00e9;donienne de Transports A&#x00e9;riens </strong> , <a> operating as </a> <strong> Air Cal&#x00e9;donie </strong> , is the domestic <a> airline </a> for <a> New Caledonia </a> , headquartered on the grounds of <a> Magenta Airport </a> in <a> Noum&#x00e9;a </a> .
+
+400	TRUE	Mandarin Airlines:: fleet_size	9 / 2009 ) :	
+<p> The Mandarin Airlines fleet includes the following aircraft ( as of October 2009 ) : </p>
+
+401	FALSE	Mandarin Airlines:: iata	ae / Limited	
+<p> <strong> Mandarin Airlines , Limited </strong> ( &#x83ef;&#x4fe1;&#x822a;&#x7a7a;; <a> pinyin </a> : Hu&#x00e1;x&#x00ec;n H&#x00e1;ngk&#x014d;ng ) is an <a> airline </a> based in <a> Songshan District </a> , <a> Taipei </a> , <a> Taiwan </a> .
+
+402	FALSE	Mandarin Airlines:: callsign	mandarin / main	
+Its main base is <a> Taiwan Taoyuan International Airport </a> . </p>
+
+416	TRUE	Gandalf Airlines:: callsign	gandalf / al	
+<p> <strong> Gandalf Airlines </strong> was a regional <a> airline </a> based at <a> Orio al Serio Airport </a> near <a> Milan </a> , <a> Italy </a> .
+
+440	FALSE	Hokkaido Air System:: fleet_size	3 / 2011	
+<p> As of January 2011 , the Hokkaido Air System fleet includes : </p>
+
+442	FALSE	Hokkaido Air System:: iata	- / Terminal	
+terminal building of [[New Chitose Airport]] , the location of the HAC headquarters]] , or <strong> HAC </strong> , is an <a> airline </a> with its headquarters in the Terminal Building of <a> New Chitose Airport </a> in <a> Chitose , Hokkaid&#x014d; </a> , <a> Japan </a> .
+
+445	FALSE	Hokkaido Air System:: headquarters	new chitose airport / Hokkaid&#	
+It operates scheduled domestic services in <a> Hokkaid&#x014d; </a> .
+
+450	FALSE	Hokkaido Air System:: icao	nth / Japan	
+terminal building of [[New Chitose Airport]] , the location of the HAC headquarters]] , or <strong> HAC </strong> , is an <a> airline </a> with its headquarters in the Terminal Building of <a> New Chitose Airport </a> in <a> Chitose , Hokkaid&#x014d; </a> , <a> Japan </a> .
+
+467	FALSE	LAN Airlines:: logo_size	200 / the	
+There are currently over two million members in Chile , Argentina , Peru , Ecuador , Canada and the United States .
+
+470	TRUE	LAN Airlines:: iata	la / re-	
+In March 2004 Lan Chile and its subsidiaries <a> LAN Per&#x00fa; </a> , <a> LAN Ecuador </a> , <a> LAN Dominicana </a> and <a> LANExpress </a> became unified under the single <strong> LAN </strong> brand , instead of prior <strong> L </strong> inea <strong> A </strong> erea <strong> N </strong> acional . On June 17 , 2004 LAN Chile changed its formal name to <strong> LAN Airlines </strong> ( which was said to mean <strong> L </strong> atin <strong> A </strong> merican <strong> N </strong> etwork Airlines , even though the airline says LAN is no longer an abbreviation now ) as part of this re-branding process .
+
+471	FALSE	LAN Airlines:: callsign	lan / main	
+<p> Its main hub is <a> Comodoro Arturo Merino Ben&#x00ed;tez International Airport </a> , Santiago , with hubs/focus cities at <a> Ministro Pistarini International Airport </a> in <a> Buenos Aires </a> , <a> Mariscal Sucre International Airport </a> in <a> Quito </a> , <a> Jose Joaquin de Olmedo International Airport </a> in <a> Guayaquil </a> , <a> Jorge Ch&#x00e1;vez International Airport </a> in <a> Lima </a> , <a> Barajas International Airport </a> in <a> Madrid </a> and at <a> Miami International Airport </a> . </p>
+
+475	TRUE	LAN Airlines:: frequent_flyer	lanpass / categories :	
+<p> The LANPASS Program has four membership categories : </p>
+
+478	TRUE	LAN Airlines:: airline	lan airlines / LAN Airlines	
+<p> <strong> LAN Airlines S . A . </strong> is an <a> airline </a> based in <a> Santiago , Chile </a> .
+
+481	TRUE	LAN Airlines:: icao	lan / LAN	
+In March 2004 Lan Chile and its subsidiaries <a> LAN Per&#x00fa; </a> , <a> LAN Ecuador </a> , <a> LAN Dominicana </a> and <a> LANExpress </a> became unified under the single <strong> LAN </strong> brand , instead of prior <strong> L </strong> inea <strong> A </strong> erea <strong> N </strong> acional . On June 17 , 2004 LAN Chile changed its formal name to <strong> LAN Airlines </strong> ( which was said to mean <strong> L </strong> atin <strong> A </strong> merican <strong> N </strong> etwork Airlines , even though the airline says LAN is no longer an abbreviation now ) as part of this re-branding process .
+
+482	TRUE	Nuevo Continente:: logo_size	200 / any	
+On June 1 , 2004 , the <a> United States Treasury </a> <a> Office of Foreign Assets Control </a> added the airline to its Listing of <a> Specially Designated Nationals </a> and Blocked Persons , making it illegal for Americans to trade with the company in any way .
+
+486	FALSE	Nuevo Continente:: callsign	aero continente / charter	
+It operated scheduled and charter domestic and international services .
+
+491	FALSE	Nuevo Continente:: ceased	2005 / 2004.	
+Peruvian law requires that airlines operating in Peru have insurance , and so Aero Continente was forced to suspend all flights from July 12 , 2004 . </p>
+
+494	FALSE	JALways:: logo_size	200 / 1.	
+In the <a> fiscal year </a> ended March 31 , 1999 , JALways , together with its sister airlines within the JAL Group , carried over 32 <a> million </a> passengers and over 1 . 1 million <a> ton </a> s of cargo and <a> mail </a> . </p>
+
+496	FALSE	JALways:: destinations	15 / 747-	
+<p> [[Image : JA8187 . JPG|thumb|JALways [[Boeing 747-300]]|alt=An aircraft taking off from the runway , with a city skyline on the background]] JALways operates a fleet of <a> Boeing 747-400 </a> , <a> Boeing 767 </a> and <a> Boeing 777-200 </a> aircraft , <a> wet-lease </a> d from its parent , <a> Japan Airlines </a> . </p>
+
+497	FALSE	JALways:: iata	jo / parent	
+<p> JALways was once a wholly owned <a> subsidiary </a> of Japan's <a> flag carrier </a> , Japan Airlines , but on December 1 , 2010 its operations were merged into those of its parent company . </p>
+
+498	FALSE	JALways:: callsign	jalways / Japan	
+<p> , formerly , was an international <a> airline </a> registered in <a> Shinagawa </a> , <a> Tokyo </a> , <a> Japan </a> , with its <a> headquarters </a> on the third floor of the at <a> Narita International Airport </a> in <a> Narita </a> , <a> Chiba Prefecture </a> and its <a> main hub </a> at Narita International Airport .
+
+500	FALSE	JALways:: ceased	december 1, 2010 / 300	
+The airline operated its last <a> Boeing 747-300 </a> <em> Classic Jumbo Jet </em> as JALways Flight 73 from Honolulu to Tokyo on July 30 , 2009; after 26 years of service to the airline group .
+
+502	FALSE	JALways:: icao	jaz / company.	
+<p> JALways was once a wholly owned <a> subsidiary </a> of Japan's <a> flag carrier </a> , Japan Airlines , but on December 1 , 2010 its operations were merged into those of its parent company . </p>
+
+525	FALSE	Olympic Aviation:: founded	1971 / of	
+The company was also responsible for charter flights in the <strong> Olympic Airways Group of Companies </strong> , until <strong> <a> Macedonian Airlines </a> </strong> was created . </p>
+
+527	FALSE	Olympic Aviation:: ceased	2003 / 717	
+<p> The three Boeing 717 aircraft were leased to serve some of Olympic Aviation's European flights , based at <a> Makedonia Airport </a> of <a> Thessaloniki </a> .
+
+528	TRUE	Olympic Aviation:: icao	oly / Macedonian	
+The company was also responsible for charter flights in the <strong> Olympic Airways Group of Companies </strong> , until <strong> <a> Macedonian Airlines </a> </strong> was created . </p>
+
+531	FALSE	Olympic Aviation:: airline	olympic aviation / created.	
+The company was also responsible for charter flights in the <strong> Olympic Airways Group of Companies </strong> , until <strong> <a> Macedonian Airlines </a> </strong> was created . </p>
+
+546	FALSE	Malév Hungarian Airlines:: destinations	50 / 2003	
+In 2003 , Mal&#x00e9;v began replacing its Boeing 737 Classic aircraft with 737 Next-Generation planes .
+
+547	TRUE	Malév Hungarian Airlines:: iata	ma / flag	
+<p> <strong> Mal&#x00e9;v Hungarian Airlines </strong> ( , abbreviated <em> Mal&#x00e9;v </em> ) is the <a> flag carrier </a> and principal <a> airline </a> of Hungary .
+
+548	FALSE	Malév Hungarian Airlines:: callsign	malev / landing	
+Mal&#x00e9;v [[Boeing 737-700]] landing at <a> London Heathrow Airport </a> , England .
+
+549	FALSE	Malév Hungarian Airlines:: parent	mnv / Soviet Civil Air Transport Joint	
+The company's official founding date was 29 March 1946 , when the <strong> Hungarian-Soviet Civil Air Transport Joint Stock Company </strong> ( <em> Magyar-Szovjet L&#x00e9;giforgalmi Rt . </em> also known as <em> Maszovlet </em> ) was formed .
+
+554	FALSE	Malév Hungarian Airlines:: icao	mah / airline	
+<p> <strong> Mal&#x00e9;v Hungarian Airlines </strong> ( , abbreviated <em> Mal&#x00e9;v </em> ) is the <a> flag carrier </a> and principal <a> airline </a> of Hungary .
+
+559	TRUE	US Airways Shuttle:: iata	us / US	
+<p> <strong> US Airways Shuttle </strong> is the brand name for <a> US Airways </a> ' hourly <a> air shuttle </a> service operating in the <a> Northeastern United States </a> .
+
+565	TRUE	US Airways Shuttle:: airline	us airways shuttle / United	
+<p> <strong> US Airways Shuttle </strong> is the brand name for <a> US Airways </a> ' hourly <a> air shuttle </a> service operating in the <a> Northeastern United States </a> .
+

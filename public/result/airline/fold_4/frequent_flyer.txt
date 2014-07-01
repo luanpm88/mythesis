@@ -1,0 +1,62 @@
+Found: 27
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	frequent_flyer	........ / scheduled Regional	// In 2000 , Brindabella Airlines added a flight training school to its operations , and in April 2003 , scheduled Regional airline services .
+
+#	NEW	frequent_flyer	........ / as well	// It operates regularly scheduled cargo charter services to over 34 US airports and nine international airports , as well as worldwide charter freight services .
+
+#	NEW	frequent_flyer	........ / ref name=&	// <p> All aircraft are &quot ; straight freighters&quot ; except for the King Air 200 , and two Learjet 35As , which are passenger-configured . ref name=&quot ; APC&quot ; / </p>
+
+#	NEW	frequent_flyer	........ / thirty- three	// Twenty-four of the thirty-three people on board were killed . </p>
+
+#	NEW	frequent_flyer	........ / was titled &	// The episode ( Season 3 , Episode 4 ) was titled &quot ; Fight for Your Life ( Suicide Attack ) &quot ; . </p>
+
+#	NEW	frequent_flyer	........ / ( Air Emergenc /	// <p> The flight was documented on the television program , <em> <a> Mayday </a> </em> ( Air Emergenc / Air Crash Investigation ) . </p>
+
+#	NEW	frequent_flyer	........ / main base	// Its main base is <a> Beijing Capital International Airport </a> . </p>
+
+#	NEW	frequent_flyer	........ / foreign	// The company operates its own fleet and constantly uses the aircraft of its Ukrainian and foreign partners .
+
+#	NEW	frequent_flyer	........ / operated inclusive	// It operated inclusive tour charter flights from <a> Malta International Airport </a> .
+
+#	NEW	frequent_flyer	........ / main base	// Its main base is <a> Vilnius International Airport </a> . </p>
+
+#	NEW	frequent_flyer	........ / Aviast Air	// <p> As of December 2009 , the Aviast Air website is down , so that it is not clear whether the airline is still operational . </p>
+
+#	NEW	frequent_flyer	........ / airline ceased	// <p> In July 2008 , the Aircraft Operating Certificate was surrendered to the FAA and the airline ceased operations . </p>
+
+#	NEW	frequent_flyer	........ / following aircraft	// <p> The Angara Airlines fleet includes the following aircraft ( at March ) </p>
+
+#	NEW	frequent_flyer	........ / airline operated :	// <p> As of August 2006 the airline operated : </p>
+
+#	NEW	frequent_flyer	........ / charter services	// Domestic charter services are also operated .
+
+#	NEW	frequent_flyer	........ / though it	// <p> The airline was formed in 1995 , and initially offered only charter services , though it gradually introduced scheduled flights .
+
+#	NEW	frequent_flyer	........ / flight passed	// The next four hours of the flight passed uneventfully .
+
+#	NEW	frequent_flyer	........ / a regional	// <p> On November 1 , 1996 , while maintaining its independent air taxi operations , the owners of Rico T&#x00e1 ; xi A&#x00e9 ; reo created Rico Linhas A&#x00e9 ; reas , a regional scheduled airline .
+
+#	NEW	frequent_flyer	........ / and	// <p> The airline was established in 2001 and is wholly owned by GVA-Investimentos , SARL . </p>
+
+#	NEW	frequent_flyer	........ / main base	// Its main base is <a> Orlando International Airport </a> .
+
+#	NEW	frequent_flyer	........ / it&# x2014 ;	// Within seconds , and almost simultaneously , engines one and three flamed out prompting the flight engineer to exclaim , &quot ; I don ' t believe it&#x2014 ; all four engines have failed ! &quot ; </p>
+
+#	NEW	frequent_flyer	........ / a <a>	// <p> AiRUnion had one premium level , Premium , based on a customer ' s tier status in a <a> frequent flyer program </a> .
+
+#	NEW	frequent_flyer	........ / Air Excellence	// <p> As of August 2006 the Air Excellence fleet included : </p>
+
+#	NEW	frequent_flyer	........ / Aero Cuahonte	// <p> In 2007 , Aero Cuahonte was shut down . </p>
+
+#	NEW	frequent_flyer	........ / Tavaj did	// <p> Tavaj did not have an airline affinity program . </p>
+
+#	NEW	frequent_flyer	........ / brand Trip	// The brand Trip is dedicated to passenger service whereas Total is dedicated to charter and cargo services . </p>
+
+#	NEW	frequent_flyer	........ / but many	// <p> Continental Airlines Flight 1713 was scheduled to leave Denver at 12 : 25 PM <a> MST </a> , but many flights out of Denver that day were delayed by inclement weather .
+

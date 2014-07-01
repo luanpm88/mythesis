@@ -1,0 +1,119 @@
+Found: 44
+Found Not Null: 21
+Correct: 17
+Wrong: 4
+Total: 21
+precision: 0.8095238095238095
+recall: 0.8095238095238095
+
+
+
+#	NEW	callsign	........ / <a> Canada	// <p> <strong> Bearskin Lake Air Services Ltd . </strong> , trading as <strong> Bearskin Airlines </strong> , is a <a> regional airline </a> based in <a> Sioux Lookout </a> , <a> Ontario </a> , <a> Canada </a> .
+
+#	NEW	callsign	........ / main	// It operated domestic services from its main base at Fukuoka Airport .
+
+#	NEW	callsign	........ / Macedonian	// The company was also responsible for charter flights in the <strong> Olympic Airways Group of Companies </strong> , until <strong> <a> Macedonian Airlines </a> </strong> was created . </p>
+
+#	NEW	callsign	........ / US	// <p> <strong> US Airways Shuttle </strong> is the brand name for <a> US Airways </a> ' hourly <a> air shuttle </a> service operating in the <a> Northeastern United States </a> .
+
+4	TRUE	Etihad Airways::callsign	etihad / Etihad	
+<p> <strong> Etihad Airways </strong> ( , <em> &#x02bc ; al-&#x02bb ; iti&#x0127 ; &#x0101 ; d </em> ) is the <a> flag carrier </a> <a> airline </a> of <a> Abu Dhabi </a> , <a> United Arab Emirates </a> .
+
+5	TRUE	Texas International Airlines::callsign	texas international / International	
+<p> <strong> Texas International Airlines </strong> was a <a> United States </a> <a> airline </a> , known from 1944 until 1947 as <strong> Aviation Enterprises </strong> , until 1969 as <strong> Trans-Texas Airways </strong> , and as <strong> Texas International Airlines </strong> until 1982 , when it merged with <a> Continental Airlines </a> .
+
+#	NEW	callsign	........ / dam&	// As part of this campaign , it had coined the slogans &quot ; <strong> B </strong> etter <strong> o </strong> ff <strong> a </strong> t <strong> C </strong> aledonian&quot ; and &quot ; <strong> B </strong> etter <strong> u </strong> nder <strong> A </strong> dam&quot ; .
+
+7	FALSE	J-Air::callsign	j-air / JAL	
+<p> JAL Flight Academy ( JFA ) was established by <a> Japan Airlines </a> ( JAL ) in August 1989 , as a flight training school <a> subsidiary </a> based at Omura Airport , <a> Nagasaki </a> .
+
+8	TRUE	Di Air::callsign	di air / Montenegro	
+<p> <strong> DI Air </strong> is an <a> airline </a> based in <a> Podgorica </a> , <a> Montenegro </a> .
+
+#	NEW	callsign	........ / Sein&#	// <p> <strong> Finnish Commuter Airlines Oy </strong> , trading as <strong> Finncomm Airlines </strong> , is a regional <a> airline </a> with its head office on the grounds of <a> Sein&#x00e4 ; joki Airport </a> in <a> Ilmajoki </a> , <a> Finland </a> , near <a> Sein&#x00e4 ; joki </a> .
+
+#	NEW	callsign	........ / Cayman	// <p> <strong> Cayman Airways </strong> is the national <a> flag carrier </a> of the <a> Cayman Islands </a> .
+
+#	NEW	callsign	........ / other	// <p> <strong> TACA </strong> is the <a> trade name </a> &quot ; brand&quot ; comprising a group of five independently IATA-coded and -owned <a> Central American </a> airlines , whose operations are combined to function as one and a number of other independently owned and IATA-coded <a> regional airlines </a> which <a> code-share </a> and feed the TACA brand system .
+
+12	TRUE	British Caledonian::callsign	caledonian / Gatwick	
+<p> <strong> British Caledonian </strong> was a private , <a> British </a> independent airline , operating out of <a> Gatwick Airport </a> in the 1970s and 1980s .
+
+#	NEW	callsign	........ / EgyptAir	// <p> <strong> EgyptAir Flight 648 </strong> was a <a> Boeing 737-200 </a> airliner registered SU-AYH <a> hijacked </a> in 1985 by the terrorist <a> Abu Nidal Organization </a> .
+
+14	FALSE	Flash Airlines::callsign	flash / Heliopolis	
+( 2003 ) ] ] The airline was established in 1995 as <strong> Heliopolis Airlines </strong> .
+
+15	TRUE	LAN Airlines::callsign	lan / LAN	
+<p> <strong> LAN Airlines S . A . </strong> is an <a> airline </a> based in <a> Santiago , Chile </a> .
+
+16	TRUE	Air Namibia::callsign	namibia / Windhoek	
+<p> <strong> Air Namibia </strong> is the national <a> airline </a> of <a> Namibia </a> , headquartered in the Trans Namib Building in <a> Windhoek </a> .
+
+17	TRUE	SilkAir::callsign	silkair / Singapore	
+<p> <strong> SilkAir ( Singapore ) Private Limited </strong> is an <a> airline </a> based in <a> Singapore </a> .
+
+18	TRUE	Song (airline)::callsign	delta / Air	
+<p> <strong> Song , LLC </strong> was a <a> low-cost &quot ; airline </a> within an airline&quot ; brand owned and operated by <a> Delta Air Lines </a> .
+
+19	TRUE	Ethiopian Airlines::callsign	ethiopian / International	
+<p> <strong> Ethiopian Airlines </strong> ( in short ) is an <a> airline </a> headquartered on the grounds of <a> Bole International Airport </a> in <a> Addis Ababa </a> , <a> Ethiopia </a> .
+
+20	TRUE	Air Sinai::callsign	air sinai / Egypt	
+<p> <strong> Air Sinai </strong> ( <em> </em> ) is an <a> airline </a> based in <a> Cairo </a> , <a> Egypt </a> .
+
+21	TRUE	Interflug::callsign	interflug / Iljuschin	
+<p> [ [ File : Iljuschin Il-14 Interflug DM-SAB 02 . JPG | thumb | 200px | An Interflug [ [ Ilyushin Il-14 ] ] ] ] [ [ File : Hans-Grade-Museum 03 . jpg | thumb | 200px | An Interflug [ [ Ilyushin Il-18 ] ] ] ] [ [ File : Baade-152-2 . png | thumb | 200px | Sketch of the [ [ Baade 152 ] ] as it would have appeared in service with Interflug ] ] <strong> Interflug </strong> ( <strong> Interflug GmbH </strong> , <strong> Gesellschaft f&#x00fc ; r Internationalen Flugverkehr mbH </strong> ) was the state <a> airline </a> of <a> East Germany </a> from 1963 to 1991 , when it ceased operations following <a> German reunification </a> .
+
+#	NEW	callsign	........ / Air	// <p> <strong> <a> Eastern Air Lines </a> Flight 401 </strong> was a <a> Lockheed L-1011 Tristar 1 </a> jet that crashed into the <a> Florida Everglades </a> on the night of December 29 , 1972 , causing 101 fatalities ( 77 initial crash survivors , two died shortly afterward ) .
+
+#	NEW	callsign	........ / India	// <p> <strong> JetLite </strong> , formerly <strong> Air Sahara </strong> , is an <a> airline </a> based in <a> Mumbai </a> , <a> India </a> . </p>
+
+24	TRUE	Jetsgo::callsign	jetsgo / Canadian	
+<p> <strong> Jetsgo Corporation </strong> was a <a> Canadian </a> <a> low-cost carrier </a> based in the <a> Saint-Laurent </a> area of <a> Montreal </a> .
+
+25	FALSE	BWIA West Indies Airways::callsign	west indian / national	
+<p> <strong> BWIA West Indies Airways Limited </strong> , known locally as &quot ; B-wee&quot ; , was the national airline of <a> Trinidad and Tobago </a> .
+
+#	NEW	callsign	........ / during	// <p> <strong> Flight 19 </strong> was the designation of five <a> TBM Avenger </a> <a> torpedo bomber </a> s that disappeared on December 5 , 1945 , during a <a> United States Navy </a> -authorized overwater navigation training flight from <a> Naval Air Station Fort Lauderdale </a> , <a> Florida </a> .
+
+#	NEW	callsign	........ / Ireland	// <p> <strong> CityJet Limited </strong> is an Irish regional airline headquartered in Swords , <a> County Dublin </a> , <a> Ireland </a> .
+
+#	NEW	callsign	........ / Siberia	// <p> <strong> Siberia Airlines Flight 1812 </strong> crashed over the <a> Black Sea </a> on 4 October 2001 , en route from <a> Tel Aviv </a> , <a> Israel </a> to <a> Novosibirsk </a> , Russia .
+
+#	NEW	callsign	........ / Bosnia	// <p> <strong> Air Srpska </strong> was an <a> airline </a> of <a> Srpska </a> , an entity of the <a> State of Bosnia and Herzegovina </a> , which was operational between 1999 and 2003 . </p>
+
+30	FALSE	JALways::callsign	jalways / contract	
+<p> In May 2009 , it was reported that the airline terminated the assignments of 130 American contract <a> Hawaii </a> -based <a> Boeing 747 </a> pilots and closed its <a> Oahu </a> office .
+
+#	NEW	callsign	........ / RAM	// <p> <strong> Royal Air Maroc </strong> ( commonly called <strong> RAM </strong> , &#x0627 ; &#x0644 ; &#x062e ; &#x0637 ; &#x0648 ; &#x0637 ; &#x0627 ; &#x0644 ; &#x0645 ; &#x0644 ; &#x0643 ; &#x064a ; &#x0629 ; &#x0627 ; &#x0644 ; &#x0645 ; &#x063a ; &#x0631 ; &#x0628 ; &#x064a ; &#x0629 ; <em> Al-Khu&#x1e6d ; &#x016b ; &#x1e6d ; al-Malak&#x012b ; yyah al-Maghrib&#x012b ; yyah </em> in Arabic ) is the <a> flag carrier </a> <a> airline </a> of <a> Morocco </a> , headquartered on the grounds of <a> Casablanca-Anfa Airport </a> in <a> Casablanca </a> .
+
+32	TRUE	Mandarin Airlines::callsign	mandarin / Limited	
+<p> <strong> Mandarin Airlines , Limited </strong> ( &#x83ef ; &#x4fe1 ; &#x822a ; &#x7a7a ; ; <a> pinyin </a> : Hu&#x00e1 ; x&#x00ec ; n H&#x00e1 ; ngk&#x014d ; ng ) is an <a> airline </a> based in <a> Songshan District </a> , <a> Taipei </a> , <a> Taiwan </a> .
+
+#	NEW	callsign	........ / world&#	// <p> <strong> Blue1 <a> Oy </a> </strong> is a Finnish airline owned by <a> SAS Group </a> and a full member of <a> Star Alliance </a> , the world&#x2019 ; s largest airline alliance , with a hub at <a> Helsinki-Vantaa Airport </a> .
+
+#	NEW	callsign	........ / Bangkok	// <p> <strong> Nok Air </strong> ( , derived from <em> nok </em> ( &#x0e19 ; &#x0e01 ; ) , the Thai word for <em> bird </em> ) is a <a> low-cost airline </a> headquartered in <a> Sathorn </a> , <a> Bangkok </a> , <a> Thailand </a> , operating domestic and international services out of <a> Bangkok Don Mueang Airport </a> . </p>
+
+#	NEW	callsign	........ / Air	// <p> <strong> Air Anatolia </strong> ( <a> Turkish </a> : Anadolu Hava&#x00e7 ; ilik A . S . ) was a <a> charter airline </a> from <a> Turkey </a> , which was operational between 1998 and 2002 . </p>
+
+#	NEW	callsign	........ / national	// <p> <strong> Royal Tongan Airlines </strong> was the national <a> airline </a> of <a> Tonga </a> until liquidation in 2004 .
+
+#	NEW	callsign	........ / Air	// <p> <strong> Air Cara&#x00ef ; bes </strong> is the <a> regional airline </a> of the <a> French Caribbean </a> which comprises the overseas departments of France : <a> Guadeloupe </a> and <a> Martinique </a> .
+
+38	TRUE	Avensa::callsign	avensa / bankruptcy	
+<p> <strong> Avensa </strong> ( <strong> <em> A </em> </strong> erov&#x00ed ; as <strong> Ven </strong> ezolanas <strong> S </strong> ociedad <strong> A </strong> nonima <em> ) was a <a> Venezuela </a> n <a> airline </a> , which is in the process of financial restructuring , after it went into <a> bankruptcy </a> due to poor management in 2002 .
+
+#	NEW	callsign	........ / Soci&#	// <p> <strong> Soci&#x00e9 ; t&#x00e9 ; Tunisienne de l ' Air </strong> , or <strong> Tunisair </strong> ( ) is the <a> flag carrier </a> <a> airline </a> of <a> Tunisia </a> .
+
+40	TRUE	Mahan Air::callsign	mahan / Mahan	
+<p> Officially <strong> Mahan Airlines </strong> ( ) is a private <a> airline </a> based in <a> Tehran </a> , <a> Iran </a> .
+
+41	TRUE	Gulf Air::callsign	gulf air / Gulf Air	
+<p> <strong> Gulf Air </strong> ( <em> &#x1e6c ; ayar&#x0101 ; n al-Khal&#x012b ; j </em> ) is the principal <a> flag carrier </a> of the Kingdom of <a> Bahrain </a> .
+
+#	NEW	callsign	........ / Atlantic	// <p> <strong> Atlantic Coast Airlines </strong> was an <a> airline </a> based in the <a> United States </a> owned by <a> Atlantic Coast Holdings , Inc . </a> .
+
+43	TRUE	Uzbekistan Airways::callsign	uzbekistan / Tashkent	
+<p> <strong> Uzbekistan Airways </strong> ( ) , ( ) is the <a> flag carrier </a> <a> airline </a> of <a> Uzbekistan </a> , headquartered in <a> Tashkent </a> . </p>
+

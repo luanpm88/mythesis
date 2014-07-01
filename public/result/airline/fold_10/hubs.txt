@@ -1,0 +1,78 @@
+Found: 35
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	hubs	........ / Schiphol	// Its main base is Schiphol Airport . </p>
+
+#	NEW	hubs	........ / the	// map in the original terminal of the [ [ Pulkovo Airport | Leningrad airport ] ] shows the early main routes of Aeroflot ] ] </p>
+
+#	NEW	hubs	........ / deported	// Demeke , who was being <a> deported </a> back to his native <a> Ethiopia </a> , surrendered to authorities upon arrival at <a> John F . Kennedy International Airport </a> in <a> New York City </a> .
+
+#	NEW	hubs	........ / Madrid	// Based in <a> Madrid </a> , it operates an international network of services from its main bases of <a> Madrid-Barajas Airport </a> and <a> Barcelona El Prat Airport </a> .
+
+#	NEW	hubs	........ / Mallorca	// Its main base was <a> Palma de Mallorca Airport </a> . </p>
+
+#	NEW	hubs	........ / Run	// Its main base is <a> Willow Run Airport </a> near <a> Ypsilanti </a> . </p>
+
+#	NEW	hubs	........ / Perth	// In 1980 Skywest Airlines was formed , based at <a> Perth Airport </a> , and acquired Stillwell Airlines and its routes ; the combined fleet included 39 aircraft , making it the second largest commuter airline in Australia at the time .
+
+#	NEW	hubs	........ / Harbor	// America West Express started as a regional carrier in association with America West Airlines with a hub at Sky Harbor International Airport in Phoenix , Arizona .
+
+#	NEW	hubs	........ / Sydney	// <p> Ansett ran a scheduled terminal transfer service at <a> Sydney </a> Airport , which offered seamless connection from its Domestic terminal to the International terminal for Ansett Australia services connecting to Ansett International .
+
+#	NEW	hubs	........ / Newbery	// Its main base is <a> Aeroparque Jorge Newbery </a> , Buenos Aires . </p>
+
+#	NEW	hubs	........ / Halifax	// <p> At 22 : 19 AT ( 01 : 19 UTC ) the plane was away from Halifax International Airport , but required more time to descend from its altitude of .
+
+#	NEW	hubs	........ / Capital	// Its main base is <a> Beijing Capital International Airport </a> center / center </p>
+
+#	NEW	hubs	........ / Vienna	// The airline opened a base at <a> Vienna International Airport </a> in March 2007 , placing two new 737-700s operating sixteen routes .
+
+#	NEW	hubs	........ / Authority	// The <a> Toronto Port Authority </a> itself does not control any significant terminal space at the airport , but it extended permission for Jazz to continue using the airport ; however , since the airline could not find terminal space , they cancelled service to the airport at the end of February 2006 .
+
+#	NEW	hubs	........ / Bose	// When the flight took off from <a> Netaji Subhash Chandra Bose International Airport </a> on a short haul flight to <a> Delhi </a> .
+
+#	NEW	hubs	........ / Calgary	// WestJet ' s main hub and headquarters are based at <a> Calgary International Airport </a> , in [ [ Alberta ] ] , with its second-largest hub at [ [ Toronto Pearson International Airport ] ] , in [ [ Ontario ] ] .
+
+#	NEW	hubs	........ / first	// In 1997 , the Airbuses began to be delivered and the airline flew its first international service , from <a> S&#x00e3 ; o Paulo </a> to <a> Miami International Airport </a> . </p>
+
+#	NEW	hubs	........ / Coand&#	// Its main base is Henri Coand&#x0103 ; International Airport .
+
+#	NEW	hubs	........ / rk	// Flight Academy based at &#x0130 ; stanbul <a> Atat&#x00fc ; rk Airport </a> and uses nearby <a> Hezarfen Airfield </a> and <a> &#x00c7 ; orlu Airport </a> for training activities .
+
+#	NEW	hubs	........ / Khomeini	// Its main bases are the <a> Tehran Imam Khomeini International Airport </a> for international flights and Tehran <a> Mehrabad Airport </a> for domestic flights .
+
+#	NEW	hubs	........ / Bergen	// Following the bankruptcy , NAS took over three leased Fokker 50 aircraft , and started operating from <a> Bergen Airport , Flesland </a> to <a> Haugesund Airport , Karm&#x00f8 ; y </a> , as well as from Bergen to <a> Molde Airport , &#x00c5 ; r&#x00f8 ; </a> or <a> Kristiansund Airport , Kvernberget </a> and onwards to <a> Trondheim Airport , V&#x00e6 ; rnes </a> .
+
+#	NEW	hubs	........ / Narita	// ANA ' s main international hubs are at <a> Narita International Airport </a> outside <a> Tokyo </a> and <a> Kansai International Airport </a> in <a> Osaka </a> .
+
+#	NEW	hubs	........ / Heathrow	// An engine failure caused a delayed departure of several hours on this first flight , resulting in a substitution to a second 747 which completed the route to London ' s <a> Heathrow Airport </a> . ! but passengers still cheered and drank champagne as the jet finally lifted off from the runway at <a> John F . Kennedy International Airport </a> </p>
+
+#	NEW	hubs	........ / Bogot&#	// <p> Avianca ' s hub is in <a> Bogot&#x00e1 ; </a> at <a> El Dorado International Airport </a> .
+
+#	NEW	hubs	........ / JFK	// <p> In late 2006 , Comair opened an additional crew base and hub city at New York ' s <a> JFK Airport </a> .
+
+#	NEW	hubs	........ / vez	// <p> Aeroper&#x00fa ; was based at <a> Jorge Ch&#x00e1 ; vez International Airport </a> in <a> Lima , Peru </a> , and grew into an international airline while also developing a large <a> jet aircraft </a> route system domestically .
+
+#	NEW	hubs	........ / Intercontinental	// <p> In the 1990s the airline was headquartered in the Gateway II office complex near the grounds of <a> Houston Intercontinental Airport </a> in Houston . </p>
+
+#	NEW	hubs	........ / at	// Canada domestic check-in facilities at [ [ Vancouver International Airport ] ] ] ] </p>
+
+#	NEW	hubs	........ / Abdulaziz	// <p> The airline ' s main operational base is at <a> Jeddah-King Abdulaziz International Airport </a> ( JED ) .
+
+#	NEW	hubs	........ / Alia	// Royal Jordanian operates two lounges : one in Amman , at <a> Queen Alia International Airport </a> , and one at Aqaba , at <a> King Hussein International Airport </a> .
+
+#	NEW	hubs	........ / was	// <p> According to the ICAO : &quot ; The location of the main wreckage was not determined&#x2026 ; the approximate position was , which was in international waters . &quot ;
+
+#	NEW	hubs	........ / Narita	// Its main base is <a> Narita International Airport </a> outside Tokyo . </p>
+
+#	NEW	hubs	........ / Miami	// Its main base was Miami International Airport .
+
+#	NEW	hubs	........ / Glasgow	// <a> Glasgow International Airport </a> ( 2006 ) ] ] [ [ File : Embraer-g-erjc . jpg | thumb | right | [ [ Embraer
+
+#	NEW	hubs	........ / Vienna	// Its main base is <a> Vienna International Airport </a> .
+

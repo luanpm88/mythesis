@@ -1,6 +1,0 @@
-<h2>Mission and Vision</h2>
-<h2>Accreditation and Affiliation</h2>
-<h2>Campus and Infrastructure</h2>
-<li>Electrical and Electronics Engineering</li>
-<li>Embedded and Real Time System</li>
-<h2>Conferences and Workshops</h2>

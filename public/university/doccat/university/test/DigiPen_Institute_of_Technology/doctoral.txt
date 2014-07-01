@@ -1,5 +1,0 @@
-<p>Each year RTIS students are formed into teams ranging from 4-8 developers.
-Sophomore year, students game teams develop <a>graphical games</a>.
-<h4>Mathematics, Science, and Engineering</h4>
-<li>CS: Computer Science</li>
-<li><a>USA Today - DigiPen</a></li>

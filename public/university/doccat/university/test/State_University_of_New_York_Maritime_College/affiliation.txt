@@ -1,2 +1,0 @@
-<li><a>Scott J. Kelly</a>, <a>NASA</a> <a>astronaut</a></li>
-<li><a>SUNY Maritime College</a></li>

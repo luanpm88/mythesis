@@ -1,6 +1,0 @@
-<li>Institute of Cosmology and Gravitation</li>
-<li>School of Biological Sciences</li>
-<li>School of Earth and Environmental Sciences</li>
-<li>Institute of Marine Sciences</li>
-<li>School of Pharmacy and Biomedical Sciences</li>
-<li>School of Creative Arts, Film, and Media</li>

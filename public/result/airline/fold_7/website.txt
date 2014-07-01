@@ -1,0 +1,34 @@
+Found: 13
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	website	........ / The airline was established and started operations in	// <p> The airline was established and started operations in 1971 .
+
+#	NEW	website	........ / Other operators served the airport on a charter basis then .	// Other operators served the airport on a charter basis then .
+
+#	NEW	website	........ / Expo Aviation started flight operations in	// Expo Aviation started flight operations in 1998 using 2 <a> Antonov An-8 </a> aircraft which were later replaced by <a> Antonov An-12 </a> s .
+
+#	NEW	website	........ / AaE flight operations are somewhat complex and varied .	// <p> AaE flight operations are somewhat complex and varied .
+
+#	NEW	website	........ / It operated domestic and international charter flights and cargo services on behalf of European clients .	// It operated domestic and international charter flights and cargo services on behalf of European clients .
+
+#	NEW	website	........ / It operates VIP passenger and freight services to destinations in the	// It operates VIP passenger and freight services to destinations in the <a> CIS </a> and <a> Europe </a> .
+
+#	NEW	website	........ / The airline did not meet the Nigerian Civil Aviation Authority ( NCAA ) &#x2019 ; s criteria in terms of re-capitalization and does not operate services any longer .	// The airline did not meet the Nigerian Civil Aviation Authority ( NCAA ) &#x2019 ; s criteria in terms of re-capitalization and does not operate services any longer . </p>
+
+#	NEW	website	........ / In January 1990 operations and airline had to shut down .	// In January 1990 operations and airline had to shut down .
+
+#	NEW	website	........ / It was established in 1984 and operated charter services for South Africa ' s leading tour and conference operators , as well as sports unions .	// It was established in 1984 and operated charter services for South Africa ' s leading tour and conference operators , as well as sports unions .
+
+#	NEW	website	........ / It operates scheduled and charter flights to destinations in	// It operates scheduled and charter flights to destinations in <a> Europe </a> .
+
+#	NEW	website	........ / It operates scheduled domestic services and international services to	// It operates scheduled domestic services and international services to <a> Italy </a> and <a> France </a> .
+
+#	NEW	website	........ / It operated domestic and international services from Jakarta and was established in	// It operated domestic and international services from Jakarta and was established in 2000 .
+
+#	NEW	website	........ / It operated charter flights only until scheduled services were introduced in	// It operated charter flights only until scheduled services were introduced in 1981 .
+

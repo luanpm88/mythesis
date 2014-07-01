@@ -1,2 +1,0 @@
-<li>Economics and Management</li>
-<li>Engineering and Built Environment</li>

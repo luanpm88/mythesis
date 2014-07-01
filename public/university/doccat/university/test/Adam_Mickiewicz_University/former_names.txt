@@ -1,2 +1,0 @@
-<li><a>Official site in English</a> </li>
-<li><a>Official site in Polish</a></li>

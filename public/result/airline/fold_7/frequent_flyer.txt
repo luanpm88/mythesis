@@ -1,0 +1,62 @@
+Found: 27
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	frequent_flyer	........ / main base	// Its main base is <a> Yangon International Airport </a> . </p>
+
+#	NEW	frequent_flyer	........ / airline franchise	// This was considered Australia&#x2019 ; s first airline franchise operation .
+
+#	NEW	frequent_flyer	........ / Airfast Indonesia	// Airfast Indonesia is one of four airlines now allowed into Europe . </p>
+
+#	NEW	frequent_flyer	........ / main base	// Its main base is <a> Soekarno-Hatta International Airport </a> , Jakarta .
+
+#	NEW	frequent_flyer	........ / main base	// Its main base is <a> Jomo Kenyatta International Airport </a> , Nairobi . </p>
+
+#	NEW	frequent_flyer	........ / launched its	// Its sister airline , <a> Caribbean Sun Airlines </a> Inc . , launched its maiden flight three years later .
+
+#	NEW	frequent_flyer	........ / right |	// ( 2006 ) ] ] [ [ File : Tupolev 154M VIA LZ-MIR . jpg | thumb | right | An
+
+#	NEW	frequent_flyer	........ / Sosoliso Airlines	// <p> As of August <a> 2006 </a> the Sosoliso Airlines fleet included : </p>
+
+#	NEW	frequent_flyer	........ / main base	// Its main base is <a> Iqaluit Airport </a> . </p>
+
+#	NEW	frequent_flyer	........ / WDL Aviation	// <p> As of November 2010 the WDL Aviation fleet includes : </p>
+
+#	NEW	frequent_flyer	........ / airline was	// Soon after this , the airline was renamed &quot ; ExpoAir&quot ; .
+
+#	NEW	frequent_flyer	........ / main base	// Its main base is <a> Melbourne Airport </a> . </p>
+
+#	NEW	frequent_flyer	........ / Sarah Tours	// The owners are Etoile de La Valentine ( 26% ) , Arkia Israel Airlines ( 20% ) , Gamma Travel ( 13% ) , ISF ( 35% ) and Sarah Tours ( 6% ) .
+
+#	NEW	frequent_flyer	........ / to transport	// <p> In winter it also operates for its subsidiary , the <a> Tyrol Air Ambulance </a> to transport injured skiers . </p>
+
+#	NEW	frequent_flyer	........ / main base	// Its main base is <a> Zvartnots International Airport </a> , Yerevan . </p>
+
+#	NEW	frequent_flyer	........ / charter services	// It provides aviation services including wet leasing , scheduled airline operations , and charter services across Australia .
+
+#	NEW	frequent_flyer	........ / but rather	// <p> The company still exists , although it does not own an airline , but rather operates as an air ticket sales agent .
+
+#	NEW	frequent_flyer	........ / passengers were	// Officials at Bari airport reported that most of the passengers were Italian tourists .
+
+#	NEW	frequent_flyer	........ / main base	// Its main base is <a> Lusaka </a> International Airport ( LUN ) .
+
+#	NEW	frequent_flyer	........ / Easy Link	// <p> As of August <a> 2006 </a> the Easy Link fleet included : </p>
+
+#	NEW	frequent_flyer	........ / as well	// It was established in 1984 and operated charter services for South Africa ' s leading tour and conference operators , as well as sports unions .
+
+#	NEW	frequent_flyer	........ / Changan Airlines	// <a> Hainan Airlines </a> owns a 73 . 51% stake in Changan Airlines </p>
+
+#	NEW	frequent_flyer	........ / MU- 2s	// In the next two years the Metro fleet was gradually built up and the MU-2s withdrawn .
+
+#	NEW	frequent_flyer	........ / Bakhtar Afghan	// <p> As of August 2006 the Bakhtar Afghan Airlines fleet included : </p>
+
+#	NEW	frequent_flyer	........ / Premium Air	// <p> As of August 2006 the Premium Air Shuttle fleet includes : </p>
+
+#	NEW	frequent_flyer	........ / airline	// The airline has re-applied for licences . </p>
+
+#	NEW	frequent_flyer	........ / West Africa	// It operates regional services in <a> West Africa </a> with aircraft leased from other operators as required . </p>
+

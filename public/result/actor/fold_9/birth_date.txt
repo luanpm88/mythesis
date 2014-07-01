@@ -1,0 +1,48 @@
+Found: 20
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	birth_date	........ / 1982	// In 1982 , he won Best Actor at the <a> Venice Film Festival </a> for his role in <em> Imperativ </em> . </p>
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Kevin Michael Costner </strong> ( born January 18 , 1955 ) is an American actor , singer , musician , producer , director , and businessman .
+
+#	NEW	birth_date	........ / ( 1997 )	// His notable film roles include <em> <a> Home Alone 3 </a> </em> ( 1997 ) and <em> <a> Max Keeble ' s Big Move </a> </em> ( 2001 ) . </p>
+
+#	NEW	birth_date	........ / in 1940 .	// His first film role was of Cagney ' s younger brother in <em> <a> City for Conquest </a> </em> in 1940 .
+
+#	NEW	birth_date	........ / When	// <p> When a pilot for an American version of the show was produced , Barrie was invited to reprise his role as Rimmer .
+
+#	NEW	birth_date	........ / O '	// <p> O ' Herlihy was born in <a> Wexford </a> , <a> Ireland </a> in 1919 .
+
+#	NEW	birth_date	........ / His	// <p> His film career faded by the end of the 1970s .
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Joan Greenwood </strong> ( 4 March 1921 &#x2013 ; 27 February 1987 ) was an <a> English </a> actress .
+
+#	NEW	birth_date	........ / Bill	// <p> Bill Owen was a regular in the early <em> <a> Carry On </a> </em> films .
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Josephine Owaissa Cottle </strong> ( April 5 , 1922 - June 27 , 2009 ) , First prize was a one-year contract with a movie studio .
+
+#	NEW	birth_date	........ / After	// <p> After scriptwriting on two productions , Powell entered into a partnership with American producer Jerry Jackson in 1931 to make &quot ; <a> quota quickies </a> &quot ; , Powell began to direct hour-long films needed to satisfy a legal requirement that British cinemas screen a certain quota of British movies .
+
+#	NEW	birth_date	........ / During	// <p> During the series ' sixth season , he served as unofficial director , executive producer and writer of the show . </p>
+
+#	NEW	birth_date	........ / As	// <p> As a director , Ozu was eccentric and a notorious perfectionist .
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Massimo Troisi </strong> ( 19 February 1953 &#x2013 ; 4 June 1994 ) was an Italian actor , <a> film director </a> , and poet .
+
+#	NEW	birth_date	........ / McKellar	// <p> McKellar was born in <a> San Diego </a> , <a> California </a> .
+
+#	NEW	birth_date	........ / Jewison '	// <p> Jewison ' s career as a film director began with the comedy <em> <a> Forty Pounds of Trouble </a> </em> ( 1962 ) , starring Curtis .
+
+#	NEW	birth_date	........ / <em>	// <p> <em> State of Revolution </em> was Bolt ' s final produced play , though he wrote several others that were never published or produced .
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Ethel Merman </strong> ( January 16 , 1908 &#x2013 ; February 15 , 1984 ) was an <a> American </a> actress and singer .
+
+#	NEW	birth_date	........ / Landis	// <p> Landis has cast Oz in small roles in several of his movies .
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Jean Renoir </strong> ( ; 15 September 1894 &ndash ; 12 February 1979 ) was a French <a> film director </a> , screenwriter , actor , producer and author .
+

@@ -1,2 +1,0 @@
-<h2>Notable faculty</h2>
-<li><a>Glynn Lunney</a>, <a>NASA</a> <a>flight director</a>.</li>

@@ -1,0 +1,424 @@
+Total articles: 312
+Articles for test: 281
+Articles for train: 31
+Total attributes: 64
+Attributes with high occurrences: 12/64
+
+------------
+Found: 185
+Found Not Null: 27
+Correct: 16
+Wrong: 11
+Total: 33
+precision: 0.5925925925925926
+recall: 0.48484848484848486
+
+
+
+#	NEW	caption	........ / Stephen	// <p> <strong> Stephen Nichols </strong> ( born February 19 , 1951 ) is an <a> American </a> <a> actor </a> , most notable for his roles on American daytime soap operas .
+
+#	NEW	birth_name	........ / Robert Downey ,	// He was also in <a> Witchboard </a> ; <a> Soapdish </a> with <a> Kevin Kline </a> , <a> Whoopi Goldberg </a> and <a> Robert Downey , Jr . </a> ; <em> Heaven&#x2019 ; s Tears ; Cover Me </em> with <a> Paul Sorvino </a> ; <em> Phoenix </em> with <a> Brad Dourif </a> and <a> William Sanderson </a> ; and the <a> Showtime </a> short <em> A Hard Rain </em> with <a> John Mahoney </a> , which earned best film honors at the British Film Festival for director Dennie Gordon . </p>
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Stephen Nichols </strong> ( born February 19 , 1951 ) is an <a> American </a> <a> actor </a> , most notable for his roles on American daytime soap operas .
+
+#	NEW	death_date	........ / <strong>	// <p> <strong> Stephen Nichols </strong> ( born February 19 , 1951 ) is an <a> American </a> <a> actor </a> , most notable for his roles on American daytime soap operas .
+
+4	TRUE	Stephen Nichols::name	stephen nichols / most notable	
+<p> <strong> Stephen Nichols </strong> ( born February 19 , 1951 ) is an <a> American </a> <a> actor </a> , most notable for his roles on American daytime soap operas .
+
+#	NEW	birthplace	........ / American daytime soap	// <p> <strong> Stephen Nichols </strong> ( born February 19 , 1951 ) is an <a> American </a> <a> actor </a> , most notable for his roles on American daytime soap operas .
+
+#	NEW	occupation	........ / Actor	// His original portrayal ( 1985&ndash ; 1990 ) earned him an <a> Emmy </a> nomination for Outstanding Actor in a Leading Role and five <em> <a> Soap Opera Digest </a> </em> Best Actor Awards .
+
+7	FALSE	Joey Lawrence::name	joey lawrence / television host	
+<p> <strong> Joseph &quot ; Joey&quot ; Lawrence </strong> ( born April 20 , 1976 ) is an <a> American </a> <a> actor </a> , <a> singer </a> , and <a> television host </a> .
+
+#	NEW	caption	........ / quot ; Lawrence	// <p> <strong> Joseph &quot ; Joey&quot ; Lawrence </strong> ( born April 20 , 1976 ) is an <a> American </a> <a> actor </a> , <a> singer </a> , and <a> television host </a> .
+
+9	FALSE	Joey Lawrence::birth_name	joseph lawrence mignogna, jr. / is best known for his roles in the television series	
+He is best known for his roles in the television series <em> <a> Gimme a Break ! </a> </em> , <em> <a> Blossom </a> </em> , and <em> <a> Melissa &amp ; Joey </a> </em> . </p>
+
+#	NEW	death_date	........ / In	// <p> In July 2008 , Lawrence told <em> <a> TV Guide </a> </em> that he is working on a new album composed mostly of ballads . </p>
+
+#	NEW	birthdate	........ / 2010 ) .	// The couple has two daughters , Charleston ( born 2006 ) and Liberty Grace ( born March 2010 ) . </p>
+
+12	FALSE	Melody Thomas Scott::name	melody thomas scott / Ann Thomas	
+<p> Scott was born <strong> Melody Ann Thomas </strong> in <a> Los Angeles , California </a> .
+
+13	FALSE	Melody Thomas Scott::birth_name	melody ann thomas / Melody Thomas Scott	
+<p> <strong> Melody Thomas Scott </strong> ( born April 18 , 1956 ) is an American actress best known for playing <a> Nikki Newman </a> on the <a> soap opera </a> <em> <a> The Young and the Restless </a> </em> . </p>
+
+#	NEW	birth_date	........ / Scott	// <p> Scott was born <strong> Melody Ann Thomas </strong> in <a> Los Angeles , California </a> .
+
+#	NEW	birth_place	........ / Los Angeles	// <p> Scott was born <strong> Melody Ann Thomas </strong> in <a> Los Angeles , California </a> .
+
+16	TRUE	Melody Thomas Scott::occupation	actress / actress	
+Her first film credit was as a child actress </p>
+
+#	NEW	death_date	........ / first	// Her first film credit was as a child actress </p>
+
+#	NEW	birthplace	........ / Angeles , California	// <p> Scott was born <strong> Melody Ann Thomas </strong> in <a> Los Angeles , California </a> .
+
+#	NEW	caption	........ / Melody	// <p> <strong> Melody Thomas Scott </strong> ( born April 18 , 1956 ) is an American actress best known for playing <a> Nikki Newman </a> on the <a> soap opera </a> <em> <a> The Young and the Restless </a> </em> . </p>
+
+#	NEW	death_date	........ / performers	// Other performers like <a> Jefferson Airplane </a> and <a> The Who </a> also received major exposure from Pennebaker ' s work . </p>
+
+#	NEW	name	........ / rit&# x00e9 ;	// A . &quot ; Pennebaker </strong> ( born July 15 , 1925 ) is an <a> American </a> <a> documentary film </a> maker and one of the pioneers of <a> Direct Cinema </a> / <a> Cin&#x00e9 ; ma v&#x00e9 ; rit&#x00e9 ; </a> .
+
+#	NEW	birth_name	........ / they directed their first live show when they directed a YouTube webcast of	// In May 2010 , they directed their first live show when they directed a YouTube webcast of <a> the National </a> performing a benefit show at the <a> Brooklyn Academy of Music </a> .
+
+#	NEW	birthplace	........ / his film career .	// Pennebaker served in the Navy and later worked as an engineer , founding Electronics Engineering ( the makers of the first computerized airline reservation system ) before beginning his film career . </p>
+
+#	NEW	name	........ / Sanaa McCoy	// <p> <strong> Sanaa McCoy Lathan </strong> ( born September 19 , 1971 ) is an <a> American </a> <a> actress </a> and <a> voice actress </a> .
+
+#	NEW	caption	........ / Sanaa	// <p> <strong> Sanaa McCoy Lathan </strong> ( born September 19 , 1971 ) is an <a> American </a> <a> actress </a> and <a> voice actress </a> .
+
+#	NEW	occupation	........ / Actress	// Her performance in Love &amp ; Basketball earned her the 2001 <a> NAACP Image Award </a> for Outstanding Actress in a Motion Picture , as well as an <a> Independent Spirit Award </a> nomination for Best Actress and a <a> BET Award </a> . </p>
+
+#	NEW	death_date	........ / her	// For her work in the film , Lathan earned an <a> Essence Award </a> for Best Actress , as well as the added assurance of a very busy work schedule .
+
+#	NEW	birthplace	........ / Best Actress : ( Winner )	// <p> : * <strong> 2001 , Best Actress : ( Winner ) </strong> </p>
+
+#	NEW	birth_name	........ / worked behind the scenes in television for	// Her father , <a> Stan Lathan </a> , worked behind the scenes in television for <a> PBS </a> , as well as a producer on shows such as <em> <a> Sanford &amp ; Son </a> </em> and Russell Simmons ' <em> <a> Def Comedy Jam </a> </em> .
+
+#	NEW	name	........ / stage actor	// <p> <strong> John Drew , Jr . </strong> ( November 13 , 1853&ndash ; July 9 , 1927 ) was an <a> American </a> stage actor noted for his roles in <a> Shakespeare </a> an comedy , society drama , and light comedies .
+
+#	NEW	caption	........ / 1927 )	// <p> <strong> John Drew , Jr . </strong> ( November 13 , 1853&ndash ; July 9 , 1927 ) was an <a> American </a> stage actor noted for his roles in <a> Shakespeare </a> an comedy , society drama , and light comedies .
+
+#	NEW	birth_name	........ / John Drew , Jr .	// <p> <strong> John Drew , Jr . </strong> ( November 13 , 1853&ndash ; July 9 , 1927 ) was an <a> American </a> stage actor noted for his roles in <a> Shakespeare </a> an comedy , society drama , and light comedies .
+
+#	NEW	occupation	........ / ,	// <p> <strong> John Drew , Jr . </strong> ( November 13 , 1853&ndash ; July 9 , 1927 ) was an <a> American </a> stage actor noted for his roles in <a> Shakespeare </a> an comedy , society drama , and light comedies .
+
+#	NEW	death_date	........ / was	// He was the eldest son of <a> John Drew </a> and <a> Louisa Lane Drew </a> , and the brother of Louisa Drew , <a> Georgiana Drew </a> &amp ; <a> Sidney Drew </a> .
+
+#	NEW	birthplace	........ / ability was largely	// He was considered to be the leading <a> matinee idol </a> of his day , but unlike most matinee idols Drew ' s acting ability was largely undisputed .
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> John Drew , Jr . </strong> ( November 13 , 1853&ndash ; July 9 , 1927 ) was an <a> American </a> stage actor noted for his roles in <a> Shakespeare </a> an comedy , society drama , and light comedies .
+
+37	TRUE	Lillian Russell::name	lillian russell / Louise Leonard	
+<p> Lillian Russell was born <strong> Helen Louise Leonard </strong> in <a> Clinton , Iowa </a> .
+
+#	NEW	caption	........ / 1922 )	// <p> <strong> Lillian Russell </strong> ( December 4 , 1861 &ndash ; June 6 , 1922 ) was an <a> American </a> actress and <a> singer </a> .
+
+#	NEW	birth_name	........ / an <a> American	// <p> <strong> Lillian Russell </strong> ( December 4 , 1861 &ndash ; June 6 , 1922 ) was an <a> American </a> actress and <a> singer </a> .
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Lillian Russell </strong> ( December 4 , 1861 &ndash ; June 6 , 1922 ) was an <a> American </a> actress and <a> singer </a> .
+
+#	NEW	death_date	........ / in	// While in London , she was engaged to create the title role of Gilbert and Sullivan ' s <em> <a> Princess Ida </a> </em> , but she clashed with <a> W .
+
+#	NEW	birthplace	........ / Clinton , Iowa	// <p> Lillian Russell was born <strong> Helen Louise Leonard </strong> in <a> Clinton , Iowa </a> .
+
+#	NEW	name	........ / with Love	// <p> <strong> Daniela Bianchi </strong> ( born 31 January 1942 ) is an Italian actress , whose best known part was <a> Tatiana Romanova </a> in the 1963 <a> James Bond </a> movie <em> <a> From Russia with Love </a> </em> . </p>
+
+#	NEW	birth_name	........ / January 1942 ) is an Italian actress , whose best known part	// <p> <strong> Daniela Bianchi </strong> ( born 31 January 1942 ) is an Italian actress , whose best known part was <a> Tatiana Romanova </a> in the 1963 <a> James Bond </a> movie <em> <a> From Russia with Love </a> </em> . </p>
+
+#	NEW	birth_date	........ / She	// <p> She made a number of French and Italian movies after <em> From Russia with Love </em> , the last being <em> Scacco Internazionale </em> in 1968 .
+
+46	TRUE	Daniela Bianchi::occupation	actress / with	
+<p> <strong> Daniela Bianchi </strong> ( born 31 January 1942 ) is an Italian actress , whose best known part was <a> Tatiana Romanova </a> in the 1963 <a> James Bond </a> movie <em> <a> From Russia with Love </a> </em> . </p>
+
+#	NEW	death_date	........ / <strong>	// <p> <strong> Daniela Bianchi </strong> ( born 31 January 1942 ) is an Italian actress , whose best known part was <a> Tatiana Romanova </a> in the 1963 <a> James Bond </a> movie <em> <a> From Russia with Love </a> </em> . </p>
+
+#	NEW	birthplace	........ / Russia with Love	// In <em> From Russia with Love </em> her voice was dubbed by <a> Barbara Jefford </a> . </p>
+
+#	NEW	caption	........ / Daniela	// <p> <strong> Daniela Bianchi </strong> ( born 31 January 1942 ) is an Italian actress , whose best known part was <a> Tatiana Romanova </a> in the 1963 <a> James Bond </a> movie <em> <a> From Russia with Love </a> </em> . </p>
+
+50	FALSE	Yvonne Craig::name	yvonne craig / TV series	
+<p> <strong> Yvonne Joyce Craig </strong> ( born May 16 , 1937 ) is an American <a> actress </a> best known for her role as <a> Batgirl </a> from the 1960s <a> TV series </a> <em> <a> Batman </a> </em> . </p>
+
+#	NEW	caption	........ / Yvonne	// <p> <strong> Yvonne Joyce Craig </strong> ( born May 16 , 1937 ) is an American <a> actress </a> best known for her role as <a> Batgirl </a> from the 1960s <a> TV series </a> <em> <a> Batman </a> </em> . </p>
+
+#	NEW	birth_name	........ / Yvonne Joyce Craig	// <p> <strong> Yvonne Joyce Craig </strong> ( born May 16 , 1937 ) is an American <a> actress </a> best known for her role as <a> Batgirl </a> from the 1960s <a> TV series </a> <em> <a> Batman </a> </em> . </p>
+
+#	NEW	death_date	........ / a	// For a time , she was a coproducer of industrial shows , after which she worked successfully in the real estate business .
+
+#	NEW	birthplace	........ / Taylorville , Illinois	// <p> Yvonne Craig was born in <a> Taylorville , Illinois </a> .
+
+#	NEW	name	........ / e Jones	// <p> <strong> Ren&#x00e9 ; e Jones </strong> ( born October 15 , 1958 ) is an American dramatic actress .
+
+#	NEW	caption	........ / Ren&#	// <p> <strong> Ren&#x00e9 ; e Jones </strong> ( born October 15 , 1958 ) is an American dramatic actress .
+
+#	NEW	birth_name	........ / is best known for playing	// Jones is best known for playing <a> Lexie Carver </a> on NBC ' s long running dramatic series <a> Days of our Lives </a> , a role she originated in 1993 .
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Ren&#x00e9 ; e Jones </strong> ( born October 15 , 1958 ) is an American dramatic actress .
+
+59	TRUE	Renée Jones::occupation	actress / Actress	
+She has been nominated five times for the <a> NAACP Image Award </a> for Outstanding Actress in a Daytime Drama Series for the role .
+
+#	NEW	death_date	........ / the	// Off the set , Jones enjoys <a> reading </a> , playing tennis and working out .
+
+#	NEW	birthdate	........ / 15 , 1958 )	// <p> <strong> Ren&#x00e9 ; e Jones </strong> ( born October 15 , 1958 ) is an American dramatic actress .
+
+#	NEW	birthplace	........ / an American dramatic	// <p> <strong> Ren&#x00e9 ; e Jones </strong> ( born October 15 , 1958 ) is an American dramatic actress .
+
+63	FALSE	Doug Savant::name	doug savant / Douglas Peter	
+<p> <strong> Douglas Peter </strong> &quot ; <strong> Doug </strong> &quot ; <strong> Savant </strong> ( born June 21 , 1964 ) is an <a> American </a> <a> actor </a> .
+
+#	NEW	caption	........ / Savant	// <p> <strong> Douglas Peter </strong> &quot ; <strong> Doug </strong> &quot ; <strong> Savant </strong> ( born June 21 , 1964 ) is an <a> American </a> <a> actor </a> .
+
+#	NEW	birth_name	........ / is an <a> American	// <p> <strong> Douglas Peter </strong> &quot ; <strong> Doug </strong> &quot ; <strong> Savant </strong> ( born June 21 , 1964 ) is an <a> American </a> <a> actor </a> .
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Douglas Peter </strong> &quot ; <strong> Doug </strong> &quot ; <strong> Savant </strong> ( born June 21 , 1964 ) is an <a> American </a> <a> actor </a> .
+
+#	NEW	death_date	........ / <strong>	// <p> <strong> Douglas Peter </strong> &quot ; <strong> Doug </strong> &quot ; <strong> Savant </strong> ( born June 21 , 1964 ) is an <a> American </a> <a> actor </a> .
+
+68	TRUE	Pitof::name	pitof / Jean- Christophe &	
+<p> <strong> Jean-Christophe &quot ; Pitof&quot ; Comar </strong> ( born 4 July 1957 ) is a <a> French </a> <a> film </a> and <a> visual effects </a> <a> director </a> notable for <em> <a> Vidocq </a> </em> and <em> <a> Catwoman </a> </em> . </p>
+
+#	NEW	caption	........ / Pitof& quot ;	// <p> <strong> Jean-Christophe &quot ; Pitof&quot ; Comar </strong> ( born 4 July 1957 ) is a <a> French </a> <a> film </a> and <a> visual effects </a> <a> director </a> notable for <em> <a> Vidocq </a> </em> and <em> <a> Catwoman </a> </em> . </p>
+
+#	NEW	birth_name	........ / Jean- Christophe &quot ; Pitof&quot ; Comar	// <p> <strong> Jean-Christophe &quot ; Pitof&quot ; Comar </strong> ( born 4 July 1957 ) is a <a> French </a> <a> film </a> and <a> visual effects </a> <a> director </a> notable for <em> <a> Vidocq </a> </em> and <em> <a> Catwoman </a> </em> . </p>
+
+#	NEW	birth_date	........ / His	// <p> His directorial debut was the 2001 science fiction thriller <em> Vidocq </em> . </p>
+
+#	NEW	occupation	........ / Director	// The film was critically panned and a commercial failure ; Pitof &quot ; won&quot ; the <a> Golden Raspberry Award </a> for <a> Worst Director </a> . </p>
+
+#	NEW	death_date	........ / 1999	// In 1999 , he worked on <em> <a> The Messenger : The Story of Joan of Arc </a> </em> ( 1999 ) and was the visual effects supervisor for 1997 ' s <em> <a> Alien Resurrection </a> </em> . </p>
+
+#	NEW	birthplace	........ / science fiction thriller	// <p> His directorial debut was the 2001 science fiction thriller <em> Vidocq </em> . </p>
+
+#	NEW	caption	........ / Ken	// <p> <strong> Ken Lerner </strong> ( born May 27 , 1948 ) is an American television , stage and film actor who is perhaps most famous for playing &quot ; <a> Principal Flutie </a> &quot ; in the first episodes of the <a> television series </a> <em> <a> Buffy the Vampire Slayer </a> </em> . </p>
+
+#	NEW	death_date	........ / Lerner	// <p> Lerner was born in <a> Brooklyn , New York </a> , the son of Blanche and George Lerner , who was a fisherman and antiques dealer .
+
+#	NEW	name	........ / Vampire Slayer	// <p> <strong> Ken Lerner </strong> ( born May 27 , 1948 ) is an American television , stage and film actor who is perhaps most famous for playing &quot ; <a> Principal Flutie </a> &quot ; in the first episodes of the <a> television series </a> <em> <a> Buffy the Vampire Slayer </a> </em> . </p>
+
+#	NEW	birthplace	........ / The Running Man	// <p> He is well known for playing whiny or unlucky characters , like the agent whom Arnold Schwarzenegger stabs in the back with a pen in <em> <a> The Running Man </a> </em> . </p>
+
+#	NEW	birth_name	........ / is an American television , stage and film actor who is perhaps most famous for playing & quot ;	// <p> <strong> Ken Lerner </strong> ( born May 27 , 1948 ) is an American television , stage and film actor who is perhaps most famous for playing &quot ; <a> Principal Flutie </a> &quot ; in the first episodes of the <a> television series </a> <em> <a> Buffy the Vampire Slayer </a> </em> . </p>
+
+#	NEW	occupation	........ / actor	// <p> <strong> Ken Lerner </strong> ( born May 27 , 1948 ) is an American television , stage and film actor who is perhaps most famous for playing &quot ; <a> Principal Flutie </a> &quot ; in the first episodes of the <a> television series </a> <em> <a> Buffy the Vampire Slayer </a> </em> . </p>
+
+#	NEW	death_place	........ / New York	// <p> Lerner was born in <a> Brooklyn , New York </a> , the son of Blanche and George Lerner , who was a fisherman and antiques dealer .
+
+82	TRUE	Tommy Tiernan::name	tommy tiernan / Tommy Tiernan	
+<p> <strong> Tommy Tiernan </strong> ( born 16 June 1969 ) is an <a> Irish </a> <a> comedian </a> , <a> actor </a> and <a> writer </a> . </p>
+
+#	NEW	caption	........ / Tommy	// <p> <strong> Tommy Tiernan </strong> ( born 16 June 1969 ) is an <a> Irish </a> <a> comedian </a> , <a> actor </a> and <a> writer </a> . </p>
+
+#	NEW	birth_name	........ / Tommy Tiernan	// <p> <strong> Tommy Tiernan </strong> ( born 16 June 1969 ) is an <a> Irish </a> <a> comedian </a> , <a> actor </a> and <a> writer </a> . </p>
+
+#	NEW	occupation	........ / Comedy	// Two years later he was awarded the <a> Perrier Comedy Award </a> , at the <a> 1998 Edinburgh Festival Fringe </a> and won the Best Stand-Up Award at the British Comedy Awards .
+
+#	NEW	death_date	........ / filming	// Then filming wrapped and Tiernan went to <a> London </a> the next day .
+
+#	NEW	birthplace	........ / Donegal as a	// He moved , with his family , from County Donegal as a child .
+
+#	NEW	caption	........ / Kevin	// <p> <strong> Kevin O ' Donovan McClory </strong> ( 8 June 1926 - 20 November 2006 ) was an <a> Irish </a> <a> screenwriter </a> , <a> producer </a> , and <a> director </a> .
+
+#	NEW	birth_name	........ / Thomas John O ' Donovan McClory ( stage name Desmond O ' Donovan ) and Winifred ( n&#x00e9 ; e Doran ) were actors	// McClory ' s parents , Thomas John O ' Donovan McClory ( stage name Desmond O ' Donovan ) and Winifred ( n&#x00e9 ; e Doran ) were actors in Ireland .
+
+#	NEW	birth_date	........ / McClory	// <p> McClory was born in <a> Dublin </a> and suffered from <a> dyslexia </a> .
+
+#	NEW	death_date	........ / two	// The two sued , and the case opened to the <a> High Court </a> in <a> London </a> on 20 November 1963 .
+
+#	NEW	birthplace	........ / were actors in	// McClory ' s parents , Thomas John O ' Donovan McClory ( stage name Desmond O ' Donovan ) and Winifred ( n&#x00e9 ; e Doran ) were actors in Ireland .
+
+#	NEW	name	........ / New Tricks	// <p> <strong> James Christopher Bolam </strong> , <a> MBE </a> ( born 16 June 1935 ) is an <a> English </a> <a> actor </a> , best known for his roles as Jack Ford in <em> <a> When the Boat Comes In </a> </em> , Trevor Chaplin in <em> <a> The Beiderbecke Trilogy </a> </em> , <a> Terry Collier </a> in <em> <a> The Likely Lads </a> </em> and its sequel <em> <a> Whatever Happened to the Likely Lads ? </a> </em> , Roy Figgis in <em> <a> Only When I Laugh </a> </em> and <a> Jack Halford </a> in <em> <a> New Tricks </a> . </em> </p>
+
+#	NEW	caption	........ / original cast	// <p> In 1975 Bolam appeared alongside the original cast in a further <a> BBC Radio </a> series adapted from the 1973 TV series and in 1976 there was a further reunion in a feature film spin-off from the series , simply entitled <em> The Likely Lads </em> .
+
+#	NEW	birth_date	........ / Bolam	// <p> Bolam was born in <a> Sunderland </a> , <a> England </a> .
+
+#	NEW	death_date	........ / His	// <p> His appearances on the <a> London stage </a> include <a> Ben Elton </a> &#x00b4 ; s play , <em> Gasping </em> . </p>
+
+#	NEW	birth_name	........ / James Christopher Bolam	// <p> <strong> James Christopher Bolam </strong> , <a> MBE </a> ( born 16 June 1935 ) is an <a> English </a> <a> actor </a> , best known for his roles as Jack Ford in <em> <a> When the Boat Comes In </a> </em> , Trevor Chaplin in <em> <a> The Beiderbecke Trilogy </a> </em> , <a> Terry Collier </a> in <em> <a> The Likely Lads </a> </em> and its sequel <em> <a> Whatever Happened to the Likely Lads ? </a> </em> , Roy Figgis in <em> <a> Only When I Laugh </a> </em> and <a> Jack Halford </a> in <em> <a> New Tricks </a> . </em> </p>
+
+#	NEW	name	........ / atrice Dalle	// <p> <strong> B&#x00e9 ; atrice Dalle </strong> ( born 19 December 1964 ) is a <a> French </a> actress . </p>
+
+#	NEW	caption	........ / B&#	// <p> <strong> B&#x00e9 ; atrice Dalle </strong> ( born 19 December 1964 ) is a <a> French </a> actress . </p>
+
+#	NEW	birth_name	........ / went on to appear in a series of major roles in French films , including the	// She went on to appear in a series of major roles in French films , including the 1989 film <em> <a> Chim&#x00e8 ; re </a> </em> , which was entered into the <a> 1989 Cannes Film Festival </a> . </p>
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> B&#x00e9 ; atrice Dalle </strong> ( born 19 December 1964 ) is a <a> French </a> actress . </p>
+
+#	NEW	death_date	........ / She	// <p> She was working as a model when she met filmmaker <a> Jean-Jacques Beineix </a> .
+
+#	NEW	name	........ / is an	// <p> <strong> Alyssa Jayne Milano </strong> , ( born December 19 , 1972 ) is an American actress and former singer .
+
+#	NEW	caption	........ / Alyssa	// <p> <strong> Alyssa Jayne Milano </strong> , ( born December 19 , 1972 ) is an American actress and former singer .
+
+#	NEW	birth_name	........ / Milano will co-star with <a> Owen Wilson	// <p> In the future , Milano will co-star with <a> Owen Wilson </a> , <a> Jenna Fischer </a> and <a> Christina Applegate </a> in the romantic comedy <em> <a> Hall Pass </a> </em> ( 2011 ) , in which she was assigned in February 2010 , as well as producing and leading the cast of Lifetime ' s TV film <em> Sundays at Tiffany ' s </em> .
+
+#	NEW	death_date	........ / 2010	// In a 2010 interview , she told the press that she had ' a blast ' working on the game , although she recalled it being ' odd ' having to grunt in a room alone .
+
+#	NEW	birthdate	........ / 19 , 1972 )	// <p> <strong> Alyssa Jayne Milano </strong> , ( born December 19 , 1972 ) is an American actress and former singer .
+
+108	TRUE	Joseph Schildkraut::name	joseph schildkraut / film actor.	
+<p> <strong> Joseph Schildkraut </strong> ( March 22 , 1896 &ndash ; January 21 , 1964 ) was an Austrian <a> stage </a> and film actor . </p>
+
+#	NEW	caption	........ / 1964 )	// <p> <strong> Joseph Schildkraut </strong> ( March 22 , 1896 &ndash ; January 21 , 1964 ) was an Austrian <a> stage </a> and film actor . </p>
+
+#	NEW	birth_name	........ / was an Austrian	// <p> <strong> Joseph Schildkraut </strong> ( March 22 , 1896 &ndash ; January 21 , 1964 ) was an Austrian <a> stage </a> and film actor . </p>
+
+111	TRUE	Joseph Schildkraut::occupation	actor / Actor	
+<p> Schildkraut received an <a> Academy Award for Best Supporting Actor </a> for his role as <a> Alfred Dreyfus </a> in <em> <a> The Life of Emile Zola </a> </em> ( 1937 ) .
+
+#	NEW	birthplace	........ / was an Austrian	// <p> <strong> Joseph Schildkraut </strong> ( March 22 , 1896 &ndash ; January 21 , 1964 ) was an Austrian <a> stage </a> and film actor . </p>
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Joseph Schildkraut </strong> ( March 22 , 1896 &ndash ; January 21 , 1964 ) was an Austrian <a> stage </a> and film actor . </p>
+
+#	NEW	death_date	........ / with	// Schildkraut with opera singer [ [ Maria Olszewska ] ] in 1932 | left ] ] He then began working in <a> silent movies </a> , although he did return to the stage occasionally .
+
+#	NEW	birthdate	........ / 22 , 1896 &ndash ; January 21 , 1964 )	// <p> <strong> Joseph Schildkraut </strong> ( March 22 , 1896 &ndash ; January 21 , 1964 ) was an Austrian <a> stage </a> and film actor . </p>
+
+116	FALSE	William Boyd (actor)::name	william boyd / film actor	
+<p> <strong> William Lawrence Boyd </strong> ( June 5 , 1895 &ndash ; September 12 , 1972 ) was an <a> American </a> film actor best known for portraying <a> Hopalong Cassidy </a> . </p>
+
+#	NEW	caption	........ / William Lawrence	// <p> <strong> William Lawrence Boyd </strong> ( June 5 , 1895 &ndash ; September 12 , 1972 ) was an <a> American </a> film actor best known for portraying <a> Hopalong Cassidy </a> . </p>
+
+#	NEW	birth_name	........ / William Lawrence Boyd	// <p> <strong> William Lawrence Boyd </strong> ( June 5 , 1895 &ndash ; September 12 , 1972 ) was an <a> American </a> film actor best known for portraying <a> Hopalong Cassidy </a> . </p>
+
+119	FALSE	William Boyd (actor)::birth_date	june 5, 1895 / <strong>	
+<p> <strong> William Lawrence Boyd </strong> ( June 5 , 1895 &ndash ; September 12 , 1972 ) was an <a> American </a> film actor best known for portraying <a> Hopalong Cassidy </a> . </p>
+
+#	NEW	occupation	........ / ,	// More prominent film roles followed , and he became famous as a <a> leading man </a> in <a> silent film </a> romances , earning an annual salary of $100 , 000 .
+
+121	FALSE	William Boyd (actor)::death_date	september 12, 1972 / was	
+He was survived by his fifth wife , actress Grace Bradley Boyd , who died on September 21 , 2010 . </p>
+
+#	NEW	name	........ / Emrys Griffith	// <p> <strong> Hugh Emrys Griffith </strong> ( 30 May 1912 &ndash ; 14 May 1980 ) was a <a> Welsh </a> film , stage and television <a> actor </a> . </p>
+
+#	NEW	caption	........ / Hugh	// <p> <strong> Hugh Emrys Griffith </strong> ( 30 May 1912 &ndash ; 14 May 1980 ) was a <a> Welsh </a> film , stage and television <a> actor </a> . </p>
+
+#	NEW	birth_name	........ / Hugh Emrys Griffith	// <p> <strong> Hugh Emrys Griffith </strong> ( 30 May 1912 &ndash ; 14 May 1980 ) was a <a> Welsh </a> film , stage and television <a> actor </a> . </p>
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Hugh Emrys Griffith </strong> ( 30 May 1912 &ndash ; 14 May 1980 ) was a <a> Welsh </a> film , stage and television <a> actor </a> . </p>
+
+#	NEW	death_date	........ / He	// <p> He died from a <a> heart attack </a> in <a> London </a> in 1980 . </p>
+
+#	NEW	birthplace	........ / failed the English	// He was educated at local schools and attempted to gain entrance to university , but failed the English examination .
+
+#	NEW	name	........ / and 2010 ) .	// <p> <strong> Christie Mary Clark </strong> ( born December 13 , 1973 in <a> Orange County , California </a> ) is an <a> American </a> <a> actress </a> , best known for her role as <a> Carrie Brady </a> on <em> <a> Days of our Lives </a> </em> ( 1986&#x2013 ; 1990 , 1992&#x2013 ; 1999 , 2005&#x2013 ; 2006 and 2010 ) . </p>
+
+#	NEW	birth_name	........ / Christie Mary Clark	// <p> <strong> Christie Mary Clark </strong> ( born December 13 , 1973 in <a> Orange County , California </a> ) is an <a> American </a> <a> actress </a> , best known for her role as <a> Carrie Brady </a> on <em> <a> Days of our Lives </a> </em> ( 1986&#x2013 ; 1990 , 1992&#x2013 ; 1999 , 2005&#x2013 ; 2006 and 2010 ) . </p>
+
+#	NEW	birth_date	........ / June 2010 ,	// In June 2010 , Clark temporarily reprised her role as Carrie on DAYS . </p>
+
+#	NEW	occupation	........ / Actress	// For her portrayal of Carrie Brady , Clark has been nominated for four <a> Young Artist Award </a> s and two Outstanding Younger Actress <a> Daytime Emmy Award </a> s . </p>
+
+#	NEW	death_date	........ / Clark	// <p> Clark exited <em> Days of Our Lives </em> in 1999 to attend university studies in <a> London </a> , <a> England </a> .
+
+#	NEW	caption	........ / Christie	// <p> <strong> Christie Mary Clark </strong> ( born December 13 , 1973 in <a> Orange County , California </a> ) is an <a> American </a> <a> actress </a> , best known for her role as <a> Carrie Brady </a> on <em> <a> Days of our Lives </a> </em> ( 1986&#x2013 ; 1990 , 1992&#x2013 ; 1999 , 2005&#x2013 ; 2006 and 2010 ) . </p>
+
+#	NEW	name	........ / My Name	// <p> <strong> Jaime Elizabeth Pressly </strong> ( born July 30 , 1977 ) is an American actress and model , best known for playing Joy on the <a> NBC </a> sitcom <em> <a> My Name Is Earl </a> </em> .
+
+#	NEW	caption	........ / Jaime	// <p> <strong> Jaime Elizabeth Pressly </strong> ( born July 30 , 1977 ) is an American actress and model , best known for playing Joy on the <a> NBC </a> sitcom <em> <a> My Name Is Earl </a> </em> .
+
+#	NEW	birth_name	........ / Jaime Elizabeth Pressly	// <p> <strong> Jaime Elizabeth Pressly </strong> ( born July 30 , 1977 ) is an American actress and model , best known for playing Joy on the <a> NBC </a> sitcom <em> <a> My Name Is Earl </a> </em> .
+
+#	NEW	birth_date	........ / 1999	// From 1999 to 2001 , Pressly starred as &quot ; Audrey&quot ; on the drama series <em> <a> Jack and Jill </a> </em> .
+
+#	NEW	occupation	........ / Globe	// She has also been nominated for a <a> Screen Actors Guild Award </a> in 2006 ; and for a <a> Golden Globe Award </a> in 2007 . </p>
+
+#	NEW	death_date	........ / 2007	// In 2007 she won the <a> Emmy Award </a> for <em> Outstanding Supporting Actress in a Comedy Series </em> for her work on the show .
+
+#	NEW	birthdate	........ / 1998 and February 2004	// Pressly posed nude for the March 1998 and February 2004 issues of <em> <a> Playboy </a> </em> .
+
+#	NEW	name	........ / is an	// <p> <strong> Kenneth Edward &quot ; Ken&quot ; Olin </strong> ( born July 30 , 1954 ) is an American actor , <a> director </a> and <a> producer </a> .
+
+#	NEW	caption	........ / Ken& quot ;	// <p> <strong> Kenneth Edward &quot ; Ken&quot ; Olin </strong> ( born July 30 , 1954 ) is an American actor , <a> director </a> and <a> producer </a> .
+
+#	NEW	birth_name	........ / is known for his starring role on the television series	// He is known for his starring role on the television series <em> <a> Thirtysomething </a> </em> , and is currently a television producer and director . </p>
+
+#	NEW	death_date	........ / <strong>	// <p> <strong> Kenneth Edward &quot ; Ken&quot ; Olin </strong> ( born July 30 , 1954 ) is an American actor , <a> director </a> and <a> producer </a> .
+
+#	NEW	birthplace	........ / Brothers & amp ; Sisters	// He currently has a recurring role ( as David Caplan ) on <em> <a> Brothers &amp ; Sisters </a> </em> . </p>
+
+#	NEW	occupation	........ / director .	// He is known for his starring role on the television series <em> <a> Thirtysomething </a> </em> , and is currently a television producer and director . </p>
+
+147	TRUE	Bree Williamson::name	bree williamson / is a	
+<p> <strong> Bree Williamson </strong> ( born December 28 , 1979 ; <a> Toronto </a> , <a> Ontario </a> ) is a <a> Canadian </a> <a> actress </a> . </p>
+
+#	NEW	caption	........ / Ontario	// <p> <strong> Bree Williamson </strong> ( born December 28 , 1979 ; <a> Toronto </a> , <a> Ontario </a> ) is a <a> Canadian </a> <a> actress </a> . </p>
+
+#	NEW	birth_name	........ / Soap Opera Digest	// In the July 3 , 2007 edition of <em> <a> Soap Opera Digest </a> </em> , she announced that she and Evans had separated in June 2007 ; they later divorced . </p>
+
+150	TRUE	Bree Williamson::occupation	actress / Actress	
+<p> In 2009 and 2010 Williamson was nominated for a <a> Daytime Emmy Award </a> for <a> Outstanding Supporting Actress </a> for the role of Jessica . </p>
+
+#	NEW	death_date	........ / 2009	// <p> In 2009 and 2010 Williamson was nominated for a <a> Daytime Emmy Award </a> for <a> Outstanding Supporting Actress </a> for the role of Jessica . </p>
+
+#	NEW	birthplace	........ / role of Jessica .	// When Torpey resigned in January 2003 , Williamson was remembered by the casting department and offered the role of Jessica . </p>
+
+153	TRUE	Mindy Cohn::name	mindy cohn / of Life	
+<p> <strong> Mindy Cohn </strong> ( born May 20 , 1966 ) is an <a> American </a> <a> actress </a> known for her role as <a> Natalie Green </a> on the TV show <em> <a> The Facts of Life </a> </em> .
+
+#	NEW	caption	........ / Mindy	// <p> <strong> Mindy Cohn </strong> ( born May 20 , 1966 ) is an <a> American </a> <a> actress </a> known for her role as <a> Natalie Green </a> on the TV show <em> <a> The Facts of Life </a> </em> .
+
+#	NEW	birth_name	........ / is an <a> American	// <p> <strong> Mindy Cohn </strong> ( born May 20 , 1966 ) is an <a> American </a> <a> actress </a> known for her role as <a> Natalie Green </a> on the TV show <em> <a> The Facts of Life </a> </em> .
+
+#	NEW	birth_date	........ / In 2010 ,	// <p> In 2010 , she plays the role of Violet , the leading character in Casper Andreas ' movie <em> Violet Tendencies </em> . </p>
+
+#	NEW	death_date	........ / impact	// The impact of her work on <em> The Facts of Life </em> was honored when she was ranked 43 on VH1 ' s List of 100 Greatest Kids Stars .
+
+#	NEW	birthplace	........ / of Love in	// As well as two guest appearances in the second season of the cop drama <a> 21 Jump Street </a> in the episodes Christmas In Saigon in 1987 and Chapel of Love in 1988 playing Rosa . </p>
+
+#	NEW	occupation	........ / voice	// <p> In 2003 she was nominated for a <a> Daytime Emmy Award </a> for her work on the TV show <em> <a> What ' s New Scooby Doo ? </a> </em> , where she did the voice of <a> Velma Dinkley </a> .
+
+#	NEW	name	........ / and former	// <p> <strong> Hunter Tylo </strong> ( born <strong> Deborah Jo Hunter </strong> , July 3 , 1962 ) is an <a> American </a> <a> actress </a> , <a> Author </a> and former <a> model </a> .
+
+#	NEW	caption	........ / Hunter	// <p> <strong> Hunter Tylo </strong> ( born <strong> Deborah Jo Hunter </strong> , July 3 , 1962 ) is an <a> American </a> <a> actress </a> , <a> Author </a> and former <a> model </a> .
+
+#	NEW	birth_name	........ / is best known for her role as	// She is best known for her role as <a> Taylor Hayes Forrester </a> on <em> <a> The Bold and the Beautiful </a> </em> .
+
+#	NEW	death_date	........ / <strong>	// <p> <strong> Hunter Tylo </strong> ( born <strong> Deborah Jo Hunter </strong> , July 3 , 1962 ) is an <a> American </a> <a> actress </a> , <a> Author </a> and former <a> model </a> .
+
+#	NEW	birthplace	........ / her first husband .	// Tylo has been credited as <strong> Deborah Morehart </strong> ; Morehart was the last name of her first husband . </p>
+
+165	TRUE	Tonja Walker::name	tonja walker / Tonja Walker	
+<p> <strong> Tonja Walker </strong> ( born September 19 , 1960 ) is a former beauty pageant titleholder who has competed in the <a> Miss USA </a> pageant , a <a> actress </a> , and <a> singer </a> .
+
+#	NEW	caption	........ / Tonja	// <p> <strong> Tonja Walker </strong> ( born September 19 , 1960 ) is a former beauty pageant titleholder who has competed in the <a> Miss USA </a> pageant , a <a> actress </a> , and <a> singer </a> .
+
+#	NEW	birth_name	........ / is known for her role as	// She is known for her role as <a> Alex Olanov </a> on <em> <a> One Life to Live </a> </em> ( 1990&#x2013 ; 1997 , 2001 , 2002 , 2007 and again in 2009 ) and for her role as Olivia St . John Jerome on <em> <a> General Hospital </a> </em> ( 1988&#x2013 ; 1990 ) . </p>
+
+168	FALSE	Tonja Walker::occupation	actress / ,	
+She has produced an award winning Family Film entitled The Derby Stallion , starring <a> Zac Efron </a> , <a> Bill Cobbs </a> , <a> William R . Moses </a> and herself that will come out on Video on Demand March 8 , 2007 .
+
+#	NEW	death_date	........ / <strong>	// <p> <strong> Tonja Walker </strong> ( born September 19 , 1960 ) is a former beauty pageant titleholder who has competed in the <a> Miss USA </a> pageant , a <a> actress </a> , and <a> singer </a> .
+
+170	TRUE	Peter Watkins::name	peter watkins / Peter Watkins	
+<p> <strong> Peter Watkins </strong> ( born 29 October 1935 ) is an <a> English </a> <a> film </a> and <a> television </a> <a> director </a> .
+
+#	NEW	caption	........ / Peter	// <p> <strong> Peter Watkins </strong> ( born 29 October 1935 ) is an <a> English </a> <a> film </a> and <a> television </a> <a> director </a> .
+
+#	NEW	birth_name	........ / Freethinker : The Life and Work of Peter Watkins	// <em> Freethinker : The Life and Work of Peter Watkins </em> , is a forthcoming biography by Patrick Murphy , a Senior Lecturer in Film and Television at York St John University and Dr John Cook .
+
+#	NEW	death_date	........ / <strong>	// <p> <strong> Peter Watkins </strong> ( born 29 October 1935 ) is an <a> English </a> <a> film </a> and <a> television </a> <a> director </a> .
+
+#	NEW	birthplace	........ / the pioneers of	// He is one of the pioneers of <a> docudrama </a> .
+
+175	FALSE	Frank Gorshin::name	frank gorshin / was an	
+<p> <strong> Frank John Gorshin , Jr . </strong> ( April 5 , 1933 &#x2013 ; May 17 , 2005 ) was an <a> American </a> <a> actor </a> and <a> comedian </a> .
+
+#	NEW	caption	........ / 2005 )	// <p> <strong> Frank John Gorshin , Jr . </strong> ( April 5 , 1933 &#x2013 ; May 17 , 2005 ) was an <a> American </a> <a> actor </a> and <a> comedian </a> .
+
+177	TRUE	Frank Gorshin::birth_name	frank john gorshin, jr. / Frank John Gorshin, Jr.	
+<p> <strong> Frank John Gorshin , Jr . </strong> ( April 5 , 1933 &#x2013 ; May 17 , 2005 ) was an <a> American </a> <a> actor </a> and <a> comedian </a> .
+
+#	NEW	death_date	........ / <strong>	// <p> <strong> Frank John Gorshin , Jr . </strong> ( April 5 , 1933 &#x2013 ; May 17 , 2005 ) was an <a> American </a> <a> actor </a> and <a> comedian </a> .
+
+#	NEW	birthplace	........ / Side of it .	// His burial vault was Riddler Green and had a Question Mark on the Side of it . </em> </strong> </p>
+
+180	TRUE	Priyanka Chopra::name	priyanka chopra / Priyanka Chopra	
+<p> <strong> Priyanka Chopra </strong> ( , ; born 18 July 1982 ) is an Indian actress and former <a> Miss World </a> .
+
+#	NEW	caption	........ / born 18	// <p> <strong> Priyanka Chopra </strong> ( , ; born 18 July 1982 ) is an Indian actress and former <a> Miss World </a> .
+
+#	NEW	birth_name	........ / the film was appreciated and earned her several awards for Best Actress including the	// Her performance in the film was appreciated and earned her several awards for Best Actress including the <a> National Film Award for Best Actress </a> and also the <a> Filmfare Best Actress Award </a> .
+
+#	NEW	death_date	........ / is	// This is her finest work to date . &quot ; </p>
+
+#	NEW	occupation	........ / Actress	// Her performance in the film was appreciated and earned her several awards for Best Actress including the <a> National Film Award for Best Actress </a> and also the <a> Filmfare Best Actress Award </a> .
+
+#	null	occupation	actor / ..........
+
+#	null	occupation	actress / ..........
+
+#	null	occupation	actor / ..........
+
+#	null	name	kevin mcclory / ..........
+
+#	null	occupation	actor / ..........
+

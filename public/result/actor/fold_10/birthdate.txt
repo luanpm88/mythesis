@@ -1,0 +1,24 @@
+Found: 8
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	birthdate	........ / 30 November 1937 ) is an English film director and producer known for his stylish visuals and an obsession for	// <p> <strong> Sir Ridley Scott </strong> ( born 30 November 1937 ) is an English film director and producer known for his stylish visuals and an obsession for detail .
+
+#	NEW	birthdate	........ / 14 , 1963 ) is an American film producer , screenwriter , <a> cinematographer </a> , editor , actor , and an	// <p> <strong> Steven Andrew Soderbergh </strong> ( ; born January 14 , 1963 ) is an American film producer , screenwriter , <a> cinematographer </a> , editor , actor , and an <a> Academy Award </a> -winning film director .
+
+#	NEW	birthdate	........ / ( born November 11 , 1964 )	// <p> <strong> Calista Kay Flockhart </strong> ( born November 11 , 1964 ) is an American actor who is primarily recognized for her work in television .
+
+#	NEW	birthdate	........ / 25 , 1993	// On June 25 , 1993 , she married country singer <a> Lyle Lovett </a> .
+
+#	NEW	birthdate	........ / 29 , 1940 )	// <p> <strong> Godfrey Reggio </strong> ( born March 29 , 1940 ) is an American <a> director </a> of experimental <a> documentary film </a> s . </p>
+
+#	NEW	birthdate	........ / 15 , 1963 )	// <p> <strong> Helen Elizabeth Hunt </strong> ( born June 15 , 1963 ) is an American actress , <a> film director </a> , and <a> screenwriter </a> .
+
+#	NEW	birthdate	........ / ( April 28 , 1878 &ndash ; November 15 , 1954 ) was an American actor of stage , screen and	// <p> <strong> Lionel Barrymore </strong> ( April 28 , 1878 &ndash ; November 15 , 1954 ) was an American actor of stage , screen and radio .
+
+#	NEW	birthdate	........ / 2003 , having suffered	// <p> She died , aged 91 , in March 2003 , having suffered a <a> stroke </a> .
+

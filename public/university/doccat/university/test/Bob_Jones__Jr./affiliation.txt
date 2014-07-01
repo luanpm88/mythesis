@@ -1,2 +1,0 @@
-<li><a><em>New York Times</em> obituary</a></li>
-<p>&lt;!-- Metadata: see <a>Wikipedia:Persondata</a> --&gt; </p>

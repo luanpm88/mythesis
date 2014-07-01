@@ -1,0 +1,452 @@
+Total articles: 1697
+Articles for test: 1528
+Articles for train: 169
+Total attributes: 80
+Attributes with high occurrences: 23/80
+
+------------
+Found: 1796
+Found Not Null: 145
+Correct: 120
+Wrong: 25
+Total: 281
+precision: 0.8275862068965517
+recall: 0.42704626334519574
+
+
+
+1	TRUE	Otero County, New Mexico:: area_water_sq_mi	1 / 781.	
+<p> The median income for a household in the county was $30,861, and the median income for a family was $34,781.
+
+3	TRUE	Otero County, New Mexico:: density_km2	4 / (4/	
+The <a> population density </a> was 9 people per square mile (4/km&#x00b2;).
+
+8	TRUE	Otero County, New Mexico:: county	otero county / New Mexico	
+<p> <strong> Otero County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> New Mexico </a> .
+
+9	TRUE	Otero County, New Mexico:: state	new mexico / New Mexico	
+<p> <strong> Otero County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> New Mexico </a> .
+
+11	TRUE	Mora County, New Mexico:: county	mora county / New Mexico	
+<p> <strong> Mora County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> New Mexico </a> .
+
+12	TRUE	Mora County, New Mexico:: state	new mexico / New Mexico	
+<p> <strong> Mora County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> New Mexico </a> .
+
+15	TRUE	Mora County, New Mexico:: area_water_sq_mi	2 / 648.	
+<p> The median income for a household in the county was $24,518, and the median income for a family was $27,648.
+
+17	TRUE	Mora County, New Mexico:: density_km2	1 / (1/	
+The <a> population density </a> was 3 people per square mile (1/km&#x00b2;).
+
+22	TRUE	Mora County, New Mexico:: founded	1860 / 1860	
+<p> In 1860, Mora County was established.
+
+60	TRUE	Lincoln County, New Mexico:: county	lincoln county / New Mexico	
+<p> <strong> Lincoln County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> New Mexico </a> .
+
+61	TRUE	Lincoln County, New Mexico:: state	new mexico / New Mexico	
+<p> <strong> Lincoln County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> New Mexico </a> .
+
+64	TRUE	Lincoln County, New Mexico:: area_water_sq_mi	0 / 035.	
+<p> The median income for a household in the county was $33,886, and the median income for a family was $40,035.
+
+66	TRUE	Lincoln County, New Mexico:: density_km2	2 / (2/	
+The <a> population density </a> was 4 people per square mile (2/km&#x00b2;).
+
+129	TRUE	Eddy County, New Mexico:: county	eddy county / New Mexico	
+<p> <strong> Eddy County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> New Mexico </a> .
+
+130	TRUE	Eddy County, New Mexico:: state	new mexico / New Mexico	
+<p> <strong> Eddy County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> New Mexico </a> .
+
+139	TRUE	Eddy County, New Mexico:: density_km2	5 / (5/	
+The <a> population density </a> was 12 people per square mile (5/km&#x00b2;).
+
+140	TRUE	Curry County, New Mexico:: state	new mexico / New Mexico	
+<p> <strong> Curry County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> New Mexico </a> .
+
+142	TRUE	Curry County, New Mexico:: area_water_sq_mi	2 / 900.	
+<p> The median income for a household in the county was $28,917, and the median income for a family was $33,900.
+
+144	TRUE	Curry County, New Mexico:: density_km2	12 / (12/	
+The <a> population density </a> was 32 people per square mile (12/km&#x00b2;).
+
+149	TRUE	Curry County, New Mexico:: county	curry county / New Mexico	
+<p> <strong> Curry County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> New Mexico </a> .
+
+172	TRUE	Chaves County, New Mexico:: county	chaves county / New Mexico	
+<p> <strong> Chaves County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> New Mexico </a> .
+
+173	TRUE	Chaves County, New Mexico:: state	new mexico / New Mexico	
+<p> <strong> Chaves County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> New Mexico </a> .
+
+176	FALSE	Chaves County, New Mexico:: area_water_sq_mi	4 / 532.	
+<p> The median income for a household in the county was $28,513, and the median income for a family was $32,532.
+
+178	TRUE	Chaves County, New Mexico:: density_km2	4 / (4/	
+The <a> population density </a> was 10 people per square mile (4/km&#x00b2;).
+
+215	TRUE	Union County, New Jersey:: county	union county / New Jersey	
+<p> <strong> Union County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> New Jersey </a> .
+
+216	TRUE	Union County, New Jersey:: state	new jersey / New	
+<p> <strong> Union County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> New Jersey </a> .
+
+217	TRUE	Union County, New Jersey:: area_water_sq_mi	2 / 234.	
+<p> The median income for a household in the county was $55,339, and the median income for a family was $65,234.
+
+220	TRUE	Union County, New Jersey:: seat	elizabeth / Elizabeth	
+Its <a> county seat </a> is <a> Elizabeth </a> .
+
+224	FALSE	Union County, New Jersey:: area_total_sq_mi	105 / 000	
+With more than 5,000 persons per square mile on average, Union County is one of the most densely populated counties in America.
+
+225	TRUE	Union County, New Jersey:: area_land_sq_mi	103 / (2.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 105&nbsp; <a> square mile </a> s (273&nbsp; <a> km&#x00b2; </a> ), of which, 103&nbsp;square miles (268&nbsp;km&#x00b2;) of it is land and 2&nbsp;square miles (6&nbsp;km&#x00b2;) of it (2.06%) is water. </p>
+
+364	TRUE	Morris County, New Jersey:: state	new jersey / New York	
+<p> <strong> Morris County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> New Jersey </a> , about 25&nbsp;mi (40&nbsp;km) west of <a> New York City </a> .
+
+366	FALSE	Morris County, New Jersey:: area_water_sq_mi	12 / 38	
+The median age was 38 years.
+
+368	TRUE	Morris County, New Jersey:: density_km2	387 / (387/	
+The <a> population density </a> was 1,003 per square mile (387/km&#x00b2;).
+
+375	TRUE	Morris County, New Jersey:: county	morris county / New York	
+<p> <strong> Morris County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> New Jersey </a> , about 25&nbsp;mi (40&nbsp;km) west of <a> New York City </a> .
+
+376	TRUE	Monmouth County, New Jersey:: county	monmouth county / New York	
+<p> <strong> Monmouth County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> New Jersey </a> , within the <a> New York metropolitan area </a> .
+
+377	TRUE	Monmouth County, New Jersey:: state	new jersey / New York	
+<p> <strong> Monmouth County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> New Jersey </a> , within the <a> New York metropolitan area </a> .
+
+378	TRUE	Monmouth County, New Jersey:: area_land_sq_mi	472 / (29.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 665&nbsp;square miles (1,723&nbsp;km&#x00b2;), of which, 472&nbsp;square miles (1,222&nbsp;km&#x00b2;) of it is land and 193&nbsp;square miles (500&nbsp;km&#x00b2;) of it (29.04%) is water ( <em> see below: <a> Area map </a> </em> ). </p>
+
+380	TRUE	Monmouth County, New Jersey:: density_km2	503 / (503/	
+The <a> population density </a> was 1,304 people per square mile (503/km&#x00b2;).
+
+381	TRUE	Monmouth County, New Jersey:: founded	1675 / 1675.	
+<p> Monmouth County was established in 1675.
+
+387	TRUE	Monmouth County, New Jersey:: area_total_sq_mi	665 / (29.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 665&nbsp;square miles (1,723&nbsp;km&#x00b2;), of which, 472&nbsp;square miles (1,222&nbsp;km&#x00b2;) of it is land and 193&nbsp;square miles (500&nbsp;km&#x00b2;) of it (29.04%) is water ( <em> see below: <a> Area map </a> </em> ). </p>
+
+388	FALSE	Monmouth County, New Jersey:: area_water_sq_mi	193 / 823.	
+<p> The median income for a household in the county was $64,271, and the median income for a family was $76,823.
+
+414	TRUE	Hunterdon County, New Jersey:: county	hunterdon county / New Jersey	
+<p> <strong> Hunterdon County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> New Jersey </a> .
+
+415	TRUE	Hunterdon County, New Jersey:: state	new jersey / New	
+<p> <strong> Hunterdon County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> New Jersey </a> .
+
+418	FALSE	Hunterdon County, New Jersey:: area_water_sq_mi	8 / 39	
+The median age was 39 years.
+
+420	TRUE	Hunterdon County, New Jersey:: density_km2	110 / (110/	
+The <a> population density </a> was 284 people per square mile (110/km&#x00b2;).
+
+512	TRUE	Bergen County, New Jersey:: state	new jersey / New	
+<p> <strong> Bergen County </strong> is the most populous <a> county </a> of the <a> state </a> of <a> New Jersey </a> , <a> United States </a> .
+
+515	FALSE	Bergen County, New Jersey:: area_water_sq_mi	13 / 39	
+The median age was 39 years.
+
+516	FALSE	Bergen County, New Jersey:: pop	895,250 / 884,118	
+<p> As of the <a> census </a> of 2000, there were 884,118 people, 330,817 households, and 235,210 families residing in the county.
+
+519	TRUE	Bergen County, New Jersey:: area_water_km2	33 / 210	
+<p> As of the <a> census </a> of 2000, there were 884,118 people, 330,817 households, and 235,210 families residing in the county.
+
+521	TRUE	Bergen County, New Jersey:: county	bergen county / New Jersey	
+<p> <strong> Bergen County </strong> is the most populous <a> county </a> of the <a> state </a> of <a> New Jersey </a> , <a> United States </a> .
+
+589	TRUE	Grafton County, New Hampshire:: county	grafton county / New Hampshire	
+<p> <strong> Grafton County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> New Hampshire </a> .
+
+591	FALSE	Grafton County, New Hampshire:: area_water_sq_mi	37 / 424.	
+<p> The median income for a household in the county was $41,962, and the median income for a family was $50,424.
+
+593	TRUE	Grafton County, New Hampshire:: density_km2	18 / (18/	
+The <a> population density </a> was 48 people per square mile (18/km&#x00b2;).
+
+599	TRUE	Grafton County, New Hampshire:: state	new hampshire / New	
+<p> <strong> Grafton County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> New Hampshire </a> .
+
+622	TRUE	Carroll County, New Hampshire:: county	carroll county / New Hampshire	
+<p> <strong> Carroll County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> New Hampshire </a> .
+
+623	TRUE	Carroll County, New Hampshire:: state	new hampshire / New	
+<p> <strong> Carroll County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> New Hampshire </a> .
+
+628	TRUE	Carroll County, New Hampshire:: density_km2	18 / 18/	
+The <a> population density </a> was 18/km&#x00b2; (47/sq&nbsp;mi).
+
+756	TRUE	Eureka County, Nevada:: state	nevada / U.	
+<p> <strong> Eureka County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Nevada </a> .
+
+758	TRUE	Eureka County, Nevada:: area_water_sq_mi	4 / 438.	
+<p> The median income for a household in the county was $41,417, and the median income for a family was $49,438.
+
+760	TRUE	Eureka County, Nevada:: density_km2	0.15 / (0.	
+The <a> population density </a> was 0.39 people per square mile (0.15/km&#x00b2;).
+
+764	TRUE	Eureka County, Nevada:: density_sq_mi	0.39 / 15/	
+The <a> population density </a> was 0.39 people per square mile (0.15/km&#x00b2;).
+
+796	TRUE	Wheeler County, Nebraska:: state	nebraska / U.	
+<p> <strong> Wheeler County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Nebraska </a> .
+
+797	FALSE	Wheeler County, Nebraska:: area_total_sq_mi	576 / 352	
+<p> As of the <a> census </a> of 2000, there were 886 people, 352 households, and 243 families residing in the county.
+
+798	TRUE	Wheeler County, Nebraska:: area_land_sq_mi	575 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 576&nbsp; <a> square mile </a> s (1,491&nbsp; <a> km&#x00b2; </a> ), of which, 575&nbsp;square miles (1,490&nbsp;km&#x00b2;) of it is land and 0&nbsp;square miles (1&nbsp;km&#x00b2;) of it (0.07%) is water. </p>
+
+799	TRUE	Wheeler County, Nebraska:: area_water_sq_mi	0 / 750.	
+<p> The median income for a household in the county was $26,771, and the median income for a family was $33,750.
+
+803	FALSE	Wheeler County, Nebraska:: area_water_km2	1 / 243	
+<p> As of the <a> census </a> of 2000, there were 886 people, 352 households, and 243 families residing in the county.
+
+804	TRUE	Wheeler County, Nebraska:: density_sq_mi	2 / (1/	
+The <a> population density </a> was 2 people per square mile (1/km&#x00b2;).
+
+805	TRUE	Wheeler County, Nebraska:: density_km2	1 / (1/	
+The <a> population density </a> was 2 people per square mile (1/km&#x00b2;).
+
+806	TRUE	Webster County, Nebraska:: state	nebraska / U.	
+<p> <strong> Webster County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Nebraska </a> .
+
+807	FALSE	Webster County, Nebraska:: area_total_sq_mi	575 / 3	
+There were 1,972 housing units at an average density of 3 per square&nbsp;mile (1/km&#x00b2;).
+
+808	TRUE	Webster County, Nebraska:: area_land_sq_mi	575 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 575&nbsp;square miles (1,489&nbsp;km&#x00b2;), of which, 575&nbsp;square miles (1,489&nbsp;km&#x00b2;) of it is land and 0&nbsp;square miles (0&nbsp;km&#x00b2;) of it (0.02%) is water. </p>
+
+809	TRUE	Webster County, Nebraska:: area_water_sq_mi	0 / 513.	
+<p> The median income for a household in the county was $30,026, and the median income for a family was $36,513.
+
+811	TRUE	Webster County, Nebraska:: density_km2	3 / (3/	
+The <a> population density </a> was 7 people per square mile (3/km&#x00b2;).
+
+817	TRUE	Wayne County, Nebraska:: state	nebraska / U.	
+<p> <strong> Wayne County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Nebraska </a> .
+
+818	FALSE	Wayne County, Nebraska:: area_total_sq_mi	443 / 8	
+There were 3,662 housing units at an average density of 8 per square&nbsp;mile (3/km&#x00b2;).
+
+819	TRUE	Wayne County, Nebraska:: area_land_sq_mi	443 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 443&nbsp;square miles (1,149&nbsp;km&#x00b2;), of which, 443&nbsp;square miles (1,148&nbsp;km&#x00b2;) of it is land and 0&nbsp;square miles (0&nbsp;km&#x00b2;) of it (0.01%) is water. </p>
+
+820	TRUE	Wayne County, Nebraska:: area_water_sq_mi	0 / 840.	
+<p> The median income for a household in the county was $32,366, and the median income for a family was $43,840.
+
+822	TRUE	Wayne County, Nebraska:: density_km2	9 / (9/	
+The <a> population density </a> was 22 people per square mile (9/km&#x00b2;).
+
+826	TRUE	Wayne County, Nebraska:: area_water_km2	0 / 206	
+<p> As of the <a> census </a> of 2000, there were 9,851 people, 3,437 households, and 2,206 families residing in the county.
+
+827	TRUE	Wayne County, Nebraska:: density_sq_mi	22 / (9/	
+The <a> population density </a> was 22 people per square mile (9/km&#x00b2;).
+
+851	TRUE	Thurston County, Nebraska:: state	nebraska / U.	
+<p> <strong> Thurston County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Nebraska </a> .
+
+852	TRUE	Thurston County, Nebraska:: area_land_sq_mi	394 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 396&nbsp; <a> square mile </a> s (1,026&nbsp; <a> km&#x00b2; </a> ), of which, 394&nbsp;square miles (1,020&nbsp;km&#x00b2;) of it is land and 2&nbsp;square miles (6&nbsp;km&#x00b2;) of it (0.62%) is water.
+
+853	TRUE	Thurston County, Nebraska:: area_water_sq_mi	2 / 893.	
+<p> The median income for a household in the county was $28,170, and the median income for a family was $30,893.
+
+860	FALSE	Thurston County, Nebraska:: area_water_km2	6 / 725	
+<p> As of the <a> census </a> of 2000, there were 7,171 people, 2,255 households, and 1,725 families residing in the county.
+
+956	TRUE	Sarpy County, Nebraska:: state	nebraska / U.	
+<p> <strong> Sarpy County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Nebraska </a> .
+
+957	TRUE	Sarpy County, Nebraska:: area_land_sq_mi	241 / (2.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 247&nbsp;square miles (640&nbsp;km&#x00b2;), of which, 241&nbsp;square miles (623&nbsp;km&#x00b2;) of it is land and 7&nbsp;square miles (18&nbsp;km&#x00b2;) of it (2.73%) is water.
+
+958	TRUE	Sarpy County, Nebraska:: area_water_sq_mi	7 / 723.	
+<p> The median income for a household in the county was $53,804, and the median income for a family was $59,723.
+
+960	TRUE	Sarpy County, Nebraska:: density_km2	197 / (197/	
+The <a> population density </a> was 510 people per square mile (197/km&#x00b2;).
+
+1043	TRUE	Phelps County, Nebraska:: state	nebraska / U.	
+<strong> Phelps County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Nebraska </a> .
+
+1044	FALSE	Phelps County, Nebraska:: area_total_sq_mi	541 / 8	
+There were 4,191 housing units at an average density of 8 per square&nbsp;mile (3/km&#x00b2;).
+
+1045	TRUE	Phelps County, Nebraska:: area_land_sq_mi	540 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 541&nbsp;square miles (1,400&nbsp;km&#x00b2;), of which, 540&nbsp;square miles (1,399&nbsp;km&#x00b2;) of it is land and 1&nbsp;square miles (2&nbsp;km&#x00b2;) of it (0.12%) is water. </p>
+
+1046	TRUE	Phelps County, Nebraska:: area_water_sq_mi	1 / 943.	
+<p> The median income for a household in the county was $37,319, and the median income for a family was $44,943.
+
+1048	FALSE	Phelps County, Nebraska:: density_km2	3 / (7/	
+The <a> population density </a> was 18 people per square mile (7/km&#x00b2;).
+
+1053	TRUE	Phelps County, Nebraska:: density_sq_mi	8 / (7/	
+The <a> population density </a> was 18 people per square mile (7/km&#x00b2;).
+
+1181	TRUE	Knox County, Nebraska:: state	nebraska / U.	
+<p> <strong> Knox County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Nebraska </a> .
+
+1183	FALSE	Knox County, Nebraska:: area_water_sq_mi	32 / 073.	
+<p> The median income for a household in the county was $27,564, and the median income for a family was $34,073.
+
+1185	TRUE	Knox County, Nebraska:: density_km2	3 / (3/	
+The <a> population density </a> was 8 people per square mile (3/km&#x00b2;).
+
+1253	TRUE	Howard County, Nebraska:: state	nebraska / Nebraska	
+<p> <strong> Howard County </strong> is a <a> county </a> located in the <a> state </a> of <a> Nebraska </a> .
+
+1255	FALSE	Howard County, Nebraska:: area_water_sq_mi	6 / 259.	
+<p> The median income for a household in the county was $33,305, and the median income for a family was $40,259.
+
+1257	TRUE	Howard County, Nebraska:: density_km2	4 / (4/	
+The <a> population density </a> was 12 people per square mile (4/km&#x00b2;).
+
+1465	TRUE	Dawson County, Nebraska:: state	nebraska / U.	
+<p> <strong> Dawson County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Nebraska </a> .
+
+1468	TRUE	Dawson County, Nebraska:: area_water_sq_mi	6 / 224.	
+<p> The median income for a household in the county was $36,132, and the median income for a family was $42,224.
+
+1470	TRUE	Dawson County, Nebraska:: density_km2	9 / (9/	
+The <a> population density </a> was 24 people per square mile (9/km&#x00b2;).
+
+1474	TRUE	Dawson County, Nebraska:: density_sq_mi	24 / (9/	
+The <a> population density </a> was 24 people per square mile (9/km&#x00b2;).
+
+1494	TRUE	Custer County, Nebraska:: state	nebraska / U.	
+<p> <strong> Custer County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Nebraska </a> .
+
+1497	TRUE	Custer County, Nebraska:: area_water_sq_mi	0 / 063.	
+<p> The median income for a household in the county was $30,677, and the median income for a family was $37,063.
+
+1502	TRUE	Custer County, Nebraska:: area_water_km2	1 / 320	
+<p> As of the <a> census </a> of 2000, there were 11,793 people, 4,826 households, and 3,320 families residing in the county.
+
+1563	TRUE	Cass County, Nebraska:: state	nebraska / U.	
+<p> <strong> Cass County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Nebraska </a> .
+
+1566	FALSE	Cass County, Nebraska:: area_water_sq_mi	7 / 196.	
+<p> The median income for a household in the county was $46,515, and the median income for a family was $52,196.
+
+1568	TRUE	Cass County, Nebraska:: density_km2	17 / (17/	
+The <a> population density </a> was 44 people per square mile (17/km&#x00b2;).
+
+1573	TRUE	Butler County, Nebraska:: state	nebraska / U.	
+<p> <strong> Butler County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Nebraska </a> .
+
+1576	TRUE	Butler County, Nebraska:: area_water_sq_mi	1 / 441.	
+<p> The median income for a household in the county was $36,331, and the median income for a family was $44,441.
+
+1578	TRUE	Butler County, Nebraska:: density_km2	6 / (6/	
+The <a> population density </a> was 15 people per square mile (6/km&#x00b2;).
+
+1634	TRUE	Boone County, Nebraska:: state	nebraska / U.	
+<p> <strong> Boone County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Nebraska </a> .
+
+1637	TRUE	Boone County, Nebraska:: area_water_sq_mi	1 / 226.	
+<p> The median income for a household in the county was $31,444, and the median income for a family was $38,226.
+
+1639	TRUE	Boone County, Nebraska:: density_km2	4 / (4/	
+The <a> population density </a> was 9 people per square mile (4/km&#x00b2;).
+
+1670	TRUE	Antelope County, Nebraska:: state	nebraska / U.	
+<p> <strong> Antelope County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Nebraska </a> , and was formed in 1871.
+
+1673	TRUE	Antelope County, Nebraska:: area_water_sq_mi	1 / 240.	
+<p> The median income for a household in the county was $30,114, and the median income for a family was $36,240.
+
+1674	TRUE	Antelope County, Nebraska:: density_km2	3 / (3/	
+The <a> population density </a> was 9 people per square mile (3/km&#x00b2;).
+
+1677	TRUE	Antelope County, Nebraska:: area_water_km2	4 / 073	
+<p> As of the <a> census </a> of 2000, there were 7,452 people, 2,953 households, and 2,073 families residing in the county.
+
+1678	TRUE	Antelope County, Nebraska:: density_sq_mi	9 / (3/	
+The <a> population density </a> was 9 people per square mile (3/km&#x00b2;).
+
+1701	TRUE	Wheatland County, Montana:: state	montana / Montana	
+<p> <strong> Wheatland County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Montana </a> .
+
+1704	TRUE	Wheatland County, Montana:: area_water_sq_mi	5 / 500.	
+<p> The median income for a household in the county was $24,492, and the median income for a family was $32,500.
+
+1706	TRUE	Wheatland County, Montana:: density_km2	1 / (1/	
+The <a> population density </a> was 2 people per square mile (1/km&#x00b2;).
+
+1712	TRUE	Valley County, Montana:: state	montana / Montana	
+<p> <strong> Valley County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Montana </a> .
+
+1715	FALSE	Valley County, Montana:: area_water_sq_mi	141 / 044.	
+<p> The median income for a household in the county was $30,979, and the median income for a family was $39,044.
+
+1717	TRUE	Valley County, Montana:: density_km2	1 / (1/	
+The <a> population density </a> was 2 people per square mile (1/km&#x00b2;).
+
+1723	TRUE	Treasure County, Montana:: state	montana / Montana	
+<p> <strong> Treasure County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Montana </a> .
+
+1724	FALSE	Treasure County, Montana:: area_total_sq_mi	984 / (1/	
+There were 422 housing units at an average density of 1/km&#x00b2; (1/sq&nbsp;mi).
+
+1725	TRUE	Treasure County, Montana:: area_land_sq_mi	979 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 984&nbsp; <a> square mile </a> s (2,549&nbsp; <a> km&#x00b2; </a> ), of which, 979&nbsp;square miles (2,535&nbsp;km&#x00b2;) of it is land and 5&nbsp;square miles (14&nbsp;km&#x00b2;) of it (0.53%) is water. </p>
+
+1726	FALSE	Treasure County, Montana:: area_water_sq_mi	5 / 219.	
+<p> The median income for a household in the county was $29,830, and the median income for a family was $34,219.
+
+1732	TRUE	Toole County, Montana:: state	montana / Montana	
+<p> <strong> Toole County </strong> is a <a> county </a> located in the northern portion of the <a> U.S. state </a> of <a> Montana </a> .
+
+1735	FALSE	Toole County, Montana:: area_water_sq_mi	35 / 600.	
+<p> The median income for a household in the county was $30,169, and the median income for a family was $39,600.
+
+1737	TRUE	Toole County, Montana:: density_km2	1 / (1/	
+The <a> population density </a> was 3 people per square mile (1/km&#x00b2;).
+
+1743	TRUE	Teton County, Montana:: state	montana / Montana	
+<p> <strong> Teton County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Montana </a> .
+
+1746	FALSE	Teton County, Montana:: area_water_sq_mi	20 / 662.	
+<p> The median income for a household in the county was $30,197, and the median income for a family was $36,662.
+
+1748	TRUE	Teton County, Montana:: density_km2	1 / (1/	
+The <a> population density </a> was 3 people per square mile (1/km&#x00b2;).
+
+1754	TRUE	Sweet Grass County, Montana:: state	montana / Montana	
+<p> <strong> Sweet Grass County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Montana </a> .
+
+1756	TRUE	Sweet Grass County, Montana:: area_water_sq_mi	7 / 750.	
+<p> The median income for a household in the county was $32,422, and the median income for a family was $38,750.
+
+1758	TRUE	Sweet Grass County, Montana:: density_km2	1 / (1/	
+The <a> population density </a> was 2 people per square mile (1/km&#x00b2;).
+
+1766	FALSE	Stillwater County, Montana:: area_water_sq_mi	10 / 238.	
+<p> The median income for a household in the county was $39,205, and the median income for a family was $45,238.
+
+1768	TRUE	Stillwater County, Montana:: density_km2	2 / (2/	
+The <a> population density </a> was 5 people per square mile (2/km&#x00b2;).
+
+1772	TRUE	Stillwater County, Montana:: state	montana / Montana	
+[[chromite]] mine and mill, 1942]] <strong> Stillwater County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Montana </a> .
+
+1786	TRUE	Sheridan County, Montana:: state	montana / Montana	
+<p> <strong> Sheridan County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Montana </a> .
+
+1788	FALSE	Sheridan County, Montana:: area_water_sq_mi	30 / 345.	
+<p> The median income for a household in the county was $29,518, and the median income for a family was $35,345.
+

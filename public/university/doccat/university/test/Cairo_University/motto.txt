@@ -1,2 +1,0 @@
-<h2>The beginning</h2>
-<li><a>The Faculty of Sciences</a></li>

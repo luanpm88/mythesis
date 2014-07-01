@@ -1,2 +1,0 @@
-<p>The <strong>College Now</strong> program allows selected high school students to take college courses.
-<li>Business Education, undergrad</li>

@@ -1,2 +1,0 @@
-<li><a>Information Systems</a> and Applied Computer Science</li>
-<li>Applied Computer Science</li>

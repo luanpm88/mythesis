@@ -1,0 +1,87 @@
+Found: 37
+Found Not Null: 3
+Correct: 1
+Wrong: 2
+Total: 3
+precision: 0.3333333333333333
+recall: 0.3333333333333333
+
+
+
+#	NEW	ceased	........ / 2005	// <p> At January 2005 the airline also operated : </p>
+
+#	NEW	ceased	........ / January 23 , 2010	// On January 23 , 2010 , the airline was renamed <strong> Chengdu Airlines </strong> . </p>
+
+#	NEW	ceased	........ / 1949 .	// <p> The airline was established and started operations in 1949 .
+
+#	NEW	ceased	........ / 2010 :	// <p> Tatarstan Airlines operates the following aircraft , as of July , 2010 : </p>
+
+#	NEW	ceased	........ / 2007 .	// It had 400 employees as of March 2007 . </p>
+
+#	NEW	ceased	........ / 2007 )	// It has 68 employees ( at March 2007 ) ref name=&quot ; FI&quot ; / . </p>
+
+#	NEW	ceased	........ / 1996 .	// <p> The airline was established and started operations in 1996 .
+
+#	NEW	ceased	........ / 2001 .	// Scheduled flights were first operated in 2001 .
+
+#	NEW	ceased	........ / 2001	// <p> Jet Air started its operational activity in 2001 in the business aviation sector , providing broker rendering services ( small aircraft and helicopters ) to local operators and companies .
+
+#	NEW	ceased	........ / 2010	// <p> As of November 2010 West Wind Aviation had the following aircraft registered with <a> Transport Canada </a> . .
+
+#	NEW	ceased	........ / 292	// On September 21 , 2005 , flight 292 executed an <a> emergency landing </a> at <a> Los Angeles International Airport </a> ( LAX ) after the <a> nose wheels </a> jammed in an abnormal position .
+
+#	NEW	ceased	........ / 31	// <p> As the first officer began the takeoff on runway 31 , the airplane started to drift to the left .
+
+#	NEW	ceased	........ / 2007 )	// <p> The FIGAS fleet consists of the following aircraft ( at March 2007 ) ref name=&quot ; FI&quot ; / : </p>
+
+#	NEW	ceased	........ / 16 March 1958 .	// It operated its first commercial flight between <a> Paris </a> and <a> Strasbourg </a> on 16 March 1958 .
+
+#	NEW	ceased	........ / 2005	// / br / In January 2005 , Inter Island Airways re-obtained its own Part 135 air carrier certificate and began expanding internationally .
+
+15	TRUE	Concors::ceased	2005 / 2005.	
+Founded in 1991 , it operated regional and international charter flights out of <a> Riga International Airport </a> between 1995 and 2005 . </p>
+
+#	NEW	ceased	........ / 2007	// <p> It was established in 1979 and has 207 employees ( at March <a> 2007 </a> ) ref name=&quot ; FI&quot ; / . </p>
+
+#	NEW	ceased	........ / 2 December 2002 .	// <p> The airline was established in March 2002 and started operations on 2 December 2002 .
+
+18	FALSE	Cascade Airways::ceased	1986 / 1983	
+<p> When <a> Horizon Air </a> began operating in 1983 , Cascade was competing against an unstoppable airline that eventually acquired <a> Air Oregon </a> and <a> Transwestern Airlines </a> .
+
+#	NEW	ceased	........ / 1996 .	// <p> The airline was established in 1996 and started operations in June 1996 .
+
+#	NEW	ceased	........ / 2005	// It was founded in 1996 , and since 2005 it operates flights in code share with <a> Varig </a> and <a> TAM Linhas A&#x00e9 ; reas </a> . </p>
+
+#	NEW	ceased	........ / 2006 .	// The airline suspended services in March 2006 .
+
+#	NEW	ceased	........ / 2007	// It is wholly owned by the Estafeta Group and has 174 employees ( at March <a> 2007 </a> ) . </p>
+
+#	NEW	ceased	........ / 2004	// It ceased operations in June 2004 when its parent company Fairline Aviation was declared bankrupt on June 9 , 2004 by a court in <a> Graz </a> . </p>
+
+#	NEW	ceased	........ / 207	// <p> The Flight Alaska fleet consists of <a> Cessna 207 </a> and <a> Cessna 207A </a> aircraft ( at January 2005 ) . </p>
+
+#	NEW	ceased	........ / 1985	// It was established and started operations in 1985 and operates scheduled and on-demand air cargo services .
+
+#	NEW	ceased	........ / 2003 .	// <p> The airline was established and started operations in 2003 . </p>
+
+#	NEW	ceased	........ / 2011 ) :	// <p> The Yangtse River Express fleet consists of the following aircraft ( as of January 2011 ) : </p>
+
+#	NEW	ceased	........ / 2010	// <p> As of April 2010 Voyageur Airways had the following aircraft registered with <a> Transport Canada </a> ref name=&quot ; TCFleet&quot ; / : </p>
+
+#	NEW	ceased	........ / 2004	// In June <a> 2004 </a> the airline emerged from bankruptcy . </p>
+
+#	NEW	ceased	........ / 1996	// It was established and started operations in 1996 and operates domestic charter services .
+
+31	FALSE	Imair Airlines::ceased	23 november 2009 / 2007.	
+It was established as a <a> limited liability company </a> registered with the Azerbaijan ministry of justice and had 104 employees in March 2007 . </p>
+
+#	NEW	ceased	........ / 1991	// It started operations in March 1991 and undertakes all types of cargo operations , as well as maintenance work for third parties .
+
+#	NEW	ceased	........ / 15	// The last contact was 15 minutes before the plane was due to land , with the airport tower .
+
+#	NEW	ceased	........ / 00	// By 12 : 00 Wednesday , all survivors had been rescued by FAB . </p>
+
+#	NEW	ceased	........ / 2007 ) .	// It has 1 , 092 employees ( as at March 2007 ) .
+
+#	NEW	ceased	........ / 2005	// <p> On 23 November 2005 , Jetairfly acquired its current name due to the new marketing strategy of the TUI Group . </p>
+

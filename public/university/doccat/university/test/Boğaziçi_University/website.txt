@@ -1,5 +1,0 @@
-<p> <img> <strong>The Faculty of Arts and Sciences</strong></p>
-<li>Educational Sciences</li>
-<p><strong>The Institute of <a>Environmental Sciences</a></strong></p>
-<li><a>Fine Arts</a> Club</li>
-<li><a>Social Sciences</a> Society</li>

@@ -1,3 +1,0 @@
-Courses are offered in both <a>English</a> and <a>French</a>.
-<li><a>International Council for Open and Distance Education</a></li>
-<li><a>List of universities in the Canadian Prairies</a></li>

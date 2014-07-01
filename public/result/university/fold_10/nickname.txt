@@ -1,0 +1,52 @@
+Found: 114
+Found Not Null: 14
+Correct: 1
+Wrong: 13
+Total: 14
+precision: 0.008771929824561403
+recall: 0.07142857142857142
+
+
+
+0	TRUE	Jadavpur University::nickname	ju / JU	
+<p> <strong> Jadavpur University </strong> ( <strong> JU </strong> ) ( ) is an educational and research institution in <a> India </a> .
+
+1	FALSE	Rice University::nickname	owls / States	
+<p> <strong> William Marsh Rice University </strong> ( commonly known as <strong> Rice University </strong> ) opened in 1912 as <strong> The William Marsh Rice Institute for the Advancement of Letters, Science and Art </strong> is a <a> private </a> <a> coeducational </a> research university located in <a> Houston </a> , <a> Texas </a> , <a> United States </a> .
+
+3	FALSE	St. John Fisher College::nickname	cardinal / Rochester	
+<a> John Fisher </a> College </strong> is a <a> private </a> <a> liberal arts college </a> located in <a> Pittsford, New York </a> , <a> United States </a> , an eastern suburb of <a> Rochester </a> .
+
+5	FALSE	Seattle University::nickname	redhawks / Washington	
+<p> <strong> Seattle University ( SU ) </strong> is a Jesuit Catholic university located in the <a> First Hill </a> neighborhood of <a> Seattle </a> , <a> Washington </a> , USA.
+
+28	FALSE	Geneva College::nickname	golden tornadoes / Pittsburgh	
+<p> <strong> Geneva College </strong> is a <a> Christian </a> <a> liberal arts </a> <a> college </a> in <a> Beaver Falls </a> , <a> Pennsylvania </a> , <a> United States </a> , north of <a> Pittsburgh </a> .
+
+29	FALSE	Grinnell College::nickname	pioneers / activism	
+<strong> Grinnell College </strong> is a private <a> liberal arts college </a> in <a> Grinnell </a> , <a> Iowa </a> , <a> U.S. </a> known for its strong tradition of <a> social activism </a> and rigorous academic environment.
+
+49	FALSE	Dartmouth College::nickname	big green / arts	
+<p> <strong> Dartmouth College </strong> ( , ) is a <a> private </a> , <a> Ivy League </a> university, comprising a liberal arts college, <a> Dartmouth Medical School </a> , <a> Thayer School of Engineering </a> , and <a> Tuck School of Business </a> , as well as 19 graduate programs in the arts and sciences.
+
+54	FALSE	Wabash College::nickname	little giants / Miscellaneous	
+<p> <strong> Miscellaneous </strong> </p>
+
+63	FALSE	Mount Saint Vincent University::nickname	mystics / Canada	
+<p> <strong> Mount Saint Vincent University </strong> is a <a> university </a> located in <a> Halifax </a> , <a> Nova Scotia </a> , <a> Canada </a> .
+
+64	FALSE	Northern Michigan University::nickname	wildcats / Art	
+<p> <strong> Art and Design </strong> </p>
+
+73	FALSE	University of Victoria::nickname	vikes / Victoria	
+The non-denominational university had enjoyed 60 years of prior teaching tradition at the university level as <strong> <a> Victoria College </a> </strong> .
+
+88	FALSE	University of California, Davis::nickname	aggies / Berkeley	
+Referred locally as <strong> UCD </strong> , the school was originally established in 1905 as the University Farm, an extension of <a> UC Berkeley </a> .
+
+103	FALSE	Los Angeles Pierce College::nickname	the brahmas / California	
+<p> <strong> Los Angeles Pierce College </strong> , also known as <strong> Pierce College </strong> , <strong> Pierce </strong> , is a two-year <a> community college </a> that serves more than 23,000 students in the northern <a> Chalk Hills </a> of <a> Woodland Hills </a> , a community within the <a> San Fernando Valley </a> region of the <a> city of Los Angeles </a> , <a> California </a> . </p>
+
+109	FALSE	Carnegie Mellon University::nickname	tartans / Pennsylvania	
+<p> <strong> Carnegie Mellon University </strong> ( also known as <strong> Carnegie Mellon </strong> or simply <strong> CMU </strong> ) is a <a> private </a> <a> research university </a> in <a> Pittsburgh </a> , <a> Pennsylvania </a> .
+

@@ -1,0 +1,98 @@
+Found: 39
+Found Not Null: 6
+Correct: 4
+Wrong: 2
+Total: 8
+precision: 0.6666666666666666
+recall: 0.5
+
+
+
+#	NEW	ceased	........ / 34	// <p> The airline ' s fleet comprises 34 aircraft , including : </p>
+
+#	NEW	ceased	........ / 2008 .	// It has then suspended operations with its two remaining B747-200F freighters on October 17 , 2008 . </p>
+
+#	NEW	ceased	........ / 2 March 2007 .	// The company filed for bankruptcy on 2 March 2007 .
+
+#	NEW	ceased	........ / 2008 ) :	// <p> The Malm&#x00f6 ; Aviation fleet consists of the following aircraft ( at January 2008 ) : </p>
+
+#	NEW	ceased	........ / 1	// <p> A number of notable people were aboard Flight 1 when it went down in Jamaica Bay .
+
+5	TRUE	MetroJet::ceased	2001 / September 11, 2001	
+<p> The <a> September 11 , 2001 attacks </a> gave US Airways a rationale to invoke a <a> force majeure </a> clause in its labor contracts to close the operation , announced on September 24 .
+
+#	NEW	ceased	........ / 52	// On board , there were 52 passengers ( including two infants ) , three flight attendants , and two pilots .
+
+#	NEW	ceased	........ / 967	// <p> : * On November 16 , 1959 , less than two months before the crash of Flight 2511 , <a> National Airlines Flight 967 </a> disappeared over the Gulf of Mexico .
+
+#	NEW	ceased	........ / 2006 ) :	// <p> This is the list of places that Rutaca flies to ( as of September 2006 ) : </p>
+
+#	NEW	ceased	........ / 2002	// It became a subsidiary of <a> LAN </a> in September <a> 2002 </a> .
+
+10	TRUE	Flyjet::ceased	2007 / 2007.	
+<p> FlyJet ceased operations from the 31st of October 2007 . </p>
+
+#	NEW	ceased	........ / 2010 )	// <p> The Titan Airways fleet consists of the following aircraft ( at 17 November 2010 ) </p>
+
+#	NEW	ceased	........ / 1997	// <p> The airline was established on 1 January 1995 and started operations in June 1997 with a series of charter flights carrying pilgrims to Jeddah .
+
+13	FALSE	Teebah Airlines::ceased	2008 / <a>	
+<p> The airline was on the <a> List of air carriers banned in the European Union </a> . </p>
+
+#	NEW	ceased	........ / 5 January 2009	// Although all flights use QF IATA codes , on 5 January 2009 both Eastern and Sunstate changed from their previous individual callsigns to the common Q-Link ( pronounced &quot ; Cue-Link&quot ; ) .
+
+#	NEW	ceased	........ / 2010 ) :	// <p> The PAN Air fleet consists of the following aircraft ( at June 2010 ) : </p>
+
+#	NEW	ceased	........ / 21 September 2008 )	// <p> The LagunAir fleet consists of the following aircraft ( as of 21 September 2008 ) [ <a> http : / /www . ch-aviation . c / aircraft . php ? search=set&amp ; airline=N7&amp ; al_op=1 </a> ] : </p>
+
+#	NEW	ceased	........ / 2009 ) :	// <p> RVL Group own and operate the following aircraft : ( correct as of June 2009 ) : </p>
+
+#	NEW	ceased	........ / 708	// <p> The airline was forced to cease operating in September 2005 following the crash of <a> West Caribbean Airways Flight 708 </a> in Venezuela .
+
+#	NEW	ceased	........ / 2005	// Because of financial problems following two crashes in 2005 ( see below ) it ceased operations that September . </p>
+
+#	NEW	ceased	........ / 2010	// <p> On May 2010 Sky Airline will be introducing its first 2 A320 as part of the fleet renovation . </p>
+
+#	NEW	ceased	........ / 2010 ) :	// The Vostok Airlines fleet includes the following aircraft ( at June 2010 ) : </p>
+
+#	NEW	ceased	........ / 2008 .	// <p> Bravo Air Congo suspended operations on 8 August 2008 . </p>
+
+23	FALSE	Air Max Africa::ceased	2006 / 2002	
+It was established in 2002 as <strong> Air Max-Gabon </strong> and operated charter and passenger flights in <a> West Africa </a> out of <a> Libreville International Airport </a> .
+
+#	NEW	ceased	........ / 1997 .	// Highland Air began in September 1995 and was acquired by Skyways in March 1997 .
+
+#	NEW	ceased	........ / September 11 , 2005	// On September 11 , 2005 , the airline ceased providing scheduled operations and focused entirely on providing charter services .
+
+#	NEW	ceased	........ / 2005	// <p> At January 2005 the airline also operated : </p>
+
+#	NEW	ceased	........ / 2007 )	// <p> The Odessa Airlines fleet includes the following aircraft ( at March 2007 ) ref name=&quot ; FI&quot ; / : </p>
+
+#	NEW	ceased	........ / 2008 ) :	// <p> Tavrey Airlines operates the following services ( at September 2008 ) : </p>
+
+#	NEW	ceased	........ / 2009 )	// <p> The Ukraine Air Enterprise fleet consists of the following aircraft ( as of 13 May 2009 ) [ <a> http : / /www . ch-aviation . c / aircraft . php ? search=set&amp ; airline=UKN&amp ; al_op=1 </a> ] : </p>
+
+30	TRUE	Fly Europa::ceased	2008 / 2008	
+<p> Fly Europa ceased operations after <a> European Aviation Air Charter </a> declared bankruptcy on 2 December 2008 , taking with it the aircraft Fly Europa had leased for their charter operations .
+
+31	TRUE	Gulf Traveller::ceased	2007 / 2007 )	
+<p> The Gulf Traveller Fleet consists of the following aircraft ( as of March 2007 ) ref name=&quot ; FI&quot ; / : </p>
+
+#	NEW	ceased	........ / 2009	// <p> In October 2009 , Yemenia announced that it will suspend all its flights to <a> Europe </a> by 25 October .
+
+#	NEW	ceased	........ / 2010 )	// <p> The Venezolana fleet consists of the following aircraft ( as of 19 May 2010 ) [ <a> http : / /www . ch-aviation . c / aircraft . php ? search=set&amp ; airline=RAV&amp ; al_op=1 </a> ] : </p>
+
+#	NEW	ceased	........ / 208	// <p> On 17 April 2009 , an LTA Cessna 208 Caravan aircraft crashed shortly after taking off from <a> Canaima </a> , Venezuela , killing one child .
+
+#	NEW	ceased	........ / 2003	// Its operations were temporarily suspended in May 2003 when parent airline <a> Avensa </a> announced that it was grounding its aircraft due to a drop in demand of air traffic .
+
+#	NEW	ceased	........ / 2010 )	// <p> The ABSA fleet includes the following aircraft ( at March 2010 ) ref name=&quot ; flight2010&quot ; / : </p>
+
+#	NEW	ceased	........ / 2010	// <p> The airline temporarily suspended all operations on May 30 , 2010 for a major operational restructuring . </p>
+
+#	NEW	ceased	........ / 1977 .	// <p> The airline was established and started operations in 1977 .
+
+#	null	ceased	2002 / ..........
+
+#	null	ceased	16 december 2009 / ..........
+

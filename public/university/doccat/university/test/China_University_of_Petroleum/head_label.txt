@@ -1,4 +1,0 @@
-<li>School of Geo-resources and Information</li>
-<li>School of Petroleum Engineering &#x0009;</li>
-<li>School of Foreign Languages</li>
-<li>School of Economic Administration &#x0009;</li>

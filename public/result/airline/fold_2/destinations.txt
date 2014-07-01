@@ -1,0 +1,77 @@
+Found: 26
+Found Not Null: 5
+Correct: 2
+Wrong: 3
+Total: 10
+precision: 0.4
+recall: 0.2
+
+
+
+0	TRUE	Northern Air Cargo::destinations	19 / 1956	
+<p> The airline was established in 1956 as a charter freight service by Bobby Sholton and Morrie Carlson .
+
+1	FALSE	DayJet::destinations	60 / 2007	
+The company began operations in Florida in October 2007 and suspended operations on September 19 , 2008 . </p>
+
+#	NEW	destinations	........ / 840	// For the 1986 bombing , see <a> TWA Flight 840 ( 1986 ) </a> . </em> </p>
+
+#	NEW	destinations	........ / 6	// <p> The <strong> Downend air crash </strong> occurred on 6 November 1957 when a prototype <a> Bristol Britannia </a> aircraft crashed in woods near Overndale Road in <a> Downend Village </a> , near <a> Bristol </a> , England , on its landing approach at <a> Filton airport </a> during a test flight .
+
+#	NEW	destinations	........ / 2007	// <p> As of May 2007 , Galaxy Air operates scheduled cargo flights to the following destinations : </p>
+
+#	NEW	destinations	........ / 15	// <p> The airline started operations on 15 May 2006 .
+
+#	NEW	destinations	........ / 18	// <p> The flight was cleared to runway 18 shortly after 10 : 06 .
+
+#	NEW	destinations	........ / 2010	// <p> In 2010 Omni established with a Brazilian investor the Brazilian charter airline <a> Whitejets </a> , which will operate , as of June 2010 flights from Brazil to the Caribbean . </p>
+
+#	NEW	destinations	........ / 2005 ) :	// <p> Cosmos Air Cargo ( Transporte A&#x00e9 ; reo de Carga COSMOS ) fleet consists of the following aircraft ( at September 2005 ) : </p>
+
+#	NEW	destinations	........ / 2006	// <p> The AeroSur fleet consists of the following aircraft ( at September <a> 2006 </a> ) .
+
+10	FALSE	Air Norway::destinations	3 / 2009.	
+Following the bankruptcy of <a> Coast Air </a> in January 2008 , the airline stepped in and was serving <a> Fagernes Airport , Leirin </a> with two daily flights to <a> Oslo </a> , and one daily flight to <a> Trondheim </a> , but these were terminated in 2009 . </p>
+
+#	NEW	destinations	........ / 1993	// In 1993 it also started operating the <a> Eurocopter Dauphin </a> with possibilities for search and rescue purposes .
+
+#	NEW	destinations	........ / 1993	// The airline started service on October 4 , 1993 , using <a> Fokker F27 </a> turboprop aircraft operated by <a> Empire Airlines </a> while awaiting its own certification .
+
+#	NEW	destinations	........ / 2010	// It added three weekly services between <a> Manchester International Airport </a> and <a> Toronto Pearson International Airport </a> for its 2010 Summer schedule , which addded an extra 10 , 000 seats on flights between the two cities . </p>
+
+#	NEW	destinations	........ / 18	// The airline once operated flights to more than 18 domestic destinations , with future plans for international service to the <a> USA </a> .
+
+#	NEW	destinations	........ / 1971 .	// <p> ! <strong> American Flyers Airline Corporation </strong> was a United States &quot ; supplemental&quot ; charter airline that operated from 1949 to 1971 . </p>
+
+#	NEW	destinations	........ / 2010	// <p> In June 2010 TEAM Linhas A&#x00e9 ; reas operated services to the following destinations : </p>
+
+#	NEW	destinations	........ / 19	// The airline almost immediately ran into financial problems and discontinued operations of on 19 February 1986 . </p>
+
+#	NEW	destinations	........ / 29	// The aircraft carried 29 passengers and three crew members .
+
+#	NEW	destinations	........ / 1980	// In <a> 1980 </a> , following its buyout of <a> Hughes Airwest </a> , Republic became the largest airline in the <a> United States </a> by destinations served .
+
+#	NEW	destinations	........ / 8	// But a second BOAC Comet was lost on <a> April 8 </a> : a charter flight operating as <a> South African Airways Flight 201 </a> took off from Rome bound for Egypt , with 14 passengers and seven crew .
+
+#	NEW	destinations	........ / 444	// <p> American still uses the <a> Flight Number </a> 444 despite the incident .
+
+22	FALSE	Dutch Antilles Express::destinations	10 / 2007	
+In April 2007 the airline moved its head office from Bonaire to Cura&#x00e7 ; ao , where the airline ' s flight operations have been based .
+
+#	NEW	destinations	........ / 1572	// <p> Flight 1572 was en route from <a> Chicago O ' Hare </a> to <a> Hartford </a> ' s <a> Bradley International Airport </a> on November 12 , 1995 .
+
+24	TRUE	WinAir Airlines::destinations	5 / 1997	
+Established in 1997 , its first flight was a <a> Super Bowl </a> charter on January 25 , 1998 .
+
+#	NEW	destinations	........ / 128	// <p> <strong> TWA Flight 128 </strong> was a domestic <a> U . S . </a> Flight en route from <a> Los Angeles , CA </a> to <a> Boston , MA </a> with scheduled stops at <a> Cincinnati , OH </a> and <a> Pittsburgh , PA </a> .
+
+#	null	destinations	8 / ..........
+
+#	null	destinations	31 / ..........
+
+#	null	destinations	34 / ..........
+
+#	null	destinations	6 / ..........
+
+#	null	destinations	6 / ..........
+

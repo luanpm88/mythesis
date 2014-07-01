@@ -1,0 +1,92 @@
+Found: 29
+Found Not Null: 22
+Correct: 3
+Wrong: 19
+Total: 23
+precision: 0.13636363636363635
+recall: 0.13043478260869565
+
+
+
+0	FALSE	John Braden::name	john braden / Harry Thomason	
+Known best for his work on shows including <em> <a> Magnum , P . I . </a> </em> , <em> <a> The A-Team </a> </em> , <em> <a> Knight Rider </a> </em> , <em> <a> Dukes of Hazzard </a> </em> , and <em> <a> The Fall Guy </a> </em> , he also supplied the voice for Senator Alfred Woden in the videogame series <a> Max Payne </a> , he often worked with producer <a> Harry Thomason </a> .
+
+1	FALSE	Darnell Williams::name	darnell williams / My Children	
+Williams won two <a> Daytime Emmy Awards </a> for his work on <em> All My Children </em> in the 1980s . </p>
+
+#	NEW	name	........ / Second Film	// <p> Gould became one of the many celebrity producers of <a> The 1 Second Film </a> collaboration in June 2009 . </p>
+
+3	FALSE	Jamie Uys::name	jamie uys / age of	
+<p> Uys died of a <a> heart attack </a> in 1996 at the age of 74 . </p>
+
+4	FALSE	Saul Zaentz::name	saul zaentz / began looking	
+New Line executive <a> Robert Shaye </a> took great offense , declared that they would never work with Jackson again , and began looking for another director . </p>
+
+5	TRUE	Frank Sutton::name	frank sutton / age of	
+<p> While preparing for a performance of the comedy <em> <a> Luv </a> </em> at the Beverly Barn Dinner Playhouse in <a> Shreveport , Louisiana </a> , Frank Sutton died of a <a> heart attack </a> on June 28 , 1974 , at the age of 50 .
+
+6	FALSE	Joseph Mascolo::name	joseph mascolo / Stefano DiMera	
+He decided not to renew his contract with the show in July 2006 due to a lack of storyline and decided to return to <em> <a> Days of our Lives </a> </em> , where his character <a> Stefano DiMera </a> was resurrected after six years . </p>
+
+#	NEW	name	........ / Fisher Stevens	// <p> <strong> Fisher Stevens </strong> ( born November 27 , 1963 ) is an <a> American </a> actor and producer .
+
+8	FALSE	David Morrissey::name	david morrissey / took up	
+After his acting career took off , he got into directing because he was aware that , as an actor , he was coming into a project quite late into development and then leaving before post-production ; he wanted to see a film through to the end , so took up professional directing .
+
+9	FALSE	Mark Little (Australian actor)::name	mark little / opening July	
+<p> Little appeared as Roy in a production of <a> Louis Nowra ' s </a> play <em> <a> Cosi </a> </em> at <a> The White Bear Theatre </a> Club in <a> Kennington </a> , <a> London </a> , opening July 29 , 2008 . </p>
+
+#	NEW	name	........ / he worked &	// He later moved to <a> Anaheim , California </a> , where he worked &quot ; odd jobs&quot ; until the early 1980s .
+
+11	FALSE	Amanda Walsh::name	amanda walsh / her acting	
+Amanda started her acting career &quot ; acting&quot ; out border-crossing scenarios at the <a> Canada Customs </a> college in her home town of Rigaud . </p>
+
+12	FALSE	Rena Sofer::name	rena sofer / Hallmark Channel	
+<p> She starred in the television movie <a> Always and Forever </a> which aired October 24 , 2009 on the <a> Hallmark Channel </a> . </p>
+
+#	NEW	name	........ / both young	// <p> Born as <strong> Marion Thornburg </strong> , the elder sister of actress <a> Betty Hutton </a> , their father abandoned their family when they were both young , he later committed suicide .
+
+14	FALSE	Connor Trinneer::name	connor trinneer / An Angel	
+<p> More recently , he has had several guest-starring roles on television , including <em> <a> One Life to Live </a> </em> , <em> <a> Sliders </a> </em> and <em> <a> Touched By An Angel </a> </em> .
+
+15	FALSE	Hill Harper::name	hill harper / a Dog	
+<p> Harper broke into both film and television in 1993 , doing recurring work on the <a> Fox </a> series <em> <a> Married . . . with Children </a> </em> and making his film debut in the short <em> Confessions of a Dog </em> .
+
+#	NEW	name	........ / X- Files	// <p> <strong> William Bruce Davis </strong> ( born January 13 , 1938 ) is a <a> Canadian </a> <a> actor </a> , known for his role as <a> The Smoking Man </a> on <em> <a> The X-Files </a> </em> .
+
+#	NEW	name	........ / married Mary	// On September 10 , 1960 , he married Mary Cox .
+
+#	NEW	name	........ / Midnight Madness	// <p> <strong> David Walsh Naughton </strong> ( born February 13 , 1951 ) is an <a> American </a> <a> actor </a> and <a> singer </a> best known for his starring roles in the 1981 <a> horror film </a> <em> <a> An American Werewolf in London </a> </em> and the 1980 <a> Walt Disney </a> comedy , <em> <a> Midnight Madness </a> </em> . </p>
+
+19	FALSE	Geoffrey Durham::name	geoffrey durham / stage shows	
+After working in various stage shows for several years his interest in magic was rekindled while preparing for a show in Liverpool , in which his character performed some tricks .
+
+20	FALSE	Tricia Cast::name	tricia cast / that she	
+However , her character proved so popular that she was added as a regular after the storyline ended .
+
+21	FALSE	Sean Hayes (actor)::name	sean hayes / Patrick Hayes	
+<p> <strong> Sean Patrick Hayes </strong> ( born June 26 , 1970 ) is an American <a> actor </a> and <a> comedian </a> .
+
+22	FALSE	Ann Dvorak::name	ann dvorak / Literary Digest	
+<p> Asked how to pronounce her adopted surname , she told <em> <a> The Literary Digest </a> </em> : &quot ; My name is properly pronounced <em> vor ' shack </em> .
+
+23	TRUE	Joseph Sweeney (actor)::name	joseph sweeney / New York	
+<p> <strong> Joseph Sweeney </strong> ( <a> Philadelphia </a> , <a> Pennsylvania </a> , July 26 , 1884 &#x2013 ; November 25 , 1963 , <a> New York City </a> ) was an American actor who worked in stage production , television and movies .
+
+24	FALSE	Gary Kemp::name	gary kemp / Frank was	
+Eileen was undergoing treatment for a heart bypass at <a> Bournemouth Hospital </a> , where Frank was brought in after suffering a fatal heart attack .
+
+25	FALSE	Kitty Carlisle::name	kitty carlisle hart / one episode	
+<p> Carlisle became a household name through <em> To Tell the Truth </em> , where she was a regular panelist from 1957 to 1978 , and later appeared on revivals of the series in 1980 , 1990&#x2013 ; 91 and one episode in 2000 .
+
+26	FALSE	Linda Dano::name	linda dano / Frank Attardi	
+<p> Linda was married to advertising executive Frank Attardi for over 20 years .
+
+27	FALSE	Susan Ward::name	susan ward / Love interest	
+Love interest for the main character .
+
+28	TRUE	Emily McLaughlin::name	emily mclaughlin / Emily McLaughlin	
+<p> Emily McLaughlin is interred next to Jeffrey Hunter in the Glen Haven Memorial Park cemetery in <a> Sylmar , California </a> . </p>
+
+#	null	name	rachael ray / ..........
+

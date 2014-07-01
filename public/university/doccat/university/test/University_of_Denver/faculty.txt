@@ -1,8 +1,0 @@
-<li><a>Richard Hilton</a>, chairman, Hilton and Hyland Real Estate</li>
-<li><a>Tyler Bozak</a>, hockey forward with Toronto Maple Leafs</li>
-<li><a>Chris Butler</a>, hockey defenseman with Buffalo Sabres</li>
-<li><a>Matt Carle</a>, hockey defenseman with Philadelphia Flyers, 2007 NHL all-Rookie team and 2006 Hobey Baker Award winner</li>
-<li><a>Wade Dubielewicz</a>, goaltender with Minnesota Wild hockey team</li>
-<li><a>Brock Trotter</a>, hockey forward with Montreal Canadiens</li>
-<li><a>Joe Colborne</a>, hockey forward with Boston Bruins</li>
-<li><a>Patrick Wiercioch</a>, hockey defenseman with Ottawa Senators</li>

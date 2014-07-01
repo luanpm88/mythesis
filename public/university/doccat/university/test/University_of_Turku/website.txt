@@ -1,4 +1,0 @@
-<li>Institute of Microbiology and Pathology</li>
-<li>Department of Behavioural Sciences and Philosophy</li>
-<li>Environmental Sciences</li>
-<li>Physical Sciences, Astronomy Track</li>

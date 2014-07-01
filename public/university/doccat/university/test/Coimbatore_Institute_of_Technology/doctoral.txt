@@ -1,5 +1,0 @@
-<li>Computer Science &amp; Engineering</li>
-<h3>Science Programmes</h3>
-<p><strong>Bachelor of Science - Applied Sciences</strong>&lt;br /&gt; This is a programme of six semesters  duration.
-<p><strong>Bachelor of Science - Computer Technology</strong>&lt;br /&gt; This is a programme of six semesters duration.
-<li>Two-Day Conference on Biotechnology for Human Welfare</li>

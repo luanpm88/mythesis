@@ -1,2 +1,0 @@
-<li>Science and Technology</li>
-<li>Information Science and Technology</li>

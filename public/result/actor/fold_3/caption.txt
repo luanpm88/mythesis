@@ -1,0 +1,68 @@
+Found: 30
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	caption	........ / Stephen	// <p> <strong> Stephen Nichols </strong> ( born February 19 , 1951 ) is an <a> American </a> <a> actor </a> , most notable for his roles on American daytime soap operas .
+
+#	NEW	caption	........ / quot ; Lawrence	// <p> <strong> Joseph &quot ; Joey&quot ; Lawrence </strong> ( born April 20 , 1976 ) is an <a> American </a> <a> actor </a> , <a> singer </a> , and <a> television host </a> .
+
+#	NEW	caption	........ / Melody	// <p> <strong> Melody Thomas Scott </strong> ( born April 18 , 1956 ) is an American actress best known for playing <a> Nikki Newman </a> on the <a> soap opera </a> <em> <a> The Young and the Restless </a> </em> . </p>
+
+#	NEW	caption	........ / Sanaa	// <p> <strong> Sanaa McCoy Lathan </strong> ( born September 19 , 1971 ) is an <a> American </a> <a> actress </a> and <a> voice actress </a> .
+
+#	NEW	caption	........ / 1927 )	// <p> <strong> John Drew , Jr . </strong> ( November 13 , 1853&ndash ; July 9 , 1927 ) was an <a> American </a> stage actor noted for his roles in <a> Shakespeare </a> an comedy , society drama , and light comedies .
+
+#	NEW	caption	........ / 1922 )	// <p> <strong> Lillian Russell </strong> ( December 4 , 1861 &ndash ; June 6 , 1922 ) was an <a> American </a> actress and <a> singer </a> .
+
+#	NEW	caption	........ / Daniela	// <p> <strong> Daniela Bianchi </strong> ( born 31 January 1942 ) is an Italian actress , whose best known part was <a> Tatiana Romanova </a> in the 1963 <a> James Bond </a> movie <em> <a> From Russia with Love </a> </em> . </p>
+
+#	NEW	caption	........ / Yvonne	// <p> <strong> Yvonne Joyce Craig </strong> ( born May 16 , 1937 ) is an American <a> actress </a> best known for her role as <a> Batgirl </a> from the 1960s <a> TV series </a> <em> <a> Batman </a> </em> . </p>
+
+#	NEW	caption	........ / Ren&#	// <p> <strong> Ren&#x00e9 ; e Jones </strong> ( born October 15 , 1958 ) is an American dramatic actress .
+
+#	NEW	caption	........ / Savant	// <p> <strong> Douglas Peter </strong> &quot ; <strong> Doug </strong> &quot ; <strong> Savant </strong> ( born June 21 , 1964 ) is an <a> American </a> <a> actor </a> .
+
+#	NEW	caption	........ / Pitof& quot ;	// <p> <strong> Jean-Christophe &quot ; Pitof&quot ; Comar </strong> ( born 4 July 1957 ) is a <a> French </a> <a> film </a> and <a> visual effects </a> <a> director </a> notable for <em> <a> Vidocq </a> </em> and <em> <a> Catwoman </a> </em> . </p>
+
+#	NEW	caption	........ / Ken	// <p> <strong> Ken Lerner </strong> ( born May 27 , 1948 ) is an American television , stage and film actor who is perhaps most famous for playing &quot ; <a> Principal Flutie </a> &quot ; in the first episodes of the <a> television series </a> <em> <a> Buffy the Vampire Slayer </a> </em> . </p>
+
+#	NEW	caption	........ / Tommy	// <p> <strong> Tommy Tiernan </strong> ( born 16 June 1969 ) is an <a> Irish </a> <a> comedian </a> , <a> actor </a> and <a> writer </a> . </p>
+
+#	NEW	caption	........ / Kevin	// <p> <strong> Kevin O ' Donovan McClory </strong> ( 8 June 1926 - 20 November 2006 ) was an <a> Irish </a> <a> screenwriter </a> , <a> producer </a> , and <a> director </a> .
+
+#	NEW	caption	........ / original cast	// <p> In 1975 Bolam appeared alongside the original cast in a further <a> BBC Radio </a> series adapted from the 1973 TV series and in 1976 there was a further reunion in a feature film spin-off from the series , simply entitled <em> The Likely Lads </em> .
+
+#	NEW	caption	........ / B&#	// <p> <strong> B&#x00e9 ; atrice Dalle </strong> ( born 19 December 1964 ) is a <a> French </a> actress . </p>
+
+#	NEW	caption	........ / Alyssa	// <p> <strong> Alyssa Jayne Milano </strong> , ( born December 19 , 1972 ) is an American actress and former singer .
+
+#	NEW	caption	........ / 1964 )	// <p> <strong> Joseph Schildkraut </strong> ( March 22 , 1896 &ndash ; January 21 , 1964 ) was an Austrian <a> stage </a> and film actor . </p>
+
+#	NEW	caption	........ / William Lawrence	// <p> <strong> William Lawrence Boyd </strong> ( June 5 , 1895 &ndash ; September 12 , 1972 ) was an <a> American </a> film actor best known for portraying <a> Hopalong Cassidy </a> . </p>
+
+#	NEW	caption	........ / Hugh	// <p> <strong> Hugh Emrys Griffith </strong> ( 30 May 1912 &ndash ; 14 May 1980 ) was a <a> Welsh </a> film , stage and television <a> actor </a> . </p>
+
+#	NEW	caption	........ / Christie	// <p> <strong> Christie Mary Clark </strong> ( born December 13 , 1973 in <a> Orange County , California </a> ) is an <a> American </a> <a> actress </a> , best known for her role as <a> Carrie Brady </a> on <em> <a> Days of our Lives </a> </em> ( 1986&#x2013 ; 1990 , 1992&#x2013 ; 1999 , 2005&#x2013 ; 2006 and 2010 ) . </p>
+
+#	NEW	caption	........ / Jaime	// <p> <strong> Jaime Elizabeth Pressly </strong> ( born July 30 , 1977 ) is an American actress and model , best known for playing Joy on the <a> NBC </a> sitcom <em> <a> My Name Is Earl </a> </em> .
+
+#	NEW	caption	........ / Ken& quot ;	// <p> <strong> Kenneth Edward &quot ; Ken&quot ; Olin </strong> ( born July 30 , 1954 ) is an American actor , <a> director </a> and <a> producer </a> .
+
+#	NEW	caption	........ / Ontario	// <p> <strong> Bree Williamson </strong> ( born December 28 , 1979 ; <a> Toronto </a> , <a> Ontario </a> ) is a <a> Canadian </a> <a> actress </a> . </p>
+
+#	NEW	caption	........ / Mindy	// <p> <strong> Mindy Cohn </strong> ( born May 20 , 1966 ) is an <a> American </a> <a> actress </a> known for her role as <a> Natalie Green </a> on the TV show <em> <a> The Facts of Life </a> </em> .
+
+#	NEW	caption	........ / Hunter	// <p> <strong> Hunter Tylo </strong> ( born <strong> Deborah Jo Hunter </strong> , July 3 , 1962 ) is an <a> American </a> <a> actress </a> , <a> Author </a> and former <a> model </a> .
+
+#	NEW	caption	........ / Tonja	// <p> <strong> Tonja Walker </strong> ( born September 19 , 1960 ) is a former beauty pageant titleholder who has competed in the <a> Miss USA </a> pageant , a <a> actress </a> , and <a> singer </a> .
+
+#	NEW	caption	........ / Peter	// <p> <strong> Peter Watkins </strong> ( born 29 October 1935 ) is an <a> English </a> <a> film </a> and <a> television </a> <a> director </a> .
+
+#	NEW	caption	........ / 2005 )	// <p> <strong> Frank John Gorshin , Jr . </strong> ( April 5 , 1933 &#x2013 ; May 17 , 2005 ) was an <a> American </a> <a> actor </a> and <a> comedian </a> .
+
+#	NEW	caption	........ / born 18	// <p> <strong> Priyanka Chopra </strong> ( , ; born 18 July 1982 ) is an Indian actress and former <a> Miss World </a> .
+

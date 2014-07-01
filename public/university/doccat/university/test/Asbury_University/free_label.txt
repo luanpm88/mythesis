@@ -1,7 +1,0 @@
-<li>Art</li>
-<li>Art Grades P-12</li>
-<li>Art Grades P-12</li>
-<h2>Athletics</h2>
-Asbury is affiliated with the <a>NAIA</a> (Division I for all sports, except basketball - Division II) while also partnered with the <a>NCCAA</a> (Division I).</p>
-<p>School sports include Baseball, Basketball (Men's &amp; Women's), Cross Country (Men's &amp; Women's), Golf (Men's &amp; Women's), Soccer (Men's &amp; Women's), Swimming &amp; Diving, Softball, Tennis (Men's &amp; Women's), and Volleyball.</p>
-<li><a>Athletics website</a></li>

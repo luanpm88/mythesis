@@ -1,0 +1,101 @@
+Found: 45
+Found Not Null: 1
+Correct: 0
+Wrong: 1
+Total: 1
+precision: 0.0
+recall: 0.0
+
+
+
+#	NEW	logo_size	........ / 2009 ) :	// <p> The Air Mandalay fleet includes the following aircraft ( at 25 December 2009 ) : </p>
+
+#	NEW	logo_size	........ / its	// <p> The airline ' s fleet varied over thirty years of operation , and included various light passenger aircraft during its tenure .
+
+#	NEW	logo_size	........ / 1982 .	// It was established to provide helicopters and fixed-wing aircraft to the oil exploration industry in Indonesia , initially as an Australian-Indonesian joint venture , but evolved into a fully Indonesian-owned and operated company in 1982 .
+
+#	NEW	logo_size	........ / 2009 ) :	// <p> The Batavia Air fleet includes the following aircraft ( at December 2009 ) : </p>
+
+#	NEW	logo_size	........ / 2009 ) :	// <p> The Astral Aviation fleet consists of the following aircraft ( as of 1 May 2009 ) : </p>
+
+#	NEW	logo_size	........ / 2007 :	// <p> The Caribbean Star Airlines fleet consisted of the following aircraft as of March 2007 : ref name=&quot ; FI&quot ; / </p>
+
+#	NEW	logo_size	........ / 1990	// <p> The airline was founded and started operations in 1990 as <strong> Varna International Airways </strong> using a brand new <a> Tupolev Tu-154M </a> aircraft .
+
+#	NEW	logo_size	........ / 2006	// <p> As of August <a> 2006 </a> the Sosoliso Airlines fleet included : </p>
+
+#	NEW	logo_size	........ / 2010 ) :	// The China Cargo Airlines fleet consists of the following aircraft ( as of 30 July 2010 ) : </p>
+
+#	NEW	logo_size	........ / 10 .	// ( 2006 ) ] ] As of December 2010 , the XL Airways France fleet consists of the following aircraft with an average age of 10 . 1 years : </p>
+
+#	NEW	logo_size	........ / 2010 )	// <p> According to <a> Transport Canada </a> the Air Nunavut fleet consists of the following aircraft ( as of April 2010 ) ref name=&quot ; TCFleet&quot ; / : </p>
+
+#	NEW	logo_size	........ / </	// <p> The Zest Airways fleet includes the following aircraft ( ) </p>
+
+#	NEW	logo_size	........ / 2010	// <p> As of November 2010 the WDL Aviation fleet includes : </p>
+
+#	NEW	logo_size	........ / </	// <p> The Expo Aviation fleet includes the following aircraft ref name=&quot ; FI&quot ; / : </p>
+
+#	NEW	logo_size	........ / 2010 ) :	// <p> The following aircraft are currently in the Australian air Express fleet ( at September 2010 ) : </p>
+
+#	NEW	logo_size	........ / 2009 ) :	// <p> The New Axis Airways fleet consisted of the following aircraft ( as of December 2009 ) : </p>
+
+#	NEW	logo_size	........ / 2010 ) :	// <p> The Welcome Air fleet consists of the following aircraft ( at December 2010 ) : </p>
+
+#	NEW	logo_size	........ / a> .	// <p> <strong> Rossair Europe </strong> is an <a> airline </a> based in the <a> Netherlands </a> . </p>
+
+#	NEW	logo_size	........ / <a>	// It operates VIP passenger and freight services to destinations in the <a> CIS </a> and <a> Europe </a> .
+
+#	NEW	logo_size	........ / 2010	// <p> As of February 2010 the Cobham fleet consists of the following aircraft : </p>
+
+#	NEW	logo_size	........ / 1999	// Since June 1999 it also has permission to provide its own aircraft maintenance .
+
+#	NEW	logo_size	........ / 13 .	// In August 2009 it was revealed that the government owed the company some <a> E </a> 13 . 1 million for air travel accumulated by 16 government ministries and departments . </p>
+
+#	NEW	logo_size	........ / </	// <p> As of November 2010 , the Sevenair fleet consists of the following aircraft : </p>
+
+#	NEW	logo_size	........ / a>	// The Zambian Airways fleet consisted of the following aircraft ( as of 24 September 2008 ) [ <a> http : / /www . ch-aviation . c / aircraft . php ? search=set&amp ; airline=Q3&amp ; al_op=1 </a> ] : </p>
+
+#	NEW	logo_size	........ / a> .	// <p> Nationwide Airlines operates regional flights between South Africa , Zambia and <a> Tanzania </a> . </p>
+
+#	NEW	logo_size	........ / 2006	// <p> As of August <a> 2006 </a> the Easy Link fleet included : </p>
+
+#	NEW	logo_size	........ / </	// It wasn ' t in service anymore with the aircraft and the airline . </p>
+
+#	NEW	logo_size	........ / 2005 ) :	// <p> The Phoenix Aviation fleet consisted of the following aircraft ( at January 2005 ) : </p>
+
+#	NEW	logo_size	........ / 2009 ) :	// The Celestair fleet consists of the following aircraft ( as of March 2009 ) : </p>
+
+#	NEW	logo_size	........ / 2007	// <p> On March 2007 the Executive Aerospace fleet included </p>
+
+#	NEW	logo_size	........ / 2010 ) :	// <p> The SunExpress fleet consists of the following aircraft ( as of December 2010 ) : </p>
+
+31	FALSE	Darwin Airline::logo_size	200 / </	
+<p> As of August 2010 , the Darwin Airline fleet includes : ref name=&quot ; FI&quot ; / </p>
+
+#	NEW	logo_size	........ / </	// <p> Chang ' an Airlines also operated the following aircraft in the past : </p>
+
+#	NEW	logo_size	........ / 2008	// <p> As of December 2008 the Toll Aviation fleet consists of the following aircraft : </p>
+
+#	NEW	logo_size	........ / 2008 ) :	// <p> The Air Corridor fleet consisted of the following aircraft ( at April 2008 ) : </p>
+
+#	NEW	logo_size	........ / 2006	// <p> As of August 2006 the Bakhtar Afghan Airlines fleet included : </p>
+
+#	NEW	logo_size	........ / </	// <p> The CTK - CiTylinK fleet includes the following aircraft : </p>
+
+#	NEW	logo_size	........ / a> .	// <p> <strong> Aero Benin </strong> is an <a> airline </a> based in <a> Benin </a> . </p>
+
+#	NEW	logo_size	........ / 2006	// <p> As of August 2006 the Premium Air Shuttle fleet includes : </p>
+
+#	NEW	logo_size	........ / 2006 ) :	// <p> The Faso Airways fleet includes the following aircraft ( at August 2006 ) : </p>
+
+#	NEW	logo_size	........ / 29	// <p> The Yeti Airlines fleet includes the following aircraft as of October 2010 : The fourth Jetstream was delivered on 29 August 2006 . .
+
+#	NEW	logo_size	........ / </	// On 26 June 2007 , The Indonesian Transportation Ministry discontinued the airline ' s Aircraft Operator Certificate because of &quot ; the management ' s inability to consistently apply flight safety measurements as stipulated . &quot ; </p>
+
+#	NEW	logo_size	........ / </	// It operates regional services in <a> West Africa </a> with aircraft leased from other operators as required . </p>
+
+#	NEW	logo_size	........ / a> .	// <p> <strong> KAS Air Company </strong> was an <a> airline </a> based in <a> Kyrgyzstan </a> . </p>
+
+#	NEW	logo_size	........ / </	// <p> As of June 2010 the Airnorth fleet consists of the following aircraft : ref name=&quot ; CASAR&quot ; / </p>
+

@@ -1,0 +1,77 @@
+Found: 26
+Found Not Null: 5
+Correct: 1
+Wrong: 4
+Total: 10
+precision: 0.2
+recall: 0.1
+
+
+
+0	FALSE	Northern Air Cargo::iata	nc / It	
+It operates services within Alaska and to <a> Canada </a> and mainland USA .
+
+#	NEW	iata	........ / It	// It operated scheduled , charter and sightseeing flights in <a> Southeast Alaska </a> .
+
+#	NEW	iata	........ / N28714	// The aircraft was re-registered N28714 and returned to service .
+
+#	NEW	iata	........ / Britannia	// <p> The <strong> Downend air crash </strong> occurred on 6 November 1957 when a prototype <a> Bristol Britannia </a> aircraft crashed in woods near Overndale Road in <a> Downend Village </a> , near <a> Bristol </a> , England , on its landing approach at <a> Filton airport </a> during a test flight .
+
+4	FALSE	Challenge Aero::iata	- / It	
+It operates charter flights within <a> Ukraine </a> and to neighbouring <a> CIS </a> countries . </p>
+
+#	NEW	iata	........ / Blue	// It is the low cost arm of <a> Blue Panorama Airlines </a> and operates domestic and international services .
+
+6	FALSE	Avianca Cargo::iata	- / It	
+<p> It also includes more than 400 sales points with the easiest access and comfort needed to offer a fast and timely service .
+
+#	NEW	iata	........ / It	// It specialised in ACMI ( Aircraft , Crew , Maintenance , and Insurance ) <a> wet lease </a> operations .
+
+#	NEW	iata	........ / pilot '	// Contributing factors were the pilot ' s inexperience with multi-engine aircraft , a hurried departure , inadequate training , inexperienced company management , ineffective FAA certification and surveillance of the operator ( Comair ) . </p>
+
+#	NEW	iata	........ / at	// <p> <strong> Cosmos Air Cargo </strong> is a <a> cargo airline </a> based at <a> El Dorado International Airport </a> in <a> Bogot&#x00e1 ; </a> , <a> Colombia </a> .
+
+10	FALSE	AeroSur (Colombia)::iata	- / at	
+<p> <strong> AeroSur </strong> is a <a> cargo airline </a> based at <a> El Dorado International Airport </a> in <a> Bogot&#x00e1 ; </a> , <a> Colombia </a> . </p>
+
+#	NEW	iata	........ / commenced	// Scheduled services from &#x00d8 ; rland to Oslo commenced on 23 May 2003 .
+
+#	NEW	iata	........ / It	// It also operated a <a> public service obligation </a> on the route <a> Bod&#x00f8 ; </a> - <a> V&#x00e6 ; r&#x00f8 ; y </a> and the national rescue helicopter service for some years . </p>
+
+#	NEW	iata	........ / Fokker	// The airline started service on October 4 , 1993 , using <a> Fokker F27 </a> turboprop aircraft operated by <a> Empire Airlines </a> while awaiting its own certification .
+
+#	NEW	iata	........ / It	// It operates scheduled regional domestic and international services , as well as a domestic cargo service .
+
+#	NEW	iata	........ / United	// <p> ! <strong> American Flyers Airline Corporation </strong> was a United States &quot ; supplemental&quot ; charter airline that operated from 1949 to 1971 . </p>
+
+#	NEW	iata	........ / by	// The flights are operated by a number of airlines including <a> VanAir Europe </a> and <a> Jetstream Executive </a> . </p>
+
+#	NEW	iata	........ / an	// It is Alaska ' s second largest commuter airline operating an extensive scheduled passenger and cargo service , as well as charter and <a> medevac </a> services .
+
+#	NEW	iata	........ / be	// In subsequent years , researchers into unexplained disappearances have included the flight among others said to have disappeared in what came to be termed the <a> Bermuda Triangle </a> . </p>
+
+19	TRUE	Republic Airlines (1979–1986)::iata	rc / it	
+<p> On January 23 , 1986 , <a> Northwest Orient Airlines </a> announced that it would purchase Republic for $884 million in response to <a> United Airlines </a> ' purchase of the Pacific routes of <a> Pan American World Airways </a> and in order to provide the domestic feed it required to compete effectively .
+
+#	NEW	iata	........ / an	// <p> <strong> Royal Wings </strong> is an <a> airline </a> based in <a> Amman </a> , <a> Jordan </a> operating regional scheduled and charter flights .
+
+#	NEW	iata	........ / It	// It operates high-frequency scheduled services in the Dutch Caribbean and to <a> Venezuela </a> , <a> Colombia </a> and <a> The Dominican Republic </a> .
+
+#	NEW	iata	........ / it	// While not standard operating procedure it worked to a limited extent until the plane clipped a tree near the end of the runway .
+
+#	NEW	iata	........ / by	// The airline applied to the <a> FAA </a> for authority to operate as a scheduled passenger airline , but this was not received by the time the airline shut down . </p>
+
+#	NEW	iata	........ / CA	// <p> <strong> TWA Flight 128 </strong> was a domestic <a> U . S . </a> Flight en route from <a> Los Angeles , CA </a> to <a> Boston , MA </a> with scheduled stops at <a> Cincinnati , OH </a> and <a> Pittsburgh , PA </a> .
+
+#	NEW	iata	........ / it	// <p> In addition it offers charter flights . </p>
+
+#	null	iata	- / ..........
+
+#	null	iata	- / ..........
+
+#	null	iata	- / ..........
+
+#	null	iata	nt / ..........
+
+#	null	iata	- / ..........
+

@@ -1,3 +1,0 @@
-<h3>Students and faculty</h3>
-<li><a>Guy Maddin</a> - film director</li>
-<li><a>John Paskievich</a> - film director and photographer</li>

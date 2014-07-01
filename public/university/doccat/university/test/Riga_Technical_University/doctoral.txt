@@ -1,4 +1,0 @@
-<li>Faculty of Computer Science and Information Technology</li>
-<li><a>Bruno Abakanowicz</a> - Polish mathematicial and electrical engineer, alumnus</li>
-<li><a>Zbig&#x0146;evs Stankevi&#x010d;s</a> - Roman Catholic metropolitan archbishop of Riga (2010-), alumnus</li>
-<li><a>Alfred Rosenberg</a> - Nazi ideologist, alumnus</li>

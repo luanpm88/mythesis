@@ -1,6 +1,0 @@
-<li><a>Dr.Ambedkar Government Arts College</a></li>
-<li><a>Government Arts College</a></li>
-<li><a>Government College of Arts and Crafts</a></li>
-<li><a>Loganatha Narayanasamy Government Arts College</a></li>
-<li><a>Rajeswari Vedachalam Government Arts College</a></li>
-<li><a>Sri Subramaniaswami Government Arts College</a></li>

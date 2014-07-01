@@ -1,7 +1,0 @@
-<p>Today the university's Mexico City Campus is made up of 19 academic departments, which offer a total of 36 academic programs.</p>
-<li><a>Carlos Alazraki</a> - President and CEO of the award-winning Alazraki &amp; Asociados Publicidad agency.</li>
-<li>Fernando Chico Pardo - President of ASUR.</li>
-<li>Jaime Costa Lav&#x00ed;n - President of <a>SCA</a> Latinoam&#x00e9;rica.</li>
-<li>Daniel Servitje - President and CEO of <a>Bimbo</a>.</li>
-<li>Alejandro Sober&#x00f3;n Kuri - President and CEO of <a>CIE</a>.</li>
-<li><a>Vicente Fox Quesada</a> - Former President of Mexico (2000-2006).</li>

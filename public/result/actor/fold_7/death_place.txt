@@ -1,0 +1,12 @@
+Found: 2
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	death_place	........ / New York Big	// <p> She directed one of Harry Connick , Jr . ' s live performance videos ( <a> The New York Big Band Concert </a> ) in 1992 .
+
+#	NEW	death_place	........ / New York ' s	// He made his first public appearance in <a> Vaudeville </a> in 1907 at New York ' s Clinton Music Hall .
+

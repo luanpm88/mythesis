@@ -1,5 +1,0 @@
-<li><a>Simon Armitage</a> - Poet</li>
-<li><a>Shirley Conran</a> - Writer</li>
-<li><a>Malcolm Evans</a> - Computer programmer</li>
-<li><a>Frazer Irving</a> - Comic book artist</li>
-<li><a>Rizwan Khan</a> - Journalist</li>

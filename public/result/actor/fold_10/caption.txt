@@ -1,0 +1,68 @@
+Found: 30
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	caption	........ / Ava	// <p> <strong> Ava Lavinia Gardner </strong> ( December 24 , 1922 &ndash ; January 25 , 1990 ) was an American actress .
+
+#	NEW	caption	........ / Khwaja	// <p> <strong> Khwaja Ahmad Abbas </strong> ( ) ( 7 June 1914 &#x2013 ; 1 June 1987 ) , popularly known as <strong> K .
+
+#	NEW	caption	........ / Nicolas	// <p> <strong> Nicolas Cage </strong> ( born <strong> Nicolas Kim Coppola </strong> ; January 7 , 1964 ) is an American actor , producer and director , having appeared in over 60 films including <em> <a> The Rock </a> </em> ( 1996 ) , <em> <a> Fac / Off </a> </em> ( 1997 ) , <em> <a> Gone In 60 Seconds </a> </em> ( 2000 ) , <em> <a> National Treasure </a> </em> ( 2004 ) , <em> <a> Ghost Rider </a> </em> ( 2007 ) , <em> <a> Bad Lieutenant : Port of Call New Orleans </a> </em> ( 2009 ) , and <em> <a> Kick-Ass </a> </em> ( 2010 ) .
+
+#	NEW	caption	........ / Sir	// <p> <strong> Sir Ridley Scott </strong> ( born 30 November 1937 ) is an English film director and producer known for his stylish visuals and an obsession for detail .
+
+#	NEW	caption	........ / Robert	// <p> <strong> Robert Anthony Rodr&#x00ed ; guez </strong> ( born June 20 , 1968 ) is an American <a> film director </a> , <a> screenwriter </a> , <a> producer </a> , <a> cinematographer </a> , <a> editor </a> and <a> musician </a> .
+
+#	NEW	caption	........ / Robin	// <p> <strong> Robin Gayle Wright </strong> ( born April 8 , 1966 ) is an American actress .
+
+#	NEW	caption	........ / and	// <p> <strong> Steven Andrew Soderbergh </strong> ( ; born January 14 , 1963 ) is an American film producer , screenwriter , <a> cinematographer </a> , editor , actor , and an <a> Academy Award </a> -winning film director .
+
+#	NEW	caption	........ / Ted& quot ;	// <p> <strong> Theodore &quot ; Ted&quot ; Raimi </strong> ( born December 14 , 1965 ) is an <a> American </a> <a> actor </a> , perhaps best known for his roles as <a> Lieutenant Tim O ' Neill </a> in <em> <a> seaQuest DSV </a> </em> and <a> Joxer the Mighty </a> in <strong> <em> ' / </em> </strong> ' .
+
+#	NEW	caption	........ / Curry	// <p> <strong> Timothy James </strong> &quot ; <strong> Tim </strong> &quot ; <strong> Curry </strong> ( born 19 April 1946 ) is an <a> English </a> <a> actor </a> , <a> singer </a> , <a> composer </a> and <a> voice actor </a> , known for his work in a diverse range of theatre , film and television productions .
+
+#	NEW	caption	........ / Sophie	// <p> <strong> Sophie Marceau </strong> ( ; born 17 November 1966 ) is a French actress , who has appeared in 35 films .
+
+#	NEW	caption	........ / Calista	// <p> <strong> Calista Kay Flockhart </strong> ( born November 11 , 1964 ) is an American actor who is primarily recognized for her work in television .
+
+#	NEW	caption	........ / film	// <p> <strong> Jerry Lewis </strong> ( born <strong> Joseph Levitch </strong> , March 16 , 1926 ) is an <a> American </a> <a> comedian </a> , <a> actor </a> , <a> film producer </a> , <a> writer </a> , <a> film director </a> and <a> singer </a> .
+
+#	NEW	caption	........ / Robert	// <p> <strong> Robert Jonathan Demme </strong> ( born February 22 , 1944 ) is an <a> American </a> <a> filmmaker </a> , <a> producer </a> and <a> screenwriter </a> .
+
+#	NEW	caption	........ / 1990 )	// <p> <strong> James Maury </strong> &quot ; <strong> Jim </strong> &quot ; <strong> Henson </strong> ( September 24 , 1936 &#x2013 ; May 16 , 1990 ) was an <a> American </a> <a> puppeteer </a> best known as the creator of <a> The Muppets </a> .
+
+#	NEW	caption	........ / John	// <p> <strong> John Michael Frankenheimer </strong> ( February 19 , 1930 &ndash ; July 6 , 2002 ) was an award-winning American film and television director known for social dramas .
+
+#	NEW	caption	........ / Julia	// <p> <strong> Julia Fiona Roberts </strong> ( born October 28 , 1967 ) is an American actress .
+
+#	NEW	caption	........ / Godfrey	// <p> <strong> Godfrey Reggio </strong> ( born March 29 , 1940 ) is an American <a> director </a> of experimental <a> documentary film </a> s . </p>
+
+#	NEW	caption	........ / Helen	// <p> <strong> Helen Elizabeth Hunt </strong> ( born June 15 , 1963 ) is an American actress , <a> film director </a> , and <a> screenwriter </a> .
+
+#	NEW	caption	........ / 1967 )	// <p> <strong> Paul Muni </strong> ( September 22 , 1895 &#x2013 ; August 25 , 1967 ) was an <a> Austrian-Hungarian </a> -born American stage and film actor .
+
+#	NEW	caption	........ / Roberto	// <p> <strong> Roberto Remigio Benigni </strong> , <a> Knight Grand Cross OMRI </a> ( born 27 October 1952 ) is an Italian actor , comedian , screenwriter and <a> director </a> of film , theatre and television . </p>
+
+#	NEW	caption	........ / Leonard	// <p> <strong> Leonard Rossiter </strong> ( 21 October 1926 &#x2013 ; 5 October 1984 ) was an <a> English </a> <a> actor </a> known for his roles as Rupert Rigsby , in the <a> British </a> comedy television series <em> <a> Rising Damp </a> </em> ( 1974&#x2013 ; 78 ) , and Reginald Iolanthe Perrin , in <em> <a> The Fall and Rise of Reginald Perrin </a> </em> ( 1976&#x2013 ; 79 ) .
+
+#	NEW	caption	........ / Laura	// <p> <strong> Laura Jeanne Reese Witherspoon </strong> ( born March 22 , 1976 ) , better known as <strong> Reese Witherspoon </strong> , is an American actress and film producer .
+
+#	NEW	caption	........ / Tony	// <p> <strong> Tony Robinson </strong> ( born 15 August 1946 ) is an <a> English </a> <a> actor </a> , <a> comedian </a> , <a> author </a> , <a> broadcaster </a> and <a> political campaigner </a> .
+
+#	NEW	caption	........ / 1954 )	// <p> <strong> Lionel Barrymore </strong> ( April 28 , 1878 &ndash ; November 15 , 1954 ) was an American actor of stage , screen and radio .
+
+#	NEW	caption	........ / Boris	// <p> <strong> Boris Karloff </strong> ( 23 November 1887 &#x2013 ; 2 February 1969 ) , whose real name was <strong> William Henry Pratt </strong> , was an <a> English </a> -born actor who emigrated to <a> Canada </a> in 1909 .
+
+#	NEW	caption	........ / July 2002 )	// <p> <strong> Reginald &quot ; Leo&quot ; McKern </strong> , <a> AO </a> ( 16 March 1920 <img> 23 July 2002 ) was an <a> Australia </a> n-born <a> English </a> <a> actor </a> who appeared in numerous British and Australian <a> television </a> programmes and <a> movies </a> , and more than 200 <a> stage </a> roles .
+
+#	NEW	caption	........ / Features	// <p> <strong> Features </strong> : </p>
+
+#	NEW	caption	........ / Nickelodeon	// In 2010 , he directed <em> The Last Airbender </em> , based on the <a> Nickelodeon </a> TV show <strong> <em> ' . </em> </strong> </p>
+
+#	NEW	caption	........ / William	// <p> <strong> William Christopher </strong> ( born October 20 , 1932 ) is an <a> American </a> <a> actor </a> who is best known for playing <a> Father Mulcahy </a> on the <a> television </a> <a> series </a> <em> <a> M*A*S*H </a> </em> and Private Lester Hummel on <em> <a> Gomer Pyle , U . S . M . C . </a> </em> </p>
+
+#	NEW	caption	........ / Thora	// <p> <a> Dame </a> <strong> Thora Hird </strong> <a> DBE </a> ( 28 May 1911 <img> 15 March 2003 ) was an <a> English </a> <a> actress </a> . </p>
+

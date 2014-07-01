@@ -1,9 +1,0 @@
-<li>School of Psychology</li>
-<p>UEL's Vice-Chancellors have been:</p>
-<p>UEL's Chairs of Governors have been:</p>
-<li><a>Graham Barnfield</a> - British academic and pundit</li>
-<li>Liam Kane - ELBA Chief Executive</li>
-<li><a>Sly Bailey</a> - Chief Executive of Trinity Mirror Plc</li>
-<li>Roland Muldoon - Artistic Director and Chief Executive of the <a>Hackney Empire</a></li>
-<li><a>Stephen O&#x2019;Brien</a> - Former Chair of UEL Governors and joint President of London First</li>
-<li><a>Lord Victor Adebowale</a> - Chief Executive of Turning Point</li>

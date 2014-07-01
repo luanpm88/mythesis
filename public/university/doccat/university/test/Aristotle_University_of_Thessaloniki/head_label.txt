@@ -1,5 +1,0 @@
-<li>School of Architecture</li>
-<li>School of Drama</li>
-<li>School of Economics</li>
-<h3>School of Modern Greek Language</h3>
-This means that <a>hospitalization</a> and medication are provided free of charge.

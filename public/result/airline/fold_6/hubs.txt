@@ -1,0 +1,80 @@
+Found: 36
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	hubs	........ / Centrair	// It operated passenger services as <a> All Nippon Airways </a> ( ANA ) flights from its main base is <a> Ch&#x016b ; bu Centrair International Airport </a> near <a> Nagoya </a> .
+
+#	NEW	hubs	........ / Farm	// The plane was en route from <a> Eagle Farm Airport </a> ( Brisbane ) to <a> Armidale Airport </a> when one engine caught fire , filling the <a> cockpit </a> with smoke .
+
+#	NEW	hubs	........ / airline	// <p> was the name of the <a> national airline </a> of <a> Manchukuo </a> .
+
+#	NEW	hubs	........ / Midlands	// The aircraft , EI-JIV , is based at East Midlands airport in the UK . </p>
+
+#	NEW	hubs	........ / Dublin	// Its main bases were <a> Dublin International Airport </a> , Shannon International Airport and <a> Cork Airport </a> . </p>
+
+#	NEW	hubs	........ / Polo	// Its main base was <a> Marco Polo International Airport </a> ) , <a> Venice </a> . </p>
+
+#	NEW	hubs	........ / Male&#	// <p> Based on the northern side of Male&#x2019 ; International Airport , Maldivian Air Taxi currently has a fleet of 24 Twin Otters , servicing 40 of the 90 resorts in the Maldives .
+
+#	NEW	hubs	........ / Malpensa	// Its main base was <a> Malpensa International Airport </a> , Milan . </p>
+
+#	NEW	hubs	........ / Narvik	// Its main base was <a> Harsta / Narvik Airport , Evenes </a> .
+
+#	NEW	hubs	........ / Chopin	// Its main base is <a> Warsaw Frederic Chopin Airport </a> . </p>
+
+#	NEW	hubs	........ / Portela	// Its main base is <a> Portela Airport </a> , <a> Lisbon </a> . </p>
+
+#	NEW	hubs	........ / Hailey	// <p> Author <a> Arthur Hailey </a> based a subplot of his 1968 novel <em> <a> Airport </a> </em> on the Flight 11 bombing . </p>
+
+#	NEW	hubs	........ / Yemelyanovo	// It operated scheduled regional and international passenger services , freight transport , cargo handling and charter services from the main base is <a> Krasnoyarsk Yemelyanovo Airport </a> , as part of <a> AiRUnion </a> alliance .
+
+#	NEW	hubs	........ / airline	// <p> <strong> Anikay Air </strong> Company is a <a> charter airline </a> based in <a> Bishkek </a> in <a> Kyrgyzstan </a> .
+
+#	NEW	hubs	........ / Lippstadt	// Some of the Hawkers will be based at <a> Paderborn Lippstadt Airport </a> and the other aircraft will join the company&#x2019 ; s two <a> Dassault Falcon 20 </a> s in <a> Russia </a> . </p>
+
+#	NEW	hubs	........ / Miramare	// Its main base is <a> Miramare Airport </a> , Rimini .
+
+#	NEW	hubs	........ / n	// Its main base is <a> Golos&#x00f3 ; n International Airport </a> , La Ceiba . </p>
+
+#	NEW	hubs	........ / nefeld	// It operates from <a> Berlin-Sch&#x00f6 ; nefeld International Airport </a> , <a> Leipzig </a> and <a> Pozna&#x0144 ; -&#x0141 ; awica </a> . </p>
+
+#	NEW	hubs	........ / Tallinn	// Its main base is <a> Lennart Meri Tallinn Airport </a> . </p>
+
+#	NEW	hubs	........ / airline	// <p> <strong> Copenhagen Air Taxi </strong> is an <a> airline </a> based in <a> Roskilde </a> , <a> Denmark </a> .
+
+#	NEW	hubs	........ / airline	// <p> <strong> Aero Services Executive </strong> is an <a> airline </a> company based in <a> France </a> .
+
+#	NEW	hubs	........ / airline	// <p> <strong> Finist ' air </strong> is an <a> airline </a> based at <a> Brest Guipavas Airport </a> in <a> France </a> .
+
+#	NEW	hubs	........ / types	// <p> The Stuttgarter Flugdienst fleet consists of the following aircraft types , which provide space for 5-13 passengers : </p>
+
+#	NEW	hubs	........ / airline	// <p> <strong> Aviator Airways </strong> is an <a> airline </a> based at <a> Athens International Airport </a> in <a> Greece </a> .
+
+#	NEW	hubs	........ / Adams	// Its main base is at <a> Grantley Adams International Airport </a> , Barbados . </p>
+
+#	NEW	hubs	........ / Malta	// Its main bases are <a> Malta International Airport </a> and <a> Tripoli International Airport </a> , <a> Libya </a> .
+
+#	NEW	hubs	........ / airline	// <p> <strong> Metropolis </strong> ( Metropolis Noord 1 BV ) is an <a> airline </a> based in the <a> Netherlands </a> . </p>
+
+#	NEW	hubs	........ / haul	// The airline offers scheduled domestic and short-haul international services , as well as <a> charter flight </a> s .
+
+#	NEW	hubs	........ / Sheremetyevo	// It was established in 1995 and operated out of <a> Sheremetyevo International Airport </a> , Moscow , using a fleet of three <a> Tupolev Tu-154 </a> aircraft .
+
+#	NEW	hubs	........ / and	// It also operates regular domestic flights from Moscow and international charter passenger and cargo services . </p>
+
+#	NEW	hubs	........ / Domodedovo	// Its main base is <a> Domodedovo International Airport </a> , Moscow . </p>
+
+#	NEW	hubs	........ / Bykovo	// Its main base is <a> Bykovo Airport </a> , Moscow , from where it operates <a> charter flight </a> s .
+
+#	NEW	hubs	........ / airline	// <p> <strong> UTair Express </strong> is an <a> airline </a> based in <a> Russia </a> .
+
+#	NEW	hubs	........ / Delhi	// But just 15 minutes after take-off , the aircraft had to make an emergency landing at <a> Delhi Airport </a> after the pilot reported a fall in cabin pressure .
+
+#	NEW	hubs	........ / Uruapan	// On November 9 , 1999 , flight 725 went down a few minutes after leaving the <a> Uruapan International Airport </a> en-route to <a> Mexico City </a> .
+
+#	NEW	hubs	........ / Tegel	// From its bases at <a> Berlin Tegel Airport </a> and <a> D&#x00fc ; sseldorf Airport </a> , scheduled flights to <a> Turkey </a> , <a> Kosovo </a> <a> Syria </a> and <a> Lebanon </a> are offered , aiming at the ethnic minorities living in Germany .
+

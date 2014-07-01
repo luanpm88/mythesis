@@ -1,8 +1,0 @@
-<li>9 &#x201c;<a>Mast&#x00e8;re Sp&#x00e9;cialis&#x00e9;</a>&#x201d; course degrees in information system architectures</li>
-<li>8 &#x201c;<a>Mast&#x00e8;re Sp&#x00e9;cialis&#x00e9;</a>&#x201d; course degrees in Naval Architecture </li>
-<li><a>Eug&#x00e8;ne Deloncle</a></li>
-<li><a>Charles Dupin</a></li>
-<li><a>Ernest Mercier</a></li>
-<li><a>&#x00c9;douard Jean Baptiste Milhaud</a></li>
-<li><a>L&#x00e9;once Verny</a></li>
-<li><a>Paul Marie Eug&#x00e8;ne Vieille</a></li>

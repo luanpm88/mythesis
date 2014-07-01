@@ -1,4 +1,0 @@
-<h3>Analytical Testing Center</h3>
-<li>School of Arts</li>
-<li><a>College of Atmospheric Sciences</a></li>
-<li><a>School of Life Sciences</a></li>

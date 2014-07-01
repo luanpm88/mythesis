@@ -1,8 +1,0 @@
-<li>Faculty 01 - Law</li>
-<li>Faculty 03 - Social Sciences and Cultural Studies</li>
-<li>Faculty 04 - History and Cultural Studies</li>
-<li>Faculty 05 - Language, Literature, Culture</li>
-<li>Faculty 06 - Psychology and Sports Science</li>
-<li>Faculty 07 - Mathematics and Computer Science, Physics, Geography</li>
-<li>Faculty 08 - Biology and Chemistry</li>
-<li>Faculty 11 - Medicine</li>

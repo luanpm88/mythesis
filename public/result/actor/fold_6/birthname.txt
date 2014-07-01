@@ -1,0 +1,66 @@
+Found: 29
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	birthname	........ / had a brief speaking role	// He had a brief speaking role as a farmer in the 1976 TV Movie &quot ; Sybil . &quot ;
+
+#	NEW	birthname	........ / His first marriage	// His first marriage was to stage and film actress Margot Bennett in 1960 .
+
+#	NEW	birthname	........ / an American actress during	// <p> <strong> Edna Purviance </strong> ( October 21 , 1895 &ndash ; January 11 , 1958 ) was an American actress during the <a> silent movie </a> era .
+
+#	NEW	birthname	........ / Although best known	// Although best known to the larger world audience for his film and television work , Meredith was an influential actor and director for the stage .
+
+#	NEW	birthname	........ / nominated for an Academy Award for Best Foreign Language Film again	// Menzel was nominated for an Academy Award for Best Foreign Language Film again in 1986 with his dark comedy <em> <a> My Sweet Little Village </a> </em> . </p>
+
+#	NEW	birthname	........ / Victor Joseph Garber	// <p> <strong> Victor Joseph Garber </strong> ( born March 16 , 1949 ) is a <a> Canadian </a> film , stage and television <a> actor </a> and <a> singer </a> .
+
+#	NEW	birthname	........ / was nominated for	// She was nominated for the <a> Ariel Award in 2005 </a> in the category of Best Actress for <em> <a> Innocent Voices </a> </em> ( 2004 ) .
+
+#	NEW	birthname	........ / film actress	// <p> <strong> Ingrid Thulin </strong> ( ; 27 January 1926 &ndash ; 7 January 2004 ) was a <a> Swedish </a> <a> film actress </a> . </p>
+
+#	NEW	birthname	........ / known for his roles	// <p> <strong> Peter Strauss </strong> ( born February 20 , 1947 ) is an <a> American </a> television and movie actor , known for his roles in several television <a> miniseries </a> in the 1970s and 1980s .
+
+#	NEW	birthname	........ / In a career that spans over five decades	// <p> In a career that spans over five decades and includes substantial roles in film , television , and theatre , Plummer is perhaps best known for the role of <a> Captain Georg von Trapp </a> in <em> <a> The Sound of Music </a> </em> .
+
+#	NEW	birthname	........ / game show	// <p> <img> <strong> Robert William </strong> &quot ; <strong> Bob </strong> &quot ; <strong> Barker </strong> ( born December 12 , 1923 ) is an <a> American </a> former <a> television </a> <a> game show </a> <a> host </a> .
+
+#	NEW	birthname	........ / a well known orator	// In 1893 , he was impressed by <a> Alessandro Salvini </a> , a well known orator and actor , and joined Salvini ' s traveling company .
+
+#	NEW	birthname	........ / is best known for hosting long-running television shows such	// Clark is best known for hosting long-running television shows such as <em> <a> American Bandstand </a> </em> , </p>
+
+#	NEW	birthname	........ / is a French	// <p> <strong> Marie-France Pisier </strong> ( born 10 May 1944 ) is a French actress .
+
+#	NEW	birthname	........ / comedy actress and	// <p> <strong> Dorothy Loudon </strong> ( September 17 , 1933 &#x2013 ; November 15 , 2003 ) was an <a> American </a> comedy actress and singer .
+
+#	NEW	birthname	........ / Luciana & quot ; Luci&quot ; Bella	// On June 12 , 2009 , their second daughter , Luciana &quot ; Luci&quot ; Bella , was born . </p>
+
+#	NEW	birthname	........ / is a British-	// <p> <strong> Magda Szubanski </strong> ( born 12 April 1961 ) is a British-born Australian actress , comedian , television presenter , radio host and author . </p>
+
+#	NEW	birthname	........ / Kevin Paul Jackson	// <p> <strong> Kevin Paul Jackson </strong> ( born 2 October 1947 ) , credited as <strong> Paul Jackson </strong> ; sometimes as <strong> K .
+
+#	NEW	birthname	........ / Romero played &quot ; Latin lovers& quot ;	// <p> Romero played &quot ; Latin lovers&quot ; in <a> film </a> s from the 1930s until the 1950s , usually in supporting roles .
+
+#	NEW	birthname	........ / one of several actors considered for	// <p> McGoohan was one of several actors considered for the role of <a> James Bond </a> in <em> <a> Dr .
+
+#	NEW	birthname	........ / Jon Roger Davis	// <p> <strong> Jon Roger Davis </strong> ( born April 5 , 1939 ) is an <a> American </a> <a> actor </a> .
+
+#	NEW	birthname	........ / Jeremy Robert Myron Sumpter	// <p> <strong> Jeremy Robert Myron Sumpter </strong> ( born February 5 , 1989 ) is an <a> American </a> actor .
+
+#	NEW	birthname	........ / have a daughter	// They have a daughter , Bianca , born September 25 , 2005 .
+
+#	NEW	birthname	........ / began his career	// He began his career in television .
+
+#	NEW	birthname	........ / a science fiction novel wherein	// <p> In 1998 , he wrote <em> Diplomatic Act </em> ( ISBN 0-671-87788-7 ) with <a> William H . Keith , Jr . </a> , a science fiction novel wherein the lead character , an actor in a science fiction show , is kidnapped by aliens who think he is the character from the program .
+
+#	NEW	birthname	........ / he is more commonly recognized	// In Japan , he is more commonly recognized as an actor for his numerous roles in Japanese films and television . </p>
+
+#	NEW	birthname	........ / is an Indian actress who appears	// <p> <strong> Kareena Kapoor </strong> ( , pronounced ; born on September 21 , 1980 ) , often informally referred to as <strong> Bebo </strong> , is an Indian actress who appears in <a> Bollywood </a> films .
+
+#	NEW	birthname	........ / in films not associated	// <p> He appeared in films not associated with the comedy team , such as his portrayal of Private Carraway in the war film , <em> <a> A Walk in the Sun </a> </em> , in 1945 . </p>
+
+#	NEW	birthname	........ / to be an actor from	// He wanted to be an actor from boyhood .
+

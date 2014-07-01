@@ -1,0 +1,64 @@
+Found: 28
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	headquarters	........ / ,	// <p> The airline was established in June 1982 and started operations on July 1 , 1982 .
+
+#	NEW	headquarters	........ / Bouet	// Its main base is <a> Port Bouet Airport </a> , Abidjan . </p>
+
+#	NEW	headquarters	........ / k	// Its main bases are <a> Reykjav&#x00ed ; k Airport </a> and <a> Akureyri Airport </a> .
+
+#	NEW	headquarters	........ / Tribhuvan	// Its main base is <a> Tribhuvan International Airport </a> , Kathmandu . </p>
+
+#	NEW	headquarters	........ / Kuujjuaq	// Its main base is <a> Kuujjuaq Airport </a> . </p>
+
+#	NEW	headquarters	........ / ,	// The airline struggled financially and after attempts to reorganize and secure additional capital were unsuccessful , the airline ceased operations on October 14 , 2005 .
+
+#	NEW	headquarters	........ / Astana	// Its main bases are <a> Astana International Airport </a> and <a> Almaty International Airport </a> .
+
+#	NEW	headquarters	........ / var	// Its main base is <a> Sim&#x00f3 ; n Bol&#x00ed ; var International Airport </a> , Caracas . </p>
+
+#	NEW	headquarters	........ / operations	// <p> The airline was established and started operations on 1 October 1997 .
+
+#	NEW	headquarters	........ / Mueang	// Its main base was <a> Don Mueang International Airport </a> , Bangkok .
+
+#	NEW	headquarters	........ / Suvarnabhumi	// <p> Most the airline ' s international routes connect to Bangkok ; all flights on these are served at Suvarnabhumi International Airport . </p>
+
+#	NEW	headquarters	........ / December	// Macau [ [ Airbus A321 ] ] ] ] The Air Macau passenger and cargo fleet consists of the following aircraft ( at December 2009 ) : </p>
+
+#	NEW	headquarters	........ / Coast	// Aeromil , also founded by Steve Padgett , is Sunshine Express ' <a> parent company </a> and also has a base at Sunshine Coast Airport . </p>
+
+#	NEW	headquarters	........ / Larnaca	// Its main base was Larnaca International Airport .
+
+#	NEW	headquarters	........ / Khaan	// Its main base is <a> Chinggis Khaan International Airport </a> , Ulan Bator , Mongolia . </p>
+
+#	NEW	headquarters	........ / ,	// The airline is owned by Alpen-Air consortium ( 89 . 82% ) ,
+
+#	NEW	headquarters	........ / Teresa	// Its main base was <a> Rinas Mother Teresa Airport </a> ( TIR ) , Tirana .
+
+#	NEW	headquarters	........ / Gabon	// It currently operates some services on behalf of <a> Air Gabon </a> . </p>
+
+#	NEW	headquarters	........ / codeshare	// <p> Shenzhen Airlines has the following <a> codeshare </a> agreements ( at March 2010 ) : </p>
+
+#	NEW	headquarters	........ / Carneiro	// Its main base is <a> Portela Airport </a> , Lisbon with a hub at <a> Francisco S&#x00e1 ; Carneiro Airport </a> , Porto . </p>
+
+#	NEW	headquarters	........ / Kosovo	// <p> <strong> Kosova Airlines </strong> is an airline that is based in <a> Kosovo </a> .
+
+#	NEW	headquarters	........ / , Australia .	// <p> <strong> MacAir Airlines Pty Ltd </strong> was a regional <a> airline </a> based in <a> Townsville </a> , Queensland , Australia .
+
+#	NEW	headquarters	........ / Mohammed	// Its main base was <a> Murtala Mohammed International Airport </a> , Lagos . </p>
+
+#	NEW	headquarters	........ / ,	// <p> <strong> AeroCalifornia </strong> was a low-cost airline with its headquarters in <a> La Paz , Baja California Sur </a> , <a> Mexico </a> .
+
+#	NEW	headquarters	........ / Rochambeau	// Its main base is Cayenne-Rochambeau Airport . . </p>
+
+#	NEW	headquarters	........ / Kabul	// Its main base is <a> Kabul International Airport </a> . </p>
+
+#	NEW	headquarters	........ / ,	// <p> <strong> Aerocaribe </strong> was an airline based in <a> M&#x00e9 ; rida , Yucat&#x00e1 ; n </a> , <a> Mexico </a> .
+
+#	NEW	headquarters	........ / Tripoli	// Its main base is <a> Tripoli International Airport </a> .
+

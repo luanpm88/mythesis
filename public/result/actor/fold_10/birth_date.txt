@@ -1,0 +1,71 @@
+Found: 30
+Found Not Null: 1
+Correct: 0
+Wrong: 1
+Total: 1
+precision: 0.0
+recall: 0.0
+
+
+
+#	NEW	birth_date	........ / It	// &quot ; It was a sort of madness , honey , &quot ; she said later of the time . </p>
+
+#	NEW	birth_date	........ / Meanwhile	// <p> Meanwhile he had started writing scripts for other directors , <em> <a> Neecha Nagar </a> </em> for Chetan Anand and <em> <a> Dr .
+
+#	NEW	birth_date	........ / Cage	// <p> Cage was born in <a> Long Beach , California </a> .
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Sir Ridley Scott </strong> ( born 30 November 1937 ) is an English film director and producer known for his stylish visuals and an obsession for detail .
+
+#	NEW	birth_date	........ / has	// This has earned him the nickname of &quot ; the one-man film crew . &quot ;
+
+#	NEW	birth_date	........ / daughter 13 , 1991 .	// Their daughter Dylan Frances Penn was born on April 13 , 1991 .
+
+#	NEW	birth_date	........ / quot ;	// <p> &quot ; I ' ve always gotten along with them , &quot ; says Soderbergh of actors , &quot ; I try and make sure they ' re OK , and when they ' re in the zone , I leave them alone .
+
+#	NEW	birth_date	........ / began	// He began acting as an extra in his elder brother , director <a> Sam Raimi </a> ' s Super 8 films .
+
+#	NEW	birth_date	........ / record	// The record included Curry ' s only US charting songs : &quot ; I Do the Rock&quot ; and &quot ; Paradise Garage&quot ; . </p>
+
+#	NEW	birth_date	........ / son	// Their son Vincent was born in June 1995 .
+
+#	NEW	birth_date	........ / January 11 , 2001	// <p> On January 11 , 2001 , Flockhart adopted a ten-day-old baby , Liam ( born January 1 , 2001 ) , in San Diego . </p>
+
+#	NEW	birth_date	........ / 1968	// In 1968 , he screened Spielberg ' s early film , <em> <a> Amblin ' </a> </em> and told his students , &quot ; That ' s what filmmaking is all about . &quot ;
+
+#	NEW	birth_date	........ / Demme	// <p> Demme is on the Board of Directors at <a> Jacob Burns Film Center </a> in <a> Pleasantville , NY </a> .
+
+#	NEW	birth_date	........ / 1964	// From 1964 to 1968 , Henson began exploring film-making and produced a series of experimental films .
+
+#	NEW	birth_date	........ / became	// He became a &quot ; pioneer&quot ; of the &quot ; modern-day political thriller , &quot ; having begun his career at the peak of the <a> Cold War </a> .
+
+#	NEW	birth_date	........ / 2005	// In 2005 , she was featured in the music video for the hit single &quot ; <a> Dreamgirl </a> &quot ; by the <a> Dave Matthews Band </a> . </p>
+
+#	NEW	birth_date	........ / of	// All of the film titles are taken from the <a> Hopi language </a> ; Koyaanisquatsi meaning &quot ; life out of balance , &quot ; Powaqqatsi meaning &quot ; life in transformation , &quot ; and Naqoyqatsi meaning &quot ; life as war . &quot ;
+
+#	NEW	birth_date	........ / Hunt	// <p> Hunt began working in the 1970s as a child actress .
+
+#	NEW	birth_date	........ / note	// They note that despite his enormous success on both Broadway and in films , &quot ; he threw himself into each role with a sense of dedication . &quot ;
+
+#	NEW	birth_date	........ / Benigni '	// <p> Benigni ' s first film as director was <em> <a> Tu mi turbi </a> </em> ( <em> You upset me </em> , <a> 1983 </a> ) .
+
+20	FALSE	Leonard Rossiter::birth_date	21 october 1926 / local	
+The local critic said he &quot ; was particularly outstanding , his one fault being a tendency to speak too fast on one or two occasions . &quot ;
+
+#	NEW	birth_date	........ / Award&	// Academy Award&nbsp ; &#x2013 ; winning director <a> Alexander Payne </a> praised her : &quot ; She ' s got that quality that men find attractive , while women would like to be her friend .
+
+#	NEW	birth_date	........ / He	// <p> He is honorary president of the Young Archaeologists ' Club of the <a> Council for British Archaeology </a> . </p>
+
+#	NEW	birth_date	........ / role	// The role suggested that of the &quot ; unreformed&quot ; stage of Barrymore ' s &quot ; Scrooge&quot ; characterization .
+
+#	NEW	birth_date	........ / thought	// Karloff thought it was ridiculous and said so . &quot ; Berg continues , &quot ; Mr .
+
+#	NEW	birth_date	........ / was	// Mortimer was to say , &quot ; He not only played the character Rumpole , he added to it , brightened it and brought it fully to life . &quot ;
+
+#	NEW	birth_date	........ / In	// <p> In 1959 Reynolds recorded her first album for Dot Records , simply called <em> Debbie </em> , which included her own selection of 12 standards including &quot ; S&#x2019 ; posin ' &quot ; , &quot ; Moonglow&quot ; , &quot ; Mean To Me&quot ; and &quot ; Time After Time&quot ; .
+
+#	NEW	birth_date	........ / the	// After the film fell through , Shyamalan later said it was too &quot ; tricky&quot ; to arrange and &quot ; not the right thing&quot ; for him to do . </p>
+
+#	NEW	birth_date	........ / Broadway	// His Broadway debut came in <em> <a> Beyond the Fringe </a> </em> , a <a> British </a> <a> revue </a> .
+
+#	NEW	birth_date	........ / Thora	// <p> Thora Hird played Dirk Borgarde ' s love interest in the 1949 film &quot ; Once A Jolly Swagman&quot ; ( also known as &quot ; Maniacs On Wheels&quot ; ) . </p>
+

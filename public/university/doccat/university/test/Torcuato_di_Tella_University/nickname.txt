@@ -1,5 +1,0 @@
-<p>Universidad Torcuato Di Tella offers undergraduate degrees in the following fields:</p>
-<li>Business Economics</li>
-<li>International Studies</li>
-<li>Masters in International Studies</li>
-<li>Di Tella Business School</li>

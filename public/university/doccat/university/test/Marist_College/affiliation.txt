@@ -1,6 +1,0 @@
-<p>Men's basketball - <a>Siena College</a>, <a>Iona College</a></p>
-<p>Women's basketball - <a>Canisius College</a>, <a>Siena College</a>, <a>Ohio State University</a></p>
-<p>Football - <a>Iona College</a>, <a>Duquesne University</a></p>
-<p>Softball - <a>Canisius College</a></p>
-<p>Track - <a>Manhattan College</a>, <a>Iona College</a></p>
-<p>Baseball- <a>Manhattan College</a>, <a>Siena College</a></p>

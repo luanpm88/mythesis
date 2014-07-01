@@ -1,3 +1,0 @@
-<h4>Faculty of Computing, Health and Science</h4>
-<li>School of Computer and Security Science</li>
-<li>School of Psychology and Social Science</li>

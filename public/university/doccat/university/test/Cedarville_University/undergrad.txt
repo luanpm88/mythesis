@@ -1,1 +1,0 @@
-<p>The student/teacher ratio is 15:1, and the average class size is 20 students.</p>

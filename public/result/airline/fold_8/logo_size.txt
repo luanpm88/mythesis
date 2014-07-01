@@ -1,0 +1,94 @@
+Found: 41
+Found Not Null: 2
+Correct: 0
+Wrong: 2
+Total: 2
+precision: 0.0
+recall: 0.0
+
+
+
+#	NEW	logo_size	........ / 16	// It operates scheduled and <a> charter </a> services to 16 </p>
+
+#	NEW	logo_size	........ / and	// It is the national airline and operates scheduled regional and intercontinental services .
+
+#	NEW	logo_size	........ / </	// It operates scheduled services to domestic destinations and to <a> Greenland </a> and the <a> Faroe Islands </a> .
+
+#	NEW	logo_size	........ / 2005 .	// It ceased operations in 2005 . </p>
+
+#	NEW	logo_size	........ / </	// <p> <strong> Trans International Airlines </strong> ( TIA ) was an <a> airline </a> which offered charter service from and within the <a> United States </a> .
+
+5	FALSE	Nepal Airlines::logo_size	200 / 30	
+It is the government owned , national flag-carrier airline and operates more than 30 domestic and 7 international routes .
+
+#	NEW	logo_size	........ / and	// The airline also announced new service to Branson , MO . and Boston .
+
+#	NEW	logo_size	........ / 2008 ) :	// <p> Air Fiji operated the following services ( at June 2008 ) : </p>
+
+#	NEW	logo_size	........ / 2001	// <p> Domestic <a> helicopter </a> service was inaugurated in November 2005 , in line with a <a> resolution </a> by the Council of Ministers in April 2001 which stated that domestic services should be introduced .
+
+#	NEW	logo_size	........ / 2006 ) :	// <p> Air Inuit operates scheduled services to the following domestic destinations ( November 2006 ) : </p>
+
+#	NEW	logo_size	........ / 14	// The airline struggled financially and after attempts to reorganize and secure additional capital were unsuccessful , the airline ceased operations on October 14 , 2005 .
+
+#	NEW	logo_size	........ / 2006 .	// It introduced four <a> Airbus A320 </a> aircraft and finalised a deal for two <a> Airbus A321 </a> aircraft which were delivered by December 2006 .
+
+#	NEW	logo_size	........ / </	// It operates domestic services and international services in the <a> Caribbean </a> .
+
+#	NEW	logo_size	........ / 1	// <p> The airline was established and started operations on 1 October 1997 .
+
+#	NEW	logo_size	........ / for	// <p> The airline was in negotiations with <a> Japan Airlines </a> to purchase several used MD-80s aircraft for expansion .
+
+#	NEW	logo_size	........ / 2009 .	// The bankruptcy was confirmed on 2 October 2009 . </p>
+
+#	NEW	logo_size	........ / 15	// Also in the same month , the airline received first of four new <a> A320 </a> airliners , raising its current fleet to 15 aircraft .
+
+#	NEW	logo_size	........ / a> .	// The airline operates services to 12 destinations in <a> Mainland China </a> , as well as regional international services , from its hub at <a> Macau International Airport </a> . </p>
+
+#	NEW	logo_size	........ / </	// From May 2009 <a> Tamworth </a> is also served by <a> Brindabella Airlines </a> .
+
+#	NEW	logo_size	........ / </	// <p> The airline had also operated the following aircraft : </p>
+
+#	NEW	logo_size	........ / </	// <p> The airline ' s operation was temporarily suspended from January to May , 2009 due to Mongolian Civil Aviation ' s doubt on flight safety . </p>
+
+#	NEW	logo_size	........ / 2005	// In October 2005 a codeshare agreement with Alitalia on the entire Air Alps network was established .
+
+#	NEW	logo_size	........ / 2004 .	// <p> The airline was established and started operations on 3 November 2004 . </p>
+
+#	NEW	logo_size	........ / 2005 ) :	// <p> Trans Air Congo operates services to the following destinations ( at January 2005 ) : </p>
+
+#	NEW	logo_size	........ / 10	// <p> In August 2010 , Shenzhen Airlines announced plans to order a further 10 Airbus A320 aircraft . </p>
+
+25	FALSE	Britannia Airways::logo_size	200 / 767	
+Britannia was also the first European airline to fly the <a> Boeing 767 </a> .
+
+#	NEW	logo_size	........ / 15 :	// <p> Tsu ' s announcement ended at 15 : 46 .
+
+#	NEW	logo_size	........ / 10	// The aircraft arrived into the Kosova Airlines fleet on 1 December 2003 and remained in the fleet until 10 May 2006 .
+
+#	NEW	logo_size	........ / 747	// In 1965 , Flying Tiger Line began operating jet aircraft ( the <a> Boeing 707 </a> ) ; in 1974 , the airline took delivery of its first <a> Boeing 747 </a> .
+
+#	NEW	logo_size	........ / <p>	// <p> The NTSB also found the following contributing factor : </p>
+
+#	NEW	logo_size	........ / 15 .	// It was the second air disaster involving PRC aircraft in less than a month , after the <a> Air China Flight 129 </a> disaster on April 15 . </p>
+
+#	NEW	logo_size	........ / 8	// By April 2003 , the 8 remaining aircraft were grounded as insurance contracts expired .
+
+#	NEW	logo_size	........ / 2005	// <p> ADC airlines operated over 120 flights a week on the following services ( at February <a> 2005 </a> ) : </p>
+
+#	NEW	logo_size	........ / its	// <p> On April 3 , 2006 , the Mexican federal <a> Secretariat of Communications and Transport </a> suspended all operations after the civil aviation authorities determined the airline was not complying with its safety standards .
+
+#	NEW	logo_size	........ / 2004	// Even though claiming <a> net profit </a> of 1 . 3 million <a> dollars </a> in 2003 , the airline was forced to suspend its flight operations again in April 2004 due to operational problems .
+
+#	NEW	logo_size	........ / 2008 ) :	// <p> The Air Guyane fleet includes the following aircraft ( at April 2008 ) : </p>
+
+#	NEW	logo_size	........ / </	// On 1 October 1999 the airline ceased operations due to financial problems . </p>
+
+#	NEW	logo_size	........ / 11	// <p> In 2005 , the company announced it was to <a> wet lease </a> a <a> McDonnell Douglas MD-11 </a> from US-based <a> World Airways </a> .
+
+#	NEW	logo_size	........ / 2005 ) :	// <p> Aerocaribe operated the following services ( at January 2005 ) : </p>
+
+#	NEW	logo_size	........ / a> .	// Afriqiyah Airways also plans to introduce new services to <a> Marseille </a> . </p>
+
+#	NEW	logo_size	........ / a>	// It also operates <a> charter </a> , cargo and <a> wet lease </a> services .
+

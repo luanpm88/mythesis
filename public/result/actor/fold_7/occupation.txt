@@ -1,0 +1,49 @@
+Found: 10
+Found Not Null: 3
+Correct: 2
+Wrong: 1
+Total: 11
+precision: 0.6666666666666666
+recall: 0.18181818181818182
+
+
+
+#	NEW	occupation	........ / actress	// <p> <strong> Jill Goodacre Connick </strong> ( born March 29 , 1965 in <a> Lubbock </a> , <a> Texas </a> ) is an <a> American </a> actress and former <a> model </a> .
+
+#	NEW	occupation	........ / actress	// <p> Chartoff has continued her work as an in-demand voice actress , and also takes occasional TV and stage roles .
+
+#	NEW	occupation	........ / actress .	// After the play had finished Hoffman asked to meet the young actress .
+
+3	TRUE	Keith Coogan::occupation	actor / actor.	
+<p> <strong> Keith Coogan </strong> ( born January 13 , 1970 ) is an <a> American </a> actor .
+
+4	TRUE	Telly Savalas::occupation	actor / actor and singer	
+<p> <strong> Aristotelis &quot ; Telly&quot ; Savalas </strong> ( ; January 21 , 1922 <img> January 22 , 1994 ) was an American <a> film </a> and <a> television </a> actor and singer , whose career spanned four decades . </p>
+
+#	NEW	occupation	........ / actor	// <p> <strong> John Gibb Marshall </strong> ( born 11 January 1953 ) , better known by the stage name <strong> John Sessions </strong> , is a <a> Scottish </a> <a> actor </a> and <a> comedian </a> .
+
+6	FALSE	Jerry O'Connell::occupation	actor / ( also	
+In his Junior year , O ' Connell auditioned for the TV pilot <em> <a> Sliders </a> </em> ( also filmed in Canada ) .
+
+#	NEW	occupation	........ / actor	// <p> <strong> Oscar Levant </strong> ( December 27 , 1906 &ndash ; August 14 , 1972 ) was an American <a> pianist </a> , <a> composer </a> , <a> author </a> , <a> comedian </a> , and <a> actor </a> .
+
+#	NEW	occupation	........ / Show	// She has had TV shows called <em> Krisse Show </em> and <em> Krisse Road Show </em> . </p>
+
+#	NEW	occupation	........ / actor and singer	// <p> <strong> Jake Thomas </strong> ( born January 30 , 1990 ) is an American actor and singer known for his roles in the television show <em> <a> Lizzie McGuire </a> </em> , in which he plays Lizzie ' s younger brother , Matt McGuire .
+
+#	null	occupation	director / ..........
+
+#	null	occupation	actor / ..........
+
+#	null	occupation	actor / ..........
+
+#	null	occupation	actor / ..........
+
+#	null	occupation	actress / ..........
+
+#	null	occupation	actor / ..........
+
+#	null	occupation	actress / ..........
+
+#	null	occupation	actress / ..........
+

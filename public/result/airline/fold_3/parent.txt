@@ -1,0 +1,98 @@
+Found: 43
+Found Not Null: 2
+Correct: 1
+Wrong: 1
+Total: 2
+precision: 0.5
+recall: 0.5
+
+
+
+#	NEW	parent	........ / Two minutes	// <p> Two minutes after this call , Tocumen air traffic control lost all contact with Flight 201 .
+
+#	NEW	parent	........ / Bahrain International	// Its main base is <a> Bahrain International Airport </a> . </p>
+
+#	NEW	parent	........ / Chengdu Airlines	// On January 23 , 2010 , the airline was renamed <strong> Chengdu Airlines </strong> . </p>
+
+#	NEW	parent	........ / East- West Airlines	// <a> Australian Airlines </a> purchased 26% of Eastern Australian Airlines from <a> East-West Airlines </a> in 1988 , and the airline became a wholly-owned subsidiary in 1991 .
+
+#	NEW	parent	........ / International	// <p> <strong> International </strong> </p>
+
+#	NEW	parent	........ / airline .	// On March 14 , 2008 <a> Air Contractors </a> of <a> Ireland </a> officially acquired the airline .
+
+#	NEW	parent	........ / Flying Dolphin Airlines	// It was formerly known as Flying Dolphin Airlines and Santa Cruz Imperial Airlines .
+
+#	NEW	parent	........ / Anadyr Air	// It is owned by Anadyr Air Enterprise , Keperveyem Air Enterprise , Mys Shmidta Air Enterprise and Pevek Air Enterprise . </p>
+
+#	NEW	parent	........ / Air Luxor	// In 2003 , Air Luxor announced the launch of scheduled <a> low cost flights </a> under the <strong> Air Luxor Light </strong> branding .
+
+#	NEW	parent	........ / Jet Air	// <p> <strong> Jet Air Sp . z o . o . </strong> is a <a> Polish </a> air operator that provides leasing services as well as a branded operation on domestic and intra-European flights .
+
+#	NEW	parent	........ / Air Services	// Under the <strong> International Air Services </strong> brand WestWind provides airport terminal services to charter and international airlines at the Saskatoon , Regina and Winnipeg airports .
+
+11	FALSE	IBC Airways::parent	international bonded couriers / Miami International	
+Its main base is <a> Miami International Airport </a> .
+
+#	NEW	parent	........ / International Airport	// Paul International Airport </a> ( MSP ) . </p>
+
+#	NEW	parent	........ / International Destinations :	// <p> <strong> International Destinations : </strong> </p>
+
+#	NEW	parent	........ / JetBlue did	// <p> JetBlue did not operate from LAX at the time , so they had no company officials or maintenance personnel based at that airport .
+
+#	NEW	parent	........ / takeoff was	// Also causal was the captain ' s failure to detect the mistrimmed rudder before the takeoff was attempted . ref
+
+#	NEW	parent	........ / Port Stanley	// Its main base is <a> Port Stanley Airport </a> . </p>
+
+#	NEW	parent	........ / Girjet	// <p> <strong> Girjet </strong> ( Gesti&#x00f3 ; n A&#x00e9 ; rea Ejecutiva , SL ) was an <a> airline </a> based in <a> Barcelona </a> , <a> Spain </a> .
+
+#	NEW	parent	........ / Inter Island	// / br / <strong> Inter Island Airways , Inc . </strong> br / Pago Pago International Airportbr / P . O .
+
+#	NEW	parent	........ / flight attendant	// One of the air crew killed was the <a> flight attendant </a> , Alice Scribner , 26 , of Chicago .
+
+#	NEW	parent	........ / Prince Louis	// A photograph of the funeral procession , showing <a> Prince Louis </a> as chief mourner , shows crowds saluting the mourners with their right hand in the air .
+
+#	NEW	parent	........ / Riga International	// Founded in 1991 , it operated regional and international charter flights out of <a> Riga International Airport </a> between 1995 and 2005 . </p>
+
+#	NEW	parent	........ / Dornier Aviation Nigeria	// <p> <strong> Dornier Aviation Nigeria </strong> is an <a> airline </a> based in <a> Kaduna </a> , <a> Nigeria </a> .
+
+#	NEW	parent	........ / Africa Air	// It was originally incorporated as <strong> Africa Air </strong> in March 2002 , but the name was changed to East African Airlines on 17 May 2002 .
+
+#	NEW	parent	........ / were	// <p> The headquarters for the company were in Spokane , WA .
+
+#	NEW	parent	........ / Egoli Air	// <p> <strong> Egoli Air </strong> is an <a> airline </a> based in <a> Johannesburg </a> , <a> South Africa </a> .
+
+#	NEW	parent	........ / Mohamed Al	// <p> <strong> Air Harrods Limited </strong> is the aircraft charter arm of the <a> Mohamed Al Fayed </a> owned <a> Harrods </a> company .
+
+#	NEW	parent	........ / was founded	// It was founded in 1996 , and since 2005 it operates flights in code share with <a> Varig </a> and <a> TAM Linhas A&#x00e9 ; reas </a> . </p>
+
+#	NEW	parent	........ / Styrian Spirit	// <p> <strong> Slovenian Spirit </strong> was the name of a subsidiary of the <a> Austria </a> n airline <a> Styrian Spirit </a> .
+
+#	NEW	parent	........ / Estafeta Group	// It is wholly owned by the Estafeta Group and has 174 employees ( at March <a> 2007 </a> ) . </p>
+
+#	NEW	parent	........ / Fairline	// <p> <strong> Fairline </strong> was a regional <a> airline </a> based in <a> Austria </a> .
+
+#	NEW	parent	........ / Yute Air	// It was later renamed <strong> Yute Air Alaska </strong> .
+
+#	NEW	parent	........ / was established	// It was established and started operations in 1985 and operates scheduled and on-demand air cargo services .
+
+#	NEW	parent	........ / Georgian Cargo Airlines	// <p> <strong> Georgian Cargo Airlines Africa </strong> was a <a> cargo airline </a> based in <a> Dakar </a> , <a> Senegal </a> .
+
+#	NEW	parent	........ / air charter	// Along with <a> air charter </a> s they also repair and maintain aircraft and an <a> air ambulance </a> service .
+
+#	NEW	parent	........ / restructure its	// In October <a> 2003 </a> , it notified the government of its intent to restructure its operations under Canada ' s Bankruptcy and Insolvency Act .
+
+#	NEW	parent	........ / Malabo International	// Its main base is <a> Malabo International Airport </a> . </p>
+
+#	NEW	parent	........ / Imair Airlines	// <p> <strong> Imair Airlines </strong> was an <a> airline </a> based in <a> Baku </a> , <a> Azerbaijan </a> .
+
+#	NEW	parent	........ / cargo airline	// <p> <strong> Inversija </strong> is a <a> cargo airline </a> based in <a> Riga </a> , <a> Latvia </a> .
+
+#	NEW	parent	........ / airport and	// In that call , the pilot said he was from the airport and was starting to descend .
+
+#	NEW	parent	........ / Guarulhos International	// <p> At 9 : 43 , flight 254 left <a> Guarulhos International Airport </a> , S&#x00e3 ; o Paulo , heading towards Bel&#x00e9 ; m .
+
+41	TRUE	MASkargo::parent	malaysia airlines / Malaysia Airlines	
+<p> <strong> <a> MAS </a> <a> kargo </a> </strong> or <strong> Malaysia Airlines Kargo </strong> ( <em> Malaysia Airlines Cargo Sdn .
+
+#	NEW	parent	........ / TUI Airlines	// Formerly known as <strong> TUI Airlines Belgium </strong> , it adopted its new name in November 2005 .
+

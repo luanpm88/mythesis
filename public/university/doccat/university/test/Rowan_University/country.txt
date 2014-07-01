@@ -1,3 +1,0 @@
-<h5>North Halls</h5>
-<h5>South Halls</h5>
-<p>&lt;/td&gt; &lt;td valign=&quot;top&quot;&gt; Sororities</p>

@@ -1,0 +1,39 @@
+Total articles: 312
+Articles for test: 281
+Articles for train: 31
+Total attributes: 64
+Attributes with high occurrences: 5/64
+
+------------
+Found: 79
+Found Not Null: 22
+Correct: 11
+Wrong: 11
+Total: 25
+precision: 0.5
+recall: 0.44
+
+
+
+2	TRUE	Michael Mann (director):: birth_name	michael kenneth mann / is an American	// <p> <strong> Michael Kenneth Mann </strong> ( born February 5 , 1943 ) is an American <a> film director </a> , <a> screenwriter </a> , and <a> producer </a> .
+5	FALSE	Max Steiner:: birth_name	maximilian raoul steiner / record surpassed only by	// He was nominated for the Academy Award a total of twenty six times , a record surpassed only by <a> Alfred Newman </a> and <a> John Williams </a> for the most nominations received by a composer .
+8	FALSE	Madhuri Dixit:: birth_name	madhuri shankar dixit / has two sons, Arin	// She has two sons , Arin ( born in March 2003 in <a> Colorado </a> ) and Raayan ( born in March 2005 in <a> Colorado </a> ) . </p>
+9	TRUE	Madhuri Dixit:: occupation	actress / Actress	// Her performance earned her a <a> Filmfare Best Supporting Actress Award </a> .
+11	FALSE	Marlon Brando:: birth_name	marlon brando, jr. / but separated when he	// His parents moved to <a> Evanston , Illinois </a> , but separated when he was eleven years old .
+14	TRUE	Morgan Freeman:: birth_name	morgan porterfield freeman, jr. / Morgan Porterfield Freeman, Jr.	// <p> <strong> Morgan Porterfield Freeman , Jr . </strong> ( born June 1 , 1937 ) is an American actor , film director , and narrator .
+18	TRUE	Mary Pickford:: occupation	actress / Actress	// <em> Coquette </em> was a success and won her an Academy Award for Best Actress , but the public failed to respond to her in the more sophisticated roles . </p>
+23	TRUE	Mary Tyler Moore:: occupation	actress / Actress	// <p> Moore was nominated for the <a> Academy Award for Best Actress </a> for 1980's <em> <a> Ordinary People </a> </em> .
+31	FALSE	Nastassja Kinski:: occupation	actress / film	// <em> <a> Paris , Texas </a> </em> won awards at <a> Cannes </a> , however , the film was not widely released in the United States .
+32	FALSE	Orson Welles:: birth_name	george orson welles / on an existing documentary by <a> Fran&#x00e7;ois Reichenbach	// Based on an existing documentary by <a> Fran&#x00e7;ois Reichenbach </a> , it included new material with <a> Oja Kodar </a> , Joseph Cotten , <a> Paul Stewart </a> and <a> William Alland </a> .
+36	FALSE	Peter Cook:: birth_name	peter edward cook / the three children of Alexander Edward ( Alec ) Cook	// <p> Cook was born at &quot;Shearbridge&quot; , Middle Warberry Road , <a> Torquay </a> , <a> Devon </a> , the only son and eldest of the three children of Alexander Edward ( Alec ) Cook ( 1906&#x2013;1984 ) , a colonial civil servant , and his wife Ethel Catherine Margaret , <em> n&#x00e9;e </em> Mayo ( 1908&#x2013;1994 ) .
+38	FALSE	Peter Falk:: birth_name	peter michael falk / recalled the episode to Spielberg biographer	// Falk recalled the episode to Spielberg biographer <a> Joseph McBride </a> : </p>
+40	TRUE	Paul Reubens:: birth_name	paul rubenfeld / Paul Reubens	// <strong> Paul Reubens </strong> ( born <strong> Paul Rubenfeld </strong> ; August 27 , 1952 ) is an American <a> actor </a> , <a> writer </a> , <a> film producer </a> , and <a> comedian </a> , best known for his character <a> Pee-wee Herman </a> .
+45	TRUE	Peter Sellers:: birth_name	richard henry sellers / Richard Henry Sellers	// <p> <strong> Richard Henry Sellers </strong> , <a> OBE </a> ( 8 September 1925 &ndash; 24 July 1980 ) , known as <strong> Peter Sellers </strong> , was a British <a> comedian </a> and actor best known as <a> Chief Inspector Clouseau </a> in <em> <a> The Pink Panther </a> </em> film series , for playing three different characters in <em> <a> Dr .
+54	TRUE	Russell Crowe:: birth_name	russell ira crowe / Russell Ira Crowe	// <p> <strong> Russell Ira Crowe </strong> ( born April 7 , 1964 ) is a New Zealand-born Australian actor and musician .
+57	FALSE	Ruth Gordon:: birth_name	ruth gordon jones / an extra in silent films that were shot	// In 1915 , Gordon appeared as an extra in silent films that were shot in <a> Fort Lee , New Jersey </a> , including as a dancer in <em> The Whirl of Life </em> , a film based on the lives of <a> Vernon and Irene Castle </a> .
+60	TRUE	Robin Wright Penn:: birth_name	robin gayle wright / Robin Gayle Wright	// <p> <strong> Robin Gayle Wright </strong> ( born April 8 , 1966 ) is an American actress .
+61	TRUE	Robin Wright Penn:: occupation	actress / Actress.	// She shot to stardom after her roles as Buttercup in <em> <a> The Princess Bride </a> </em> and Jenny Curran in <em> <a> Forrest Gump </a> </em> , the latter role garnering her <a> Golden Globe Award </a> and <a> Screen Actors Guild </a> nominations for Best Supporting Actress .
+63	FALSE	Rex Ingram (director):: birth_name	reginald ingram montgomery hitchcock / producer, writer	// <strong> Rex Ingram </strong> ( 15 January 1892 &ndash; 21 July 1950 ) was a <a> film director </a> , producer , writer and actor .
+68	FALSE	Shannon Elizabeth:: birth_name	shannon elizabeth fadal / Joseph D. Reitman	// <p> Elizabeth was in a relationship with actor <a> Joseph D . Reitman </a> for 10 years , including three years of marriage .
+74	FALSE	Steven Soderbergh:: birth_name	steven andrew soderbergh / Mary Ann ( n&#x00e9;e Bernard ) and Peter Andrew Soderbergh, who	// <p> Soderbergh was born in <a> Atlanta </a> , the son of Mary Ann ( n&#x00e9;e Bernard ) and Peter Andrew Soderbergh , who was a university administrator and educator .
+77	TRUE	Soad Hosny:: occupation	actress / cinema	// Hosny was known as the &quot; <a> Cinderella </a> of <a> Egyptian cinema </a> &quot; and one of the most influential actresses in the artistic arena .

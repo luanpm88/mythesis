@@ -1,2 +1,0 @@
-<li>Elemental Education</li>
-<li>Physical Education</li>

@@ -1,2 +1,0 @@
-<li>Northridge (North Austin)</li>
-<li>South Austin</li>

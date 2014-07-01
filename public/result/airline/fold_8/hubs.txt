@@ -1,0 +1,82 @@
+Found: 37
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	hubs	........ / airline	// <p> <strong> Air Creebec Inc . </strong> is a <a> regional airline </a> based in <a> Val-d ' Or </a> , <a> Quebec </a> , <a> Canada </a> .
+
+#	NEW	hubs	........ / Bouet	// Its main base is <a> Port Bouet Airport </a> , Abidjan . </p>
+
+#	NEW	hubs	........ / k	// Its main bases are <a> Reykjav&#x00ed ; k Airport </a> and <a> Akureyri Airport </a> .
+
+#	NEW	hubs	........ / Oakland	// It had its headquarters on the grounds of <a> Oakland International Airport </a> in <a> Oakland , California </a> . </p>
+
+#	NEW	hubs	........ / Tribhuvan	// Its main base is <a> Tribhuvan International Airport </a> , Kathmandu . </p>
+
+#	NEW	hubs	........ / Nausori	// Its main base was <a> Nausori International Airport </a> , <a> Suva </a> , with a base at <a> Nadi International Airport </a> . </p>
+
+#	NEW	hubs	........ / the	// The Bhutanese Department of Civil Aviation ( DCA ) has indicated that the airport at Gelephu will be an ' all-weather ' airport that may be able to accept some international traffic in the future . </p>
+
+#	NEW	hubs	........ / Kuujjuaq	// Its main base is <a> Kuujjuaq Airport </a> . </p>
+
+#	NEW	hubs	........ / Astana	// Its main bases are <a> Astana International Airport </a> and <a> Almaty International Airport </a> .
+
+#	NEW	hubs	........ / var	// Its main base is <a> Sim&#x00f3 ; n Bol&#x00ed ; var International Airport </a> , Caracas . </p>
+
+#	NEW	hubs	........ / Vinci	// Its main bases were <a> Leonardo Da Vinci International Airport </a> , Rome , and <a> Malpensa International Airport </a> , <a> Milan </a> .
+
+#	NEW	hubs	........ / Airwork	// <p> Some of the ex-NAC F27 Friendships also survive , two airworthy with <a> Airwork </a> , based at Auckland International Airport .
+
+#	NEW	hubs	........ / Mueang	// Its main base was <a> Don Mueang International Airport </a> , Bangkok .
+
+#	NEW	hubs	........ / Brasilia	// It was headquartered in <a> Brasilia International Airport </a> in <a> Brasilia </a> . </p>
+
+#	NEW	hubs	........ / Suvarnabhumi	// <p> Most the airline ' s international routes connect to Bangkok ; all flights on these are served at Suvarnabhumi International Airport . </p>
+
+#	NEW	hubs	........ / China	// The airline operates services to 12 destinations in <a> Mainland China </a> , as well as regional international services , from its hub at <a> Macau International Airport </a> . </p>
+
+#	NEW	hubs	........ / the	// It is one of the major employers at the airport .
+
+#	NEW	hubs	........ / Larnaca	// Its main base was Larnaca International Airport .
+
+#	NEW	hubs	........ / Khaan	// Its main base is <a> Chinggis Khaan International Airport </a> , Ulan Bator , Mongolia . </p>
+
+#	NEW	hubs	........ / Innsbruck	// Its main base is <a> Innsbruck Airport </a> , with hubs at <a> Malpensa Airport </a> , Milan and <a> Leonardo da Vinci Airport </a> , Rome . </p>
+
+#	NEW	hubs	........ / Teresa	// Its main base was <a> Rinas Mother Teresa Airport </a> ( TIR ) , Tirana .
+
+#	NEW	hubs	........ / airline	// <p> <strong> Trans Air Congo </strong> is a scheduled passenger and cargo <a> airline </a> based in <a> Brazzaville </a> , <a> Republic of Congo </a> .
+
+#	NEW	hubs	........ / codeshare	// <p> Shenzhen Airlines has the following <a> codeshare </a> agreements ( at March 2010 ) : </p>
+
+#	NEW	hubs	........ / Gatwick	// Its main bases were <a> London Gatwick </a> , <a> London Luton </a> , <a> Birmingham </a> , <a> Manchester </a> , <a> Newcastle </a> and <a> Glasgow </a> .
+
+#	NEW	hubs	........ / Portela	// Its main base is <a> Portela Airport </a> , Lisbon with a hub at <a> Francisco S&#x00e1 ; Carneiro Airport </a> , Porto . </p>
+
+#	NEW	hubs	........ / Hatta	// <p> Carrying 97 passengers and a crew of seven , the Boeing departed Jakarta ' s <a> Soekarno-Hatta International Airport </a> ' s runway 25R at 15 : 37 local time ( 08 : 37 <a> UTC </a> ) for a planned 80 minute flight to <a> Singapore Changi Airport </a> , with the captain at the controls .
+
+#	NEW	hubs	........ / Hamburg	// The aircraft has a dark blue tail like that on the original Hamburg International livery .
+
+#	NEW	hubs	........ / Angeles	// It was headquartered on the grounds of <a> Los Angeles International Airport </a> in <a> Westchester </a> , <a> Los Angeles </a> , <a> California </a> . </p>
+
+#	NEW	hubs	........ / system	// <p> This accident led to the development of the original <a> low level windshear alert system </a> by the U . S . <a> Federal Aviation Administration </a> in 1976 that was installed at 110 FAA towered airports between 1977 and 1987 . </p>
+
+#	NEW	hubs	........ / cigarette	// According to the video monitor record , he had spent several hours smoking <a> cigarette </a> s in the waiting hall of Beijing airport .
+
+#	NEW	hubs	........ / Mohammed	// Its main base was <a> Murtala Mohammed International Airport </a> , Lagos . </p>
+
+#	NEW	hubs	........ / n	// <a> Manuel M&#x00e1 ; rquez de Le&#x00f3 ; n International Airport </a> in La Paz was its main hub . .
+
+#	NEW	hubs	........ / Africa	// It operated mostly regional passenger services within <a> West Africa </a> out of <a> Banjul International Airport </a> , as well as flights to <a> London </a> .
+
+#	NEW	hubs	........ / Rochambeau	// Its main base is Cayenne-Rochambeau Airport . . </p>
+
+#	NEW	hubs	........ / Kabul	// Its main base is <a> Kabul International Airport </a> . </p>
+
+#	NEW	hubs	........ / Tripoli	// Its main base is <a> Tripoli International Airport </a> .
+
+#	NEW	hubs	........ / Orly	// Its main bases are <a> Orly Airport </a> and <a> Charles de Gaulle Airport </a> , Paris .
+

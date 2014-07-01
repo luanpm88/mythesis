@@ -1,5 +1,0 @@
-<li>Department of Political Science</li>
-<li>Department of Teacher Education Services</li>
-<li><a>Department of Computer Science</a></li>
-<li>Bachelor of Science in Education</li>
-<li><a>Master of Science</a></li>

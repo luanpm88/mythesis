@@ -1,0 +1,60 @@
+Found: 19
+Found Not Null: 6
+Correct: 5
+Wrong: 1
+Total: 9
+precision: 0.8333333333333334
+recall: 0.5555555555555556
+
+
+
+0	TRUE	Gordon Jump::occupation	actor / Soap	
+<p> <strong> Alexander Gordon Jump </strong> ( April 1 , 1932 &ndash ; September 22 , 2003 ) was an American <a> actor </a> best known as the clueless <a> radio station </a> manager Arthur &quot ; Big Guy&quot ; Carlson in the <a> TV series </a> <em> <a> WKRP in Cincinnati </a> </em> and the incompetent &quot ; Piece of Chalief Tinkler&quot ; in the sitcom <em> <a> Soap </a> </em> .
+
+#	NEW	occupation	........ / actress	// <p> <strong> Edna Purviance </strong> ( October 21 , 1895 &ndash ; January 11 , 1958 ) was an American actress during the <a> silent movie </a> era .
+
+#	NEW	occupation	........ / actor	// <p> <strong> Ji&#x0159 ; &#x00ed ; Menzel </strong> ( ) ( born February 23 , 1938 , <a> Prague </a> ) is a <a> Czech </a> <a> film director </a> , <a> theatre director </a> , actor , and <a> screenwriter </a> .
+
+#	NEW	occupation	........ / actor	// <p> <strong> Victor Joseph Garber </strong> ( born March 16 , 1949 ) is a <a> Canadian </a> film , stage and television <a> actor </a> and <a> singer </a> .
+
+#	NEW	occupation	........ / actress	// <p> <strong> Leonor Varela Palma </strong> ( born December 29 , 1972 ) is a <a> Chile </a> an <a> actress </a> , and <a> model </a> .
+
+#	NEW	occupation	........ / actress	// <p> <strong> Christina Cox </strong> ( born July 31 , 1971 ) is a <a> Canadian </a> <a> movie </a> and <a> television </a> <a> actress </a> and <a> stuntwoman </a> . </p>
+
+#	NEW	occupation	........ / actress	// <p> <strong> Ingrid Thulin </strong> ( ; 27 January 1926 &ndash ; 7 January 2004 ) was a <a> Swedish </a> <a> film actress </a> . </p>
+
+#	NEW	occupation	........ / actor	// <p> <strong> Peter Strauss </strong> ( born February 20 , 1947 ) is an <a> American </a> television and movie actor , known for his roles in several television <a> miniseries </a> in the 1970s and 1980s .
+
+8	TRUE	Christopher Plummer::occupation	actor / actor	
+<p> <strong> Christopher Plummer </strong> , <a> CC </a> ( born December 13 , 1929 ) is a <a> Canadian </a> <a> theatre </a> , <a> film </a> and <a> television </a> <a> actor </a> . </p>
+
+9	FALSE	Bob Barker::occupation	game show host / host	
+<p> <img> <strong> Robert William </strong> &quot ; <strong> Bob </strong> &quot ; <strong> Barker </strong> ( born December 12 , 1923 ) is an <a> American </a> former <a> television </a> <a> game show </a> <a> host </a> .
+
+#	NEW	occupation	........ / actress .	// <p> <strong> Marie-France Pisier </strong> ( born 10 May 1944 ) is a French actress .
+
+#	NEW	occupation	........ / actress	// <p> <strong> Dorothy Loudon </strong> ( September 17 , 1933 &#x2013 ; November 15 , 2003 ) was an <a> American </a> comedy actress and singer .
+
+12	TRUE	Cesar Romero::occupation	actor / actor	
+<p> <strong> Cesar Julio Romero , Jr . </strong> ( February 15 , 1907&nbsp ; &#x2013 ; January 1 , 1994 ) was a <a> Cuban American </a> <a> film </a> and <a> television </a> <a> actor </a> , who played <a> The Joker </a> in the 1960s television series <em> <a> Batman </a> </em> .
+
+#	NEW	occupation	........ / ,	// <p> <strong> Patrick Joseph McGoohan </strong> ( March 19 , 1928 &#x2013 ; January 13 , 2009 ) was an <a> American </a> -born <a> actor </a> , raised in <a> Ireland </a> and <a> England </a> , with an extensive stage and film career , most notably in the 1960s <a> television </a> series <em> <a> Danger Man </a> </em> ( renamed <em> Secret Agent </em> when exported to the <a> US </a> ) , and <em> <a> The Prisoner </a> </em> .
+
+14	TRUE	Joanna Pacuła::occupation	actress / actress	
+<p> <strong> Joanna Pacula </strong> ( born January 2 , 1957 ) is a <a> Polish </a> <a> actress </a> . </p>
+
+#	NEW	occupation	........ / actor	// <p> <strong> Jon Roger Davis </strong> ( born April 5 , 1939 ) is an <a> American </a> <a> actor </a> .
+
+16	TRUE	Jeremy Sumpter::occupation	actor / actor.	
+<p> <strong> Jeremy Robert Myron Sumpter </strong> ( born February 5 , 1989 ) is an <a> American </a> actor .
+
+#	NEW	occupation	........ / actor	// <p> , born <strong> Seitaro Suzuki </strong> ( &#x9234 ; &#x6728 ; &#x6e05 ; &#x592a ; &#x90ce ; <strong> <em> Suzuki Seitar&#x014d ; </em> </strong> ) on May 24 , 1923 , is a <a> Japan </a> ese <a> filmmaker </a> , <a> actor </a> , and <a> screenwriter </a> .
+
+#	NEW	occupation	........ / actress	// <p> <strong> Kareena Kapoor </strong> ( , pronounced ; born on September 21 , 1980 ) , often informally referred to as <strong> Bebo </strong> , is an Indian actress who appears in <a> Bollywood </a> films .
+
+#	null	occupation	actor / ..........
+
+#	null	occupation	actor / ..........
+
+#	null	occupation	actor / ..........
+

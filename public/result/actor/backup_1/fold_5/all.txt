@@ -1,0 +1,203 @@
+Total articles: 312
+Articles for test: 281
+Articles for train: 31
+Total attributes: 64
+Attributes with high occurrences: 5/64
+
+------------
+Found: 77
+Found Not Null: 26
+Correct: 16
+Wrong: 10
+Total: 29
+precision: 0.6153846153846154
+recall: 0.5517241379310345
+
+
+
+0	TRUE	Ub Iwerks::birth_name	ubbe ert iwwerks / Ubbe Ert Iwwerks	
+He was born <strong> Ubbe Ert Iwwerks </strong> in <a> Kansas City , Missouri </a> . </p>
+
+#	NEW	occupation	........ / 1963	// Iwerks did special effects work outside the studio as well , including his <a> Academy Award </a> nominated achievement for <a> Alfred Hitchcock </a> ' s <em> <a> The Birds </a> </em> ( <a> 1963 </a> ) . </p>
+
+#	NEW	birth_date	........ / 1925 , <a>	// In 1925 , <a> Hugh Harman </a> drew some sketches of mice around a photograph of Walt Disney .
+
+#	NEW	birth_date	........ / 22 , 000	// On March 22 , he filed a US$500 , 000 lawsuit against the city of Los Angeles .
+
+4	FALSE	Mel Blanc::birth_name	melvin jerome blank / an American <a> voice actor	
+<p> <strong> Mel Blanc </strong> ( May 30 , 1908 &ndash ; July 10 , 1989 ) was an American <a> voice actor </a> and <a> comedian </a> .
+
+#	NEW	birth_date	........ / ( 1963 )	// He is best known for his films <em> <a> The Leopard </a> </em> ( 1963 ) and <em> <a> Death in Venice </a> </em> ( 1971 ) .
+
+6	TRUE	Luchino Visconti::birth_name	luchino visconti di modrone / Luchino Visconti di Modrone	
+<p> <strong> Luchino Visconti di Modrone </strong> , Count of Lonate Pozzolo ( 2 November 1906 - 17 March 1976 ) was an <a> Italian </a> theatre , opera and cinema director , as well as a screenwriter .
+
+#	NEW	birth_date	........ / ( October 6 , 1906 & 14 ,	// <p> <strong> Janet Gaynor </strong> ( October 6 , 1906 &ndash ; September 14 , 1984 ) was an American actress .
+
+8	TRUE	Janet Gaynor::birth_name	laura augusta gainor / Laura Augusta Gainor	
+<p> Born <strong> Laura Augusta Gainor </strong> in <a> Philadelphia , Pennsylvania </a> , her family moved west to <a> San Francisco </a> during her childhood .
+
+9	TRUE	Janet Gaynor::occupation	actress / Actress.	
+Gaynor was not only the first , but until 1986 ( when <a> Marlee Matlin </a> won her Oscar ) , she was also the youngest actress to win an Academy Award for Best Actress .
+
+#	NEW	birth_date	........ / November 11 , 1974 )	// <p> <strong> Leonardo Wilhelm DiCaprio </strong> ( ; born November 11 , 1974 ) is an American actor and <a> film producer </a> .
+
+11	TRUE	Leonardo DiCaprio::birth_name	leonardo wilhelm dicaprio / is an American actor	
+<p> <strong> Leonardo Wilhelm DiCaprio </strong> ( ; born November 11 , 1974 ) is an American actor and <a> film producer </a> .
+
+#	NEW	occupation	........ / Actor&	// DiCaprio received rave reviews for his performance and won a [ [ Golden Globe Award for Best Actor&nbsp ; &#x2013 ; Motion Picture Drama | Golden Globe Award for Best Actor ] ] , also receiving another Academy Award nomination .
+
+#	NEW	birth_date	........ / Unable	// <p> Unable ( despite the best efforts of <a> Richard Schechner </a> ) to secure resources for his projected research in Manhattan , in 1983 Grotowski relocated to UC Irvine where he began a course of work known as ' Objective Drama ' .
+
+#	NEW	birth_name	........ / also initiated a longstanding creative relationship with American director James Slowiak and discovered the individual to whom he would ultimately pass responsibility for his life-long research	// He also initiated a longstanding creative relationship with American director James Slowiak and discovered the individual to whom he would ultimately pass responsibility for his life-long research , Thomas Richards , son of legendary African-American director <a> Lloyd Richards </a> . </p>
+
+15	TRUE	Kate Winslet::birth_name	kate elizabeth winslet / Kate Elizabeth Winslet	
+<p> <strong> Kate Elizabeth Winslet </strong> ( born 5 October 1975 ) is an English actress and occasional singer .
+
+#	NEW	occupation	........ / Actress	// While the film garnered mixed reviews in general , The following year , she earned her sixth Academy Award nomination and went on to win the <a> Best Actress </a> award , the <a> BAFTA Award for Best Actress </a> , a <a> Screen Actors Guild Award for Outstanding Supporting Actress </a> , and a <a> Golden Globe for Best Supporting Actress </a> .
+
+#	NEW	birth_date	........ / Baron	// <p> Baron Cohen married Australian actress <a> Isla Fisher </a> on 15 March 2010 .
+
+18	TRUE	Sacha Baron Cohen::birth_name	sacha noam baron cohen / Sacha Noam Baron Cohen	
+<p> <strong> Sacha Noam Baron Cohen </strong> ( born 13 October 1971 ) is a British <a> comedian </a> , actor , and writer .
+
+#	NEW	occupation	........ / Actor	// <p> Baron Cohen ' s work has been recognised with several <a> Emmy </a> nominations , an <a> Oscar </a> nomination for <a> Best Adapted Screenplay </a> , a <a> BAFTA </a> award , and a <a> Golden Globe </a> for <a> Best Actor </a> for his work in the feature film <strong> <em> ' .
+
+#	NEW	birth_name	........ / had been taught English by Barthelmess '	// Russian actress <a> Alla Nazimova </a> , a friend of the family , had been taught English by Barthelmess ' s mother .
+
+21	TRUE	Richard Barthelmess::occupation	actor / Actor	
+Richard Barthelmess in [ [ Broken Blossoms ] ] <em> ] ] </em> In the coming years , he was one of <a> Hollywood </a> ' s highest paid performers , starring in such classics as <em> <a> The Patent Leather Kid </a> </em> ( 1927 ) and <em> <a> The Noose </a> </em> ( 1928 ) ; he was nominated for Best Actor at the first <a> Academy Awards </a> for his performance in both these films , and he won a Special Citation for producing <em> <a> The Patent Leather Kid </a> </em> .
+
+22	TRUE	Goldie Hawn::birth_name	goldie jeanne hawn / occasional singer.	
+<p> <strong> Goldie Jeanne Hawn </strong> ( born November 21 , 1945 ) is an American actress , <a> film director </a> , <a> producer </a> , and occasional singer .
+
+#	NEW	occupation	........ / Actress .	// <em> Private Benjamin </em> , which also starred <a> Eileen Brennan </a> and <a> Armand Assante </a> , garnered Hawn her second <a> Academy Award </a> nomination , this time for Best Actress . </p>
+
+24	FALSE	Leonard Rossiter::birth_name	leonard rossiter / Elizabeth ( n&#x00e9 ; e Howell )	
+<p> Rossiter was born in <a> Liverpool </a> , the son of Elizabeth ( n&#x00e9 ; e Howell ) and John Rossiter .
+
+#	NEW	occupation	........ / years	// In 1968 he played the supporting role of <a> undertaker </a> Mr Sowerberry in the film version of <a> Lionel Bart </a> ' s musical <em> <a> Oliver ! </a> </em> and further came to wider public notice when he landed one of the few speaking supporting roles in <a> Stanley Kubrick </a> ' s <strong> <em> ' as the <a> Russia </a> n scientist Smyslov ( he was to work with Kubrick again , in </em> <a> Barry Lyndon </a> <em> seven years later ) .
+
+#	NEW	occupation	........ / Black	// She became internationally recognised after starring in a number of <em> <a> Black Emanuelle </a> </em> films in the 1970s . </p>
+
+#	NEW	birth_name	........ / is a Dutch- based	// <p> <strong> Laurette Marcia &quot ; Laura&quot ; Gemser </strong> ( born October 5 , 1950 , <a> Java </a> , <a> Indonesia </a> ) is a Dutch-based <a> actress </a> of <a> Indo </a> descent .
+
+28	TRUE	Victor McLaglen::occupation	actor / actor	
+Four of his brothers also became actors : Arthur ( 1888&#x2013 ; 1972 ) , an actor and sculptor , and Clifford ( 1892&#x2013 ; 1978 ) , Cyril ( 1899&#x2013 ; 1987 ) and Kenneth ( circa 1901-1979 ) .
+
+29	TRUE	Victor McLaglen::birth_name	victor andrew de bier everleigh mclaglen / Victor Andrew de Bier Everleigh McLaglen	
+<p> <strong> Victor Andrew de Bier Everleigh McLaglen </strong> ( 10 December 1886 &#x2013 ; 7 November 1959 ) was an <a> English </a> <a> boxer </a> and <a> World War I </a> veteran who became a leading <a> American </a> <a> film actor </a> . </p>
+
+#	NEW	birth_date	........ / ]	// Drummond ( Tracy , left ) and Matthew Harrison Brady ( [ [ Fredric March | March ] ] , right ) in <em> <a> Inherit the Wind </a> </em> ] ] Tracy performed in stock in Michigan , Canada , and Ohio for several years .
+
+31	FALSE	Spencer Tracy::birth_name	spencer bonaventure tracy / a Protestant turned	
+<p> Tracy was born in <a> Milwaukee </a> , <a> Wisconsin </a> , the second son of John Edward Tracy , an <a> Irish American </a> <a> Catholic </a> truck salesman , and Caroline Brown , a Protestant turned <a> Christian Scientist </a> .
+
+32	FALSE	Spencer Tracy::occupation	actor / Actress	
+He won a <a> Golden Globe Award </a> for <em> <a> The Actress </a> </em> ( 1953 ) from a total of four nominations .
+
+#	NEW	birth_date	........ / ( December 19 , 1946 & 16 ,	// <p> <strong> Robert Urich </strong> ( December 19 , 1946 &ndash ; April 16 , 2002 ) was an American actor .
+
+#	NEW	birth_name	........ / was an American	// <p> <strong> Robert Urich </strong> ( December 19 , 1946 &ndash ; April 16 , 2002 ) was an American actor .
+
+#	NEW	birth_name	........ / Milo&# x0161 ; Forman	// <p> <strong> Jan Tom&#x00e1 ; &#x0161 ; Forman </strong> ( ; born <a> February 18 </a> , <a> 1932 </a> ) , better known as <strong> Milo&#x0161 ; Forman </strong> ( ) , is a <a> Czech-American </a> <a> director </a> , <a> screenwriter </a> , <a> actor </a> , <a> professor </a> and an emigrant from <a> Czechoslovakia </a> .
+
+#	NEW	occupation	........ / Actor	// The film was awarded five Oscars , winning ( as one of three in history ) in the five most important categories : <a> Best Director </a> , <a> Best Actor </a> , <a> Best Actress </a> , <a> Best Picture </a> and <a> Best Adapted Screenplay </a> , which firmly established Forman ' s reputation .
+
+#	NEW	birth_date	........ / Hartnell	// <p> Hartnell was married to Heather McIntyre from 9 May 1929 until his death .
+
+#	NEW	birth_name	........ / William Henry Hartnell	// <p> <strong> William Henry Hartnell </strong> ( 8 January 1908 &ndash ; 23 April 1975 ) was an <a> English </a> <a> actor </a> .
+
+#	NEW	occupation	........ / Who	// <p> Hartnell acted in over seventy-five British films , ref name=&quot ; Internet Movie DataBase&quot ; / plus numerous stage and television appearances , though he is best remembered for his <em> Doctor Who </em> role . ref
+
+#	NEW	birth_name	........ / John Devon Roland &	// <p> <strong> John Devon Roland &quot ; Jon&quot ; Pertwee </strong> ( 7 July 1919 &#x2013 ; 20 May 1996 ) , was an <a> English </a> <a> actor </a> .
+
+#	NEW	birth_date	........ / Troughton	// <p> Troughton was married three times and he is survived by his second girlfriend Ethel Margaret ' Bunny ' Troughton .
+
+#	NEW	occupation	........ / years	// His final <a> television </a> appearance was in the autumn of the same year in <em> <a> Knights of God </a> </em> , which had actually been filmed two years earlier . </p>
+
+43	TRUE	Patrick Troughton::birth_name	patrick george troughton / Patrick George Troughton	
+<p> <strong> Patrick George Troughton </strong> / tra&#x028a ; t&#x0259 ; / ( 25 March 1920 &#x2013 ; 28 March 1987 ) was an <a> English </a> <a> actor </a> most widely known in his role as the <a> second </a> incarnation of <a> the Doctor </a> in the long running <a> British </a> <a> science-fiction television </a> series <em> <a> Doctor Who </a> </em> , which he played from 1966 to 1969 . </p>
+
+44	FALSE	Richard Burton::birth_name	richard walter jenkins / November 1925 &#x2013 ; 5 August	
+<p> <strong> Richard Burton </strong> , <a> CBE </a> ( 10 November 1925 &#x2013 ; 5 August 1984 ) was a <a> Welsh </a> actor .
+
+45	TRUE	Richard Burton::occupation	actor / Actor	
+He was nominated seven times for an <a> Academy Award </a> , six of which were for <a> Best Actor in a Leading Role </a> ( without ever winning ) , and was a recipient of <a> BAFTA </a> , <a> Golden Globe </a> and <a> Tony Award </a> s for Best Actor .
+
+#	NEW	spouse	........ / Jessica Burton .	// <p> Burton was married five times , first to Sybil Williams from 1949 to 1963 , with whom he had two children , actress <a> Kate Burton </a> and Jessica Burton .
+
+#	NEW	birth_name	........ / the popular British comedy group	// <p> <strong> Eric Idle </strong> ( born 29 March 1943 ) is an <a> English </a> <a> comedian </a> , <a> actor </a> , <a> author </a> , <a> singer </a> , <a> writer </a> , and comedic <a> composer </a> who wrote and performed as a member of the popular British comedy group <a> Monty Python </a> . </p>
+
+#	NEW	occupation	........ / the	// The film was nominated as ' Worst Picture of the Decade ' in the <a> Golden Raspberry Awards </a> ( known as the <a> Razzies </a> ) &#x2014 ; and was awarded five Razzies including ' Worst Picture of the Year ' . </p>
+
+#	NEW	birth_date	........ / May 7 , 1984 ) .	// The couple had one son , John Cody Carpenter ( born May 7 , 1984 ) . </p>
+
+#	NEW	birth_name	........ / John Howard Carpenter	// <p> <strong> John Howard Carpenter </strong> ( born January 16 , 1948 ) is an <a> American </a> <a> film director </a> , <a> screenwriter </a> , <a> producer </a> , <a> editor </a> , <a> composer </a> , and occasional <a> actor </a> .
+
+#	NEW	occupation	........ / Nitzsche	// The film received <a> Oscar </a> and <a> Golden Globe </a> nominations for <a> Jeff Bridges </a> ' portrayal of Starman and received a Golden Globe nomination for Best Musical Score for <a> Jack Nitzsche </a> . </p>
+
+#	NEW	birth_date	........ / May 2007 , she	// In May 2007 , she was granted a 24-hour alcohol and entertainment licence , under new UK regulations .
+
+53	TRUE	Jane Seymour (actress)::birth_name	joyce penelope wilhelmina frankenberg / Joyce Penelope Wilhelmina Frankenberg	
+<p> <strong> Jane Seymour </strong> , <a> OBE </a> ( born <strong> Joyce Penelope Wilhelmina Frankenberg </strong> ; 15 February 1951 ) is an English actress well-known for her roles as the <a> Bond girl </a> in the 1973 <a> James Bond </a> film <em> <a> Live and Let Die </a> </em> , the 1990s American <a> television series </a> <em> <a> Dr .
+
+#	NEW	occupation	........ / was	// In 1978 , she played <a> Serina </a> , in the <em> <a> Battlestar Galactica </a> </em> motion picture , and then , in the first two episodes of the series that followed , until the character was killed .
+
+#	NEW	birth_name	........ / Cinema of Mexico	// <p> <strong> Mar&#x00ed ; a F&#x00e9 ; lix </strong> ( April 8 , 1914 &#x2013 ; April 8 , 2002 ) was a <a> Mexican </a> <a> film </a> <a> actress </a> , and one of the icons of the <a> golden era </a> of the <a> Cinema of Mexico </a> .
+
+#	NEW	occupation	........ / actress	// <p> <strong> Mar&#x00ed ; a F&#x00e9 ; lix </strong> ( April 8 , 1914 &#x2013 ; April 8 , 2002 ) was a <a> Mexican </a> <a> film </a> <a> actress </a> , and one of the icons of the <a> golden era </a> of the <a> Cinema of Mexico </a> .
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Margaret Mary Emily Anne Hyra </strong> ( born November 19 , 1961 ) , professionally known as <strong> Meg Ryan </strong> , is an American actress and producer .
+
+#	NEW	birth_name	........ / Margaret Mary Emily Anne Hyra	// <p> <strong> Margaret Mary Emily Anne Hyra </strong> ( born November 19 , 1961 ) , professionally known as <strong> Meg Ryan </strong> , is an American actress and producer .
+
+59	FALSE	Meg Ryan::occupation	actress / Globe	
+Subsequently , she began to appear in supporting roles in big screen films during the mid-1980s , achieving recognition in several independent films such as <em> <a> Promised Land </a> </em> ( 1987 ) , before her performance in the <a> Rob Reiner </a> -directed cult comedy <em> <a> When Harry Met Sally . . . </a> </em> ( 1989 ) brought her widespread attention and her first <a> Golden Globe </a> nomination . </p>
+
+#	NEW	birth_date	........ / ( September 22 , 1895 &# 25 ,	// <p> <strong> Paul Muni </strong> ( September 22 , 1895 &#x2013 ; August 25 , 1967 ) was an <a> Austrian-Hungarian </a> -born American stage and film actor .
+
+61	FALSE	Paul Muni::birth_name	meshilem meier weisenfreund / Paul Muni	
+<p> <strong> Paul Muni </strong> ( September 22 , 1895 &#x2013 ; August 25 , 1967 ) was an <a> Austrian-Hungarian </a> -born American stage and film actor .
+
+62	FALSE	Paul Muni::occupation	actor / presented.	
+The film won an <a> Academy Award </a> for <a> Best Original Screenplay </a> - the first year the awards were presented . </p>
+
+#	NEW	birth_date	........ / quot ;	// <p> &quot ; You are the best and the brightest .
+
+64	FALSE	Charlton Heston::birth_name	john charles carter / theatre and television.	
+<p> <strong> Charlton Heston </strong> ( October 4 , 1923 &#x2013 ; April 5 , 2008 ) was an American actor of film , theatre and television . </p>
+
+#	NEW	occupation	........ / Actor	// <p> Heston is known for having played heroic roles , such as <a> Moses </a> in <em> <a> The Ten Commandments </a> </em> , <a> Taylor </a> in <em> <a> Planet of the Apes </a> </em> , twice as <a> Andrew Jackson </a> in <a> The President ' s Lady </a> and <a> The Buccaneer </a> ; the eponymous characters of <a> <em> El Cid </em> </a> and Judah Ben Hur in <em> <a> Ben-Hur </a> </em> , for which he won the <a> Academy Award for Best Actor </a> .
+
+66	FALSE	Milton Berle::birth_name	milton berlinger / son, born	
+In addition to his wife , Berle was survived by a daughter , Victoria , born in 1945 ; son , William , born in 1961 ; and Bob Williams , a son , born in 1951 . </p>
+
+#	NEW	birth_date	........ / May 26 , 2009	// Following his U . S . premiere in San Francsico on May 26 , 2009 , Benigni was feted at a special reception held by the <a> National Italian American Foundation </a> ( NIAF ) in his honor . </p>
+
+68	TRUE	Roberto Benigni::birth_name	roberto remigio benigni / Roberto Remigio Benigni	
+<p> <strong> Roberto Remigio Benigni </strong> , <a> Knight Grand Cross OMRI </a> ( born 27 October 1952 ) is an Italian actor , comedian , screenwriter and <a> director </a> of film , theatre and television . </p>
+
+#	NEW	occupation	........ / Actor	// At the <a> 1999 ceremony </a> Benigni received the award for <a> Best Actor </a> ( the first for a male performer in a non-English-speaking role , and only the third overall acting Oscar for non-English-speaking roles ) , the score by <a> Nicola Piovani </a> won <a> Best Original Dramatic Score </a> , and the film was awarded the Oscar for <a> Best Foreign Language Film </a> , which Benigni accepted as the film ' s director .
+
+#	NEW	birth_date	........ / May	// <p> : <em> May the Lord bless and keep you and may the Lord cause his countenance to shine upon you .
+
+71	TRUE	Leonard Nimoy::birth_name	leonard simon nimoy / Leonard Simon Nimoy	
+<p> <strong> Leonard Simon Nimoy </strong> ( , ; born March 26 , 1931 ) is an American actor , film director , poet , musician , and photographer .
+
+#	NEW	occupation	........ / actor	// He received an <a> Emmy award </a> nomination for best supporting actor for the TV film <em> <a> A Woman Called Golda </a> </em> ( 1982 ) .
+
+#	NEW	birth_date	........ / a>	// <p> <strong> Majel Barrett-Roddenberry </strong> ( born <strong> Majel Leigh Hudec </strong> ; <a> William Shatner </a> corroborated this in <em> Star Trek Memories </em> , and added that female viewers at test screenings hated the character as well .
+
+#	NEW	birth_name	........ / Majel Barrett- Roddenberry	// <p> <strong> Majel Barrett-Roddenberry </strong> ( born <strong> Majel Leigh Hudec </strong> ; <a> William Shatner </a> corroborated this in <em> Star Trek Memories </em> , and added that female viewers at test screenings hated the character as well .
+
+#	NEW	occupation	........ / voice	// She reprised her role as a shipboard computer ' s voice in two episodes of the prequel series <em> <a> Star Trek : Enterprise </a> </em> .
+
+#	NEW	death_place	........ / On January 26 , 2009 , Celestis	// On January 26 , 2009 , Celestis said that it would ship the remains of Gene Roddenberry and Majel Barrett-Roddenberry into space the following year .
+
+#	null	birth_date	21 october 1926 / ..........
+
+#	null	occupation	actor / ..........
+
+#	null	birth_date	april 8, 1914 / ..........
+

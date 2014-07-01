@@ -1,5 +1,0 @@
-<h2>Students' Association</h2>
-<p>Techlife is the institute's official magazine focusing on people, technology and innovation.
-<p>NAIT is organized into eight academic areas:</p>
-<li><a>Canadian Colleges Athletic Association</a></li>
-<li><a>NAIT Students' Association</a></li>

@@ -1,2 +1,0 @@
-<li><a>Patrick Cousot</a>, professor at New York University</li>
-<li><a>&#x00c9;cole des Mines d'Ales</a></li>

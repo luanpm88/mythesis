@@ -1,9 +1,0 @@
-<h2>Research</h2>
-<h3>UWM Research Foundation</h3>
-<p>The UWM Research Foundation supports and commercializes the university's research and innovations.
-<h3>Research Growth Initiative</h3>
-<p>Research Growth Initiative (RGI) is a research administration of the university.
-<h3>North Quad</h3>
-<p>[[Image:Uw-mke-0904-sarup.jpg|250px|thumb|right|The [[University of Wisconsin&#x2013;Milwaukee School of Architecture and Urban Planning]], looking northwest across Maryland Avenue.]]</p>
-<p>Journalism &amp; Mass Communication students run PantherVision, a weekly, award-winning news program distributed via the Higher Education Cable Consortium to approximately 300,000 households in southeastern Wisconsin.</p>
-<p>UWM also is home to the award winning Broadcast-Club, a club that gives students insight to the broadcast field.</p>

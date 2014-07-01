@@ -1,2 +1,0 @@
-<li><a>Atlanta</a>, <a>Georgia</a> Club </li>
-<li>Baltimore, <a>Maryland</a> Club  </li>

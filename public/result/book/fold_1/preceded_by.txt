@@ -1,0 +1,45 @@
+Found: 5
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 13
+recall: 0.0
+
+
+
+#	NEW	preceded_by	........ / night locked into	// <p> An oddly assorted group of people draw cards to see who will spend the night locked into a room said to be haunted by the &quot ; Red Widow&quot ; a legendary figure who was married to a man who guillotined French aristocrats .
+
+#	NEW	preceded_by	........ / anti- homosexual Clause	// Originally written fourteen years ago in a comic form ( as part of an <a> AARGH ! </a> , or Artists Against Rampant Government Homophobia , comic anthology ) as a protest against England ' s anti-homosexual Clause 28 .
+
+#	NEW	preceded_by	........ / Night of Knives	// <p> Many characters and locations which appear in <em> Return of the Crimson Guard </em> also appear in Erikson ' s novels as well as Esslemont ' s <em> Night of Knives </em> . </p>
+
+#	NEW	preceded_by	........ / night .	// The <a> Quebec </a> <a> French language </a> <a> TVA </a> network aired a similar documentary exclusively in French later that night . </p>
+
+#	NEW	preceded_by	........ / the return of stolen art	// The book concludes with chapters about post war activities : resolving problems of ownership , coordinating the return of stolen art , and attempting to collect what was yet missing .
+
+#	null	preceded_by	na / ..........
+
+#	null	preceded_by	mission to the moon / ..........
+
+#	null	preceded_by	101 ways to bug your parents / ..........
+
+#	null	preceded_by	none / ..........
+
+#	null	preceded_by	church hymnal / ..........
+
+#	null	preceded_by	the borrowers afloat / ..........
+
+#	null	preceded_by	mars / ..........
+
+#	null	preceded_by	just for you / ..........
+
+#	null	preceded_by	small is the new big / ..........
+
+#	null	preceded_by	fuzz / ..........
+
+#	null	preceded_by	daddy-long-legs / ..........
+
+#	null	preceded_by	enho_000 / ..........
+
+#	null	preceded_by	warrior of the dawn / ..........
+

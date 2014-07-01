@@ -1,0 +1,70 @@
+Found: 31
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	birthname	........ / Robert Alan Monkhouse	// <p> <strong> Robert Alan Monkhouse </strong> , <a> OBE </a> ( 1 June 1928 &#x2013 ; 29 December 2003 ) </p>
+
+#	NEW	birthname	........ / distinctive voice has become well known	// His distinctive voice has become well known in advertisements and documentaries . </p>
+
+#	NEW	birthname	........ / is now an actress .	// Their daughter <a> Sarah Biasini </a> ( born 21 July 1977 ) is now an actress . </p>
+
+#	NEW	birthname	........ / is an American actor	// <p> <strong> Kevin Michael Costner </strong> ( born January 18 , 1955 ) is an American actor , singer , musician , producer , director , and businessman .
+
+#	NEW	birthname	........ / actor who starred	// <p> <strong> Alexander David Linz </strong> ( born January 3 , 1989 ) is an <a> American </a> actor who starred in several late 1990s and early 2000s films and television programs as a <a> child actor </a> .
+
+#	NEW	birthname	........ / film actor best known for his performances	// <p> <strong> Arthur Kennedy </strong> ( February 17 , 1914 &ndash ; January 5 , 1990 ) was an <a> American </a> stage and film actor best known for his performances in <a> Westerns </a> . </p>
+
+#	NEW	birthname	........ / March 1960 ) is a	// <p> <strong> Chris Barrie </strong> ( born 28 March 1960 ) is a <a> British </a> <a> actor </a> .
+
+#	NEW	birthname	........ / Emma Watson	// <p> Emma Watson was born in Paris to Jacqueline Luesby and Chris Watson , both British lawyers .
+
+#	NEW	birthname	........ / lise & quot ; Cate&quot ; Blanchett	// <p> <strong> Catherine &#x00c9 ; lise &quot ; Cate&quot ; Blanchett </strong> ( born 14 May 1969 ) is an Australian actress and theatre director .
+
+#	NEW	birthname	........ / on British television	// In 1974 , on British television , he played the Senior American Officer , Col Max Dodd in the second series of BBC ' s POW drama <em> <a> Colditz </a> </em> .
+
+#	NEW	birthname	........ / film actor	// <p> <strong> Marcello Vincenzo Domenico Mastroianni </strong> <a> Knight Grand Cross </a> ( 28 September 1924&nbsp ; &#x2013 ; 19 December 1996 ) was an <a> Italian </a> <a> film actor </a> .
+
+#	NEW	birthname	........ / Charles Patrick Ryan O ' Neal	// <p> <strong> Ryan O ' Neal </strong> ( born <strong> Charles Patrick Ryan O ' Neal , Jr . </strong> ; April 20 , 1941 ) is an American actor . </p>
+
+#	NEW	birthname	........ / actress .	// <p> <strong> Joan Greenwood </strong> ( 4 March 1921 &#x2013 ; 27 February 1987 ) was an <a> English </a> actress .
+
+#	NEW	birthname	........ / Bill Owen	// <p> <strong> William John Owen Rowbotham </strong> <a> MBE </a> ( 14 March 1914 &#x2013 ; 12 July 1999 ) , better known as <strong> Bill Owen </strong> , was an English <a> actor </a> and <a> songwriter </a> . </p>
+
+#	NEW	birthname	........ / I Love Lucy	// The show , which co-starred former <a> silent film </a> actor <a> Charles Farrell </a> as her father , was originally a summer replacement for <em> <a> I Love Lucy </a> </em> on CBS , </p>
+
+#	NEW	birthname	........ / renowned for his partnership	// <p> <strong> Michael Latham Powell </strong> ( 30 September 1905 &ndash ; 19 February 1990 ) was an <a> English </a> <a> film director </a> , renowned for his partnership with <a> Emeric Pressburger </a> .
+
+#	NEW	birthname	........ / known primarily for	// <p> <strong> Susan Dey </strong> ( born December 10 , 1952 ) is an <a> American </a> <a> actress </a> , known primarily for her roles in <a> film </a> and <a> television </a> .
+
+#	NEW	birthname	........ / detective series of	// <p> <strong> Chester Morris </strong> ( February 16 , 1901 &ndash ; September 11 , 1970 ) was an American actor , who starred in the <em> <a> Boston Blackie </a> </em> detective series of the 1940s . </p>
+
+#	NEW	birthname	........ / graduating from college	// After graduating from college , Armstrong went on to become a versatile character actor while attending <a> The Actors Studio </a> in New York City . </p>
+
+#	NEW	birthname	........ / well known for his	// <p> Ozu was well known for his drinking .
+
+#	NEW	birthname	........ / an Italian actor	// <p> <strong> Massimo Troisi </strong> ( 19 February 1953 &#x2013 ; 4 June 1994 ) was an Italian actor , <a> film director </a> , and poet .
+
+#	NEW	birthname	........ / is an American	// <p> <strong> Crystal Dawn Scripps McKellar </strong> ( born August 16 , 1976 ) is an American <a> attorney </a> and former <a> child actress </a> . </p>
+
+#	NEW	birthname	........ / Jewison ' s career	// <p> Jewison ' s career as a film director began with the comedy <em> <a> Forty Pounds of Trouble </a> </em> ( 1962 ) , starring Curtis .
+
+#	NEW	birthname	........ / played Drew ' s smart but underachieving best friend	// Stiles played Drew ' s smart but underachieving best friend , <strong> Lewis Kiniski </strong> .
+
+#	NEW	birthname	........ / the most highly regarded of	// Ophuls ' <em> <a> Letter from an Unknown Woman </a> </em> ( 1948 ) , derived from a <a> Stefan Zweig </a> novella is the most highly regarded of the American filmsref name=&quot ; bock&quot ; / .
+
+#	NEW	birthname	........ / in full his themes of individuality versus society	// The play develops in full his themes of individuality versus society and authority as corrupt .
+
+#	NEW	birthname	........ / actress and	// <p> <strong> Ethel Merman </strong> ( January 16 , 1908 &#x2013 ; February 15 , 1984 ) was an <a> American </a> actress and singer .
+
+#	NEW	birthname	........ / Richard Frank Oznowicz	// <p> <strong> Frank Oz </strong> ( born <strong> Richard Frank Oznowicz </strong> ; May 25 , 1944 ) is a British-born American !
+
+#	NEW	birthname	........ / a considerable interest among academic film scholars for Sirk '	// From around 1970 there was a considerable interest among academic film scholars for Sirk ' s work - especially his American melodramas .
+
+#	NEW	birthname	........ / Saturday Night Live	// <p> <strong> Laraine Newman </strong> ( born March 2 , 1952 ) is an <a> American </a> <a> comedienne </a> and <a> actress </a> , and part of the original <em> <a> Saturday Night Live </a> </em> cast . </p>
+
+#	NEW	birthname	........ / was a French	// <p> <strong> Jean Renoir </strong> ( ; 15 September 1894 &ndash ; 12 February 1979 ) was a French <a> film director </a> , screenwriter , actor , producer and author .
+

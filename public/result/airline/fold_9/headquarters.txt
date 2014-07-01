@@ -1,0 +1,36 @@
+Found: 14
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	headquarters	........ / August	// <p> The Bearskin Airlines fleet includes the following aircraft ( as of August 2010 ) : </p>
+
+#	NEW	headquarters	........ / Embraer	// The airline has a fleet 12 aircraft , consisting of <a> Bombardier CRJ-200 </a> s and <a> Embraer 170 </a> s . </p>
+
+#	NEW	headquarters	........ / Association	// The airline is a member of the <a> European Regions Airline Association </a> .
+
+#	NEW	headquarters	........ / ,	// <p> The airline was established and started operations on August 7 , 1968 .
+
+#	NEW	headquarters	........ / ,	// The merged entity eventually became Britain ' s foremost independent , international scheduled airline . </p>
+
+#	NEW	headquarters	........ / ,	// <p> <strong> LAN Airlines S . A . </strong> is an <a> airline </a> based in <a> Santiago , Chile </a> .
+
+#	NEW	headquarters	........ / Singapore	// <p> <strong> SilkAir ( Singapore ) Private Limited </strong> is an <a> airline </a> based in <a> Singapore </a> .
+
+#	NEW	headquarters	........ / Airlines	// <p> In 2004 , the airline absorbed <a> Chelyabinsk Airlines </a> . </p>
+
+#	NEW	headquarters	........ / Yerex	// <p> <strong> British West Indian Airways </strong> was established on 27 November 1940 by New Zealander <a> Lowell Yerex </a> .
+
+#	NEW	headquarters	........ / ,	// <p> <strong> CityJet Limited </strong> is an Irish regional airline headquartered in Swords , <a> County Dublin </a> , <a> Ireland </a> .
+
+#	NEW	headquarters	........ / ATR	// <p> The Air Srpska fleet consisted of two <a> ATR 72 </a> <a> turboprop </a> aircraft . </p>
+
+#	NEW	headquarters	........ / , Ltd .	// <p> The <a> airline </a> was established on October 5 , 1990 , as Japan Air Charter Co . , Ltd .
+
+#	NEW	headquarters	........ / operations	// The airline was established in December 2003 and started operations on 23 July 2004 .
+
+#	NEW	headquarters	........ / Airlines	// At the time , flights between Apia and Tonga were operated exclusively by <a> Polynesian Airlines </a> . </p>
+

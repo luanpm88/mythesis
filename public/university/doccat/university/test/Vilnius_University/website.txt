@@ -1,3 +1,0 @@
-<li><a>Natural Sciences</a></li>
-<li>Environmental Studies Center</li>
-<li>Center of Professional Improvement</li>

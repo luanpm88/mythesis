@@ -1,0 +1,51 @@
+Found: 20
+Found Not Null: 1
+Correct: 1
+Wrong: 0
+Total: 1
+precision: 1.0
+recall: 1.0
+
+
+
+#	NEW	caption	........ / Romy	// <p> <strong> Romy Schneider </strong> ( 23 September 1938 <img> 29 May 1982 ) was a German film actress who was born in Austria and also held French citizenship . </p>
+
+#	NEW	caption	........ / He cast	// He cast Garrido to play the role of the Yankee manager in <em> For Love of the Game </em> .
+
+#	NEW	caption	........ / 1990 )	// <p> <strong> Arthur Kennedy </strong> ( February 17 , 1914 &ndash ; January 5 , 1990 ) was an <a> American </a> stage and film actor best known for his performances in <a> Westerns </a> . </p>
+
+#	NEW	caption	........ / Chris	// <p> <strong> Chris Barrie </strong> ( born 28 March 1960 ) is a <a> British </a> <a> actor </a> .
+
+#	NEW	caption	........ / Emma	// <strong> Emma Charlotte Duerre Watson </strong> ( born 15 April 1990 ) is an <a> English </a> <a> actress </a> and <a> model </a> who rose to prominence playing <a> Hermione Granger </a> , one of three starring roles in the <a> <em> Harry Potter </em> film series </a> .
+
+#	NEW	caption	........ / Volpi	// <p> In 2007 , she won the <a> Volpi Cup </a> Best Actress Award at the Venice Film Festival and the Best Supporting Actress Golden Globe Award for portraying one of six incarnations of <a> Bob Dylan </a> in Todd Haynes ' feature film <em> <a> I ' m Not There </a> </em> and reprised her role as Elizabeth I in the sequel , <strong> <em> ' .
+
+#	NEW	caption	........ / He	// <p> He also had a fairly extensive career in television , appearing in such shows as <a> CBS </a> ' s <a> anthology series </a> , <em> <a> The DuPont Show with June Allyson </a> </em> , and <a> ABC </a> ' s <a> crime drama </a> , <strong> <em> ' . </em> </strong> </p>
+
+#	NEW	caption	........ / Ryan	// <p> <strong> Ryan O ' Neal </strong> ( born <strong> Charles Patrick Ryan O ' Neal , Jr . </strong> ; April 20 , 1941 ) is an American actor . </p>
+
+8	TRUE	Joan Greenwood::caption	joan greenwood / Joan	
+<p> <strong> Joan Greenwood </strong> ( 4 March 1921 &#x2013 ; 27 February 1987 ) was an <a> English </a> actress .
+
+#	NEW	caption	........ / he	// <p> Born in <a> London </a> , he made his first film appearance in 1945 but did not achieve lasting fame until the 1970s , when he took the starring role of Compo Simmonite in the long-running British <a> sitcom </a> , <em> <a> Last of the Summer Wine </a> </em> .
+
+#	NEW	caption	........ / Susan	// <p> <strong> Susan Dey </strong> ( born December 10 , 1952 ) is an <a> American </a> <a> actress </a> , known primarily for her roles in <a> film </a> and <a> television </a> .
+
+#	NEW	caption	........ / While	// <p> While appearing in television films and guest roles on television series over the next 10 years , Griffith also appeared in two feature films , both of which flopped at the box office .
+
+#	NEW	caption	........ / Crystal	// <p> <strong> Crystal Dawn Scripps McKellar </strong> ( born August 16 , 1976 ) is an American <a> attorney </a> and former <a> child actress </a> . </p>
+
+#	NEW	caption	........ / ( born 21	// <p> <strong> Norman Frederick Jewison </strong> , <a> CC </a> , <a> O . Ont </a> ( born 21 July 1926 ) is a <a> Canadian </a> <a> film director </a> , <a> producer </a> , <a> actor </a> and founder of the <a> Canadian Film Centre </a> .
+
+#	NEW	caption	........ / Germany )	// <p> <strong> Max Oph&#x00fc ; ls </strong> ( born <strong> Maximillian Oppenheimer </strong> , 6 May 1902 , <a> Saarbr&#x00fc ; cken </a> , <a> Germany </a> - 26 March 1957 , <a> Hamburg </a> , Germany ) was an influential German-born <a> film director </a> who worked in Germany , the <a> United States </a> and <a> France </a> .
+
+#	NEW	caption	........ / in 1995	// Like <em> A Man for All Seasons </em> , the play had been written for the BBC , and in 1995 was re-written into a children ' s book .
+
+#	NEW	caption	........ / 1984 )	// <p> <strong> Ethel Merman </strong> ( January 16 , 1908 &#x2013 ; February 15 , 1984 ) was an <a> American </a> actress and singer .
+
+#	NEW	caption	........ / has cast	// <p> Landis has cast Oz in small roles in several of his movies .
+
+#	NEW	caption	........ / Douglas	// <p> <strong> Douglas Sirk </strong> ( born <strong> Hans Detlef Sierck </strong> ; April 26 , 1897 &ndash ; January 14 , 1987 ) was a <a> Danish </a> - <a> German </a> <a> film director </a> best known for his work in <a> Hollywood </a> <a> melodrama </a> s in the 1950s . </p>
+
+#	NEW	caption	........ / Laraine	// <p> <strong> Laraine Newman </strong> ( born March 2 , 1952 ) is an <a> American </a> <a> comedienne </a> and <a> actress </a> , and part of the original <em> <a> Saturday Night Live </a> </em> cast . </p>
+

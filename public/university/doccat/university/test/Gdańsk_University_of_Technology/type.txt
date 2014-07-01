@@ -1,4 +1,0 @@
-<li><a>Architecture</a> and <a>Urban planning</a></li>
-<h3><a>Electronics</a>, <a>Telecommunications</a> and <a>Computer Science</a></h3>
-<h3><a>Management</a> and <a>Economics</a></h3>
-<h3>Technical <a>Physics</a> and Applied <a>Mathematics</a></h3>

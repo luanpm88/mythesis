@@ -1,0 +1,103 @@
+Found: 39
+Found Not Null: 13
+Correct: 4
+Wrong: 9
+Total: 14
+precision: 0.3076923076923077
+recall: 0.2857142857142857
+
+
+
+0	FALSE	Brindabella Airlines::fleet_size	18 / 2003	
+In 2000 , Brindabella Airlines added a flight training school to its operations , and in April 2003 , scheduled Regional airline services .
+
+#	NEW	fleet_size	........ / ,	// Because the aircraft was not <a> pressurized </a> , the altitude was chosen to keep the passengers and crew from experiencing the discomfort that flying higher could cause .
+
+#	NEW	fleet_size	........ / 1996 .	// <p> The airline was established in 1996 .
+
+#	NEW	fleet_size	........ / 34	// It operates regularly scheduled cargo charter services to over 34 US airports and nine international airports , as well as worldwide charter freight services .
+
+#	NEW	fleet_size	........ / 1968	// <p> The airline was established in 1968 and started operations as California Air Charter .
+
+#	NEW	fleet_size	........ / 5	// Of the 33 people onboard ( 28 passengers and 5 crew ) , 24 died ( among them the cockpit crew ) , and nine&mdash ; seven passengers and two flight attendants&mdash ; survived . The lead singer of the Eurodance group <a> La Bouche </a> , <a> Melanie Thornton </a> , was one of the dead .
+
+6	FALSE	Air Mikisew::fleet_size	10 / ,	
+At that time , with permission of Transport Canada , the company , which had given up its <a> Air Operator Certificate </a> , had obtained the services of other aircraft to cover the flights .
+
+#	NEW	fleet_size	........ / 27	// It is an all-cargo subsidiary of <a> Air China </a> and operates services to 36 cities in 27 countries around the world .
+
+#	NEW	fleet_size	........ / the	// It operates international cargo charters in the Americas .
+
+9	FALSE	Business Aviation Center::fleet_size	3 / <a>	
+It operates charter and air taxi services in <a> CIS </a> , <a> Europe </a> and <a> Asia </a> .
+
+10	TRUE	BritishJET::fleet_size	1 / 1	
+Services started with a flight between <a> London Gatwick </a> and Malta on 1 May 2005 and then to other UK airports . </p>
+
+#	NEW	fleet_size	........ / aircraft	// It operates regional <a> air charter </a> services in addition to maintenance and <a> aircraft ground handling </a> . </p>
+
+#	NEW	fleet_size	........ / air	// It operates domestic cargo flights , as well as extensive charter and <a> air taxi </a> services .
+
+13	FALSE	Avioquintana::fleet_size	2 / 1997	
+It was established and started operations in 1997 and operates domestic private charter services .
+
+14	FALSE	Aviavilsa::fleet_size	2 / 1999	
+It was established in <a> 1998 </a> and started operations in <a> 1999 </a> and operates scheduled and charter cargo services .
+
+#	NEW	fleet_size	........ / <a>	// It operates scheduled and charter cargo services throughout Russia and the <a> CIS </a> .
+
+16	FALSE	Focus Air Cargo::fleet_size	0 / wet	
+It provided all-cargo services on <a> wet lease </a> s . </p>
+
+#	NEW	fleet_size	........ / 2000	// Established in 2000 , it operates regional scheduled and charter services on behalf of its owner , the <a> Irkut Corporation </a> aircraft repair factory . </p>
+
+18	TRUE	FS Air Service::fleet_size	1 / 1986	
+It was established in 1986 and operates regional passenger and cargo services , as well as cargo charters . </p>
+
+#	NEW	fleet_size	........ / 1983	// <p> The airline was established by Neville Salisbury and started operations in 1983 and was formerly known as Charter Cruise Air </p>
+
+#	NEW	fleet_size	........ / ,	// It held an <a> AOC </a> as commercial operator of scheduled and chartered flights for both passengers and cargo , specializing on operating chartered flights on behalf of other airlines , including aircraft leases .
+
+#	NEW	fleet_size	........ / 2003	// <p> The airline operated a maximum of five aircraft after its 2003 expansion&mdash ; three <a> Boeing 737-200 </a> s and two <a> Fokker F28 </a> s . ref
+
+#	NEW	fleet_size	........ / 11	// Of the 9 crew and 178 passengers , none of the crew and only 11 passengers survived , leaving 176 dead . </p>
+
+23	TRUE	Quantum Air::fleet_size	5 / 717	
+<p> The airline was established in 1999 and started operations on 5 July 2000 from <a> Madrid </a> with domestic services and an initial fleet of three <a> Boeing 717 </a> aircraft .
+
+24	FALSE	Rico Linhas Aéreas::fleet_size	2 / <a>	
+<p> During the 1960s , Mickey started a small charter and air taxi company called Taxi A&#x00e9 ; reo Rond&#x00f4 ; nia , specialized in flying to gold-mining centers of <a> Rond&#x00f4 ; nia </a> and headquarted in <a> Porto Velho </a> .
+
+#	NEW	fleet_size	........ / 2007 ) :	// <p> The Aeron&#x00e1 ; utica fleet includes the following aircraft ( at March 2007 ) : ref name=&quot ; FI&quot ; / </p>
+
+#	NEW	fleet_size	........ / 10	// There were 46 passengers and 10 crew on board . </p>
+
+#	NEW	fleet_size	........ / 1996 .	// <p> The airline was established in September <a> 1995 </a> and started operations in April 1996 .
+
+#	NEW	fleet_size	........ / p>	// <p> The crew members of the incident segment had boarded the aircraft in Kuala Lumpur , while many of the passengers had been aboard since the flight began in London . </p>
+
+29	FALSE	Tasair::fleet_size	12 / air	
+It began as a <a> air charter </a> , maintenance and flying school operation .
+
+30	TRUE	Romavia::fleet_size	3 / 1991	
+<p> The airline was established on 3 April 1991 and started operations later in the same year .
+
+#	NEW	fleet_size	........ / 1999	// In June 1999 , <a> United Parcel Service </a> agreed to buy the assets of Challenge Air Cargo , excluding the company ' s name and air operator ' s certificate .
+
+#	NEW	fleet_size	........ / 2006	// AiRUnion carried 4 . 9 million passengers in 2006 compared to 8 . 75 million for Aeroflot . </p>
+
+#	NEW	fleet_size	........ / 2006	// <p> As of August 2006 the Air Excellence fleet included : </p>
+
+#	NEW	fleet_size	........ / 1999 .	// <p> <strong> Air D ' Ayiti </strong> was a short-lived <a> airline </a> from <a> Haiti </a> , which was operational between 1997 and 1999 .
+
+35	FALSE	Aero Cuahonte::fleet_size	1 / <a>	
+<p> <strong> Aero Cuahonte </strong> was a commuter <a> airline </a> based in <a> Uruapan </a> , <a> Mexico </a> , operating scheduled and chartered passenger flights out of <a> Don Miguel Hidalgo y Costilla International Airport </a> in <a> Guadalajara </a> .
+
+#	NEW	fleet_size	........ / 1994	// In March 1994 it was transformed into a regional scheduled operator , changed its name to <strong> TAVAJ Transportes A&#x00e9 ; reos Regulares / A </strong> , and moved its base to <a> Rio Branco </a> .
+
+#	NEW	fleet_size	........ / 2009	// <p> According to the <a> National Civil Aviation Agency of Brazil </a> ( ANAC ) , between January and December 2009 , Trip had 1 . 50% of the domestic <a> market share </a> in terms of passengers per kilometre flown .
+
+#	NEW	fleet_size	........ / the	// Twenty-five passengers and three crew members died in the crash . </p>
+
+#	null	fleet_size	2 / ..........
+

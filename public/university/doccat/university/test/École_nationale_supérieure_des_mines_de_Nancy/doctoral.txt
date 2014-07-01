@@ -1,6 +1,0 @@
-<li>&quot;D&#x00e9;partement G&#x00e9;nie industriel&quot; (applied mathematics and industrial engineering)</li>
-<li>&quot;D&#x00e9;partement G&#x00e9;oing&#x00e9;nierie&quot; (geological and civil engineering).</li>
-<li>LSG2M : science and engineering of materials and metallurgy</li>
-<li>LSGS : science and engineering of surfaces</li>
-<h2><a>Forum Est-Horizon</a></h2>
-<li><a>&#x00c9;cole des Mines d'Albi-Carmaux</a></li>

@@ -1,0 +1,29 @@
+Found: 9
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 1
+recall: 0.0
+
+
+
+#	NEW	death_date	........ / March 6 , 1965 )	// <p> <strong> Margaret Dumont </strong> ( October 20 , 1882 &ndash ; March 6 , 1965 ) was an <a> American </a> comedic actress .
+
+#	NEW	death_date	........ / December 22 , 1995 )	// <p> <strong> Thelma &quot ; Butterfly&quot ; McQueen </strong> ( January 7 , 1911 &ndash ; December 22 , 1995 ) was an American actress .
+
+#	NEW	death_date	........ / September 7 , 1948 )	// <p> <strong> Susan Blakely </strong> ( born September 7 , 1948 ) is an American film actress who has mainly played supporting roles . </p>
+
+#	NEW	death_date	........ / in over 90	// Paymer has appeared in over 90 films in his career .
+
+#	NEW	death_date	........ / November 12 , 1982 )	// <p> <strong> Anne Jacqueline Hathaway </strong> ( born November 12 , 1982 ) is an American actress .
+
+#	NEW	death_date	........ / September 24 , 2007	// On September 24 , 2007 this bid was denied by Federal District Judge Dale S . Fischer .
+
+#	NEW	death_date	........ / September 14 , 2009 .	// <p> <strong> Patrick Wayne Swayze </strong> ( ; August 18 , 1952&nbsp ; &#x2013 ; September 14 , 2009 ) However , he died from the disease on September 14 , 2009 .
+
+#	NEW	death_date	........ / March 15 , 2001 )	// <p> <strong> Ann Sothern </strong> ( January 22 , 1909 &ndash ; March 15 , 2001 ) was an American <a> film and television actress </a> with a career spanning six decades . </p>
+
+#	NEW	death_date	........ / March 21 , 1987 )	// <p> <strong> Robert Preston </strong> ( June 8 , 1918 &ndash ; March 21 , 1987 ) was an <a> American </a> stage and film actor . </p>
+
+#	null	death_date	1703 / ..........
+

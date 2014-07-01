@@ -1,0 +1,94 @@
+Found: 43
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	key_people	........ / the first	// It was the first domestic and regional Joint Venture Airline in Burma .
+
+#	NEW	key_people	........ / Emu Air	// <p> Emu Airways operated for close to 30 years and was previously owned by Emu Air Charter Pty Ltd .
+
+#	NEW	key_people	........ / Frank Reuneker	// It was owned by Frank Reuneker ( 53% ) and other shareholders ( 47% ) .
+
+#	NEW	key_people	........ / PT Metro	// It is owned by PT Metro Batavia . ref
+
+#	NEW	key_people	........ / November 2000	// It was established in November 2000 and started operations in January 2001 .
+
+#	NEW	key_people	........ / aircraft consists	// <p> Previously owned aircraft consists of : </p>
+
+#	NEW	key_people	........ / The airline	// <p> The airline was founded and started operations in 1990 as <strong> Varna International Airways </strong> using a brand new <a> Tupolev Tu-154M </a> aircraft .
+
+#	NEW	key_people	........ / a scheduled	// <p> <strong> Sosoliso Airlines </strong> was a scheduled , domestic , passenger <a> airline </a> .
+
+#	NEW	key_people	........ / founded as	// It was founded as , and remains , a joint venture between <a> China Eastern Airlines </a> ( 70% ) and <a> China Ocean Shipping </a> ( 30% ) .
+
+#	NEW	key_people	........ / The airline	// <p> The airline was established and started charter operations in 1989 as <em> Air Baffin </em> .
+
+#	NEW	key_people	........ / was supposed	// Yao was supposed to purchase a sixty percent stake in SEAIR , although the deal fell through because of a stolid response from SEAIR management .
+
+#	NEW	key_people	........ / fleet includes :	// <p> As of November 2010 the WDL Aviation fleet includes : </p>
+
+#	NEW	key_people	........ / after this	// Soon after this , the airline was renamed &quot ; ExpoAir&quot ; .
+
+#	NEW	key_people	........ / Australian Capital	// <p> ; <a> Australian Capital Territory </a> </p>
+
+#	NEW	key_people	........ / rebranded as	// It was rebranded as Axis Airways in February 2001 and relocated from Grenoble to Marseille .
+
+#	NEW	key_people	........ / is an	// <p> <strong> Rossair Europe </strong> is an <a> airline </a> based in the <a> Netherlands </a> . </p>
+
+#	NEW	key_people	........ / main base	// Its main base is <a> Zvartnots International Airport </a> , Yerevan . </p>
+
+#	NEW	key_people	........ / February 2010	// <p> As of February 2010 the Cobham fleet consists of the following aircraft : </p>
+
+#	NEW	key_people	........ / has permission	// Since June 1999 it also has permission to provide its own aircraft maintenance .
+
+#	NEW	key_people	........ / The company	// <p> The company still exists , although it does not own an airline , but rather operates as an air ticket sales agent .
+
+#	NEW	key_people	........ / June 2010	// <p> As of June 2010 , Sevenair operates scheduled passenger flights to the following destinations : </p>
+
+#	NEW	key_people	........ / purchased two	// MAS purchased two new <a> Raytheon Beech 1900D Airliner </a> aircraft from <a> Raytheon Credit Corporation </a> ( RCC ) in July and August 1998 respectively .
+
+#	NEW	key_people	........ / Nationwide Airlines	// <p> Nationwide Airlines operates regional flights between South Africa , Zambia and <a> Tanzania </a> . </p>
+
+#	NEW	key_people	........ / an <a>	// <p> <strong> Easy Link Aviation </strong> Services was an <a> airline </a> based in <a> Nigeria </a> . </p>
+
+#	NEW	key_people	........ / wasn ' t	// It wasn ' t in service anymore with the aircraft and the airline . </p>
+
+#	NEW	key_people	........ / The airline	// <p> The airline was rebranded as <a> AVE . com </a> in October 2005 . </p>
+
+#	NEW	key_people	........ / the following	// The Celestair fleet consists of the following aircraft ( as of March 2009 ) : </p>
+
+#	NEW	key_people	........ / in 1984	// It was established in 1984 and operated charter services for South Africa ' s leading tour and conference operators , as well as sports unions .
+
+#	NEW	key_people	........ / <a> Lufthansa	// In February 2007 , all Condor shares were retaken by <a> Lufthansa </a> . </p>
+
+#	NEW	key_people	........ / the following	// <p> Darwin Airline operates the following services ( as of February 2010 ) : </p>
+
+#	NEW	key_people	........ / a 73 .	// <a> Hainan Airlines </a> owns a 73 . 51% stake in Changan Airlines </p>
+
+#	NEW	key_people	........ / was leased	// An <a> IAI WW24 Westwind </a> was leased to operate a Wards Express freight contract with jetCraft pilots between Darwin , Alice Springs and Melbourne halfway through 1992 .
+
+#	NEW	key_people	........ / February 2007	// As of 9 February 2007 this ban has been lifted . </p>
+
+#	NEW	key_people	........ / an <a>	// <p> <strong> Bakhtar Afghan Airlines </strong> was an <a> airline </a> based in <a> Afghanistan </a> .
+
+#	NEW	key_people	........ / CTK Citylink	// <p> CTK Citylink has been in existence for 16 years and is the oldest operating airline in Ghana .
+
+#	NEW	key_people	........ / is an	// <p> <strong> Aero Benin </strong> is an <a> airline </a> based in <a> Benin </a> . </p>
+
+#	NEW	key_people	........ / an <a>	// <p> <strong> Premium Air Shuttle </strong> was an <a> airline </a> based in <a> Nigeria </a> . </p>
+
+#	NEW	key_people	........ / The Faso	// <p> The Faso Airways fleet includes the following aircraft ( at August 2006 ) : </p>
+
+#	NEW	key_people	........ / the total	// The group has more than 60% of the total market share as of January 2008 .
+
+#	NEW	key_people	........ / airline has	// The airline has re-applied for licences . </p>
+
+#	NEW	key_people	........ / in 2000	// It was established in 2000 and started operations in November 2000 .
+
+#	NEW	key_people	........ / an <a>	// <p> <strong> KAS Air Company </strong> was an <a> airline </a> based in <a> Kyrgyzstan </a> . </p>
+
+#	NEW	key_people	........ / Skyport Group	// Airnorth is owned by Skyport Group ( 55% ) , QTEC ( 31% ) and John Gamble ( 14% ) . ref
+

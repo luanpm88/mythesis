@@ -1,0 +1,121 @@
+Found: 40
+Found Not Null: 29
+Correct: 21
+Wrong: 8
+Total: 30
+precision: 0.7241379310344828
+recall: 0.7
+
+
+
+#	NEW	founded	........ / services	// <p> <strong> Aero Slovakia </strong> is an aviation company based in <a> Slovakia </a> offering a range of aviation services , including air taxi operations .
+
+1	TRUE	TESIS Aviation Enterprise::founded	november 1992 / 1992.	
+It was established and started operations in November 1992 .
+
+2	TRUE	Slovak Airlines::founded	1995 / 1998.	
+<p> The airline was established on 24 June 1995 and started operations in May 1998 .
+
+#	NEW	founded	........ / 2001	// In December 2001 it became an independent airline owned by Braganza A / Bramora .
+
+#	NEW	founded	........ / 9	// The flight recorder was found on March 9 and sent to Washington for analysis .
+
+#	NEW	founded	........ / 1016	// <p> <strong> <a> US Airways </a> Flight 1016 </strong> was a regularly scheduled flight between <a> Columbia , South Carolina </a> and <a> Charlotte , North Carolina </a> .
+
+6	FALSE	Air Ukraine::founded	1992 / 2002 ) :	
+<p> The Air Ukraine fleet consisted of the following aircraft ( at December 2002 ) : </p>
+
+7	TRUE	RUTACA Airlines::founded	1974 / 1974.	
+<p> Rutaca was established and began operations in 1974 .
+
+8	FALSE	Civil Aviation Administration of China::founded	1949 / 1973	
+In December 1973 it took the unprecedented step of borrowing &#x00a3 ; 40 million from Western banks to fund the purchase of 15 additional Trident jets . </p>
+
+9	FALSE	LAN Perú::founded	1998 / 2002	
+It became a subsidiary of <a> LAN </a> in September <a> 2002 </a> .
+
+10	FALSE	Flyglobespan::founded	november 2002 / 6. 3	
+<p> As of 16 December 2009 , Flyglobespan ' s average fleet age was 6 . 3 years , prior to ceasing operations . </p>
+
+11	TRUE	Flyjet::founded	2002 / 2003.	
+<p> The Airline was established in 2002 and started operations in June 2003 .
+
+12	TRUE	Titan Airways::founded	1988 / 1 February 1988.	
+<p> The airline started operations on 1 February 1988 .
+
+#	NEW	founded	........ / 1997	// <p> The airline was established on 1 January 1995 and started operations in June 1997 with a series of charter flights carrying pilgrims to Jeddah .
+
+14	TRUE	Teebah Airlines::founded	2004 / 2004	
+<p> The airline was established in 2004 , with the first flight having been operated on behalf of <a> Iraqi Airways </a> , linking <a> Baghdad </a> with <a> Basra </a> .
+
+15	TRUE	QantasLink::founded	2002 / 2002	
+<p> Prior to 2002 , Qantas ' various subsidiaries operated under separate brands .
+
+16	TRUE	PAN Air::founded	1987 / 1988.	
+<p> The airline was established in 1987 and started operations in December 1988 .
+
+17	FALSE	LagunAir::founded	september 29, 2003 / 2005.	
+The company resumed operations on 1 March 2005 . </p>
+
+#	NEW	founded	........ / 1965	// <p> The airline was founded and started operations in 1965 as <strong> Aeropesca Colombia </strong> . </p>
+
+19	TRUE	West Caribbean Airways::founded	1998 / 1998	
+<p> West Caribbean Airways was founded in 1998 by Colombian entrepreneur Hassan Tannir and started operations in 2000 based in <a> San Andr&#x00e9 ; s Island </a> .
+
+20	TRUE	Sky Airline::founded	2001 / 2001.	
+<p> The airline started operations in December 2001 .
+
+21	TRUE	Vostok Aviation Company::founded	15 may 1945 / 1945.	
+<p> Vostok Aviation Company was established and started operations as 264 Squadron of the Far Eastern division of <a> Aeroflot </a> on 15 May 1945 .
+
+#	NEW	founded	........ / 2004	// <p> <a> Bravo Airlines </a> was established in <a> 2004 </a> in <a> Madrid </a> , as a scheduled international and domestic passenger airline , registered in Spain .
+
+#	NEW	founded	........ / 2002	// It was established in 2002 as <strong> Air Max-Gabon </strong> and operated charter and passenger flights in <a> West Africa </a> out of <a> Libreville International Airport </a> .
+
+#	NEW	founded	........ / 2002	// In April 2002 the airline rebranded as Direktflyg following the sale of the turboprop operation to the Largusgruppen company .
+
+25	TRUE	Regional 1::founded	2003 / 2003	
+It was established and started operations in August 2003 and operated scheduled services in western Canada .
+
+#	NEW	founded	........ / 2005	// <p> At January 2005 the airline also operated : </p>
+
+27	FALSE	Motor Sich Airlines::founded	1984 / 2007 ). :	
+It has 193 employees ( at March 2007 ) . : </p>
+
+28	TRUE	Odessa Airlines::founded	1996 / 1996.	
+<p> The airline was established and started operations in 1996 .
+
+29	TRUE	Tavrey Airlines::founded	1995 / 1995	
+It was established and started operations in 1995 and is 100% owned by Ukrainian nationals .
+
+30	TRUE	Ukraine Air Enterprise::founded	1996 / 1996	
+It was established and started operations in 1996 and operates wet-lease flights on behalf of a number of local organisations including the <a> Ukrainian government </a> . </p>
+
+#	NEW	founded	........ / 2008	// <p> Fly Europa ceased operations after <a> European Aviation Air Charter </a> declared bankruptcy on 2 December 2008 , taking with it the aircraft Fly Europa had leased for their charter operations .
+
+32	FALSE	Gulf Traveller::founded	2003 / 2007 )	
+<p> The Gulf Traveller Fleet consists of the following aircraft ( as of March 2007 ) ref name=&quot ; FI&quot ; / : </p>
+
+33	TRUE	Yemenia::founded	4 august 1961 / 1961	
+<p> The airline was established on 4 August 1961 as Yemen Airlines and started operations in <a> 1962 </a> .
+
+34	TRUE	Venezolana::founded	2001 / 2001	
+It was established and started operations in 2001 and operates regional services .
+
+35	TRUE	Línea Turística Aereotuy::founded	1982 / 1982.	
+<p> The airline was established and started operations in 1982 .
+
+36	FALSE	Servivensa::founded	1990 / 2003	
+Its operations were temporarily suspended in May 2003 when parent airline <a> Avensa </a> announced that it was grounding its aircraft due to a drop in demand of air traffic .
+
+37	TRUE	ABSA Cargo Airline::founded	1995 / 1995	
+<p> The airline was established and started operations on 2 June 1995 as Brasil Transair - Transportes Charter Turismo .
+
+38	TRUE	Air Minas Linhas Aéreas::founded	2002 / 2002	
+<p> The airline was established in 2002 by the businessman Cl&#x00e9 ; sio Andrade .
+
+39	TRUE	Gestair::founded	1977 / 1977.	
+<p> The airline was established and started operations in 1977 .
+
+#	null	founded	1998 / ..........
+

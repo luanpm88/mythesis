@@ -1,4 +1,0 @@
-<li>Men's <a>basketball</a>: 1993, 1994, 1997</li>
-<li>Men's <a>soccer</a>: 1997</li>
-<li><a>Tito Ortiz</a>, UFC Fighter</li>
-<li><a>Official website</a></li>

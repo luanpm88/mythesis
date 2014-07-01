@@ -1,0 +1,50 @@
+Found: 21
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	headquarters	........ / the	// <a> Air Traffic Control </a> replied and gave the crew weather , visibility and other information regarding conditions at the airport . </p>
+
+#	NEW	headquarters	........ / Bay	// Its main base was at the <a> Thunder Bay International Airport </a> .
+
+#	NEW	headquarters	........ / Tambo	// Its main base is <a> OR Tambo International Airport </a> , Johannesburg .
+
+#	NEW	headquarters	........ / Gatwick	// Scheduled flights between <a> London Gatwick Airport </a> and <a> Lungi International Airport </a> , Freetown , resumed on 30 November 2004 .
+
+#	NEW	headquarters	........ / Stansted	// <p> In 1967 , Lloyd International shifted its main operating base from Gatwick to <a> Stansted </a> .
+
+#	NEW	headquarters	........ / Hatta	// It operated passenger and cargo charters out of <a> Soekarno-Hatta International Airport </a> , Jakarta . . </p>
+
+#	NEW	headquarters	........ / turboprop	// The seven passengers and three crewmembers aboard the two- <a> turboprop </a> engine <a> Saab 340 </a> aircraft all died on impact .
+
+#	NEW	headquarters	........ / Harbor	// Its main base is <a> Phoenix Sky Harbor International Airport </a> .
+
+#	NEW	headquarters	........ / Tempelhof	// <p> Flight 708 usually landed at <a> Tempelhof Airport </a> .
+
+#	NEW	headquarters	........ / Scotland	// <p> <strong> Loch Lomond Seaplanes </strong> is an <a> airline </a> based in <a> Scotland </a> .
+
+#	NEW	headquarters	........ / Arlanda	// <p> From <a> Stockholm-Arlanda Airport </a> </p>
+
+#	NEW	headquarters	........ / ry	// Its main bases are <a> Chamb&#x00e9 ; ry Airport </a> and <a> Lyon-Bron Airport </a> , <a> Lyon </a> . . </p>
+
+#	NEW	headquarters	........ / flight	// The airline was founded by a group of Danish investors and operated its first flight on 19 September 2006 . </p>
+
+#	NEW	headquarters	........ / Fleet	// <p> <strong> Darwin Aus-based Fleet </strong> </p>
+
+#	NEW	headquarters	........ / S-	// Norrlandsflyg operates twelve <a> Sikorsky S-76 </a> helicopters . </p>
+
+#	NEW	headquarters	........ / Reykjavik	// Its main base was <a> Reykjavik International Airport </a> , Reykjav&#x00ed ; k .
+
+#	NEW	headquarters	........ / Addison	// Its main base is <a> Addison Airport </a> , near <a> Dallas </a> .
+
+#	NEW	headquarters	........ / Maputo	// Its main base is <a> Maputo International Airport </a> . . </p>
+
+#	NEW	headquarters	........ / Tolmachevo	// Its main base is <a> Novosibirsk Tolmachevo Airport </a> . . </p>
+
+#	NEW	headquarters	........ / Dali	// Its main base is <a> Dali Airport </a> . </p>
+
+#	NEW	headquarters	........ / Cessna	// <p> The company operates two <a> Cessna 152 </a> s and two <a> Cessna 172 </a> s </p>
+

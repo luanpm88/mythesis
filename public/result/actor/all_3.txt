@@ -1,0 +1,51 @@
+Total articles: 312
+Articles for test: 281
+Articles for train: 31
+Total attributes: 64
+Attributes with high occurrences: 5/64
+
+------------
+Found: 89
+Found Not Null: 34
+Correct: 15
+Wrong: 19
+Total: 34
+precision: 0.4411764705882353
+recall: 0.4411764705882353
+
+
+
+0	TRUE	Walter Matthau:: occupation	actor / Actor	// For the latter role he won a <a> Golden Globe </a> award for Best Actor in a Musical or Comedy . </p>
+2	FALSE	Walter Matthau:: birth_name	walter john matthow / best known for his role as	// <p> <strong> Walter Matthau </strong> ( October 1 , 1920 &ndash; July 1 , 2000 ) was an <a> American </a> <a> actor </a> best known for his role as <a> Oscar Madison </a> in <em> <a> The Odd Couple </a> </em> and his frequent collaborations with <em> Odd Couple </em> star <a> Jack Lemmon </a> , as well as his role as Coach Buttermaker in the 1976 comedy <em> <a> The Bad News Bears </a> </em> .
+7	FALSE	Meryl Streep:: birth_name	mary louise streep / Mary Louise &quot; Meryl&	// Thank you . --&gt; <strong> Mary Louise &quot;Meryl&quot; Streep </strong> ( born June 22 , 1949 ) is an American actress who has worked in theatre , television and film .
+8	TRUE	Meryl Streep:: occupation	actress / Actress&	// She also received nomination for the [[Golden Globe Award for Best Actress&nbsp;&#x2013; Motion Picture Musical or Comedy]] for this film .
+10	FALSE	Jane Fonda:: birth_name	lady jayne seymour fonda / Through her production company, IPC Films, she produced films that helped return her to star	// <p> Through her production company , IPC Films , she produced films that helped return her to star status .
+13	FALSE	Claude Rains:: birth_name	william claude rains / Claude Rains	// <p> <strong> Claude Rains </strong> ( 10 November 1889&nbsp;&#x2013; 30 May 1967 ) was an <a> English </a> stage and film actor whose career spanned 47 years .
+14	TRUE	Claude Rains:: occupation	actor / Actor	// He was also nominated four times for the <a> Academy Award for Best Supporting Actor </a> , for <em> <a> Mr .
+16	FALSE	Fredric March:: birth_name	ernest frederick mcintyre bickel / was an American	// <p> <strong> Fredric March </strong> ( August 31 , 1897 &ndash; April 14 , 1975 ) was an American <a> stage </a> and film actor .
+17	FALSE	Fredric March:: occupation	actor / Globe	// March later regretted turning down the role and finally played Willy Loman in <a> Columbia Pictures </a> 's <a> 1951 film version of the play </a> , directed by <a> Laslo Benedek </a> , receiving his fifth-and-final <a> Oscar </a> nomination as well as a <a> Golden Globe Award </a> .
+19	FALSE	Ginger Rogers:: birth_name	virginia katherine mcmath / singer who appeared	// <p> <strong> Ginger Rogers </strong> ( July 16 , 1911 &#x2013; April 25 , 1995 ) was an American actress , dancer , and singer who appeared in film , and on stage , radio , and television throughout much of the 20th century . </p>
+29	TRUE	Maureen Lipman:: birth_name	maureen diane lipman / Maureen Diane Lipman	// <p> <strong> Maureen Diane Lipman </strong> <a> CBE </a> ( born 10 May 1946 ) is a <a> British </a> film , <a> theatre </a> and television <a> actress </a> , <a> columnist </a> , and <a> comedienne </a> . </p>
+32	FALSE	Jean Hersholt:: occupation	actor / quot;	// The fund was used to create the Motion Picture Country House and Hospital in <a> Woodland Hills , California </a> , and it led to the creation in 1956 of the <a> Jean Hersholt Humanitarian Award </a> , an honorary Academy Award given to an <em> &quot;individual in the motion picture industry whose humanitarian efforts have brought credit to the industry&quot; </em> . </p>
+34	TRUE	Nicholas Lyndhurst:: birth_name	nicholas simon lyndhurst / Nicholas Simon Lyndhurst	// <p> <strong> Nicholas Simon Lyndhurst </strong> ( born 20 April 1961 ) is an <a> English </a> <a> actor </a> , Lyndhurst is perhaps best known for his roles as <a> Rodney Trotter </a> in <em> <a> Only Fools and Horses </a> </em> , as Freddie 'The Frog' Robdal in <em> <a> Rock &amp; Chips </a> </em> , as <a> Gary Sparrow </a> in <em> <a> Goodnight Sweetheart </a> </em> and as Ashley Philips in <em> <a> The Two of Us </a> </em> .
+37	TRUE	Paul Verhoeven:: birth_name	paul verhoeven / who has made movies	// <p> <strong> Paul Verhoeven </strong> ( ; born July 18 , 1938 ) is a <a> Dutch </a> <a> film director </a> , <a> screenwriter </a> , and <a> film producer </a> who has made movies in both the <a> Netherlands </a> and the <a> United States </a> .
+46	FALSE	Lionel Barrymore:: birth_name	lionel herbert blythe / an American actor of stage, screen and	// <p> <strong> Lionel Barrymore </strong> ( April 28 , 1878 &ndash; November 15 , 1954 ) was an American actor of stage , screen and radio .
+49	TRUE	Boris Karloff:: birth_name	william henry pratt / William Henry Pratt	// <p> <strong> Boris Karloff </strong> ( 23 November 1887 &#x2013; 2 February 1969 ) , whose real name was <strong> William Henry Pratt </strong> , was an <a> English </a> -born actor who emigrated to <a> Canada </a> in 1909 .
+50	FALSE	Boris Karloff:: occupation	actor / of	// He was nominated for a <a> Tony Award </a> for his work opposite <a> Julie Harris </a> in <em> <a> The Lark </a> , </em> by the <a> French </a> playwright <a> Jean Anouilh </a> about <a> Joan of Arc </a> , which was also reprised on <em> <a> Hallmark Hall of Fame </a> </em> . </p>
+52	TRUE	David O. Selznick:: birth_name	david selznick / David O. Selznick	// <p> <strong> David O . Selznick </strong> , born <strong> David Selznick </strong> ( May 10 , 1902 &ndash; June 22 , 1965 ) , was an American <a> film producer </a> .
+55	FALSE	Jennifer Jones:: birth_name	phylis lee isley / had an affair with film producer <a> David O. Selznick	// Jones had an affair with film producer <a> David O . Selznick </a> , which eventually led to her separation from Walker in November 1943 and divorce in June 1945 .
+56	TRUE	Jennifer Jones:: occupation	actress / Actress.	// Her touching performance earned her a Golden Globe nomination for Best Supporting Actress .
+58	TRUE	Morris Chestnut:: birth_name	morris l. chestnut / Morris L. Chestnut	// <p> <strong> Morris L . Chestnut </strong> ( born January 1 , 1969 ) is an American <a> film </a> and <a> television </a> <a> actor </a> .
+59	FALSE	Morris Chestnut:: occupation	actor / Award	// For his performance Chestnut earned an <a> NAACP Image Award </a> nomination .
+61	FALSE	Flora Robson:: birth_name	flora mckenzie robson / She acted late into life	// <p> She acted late into life , latterly for <a> American </a> television films , including a lavish production of <em> <a> A Tale of Two Cities </a> </em> ( in which she played Miss Pross ) .
+64	FALSE	Mike Nichols:: birth_name	michael igorevitch peschkowsky / producer.	// <p> <strong> Mike Nichols </strong> ( born November 6 , 1931 ) is a <a> German </a> -born <a> American </a> television , stage and <a> film director </a> , writer , and producer .
+67	FALSE	Paul Scofield:: birth_name	david paul scofield / also one of only eight actors <a> to win both the Tony and the Oscar for the same role	// <p> He was also one of only eight actors <a> to win both the Tony and the Oscar for the same role on stage and film </a> .
+68	TRUE	Paul Scofield:: occupation	actor / Actor	// He won the <a> Academy Award for Best Actor </a> for <em> A Man for All Seasons </em> and was nominated as <a> Best Supporting Actor </a> for <em> Quiz Show </em> .
+70	TRUE	King Vidor:: birth_name	king wallis vidor / King Wallis Vidor	// <p> <strong> King Wallis Vidor </strong> ( February 8 , 1894 &ndash; November 1 , 1982 ) was an American <a> film director </a> , <a> film producer </a> , and <a> screenwriter </a> whose career spanned nearly seven decades .
+73	TRUE	John Barrymore:: birth_name	john sidney blyth / John Sidney Blyth Barrymore	// <p> <strong> John Sidney Blyth Barrymore </strong> ( February 15 , 1882 &#x2013; May 29 , 1942 ) was an acclaimed American actor .
+74	FALSE	John Barrymore:: occupation	actor / later.	// He first appeared on the London stage 2 years later . </p>
+76	FALSE	Martin Sheen:: occupation	actor / ============================	// <p> &lt; ! --======================== ( ) ============================ </p>
+81	FALSE	Faye Dunaway:: birth_name	dorothy faye dunaway / Dunaway starred in	// In 2009 , Dunaway starred in the film <a> The Bait </a> by Polish film director and producer Dariusz Zawi&#x015b;lak .
+82	TRUE	Faye Dunaway:: occupation	actress / Actress &#	// In 1987 , she was nominated for a <a> Golden Globe Award for Best Actress &#x2013; Motion Picture Drama </a> for her performance in <em> <a> Barfly </a> </em> with <a> Mickey Rourke </a> .
+84	FALSE	Basil Rathbone:: birth_name	philip st. john basil rathbone / rose to prominence	// He rose to prominence in England as a <a> Shakespearean </a> stage actor and went on to appear in over 70 films , primarily costume dramas , <a> swashbucklers </a> , and , occasionally , horror films .
+85	TRUE	Basil Rathbone:: occupation	actor / Actor	// Rathbone earned <a> Academy Award </a> nominations for <a> Best Actor in a Supporting Role </a> for his performances as Tybalt in <em> Romeo and Juliet </em> ( 1936 ) and as King <a> Louis XI </a> in <em> <a> If I Were King </a> </em> ( 1938 ) .

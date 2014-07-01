@@ -1,6 +1,0 @@
-<li>College of Pharmacy (Faculdade de Farm&#x00e1;cia)</li>
-<li>College of Veterinary Medicine (Faculdade de Veterin&#x00e1;ria)</li>
-<h3>Engineering School</h3>
-<h3>Agronomy School</h3>
-<h3>Linguistics School</h3>
-<h3>Architecture School</h3>

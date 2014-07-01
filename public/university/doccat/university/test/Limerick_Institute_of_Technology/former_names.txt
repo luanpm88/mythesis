@@ -1,3 +1,0 @@
-<li>Department of Applied Science</li>
-<li>Department of Information Technology</li>
-<li><a>Official site - Limerick Institute of Technology</a></li>

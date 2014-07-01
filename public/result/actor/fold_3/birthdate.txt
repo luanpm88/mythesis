@@ -1,0 +1,18 @@
+Found: 5
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	birthdate	........ / 2010 ) .	// The couple has two daughters , Charleston ( born 2006 ) and Liberty Grace ( born March 2010 ) . </p>
+
+#	NEW	birthdate	........ / 15 , 1958 )	// <p> <strong> Ren&#x00e9 ; e Jones </strong> ( born October 15 , 1958 ) is an American dramatic actress .
+
+#	NEW	birthdate	........ / 19 , 1972 )	// <p> <strong> Alyssa Jayne Milano </strong> , ( born December 19 , 1972 ) is an American actress and former singer .
+
+#	NEW	birthdate	........ / 22 , 1896 &ndash ; January 21 , 1964 )	// <p> <strong> Joseph Schildkraut </strong> ( March 22 , 1896 &ndash ; January 21 , 1964 ) was an Austrian <a> stage </a> and film actor . </p>
+
+#	NEW	birthdate	........ / 1998 and February 2004	// Pressly posed nude for the March 1998 and February 2004 issues of <em> <a> Playboy </a> </em> .
+

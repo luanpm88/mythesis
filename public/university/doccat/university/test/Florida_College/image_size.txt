@@ -1,7 +1,0 @@
-<p>Terrace Hall is the new residence hall available for the women.
-This supplements the other two women's residence halls, Hinely Hall and historic Sutton Hall.</p>
-<h2>Student life</h2>
-<li>Boswell Hall (houses all male students on campus)</li>
-<li>Terrace Hall</li>
-<li>Sutton Hall (formerly the Temple Terrace Country Club)</li>
-<li>Hinely Hall (built as an additional wing of Sutton Hall)</li>

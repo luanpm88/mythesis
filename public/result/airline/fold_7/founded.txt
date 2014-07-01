@@ -1,0 +1,102 @@
+Found: 34
+Found Not Null: 20
+Correct: 19
+Wrong: 1
+Total: 22
+precision: 0.95
+recall: 0.8636363636363636
+
+
+
+0	TRUE	Air Mandalay::founded	6 october 1994 / 1994	
+<p> The airline was established on 6 October 1994 and started operations on 18 October 1994 with a flight from Yangon to <a> Mandalay </a> .
+
+1	TRUE	Airfast Indonesia::founded	1971 / 1971.	
+<p> The airline was established and started operations in 1971 .
+
+2	TRUE	Batavia Air::founded	2002 / 2002.	
+<p> The airline was established in 2001 and started operations in January 2002 .
+
+3	TRUE	Astral Aviation::founded	2000 / 2001.	
+It was established in November 2000 and started operations in January 2001 .
+
+#	NEW	founded	........ / 2000 .	// <p> The airline was incorporated in Antigua in January 2000 and started operations with the <a> Dash 8 </a> regional turboprop in June 2000 .
+
+5	TRUE	Air VIA::founded	1990 / 1990	
+<p> The airline was founded and started operations in 1990 as <strong> Varna International Airways </strong> using a brand new <a> Tupolev Tu-154M </a> aircraft .
+
+6	TRUE	Sosoliso Airlines::founded	1994 / 2000	
+<p> It was established in <a> 1994 </a> and started operations in July <a> 2000 </a> .
+
+#	NEW	founded	........ / 1998 .	// <p> The airline was established on 30 July 1998 and started operations in October 1998 .
+
+8	TRUE	Air Nunavut::founded	1989 / 1989	
+<p> The airline was established and started charter operations in 1989 as <em> Air Baffin </em> .
+
+#	NEW	founded	........ / 1995	// <p> Zest Airways was established as Asian Spirit in September 1995 by three friends : Antonio &quot ; Toti&quot ; Turalba , Emmanuel &quot ; Noel&quot ; O&#x00f1 ; ate and Archibald Po , who contributed $1 million each to start up the Airline Employees Cooperative ( AEC ) .
+
+10	FALSE	Expo Aviation::founded	1997 / 2003	
+An <a> IL-18 </a> started operations in 2003 and ExpoAir launched Cabin Crew training in 2004 .
+
+11	TRUE	Australian air Express::founded	1992 / 1992.	
+AaE started operations on 1 August 1992 .
+
+#	NEW	founded	........ / 2006	// It started operations in December 2006 and has 73 employees </p>
+
+#	NEW	founded	........ / 2010 ) :	// 328 ] ] ] ] Welcome Air operates the following services ( as of December 2010 ) : </p>
+
+#	NEW	founded	........ / 18	// <p> Air Armenia was established in 2003 and started operations on 18 March 2003ref name=&quot ; FI&quot ; / with a scheduled service to <a> Frankfurt Hahn Airport </a> , which was used as a hub for cargo fro / to other points worldwide . </p>
+
+15	TRUE	Cobham Aviation Services Australia::founded	1989 / 1 July 1990.	
+<p> National Jet Systems ( NJS ) was established in 1989 and started operations on 1 July 1990 .
+
+16	TRUE	Nolinor Aviation::founded	1992 / 1997.	
+<p> The airline was established in 1992 and started operations in 1997 .
+
+17	TRUE	Royal Swazi National Airways::founded	1978 / 1978.	
+Headquartered in <a> Mbabane </a> with its operational base at <a> Matsapha Airport </a> near <a> Manzini </a> , the <a> airline </a> was founded in 1978 . </p>
+
+#	NEW	founded	........ / 2010	// <p> As of June 2010 , Sevenair operates scheduled passenger flights to the following destinations : </p>
+
+19	TRUE	Nationwide Airlines (Zambia)::founded	1991 / 1991	
+The airline was established in 1991 and is a franchise carrier of <a> Nationwide Airlines </a> of <a> South Africa </a> . </p>
+
+#	NEW	founded	........ / 2007	// <p> The Nigerian government set a deadline of April 30 , 2007 for all airlines operating in the country to re-capitalise or be grounded , in an effort to ensure better services and safety .
+
+#	NEW	founded	........ / 1990	// In January 1990 operations and airline had to shut down .
+
+22	TRUE	Phoenix Aviation::founded	1996 / 1996	
+It was established and started operations in 1996 and operated passenger and freight services .
+
+#	NEW	founded	........ / 1984	// It was established in 1984 and operated charter services for South Africa ' s leading tour and conference operators , as well as sports unions .
+
+24	TRUE	SunExpress::founded	1989 / 1990	
+<p> The airline was established in October 1989 and started operations in April 1990 with a charter service between Antalya and <a> Frankfurt </a> , <a> Germany </a> .
+
+25	TRUE	Darwin Airline::founded	2003 / 2004.	
+<p> The airline was established on August 12 , 2003 and operations started on July 28 , 2004 .
+
+26	TRUE	Chang'an Airlines::founded	1992 / 1993.	
+<p> The airline was established on 24 December 1992 and started operations on 1 June 1993 .
+
+#	NEW	founded	........ / 1989	// <p> The airline was established as cargo charter company <strong> Jetcraft Aviation </strong> in 1989 , operating initially in <a> Queensland </a> with two <a> Mitsubishi MU-2Gs </a> and a <a> Fairchild SA226-TC Metro II </a> .
+
+28	TRUE	Air Corridor::founded	2004 / 737	
+<p> The airline was established in 2004 and began operations in August 2004 with a single <a> Boeing 737 </a> .
+
+#	NEW	founded	........ / 2003	// Scheduled domestic flights in Ghana where introduced on 18 September 2003 under the name CiTylinK Airlines . </p>
+
+30	TRUE	Faso Airways::founded	2000 / 2000	
+It was established in 2000 and operates charter flights to <a> Africa </a> , <a> Europe </a> and the <a> Middle East </a> .
+
+#	NEW	founded	........ / 6	// It started operations with two <a> de Havilland Canada DHC-6 Twin Otter </a> s . </p>
+
+#	NEW	founded	........ / 2000 .	// It was established in 2000 and started operations in November 2000 .
+
+33	TRUE	Airnorth::founded	1978 / 4	
+<p> The airline was established in 1978 and started operations on 4 July that year .
+
+#	null	founded	2000 / ..........
+
+#	null	founded	1948 / ..........
+

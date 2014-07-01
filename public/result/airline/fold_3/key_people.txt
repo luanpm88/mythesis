@@ -1,0 +1,96 @@
+Found: 44
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	key_people	........ / few minutes	// A few minutes later , the pilot radioed Tocumen air traffic control again , announcing his intention to return to his original route . </p>
+
+#	NEW	key_people	........ / The airline	// <p> The airline was established and started operations in 1979 .
+
+#	NEW	key_people	........ / January 23	// On January 23 , 2010 , the airline was renamed <strong> Chengdu Airlines </strong> . </p>
+
+#	NEW	key_people	........ / is a	// It is a regional domestic airline serving 16 destinations under the <a> QantasLink </a> banner .
+
+#	NEW	key_people	........ / Tatarstan Airlines	// <p> Tatarstan Airlines operates flights to the following ( as of May 2007 ) : </p>
+
+#	NEW	key_people	........ / March 2007 .	// It had 400 employees as of March 2007 . </p>
+
+#	NEW	key_people	........ / as Flying	// It was formerly known as Flying Dolphin Airlines and Santa Cruz Imperial Airlines .
+
+#	NEW	key_people	........ / The airline	// <p> The airline was established and started operations in 1996 .
+
+#	NEW	key_people	........ / the airline	// In 1997 , the airline was reorganized towards offering commercial charter flights .
+
+#	NEW	key_people	........ / the end	// In the end , this enabled Jet Air to begin its own operation as a stand-alone airline .
+
+#	NEW	key_people	........ / the following	// <p> As of November 2010 West Wind Aviation had the following aircraft registered with <a> Transport Canada </a> . .
+
+#	NEW	key_people	........ / The airline	// <p> The airline was established in 1991 .
+
+#	NEW	key_people	........ / The NTSB	// <p> The NTSB found that the Flight Data Recorder on board the aircraft had become inoperative approximately 14 minutes before the crash .
+
+#	NEW	key_people	........ / JetBlue did	// <p> JetBlue did not operate from LAX at the time , so they had no company officials or maintenance personnel based at that airport .
+
+#	NEW	key_people	........ / they heard	// Moments later , they heard a &quot ; bang&quot ; and then a rumbling noise .
+
+#	NEW	key_people	........ / in 1948	// <p> The airline was established in 1948 and started operations on 24 December 1948 .
+
+#	NEW	key_people	........ / Barcelona International	// Its base was <a> Barcelona International Airport </a> . </p>
+
+#	NEW	key_people	........ / the firm	// This established the firm as the largest scheduled domestic airline in <a> Europe </a> . </p>
+
+#	NEW	key_people	........ / Inter Island	// / br / Inter Island Airways is privately owned . br
+
+#	NEW	key_people	........ / who combed	// <p> Investigators who combed through the debris were confronted with unusual evidence : The toilet and baggage compartment had been smashed into fragments .
+
+#	NEW	key_people	........ / War II	// World War II began less than two years later . </p>
+
+#	NEW	key_people	........ / in 1991	// Founded in 1991 , it operated regional and international charter flights out of <a> Riga International Airport </a> between 1995 and 2005 . </p>
+
+#	NEW	key_people	........ / Authority ( NCAA ) &#	// The airline satisfied the Nigerian Civil Aviation Authority ( NCAA ) &#x2019 ; s criteria in terms of re-capitalization and was re-registered for operation . </p>
+
+#	NEW	key_people	........ / March 2002	// <p> The airline was established in March 2002 and started operations on 2 December 2002 .
+
+#	NEW	key_people	........ / in 1969	// It was founded in 1969 , but later shut down in 1986 . </p>
+
+#	NEW	key_people	........ / in 1996	// <p> The airline was established in 1996 and started operations in June 1996 .
+
+#	NEW	key_people	........ / helicopters includes	// The fleet of helicopters includes a <a> Sikorsky S-76 </a> C and an <a> Agusta A109 </a> Power ' Elite ' .
+
+#	NEW	key_people	........ / August 2010	// <p> As of August 2010 the GENSA fleet includes </p>
+
+#	NEW	key_people	........ / airline suspended	// The airline suspended services in March 2006 .
+
+#	NEW	key_people	........ / on 9	// <p> The airline was established on 9 February 2000 and started operations on 2 November 2000 .
+
+#	NEW	key_people	........ / in 2003	// <p> The airline was established in 2003 and started operations in January 2004 .
+
+#	NEW	key_people	........ / Yute Air	// It was later renamed <strong> Yute Air Alaska </strong> .
+
+#	NEW	key_people	........ / was established	// It was established and started operations in 1985 and operates scheduled and on-demand air cargo services .
+
+#	NEW	key_people	........ / The airline	// <p> The airline was established and started operations in 2003 . </p>
+
+#	NEW	key_people	........ / the largest	// China Airlines ' became the largest foreign shareholder with a 25% stake . </p>
+
+#	NEW	key_people	........ / April 2010	// <p> As of April 2010 Voyageur Airways had the following aircraft registered with <a> Transport Canada </a> ref name=&quot ; TCFleet&quot ; / : </p>
+
+#	NEW	key_people	........ / in December	// <p> The airline was established in December <a> 1993 </a> .
+
+#	NEW	key_people	........ / The Guinea	// <p> The Guinea Ecuatorial Airlines fleet includes the following aircraft ( at February 2008 ) : </p>
+
+#	NEW	key_people	........ / on 6	// <p> The airline was established on 6 October 1994 and started operations in July 1995 .
+
+#	NEW	key_people	........ / March 1991	// It started operations in March 1991 and undertakes all types of cargo operations , as well as maintenance work for third parties .
+
+#	NEW	key_people	........ / quot ; CNN&	// name=&quot ; CNN&quot ; / Initial reports erroneously indicated 15 people had survived . ref
+
+#	NEW	key_people	........ / At that	// <p> At that time , the flight had already taken 30 minutes longer than scheduled , and the passengers were getting anxious .
+
+#	NEW	key_people	........ / designated air-	// A designated air-zone has been established in <a> Port Klang </a> to facilitate this .
+
+#	NEW	key_people	........ / TUI Airlines	// Formerly known as <strong> TUI Airlines Belgium </strong> , it adopted its new name in November 2005 .
+

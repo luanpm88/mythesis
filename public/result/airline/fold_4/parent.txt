@@ -1,0 +1,96 @@
+Found: 44
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	parent	........ / Brindabella Airlines	// <p> <strong> Brindabella Airlines Pty Ltd </strong> is a regional <a> airline </a> based in <a> Canberra </a> , <a> Australia </a> .
+
+#	NEW	parent	........ / carbon monoxide	// <p> Possible incapacitation of crew by <a> carbon monoxide </a> emanating from a faulty cabin heater was speculated upon based on recovery crew observations that crew bodies appeared ' discolored . '
+
+#	NEW	parent	........ / CJSC	// <p> <strong> CJSC , Aviaprad </strong> ( ) was an <a> airline </a> based in <a> Yekaterinburg </a> , <a> Russia </a> .
+
+#	NEW	parent	........ / ASTAR Air	// <p> <strong> ASTAR Air Cargo </strong> is an <a> American </a> <a> cargo airline </a> based in <a> Miami </a> , <a> Florida </a> , <a> USA </a> .
+
+#	NEW	parent	........ / ATI Systems International	// It merged in 1971 with United Couriers ( UCI ) , a wholly owned subsidiary of ATI Systems International ( ATIS ) .
+
+#	NEW	parent	........ / thirty- three	// Twenty-four of the thirty-three people on board were killed . </p>
+
+#	NEW	parent	........ / s appeal	// Calloway ' s appeal was successful in having his conviction for interference with flight crew members ruled as a lesser included offense of attempted air piracy .
+
+#	NEW	parent	........ / airline was	// <p> The airline was established and started operations in 1961 as Contact Air and became wholly owned by the Mikisew Cree First Nation in 1995 .
+
+#	NEW	parent	........ / impression that	// The flight crew were under the impression that all four engines had flamed out , but the <a> National Transportation Safety Board </a> believes only engine No . 4 had failed .
+
+#	NEW	parent	........ / Air China	// <p> <strong> Air China Cargo Co . , Ltd . </strong> is a <a> cargo airline </a> based in <a> Beijing </a> , <a> China </a> .
+
+#	NEW	parent	........ / BETA Cargo	// <p> <strong> BETA Cargo </strong> ( Brazilian Express Transportes A&#x00e9 ; reos ) is a <a> cargo airline </a> based in <a> Brazil </a> .
+
+#	NEW	parent	........ / Boryspil International	// Its main bases are <a> Boryspil International Airport </a> and <a> Zhulhany Airport </a> ( IEV ) , both in Kiev . </p>
+
+#	NEW	parent	........ / tour operator	// <p> <strong> BritishJET </strong> was a trading name for the tour operator <em> Malta Bargains Limited </em> based in <a> Malta </a> .
+
+#	NEW	parent	........ / general aviation	// <p> <strong> Blue Bird Aviation </strong> is a <a> general aviation </a> company based in <a> Khartoum </a> , <a> Sudan </a> .
+
+#	NEW	parent	........ / Bemidji Regional	// Its main base is <a> Bemidji Regional Airport </a> , with a hub at <a> Minneapolis-Saint Paul International Airport </a> . </p>
+
+#	NEW	parent	........ / n International	// Its main base is <a> Canc&#x00fa ; n International Airport </a> , with a hub at <a> Chetumal International Airport </a> . </p>
+
+#	NEW	parent	........ / cargo airline	// <p> <strong> Aviavilsa </strong> is a <a> cargo airline </a> based in <a> Vilnius </a> , <a> Lithuania </a> .
+
+#	NEW	parent	........ / cargo airline	// <p> <strong> Aviast Air Ltd . </strong> ( ) is a <a> cargo airline </a> based in <a> Moscow </a> , <a> Russia </a> .
+
+#	NEW	parent	........ / cargo airline	// <p> <strong> Focus Air Cargo </strong> was a <a> cargo airline </a> based in <a> Fort Lauderdale </a> , <a> Florida </a> , <a> USA </a> .
+
+#	NEW	parent	........ / Angara Airlines	// <p> <a> JSC </a> <strong> Angara Airlines </strong> ( ) is an <a> airline </a> based in <a> Irkutsk </a> , <a> Russia </a> .
+
+#	NEW	parent	........ / Alberta Citylink	// <p> <strong> Alberta Citylink </strong> is an <a> airline </a> based in <a> Medicine Hat </a> , <a> Alberta </a> , <a> Canada </a> .
+
+#	NEW	parent	........ / was established	// It was established in 1986 and operates regional passenger and cargo services , as well as cargo charters . </p>
+
+#	NEW	parent	........ / Aircruising Australia	// <p> <strong> Aircruising Australia Limited </strong> ( ) is an <a> airline </a> based in <a> Sydney </a> , <a> Australia </a> .
+
+#	NEW	parent	........ / operated scheduled	// It operated scheduled , charter passenger and cargo services , as well as supplying aviation fuel , ground services and aircraft maintenance and repair .
+
+#	NEW	parent	........ / cargo airline	// <p> <strong> Air Freight NZ </strong> is a <a> cargo airline </a> based in <a> Auckland </a> , <a> New Zealand </a> .
+
+#	NEW	parent	........ / American Falcon	// <p> <strong> American Falcon </strong> was an <a> Argentinian </a> <a> airline </a> based in <a> Buenos Aires </a> .
+
+#	NEW	parent	........ / crew and	// Of the 9 crew and 178 passengers , none of the crew and only 11 passengers survived , leaving 176 dead . </p>
+
+#	NEW	parent	........ / Son Sant	// Its main base was moved from <a> Son Sant Joan Airport </a> , Palma de Mallorca to <a> Madrid Barajas Airport </a> . </p>
+
+#	NEW	parent	........ / region using	// The operations consisted of transportation of cargo to gold-mining locations of the region using small aircraft .
+
+#	NEW	parent	........ / airline was	// <p> The airline was established in 2001 and is wholly owned by GVA-Investimentos , SARL . </p>
+
+#	NEW	parent	........ / KLM	// <p> <strong> <a> KLM </a> Flight 633 </strong> was a passenger flight from <a> Amsterdam </a> to <a> New York City </a> .
+
+#	NEW	parent	........ / International Airlines	// <p> <strong> Capital Cargo International Airlines , Inc . </strong> is a <a> cargo airline </a> based in <a> Orlando </a> , <a> Florida </a> , <a> USA </a> .
+
+#	NEW	parent	........ / Galunggung Gliding	// Following the incident , the crew and passengers formed the Galunggung Gliding Club as a means to keep in contact . </p>
+
+#	NEW	parent	........ / airline	// <p> <strong> Tasair </strong> is an <a> airline </a> based in <a> Hobart </a> and <a> Devonport </a> , <a> Australia </a> .
+
+#	NEW	parent	........ / ( Romanian Aviation Company )	// <p> <strong> Romavia </strong> ( Romanian Aviation Company ) was an <a> airline </a> based in <a> Bucharest </a> , <a> Romania </a> .
+
+#	NEW	parent	........ / Silvio Pettirossi International	// Its flights operate from <a> Silvio Pettirossi International Airport </a> in Asunci&#x00f3 ; n . </p>
+
+#	NEW	parent	........ / main base	// Its main base is Miami International Airport . </p>
+
+#	NEW	parent	........ / Russia	// <p> <strong> AiRUnion </strong> was a <a> Russia </a> n airline alliance .
+
+#	NEW	parent	........ / Air Excellence	// <p> <strong> Air Excellence </strong> was an <a> airline </a> based in <a> Libreville </a> , <a> Gabon </a> .
+
+#	NEW	parent	........ / Air D '	// <p> <strong> Air D ' Ayiti </strong> was a short-lived <a> airline </a> from <a> Haiti </a> , which was operational between 1997 and 1999 .
+
+#	NEW	parent	........ / airline was	// The airline was established and started operations in 1957 , founded by <a> Enrique Cuahonte </a> and <a> Marta Amezcua </a> . . </p>
+
+#	NEW	parent	........ / TAVAJ Linhas A&#	// <p> <strong> TAVAJ Linhas A&#x00e9 ; reas </strong> was a <a> Brazilian </a> airline founded in 1994 and based in <a> Manaus </a> , <a> Brazil </a> .
+
+#	NEW	parent	........ / Caprioli Group	// <p> The airline was established in 1998 with two <a> Embraer EMB 120 Brasilia </a> s and was wholly owned by the Caprioli Group until November 2006 , when &#x00c1 ; guia Branca Group ( Chieppe family ) bought 49% of its capital . </p>
+
+#	NEW	parent	........ / Continental Airlines	// <p> <strong> Continental Airlines Flight 1713 </strong> crashed while taking off in a snowstorm from <a> Stapleton International Airport </a> in <a> Denver , Colorado </a> on .
+

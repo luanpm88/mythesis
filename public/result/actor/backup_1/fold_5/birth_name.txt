@@ -1,0 +1,91 @@
+Found: 31
+Found Not Null: 19
+Correct: 12
+Wrong: 7
+Total: 19
+precision: 0.631578947368421
+recall: 0.631578947368421
+
+
+
+0	TRUE	Ub Iwerks::birth_name	ubbe ert iwwerks / Ubbe Ert Iwwerks	
+He was born <strong> Ubbe Ert Iwwerks </strong> in <a> Kansas City , Missouri </a> . </p>
+
+1	FALSE	Mel Blanc::birth_name	melvin jerome blank / an American <a> voice actor	
+<p> <strong> Mel Blanc </strong> ( May 30 , 1908 &ndash ; July 10 , 1989 ) was an American <a> voice actor </a> and <a> comedian </a> .
+
+2	TRUE	Luchino Visconti::birth_name	luchino visconti di modrone / Luchino Visconti di Modrone	
+<p> <strong> Luchino Visconti di Modrone </strong> , Count of Lonate Pozzolo ( 2 November 1906 - 17 March 1976 ) was an <a> Italian </a> theatre , opera and cinema director , as well as a screenwriter .
+
+3	TRUE	Janet Gaynor::birth_name	laura augusta gainor / Laura Augusta Gainor	
+<p> Born <strong> Laura Augusta Gainor </strong> in <a> Philadelphia , Pennsylvania </a> , her family moved west to <a> San Francisco </a> during her childhood .
+
+4	TRUE	Leonardo DiCaprio::birth_name	leonardo wilhelm dicaprio / is an American actor	
+<p> <strong> Leonardo Wilhelm DiCaprio </strong> ( ; born November 11 , 1974 ) is an American actor and <a> film producer </a> .
+
+#	NEW	birth_name	........ / also initiated a longstanding creative relationship with American director James Slowiak and discovered the individual to whom he would ultimately pass responsibility for his life-long research	// He also initiated a longstanding creative relationship with American director James Slowiak and discovered the individual to whom he would ultimately pass responsibility for his life-long research , Thomas Richards , son of legendary African-American director <a> Lloyd Richards </a> . </p>
+
+6	TRUE	Kate Winslet::birth_name	kate elizabeth winslet / Kate Elizabeth Winslet	
+<p> <strong> Kate Elizabeth Winslet </strong> ( born 5 October 1975 ) is an English actress and occasional singer .
+
+7	TRUE	Sacha Baron Cohen::birth_name	sacha noam baron cohen / Sacha Noam Baron Cohen	
+<p> <strong> Sacha Noam Baron Cohen </strong> ( born 13 October 1971 ) is a British <a> comedian </a> , actor , and writer .
+
+#	NEW	birth_name	........ / had been taught English by Barthelmess '	// Russian actress <a> Alla Nazimova </a> , a friend of the family , had been taught English by Barthelmess ' s mother .
+
+9	TRUE	Goldie Hawn::birth_name	goldie jeanne hawn / occasional singer.	
+<p> <strong> Goldie Jeanne Hawn </strong> ( born November 21 , 1945 ) is an American actress , <a> film director </a> , <a> producer </a> , and occasional singer .
+
+10	FALSE	Leonard Rossiter::birth_name	leonard rossiter / Elizabeth ( n&#x00e9 ; e Howell )	
+<p> Rossiter was born in <a> Liverpool </a> , the son of Elizabeth ( n&#x00e9 ; e Howell ) and John Rossiter .
+
+#	NEW	birth_name	........ / is a Dutch- based	// <p> <strong> Laurette Marcia &quot ; Laura&quot ; Gemser </strong> ( born October 5 , 1950 , <a> Java </a> , <a> Indonesia </a> ) is a Dutch-based <a> actress </a> of <a> Indo </a> descent .
+
+12	TRUE	Victor McLaglen::birth_name	victor andrew de bier everleigh mclaglen / Victor Andrew de Bier Everleigh McLaglen	
+<p> <strong> Victor Andrew de Bier Everleigh McLaglen </strong> ( 10 December 1886 &#x2013 ; 7 November 1959 ) was an <a> English </a> <a> boxer </a> and <a> World War I </a> veteran who became a leading <a> American </a> <a> film actor </a> . </p>
+
+13	FALSE	Spencer Tracy::birth_name	spencer bonaventure tracy / a Protestant turned	
+<p> Tracy was born in <a> Milwaukee </a> , <a> Wisconsin </a> , the second son of John Edward Tracy , an <a> Irish American </a> <a> Catholic </a> truck salesman , and Caroline Brown , a Protestant turned <a> Christian Scientist </a> .
+
+#	NEW	birth_name	........ / was an American	// <p> <strong> Robert Urich </strong> ( December 19 , 1946 &ndash ; April 16 , 2002 ) was an American actor .
+
+#	NEW	birth_name	........ / Milo&# x0161 ; Forman	// <p> <strong> Jan Tom&#x00e1 ; &#x0161 ; Forman </strong> ( ; born <a> February 18 </a> , <a> 1932 </a> ) , better known as <strong> Milo&#x0161 ; Forman </strong> ( ) , is a <a> Czech-American </a> <a> director </a> , <a> screenwriter </a> , <a> actor </a> , <a> professor </a> and an emigrant from <a> Czechoslovakia </a> .
+
+#	NEW	birth_name	........ / William Henry Hartnell	// <p> <strong> William Henry Hartnell </strong> ( 8 January 1908 &ndash ; 23 April 1975 ) was an <a> English </a> <a> actor </a> .
+
+#	NEW	birth_name	........ / John Devon Roland &	// <p> <strong> John Devon Roland &quot ; Jon&quot ; Pertwee </strong> ( 7 July 1919 &#x2013 ; 20 May 1996 ) , was an <a> English </a> <a> actor </a> .
+
+18	TRUE	Patrick Troughton::birth_name	patrick george troughton / Patrick George Troughton	
+<p> <strong> Patrick George Troughton </strong> / tra&#x028a ; t&#x0259 ; / ( 25 March 1920 &#x2013 ; 28 March 1987 ) was an <a> English </a> <a> actor </a> most widely known in his role as the <a> second </a> incarnation of <a> the Doctor </a> in the long running <a> British </a> <a> science-fiction television </a> series <em> <a> Doctor Who </a> </em> , which he played from 1966 to 1969 . </p>
+
+19	FALSE	Richard Burton::birth_name	richard walter jenkins / November 1925 &#x2013 ; 5 August	
+<p> <strong> Richard Burton </strong> , <a> CBE </a> ( 10 November 1925 &#x2013 ; 5 August 1984 ) was a <a> Welsh </a> actor .
+
+#	NEW	birth_name	........ / the popular British comedy group	// <p> <strong> Eric Idle </strong> ( born 29 March 1943 ) is an <a> English </a> <a> comedian </a> , <a> actor </a> , <a> author </a> , <a> singer </a> , <a> writer </a> , and comedic <a> composer </a> who wrote and performed as a member of the popular British comedy group <a> Monty Python </a> . </p>
+
+#	NEW	birth_name	........ / John Howard Carpenter	// <p> <strong> John Howard Carpenter </strong> ( born January 16 , 1948 ) is an <a> American </a> <a> film director </a> , <a> screenwriter </a> , <a> producer </a> , <a> editor </a> , <a> composer </a> , and occasional <a> actor </a> .
+
+22	TRUE	Jane Seymour (actress)::birth_name	joyce penelope wilhelmina frankenberg / Joyce Penelope Wilhelmina Frankenberg	
+<p> <strong> Jane Seymour </strong> , <a> OBE </a> ( born <strong> Joyce Penelope Wilhelmina Frankenberg </strong> ; 15 February 1951 ) is an English actress well-known for her roles as the <a> Bond girl </a> in the 1973 <a> James Bond </a> film <em> <a> Live and Let Die </a> </em> , the 1990s American <a> television series </a> <em> <a> Dr .
+
+#	NEW	birth_name	........ / Cinema of Mexico	// <p> <strong> Mar&#x00ed ; a F&#x00e9 ; lix </strong> ( April 8 , 1914 &#x2013 ; April 8 , 2002 ) was a <a> Mexican </a> <a> film </a> <a> actress </a> , and one of the icons of the <a> golden era </a> of the <a> Cinema of Mexico </a> .
+
+#	NEW	birth_name	........ / Margaret Mary Emily Anne Hyra	// <p> <strong> Margaret Mary Emily Anne Hyra </strong> ( born November 19 , 1961 ) , professionally known as <strong> Meg Ryan </strong> , is an American actress and producer .
+
+25	FALSE	Paul Muni::birth_name	meshilem meier weisenfreund / Paul Muni	
+<p> <strong> Paul Muni </strong> ( September 22 , 1895 &#x2013 ; August 25 , 1967 ) was an <a> Austrian-Hungarian </a> -born American stage and film actor .
+
+26	FALSE	Charlton Heston::birth_name	john charles carter / theatre and television.	
+<p> <strong> Charlton Heston </strong> ( October 4 , 1923 &#x2013 ; April 5 , 2008 ) was an American actor of film , theatre and television . </p>
+
+27	FALSE	Milton Berle::birth_name	milton berlinger / son, born	
+In addition to his wife , Berle was survived by a daughter , Victoria , born in 1945 ; son , William , born in 1961 ; and Bob Williams , a son , born in 1951 . </p>
+
+28	TRUE	Roberto Benigni::birth_name	roberto remigio benigni / Roberto Remigio Benigni	
+<p> <strong> Roberto Remigio Benigni </strong> , <a> Knight Grand Cross OMRI </a> ( born 27 October 1952 ) is an Italian actor , comedian , screenwriter and <a> director </a> of film , theatre and television . </p>
+
+29	TRUE	Leonard Nimoy::birth_name	leonard simon nimoy / Leonard Simon Nimoy	
+<p> <strong> Leonard Simon Nimoy </strong> ( , ; born March 26 , 1931 ) is an American actor , film director , poet , musician , and photographer .
+
+#	NEW	birth_name	........ / Majel Barrett- Roddenberry	// <p> <strong> Majel Barrett-Roddenberry </strong> ( born <strong> Majel Leigh Hudec </strong> ; <a> William Shatner </a> corroborated this in <em> Star Trek Memories </em> , and added that female viewers at test screenings hated the character as well .
+

@@ -1,8 +1,0 @@
-<li>Department of Political Science</li>
-<li>Department of Social Science Education</li>
-<li>Department of Physical Education</li>
-<li>Department of Polymer and Material Science</li>
-<li>Department of Environmental Science</li>
-<li>Department of Atmospheric Science</li>
-<li>Department of Earth Science</li>
-<li>Department of Computer Science</li>

@@ -1,0 +1,68 @@
+Found: 30
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	birthname	........ / also nominated for a Golden Globe Award for &quot ; Best TV	// Crenna was also nominated for a Golden Globe Award for &quot ; Best TV Star - Male&quot ; in 1965 , for this same role .
+
+#	NEW	birthname	........ / was an American	// <p> <strong> Louise Dresser </strong> ( October 5 , 1878 &ndash ; April 24 , 1965 ) was an American actress .
+
+#	NEW	birthname	........ / Corinne Mae Griffith	// <p> <strong> Corinne Mae Griffith </strong> ( November 21 , 1894 &ndash ; July 13 , 1979 ) was an <a> American </a> actress .
+
+#	NEW	birthname	........ / Christopher McQuarrie	// <p> <strong> Christopher McQuarrie </strong> ( born 1968 ) is an <a> American </a> screenwriter , producer and director .
+
+#	NEW	birthname	........ / Malkovich was born	// <p> Malkovich was born in <a> Christopher , Illinois </a> .
+
+#	NEW	birthname	........ / Charles Braun Ludlam	// <p> <strong> Charles Braun Ludlam </strong> ( April 12 , 1943 &#x2013 ; May 28 , 1987 ) was an <a> American </a> actor , director , and playwright . </p>
+
+#	NEW	birthname	........ / Wise suffered two heart attacks within a week while on holiday	// Earlier that month , Wise suffered two heart attacks within a week while on holiday , and had to undergo a triple <a> heart bypass </a> in <a> Fort Lauderdale </a> , Florida , on 22 January 1999 .
+
+#	NEW	birthname	........ / Lana Jean Clarkson	// <p> <strong> Lana Jean Clarkson </strong> ( April 5 , 1962 - February 3 , 2003 ) was an <a> American </a> actress and fashion model .
+
+#	NEW	birthname	........ / Christian Rudolph Ebsen	// <p> He was born <strong> Christian Rudolph Ebsen , Jr . </strong> in <a> Belleville , Illinois </a> .
+
+#	NEW	birthname	........ / and raised in	// <p> Denver was born in <a> New Rochelle , New York </a> , and raised in <a> Brownwood </a> in central Texas .
+
+#	NEW	birthname	........ / was an American	// <p> <strong> Loretta Young </strong> ( January 6 , 1913 &ndash ; August 12 , 2000 ) was an American actress .
+
+#	NEW	birthname	........ / quit after a year	// He quit after a year and moved to <a> Los Angeles , California </a> with his mother . </p>
+
+#	NEW	birthname	........ / is an American actress	// <p> <strong> Debra Monk </strong> ( born February 27 , 1949 ) is an American actress , singer , and writer . </p>
+
+#	NEW	birthname	........ / was an American	// <p> <strong> James Goldman </strong> ( June 30 , 1927 &#x2013 ; October 28 , 1998 ) was an American <a> screenwriter </a> and playwright , and the brother of screenwriter and novelist <a> William Goldman </a> . </p>
+
+#	NEW	birthname	........ / is also an author .	// Barris , a survivor of <a> lung cancer </a> , is also an author . </p>
+
+#	NEW	birthname	........ / n film and	// <p> <strong> Hugo Wallace Weaving </strong> ( born 4 April 1960 ) is a Nigerian-born <a> British </a> - <a> Australia </a> n film and stage actor .
+
+#	NEW	birthname	........ / Slezak is married	// <p> Slezak is married to Brian Davies , and is the mother of two children , Michael ( born 1980 ) and <strong> Amanda Davies </strong> ( born 1981 ) . ref
+
+#	NEW	birthname	........ / Vivian made friends at	// <p> Dorothy and Vivian made friends at the dancing school with a girl named Etta Jones .
+
+#	NEW	birthname	........ / Spalding Rockwell Gray	// <p> <strong> Spalding Rockwell Gray </strong> ( June 5 , 1941 &ndash ; ca .
+
+#	NEW	birthname	........ / an American stage	// <p> <strong> Lillian Diana Gish </strong> ( October 14 , 1893&nbsp ; &#x2013 ; February 27 , 1993 ) was an American stage , screen and television actress whose film acting career spanned 75 years , from 1912 to 1987 . </p>
+
+#	NEW	birthname	........ / an American actor	// <p> <strong> John Gilbert </strong> ( July 10 , 1899 &ndash ; January 9 , 1936 ) was an American actor and a major star of the <a> silent film </a> era . </p>
+
+#	NEW	birthname	........ / Maria de Lourdes Villiers Farrow	// <p> <strong> Mia Farrow </strong> ( born <strong> Maria de Lourdes Villiers Farrow </strong> ; February 9 , 1945 ) is an American actress , singer , and former <a> fashion model </a> .
+
+#	NEW	birthname	........ / voice actor	// <p> <strong> Jack Mercer </strong> ( January 13 , 1910 &ndash ; December 4 , 1984 ) was an <a> American </a> <a> animator </a> , storyman and <a> voice actor </a> .
+
+#	NEW	birthname	........ / for Best Actor	// He has received two <a> Saturn Awards </a> for Best Actor In A Television Role for his acting in <em> Farscape </em> .
+
+#	NEW	birthname	........ / independent producer of more than	// <p> <strong> Oscar Devereaux Micheaux </strong> ( 2 January 1884 &#x2013 ; 25 March 1951 ) was an American <a> author </a> , film <a> director </a> and independent producer of more than 44 films .
+
+#	NEW	birthname	........ / made her film debut	// She made her film debut in the Welsh-set comedy <em> Valley of Song </em> ( 1953 ; directed by <a> Gilbert Gunn </a> ) . </p>
+
+#	NEW	birthname	........ / March 1939 ) is an	// <p> <strong> Samantha Eggar </strong> ( born 5 March 1939 ) is an <a> English </a> actress . </p>
+
+#	NEW	birthname	........ / the time of	// At the time of her nomination in 1966 , Elizabeth Hartman ( who was 22 years old ) was the <a> youngest nominee ever in the Best Actress category </a> .
+
+#	NEW	birthname	........ / is an American	// <p> <strong> Kate Garry Hudson </strong> ( born April 19 , 1979 ) is an American actress .
+
+#	NEW	birthname	........ / is an American actress	// <p> <strong> Diahann Carroll </strong> ( born July 17 , 1935 , in <a> New York , New York </a> ) is an American actress and singer .
+

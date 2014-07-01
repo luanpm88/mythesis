@@ -1,0 +1,206 @@
+Total articles: 312
+Articles for test: 281
+Articles for train: 31
+Total attributes: 64
+Attributes with high occurrences: 5/64
+
+------------
+Found: 84
+Found Not Null: 21
+Correct: 13
+Wrong: 8
+Total: 21
+precision: 0.6190476190476191
+recall: 0.6190476190476191
+
+
+
+0	TRUE	Sid James::birth_name	solomon joel cohen / Solomon Joel Cohen	
+<p> <strong> Sid James </strong> ( born <strong> Solomon Joel Cohen </strong> , 8 May 1913 &#x2013 ; 26 April 1976 ) was a <a> South African </a> , <a> British </a> -based <a> actor </a> and <a> comedian </a> .
+
+#	NEW	occupation	........ / cast .	// James ultimately made 19 <em> Carry On </em> films , receiving top-billing in 17 , making him one of the most featured performers of the regular cast . </p>
+
+2	TRUE	Sandra Bullock::birth_name	sandra annette bullock / Sandra Annette Bullock	
+<p> <strong> Sandra Annette Bullock </strong> ( ; born July 26 , 1964 ) is an ! awards and nominations don ' t belong here <a> American </a> actress who rose to fame in the 1990s , after roles in successful films such as <em> <a> Speed </a> </em> and <em> <a> While You Were Sleeping </a> </em> .
+
+#	NEW	occupation	........ / Actress	// She won the award for Best Actress at the <a> Golden Globes </a> , <a> Academy Award </a> s , and the <a> Screen Actors Guild Award </a> for her performance in <em> The Blind Side </em> .
+
+#	NEW	birth_date	........ / April 28 , 2010	// However on April 28 , 2010 , it was reported that Bullock had filed for divorce on April 23 in <a> Austin </a> .
+
+#	NEW	birth_date	........ / 2002	// In 2002 , she appeared in the film <em> <a> Hollywood Ending </a> </em> , directed by <a> Woody Allen </a> . </p>
+
+#	NEW	occupation	........ / Ensemble	// She was nominated for , but did not win , the <a> Young Artist Award </a> for Outstanding Young Ensemble Cast .
+
+#	NEW	birth_name	........ / broaden her visibility on television , Thiessen began making television appearances with guest starring roles on several television shows and television movies	// To broaden her visibility on television , Thiessen began making television appearances with guest starring roles on several television shows and television movies , as well as in film .
+
+#	NEW	birth_name	........ / Thomas Cruise Mapother IV	// <p> <img> <strong> Thomas Cruise Mapother IV </strong> ( ; born July 3 , 1962 ) , better known by his <a> screen name </a> of <strong> Tom Cruise </strong> , is an American film actor and producer .
+
+#	NEW	occupation	........ / Globe	// He has been nominated for three <a> Academy Awards </a> and won three <a> Golden Globe Award </a> s .
+
+#	NEW	birth_date	........ / 2003 ,	// <p> In 2003 , he starred in the <a> Edward Zwick </a> ' s historical drama <em> <a> The Last Samurai </a> </em> , for which he received a Golden Globe nomination as best actor . </p>
+
+#	NEW	birth_date	........ / ,	// <a> Richard Schickel </a> , the film critic , said about Grant : &quot ; He ' s the best star actor there ever was in the movies . &quot ;
+
+12	TRUE	Cary Grant::birth_name	archibald alexander leach / Archibald Alexander Leach	
+<p> <strong> Archibald Alexander Leach </strong> ( January 18 , 1904 &ndash ; November 29 , 1986 ) , better known by his <a> stage name </a> <strong> Cary Grant </strong> , was an <a> English-American </a> actor .
+
+13	TRUE	Cary Grant::occupation	actor / Actor	
+<p> Nominated twice for the <a> Academy Award for Best Actor </a> and five times for a <a> Golden Globe Award for Best Actor </a> , he missed out every time until he was finally honored with an <a> Honorary Award </a> at the <a> 42nd Academy Awards </a> &quot ; for his unique mastery of the art of screen acting with the respect and affection of his colleagues&quot ; . </p>
+
+#	NEW	occupation	........ / actor	// <p> He performed in <a> vaudeville </a> as an <a> actor </a> , <a> magician </a> and <a> dancer </a> .
+
+15	FALSE	Tod Browning::birth_name	charles albert browning, jr. / July 1880 & ndash ;	
+<p> <strong> Tod Browning </strong> ( 12 July 1880 &ndash ; 6 October 1962 ) was an <a> American </a> <a> motion picture </a> <a> actor </a> , <a> director </a> and <a> screenwriter </a> . </p>
+
+#	NEW	birth_date	........ / October 3 , 1962 )	// <p> <strong> Thomas Lee Bass </strong> ( aka <strong> Tommy Lee </strong> ) ( born October 3 , 1962 ) is a Greek-American musician , and founding member of <a> glam metal </a> band <a> M&#x00f6 ; tley Cr&#x00fc ; e </a> .
+
+#	NEW	birth_name	........ / one year after	// His family moved to <a> West Covina , California </a> one year after his birth .
+
+#	NEW	occupation	........ / Dish	// Lee is presently ( 2009 ) appearing in select cities with <a> Sharam </a> , one half of Grammy Award nominated and Grammy Award winning <a> Deep Dish </a> .
+
+#	NEW	birth_name	........ / his work in a diverse range of theatre	// <p> <strong> Timothy James </strong> &quot ; <strong> Tim </strong> &quot ; <strong> Curry </strong> ( born 19 April 1946 ) is an <a> English </a> <a> actor </a> , <a> singer </a> , <a> composer </a> and <a> voice actor </a> , known for his work in a diverse range of theatre , film and television productions .
+
+#	NEW	occupation	........ / Actor	// <em> Travesties </em> was a Broadway hit which won two <a> Tony Awards </a> ( Best Performance by an Actor for John Wood and Best Comedy ) , as well as the <a> New York Drama Critics Circle Award </a> ( Best Play ) , and Curry ' s performance as the famous <a> dadaist </a> <a> Tristan Tzara </a> received good reviews . </p>
+
+#	NEW	birth_name	........ / Vittorio De Sica	// <p> <strong> Vittorio De Sica </strong> ( 7 July 1901 or 1902 &ndash ; 13 November 1974 ) was an <a> Italian </a> <a> director </a> and <a> actor </a> , a leading figure in the <a> neorealist </a> movement . </p>
+
+#	NEW	occupation	........ / Visconti	// The company performed mostly light <a> comedies </a> , but they also staged plays by <a> Beaumarchais </a> , and worked with famous directors like <a> Luchino Visconti </a> .
+
+#	NEW	birth_name	........ / His later television appearances included his use of	// <p> His later television appearances included his use of his &quot ; Phonetic Punctuation&quot ; routine on <em> <a> The Electric Company </a> </em> in a filmed sketch ; he would also use it on the record to follow during the &quot ; Punctuation&quot ; song .
+
+#	NEW	occupation	........ / Year	// <p> From then on , fame rose quickly for Borge , who won Best New Radio Performer of the Year in 1942 .
+
+#	NEW	birth_date	........ / 1992 ,	// In 1992 , Eastwood directed <em> <a> Unforgiven </a> </em> , a <a> revisionist western </a> drama for which he won an <a> Oscar </a> for best director , as well as Best Picture .
+
+26	FALSE	Sergio Leone::birth_name	sergio leone / that time Eastwood had been an	
+Until that time Eastwood had been an <a> American </a> television actor with few credited film roles . </p>
+
+#	NEW	birth_date	........ / 19 May 1969 )	// <p> <strong> Thomas Vinterberg </strong> ( born 19 May 1969 ) is a Danish film director who , along with <a> Lars von Trier </a> , co-founded the <a> Dogme 95 </a> movement in <a> filmmaking </a> , which established rules for simplifying movie production . </p>
+
+#	NEW	birth_name	........ / the film won numerous nominations and awards , including the Jury Prize at	// However , he and the film won numerous nominations and awards , including the Jury Prize at the <a> 1998 Cannes Film Festival </a> . </p>
+
+#	NEW	occupation	........ / Film	// However , he and the film won numerous nominations and awards , including the Jury Prize at the <a> 1998 Cannes Film Festival </a> . </p>
+
+#	NEW	birth_name	........ / Lieutenant Tim O ' Neill	// <p> <strong> Theodore &quot ; Ted&quot ; Raimi </strong> ( born December 14 , 1965 ) is an <a> American </a> <a> actor </a> , perhaps best known for his roles as <a> Lieutenant Tim O ' Neill </a> in <em> <a> seaQuest DSV </a> </em> and <a> Joxer the Mighty </a> in <strong> <em> ' / </em> </strong> ' .
+
+#	NEW	occupation	........ / actor	// <p> <strong> Theodore &quot ; Ted&quot ; Raimi </strong> ( born December 14 , 1965 ) is an <a> American </a> <a> actor </a> , perhaps best known for his roles as <a> Lieutenant Tim O ' Neill </a> in <em> <a> seaQuest DSV </a> </em> and <a> Joxer the Mighty </a> in <strong> <em> ' / </em> </strong> ' .
+
+#	NEW	birth_date	........ / in	// Born in the German city of Ulm , she was billed in some English language films as <strong> Hildegard Neff </strong> or <strong> Hildegarde Neff </strong> . </p>
+
+#	NEW	birth_name	........ / billed in some English language films	// Born in the German city of Ulm , she was billed in some English language films as <strong> Hildegard Neff </strong> or <strong> Hildegarde Neff </strong> . </p>
+
+#	NEW	occupation	........ / film	// <p> Her best-known film roles were as : </p>
+
+35	TRUE	Micky Dolenz::birth_name	george michael dolenz, jr. / George Michael Dolenz, Jr.	
+<p> <strong> George Michael Dolenz , Jr . </strong> ( born March 8 , 1945 ) is an American actor , musician , <a> television director </a> , <a> radio personality </a> and <a> theatre director </a> ; he is best known as a member of the 1960s made-for-television band <a> The Monkees </a> . </p>
+
+#	NEW	occupation	........ / Richard	// Dolenz participated in the 2008&#x2013 ; 09 season of CMT ' s &quot ; Gone Country , &quot ; competing against fellow celebrities Sheila E ( who eventually won ) , Taylor Dayne , George Clinton , and Richard Grieco .
+
+#	NEW	birth_date	........ / 8 , 1945 )	// <p> <strong> George Michael Dolenz , Jr . </strong> ( born March 8 , 1945 ) is an American actor , musician , <a> television director </a> , <a> radio personality </a> and <a> theatre director </a> ; he is best known as a member of the 1960s made-for-television band <a> The Monkees </a> . </p>
+
+#	NEW	birth_date	........ / 30 , 1948 )	// <p> <strong> Jean Reno </strong> ( ; born July 30 , 1948 ) is a French <a> actor </a> .
+
+#	NEW	birth_name	........ / is a French	// <p> <strong> Jean Reno </strong> ( ; born July 30 , 1948 ) is a French <a> actor </a> .
+
+40	FALSE	Jean Reno::occupation	actor / Jones	
+Additionally , Reno did the voice-over for Mufasa in the French-language version of <em> <a> The Lion King </a> </em> , a role originally performed by <a> James Earl Jones </a> . </p>
+
+#	NEW	birth_date	........ / 29 , 1919 &#	// <p> <strong> Eileen Heckart </strong> ( March 29 , 1919 &#x2013 ; December 31 , 2001 ) was an American actress of stage , screen , and television . </p>
+
+42	FALSE	Eileen Heckart::birth_name	anna eileen heckart / an American actress of stage	
+<p> <strong> Eileen Heckart </strong> ( March 29 , 1919 &#x2013 ; December 31 , 2001 ) was an American actress of stage , screen , and television . </p>
+
+43	TRUE	Eileen Heckart::occupation	actress / Actress	
+Her awards include <a> Tony Honors for Excellence in Theatre </a> , a 2000 <a> Drama Desk Award </a> for Outstanding Actress in a Play for the <a> off-Broadway </a> <em> <a> The Waverley Gallery </a> </em> , and the 1953 <a> Theatre World Award </a> for <em> <a> Picnic </a> </em> .
+
+#	NEW	birth_date	........ / 15 April 1988	// He died on 15 April 1988 in his Camden flat ; the cause of death was an overdose of <a> barbiturate </a> s .
+
+#	NEW	occupation	........ / portrayed	// <p> Williams has been portrayed in two <a> made-for-television </a> films .
+
+46	TRUE	Kenneth Williams::birth_name	kenneth charles williams / Kenneth Charles Williams	
+<p> <strong> Kenneth Charles Williams </strong> ( 22 February 1926&#x2013 ; 15 April 1988 ) was an <a> English </a> <a> comic </a> actor , star of 26 <a> <em> Carry On </em> films </a> , numerous British television shows , and radio comedies with <a> Tony Hancock </a> and <a> Kenneth Horne </a> . </p>
+
+#	NEW	birth_date	........ / 1915	// In 1915 , Markus relocated his family to Vienna , the city that Otto later claimed to have been born in .
+
+48	FALSE	Otto Preminger::birth_name	otto ludwig preminger / film opened to tepid notices	
+The film opened to tepid notices in November 1936 .
+
+#	NEW	occupation	........ / Academy	// He was twice nominated for the Best Director <a> Academy Award </a> .
+
+#	NEW	birth_date	........ / ( 29 September 1912 &#	// <p> <strong> Michelangelo Antonioni </strong> , <a> Cavaliere di Gran Croce OMRI </a> ( 29 September 1912 &#x2013 ; 30 July 2007 ) was an <a> Italian </a> <a> modernist </a> <a> film director </a> . </p>
+
+#	NEW	birth_name	........ / documentary had its first showing	// The documentary had its first showing in China in November 25 , 2004 in <a> Beijing </a> with a film festival hosted by the <a> Beijing Film Academy </a> to honor the works of Michelangelo Antonioni . </p>
+
+#	NEW	occupation	........ / Blowup	// Previously , he had been nominated for <a> Academy Award </a> s for Best Director and Best Screenplay for <em> <a> Blowup </a> </em> .
+
+#	NEW	birth_date	........ / April 3 , 2009	// On April 3 , 2009 , she helped introduce La Do&#x00f1 ; a , a <a> watch </a> by <a> Cartier </a> inspired by fellow Mexican actress <a> Mar&#x00ed ; a F&#x00e9 ; lix </a> . </p>
+
+#	NEW	birth_name	........ / Salma Valgarma Hayek Jim&#x00e9 ; nez- Pinault	// <p> <strong> Salma Valgarma Hayek Jim&#x00e9 ; nez-Pinault </strong> ( ; born September 2 , 1966 in <a> Coatzacoalcos </a> , <a> Veracruz </a> ) is a Mexican actress , director and producer of Lebanese descent .
+
+#	NEW	occupation	........ / Actress	// She earned a Best Actress Academy Award nomination for her performance .
+
+#	NEW	birth_date	........ / 23 January 1944 )	// <p> <strong> Rutger Oelsen Hauer </strong> ( ; ; born 23 January 1944 ) is a Dutch stage , television and film actor .
+
+57	TRUE	Rutger Hauer::birth_name	rutger oelsen hauer / Rutger Oelsen Hauer	
+<p> <strong> Rutger Oelsen Hauer </strong> ( ; ; born 23 January 1944 ) is a Dutch stage , television and film actor .
+
+58	TRUE	Rutger Hauer::occupation	actor / Actor	
+<p> In 1999 , Hauer was awarded the Dutch &#x201c ; Best Actor of the Century Rembrandt Award&#x201d ; . </p>
+
+#	NEW	birth_name	........ / a success in Britain the film was not well received in the United States ; owing to a conflict with a contemporary	// Although a success in Britain the film was not well received in the United States ; owing to a conflict with a contemporary <a> television series </a> , the film had to be renamed and the new title inflamed American critics .
+
+60	FALSE	Tony Hancock::occupation	actor / television	
+Hancock also made an <a> ITV </a> series , <em> <a> The Tony Hancock Show </a> </em> , during this period , which ran for two series in 1956&#x2013 ; 57 either side of the first BBC television series .
+
+#	NEW	birth_date	........ / 29 , 1940 )	// <p> <strong> Godfrey Reggio </strong> ( born March 29 , 1940 ) is an American <a> director </a> of experimental <a> documentary film </a> s . </p>
+
+#	NEW	birth_name	........ / is an American	// <p> <strong> Godfrey Reggio </strong> ( born March 29 , 1940 ) is an American <a> director </a> of experimental <a> documentary film </a> s . </p>
+
+#	NEW	occupation	........ / host	// So these films have never been about the effect of the technology , of industry , on people , it&#x2019 ; s been that everything , politics , education , the finance structure [ &#x2026 ; ] the culture , religion , all of that exists within the host of technology .
+
+#	NEW	birth_date	........ / Gelbart '	// <p> Gelbart ' s best known screen work is perhaps the screenplay for 1982 ' s <em> <a> Tootsie </a> </em> , which he co-wrote with <a> Murray Schisgal </a> .
+
+65	TRUE	Larry Gelbart::birth_name	larry simon gelbart / Larry Simon Gelbart	
+<p> <strong> Larry Simon Gelbart </strong> ( February 25 , 1928 &#x2013 ; September 11 , 2009 ) was an American television writer , playwright , screenwriter and author . </p>
+
+#	NEW	occupation	........ / Tony	// Its book won a <a> Tony Award </a> .
+
+#	NEW	birth_date	........ / 1 , 2005 ) .	// They have two daughters , Sam J . Sheen ( born March 9 , 2004 ) and Lola Rose Sheen ( born June 1 , 2005 ) . </p>
+
+68	TRUE	Denise Richards::birth_name	denise lee richards / a telephone engineer.	
+<p> <strong> Denise Lee Richards </strong> ( born February 17 , 1971 ) the daughter of Joni , a <a> coffee shop </a> owner , and Irv Richards , a telephone engineer .
+
+69	TRUE	Denise Richards::occupation	actress / Actress&	
+She was ranked as one of the worst <a> Bond girl </a> s of all time by <em> <a> Entertainment Weekly </a> </em> in 2008 , and was chosen as &quot ; Worst Supporting Actress&quot ; at the <a> 1999 Razzie Awards </a> for the role . </p>
+
+#	NEW	birth_date	........ / 14 March 1941 )	// <p> <strong> Wolfgang Petersen </strong> ( born 14 March 1941 ) is a <a> German </a> <a> film director </a> and <a> screenwriter </a> .
+
+#	NEW	birth_name	........ / Wolfgang Petersen	// <p> <strong> Wolfgang Petersen </strong> ( born 14 March 1941 ) is a <a> German </a> <a> film director </a> and <a> screenwriter </a> .
+
+72	FALSE	Wolfgang Petersen::occupation	film director / DGA	
+Though not a financial success , the film received positive reviews and was nominated for six <a> Academy Awards </a> , two of which ( for <a> Best Director </a> and <a> Best Adapted Screenplay </a> ) went to Petersen himself ; he was also nominated for a <a> BAFTA Award </a> and <a> DGA Award </a> .
+
+#	NEW	birth_date	........ / 12 , 1943 )	// <p> <strong> Wallace Michael Shawn </strong> ( born November 12 , 1943 ) , sometimes credited as <strong> Wally Shawn </strong> , is an American comic <a> character actor </a> and author .
+
+74	TRUE	Wallace Shawn::birth_name	wallace michael shawn / is an American comic	
+<p> <strong> Wallace Michael Shawn </strong> ( born November 12 , 1943 ) , sometimes credited as <strong> Wally Shawn </strong> , is an American comic <a> character actor </a> and author .
+
+#	NEW	occupation	........ / Fever	// <p> Three of Shawn ' s plays have been adapted into films : <em> The Designated Mourner </em> ( basically a film of <a> David Hare </a> ' s stage production ) , <em> Marie and Bruce </em> , and <em> The Fever </em> .
+
+#	NEW	birth_date	........ / 25 , 1958 )	// <p> <strong> Timothy W . Burton </strong> ( born August 25 , 1958 ) is an American film director , film producer , writer and artist .
+
+#	NEW	birth_name	........ / Timothy W . Burton	// <p> <strong> Timothy W . Burton </strong> ( born August 25 , 1958 ) is an American film director , film producer , writer and artist .
+
+#	NEW	occupation	........ / Achievement	// Burton ' s work on <em> Sweeney Todd </em> won the National Board of Review Award for best director and received a Golden Globe nomination for Best Director and won an Academy Award for Best Achievement in Art Direction .
+
+#	NEW	birth_date	........ / October 29 , 1971 )	// <p> <strong> Winona Laura Horowitz </strong> ( born October 29 , 1971 ) , better known under her professional name <strong> Winona Ryder </strong> , is an American actress .
+
+#	NEW	occupation	........ / Actress	// who won an <a> Academy Award for Best Supporting Actress </a> for her performance .
+
+81	FALSE	Winona Ryder::birth_name	winona laura horowitz / the least successful entries	
+The film became one of the least successful entries in the <em> Alien </em> film series , but was considered a success as it grossed $161&nbsp ; million worldwide .
+
+#	NEW	birth_name	........ / written by Adam Carl and based on a stage play he wrote	// She funded the film , which was written by Adam Carl and based on a stage play he wrote in 2003 .
+
+#	NEW	occupation	........ / without	// This is because the Emmy for <a> Outstanding Voice-Over Performance </a> is a <a> Creative Arts </a> and not handed out during the primetime telecast and , prior to 2009 , was a juried award without nominations .
+

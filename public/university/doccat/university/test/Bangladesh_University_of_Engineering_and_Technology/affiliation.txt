@@ -1,2 +1,0 @@
-<li><a>Official BUET Web Site</a></li>
-<li><a>Admission Information</a></li>

@@ -1,0 +1,1575 @@
+Found: 640
+Found Not Null: 67
+Correct: 45
+Wrong: 22
+Total: 176
+precision: 0.6716417910447762
+recall: 0.2556818181818182
+
+
+
+0	TRUE	The Blue World::isbn	na / 1964	
+The novel is based on Vance&#x2019 ; s earlier <a> novella </a> &quot ; The Kragen&quot ; , which appeared in the July 1964 edition of Fantastic Stories of Imagination . </p>
+
+#	NEW	isbn	........ / 1966	// She began an Arts Degree at the <a> University of Sydney </a> in 1966 , intending to major in English , but she changed to History and graduated with Honours in 1970 .
+
+#	NEW	isbn	........ / 1982	// <p> In 1982 , the novel was adapted to the film <em> <a> Monkey Grip </a> </em> directed by <a> Ken Cameron </a> from his own screenplay .
+
+#	NEW	isbn	........ / 1999 .	// <p> It was later retitled <em> Devil ' s Wall </em> by <a> Macmillan </a> Children ' s Books in the UK and released on April 9 , 1999 .
+
+#	NEW	isbn	........ / 2007	// <p> : <em> For other uses , see <a> Hero ( disambiguation ) </a> . </em> <strong> <em> Hero </em> </strong> ( <a> 2007 </a> ) is a <a> Lambda </a> -winning first novel by openly <a> gay </a> <a> film producer </a> and novelist <a> Perry Moore </a> .
+
+#	NEW	isbn	........ / 2007 .	// <p> <strong> <em> Land of the Headless </em> </strong> is a <a> science fiction </a> novel by the British writer <a> Adam Roberts </a> , published in 2007 .
+
+#	NEW	isbn	........ / 27	// The SciFi network changed its entire site around ; eventually this link should re-emerge from the chaos : ) As Weber puts it , &quot ; The lead character , Nimue , is a brilliant tactical officer , only about 27 years old at the time of her biological death , and has never known a time when humanity wasn&#x2019 ; t fighting a losing battle for its very existence . &quot ;
+
+#	NEW	isbn	........ / 1	// <p> Book two , titled <em> <a> Master of the Books </a> </em> , was released on 1 June 2007 and a third and final novel concluding the series was released on 1 June 2009 , called <em> <a> The Book from Baden Dark </a> </em> . </p>
+
+#	NEW	isbn	........ / 2010	// <p> In 2010 , the book was adapted into <a> a film </a> starring <a> Sean Penn </a> and <a> Naomi Watts </a> as Plame . </p>
+
+9	FALSE	Nebula Maker::isbn	na / 1935	
+<p> Stapledon first announced his intention to write a history of the universe in his 1935 work <em> Odd John </em> , in which the main character , John Wainwright , has already produced such a thing ( Stapledon would often mention his next literary project in the book he was currently working on - the story of &quot ; Odd John&quot ; is itself mentioned in passing in 1932 ' s <em> <a> Last Men in London </a> </em> ) .
+
+#	NEW	isbn	........ / 000	// <p> Alex Beam , of the <em> Boston Globe </em> , wrote that the book is &quot ; a series of dramatic revelations for the ignorant&quot ; , and continues to say , &quot ; Ehrman notes that there have been a lot of changes to the Bible in the past 2 , 000 years .
+
+#	NEW	isbn	........ / 1963 .	// This could be regarded as Carr ' s first book as his first novel , <em> <a> A Day in Summer </a> </em> , was not published until 1963 . </p>
+
+#	NEW	isbn	........ / 24	// <p> Jeyde compares his theory with films , where every second 24 still pictures are shown .
+
+#	NEW	isbn	........ / 1986	// <p> The book collects eleven novelettes and short stories by various fantasy authors , originally published in 1986 and deemed by the editor the best from the period represented , together with an introduction by the editor .
+
+#	NEW	isbn	........ / ( 1906&#	// <p> <strong> <em> She Died A Lady </em> </strong> is a <a> mystery </a> novel by the <a> American </a> writer <a> John Dickson Carr </a> ( 1906&#x2013 ; 1977 ) , who published it under the name of Carter Dickson .
+
+#	NEW	isbn	........ / ( 1906&#	// <p> <strong> <em> He Wouldn ' t Kill Patience </em> </strong> is a <a> mystery </a> novel by the <a> American </a> writer <a> John Dickson Carr </a> ( 1906&#x2013 ; 1977 ) , who published it under the name of Carter Dickson .
+
+#	NEW	isbn	........ / 2007	// <p> <strong> <em> Giving : How Each of Us Can Change the World </em> </strong> is a 2007 book by former <a> United States President </a> <a> Bill Clinton </a> .
+
+17	TRUE	The Mad King::isbn	na / 1914	
+<p> <strong> <em> ' The Mad King </em> </strong> is a novel by &quot ; <a> Tarzan </a> &quot ; creator <a> Edgar Rice Burroughs </a> , originally published in two parts as &quot ; The Mad King&quot ; and &quot ; Barney Custer of Beatrice&quot ; in <em> <a> All-Story Weekly </a> </em> , in 1914 and 1915 , respectively .
+
+#	NEW	isbn	........ / 1960	// Originally completed in 1960 , but rejected by prior publishers , this work was posthumously published by <a> Gollancz </a> in the United Kingdom in 1986 .
+
+#	NEW	isbn	........ / 2002	// One 2002 review of the book noted that it was released &quot ; just ten years after <a> Radclyffe Hall </a> &#x2019 ; s <em> <a> The Well of Loneliness </a> </em> . Wilhelm has created a work of self-exploration that bears little resemblance to the tormented world of Hall&#x2019 ; s Stephen Gordon . &quot ; </p>
+
+#	NEW	isbn	........ / 1998 .	// <p> <strong> <em> Seize the Night </em> </strong> is a novel written by the best-selling author <a> Dean Koontz </a> , released in 1998 .
+
+#	NEW	isbn	........ / 2007 .	// <p> The novel ' s film rights were optioned by Greenestreet Films in 2007 .
+
+#	NEW	isbn	........ / 160-	// It is a 160-page original <a> graphic novel </a> published by <a> Image Comics </a> in <a> 2008 </a> , and is created by <a> Mark Sable </a> ( writer of Image ' s <em> <a> Grounded </a> </em> and <em> <a> Fearless </a> </em> ) and <a> Robbi Rodriguez </a> .
+
+#	NEW	isbn	........ / 1818	// The title is a reference to <a> John Keats </a> ' 1818 poem , <em> <a> Endymion </a> </em> , which begins , &quot ; A thing of beauty is a joy for ever . &quot ;
+
+24	FALSE	Colour Scheme::isbn	na / 1943.	
+<p> <strong> <em> Colour Scheme </em> </strong> is a <a> detective novel </a> by <a> Ngaio Marsh </a> ; it is the twelfth novel to feature <a> Roderick Alleyn </a> , and was first published in 1943 .
+
+#	NEW	isbn	........ / 124	// Sobel bases her book on 124 surviving letters to the scientist from the nun , whom Galileo described as &quot ; a woman of exquisite mind , singular goodness , and tenderly attached to me . &quot ;
+
+#	NEW	isbn	........ / 1957	// <p> In 1957 , <a> Walt Disney </a> adapted it into a <em> <a> True Life Fantasy </a> </em> <a> of the same name </a> . </p>
+
+#	NEW	isbn	........ / 1989	// <p> <strong> A Visitation of Spirits </strong> is a 1989 novel by <a> Randall Kenan </a> .
+
+#	NEW	isbn	........ / ( 1989 )	// Published in 1993 , it was the first novel by the author since the publication of <em> <a> The Book of Evidence </a> </em> ( 1989 ) , which was shortlisted for the <a> Man Booker Prize </a> , and features many of the same characters .
+
+#	NEW	isbn	........ / 2001	// <p> <strong> <em> A Sea So Far </em> </strong> ( <a> 2001 </a> ) is a historical young-adult novel by <a> Jean Thesman </a> .
+
+#	NEW	isbn	........ / 1878	// Begun in 1878 and originally published in 1886 , the novel is known for popularizing the term &quot ; <a> android </a> &quot ; . </p>
+
+#	NEW	isbn	........ / 2001	// <p> <strong> <em> Rising Tide </em> </strong> ( <a> 2003 </a> ) is a historical <a> young-adult </a> novel by <a> Jean Thesman </a> and a sequel to her novel <em> <a> A Sea So Far </a> </em> ( <a> 2001 </a> ) . </p>
+
+#	NEW	isbn	........ / 1986	// <a> Kirkus Reviews </a> praised the novel calling it &quot ; Another meticulously researched , intense , mesmerizing novel ( based in some part on a 1986 short story ) for readers seeking thoughtful science fiction of the highest order . &quot ;
+
+#	NEW	isbn	........ / 1999 .	// <p> It was later retitled <em> Treasure Ship </em> by <a> Macmillan </a> Children ' s Books in the UK and released on June 11 , 1999 .
+
+#	NEW	isbn	........ / 2004 .	// <p> The novel was originally published under the name Amagansett when it first appeared in 2004 .
+
+#	NEW	isbn	........ / ( 2002 )	// <p> <strong> <em> Compulsion </em> </strong> ( 2002 ) is a horror novel written by <a> Shaun Hutson </a> . </p>
+
+#	NEW	isbn	........ / 47	// <p> <strong> <em> Mystery of the Whale <a> Tattoo </a> </em> </strong> is Volume 47 in the original <a> The Hardy Boys </a> <a> Mystery Stories </a> published by <a> Grosset &amp ; Dunlap </a> . </p>
+
+37	FALSE	Off Limits (anthology)::isbn	978-0-441-00436-2 / 1997	
+It was published in 1997 by <a> Ace Books </a> .
+
+#	NEW	isbn	........ / 2004	// The novel has been adapted into a 2004 <a> French </a> <a> Television movie </a> by Micha&#x00eb ; la Watteaux . </p>
+
+39	TRUE	Letters from a Peruvian Woman::isbn	na / 1748	
+A number of sequels were written , often to &quot ; improve&quot ; on the author ' s d&#x00e9 ; nouement ; the most famous was <em> Lettres d ' Aza </em> , by Ignace Hugary de Lamarche-Courmont , published in 1748 and frequently reprinted with the original novel . </p>
+
+40	FALSE	Under the Green Star::isbn	na / 1972	
+<p> <strong> <em> Under the Green Star </em> </strong> , published first by <a> DAW Books </a> in 1972 , was the first of <a> Lin Carter </a> ' s <a> Green Star Series </a> of science-fictio / fantasy novels . </p>
+
+41	FALSE	By the Light of the Green Star::isbn	na / 1974	
+<p> <strong> <em> By the Light of the Green Star </em> </strong> , published in 1974 , is the third novel of <a> Lin Carter </a> ' s <a> Green Star Series </a> .
+
+42	FALSE	Beyond Singularity::isbn	978-0441013630 / 2005	
+It was published in 2005 , and includes stories on the theme of &quot ; beyond singularity&quot ; that were originally published from 1960 to 2004 , though mostly from the last few years of that range .
+
+43	FALSE	Robots (anthology)::isbn	978-0441013210 / 2005	
+It was published in 2005 , and includes stories on the theme of &quot ; robots&quot ; that were originally published from 1985 to 2003 , though mostly from the last few years of that range .
+
+#	NEW	isbn	........ / 1906 .	// <p> The novel was originally commissioned by <a> Alfred Harmsworth </a> as a serial which appeared in the <em> <a> Daily Mail </a> </em> from 19 March 1906 .
+
+#	NEW	isbn	........ / 2006	// The book was published on March 1 , 2006 by BenBella Books , and is part of their &quot ; Psychology of Popular Culture Series , &quot ; or &quot ; Smart Pop&quot ; for short .
+
+#	NEW	isbn	........ / 1984	// The book collects thirteen novelettes and short stories by various fantasy authors , originally published in 1984 and deemed by the editor the best from the period represented , together with an introduction by the editor .
+
+#	NEW	isbn	........ / 2008	// The novel was adapted into a 2003 <a> film of the same name </a> and a 2008 <a> play of the same name </a> . </p>
+
+#	NEW	isbn	........ / 1987	// <p> The book collects thirteen novelettes and short stories by various fantasy authors , originally published in 1987 and deemed by the editor the best from the period represented , together with an introduction by the editor .
+
+#	NEW	isbn	........ / 2005	// In 2005 , <a> The Guardian </a> and other newspapers reported an incident where another of Errol ' s white collar boxing students , film distributor Simon Franks , hit Hollywood actor <a> George Clooney </a> at the premiere of his film <a> Good Night , and Good Luck </a> .
+
+#	NEW	isbn	........ / 1971	// <p> As the Carnegie Medal winner for 1971 , the novel is described on the Carnegie website as being &quot ; about overcoming difficulties and staying true to yourself .
+
+51	FALSE	Dangerous Games (anthology)::isbn	978-0441014903 / 2007	
+It was published in 2007 , and includes stories on the theme of &quot ; dangerous games&quot ; that were originally published from 1958 to 2005 .
+
+#	NEW	isbn	........ / 1958	// Pyramid changed the name to <em> Rumble </em> and published it in 1958 while Ellison was a Private in the army .
+
+#	NEW	isbn	........ / 1981 )	// &quot ; How can one be a pagan&quot ; in 1981 ) is a book by the French philosopher <a> Alain de Benoist </a> , published in English in <a> 2004 </a> .
+
+#	NEW	isbn	........ / 1999	// <p> <strong> <em> Jackie &amp ; Me </em> </strong> , published in <a> 1999 </a> , is the second novel in the <a> Baseball Card Adventures </a> series by <a> Dan Gutman </a> , the sequel to <em> <a> Honus &amp ; Me </a> . </em> </p>
+
+#	NEW	isbn	........ / 25	// <p> <strong> <em> One More for the Road </em> </strong> is a collection of 25 short stories written by <a> Ray Bradbury </a> . </p>
+
+#	NEW	isbn	........ / 2005	// The book received the 2005 <a> Raphael Lemkin </a> Prize and was a <a> New York Times </a> Notable Book and New York Times and national best seller . </p>
+
+#	NEW	isbn	........ / 2001	// <p> In 2001 it was included in a list of recommended books for teenage boys in <em> <a> The Guardian </a> </em> newspaper , where it was described as a &quot ; seriously good and compulsively readable novel that spans 50 years and two interwoven stories of love , betrayal and self-discovery&quot ; . </p>
+
+#	NEW	isbn	........ / 2007	// <p> <strong> <em> The Angel Makers </em> </strong> is a 2007 novel written by <a> Jessica Gregson </a> based on the true story of the <a> The Angel Makers of Nagyr&#x00e9 ; v </a> , two <a> Hungarian </a> women who sold <a> arsenic </a> to unhappily married women to kill their husbands .
+
+59	TRUE	The Quantum Prophecy::isbn	978-0007210923 / 978-0007210923	
+<p> <strong> <em> The Quantum Prophecy </em> </strong> ( ISBN 978-0007210923 , January 2006 ) by <a> Michael Carroll ( author ) </a> is the title of the first novel in <a> The New Heroes </a> series of books for <a> young adults </a> , published by <a> HarperCollins </a> in the <a> United Kingdom </a> .
+
+#	NEW	isbn	........ / 1975	// <p> The story was featured in a 1956 episode of <em> <a> Playhouse 90 </a> </em> directed by a young <a> John Frankenheimer </a> and made into a 1975 TV movie starring <a> Shirley Jones </a> of <em> <a> Partridge Family </a> </em> fame . </p>
+
+#	NEW	isbn	........ / 1993	// Various <em> Best Ever </em> books were adapted to video and a television series , &quot ; <a> The Busy World of Richard Scarry </a> , &quot ; ran on <a> Showtime </a> from 1993 to 1996 . </p>
+
+#	NEW	isbn	........ / 1999 .	// The book was originally published in 1999 . </p>
+
+#	NEW	isbn	........ / 100	// <p> <strong> <em> The Book of Games Volume 2 </em> </strong> is a game compendium by <a> gameXplore </a> , examining 100 <a> video game </a> s from November 2006 through November 2007 covering most of the current game platforms .
+
+#	NEW	isbn	........ / 2007 :	// <p> Quote from Jon Stewart on <em> <a> The Daily Show </a> </em> regarding the book in an appearance by Robert Draper on September 12th , 2007 : br &quot ; It is the most unvarnished , natural , seemingly unaffected view of this President .
+
+#	NEW	isbn	........ / 2004	// <p> On November 10 , 2004 , France ' s <a> TF1 </a> network aired an adaptation of the book , entitled &quot ; Periwinkle ' s First Dance&quot ; in English .
+
+#	NEW	isbn	........ / 1991	// It was originally published by France ' s <a> &#x00c9 ; ditions Milan </a> in 1991 , and in the United States by <a> Gareth Stevens </a> a year later .
+
+#	NEW	isbn	........ / ( 1906&#	// <p> <strong> <em> The Red Widow Murders </em> </strong> is a <a> mystery </a> novel by the <a> American </a> writer <a> John Dickson Carr </a> ( 1906&#x2013 ; 1977 ) , who published it under the name of Carter Dickson .
+
+#	NEW	isbn	........ / ( 1906&#	// <p> <strong> <em> The Unicorn Murders </em> </strong> is a <a> mystery </a> novel by the <a> American </a> writer <a> John Dickson Carr </a> ( 1906&#x2013 ; 1977 ) , who published it under the name of Carter Dickson .
+
+#	NEW	isbn	........ / ( 1906&#	// <p> <strong> <em> The Gilded Man </em> </strong> ( also published as <em> Death and the Gilded Man </em> ) is a <a> mystery </a> novel by the <a> American </a> writer <a> John Dickson Carr </a> ( 1906&#x2013 ; 1977 ) , who published it under the name of Carter Dickson .
+
+#	NEW	isbn	........ / 1979 .	// <p> A film version of the novel was made in 1979 .
+
+#	NEW	isbn	........ / 2010 .	// A <a> film adaptation </a> was released in February 2010 .
+
+#	NEW	isbn	........ / 1999 .	// <p> The novel was a New York Times Book Review Notable Book and won the <a> WH Smith Literary Award </a> in 1999 .
+
+#	NEW	isbn	........ / ( 1906&#	// <p> <strong> <em> The Skeleton in the Clock </em> </strong> is a <a> mystery </a> novel by the <a> American </a> writer <a> John Dickson Carr </a> ( 1906&#x2013 ; 1977 ) , who published it under the name of Carter Dickson .
+
+#	NEW	isbn	........ / ( 1906&#	// <p> <strong> <em> A Graveyard To Let </em> </strong> is a <a> mystery </a> novel by the <a> American </a> writer <a> John Dickson Carr </a> ( 1906&#x2013 ; 1977 ) , who published it under the name of Carter Dickson .
+
+#	NEW	isbn	........ / ( 1906&#	// <p> <strong> <em> Behind the Crimson Blind </em> </strong> is a <a> mystery </a> novel by the <a> American </a> writer <a> John Dickson Carr </a> ( 1906&#x2013 ; 1977 ) , who published it under the name of Carter Dickson .
+
+#	NEW	isbn	........ / 2006	// It was published by <a> Prime Books </a> in <a> 2006 </a> . </p>
+
+#	NEW	isbn	........ / 17-	// <p> <strong> <em> The Year of Freaking Out </em> </strong> is a <a> 1997 </a> Australian <a> young adult novel </a> by <a> Sarah Walker </a> about 17-year-old Kim , her relationship with her childhood friend Matthew and her passionate friendship with the new girl at school , Rachel . </p>
+
+#	NEW	isbn	........ / 2007	// In the summer of 2007 , Burroughs announced on his official website that the book would be released on .
+
+#	NEW	isbn	........ / 1815	// The book traces the history of the cathedral from its early beginnings in 1815 to the present date .
+
+#	NEW	isbn	........ / 15	// Written originally in German by <a> Leonie Swann </a> , the novel has been translated in to more than 15 languages .
+
+#	NEW	isbn	........ / 5	// Also available from PAVE Records are accompaniment CD ' s for 5 other youth and children ' s song books also published by the Review and Herald . </p>
+
+#	NEW	isbn	........ / ( 2003 )	// <p> <strong> <em> Pursuit </em> </strong> ( 2003 ) is a <a> science fiction novel </a> by authors <a> Andy Mangels </a> and <a> Michael A . Martin </a> which conclude the events of the television series Roswell .
+
+#	NEW	isbn	........ / 1966	// <p> In <a> 1966 </a> , a movie was filmed on this book .
+
+#	NEW	isbn	........ / 2007 .	// An excerpt from the novel was shown to several publishers ; Wolfe sold the rights to publish his novel to <a> Little , Brown </a> for a sum of close to US$7 million , according to <em> <a> The New York Times </a> </em> , in an auction that ended shortly before Christmas of 2007 .
+
+85	TRUE	Come, Tell Me How You Live::isbn	na / 1946	
+It is one of only two books she wrote and had published under both of her married names of &quot ; Christie&quot ; and &quot ; Mallowan&quot ; ( the other being <em> <a> Star Over Bethlehem and other stories </a> </em> ) and was first published in the UK in November <a> 1946 </a> by <a> William Collins and Sons </a> and in the same year in the US by <a> Dodd , Mead and Company </a> .
+
+#	NEW	isbn	........ / 2004 .	// <p> <strong> <em> The Coroner ' s Lunch </em> </strong> is a <a> crime novel </a> by British author <a> Colin Cotterill </a> first published in 2004 . </p>
+
+#	NEW	isbn	........ / 2004	// It is the sequel to the 2004 novel , <em> <a> The Bar Code Tattoo </a> </em> . </p>
+
+#	NEW	isbn	........ / 1	// <p> The book is told as Kyle ' s personal diary of a dancer ' s day : Ch . 1 is &quot ; 10 : 15AM , &quot ; Ch . 2 is &quot ; 11 : 30AM , &quot ; Ch . 3 is &quot ; 2 : 15 , &quot ; Ch . 4 is &quot ; 6 : 15 , &quot ; and Ch . 5 is &quot ; Showtime . &quot ;
+
+#	NEW	isbn	........ / 1998	// Wagner adapted his novel for , and directed , a 1998 film of the same title , starring <a> Frank Langella </a> and <a> Daniel von Bargen </a> .
+
+#	NEW	isbn	........ / 2003 .	// It won the <a> Books in Canada First Novel Award </a> in the same year and won the <a> McKitterick Prize </a> in 2003 .
+
+#	NEW	isbn	........ / 2007	// title in Portuguese : </em> A Travessia da Terra Vermelha &#x2013 ; uma saga dos refugiados judeus no Brasil <em> ) , is a <a> 2007 </a> novel by <a> Brazil </a> ian author <a> Lucius de Mello </a> . </em> </p>
+
+#	NEW	isbn	........ / 1994 .	// <p> <strong> Jennie </strong> is a novel by <a> American </a> author <a> Douglas Preston </a> published in 1994 .
+
+#	NEW	isbn	........ / 8	// <p> <strong> Todos los fuegos el fuego </strong> ( &quot ; All Fires The Fire&quot ; ) is a book of 8 <a> short stories </a> written by <a> Julio Cort&#x00e1 ; zar </a> . </p>
+
+#	NEW	isbn	........ / 2000 .	// <p> <strong> <em> Venus </em> </strong> is a <a> science fiction </a> novel by <a> Ben Bova </a> , part of the <a> Grand Tour </a> novel series and first published in the year 2000 .
+
+#	NEW	isbn	........ / 1985 .	// <p> <strong> <em> Dragonsbane </em> </strong> is a fantasy novel written by author <a> Barbara Hambly </a> and published by <a> Del Rey Books </a> in 1985 . </p>
+
+#	NEW	isbn	........ / 1958	// In 1958 it was made into a <a> film of the same name </a> .
+
+#	NEW	isbn	........ / 1988	// It was adapted by director <a> Gordon Hessler </a> into <a> a 1988 film </a> starring <a> Meg Tilly </a> . </p>
+
+#	NEW	isbn	........ / 2008 .	// <p> A 25-minute film adaptation of the book by <a> Studio aka </a> and directed by Philip Hunt was first broadcast on the UK&#x2019 ; s <a> Channel 4 </a> on <a> Christmas Eve </a> 2008 .
+
+#	NEW	isbn	........ / 2003 .	// <p> <strong> Aristotle </strong> is a children ' s book written by <a> Dick King-Smith </a> and illustrated by <a> Bob Graham </a> , published in 2003 .
+
+#	NEW	isbn	........ / 2009	// <p> A <a> screen adaptation </a> of the novel starring <a> Michael Sheen </a> as Brian Clough was released in 2009 to critical acclaim . </p>
+
+#	NEW	isbn	........ / 1989	// The book was published in 1989 and is based upon the author ' s travels in the southern states of the <a> U . S . </a> .
+
+#	NEW	isbn	........ / 1981	// It was first published in hardcover by <a> Nelson Doubleday </a> in December <a> 1981 </a> as a selection in its <a> Science Fiction Book Club </a> , and in paperback by <a> Dell Books </a> simultaneously . </p>
+
+#	NEW	isbn	........ / 2008 .	// the book was republished by Lost Roads ( under succeeding editorship of <a> C . D . Wright </a> and <a> Forrest Gander </a> ) in 2000 ; this <a> second , corrected edition </a> &#x2014 ; 383 pages , equipped with line numbers &#x2014 ; is in print , having been reprinted by the press in 2008 .
+
+#	NEW	isbn	........ / 2001	// <p> In the April 2001 issue of <a> Harper ' s </a> , the novelist <a> David Foster Wallace </a> said , &quot ; The fact of the matter is that Garner ' s dictionary is extremely good . . . Its format . . . includes entries on individual words and phrases and expostulative small-cap MINI-ESSAYS . &quot ;
+
+#	NEW	isbn	........ / 1980 '	// <p> The 1984 autobiography by <a> Julian Lloyd Webber </a> , <strong> <em> Travels with My Cello </em> </strong> , covers his childhood through to travelling the world as a concert performer in the early 1980 ' s . </p>
+
+#	NEW	isbn	........ / 1977	// It was first released in the <a> United Kingdom </a> by <a> Collins </a> in <a> 1977 </a> and later in the same year by <a> Doubleday </a> in the <a> United States </a> .
+
+#	NEW	isbn	........ / 1929	// <p> The book was not translated onto English until 1929 , when this was accomplished under the direction of the witchcraft scholar <a> Montague Summers </a> . </p>
+
+#	NEW	isbn	........ / 1991 .	// It was originally published in 1991 . </p>
+
+#	NEW	isbn	........ / 1994 .	// <p> The novel was turned into <a> a film </a> by <a> Paramount Pictures </a> in 1994 .
+
+#	NEW	isbn	........ / 15-	// <p> A 15-episode <a> film serial </a> was produced in 1941 , but it was set in Africa and the story bore no relation to the plot of the novel . </p>
+
+#	NEW	isbn	........ / 2007	// <p> <strong> Fire Dreamer </strong> is the second novel in the <a> Star Dancer </a> <a> Tetralogy </a> , written by the British author <a> Beth Webb </a> and published in <a> 2007 </a> by <a> Macmillan Publishers </a> . </p>
+
+#	NEW	isbn	........ / 1960 .	// <p> <strong> <em> The Winners </em> </strong> ( ) is a novel by <a> Julio Cort&#x00e1 ; zar </a> published in 1960 . </p>
+
+#	NEW	isbn	........ / 7	// The book was released 7 February 2008 . </p>
+
+#	NEW	isbn	........ / 2007 .	// <p> <strong> <em> Finding Violet Park </em> </strong> is a <a> young adult novel </a> by <a> Jenny Valentine </a> , first published in 2007 .
+
+115	TRUE	The Fall of the Towers::isbn	na / ( 1965 ).	
+<p> First published in omnibus form in 1970 , the trilogy was originally published individually as <em> <a> Captives of the Flame </a> </em> ( 1963 , rewritten as <em> Out of the Dead City </em> in 1968 ) , <em> <a> The Towers of Toron </a> </em> ( 1964 ) , and <em> <a> City of a Thousand Suns </a> </em> ( 1965 ) .
+
+#	NEW	isbn	........ / 20	// The book contains 20 pieces of Wolfe ' s best-known writing . </p>
+
+#	NEW	isbn	........ / 2008	// It is the basis for <a> John Polson </a> ' s 2008 film of the <a> same name </a> . </p>
+
+#	NEW	isbn	........ / 1986&#	// <p> This book is included in the fifth volume of Philip Roth ' s collected works <em> <a> Novels and Other Narratives 1986&#x2013 ; 1991 </a> </em> , published by the <a> Library of America </a> . </p>
+
+#	NEW	isbn	........ / 1991	// <p> <strong> <em> The Silent Stars Go By </em> </strong> is a 1991 <a> science fiction </a> book by author <a> James White </a> . </p>
+
+#	NEW	isbn	........ / 1905 .	// <p> Parts of the novel , under the title <em> Captain Hardizan </em> , were serialized in <em> The American Weekly </em> ( the Sunday Supplement to the Boston American newspaper ) from August 6 , 1905 to August 13 , 1905 .
+
+#	NEW	isbn	........ / 1976	// The book was originally published by Allison &amp ; Busby in 1976 and collects stories originally published between 1969 and 1974 .
+
+#	NEW	isbn	........ / 1987	// <p> <strong> <em> You Bright and Risen Angels </em> </strong> is a 1987 novel by <a> William T . Vollmann </a> , who described the book , his first , as an allegory in part .
+
+#	NEW	isbn	........ / 1981	// <p> <strong> <em> Cathedral </em> </strong> is a 1981 novel by <a> Nelson DeMille </a> . </p>
+
+#	NEW	isbn	........ / 1978	// <p> <strong> <em> By the Rivers of Babylon </em> </strong> is a 1978 thriller novel by <a> Nelson DeMille </a> . </p>
+
+#	NEW	isbn	........ / 2005 .	// <p> <em> Mayday </em> was adapted in a made-for-TV movie that premiered on CBS-TV as a Sunday night movie on October 2 , 2005 .
+
+126	TRUE	Sinister Barrier::isbn	na / 1939	
+The novel originally appeared in the magazine <em> <a> Unknown </a> </em> in 1939 , the first novel to appear in its pages .
+
+#	NEW	isbn	........ / 1983 .	// <p> <strong> <em> The Sentinel </em> </strong> is a collection of <a> science fiction </a> <a> short stories </a> by <a> Arthur C . Clarke </a> originally published in 1983 . </p>
+
+128	FALSE	Subspace Explorers::isbn	na / 1960	
+The novel is an expansion of Smith ' s story &quot ; Subspace Survivors&quot ; which first appeared in the July 1960 issue of the magazine <em> <a> Astounding </a> </em> . </p>
+
+#	NEW	isbn	........ / 12	// The book has been cited as a source in at least 12 other published works . </p>
+
+#	NEW	isbn	........ / 1875	// <p> <strong> <em> The Primrose Path </em> </strong> is an <a> 1875 </a> novel by <a> Bram Stoker </a> .
+
+#	NEW	isbn	........ / 22	// <p> <strong> <em> Twice 22 </em> </strong> is a collection of short stories by <a> Ray Bradbury </a> .
+
+#	NEW	isbn	........ / 000	// <p> William J . Hypperbone , an eccentric millionaire , living in Chicago , has left the sum of his fortune , $60 , 000 , 000 , to the first person to reach the end of &quot ; The Noble Game of the United States of America . &quot ;
+
+#	NEW	isbn	........ / 1	// Stories from the original collections that are included in <em> <a> Classic Stories 1 </a> </em> are omitted . </p>
+
+#	NEW	isbn	........ / 2004 .	// <p> <strong> <em> Chinese Cinderella and the Secret Dragon Society </em> </strong> is a historical novel by <a> Adeline Yen Mah </a> , published in 2004 .
+
+#	NEW	isbn	........ / 1978	// <p> <strong> <em> Now And Forever </em> </strong> is a <a> romance novel </a> , authored by <a> Danielle Steel </a> and published on <a> 1978 </a> by <a> Dell Publishing </a> . </p>
+
+#	NEW	isbn	........ / ( 1932 - 2000 )	// <p> <strong> Tales of Joujouka </strong> is a book by the Moroccan painter <a> Mohamed Hamri </a> ( 1932 - 2000 ) containing eight stories featuring the legends , folkore and Sufi origins myths and rituals of the <a> Master Musicians of Joujouka </a> .
+
+#	NEW	isbn	........ / 1985 ( &	// <p> Highlights of the book include Jackson ' s account of growing up largely without a source of authority in his life , Jackson ' s love for running and jumping while hating organized practices , and how Jackson dealt with all the hype and expectations that came with winning the <a> Heisman trophy </a> in 1985 ( &quot ; I picked baseball . &quot ; ) </p>
+
+#	NEW	isbn	........ / 1939	// <p> <strong> <em> The Problem of the Wire Cage </em> </strong> , first published in <a> 1939 </a> , is a detective story by <a> John Dickson Carr </a> featuring his series detective <a> Gideon Fell </a> .
+
+#	NEW	isbn	........ / 1956	// <p> <strong> <em> Patrick Butler for the Defense </em> </strong> , first published in <a> 1956 </a> , is a detective story by <a> John Dickson Carr </a> which features Carr ' s series detective <a> Patrick Butler </a> ( who appeared in only two novels ) .
+
+#	NEW	isbn	........ / 1965	// <p> <strong> <em> The House at Satan ' s Elbow </em> </strong> , first published in <a> 1965 </a> , is a detective story by <a> John Dickson Carr </a> featuring his series detective <a> Gideon Fell </a> .
+
+#	NEW	isbn	........ / 2007 .	// The book will be released on January 15 , 2007 . </p>
+
+#	NEW	isbn	........ / 1990	// A <a> film adaption </a> was released in <a> 1990 </a> . </p>
+
+#	NEW	isbn	........ / 1935	// <p> <strong> <em> Deathblow Hill </em> </strong> , first published in <a> 1935 </a> , is a <a> detective story </a> by <a> Phoebe Atwood Taylor </a> which features her series detective <a> Asey Mayo </a> , the &quot ; Codfish Sherlock&quot ; .
+
+144	FALSE	The Book of Philip K. Dick::isbn	na / 1977	
+The book was subsequently published in the United Kingdom by Coronet in 1977 under the title <em> The Turning Wheel and Other Stories </em> .
+
+#	NEW	isbn	........ / 1803	// <p> The ruckus began with Irving&#x2019 ; s January 17 , 1803 , letter , his sixth , in which &quot ; Quoz&quot ; , a new character introduced by Irving as a friend of Oldstyle&#x2019 ; s , took a backhanded shot at critics for taking all the fun out of the theater : &quot ; The critics , my dear Jonathan , are the very pests of society &#x2026 ; they reduce our feelings to a state of miserable refinement , and destroy entirely all the enjoyments in which our coarser sensations delighted . &quot ; </p>
+
+#	NEW	isbn	........ / 1942	// <p> <strong> <em> Dreaming of Babylon : A Private Eye Novel 1942 </em> </strong> is <a> Richard Brautigan </a> ' s eighth novel and was published in 1977 .
+
+#	NEW	isbn	........ / 1939 .	// <p> Beautiful film star Eve Eden ' s fianc&#x00e9 ; Hector Matthews died in a strange accident while the couple was visiting <a> Adolf Hitler </a> at <a> Berchtesgaden </a> in 1939 .
+
+#	NEW	isbn	........ / 2008	// <p> <strong> <em> Sword Quest </em> </strong> is a <a> 2008 </a> <a> children ' s </a> adventure novel by <a> Nancy Yi Fan </a> .
+
+#	NEW	isbn	........ / 2001 .	// <p> <strong> <em> The King ' s Name </em> </strong> is a <a> fantasy novel </a> written by <a> Jo Walton </a> and published by <a> Tor Books </a> in October 2001 .
+
+#	NEW	isbn	........ / 1981 .	// It was first published by <a> Ace Books </a> in 1981 .
+
+#	NEW	isbn	........ / 1964	// The second English translation was made by <a> Dmitri Nabokov </a> in 1964 with the help of his father who also made some alterations ; it was published in 1966 .
+
+#	NEW	isbn	........ / 1944 .	// <p> It is an <a> historical novel </a> set in <a> Helsinki </a> in the period from 1905 until 1944 .
+
+#	NEW	isbn	........ / 1917	// Originally published as series of autobiographical essay in the Toronto magazine <em> Everywoman ' s World </em> from June to November in 1917 , and later separately published in 1975 . </p>
+
+#	NEW	isbn	........ / 1989 .	// It was first published by <a> Mark V . Ziesing </a> in 1989 . </p>
+
+155	TRUE	Doctor Dolittle and the Green Canary::isbn	na / 1924	
+Although much of the material had been printed originally in 1924 for the <em> <a> Herald Tribune Syndicate </a> </em> , Lofting planned to complete the story in book form but never finished before he died .
+
+#	NEW	isbn	........ / 2007	// <p> <strong> <em> Impulse </em> </strong> is a <a> 2007 </a> <a> American </a> <a> young adult novel </a> in <a> verse </a> written by <a> Ellen Hopkins </a> . </p>
+
+157	FALSE	Three Hundred Years Hence::isbn	na / 1881	
+Another , later book bears the same title : William Delisle Hay called his 1881 work <em> Three Hundred Years Hence or A Voice From Posterity </em> , probably in ignorance of Griffith ' s earlier but then-obscure work . </p>
+
+#	NEW	isbn	........ / 1981	// It won the <a> Hugo Award for Best Novella </a> in 1981 and was also nominated for the <a> Nebula Award </a> in 1980 . </p>
+
+#	NEW	isbn	........ / 2007	// <p> <strong> <em> The Choice </em> </strong> is a <a> 2007 </a> novel by acclaimed author <a> Nicholas Sparks </a> . </p>
+
+#	NEW	isbn	........ / 4	// <p> The story was adapted by <a> Ellen Dryden </a> for <a> BBC Radio 4 </a> ' s <a> Woman ' s Hour Drama </a> in 2004 . </p>
+
+#	NEW	isbn	........ / ( 2004 )	// <p> <strong> <em> Cast a Bright Shadow </em> </strong> ( 2004 ) is the first novel in <a> The Lionwolf Series </a> by <a> Tanith Lee </a> . </p>
+
+#	NEW	isbn	........ / 1989	// <p> <strong> <em> Daddy </em> </strong> is a 1989 novel by <a> Danielle Steele </a> .
+
+#	NEW	isbn	........ / 2006 .	// <p> Sections of the novel were adapted for the award-winning film , <em> Fishbowl </em> [ <a> http : / /www . fishbowlfilm . co / FISHBOWL%20IMAGE / introductionnew . html </a> ] ( 2005 ) , by Hawai ' i filmmaker <a> Kayo Hatta </a> , that aired nationally on <a> PBS </a> in 2006 . </p>
+
+#	NEW	isbn	........ / 1991	// It was first published by Citadel Twilight in 1991 and reprints Volume III of <em> <a> The Collected Stories of Philip K . Dick </a> </em> with the addition of the story &quot ; <a> Second Variety </a> &quot ; .
+
+#	NEW	isbn	........ / 2007 .	// <p> <strong> So You Want To Tread The Boards </strong> is a factual book written by <a> Jennifer Reischel </a> and published in 2007 .
+
+166	FALSE	Danger—Human::isbn	na / 1973	
+It was subsequently published by <a> DAW Books </a> , in 1973 , as <em> The Book of Gordon Dickson </em> .
+
+#	NEW	isbn	........ / 1968	// <p> <strong> Royal Valley : The Story Of The Aberdeenshire Dee </strong> is book published in 1968 describing the geography , and history of the Dee Valley , in <a> Aberdeenshire </a> , <a> Scotland </a> . </p>
+
+#	NEW	isbn	........ / ( 1992 )	// <p> <strong> <em> Double Solitaire </em> </strong> ( 1992 ) , the tenth entry and the first full <a> novel </a> in the <em> <a> Wild Cards </a> </em> <a> shared universe </a> fiction series edited by <a> George R . R . Martin </a> .
+
+#	NEW	isbn	........ / ( 1984 )	// The title story is original to this collection , and features &quot ; Red Jamie&quot ; , a character from the Thieves World series previously in Dickson ' s collaborative novel <em> Jamie the Red </em> ( 1984 ) ( written with <a> Roland Green </a> ) .
+
+#	NEW	isbn	........ / 1986 .	// It was first published by <a> Ace Books </a> in 1986 .
+
+#	NEW	isbn	........ / 2004	// <p> <strong> <em> Play to the End </em> </strong> is a <a> crime novel </a> by <a> Robert Goddard </a> first published in <a> 2004 </a> .
+
+#	NEW	isbn	........ / 1971	// <p> The title is a play on <em> <a> The French Connection </a> </em> , a 1971 Oscar-winning film based on the real-life <a> drug-smuggling operation </a> between France and the United States .
+
+#	NEW	isbn	........ / 2008	// <p> Film producer <a> Scott Rudin </a> bought the rights to <em> Indignation </em> in April 2008 , five months before the book was scheduled to be published .
+
+#	NEW	isbn	........ / 1976 .	// The included works that had won the <a> Nebula Award </a> and were originally published in 1975 and 1976 .
+
+175	TRUE	Pattern for Conquest::isbn	na / 1946.	
+The novel was originally serialized in the magazine <em> <a> Astounding </a> </em> in 1946 . </p>
+
+#	NEW	isbn	........ / 1951	// The stories had originally appeared in 1951 in the magazines <em> <a> Astounding </a> </em> , <em> <a> Super Science Stories </a> </em> and <em> Two Complete Science-Adventure Books </em> . </p>
+
+#	NEW	isbn	........ / 1952	// The stories had originally appeared in 1952 in the magazines <em> <a> Astounding </a> </em> , <em> <a> Galaxy Science Fiction </a> </em> and <em> <a> Thrilling Wonder Stories </a> </em> . </p>
+
+#	NEW	isbn	........ / 100	// The collection contains more than 1 , 100 comics that had not previously appeared in any other Far Side books .
+
+#	NEW	isbn	........ / 1947 .	// The novel is an expansion of Smith ' s story &quot ; The Kingdom of the Blind&quot ; which first appeared in the magazine <em> <a> Startling Stories </a> </em> in 1947 .
+
+#	NEW	isbn	........ / 1955	// It was reprinted by <a> Berkley Books </a> in 1955 under the title <em> <a> Mission to the Stars </a> </em> .
+
+#	NEW	isbn	........ / 4	// It has been reprinted with the title <em> Tales of the Dying Earth </em> by <a> Tor Books </a> in the US and by <a> Orion Books </a> in the UK as volume 4 of their <a> Fantasy Masterworks </a> series . </p>
+
+#	NEW	isbn	........ / 1884	// <p> <strong> <em> The Archipelago on Fire </em> </strong> ( , <a> 1884 </a> ) is an <a> adventure novel </a> written by <a> Jules Verne </a> , taking place during the <a> Greek War of Independence </a> . </p>
+
+183	TRUE	The Field of Vision::isbn	na / 1956.	
+It won the <a> National Book Award </a> in 1956 . </p>
+
+#	NEW	isbn	........ / 2002	// <p> <strong> <em> Dark Star Safari </em> </strong> ( <a> 2002 </a> ) is a written account of a trip taken by author <a> Paul Theroux </a> from <a> Cairo </a> to <a> Cape Town </a> via trains , planes , buses , cars , and armed convoy . </p>
+
+#	NEW	isbn	........ / 1960	// Her first published work , this story is set in the <a> 1960 </a> ' s and focuses on the character Lily Beach as she struggles with a past of abuse .
+
+#	NEW	isbn	........ / 2005	// <p> In a 2005 interview for the <em> <a> Sunday Herald </a> </em> , Brottman defined the elements that make a &quot ; cursed movie&quot ; : &quot ; A film will appear to be hexed if one or more of the stars has died after filming or during filming or if it turns out that the stars have drug or health problems or suicidal tendencies - something that the audience wasn ' t aware of at the time .
+
+#	NEW	isbn	........ / 1964 ;	// <p> <strong> <em> O Strange New World </em> </strong> : American Culture-The Formative Years <em> was written by <a> Howard Mumford Jones </a> and published by <a> Viking Press </a> in 1964 ; it won the <a> 1965 </a> <a> Pulitzer Prize for General Non-Fiction </a> .
+
+#	NEW	isbn	........ / 2000	// The novel was notably reprinted by <a> Orion Books </a> in 2000 as volume 9 of their <a> Fantasy Masterworks </a> series . </pre>
+
+#	NEW	isbn	........ / ( 2005 ) .	// The book was translated from Norwegian , where it was published under the title &quot ; I pose og sekk ! &quot ; ( 2005 ) .
+
+#	NEW	isbn	........ / 1978 .	// <p> The series was originally conceived by British historian <a> Denis C . Twitchett </a> and American historian <a> John K . Fairbank </a> in the late 1960s , and publication began in 1978 .
+
+#	NEW	isbn	........ / 1996	// <p> <strong> <em> Hallucinating Foucault </em> </strong> is a 1996 novel by <a> Patricia Duncker </a> . </p>
+
+#	NEW	isbn	........ / ( 1993 ) .	// <p> <strong> <em> The Dragons of Babel </em> </strong> is a 2008 novel by American author <a> Michael Swanwick </a> , set in the same world as his earlier work <em> <a> The Iron Dragon ' s Daughter </a> </em> ( 1993 ) .
+
+#	NEW	isbn	........ / 4-	// <p> It was adapted into a 4-part television mini-series in 1980 for the <a> BBC </a> starring <a> David Beames </a> as Franklin and <a> C&#x00e9 ; cile Paoli </a> as Fran&#x00e7 ; oise .
+
+#	NEW	isbn	........ / 1992	// The first three novels were adapted for television in <a> 1992 </a> , in a series produced by <a> Jos&#x00e9 ; Luis Borau </a> entitled <em> <a> Celia </a> </em> , which starred Cristina Cruz M&#x00ed ; nguez in the title role . </p>
+
+#	NEW	isbn	........ / 1999 .	// <p> <strong> <em> The Coffin Quilt </em> </strong> is a novel by <a> Ann Rinaldi </a> that was first published in 1999 .
+
+196	TRUE	A Girl, a Man, and a River::isbn	na / ( 1957 )	
+<p> <strong> <em> A Girl , A Man , and a River </em> </strong> ( 1957 ) is a mystery story by John and <a> Ward Hawkins </a> was originally written as a seven part serial in the <a> Saturday Evening Post </a> , published in issues from January 21 , 1956 , until March 3 , 1956 .
+
+197	TRUE	A Tract of Time::isbn	na / 51	
+<p> The book has been considered to be an important novel from the time , It was listed in <em> Firsts : The Book Collector ' s Magazine </em> in a list of the top 51 Vietnam War novels . ref
+
+#	NEW	isbn	........ / 1968	// The book was written as Hoffman was awaiting trial for conspiring to incite riots at the <a> 1968 Democratic National Convention </a> in <a> Chicago </a> ( see <a> Chicago Seven </a> ) . </p>
+
+199	TRUE	Iceworld::isbn	na / 1951.	
+The novel was originally serialized in the magazine <em> <a> Astounding </a> </em> in 1951 . </p>
+
+#	NEW	isbn	........ / 1987	// Originally published by the <a> Fondo de Cultura Econ&#x00f3 ; mica </a> in 1987 , the first U . S . edition was published in 1989 by Farrar , Straus &amp ; Giroux . </p>
+
+#	NEW	isbn	........ / 1	// <p> The A-1 Women ' s Discount Bookstore states that &quot ; <em> My Turn </em> is the memoir of one of the most fascinating , controversial , and enigmatic first ladies in American history . &quot ;
+
+202	TRUE	The Forgotten Planet::isbn	na / 1920	
+The novel is a <a> fix-up </a> from three short stories , &quot ; The Mad Planet&quot ; and &quot ; The Red Dust&quot ; , both of which had originally appeared in the magazine <em> <a> Argosy </a> </em> in 1920 and 1921 and &quot ; Nightmare Planet&quot ; which appeared in <em> Science Fiction Plus </em> in 1953 . </p>
+
+#	NEW	isbn	........ / 2003&	// <p> <strong> <em> Southland </em> </strong> is a <a> Los Angeles Times </a> best-selling novel and &quot ; Best book of 2003&quot ; by <a> Nina Revoyr </a> .
+
+#	NEW	isbn	........ / 1990	// The 1990 movie <em> <a> Stanley &amp ; Iris </a> </em> is a loose adaptation of the novel .
+
+#	NEW	isbn	........ / 1902	// <p> <strong> <em> The Kip Brothers </em> </strong> ( , <a> 1902 </a> ) is an <a> adventure novel </a> written by <a> Jules Verne </a> . </p>
+
+206	TRUE	Tom Swift Among the Fire Fighters::isbn	na / 24	
+<p> <strong> <em> Tom Swift Among the Fire Fighters </em> </strong> , Or , Battling Flames From the Air , is Volume 24 in the original <a> Tom Swift </a> novel series published by <a> Grosset &amp ; Dunlap </a> .
+
+#	NEW	isbn	........ / 2002	// Winner of the <a> 2002 World Fantasy Award for Best Story Collection </a> . </p>
+
+#	NEW	isbn	........ / 1982	// It was proceeded in 1982 by the fifth and final book of the series , <em> The Borrowers Avenged . </em> </p>
+
+#	NEW	isbn	........ / 2008	// <p> In late 2008 , film studio <a> United Artists </a> announced its purchase of the film rights to <em> The Monster of Florence </em> .
+
+#	NEW	isbn	........ / 1986 .	// It was originally published in <a> German </a> in 1986 . </p>
+
+#	NEW	isbn	........ / 1995 .	// <p> <strong> <em> Dragon&#x2019 ; s Rock </em> </strong> is a novel for young adults by British author <a> Tim Bowler </a> , first published in 1995 .
+
+#	NEW	isbn	........ / 1983	// <p> <strong> <em> Against His-Story , Against Leviathan ! </em> </strong> is a 1983 book by <a> Fredy Perlman </a> , for which he is best known .
+
+#	NEW	isbn	........ / 2003	// <p> <strong> <em> The Touch </em> </strong> is a <a> historical novel </a> by <a> Colleen McCullough </a> published in <a> 2003 </a> .
+
+#	NEW	isbn	........ / 1917	// <p> <strong> &quot ; Out Where the West Begins&quot ; </strong> is a poem written by <a> Arthur Chapman </a> and first published in his 1917 book of verse , <em> Out Where the West Begins : And Other Western Verses . </em>
+
+#	NEW	isbn	........ / 12	// The collection is of 12 short stories set in <a> Edinburgh </a> , where Ian Rankin sets almost all of his novels . </p>
+
+#	NEW	isbn	........ / 23-	// The 23-minute program was produced by Mercer Mayer for Perennial Pictures Film Corporation .
+
+#	NEW	isbn	........ / 2	// It is also known as <strong> Tim The Tiny Horse 2 </strong> . </p>
+
+#	NEW	isbn	........ / 2008	// <p> <strong> <em> The Go-Giver : A Little Story about a Powerful Business Idea </em> </strong> is a 2008 book written by Bob Burg and John D . Mann .
+
+#	NEW	isbn	........ / ( 1888-1982 )	// <p> <strong> <em> The Gown of Glory </em> </strong> is a <a> novel </a> by the <a> American </a> writer <a> Agnes Sligh Turnbull </a> ( 1888-1982 ) set in a fictional rural village of Ladykirk , which is much like the author ' s birthplace of <a> New Alexandria </a> , <a> Pennsylvania </a> , about thirty miles east of <a> Pittsburgh </a> . </p>
+
+#	NEW	isbn	........ / 255	// <p> <strong> <em> Apartment 255 </em> </strong> is a <a> 2001 </a> <a> Ned Kelly Award </a> winning novel by the Australian author <a> Bunty Avieson </a> . </p>
+
+#	NEW	isbn	........ / 1970	// It was also adapted in to a 1970 <a> film of the same name </a> . </p>
+
+#	NEW	isbn	........ / ( 1970 )	// <p> <strong> <em> The Long Lavender Look </em> </strong> ( 1970 ) is the twelfth novel in the <a> Travis McGee </a> series by <a> John D . MacDonald </a> .
+
+#	NEW	isbn	........ / 1946 .	// <p> <strong> <em> Back </em> </strong> is a novel written by British writer <a> Henry Green </a> and published in 1946 . </p>
+
+#	NEW	isbn	........ / ( 22 : 5 )	// <p> Title comes from a passage in the <a> Book of Revelation </a> ( 22 : 5 ) which is quoted by Lunt ' s character in Act 3 , Scene 6 : <em> There shall be no night there : They need no lamp nor light of the sun , for the Lord God gives them light . . . </em> </p>
+
+225	FALSE	List of Recent Holarctic Bird Species::isbn	0-907446-13-2 / 1977.	
+It was originally published in two parts in the BOU ' s journal <a> Ibis </a> : that covering the <a> non-passerines </a> in 1973 , and the <a> passerine </a> part in 1977 .
+
+#	NEW	isbn	........ / 1909 .	// <p> <strong> <em> The Lady of the Shroud </em> </strong> is a novel by <a> Bram Stoker </a> ( the author of <em> <a> Dracula </a> </em> ) , written in 1909 . </p>
+
+227	FALSE	Haï (essay)::isbn	978-2-605-00112-5 / 1987.	
+<p> It was reprinted by Flammarion , Paris in 1987 . </p>
+
+#	NEW	isbn	........ / 1995	// In 1995 the title was altered to <em> The New Sotheby ' s Wine Encyclopedia </em> , while the current title has been in use since the 2005 revision , which also contained a vast number of upgradings to winery <a> ratings </a> , and for the first time incorporated symbols to identify wineries that are <a> organic </a> or <a> biodynamic </a> . </p>
+
+#	NEW	isbn	........ / ( 1973 )	// <p> <strong> <em> The Turquoise Lament </em> </strong> ( 1973 ) is the fifteenth novel in the <a> Travis McGee </a> series by <a> John D . MacDonald </a> .
+
+#	NEW	isbn	........ / 1997	// <p> The book was re-released in October 1997 in a special edition where Wally was moved in each picture and additional characters were added for the reader to find ( Woof , Wizard Whitebeard , Wenda , Odlaw , the Wally Watchers and others ) .
+
+#	NEW	isbn	........ / 1907	// <p> <strong> <em> K . </em> </strong> is a <a> crime novel </a> by the <a> American </a> writer <a> Mary Roberts Rinehart </a> ( <a> 1876 </a> - <a> 1956 </a> ) set in <a> Victorian </a> <a> Allegheny City </a> , <a> Pennsylvania </a> ( which since 1907 has been a part of the city of <a> Pittsburgh </a> ) . </p>
+
+#	NEW	isbn	........ / 2000	// <p> In an interview in 2000 , Koch noted that this novel , and his later work <em> Out of Ireland </em> , formed a diptych called <em> Beware of the Past </em> .
+
+#	NEW	isbn	........ / 13	// Collins adapted the novel for film herself , It is anticipated to have a PG-13 rating .
+
+#	NEW	isbn	........ / 1965	// First published in 1965 , it is Cormier ' s third novel .
+
+#	NEW	isbn	........ / 1989	// The book originated as a radio series aired in 1989 by the <a> Canadian Broadcasting Corporation </a> . </p>
+
+#	NEW	isbn	........ / 1840	// <p> The novel is the sequel to <em> On Night ' s Shore </em> , in which Edgar Allan Poe investigates the murder of shopgirl Mary Rogers in <a> Manhattan </a> of <a> 1840 </a> . </p>
+
+#	NEW	isbn	........ / 1905	// <p> <strong> <em> Steel Ashes </em> </strong> is a <a> crime novel </a> by the <a> American </a> writer <a> Karen Rose Cercone </a> set in 1905 <a> Pittsburgh </a> , <a> Pennsylvania </a> . </p>
+
+#	NEW	isbn	........ / 2006	// In 2006 , Pocket Books published <em> <a> Voyages of Imagination </a> </em> , which expanded <em> Star Trek Chronology </em> to include the events of all of the Star Trek novels . </p>
+
+#	NEW	isbn	........ / 1992	// In 1992 the <a> University of Pittsburgh Press </a> published the three in one volume under the title <em> The Homewood Books </em> .
+
+#	NEW	isbn	........ / 1998 .	// <p> The novel was filmed as an <a> episode </a> in <a> <em> Inspector Morse </em> </a> and was first aired on 11 November 1998 .
+
+#	NEW	isbn	........ / 102	// <p> <strong> <em> 102 Minutes : The Untold Story of the Fight to Survive Inside the Twin Towers </em> </strong> is an American <a> non-fiction </a> book that was published in 2005 and was written by <em> <a> New York Times </a> </em> journalists <a> Jim Dwyer </a> and <a> Kevin Flynn </a> .
+
+#	NEW	isbn	........ / ( 1888-1982 )	// <p> <strong> <em> The Nightingale </em> </strong> is a <a> novel </a> by the <a> American </a> writer <a> Agnes Sligh Turnbull </a> ( 1888-1982 ) set in a fictional , turn-of-the-century , rural <a> Western Pennsylvania </a> village ( but much like the author ' s birthplace of <a> New Alexandria </a> , <a> Pennsylvania </a> , about thirty miles east of <a> Pittsburgh </a> ) . </p>
+
+#	NEW	isbn	........ / ( 1909&	// <p> <strong> <em> The Persistent Image </em> </strong> is a <a> novel </a> by the <a> American </a> writer <a> Gladys Schmitt </a> ( 1909&ndash ; 1972 ) set in a fictional version of 1950s <a> Pittsburgh </a> , <a> Pennsylvania </a> . </p>
+
+#	NEW	isbn	........ / 17-	// <p> It is the first book in the 17-volume Rocksburg series . </p>
+
+#	NEW	isbn	........ / 17-	// <p> It is the second book in the 17-volume Rocksburg series . </p>
+
+#	NEW	isbn	........ / 17-	// <p> It is the fifth book in the 17-volume Rocksburg series . </p>
+
+#	NEW	isbn	........ / 1973	// <p> The main character , observed from a distance by a first-person narrator , in Roberto Bola&#x00f1 ; o&#x2019 ; s Distant Star is Alberto Ruiz-Tagle , who exploits the 1973 coup to launch his own version of the New Chilean Poetry : a multi-media enterprise involving sky-writing , torture , photography , murder , and verse .
+
+#	NEW	isbn	........ / 17-	// <p> It is the thirteenth book in the 17-volume Rocksburg series . </p>
+
+#	NEW	isbn	........ / 17-	// <p> It is the tenth book in the 17-volume Rocksburg series . </p>
+
+#	NEW	isbn	........ / 11-	// Set in medieval <a> Japan </a> , the novel tells the story of Takiko , the 11-year-old daughter of a slain <a> samurai </a> warrior .
+
+#	NEW	isbn	........ / 2005 .	// <a> Margaret Jull Costa </a> &#x2019 ; s English Translation was published by <a> New Directions </a> in 2005 .
+
+#	NEW	isbn	........ / 2008	// This adaptation won the 2008 American Harmony Prize . </p>
+
+#	NEW	isbn	........ / 2008	// <p> <strong> Disguise </strong> is a <a> 2008 </a> <a> novel </a> by the <a> Irish </a> writer <a> Hugo Hamilton </a> set in Germany . </p>
+
+#	NEW	isbn	........ / 108	// <p> Moon also includes a list of &quot ; 108 more recordings to know about . &quot ; </p>
+
+#	NEW	isbn	........ / 1996	// <p> The novel won the 1996 <a> American Library Association </a> Best Book for Young Adults award . </pre>
+
+#	NEW	isbn	........ / 27 2008 .	// name = NYT1 / <em> Home </em> was #1 on the <a> New York Times Best Seller List </a> of <a> non-fiction </a> adult titles on April 27 2008 . ref
+
+#	NEW	isbn	........ / 1	// name = wbbm / ref name = Today / The book was #1 for two weeks on the <a> adult non-fiction </a> <a> New York Times Best Seller list </a> in 2008 . </p>
+
+#	NEW	isbn	........ / 1994 .	// <p> The novel was chosen by <em> <a> The New York Times Book Review </a> </em> as a notable book of the year in 1994 . </pre>
+
+#	NEW	isbn	........ / 2007 .	// It is the first novel the <em> <a> Darkglass Mountain </a> </em> trilogy and was published in 2007 .
+
+#	NEW	isbn	........ / 2005 .	// The novel was selected by <em> Booklist </em> , a magazine of the <a> American Library Association </a> , as one of the ten best first novels of 2005 . </pre>
+
+#	NEW	isbn	........ / 2005	// <p> <strong> <em> The Wing of Night </em> </strong> is a 2005 novel by <a> Australia </a> n author <a> Brenda Walker </a> .
+
+#	NEW	isbn	........ / 2008	// <p> In 2008 Petra Kalive adptated this novel for the stage .
+
+#	NEW	isbn	........ / 2008 .	// <em> Gone </em> , the first novel in the series , was originally published in 2008 .
+
+#	NEW	isbn	........ / ( 2006 ) .	// It was adapted twice into feature films : a Finnish movie called <em> <a> J&#x00e4 ; niksen vuosi </a> </em> ( 1977 ) , and a French movie directed by <a> Marc Rivi&#x00e8 ; re </a> called <em> Le Li&#x00e8 ; vre de Vatanen </em> ( 2006 ) . [ <a> http : / /www . imdb . co / titl / tt046269 / </a> ] </p>
+
+#	NEW	isbn	........ / 2008	// The title was revealed by D . J . MacHale on December 9 , 2008 , and was taken from a closing line in the preceding book , <em> <a> Raven Rise </a> </em> . .
+
+266	TRUE	Sahib Bibi Aur Ghulam (novel)::isbn	na / 1962	
+<p> The novel has been adapted into a film released in 1962 starring <a> Meena Kumari </a> , <a> Rehman </a> and <a> Guru Dutt </a> among others . </p>
+
+#	NEW	isbn	........ / 1896	// <p> <strong> <em> A Prophetic Romance : Mars to Earth </em> </strong> is an <a> 1896 </a> <a> utopian novel </a> written by John McCoy , and published pseudonymously as the work of &quot ; The Lord Commissioner , &quot ; the narrator of the tale .
+
+#	NEW	isbn	........ / 20	// The novel was regarded by Selby as the most disturbing book ever written , and Selby stated that he himself was unable to read it again for 20 years .
+
+#	NEW	isbn	........ / 1936	// <p> <strong> <em> The Great Saint Patrick ' s Day Flood </em> </strong> is a <a> novella </a> for children by the <a> American </a> writer Mildred S . Flaherty based on events of the <a> Pittsburgh Flood of 1936 </a> in <a> Pittsburgh </a> , <a> Pennsylvania </a> . </p>
+
+#	NEW	isbn	........ / 24	// On 24 January 2009 , the TV movie <em> <a> Prayers for Bobby </a> </em> , an adaptation of the book starring <a> Sigourney Weaver </a> and <a> Ryan Kelley </a> in the title role as Bobby , was shown on the <a> Lifetime </a> cable network . </p>
+
+#	NEW	isbn	........ / 1993	// Named Australian Executive Woman of the Year in 1993 , Catherine found herself dining with princes , prime ministers and Olympic athletes .
+
+#	NEW	isbn	........ / 2001 .	// <p> The novel was selected as a <em> New York Times </em> Notable Book of 2001 . </p>
+
+#	NEW	isbn	........ / 2008 .	// <p> The original publication date for the book was October 14 , 2008 .
+
+#	NEW	isbn	........ / 1993 .	// It was originally published in the <a> French language </a> in 1993 . </p>
+
+#	NEW	isbn	........ / 1978	// <p> <strong> <em> ' Coral Gardens </em> </strong> ' is the title of the <a> 1978 </a> English-language translation of German film director <a> Leni Riefenstahl </a> ' s <strong> <em> ' Koralleng&#x00e4 ; rten </em> </strong> ' , an illustrations book published in the same year in Germany .
+
+#	NEW	isbn	........ / 2007 .	// The book was first published on 23 October 2007 .
+
+#	NEW	isbn	........ / 10	// <p> &#x0009 ; The Caliph ' s House was nominated as one of <a> TIME </a> magazine ' s 10 Best Books of 2006 The book is to be the basis for a feature film , written and directed by identical twin Hollywood writers Chad and Carey Hayes . </p>
+
+#	NEW	isbn	........ / 1991 .	// Most of the book is dedicated to the band ' s early period from 1985 to the release of the <em> <a> Use Your Illusion </a> </em> albums in 1991 .
+
+#	NEW	isbn	........ / 1990	// <p> <strong> <em> Wonder under Water </em> </strong> is the English-language title of German film director <a> Leni Riefenstahl </a> ' s <a> 1990 </a> <strong> <em> Wunder unter Wasser </em> </strong> , an illustrations book of marine life .
+
+#	NEW	isbn	........ / 200	// <em> Statism and Anarchy </em> was the only one of Bakunin ' s major anarchist works to be written in Russian , and was primarily aimed at a Russian audience , with an initial print run of 1 , 200 copies printed in <a> Switzerland </a> and smuggled into Russia .
+
+#	NEW	isbn	........ / 1880&#	// <p> The <strong> Geographical Dictionary of the Kingdom of Poland and other Slavic Countries </strong> ( ) is a <a> Polish </a> monumental <a> encyclopedia </a> that was published between 1880&#x2013 ; 1902 in <a> Warsaw </a> by <a> Filip Sulimierski </a> , <a> Bronis&#x0142 ; aw Chlebowski </a> , <a> W&#x0142 ; adys&#x0142 ; aw Walewski </a> and others . </p>
+
+#	NEW	isbn	........ / 1955 .	// The novel was published as <em> The Bride of Death </em> in the United States in 1955 . </p>
+
+#	NEW	isbn	........ / ( 2008 )	// <p> <strong> <em> American Exorcist : Critical Essays on William Peter Blatty </em> </strong> ( 2008 ) is a collection of essays studying all of <a> William Peter Blatty ' s </a> novels , from <em> Which Way To Mecca , Jack ? </em> ( 1959 ) to <em> <a> Elsewhere </a> </em> ( 2009 ) . </p>
+
+#	NEW	isbn	........ / 26-	// These are followed by a 26-page bibliography , and indexes to English and scientific names . </p>
+
+#	NEW	isbn	........ / 1967 .	// It was first published in hardcover by <a> Dennis Dobson </a> in 1965 , followed by a paperback edition by <a> Corgi </a> the same year , and an <a> American </a> paperback edition by <a> Bantam Books </a> in February 1967 .
+
+#	NEW	isbn	........ / 1971 .	// It was first published in hardcover by <a> Dennis Dobson </a> in the <a> United Kingdom </a> in 1966 , followed by a paperback edition by <a> Corgi </a> the same year , and an <a> American </a> paperback edition with different contents by <a> Bantam Books </a> in December 1971 . </p>
+
+#	NEW	isbn	........ / 1972 .	// It was first published in hardcover by <a> Dennis Dobson </a> in the <a> United Kingdom </a> in 1966 , followed by a paperback edition by <a> Corgi </a> the same year , and an <a> American </a> paperback edition with different contents by <a> Bantam Books </a> in May 1972 . </p>
+
+#	NEW	isbn	........ / 2011 .	// Warner Bros . will be releasing the film adaption on <a> May 6 </a> , 2011 . </p>
+
+#	NEW	isbn	........ / 1969	// Released in 1968 after the <a> assassination of Martin Luther King Jr . </a> and the <a> subsequent riots </a> , the book received significant attention immediately and in the years since , and led to an <a> ABC </a> TV special in 1969 entitled &quot ; To Be Black . &quot ; </p>
+
+#	NEW	isbn	........ / 1958	// Although completed in 1958 it was rejected by several publishers in the late fifties , one of whom wrote : : <em> what repulsive little creatures you have made the two central characters , repulsive almost beyond belief !
+
+#	NEW	isbn	........ / 1981 .	// <p> <strong> <em> Liars in Love </em> </strong> is a collection of short stories by <a> Richard Yates </a> , published in 1981 . </p>
+
+#	NEW	isbn	........ / 1983 .	// <p> <strong> <em> The Loser </em> </strong> is a novel by <a> Thomas Bernhard </a> , originally published in <a> German </a> in 1983 . </p>
+
+#	NEW	isbn	........ / 2008	// It was a finalist for the 2008 <a> National Book Award </a> , and the 2008 <a> National Book Critics Circle Award </a> .
+
+#	NEW	isbn	........ / 2007	// In a 2007 review of the recently reissued work , Morris Dickstein wrote that <em> Stoner </em> is &quot ; a perfect novel , so well told and beautifully written , so deeply moving that it takes your breath away . &quot ;
+
+#	NEW	isbn	........ / 1990	// <p> <em> Granny Was a Buffer Girl </em> was adapted for <a> BBC Radio </a> by the author in 1990 , and published in play form in 2003 . </p>
+
+#	NEW	isbn	........ / 1938 .	// <p> <strong> <em> Artists in Crime </em> </strong> is a <a> detective novel </a> by <a> Ngaio Marsh </a> ; it is the sixth novel to feature <a> Roderick Alleyn </a> , and was first published in 1938 .
+
+#	NEW	isbn	........ / 1957 .	// <p> <strong> <em> Off With His Head </em> </strong> is a <a> detective novel </a> by <a> Ngaio Marsh </a> ; it is the nineteenth novel to feature <a> Roderick Alleyn </a> , and was first published in 1957 .
+
+298	FALSE	False Scent::isbn	na / 1960.	
+<p> <strong> <em> False Scent </em> </strong> is a <a> detective novel </a> by <a> Ngaio Marsh </a> ; it is the twenty-first novel to feature <a> Roderick Alleyn </a> , and was first published in 1960 .
+
+#	NEW	isbn	........ / 1964 .	// <p> <strong> <em> Dead Water </em> </strong> is a <a> detective novel </a> by <a> Ngaio Marsh </a> ; it is the twenty-third novel to feature <a> Roderick Alleyn </a> , and was first published in 1964 .
+
+#	NEW	isbn	........ / 1972 .	// <p> <strong> <em> Tied Up in Tinsel </em> </strong> is a <a> detective novel </a> by <a> Ngaio Marsh </a> ; it is the twenty-seventh novel to feature <a> Roderick Alleyn </a> , and was first published in 1972 .
+
+301	FALSE	Black As He's Painted::isbn	na / 1974.	
+<p> <strong> <em> Black As He&#39 ; s Painted </em> </strong> is a <a> detective novel </a> by <a> Ngaio Marsh </a> ; it is the twenty-eighth novel to feature <a> Roderick Alleyn </a> , and was first published in 1974 .
+
+#	NEW	isbn	........ / 2007	// <p> <strong> <em> The Second Great Depression </em> </strong> ( subtitled <em> Starting 2007 Ending 2020 </em> ) is a <a> 2005 </a> <a> non-fiction </a> <a> book </a> on <a> economics </a> by <a> Warren Brussee </a> .
+
+#	NEW	isbn	........ / 1996	// <p> <strong> <em> Woman with Birthmark </em> </strong> ( <em> Kvinna med f&#x00f6 ; delsem&#x00e4 ; rke </em> ) is a 1996 novel by <a> H&#x00e5 ; kan Nesser </a> , which won the <a> Best Swedish Crime Novel Award </a> in the same year .
+
+#	NEW	isbn	........ / 2007	// A primary focus is the <a> Iraq War troop surge of 2007 </a> , along with the ascension to command of Gen . <a> David Petraeus </a> and the change in approach of Gen . <a> Ray Odierno </a> towards the use of counter-insurgency strategies . </p>
+
+#	NEW	isbn	........ / 11	// <p> <strong> <em> Seeking / 11 Truth at Japan ' s Parliament </em> </strong> is a book published by Japanese lawmaker <a> Yukihisa Fujita </a> and others .
+
+#	NEW	isbn	........ / 1992	// <p> Ken Wells , who unexpectedly died in 1992 , was posthumously credited as the author as he was credited for preparation works on the books , following his death , J . A . &quot ; Jim&quot ; Martin was credited for completion work of the project in which he additionally interviewed over 130 drivers , designers , mechanics , managers and officials involved in the series .
+
+#	NEW	isbn	........ / 2007	// Illustrated by <a> David Wyatt </a> , it is the third book in the <a> Larklight Trilogy </a> , sequel to the 2007 novel <em> <a> Starcross </a> </em> . </p>
+
+#	NEW	isbn	........ / 1956	// <p> <strong> <em> Girl in May </em> </strong> is a 1956 novel by Scottish writer <a> Bruce Marshall </a> . </p>
+
+#	NEW	isbn	........ / 2008	// In their 2008 book <em> The Politics of Electoral Systems </em> published by <a> Oxford University Press </a> , Michael Gallagher and Paul Mitchell note that Boothroyd ' s site &quot ; Has detailed results of elections at all levels of government . &quot ;
+
+#	NEW	isbn	........ / 1995	// <p> <strong> Times of Contempt </strong> ( <a> Polish </a> original title : <em> Czas pogardy </em> , early title was translated less literally as <em> Time of Anger </em> ) is the second novel in the <a> Witcher Saga </a> written by <a> Polish </a> <a> fantasy writer </a> <a> Andrzej Sapkowski </a> , first published in Poland in 1995 ( English translation to be published in April 2011 ) .
+
+#	NEW	isbn	........ / 2009	// <p> On February 12 , 2009 , ABS-CBN signed a contract with Precious Pages for the right to translate the series into a TV adaptation . </p>
+
+#	NEW	isbn	........ / 1983	// <p> <strong> A Book of Magic Adventures </strong> is a 1983 anthology of 12 <a> fairy tales </a> from around the world that have been collected and retold by <a> Ruth Manning-Sanders </a> .
+
+#	NEW	isbn	........ / 1799	// Published in 1799 , it is Hays ' second novel . </p>
+
+#	NEW	isbn	........ / 2006	// <p> <strong> <em> Without You : A Memoir of Love , Loss , and the Musical Rent </em> </strong> is a 2006 memoir by Anthony Rapp that recalls the events of his life in relation to the musical <em> <a> Rent </a> </em> and its writer , <a> Jonathan Larson </a> , as well as the death of Rapp ' s mother by cancer .
+
+#	NEW	isbn	........ / 1999	// <p> The book was adapted into a TV series of the <a> same name </a> which ran from 1999 until 2002 on <a> CITV </a> .
+
+#	NEW	isbn	........ / 2008 .	// <p> <strong> <em> Runcible Jones and the Frozen Compass </em> </strong> is a <a> young adult </a> <a> fantasy novel </a> by <a> Ian Irvine </a> , published in 2008 . </p>
+
+#	NEW	isbn	........ / 2006 ( ) .	// It was also adapted into a <a> French film </a> with the same title in 2006 ( ) .
+
+318	TRUE	The Mightiest Machine::isbn	na / 1934	
+The novel was originally serialized in 5 parts the magazine <em> <a> Astounding </a> </em> beginning with the December 1934 issue . </p>
+
+#	NEW	isbn	........ / 2009 .	// It was released on March 10 , 2009 .
+
+#	NEW	isbn	........ / 1998 .	// Written by <a> Anne Brown </a> , the work was published by Wizards of the Coast under its TSR imprint in 1998 . </p>
+
+#	NEW	isbn	........ / 1968 .	// <p> <strong> <em> Into the Slave Nebula </em> </strong> is a science fiction novel written by <a> John Brunner </a> and first published in 1968 .
+
+#	NEW	isbn	........ / 2006	// <p> is a 2006 <a> novel </a> by <a> Keigo Higashino </a> , the third in his <a> Tantei Galileo </a> series and is his most acclaimed work thus far .
+
+#	NEW	isbn	........ / 1923	// <p> <strong> <em> The German Shepherd Dog in Word and Picture </em> </strong> is a 1923 book written by <a> Max von Stephanitz </a> , the creator of the <a> German Shepherd Dog </a> breed , in which he outlines the original expectation and ideology of the breed . </p>
+
+#	NEW	isbn	........ / 2009	// <p> In 2010 , the novel was nominated for a <a> Shamus Award </a> for Best Paperback Original PI Novel of 2009 by the <a> Private Eye Writers of America </a> . </p>
+
+#	NEW	isbn	........ / 1985	// First released in 1985 , the <a> young adult </a> <a> science fiction </a> novel is the first of the ' Space Demons ' trilogy .
+
+#	NEW	isbn	........ / 2004 .	// <p> <strong> <em> Twilight </em> </strong> is a <a> young adult novel </a> written by author <a> Meg Cabot </a> and was published by <a> Avon Books </a> in 2004 .
+
+#	NEW	isbn	........ / 28 .	// Originally written fourteen years ago in a comic form ( as part of an <a> AARGH ! </a> , or Artists Against Rampant Government Homophobia , comic anthology ) as a protest against England ' s anti-homosexual Clause 28 .
+
+#	NEW	isbn	........ / 2008	// <p> <strong> <em> Quofum </em> </strong> ( <a> 2008 </a> ) is a <a> science fiction </a> <a> novel </a> written by <a> Alan Dean Foster </a> . </p>
+
+#	NEW	isbn	........ / 1968	// <p> Set in <a> the Bronx </a> against the historical backdrop of <a> United States Senator </a> <a> Eugene McCarthy </a> ' s unsuccessful bid to become the <a> Democratic </a> <a> presidential candidate </a> for the <a> 1968 elections </a> , the novel focuses on Connors ' s &quot ; rocky relationship that fared no better than McCarthy ' s campaign&quot ; , in the words of critic Wayne Hoffman ( author of the novel <em> Hard </em> ) , who described it in <em> <a> The Washington Post </a> </em> as a &quot ; classic&quot ; . </p>
+
+#	NEW	isbn	........ / 30	// Along with the story of the founding of <a> Delta Upsilon </a> , the book also traces the lives of the original 30 founders , including their careers , families , and often their place of burial as well .
+
+#	NEW	isbn	........ / 2001	// <p> In the 2001 book <strong> <em> The Unfinished Twentieth Century </em> </strong> , author <a> Jonathan Schell </a> suggests that an essential feature of the twentieth century was the development of humankind ' s capacity for self-destruction , with the rise in many forms of &quot ; policies of extermination&quot ; .
+
+#	NEW	isbn	........ / 1768	// <p> In London the novel places McAsh at the center of the discontent of 1768 which saw working people become dissatisfied with a higher cost of living and poor wages .
+
+#	NEW	isbn	........ / 2008	// <p> <strong> <em> Triptych </em> </strong> is a 2008 novel , the third book by author <a> Wendy Coakley-Thompson </a> . </p>
+
+#	NEW	isbn	........ / 1923	// <p> Originally published in Germany in 1923 by Dr . Ernst Schertel , <em> Magic : History / Theory / Practice </em> , in its original German edition , was a hardcover book consisting of 154 pages . </p>
+
+#	NEW	isbn	........ / 2000 .	// <p> The book was noted as one of the ten best &quot ; romance&quot ; novels for young adults in 2000 . </p>
+
+#	NEW	isbn	........ / 31	// <p> : <em> For a disambiguation of &quot ; Cloak&quot ; see : <a> Cloak ( disambiguation ) </a> </em> <strong> <em> Cloak </em> </strong> is a <em> <a> Star Trek : Section 31 </a> </em> novel written by <a> S .
+
+#	NEW	isbn	........ / 1993 )	// All of the stories contain a different Character ( such as <a> Plum Pie </a> ) . It was published after his death ( in 1993 ) by Galahad books .
+
+#	NEW	isbn	........ / 1740	// <p> <em> The Anti-Pamela </em> is one of several novels written in response to Richardson ' s 1740 novel , satirising the innocence of the character of Pamela Andrews .
+
+#	NEW	isbn	........ / 7	// <p> The book was adapted for BBC Radio 7 in 2008 , starring <a> Philip Madoc </a> as Brother Cadfael . </p>
+
+#	NEW	isbn	........ / 1961	// While there is no evidence that H . D . attempted to publish the novel , it , along with another autobiographical work <em> The Gift </em> were being prepared for publication at the time of her death in <a> 1961 </a> .
+
+#	NEW	isbn	........ / 1984	// <p> <strong> Night Of Error </strong> is a <a> novel </a> written by <a> English </a> author <a> Desmond Bagley </a> , and was first published in <a> 1984 </a> . </p>
+
+#	NEW	isbn	........ / 386	// <p> The book quotes from Giles v . State of Maryland , 386 U . S . 66 , &quot ; A criminal trial is not a game in which the State&#x2019 ; s function is to outwit and entrap its quarry .
+
+#	NEW	isbn	........ / 2	// <p> <em> Tomorrow , When the War Began </em> was adapted into a <a> feature film of the same name </a> that was released on 2 September 2010 in Australia and New Zealand .
+
+#	NEW	isbn	........ / 1942	// Originally published in 1942 , the book ' s first English translation was published in 2007 .
+
+#	NEW	isbn	........ / 978-1400066421 )	// <p> <strong> <em> The Logic of Life : The Rational Economics of an Irrational World </em> </strong> ( ISBN 978-1400066421 ) is a book by <a> Tim Harford </a> published in 2008 by <a> Random House </a> .
+
+#	NEW	isbn	........ / 1998 .	// <p> The book was published on May 14 , 1998 .
+
+#	NEW	isbn	........ / 1949	// <p> Although a work that discusses <a> politics in the Philippines </a> , <em> Banaag at Sikat </em> is the only novel included by the Filipino critic Teodoro Agoncillo to a list of important books about Tagalog literature in 1949 , because according to Agoncillo the book has a weakness but it started the system of writing a Tagalog novel .
+
+#	NEW	isbn	........ / 1972 .	// <p> <strong> <em> Seventh Heaven </em> </strong> is a <a> poetry </a> collection by <a> Patti Smith </a> , published in 1972 . </p>
+
+#	NEW	isbn	........ / 1973 .	// <p> <strong> <em> Witt </em> </strong> is a <a> poetry </a> collection by <a> Patti Smith </a> , published in 1973 . </p>
+
+#	NEW	isbn	........ / 1978	// <p> <strong> <em> Babel </em> </strong> is a book by <a> Patti Smith </a> , published in 1978 , and contains Smith ' s poems along with her prose , lyrics , pictures and drawings . </p>
+
+351	TRUE	Dreadful Sanctuary::isbn	na / 1948.	
+The novel was originally serialized in the magazine <em> <a> Astounding </a> </em> beginning in 1948 .
+
+#	NEW	isbn	........ / 1987	// <em> Torikaebaya Ibun </em> was then adapted as a <a> Takarazuka Revue </a> play staged in 1987 , starring , , and .
+
+#	NEW	isbn	........ / 1972 .	// <p> &quot ; <strong> A Useless Death </strong> &quot ; is a poem by <a> Patti Smith </a> , published as a <a> chapbook </a> in 1972 . </p>
+
+354	TRUE	The Crystal Horde::isbn	na / 1930	
+The novel is substantially rewritten from a version that originally appeared in the magazine <em> Amazing Stories Quarterly </em> in 1930 under the title <em> White Lily </em> </p>
+
+#	NEW	isbn	........ / 1992 .	// <p> <strong> <em> Woolgathering </em> </strong> is a book by <a> Patti Smith </a> , published in 1992 . </p>
+
+#	NEW	isbn	........ / 1933 .	// A <a> movie version </a> very loosely based upon the book was released in 1933 . </p>
+
+357	TRUE	The Magic Pen of Joseph Clement Coll::isbn	na / 1978	
+It was first published by <a> Donald M . Grant , Publisher , Inc . </a> in 1978 in an edition of 750 copies , all of which were numbered and signed by the author . </p>
+
+#	NEW	isbn	........ / 666	// <p> <strong> <em> G . O . G . 666 </em> </strong> is a <a> science fiction </a> novel by author <a> John Taine </a> ( pseudonym of Eric Temple Bell ) .
+
+#	NEW	isbn	........ / 1962	// <p> <strong> <em> A Girl from L&#x00fc ; beck </em> </strong> is a 1962 novel by Scottish writer <a> Bruce Marshall </a> . </p>
+
+#	NEW	isbn	........ / 2011	// The eight part television series <a> The Slap </a> is an adaptation of the book , filming from January 2011 and set to screen on <a> ABC1 </a> later in 2011 .
+
+#	NEW	isbn	........ / 1998	// <p> Muhammadullaha Khalili Qasmi , born in <a> Hanswar </a> ( Faizabad , now Ambedkar Nagar UP , India ) Graduated from <a> Darul Uloom Deoband </a> in 1998 , completed special Arabic literature and Islamic Jurisprudence ( Mufti ) courses from the same University .
+
+#	NEW	isbn	........ / 2002	// <p> <strong> <em> A Thousand Country Roads </em> </strong> is a 2002 novel by <a> Robert James Waller </a> .
+
+#	NEW	isbn	........ / 10	// The book contains 10 short stories and was first published in 1936 .
+
+#	NEW	isbn	........ / 1992	// It was originally announced for publication by <a> Arkham House </a> but was ultimately published by <a> Fedogan &amp ; Bremer </a> in <a> 1992 </a> in an edition of 1 , 000 copies of which 100 were numbered and signed by the author and illustrator . </p>
+
+#	NEW	isbn	........ / 2006 .	// <p> <strong> <em> When a Monster is Born </em> </strong> is a children ' s book written by <a> Sean Taylor </a> and illustrated by <a> Nick Sharratt </a> , published in 2006 .
+
+#	NEW	isbn	........ / 2007 .	// <p> <strong> <em> Little Mouse ' s Big Book of Fears </em> </strong> is a children ' s picture book by <a> Emily Gravett </a> , published in 2007 .
+
+#	NEW	isbn	........ / 1915	// <p> There have been two film adaptations of <em> Monsieur Lecoq </em> : a 1914 French film , and a 1915 American film . </p>
+
+#	NEW	isbn	........ / 81 .	// <p> The novel is set in late summer , AD 81 .
+
+#	NEW	isbn	........ / 350	// <p> The encyclopedia features articles by more than 350 authors .
+
+#	NEW	isbn	........ / 1965	// <p> <strong> <em> The Animal Family </em> </strong> is a 1965 <a> children ' s novel </a> by American poet and critic <a> Randall Jarrell </a> , illustrated by noted children ' s book illustrator <a> Maurice Sendak </a> .
+
+#	NEW	isbn	........ / 1977	// <p> The central theme of the book is a fictitious story behind the real life plane crash which killed <a> General Zia </a> , dictator of Pakistan from 1977 to 1988 , about which there are many <a> conspiracy theories </a> .
+
+#	NEW	isbn	........ / 1970 .	// <p> <strong> <em> The Lime Works </em> </strong> is a novel by <a> Thomas Bernhard </a> , first published in <a> German </a> in 1970 .
+
+#	NEW	isbn	........ / 2003	// <p> <strong> <em> The Eagle and The Wolves </em> </strong> is a <a> 2003 </a> novel by <a> Simon Scarrow </a> , the fourth book in the <a> Eagle Series </a> where main characters Macro and Cato command two <a> cohorts </a> of solders made up of warriors and nobles from the Atrabatan kingdom .
+
+#	NEW	isbn	........ / ( 1988 ) .	// <p> The book inspired a dramatic horror film , <em> <a> The Serpent and the Rainbow </a> </em> ( 1988 ) .
+
+#	NEW	isbn	........ / 1660	// <p> The <strong> Harmonia Macrocosmica </strong> is a star atlas written by <a> Andreas Cellarius </a> and published in 1660 by <a> Johannes Janssonius </a> .
+
+#	NEW	isbn	........ / 1977	// The novel was finally published in 1977 just before the film ' s release . </p>
+
+#	NEW	isbn	........ / 1978	// <p> In 1978 , the book was adapted for the screen in a film of the same name .
+
+#	NEW	isbn	........ / 000	// It was published in <a> 1951 </a> by <a> Fantasy Publishing Company , Inc . </a> in an edition of 1 , 000 copies of which 250 were hardcover .
+
+379	TRUE	Decoding the Heavens::isbn	043401835x / 2008	
+<p> Originally published November 2008 by William Heinemann Ltd . , ISBN 043401835X .
+
+#	NEW	isbn	........ / 1970	// <p> <strong> <em> The General Danced at Dawn </em> </strong> is a 1970 collection of short stories by <a> George MacDonald Fraser </a> , featuring a young Scottish soldier named Dand MacNeill .
+
+381	TRUE	The Mislaid Charm::isbn	na / 1941.	
+The novel originally in the magazine <em> <a> Unknown </a> </em> in February 1941 .
+
+382	TRUE	Virgil Finlay (book)::isbn	na / 202	
+It was complied and edited by <a> Donald M . Grant </a> and published in 1971 by <a> Donald M . Grant , Publisher , Inc . </a> in an edition of 1 , 202 copies . </p>
+
+#	NEW	isbn	........ / 2007 .	// <em> The Janissary Tree </em> won an <a> Edgar Award </a> for Best Novel 2007 . </p>
+
+#	NEW	isbn	........ / 8	// The novel was originally serialized in 8 parts in the weekly newspaper , <em> The Temple of Reason </em> , beginning in 1802ref name=tuc / .
+
+385	TRUE	Tom Swift and His Giant Cannon::isbn	na / 16	
+<p> <strong> <em> Tom Swift and His Giant Cannon </em> </strong> , or , The Longest Shots on Record , is Volume 16 in the original <a> Tom Swift </a> novel series published by <a> Grosset &amp ; Dunlap </a> . </p>
+
+#	NEW	isbn	........ / 1989	// <p> Called by its author a &quot ; false novel , &quot ; <em> Dark Back of Time </em> begins with the tale of the odd effects of publishing <em> All Souls </em> , is witty and sardonic 1989 Oxford novel .
+
+#	NEW	isbn	........ / 1997	// <p> The 1997 film adaptation ' s plot differs significantly from the novel ; most significantly , at the end of the film , a <em> Tyrannosaurus Rex </em> attacks San Diego .
+
+#	NEW	isbn	........ / 2004	// <p> In 2004 , <em> Stiff </em> was adapted into a television movie by <a> Huntaway Films </a> and the <a> Seven Network </a> .
+
+#	NEW	isbn	........ / 2	// Book 2 ends here , but the scene continues on in Book 3 . </p>
+
+#	NEW	isbn	........ / 1997	// The novel was nominated for the British Science Fiction Award in 1997 , and for the British Fantasy Award the following year . </p>
+
+#	NEW	isbn	........ / 800	// The articles in the encyclopedia are aimed at readers who want to know Korean culture and history , and written by over 3 , 800 scholars and expert contributors mainly associated with the Academy of Korean Studies .
+
+392	TRUE	The Sunken World::isbn	na / 1928	
+The novel originally appeared in the Summer 1928 issue of the magazine <em> <a> Amazing Stories Quarterly </a> </em> .
+
+393	TRUE	The Works of M. P. Shiel::isbn	na / 1948	
+The series included one volume of photo-offsets of the periodical versions of two novels , <em> <a> The Empress of the Earth </a> </em> , <em> <a> The Purple Cloud </a> </em> , and 15 short stories , one volume of bibliography , greatly expanded from the 1948 edition , a volume of mostly biographical material with some bibliographical material , including a section on sometime Shiel collaborator , <a> Louis Tracy </a> , and a final volume of essays about Shiel . </p>
+
+#	NEW	isbn	........ / 2010	// <p> In June 2010 , Preger Entertainment optioned the film rights to the <em> Vampire Academy </em> series .
+
+395	TRUE	Murder Madness::isbn	na / 1930.	
+The novel was originally serialized in four parts in the magazine <em> <a> Astounding </a> </em> beginning in May 1930 . </p>
+
+#	NEW	isbn	........ / 1999	// <p> <strong> <em> Kings of All Times </em> </strong> is a 1999 historical novel written by the Yemenite writer <a> Sanji Yamdou </a> .
+
+397	TRUE	The Rat Race (novel)::isbn	na / 1947.	
+The novel originally appeared in the magazine <em> <a> Collier ' s Weekly </a> </em> in 1947 . </p>
+
+#	NEW	isbn	........ / 1978 .	// <p> <strong> <em> Fields of Fire </em> </strong> is a <a> novel </a> by <a> James Webb </a> , first published in 1978 .
+
+399	FALSE	Index to Fantasy and Science Fiction in Munsey Publications::isbn	na / 1978	
+It was first published in book form in <a> 1978 </a> by <a> William L . Crawford </a> , without imprint in an edition of 100 copies .
+
+#	NEW	isbn	........ / 1980 .	// The book was originally written in <a> French </a> and was translated into <a> English </a> and <a> Persian </a> , as well as other languages , and was published posthumously in 1980 .
+
+#	NEW	isbn	........ / 1978	// It was first published by <a> Donald M . Grant , Publisher , Inc . </a> in 1978 in an edition of 1 , 375 copies . </p>
+
+#	NEW	isbn	........ / 2008	// <p> It has been long-listed for the 2008 <a> Theakstons Old Peculier Crime Novel of the Year </a> .
+
+#	NEW	isbn	........ / 1978	// Gordon Melton </a> first published in 1978 , by Consortium Books , A McGrath publishing company .
+
+#	NEW	isbn	........ / 1967	// <p> <strong> <em> The Theory of Island Biogeography </em> </strong> is a <a> 1967 </a> book by <a> Edward O . Wilson </a> and <a> Robert MacArthur </a> which laid the foundations for the study of <a> island biogeography </a> .
+
+405	TRUE	The Return of Tharn::isbn	na / 1948.	
+The novel was originally serialized in three parts in the magazine <em> <a> Amazing Stories </a> </em> beginning in October , 1948 .
+
+406	TRUE	The Werewolf of Ponkert::isbn	na / 1925.	
+The first story was originally published in <em> Weird Tales </em> magazine , Vol . 6 , No . 1 , Issue 22 , July 1925 .
+
+#	NEW	isbn	........ / 1914&	// It was in this work that Lewis first identified the <a> critically oft-mentioned </a> &quot ; Men of 1914&quot ; group of himself , <a> Ezra Pound </a> , <a> T .
+
+#	NEW	isbn	........ / 1992	// <p> The novel was adapted as a TV movie miniseries in 1992 , starring <a> Kim Delaney </a> in the title role of Lucky Santangelo .
+
+#	NEW	isbn	........ / ( 1993 )	// <p> <strong> <em> <a> A Voice in the Wind </a> </em> </strong> ( 1993 ) is the first novel in Francine Rivers ' Mark of the Lion Series .
+
+#	NEW	isbn	........ / 1970	// The book was subsequently adapted for a play ( 1953 ) and film ( 1956 ) with the same titles , both written by <a> John Patrick </a> , and later , in 1970 , the Broadway musical <em> <a> Lovely Ladies , Kind Gentlemen </a> </em> by Patrick and <a> Stan Freeman </a> .
+
+411	TRUE	The Last Celt::isbn	na / 1976	
+It was first published by <a> Donald M . Grant , Publisher , Inc . </a> 1n 1976 in an edition of 2 , 600 copies . </p>
+
+#	NEW	isbn	........ / ( 2008 )	// <p> <strong> <em> Swine Not ? </em> </strong> ( 2008 ) is a novel by <a> Jimmy Buffett </a> about a pig . </p>
+
+413	TRUE	The Dream of X::isbn	na / 000	
+Hodgson was unable to find an American publisher for his 200 , 000 word novel .
+
+#	NEW	isbn	........ / 2004 .	// Vancouver publishers Greystone Books released the book in September 2004 .
+
+#	NEW	isbn	........ / 1948	// <p> <strong> <em> Funeral Rites </em> </strong> ( <em> Pompes fun&#x00e8 ; bres </em> ) is a <a> 1948 </a> novel by <a> Jean Genet </a> .
+
+416	TRUE	Alicia Austin's Age of Dreams::isbn	na / 200	
+It was published in 1978 by <a> Donald M . Grant , Publisher , Inc . </a> in an edition of 2 , 000 copies , of which 200 were bound in buckram and signed by Austin .
+
+417	TRUE	Act of Providence::isbn	na / 450	
+It was first published in <a> 1979 </a> by <a> Donald M . Grant , Publisher , Inc . </a> in an edition of 1 , 450 copies of which 350 were signed by the authors and the artist . </p>
+
+#	NEW	isbn	........ / 2003	// <p> <strong> <em> Every Second Counts </em> </strong> is a 2003 <a> autobiographical </a> book by <a> cyclist </a> <a> Lance Armstrong </a> written in collaboration with sports writer and columnist <a> Sally Jenkins </a> .
+
+#	NEW	isbn	........ / 2006 .	// <p> <strong> <em> Hugo Pepper </em> </strong> is a children ' s book written by <a> Paul Stewart </a> and illustrated by <a> Chris Riddell </a> , published in 2006 .
+
+#	NEW	isbn	........ / 2004 .	// <p> <strong> <em> Spilled Water </em> </strong> is a children ' s novel by <a> Sally Grindley </a> , published in 2004 .
+
+#	NEW	isbn	........ / 2004 .	// <p> <strong> <em> My Big Brother , Boris </em> </strong> is a children ' s picture book by <a> Liz Pichon </a> , published in 2004 .
+
+#	NEW	isbn	........ / 2003 .	// <p> <strong> <em> The Last Castaways </em> </strong> is a children ' s book by <a> Harry Horse </a> , published in 2003 .
+
+#	NEW	isbn	........ / 2003 .	// <p> <strong> <em> The Countess ' s Calamity </em> </strong> is a children ' s book written and illustrated by <a> Sally Gardner </a> , published in 2003 .
+
+#	NEW	isbn	........ / 2003 .	// <p> <strong> <em> Two Frogs </em> </strong> is a children ' s picture book written and illustrated by <a> Chris Wormell </a> , published in 2003 .
+
+#	NEW	isbn	........ / 2010	// <p> On June 10 , 2010 , <a> Screen Gems </a> announced that they were going into production on a <em> Mortal Instruments </em> film , based on <em> City of Bones </em> , with a script written by Jessica Postigo .
+
+426	TRUE	Tom Swift in the Land of Wonders::isbn	na / 20	
+<p> <strong> <em> Tom Swift In The Land of Wonders </em> </strong> , or , The Underground Search For the Idol of Gold , is Volume 20 in the original <a> Tom Swift </a> novel series published by <a> Grosset &amp ; Dunlap </a> . </p>
+
+427	TRUE	Mayhem on Bear Creek::isbn	na / 900	
+It was first published in <a> 1979 </a> by <a> Donald M . Grant , Publisher , Inc . </a> in an edition of 1 , 900 copies .
+
+#	NEW	isbn	........ / 1981 .	// <p> <strong> <em> Golden God </em> </strong> is a novel by Jeanne DuPrau published in 1981 .
+
+#	NEW	isbn	........ / 1987	// <p> <strong> <em> Urn Burial </em> </strong> is a 1987 <a> science fiction </a> <a> novel </a> by <a> Robert Westall </a> . </p>
+
+#	NEW	isbn	........ / 2002 .	// <p> <strong> <em> Jazzy in the Jungle </em> </strong> is a children ' s picture book by <a> Lucy Cousins </a> , published in 2002 .
+
+#	NEW	isbn	........ / ( 2008 )	// <p> <strong> <em> The Wrecking Crew : How Conservatives Rule </em> </strong> ( 2008 ) is a book written by <a> American </a> <a> journalist </a> and <a> historian </a> <a> Thomas Frank </a> , which explores blundering and corrupt <a> Washington </a> politicians . </p>
+
+#	NEW	isbn	........ / 1991	// <p> <strong> <em> Queen of the Summer Stars </em> </strong> is a 1991 novel by <a> Persia Woolley </a> and is the second volume of the <a> Guinevere trilogy </a> that relate the <a> Arthurian legend </a> from the perspective of Guinevere .
+
+#	NEW	isbn	........ / 35	// <p> A film adaptation of <em> Atlas Shrugged </em> has been in &quot ; <a> development hell </a> &quot ; for over 35 years .
+
+#	NEW	isbn	........ / ( 1935 )	// A reference to this occurs in <em> <a> Bride of Frankenstein </a> </em> ( 1935 ) and in several subsequent films in the series , as well as in film titles such as <em> <a> Abbott and Costello Meet Frankenstein </a> . </em> </p>
+
+#	NEW	isbn	........ / 2009 .	// The novel was released on February 24 , 2009 . </p>
+
+#	NEW	isbn	........ / 2007	// <p> <strong> <em> Escape : The True Story of the Only Westerner Ever to Break out of Thailand ' s Bangkok Hilton </em> </strong> is a 2007 book by career smuggler <a> David McMillan </a> describing his time in , and escape from , <a> Klong Prem Central Prison </a> in Bangkok , Thailand . </p>
+
+437	TRUE	Tom Swift and His Air Scout::isbn	na / 22	
+<p> <strong> <em> Tom Swift and His Air Scout </em> </strong> , Or , Uncle Sam ' s Mastery of the Sky , is Volume 22 in the original <a> Tom Swift </a> novel series published by <a> Grosset &amp ; Dunlap </a> .
+
+#	NEW	isbn	........ / 2001 .	// <p> <strong> Author and Publisher : </strong> br <em> The Last Lobo </em> is a novel written by <a> Roland Smith </a> , and was published by <a> Hyperion Books </a> in 2001 .
+
+#	NEW	isbn	........ / 1 / 1951 .	// <p> <em> <a> Deadfall </a> </em> was adapted for <em> <a> Suspense </a> </em> and broadcast / 1 / 1951 . </p>
+
+440	TRUE	Yellow Men Sleep::isbn	na / 1919.	
+The novel was originally serialized in the magazine <em> <a> All-Story Weekly </a> </em> beginning May 3 , 1919 . </p>
+
+#	NEW	isbn	........ / 1892	// <p> <strong> <em> The American Claimant </em> </strong> is an <a> 1892 </a> <a> novel </a> by American <a> humorist </a> and <a> writer </a> <a> Mark Twain </a> .
+
+#	NEW	isbn	........ / 2008	// The film rights to two earlier novels , Welcome Avenue and The Ray of Hope Foundation , were also optioned in 2008 , to acto / producer Joseph Cross , and Streetgang Films , respectively .
+
+#	NEW	isbn	........ / 1999 .	// <p> <strong> <em> Crusader </em> </strong> is a novel by <a> Edward Bloor </a> which was published on October 15 , 1999 .
+
+#	NEW	isbn	........ / 1998	// He has since worked as an academic , publishing numerous historical titles , and since 1998 has been Reader in History at <a> Queen ' s University </a> , Belfast . </p>
+
+#	NEW	isbn	........ / 2011	// <p> <a> Bret Easton Ellis </a> , who called the novel &quot ; <em> Probably the funniest young-guy-in-New York novel since Bright Lights , Big City </em> &quot ; is adapting the screenplay for a 2011 film starring <a> Joseph Gordon-Levitt </a> . </p>
+
+#	NEW	isbn	........ / 300 )	// While observing that the book was &quot ; readable , suspenseful , and insightful&quot ; , the reviewer criticized it for including too many footnotes ( over 300 ) , some of which were deemed unimportant . </p>
+
+#	NEW	isbn	........ / 5	// Info on Seasons 5 and 6 were not in the book , because this book was released before Season 5 began .
+
+#	NEW	isbn	........ / 1832	// <p> A similar plot informs <a> Aleksandr Pushkin ' s </a> verse novel <em> <a> Eugene Onegin </a> </em> , which was published in serial form between <a> 1825 </a> and <a> 1832 </a> . </p>
+
+#	NEW	isbn	........ / 1968 .	// The novel was previously included in an expanded edition of the Finney ' s book <em> The Unholy City </em> in 1968 . </p>
+
+#	NEW	isbn	........ / 2007 .	// The book ' s film right were sold to <a> Sir Ben Kingsley </a> ' s SBK pictures in 2007 .
+
+#	NEW	isbn	........ / 2008	// <p> <strong> Now the Hell Will Start : One Soldier ' s Flight from the Greatest Manhunt of World War II </strong> is a <a> 2008 </a> book by United States author <a> Brendan I . Koerner </a> .
+
+#	NEW	isbn	........ / 1994	// <p> The novel was adapted for television in <a> 1994 </a> and starred <a> Gareth Hale </a> as Dalziel and <a> Norman Pace </a> as Pascoe .
+
+#	NEW	isbn	........ / 500	// It was first published in <a> 1992 </a> by <a> Donald M . Grant , Publisher , Inc . </a> in an edition of 500 copies , all of which were signed by the editor , <a> Sam Moskowitz </a> .
+
+#	NEW	isbn	........ / ( 2005 ) .	// <p> This is the fourth novel in the author ' s &quot ; Challi / Destry&quot ; series of crime novels , following <em> <a> The Dragon Man </a> </em> ( 1999 ) , <em> <a> Kittyhawk Down </a> </em> ( 2003 ) , and <em> <a> Snapshot </a> </em> ( 2005 ) . </p>
+
+#	NEW	isbn	........ / 1949	// <p> <strong> <em> The Diplomat </em> </strong> is a <a> 1949 </a> novel by an <a> Australian </a> writer <a> James Aldridge </a> .
+
+#	NEW	isbn	........ / 2001 .	// <p> <strong> Where Others Wavered : The Autobiography of Sam Nujoma - My Life in SWAPO and My Participation in the Liberation Struggle of Namibia </strong> , commonly known as <strong> Where Others Wavered </strong> , is an <a> autobiographical work </a> written by <a> Sam Nujoma </a> and published by <a> Panaf Books </a> in 2001 .
+
+#	NEW	isbn	........ / 13	// <p> On February 10 , 2008 , the book was number 13 on The New York Times non-fiction best seller list . </p>
+
+#	NEW	isbn	........ / 5	// <p> <strong> <em> To Dream in the City of Sorrows </em> </strong> is the ninth book in the series of original <a> science fiction </a> novels based on the <a> Emmy Award </a> -winning series <em> <a> Babylon 5 </a> </em> .
+
+#	NEW	isbn	........ / ( 1999 )	// <p> <strong> <em> Shooting Star </em> </strong> ( 1999 ) is a <a> Ned Kelly Award </a> winning novel by <a> Australia </a> n author <a> Peter Temple </a> .
+
+#	NEW	isbn	........ / 1993	// <p> The novel <strong> <em> Harvesting the Heart </em> </strong> is author <a> Jodi Picoult </a> ' s second novel , after <a> Songs of the Humpback Whale </a> , published in 1993 by Viking .
+
+#	NEW	isbn	........ / 1888 .	// <p> <strong> <em> L ' Abb&#x00e9 ; Jules </em> </strong> ( <em> Abb&#x00e9 ; Jules </em> ) is a novel written by the French journalist , novelist and playwright <a> Octave Mirbeau </a> , and published by Ollendorff in 1888 . </p>
+
+#	NEW	isbn	........ / 1940	// The first complete edition of the novel was published in <a> 1940 </a> . </p>
+
+#	NEW	isbn	........ / 2007	// <p> The title <em> Dreams That Glitter </em> is a line from their 2007 single &quot ; <a> Call The Shots </a> &quot ; . </p>
+
+#	NEW	isbn	........ / 2008	// <p> Director and actor <a> Ben Affleck </a> bought the film rights to the novel in 2008 for his production company . </p>
+
+#	NEW	isbn	........ / ( 2002 )	// <p> <strong> <em> Divine Action and Modern Science </em> </strong> ( 2002 ) is a book written by Nicholas Saunders .
+
+466	TRUE	Beyond Thirty::isbn	na / 1963 ;	
+The work was retitled <strong> <em> The Lost Continent </em> </strong> for the first mass-market paperback edition , published by <a> Ace Books </a> in October 1963 ; all subsequent editions bore the new title until the <a> Bison Books </a> edition of March 2001 , which restored the original title . </p>
+
+#	NEW	isbn	........ / 1998 '	// <p> <strong> <em> The Scrambled States of America Talent Show </em> </strong> is the companion to 1998 ' s <em> <a> The Scrambled States of America </a> </em> by <a> children </a> ' s book <a> author </a> and <a> illustrator </a> <a> Laurie Keller </a> . </p>
+
+#	NEW	isbn	........ / ( 1982 ) .	// The novel formed the basis for <a> Rainer Werner Fassbinder </a> ' s last film , <em> <a> Querelle </a> </em> ( 1982 ) .
+
+#	NEW	isbn	........ / 2004	// In 2004 , Cartwright adapted the book into a <a> one-woman show </a> , which she has performed all over the world , including at the <a> Edinburgh Festival Fringe </a> . </p>
+
+470	FALSE	Emily's Quest::isbn	na / 1998.	
+<p> The novels were adapted into a <a> TV series </a> by <a> Salter Street Films </a> and <a> CBC Television </a> in 1998 . </p>
+
+471	FALSE	Puppet on a Chain::isbn	na / 1972	
+<p> <strong> <em> Puppet on a Chain </em> </strong> later appeared in <a> film </a> as a 1972 movie directed by <a> Geoffrey Reeve </a> . </p>
+
+#	NEW	isbn	........ / ( 1479 )	// <p> The original 15-volume version of <em> &#x0110 ; &#x1ea1 ; i Vi&#x1ec7 ; t s&#x1eed ; k&#x00fd ; to&#x00e0 ; n th&#x01b0 ; </em> or the H&#x1ed3 ; ng &#x0110 ; &#x1ee9 ; c edition ( 1479 ) , that was named after the era name of L&#x00ea ; Th&#x00e1 ; nh T&#x00f4 ; ng , only existed in form of handwritten manuscript and hence is only partially preserved to this day .
+
+473	FALSE	A Sheaf of Bluebells::isbn	na / 1918.	
+The novel was turned into a play &quot ; <strong> The Legion of Honour </strong> &quot ; by Orczy in 1918 . </p>
+
+474	FALSE	By the Gods Beloved::isbn	na / 1905	
+<p> The book was first published in the UK in 1905 and was released under the title <strong> The Gates of Kamt </strong> in the US . </p>
+
+#	NEW	isbn	........ / 1952	// <p> Ralph Ellison ' s first novel <em> <a> Invisible Man </a> </em> was published in 1952 to great critical success .
+
+#	NEW	isbn	........ / 1991	// <p> In his 1991 book <em> Heroic Worlds </em> , <a> Lawrence Schick </a> calls this book &quot ; the least important supplement to Original <em> D&amp ; D </em> &quot ; . ref name=&quot ; HW&quot ; / </p>
+
+#	NEW	isbn	........ / 47	// The novel ' s plot is set between <em> Hitman 2 : Silent Assassin </em> and <em> Hitman : Blood Money </em> and revolves around a rival <a> murder-for-hire </a> organization , known as <em> Puissance Treize </em> ( <a> French </a> for &quot ; Power Thirteen&quot ; ) , attempting to destroy <a> Agent 47 </a> ' s employer , the <a> International Contract Agency ( ICA ) </a> .
+
+#	NEW	isbn	........ / 2002	// The book was used as the basis for the 2002 <a> movie of the same name </a> , starring <a> Clint Eastwood </a> .
+
+#	NEW	isbn	........ / 2007	// <p> <strong> <em> Tom Clancy ' s Splinter Cell : Fallout </em> </strong> is a <a> 2007 </a> novel in the <em> <a> Splinter Cell </a> </em> series . </p>
+
+#	NEW	isbn	........ / 1	// <em> <a> New York </a> </em> magazine named it the Best Novel of the Year and <em> <a> Time </a> </em> magazine ' s <a> Lev Grossman </a> named it #1 of the Top 10 Fiction Books of 2007 , praising it as &quot ; a massive , heaving , sparking tragicomedy&quot ; . </p>
+
+#	NEW	isbn	........ / 1931	// <p> It was made into films in 1931 and 1983 . </p>
+
+#	NEW	isbn	........ / 1967	// <p> <strong> <em> La Vuelta al D&#x00ed ; a en Ochenta Mundos </em> </strong> ( <em> Around the Day in Eighty Worlds </em> ) is a book by <a> Julio Cort&#x00e1 ; zar </a> released and published in two separate volumes in 1967 <em> ( same year <a> Hopscotch </a> ' s translation wins the 1967 U . S . National Book Award ) </em> .
+
+#	NEW	isbn	........ / 1993	// <p> <strong> <em> Two Old Women </em> </strong> is a <a> 1993 </a> novel by <a> Velma Wallis </a> , set in <a> Fairbanks </a> , <a> Alaska </a> . </p>
+
+484	FALSE	The Dirt::isbn	0-06-098915-7 / 2011.	
+<p> A film of the book , directed by <a> Larry Charles </a> , is currently in production and due to be released in 2011 .
+
+#	NEW	isbn	........ / 2006 .	// <p> The book won the <a> National Book Critics Circle Award </a> for general non-fiction in 1994 , and it was adapted for a film of the same name released in 2006 .
+
+#	NEW	isbn	........ / 1994	// <p> <strong> <em> Images </em> </strong> , first published in 1994 ( now out of print ) , is a book by <a> David Lynch </a> . </p>
+
+#	NEW	isbn	........ / 1888	// <p> On <a> Friedrich Nietzsche </a> ' s appreciation for the book , Burkhard Meyer-Sickendiek notes that &quot ; it is only Stifter ' s novel that Nietzsche will mention again in one breath with <a> Goethe </a> : ' I have , ' Nietzsche writes in October 1888 , ' absorbed Adalbert Stifter ' s <em> Der Nachsommer </em> with deep affection : in fact , it is the only German book <em> after </em> Goethe that has any magic for me . ' &quot ;
+
+488	TRUE	The Cave Girl::isbn	na / 1913	
+Originally two stories , <em> The Cave Girl </em> begun in February 1913 and published by &quot ; All-Story&quot ; in July , August , and September 1913 ; and <em> The Cave Man </em> begun in 1914 and published by &quot ; All-Story Weekly&quot ; throughout March and April 1917 .
+
+#	NEW	isbn	........ / 400	// Card expands the story into a novel of over 400 pages so many of the details and characters are fictional .
+
+#	NEW	isbn	........ / 2010 .	// <p> On September 18 , 2009 , <a> Sony Pictures Animation </a> released an animated <a> film adaptation </a> of the book , and the DVD was released on January 5 , 2010 .
+
+#	NEW	isbn	........ / 2007	// It is a &quot ; clean&quot ; version of Welch ' s 2007 memoir , <em> Save Me from Myself </em> , re-adapted without the profanity and gory details of the original story for a younger audience .
+
+#	NEW	isbn	........ / 2008 .	// The book was published in January 2008 . </p>
+
+#	NEW	isbn	........ / 2006-2011 .	// The film was a box office and critical success and , in turn , spawned an <a> NBC </a> <a> television series of the same name </a> which lasted five seasons from 2006-2011 . </p>
+
+#	NEW	isbn	........ / 2008	// <p> Brand planned to star as himself in a film adaptation of the book , originally scheduled to be filmed by British director <a> Michael Winterbottom </a> at the end of 2008 or early in 2009 .
+
+#	NEW	isbn	........ / 1961	// <p> In 1961 , Nobel Prize-winner <a> Peter Medawar </a> , a British immunologist , wrote a scornful review of the book for the <a> journal <em> Mind </em> </a> , calling it &quot ; a bag of tricks&quot ; and saying that the author had shown &quot ; an active willingness to be deceived&quot ; : &quot ; the greater part of it , I shall show , is nonsense , tricked out with a variety of metaphysical conceits , and its author can be excused of dishonesty only on the grounds that before deceiving others he has taken great pains to deceive himself&quot ; . </p>
+
+#	NEW	isbn	........ / 1911	// <p> <strong> Deeside </strong> is book published in 1911 describing the geography , and history of Deeside , in <a> Aberdeenshire </a> , <a> Scotland </a> . </p>
+
+#	NEW	isbn	........ / 1986	// <p> In 1986 a five-hour mini series of the same name was released , starring <a> Burt Lancaster </a> as <a> Arthur D . &quot ; Bull&quot ; Simons </a> and <a> Richard Crenna </a> as Ross Perot .
+
+#	NEW	isbn	........ / 4	// The book was released on 4 January 2007 . </p>
+
+#	NEW	isbn	........ / 12	// <p> On 12 November 2010 , Lomborg released a feature-length <a> documentary film </a> <em> Cool It </em> in the US .
+
+#	NEW	isbn	........ / 2005 .	// <p> <em> Little Boy </em> is the companion volume for an art exhibition of the same name at the <a> Japan Society </a> in conjunction with the <a> Public Art Fund </a> in April 2005 .
+
+#	NEW	isbn	........ / 2006	// <p> The first &quot ; Small Change&quot ; novel , <em> <a> Farthing </a> </em> , was released in August 2006 by Tor Books .
+
+#	NEW	isbn	........ / 1998	// <p> Smith also makes reference to Todd Solondz ' s 1998 film Happiness , a controversial film which deals with sexuality and isolation and their difficult relationship to each other . </p>
+
+#	NEW	isbn	........ / ( 1935 )	// <p> The book appears to draw its title from <a> George Dangerfield </a> ' s <em> <a> The Strange Death of Liberal England </a> </em> ( 1935 ) which sought to explain the decline of the <a> British Liberal Party </a> after 1910 . </p>
+
+#	NEW	isbn	........ / 1979	// <p> <strong> <em> The Drawing of the Dark </em> </strong> is a <a> historical fantasy </a> <a> novel </a> by <a> Tim Powers </a> published in 1979 by <a> Del Rey Books </a> . </p>
+
+#	NEW	isbn	........ / 1977	// <p> The inspiration for the plot appears to be acknowledged by Maclean himself in his preface to the 1977 edition of the book where he describes his first experience of an <a> earthquake </a> while in California on 9 February 1972 . </p>
+
+#	NEW	isbn	........ / 1987 .	// <p> <strong> <em> The Cat Who Played Post Office </em> </strong> is the sixth book in <a> The Cat Who Series </a> , published in 1987 .
+
+#	NEW	isbn	........ / ( 1991 )	// <p> <strong> <em> Black Unicorn </em> </strong> ( 1991 ) is the first novel of <a> The Unicorn Series </a> by <a> Tanith Lee </a> . </p>
+
+#	NEW	isbn	........ / 1992	// <p> In 1992 , <a> Spanish </a> <a> film director </a> <a> Jos&#x00e9 ; Luis Borau </a> adapted the series into a six-episode <a> TV series </a> simply entitled <em> <a> Celia </a> </em> .
+
+#	NEW	isbn	........ / 1959	// <p> A 1959 film called <em> <a> Count Your Blessings </a> </em> was based in the novel .
+
+#	NEW	isbn	........ / 2005	// <p> The memoir was made into the 2005 television film <em> <a> Faith of My Fathers </a> </em> .
+
+#	NEW	isbn	........ / 2008	// Water Bearer Films released the DVD in 2008 under the title <em> Right by Me </em> . </p>
+
+#	NEW	isbn	........ / 2002	// <p> The 2002 film <em> <a> Catch Me if You Can </a> </em> , directed by award-winning director <a> Steven Spielberg </a> , is based upon his life and the autobiography and is mainly true to the source as Abagnale was a consultant to the writers but some of the details were changed for obvious movie purposes . </p>
+
+#	NEW	isbn	........ / ( 1934 )	// <em> Celia en el mundo </em> was the first of the &quot ; Celia&quot ; novels to not be adapted as part of the <a> 1992 series </a> directed by Jos&#x00e9 ; Lu&#x00ed ; s Borau ; only a very small part of the previous book , <em> <a> Celia novelista </a> </em> ( 1934 ) was adapted as the very last few minutes of the sixth and last episode , &quot ; &#x00a1 ; Hasta la vista ! &quot ;
+
+#	NEW	isbn	........ / 2007 .	// <p> <strong> <em> Slam </em> </strong> is a novel written by British author <a> Nick Hornby </a> , published in 2007 .
+
+#	NEW	isbn	........ / 1996	// It was printed by Bloomsbury Books in 1996 and features illustrations by <a> Martin Rowson </a> . </p>
+
+516	TRUE	Slaves of Sleep::isbn	na / 1939	
+It was first published in book form in <a> 1948 </a> by <a> Shasta Publishers </a> ; the novel originally appeared in 1939 in an issue of the magazine <em> <a> Unknown </a> </em> .
+
+#	NEW	isbn	........ / 2003-5 .	// The <a> Luxembourg </a> -based group Artvalue bought the name and rights in 2002 and published the last 3 editions from 2003-5 .
+
+#	NEW	isbn	........ / 2002	// <p> In a 2002 interview , Stirling said that out of all of his novels , <em> Drakon </em> would make the best movie and he would want <a> James Cameron </a> to be director .
+
+#	NEW	isbn	........ / 2011 .	// The fourth book in the series , &quot ; Blackveil , &quot ; is scheduled to be released in February 2011 . </p>
+
+#	NEW	isbn	........ / 1997	// <p> In 1997 a film of the same name was adapted from this novel .
+
+#	NEW	isbn	........ / 2008 .	// It was originally published by <a> Harper Bibles </a> on October 7 , 2008 .
+
+#	NEW	isbn	........ / 1957	// <p> When published as a book in 1957 , <em> The Poverty of Historicism </em> was hailed by the anti-communist author <a> Arthur Koestler </a> as <em> &quot ; probably the only book published this year which will outlive the century . &quot ; </em> </p>
+
+#	NEW	isbn	........ / 2009	// The novel won the <a> Aurealis Award </a> 2009 for the <a> best fantasy novel </a> . </p>
+
+#	NEW	isbn	........ / 2007 .	// <p> <strong> <em> The Chimera ' s Curse </em> </strong> is a <a> children ' s </a> <a> fantasy novel </a> by <a> Julia Golding </a> , first published in 2007 .
+
+#	NEW	isbn	........ / 1977	// <p> <strong> <em> Keep the Giraffe Burning </em> </strong> was a <a> science fiction </a> <a> short story </a> collection by <a> John Sladek </a> , published in <a> 1977 </a> . </p>
+
+#	NEW	isbn	........ / 2008	// <p> <strong> <em> Shadow of the Scorpion </em> </strong> is a novel by <a> Neal Asher </a> , published by the <a> Macmillan Publishers </a> imprint <a> Tor Books </a> in <a> 2008 </a> .
+
+#	NEW	isbn	........ / 36-	// The set included three digest-sized books : the 36-page &quot ; Men &amp ; Magic&quot ; , the 40-page &quot ; Monsters &amp ; Treasure&quot ; , and the 36-page &quot ; The Underworld &amp ; Wilderness Adventures&quot ; .
+
+#	NEW	isbn	........ / 2001	// Nominated for the 2001 <a> World Fantasy Award </a> for Best Anthology .
+
+#	NEW	isbn	........ / 1997	// The novel was adapted to film by <a> Stanley Kubrick </a> <a> in 1962 </a> , and again <a> in 1997 </a> by <a> Adrian Lyne </a> . </p>
+
+#	NEW	isbn	........ / 2006 .	// The original edition was published by Fayard in 2006 . </p>
+
+#	NEW	isbn	........ / 1919	// <p> Two film versions of <em> The Songs of a Sentimental Bloke </em> have been produced : a <a> silent version </a> in 1919 written and directed by <a> Raymond Longford </a> , and which featured Arthur Tauchert as Bill and <a> Lottie Lyell </a> as Doreen ; and a &quot ; talkie&quot ; version in 1932 , directed by <a> Frank Thring </a> from a screenplay by <a> C . J . Dennis </a> . </p>
+
+#	NEW	isbn	........ / 1982 .	// <p> <strong> <em> Wittgenstein&#x2019 ; s Nephew </em> </strong> is a short <a> memoir </a> / novel by <a> Thomas Bernhard </a> , originally published in 1982 .
+
+#	NEW	isbn	........ / 1979 .	// With a screenplay written by Collins herself , and co-produced by her husband Oscar Lerman , the film was made to capitalise on the success of <em> <a> The Stud </a> </em> and <em> <a> The Bitch </a> </em> , two of Collins ' other novels made into films in 1978 and 1979 .
+
+#	NEW	isbn	........ / 180	// The book was made into a television series entitled <em> <a> Longitude </a> </em> . In 1998 , <em> The Illustrated Longitude </em> was published , supplementing the earlier text with 180 images of characters , events , instruments , maps and publications . </p>
+
+#	NEW	isbn	........ / 1902	// ( Imogene the cow originated in the 1902 stage adaptation of <em> <a> The Wonderful Wizard of Oz </a> </em> . ) </p>
+
+536	TRUE	Tom Swift and His Electric Rifle::isbn	na / 10	
+It is Volume 10 in the original <a> Tom Swift </a> novel series published by <a> Grosset &amp ; Dunlap </a> . </p>
+
+#	NEW	isbn	........ / 1978	// <p> In 1978 , the book was adapted for the screen in a film of the same name .
+
+#	NEW	isbn	........ / 2009 .	// <p> A film adaptation of the novels starring <a> Isla Fisher </a> as Becky Bloomwood , <a> Hugh Dancy </a> as Luke Brandon , and <a> Krysten Ritter </a> as Suze was released on February 13 , 2009 . </p>
+
+#	NEW	isbn	........ / 2009 .	// <p> The book is notable for receiving accolades not only from atheists ( the recommendations of <a> Philip Pullman </a> , <a> Brian Greene </a> , <a> Brian Eno </a> , and others appear on the cover ) , but also from the religious community : for example , Sum was named as one of the Best Spiritual Books of 2009 .
+
+#	NEW	isbn	........ / 2005	// and by <em> <a> The Austin Chronicle </a> </em> in 2005 as &quot ; the most original novel of the year . &quot ;
+
+#	NEW	isbn	........ / 4-	// <p> One of the major components of the 4-day anti-bloat jump start is &quot ; Sassy Water , &quot ; named for Cynthia Sass .
+
+#	NEW	isbn	........ / 2009 .	// It is a sequel to Cherryh ' s 1988 <a> Hugo award </a> -winning science fiction novel , <em> <a> Cyteen </a> </em> , and was published in hardcover by [ [ DAW Books ] ] in January 2009 .
+
+#	NEW	isbn	........ / 17-	// <p> It is the seventeenth book in the 17-volume Rocksburg series . </p>
+
+#	NEW	isbn	........ / ( 1887 )	// H . Hudson </a> ' s second novel , <em> <a> A Crystal Age </a> </em> ( 1887 ) , published two years earlier than Corbett ' s book , also contains the plot element of a nineteenth-century man who cannot adapt to a matriarchal society of the future . </p>
+
+#	NEW	isbn	........ / 1914	// <p> <em> Queen Ann in Oz </em> is a sequel to Baum ' s 1914 novel <em> <a> Tik-Tok of Oz </a> </em> , and derives characters and plot elements from that book .
+
+#	NEW	isbn	........ / 1983	// Published by Alfred van der Marck editions as a single book in 1983 , it was rereleased by <a> Harper and Row </a> in 1988 , in the wake of Campbell ' s posthumous fame , brought by the airing of the television series , <a> The Power of Myth </a> .
+
+#	NEW	isbn	........ / 2010	// <p> <strong> <em> Mission of Honor </em> </strong> by <a> David Weber </a> and published on June 22 , 2010 by <a> Baen Books </a> , is the twelfth novel set in the <a> Honorverse </a> in the main <a> Honor Harrington </a> series .
+
+#	NEW	isbn	........ / 1906 .	// <p> <strong> Las fuerzas extra&#x00f1 ; as </strong> ( Spanish for : <em> The Strange Forces </em> ) , by <a> Argentine </a> <a> writer </a> <a> Leopoldo Lugones </a> , is a collection of short stories first published in 1906 .
+
+549	TRUE	Death's Deputy::isbn	na / 1940	
+The novel originally appeared in the February 1940 issue of the magazine <em> <a> Unknown </a> </em> . </p>
+
+550	TRUE	The Moon Maiden::isbn	na / 1915.	
+The novel originally appeared in the magazine <em> <a> Argosy </a> </em> in 1915 . </p>
+
+#	NEW	isbn	........ / 1963 .	// This novella was published in book form after the famous <a> Le Proc&#x00e8 ; s-Verbal </a> , his first novel which won the Renaudot prize in 1963 . This novella was also included in a collection of short stories entitled <a> La fi&#x00e8 ; vre </a> ( Pages 60 to 87 ) . </p>
+
+#	NEW	isbn	........ / 2000	// <p> <strong> <em> Jeremy Clarkson on Ferrari </em> </strong> is a <a> non-fiction </a> book , published in 2000 , written by British journalist and television presenter <a> Jeremy Clarkson </a> .
+
+#	NEW	isbn	........ / 2003	// <p> <strong> <em> The Grandmothers : Four Short Novels </em> </strong> is collection of four short stories published in 2003 by 2007 <a> Nobel laureate </a> <a> Doris Lessing </a> . </p>
+
+#	NEW	isbn	........ / 1990 .	// Published in 1987 , it is the first book in the <a> <em> Empire </em> Trilogy </a> and was followed by <em> <a> Servant of the Empire </a> </em> in 1990 . </p>
+
+#	NEW	isbn	........ / 1960	// <p> <strong> Love and Responsibility </strong> is a book written by Karol Wojty&#x0142 ; a before he became <a> Pope John Paul II </a> and was originally published in <a> Polish </a> in 1960 and in <a> English </a> in 1981 .
+
+#	NEW	isbn	........ / 1890	// <p> The original version by <a> Edward Hull </a> was published in 1890 and spanned to his present day in the 19th century .
+
+#	NEW	isbn	........ / 30	// <p> The first <em> Book of Matches </em> is made up of 30 sonnets , each intended to be read from the strike of a match until the time it takes for the flame to burn out . </p>
+
+#	NEW	isbn	........ / 2005 .	// <p> <em> The Running Man </em> was named <a> Children ' s Book Council of Australia </a> Book of the Year for Older Readers in 2005 .
+
+#	NEW	isbn	........ / 12	// The book was on the <a> New York Times Best Seller list </a> for 12 weeks ( August 12 , 1990 - October 28 ) . The title of the book comes from the <a> Book of Numbers </a> : &quot ; The Lord spoke to Moses , saying , &quot ; Send men that they may spy out the land of Canaan , which I give to the children of Israel ; of every tribe of their fathers shall you send a man , everyone one a prince among them . &quot ; ( Numbers
+
+#	NEW	isbn	........ / 2010	// <p> In a statement released on September 14 , 2010 announcing the publication date of the novel by Michael Pietch , Wallace ' s editor , further information about the plot of the final state of the book was unveiled .
+
+#	NEW	isbn	........ / 1984	// In 1984 , the novel was freely adapted by <a> Peter Ustinov </a> into a film ( also known as <em> The Lion and the Hawk </em> ) . </p>
+
+#	NEW	isbn	........ / 2009	// While the white paper was originally due to be completed in December 2008 , it was delayed until 2009 due to the volume of work required . </p>
+
+#	NEW	isbn	........ / 2002	// <p> <strong> <em> Journey to the Stone Country </em> </strong> is a 2002 <a> Miles Franklin literary award </a> winning novel by the Australian author <a> Alex Miller </a> . </p>
+
+#	NEW	isbn	........ / 100	// <p> The memoir stayed on <a> The New York Times Best Seller list </a> for 100 weeks and is now under development as a film by [ [ Paramount Pictures | Paramount ] ] .
+
+#	NEW	isbn	........ / 3	// <p> <strong> <em> The Secret of Annexe 3 </em> </strong> is a <a> crime </a> <a> novel </a> by <a> Colin Dexter </a> , the seventh novel in <a> Inspector Morse </a> series . </p>
+
+#	NEW	isbn	........ / 40	// <p> <strong> <em> Dave Barry Turns 40 </em> </strong> is a humor book written by humor Columnist <a> Dave Barry </a> , about turning 40 , as well as giving satirical advice on aging . </p>
+
+#	NEW	isbn	........ / 1985	// <p> Despite the ongoing film series that began in the 1980s , <em> The Howling II </em> was not adapted as a film and bears no similarities to the 1985 film <em> <a> Howling II </a> </em> or any of the other <em> &quot ; Howling&quot ; </em> films . </p>
+
+#	NEW	isbn	........ / ( 7	// In a <a> New York Times Book Review </a> ( 7 October 2007 ) , <a> United States Congressman </a> <a> Frank R . Wolf </a> described Cambridge ' s settlement as &quot ; basically a book burning . &quot ; </p>
+
+#	NEW	isbn	........ / 865 )	// The book was first published by <a> DAW Books </a> ( No . 865 ) in November , 1991 . </p>
+
+#	NEW	isbn	........ / 2008	// <em> Nights in Rodanthe </em> was adapted into a <a> 2008 film of the same name </a> . </p>
+
+#	NEW	isbn	........ / 4	// <p> The book was adapted into a six-part television documentary with the new full title <em> Ascent of Money : Boom and Bust </em> for <a> Channel 4 </a> in the <a> UK </a> .
+
+#	NEW	isbn	........ / 20	// This novel was written 20 years after Selby ' s last novel <em> <a> Requiem for a Dream </a> </em> was published . </p>
+
+#	NEW	isbn	........ / 1941 :	// <p> <strong> <em> December 7 , 1941 : A Different Path </em> </strong> is a 1995 alternate history novel by <a> David L . Alley </a> which premises a different course for the <a> Second World War </a> when the Japanese decide to attack the <a> Soviet Union </a> instead of the United States . </p>
+
+#	NEW	isbn	........ / 282	// <p> The second edition was published in 1991 , and a reprint was issued in 1994 , and included an appendix with a further 282 changes . </p>
+
+#	NEW	isbn	........ / 2001	// It was first published in hardcover in <a> 2001 </a> by <a> Guidry &amp ; Adkins </a> , a publishing partnership of Burroughs fans <a> John H . Guidry </a> and Patrick H . Adkins , as part of their &quot ; Tarzana Project , &quot ; intended to bring into print all the author ' s previously unpublished or uncollected works . </p>
+
+#	NEW	isbn	........ / 1964	// The first was published in &quot ; The Blue Book Magazine&quot ; in 1942 , but the second did not see publication until 1964 when it was featured in <em> Tales of Three Planets </em> along with &quot ; <a> The Resurrection of Jimber-Jaw </a> &quot ; and <em> <a> The Wizard of Venus </a> </em> . </p>
+
+#	NEW	isbn	........ / 2008	// <p> <strong> <em> Nuclear Implosions : The Rise and Fall of the Washington Public Power Supply System </em> </strong> is a 2008 book by Daniel Pope , a history professor at the <a> University of Oregon </a> , which traces the history of the <a> Washington Public Power Supply System </a> , a public agency which undertook to build five large <a> nuclear power plant </a> s , one of the most ambitious U . S . construction projects in the 1970s .
+
+#	NEW	isbn	........ / 1999	// It was originally published as a novella in 1999 in <a> Al Sarrantonio </a> ' s <em> <a> Al Sarrantonio ' s 999 : New Stories Of Horror And Suspense </a> </em> anthology . </p>
+
+#	NEW	isbn	........ / 2007	// <p> <strong> <em> Love Without Hope </em> </strong> is a 2007 novel by the Australian author <a> Rodney Hall </a> . </p>
+
+#	NEW	isbn	........ / 2008	// <p> <strong> <em> Twenty Chickens for a Saddle </em> </strong> is a <a> 2008 </a> <a> memoir </a> by <a> British </a> author <a> Robyn Scott </a> . </p>
+
+#	NEW	isbn	........ / 2007	// Originally published in Spanish , the book was translated into English and republished in 2007 by British publisher <a> Phaidon Press </a> with the assistance of both Ortegas and artwork by Javier Mariscal .
+
+#	NEW	isbn	........ / 1961 .	// The book was first published in 1961 . </p>
+
+#	NEW	isbn	........ / 2008 .	// <p> <strong> <em> Arctic Drift </em> </strong> is a <a> Dirk Pitt </a> novel , the 20th of the series and was released on November 25 , 2008 . </p>
+
+#	NEW	isbn	........ / 1960	// Subsequent <a> adaptations for a play </a> and <a> film of the same title </a> were subsequently released in 1960 and 1964 respectively . </p>
+
+#	NEW	isbn	........ / 1980 .	// The novel received <a> Gold Dagger </a> Award for Best Novel of 1979 and the <a> Edgar Award </a> for Best Novel of 1980 .
+
+#	NEW	isbn	........ / 1950	// In addition , the original 1950 edition and the <em> Betty Crocker Cooky Book </em> have been reprinted as facsimiles . </p>
+
+#	NEW	isbn	........ / 2008	// <p> <strong> <em> Midnight : A Gangster Love Story </em> </strong> originally scheduled to be published October 14 , 2008 , is a novel by <a> Sister Souljah </a> that was published November 4 , 2008 , by Atri / Simon and Schuster .
+
+#	NEW	isbn	........ / 12	// It contains a long novella , which was the only previously unpublished story included , and 12 short stories .
+
+#	NEW	isbn	........ / ( 2007 ) .	// <p> This is the first novel in the author ' s &quot ; Challi / Destry&quot ; series of crime novels , followed by <em> <a> Kittyhawk Down </a> </em> ( 2003 ) , <em> <a> Snapshot </a> </em> ( 2005 ) , and <a> Chain of Evidence </a> ( 2007 ) . </p>
+
+#	NEW	isbn	........ / 2003	// The fourth novel in the &quot ; Jack Irish&quot ; series , it won the 2003 <a> Ned Kelly Awards </a> Best Novel for Crime Writing .
+
+#	NEW	isbn	........ / 52	// So far , the book has spent 52 weeks on NY Times ' Best Sellers , Hardcover Nonfiction list . </p>
+
+#	NEW	isbn	........ / 50-	// <p> The book includes a 50-page summation by Dozois ; 28 stories , all that first appeared in 1991 , and each with a two-paragraph introduction by Dozois ; and a referenced list of honorable mentions for the year .
+
+#	NEW	isbn	........ / 544 )	// It was originally published by <a> DAW Books </a> ( No . 544 ) in <a> 1983 </a> . </p>
+
+#	NEW	isbn	........ / 600 )	// It was originally published by <a> DAW Books </a> ( No . 600 ) in October <a> 1984 </a> . </p>
+
+#	NEW	isbn	........ / 657 )	// The book was first published by <a> DAW Books </a> ( No . 657 ) in December , 1985 . </p>
+
+#	NEW	isbn	........ / 1996	// <p> <strong> <em> Get Rich Quick </em> </strong> is a 1996 <a> Ned Kelly Award </a> winning novel by the Australian author <a> Peter Doyle </a> . </p>
+
+#	NEW	isbn	........ / 2003	// <p> <strong> <em> Degrees of Connection </em> </strong> is a 2003 <a> Ned Kelly Award </a> winning novel by the Australian author <a> Jon Cleary </a> . </p>
+
+#	NEW	isbn	........ / 1994	// <p> <strong> Death of a River Guide </strong> is a 1994 novel by Australian author <a> Richard Flanagan </a> . </p>
+
+#	NEW	isbn	........ / 30-	// <p> The book includes a 30-page summation by Dozois ; 29 stories , all that first appeared in 2005 , and each with a two-paragraph introduction by Dozois ; and a ten-page referenced list of honorable mentions for the year .
+
+#	NEW	isbn	........ / 1954	// The character of Philippe Fran&#x00e7 ; aix seems to be modelled on film critic and film theorist <a> Andr&#x00e9 ; Bazin </a> or maybe <a> Fran&#x00e7 ; ois Truffaut </a> who , in 1954 , advocated <a> auteur theory </a> , claiming that a director ' s films reflect that director ' s personal creative vision , as if he or she were the primary &quot ; auteur , &quot ; and that a film critic can only write a review of a film if they like it . </p>
+
+#	NEW	isbn	........ / 18 .	// Yep had already written several books including the <a> Newbery Honor </a> novel <em> <a> Dragonwings </a> </em> by 1980 , when , after undertaking careful research , he decided to adapt Chinese mythology into a <a> fantasy </a> form , something he had always wanted to do since he had sold his first <a> science fiction </a> story at 18 .
+
+#	NEW	isbn	........ / 1937	// <a> Eugene Lyons </a> , author of the pioneering 1937 work <em> Assignment in Utopia </em> , described the book as &quot ; uniquely revealing&quot ; , while <a> Robert Massie </a> , author of <em> <a> Nicholas and Alexandra </a> </em> , wrote of the author&#x2019 ; s &quot ; individual genius . &quot ; </p>
+
+#	NEW	isbn	........ / 2004 .	// <p> <strong> Haunted </strong> is a <a> young adult novel </a> written by author <a> Meg Cabot </a> and was published by <a> Avon Books </a> in 2004 .
+
+#	NEW	isbn	........ / 4	// <p> As the author explains in the Introduction , the novel is not intended to be an exact reconstruction of the air raid : most notably , there was no raid on the previous night ( the earlier , less damaging raids having taken place in late April ) , and the actual raid started at around 1am in the morning of May 4 rather than in the late evening of May 3 . The change in time is for dramatic effect , allowing the family to be believably scattered around the city .
+
+#	NEW	isbn	........ / 73	// This law was later repealed by Law No . / 73 which stipulated the release of the Official Gazette on bi-weekly basis .
+
+#	NEW	isbn	........ / 1985	// <p> <strong> Juggernaut </strong> is a <a> novel </a> written by <a> English </a> author <a> Desmond Bagley </a> , and was first published in <a> 1985 </a> . </p>
+
+#	NEW	isbn	........ / 2007 .	// <p> A screenplay of the story was written by <a> Joe McStravick </a> in 2007 .
+
+#	NEW	isbn	........ / 2008 .	// In Debt </em> </strong> is the book companion for the documentary <a> of the same name </a> , published on September 29 , 2008 .
+
+#	NEW	isbn	........ / 81 .	// <p> The novel is set in early summer AD 81 .
+
+#	NEW	isbn	........ / 2010	// In February 2010 , <a> Relativity Media </a> announced it had assigned <a> Vincenzo Natali </a> to direct the film adaptation of the novel . </p>
+
+#	NEW	isbn	........ / 1995 .	// <p> <strong> <em> Strange Highways </em> </strong> is a collection of 12 short stories and two novellas by best-selling <a> American </a> <a> suspense </a> author <a> Dean Koontz </a> , released in 1995 . </p>
+
+#	NEW	isbn	........ / 23	// <p> Sabato ' s 23 proposals run the gamut from changing the length of the <a> U . S . President </a> ' s term in office and the number and terms of <a> Supreme Court </a> justices to altering the structure of <a> Congress </a> , modifying the <a> Electoral College </a> , and introducing universal national service . </p>
+
+#	NEW	isbn	........ / ( 1906&#	// <p> <strong> <em> The Punch and Judy Murders </em> </strong> ( also published under the title <em> The Magic Lantern Murders </em> ) is a <a> mystery </a> novel by the <a> American </a> writer <a> John Dickson Carr </a> ( 1906&#x2013 ; 1977 ) , who published it under the name of Carter Dickson .
+
+#	NEW	isbn	........ / 1962	// Originally published in <a> 1962 </a> , this is one of the most influential works written during the so-called &quot ; <a> Latin American Boom </a> &quot ; . </p>
+
+#	NEW	isbn	........ / 17-	// Consisting of a series of essays and short fiction pieces , it was referred to as his &quot ; Spanish <em> <a> Sketch Book </a> </em> &quot ; ref name=Burstein21 / Shortly after the book ' s publication , Irving returned to New York after a 17-year absence from the United States . ref
+
+#	NEW	isbn	........ / 2	// <p> <strong> Chapter 2 Ender&#x2019 ; s Stocking </strong> where <a> Peter </a> fights with his mother over the Christmas stocking she has prepared for Ender while he is away at Battle School originally appeared in the short story &quot ; <a> Ender ' s Stocking </a> &quot ; which was published in the October 2007 issue of Card&#x2019 ; s webzine <em> <a> InterGalactic Medicine Show </a> </em> .
+
+#	NEW	isbn	........ / ( 1976 )	// <p> <strong> <em> In the Green Star ' s Glow </em> </strong> ( 1976 ) is the final novel in <a> Lin Carter </a> ' s <a> Green Star Series </a> . </p>
+
+#	NEW	isbn	........ / ( 1992 ) .	// The other novels are <em> <a> Dragonsword </a> </em> ( 1989 ) and <em> <a> Dragon Death </a> </em> ( 1992 ) .
+
+#	NEW	isbn	........ / ( 1999 )	// The characters Grey , Sarah , and Nan appear in two earlier works by Lackey which were published in the short story anthology , <em> <a> Werehunter </a> </em> ( 1999 ) </p>
+
+#	NEW	isbn	........ / 1980	// Although published in 1980 as the third book of the <a> Patternist series </a> it is the earliest book in the chronology of the Patternist world .
+
+#	NEW	isbn	........ / ( 800	// All sets except the trade edition ( 800 copies ) also included a chapbook , <em> &quot ; Brief Synopsis for An Alternate World Novel : The Acts of Paul </em> , an outline for a novel that was never written . </p>
+
+#	NEW	isbn	........ / 2009 .	// The book was set for its official release April 1 , 2009 .
+
+#	NEW	isbn	........ / 1972 .	// <p> <strong> <em> kodak </em> </strong> is a <a> poetry </a> collection by <a> Patti Smith </a> , published in 1972 . </p>
+
+#	NEW	isbn	........ / 000	// It was published in 1975 by <a> Donald M . Grant , Publisher , Inc . </a> in an edition of 2 , 000 copies .
+
+#	NEW	isbn	........ / 25	// The guides originally consisted of 25 topics , covered in a series of 32 articles , published in JAMA between 1993 and 2000 , describing approaches to different types of medical questions and the study designs that may answer them .
+
+#	NEW	isbn	........ / 1999	// <p> It was originally published in <a> Swedish </a> in 1999 , and in English in hardback in the same year , and later in paperback .
+
+#	NEW	isbn	........ / na	// This omnibus contains all the stories from Dunsany ' s earlier collections : <em> <a> Time and the Gods </a> </em> , <em> <a> The Sword of Welleran and Other Stories </a> </em> , <em> <a> A Dreamer ' s Tales </a> </em> , <em> <a> The Book of Wonder </a> </em> , <em> <a> The Last Book of Wonder </a> </em> , and <em> <a> The Gods of Peg&#x0101 ; na </a> </em> . </p>
+
+#	NEW	isbn	........ / 11	// Most of the chapters are narrated by characters central to the story , however chapter 11 is purely made up of fictitious editorials from the local newspaper known as the Virginian . </p>
+
+#	NEW	isbn	........ / 1993	// It was made into a film in 1993 called <em> <a> Say a Little Prayer </a> </em> , directed by <a> Richard Lowenstein </a> .
+
+#	NEW	isbn	........ / 1920	// <p> The story has been adapted three times for the screen , first in a <a> 1920 silent version </a> starring <a> Manora Thew </a> and then in further versions <a> in 1930 </a> starring <a> Austin Trevor </a> and <a> in 1940 </a> when the title role was played by <a> Kenneth Kent </a> . </p>
+
+#	NEW	isbn	........ / 700	// This book is based on extensive research and analysis of previous studies , and the book contains over 700 references .
+
+#	NEW	isbn	........ / 2004	// Although the publication said the book was generally sympathetic toward Obama , it also praised Mendell for taking note of his faults and his &quot ; considerable ego&quot ; , citing in particular the opening of the book , in which Obama confidentially states , &quot ; I ' m <a> LeBron </a> , baby&quot ; , before speaking at the <a> 2004 Democratic National Convention </a> .
+
+#	NEW	isbn	........ / 2007	// In the re-release of the novel in 2007 , the author notes the book ' s significance as having been both her first young adult novel and the first in which she effectively evoked the New Zealand setting .
+
+#	NEW	isbn	........ / 1961	// <p> The novel was the basis for the <a> German </a> film <a> Das Wunder des Malachias </a> a 1961 black-and-white film directed by <a> Bernhard Wicki </a> and starring <a> Horst Bollmann </a> .
+
+#	NEW	isbn	........ / 2007	// <p> <em> Glass </em> is the second novel in the <a> verse novel </a> series <em> Crank </em> by <a> Ellen Hopkins </a> , published in August <a> 2007 </a> .
+
+#	NEW	isbn	........ / 2012	// <p> Like the two previous novels , <em> The Faceless Ones </em> is awaiting a film adaption , tentatively to be released in <a> 2012 </a> .
+
+#	NEW	isbn	........ / 000	// With over 1 , 000 , 000 copies sold , True Singapore Ghost Stories has become a household name since its inception in 1989 .
+
+#	NEW	isbn	........ / 1956	// Originally published in 1956 and still in print today , it was the first of this author&#x2019 ; s 35 books .
+
+639	TRUE	The Vivero Letter (novel)::isbn	na / 1998	
+It was also made into a film in 1998 <a> of the same name </a> . </p>
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	0-06-105901-3 / ..........
+
+#	null	isbn	isbn 0-06-106453-x / ..........
+
+#	null	isbn	0-06-087341-8 / ..........
+
+#	null	isbn	006089623x / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	0-7394-6273-3 / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	isbn 0-745-92803-x / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	1862075794 / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	0436378051 / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	1-928777-13-9 / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	1-4165-5556-0 / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	0-609-60100-8 / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	1-4000-7974-2 / ..........
+
+#	null	isbn	n/a / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	isbn 0-86542-615-5 / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	0230607543 / ..........
+
+#	null	isbn	na / ..........
+
+#	null	isbn	isbn 978-0-7679-1688-2 / ..........
+

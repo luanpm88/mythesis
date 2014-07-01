@@ -1,3 +1,0 @@
-<li><a>List of universities in Israel</a></li>
-<li> <a>Bar-Ilan Faculty of Medicine</a></li>
-<li> <a>Bar-Ilan Institute of Nanotechnology and Advanced Materials (BINA)</a></li>

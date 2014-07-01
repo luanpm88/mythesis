@@ -1,7 +1,0 @@
-<h3>Flagstaff campus</h3>
-<h3>College of Arts and Letters</h3>
-<h3>College of Engineering, Forestry, and Natural Sciences</h3>
-<h3>College of Social and Behavioral Sciences</h3>
-<h3>Intramural sports</h3>
-<li><a>College of Arts and Letters</a></li>
-<li><a>College of Engineering, Forestry, and Natural Sciences</a></li>

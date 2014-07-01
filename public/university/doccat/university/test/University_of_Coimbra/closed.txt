@@ -1,4 +1,0 @@
-<li>Faculty of Medicine: Yellow</li>
-<li>Faculty of Letters: Dark Blue</li>
-<li>Faculty of Pharmacy: Purple</li>
-<li>Faculty of Economics: Red and White</li>

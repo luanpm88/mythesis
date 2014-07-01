@@ -1,8 +1,0 @@
-<p>John Sloane Infirmary was constructed during 1913-1914.</p>
-Perkins Hall, the new Engineering Building, was designed by Professor Aptullah Kuran.
-<li><a>John Freely</a> - Professor of Physics, Author</li>
-<li><a>&#x015e;erif Mardin</a> - Former Dean, Professor Emeritus of Political Science, Sabanci University</li>
-<li><a>Murat R. Sertel</a> - Former Dean, Professor of Economics</li>
-<li><a>Engin Ar&#x0131;k</a> - Professor of Physics</li>
-<li><a>Alpar Sevgen</a> - Professor of Physics</li>
-<li><a>M.Kivanc Mihcak</a> - Professor of Electrical and Electronics Engineering</li>

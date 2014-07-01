@@ -1,0 +1,12 @@
+Found: 2
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	death_place	........ / New York City	// <p> Goldman died from a <a> heart attack </a> in <a> New York City </a> , where he had lived for many years . </p>
+
+#	NEW	death_place	........ / New York City	// After gaining valuable experience in community theater , she relocated to <a> New York City </a> .
+

@@ -1,0 +1,115 @@
+Found: 45
+Found Not Null: 15
+Correct: 12
+Wrong: 3
+Total: 15
+precision: 0.8
+recall: 0.8
+
+
+
+#	NEW	callsign	........ / Copa	// <p> The crash of <strong> <a> Copa Airlines </a> Flight 201 </strong> is the deadliest airline disaster in Panama in 50 years , and the deadliest disaster in the history of <a> Copa Airlines </a> . </p>
+
+#	NEW	callsign	........ / International	// <p> <strong> SNA / DHL </strong> , incorporated as <strong> DHL International Aviation ME </strong> , is a <a> cargo airline </a> based in <a> Bahrain </a> .
+
+#	NEW	callsign	........ / United	// <p> The airline was established in 2004 as <strong> United Eagle Airlines </strong> ( , also known as <strong> UEAir </strong> ) . Scheduled revenue flights were launched when the first aircraft , an <a> Airbus A320-200 </a> , was delivered in July 2005 .
+
+#	NEW	callsign	........ / Eastern	// <p> <strong> Eastern Australia Airlines Pty Ltd </strong> is an <a> airline </a> based on the grounds of <a> Sydney Airport </a> in <a> Mascot </a> , <a> City of Botany Bay </a> , <a> Sydney </a> , <a> New South Wales </a> , <a> Australia </a> .
+
+4	FALSE	Tatarstan Airlines::callsign	tatarstan / International	
+<p> <strong> International </strong> </p>
+
+#	NEW	callsign	........ / Europe	// <p> <strong> Europe Airpost </strong> is an <a> airline </a> based in the B&#x00e2 ; timent Le S&#x00e9 ; quoia in <a> Tremblay-en-France </a> . It operates mail and cargo flights for the postal service and newspapers dispatch during the night and scheduled and charter services for other airlines and tour operators by day thanks to its fleet of <a> Boeing 737-300 </a> QC ( &quot ; Quick Change&quot ; ) that can be switched between cargo and passengers configuration in less than an hour .
+
+6	FALSE	Dolphin Air::callsign	flying dolphin / Air	
+<p> <strong> Dolphin Air </strong> is a <a> charter airline </a> based in <a> Dubai </a> , <a> United Arab Emirates </a> .
+
+#	NEW	callsign	........ / ChukotAVIA	// <p> <strong> ChukotAVIA </strong> ( , short for &#x0427 ; &#x0443 ; &#x043a ; &#x043e ; &#x0442 ; &#x0441 ; &#x043a ; &#x0438 ; &#x0435 ; &#x0430 ; &#x0432 ; &#x0438 ; &#x0430 ; &#x043b ; &#x0438 ; &#x043d ; &#x0438 ; &#x0438 ; ( Chukotka Airlines ) ) is an <a> airline </a> based in <a> Anadyr </a> , <a> Russia </a> .
+
+#	NEW	callsign	........ / Fly	// <p> <strong> Hi Fly </strong> is an <a> airline </a> based at <a> Portela Airport </a> in <a> Lisbon </a> , <a> Portugal </a> , which has specialised in the worldwide <a> aircraft lease </a> on medium to long term contracts for airlines , tour operators , governments , companies and individuals . </p>
+
+#	NEW	callsign	........ / operation	// <p> <strong> Jet Air Sp . z o . o . </strong> is a <a> Polish </a> air operator that provides leasing services as well as a branded operation on domestic and intra-European flights .
+
+10	TRUE	West Wind Aviation::callsign	westwind / Air	
+Under the <strong> International Air Services </strong> brand WestWind provides airport terminal services to charter and international airlines at the Saskatoon , Regina and Winnipeg airports .
+
+#	NEW	callsign	........ / IBC	// <p> <strong> IBC Airways </strong> is an <a> American </a> <a> cargo airline </a> with its headquarters in Building 101 on the grounds of <a> Miami International Airport </a> in <a> unincorporated </a> <a> Miami-Dade County </a> , <a> Florida </a> , <a> USA </a> .
+
+#	NEW	callsign	........ / National	// <p> <strong> <a> United Airlines </a> Flight 553 </strong> , registration , <em> City of Lincoln </em> , was a <a> Boeing 737-222 </a> en route from <a> Washington National Airport </a> to <a> Omaha , Nebraska </a> , via <a> Chicago Midway International Airport </a> on December 8 , 1972 .
+
+13	TRUE	Ladeco::callsign	ladeco / De	
+<p> <strong> Ladeco </strong> was a former <a> Chile </a> an airline ; Ladeco is the acronym of &quot ; <strong> L </strong> &#x00ed ; nea <strong> A </strong> &#x00e9 ; rea <strong> De </strong> l <strong> Co </strong> bre&quot ; or the &quot ; Airline of Copper , &quot ; in reference to the principal Chilean export . </p>
+
+#	NEW	callsign	........ / JetBlue	// <p> <strong> <a> JetBlue Airways </a> Flight 292 </strong> was a scheduled flight from <a> Bob Hope Airport </a> ( BUR ) in <a> Burbank </a> , <a> California </a> to <a> John F . Kennedy International Airport </a> ( JFK ) in <a> New York City </a> .
+
+#	NEW	callsign	........ / USAir	// <p> <strong> USAir Flight 5050 </strong> was an &quot ; extra section&quot ; passenger flight to replace the regularly scheduled but cancelled flight 1846 , from <a> New York </a> ' s <a> La Guardia Airport </a> to <a> Charlotte International Airport </a> in <a> Charlotte </a> , <a> North Carolina </a> on September 20 , 1989 .
+
+#	NEW	callsign	........ / Air	// <p> <strong> Falkland Islands Government Air Service ( FIGAS ) </strong> is an <a> airline </a> based in <a> Stanley </a> , <a> Falkland Islands </a> .
+
+#	NEW	callsign	........ / Girjet	// <p> <strong> Girjet </strong> ( Gesti&#x00f3 ; n A&#x00e9 ; rea Ejecutiva , SL ) was an <a> airline </a> based in <a> Barcelona </a> , <a> Spain </a> .
+
+18	TRUE	Air Inter::callsign	air inter / Lignes	
+Mercure ] ] in 1985 ] ] <strong> Air Inter </strong> ( <strong> Lignes A&#x00e9 ; riennes Int&#x00e9 ; rieures </strong> ) was a semi-public <a> French </a> domestic airline .
+
+#	NEW	callsign	........ / Air	// <p> <strong> Inter Island Airways </strong> ( also known as <strong> <a> Inter Island Air </a> </strong> ) is a <a> South Pacific </a> regional <a> airline </a> based in <a> Pago Pago </a> , <a> American Samoa </a> .
+
+#	NEW	callsign	........ / Air	// <p> On October 10 , 1933 , a <a> Boeing 247 </a> <a> propliner </a> operated by <a> United Air Lines </a> and <a> registered </a> as NC13304 , crashed near <a> Chesterton , Indiana </a> .
+
+#	NEW	callsign	........ / Sabena	// <p> In the <strong> Sabena OO-AUB Ostend crash </strong> , a <a> Junkers Ju 52 </a> aircraft owned and operated by <a> Belgian </a> air operator <a> Sabena </a> crashed near <a> Ostend </a> , Belgium on November 16 , 1937 .
+
+22	TRUE	Concors::callsign	concors / Air	
+<p> <strong> Concors Latvian Air Service </strong> was an <a> airline </a> based in <a> Riga </a> , <a> Latvia </a> .
+
+#	NEW	callsign	........ / Dornier	// <p> <strong> Dornier Aviation Nigeria </strong> is an <a> airline </a> based in <a> Kaduna </a> , <a> Nigeria </a> .
+
+#	NEW	callsign	........ / International	// <p> <strong> East African Airlines </strong> was an <a> airline </a> based in <a> Kampala </a> , <a> Uganda </a> , operating out of <a> Entebbe International Airport </a> . </p>
+
+25	TRUE	Cascade Airways::callsign	cascade / Cascade	
+<p> <strong> Cascade Airways </strong> was an <a> airline </a> which flew primarily regional air routes out of <a> Seattle </a> , <a> Washington </a> , <a> USA </a> .
+
+#	NEW	callsign	........ / Air	// <p> <strong> Egoli Air </strong> is an <a> airline </a> based in <a> Johannesburg </a> , <a> South Africa </a> .
+
+#	NEW	callsign	........ / Air	// <p> <strong> Air Harrods Limited </strong> is the aircraft charter arm of the <a> Mohamed Al Fayed </a> owned <a> Harrods </a> company .
+
+#	NEW	callsign	........ / GENSA	// <p> <strong> GENSA </strong> ( General Servi&#x00e7 ; os A&#x00e9 ; reos ) is an <a> airline </a> is based in <a> Campo Grande </a> , <a> Brazil </a> .
+
+29	TRUE	Slovenian Spirit::callsign	slovenian / Austria	
+<p> <strong> Slovenian Spirit </strong> was the name of a subsidiary of the <a> Austria </a> n airline <a> Styrian Spirit </a> .
+
+#	NEW	callsign	........ / Estafeta	// <p> <strong> Estafeta Carga A&#x00e9 ; rea S . A . de C . V . </strong> is a <a> cargo airline </a> based in <a> Mexico City </a> , <a> Mexico </a> .
+
+31	TRUE	Fairline::callsign	fairline / Fairline	
+<p> <strong> Fairline </strong> was a regional <a> airline </a> based in <a> Austria </a> .
+
+#	NEW	callsign	........ / Air	// It was later renamed <strong> Yute Air Alaska </strong> .
+
+33	TRUE	Freight Runners Express::callsign	freight runners / Express	
+<p> <strong> Freight Runners Express </strong> is an <a> American </a> <a> airline </a> based in <a> Milwaukee </a> , <a> Wisconsin </a> .
+
+#	NEW	callsign	........ / Georgian	// <p> <strong> Georgian Cargo Airlines Africa </strong> was a <a> cargo airline </a> based in <a> Dakar </a> , <a> Senegal </a> .
+
+35	TRUE	Yangtze River Express::callsign	yangtze river / Express	
+<p> <strong> Yangtze River Express </strong> ( Yangtze River Express Airlines Company Limited ) ( &#x626c ; &#x5b50 ; &#x6c5f ; &#x5feb ; &#x8fd0 ; &#x822a ; &#x7a7a ; &#x6709 ; &#x9650 ; &#x516c ; &#x53f8 ; , or &#x626c ; &#x5b50 ; &#x6c5f ; &#x5feb ; &#x8fd0 ; for short ) is a <a> cargo </a> <a> airline </a> based in the <a> People ' s Republic of China </a> . </p>
+
+36	TRUE	Voyageur Airways::callsign	voyageur / North	
+<p> <strong> Voyageur Airways </strong> is an airline based in <a> North Bay </a> , <a> Ontario </a> , <a> Canada </a> that commenced operations in 1968 .
+
+#	NEW	callsign	........ / Air Express	// <p> <strong> Knighthawk Air Express Ltd . </strong> was a <a> cargo airline </a> based in <a> Canada </a> , which operated primarily within Canada , from hubs located in <a> Calgary </a> , the westernmost base , <a> Ottawa </a> , and <a> Montreal </a> .
+
+38	TRUE	Guinea Ecuatorial Airlines::callsign	geasa / Guinea	
+<p> <strong> Guinea Equatorial Airlines </strong> ( GEASA ) is an <a> airline </a> based in <a> Malabo </a> , <a> Equatorial Guinea </a> .
+
+#	NEW	callsign	........ / Imair	// <p> <strong> Imair Airlines </strong> was an <a> airline </a> based in <a> Baku </a> , <a> Azerbaijan </a> .
+
+40	TRUE	Inversija::callsign	invers / Inversija	
+<p> <strong> Inversija </strong> is a <a> cargo airline </a> based in <a> Riga </a> , <a> Latvia </a> .
+
+#	NEW	callsign	........ / Pacific	// <p> <strong> Cebu Pacific Flight 387 ( 5J387 ) </strong> was a domestic <a> Cebu Pacific Air </a> flight from <a> Manila </a> ' s <a> Ninoy Aquino International Airport </a> to <a> Lumbia Airport </a> in <a> Cagayan de Oro City </a> on <a> Mindanao </a> Island .
+
+#	NEW	callsign	........ / Varig	// <p> <strong> <a> Varig </a> Flight 254 </strong> was a <a> Boeing 737 </a> -241 , / n 2100 / 398 , registration PP-VMK , on a scheduled passenger flight from <a> S&#x00e3 ; o Paulo </a> , <a> S&#x00e3 ; o Paulo </a> , <a> Brazil </a> to <a> Bel&#x00e9 ; m </a> , <a> Par&#x00e1 ; </a> , Brazil on 3 September 1989 .
+
+43	FALSE	MASkargo::callsign	malaysian / Malaysia	
+<p> <strong> <a> MAS </a> <a> kargo </a> </strong> or <strong> Malaysia Airlines Kargo </strong> ( <em> Malaysia Airlines Cargo Sdn .
+
+#	NEW	callsign	........ / TUI	// Formerly known as <strong> TUI Airlines Belgium </strong> , it adopted its new name in November 2005 .
+

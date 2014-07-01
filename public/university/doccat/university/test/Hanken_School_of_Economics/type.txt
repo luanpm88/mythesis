@@ -1,5 +1,0 @@
-<li><a>CERS</a> &#x2013; Centre for Relationship Marketing and Service Management</li>
-<li><a>Carl Haglund</a> &#x2013; Member of the European Parliament</li>
-<li><a>Henrik Lax</a> &#x2013; Former member of the European Parliament</li>
-<li><a>Mikael Lilius</a> &#x2013; CEO of <a>Fortum</a></li>
-<p><a>EQUIS</a> (European Quality Improvement System) is an international programme for the assessment of European education in economic and business sciences.

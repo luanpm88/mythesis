@@ -1,2 +1,0 @@
-<li>College of Education</li>
-<li>College of Polymer Science &amp; Polymer Engineering</li>

@@ -1,8 +1,0 @@
-<h2>Full-time MBA</h2>
-<li><a>Finance</a></li>
-<li><a>Strategy</a></li>
-<li><a>Marketing</a></li>
-<li>Managerial <a>Economics</a></li>
-<li>Management <a>Accounting</a></li>
-<li>Industry - <a>Google</a>, <a>American Express</a>, <a>BT</a>, <a>Shell</a>, <a>Johnson &amp; Johnson</a>, <a>Pepsico</a>, <a>BP</a>.</li>
-<li><a>Sir Chris Kelly</a> KCB &#x2013; Chairman, NSPCC</li>

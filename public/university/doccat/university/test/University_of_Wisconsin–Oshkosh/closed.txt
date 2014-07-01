@@ -1,2 +1,0 @@
-<li>Faculty: 300</li>
-<li>Courses in catalog: 1,156</li>

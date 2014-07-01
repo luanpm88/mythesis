@@ -1,0 +1,108 @@
+Found: 44
+Found Not Null: 10
+Correct: 7
+Wrong: 3
+Total: 10
+precision: 0.7
+recall: 0.7
+
+
+
+#	NEW	callsign	........ / authorities	// <p> When the aircraft failed to report abeam Carolina and then abeam the town of <a> Santar&#x00e9 ; m , Brazil </a> , local authorities initiated a missing aircraft alert .
+
+#	NEW	callsign	........ / landing	// The aircraft remained airborne and made an <a> emergency landing </a> in Honolulu .
+
+#	NEW	callsign	........ / who	// <p> The crew of Flight 946 consisted of Captain John A . Rapsis , 52 , who had been a pilot for <a> Northeast Airlines </a> since 1957 and had over 15 , 000 hours of flight experience .
+
+#	NEW	callsign	........ / final	// On June 19 , 1969 the NTSB issued its final report , which included the following Probable Cause statement : </p>
+
+#	NEW	callsign	........ / operation	// NAC grew steadily , evolving from the early two aircraft operation serving four communities to an eleven aircraft operation connecting <a> Sioux Lookout , Ontario </a> ; <a> Winnipeg </a> ; <a> Thunder Bay </a> ; <a> Red Lake , Ontario </a> ; <a> Thompson , Manitoba </a> and 21 First Nations communities </p>
+
+#	NEW	callsign	........ / down	// <p> The captain brought the aircraft down smoothly .
+
+#	NEW	callsign	........ / Mango&#	// <p> Mango&#x2019 ; s is a <a> low cost airline </a> featuring a uniform fleet of aircraft with high seat density , high productivity from employees , and operating efficiencies , such as online ticket selling </p>
+
+#	NEW	callsign	........ / aircraft	// The aircraft was a four-engine <a> Douglas </a> <a> DC-8-54CF </a> airliner , registered CF-TJN .
+
+8	FALSE	L'Avion::callsign	elysair / FI&	
+<p> ref name=&quot ; FI&quot ; / </p>
+
+9	TRUE	Sierra National Airlines::callsign	sierra national airlines / National	
+<p> As of January <a> 2005 </a> Sierra National Airlines operated the following services : </p>
+
+#	NEW	callsign	........ / year .	// The first aircraft joined the fleet in April of that year .
+
+#	NEW	callsign	........ / negotiations	// Twenty minutes of negotiations followed </p>
+
+#	NEW	callsign	........ / diplomatic	// The items included about 100&nbsp ; kg of diplomatic mail , and valuables and currencies including : 1 ) 2 golden medals , 2 ) 2000 <a> Finnish mark </a> s , 3 ) 10 . 000 <a> Romanian leu </a> s , 4 ) 13 . 500
+
+#	NEW	callsign	........ / aircraft	// <p> The aircraft was a twin-engine <a> Douglas DC-9-33CF </a> operated on behalf of ALM by <a> Overseas National Airways </a> ( ONA ) , with an ONA aircraft and flight crew , and an ALM cabin crew .
+
+#	NEW	callsign	........ / Nurman	// <p> As of March 2007 the Nurman Avia fleet included the following aircraft : ref name=&quot ; FI&quot ; / </p>
+
+#	NEW	callsign	........ / July	// <p> As of July 2010 the Fly540 fleet consists of the following aircraft : </p>
+
+#	NEW	callsign	........ / drizzly	// The cold , <a> drizzly </a> weather was normal for the area , there were no indications that anything was wrong with the aircraft , and , although this particular aircraft had 24 , 000 flying hours since its November 1990 delivery , There were no survivors .
+
+#	NEW	callsign	........ / Air	// <p> As of May 2010 the Swift Air fleet includes : </p>
+
+#	NEW	callsign	........ / National	// <p> The National Transportation Safety Board determines the probable cause ( s ) of this accident as follows : </p>
+
+#	NEW	callsign	........ / cause	// The cause was undetermined because U . S . investigators were not allowed to survey the accident site or the aircraft remains .
+
+#	NEW	callsign	........ / Loch	// <p> The Loch Lomond Seaplanes fleet includes the following aircraft ( at April 2009 ) : </p>
+
+21	FALSE	Scandjet::callsign	- / Scandjet	
+<p> The Scandjet fleet includes the following aircraft ( ) : </p>
+
+22	TRUE	Pan Européenne Air Service::callsign	- / Air	
+<p> The Pan Europ&#x00e9 ; enne Air Service fleet includes the following aircraft ( as of 12 July 2008 ) [ <a> http : / /www . ch-aviation . c / aircraft . php ? search=set&amp ; airline=PEA&amp ; al_op=1 </a> ] : </p>
+
+#	NEW	callsign	........ / Appalachian	// <p> Appalachian Airlines offered scheduled flights to the following destinations : </p>
+
+#	NEW	callsign	........ / Superior	// <p> As of August 2006 the Superior Aviation fleet includes : </p>
+
+25	TRUE	Jettime::callsign	jettime / all-	
+As of January 2011 , the Jettime fleet consists of six <a> Boeing 737-300 </a> aircraft with an average age of 21 . 3 years , each of which is equipped with 148 passenger seats in an all- <a> economy class </a> cabin layout .
+
+26	TRUE	Vincent Aviation::callsign	vincent / Vincent	
+<p> As of August 2010 , the Vincent Aviation fleet consists of the following aircraft : </p>
+
+#	NEW	callsign	........ / Norrlandsflyg	// <p> <strong> Norrlandsflyg AB </strong> is a <a> Swedish </a> <a> helicopter </a> operator which provides <a> search and rescue </a> under contract with the <a> Swedish Maritime Administration </a> and <a> air ambulance </a> services for <a> Norrbotten County </a> and <a> V&#x00e4 ; stra G&#x00f6 ; taland County </a> .
+
+#	NEW	callsign	........ / two	// <p> The aircraft , a <a> Boeing 737-4Q8 </a> with two <a> CFMI CFM56-3C1 </a> <a> jet engine </a> s , was built by <a> Boeing </a> with manufacturer serial number 2537 / 2732 , and made its first flight on 9 June 1995 . ref
+
+#	NEW	callsign	........ / Air	// <p> As of August 2008 the Sita Air fleet includes : </p>
+
+#	NEW	callsign	........ / June	// Agni Air provides scheduled flights at the following locations ( as of June 2010 ) : </p>
+
+31	TRUE	Kampuchea Airlines::callsign	kampuchea / years	
+<p> Over the years , Kampuchea Airlines operated the following aircraft types : </p>
+
+#	NEW	callsign	........ / Landsflug	// Landsflug had 80 employees ( at March 2007 ) .
+
+#	NEW	callsign	........ / Both	// Both aircraft had to be written off .
+
+34	TRUE	Southern Air::callsign	southern air / Air	
+<p> In early 2010 , Southern Air also introduced a new livery to its fleet along with new corporate branding . </p>
+
+#	NEW	callsign	........ / WaltAir	// <p> <strong> WaltAir </strong> is a Swedish taxi airline .
+
+#	NEW	callsign	........ / UPS	// It operates feeder flights for overnight package delivery services , including <a> UPS </a> and <a> DHL </a> .
+
+#	NEW	callsign	........ / Midwest	// <p> The Midwest Airlines fleet consists of the following aircraft ( at January 2011 ) : </p>
+
+#	NEW	callsign	........ / LAM	// It is wholly owned by LAM and has 50 employees ( at March 2007 ) .
+
+#	NEW	callsign	........ / Nightexpress	// <p> As of December 2010 , the Nightexpress fleet consists of the following aircraft : </p>
+
+#	NEW	callsign	........ / Air	// <p> As of March 2009 the Novosibirsk Air Enterprise fleet includes : </p>
+
+#	NEW	callsign	........ / June	// <p> The Marsland Aviation fleet consists of the following aircraft ( as of June 2010 ) : </p>
+
+42	TRUE	Lucky Air::callsign	lucky air / Air	
+<p> The Lucky Air fleet includes the following aircraft ( as of February 2010 ) ref name=&quot ; FI&quot ; / : </p>
+
+43	FALSE	Westward Airways (United Kingdom)::callsign	- / Westward	
+<p> Westward Airways ( Land ' s End ) Ltd holds a <a> United Kingdom Civil Aviation Authority </a> Type B Operating Licence , it is permitted to carry passengers , cargo and mail on aircraft with fewer than 20 seats an / or weighing less than 10 tonnes . </p>
+

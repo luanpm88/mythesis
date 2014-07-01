@@ -1,0 +1,432 @@
+Found: 212
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	years_active	........ / ( 1996 )	// He also appeared in <em> <a> Santa Claws </a> </em> ( 1996 ) as Bruce Brunswick .
+
+#	NEW	years_active	........ / 1963	// He began making films in January 1963 after being expelled from college .
+
+#	NEW	years_active	........ / 1979 .	// She was still a very active actress until the year before her death from <a> congestive heart failure </a> at age 83 in 1979 .
+
+#	NEW	years_active	........ / 1993	// In 1993 his friend George Mier , who had become Program Director at WSKQ , invited him to move to New York to host the station ' s morning show .
+
+#	NEW	years_active	........ / 1951	// <p> His parents separated in 1951 and his mother and siblings moved to London .
+
+#	NEW	years_active	........ / ( 1977 )	// <p> Her role in the title role of <em> <a> Marie Curie </a> </em> ( 1977 ) first brought her to wide attention .
+
+#	NEW	years_active	........ / 1920	// Deese attended Palmer Academy in <a> De Funiak Springs </a> , Florida from 1920 to 1930 .
+
+#	NEW	years_active	........ / 8	// It was originally just a two week recurring role , but lucky for us it has lasted 8 months and counting !
+
+#	NEW	years_active	........ / 1989	// He was married to <a> Kim Delaney </a> from 1989 to 1994 .
+
+#	NEW	years_active	........ / 2007 .	// The film was released in March 2007 .
+
+#	NEW	years_active	........ / 70	// <p> In 1970 he was arrested and jailed in Rome under suspicion of cocaine possession and trafficking , with 70 days passing before being bailed .
+
+#	NEW	years_active	........ / ( 28	// <p> <strong> Helen Haye </strong> ( 28 August 1874 - 1 September 1957 ) was a British stage and film actress . </p>
+
+#	NEW	years_active	........ / ( 16	// <p> <strong> Clive Morton </strong> ( 16 March 1904 - 24 September 1975 ) was an <a> English </a> actor who made many screen appearances , especially on television .
+
+#	NEW	years_active	........ / 1969	// Collier appeared on stage in &quot ; Hamlet&quot ; in 1969 at the Lunt-Fontanne in New York City .
+
+#	NEW	years_active	........ / 20	// <p> <strong> Sir Coles John &quot ; Jeremy&quot ; Child , 3rd Baronet </strong> ( born 20 September 1944 ) is an <a> English </a> actor . </p>
+
+#	NEW	years_active	........ / ( 1982 ) .	// Jacklin in <em> <a> Strangers </a> </em> ( 1982 ) .
+
+#	NEW	years_active	........ / 27	// <p> <strong> Agathe de La Fontaine </strong> ( born 27 March 1972 ) is a French actress .
+
+#	NEW	years_active	........ / 11 .	// Her parents divorced when she was 11 .
+
+#	NEW	years_active	........ / ( 3	// <p> <strong> Peter Coke </strong> ( &quot ; cook&quot ; ) ( 3 April 1913 &ndash ; 30 July 2008 ) was an <a> English </a> actor , playwright and artist . </p>
+
+#	NEW	years_active	........ / 1892 &	// <p> <strong> Muhsin Ertu&#x011f ; rul </strong> ( March 7 , 1892 &ndash ; April 29 , 1979 ) , aka <strong> Ertu&#x011f ; rul Muhsin Bey </strong> , was a <a> Turkish </a> actor and director . </p>
+
+#	NEW	years_active	........ / 1968	// <p> Two years later , 1968 , Orestes moved to New York .
+
+#	NEW	years_active	........ / ( 2000 )	// 2 </a> </em> ( 2000 ) in which he played the role of &quot ; Dov&quot ; , the seducer .
+
+#	NEW	years_active	........ / 06	// <p> <strong> Lara Jane Cox </strong> ( born 06 March 1978 ) is an <a> Australia </a> n <a> actress </a> , known for a variety of roles .
+
+#	NEW	years_active	........ / 26	// <p> <strong> Charley Webb </strong> ( born <strong> Charlotte Anne Webb </strong> on 26 February 1988 ) is an <a> English </a> actress .
+
+#	NEW	years_active	........ / ( 4	// <p> <strong> Kadri Roshi </strong> ( 4 January 1924 &#x2013 ; 6 February 2007 ) was an <a> Albania </a> n actor . </p>
+
+#	NEW	years_active	........ / 2	// Most notably she played Vada ' s mom in My Girl 2 for which she sang a beautiful rendition of Charlie Chaplin ' s ' Smile ' .
+
+#	NEW	years_active	........ / 17	// <p> <strong> Bruce Mackinnon </strong> ( born 17 October 1978 ) is an <a> actor </a> who has appeared in various television programmes .
+
+#	NEW	years_active	........ / 1982	// <p> He left the acting profession in 1982 , studied law and worked for various London solicitors ' firms before moving to Norwich .
+
+#	NEW	years_active	........ / 25	// <p> <strong> Mallika Kapoor </strong> ( born 25 April 1985 ) is an Indian film actress , working in the South Indian film industries . </p>
+
+#	NEW	years_active	........ / 1945 -	// <p> <strong> Melanie Virginia Sydney Morse MacQuarrie </strong> ( June 13 , 1945 - February 1 , 2005 ) was a Canadian actress . </p>
+
+#	NEW	years_active	........ / ( 15	// <p> <strong> Edmund Warwick </strong> ( 15 July 1907&#x2013 ; December 1989 ) was a <a> British </a> actor who appeared in various television programmes . </p>
+
+#	NEW	years_active	........ / 28	// <p> <strong> Patrick Kennedy </strong> ( born 28 August 1977 ) is an <a> English </a> actor .
+
+#	NEW	years_active	........ / 1956	// <p> Janus Films was founded in 1956 by Haliday and Harvey .
+
+#	NEW	years_active	........ / 2001	// <p> In 2001 , Duong travled to the U . S . to film two films .
+
+#	NEW	years_active	........ / ( 1971 ) .	// <p> He was also , himself , a director of a number of films , including <em> <a> &#x00c9 ; glantine </a> </em> ( 1971 ) .
+
+#	NEW	years_active	........ / 1969 )	// <p> <strong> Steve Van Wormer </strong> ( born December 8 , 1969 ) is an American actor and comedian .
+
+#	NEW	years_active	........ / 0 / 0 / 06-0 / 1 / 06	// <p> : * 0 / 0 / 06-0 / 1 / 06 ( Colonial Theatre , Boston , MA ) : * 0 / 1 / 06-0 / 0 / 06 ( Cadillac Palace Theatre , Chicago , IL ) : * 0 / 0 / 06-0 / 0 / 06 ( National Theatre , Washington , DC ) </p>
+
+#	NEW	years_active	........ / 1877-1891 .	// After their divorce , she married the Swedish dramatist and writer <a> August Strindberg </a> ; they were married between 1877-1891 .
+
+#	NEW	years_active	........ / 2009	// <p> In December 2009 , Television New Zealand decided to not renew his contract for his presenter role on Good Morning .
+
+#	NEW	years_active	........ / 24	// <p> <strong> Charlie Creed-Miles </strong> ( born 24 March 1972 ) is an <a> English </a> <a> actor </a> .
+
+#	NEW	years_active	........ / 1956 .	// She got her chance in the 1955 film version , just prior to retiring in 1956 .
+
+#	NEW	years_active	........ / 1980	// Her career extended to television movies from roughly 1980 to 2002 . </p>
+
+#	NEW	years_active	........ / 2003	// In 2003 he moved to Los Angeles to continue as host and segment producer .
+
+#	NEW	years_active	........ / ( 1986 ) .	// He is best known for playing the role of Brian Tanner on <em> <a> ALF </a> </em> ( 1986 ) .
+
+#	NEW	years_active	........ / 1981 )	// <p> <strong> Randy Wayne </strong> ( born August 7 , 1981 ) is an American actor .
+
+#	NEW	years_active	........ / 2004	// She relocated to New York in 2004 for her role on <em> <a> One Life to Live </a> </em> . </p>
+
+#	NEW	years_active	........ / 1996 )	// <p> ( born June 5 , 1996 ) is a Japanese child actor .
+
+#	NEW	years_active	........ / 30	// <p> Schenk has appeared in over 30 films ( mostly in German ) .
+
+#	NEW	years_active	........ / 18 .	// Her parents were Peggy and Nathaniel Freeman ; her mother killed her father , who was reportedly abusive , when Donyale was 18 . Luna ' s mother wanted her to become a nurse . </p>
+
+#	NEW	years_active	........ / ( 19	// <p> ( 19 October 1906&#x2013 ; 16 January 1975 ) was one of <a> Japan </a> ' s most revered <a> Kabuki </a> actors from the 1930s until his death .
+
+#	NEW	years_active	........ / 1993	// <p> In 1993 , she published her autobiography , <em> Try Everything Once Except Incest and <a> Morris Dancing </a> : The Intimate Autobiography of a Dangerous Lady </em> ( ISBN 978-1857820348 ) .
+
+#	NEW	years_active	........ / ( 1964 ) .	// He had an uncredited role as The Old Man in the episode &quot ; The Guests&quot ; on &quot ; The Outer Limits&quot ; ( 1964 ) .
+
+#	NEW	years_active	........ / ( 1970 ) .	// Philpott is best known to American audiences for his role as <strong> Courage </strong> in <em> <a> The Bugaloos </a> </em> ( 1970 ) .
+
+#	NEW	years_active	........ / ( 10	// <p> <strong> Harry Locke </strong> ( 10 December 1913 &#x2013 ; 17 September 1987 ) was a <a> British </a> <a> character actor </a> . </p>
+
+#	NEW	years_active	........ / 1939 -	// <p> <strong> William Engesser </strong> ( February 21 , 1939 - June 20 , 2002 ) sup / sup was an <a> American </a> film actor , 7 ' 3&quot ; tall .
+
+#	NEW	years_active	........ / 1987 )	// <p> <strong> Chad Broskey </strong> ( born July 3 , 1987 ) is an American actor .
+
+#	NEW	years_active	........ / 1979	// <p> Andrew Ginsburg was born on October 7 , 1979 in New York , New York .
+
+#	NEW	years_active	........ / 1961 .	// They were married in 1941 and divorced in 1961 .
+
+#	NEW	years_active	........ / 1962 -	// <p> <strong> David Oliver </strong> ( January 31 , 1962 - November 12 , 1992 ) was an American actor best known for roles on two television programs . </p>
+
+#	NEW	years_active	........ / ( 13	// <p> <strong> John Hewer </strong> ( 13 January 1922 &ndash ; 16 March 2008 ) was an <a> English </a> <a> actor </a> .
+
+#	NEW	years_active	........ / 45 .	// Dexter started his career in <a> vaudeville </a> and didn ' t move to films until he was 45 .
+
+#	NEW	years_active	........ / 7	// <p> <strong> Daniel &quot ; Danny&quot ; Young </strong> ( born 7 November 1986 , <a> Essex </a> ) is a British actor .
+
+#	NEW	years_active	........ / ( 4	// <p> <strong> Richard Stahl </strong> ( 4 January 1932 &#x2013 ; 18 June 2006 ) was an <a> American </a> actor who mostly appeared in film and TV comedies . </p>
+
+#	NEW	years_active	........ / ,	// When she was four she moved to <a> Los Angeles </a> , where she currently resides with her mother .
+
+#	NEW	years_active	........ / 1867	// <p> After the death of Dr . Brown in 1867 , she married J . C . McCollom , with whom she repeated many of her popular roles .
+
+#	NEW	years_active	........ / 1913 &#	// <p> <strong> Niall MacGinnis </strong> ( 29 March , 1913 &#x2013 ; 6 January 1977 ) was an <a> Irish </a> actor who made 80 screen appearances . </p>
+
+#	NEW	years_active	........ / 1997	// The scene was later placed back into the movie for the film ' s twentieth anniversary re-release in 1997 replacing Mulholland with a computerized Jabba the Hutt .
+
+#	NEW	years_active	........ / ( 1991 ) .	// He also appeared in several films such as <em> <a> Point Break </a> </em> ( 1991 ) .
+
+#	NEW	years_active	........ / 1959 )	// <p> <strong> Brian Thompson </strong> ( born August 28 , 1959 ) is an American actor .
+
+#	NEW	years_active	........ / 1976 .	// She and Nelson divorced in 1976 .
+
+#	NEW	years_active	........ / 1981	// His most prominent roles include Leo in the 1981 CBS series <em> <a> Mr .
+
+#	NEW	years_active	........ / 17	// She is currently the longest serving female cast member of the show , having first appeared when she was 17 years old .
+
+#	NEW	years_active	........ / 1976 .	// She was also a regular on <a> Dinah Shore </a> ' s summer variety television show , <em> Dinah and Her New Best Friends </em> in 1976 .
+
+#	NEW	years_active	........ / 2001	// In a six-decade career , from the 1940s to 2001 , she amassed well over 100 credits . </p>
+
+#	NEW	years_active	........ / 2006	// <p> Also in 2006 , she became the model and muse for New York City premium denim collection , 4Stroke Jeans .
+
+#	NEW	years_active	........ / 18 .	// <p> At school she became the youngest adult dancer at the London Palladium before moving into films and television at age 18 .
+
+#	NEW	years_active	........ / 8 .	// He was stumbled upon acting by accident while waiting for his sister to come out of a rehearsal , he was then cast in a commercial at age 8 .
+
+#	NEW	years_active	........ / 1993	// In 1993 she moved to <a> Los Angeles </a> , where she joined The Matrix Theatre Company .
+
+#	NEW	years_active	........ / 2003 .	// He wrote and directed the French-language film <em> Osmose </em> ( <em> Osmosis </em> ) in 2003 .
+
+#	NEW	years_active	........ / 1981 )	// <p> <strong> Shaun Sipos </strong> ( born October 30 , 1981 ) is a Canadian actor .
+
+#	NEW	years_active	........ / 19	// Died on 19 January 2001 in <a> Buenos Aires </a> , <a> Argentina </a> . </p>
+
+#	NEW	years_active	........ / 1986 )	// <p> <strong> Courtney Lee Enders </strong> ( November 14 , 1986 ) is Jr .
+
+#	NEW	years_active	........ / 1957 )	// <p> <strong> Michael Bowen </strong> ( born October 17 , 1957 ) is an American actor .
+
+#	NEW	years_active	........ / 25	// <p> <strong> Val McLane </strong> ( born 25 February 1943 , in <a> Newcastle upon Tyne </a> ) is an English actress , scriptwriter , director and teacher . </p>
+
+#	NEW	years_active	........ / 1960 )	// <p> <strong> Anne Marie Howard </strong> ( born March 31 , 1960 ) is an American actress , former spokeswoman for Ditech . com
+
+#	NEW	years_active	........ / 40	// <p> She has appeared in over 40 television shows and movies prior to becoming a full time film producer .
+
+#	NEW	years_active	........ / 3	// <p> <strong> Janine Mellor </strong> ( born 3 May 1980 in <a> Huddersfield </a> ) is an English actress .
+
+#	NEW	years_active	........ / 16	// She was 16 years old when she debuted on the show .
+
+#	NEW	years_active	........ / 2009	// Fall 2009 saw the release of the sc / fi horror film Pandorum for Overture Films and Constantin Film starring Dennis Quaid &amp ; Ben Foster .
+
+#	NEW	years_active	........ / 1921	// <p> She was married to film actor Richard Abbott from 1921 to 1948 .
+
+#	NEW	years_active	........ / 2007	// Hood graduated from <a> Upper Canada College </a> in 2007 from Jackson House .
+
+#	NEW	years_active	........ / 14	// He also had roles in 14 of the 18 Danish films based on novels by <a> Morten Korch </a> .
+
+#	NEW	years_active	........ / 4	// Yingling briefly filled in for <a> Chris Sanders </a> on 4 episodes of season 1 of the Lilo and Stitch TV series .
+
+#	NEW	years_active	........ / 1913 &	// <p> <strong> June Knight </strong> ( January 22 , 1913 &ndash ; June 16 , 1987 ) was an American <a> Broadway </a> and film actress .
+
+#	NEW	years_active	........ / 2	// <p> <strong> Elizabeth Lackey </strong> ( born 2 March 1971 ) , often credited as <strong> Lisa Lackey </strong> , is an <a> Australia </a> n <a> actress </a> .
+
+#	NEW	years_active	........ / 21	// <p> She signed contracts for 21 films before her maiden film was released , a record in Sri Lankan Cinema .
+
+#	NEW	years_active	........ / 1889 -	// <p> <strong> Wylie Watson </strong> ( February 6 , 1889 - May 3 , 1966 ) was a British actor .
+
+#	NEW	years_active	........ / 1981	// <p> He first played the role of David Banning on <em> <a> Days of our Lives </a> </em> from 1981 to 1983 .
+
+#	NEW	years_active	........ / 31	// <p> <strong> Charles Cioffi </strong> ( born 31 October 1935 ) , also credited as <strong> Charles M . Cioffi </strong> , is an <a> American </a> television actor . </p>
+
+#	NEW	years_active	........ / 2005 .	// She joined the station on December 17 , 2005 .
+
+#	NEW	years_active	........ / 2005	// <p> <strong> Aurora Miranda da Cunha </strong> ( born April 20 , 1915 in <a> Rio de Janeiro </a> &ndash ; December 22 , 2005 in Rio de Janeiro ) was a Brazilian entertainer .
+
+#	NEW	years_active	........ / ( 7	// <p> <strong> Eleanor Summerfield </strong> ( 7 March 1921 &#x2013 ; 13 July 2001 ) was a <a> British </a> actress .
+
+#	NEW	years_active	........ / ( 23	// <p> <strong> Roger Avon </strong> ( 23 November 1914 &ndash ; 21 December 1998 ) was a <a> British </a> film and television actor .
+
+#	NEW	years_active	........ / 1958 )	// <p> <strong> Jake Steinfeld </strong> ( born February 21 , 1958 ) is an American actor and fitness personality .
+
+#	NEW	years_active	........ / 1956 )	// <p> <strong> Aaron Lustig </strong> ( born September 17 , 1956 ) is an American film and television actor .
+
+#	NEW	years_active	........ / 1995 .	// <p> Pauleen started her showbiz career when she joined <em> Eat Bulaga ! ' s </em> Little Miss Philippines talent contest in 1995 .
+
+#	NEW	years_active	........ / 1961 &	// <p> <strong> Richard Michael Genelle </strong> ( October 12 , 1961 &ndash ; December 30 , 2008 ) was an entrepreneur and actor best known for playing Ernie on the children ' s series <em> <a> Power Rangers </a> </em> . </p>
+
+#	NEW	years_active	........ / 1964 )	// <p> <strong> Jana Marie Hupp </strong> ( born April 2 , 1964 ) is an American actress .
+
+#	NEW	years_active	........ / 15	// <p> In 2007 , she has played a guest role ( Vivian Anderson ) on <a> Home and Away </a> for 15 episodes .
+
+#	NEW	years_active	........ / ( 1995 ) .	// Her first screen part was in the film <em> Carrington </em> ( 1995 ) .
+
+#	NEW	years_active	........ / 2003	// He is best known for his role as Randhir Singh in <a> Sudhir Mishra </a> ' s 2003 Hindi movie and his role as Kuwar Singh in Zee ' s Mera Naam Karegi Roshan .
+
+#	NEW	years_active	........ / 11	// <p> <strong> Ashley Taylor Dawson </strong> ( born 11 January 1982 ) is an <a> English </a> actor and singer . </p>
+
+#	NEW	years_active	........ / 2008 .	// <em> Dying God </em> was her last film shot to date and was released in France in 2008 .
+
+#	NEW	years_active	........ / 1950	// name=TSObit / He moved to <a> Toronto </a> in 1950 and established his career there .
+
+#	NEW	years_active	........ / ( 2	// <p> <strong> Ronny Coutteure </strong> ( 2 July 1951 - 21 June 2000 ) was a <a> Belgian </a> actor .
+
+#	NEW	years_active	........ / 2004 .	// <p> Colesberry died at the age of fifty-seven from complications following cardiac surgery in 2004 .
+
+#	NEW	years_active	........ / 15	// <p> <strong> Michael Tucci </strong> ( born 15 April 1946 For five years Tucci played <a> Garry Shandling </a> ' s best friend Pete Schumaker on the cult classic <em> <a> It ' s Garry Shandling ' s Show </a> </em> ( 1986&#x2013 ; 1990 ) .
+
+#	NEW	years_active	........ / ( 4	// <p> <strong> Willoughby Wittenham Rees Goddard </strong> ( 4 July 1926 &ndash ; 11 April 2008 ) was a <a> British </a> actor whose trademark rotund figure was well known on television and in films for over 40 years . </p>
+
+#	NEW	years_active	........ / 18 .	// <p> Warner moved to California at the age of 18 .
+
+#	NEW	years_active	........ / 30	// <p> <strong> Paul Miller </strong> is a <a> Canadian </a> actor , born on 30 October 1960 .
+
+#	NEW	years_active	........ / 1984-86 .	// Prior to joining <em> As the World Turns </em> , Holmes appeared on <em> <a> Ryan ' s Hope </a> </em> from 1984-86 .
+
+#	NEW	years_active	........ / ( 23	// <p> <strong> Anna Palk </strong> ( 23 October 1941 &ndash ; 1 July 1990 ) was an <a> English </a> <a> actress </a> . </p>
+
+#	NEW	years_active	........ / ( 16	// <p> <strong> Aage Winther-J&#x00f8 ; rgensen </strong> ( 16 May 1900-10 April 1967 ) was a <a> Danish </a> <a> actor </a> . </p>
+
+#	NEW	years_active	........ / 1990	// <p> Salinas enrolled in 1990 at the Centro de Educaci&#x00f3 ; n Art&#x00ed ; stico de Televisa ( CEA ) .
+
+#	NEW	years_active	........ / 1948	// After the series ended upon Kennedy ' s death in 1948 , she continued to play character roles in films and television .
+
+#	NEW	years_active	........ / 1991 .	// For that role she won the <a> Young Artist Award </a> in 1991 .
+
+#	NEW	years_active	........ / ( 1980 )	// <p> <em> The Exploding Sports Shoe </em> ( 1980 ) , was a two minute film consisting of a sports shoe exploding in slow-motion .
+
+#	NEW	years_active	........ / 2007 .	// Her comedy special and documentary , <em> <a> A Bottom on Top </a> </em> , aired on LOGO Television in the fall of 2007 .
+
+#	NEW	years_active	........ / 1977	// In 1977 she played the role of Kitty in a BBC adaptation of <em> Anna Karenina </em> .
+
+#	NEW	years_active	........ / 90210 .	// Steve is currently shooting a feature film entitled <em> Static </em> co-starring Kathleen Robertson , better known for her role on Beverly Hills 90210 .
+
+#	NEW	years_active	........ / ( 1961 ) .	// He had a fine singing voice and composed songs , such as for the movie <em> <a> Johnny Nobody </a> </em> ( 1961 ) .
+
+#	NEW	years_active	........ / 1990 .	// He went onto appear in over 100 films in his career spanning over two decades through to 1990 .
+
+#	NEW	years_active	........ / 1924 -	// <p> <strong> David Bretherton </strong> ( February 29 , 1924 - May 11 , 2000 ) was an American <a> film editor </a> with more than 40 credits for films released from 1954 to 1996 . </p>
+
+#	NEW	years_active	........ / 2001 .	// <p> She was stabbed to death in a parking lot in <a> San Juan City </a> on November 7 , 2001 .
+
+#	NEW	years_active	........ / ( 1967 )	// Other film credits include the role of &quot ; Mark&quot ; in the science fiction film , <em> The Bubble </em> ( 1967 ) , later titled , &quot ; The Fantastic Invasion . &quot ;
+
+#	NEW	years_active	........ / 2008	// <p> In 2008 she was named by Japan Today as the most popular female TV personality because she appeared in more commercials ( 14 ) than any other female in Japan .
+
+#	NEW	years_active	........ / ( 1996 ) .	// Her last credited role was in the erotic thriller <em> <a> Poison Ivy II : Lily </a> </em> ( 1996 ) .
+
+#	NEW	years_active	........ / 1920	// Although the couple would divorce seven years later , Sais would rarely appear in films outside of the Western genre from 1920 onward .
+
+#	NEW	years_active	........ / 4	// <p> <strong> Joe Chen Qiao-En </strong> ( , <em> Chen Chiao-en </em> , born 4 April 1979 ) is a <a> Taiwanese </a> actress , singer and model .
+
+#	NEW	years_active	........ / 2009	// <p> On March 11 , 2009 , Brown reprised the role of Mary Poppins in the US National Tour .
+
+#	NEW	years_active	........ / 19	// <p> <strong> Jim Carter </strong> ( born 19 August 1948 ) is an <a> English </a> actor . </p>
+
+#	NEW	years_active	........ / ( 2005 ) .	// This was followed by the critically acclaimed film <em> <a> Page 3 </a> </em> ( 2005 ) .
+
+#	NEW	years_active	........ / 2006	// <p> Since 2006 , she has focused exclusively on film roles .
+
+#	NEW	years_active	........ / 2001	// Before January 2001 , she was known as and .
+
+#	NEW	years_active	........ / 150	// He ' d claimed to have made about 300 films and 150 television cameos during his years in Hollywood .
+
+#	NEW	years_active	........ / 1	// <p> Kerslake lives in Wellington , New Zealand with his wife Gillian and their two young sons : Rhys , born 1 July 2007 , and Matthew , born 22 December 2008 . </p>
+
+#	NEW	years_active	........ / 1914 .	// Bowers began his film career in 1914 .
+
+#	NEW	years_active	........ / 2010 .	// Filming wrapped up in November 2009 and is due in cinemas in late 2010 .
+
+#	NEW	years_active	........ / 1993 .	// He briefly attended York University ' s Film &amp ; Video Programme in 1993 .
+
+#	NEW	years_active	........ / 1964 )	// <p> <strong> Christine Laura Simpson </strong> ( born October 5 , 1964 ) is a Canadian television personality , best known as a hockey reporter , host and interviewer .
+
+#	NEW	years_active	........ / 1966 .	// Chase also danced alongside Astaire on the television program <em> <a> Hollywood Palace </a> </em> in 1966 .
+
+#	NEW	years_active	........ / 5	// <p> On 5 May 1988 , during a two week hiatus from the national tour of <em> Drood </em> , Rose was beaten to death by his adopted son and three other men .
+
+#	NEW	years_active	........ / 1990	// In 1990 she took a regular role in <em> <a> The Chief </a> </em> , playing Dr Elizabeth Stafford from 1990 to 1993 .
+
+#	NEW	years_active	........ / 15	// <p> <strong> Margherita Buy </strong> is an <a> Italian </a> actress born in Rome on 15 January 1962 . </p>
+
+#	NEW	years_active	........ / 8	// <p> <strong> Moya Brady </strong> ( born 8 September 1962 ) is a British actress .
+
+#	NEW	years_active	........ / 200	// She had been chosen to play the title role of Angelita despite placing only third among over 200 applicants for the role .
+
+#	NEW	years_active	........ / 19	// <p> <strong> Herman F . Zimmerman </strong> ( born 19 April 1935 ) is an <a> art director </a> and <a> production designer </a> .
+
+#	NEW	years_active	........ / 1988	// He starred in the Canadian television series &quot ; Learning the Ropes&quot ; from 1988 to 1989 .
+
+#	NEW	years_active	........ / 1	// <p> <strong> Holly Elissa Dignard </strong> ( born 1 October 1979 ) is a <a> Canadian </a> <a> actress </a> . </p>
+
+#	NEW	years_active	........ / 2006 .	// <p> Taveras won the 2006 Miss Continente Americano Beauty Pageant and the Miss Global Cities in Taiwan in 2006 .
+
+#	NEW	years_active	........ / 2004 .	// The production opened at the Intimate Theatre in <a> Cape Town </a> , directed by Matthew Wild on August 11 , 2004 .
+
+#	NEW	years_active	........ / 1986	// During the People Power Revolution that installed Cory Aquino into power in 1986 , Langit was continuously on the air for two days .
+
+#	NEW	years_active	........ / 1939	// <p> In 1939 he went to New York for the National Broadcasting Company television division .
+
+#	NEW	years_active	........ / 1977 .	// He died aged 32 in Toronto from an unspecified cause , although he was reportedly treated for <a> throat cancer </a> in 1977 .
+
+#	NEW	years_active	........ / 2007	// <p> In 2007 she began filming in the horror film <em> Wreckage </em> .
+
+#	NEW	years_active	........ / ( 3	// <p> <strong> Timothy Dingwall Bateson </strong> ( 3 April 1926 &#x2013 ; 16 September 2009 ) was a <a> British </a> <a> actor </a> .
+
+#	NEW	years_active	........ / ( 1995 ) .	// <p> She made her film debut in <em> Entre rojas </em> ( 1995 ) .
+
+#	NEW	years_active	........ / 1964 )	// <p> <strong> Cary Lawrence </strong> ( born 1964 ) is best known for her role as Davenport on Nickelodeon ' s hit SNICK show <em> <a> Space Cases </a> </em> .
+
+#	NEW	years_active	........ / ( 1959 )	// <em> <a> No Name on the Bullet </a> </em> ( 1959 ) is only one of the many Westerns he did for both film and television .
+
+#	NEW	years_active	........ / 18	// <p> <strong> Julie Marion Depardieu </strong> ( born 18 June 1973 in Paris ) is a French actress who has appeared in a number of successful movies . </p>
+
+#	NEW	years_active	........ / 17-	// More recently , Tozzi has performed in <em> Beautiful </em> , her first feature film , playing 17-year-old provocateur Suzy .
+
+#	NEW	years_active	........ / 1869 .	// <p> Olive was married three times first in 1857 to Henry De Lille ; they were divorced in 1869 .
+
+#	NEW	years_active	........ / 2002	// <p> Hill subsequently went into the ongoing role of Cameron Davenport in daily serial <em> <a> Family Affairs </a> </em> , a role he played from 2002 to 2004 .
+
+#	NEW	years_active	........ / 200	// <p> She spent the bulk of her career with <a> Metro-Goldwyn-Mayer </a> , where she clothed the stars of 200 films .
+
+#	NEW	years_active	........ / 14	// <p> <strong> Jamie Draven </strong> ( born <strong> Jamie Donnelly </strong> on 14 May 1979 ) is an <a> English </a> actor whose career in films and television began in 1998 .
+
+#	NEW	years_active	........ / 1989	// <p> Originally an industrialist by profession , Mehmet Tanr&#x0131 ; sever became a producer in 1989 with the establishment of Feza Film , stating that , &quot ; I first started filmmaking because I wanted to express an idea . &quot ;
+
+#	NEW	years_active	........ / 2009 .	// His latest film project , <em> <a> District 9 </a> </em> , filmed on location in South Africa , was released in August 2009 .
+
+#	NEW	years_active	........ / 1980	// <p> Upon his return to New York City in 1980 , he began teaching part-time to start work on his doctoral dissertation .
+
+#	NEW	years_active	........ / 1929	// After announcing their engagement in October 1929 , Vaughn traveled to New York to film some talking sequences for a movie she was filming in Hollywood .
+
+#	NEW	years_active	........ / 1971 )	// <p> <strong> Jonathan Mangum </strong> ( born January 16 , 1971 ) is an American actor and comedian .
+
+#	NEW	years_active	........ / 2001 ) .	// She had appearances in some of her mother ' s films , <em> Nargess </em> ( 1991 ) , <em> The Blue-Veild </em> ( 1994 ) , <em> May Lady </em> ( 1997 ) , <em> Kish Stories </em> ( Rain and Ladsman episode - 1998 ) , <em> Under the Skin of the City </em> ( 2000 ) , <em> Our Time </em> ( documentary - 2001 ) .
+
+#	NEW	years_active	........ / 26	// <p> <strong> Francesca Smith </strong> ( born <strong> Francesca Marie Smith </strong> on 26 March 1985 ) is an <a> American </a> <a> actress </a> .
+
+#	NEW	years_active	........ / 2004 .	// <p> In 2003 , Bennett returned to New York , and started his current 9-noon ET show on <a> Sirius Left </a> on April 19 , 2004 .
+
+#	NEW	years_active	........ / 1996 .	// <p> Vachon and fellow New York producer Pamela Koffler currently run <a> Killer Films </a> , which was establish in 1996 .
+
+#	NEW	years_active	........ / 2005 ) .	// <p> Kremer has received two <a> Emmy Awards </a> in her career ( 2001 , 2005 ) .
+
+#	NEW	years_active	........ / 2006	// In February 2006 Dea / Eustace ' s divorce was final ; and in April 2006 Spellin / Shanian ' s divorce was final .
+
+#	NEW	years_active	........ / 29	// <p> <strong> Nanette Newman </strong> ( born 29 May 1934 ) is an <a> English </a> actress and author . </p>
+
+#	NEW	years_active	........ / 11	// Hallinan began training at her mothers Saturday Drama School <em> All Expressions </em> in <a> Teddington </a> when she was 11 , and then went on to professional acting .
+
+#	NEW	years_active	........ / 5 .	// <p> He hosts a season of the game-show <a> The Weakest Link </a> on Russia ' s Channel 5 .
+
+#	NEW	years_active	........ / 1990 .	// Casson , whom Campbell never divorced , died in 1990 .
+
+#	NEW	years_active	........ / ( 1947 ) .	// His film debut occurred , oddly enough , in a musical <em> <a> Carnegie Hall </a> </em> ( 1947 ) .
+
+#	NEW	years_active	........ / 1994	// <p> In 1994 , they moved to New York where they developed their comedy style at stand-up comedy clubs .
+
+#	NEW	years_active	........ / 2005	// She has played the role from 2005 until 2009 . </p>
+
+#	NEW	years_active	........ / 7 .	// A former Seventeen Best Female Model , She entered Philippine showbiz through the first wave of StarStruck , the reality-based star search of GMA-7 .
+
+#	NEW	years_active	........ / 11	// <p> <strong> Peter Eyre </strong> ( born 11 March 1942 ) is an <a> American </a> <a> actor </a> . </p>
+
+#	NEW	years_active	........ / 1924 .	// <p> She married film producer Benjamin B . Hampton in Hollywood on September 18 , 1924 .
+
+#	NEW	years_active	........ / 1972 .	// This would be his breakthrough role , and established him as a popular actor when screened in 1972 . ref
+
+#	NEW	years_active	........ / 27	// <p> <strong> John Shrapnel </strong> ( born 27 April 1942 ) </p>
+
+#	NEW	years_active	........ / 1975	// <p> She made a startling film debut in the 1975 film DAY OF THE LOCUST .
+
+#	NEW	years_active	........ / 1992	// <p> In 1992 she appeared in the ' Fantasy Dating Game ' Girls ' Club .
+
+#	NEW	years_active	........ / 1949 .	// <p> Garcia made his first movie , <em> Siete Infantes de Lara </em> in 1949 .
+
+#	NEW	years_active	........ / 23	// She appeared in three <em> Play for Today </em> stories on the BBC , the most notable being <em> Waterloo Sunset </em> which aired on 23 January 1979 .
+
+#	NEW	years_active	........ / 1988 .	// New York : Simon and Schuster , 1988 .
+
+#	NEW	years_active	........ / 2003 .	// <p> Johnson also created and had been working on the ABC sitcom <em> <a> Hope and Faith </a> </em> since 2003 .
+
+#	NEW	years_active	........ / 1986	// She participated in <a> Miss Venezuela 1986 </a> where she finished as fourth runner-up .
+
+#	NEW	years_active	........ / ( 1979 )	// <p> His first cinema appearance was a minor role in <em> Felicity </em> ( 1979 ) , a low budget , erotic fantasy film .
+
+#	NEW	years_active	........ / 1986	// In 1986 she moved to Brisbane to dance with the <a> Queensland Ballet </a> . </p>
+
+#	NEW	years_active	........ / 1951 .	// She soon attracted attention in Hollywood and made her film debut in 1951 .
+
+#	NEW	years_active	........ / ( 1959 )	// His last film was <em> Laffing Time </em> ( 1959 ) , a featherweight , sitcom-styled comedy .
+
+#	NEW	years_active	........ / 12	// <p> <strong> Sarah Monahan </strong> ( born 12 April 1977 in <a> Sydney </a> ) is an <a> Australia </a> n actress .
+
+#	NEW	years_active	........ / 2008	// In 2008 , her role went from recurring to series regular .
+
+#	NEW	years_active	........ / 1816 &	// <p> <strong> William Wheatley </strong> ( December 5 , 1816 &ndash ; November 3 , 1876 </p>
+

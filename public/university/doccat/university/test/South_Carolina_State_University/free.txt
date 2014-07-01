@@ -1,4 +1,0 @@
-<li>Department of Business Administration</li>
-<li>Department of Military Sciences</li>
-<li>Department of Human Services</li>
-<h2>Notable alumni</h2>

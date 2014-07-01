@@ -1,3 +1,0 @@
-<li>Faculty of Economics</li>
-<li>Faculty of Letters</li>
-<li>Faculty of Science</li>

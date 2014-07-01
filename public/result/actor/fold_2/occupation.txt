@@ -1,0 +1,59 @@
+Found: 21
+Found Not Null: 3
+Correct: 2
+Wrong: 1
+Total: 5
+precision: 0.6666666666666666
+recall: 0.4
+
+
+
+#	NEW	occupation	........ / actress	// <p> <strong> Staci Greason </strong> ( born 23 May 1964 ) is an American <a> actress </a> .
+
+#	NEW	occupation	........ / director	// Columbia was unable to shake off its stigma as a <a> Poverty Row </a> studio until 1934 , when director <a> Frank Capra </a> ' s Columbia comedy <em> <a> It Happened One Night </a> </em> swept the <a> Academy Awards </a> .
+
+#	NEW	occupation	........ / Actor	// Moriarty ' s role in <em> Menagerie </em> ( as &quot ; Jim , &quot ; the Gentleman Caller ; Waterston played the son &quot ; Tom&quot ; ) won him an <a> Emmy Award </a> for <a> Best Supporting Actor </a> of the Year .
+
+3	TRUE	Evelyn Brent::occupation	actress / actress	
+The actress remained four years in England , performing in films produced by British companies .
+
+#	NEW	occupation	........ / actress	// <p> <strong> Maren Kawehilani Jensen </strong> ( September 23 , 1956 , <a> Arcadia , California </a> ) is an <a> American </a> former model and actress best known for portraying <a> Athena </a> in the 1970s <a> television series </a> <em> <a> Battlestar Galactica </a> </em> . </p>
+
+#	NEW	occupation	........ / ,	// Two years later , she began the role of Frankie Reed , the business-oriented one of the four main titular characters on the popular television drama <em> <a> Sisters </a> </em> , in which she played until 1995 .
+
+#	NEW	occupation	........ / a	// Her role was as a newspaper reporter who worked with the team for the first season-and-a-half of the second season . </p>
+
+#	NEW	occupation	........ / Actress	// She was nominated for the <a> IIFA Best Supporting Actress Award </a> for her performance in <em> Pukar </em> .
+
+8	TRUE	January Jones::occupation	actress / Actress	
+<p> In 2008 and 2009 , she was nominated for a <a> Golden Globe </a> for <a> Best Actress in a Television Series Drama </a> for <em> Mad Men </em> , and won the Screen Actors Guild Award for Outstanding Performance by an Ensemble in a Drama Series for <em> Mad Men </em> . </p>
+
+#	NEW	occupation	........ / lead	// He is best known for playing the lead role of the Baker in the original Broadway production of <em> <a> Into the Woods </a> </em> by <a> Stephen Sondheim </a> .
+
+#	NEW	occupation	........ / actor	// <p> <strong> Brian George Wilde </strong> ( 13 June 1927&#x2013 ; 20 March 2008 ) was an English <a> actor </a> , best known for his roles in <a> television comedy </a> , including <a> Mr Barrowclough </a> in <em> <a> Porridge </a> </em> and &quot ; Foggy&quot ; Dewhurst in <em> <a> Last of the Summer Wine </a> </em> .
+
+11	FALSE	Violet Carson::occupation	actress / ,	
+<p> On 22 March 1968 , she attended the 10th Annual Australian TV Week Logie Awards ( named after <a> John Logie Baird </a> ) at the Southern Cross Hotel in <a> Melbourne </a> , where she presented awards to some of the main winners that year .
+
+#	NEW	occupation	........ / ,	// She was a charismatic comedienne , with considerable singing and dancing talents , and remained hugely popular on stage and film throughout her long career . </p>
+
+#	NEW	occupation	........ / director	// Franju ' s focus on the film was on visuals which he claimed marked a director as an <a> auteur </a> .
+
+#	NEW	occupation	........ / actor	// <p> She is best known as half of the <a> supercouple </a> Quint and Nola , playing alongside actor <a> Michael Tylo </a> , on <em> <a> Guiding Light </a> </em> .
+
+#	NEW	occupation	........ / Actress	// <p> She was nominated for the <a> Academy Award for Best Supporting Actress </a> in 1975 for her performance in <a> Fran&#x00e7 ; ois Truffaut </a> ' s <em> <a> Day for Night </a> </em> . </p>
+
+#	NEW	occupation	........ / Actress	// <em> <a> Tumbleweeds </a> </em> proved to be a 1999 <a> Sundance Film Festival </a> favourite , and McTeer ' s performance won her a <a> Golden Globe </a> as Best Actress and <a> Academy Award </a> and <a> Screen Actors Guild </a> nominations in the same category . </p>
+
+#	NEW	occupation	........ / ,	// That same year , he also starred in <em> One Day </em> , a short film shown at various international film festivals . </p>
+
+#	NEW	occupation	........ / ,	// For his work in television and film , Ball has received critical acclaim and numerous awards , including an <a> Academy Award </a> , an <a> Emmy </a> and a <a> Golden Globe </a> .
+
+#	NEW	occupation	........ / actor	// There he performed with many of those he would work with later as an actor , including future film director <a> Geoff Murphy </a> and actor <a> Ian Watkin </a> . </p>
+
+#	NEW	occupation	........ / ,	// He had then just finished his second year at <a> Magdalene College , Cambridge </a> , and expected to return after a run of a few weeks .
+
+#	null	occupation	talk show host / ..........
+
+#	null	occupation	actress / ..........
+

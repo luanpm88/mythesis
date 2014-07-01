@@ -1,0 +1,103 @@
+Total articles: 456
+Articles for test: 411
+Articles for train: 45
+Total attributes: 140
+Attributes with high occurrences: 18/140
+
+------------
+Found: 566
+Found Not Null: 86
+Correct: 42
+Wrong: 44
+Total: 107
+precision: 0.4883720930232558
+recall: 0.3925233644859813
+
+
+
+0	FALSE	Air Zimbabwe:: fleet_size	8 / 30	// The crew shut the engine down , deployed the passenger oxygen masks and managed a safe landing still on fire alert 30 minutes after departure , all passengers and crew could be evacuated without injuries .
+2	FALSE	Air Zimbabwe:: iata	um / at	// <p> <strong> Air Zimbabwe </strong> is the national <a> airline </a> of <a> Zimbabwe </a> , headquartered at <a> Harare International Airport </a> in <a> Harare </a> .
+3	TRUE	Air Zimbabwe:: callsign	air zimbabwe / Air	// <p> <strong> Air Zimbabwe </strong> is the national <a> airline </a> of <a> Zimbabwe </a> , headquartered at <a> Harare International Airport </a> in <a> Harare </a> .
+53	TRUE	Vueling Airlines:: logo_size	200 / 2007.	// <p> In 2006 Vueling was chosen as the third-best European low-fares airline , behind <a> Air Berlin </a> and <a> EasyJet </a> , However , it did not maintain this position in 2007 . </p>
+54	FALSE	Vueling Airlines:: fleet_size	37 / 2009	// It became the second largest Spanish carrier flying 8 . 2 million passengers in 2009 , to almost 50 destinations . </p>
+55	FALSE	Vueling Airlines:: iata	vy / punto.	// <p> <strong> punto . </strong>
+56	FALSE	Vueling Airlines:: callsign	vueling / punto.	// <p> <strong> punto . </strong>
+58	FALSE	Vueling Airlines:: founded	february 2004 / 18	// The company first recorded a profit in December 2005 , only 18 months after the start of operations . </p>
+79	TRUE	Compañía de Aviación Faucett:: founded	june 4, 1928 / 1928.	// The company was authorized to operate on June 4 , 1928 and commenced operations on September 15 , 1928 .
+81	FALSE	Compañía de Aviación Faucett:: ceased	november 15, 1999 / 1928.	// The company was authorized to operate on June 4 , 1928 and commenced operations on September 15 , 1928 .
+86	FALSE	Air Kiribati:: fleet_size	3 / p>	// Its main base is <a> Bonriki International Airport </a> , <a> Tarawa Atoll </a> . </p>
+87	TRUE	Air Kiribati:: destinations	17 / 17	// <p> Air Kiribati's 17 destinations are the following : </p>
+91	TRUE	Air Kiribati:: founded	1 april 1995 / 1977.	// <p> The airline was established and started operations on 1 April 1995 , after the collapse of the previous national airline <a> Air Tungaru </a> , which had been formed on 31 October 1977 .
+99	FALSE	Air Next:: destinations	5 / 2007	// Air Next received two more 737s by the end of <a> 2006 </a> and another three in <a> 2007 </a> , bringing their fleet to a total of seven aircraft . </p>
+120	FALSE	JAL Express:: icao	jex / JAL	// Express [[Boeing 737 Classic#737-400|Boeing 737-400]] in &quot;Arc of the Sun&quot; livery|alt=A Boeing 737-400 aircraft painted in new JAL corporate livery with a skyline background]] JAL Express operates to the following destinations : </p>
+137	FALSE	LIAT:: destinations	22 / p>	// <p> The LIAT retired fleet includes the following aircraft : </p>
+138	TRUE	LIAT:: iata	li / of	// <p> <strong> Leeward Islands Air Transport </strong> , known as <strong> LIAT </strong> , is an <a> airline </a> headquartered on the grounds of <a> V .
+144	TRUE	LIAT:: airline	leeward islands air transport / Air Transport	// <p> <strong> Leeward Islands Air Transport </strong> , known as <strong> LIAT </strong> , is an <a> airline </a> headquartered on the grounds of <a> V .
+145	TRUE	LIAT:: icao	lia / full-	// <p> LIAT will also begin all cargo services with a Dash 8-100 , which is currently being converted from a passenger aircraft to a full-fledged cargo aircraft .
+174	FALSE	Castle Air:: fleet_size	8 / ,	// On occasion , the aircraft and pilots are called upon to do simple passenger flights - an occurrence rare enough to be a treat , as it is a rare opportunity to fly with all of the aircraft's doors on .
+175	FALSE	Castle Air:: iata	- / TV	// <p> <strong> Castle Air </strong> is a <a> British </a> helicopter charter and sales company which specialises in the use of helicopters in TV and film .
+181	TRUE	Castle Air:: airline	castle air / helicopters	// <p> <strong> Castle Air </strong> is a <a> British </a> helicopter charter and sales company which specialises in the use of helicopters in TV and film .
+182	FALSE	Castle Air:: icao	- / service	// It also takes in aircraft for servicing , and is an authorised Agusta service centre .
+185	FALSE	DBA (airline):: iata	di / International	// <p> <strong> DBA </strong> ( DBA Luftfahrtgesellschaft mbH ) was a <a> low-cost airline </a> headquartered on the grounds of <a> Munich International Airport </a> and in <a> Hallbergmoos </a> , <a> Germany </a> .
+210	FALSE	EUjet:: fleet_size	6 / 000	// <p> Lack of passenger numbers are one reason cited for the failure of the airline , with only 330 , 000 out of the 500 , 000 passengers predicted for the first year of operation .
+212	FALSE	EUjet:: iata	ve / at	// <p> <strong> EUjet </strong> was a <a> low-cost airline </a> based at <a> Shannon Airport </a> , <a> Ireland </a> .
+215	TRUE	EUjet:: founded	2003 / 2003.	// <p> The airline was established in 2003 and started operations in May 2003 .
+220	FALSE	EUjet:: icao	euj / International	// In addition , the airline had been plagued with disruption and protest from people in <a> Thanet </a> , a significant proportion of whom were against any expansion of operations at Kent International Airport . </p>
+233	TRUE	Britannia Airways:: logo_size	200 / a>.	// On 1 November 2005 the company's legal name changed from Britannia Airways Limited to <a> Thomsonfly Limited </a> . </p>
+236	FALSE	Britannia Airways:: iata	by / as	// <p> <strong> Britannia Airways </strong> was the largest <a> charter airline </a> in the United Kingdom , rebranded as <strong> <a> Thomsonfly </a> </strong> in 2005 .
+237	TRUE	Britannia Airways:: callsign	britannia / Britannia	// <p> <strong> Britannia Airways </strong> was the largest <a> charter airline </a> in the United Kingdom , rebranded as <strong> <a> Thomsonfly </a> </strong> in 2005 .
+256	TRUE	Mavial Magadan Airlines:: airline	mavial magadan airlines / aircraft.	// <p> <strong> Mavial Magadan Airlines </strong> was an <a> airline </a> based at <a> Magadan </a> , <a> Russia </a> , operating <a> Tupolev Tu-154 </a> and <a> Ilyushin </a> aircraft .
+267	TRUE	British Airtours:: airline	british airtours / Manchester	// <p> <strong> British Airtours </strong> was a <a> UK </a> <a> charter airline </a> with flight operations out of <a> London Gatwick </a> and <a> Manchester Airport </a> . </p>
+274	TRUE	CityFlyer Express:: callsign	flyer / Express	// <p> <strong> CityFlyer Express </strong> was an independent , short haul <a> regional airline </a> based at <a> London Gatwick Airport </a> in <a> England </a> . </p>
+280	TRUE	CityFlyer Express:: airline	cityflyer express / Express	// <p> <strong> CityFlyer Express </strong> was an independent , short haul <a> regional airline </a> based at <a> London Gatwick Airport </a> in <a> England </a> . </p>
+284	FALSE	TEAL:: fleet_size	18 / p>	// Then its international flights began using the <em> NZ </em> code that belonged to NAC and had been used for that carrier's domestic flights . </p>
+286	TRUE	TEAL:: iata	te / Zealand	// <p> <strong> Tasman Empire Airways Limited </strong> ( <strong> TEAL </strong> ) was the forerunner of <a> Air New Zealand </a> .
+287	TRUE	TEAL:: callsign	teal / New Zealand	// <p> <strong> Tasman Empire Airways Limited </strong> ( <strong> TEAL </strong> ) was the forerunner of <a> Air New Zealand </a> .
+298	TRUE	Air Dolomiti:: callsign	dolomiti / Air	// <p> <strong> Air Dolomiti S . p . A . Linee Aeree Regionali Europee </strong> is an Italian <a> regional airline </a> with its head office in <a> Dossobuono </a> , <a> Villafranca di Verona </a> , <a> Italy </a> .
+301	FALSE	Air Dolomiti:: founded	1989 / 1991	// It started regional operations in January 1991 with a <a> Trieste </a> - <a> Genoa </a> route and in 1992 started international services with flights from Verona to <a> Munich </a> .
+306	TRUE	Air Dolomiti:: airline	air dolomiti / di	// <p> <strong> Air Dolomiti S . p . A . Linee Aeree Regionali Europee </strong> is an Italian <a> regional airline </a> with its head office in <a> Dossobuono </a> , <a> Villafranca di Verona </a> , <a> Italy </a> .
+310	FALSE	Air Dolomiti:: iata	en / Italy	// <p> <strong> Air Dolomiti S . p . A . Linee Aeree Regionali Europee </strong> is an Italian <a> regional airline </a> with its head office in <a> Dossobuono </a> , <a> Villafranca di Verona </a> , <a> Italy </a> .
+311	TRUE	Air Polonia:: logo_size	200 / </	// <p> In January 2005 , it was announced that Air Polonia was planning to resume operations with three Boeing 737-400s , but as of December 2010 it has yet to do this . </p>
+312	FALSE	Air Polonia:: fleet_size	6 / 2005	// <p> In January 2005 , it was announced that Air Polonia was planning to resume operations with three Boeing 737-400s , but as of December 2010 it has yet to do this . </p>
+315	TRUE	Air Polonia:: callsign	air polonia / Air	// <p> <strong> Air Polonia </strong> was the first privately owned <a> low-cost airline </a> in Poland with its headquarters in <a> Warsaw </a> and its largest operations base at <a> Warsaw Fr&#x00e9;d&#x00e9;ric Chopin Airport </a> .
+318	FALSE	Air Polonia:: founded	2001 / 8 December 2003 to 5 December 2004.	// <p> Air Polonia had a good safety record which never had any major incidents or accidents throughout their time of operation , from 8 December 2003 to 5 December 2004 . </p>
+322	TRUE	Air Polonia:: airline	air polonia / largest	// <p> <strong> Air Polonia </strong> was the first privately owned <a> low-cost airline </a> in Poland with its headquarters in <a> Warsaw </a> and its largest operations base at <a> Warsaw Fr&#x00e9;d&#x00e9;ric Chopin Airport </a> .
+323	FALSE	Air Polonia:: icao	apn / London	// Air Polonia [[Boeing 737]]'s at <a> London Stansted Airport </a> , England .
+352	FALSE	Kingfisher Red:: iata	it / run	// <p> <strong> Kingfisher Red </strong> , known formerly as <em> Simplifly Deccan </em> and prior to that as <em> Air Deccan </em> , is a low-cost brand run by <a> Kingfisher Airlines </a> .
+353	TRUE	Kingfisher Red:: callsign	kingfisher / low-	// <p> <strong> Kingfisher Red </strong> , known formerly as <em> Simplifly Deccan </em> and prior to that as <em> Air Deccan </em> , is a low-cost brand run by <a> Kingfisher Airlines </a> .
+358	TRUE	Kingfisher Red:: airline	kingfisher red / Air	// <p> <strong> Kingfisher Red </strong> , known formerly as <em> Simplifly Deccan </em> and prior to that as <em> Air Deccan </em> , is a low-cost brand run by <a> Kingfisher Airlines </a> .
+363	FALSE	Air Wales:: destinations	13 / 42-	// These were replaced by a fleet of <a> ATR-42-300 </a> aircraft : </p>
+371	TRUE	Air Wales:: ceased	april 2006 / 2006 :	// <p> Air Wales operated the following services ( in February 2006 ) , which had all ceased by the end of April 2006 : </p>
+395	FALSE	Kosova Airlines:: iata	- / Notes :	// <p> <strong> Notes : </strong> </p>
+396	FALSE	Kosova Airlines:: callsign	- / Notes :	// <p> <strong> Notes : </strong> </p>
+398	TRUE	Kosova Airlines:: founded	2003 / 2003 10 May 2006.	// The aircraft arrived into the Kosova Airlines fleet on 1 December 2003 and remained in the fleet until 10 May 2006 .
+402	TRUE	Kosova Airlines:: icao	- / ceased	// On 10 May 2006 , the only aircraft in the Kosova Airlines fleet , a <a> Boeing 737-700 </a> , which was <a> wet leased </a> from the <a> German </a> airline <a> Hamburg International </a> , was returned to that airline , and Kosova Airlines ceased operating flights .
+403	FALSE	Kosova Airlines:: fleet_size	1 / ,	// <p> Kosova Airlines , during its time as an independent airline , flew to the following destinations : </p>
+422	TRUE	Kiwi International Air Lines:: callsign	kiwi / Air	// <p> <strong> Kiwi International Air Lines </strong> was a <a> Part 121 </a> <a> American </a> <a> airline </a> that operated from September 21 , 1992 to March 24 , 1999 . </p>
+438	TRUE	Bulgaria Air:: founded	2002 / 2002.	// By order of the Minister of Transportation and Communications it was declared the flag carrier in November 2002 , starting operations on 4 December 2002 .
+446	FALSE	Bulgaria Air:: iata	fb / <p> [[File : BulgarianAirParis. JPG|thumb00px|Bulgaria Air office in [[Paris]]]] <strong> Bulgaria Air </strong> ( ), is the <a> flag carrier </a> <a> airline </a> of <a> Bulgaria </a>, with its head office on the grounds	// <p> [[File : BulgarianAirParis . JPG|thumb|200px|Bulgaria Air office in [[Paris]]]] <strong> Bulgaria Air </strong> ( ) , is the <a> flag carrier </a> <a> airline </a> of <a> Bulgaria </a> , with its head office on the grounds of <a> Sofia Airport </a> in <a> Sofia </a> .
+447	TRUE	Bulgaria Air:: airline	bulgaria air / <p> [[File : BulgarianAirParis. JPG|thumb00px|Bulgaria Air office in [[Paris]]]] <strong> Bulgaria Air </strong> ( ), is the <a> flag carrier </a> <a> airline </a> of <a> Bulgaria </a>, with its head office on the grounds of <a> Sofia Airport </a> in <a> Sofia </a>.	// <p> [[File : BulgarianAirParis . JPG|thumb|200px|Bulgaria Air office in [[Paris]]]] <strong> Bulgaria Air </strong> ( ) , is the <a> flag carrier </a> <a> airline </a> of <a> Bulgaria </a> , with its head office on the grounds of <a> Sofia Airport </a> in <a> Sofia </a> .
+478	FALSE	Air Madagascar:: fleet_size	14 / p>	// Its main base is <a> Ivato International Airport </a> , Antananarivo . </p>
+479	FALSE	Air Madagascar:: destinations	47 / 1964	// In October 1963 the airline signed an agreement with Air France , which saw Air Madagascar beginning a service to Paris , via Djibouti , in July 1964 with a <a> Boeing 707 </a> , which was painted in Air Madagascar , and operated by Air France crews .
+488	TRUE	Air Madagascar:: airline	air madagascar / Air	// <p> <strong> Soci&#x00e9;t&#x00e9; Nationale Malgache de Transports A&#x00e9;riens </strong> , operating as <strong> Air Madagascar </strong> , is an <a> airline </a> based in <a> Antananarivo </a> , <a> Madagascar </a> .
+490	FALSE	Air Madagascar:: logo_size	200 / </	// The aircraft was maintained by <a> South African Airways </a> , and on 15 October , Air Madagascar began flights to <a> Johannesburg </a> , and in December began flights to <a> Dar es Salaam </a> and <a> Nairobi </a> via <a> Majunga </a> .
+492	TRUE	Air Madagascar:: callsign	air madagascar / Air	// <p> <strong> Soci&#x00e9;t&#x00e9; Nationale Malgache de Transports A&#x00e9;riens </strong> , operating as <strong> Air Madagascar </strong> , is an <a> airline </a> based in <a> Antananarivo </a> , <a> Madagascar </a> .
+494	FALSE	Tiger Airways:: fleet_size	14 / 2	// In 2006 , the airline flew 1 . 2 million passengers , a growth of 75% from the previous year . </p>
+495	FALSE	Tiger Airways:: destinations	19 / 2005.	// <p> The first aircraft order comprised four aircraft , commencing operations with two aircraft before the remaining four were delivered in January 2005 .
+496	TRUE	Tiger Airways:: iata	tr / an	// <p> <strong> Tiger Airways Singapore Pte Ltd </strong> , operating as <strong> Tiger Airways Singapore </strong> , is an ultra- <a> low cost airline </a> which commenced services on 25 March 2005 .
+502	TRUE	Tiger Airways:: airline	tiger airways / Tiger Airways	// <p> <strong> Tiger Airways Singapore Pte Ltd </strong> , operating as <strong> Tiger Airways Singapore </strong> , is an ultra- <a> low cost airline </a> which commenced services on 25 March 2005 .
+506	FALSE	Air Burkina:: fleet_size	5 / p>	// Its main base is <a> Ouagadougou Airport </a> . </p>
+509	TRUE	Air Burkina:: callsign	burkina / Air	// <p> <strong> Air Burkina </strong> is an <a> airline </a> headquartered in the Air Burkina Storey Building ( <a> French </a> : Immeuble Air Burkina ) in <a> Ouagadougou </a> , <a> Burkina Faso </a> .
+511	TRUE	Air Burkina:: founded	1967 / 17 March 1967	// <p> The airline was established on 17 March 1967 under the name Air Volta .
+516	TRUE	Air Burkina:: airline	air burkina / Air	// <p> <strong> Air Burkina </strong> is an <a> airline </a> headquartered in the Air Burkina Storey Building ( <a> French </a> : Immeuble Air Burkina ) in <a> Ouagadougou </a> , <a> Burkina Faso </a> .
+521	FALSE	Singapore Airlines Cargo:: fleet_size	11 / p>	// <p> ----------------------------------------------------------- --&gt; </p>
+522	FALSE	Singapore Airlines Cargo:: destinations	36 / p>	// <p> ----------------------------------------------------------- --&gt; </p>
+528	FALSE	Singapore Airlines Cargo:: airline	singapore airlines cargo / gt;	// <p> ----------------------------------------------------------- --&gt; </p>
+545	FALSE	PrivatAir:: fleet_size	7 / 2010 ) :	// <p> The PrivatAir fleet consists of the following aircraft ( as of 30 May 2010 ) : </p>
+548	TRUE	PrivatAir:: callsign	privatair / PrivatAir	// <p> <strong> PrivatAir </strong> is an <a> airline </a> headquartered at <a> Geneva International Airport </a> in <a> Meyrin </a> , <a> Switzerland </a> , near <a> Geneva </a> .
+550	TRUE	PrivatAir:: founded	1977 / 1995.	// <p> The airline was established and began operations in 1977 under the name of Petrolair S . A . It received its Swiss air operators certificate in June 1995 .
+555	FALSE	Air Botswana:: fleet_size	6 / 2010	// <p> As of August 2010 , Air Botswana operates scheduled passenger flights to the following destinations : &lt;center&gt; &lt;/center&gt; </p>
+556	FALSE	Air Botswana:: destinations	7 / 2010 ) :	// <p> The Air Botswana fleet consists of the following aircraft ( as of July 2010 ) : [ <a> http : //www . airfleets . net/flottecie/Air%20Botswana . htm </a> ]
+560	FALSE	Air Botswana:: founded	1972 / 2003	// Comair withdrew in December 2003 , due in part to increased competition by <a> low-cost airline </a> s in the South African market .
+563	TRUE	Air Botswana:: icao	bot / re-	// The aircraft were delivered at the time of Air Botswana facing increased competition from <a> South African Airways </a> which had re-entered the Johannesburg-Gaborone market .
+564	TRUE	Air Botswana:: callsign	botswana / Sir	// <p> <strong> Air Botswana Corporation </strong> is the <a> national airline </a> of <a> Botswana </a> , with its head office on the grounds of <a> Sir Seretse Khama International Airport </a> in <a> Gaborone </a> .

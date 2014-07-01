@@ -1,0 +1,785 @@
+Total articles: 1697
+Articles for test: 1528
+Articles for train: 169
+Total attributes: 80
+Attributes with high occurrences: 23/80
+
+------------
+Found: 1889
+Found Not Null: 256
+Correct: 205
+Wrong: 51
+Total: 438
+precision: 0.80078125
+recall: 0.4680365296803653
+
+
+
+0	TRUE	Champaign County, Ohio:: state	ohio / Ohio	
+<p> <strong> Champaign County </strong> is a <a> county </a> located in the <a> state </a> of <a> Ohio </a> , <a> United States </a> .
+
+2	TRUE	Champaign County, Ohio:: area_water_sq_mi	1 / 27.	
+<p> There were 14,952 households out of which 34.00% had children under the age of 18 living with them, 59.70% were <a> married couples </a> living together, 9.20% had a female householder with no husband present, and 27.30% were non-families.
+
+4	TRUE	Champaign County, Ohio:: density_km2	35 / (35/	
+The <a> population density </a> was 91 people per square mile (35/km&#x00b2;).
+
+8	TRUE	Champaign County, Ohio:: area_water_km2	3 / 27.	
+<p> There were 14,952 households out of which 34.00% had children under the age of 18 living with them, 59.70% were <a> married couples </a> living together, 9.20% had a female householder with no husband present, and 27.30% were non-families.
+
+9	TRUE	Champaign County, Ohio:: density_sq_mi	91 / (35/	
+The <a> population density </a> was 91 people per square mile (35/km&#x00b2;).
+
+10	TRUE	Champaign County, Ohio:: county	champaign county / United States	
+<p> <strong> Champaign County </strong> is a <a> county </a> located in the <a> state </a> of <a> Ohio </a> , <a> United States </a> .
+
+11	TRUE	Carroll County, Ohio:: state	ohio / Ohio	
+<p> <strong> Carroll County </strong> is a <a> county </a> located in the <a> state </a> of <a> Ohio </a> .
+
+15	TRUE	Carroll County, Ohio:: density_km2	28 / (28/	
+The <a> population density </a> was 73 people per square mile (28/km&#x00b2;).
+
+19	TRUE	Carroll County, Ohio:: area_water_km2	11 / 26.	
+<p> There were 11,126 households out of which 31.90% had children under the age of 18 living with them, 61.90% were <a> married couples </a> living together, 7.70% had a female householder with no husband present, and 26.70% were non-families.
+
+20	TRUE	Carroll County, Ohio:: density_sq_mi	73 / (28/	
+The <a> population density </a> was 73 people per square mile (28/km&#x00b2;).
+
+21	FALSE	Carroll County, Ohio:: area_water_sq_mi	4 / 26.	
+<p> There were 11,126 households out of which 31.90% had children under the age of 18 living with them, 61.90% were <a> married couples </a> living together, 7.70% had a female householder with no husband present, and 26.70% were non-families.
+
+23	TRUE	Butler County, Ohio:: county	butler county / United States	
+<p> <strong> Butler County </strong> is a <a> county </a> located in the <a> state </a> of <a> Ohio </a> , <a> United States </a> .
+
+24	TRUE	Butler County, Ohio:: state	ohio / Ohio	
+<p> <strong> Butler County </strong> is a <a> county </a> located in the <a> state </a> of <a> Ohio </a> , <a> United States </a> .
+
+26	TRUE	Butler County, Ohio:: area_water_sq_mi	3 / 28.	
+<p> There were 123,082 households out of which 35.50% had children under the age of 18 living with them, 57.00% were <a> married couples </a> living together, 10.70% had a female householder with no husband present, and 28.60% were non-families.
+
+27	TRUE	Butler County, Ohio:: density_km2	275 / (275/	
+The <a> population density </a> was 712 people per square mile (275/km&#x00b2;).
+
+32	TRUE	Butler County, Ohio:: area_water_km2	8 / 28.	
+<p> There were 123,082 households out of which 35.50% had children under the age of 18 living with them, 57.00% were <a> married couples </a> living together, 10.70% had a female householder with no husband present, and 28.60% were non-families.
+
+33	TRUE	Butler County, Ohio:: density_sq_mi	712 / (275/	
+The <a> population density </a> was 712 people per square mile (275/km&#x00b2;).
+
+34	TRUE	Brown County, Ohio:: county	brown county / United States	
+<p> <strong> Brown County </strong> is a <a> county </a> located in the <a> state </a> of <a> Ohio </a> , <a> United States </a> .
+
+35	TRUE	Brown County, Ohio:: state	ohio / Ohio	
+<p> <strong> Brown County </strong> is a <a> county </a> located in the <a> state </a> of <a> Ohio </a> , <a> United States </a> .
+
+37	TRUE	Brown County, Ohio:: area_water_sq_mi	3 / 24.	
+<p> There were 15,555 households out of which 37.10% had children under the age of 18 living with them, 61.30% were <a> married couples </a> living together, 10.00% had a female householder with no husband present, and 24.20% were non-families.
+
+39	TRUE	Brown County, Ohio:: density_km2	33 / (33/	
+The <a> population density </a> was 86 people per square mile (33/km&#x00b2;).
+
+43	FALSE	Brown County, Ohio:: area_water_km2	9 / 24.	
+<p> There were 15,555 households out of which 37.10% had children under the age of 18 living with them, 61.30% were <a> married couples </a> living together, 10.00% had a female householder with no husband present, and 24.20% were non-families.
+
+44	TRUE	Brown County, Ohio:: density_sq_mi	86 / (33/	
+The <a> population density </a> was 86 people per square mile (33/km&#x00b2;).
+
+67	TRUE	Athens County, Ohio:: county	athens county / United States	
+[[File:Downtown Athens OH USA.JPG|thumb|Court Street, [[main street]] in <a> downtown </a> Athens]] <strong> Athens County </strong> is a <a> county </a> located in the southeastern part of the <a> state </a> of <a> Ohio </a> , <a> United States </a> .
+
+68	TRUE	Athens County, Ohio:: state	ohio / Ohio	
+[[File:Downtown Athens OH USA.JPG|thumb|Court Street, [[main street]] in <a> downtown </a> Athens]] <strong> Athens County </strong> is a <a> county </a> located in the southeastern part of the <a> state </a> of <a> Ohio </a> , <a> United States </a> .
+
+70	TRUE	Athens County, Ohio:: area_water_sq_mi	2 / 43.	
+<p> There were 22,501 households out of which 26.40% had children under the age of 18 living with them, 43.50% were <a> married couples </a> living together, 9.20% had a female householder with no husband present, and 43.50% were non-families.
+
+72	TRUE	Athens County, Ohio:: density_km2	47 / (47/	
+The <a> population density </a> was 123 people per square mile (47/km&#x00b2;).
+
+76	TRUE	Athens County, Ohio:: area_water_km2	5 / 43.	
+<p> There were 22,501 households out of which 26.40% had children under the age of 18 living with them, 43.50% were <a> married couples </a> living together, 9.20% had a female householder with no husband present, and 43.50% were non-families.
+
+77	TRUE	Athens County, Ohio:: density_sq_mi	123 / (47/	
+The <a> population density </a> was 123 people per square mile (47/km&#x00b2;).
+
+79	TRUE	Ashtabula County, Ohio:: state	ohio / Ohio	
+<p> <strong> Ashtabula County </strong> is the northeasternmost <a> county </a> in the <a> state </a> of <a> Ohio </a> .
+
+83	TRUE	Ashtabula County, Ohio:: density_km2	56 / (56/	
+The <a> population density </a> was 146 people per square mile (56/km&#x00b2;).
+
+89	TRUE	Ashland County, Ohio:: county	ashland county / Counties.	
+<p> <strong> Ashland County </strong> is a <a> county </a> located in the <a> state </a> of <a> Ohio </a> , <a> United States </a> , and was formed in 1846 from parts of <a> Huron </a> , <a> Lorain </a> , <a> Richland </a> and <a> Wayne </a> Counties.
+
+90	TRUE	Ashland County, Ohio:: state	ohio / Ohio	
+<p> <strong> Ashland County </strong> is a <a> county </a> located in the <a> state </a> of <a> Ohio </a> , <a> United States </a> , and was formed in 1846 from parts of <a> Huron </a> , <a> Lorain </a> , <a> Richland </a> and <a> Wayne </a> Counties.
+
+91	TRUE	Ashland County, Ohio:: area_water_sq_mi	2 / 28.	
+<p> There were 19,524 households out of which 32.50% had children under the age of 18 living with them, 59.50% were <a> married couples </a> living together, 8.50% had a female householder with no husband present, and 28.20% were non-families.
+
+93	TRUE	Ashland County, Ohio:: density_km2	48 / (48/	
+The <a> population density </a> was 124 people per square mile (48/km&#x00b2;).
+
+98	FALSE	Ashland County, Ohio:: area_water_km2	6 / 28.	
+<p> There were 19,524 households out of which 32.50% had children under the age of 18 living with them, 59.50% were <a> married couples </a> living together, 8.50% had a female householder with no husband present, and 28.20% were non-families.
+
+99	TRUE	Ashland County, Ohio:: density_sq_mi	124 / (48/	
+The <a> population density </a> was 124 people per square mile (48/km&#x00b2;).
+
+112	TRUE	Williams County, North Dakota:: state	north dakota / North Dakota	
+<p> <strong> Williams County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> North Dakota </a> .
+
+114	FALSE	Williams County, North Dakota:: area_water_sq_mi	78 / 35.	
+<p> There were 8,095 households out of which 31.2% had children under the age of 18 living with them, 53.3% were <a> married couples </a> living together, 8.8% had a female householder with no husband present, and 35.0% were non-families.
+
+116	TRUE	Williams County, North Dakota:: density_km2	4 / (4/	
+The <a> population density </a> was 10 people per square mile (4/km&#x00b2;).
+
+123	TRUE	Wells County, North Dakota:: state	north dakota / North Dakota	
+<p> <strong> Wells County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> North Dakota </a> .
+
+125	FALSE	Wells County, North Dakota:: area_water_sq_mi	19 / 34.	
+<p> There were 2,215 households out of which 25.40% had children under the age of 18 living with them, 58.60% were <a> married couples </a> living together, 4.80% had a female householder with no husband present, and 34.40% were non-families.
+
+133	TRUE	Wells County, North Dakota:: density_km2	2 / (2/	
+The <a> population density </a> was 4 people per square mile (2/km&#x00b2;).
+
+134	TRUE	Ward County, North Dakota:: state	north dakota / North Dakota	
+<p> <strong> Ward County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> North Dakota </a> .
+
+137	FALSE	Ward County, North Dakota:: area_water_sq_mi	43 / 33.	
+<p> There were 23,041 households out of which 34.30% had children under the age of 18 living with them, 55.20% were <a> married couples </a> living together, 8.40% had a female householder with no husband present, and 33.30% were non-families.
+
+139	TRUE	Ward County, North Dakota:: density_km2	11 / (11/	
+The <a> population density </a> was 29 people per square mile (11/km&#x00b2;).
+
+145	TRUE	Walsh County, North Dakota:: state	north dakota / North Dakota	
+<p> <strong> Walsh County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> North Dakota </a> .
+
+148	FALSE	Walsh County, North Dakota:: area_water_sq_mi	12 / 34.	
+<p> There were 5,029 households out of which 30.60% had children under the age of 18 living with them, 55.10% were <a> married couples </a> living together, 7.50% had a female householder with no husband present, and 34.00% were non-families.
+
+150	TRUE	Walsh County, North Dakota:: density_km2	4 / (4/	
+The <a> population density </a> was 10 people per square mile (4/km&#x00b2;).
+
+156	TRUE	Traill County, North Dakota:: state	north dakota / North Dakota	
+<p> <strong> Traill County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> North Dakota </a> .
+
+157	FALSE	Traill County, North Dakota:: area_total_sq_mi	863 / (0.	
+862 square miles (2,232 km&#x00b2;) of it is land, while only 1 square mile (2 km&#x00b2;) of it (0.08%) is water. </p>
+
+158	TRUE	Traill County, North Dakota:: area_water_sq_mi	1 / 33.	
+<p> There were 3,341 households out of which 30.9% had children under the age of 18 living with them, 58.0% were <a> married couples </a> living together, 5.4% had a female householder with no husband present, and 33.2% were non-families.
+
+163	TRUE	Traill County, North Dakota:: area_water_km2	2 / 33.	
+<p> There were 3,341 households out of which 30.9% had children under the age of 18 living with them, 58.0% were <a> married couples </a> living together, 5.4% had a female householder with no husband present, and 33.2% were non-families.
+
+164	TRUE	Traill County, North Dakota:: seat	hillsboro / Mayville	
+Its <a> county seat </a> is <a> Hillsboro </a> , and its largest city is <a> Mayville </a> . </p>
+
+166	TRUE	Towner County, North Dakota:: state	north dakota / North Dakota	
+<p> <strong> Towner County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> North Dakota </a> .
+
+169	FALSE	Towner County, North Dakota:: area_water_sq_mi	17 / 35.	
+<p> There were 1,218 households out of which 27.30% had children under the age of 18 living with them, 56.90% were <a> married couples </a> living together, 4.60% had a female householder with no husband present, and 35.50% were non-families.
+
+171	TRUE	Towner County, North Dakota:: density_km2	1 / (1/	
+The <a> population density </a> was 3 people per square mile (1/km&#x00b2;).
+
+177	TRUE	Stutsman County, North Dakota:: state	north dakota / North Dakota	
+<p> <strong> Stutsman County </strong> is a <a> county </a> located in the <a> state </a> of <a> North Dakota </a> .
+
+179	FALSE	Stutsman County, North Dakota:: area_water_sq_mi	77 / 36.	
+<p> There were 8,954 households out of which 28.80% had children under the age of 18 living with them, 52.50% were <a> married couples </a> living together, 7.50% had a female householder with no husband present, and 36.90% were non-families.
+
+181	TRUE	Stutsman County, North Dakota:: density_km2	4 / (4/	
+The <a> population density </a> was 10 per square mile (4/km&#x00b2;).
+
+184	TRUE	Stutsman County, North Dakota:: density_sq_mi	10 / (4/	
+The <a> population density </a> was 10 per square mile (4/km&#x00b2;).
+
+186	FALSE	Stutsman County, North Dakota:: area_water_km2	199 / 36.	
+<p> There were 8,954 households out of which 28.80% had children under the age of 18 living with them, 52.50% were <a> married couples </a> living together, 7.50% had a female householder with no husband present, and 36.90% were non-families.
+
+187	FALSE	Steele County, North Dakota:: area_total_sq_mi	715 / 923	
+<p> As of the <a> census </a> of 2000, there were 2,258 people, 923 households, and 635 families residing in the county.
+
+188	TRUE	Steele County, North Dakota:: area_land_sq_mi	712 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 715&nbsp; <a> square mile </a> s (1,853&nbsp; <a> km&#x00b2; </a> ), of which, 712&nbsp;square miles (1,845&nbsp;km&#x00b2;) of it is land and 3&nbsp;square miles (8&nbsp;km&#x00b2;) of it (0.44%) is water. </p>
+
+189	TRUE	Steele County, North Dakota:: area_water_sq_mi	3 / 31.	
+<p> There were 923 households out of which 29.70% had children under the age of 18 living with them, 62.30% were <a> married couples </a> living together, 4.40% had a female householder with no husband present, and 31.20% were non-families.
+
+191	TRUE	Steele County, North Dakota:: density_km2	1 / (1/	
+The <a> population density </a> was 3 people per square mile (1/km&#x00b2;).
+
+197	TRUE	Steele County, North Dakota:: state	north dakota / North Dakota	
+<p> <strong> Steele County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> North Dakota </a> .
+
+198	TRUE	Stark County, North Dakota:: state	north dakota / North Dakota	
+<p> <strong> Stark County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> North Dakota </a> .
+
+200	TRUE	Stark County, North Dakota:: area_water_sq_mi	2 / 34.	
+<p> There were 8,932 households out of which 32.1% had children under the age of 18 living with them, 54.9% were <a> married couples </a> living together, 7.9% had a female householder with no husband present, and 34.2% were non-families.
+
+202	TRUE	Stark County, North Dakota:: density_km2	7 / (7/	
+The <a> population density </a> was 17 people per square mile (7/km&#x00b2;).
+
+219	TRUE	Sioux County, North Dakota:: state	north dakota / North Dakota	
+<p> <strong> Sioux County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> North Dakota </a> .
+
+223	TRUE	Sioux County, North Dakota:: density_km2	1 / (1/	
+The <a> population density </a> was 4 people per square mile (1/km&#x00b2;).
+
+229	FALSE	Sioux County, North Dakota:: area_water_sq_mi	34 / 20.	
+<p> There were 1,095 households out of which 48.90% had children under the age of 18 living with them, 39.10% were <a> married couples </a> living together, 29.10% had a female householder with no husband present, and 20.40% were non-families.
+
+230	TRUE	Sheridan County, North Dakota:: state	north dakota / North Dakota	
+<p> <strong> Sheridan County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> North Dakota </a> .
+
+231	TRUE	Sheridan County, North Dakota:: area_land_sq_mi	972 / (3.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 1,006&nbsp;square miles (2,605&nbsp;km&#x00b2;), of which, 972&nbsp;square miles (2,517&nbsp;km&#x00b2;) of it is land and 34&nbsp;square miles (88&nbsp;km&#x00b2;) of it (3.38%) is water.
+
+232	FALSE	Sheridan County, North Dakota:: area_water_sq_mi	34 / 29.	
+<p> There were 731 households out of which 25.00% had children under the age of 18 living with them, 62.80% were <a> married couples </a> living together, 4.40% had a female householder with no husband present, and 29.50% were non-families.
+
+234	TRUE	Sheridan County, North Dakota:: density_km2	1 / (1/	
+The <a> population density </a> was 2 people per square mile (1/km&#x00b2;).
+
+241	TRUE	Sargent County, North Dakota:: state	north dakota / North Dakota	
+<p> <strong> Sargent County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> North Dakota </a> .
+
+242	FALSE	Sargent County, North Dakota:: area_total_sq_mi	867 / 2000	
+37.5% were of <a> German </a> and 35.4% <a> Norwegian </a> ancestry according to <a> Census 2000 </a> . </p>
+
+243	TRUE	Sargent County, North Dakota:: area_land_sq_mi	859 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 867&nbsp;square miles (2,246&nbsp;km&#x00b2;), of which, 859&nbsp;square miles (2,224&nbsp;km&#x00b2;) of it is land and 8&nbsp;square miles (22&nbsp;km&#x00b2;) of it (0.96%) is water. </p>
+
+244	TRUE	Sargent County, North Dakota:: area_water_sq_mi	8 / 30.	
+<p> There were 1,786 households out of which 30.30% had children under the age of 18 living with them, 61.00% were <a> married couples </a> living together, 3.90% had a female householder with no husband present, and 30.40% were non-families.
+
+246	TRUE	Sargent County, North Dakota:: density_km2	2 / (2/	
+The <a> population density </a> was 5 people per square mile (2/km&#x00b2;).
+
+252	TRUE	Rolette County, North Dakota:: state	north dakota / North Dakota	
+<p> <strong> Rolette County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> North Dakota </a> .
+
+253	TRUE	Rolette County, North Dakota:: area_land_sq_mi	902 / (3.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 939&nbsp; <a> square mile </a> s (2,433&nbsp; <a> km&#x00b2; </a> ), of which, 902&nbsp;square miles (2,337&nbsp;km&#x00b2;) of it is land and 37&nbsp;square miles (96&nbsp;km&#x00b2;) of it (3.93%) is water. </p>
+
+254	FALSE	Rolette County, North Dakota:: area_water_sq_mi	37 / 26.	
+<p> There were 4,556 households out of which 43.80% had children under the age of 18 living with them, 44.00% were <a> married couples </a> living together, 22.70% had a female householder with no husband present, and 26.10% were non-families.
+
+256	TRUE	Rolette County, North Dakota:: density_km2	6 / (6/	
+The <a> population density </a> was 15 people per square mile (6/km&#x00b2;).
+
+262	TRUE	Richland County, North Dakota:: state	north dakota / North Dakota	
+<p> /div <strong> Richland County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> North Dakota </a> .
+
+266	FALSE	Richland County, North Dakota:: area_water_sq_mi	9 / 35.	
+<p> There were 6,885 households out of which 32.4% had children under the age of 18 living with them, 54.2% were <a> married couples </a> living together, 6.5% had a female householder with no husband present, and 35.7% were non-families.
+
+271	TRUE	Richland County, North Dakota:: density_km2	5 / (5/	
+The <a> population density </a> was 12 people per square mile (5/km&#x00b2;).
+
+273	TRUE	Renville County, North Dakota:: state	north dakota / North Dakota	
+<p> <strong> Renville County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> North Dakota </a> .
+
+274	FALSE	Renville County, North Dakota:: area_total_sq_mi	892 / 085	
+<p> As of the <a> census </a> of 2000, there were 2,610 people, 1,085 households, and 748 families residing in the county.
+
+275	TRUE	Renville County, North Dakota:: area_land_sq_mi	875 / (1.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 892&nbsp; <a> square mile </a> s (2,310&nbsp; <a> km&#x00b2; </a> ), of which, 875&nbsp;square miles (2,266&nbsp;km&#x00b2;) of it is land and 17&nbsp;square miles (45&nbsp;km&#x00b2;) of it (1.94%) is water. </p>
+
+276	FALSE	Renville County, North Dakota:: area_water_sq_mi	17 / 31.	
+<p> There were 1,085 households out of which 28.70% had children under the age of 18 living with them, 60.40% were <a> married couples </a> living together, 5.60% had a female householder with no husband present, and 31.00%
+
+278	TRUE	Renville County, North Dakota:: density_km2	1 / (1/	
+The <a> population density </a> was 3 people per square mile (1/km&#x00b2;).
+
+284	TRUE	Ransom County, North Dakota:: state	north dakota / North Dakota	
+<p> <strong> Ransom County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> North Dakota </a> .
+
+286	FALSE	Ransom County, North Dakota:: area_total_sq_mi	864 / 560	
+<p> As of the <a> census </a> of 2000, there were 5,890 people, 2,350 households, and 1,560 families residing in the county.
+
+287	TRUE	Ransom County, North Dakota:: area_land_sq_mi	863 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 864&nbsp; <a> square mile </a> s (2,238&nbsp; <a> km&#x00b2; </a> ), of which, 863&nbsp;square miles (2,235&nbsp;km&#x00b2;) of it is land and 1&nbsp;square miles (4&nbsp;km&#x00b2;) of it (0.16%) is water. </p>
+
+288	TRUE	Ransom County, North Dakota:: area_water_sq_mi	1 / 33.	
+<p> There were 2,350 households out of which 31.00% had children under the age of 18 living with them, 58.10% were <a> married couples </a> living together, 5.10% had a female householder with no husband present, and 33.60% were non-families.
+
+289	TRUE	Ransom County, North Dakota:: density_km2	3 / (3/	
+The <a> population density </a> was 7 people per square mile (3/km&#x00b2;).
+
+298	TRUE	Ramsey County, North Dakota:: density_km2	4 / (4/	
+The <a> population density </a> was 10 people per square mile (4/km&#x00b2;).
+
+303	TRUE	Ramsey County, North Dakota:: state	north dakota / North Dakota	
+<p> <strong> Ramsey County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> North Dakota </a> .
+
+304	FALSE	Ramsey County, North Dakota:: area_water_sq_mi	116 / 35.	
+<p> There were 4,957 households out of which 29.90% had children under the age of 18 living with them, 51.80% were <a> married couples </a> living together, 8.50% had a female householder with no husband present, and 35.70% were non-families.
+
+306	TRUE	Pierce County, North Dakota:: state	north dakota / North Dakota	
+<p> <strong> Pierce County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> North Dakota </a> .
+
+308	TRUE	Pierce County, North Dakota:: area_water_sq_mi	64 / 35.	
+<p> There were 1,964 households out of which 28.20% had children under the age of 18 living with them, 56.40% were <a> married couples </a> living together, 6.30% had a female householder with no husband present, and 35.00% were non-families.
+
+309	TRUE	Pierce County, North Dakota:: density_km2	2 / (2/	
+The <a> population density </a> was 5 people per square mile (2/km&#x00b2;).
+
+317	TRUE	Pembina County, North Dakota:: state	north dakota / North Dakota	
+<p> <strong> Pembina County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> North Dakota </a> .
+
+319	TRUE	Pembina County, North Dakota:: area_water_sq_mi	3 / 340	
+Males had a median income of $30,400 versus $21,340 for females.
+
+324	TRUE	Oliver County, North Dakota:: state	north dakota / North Dakota	
+<p> <strong> Oliver County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> North Dakota </a> .
+
+325	FALSE	Oliver County, North Dakota:: area_total_sq_mi	731 / (1.	
+1,874 km&#x00b2; (724 sq&nbsp;mi) of it is land and 20 km&#x00b2; (8 sq&nbsp;mi) of it (1.05%) is water. </p>
+
+326	FALSE	Oliver County, North Dakota:: area_land_sq_mi	724 / (731	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 1,894 km&#x00b2; (731 sq&nbsp;mi).
+
+327	TRUE	Oliver County, North Dakota:: area_water_sq_mi	8 / 23.	
+<p> There were 791 households out of which 35.50% had children under the age of 18 living with them, 69.20% were <a> married couples </a> living together, 3.90% had a female householder with no husband present, and 23.60% were non-families.
+
+329	TRUE	Oliver County, North Dakota:: density_km2	1 / 1/	
+The <a> population density </a> was 1/km&#x00b2; (3/sq&nbsp;mi).
+
+334	TRUE	Nelson County, North Dakota:: state	north dakota / North Dakota	
+<p> <strong> Nelson County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> North Dakota </a> .
+
+336	FALSE	Nelson County, North Dakota:: area_water_sq_mi	27 / 38.	
+<p> There were 1,628 households out of which 24.20% had children under the age of 18 living with them, 53.80% were <a> married couples </a> living together, 5.20% had a female householder with no husband present, and 38.30% were non-families.
+
+343	TRUE	Nelson County, North Dakota:: area_land_sq_mi	982 / (2.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 1,009&nbsp;square miles (2,613&nbsp;km&#x00b2;), of which, 982&nbsp;square miles (2,542&nbsp;km&#x00b2;) of it is land and 27&nbsp;square miles (70&nbsp;km&#x00b2;) of it (2.69%) is water. </p>
+
+344	TRUE	Nelson County, North Dakota:: density_km2	1 / (1/	
+The <a> population density </a> was 4 people per square mile (1/km&#x00b2;).
+
+345	TRUE	Mountrail County, North Dakota:: state	north dakota / North Dakota	
+<p> <strong> Mountrail County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> North Dakota </a> .
+
+348	FALSE	Mountrail County, North Dakota:: area_water_sq_mi	117 / 31.	
+<p> There were 2,560 households out of which 31.80% had children under the age of 18 living with them, 51.80% were <a> married couples </a> living together, 11.80% had a female householder with no husband present, and 31.50% were non-families.
+
+350	TRUE	Mountrail County, North Dakota:: density_km2	1 / (1/	
+The <a> population density </a> was 4 people per square mile (1/km&#x00b2;).
+
+356	TRUE	Morton County, North Dakota:: state	north dakota / North Dakota	
+<p> <strong> Morton County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> North Dakota </a> .
+
+358	FALSE	Morton County, North Dakota:: area_water_sq_mi	19 / 29.	
+<p> There were 9,889 households out of which 34.90% had children under the age of 18 living with them, 58.20% were <a> married couples </a> living together, 8.50% had a female householder with no husband present, and 29.90% were non-families.
+
+360	TRUE	Morton County, North Dakota:: density_km2	5 / (5/	
+The <a> population density </a> was 13 people per square mile (5/km&#x00b2;).
+
+367	TRUE	Mercer County, North Dakota:: state	north dakota / North Dakota	
+<p> <strong> Mercer County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> North Dakota </a> .
+
+370	FALSE	Mercer County, North Dakota:: area_water_sq_mi	67 / 26.	
+<p> There were 3,346 households out of which 37.10% had children under the age of 18 living with them, 65.20% were <a> married couples </a> living together, 5.10% had a female householder with no husband present, and 26.90% were non-families.
+
+372	TRUE	Mercer County, North Dakota:: density_km2	3 / (3/	
+The <a> population density </a> was 8 people per square mile (3/km&#x00b2;).
+
+378	TRUE	McLean County, North Dakota:: state	north dakota / North Dakota	
+<p> <strong> McLean County </strong> (pronounced muh-KLANE) is a <a> county </a> located in the <a> U.S. state </a> of <a> North Dakota </a> .
+
+381	FALSE	McLean County, North Dakota:: area_water_sq_mi	218 / 28.	
+<p> There were 3,815 households out of which 29.30% had children under the age of 18 living with them, 62.30% were <a> married couples </a> living together, 5.60% had a female householder with no husband present, and 28.90% were non-families.
+
+382	TRUE	McLean County, North Dakota:: density_km2	2 / (2/	
+The <a> population density </a> was 4 people per square mile (2/km&#x00b2;).
+
+401	FALSE	McIntosh County, North Dakota:: area_total_sq_mi	995 / 467	
+<p> As of the <a> census </a> of 2000, there were 3,390 people, 1,467 households, and 975 families residing in the county.
+
+402	TRUE	McIntosh County, North Dakota:: area_land_sq_mi	975 / (1.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 995&nbsp;square miles (2,577&nbsp;km&#x00b2;), of which, 975&nbsp;square miles (2,526&nbsp;km&#x00b2;) of it is land and 20&nbsp;square miles (51&nbsp;km&#x00b2;) of it (1.99%) is water. </p>
+
+403	FALSE	McIntosh County, North Dakota:: area_water_sq_mi	20 / 33.	
+<p> There were 1,467 households out of which 22.30% had children under the age of 18 living with them, 60.30% were <a> married couples </a> living together, 3.50% had a female householder with no husband present, and 33.50% were non-families.
+
+405	TRUE	McIntosh County, North Dakota:: density_km2	1 / (1/	
+The <a> population density </a> was 4 people per square mile (1/km&#x00b2;).
+
+409	TRUE	McIntosh County, North Dakota:: state	north dakota / North Dakota	
+<p> <strong> McIntosh County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> North Dakota </a> .
+
+412	TRUE	McHenry County, North Dakota:: state	north dakota / North Dakota	
+<p> <strong> McHenry County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> North Dakota </a> .
+
+415	FALSE	McHenry County, North Dakota:: area_water_sq_mi	38 / 32.	
+<p> There were 2,526 households out of which 28.3% had children under the age of 18 living with them, 58.2% were <a> married couples </a> living together, 5.6% had a female householder with no husband present, and 32.7% were non-families.
+
+417	TRUE	McHenry County, North Dakota:: density_km2	1 / (1/	
+The <a> population density </a> was 3 people per square mile (1/km&#x00b2;).
+
+418	TRUE	McHenry County, North Dakota:: founded	1873 / 1873	
+The <a> Territorial legislature </a> formed McHenry County in 1873 from part of <a> Bottineau County </a> .
+
+424	TRUE	Logan County, North Dakota:: state	north dakota / North Dakota	
+<p> <strong> Logan County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> North Dakota </a> .
+
+426	TRUE	Logan County, North Dakota:: area_land_sq_mi	993 / (1.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 1,011&nbsp; <a> square mile </a> s (2,619&nbsp; <a> km&#x00b2; </a> ), of which, 993&nbsp;square miles (2,571&nbsp;km&#x00b2;) of it is land and 18&nbsp;square miles (48&nbsp;km&#x00b2;) of it (1.82%) is water. </p>
+
+427	TRUE	Logan County, North Dakota:: area_water_sq_mi	18 / 31.	
+<p> There were 963 households out of which 25.80% had children under the age of 18 living with them, 63.10% were <a> married couples </a> living together, 3.10% had a female householder with no husband present, and 31.50% were non-families.
+
+428	FALSE	Logan County, North Dakota:: pop	1886 / 2.88.	
+The average household size was 2.32 and the average family size was 2.88. </p>
+
+434	TRUE	Logan County, North Dakota:: density_km2	1 / (1/	
+The <a> population density </a> was 2 people per square mile (1/km&#x00b2;).
+
+435	TRUE	LaMoure County, North Dakota:: state	north dakota / North Dakota	
+<p> <strong> LaMoure County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> North Dakota </a> .
+
+437	TRUE	LaMoure County, North Dakota:: area_water_sq_mi	4 / 32.	
+<p> There were 1,942 households out of which 27.50% had children under the age of 18 living with them, 60.50% were <a> married couples </a> living together, 4.00% had a female householder with no husband present, and 32.60% were non-families.
+
+439	TRUE	LaMoure County, North Dakota:: density_km2	2 / (2/	
+The <a> population density </a> was 4 people per square mile (2/km&#x00b2;).
+
+445	TRUE	Kidder County, North Dakota:: state	north dakota / North Dakota	
+<p> <strong> Kidder County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> North Dakota </a> .
+
+448	FALSE	Kidder County, North Dakota:: area_water_sq_mi	82 / 32.	
+<p> There were 1,158 households out of which 27.20% had children under the age of 18 living with them, 60.70% were <a> married couples </a> living together, 4.10% had a female householder with no husband present, and 32.00% were non-families.
+
+450	TRUE	Kidder County, North Dakota:: density_km2	1 / (1/	
+The <a> population density </a> was 2 people per square mile (1/km&#x00b2;).
+
+456	TRUE	Hettinger County, North Dakota:: state	north dakota / North Dakota	
+<p> <strong> Hettinger County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> North Dakota </a> .
+
+459	TRUE	Hettinger County, North Dakota:: area_water_sq_mi	1 / 32.	
+<p> There were 1,152 households out of which 26.4% had children under the age of 18 living with them, 61.2% were <a> married couples </a> living together, 3.8% had a female householder with no husband present, and 32.4% were non-families.
+
+461	TRUE	Hettinger County, North Dakota:: density_km2	0.9 / 9/	
+The <a> population density </a> was 2.4 people per square mile (0.9/km&#x00b2;).
+
+467	TRUE	Griggs County, North Dakota:: state	north dakota / North Dakota	
+<p> <strong> Griggs County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> North Dakota </a> .
+
+470	FALSE	Griggs County, North Dakota:: area_water_sq_mi	11 / 33.	
+<p> There were 1,178 households out of which 26.70% had children under the age of 18 living with them, 59.30% were <a> married couples </a> living together, 4.70% had a female householder with no husband present, and 33.70% were non-families.
+
+472	TRUE	Griggs County, North Dakota:: density_km2	2 / (2/	
+The <a> population density </a> was 4 people per square mile (2/km&#x00b2;).
+
+478	TRUE	Grant County, North Dakota:: state	north dakota / North Dakota	
+<p> <strong> Grant County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> North Dakota </a> .
+
+481	TRUE	Grant County, North Dakota:: area_water_sq_mi	6 / 33.	
+<p> There were 1,195 households out of which 25.10% had children under the age of 18 living with them, 60.80% were <a> married couples </a> living together, 3.80% had a female householder with no husband present, and 33.00% were non-families.
+
+483	FALSE	Grant County, North Dakota:: density_km2	0.5 / (1/	
+The <a> population density </a> was 2 people per square mile (1/km&#x00b2;).
+
+489	TRUE	Grand Forks County, North Dakota:: state	north dakota / North Dakota	
+<p> <strong> Grand Forks County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> North Dakota </a> .
+
+492	TRUE	Grand Forks County, North Dakota:: area_water_sq_mi	2 / 38.	
+<p> There were 25,435 households out of which 32.4% had children under the age of 18 living with them, 49.5% were <a> married couples </a> living together, 8.8% had a female householder with no husband present, and 38.6% were non-families.
+
+494	TRUE	Grand Forks County, North Dakota:: density_km2	18 / (18/	
+The <a> population density </a> was 46 people per square mile (18/km&#x00b2;).
+
+505	TRUE	Golden Valley County, North Dakota:: state	north dakota / North Dakota	
+<p> <strong> Golden Valley County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> North Dakota </a> .
+
+509	TRUE	Foster County, North Dakota:: density_km2	2 / 2/	
+The <a> population density </a> was 2/km&#x00b2; (6/sq&nbsp;mi).
+
+514	TRUE	Foster County, North Dakota:: state	north dakota / North Dakota	
+<p> <strong> Foster County </strong> is a <a> county </a> located within the <a> U.S. state </a> of <a> North Dakota </a> .
+
+515	FALSE	Foster County, North Dakota:: area_water_sq_mi	12 / 33.	
+<p> There were 1,540 households out of which 31.00% had children under the age of 18 living with them, 57.50% were <a> married couples </a> living together, 6.40% had a female householder with no husband present, and 33.00% were non-families.
+
+516	TRUE	Emmons County, North Dakota:: state	north dakota / North Dakota	
+<p> <strong> Emmons County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> North Dakota </a> .
+
+519	FALSE	Emmons County, North Dakota:: area_water_sq_mi	45 / 30.	
+<p> There were 1,786 households out of which 27.20% had children under the age of 18 living with them, 61.00% were <a> married couples </a> living together, 4.40% had a female householder with no husband present, and 30.50% were non-families.
+
+520	TRUE	Emmons County, North Dakota:: density_km2	1 / (1/	
+The <a> population density </a> was 3 people per square mile (1/km&#x00b2;).
+
+538	TRUE	Dunn County, North Dakota:: state	north dakota / North Dakota	
+<p> <strong> Dunn County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> North Dakota </a> .
+
+543	TRUE	Dunn County, North Dakota:: density_km2	1 / (1/	
+The <a> population density </a> was 2 people per square mile (1/km&#x00b2;).
+
+549	TRUE	Divide County, North Dakota:: state	north dakota / North Dakota	
+<p> <strong> Divide County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> North Dakota </a> .
+
+552	TRUE	Divide County, North Dakota:: area_water_sq_mi	35 / 35.	
+<p> There were 1,005 households out of which 22.5% had children under the age of 18 living with them, 56.8% were <a> married couples </a> living together, 4.2% had a female householder with no husband present, and 35.4% were non-families.
+
+554	TRUE	Divide County, North Dakota:: founded	1910 / 1910.	
+<p> Divide County was formed from <a> Williams County </a> in 1910.
+
+560	TRUE	Divide County, North Dakota:: density_km2	0.7 / 7/	
+The <a> population density </a> was 1.8 people per square mile (0.7/km&#x00b2;).
+
+561	TRUE	Dickey County, North Dakota:: state	north dakota / North Dakota	
+<p> <strong> Dickey County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> North Dakota </a> .
+
+564	FALSE	Dickey County, North Dakota:: area_water_sq_mi	11 / 34.	
+<p> There were 2,283 households out of which 27.90% had children under the age of 18 living with them, 58.00% were <a> married couples </a> living together, 4.90% had a female householder with no husband present, and 34.30% were non-families.
+
+566	TRUE	Dickey County, North Dakota:: density_km2	2 / (2/	
+The <a> population density </a> was 5 people per square mile (2/km&#x00b2;).
+
+572	TRUE	Cavalier County, North Dakota:: state	north dakota / North Dakota	
+<p> <strong> Cavalier County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> North Dakota </a> .
+
+575	FALSE	Cavalier County, North Dakota:: area_water_sq_mi	22 / 32.	
+<p> There were 2,017 households out of which 27.50% had children under the age of 18 living with them, 60.80% were <a> married couples </a> living together, 3.80% had a female householder with no husband present, and 32.50% were non-families.
+
+577	TRUE	Cavalier County, North Dakota:: density_km2	1 / (1/	
+The <a> population density </a> was 3 people per square mile (1/km&#x00b2;).
+
+594	TRUE	Burleigh County, North Dakota:: state	north dakota / North Dakota	
+<p> <strong> Burleigh County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> North Dakota </a> .
+
+599	TRUE	Burleigh County, North Dakota:: density_km2	16 / (16/	
+The <a> population density </a> was 42 people per square mile (16/km&#x00b2;).
+
+605	TRUE	Burke County, North Dakota:: state	north dakota / North Dakota	
+<p> <strong> Burke County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> North Dakota </a> .
+
+608	FALSE	Burke County, North Dakota:: area_water_sq_mi	26 / 32.	
+<p> There were 1,013 households out of which 23.00% had children under the age of 18 living with them, 58.20% were <a> married couples </a> living together, 5.30% had a female householder with no husband present, and 32.80% were non-families.
+
+616	TRUE	Bowman County, North Dakota:: state	north dakota / North Dakota	
+<p> <strong> Bowman County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> North Dakota </a> .
+
+618	TRUE	Bowman County, North Dakota:: area_water_sq_mi	5 / 34.	
+<p> There were 1,358 households out of which 29.50% had children under the age of 18 living with them, 59.50% were <a> married couples </a> living together, 4.10% had a female householder with no husband present, and 34.40% were non-families.
+
+620	TRUE	Bowman County, North Dakota:: density_km2	1 / (1/	
+The <a> population density </a> was 3 people per square mile (1/km&#x00b2;).
+
+627	TRUE	Bottineau County, North Dakota:: state	north dakota / North Dakota	
+<p> <strong> Bottineau County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> North Dakota </a> .
+
+630	FALSE	Bottineau County, North Dakota:: area_water_sq_mi	29 / 34.	
+<p> There were 2,962 households out of which 27.30% had children under the age of 18 living with them, 58.70% were <a> married couples </a> living together, 4.30% had a female householder with no husband present, and 34.00% were non-families.
+
+632	TRUE	Bottineau County, North Dakota:: density_km2	2 / (2/	
+The <a> population density </a> was 4 people per square mile (2/km&#x00b2;).
+
+639	TRUE	Billings County, North Dakota:: area_water_sq_mi	2 / 30.	
+<p> There were 366 households out of which 29.2% had children under the age of 18 living with them, 62.6% were <a> married couples </a> living together, 4.4% had a female householder with no husband present, and 30.1% were non-families.
+
+646	TRUE	Billings County, North Dakota:: state	north dakota / North Dakota	
+<p> <strong> Billings County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> North Dakota </a> .
+
+659	TRUE	Barnes County, North Dakota:: state	north dakota / North Dakota	
+<p> <strong> Barnes County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> North Dakota </a> .
+
+662	FALSE	Barnes County, North Dakota:: area_water_sq_mi	22 / 36.	
+<p> There were 4,884 households out of which 27.40% had children under the age of 18 living with them, 53.90% were <a> married couples </a> living together, 6.80% had a female householder with no husband present, and 36.20% were non-families.
+
+664	TRUE	Barnes County, North Dakota:: density_km2	3 / (3/	
+The <a> population density </a> was 8 people per square mile (3/km&#x00b2;).
+
+783	TRUE	Union County, North Carolina:: county	union county / Union County	
+<p> <strong> Union County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> North Carolina </a> .
+
+784	TRUE	Union County, North Carolina:: state	north carolina / North Carolina	
+<p> <strong> Union County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> North Carolina </a> .
+
+785	TRUE	Union County, North Carolina:: area_land_sq_mi	637 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 640&nbsp; <a> square mile </a> s (1,657&nbsp; <a> km&#x00b2; </a> ), of which, 637&nbsp;square miles (1,651&nbsp;km&#x00b2;) of it is land and 2&nbsp;square miles (6&nbsp;km&#x00b2;) of it (0.35%) is water. </p>
+
+786	TRUE	Union County, North Carolina:: area_water_sq_mi	2 / 21.	
+<p> There were 43,390 households out of which 39.50% had children under the age of 18 living with them, 65.30% were <a> married couples </a> living together, 9.80% had a female householder with no husband present, and 21.00% were non-families.
+
+789	TRUE	Union County, North Carolina:: founded	1842 / 1842	
+<p> The county was formed in 1842 from parts of <a> Anson County </a> and <a> Mecklenburg County </a> .
+
+886	TRUE	Rutherford County, North Carolina:: state	north carolina / North Carolina	
+<p> <strong> Rutherford County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> North Carolina </a> .
+
+887	FALSE	Rutherford County, North Carolina:: area_total_sq_mi	566 / 935	
+<p> As of the <a> census </a> of 2000, there were 62,899 people, 25,191 households, and 17,935 families residing in the county.
+
+888	TRUE	Rutherford County, North Carolina:: area_land_sq_mi	564 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 566&nbsp; <a> square mile </a> s (1,466&nbsp; <a> km&#x00b2; </a> ), of which, 564&nbsp;square miles (1,461&nbsp;km&#x00b2;) of it is land and 2&nbsp;square miles (5&nbsp;km&#x00b2;) of it (0.31%) is water. </p>
+
+889	TRUE	Rutherford County, North Carolina:: area_water_sq_mi	2 / 28.	
+<p> There were 25,191 households out of which 30.00% had children under the age of 18 living with them, 55.40% were <a> married couples </a> living together, 11.70% had a female householder with no husband present, and 28.80% were non-families.
+
+891	TRUE	Rutherford County, North Carolina:: density_km2	43 / (43/	
+The <a> population density </a> was 112 people per square mile (43/km&#x00b2;).
+
+892	TRUE	Rutherford County, North Carolina:: founded	1779 / 1779	
+<p> The county was formed in 1779 from the western part of the former <a> Tryon County </a> .
+
+908	TRUE	Rockingham County, North Carolina:: state	north carolina / North Carolina	
+<p> <strong> Rockingham County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> North Carolina </a> .
+
+909	TRUE	Rockingham County, North Carolina:: area_total_sq_mi	572 / (1.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 572&nbsp;square miles (1,482&nbsp;km&#x00b2;), of which, 566&nbsp;square miles (1,467&nbsp;km&#x00b2;) of it is land and 6&nbsp;square miles (15&nbsp;km&#x00b2;) of it (1.03%) is water. </p>
+
+910	TRUE	Rockingham County, North Carolina:: area_land_sq_mi	566 / (1.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 572&nbsp;square miles (1,482&nbsp;km&#x00b2;), of which, 566&nbsp;square miles (1,467&nbsp;km&#x00b2;) of it is land and 6&nbsp;square miles (15&nbsp;km&#x00b2;) of it (1.03%) is water. </p>
+
+911	TRUE	Rockingham County, North Carolina:: area_water_sq_mi	6 / 29.	
+<p> There were 36,989 households out of which 30.10% had children under the age of 18 living with them, 53.60% were <a> married couples </a> living together, 12.80% had a female householder with no husband present, and 29.20% were non-families.
+
+913	TRUE	Rockingham County, North Carolina:: density_km2	63 / (63/	
+The <a> population density </a> was 162 people per square mile (63/km&#x00b2;).
+
+962	FALSE	Person County, North Carolina:: area_water_sq_mi	12 / 28.	
+<p> There were 14,085 households out of which 31.5% had children under the age of 18 living with them, 53.8% were <a> married couples </a> living together, 13.8% had a female householder with no husband present, and 28.2% were non-families.
+
+967	TRUE	Person County, North Carolina:: county	person county / States.	
+<p> <strong> Person County </strong> is a <a> county </a> located in the <a> Piedmont </a> region in north-central <a> North Carolina </a> in the United States.
+
+968	TRUE	Person County, North Carolina:: state	north carolina / North Carolina	
+<p> <strong> Person County </strong> is a <a> county </a> located in the <a> Piedmont </a> region in north-central <a> North Carolina </a> in the United States.
+
+969	TRUE	Person County, North Carolina:: area_land_sq_mi	392 / <p> [[Image:hycolakesunset.jpg|thumb|left00px|A sunset on [[Hyco Lake]] in northwest Person County]] According to the <a> U.S. Census Bureau </a>, the county has a total area of 404&nbsp;square miles (1,047&nbsp;km&#x00b2;), of which, 392&nbsp;square miles (1,016&nbsp;km&#x00b2;) of it is land and 12&nbsp;square miles (31&nbsp;km&#x00b2;) of it	
+<p> [[Image:hycolakesunset.jpg|thumb|left|200px|A sunset on [[Hyco Lake]] in northwest Person County]] According to the <a> U.S. Census Bureau </a> , the county has a total area of 404&nbsp;square miles (1,047&nbsp;km&#x00b2;), of which, 392&nbsp;square miles (1,016&nbsp;km&#x00b2;) of it is land and 12&nbsp;square miles (31&nbsp;km&#x00b2;) of it (2.92%) is water. </p>
+
+1127	FALSE	Madison County, North Carolina:: area_total_sq_mi	452 / ,	
+Madison County's largest river is the <a> French Broad River </a> , which flows north-northwest through the county, first past the county seat of <a> Marshall </a> , then past the resort town of <a> Hot Springs </a> . </p>
+
+1128	TRUE	Madison County, North Carolina:: area_land_sq_mi	449 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 452&nbsp; <a> square mile </a> s (1,170&nbsp; <a> km&#x00b2; </a> ), of which, 449&nbsp;square miles (1,164&nbsp;km&#x00b2;) of it is land and 2&nbsp;square miles (6&nbsp;km&#x00b2;) of it (0.48%) is water. </p>
+
+1129	TRUE	Madison County, North Carolina:: area_water_sq_mi	2 / 30.	
+<p> There were 8,000 households out of which 28.40% had children under the age of 18 living with them, 57.50% were <a> married couples </a> living together, 8.90% had a female householder with no husband present, and 30.10% were non-families.
+
+1131	TRUE	Madison County, North Carolina:: density_km2	17 / (17/	
+The <a> population density </a> was 44 people per square mile (17/km&#x00b2;).
+
+1137	TRUE	Madison County, North Carolina:: state	north carolina / North Carolina	
+<p> <strong> Madison County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> North Carolina </a> .
+
+1198	TRUE	Johnston County, North Carolina:: state	north carolina / North Carolina	
+<p> <strong> Johnston County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> North Carolina </a> .
+
+1201	TRUE	Johnston County, North Carolina:: area_water_sq_mi	4 / 27.	
+<p> There were 46,595 households out of which 35.40% had children under the age of 18 living with them, 57.80% were <a> married couples </a> living together, 10.60% had a female householder with no husband present, and 27.70% were non-families.
+
+1202	FALSE	Johnston County, North Carolina:: pop	163,428 / 3.02.	
+The average household size was 2.58 and the average family size was 3.02. </p>
+
+1204	TRUE	Johnston County, North Carolina:: founded	1746 / 1746	
+<p> The county was formed in 1746 from <a> Craven County </a> .
+
+1205	TRUE	Johnston County, North Carolina:: seat	smithfield / [[county seat]] is [[Smithfield	
+Its [[county seat]] is [[Smithfield, North Carolina|Smithfield]]. </p>
+
+1292	TRUE	Davidson County, North Carolina:: state	north carolina / North Carolina	
+<p> <strong> Davidson County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> North Carolina </a> .
+
+1295	TRUE	Davidson County, North Carolina:: area_water_sq_mi	15 / 26.	
+<p> There were 58,156 households out of which 32.70% had children under the age of 18 living with them, 58.00% were <a> married couples </a> living together, 10.80% had a female householder with no husband present, and 26.90% were non-families.
+
+1297	TRUE	Davidson County, North Carolina:: density_km2	103 / (103/	
+The <a> population density </a> was 267 people per square mile (103/km&#x00b2;).
+
+1298	TRUE	Davidson County, North Carolina:: founded	1822 / 1822	
+<p> The county was formed in 1822 from <a> Rowan County </a> .
+
+1431	TRUE	Carteret County, North Carolina:: state	north carolina / North Carolina	
+<p> <strong> Carteret County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> North Carolina </a> .
+
+1441	TRUE	Carteret County, North Carolina:: density_sq_mi	114 / (44/	
+The <a> population density </a> was 114 people per square mile (44/km&#x00b2;).
+
+1486	TRUE	Buncombe County, North Carolina:: state	north carolina / North Carolina	
+<p> <strong> Buncombe County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> North Carolina </a> .
+
+1489	TRUE	Buncombe County, North Carolina:: density_km2	121 / (121/	
+The <a> population density </a> was 314 people per square mile (121/km&#x00b2;).
+
+1490	FALSE	Buncombe County, North Carolina:: founded	1791 / Buncombe	
+<p> Buncombe County has a council/manager form of government. </p>
+
+1497	FALSE	Buncombe County, North Carolina:: area_water_sq_mi	4 / 35.	
+<p> There were 85,776 households out of which 27.50% had children under the age of 18 living with them, 50.50% were <a> married couples </a> living together, 10.80% had a female householder with no husband present, and 35.10% were non-families.
+
+1600	TRUE	Alamance County, North Carolina:: state	north carolina / North Carolina	
+<p> <strong> Alamance County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> North Carolina </a> .
+
+1603	TRUE	Alamance County, North Carolina:: area_water_sq_mi	5 / 31.	
+<p> There were 51,584 households out of which 31.10% had children under the age of 18 living with them, 52.10% were <a> married couples </a> living together, 12.70% had a female householder with no husband present, and 31.10% were non-families.
+
+1604	FALSE	Alamance County, North Carolina:: pop	148,053 / 54,000	
+<p> Over 54,000 people do not live in an incorporated community in Alamance County. </p>
+
+1682	TRUE	Cuyahoga County, Ohio:: county	cuyahoga county / United States	
+<p> <strong> Cuyahoga County </strong> (, or ) is a <a> county </a> located in the <a> state </a> of <a> Ohio </a> , <a> United States </a> .
+
+1692	TRUE	Cuyahoga County, Ohio:: state	ohio / Ohio	
+<p> <strong> Cuyahoga County </strong> (, or ) is a <a> county </a> located in the <a> state </a> of <a> Ohio </a> , <a> United States </a> .
+
+1695	TRUE	Crawford County, Ohio:: county	crawford county / United States	
+<p> <strong> Crawford County </strong> is a <a> county </a> located in the <a> state </a> of <a> Ohio </a> , <a> United States </a> .
+
+1696	TRUE	Crawford County, Ohio:: state	ohio / Ohio	
+<p> <strong> Crawford County </strong> is a <a> county </a> located in the <a> state </a> of <a> Ohio </a> , <a> United States </a> .
+
+1699	TRUE	Crawford County, Ohio:: density_km2	45 / (45/	
+The <a> population density </a> was 117 people per square mile (45/km&#x00b2;).
+
+1703	TRUE	Crawford County, Ohio:: area_water_km2	2 / 65	
+26.30% of all households were made up of individuals and 11.50% had someone living alone who was 65 years of age or older.
+
+1704	TRUE	Crawford County, Ohio:: density_sq_mi	117 / (45/	
+The <a> population density </a> was 117 people per square mile (45/km&#x00b2;).
+
+1705	TRUE	Crawford County, Ohio:: area_water_sq_mi	1 / <p> [[Image:Crawford County Ohio Courthouse 2.JPG|thumb|left50px|[[Crawford County Courthouse (Ohio)|Crawford County Courthouse]]]] There were 18,957 households out of which 31.20% had children under the age of 18 living with them, 55.10% were <a> married couples </a> living together, 10.50% had a female householder with no husband present, and	
+<p> [[Image:Crawford County Ohio Courthouse 2.JPG|thumb|left|250px|[[Crawford County Courthouse (Ohio)|Crawford County Courthouse]]]] There were 18,957 households out of which 31.20% had children under the age of 18 living with them, 55.10% were <a> married couples </a> living together, 10.50% had a female householder with no husband present, and 30.50% were non-families.
+
+1706	TRUE	Coshocton County, Ohio:: county	coshocton county / United States	
+<p> <strong> Coshocton County </strong> is a <a> county </a> located in the <a> state </a> of <a> Ohio </a> , <a> United States </a> .
+
+1707	TRUE	Coshocton County, Ohio:: state	ohio / Ohio	
+<p> <strong> Coshocton County </strong> is a <a> county </a> located in the <a> state </a> of <a> Ohio </a> , <a> United States </a> .
+
+1710	TRUE	Coshocton County, Ohio:: density_km2	25 / (25/	
+The <a> population density </a> was 65 people per square mile (25/km&#x00b2;).
+
+1715	TRUE	Coshocton County, Ohio:: area_water_km2	9 / 29.	
+<p> There were 14,356 households out of which 32.60% had children under the age of 18 living with them, 57.80% were <a> married couples </a> living together, 9.20% had a female householder with no husband present, and 29.20% were non-families.
+
+1716	TRUE	Coshocton County, Ohio:: density_sq_mi	65 / (25/	
+The <a> population density </a> was 65 people per square mile (25/km&#x00b2;).
+
+1717	TRUE	Coshocton County, Ohio:: area_water_sq_mi	4 / 29.	
+<p> There were 14,356 households out of which 32.60% had children under the age of 18 living with them, 57.80% were <a> married couples </a> living together, 9.20% had a female householder with no husband present, and 29.20% were non-families.
+
+1865	TRUE	Durham County, North Carolina:: state	north carolina / North Carolina	
+<p> <strong> Durham County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> North Carolina </a> .
+
+1868	FALSE	Durham County, North Carolina:: area_water_sq_mi	7 / 39.	
+<p> There were 89,015 households out of which 29.10% had children under the age of 18 living with them, 42.00% were <a> married couples </a> living together, 14.80% had a female householder with no husband present, and 39.30% were non-families.
+
+1869	FALSE	Durham County, North Carolina:: pop	269,706 / 2.99.	
+The average household size was 2.40 and the average family size was 2.99. </p>
+
+1870	TRUE	Durham County, North Carolina:: density_km2	297 / (297/	
+The <a> population density </a> was 769 people per square mile (297/km&#x00b2;).
+
+1871	TRUE	Durham County, North Carolina:: founded	1881 / April 17, 1881	
+<p> The county was formed on April 17, 1881, from parts of <a> Orange County </a> and <a> Wake County </a> , taking the name of its own county seat.
+

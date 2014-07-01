@@ -1,0 +1,14 @@
+Found: 3
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	birth_place	........ / Los Angeles	// He was a television producer and on-air personality in Dayton , Ohio , when he decided to move to Los Angeles and study acting . </p>
+
+#	NEW	birth_place	........ / Los Angeles	// <p> Cox currently resides in <a> Los Angeles </a> , <a> California </a> . ref
+
+#	NEW	birth_place	........ / Los Angeles	// At present , she lives in <a> Los Angeles </a> .
+

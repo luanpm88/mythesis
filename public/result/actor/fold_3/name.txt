@@ -1,0 +1,88 @@
+Found: 30
+Found Not Null: 16
+Correct: 10
+Wrong: 6
+Total: 17
+precision: 0.625
+recall: 0.5882352941176471
+
+
+
+0	TRUE	Stephen Nichols::name	stephen nichols / most notable	
+<p> <strong> Stephen Nichols </strong> ( born February 19 , 1951 ) is an <a> American </a> <a> actor </a> , most notable for his roles on American daytime soap operas .
+
+1	FALSE	Joey Lawrence::name	joey lawrence / television host	
+<p> <strong> Joseph &quot ; Joey&quot ; Lawrence </strong> ( born April 20 , 1976 ) is an <a> American </a> <a> actor </a> , <a> singer </a> , and <a> television host </a> .
+
+2	FALSE	Melody Thomas Scott::name	melody thomas scott / Ann Thomas	
+<p> Scott was born <strong> Melody Ann Thomas </strong> in <a> Los Angeles , California </a> .
+
+#	NEW	name	........ / rit&# x00e9 ;	// A . &quot ; Pennebaker </strong> ( born July 15 , 1925 ) is an <a> American </a> <a> documentary film </a> maker and one of the pioneers of <a> Direct Cinema </a> / <a> Cin&#x00e9 ; ma v&#x00e9 ; rit&#x00e9 ; </a> .
+
+#	NEW	name	........ / Sanaa McCoy	// <p> <strong> Sanaa McCoy Lathan </strong> ( born September 19 , 1971 ) is an <a> American </a> <a> actress </a> and <a> voice actress </a> .
+
+#	NEW	name	........ / stage actor	// <p> <strong> John Drew , Jr . </strong> ( November 13 , 1853&ndash ; July 9 , 1927 ) was an <a> American </a> stage actor noted for his roles in <a> Shakespeare </a> an comedy , society drama , and light comedies .
+
+6	TRUE	Lillian Russell::name	lillian russell / Louise Leonard	
+<p> Lillian Russell was born <strong> Helen Louise Leonard </strong> in <a> Clinton , Iowa </a> .
+
+#	NEW	name	........ / with Love	// <p> <strong> Daniela Bianchi </strong> ( born 31 January 1942 ) is an Italian actress , whose best known part was <a> Tatiana Romanova </a> in the 1963 <a> James Bond </a> movie <em> <a> From Russia with Love </a> </em> . </p>
+
+8	FALSE	Yvonne Craig::name	yvonne craig / TV series	
+<p> <strong> Yvonne Joyce Craig </strong> ( born May 16 , 1937 ) is an American <a> actress </a> best known for her role as <a> Batgirl </a> from the 1960s <a> TV series </a> <em> <a> Batman </a> </em> . </p>
+
+#	NEW	name	........ / e Jones	// <p> <strong> Ren&#x00e9 ; e Jones </strong> ( born October 15 , 1958 ) is an American dramatic actress .
+
+10	FALSE	Doug Savant::name	doug savant / Douglas Peter	
+<p> <strong> Douglas Peter </strong> &quot ; <strong> Doug </strong> &quot ; <strong> Savant </strong> ( born June 21 , 1964 ) is an <a> American </a> <a> actor </a> .
+
+11	TRUE	Pitof::name	pitof / Jean- Christophe &	
+<p> <strong> Jean-Christophe &quot ; Pitof&quot ; Comar </strong> ( born 4 July 1957 ) is a <a> French </a> <a> film </a> and <a> visual effects </a> <a> director </a> notable for <em> <a> Vidocq </a> </em> and <em> <a> Catwoman </a> </em> . </p>
+
+#	NEW	name	........ / Vampire Slayer	// <p> <strong> Ken Lerner </strong> ( born May 27 , 1948 ) is an American television , stage and film actor who is perhaps most famous for playing &quot ; <a> Principal Flutie </a> &quot ; in the first episodes of the <a> television series </a> <em> <a> Buffy the Vampire Slayer </a> </em> . </p>
+
+13	TRUE	Tommy Tiernan::name	tommy tiernan / Tommy Tiernan	
+<p> <strong> Tommy Tiernan </strong> ( born 16 June 1969 ) is an <a> Irish </a> <a> comedian </a> , <a> actor </a> and <a> writer </a> . </p>
+
+#	NEW	name	........ / New Tricks	// <p> <strong> James Christopher Bolam </strong> , <a> MBE </a> ( born 16 June 1935 ) is an <a> English </a> <a> actor </a> , best known for his roles as Jack Ford in <em> <a> When the Boat Comes In </a> </em> , Trevor Chaplin in <em> <a> The Beiderbecke Trilogy </a> </em> , <a> Terry Collier </a> in <em> <a> The Likely Lads </a> </em> and its sequel <em> <a> Whatever Happened to the Likely Lads ? </a> </em> , Roy Figgis in <em> <a> Only When I Laugh </a> </em> and <a> Jack Halford </a> in <em> <a> New Tricks </a> . </em> </p>
+
+#	NEW	name	........ / atrice Dalle	// <p> <strong> B&#x00e9 ; atrice Dalle </strong> ( born 19 December 1964 ) is a <a> French </a> actress . </p>
+
+#	NEW	name	........ / is an	// <p> <strong> Alyssa Jayne Milano </strong> , ( born December 19 , 1972 ) is an American actress and former singer .
+
+17	TRUE	Joseph Schildkraut::name	joseph schildkraut / film actor.	
+<p> <strong> Joseph Schildkraut </strong> ( March 22 , 1896 &ndash ; January 21 , 1964 ) was an Austrian <a> stage </a> and film actor . </p>
+
+18	FALSE	William Boyd (actor)::name	william boyd / film actor	
+<p> <strong> William Lawrence Boyd </strong> ( June 5 , 1895 &ndash ; September 12 , 1972 ) was an <a> American </a> film actor best known for portraying <a> Hopalong Cassidy </a> . </p>
+
+#	NEW	name	........ / Emrys Griffith	// <p> <strong> Hugh Emrys Griffith </strong> ( 30 May 1912 &ndash ; 14 May 1980 ) was a <a> Welsh </a> film , stage and television <a> actor </a> . </p>
+
+#	NEW	name	........ / and 2010 ) .	// <p> <strong> Christie Mary Clark </strong> ( born December 13 , 1973 in <a> Orange County , California </a> ) is an <a> American </a> <a> actress </a> , best known for her role as <a> Carrie Brady </a> on <em> <a> Days of our Lives </a> </em> ( 1986&#x2013 ; 1990 , 1992&#x2013 ; 1999 , 2005&#x2013 ; 2006 and 2010 ) . </p>
+
+#	NEW	name	........ / My Name	// <p> <strong> Jaime Elizabeth Pressly </strong> ( born July 30 , 1977 ) is an American actress and model , best known for playing Joy on the <a> NBC </a> sitcom <em> <a> My Name Is Earl </a> </em> .
+
+#	NEW	name	........ / is an	// <p> <strong> Kenneth Edward &quot ; Ken&quot ; Olin </strong> ( born July 30 , 1954 ) is an American actor , <a> director </a> and <a> producer </a> .
+
+23	TRUE	Bree Williamson::name	bree williamson / is a	
+<p> <strong> Bree Williamson </strong> ( born December 28 , 1979 ; <a> Toronto </a> , <a> Ontario </a> ) is a <a> Canadian </a> <a> actress </a> . </p>
+
+24	TRUE	Mindy Cohn::name	mindy cohn / of Life	
+<p> <strong> Mindy Cohn </strong> ( born May 20 , 1966 ) is an <a> American </a> <a> actress </a> known for her role as <a> Natalie Green </a> on the TV show <em> <a> The Facts of Life </a> </em> .
+
+#	NEW	name	........ / and former	// <p> <strong> Hunter Tylo </strong> ( born <strong> Deborah Jo Hunter </strong> , July 3 , 1962 ) is an <a> American </a> <a> actress </a> , <a> Author </a> and former <a> model </a> .
+
+26	TRUE	Tonja Walker::name	tonja walker / Tonja Walker	
+<p> <strong> Tonja Walker </strong> ( born September 19 , 1960 ) is a former beauty pageant titleholder who has competed in the <a> Miss USA </a> pageant , a <a> actress </a> , and <a> singer </a> .
+
+27	TRUE	Peter Watkins::name	peter watkins / Peter Watkins	
+<p> <strong> Peter Watkins </strong> ( born 29 October 1935 ) is an <a> English </a> <a> film </a> and <a> television </a> <a> director </a> .
+
+28	FALSE	Frank Gorshin::name	frank gorshin / was an	
+<p> <strong> Frank John Gorshin , Jr . </strong> ( April 5 , 1933 &#x2013 ; May 17 , 2005 ) was an <a> American </a> <a> actor </a> and <a> comedian </a> .
+
+29	TRUE	Priyanka Chopra::name	priyanka chopra / Priyanka Chopra	
+<p> <strong> Priyanka Chopra </strong> ( , ; born 18 July 1982 ) is an Indian actress and former <a> Miss World </a> .
+
+#	null	name	kevin mcclory / ..........
+

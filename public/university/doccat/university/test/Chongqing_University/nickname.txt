@@ -1,3 +1,0 @@
-<p>Chongqing University is organised into the following divisions: </p>
-<li>School of Economics and Business Administration</li>
-<li>Academy of Arts</li>

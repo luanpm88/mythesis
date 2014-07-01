@@ -1,7 +1,0 @@
-<p><a>240px|right|Ecole des mines de Nancy</a></p>
-<li>LAEGO : environment, geomecanics, buildings</li>
-<li><a>&#x00c9;cole nationale sup&#x00e9;rieure des mines de Paris</a></li>
-<li><a>&#x00c9;cole nationale sup&#x00e9;rieure des Mines de Saint-&#x00c9;tienne</a></li>
-<li><a>&#x00c9;cole des Mines de Douai</a></li>
-<li><a>&#x00c9;cole des Mines de Nantes</a></li>
-<li><a>Site of the &#x00e9;cole nationale sup&#x00e9;rieure des mines de Nancy</a></li>

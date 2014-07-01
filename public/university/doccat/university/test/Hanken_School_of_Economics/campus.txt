@@ -1,3 +1,0 @@
-<li>Finance and Statistics</li>
-<li>Management and Organisation</li>
-<li>Service and Relationship Marketing</li>

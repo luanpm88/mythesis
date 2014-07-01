@@ -1,0 +1,76 @@
+Found: 34
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	hubs	........ / Canberra	// Its main base is <a> Canberra International Airport </a> .
+
+#	NEW	hubs	........ / Cheyenne	// <a> Turbulence </a> kept them too far away to locate any possible survivors and they left the site to return to their base in <a> Cheyenne </a> . </p>
+
+#	NEW	hubs	........ / Koltsovo	// Its main base was <a> Koltsovo International Airport </a> , Yekaterinburg . </p>
+
+#	NEW	hubs	........ / nine	// It operates regularly scheduled cargo charter services to over 34 US airports and nine international airports , as well as worldwide charter freight services .
+
+#	NEW	hubs	........ / Tegel	// <p> The flight departed <a> Berlin-Tegel International Airport </a> at 9 : 01 PM <a> CET </a> , upon arrival in Zurich about an hour later it was cleared to approach runway 28 in poor visibility conditions due to low clouds .
+
+#	NEW	hubs	........ / McMurray	// Its main base was the <a> Fort McMurray Airport </a> .
+
+#	NEW	hubs	........ / force	// The plane rolled over and plunged , experiencing high speeds and <a> g-force </a> s ( approaching 5g ) before the captain was finally able to recover from the rapid dive , and then to divert to <a> San Francisco International Airport </a> . </p>
+
+#	NEW	hubs	........ / Capital	// Its main base is <a> Beijing Capital International Airport </a> . </p>
+
+#	NEW	hubs	........ / Guarulhos	// Its main base is <a> Guarulhos International Airport </a> , <a> S&#x00e3 ; o Paulo </a> . </p>
+
+#	NEW	hubs	........ / Boryspil	// Its main bases are <a> Boryspil International Airport </a> and <a> Zhulhany Airport </a> ( IEV ) , both in Kiev . </p>
+
+#	NEW	hubs	........ / Malta	// It operated inclusive tour charter flights from <a> Malta International Airport </a> .
+
+#	NEW	hubs	........ / aviation	// <p> <strong> Blue Bird Aviation </strong> is a <a> general aviation </a> company based in <a> Khartoum </a> , <a> Sudan </a> .
+
+#	NEW	hubs	........ / Regional	// Its main base is <a> Bemidji Regional Airport </a> , with a hub at <a> Minneapolis-Saint Paul International Airport </a> . </p>
+
+#	NEW	hubs	........ / Vilnius	// Its main base is <a> Vilnius International Airport </a> . </p>
+
+#	NEW	hubs	........ / Domodedovo	// Its main base is <a> Domodedovo International Airport </a> , Moscow , with a hub at <a> Yaroslavl Airport </a> </p>
+
+#	NEW	hubs	........ / JSC	// <p> <a> JSC </a> <strong> Angara Airlines </strong> ( ) is an <a> airline </a> based in <a> Irkutsk </a> , <a> Russia </a> .
+
+#	NEW	hubs	........ / Hat	// Its main base is <a> Medicine Hat Airport </a> , with a hub at <a> Calgary International Airport </a> </p>
+
+#	NEW	hubs	........ / American	// <p> <strong> FS Air Service </strong> is an <a> American </a> <a> airline </a> based in <a> Anchorage </a> , <a> Alaska </a> , <a> USA </a> .
+
+#	NEW	hubs	........ / Sydney	// Its main base is <a> Sydney Airport </a> . </p>
+
+#	NEW	hubs	........ / Comeau	// Its main base was <a> Baie-Comeau Airport </a> , with hubs at <a> Rimouski </a> Airport , <a> Sept-&#x00ce ; les </a> Airport , <a> Havre Saint Pierre Airport </a> and <a> Quebec </a> Airport . </p>
+
+#	NEW	hubs	........ / airline	// <p> <strong> Air Freight NZ </strong> is a <a> cargo airline </a> based in <a> Auckland </a> , <a> New Zealand </a> .
+
+#	NEW	hubs	........ / Joan	// Its main base was moved from <a> Son Sant Joan Airport </a> , Palma de Mallorca to <a> Madrid Barajas Airport </a> . </p>
+
+#	NEW	hubs	........ / Brazil	// <p> According to the <a> National Civil Aviation Agency of Brazil </a> ( ANAC ) , between January and December 2009 , Rico had 0 . 01% of the domestic <a> market share </a> in terms of passengers per kilometre flown .
+
+#	NEW	hubs	........ / Investimentos	// <p> The airline was established in 2001 and is wholly owned by GVA-Investimentos , SARL . </p>
+
+#	NEW	hubs	........ / the	// Although the crash site was only about 2500 metres from the airport , no one was aware of the disaster .
+
+#	NEW	hubs	........ / Orlando	// Its main base is <a> Orlando International Airport </a> .
+
+#	NEW	hubs	........ / Perdanakusuma	// The aircraft was able to glide far enough to exit the ash cloud , and all engines were restarted ( although one failed again soon after ) , allowing the aircraft to land safely at <a> Halim Perdanakusuma Airport </a> , Jakarta ' s airport . </p>
+
+#	NEW	hubs	........ / airline	// <p> <strong> Tasair </strong> is an <a> airline </a> based in <a> Hobart </a> and <a> Devonport </a> , <a> Australia </a> .
+
+#	NEW	hubs	........ / Coand&#	// Its main base is <a> Henri Coand&#x0103 ; International Airport </a> , <a> Bucharest </a> . </p>
+
+#	NEW	hubs	........ / Pettirossi	// Its flights operate from <a> Silvio Pettirossi International Airport </a> in Asunci&#x00f3 ; n . </p>
+
+#	NEW	hubs	........ / Miami	// Its main base is Miami International Airport . </p>
+
+#	NEW	hubs	........ / airlines .	// Status has no specific requirements ; membership is based solely on the frequent flyer programs of individual member airlines . </p>
+
+#	NEW	hubs	........ / Manaus	// In 2002 TAVAJ moved its base again , this time to <a> Manaus </a> .
+
+#	NEW	hubs	........ / Brazil	// <p> According to the <a> National Civil Aviation Agency of Brazil </a> ( ANAC ) , between January and December 2009 , Trip had 1 . 50% of the domestic <a> market share </a> in terms of passengers per kilometre flown .
+

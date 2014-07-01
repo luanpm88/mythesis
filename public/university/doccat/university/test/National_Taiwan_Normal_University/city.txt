@@ -1,6 +1,0 @@
-<li>Graduate Institute of Sinology Studies*</li>
-<li>Graduate Institute of Management*</li>
-<h3>College of Technology</h3>
-<li>Technology Application and Human Resource Development</li>
-<li>Institute of Applied Electronics Technology*</li>
-<li>Mechatronic Technology</li>

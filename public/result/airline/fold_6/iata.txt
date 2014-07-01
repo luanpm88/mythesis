@@ -1,0 +1,83 @@
+Found: 30
+Found Not Null: 5
+Correct: 0
+Wrong: 5
+Total: 9
+precision: 0.0
+recall: 0.0
+
+
+
+#	NEW	iata	........ / European	// <p> On 5 August 2009 , it was announced that <a> Iraqi Airways </a> , <a> Iraq </a> ' s national airline , had signed a contract to lease three <a> Airbus A320-232 </a> of Blue Wings , which were used on European routes . </p>
+
+#	NEW	iata	........ / x016b ;	// It operated passenger services as <a> All Nippon Airways </a> ( ANA ) flights from its main base is <a> Ch&#x016b ; bu Centrair International Airport </a> near <a> Nagoya </a> .
+
+2	FALSE	East-West Airlines (Australia)::iata	ew / by	
+It continued to operate as a separate entity until 1993 when its operations were merged into those already established by Ansett . </p>
+
+#	NEW	iata	........ / are	// Livingston flight are operated with <a> EuroAtlantic Airways </a> Boeing 767 aircraft .
+
+#	NEW	iata	........ / an	// In 2000 the company ceased to be an independent carrier and became an operator .
+
+#	NEW	iata	........ / numbers	// <p> Notably , until 2009 Continental Airlines still used Flight 11 , on the Paris-Houston route ; flight numbers in the USA involved in fatal accidents are more commonly retired .
+
+#	NEW	iata	........ / Middle	// The airline president , Alfiya Galiaskarova , plans to establish Anikay Air as a major operator from Kyrgyzstan to <a> CIS </a> and the <a> Middle East </a> . </p>
+
+#	NEW	iata	........ / be	// Three of the aircraft will be operated for ad hoc charter missions as well as private flights for the owners , whereas the fourth will be operated privately .
+
+#	NEW	iata	........ / It	// It also operates air taxi and air ambulance services .
+
+#	NEW	iata	........ / it	// The airline was founded in 2002 and ceased its operations in 2004 when it was merged into <a> SN Brussels Airlines </a> . </p>
+
+10	FALSE	Isleña Airlines::iata	wc / It	
+It operates scheduled and charter passenger flights to <a> Miami </a> and to destinations in Honduras and the <a> Cayman Islands </a> as part of the <a> TACA </a> regional airline system ( isle&#x00f1 ; a means islander ) .
+
+11	FALSE	Windrose Air::iata	- / an	
+<p> <strong> Windrose Air </strong> is an <a> airline </a> based in <a> Sch&#x00f6 ; nefeld </a> , <a> Germany </a> operating business and private charter services , cargo and air ambulance services .
+
+#	NEW	iata	........ / It	// It was established and started operations in 1991 and operates scheduled passenger transport , charter and air taxi services .
+
+#	NEW	iata	........ / an	// <p> <strong> Aero Services Executive </strong> is an <a> airline </a> company based in <a> France </a> .
+
+#	NEW	iata	........ / at	// <p> <strong> Aviator Airways </strong> is an <a> airline </a> based at <a> Athens International Airport </a> in <a> Greece </a> .
+
+#	NEW	iata	........ / an	// <p> <strong> Trans Island Air </strong> is an <a> airline </a> based in <a> Christ Church </a> in <a> Barbados </a> operating charters throughout the Caribbean .
+
+#	NEW	iata	........ / It	// It started operations in September 1979 .
+
+#	NEW	iata	........ / an	// <p> <strong> Metropolis </strong> ( Metropolis Noord 1 BV ) is an <a> airline </a> based in the <a> Netherlands </a> . </p>
+
+#	NEW	iata	........ / January	// <p> As of January 2010 , Air Turks and Caicos operates scheduled flights to the following destinations within the <a> Caribbean </a> : </p>
+
+#	NEW	iata	........ / January	// <p> The airline was established on 1 January 1989 and started services in June 1990 .
+
+#	NEW	iata	........ / but	// <p> The airline was established in 1980 as <strong> Interot Airways </strong> , but started revenue operations only in 1986 with flights from Augsburg to <a> D&#x00fc ; sseldorf </a> .
+
+#	NEW	iata	........ / February	// <p> The airline was established and started operations on 23 February 1995 .
+
+22	FALSE	Skytrans Airlines::iata	q6 / by	
+<p> In December 2006 , the airline was acquired from its founders by Australian Aviation Holdings , which also owns <a> Queensland Regional Airlines </a> and <a> Inland Pacific Air </a> .
+
+#	NEW	iata	........ / It	// It also operates regular domestic flights from Moscow and international charter passenger and cargo services . </p>
+
+#	NEW	iata	........ / ( at	// <p> Airstars Airways operates freight services to the following international scheduled destinations ( at January 2005 ) : <a> Shijiazhuang </a> and <a> Tianjin </a> . </p>
+
+#	NEW	iata	........ / an	// <p> <strong> Centre-Avia Airlines </strong> is an <a> airline </a> based in <a> Moscow </a> , <a> Russia </a> , operating domestic and international services .
+
+#	NEW	iata	........ / It	// It operates scheduled services from Moscow and charter flights from <a> Kazan </a> , as well as VIP and business aviation services .
+
+27	FALSE	UTair Express::iata	- / by	
+It is planned by <a> UTair Aviation </a> as a new regional division based on and replacing , its subsidiary <a> Komiinteravia </a> . </p>
+
+#	NEW	iata	........ / by	// SpiceJet was voted as the best low-cost airline in <a> South Asia </a> and <a> Central Asia </a> region by <a> Skytrax </a> in 2007 . </p>
+
+#	NEW	iata	........ / It	// It operates scheduled and chartered flights and <a> aircraft lease </a> services .
+
+#	null	iata	- / ..........
+
+#	null	iata	ym / ..........
+
+#	null	iata	- / ..........
+
+#	null	iata	ag / ..........
+

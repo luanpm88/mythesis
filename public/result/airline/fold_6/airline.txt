@@ -1,0 +1,117 @@
+Found: 30
+Found Not Null: 23
+Correct: 21
+Wrong: 2
+Total: 35
+precision: 0.9130434782608695
+recall: 0.6
+
+
+
+0	TRUE	Blue Wings::airline	blue wings / Germany	
+<p> <strong> Blue Wings AG </strong> was a <a> charter airline </a> based in <a> Germany </a> , focussing on serving <a> Turkey </a> , the <a> Middle East </a> and <a> Russia </a> from its base at <a> D&#x00fc ; sseldorf International Airport </a> ; the headquarters were in <a> Bocholt , Germany </a> . </p>
+
+#	NEW	airline	........ / NRT	// <p> It also operated the <a> Sendai Airport </a> ( <strong> SDJ </strong> ) , near <a> Sendai , Miyagi </a> to <a> Narita International Airport </a> ( <strong> NRT </strong> ) route . </p>
+
+2	TRUE	Compass Airlines (Australia)::airline	compass airlines / early	
+<p> <strong> Compass Airlines </strong> operated in <a> Australia </a> for two brief periods in the early 1990s .
+
+3	TRUE	East-West Airlines (Australia)::airline	east-west airlines / New	
+<p> <strong> East-West Airlines </strong> was an <a> Australia </a> n <a> regional airline </a> founded in <a> Tamworth , New South Wales </a> in 1947 .
+
+4	FALSE	Manchukuo National Airways::airline	manchukuo national airways / Air Transport Company	
+It is sometimes referred to as <strong> Manchukuo Air Transport Company </strong> . </p>
+
+5	TRUE	Air Contractors::airline	air contractors / Air	
+<p> <strong> Air Contractors ( Ireland ) Limited </strong> is a freight <a> airline </a> based in <a> Dublin </a> , <a> Ireland </a> .
+
+6	TRUE	Alpi Eagles::airline	alpi eagles / di	
+<p> <strong> Alpi Eagles SpA </strong> was an <a> airline </a> headquartered in <a> Sant ' Angelo di Piove di Sacco </a> , <a> Italy </a> .
+
+7	TRUE	Maldivian Air Taxi::airline	maldivian air taxi / northern	
+<p> Based on the northern side of Male&#x2019 ; International Airport , Maldivian Air Taxi currently has a fleet of 24 Twin Otters , servicing 40 of the 90 resorts in the Maldives .
+
+8	TRUE	Kato Airline::airline	kato air / Norway	
+<p> <strong> Kato Airline </strong> was an <a> airline </a> based in <a> Evenes </a> , <a> Norway </a> .
+
+#	NEW	airline	........ / Flight 11	// <p> Author <a> Arthur Hailey </a> based a subplot of his 1968 novel <em> <a> Airport </a> </em> on the Flight 11 bombing . </p>
+
+10	TRUE	Anikay Air::airline	anikay air / Air	
+<p> <strong> Anikay Air </strong> Company is a <a> charter airline </a> based in <a> Bishkek </a> in <a> Kyrgyzstan </a> .
+
+11	TRUE	Elbe Air::airline	elbe air / Air	
+<p> <strong> Elbe Air </strong> ( Elbe Air Lufttransport GmbH ) was an <a> airline </a> based in <a> Germany </a> . </p>
+
+12	TRUE	Birdy Airlines::airline	birdy airlines / offered	
+<p> <strong> Birdy Airlines </strong> was an <a> airline </a> based in <a> Belgium </a> that offered long-haul flights using a fleet of three <a> Airbus A330-300 </a> aircraft .
+
+#	NEW	airline	........ / a Airlines	// <p> <strong> Isle&#x00f1 ; a Airlines </strong> ( Isle&#x00f1 ; a de Inversiones SA de CV ) is an <a> airline </a> based in <a> La Ceiba </a> , <a> Honduras </a> .
+
+14	TRUE	Windrose Air::airline	windrose air / operating	
+<p> <strong> Windrose Air </strong> is an <a> airline </a> based in <a> Sch&#x00f6 ; nefeld </a> , <a> Germany </a> operating business and private charter services , cargo and air ambulance services .
+
+15	TRUE	Aero Services Executive::airline	aero services executive / France	
+<p> <strong> Aero Services Executive </strong> is an <a> airline </a> company based in <a> France </a> .
+
+#	NEW	airline	........ / France	// <p> <strong> Finist ' air </strong> is an <a> airline </a> based at <a> Brest Guipavas Airport </a> in <a> France </a> .
+
+17	TRUE	Stuttgarter Flugdienst::airline	stuttgarter flugdienst / Airport	
+<p> <strong> Stuttgarter Flugdienst </strong> , commonly abbreviated <strong> SFD </strong> , is an <a> airline </a> based in <a> Stuttgart </a> , <a> Germany </a> , operating <a> corporate </a> charter flights out of <a> Stuttgart Airport </a> . </p>
+
+18	TRUE	Aviator Airways::airline	aviator airways / Aviator Airways	
+<p> <strong> Aviator Airways </strong> is an <a> airline </a> based at <a> Athens International Airport </a> in <a> Greece </a> .
+
+19	TRUE	Trans Island Air 2000::airline	trans island air / operating	
+<p> <strong> Trans Island Air </strong> is an <a> airline </a> based in <a> Christ Church </a> in <a> Barbados </a> operating charters throughout the Caribbean .
+
+20	TRUE	Air Turks and Caicos::airline	air turks and caicos / Interisland Airways	
+<p> <strong> Air Turks and Caicos </strong> ( formerly known as <strong> Interisland Airways </strong> ) is a passenger <a> airline </a> based on the <a> Turks and Caicos Islands </a> .
+
+21	FALSE	Air Corsica::airline	air corsica / x00e9 ;	
+The airline is owned by Collectivit&#x00e9 ; Territoriale de Corse ( 60 . 37% ) ,
+
+22	TRUE	Augsburg Airways::airline	augsburg air / Germany	
+<p> <strong> Augsburg Airways <a> GmbH </a> </strong> is a regional <a> airline </a> based in <a> Hallbergmoos </a> , <a> Germany </a> .
+
+#	NEW	airline	........ / Australian airline	// <p> <strong> Skytrans </strong> is an Australian airline and air charter business with bases in Cairns , Townsville , Darwin , Brisbane and Perth .
+
+24	TRUE	Continental Airways::airline	continental airways / Continental Airways	
+<p> <strong> Continental Airways </strong> was a scheduled passenger <a> airline </a> based in <a> Moscow </a> , <a> Russia </a> .
+
+25	TRUE	Centre-Avia::airline	centre-avia airlines / operating	
+<p> <strong> Centre-Avia Airlines </strong> is an <a> airline </a> based in <a> Moscow </a> , <a> Russia </a> , operating domestic and international services .
+
+26	TRUE	Karat (airline)::airline	karat / Air Company	
+<p> The airline was established in 1993 as <strong> Karat Air Company </strong> ( formerly known as <strong> Rikor </strong> ) .
+
+27	TRUE	UTair Express::airline	utair express / Express	
+<p> <strong> UTair Express </strong> is an <a> airline </a> based in <a> Russia </a> .
+
+#	NEW	airline	........ / ATR 42	// <p> <strong> <a> ATR 42 </a> </strong> </p>
+
+#	NEW	airline	........ / Germany	// <strong> Germania Fluggesellschaft mbH </strong> , operating as <strong> Germania </strong> is an <a> airline </a> with its headquarters in <a> Berlin </a> , <a> Germany </a> .
+
+#	null	airline	spicejet / ..........
+
+#	null	airline	usa jet airlines / ..........
+
+#	null	airline	avies / ..........
+
+#	null	airline	copenhagen air taxi / ..........
+
+#	null	airline	eirjet / ..........
+
+#	null	airline	italy first / ..........
+
+#	null	airline	livingston / ..........
+
+#	null	airline	medavia / ..........
+
+#	null	airline	eurolot / ..........
+
+#	null	airline	euroatlantic airways / ..........
+
+#	null	airline	gazpromavia / ..........
+
+#	null	airline	sibaviatrans / ..........
+

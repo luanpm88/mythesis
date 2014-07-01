@@ -1,7 +1,0 @@
-<li>Summers Social Science Building</li>
-<li>McCormick Science Center</li>
-<li><a>Carl Landry</a>  - NBA, Houston Rockets</li>
-<li><a>Curtis Shake</a>  - jurist and politician</li>
-<li><a>Eric Williams (basketball)</a> - NBA, Charlotte Bobcats</li>
-<li><a>Mario Joyner</a> - stand-up comedian &amp; actor</li>
-<li><a>Shawn Marion</a> - NBA, Dallas Mavericks</li>

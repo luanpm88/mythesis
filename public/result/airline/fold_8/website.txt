@@ -1,0 +1,44 @@
+Found: 18
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	website	........ / It is the national airline and operates scheduled regional and intercontinental services .	// It is the national airline and operates scheduled regional and intercontinental services .
+
+#	NEW	website	........ / His wife , Joan Smith-Olsen , acted as Chief Flight Attendant and Head of Inflight Operations .	// His wife , Joan Smith-Olsen , acted as Chief Flight Attendant and Head of Inflight Operations .
+
+#	NEW	website	........ / It operated domestic and inter island scheduled flights and charter services .	// It operated domestic and inter island scheduled flights and charter services .
+
+#	NEW	website	........ / It operated regional scheduled services and charter flights on behalf of Alitalia .	// It operated regional scheduled services and charter flights on behalf of Alitalia .
+
+#	NEW	website	........ / The remaining three planes are scheduled to join Thai AirAsia&#x2019 ; s operations later part of year	// The remaining three planes are scheduled to join Thai AirAsia&#x2019 ; s operations later part of year 2009 .
+
+#	NEW	website	........ / Britannia formed a wholly owned subsidiary , Britannia GmbH , based in Germany to operate long and short-haul flights from airports in Germany , Switzerland and Austria for German tour operators , but this was closed in March	// <p> In 1997 Britannia formed a wholly owned subsidiary , Britannia GmbH , based in Germany to operate long and short-haul flights from airports in Germany , Switzerland and Austria for German tour operators , but this was closed in March 2001 . </p>
+
+#	NEW	website	........ / It started operations with scheduled domestic and international charter flights , as scheduled international flights were not then permitted under Portuguese legislation .	// It started operations with scheduled domestic and international charter flights , as scheduled international flights were not then permitted under Portuguese legislation .
+
+#	NEW	website	........ / the controller informed the flight that it was abeam Palembang .	// At 16 : 10 the controller informed the flight that it was abeam Palembang .
+
+#	NEW	website	........ / Kosova Airlines offers flights with these airlines from the following places :	// Kosova Airlines offers flights with these airlines from the following places : </p>
+
+#	NEW	website	........ / The flight crew ' s delayed recognition and correction of the high descent rate were probably associated with their reliance upon visual cues rather than on flight instrument reference .	// The flight crew ' s delayed recognition and correction of the high descent rate were probably associated with their reliance upon visual cues rather than on flight instrument reference .
+
+#	NEW	website	........ / It operated scheduled passenger services throughout Queensland from major regional locations , as well as regular and ad hoc charters for the minerals industry in Queensland .	// It operated scheduled passenger services throughout Queensland from major regional locations , as well as regular and ad hoc charters for the minerals industry in Queensland .
+
+#	NEW	website	........ / It was the second air disaster involving PRC aircraft in less than a month	// It was the second air disaster involving PRC aircraft in less than a month , after the <a> Air China Flight 129 </a> disaster on April 15 . </p>
+
+#	NEW	website	........ / It operated domestic scheduled services and regional charter flights .	// It operated domestic scheduled services and regional charter flights .
+
+#	NEW	website	........ / the first international scheduled service was started between Los Angeles and La Paz	// In 1989 the first international scheduled service was started between Los Angeles and La Paz , <a> Loreto </a> and <a> Los Cabos </a> .
+
+#	NEW	website	........ / It operates regional scheduled flights .	// It operates regional scheduled flights .
+
+#	NEW	website	........ / and on its first day of operations offered all passengers free flights .	// <p> Debonair was founded in 1996 by <a> Franco Mancassola </a> and on its first day of operations offered all passengers free flights .
+
+#	NEW	website	........ / http : / /www . worldair . co / new /	// [ <a> http : / /www . worldair . co / new / 20050310 . html </a> ] </p>
+
+#	NEW	website	........ / It operated almost 120 flights a day .	// It operated almost 120 flights a day .
+

@@ -1,6 +1,0 @@
-<h3>Mechanical <a>engineering</a></h3>
-<li><a>Civil engineering</a> (<a>structural engineering</a>, <a>construction engineering</a>)</li>
-<li><a>Water resources engineering</a></li>
-<li><a>Transportation engineering</a></li>
-<li><a>Environmental engineering</a></li>
-<li><a>Sanitary engineering</a></li>

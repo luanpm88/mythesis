@@ -1,3 +1,0 @@
-<li>Physical Education College</li>
-<li>Adult Education College</li>
-<li>College of Central Agricultural</li>

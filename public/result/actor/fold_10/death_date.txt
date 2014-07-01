@@ -1,0 +1,52 @@
+Found: 22
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	death_date	........ / January 25 , 1990 )	// <p> <strong> Ava Lavinia Gardner </strong> ( December 24 , 1922 &ndash ; January 25 , 1990 ) was an American actress .
+
+#	NEW	death_date	........ / 1987 )	// <p> <strong> Khwaja Ahmad Abbas </strong> ( ) ( 7 June 1914 &#x2013 ; 1 June 1987 ) , popularly known as <strong> K .
+
+#	NEW	death_date	........ / 32	// Cage , at age 32 , became the fifth youngest actor ever to win the <a> Academy Award for Best Actor </a> for his performance in <em> <a> Leaving Las Vegas </a> </em> . </p>
+
+#	NEW	death_date	........ / is	// <p> <strong> Sir Ridley Scott </strong> ( born 30 November 1937 ) is an English film director and producer known for his stylish visuals and an obsession for detail .
+
+#	NEW	death_date	........ / musician	// <p> <strong> Robert Anthony Rodr&#x00ed ; guez </strong> ( born June 20 , 1968 ) is an American <a> film director </a> , <a> screenwriter </a> , <a> producer </a> , <a> cinematographer </a> , <a> editor </a> and <a> musician </a> .
+
+#	NEW	death_date	........ / April 8 , 1966 )	// <p> <strong> Robin Gayle Wright </strong> ( born April 8 , 1966 ) is an American actress .
+
+#	NEW	death_date	........ / January 14 , 1963 )	// <p> <strong> Steven Andrew Soderbergh </strong> ( ; born January 14 , 1963 ) is an American film producer , screenwriter , <a> cinematographer </a> , editor , actor , and an <a> Academy Award </a> -winning film director .
+
+#	NEW	death_date	........ / is	// <p> <strong> Sophie Marceau </strong> ( ; born 17 November 1966 ) is a French actress , who has appeared in 35 films .
+
+#	NEW	death_date	........ / November 11 , 1964 )	// <p> <strong> Calista Kay Flockhart </strong> ( born November 11 , 1964 ) is an American actor who is primarily recognized for her work in television .
+
+#	NEW	death_date	........ / singer	// <p> <strong> Jerry Lewis </strong> ( born <strong> Joseph Levitch </strong> , March 16 , 1926 ) is an <a> American </a> <a> comedian </a> , <a> actor </a> , <a> film producer </a> , <a> writer </a> , <a> film director </a> and <a> singer </a> .
+
+#	NEW	death_date	........ / screenwriter	// <p> <strong> Robert Jonathan Demme </strong> ( born February 22 , 1944 ) is an <a> American </a> <a> filmmaker </a> , <a> producer </a> and <a> screenwriter </a> .
+
+#	NEW	death_date	........ / best	// <p> <strong> James Maury </strong> &quot ; <strong> Jim </strong> &quot ; <strong> Henson </strong> ( September 24 , 1936 &#x2013 ; May 16 , 1990 ) was an <a> American </a> <a> puppeteer </a> best known as the creator of <a> The Muppets </a> .
+
+#	NEW	death_date	........ / July 6 , 2002 )	// <p> <strong> John Michael Frankenheimer </strong> ( February 19 , 1930 &ndash ; July 6 , 2002 ) was an award-winning American film and television director known for social dramas .
+
+#	NEW	death_date	........ / October 28 , 1967 )	// <p> <strong> Julia Fiona Roberts </strong> ( born October 28 , 1967 ) is an American actress .
+
+#	NEW	death_date	........ / s .	// <p> <strong> Godfrey Reggio </strong> ( born March 29 , 1940 ) is an American <a> director </a> of experimental <a> documentary film </a> s . </p>
+
+#	NEW	death_date	........ / 15 , 1963 )	// <p> <strong> Helen Elizabeth Hunt </strong> ( born June 15 , 1963 ) is an American actress , <a> film director </a> , and <a> screenwriter </a> .
+
+#	NEW	death_date	........ / August 25 , 1967 )	// <p> <strong> Paul Muni </strong> ( September 22 , 1895 &#x2013 ; August 25 , 1967 ) was an <a> Austrian-Hungarian </a> -born American stage and film actor .
+
+#	NEW	death_date	........ / with	// <p> Benigni began North American presentations of <em> TuttoDante </em> with an announcement that he learned English to bring the gift of Dante ' s work to English speakers .
+
+#	NEW	death_date	........ / March 22 , 1976 )	// <p> <strong> Laura Jeanne Reese Witherspoon </strong> ( born March 22 , 1976 ) , better known as <strong> Reese Witherspoon </strong> , is an American actress and film producer .
+
+#	NEW	death_date	........ / political	// <p> <strong> Tony Robinson </strong> ( born 15 August 1946 ) is an <a> English </a> <a> actor </a> , <a> comedian </a> , <a> author </a> , <a> broadcaster </a> and <a> political campaigner </a> .
+
+#	NEW	death_date	........ / November 15 , 1954 )	// <p> <strong> Lionel Barrymore </strong> ( April 28 , 1878 &ndash ; November 15 , 1954 ) was an American actor of stage , screen and radio .
+
+#	NEW	death_date	........ / 1969 )	// <p> <strong> Boris Karloff </strong> ( 23 November 1887 &#x2013 ; 2 February 1969 ) , whose real name was <strong> William Henry Pratt </strong> , was an <a> English </a> -born actor who emigrated to <a> Canada </a> in 1909 .
+

@@ -1,0 +1,84 @@
+Found: 20
+Found Not Null: 8
+Correct: 7
+Wrong: 1
+Total: 21
+precision: 0.875
+recall: 0.3333333333333333
+
+
+
+#	NEW	iata	........ / It	// It operated domestic services from its main base at Fukuoka Airport .
+
+1	TRUE	US Airways Shuttle::iata	us / US	
+<p> <strong> US Airways Shuttle </strong> is the brand name for <a> US Airways </a> ' hourly <a> air shuttle </a> service operating in the <a> Northeastern United States </a> .
+
+#	NEW	iata	........ / an	// <p> <strong> DI Air </strong> is an <a> airline </a> based in <a> Podgorica </a> , <a> Montenegro </a> .
+
+#	NEW	iata	........ / an	// With its head office in <a> Grand Cayman </a> , it operates mainly as an international and domestic scheduled passenger carrier , with cargo services available on all routes and a limited charter service offered .
+
+#	NEW	iata	........ / by	// <p> <strong> EgyptAir Flight 648 </strong> was a <a> Boeing 737-200 </a> airliner registered SU-AYH <a> hijacked </a> in 1985 by the terrorist <a> Abu Nidal Organization </a> .
+
+5	TRUE	LAN Airlines::iata	la / an	
+<p> <strong> LAN Airlines S . A . </strong> is an <a> airline </a> based in <a> Santiago , Chile </a> .
+
+#	NEW	iata	........ / It	// It operates scheduled domestic , regional , and international passenger and freight services .
+
+7	TRUE	SilkAir::iata	mi / an	
+<p> <strong> SilkAir ( Singapore ) Private Limited </strong> is an <a> airline </a> based in <a> Singapore </a> .
+
+#	NEW	iata	........ / an	// <p> <strong> Song , LLC </strong> was a <a> low-cost &quot ; airline </a> within an airline&quot ; brand owned and operated by <a> Delta Air Lines </a> .
+
+9	TRUE	Ethiopian Airlines::iata	et / an	
+<p> <strong> Ethiopian Airlines </strong> ( in short ) is an <a> airline </a> headquartered on the grounds of <a> Bole International Airport </a> in <a> Addis Ababa </a> , <a> Ethiopia </a> .
+
+#	NEW	iata	........ / an	// <p> <strong> Air Sinai </strong> ( <em> </em> ) is an <a> airline </a> based in <a> Cairo </a> , <a> Egypt </a> .
+
+11	TRUE	S7 Airlines::iata	s7 / an	
+S7 became a member of <a> Oneworld </a> on 15 November 2010 as the first <a> Russian </a> <a> airline </a> to join <strong> one </strong> world and second to join an alliance , after <a> Aeroflot </a> entering <a> SkyTeam </a> in 2006 . </p>
+
+12	TRUE	Interflug::iata	if / it	
+<p> [ [ File : Iljuschin Il-14 Interflug DM-SAB 02 . JPG | thumb | 200px | An Interflug [ [ Ilyushin Il-14 ] ] ] ] [ [ File : Hans-Grade-Museum 03 . jpg | thumb | 200px | An Interflug [ [ Ilyushin Il-18 ] ] ] ] [ [ File : Baade-152-2 . png | thumb | 200px | Sketch of the [ [ Baade 152 ] ] as it would have appeared in service with Interflug ] ] <strong> Interflug </strong> ( <strong> Interflug GmbH </strong> , <strong> Gesellschaft f&#x00fc ; r Internationalen Flugverkehr mbH </strong> ) was the state <a> airline </a> of <a> East Germany </a> from 1963 to 1991 , when it ceased operations following <a> German reunification </a> .
+
+#	NEW	iata	........ / an	// <p> <strong> JetLite </strong> , formerly <strong> Air Sahara </strong> , is an <a> airline </a> based in <a> Mumbai </a> , <a> India </a> . </p>
+
+#	NEW	iata	........ / an	// <p> <strong> CityJet Limited </strong> is an Irish regional airline headquartered in Swords , <a> County Dublin </a> , <a> Ireland </a> .
+
+#	NEW	iata	........ / an	// <p> <strong> Air Srpska </strong> was an <a> airline </a> of <a> Srpska </a> , an entity of the <a> State of Bosnia and Herzegovina </a> , which was operational between 1999 and 2003 . </p>
+
+16	TRUE	Royal Air Maroc::iata	at / It	
+It operates scheduled international flights from Morocco to Africa , Asia , Europe , and North America and a domestic and charter network , ( including <a> Hajj </a> flights ) .
+
+17	FALSE	Mandarin Airlines::iata	ae / an	
+<p> <strong> Mandarin Airlines , Limited </strong> ( &#x83ef ; &#x4fe1 ; &#x822a ; &#x7a7a ; ; <a> pinyin </a> : Hu&#x00e1 ; x&#x00ec ; n H&#x00e1 ; ngk&#x014d ; ng ) is an <a> airline </a> based in <a> Songshan District </a> , <a> Taipei </a> , <a> Taiwan </a> .
+
+#	NEW	iata	........ / by	// <p> <strong> Blue1 <a> Oy </a> </strong> is a Finnish airline owned by <a> SAS Group </a> and a full member of <a> Star Alliance </a> , the world&#x2019 ; s largest airline alliance , with a hub at <a> Helsinki-Vantaa Airport </a> .
+
+#	NEW	iata	........ / an	// <p> <strong> Atlantic Coast Airlines </strong> was an <a> airline </a> based in the <a> United States </a> owned by <a> Atlantic Coast Holdings , Inc . </a> .
+
+#	null	iata	tx / ..........
+
+#	null	iata	ve / ..........
+
+#	null	iata	tu / ..........
+
+#	null	iata	gf / ..........
+
+#	null	iata	br / ..........
+
+#	null	iata	- / ..........
+
+#	null	iata	jo / ..........
+
+#	null	iata	ey / ..........
+
+#	null	iata	ti / ..........
+
+#	null	iata	sg / ..........
+
+#	null	iata	bw / ..........
+
+#	null	iata	wr / ..........
+
+#	null	iata	hy / ..........
+

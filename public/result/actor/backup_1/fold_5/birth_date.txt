@@ -1,0 +1,51 @@
+Found: 19
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 2
+recall: 0.0
+
+
+
+#	NEW	birth_date	........ / 1925 , <a>	// In 1925 , <a> Hugh Harman </a> drew some sketches of mice around a photograph of Walt Disney .
+
+#	NEW	birth_date	........ / 22 , 000	// On March 22 , he filed a US$500 , 000 lawsuit against the city of Los Angeles .
+
+#	NEW	birth_date	........ / ( 1963 )	// He is best known for his films <em> <a> The Leopard </a> </em> ( 1963 ) and <em> <a> Death in Venice </a> </em> ( 1971 ) .
+
+#	NEW	birth_date	........ / ( October 6 , 1906 & 14 ,	// <p> <strong> Janet Gaynor </strong> ( October 6 , 1906 &ndash ; September 14 , 1984 ) was an American actress .
+
+#	NEW	birth_date	........ / November 11 , 1974 )	// <p> <strong> Leonardo Wilhelm DiCaprio </strong> ( ; born November 11 , 1974 ) is an American actor and <a> film producer </a> .
+
+#	NEW	birth_date	........ / Unable	// <p> Unable ( despite the best efforts of <a> Richard Schechner </a> ) to secure resources for his projected research in Manhattan , in 1983 Grotowski relocated to UC Irvine where he began a course of work known as ' Objective Drama ' .
+
+#	NEW	birth_date	........ / Baron	// <p> Baron Cohen married Australian actress <a> Isla Fisher </a> on 15 March 2010 .
+
+#	NEW	birth_date	........ / ]	// Drummond ( Tracy , left ) and Matthew Harrison Brady ( [ [ Fredric March | March ] ] , right ) in <em> <a> Inherit the Wind </a> </em> ] ] Tracy performed in stock in Michigan , Canada , and Ohio for several years .
+
+#	NEW	birth_date	........ / ( December 19 , 1946 & 16 ,	// <p> <strong> Robert Urich </strong> ( December 19 , 1946 &ndash ; April 16 , 2002 ) was an American actor .
+
+#	NEW	birth_date	........ / Hartnell	// <p> Hartnell was married to Heather McIntyre from 9 May 1929 until his death .
+
+#	NEW	birth_date	........ / Troughton	// <p> Troughton was married three times and he is survived by his second girlfriend Ethel Margaret ' Bunny ' Troughton .
+
+#	NEW	birth_date	........ / May 7 , 1984 ) .	// The couple had one son , John Cody Carpenter ( born May 7 , 1984 ) . </p>
+
+#	NEW	birth_date	........ / May 2007 , she	// In May 2007 , she was granted a 24-hour alcohol and entertainment licence , under new UK regulations .
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Margaret Mary Emily Anne Hyra </strong> ( born November 19 , 1961 ) , professionally known as <strong> Meg Ryan </strong> , is an American actress and producer .
+
+#	NEW	birth_date	........ / ( September 22 , 1895 &# 25 ,	// <p> <strong> Paul Muni </strong> ( September 22 , 1895 &#x2013 ; August 25 , 1967 ) was an <a> Austrian-Hungarian </a> -born American stage and film actor .
+
+#	NEW	birth_date	........ / quot ;	// <p> &quot ; You are the best and the brightest .
+
+#	NEW	birth_date	........ / May 26 , 2009	// Following his U . S . premiere in San Francsico on May 26 , 2009 , Benigni was feted at a special reception held by the <a> National Italian American Foundation </a> ( NIAF ) in his honor . </p>
+
+#	NEW	birth_date	........ / May	// <p> : <em> May the Lord bless and keep you and may the Lord cause his countenance to shine upon you .
+
+#	NEW	birth_date	........ / a>	// <p> <strong> Majel Barrett-Roddenberry </strong> ( born <strong> Majel Leigh Hudec </strong> ; <a> William Shatner </a> corroborated this in <em> Star Trek Memories </em> , and added that female viewers at test screenings hated the character as well .
+
+#	null	birth_date	21 october 1926 / ..........
+
+#	null	birth_date	april 8, 1914 / ..........
+

@@ -1,0 +1,91 @@
+Found: 29
+Found Not Null: 21
+Correct: 19
+Wrong: 2
+Total: 22
+precision: 0.9047619047619048
+recall: 0.8636363636363636
+
+
+
+0	TRUE	Clifton James::name	clifton james / Clifton James	
+<p> <strong> Clifton James </strong> ( born May 29 , 1921 ) is an <a> American </a> <a> actor </a> .
+
+#	NEW	name	........ / Grace Wells	// <p> <strong> Claudia Grace Wells </strong> ( born July 5 , 1966 ) is an Malaysian-born <a> American </a> actress . </p>
+
+2	TRUE	Trace Beaulieu::name	trace beaulieu / Trace Beaulieu	
+<p> <strong> Trace Beaulieu </strong> ( born November 6 , 1958 ) is an <a> American </a> puppeteer , writer , and actor .
+
+#	NEW	name	........ / B movie	// <p> <strong> Samuel Zachary Arkoff </strong> ( June 12 , 1918 &ndash ; September 16 , 2001 ) was an <a> American </a> <a> producer </a> of <a> B movie </a> s . </p>
+
+#	NEW	name	........ / Age : Origins	// <p> <strong> Claudia Lee Black </strong> ( born 11 October 1972 ) is an Australian actress , known for her portrayals of <a> Aeryn Sun </a> in the <a> science fiction </a> <a> television series </a> <em> <a> Farscape </a> </em> , <a> Vala Mal Doran </a> in the science fiction series <em> <a> Stargate SG-1 </a> </em> , <a> Chloe Frazer </a> in <a> Uncharted 2 : Among Thieves </a> , and the witch Morrigan in <em> <a> Dragon Age : Origins </a> </em> . </p>
+
+5	TRUE	Sherilyn Fenn::name	sherilyn fenn / Sherilyn Fenn	
+<p> <strong> Sherilyn Fenn </strong> ( born February 1 , 1965 ) is an American actress .
+
+6	FALSE	Barry Watson (actor)::name	barry watson / Michael Barrett &	
+<p> <strong> Michael Barrett &quot ; Barry&quot ; Watson </strong> ( born April 23 , 1974 ) is an <a> American </a> <a> actor </a> , known for his roles of <a> Dr .
+
+7	FALSE	John Wells (TV producer)::name	john wells / John Marcum	
+<p> <strong> John Marcum Wells </strong> ( born May 28 , 1956 ) is an American <a> theater </a> and <a> television producer </a> , <a> writer </a> and director .
+
+8	TRUE	Jonathan Firth::name	jonathan firth / Jonathan Firth	
+<p> <strong> Jonathan Firth </strong> ( born 6 April 1967 ) is a <a> British </a> <a> actor </a> . </p>
+
+9	TRUE	Patsy Garrett::name	patsy garrett / nosey neighbor &	
+<p> <strong> Patsy Garrett </strong> ( born May 4 , 1921 ; <a> Atlantic City , New Jersey </a> ) is an actress best known for her recurring roles as nosey neighbor &quot ; Mrs .
+
+10	TRUE	Cheryl Hines::name	cheryl hines / Larry David	
+<p> <strong> Cheryl Hines </strong> ( born September 21 , 1965 ) is an <a> America </a> n <a> actress </a> and <a> television director </a> , best known for her role as <a> Larry David </a> ' s wife Cheryl on <a> HBO </a> ' s <em> <a> Curb Your Enthusiasm </a> </em> .
+
+11	TRUE	Mark Williams (actor)::name	mark williams / Mark Williams	
+<p> <strong> Mark Williams </strong> ( born 22 August 1959 ) is an <a> English </a> <a> actor </a> , <a> comedian </a> , <a> screenwriter </a> and presenter .
+
+12	TRUE	Bruce LaBruce::name	bruce labruce / director based	
+<p> <strong> Bruce LaBruce </strong> ( born January 3 , 1964 ) is a <a> Canadian </a> writer , <a> filmmaker </a> , <a> photographer </a> and underground <a> gay porn </a> director based in <a> Toronto </a> , <a> Canada </a> . </p>
+
+13	TRUE	Laura La Plante::name	laura la plante / silent film	
+<p> <strong> Laura La Plante </strong> ( November 1 , 1904 - October 14 , 1996 ) was an <a> American </a> <a> actress </a> , best-known for her roles in <a> silent film </a> s . </p>
+
+14	TRUE	Gary Olsen::name	gary olsen / Gary Olsen	
+<p> <strong> Gary Olsen </strong> ( 3 November 1957&ndash ; 12 September 2000 ) was an <a> English </a> actor .
+
+15	TRUE	Jean Vander Pyl::name	jean vander pyl / television and	
+<p> <strong> Jean Vander Pyl </strong> ( October 11 , 1919 &ndash ; April 10 , 1999 ) was an <a> American </a> actress on radio , television and movies .
+
+16	TRUE	Gerda Nicolson::name	gerda nicolson / television roles.	
+<p> <strong> Gerda Nicolson </strong> , ( 11 November 1937 - 12 June 1992 ) was an <a> Australia </a> n theatre and television actor best known for several long-running television roles . </p>
+
+17	TRUE	Ashley Force Hood::name	ashley force hood / John Force	
+<p> <strong> Ashley Force Hood </strong> ( born November 29 , 1982 ) is a <a> funny car </a> <a> drag racer </a> for <a> John Force Racing </a> .
+
+#	NEW	name	........ / Johnson Jerald	// <p> <strong> Penny Johnson Jerald </strong> ( born March 14 , 1961 ) is an American actress .
+
+19	TRUE	Ben Lyon::name	ben lyon / Century Fox	
+<p> <strong> Ben Lyon </strong> ( February 6 , 1901 &#x2013 ; March 22 , 1979 ) was an American <a> film </a> <a> actor </a> and a <a> 20th Century Fox </a> studio executive . </p>
+
+20	TRUE	Barbara La Marr::name	barbara la marr / American stage	
+<p> <strong> Barbara La Marr </strong> ( July 28 , 1896 &ndash ; January 30 , 1926 ) was an American stage and film actress , cabaret artist and <a> screenwriter </a> . </p>
+
+21	TRUE	Frank Silva::name	frank silva / Twin Peaks	
+<p> ! Commented out because image was deleted : <strong> Frank Silva </strong> ( 31 October 1949-13 September 1995 ) was a <a> Native American </a> <a> set dresser </a> and sometime actor best known for his disturbing performance as the evil spirit <a> Killer BOB </a> in the TV series <em> <a> Twin Peaks </a> </em> . </p>
+
+#	NEW	name	........ / Phalke Award	// <p> Dr . <strong> Daggubati Ramanaidu </strong> ( ) ( born 6 June 1936 ) is an <a> India </a> n <a> movie </a> <a> producer </a> and the <a> Dadasaheb Phalke Award </a> winner for the year 2009 .
+
+#	NEW	name	........ / Christopher Boyd	// <p> <strong> Christopher Boyd Lemmon </strong> ( born January 22 , 1954 ) is an American <a> actor </a> and <a> author </a> . </p>
+
+#	NEW	name	........ / Christopher Bradley &	// <p> <strong> Christopher Bradley &quot ; Chris&quot ; Owens </strong> ( born 7 September 1961 ) is a <a> Canadian </a> <a> actor </a> . </p>
+
+25	TRUE	John Ingle::name	john ingle / General Hospital	
+<p> <strong> John Ingle </strong> ( born May 7 , 1928 ) is an American <a> actor </a> known for his role as scheming patriarch <a> Edward Quartermaine </a> on the <a> ABC </a> daytime drama , <em> <a> General Hospital </a> </em> . </p>
+
+26	TRUE	Lane Smith::name	lane smith / was an	
+<p> <strong> Walter Lane Smith III </strong> ( April 29 , 1936 &ndash ; June 13 , 2005 ) was an <a> American </a> <a> actor </a> .
+
+#	NEW	name	........ / Michael Emmet	// <p> <strong> Michael Emmet Walsh </strong> ( born March 22 , 1935 ) is an <a> American </a> <a> actor </a> who has appeared in over 100 <a> film </a> and <a> television </a> productions . </p>
+
+28	TRUE	Dorothy Dell::name	dorothy dell / an American	
+<p> <strong> Dorothy Dell </strong> ( January 30 , 1915 &ndash ; June 8 , 1934 ) was an American film actress . </p>
+
+#	null	name	edith massey / ..........
+

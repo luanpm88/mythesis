@@ -1,0 +1,97 @@
+Found: 43
+Found Not Null: 1
+Correct: 1
+Wrong: 0
+Total: 1
+precision: 1.0
+recall: 1.0
+
+
+
+#	NEW	logo_size	........ / 2010	// <p> As of November 2010 the Northern Air Cargo fleet includes : </p>
+
+#	NEW	logo_size	........ / 000	// <p> Canadian light aircraft fractional aircraft company <a> OurPlane </a> bid on the entire DayJet fleet of aircraft , offering more than &quot ; $500 , 000 each but less than $1 . 5 million&quot ; each .
+
+#	NEW	logo_size	........ / the	// <p> <strong> United Airlines Flight 629 </strong> , registration N37559 , was a <a> Douglas DC-6 </a> B aircraft , named &quot ; Mainliner Denver , &quot ; which was blown up with a dynamite bomb placed in the checked luggage .
+
+#	NEW	logo_size	........ / 2008 ) :	// <p> The Transwede Airways fleet consisted of the following aircraft ( as of March 2008 ) : </p>
+
+#	NEW	logo_size	........ / N28714	// The aircraft was re-registered N28714 and returned to service .
+
+#	NEW	logo_size	........ / a>	// Previously , the fleet had consisted of <a> Airbus A320 </a> airliners . </p>
+
+#	NEW	logo_size	........ / the	// Despite the aircraft coming down in a residential area , nobody was killed on the ground .
+
+#	NEW	logo_size	........ / 2006 ) :	// <p> The Challenge Aero fleet consists of the following aircraft ( at November 2006 ) : </p>
+
+8	TRUE	Blu-express::logo_size	200 / 2009	
+<p> As of September 2009 , the Blu-express fleet includes : </p>
+
+#	NEW	logo_size	........ / a>	// <p> : <em> Main article : <a> Avianca - Fleet - Current </a> </em> </p>
+
+#	NEW	logo_size	........ / 2010 ) :	// The Arik Air fleet includes the following aircraft ( at December 2010 ) : </p>
+
+#	NEW	logo_size	........ / </	// <p> Shanghai Airlines Cargo serves the following : </p>
+
+#	NEW	logo_size	........ / 2007	// <p> As of May 2007 , the Galaxy Air fleet includes the following : </p>
+
+#	NEW	logo_size	........ / 15	// <p> The airline started operations on 15 May 2006 .
+
+#	NEW	logo_size	........ / a>	// <p> The Bravo Airlines fleet included the following aircraft ( as of 21 September 2008 ) : [ <a> http : / /www . ch-aviation . c / aircraft . php ? search=set&amp ; airline=BRV&amp ; al_op=1 </a> ] </p>
+
+#	NEW	logo_size	........ / and	// The aircraft rolled to the right and impacted the ground .
+
+#	NEW	logo_size	........ / 2008 ) :	// <p> The Omni - Aviacao e Tecnologia fleet includes the following aircraft ( at April 2008 ) : </p>
+
+#	NEW	logo_size	........ / 2005 ) :	// <p> Cosmos Air Cargo ( Transporte A&#x00e9 ; reo de Carga COSMOS ) fleet consists of the following aircraft ( at September 2005 ) : </p>
+
+#	NEW	logo_size	........ / 2006	// <p> As of August <a> 2006 </a> the SADELCA fleet includes : </p>
+
+#	NEW	logo_size	........ / 2006	// <p> The AeroSur fleet consists of the following aircraft ( at September <a> 2006 </a> ) .
+
+#	NEW	logo_size	........ / </	// From 1 April 2009 , the Fagernes PSO contract was lost to <a> DOT LT </a> , and Air Norway terminated those routes . </p>
+
+#	NEW	logo_size	........ / 2009	// <p> On 2 April 2009 the name was again changed to CHC Norway . </p>
+
+#	NEW	logo_size	........ / a>	// The airline started service on October 4 , 1993 , using <a> Fokker F27 </a> turboprop aircraft operated by <a> Empire Airlines </a> while awaiting its own certification .
+
+#	NEW	logo_size	........ / 2010 ) :	// <p> The AIRES fleet consists of the following aircraft ( at 25 July 2010 ) : </p>
+
+#	NEW	logo_size	........ / to	// <p> In December 2009 , the company announced its plans to increase the frequency of flights from the UK to Toronto by 35% .
+
+#	NEW	logo_size	........ / a>	// <p> The ALMA de M&#x00e9 ; xico fleet consisted of the following aircraft ( as of 7 November 2008 ) [ <a> http : / /www . ch-aviation . c / aircraft . php ? search=set&amp ; airline=AMX&amp ; al_op=1 </a> ] : </p>
+
+#	NEW	logo_size	........ / 727	// It then began equipping itself with jet aircraft , starting with two <a> Boeing 727 </a> aircraft .
+
+#	NEW	logo_size	........ / 15	// <p> Manx2 was launched on 11 May 2006 with services starting on 15 July .
+
+#	NEW	logo_size	........ / <p>	// <p> Lamb Air operated many aircraft .
+
+#	NEW	logo_size	........ / 2007	// <p> As of October 2007 the PenAir fleet includes : </p>
+
+#	NEW	logo_size	........ / 2010 ) :	// <p> The fleet of Team Linhas A&#x00e9 ; reas includes the following aircraft configured in all-economy class ( as of December 2010 ) : </p>
+
+#	NEW	logo_size	........ / 10-	// <p> Air Hawaii operated two <a> McDonnell Douglas DC-10-10 </a> aircraft . </p>
+
+#	NEW	logo_size	........ / </	// In August 1995 , the deal with Great Lakes became official and the carrier was rebranded as ' ' ' Arizona Airways Express ' ' ' . </pre>
+
+#	NEW	logo_size	........ / </	// Northwest was subsequently purchased by <a> Delta Air Lines </a> , with Delta to be the surviving brand . </p>
+
+#	NEW	logo_size	........ / 09 :	// <p> On 10 January 1954 , the flight took off at 09 : 34 GMT for the final-stage flight to London .
+
+#	NEW	logo_size	........ / </	// It was later determined that the bomb was powerful enough to have destroyed the aircraft had it worked correctly . </p>
+
+#	NEW	logo_size	........ / a>	// <p> The Royal Wings fleet includes the following aircraft ( as of 10 September 2008 ) [ <a> http : / /ch-aviation . c / aircraft . php ? search=set&amp ; airline=AWS&amp ; al_op=1 </a> ] : </p>
+
+#	NEW	logo_size	........ / 2010 ) :	// <p> The Dutch Antilles Express fleet consists of the following aircraft ( at 25 February 2010 ) : </p>
+
+#	NEW	logo_size	........ / a>	// <p> At some point during the descent , the sink rate alarm went off immediately followed by a loud thump as the plane began shearing off treetops along <a> Peak Mountain </a> ridge .
+
+#	NEW	logo_size	........ / 1999 .	// <p> After running into substantial financial difficulties and maintenance concerns caused by the leaseholders and former aircraft owners including <a> Pegasus Airlines </a> of Turkey and <a> Garuda Indonesia </a> regarding some of the airline ' s leased 737-400 aircraft , the airline shut down on July 6 , 1999 . </p>
+
+#	NEW	logo_size	........ / 2010 ) :	// <p> The fleet of NHT Linhas A&#x00e9 ; reas includes the following aircraft configured in all-economy class ( as of December 2010 ) : </p>
+
+#	NEW	logo_size	........ / </	// The aircraft was destroyed by impact and fire . </p>
+
+#	NEW	logo_size	........ / 2006	// <p> The Colombian Air Cargo fleet consists of the following aircraft ( at September <a> 2006 </a> ) : </p>
+

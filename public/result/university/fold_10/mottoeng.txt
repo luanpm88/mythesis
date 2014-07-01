@@ -1,0 +1,16 @@
+Found: 60
+Found Not Null: 2
+Correct: 0
+Wrong: 2
+Total: 2
+precision: 0.0
+recall: 0.0
+
+
+
+25	FALSE	Dartmouth College::mottoeng	the voice of one crying in the wilderness / , psychological and brain sciences	
+In 2008, the most popular majors were economics, government, history, psychological and brain sciences, English, biology, and engineering sciences.
+
+39	FALSE	University of Manchester Institute of Science and Technology::mottoeng	by knowledge and work / , at the time of the university merger, the UMIST Association also merged with its equivalent organisation at the Victoria University of Manchester.	
+<p> In 2004, at the time of the university merger, the UMIST Association also merged with its equivalent organisation at the Victoria University of Manchester.
+

@@ -1,0 +1,73 @@
+Found: 31
+Found Not Null: 1
+Correct: 0
+Wrong: 1
+Total: 1
+precision: 0.0
+recall: 0.0
+
+
+
+#	NEW	death_date	........ / <strong>	// <p> <strong> Stephen Nichols </strong> ( born February 19 , 1951 ) is an <a> American </a> <a> actor </a> , most notable for his roles on American daytime soap operas .
+
+#	NEW	death_date	........ / In	// <p> In July 2008 , Lawrence told <em> <a> TV Guide </a> </em> that he is working on a new album composed mostly of ballads . </p>
+
+#	NEW	death_date	........ / first	// Her first film credit was as a child actress </p>
+
+#	NEW	death_date	........ / performers	// Other performers like <a> Jefferson Airplane </a> and <a> The Who </a> also received major exposure from Pennebaker ' s work . </p>
+
+#	NEW	death_date	........ / her	// For her work in the film , Lathan earned an <a> Essence Award </a> for Best Actress , as well as the added assurance of a very busy work schedule .
+
+#	NEW	death_date	........ / was	// He was the eldest son of <a> John Drew </a> and <a> Louisa Lane Drew </a> , and the brother of Louisa Drew , <a> Georgiana Drew </a> &amp ; <a> Sidney Drew </a> .
+
+#	NEW	death_date	........ / in	// While in London , she was engaged to create the title role of Gilbert and Sullivan ' s <em> <a> Princess Ida </a> </em> , but she clashed with <a> W .
+
+#	NEW	death_date	........ / <strong>	// <p> <strong> Daniela Bianchi </strong> ( born 31 January 1942 ) is an Italian actress , whose best known part was <a> Tatiana Romanova </a> in the 1963 <a> James Bond </a> movie <em> <a> From Russia with Love </a> </em> . </p>
+
+#	NEW	death_date	........ / a	// For a time , she was a coproducer of industrial shows , after which she worked successfully in the real estate business .
+
+#	NEW	death_date	........ / the	// Off the set , Jones enjoys <a> reading </a> , playing tennis and working out .
+
+#	NEW	death_date	........ / <strong>	// <p> <strong> Douglas Peter </strong> &quot ; <strong> Doug </strong> &quot ; <strong> Savant </strong> ( born June 21 , 1964 ) is an <a> American </a> <a> actor </a> .
+
+#	NEW	death_date	........ / 1999	// In 1999 , he worked on <em> <a> The Messenger : The Story of Joan of Arc </a> </em> ( 1999 ) and was the visual effects supervisor for 1997 ' s <em> <a> Alien Resurrection </a> </em> . </p>
+
+#	NEW	death_date	........ / Lerner	// <p> Lerner was born in <a> Brooklyn , New York </a> , the son of Blanche and George Lerner , who was a fisherman and antiques dealer .
+
+#	NEW	death_date	........ / filming	// Then filming wrapped and Tiernan went to <a> London </a> the next day .
+
+#	NEW	death_date	........ / two	// The two sued , and the case opened to the <a> High Court </a> in <a> London </a> on 20 November 1963 .
+
+#	NEW	death_date	........ / His	// <p> His appearances on the <a> London stage </a> include <a> Ben Elton </a> &#x00b4 ; s play , <em> Gasping </em> . </p>
+
+#	NEW	death_date	........ / She	// <p> She was working as a model when she met filmmaker <a> Jean-Jacques Beineix </a> .
+
+#	NEW	death_date	........ / 2010	// In a 2010 interview , she told the press that she had ' a blast ' working on the game , although she recalled it being ' odd ' having to grunt in a room alone .
+
+#	NEW	death_date	........ / with	// Schildkraut with opera singer [ [ Maria Olszewska ] ] in 1932 | left ] ] He then began working in <a> silent movies </a> , although he did return to the stage occasionally .
+
+19	FALSE	William Boyd (actor)::death_date	september 12, 1972 / was	
+He was survived by his fifth wife , actress Grace Bradley Boyd , who died on September 21 , 2010 . </p>
+
+#	NEW	death_date	........ / He	// <p> He died from a <a> heart attack </a> in <a> London </a> in 1980 . </p>
+
+#	NEW	death_date	........ / Clark	// <p> Clark exited <em> Days of Our Lives </em> in 1999 to attend university studies in <a> London </a> , <a> England </a> .
+
+#	NEW	death_date	........ / 2007	// In 2007 she won the <a> Emmy Award </a> for <em> Outstanding Supporting Actress in a Comedy Series </em> for her work on the show .
+
+#	NEW	death_date	........ / <strong>	// <p> <strong> Kenneth Edward &quot ; Ken&quot ; Olin </strong> ( born July 30 , 1954 ) is an American actor , <a> director </a> and <a> producer </a> .
+
+#	NEW	death_date	........ / 2009	// <p> In 2009 and 2010 Williamson was nominated for a <a> Daytime Emmy Award </a> for <a> Outstanding Supporting Actress </a> for the role of Jessica . </p>
+
+#	NEW	death_date	........ / impact	// The impact of her work on <em> The Facts of Life </em> was honored when she was ranked 43 on VH1 ' s List of 100 Greatest Kids Stars .
+
+#	NEW	death_date	........ / <strong>	// <p> <strong> Hunter Tylo </strong> ( born <strong> Deborah Jo Hunter </strong> , July 3 , 1962 ) is an <a> American </a> <a> actress </a> , <a> Author </a> and former <a> model </a> .
+
+#	NEW	death_date	........ / <strong>	// <p> <strong> Tonja Walker </strong> ( born September 19 , 1960 ) is a former beauty pageant titleholder who has competed in the <a> Miss USA </a> pageant , a <a> actress </a> , and <a> singer </a> .
+
+#	NEW	death_date	........ / <strong>	// <p> <strong> Peter Watkins </strong> ( born 29 October 1935 ) is an <a> English </a> <a> film </a> and <a> television </a> <a> director </a> .
+
+#	NEW	death_date	........ / <strong>	// <p> <strong> Frank John Gorshin , Jr . </strong> ( April 5 , 1933 &#x2013 ; May 17 , 2005 ) was an <a> American </a> <a> actor </a> and <a> comedian </a> .
+
+#	NEW	death_date	........ / is	// This is her finest work to date . &quot ; </p>
+

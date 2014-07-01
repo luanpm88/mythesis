@@ -1,0 +1,107 @@
+Found: 44
+Found Not Null: 9
+Correct: 4
+Wrong: 5
+Total: 9
+precision: 0.4444444444444444
+recall: 0.4444444444444444
+
+
+
+#	NEW	fleet_size	........ / 27	// <p> Blue Wings was established in 2002 , received the <a> AOC </a> on 27 June 2003 and started operations in July of the same year .
+
+#	NEW	fleet_size	........ / 23	// Commuter services began operations on 23 April 1991 .
+
+#	NEW	fleet_size	........ / 1990 .	// It was established following deregulation of the Australian airline industry in 1990 .
+
+#	NEW	fleet_size	........ / 1993	// It continued to operate as a separate entity until 1993 when its operations were merged into those already established by Ansett . </p>
+
+#	NEW	fleet_size	........ / 1945	// <p> The Manchukuo National Airways ceased operations in August 1945 during the <a> Soviet invasion of Manchuria </a> , however wartime fuel and equipment shortages had previously curtailed its operations considerably .
+
+#	NEW	fleet_size	........ / 1972	// <p> The airline was established and started operations in 1972 , as <strong> AirBridge Carriers </strong> at <a> East Midlands </a> .
+
+6	TRUE	Eirjet::fleet_size	4 / 23	
+( 2006 ) ] ] The airline was established in 2004 and started operations on 23 December 2004 </p>
+
+7	FALSE	Alpi Eagles::fleet_size	10 / 2006 :	
+It operated flights to the following cities as of October 2006 : </p>
+
+#	NEW	fleet_size	........ / 1993	// <p> The airline was established in 1993 by Danish investors and started operations in the same year .
+
+9	FALSE	Livingston Energy Flight::fleet_size	6 / 2003.	
+<p> The airline was established on 13 January 2003 and started operations in May 2003 .
+
+#	NEW	fleet_size	........ / 1995	// <p> The airline was established in 1995 and started operations on 2 February 1995 </p>
+
+#	NEW	fleet_size	........ / 1	// <p> EuroLOT was established on 19 December 1996 and commenced regular air operations on 1 July 1997 .
+
+12	TRUE	EuroAtlantic Airways::fleet_size	7 / 2009	
+<p> In 2009 , EuroAtlantic Airways signed a deal to operate 2 <a> Boeing 777-200ER </a> on behalf of <a> Biman Bangladesh Airlines </a> .
+
+#	NEW	fleet_size	........ / 25	// Effective October 25 , 2009 Flight 11 was replaced on the Paris-Houston route by flight 33 . </p>
+
+#	NEW	fleet_size	........ / 2008 .	// In 2008 Krasair suffered a <a> liquidity crisis </a> , and after a string of operational shutdowns , administrative and <a> strikes </a> , the company ceased operations in October 2008 . </p>
+
+#	NEW	fleet_size	........ / <a>	// The airline president , Alfiya Galiaskarova , plans to establish Anikay Air as a major operator from Kyrgyzstan to <a> CIS </a> and the <a> Middle East </a> . </p>
+
+16	FALSE	Italy First::fleet_size	2 / 1999	
+<p> The airline was established in 1999 and is 100% owned by Gruppo Condor . </p>
+
+#	NEW	fleet_size	........ / 2004	// The airline was founded in 2002 and ceased its operations in 2004 when it was merged into <a> SN Brussels Airlines </a> . </p>
+
+#	NEW	fleet_size	........ / 31	// <p> The airline was established in 1981 by Arturo Alvarado Wood and started operations on 31 March 1981 .
+
+#	NEW	fleet_size	........ / air	// <p> <strong> Windrose Air </strong> is an <a> airline </a> based in <a> Sch&#x00f6 ; nefeld </a> , <a> Germany </a> operating business and private charter services , cargo and air ambulance services .
+
+#	NEW	fleet_size	........ / 9	// <p> The airline operates a fleet of <a> DC-9 </a> s . </p>
+
+21	TRUE	Avies::fleet_size	9 / 1991	
+It was established and started operations in 1991 and operates scheduled passenger transport , charter and air taxi services .
+
+#	NEW	fleet_size	........ / ,	// It also is the major air taxi service in Denmark , operating from EKRK .
+
+#	NEW	fleet_size	........ / <a>	// <p> <strong> Aero Services Executive </strong> is an <a> airline </a> company based in <a> France </a> .
+
+24	TRUE	Finist'air::fleet_size	2 / 208	
+<p> The airline has two <a> Cessna 208 </a> Caravan . </p>
+
+#	NEW	fleet_size	........ / 13	// <p> The Stuttgarter Flugdienst fleet consists of the following aircraft types , which provide space for 5-13 passengers : </p>
+
+#	NEW	fleet_size	........ / air	// It operates business and executive flights , cargo and <a> air ambulance </a> services . </p>
+
+#	NEW	fleet_size	........ / <a>	// <p> <strong> Trans Island Air </strong> is an <a> airline </a> based in <a> Christ Church </a> in <a> Barbados </a> operating charters throughout the Caribbean .
+
+28	FALSE	Medavia::fleet_size	8 / 1979.	
+It started operations in September 1979 .
+
+#	NEW	fleet_size	........ / 1	// <p> <strong> Metropolis </strong> ( Metropolis Noord 1 BV ) is an <a> airline </a> based in the <a> Netherlands </a> . </p>
+
+#	NEW	fleet_size	........ / 2010	// <p> As of January 2010 , Air Turks and Caicos operates scheduled flights to the following destinations within the <a> Caribbean </a> : </p>
+
+#	NEW	fleet_size	........ / 1990 .	// <p> The airline was established on 1 January 1989 and started services in June 1990 .
+
+#	NEW	fleet_size	........ / 1986	// <p> The airline was established in 1980 as <strong> Interot Airways </strong> , but started revenue operations only in 1986 with flights from Augsburg to <a> D&#x00fc ; sseldorf </a> .
+
+#	NEW	fleet_size	........ / 23	// <p> The airline was established and started operations on 23 February 1995 .
+
+#	NEW	fleet_size	........ / 2005	// In January 2005 , the airline began to operate in competition with <a> QantasLink </a> on the Cairns &mdash ; Townsville route , operating from its own terminals in both cities . </p>
+
+#	NEW	fleet_size	........ / 154	// It was established in 1995 and operated out of <a> Sheremetyevo International Airport </a> , Moscow , using a fleet of three <a> Tupolev Tu-154 </a> aircraft .
+
+#	NEW	fleet_size	........ / 16	// <p> The airline was established in March 1995 and started operations on 16 April 1995 .
+
+#	NEW	fleet_size	........ / 2000	// It was established in 2000 and operates cargo services throughout Russia and eastern <a> Europe </a> .
+
+38	FALSE	Centre-Avia::fleet_size	4 / 1999.	
+<p> The airline was established and started operations in 2000 as <strong> Bykovo Avia </strong> , and merged into Centre-Avia in December 1999 .
+
+#	NEW	fleet_size	........ / 1993	// <p> The airline was established in 1993 as <strong> Karat Air Company </strong> ( formerly known as <strong> Rikor </strong> ) .
+
+#	NEW	fleet_size	........ / 1996	// <p> <a> Komiinteravia </a> was established in March 1996 and started operations in July 1997 .
+
+#	NEW	fleet_size	........ / 2007 .	// SpiceJet was voted as the best low-cost airline in <a> South Asia </a> and <a> Central Asia </a> region by <a> Skytrax </a> in 2007 . </p>
+
+#	NEW	fleet_size	........ / 9	// <p> Some of the staff and assets were taken over and <a> L&#x00ed ; neas A&#x00e9 ; reas Azteca </a> was established on 9 May 2000 and started operations on 1 June 2001 operating domestic services with <a> Boeing 737 </a> aircraft . </p>
+
+#	NEW	fleet_size	........ / 5	// ( 2007 ) ] ] The airline was founded in April 1978 as <strong> Special Air Transport </strong> ( <strong> SAT </strong> ) in <a> Cologne </a> and started operations on 5 Sep 1978 .
+

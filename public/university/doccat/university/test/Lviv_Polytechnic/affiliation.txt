@@ -1,8 +1,0 @@
-<li><a>Stefan Banach</a> (Mathematician)</li>
-<li><a>Piotr Wilniewczyc</a> (Engineer)</li>
-<li><a>Kazimierz Bartel</a></li>
-<li><a>W&#x0142;odzimierz Sto&#x017c;ek</a></li>
-<li><a>Kazimierz Kuratowski</a></li>
-<li><a>Antoni &#x0141;omnicki</a></li>
-<li><a>Otto Nadolski</a></li>
-<li><a>Ignacy Mo&#x015b;cicki</a></li>

@@ -1,7 +1,0 @@
-<li>Department of Humanities</li>
-<li>Hispanic Studies Department</li>
-<li>Department of English</li>
-<li>Department of Biology</li>
-<li>Chemistry Department</li>
-<li>Department of Mathematics-Physics</li>
-<li>Department of Business Administration</li>

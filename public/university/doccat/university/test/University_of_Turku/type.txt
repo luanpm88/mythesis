@@ -1,5 +1,0 @@
-<li><a>Faculty of Humanities</a>
-<li><a>Faculty of Mathematics and Natural Sciences</a>
-<li><a>Faculty of Medicine</a>
-<li><a>Faculty of Education</a>
-<li>European Heritage, Digital Media and the Information Society</li>

@@ -1,0 +1,105 @@
+Found: 41
+Found Not Null: 13
+Correct: 4
+Wrong: 9
+Total: 13
+precision: 0.3076923076923077
+recall: 0.3076923076923077
+
+
+
+0	FALSE	Northern Air Cargo::fleet_size	4 / 2007 ).	
+It has 289 employees ( at March 2007 ) .
+
+#	NEW	fleet_size	........ / 500	// The first delivery of three Eclipse 500 aircraft took place on March 31 , 2007 . </p>
+
+2	FALSE	Transwede Airways::fleet_size	6 / 2008 ) :	
+<p> The Transwede Airways fleet consisted of the following aircraft ( as of March 2008 ) : </p>
+
+#	NEW	fleet_size	........ / 2007 .	// It had 55 employees as of March 2007 . </p>
+
+#	NEW	fleet_size	........ / 1984 .	// The aircraft ' s registration was canceled in March 1984 . ref
+
+5	TRUE	XL Airways Germany::fleet_size	3 / A320	
+Previously , the fleet had consisted of <a> Airbus A320 </a> airliners . </p>
+
+#	NEW	fleet_size	........ / 6	// <p> The <strong> Downend air crash </strong> occurred on 6 November 1957 when a prototype <a> Bristol Britannia </a> aircraft crashed in woods near Overndale Road in <a> Downend Village </a> , near <a> Bristol </a> , England , on its landing approach at <a> Filton airport </a> during a test flight .
+
+#	NEW	fleet_size	........ / 2006 ) :	// <p> The Challenge Aero fleet consists of the following aircraft ( at November 2006 ) : </p>
+
+#	NEW	fleet_size	........ / 2009	// <p> As of September 2009 , the Blu-express fleet includes : </p>
+
+#	NEW	fleet_size	........ / Fleet -	// <p> : <em> Main article : <a> Avianca - Fleet - Current </a> </em> </p>
+
+#	NEW	fleet_size	........ / 2010 ) :	// The Arik Air fleet includes the following aircraft ( at December 2010 ) : </p>
+
+11	FALSE	Shanghai Airlines Cargo::fleet_size	6 / Airlines	
+<p> Shanghai Airlines Cargo serves the following : </p>
+
+#	NEW	fleet_size	........ / 2007	// <p> As of May 2007 , the Galaxy Air fleet includes the following : </p>
+
+#	NEW	fleet_size	........ / 2007	// <p> As of September 2007 the Cargo 360 fleet includedref name=&quot ; FI&quot ; / : </p>
+
+14	TRUE	Bravo Airlines::fleet_size	1 / 21	
+<p> The Bravo Airlines fleet included the following aircraft ( as of 21 September 2008 ) : [ <a> http : / /www . ch-aviation . c / aircraft . php ? search=set&amp ; airline=BRV&amp ; al_op=1 </a> ] </p>
+
+#	NEW	fleet_size	........ / 31	// <p> The Piper PA-31 Navajo , tail number N6642L was an aircraft used for commuter flights .
+
+16	FALSE	Omni – Aviação e Tecnologia::fleet_size	45 / 2008 ) :	
+<p> The Omni - Aviacao e Tecnologia fleet includes the following aircraft ( at April 2008 ) : </p>
+
+#	NEW	fleet_size	........ / 2005 ) :	// <p> Cosmos Air Cargo ( Transporte A&#x00e9 ; reo de Carga COSMOS ) fleet consists of the following aircraft ( at September 2005 ) : </p>
+
+#	NEW	fleet_size	........ / 2006	// <p> As of August <a> 2006 </a> the SADELCA fleet includes : </p>
+
+#	NEW	fleet_size	........ / 2006	// <p> The AeroSur fleet consists of the following aircraft ( at September <a> 2006 </a> ) .
+
+20	FALSE	Air Norway::fleet_size	1 / 2009.	
+Following the bankruptcy of <a> Coast Air </a> in January 2008 , the airline stepped in and was serving <a> Fagernes Airport , Leirin </a> with two daily flights to <a> Oslo </a> , and one daily flight to <a> Trondheim </a> , but these were terminated in 2009 . </p>
+
+#	NEW	fleet_size	........ / 4	// The airline started service on October 4 , 1993 , using <a> Fokker F27 </a> turboprop aircraft operated by <a> Empire Airlines </a> while awaiting its own certification .
+
+22	FALSE	AIRES::fleet_size	23 / 25	
+<p> The AIRES fleet consists of the following aircraft ( at 25 July 2010 ) : </p>
+
+#	NEW	fleet_size	........ / 2009	// <p> In December 2009 , the company announced its plans to increase the frequency of flights from the UK to Toronto by 35% .
+
+#	NEW	fleet_size	........ / 7	// <p> The ALMA de M&#x00e9 ; xico fleet consisted of the following aircraft ( as of 7 November 2008 ) [ <a> http : / /www . ch-aviation . c / aircraft . php ? search=set&amp ; airline=AMX&amp ; al_op=1 </a> ] : </p>
+
+#	NEW	fleet_size	........ / 727	// It then began equipping itself with jet aircraft , starting with two <a> Boeing 727 </a> aircraft .
+
+#	NEW	fleet_size	........ / <a>	// The flights are operated by a number of airlines including <a> VanAir Europe </a> and <a> Jetstream Executive </a> . </p>
+
+#	NEW	fleet_size	........ / <p>	// <p> Lamb Air operated many aircraft .
+
+28	FALSE	PenAir::fleet_size	36 / 2007	
+<p> As of October 2007 the PenAir fleet includes : </p>
+
+#	NEW	fleet_size	........ / 2010 ) :	// <p> The fleet of Team Linhas A&#x00e9 ; reas includes the following aircraft configured in all-economy class ( as of December 2010 ) : </p>
+
+30	FALSE	Air Hawaii::fleet_size	2 / 10	
+<p> Air Hawaii operated two <a> McDonnell Douglas DC-10-10 </a> aircraft . </p>
+
+#	NEW	fleet_size	........ / 1996 .	// The airline was in service between 1993 to 1996 .
+
+#	NEW	fleet_size	........ / ,	// In subsequent years , researchers into unexplained disappearances have included the flight among others said to have disappeared in what came to be termed the <a> Bermuda Triangle </a> . </p>
+
+#	NEW	fleet_size	........ / 1980	// In <a> 1980 </a> , following its buyout of <a> Hughes Airwest </a> , Republic became the largest airline in the <a> United States </a> by destinations served .
+
+#	NEW	fleet_size	........ / <em>	// <p> The following day , the <em> New York Times </em> reported that BOAC had withdrawn all Comets from service .
+
+35	TRUE	Royal Wings::fleet_size	1 / 10	
+<p> The Royal Wings fleet includes the following aircraft ( as of 10 September 2008 ) [ <a> http : / /ch-aviation . c / aircraft . php ? search=set&amp ; airline=AWS&amp ; al_op=1 </a> ] : </p>
+
+36	TRUE	Dutch Antilles Express::fleet_size	5 / 2010 ) :	
+<p> The Dutch Antilles Express fleet consists of the following aircraft ( at 25 February 2010 ) : </p>
+
+37	FALSE	WinAir Airlines::fleet_size	10 / 400	
+<p> After running into substantial financial difficulties and maintenance concerns caused by the leaseholders and former aircraft owners including <a> Pegasus Airlines </a> of Turkey and <a> Garuda Indonesia </a> regarding some of the airline ' s leased 737-400 aircraft , the airline shut down on July 6 , 1999 . </p>
+
+#	NEW	fleet_size	........ / 2010 ) :	// <p> The fleet of NHT Linhas A&#x00e9 ; reas includes the following aircraft configured in all-economy class ( as of December 2010 ) : </p>
+
+#	NEW	fleet_size	........ / the	// Four of the passengers died from injuries in the days following the crash .
+
+#	NEW	fleet_size	........ / 2006	// <p> The Colombian Air Cargo fleet consists of the following aircraft ( at September <a> 2006 </a> ) : </p>
+

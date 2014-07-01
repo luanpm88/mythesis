@@ -1,4 +1,0 @@
-<h2>Athletics</h2>
-<h3>Men's Athletics</h3>
-<h3>Women's Athletics</h3>
-<li><a>Warrior Athletics</a></li>

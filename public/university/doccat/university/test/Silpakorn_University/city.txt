@@ -1,4 +1,0 @@
-<li>Food Technology Program (FOOD TECH)</li>
-<li>Division of Aquatic Animal Production Technology
-<li>Division of Crop Production Technology
-<li>Division of Veterinary Technology</li>

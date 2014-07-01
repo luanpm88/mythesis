@@ -1,5 +1,0 @@
-<h3>Buchtel College</h3>
-<h4>Honors College</h4>
-<li>Honors College</li>
-<li>Wayne College</li>
-<li>Summit College</li>

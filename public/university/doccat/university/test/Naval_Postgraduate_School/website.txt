@@ -1,3 +1,0 @@
-<li>Computer Sciences Department</li>
-<li>Information Sciences Department</li>
-<li>Defense Resource Management Institute</li>

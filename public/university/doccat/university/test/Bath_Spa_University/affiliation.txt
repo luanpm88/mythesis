@@ -1,8 +1,0 @@
-<li><a>Bridgwater College</a></li>
-<li><a>Cirencester College</a></li>
-<li><a>New College, Swindon</a></li>
-<li><a>Norton Radstock College</a></li>
-<li><a>Weston College</a></li>
-<li><a>Weymouth College</a></li>
-<li><a>Roger Deakins</a>, cinematographer</li>
-<li><a>Kate Garraway</a>, television presenter</li>

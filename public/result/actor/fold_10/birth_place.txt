@@ -1,0 +1,12 @@
+Found: 2
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	birth_place	........ / Los Angeles .	// He divides his time between homes in London , France , and Los Angeles . </p>
+
+#	NEW	birth_place	........ / Los Angeles	// Four Mexican films for which Karloff shot his scenes in Los Angeles were released over a two-year period after he had died .
+

@@ -1,0 +1,101 @@
+Found: 45
+Found Not Null: 1
+Correct: 1
+Wrong: 0
+Total: 1
+precision: 1.0
+recall: 1.0
+
+
+
+#	NEW	parent	........ / operates scheduled	// It operates scheduled and <a> charter </a> services to 16 </p>
+
+#	NEW	parent	........ / aircraft ( as of	// <p> The Air Ivoire fleet includes the following aircraft ( as of January 2010 ) : </p>
+
+#	NEW	parent	........ / Icelandair Group	// It is a subsidiary of <a> Icelandair Group </a> . </p>
+
+#	NEW	parent	........ / ceased operations	// It ceased operations in 2005 . </p>
+
+#	NEW	parent	........ / Universal Airlines	// <p> Transamerica later purchased <a> Universal Airlines </a> and in December 1976 , <a> Saturn Airways </a> , and merged their operations into TIA .
+
+#	NEW	parent	........ / Nepal Airlines	// <p> The Nepal Airlines fleet includes the following aircraft ( as of 16 July 2010 ) : </p>
+
+#	NEW	parent	........ / Sun Country	// <p> Sun Country also provided ad-hoc charter lift to civic organizations , corporations , sports teams , and virtually any other group that wanted to charter an aircraft .
+
+#	NEW	parent	........ / following aircraft	// <p> The Air Fiji fleet included the following aircraft ( at December 2008 ) : </p>
+
+#	NEW	parent	........ / following destinations :	// <p> Druk Air operates scheduled flights to the following destinations : </p>
+
+#	NEW	parent	........ / aircraft ( as of	// <p> The Air Inuit fleet includes the following aircraft ( as of December 2010 ) </p>
+
+#	NEW	parent	........ / airline struggled	// The airline struggled financially and after attempts to reorganize and secure additional capital were unsuccessful , the airline ceased operations on October 14 , 2005 .
+
+#	NEW	parent	........ / Air Kazakhstan	// It became the <a> national carrier </a> after the government closed <a> Air Kazakhstan </a> in February 2004 and transferred all route authorities to Air Astana .
+
+#	NEW	parent	........ / following destinations :	// <p> Aeropostal operates flights to the following destinations : </p>
+
+#	NEW	parent	........ / Alitalia Express S .	// <p> <strong> Alitalia Express S . p . A . </strong> was a <a> regional airline </a> based in <a> Rome </a> , <a> Italy </a> and a wholly owned subsidiary of <a> Alitalia </a> .
+
+#	NEW	parent	........ / New Zealand	// Air New Zealand then split up its fleet ( and air routes ) into management groups .
+
+#	NEW	parent	........ / Two- GO Airlines	// The One-Two-GO Airlines fleet was consisted in the following aircraft ( as of 22 July 2010 ) : </p>
+
+#	NEW	parent	........ / Brazil	// <strong> TransBrasil </strong> was an international <a> Brazil </a> ian airline which ceased operations in December 2001 .
+
+#	NEW	parent	........ / Asia Aviation	// <p> <strong> Thai AirAsia </strong> ( ) is a joint venture of Malaysian low-fare airline <a> AirAsia </a> ( ) and Thailand ' s <a> Asia Aviation </a> .
+
+#	NEW	parent	........ / flag carrier	// <p> <strong> Air Macau Company Limited </strong> ( ) is the <a> flag carrier </a> <a> airline </a> of and headquartered in <a> Macau </a> .
+
+#	NEW	parent	........ / operated routes	// <p> The operated routes were ( before 1 October 2006 ) : </p>
+
+#	NEW	parent	........ / following aircraft :	// ( 2004 ) ] ] When the airline ceased operating , the &#x03b1 ; jet fleet consisted of the following aircraft : </p>
+
+#	NEW	parent	........ / Feb 2010 ) :	// <p> The Aero Mongolia fleet included the following aircraft ( as of 5 Feb 2010 ) : </p>
+
+#	NEW	parent	........ / Bolzano- Bozen	// In 2001 , a group of investors from the <a> Italian </a> province of <a> Bolzano-Bozen </a> acquired the majority stake .
+
+#	NEW	parent	........ / Albatros Airways	// <p> <strong> Albatros Airways Sh . p . k . </strong> was a <a> low-cost airline </a> based in <a> Tirana </a> in <a> Albania </a> .
+
+#	NEW	parent	........ / following destinations	// <p> Trans Air Congo operates services to the following destinations ( at January 2005 ) : </p>
+
+#	NEW	parent	........ / Shenzhen Airlines	// <p> Shenzhen Airlines has the following <a> codeshare </a> agreements ( at March 2010 ) : </p>
+
+#	NEW	parent	........ / ( TUI Group )	// <p> In 2000 Thomson Travel Group and Britannia Airways were acquired by <a> Preussag AG </a> ( TUI Group ) of Germany .
+
+#	NEW	parent	........ / aircraft ( as of	// <p> The Portugalia fleet includes the following aircraft ( as of December 2010 ) ref name=&quot ; FI&quot ; / : </p>
+
+#	NEW	parent	........ / National Transportation	// <p> The accident was investigated by the Indonesian <a> National Transportation Safety Committee </a> ( NTSC ) , which was assisted by expert groups from the U . S . , Singapore and Australia . </p>
+
+#	NEW	parent	........ / Kosova Airlines	// <p> <strong> Kosova Airlines </strong> is an airline that is based in <a> Kosovo </a> .
+
+#	NEW	parent	........ / sale Flying	// <p> At the time of its sale Flying Tigers was operating the following aircraft : </p>
+
+#	NEW	parent	........ / ILS localizer	// <p> &quot ; The aircraft ' s encounter with adverse winds associated with a very strong thunderstorm located astride the <a> ILS localizer </a> course , which resulted in high descent rate into the non-frangible approach light towers .
+
+#	NEW	parent	........ / MacAir Airlines	// <p> MacAir Airlines was established and started charter operations in 1992 as <strong> McKinlay Air Charters </strong> , adding scheduled services in 1998 .
+
+#	NEW	parent	........ / radar	// At 2124 local time ( 1324 UTC ) the aircraft disappeared from the <a> radar </a> screen and lost contact with <a> ATC </a> .
+
+#	NEW	parent	........ / airline fleet	// <p> In 2002 the airline fleet was as follows : </p>
+
+#	NEW	parent	........ / following aircraft	// <p> The ADC Airlines fleet consisted of the following aircraft ( at October 2006 ) : </p>
+
+#	NEW	parent	........ / Airline continues	// The Airline continues to hold its Airline License . </p>
+
+#	NEW	parent	........ / International Airlines	// <p> In 2004 , the Gambia International Airlines fleet consisted of the following aircraft : </p>
+
+#	NEW	parent	........ / following aircraft	// <p> The Air Guyane fleet includes the following aircraft ( at April 2008 ) : </p>
+
+#	NEW	parent	........ / ceased operations	// It ceased operations in October <a> 1999 </a> . </p>
+
+#	NEW	parent	........ / destinations ( as of	// <p> Kam Air serves the following destinations ( as of November 2010 ) : </p>
+
+41	TRUE	Thai Air Cargo::parent	cti holdings / Thai Air	
+<p> Thai Air Cargo was established in December 2004 as a joint venture between a Thai logistics firm , Commercial Transport International , or <a> CTI Holdings </a> ( 51% ) and Australian airline <a> Qantas </a> ( 49% ) . </p>
+
+#	NEW	parent	........ / following aircraft	// <p> The Aerocaribe fleet consisted of the following aircraft ( at January 2005 ) : </p>
+
+#	NEW	parent	........ / Afriqiyah Airways	// <p> <strong> Afriqiyah Airways </strong> ( ) is an <a> airline </a> based in <a> Tripoli </a> , <a> Libya </a> .
+
+#	NEW	parent	........ / regional airline	// <p> In 1970 , the airline was re-constituted as a <a> regional airline </a> named <strong> Lucas Aviation </strong> .
+

@@ -1,4 +1,0 @@
-<li>Automatic Control Systems for Flight Vehicles;</li>
-<li>Gyroscopic Instruments and Systems for Orientation,Navigation and Stabilization;</li>
-<li>Software for Computers and Automation Systems;</li>
-<li>Military Education</li>

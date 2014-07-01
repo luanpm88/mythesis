@@ -1,3 +1,0 @@
-<h3>Adelphi College</h3>
-<li>Honors College</li>
-<h4>Adelphi College</h4>

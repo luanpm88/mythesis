@@ -1,4 +1,0 @@
-<h2>Executive Education</h2>
-<h3>Executive MBA</h3>
-<h3>Global Executive MBA</h3>
-<h3>Executive Masters</h3>

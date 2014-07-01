@@ -1,0 +1,527 @@
+Total articles: 456
+Articles for test: 411
+Articles for train: 45
+Total attributes: 140
+Attributes with high occurrences: 18/140
+
+------------
+Found: 558
+Found Not Null: 170
+Correct: 84
+Wrong: 86
+Total: 198
+precision: 0.49411764705882355
+recall: 0.42424242424242425
+
+
+
+1	FALSE	Turkish Airlines:: iata	tk / flag	
+<p> <strong> THY &#x2013; Turkish Airlines , Inc . </strong> ( <a> Turkish </a> : <em> T&#x00fc;rk Hava Yollar&#x0131; Anonim Ortakl&#x0131;&#x011f;&#x0131; </em> ) is the national <a> flag carrier </a> <a> airline </a> of <a> Turkey </a> , headquartered in the Turkish Airlines General Management Building on the grounds of <a> Atat&#x00fc;rk Airport </a> in <a> Ye&#x015f;ilk&#x00f6;y </a> , <a> Istanbul </a> .
+
+8	FALSE	Turkish Airlines:: icao	thy / years.	
+<p> As of December 2010 , the Turkish Airlines fleet ( excluding subsidiaries ) consists of 151 passenger and 5 cargo aircraft with an average age of 6 . 8 years . </p>
+
+14	FALSE	Iran Air:: callsign	iranair / Air	
+<p> <strong> Iran Air Cargo </strong> is the freight wing of the airline .
+
+15	FALSE	Iran Air:: parent	iran national airlines corporation / Iranian Airways	
+Airways </strong> [[Douglas DC-3]] freighter in 1954]] In 1946 , a group of businessmen founded Iran's first flag carrier under the name of <strong> Iranian Airways </strong> .
+
+21	TRUE	Iran Air:: icao	ira / safety	
+<p> On 6 July 2010 , it was announced that the European Commission would ban all of Iran Air's <a> Airbus A320 </a> , <a> Boeing 727 </a> and <a> Boeing 747 </a> fleet from the EU over safety concerns .
+
+23	FALSE	Solomon Airlines:: fleet_size	4 / strong>.	
+Since no commercial aircraft was based at the Solomon Islands , Crowley decided to start an airline and called it <strong> Megapode Airlines </strong> .
+
+25	TRUE	Solomon Airlines:: callsign	solomon / Solomon	
+<p> <strong> Solomon Airlines </strong> is the national <a> airline </a> of the <a> Solomon Islands </a> , based in <a> Honiara </a> . </p>
+
+26	TRUE	Solomon Airlines:: founded	1962 / 1962	
+<p> Solomon Airlines was established in 1962 as a <a> charter airline </a> by <a> Laurie Crowley </a> .
+
+30	TRUE	Solomon Airlines:: icao	sol / Solomon	
+<p> As of March 2010 the Solomon Airlines fleet includes : </p>
+
+31	FALSE	Solomon Airlines:: logo_size	100 / 737	
+Solomon Airlines and Air Pacific soon also made a joint venture , but when Air Pacific announced in 1989 it was planning to substitute its Boeing 737 with a <a> Boeing 767 </a> to upgrade international services , Solomon Airlines was forced to lease one from another company , and so it decided on leasing a 737 owned by <a> International Lease Finance Corp </a> .
+
+32	FALSE	Solomon Airlines:: iata	ie / Solomon	
+<p> <strong> Solomon Airlines </strong> is the national <a> airline </a> of the <a> Solomon Islands </a> , based in <a> Honiara </a> . </p>
+
+39	TRUE	Dominicana de Aviación:: iata	do / de	
+<p> <strong> Dominicana de Aviaci&#x00f3;n </strong> was the national and international <a> flag carrier </a> of the <a> Dominican Republic </a> .
+
+40	TRUE	Dominicana de Aviación:: callsign	dominicana / Aviaci&#	
+<p> <strong> Dominicana de Aviaci&#x00f3;n </strong> was the national and international <a> flag carrier </a> of the <a> Dominican Republic </a> .
+
+42	TRUE	Dominicana de Aviación:: founded	1944 / 1944	
+<p> <em> Dominicana </em> started in 1944 , as the national airline of the <a> Dominican Republic </a> .
+
+44	TRUE	Dominicana de Aviación:: ceased	1995 / 1995.	
+This airline ceased operations in 1995 . </p>
+
+50	FALSE	Garuda Indonesia:: destinations	50 / 9-	
+The <a> Airbus A330-200 </a> , <a> Airbus A330-300 </a> aircraft and the newer <a> Boeing 737-800 </a> aircraft has the new Economy Class seats which offers 9-inch touch screen LCD with AVOD . </p>
+
+51	TRUE	Garuda Indonesia:: iata	ga / flag	
+<p> <strong> PT ( Persero ) Garuda Indonesia </strong> is the <a> flag carrier </a> and national <a> airline </a> of <a> Indonesia </a> .
+
+52	TRUE	Garuda Indonesia:: callsign	indonesia / Indonesia	
+<p> <strong> PT ( Persero ) Garuda Indonesia </strong> is the <a> flag carrier </a> and national <a> airline </a> of <a> Indonesia </a> .
+
+60	FALSE	Garuda Indonesia:: icao	gia / center /	
+<p> As of December 2010 , the Garuda Indonesia fleet consists of the following aircraft with an average age of 9 . 1 years : center /center </p>
+
+63	TRUE	Iraqi Airways:: callsign	iraqi / International	
+<p> <strong> Iraqi Airways Company </strong> , operating as <strong> Iraqi Airways </strong> ( ; also known as <strong> Air Iraq </strong> ) , is the <a> national carrier </a> of <a> Iraq </a> , headquartered on the grounds of <a> Baghdad International Airport </a> in <a> Baghdad </a> .
+
+65	TRUE	Iraqi Airways:: founded	1945 / 29 January 1946	
+<p> Iraqi Airways was founded in 1945 and started operation on 29 January 1946 using <a> Dragon Rapide </a> and <a> Vickers VC . 1 Viking </a> aircraft .
+
+71	FALSE	Iraqi Airways:: iata	ia / national	
+<p> <strong> Iraqi Airways Company </strong> , operating as <strong> Iraqi Airways </strong> ( ; also known as <strong> Air Iraq </strong> ) , is the <a> national carrier </a> of <a> Iraq </a> , headquartered on the grounds of <a> Baghdad International Airport </a> in <a> Baghdad </a> .
+
+90	TRUE	DAS Air Cargo:: founded	1983 / 1983.	
+<p> The airline was established in 1983 in <a> Ghana </a> and started operations in June 1983 .
+
+96	TRUE	DAS Air Cargo:: airline	das air cargo / Air Cargo	
+<p> <strong> DAS Air Cargo </strong> was a <a> Uganda </a> n <a> cargo airline </a> based at <a> Entebbe </a> .
+
+100	TRUE	Icelandair:: destinations	24 / 24	
+International services were commenced in 1946 with converted <a> B-24 Liberator </a> aircraft leased from Scottish Airways .
+
+101	FALSE	Icelandair:: iata	fi / flag	
+<p> <strong> Icelandair </strong> is the <a> flag carrier </a> <a> airline </a> of <a> Iceland </a> , based on the grounds of <a> Reykjav&#x00ed;k Airport </a> in <a> Reykjav&#x00ed;k </a> .
+
+103	FALSE	Icelandair:: founded	1937 / 1938	
+Operations started in 1938 with a <a> Waco YKS-7 </a> floatplane .
+
+108	TRUE	Icelandair:: airline	icelandair / x00ed;	
+<p> <strong> Icelandair </strong> is the <a> flag carrier </a> <a> airline </a> of <a> Iceland </a> , based on the grounds of <a> Reykjav&#x00ed;k Airport </a> in <a> Reykjav&#x00ed;k </a> .
+
+109	FALSE	Icelandair:: icao	ice / DC-	
+The DC-8-63CF fleet was acquired from Seaboard World Airlines of the US .
+
+111	TRUE	TAM Airlines:: logo_size	200 / 2006	
+These are expected to be delivered between late 2007 and 2010 , adding to the already scheduled delivery of 6 <a> A320 </a> s between 2006 and 2008 .
+
+115	TRUE	TAM Airlines:: callsign	tam / new	
+The new airline was named <strong> TAM </strong> - <strong> T </strong> ransportes <strong> A </strong> &#x00e9;reos del <strong> M </strong> ercosur and maintained the IATA code of LAP , PZ .
+
+119	FALSE	TAM Airlines:: airline	tam airlines / PZ.	
+The new airline was named <strong> TAM </strong> - <strong> T </strong> ransportes <strong> A </strong> &#x00e9;reos del <strong> M </strong> ercosur and maintained the IATA code of LAP , PZ .
+
+120	TRUE	TAM Airlines:: icao	tam / December	
+<p> The fleet of TAM Airlines includes the following aircraft ( as of December 2010 ) : </p>
+
+121	FALSE	TAM Airlines:: founded	1976 / 208	
+<p> In 1994 TAM Airlines established a small subsidiary airline in Paraguay , called <a> ARPA - Aerol&#x00ed;neas Paraguayas </a> , with a fleet consisting mostly of <a> Cessna 208 Caravan </a> aircraft , formerly operated by TAM .
+
+123	FALSE	Singapore Airlines:: logo_size	250 / <a>	
+Singapore Airline's capacity share will drop further from 1 December 2008 when the route is opened up completely to liberalisation , when it announced plans to share its capacity with sister airline <a> SilkAir </a> .
+
+125	FALSE	Singapore Airlines:: destinations	61 / 777	
+<p> Singapore Airlines operates a wide-body aircraft fleet from five aircraft families : <a> Airbus A330 </a> , <a> Airbus A340 </a> , <a> Airbus A380 </a> , <a> Boeing 747 </a> and <a> Boeing 777 </a> .
+
+126	FALSE	Singapore Airlines:: iata	sq / flag	
+<p> <strong> Singapore Airlines Limited </strong> ( <strong> SIA </strong> ) ( ; , abbreviated ; ) ( ) is the <a> flag carrier </a> of <a> Singapore </a> .
+
+127	TRUE	Singapore Airlines:: callsign	singapore / Singapore	
+<p> <strong> Singapore Airlines Limited </strong> ( <strong> SIA </strong> ) ( ; , abbreviated ; ) ( ) is the <a> flag carrier </a> of <a> Singapore </a> .
+
+131	TRUE	Singapore Airlines:: lounge	silver kris lounge / Kris Lounge.	
+Solitaire PPS members and their spouses also access First Class check-in and the First Class sections of Silver Kris Lounge . </p>
+
+133	TRUE	Singapore Airlines:: airline	singapore airlines / Singapore Airlines	
+<p> <strong> Singapore Airlines Limited </strong> ( <strong> SIA </strong> ) ( ; , abbreviated ; ) ( ) is the <a> flag carrier </a> of <a> Singapore </a> .
+
+134	FALSE	Singapore Airlines:: icao	sia / only	
+<p> On 16 February 2009 the airline announced that it would cut 17 aircraft from its operating fleet between April 2009 and March 2010 , as part of a cost-saving initiative to help counter falling passenger and cargo demand , having originally planned to phase out only four aircraft .
+
+135	TRUE	Cubana de Aviación:: logo_size	200 / 148	
+During the August 2007 <a> MAKS Airshow </a> Cubana signed a $150 million contract for the purchase and confirmation of 2 <a> Tupolev Tu-204 </a> and 3 <a> Antonov An-148 </a> aircraft , to be delivered between 2008 and 2011 and becoming one of the Antonov An-148 launch customers .
+
+137	TRUE	Cubana de Aviación:: iata	cu / de	
+<p> <strong> Cubana de Aviaci&#x00f3;n S . A . </strong> , commonly known as <em> Cubana </em> , is <a> Cuba </a> 's largest airline and <a> flag carrier </a> .
+
+138	TRUE	Cubana de Aviación:: callsign	cubana / Aviaci&#	
+<p> <strong> Cubana de Aviaci&#x00f3;n S . A . </strong> , commonly known as <em> Cubana </em> , is <a> Cuba </a> 's largest airline and <a> flag carrier </a> .
+
+139	FALSE	Cubana de Aviación:: founded	8 october 1929 / 2005	
+The airline established a joint venture company with <a> Iberia Airlines </a> of Spain in 2005 , to maintain and overhaul Western-built aircraft , including all <a> Airbus </a> and <a> Boeing </a> models .
+
+144	TRUE	Cubana de Aviación:: icao	cub / one	
+Three <a> Tupolev Tu-204 </a> were also ordered in 2006 , two passenger version and one cargo version for Cubana Cargo .
+
+160	TRUE	Royal Brunei Airlines:: destinations	19 / 19	
+<p> Formed in 1974 with an initial fleet of two aircraft , serving Singapore , Hong Kong , <a> Kota Kinabalu </a> and <a> Kuching </a> , Royal Brunei Airlines now operates a fleet of 10 aircraft to 19 destinations in <a> Southeast Asia </a> , the <a> Middle East </a> and Europe . </p>
+
+161	FALSE	Royal Brunei Airlines:: iata	bi / flag	
+<p> <strong> Royal Brunei Airlines Sdn Bhd </strong> ( Malay : Penerbangan DiRaja Brunei , Jawi : &#xfed3;&#xfee7;&#xfead;&#xfe91;&#xfe8e;&#x06a0;&#x0646; &#xfea9;&#xfef4;&#xfeae;&#xfe8d;&#xfe9d; &#xfe91;&#xfeae;&#xfeee;&#xfee7;&#xfef2; ) , or RBA , is the <a> flag carrier </a> <a> airline </a> of the <a> Sultan </a> ate of <a> Brunei </a> , headquartered in the RBA Plaza in <a> Bandar Seri Begawan </a> .
+
+162	TRUE	Royal Brunei Airlines:: callsign	brunei / headquartered	
+<p> <strong> Royal Brunei Airlines Sdn Bhd </strong> ( Malay : Penerbangan DiRaja Brunei , Jawi : &#xfed3;&#xfee7;&#xfead;&#xfe91;&#xfe8e;&#x06a0;&#x0646; &#xfea9;&#xfef4;&#xfeae;&#xfe8d;&#xfe9d; &#xfe91;&#xfeae;&#xfeee;&#xfee7;&#xfef2; ) , or RBA , is the <a> flag carrier </a> <a> airline </a> of the <a> Sultan </a> ate of <a> Brunei </a> , headquartered in the RBA Plaza in <a> Bandar Seri Begawan </a> .
+
+164	FALSE	Royal Brunei Airlines:: founded	1974 / 21 December 2003 and 3 January 2005.	
+A320s were added on 21 December 2003 and 3 January 2005 .
+
+168	FALSE	Royal Brunei Airlines:: icao	rba / East	
+<p> Formed in 1974 with an initial fleet of two aircraft , serving Singapore , Hong Kong , <a> Kota Kinabalu </a> and <a> Kuching </a> , Royal Brunei Airlines now operates a fleet of 10 aircraft to 19 destinations in <a> Southeast Asia </a> , the <a> Middle East </a> and Europe . </p>
+
+169	TRUE	Scandinavian Airlines:: logo_size	200 / 2009	
+During the 1990s , SAS also bought a 20% stake in British Midland along with <a> Lufthansa </a> , which owns 30% ( although as of January 2009 LH will own 80% of the carrier ) .
+
+171	FALSE	Scandinavian Airlines:: iata	sk / flag	
+<p> <strong> Scandinavian Airlines </strong> or <strong> SAS </strong> , previously <strong> Scandinavian Airlines System </strong> , is the <a> flag carrier </a> of <a> Denmark </a> , <a> Norway </a> and <a> Sweden </a> , and the largest <a> airline </a> in <a> Scandinavia </a> .
+
+172	TRUE	Scandinavian Airlines:: callsign	scandinavian / largest	
+<p> <strong> Scandinavian Airlines </strong> or <strong> SAS </strong> , previously <strong> Scandinavian Airlines System </strong> , is the <a> flag carrier </a> of <a> Denmark </a> , <a> Norway </a> and <a> Sweden </a> , and the largest <a> airline </a> in <a> Scandinavia </a> .
+
+175	TRUE	Scandinavian Airlines:: founded	1946 / 1946.	
+Operations started on 17 September 1946 .
+
+178	FALSE	Scandinavian Airlines:: icao	sas / October	
+<p> The Scandinavian Airlines fleet includes the following aircraft ( active aircraft as of October 5 , 2010 ) : </p>
+
+182	FALSE	Swiss International Air Lines:: iata	lx / Africa	
+<p> <strong> Swiss International Air Lines AG </strong> ( short : <em> Swiss </em> ) is the principal <a> airline </a> of <a> Switzerland </a> operating scheduled services in Europe and to North America , South America , Africa and Asia .
+
+183	TRUE	Swiss International Air Lines:: callsign	swiss / North America	
+<p> <strong> Swiss International Air Lines AG </strong> ( short : <em> Swiss </em> ) is the principal <a> airline </a> of <a> Switzerland </a> operating scheduled services in Europe and to North America , South America , Africa and Asia .
+
+188	FALSE	Swiss International Air Lines:: icao	swr / November	
+<p> The average age of the Swiss International Air Lines fleet is 10 . 6 years on November 2009 .
+
+190	TRUE	Swiss International Air Lines:: airline	swiss international air lines / South America	
+<p> <strong> Swiss International Air Lines AG </strong> ( short : <em> Swiss </em> ) is the principal <a> airline </a> of <a> Switzerland </a> operating scheduled services in Europe and to North America , South America , Africa and Asia .
+
+193	TRUE	Trans World Airlines:: iata	tw / States	
+<p> <strong> Trans World Airlines </strong> ( <strong> TWA </strong> ) was a major <a> United States </a> -based airline with hubs in <a> St .
+
+194	TRUE	Trans World Airlines:: callsign	twa / World	
+<p> <strong> Trans World Airlines </strong> ( <strong> TWA </strong> ) was a major <a> United States </a> -based airline with hubs in <a> St .
+
+202	TRUE	Trans World Airlines:: airline	trans world airlines / World Airlines	
+<p> <strong> Trans World Airlines </strong> ( <strong> TWA </strong> ) was a major <a> United States </a> -based airline with hubs in <a> St .
+
+206	FALSE	Widerøe:: iata	wf / Wider&#	
+<p> <strong> Wider&#x00f8;e's Flyveselskap AS </strong> , trading as <strong> Wider&#x00f8;e </strong> , is a <a> regional airline </a> in <a> Norway </a> and part of the <a> SAS Group </a> .
+
+207	FALSE	Widerøe:: callsign	wideroe / e'	
+<p> <strong> Wider&#x00f8;e's Flyveselskap AS </strong> , trading as <strong> Wider&#x00f8;e </strong> , is a <a> regional airline </a> in <a> Norway </a> and part of the <a> SAS Group </a> .
+
+209	FALSE	Widerøe:: founded	19 february 1934 / from	
+Starting on 10 April 1980 , Wider&#x00f8;e started an international service on behalf of SAS on the route from Trondheim to &#x00d6;stersund and Sundsvall in Sweden .
+
+215	FALSE	Norwegian Air Shuttle:: destinations	94 / 95	
+In 2010 , it transported 13 . 0 million people on 238 routes to 95 <a> destinations </a> in 27 countries , spanning Europe and to North Africa and the Middle East .
+
+216	FALSE	Norwegian Air Shuttle:: iata	dy / cost	
+<p> <strong> Norwegian Air Shuttle ASA </strong> ( ) , trading as <strong> Norwegian </strong> , is the second-largest <a> airline </a> in <a> Scandinavia </a> and the third-largest <a> low-cost carrier </a> in Europe .
+
+217	FALSE	Norwegian Air Shuttle:: founded	22 january 1993 / Air	
+<p> All flight operations are performed under one single Air Operators Certificate ( AOC ) ( <a> ICAO airline designator </a> NAX ) .
+
+219	FALSE	Norwegian Air Shuttle:: frequent_flyer	norwegian reward / airline.	
+In 2010 13 . 0 million passengers travelled with the airline .
+
+223	TRUE	Norwegian Air Shuttle:: airline	norwegian air shuttle asa / Air Shuttle	
+<p> <strong> Norwegian Air Shuttle ASA </strong> ( ) , trading as <strong> Norwegian </strong> , is the second-largest <a> airline </a> in <a> Scandinavia </a> and the third-largest <a> low-cost carrier </a> in Europe .
+
+224	FALSE	Norwegian Air Shuttle:: icao	nax / fleet	
+LN-NOC , which was the second 737-800 that was entering the fleet , was bought used from Air Europa .
+
+228	FALSE	ATA Airlines:: fleet_size	29 / p>	
+The airline began operating a sizable hub at <a> Chicago Midway International Airport </a> , and offered scheduled services throughout the <a> United States </a> , as well as flights to <a> Hawaii </a> while continuing extensive military and <a> government contract </a> air charter flights . </p>
+
+229	TRUE	ATA Airlines:: destinations	13 / 13	
+<p> On October 13 , 2005 , ATA announced major service reductions , ending flights to <a> Boston </a> , <a> Minneapolis/St .
+
+230	FALSE	ATA Airlines:: iata	tz / States	
+<p> <strong> <a> United States </a> </strong> </p>
+
+231	FALSE	ATA Airlines:: callsign	amtran / United	
+<p> <strong> <a> United States </a> </strong> </p>
+
+237	FALSE	ATA Airlines:: ceased	april 3, 2008 / April 2, 2008	
+<p> On April 2 , 2008 , ATA declared bankruptcy and ceased all operations .
+
+241	FALSE	Alitalia-Linee Aeree Italiane:: iata	az / flag	
+<p> <strong> Alitalia - Linee Aeree Italiane S . p . A . </strong> ( <a> Italian </a> for <em> Alitalia - Italian Air Lines </em> ) , in its later stages known as <strong> Alitalia - Linee Aeree Italiane S . p . A . in Extraordinary Administration </strong> , was the former Italian flag carrier .
+
+242	TRUE	Alitalia-Linee Aeree Italiane:: callsign	alitalia / Italiane	
+<p> <strong> Alitalia - Linee Aeree Italiane S . p . A . </strong> ( <a> Italian </a> for <em> Alitalia - Italian Air Lines </em> ) , in its later stages known as <strong> Alitalia - Linee Aeree Italiane S . p . A . in Extraordinary Administration </strong> , was the former Italian flag carrier .
+
+245	FALSE	Alitalia-Linee Aeree Italiane:: founded	1946 / 000	
+It started operations on 5 May 1947 , in which year it carried over 10 , 000 passengers .
+
+247	FALSE	Alitalia-Linee Aeree Italiane:: frequent_flyer	millemiglia / cut	
+<p> Carlo Cimoli , after becoming President and CEO of the Alitalia Group , divided the group into two holdings to cut costs .
+
+252	TRUE	Alitalia-Linee Aeree Italiane:: airline	alitalia - linee aeree italiane s.p.a. / Italian	
+<p> <strong> Alitalia - Linee Aeree Italiane S . p . A . </strong> ( <a> Italian </a> for <em> Alitalia - Italian Air Lines </em> ) , in its later stages known as <strong> Alitalia - Linee Aeree Italiane S . p . A . in Extraordinary Administration </strong> , was the former Italian flag carrier .
+
+256	FALSE	British Overseas Airways Corporation:: iata	ba / to	
+<p> The <strong> British Overseas Airways Corporation </strong> ( <strong> BOAC </strong> ) was the British state airline from 1939 until 1946 and the long-haul British state airline from 1946 to 1974 .
+
+264	TRUE	British Overseas Airways Corporation:: airline	british overseas airways corporation / British Overseas Airways	
+<p> The <strong> British Overseas Airways Corporation </strong> ( <strong> BOAC </strong> ) was the British state airline from 1939 until 1946 and the long-haul British state airline from 1946 to 1974 .
+
+265	FALSE	British Overseas Airways Corporation:: icao	ba / services.	
+The <a> Handley Page Hermes </a> and <a> Canadair DC-4M Argonaut </a> joined the BOAC fleet between 1949 and 1950 , replacing the last of the non-pressurised types on passenger services . </p>
+
+267	FALSE	Cathay Pacific:: logo_size	275 / 2008	
+<p> On 22 June 2006 , the airline announced an order of six <a> Boeing 747-400ERF </a> freighters , delivered in 2008 and 2009 . </p>
+
+270	FALSE	Cathay Pacific:: iata	cx / fleet	
+<p> <strong> Cargo fleet notes </strong> </p>
+
+271	FALSE	Cathay Pacific:: callsign	cathay / Cargo	
+<p> <strong> Cargo fleet notes </strong> </p>
+
+273	FALSE	Cathay Pacific:: founded	24 september 1946 / of	
+<p> As of 4 January 2011 , the cargo division of the airline , Cathay Pacific Cargo , has become the first airline operating out of Hong Kong to fully switch to e- <a> air waybill </a> .
+
+284	TRUE	Hawaiian Airlines:: iata	ha / United	
+<p> <strong> Hawaiian Airlines , Inc . </strong> is a <a> major airline </a> of the United States .
+
+285	TRUE	Hawaiian Airlines:: callsign	hawaiian / United	
+<p> <strong> Hawaiian Airlines , Inc . </strong> is a <a> major airline </a> of the United States .
+
+292	FALSE	Hawaiian Airlines:: airline	hawaiian airlines, inc. / United	
+<p> <strong> Hawaiian Airlines , Inc . </strong> is a <a> major airline </a> of the United States .
+
+293	FALSE	Hawaiian Airlines:: icao	hal / years :	
+<p> As of November 2010 , the Hawaiian Airlines fleet consists of the following aircraft with an average age of 12 . 5 years : </p>
+
+295	FALSE	Hawaiian Airlines:: destinations	19 / 767-	
+<p> On October 27 , 2008 , Hawaiian announced that prior to the arrival of its new A330s , it would lease two additional Airbus A330-200 aircraft from <a> AWAS </a> beginning in 2011 , at the same time extending the leases of two Boeing 767-300ER aircraft from AWAS to 2011 ( to be withdrawn from service coincident with the delivery of the A330s ) .
+
+296	FALSE	Sabena:: logo_size	200 / a>.	
+A group of investors managed to take over <a> Delta Air Transport </a> , one of SABENA's subsidiaries , and transformed it into <a> SN Brussels Airlines </a> . </p>
+
+299	FALSE	Sabena:: iata	sn / de	
+<p> SABENA is short for <strong> <em> S </em> </strong> oci&#x00e9;t&#x00e9; <strong> A </strong> nonyme <strong> B </strong> elge d <strong> <em> 'E </em> </strong> xploitation de la <strong> N </strong> avigation <strong> A </strong> &#x00e9;rienne <em> or </em> Belgian company for exploiting aerial navigation <em> .
+
+301	FALSE	Sabena:: founded	1923 / 2001.	
+SABENA operated its final flight on 7 November 2001 .
+
+306	FALSE	Sabena:: ceased	2001 / During	
+<p> During the war the airline managed to maintain its Belgian Congo routes , but all European services ceased . </p>
+
+307	FALSE	Sabena:: icao	sab / older	
+<p> In June 1986 the first of two <a> Boeing 747-300 </a> aircraft joined the fleet , eventually replacing the older <a> 747-100 </a> . </p>
+
+308	TRUE	Sabena:: callsign	sabena / S	
+<p> SABENA is short for <strong> <em> S </em> </strong> oci&#x00e9;t&#x00e9; <strong> A </strong> nonyme <strong> B </strong> elge d <strong> <em> 'E </em> </strong> xploitation de la <strong> N </strong> avigation <strong> A </strong> &#x00e9;rienne <em> or </em> Belgian company for exploiting aerial navigation <em> .
+
+310	TRUE	Bahamasair:: fleet_size	7 / 7	
+So Bahamasair was established by the government and started operations on 7 June 1973 , </p>
+
+312	TRUE	Bahamasair:: callsign	bahamas / Holdings	
+<p> <strong> Bahamasair Holdings Limited </strong> , operating as <strong> Bahamasair </strong> , is an <a> airline </a> based in the Bahamasair House in <a> Nassau , Bahamas </a> .
+
+320	FALSE	Malaysia Airlines:: iata	mh / flag	
+<p> <strong> Malaysia Airlines System Berhad </strong> ( ) , <a> DBA </a> <strong> Malaysia Airlines </strong> ( abbreviated <strong> MAS </strong> ) , is the government-owned <a> flag carrier </a> of <a> Malaysia </a> .
+
+321	FALSE	Malaysia Airlines:: callsign	malaysian / System	
+<p> <strong> Malaysia Airlines System Berhad </strong> ( ) , <a> DBA </a> <strong> Malaysia Airlines </strong> ( abbreviated <strong> MAS </strong> ) , is the government-owned <a> flag carrier </a> of <a> Malaysia </a> .
+
+327	TRUE	Malaysia Airlines:: lounge	golden lounge / airport lounge	
+<p> The Golden Lounge is the airport lounge for Malaysia Airlines <em> First Class </em> , <em> Golden Club Class </em> passengers and <em> Enrich Platinum </em> and <em> Enrich Gold </em> members .
+
+330	FALSE	Malaysia Airlines:: icao	mas / three-	
+<p> Malaysia Airlines operates a fleet of aircraft with two-cabin and three-cabin configurations .
+
+331	TRUE	Freedom Air (New Zealand):: logo_size	200 / </	
+All flights ended on 30 March 2008 , being replaced ( with the exception of Palmerston North , which are now operated by other ANZ subsidiaries ) by Air New Zealand flights . </p>
+
+335	TRUE	Freedom Air (New Zealand):: founded	1995 / 1995	
+<p> The airline was established in 1995 as a response to the commencement of discount services between Australia and New Zealand by <a> Kiwi Airlines </a> and started operations on 8 December 1995 with a single <a> Boeing 757 </a> .
+
+340	FALSE	Freedom Air (New Zealand):: ceased	30 march 2008 / 2008.	
+<p> Air New Zealand ceased all Freedom Air operations from the end of March 2008 . </p>
+
+341	TRUE	Freedom Air (New Zealand):: airline	freedom air / Air New Zealand	
+<p> <strong> Freedom Air </strong> was <a> Air New Zealand </a> Group's <a> low-cost airline </a> which operated from December 1995 to March 2008 .
+
+345	TRUE	AirBaltic:: fleet_size	34 / 340	
+Operations started on 1 October 1995 with the arrival of the first Air Baltic aircraft , a <a> Saab 340 </a> , at Riga , and that afternoon , the plane made the first passenger flight for Air Baltic . </p>
+
+346	TRUE	AirBaltic:: callsign	air baltic / Air	
+<p> <img> [[File : RIX Airport . JPG|thumb|[[Riga International Airport]] , the location of AirBaltic's head office and main hub]] <strong> A/S Air Baltic Corporation </strong> , operating as <strong> AirBaltic </strong> ( styled as <strong> airBaltic </strong> ) , is the <a> Latvia </a> n <a> flag carrier </a> <a> airline </a> and a <a> low-cost carrier </a> , with its head office on the grounds of <a> Riga International Airport </a> in the capital , <a> Riga </a> .
+
+348	FALSE	AirBaltic:: founded	1995 / under	
+By September , the airline had begun operating under the European Aviation Operating Standards , or JAR ops .
+
+354	FALSE	AirBaltic:: iata	bt / Latvia	
+<p> <img> [[File : RIX Airport . JPG|thumb|[[Riga International Airport]] , the location of AirBaltic's head office and main hub]] <strong> A/S Air Baltic Corporation </strong> , operating as <strong> AirBaltic </strong> ( styled as <strong> airBaltic </strong> ) , is the <a> Latvia </a> n <a> flag carrier </a> <a> airline </a> and a <a> low-cost carrier </a> , with its head office on the grounds of <a> Riga International Airport </a> in the capital , <a> Riga </a> .
+
+355	FALSE	Viasa:: logo_size	135 / 1976	
+<p> By 1975 the airline , which had been a model of management and had returned a profit every year since its creation , began showing a disease typical of many other airlines , as , plagued by rising fuel costs and union problems , it posted its first ever loss for the fiscal October 1975-September 1976 year .
+
+356	FALSE	Viasa:: fleet_size	15 / 747	
+<p> Also , temporarily , a passenger 747 was leased from World Airways to operate passenger flights during the high vacation season in July/August/September to operate to Orlando , FL .
+
+357	TRUE	Viasa:: destinations	30 / 1987	
+<p> Two former <a> Lufthansa </a> <a> Airbus A300-B4 </a> jets were leased from GPA in 1987 for the <a> United States </a> and South American services .
+
+358	FALSE	Viasa:: iata	va / Venezuela	
+<p> <strong> Viasa </strong> ( <strong> Venezolana Internacional de Aviaci&#x00f3;n , Sociedad An&#x00f3;nima </strong> , <em> Venezuelan International Airways </em> ) , was a <a> Venezuela </a> n airline headquartered in the Torre Viasa in <a> Caracas </a> .
+
+359	TRUE	Viasa:: callsign	viasa / Aviaci&#	
+<p> <strong> Viasa </strong> ( <strong> Venezolana Internacional de Aviaci&#x00f3;n , Sociedad An&#x00f3;nima </strong> , <em> Venezuelan International Airways </em> ) , was a <a> Venezuela </a> n airline headquartered in the Torre Viasa in <a> Caracas </a> .
+
+366	TRUE	Viasa:: airline	viasa / International Airways	
+<p> <strong> Viasa </strong> ( <strong> Venezolana Internacional de Aviaci&#x00f3;n , Sociedad An&#x00f3;nima </strong> , <em> Venezuelan International Airways </em> ) , was a <a> Venezuela </a> n airline headquartered in the Torre Viasa in <a> Caracas </a> .
+
+367	TRUE	Viasa:: icao	via / Douglas	
+<p> In December 1968 , Viasa received its first DC-8-63 followed by the second one in May 1969 , standardizing its fleet on <a> Douglas </a> <a> airliner </a> s . </p>
+
+369	FALSE	EasyJet:: logo_size	300 / <a>	
+<p> In June 2007 , EasyJet announced plans for construction of its own airliner , dubbed <a> EcoJet </a> .
+
+373	FALSE	EasyJet:: parent	easyjet plc / Airline Company	
+<p> <strong> EasyJet Airline Company Limited </strong> ( styled as <strong> easyJet </strong> ) is a <a> British airline </a> headquartered at <a> London Luton Airport </a> .
+
+374	TRUE	EasyJet:: founded	1995 / 1995.	
+<p> The airline was established in 1995 .
+
+376	TRUE	EasyJet:: airline	easyjet / EasyJet	
+<p> <strong> EasyJet Airline Company Limited </strong> ( styled as <strong> easyJet </strong> ) is a <a> British airline </a> headquartered at <a> London Luton Airport </a> .
+
+377	FALSE	EasyJet:: icao	ezy / easyjet'	
+Southwest have a fleet age of 14 . 1 years whereas easyjet's fleet age is just 3 . 6 years . </p>
+
+382	FALSE	SAM Colombia:: iata	mm / de	
+<p> <strong> SAM </strong> ( <a> Spanish </a> <a> acronym </a> : <em> Sociedad Aeron&#x00e1;utica de Medell&#x00ed;n </em> ) was a Colombian <a> airline </a> .
+
+383	TRUE	SAM Colombia:: callsign	sam / SAM	
+<p> <strong> SAM </strong> ( <a> Spanish </a> <a> acronym </a> : <em> Sociedad Aeron&#x00e1;utica de Medell&#x00ed;n </em> ) was a Colombian <a> airline </a> .
+
+389	TRUE	SAM Colombia:: icao	sam / May	
+<p> The SAM Colombia fleet consists of the following aircraft ( at 4 May 2010 ) : </p>
+
+395	TRUE	Culebra Air Services:: founded	1998 / 1998	
+<p> <strong> Culebra Air Services </strong> , established in 1998 as Air Culebra , is a small <a> Puerto Rican </a> <a> airline </a> company that flies out of the island of <a> Culebra </a> , in <a> Puerto Rico </a> , and the <a> Luis Mu&#x00f1;oz Mar&#x00ed;n International Airport </a> , in <a> San Juan </a> . </p>
+
+417	TRUE	Trans Australia Airlines:: icao	taa / TAA	
+<p> ( the 'J' designator following from the 727's , being the first Jet aircraft in the TAA fleet ) . </p>
+
+434	TRUE	Pakistan International Airlines:: logo_size	201 / </	
+<p> During April 2009 , the management decided to launch a long-term &#x2018;Business Plan of PIA&#x2019; including purchase of new aircraft with details of the plan being finalised . </p>
+
+436	FALSE	Pakistan International Airlines:: iata	pk / flag	
+<p> <strong> Pakistan International Airlines Corporation </strong> ( ) , commonly known as <strong> PIA </strong> , is the <a> flag carrier </a> <a> airline </a> of <a> Pakistan </a> .
+
+437	TRUE	Pakistan International Airlines:: callsign	pakistan / International	
+<p> <strong> Pakistan International Airlines Corporation </strong> ( ) , commonly known as <strong> PIA </strong> , is the <a> flag carrier </a> <a> airline </a> of <a> Pakistan </a> .
+
+440	FALSE	Pakistan International Airlines:: frequent_flyer	pia awards plus+ / Emerald	
+Awards Plus+ has three tiers of membership &#x2013; Emerald , Sapphire and Diamond .
+
+443	FALSE	Pakistan International Airlines:: icao	pia / International	
+In 1974 air freight services started , as well as a cargo service to New York City under the name , 'Pakistan International Cargo' .
+
+444	TRUE	Japan Airlines:: logo_size	200 / 1.	
+In the <a> fiscal year </a> ended March 31 , 2009 , the airline group carried over 52 <a> million </a> passengers and over 1 . 1&nbsp;million <a> ton </a> s of cargo and <a> mail </a> . </p>
+
+448	FALSE	Japan Airlines:: callsign	japan air / YVR.	
+<p> <strong> Fleet notes </strong> [[File : JA8089-2008-08-15-YVR . jpg|thumb|JAL
+
+449	FALSE	Japan Airlines:: founded	august 1, 1951 / 27	
+Between August 27 and August 29 , the airline operated invitational flights on a <a> Douglas DC-3 </a> <em> Kinsei </em> , leased from <a> Philippine Airlines </a> .
+
+455	FALSE	Ariana Afghan Airlines:: fleet_size	10 / p>	
+The airline operates domestic and international passenger services . </p>
+
+457	TRUE	Ariana Afghan Airlines:: iata	fg / Co.	
+<p> <strong> Ariana Afghan Airlines Co . Ltd . </strong> is the oldest and the national <a> airline </a> of <a> Afghanistan </a> , and is currently the largest Afghan airline , headquartered in <a> Kabul </a> .
+
+458	TRUE	Ariana Afghan Airlines:: callsign	ariana / Co.	
+<p> <strong> Ariana Afghan Airlines Co . Ltd . </strong> is the oldest and the national <a> airline </a> of <a> Afghanistan </a> , and is currently the largest Afghan airline , headquartered in <a> Kabul </a> .
+
+461	TRUE	Ariana Afghan Airlines:: founded	1955 / 1955.	
+<p> Ariana Afghan Airlines was established on 27 January 1955 .
+
+465	TRUE	Ariana Afghan Airlines:: airline	ariana afghan airlines / headquartered	
+<p> <strong> Ariana Afghan Airlines Co . Ltd . </strong> is the oldest and the national <a> airline </a> of <a> Afghanistan </a> , and is currently the largest Afghan airline , headquartered in <a> Kabul </a> .
+
+466	TRUE	Ariana Afghan Airlines:: icao	afg / EU	
+<p> The entire Ariana Afghan Airlines fleet is on the <a> list of air carriers banned in the EU </a> .
+
+470	FALSE	Air Atlanta Icelandic:: destinations	6 / 2010 ) :	
+<p> Air Atlanta Icelandic operates services to the following international scheduled destinations ( at January 2010 ) : </p>
+
+472	TRUE	Air Atlanta Icelandic:: callsign	atlanta / Air	
+<p> <strong> Air Atlanta Icelandic </strong> is a <a> charter </a> and <a> cargo airline </a> based in <a> K&#x00f3;pavogur </a> , <a> Iceland </a> .
+
+474	TRUE	Air Atlanta Icelandic:: founded	1986 / 1986.	
+It started operations in 1986 . </p>
+
+479	TRUE	Air Atlanta Icelandic:: airline	air atlanta icelandic / Air Atlanta	
+<p> <strong> Air Atlanta Icelandic </strong> is a <a> charter </a> and <a> cargo airline </a> based in <a> K&#x00f3;pavogur </a> , <a> Iceland </a> .
+
+482	FALSE	Air Mauritius:: logo_size	200 / 80	
+It operates regional and international services to over 30 destinations with 80 flights per week .
+
+492	TRUE	Air Mauritius:: airline	air mauritius / Air	
+<p> <strong> Air Mauritius Limited </strong> is the <a> national airline </a> of <a> Mauritius </a> , based in the Air Mauritius Centre in <a> Port Louis </a> , the island's capital .
+
+493	TRUE	Air Mauritius:: icao	mau / fly	
+In March 2007 , Air Mauritius became the first southern African country airline to fly an all-Airbus fleet for long and medium haul routes . </p>
+
+497	FALSE	Swissair:: iata	sr / national	
+<p> <strong> Swissair AG </strong> ( <strong> Swiss Air Transport Company Limited </strong> , <strong> Schweizerische Luftverkehr </strong> ) was the former national <a> airline </a> of <a> Switzerland </a> . </p>
+
+498	TRUE	Swissair:: callsign	swissair / Air	
+<p> <strong> Swissair AG </strong> ( <strong> Swiss Air Transport Company Limited </strong> , <strong> Schweizerische Luftverkehr </strong> ) was the former national <a> airline </a> of <a> Switzerland </a> . </p>
+
+499	FALSE	Swissair:: parent	sairgroup / same	
+In the same year , Swissair helped <a> Aristotle Onassis </a> to form the new Greek airline , <a> Olympic Airways </a> . </p>
+
+505	TRUE	Swissair:: airline	swissair / Air Transport	
+<p> <strong> Swissair AG </strong> ( <strong> Swiss Air Transport Company Limited </strong> , <strong> Schweizerische Luftverkehr </strong> ) was the former national <a> airline </a> of <a> Switzerland </a> . </p>
+
+511	TRUE	Crossair:: callsign	crossair / Ltd.	
+<p> <strong> Crossair Ltd .
+
+516	TRUE	Crossair:: airline	crossair / Ltd.	
+<p> <strong> Crossair Ltd .
+
+519	FALSE	Air Jamaica:: destinations	7 / ]]	
+Air Jamaica [[Airbus A340-300|Airbus A340]] flaring at <a> London Heathrow Airport </a> ]] </p>
+
+521	TRUE	Air Jamaica:: callsign	jamaica / Caribbean	
+<p> <strong> Caribbean Airlines-Air Jamaica Transition Limited </strong> operating as <strong> Air Jamaica </strong> is the current national airline of Jamaica , receiving this status following its acquisition by <a> Caribbean Airlines </a> on 1 May 2010 .
+
+525	TRUE	Air Jamaica:: airline	air jamaica / Caribbean Airlines- Air	
+<p> <strong> Caribbean Airlines-Air Jamaica Transition Limited </strong> operating as <strong> Air Jamaica </strong> is the current national airline of Jamaica , receiving this status following its acquisition by <a> Caribbean Airlines </a> on 1 May 2010 .
+
+528	FALSE	Air Jamaica:: iata	jm / by	
+<p> <strong> Caribbean Airlines-Air Jamaica Transition Limited </strong> operating as <strong> Air Jamaica </strong> is the current national airline of Jamaica , receiving this status following its acquisition by <a> Caribbean Airlines </a> on 1 May 2010 .
+
+529	FALSE	Air Jamaica:: frequent_flyer	7th heaven / transition	
+The airline's acquisition by <a> Caribbean Airlines </a> of <a> Trinidad and Tobago </a> was implemented on 1 May 2010 , following which there will be a projected 6-12 month transition period .
+
+534	FALSE	Frontier Airlines:: callsign	frontier flight / Retired	
+<p> <strong> Retired Fleet </strong> </p>
+
+538	TRUE	Frontier Airlines:: airline	frontier airlines / United	
+<p> <strong> Frontier Airlines , Inc . </strong> is a major American airline headquartered in <a> Indianapolis </a> , <a> Indiana </a> , <a> United States </a> .
+
+540	FALSE	Frontier Airlines:: founded	1994 / 2007.	
+<p> In March 2007 , <a> Republic Airlines </a> slowly began replacing <a> Horizon Air </a> as the operator of their feeder service , Frontier Airlines operated by Republic Airlines; <a> Frontier JetExpress </a> , which was operated by Horizon Air , ceased operations on November 30 , 2007 .
+
+543	FALSE	TAROM:: fleet_size	26 / 1946.	
+Domestic operations were started from Bucharest ( <a> B&#x0103;neasa Airport </a> ) on 1 February 1946 .
+
+545	TRUE	TAROM:: iata	ro / an	
+The brand name <strong> <em> TAROM </em> </strong> is an <a> acronym </a> for ( Romanian Air Transport ) .
+
+546	TRUE	TAROM:: callsign	tarom / Air	
+The brand name <strong> <em> TAROM </em> </strong> is an <a> acronym </a> for ( Romanian Air Transport ) .
+
+553	FALSE	TAROM:: icao	rot / TAROM	
+<p> The average fleet age of the TAROM fleet is 9 . 5 years . </p>
+

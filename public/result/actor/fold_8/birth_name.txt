@@ -1,0 +1,94 @@
+Found: 31
+Found Not Null: 22
+Correct: 9
+Wrong: 13
+Total: 22
+precision: 0.4090909090909091
+recall: 0.4090909090909091
+
+
+
+0	TRUE	Richard Crenna::birth_name	richard donald crenna / Richard Donald Crenna	
+<p> <strong> Richard Donald Crenna </strong> ( November 30 , 1926 &#x2013 ; January 17 , 2003 ) was an American <a> motion picture </a> , <a> television </a> , and <a> radio </a> actor and occasional <a> television director </a> .
+
+1	FALSE	Louise Dresser::birth_name	louise josephine kerlin / was an American	
+<p> <strong> Louise Dresser </strong> ( October 5 , 1878 &ndash ; April 24 , 1965 ) was an American actress .
+
+#	NEW	birth_name	........ / Corinne Mae Griffith	// <p> <strong> Corinne Mae Griffith </strong> ( November 21 , 1894 &ndash ; July 13 , 1979 ) was an <a> American </a> actress .
+
+#	NEW	birth_name	........ / Christopher McQuarrie	// <p> <strong> Christopher McQuarrie </strong> ( born 1968 ) is an <a> American </a> screenwriter , producer and director .
+
+4	TRUE	John Malkovich::birth_name	john gavin malkovich / John Gavin Malkovich	
+<p> <strong> John Gavin Malkovich </strong> ( born December 9 , 1953 ) is an <a> American </a> <a> actor </a> , <a> producer </a> , and <a> director </a> .
+
+#	NEW	birth_name	........ / Charles Braun Ludlam	// <p> <strong> Charles Braun Ludlam </strong> ( April 12 , 1943 &#x2013 ; May 28 , 1987 ) was an <a> American </a> actor , director , and playwright . </p>
+
+6	TRUE	Ernie Wise::birth_name	ernest wiseman / Ernest Wiseman	
+<p> <strong> Ernest Wiseman </strong> <a> OBE </a> ( 27 November 1925 &#x2013 ; 21 March 1999 ) , known by his stage name <strong> Ernie Wise </strong> , was an English <a> comedian </a> , best known as one half of the comedy duo <a> Morecambe and Wise </a> , who became an institution on British <a> television </a> , especially for their <a> Christmas </a> specials . </p>
+
+7	FALSE	Lana Clarkson::birth_name	lana clarkson / Clarkson ' s best known films may be her work with	
+<p> Clarkson ' s best known films may be her work with <a> Roger Corman </a> , appearing first in his fantasy film <em> <a> Deathstalker </a> </em> , as a female warrio / love interest to the title character played by Richard Hill .
+
+8	FALSE	Lana Turner::birth_name	julia jean turner / an <a> American	
+<p> <strong> Lana Turner </strong> ( February 8 , 1921 &ndash ; June 29 , 1995 ) was an <a> American </a> <a> actress </a> . </p>
+
+9	FALSE	Buddy Ebsen::birth_name	christian rudolph ebsen, jr. / was an American	
+<p> <strong> Buddy Ebsen </strong> ( April 2 , 1908 &ndash ; July 6 , 2003 ) was an American <a> character actor </a> and dancer .
+
+#	NEW	birth_name	........ / Robert Osbourne &quot ; Bob&quot ; Denver	// <p> <strong> Robert Osbourne &quot ; Bob&quot ; Denver </strong> ( January 9 , 1935&nbsp ; &#x2013 ; September 2 , 2005 ) was an American comedic actor known for his roles as <a> Gilligan </a> on the television series <em> <a> Gilligan ' s Island </a> </em> and the <a> beatnik </a> <a> Maynard G . Krebs </a> on the 1959&#x2013 ; 1963 TV series <em> <a> The Many Loves of Dobie Gillis </a> </em> . </p>
+
+11	FALSE	Loretta Young::birth_name	gretchen michaela young / was an American	
+<p> <strong> Loretta Young </strong> ( January 6 , 1913 &ndash ; August 12 , 2000 ) was an American actress .
+
+12	TRUE	Robert Vaughn::birth_name	robert francis vaughn / Robert Francis Vaughn	
+<p> <strong> Robert Francis Vaughn </strong> , <a> PhD </a> ( born November 22 , 1932 ) , is an American actor noted for <a> stage </a> , <a> film </a> and <a> television </a> work .
+
+#	NEW	birth_name	........ / is an American actress , singer , and writer .	// <p> <strong> Debra Monk </strong> ( born February 27 , 1949 ) is an American actress , singer , and writer . </p>
+
+#	NEW	birth_name	........ / was an American	// <p> <strong> James Goldman </strong> ( June 30 , 1927 &#x2013 ; October 28 , 1998 ) was an American <a> screenwriter </a> and playwright , and the brother of screenwriter and novelist <a> William Goldman </a> . </p>
+
+#	NEW	birth_name	........ / Charles Hirsch &quot ; Chuck&quot ; Barris	// <p> <strong> Charles Hirsch &quot ; Chuck&quot ; Barris </strong> ( born June 3 , 1929 ) is an <a> American </a> <a> game show </a> producer , <a> film director </a> and presenter best known for hosting <em> <a> The Gong Show </a> </em> and creating <em> <a> The Dating Game </a> </em> .
+
+16	FALSE	Hugo Weaving::birth_name	hugo wallace weaving / filmed a guest role on Roxburgh ' s Australian TV series	
+Weaving filmed a guest role on Roxburgh ' s Australian TV series <em> <a> Rake </a> </em> in May 2010 . </p>
+
+17	TRUE	Erika Slezak::birth_name	erika alma hermina slezak / Erika Alma Hermina Slezak	
+<p> <strong> Erika Alma Hermina Slezak </strong> ( born August 5 , 1946 ) is an American actress of <a> Austria </a> n and <a> Dutch </a> descent , best known for her role as <a> Victoria &quot ; Viki&quot ; Lord Banks </a> on the American daytime <a> soap opera </a> <em> <a> One Life to Live </a> </em> . </p>
+
+18	TRUE	Dorothy Dandridge::birth_name	dorothy jean dandridge / Dorothy Jean Dandridge	
+<p> <strong> Dorothy Jean Dandridge </strong> ( November 9 , 1922 &ndash ; September 8 , 1965 ) was an American <a> actress </a> and <a> popular singer </a> , and was the first <a> African American </a> to be nominated for an <a> Academy Award for Best Actress </a> . </p>
+
+19	FALSE	Spalding Gray::birth_name	spalding rockwell gray / performance artist	
+January 10 , 2004 ) was an <a> American </a> <a> actor </a> , <a> playwright </a> , <a> screenwriter </a> , <a> performance artist </a> , and <a> monologuist </a> .
+
+20	TRUE	Lillian Gish::birth_name	lillian diana gish / Lillian Diana Gish	
+<p> <strong> Lillian Diana Gish </strong> ( October 14 , 1893&nbsp ; &#x2013 ; February 27 , 1993 ) was an American stage , screen and television actress whose film acting career spanned 75 years , from 1912 to 1987 . </p>
+
+21	FALSE	John Gilbert (actor)::birth_name	john cecil pringle / an American actor and a major star of the	
+<p> <strong> John Gilbert </strong> ( July 10 , 1899 &ndash ; January 9 , 1936 ) was an American actor and a major star of the <a> silent film </a> era . </p>
+
+22	FALSE	Mia Farrow::birth_name	maria de lourdes villiers farrow / Farrow has appeared	
+Farrow has appeared in more than forty-five films and won numerous awards , including a <a> Golden Globe </a> award ( and seven additional Golden Globe nominations ) , five <a> BAFTA Film Award </a> nominations , and a win for best actress at the <a> San Sebastian International Film Festival </a> .
+
+#	NEW	birth_name	........ / storyman and <a> voice actor	// <p> <strong> Jack Mercer </strong> ( January 13 , 1910 &ndash ; December 4 , 1984 ) was an <a> American </a> <a> animator </a> , storyman and <a> voice actor </a> .
+
+#	NEW	birth_name	........ / Robert Benedic &quot ; Ben&quot ; Browder	// <p> <strong> Robert Benedic &quot ; Ben&quot ; Browder </strong> ( born December 11 , 1962 ) is an <a> American </a> <a> actor </a> and <a> writer </a> , best known for his roles as <a> John Crichton </a> in <em> <a> Farscape </a> </em> and <a> Cameron Mitchell </a> in <em> <a> Stargate SG-1 </a> </em> . </p>
+
+25	TRUE	Oscar Micheaux::birth_name	oscar devereaux micheaux / Oscar Devereaux Micheaux	
+<p> <strong> Oscar Devereaux Micheaux </strong> ( 2 January 1884 &#x2013 ; 25 March 1951 ) was an American <a> author </a> , film <a> director </a> and independent producer of more than 44 films .
+
+26	TRUE	Rachel Roberts (actress)::birth_name	rachel roberts / November 1980 ) was	
+<p> <strong> Rachel Roberts </strong> ( 20 September 1927 &#x2013 ; 26 November 1980 ) was a <a> Welsh </a> <a> actress </a> noted for her fervour and passion ; Roberts is best remembered for her forthright screen performances in two key films of the 1960s , <em> <a> Saturday Night and Sunday Morning </a> </em> and <em> <a> This Sporting Life </a> </em> , in both of which she played the older mistress of the central male character . </p>
+
+27	FALSE	Samantha Eggar::birth_name	victoria louise samantha marie elizabeth therese eggar / won a Golden Globe award for this performance and was also named	
+She won a Golden Globe award for this performance and was also named <a> Best Actress </a> at the <a> Cannes Film Festival </a> .
+
+28	FALSE	Elizabeth Hartman::birth_name	mary elizabeth hartman / proved to be her last Hollywood film role.	
+This proved to be her last Hollywood film role . </p>
+
+29	FALSE	Kate Hudson::birth_name	kate garry hudson / film premiered on January 24, 2010 at the	
+The film premiered on January 24 , 2010 at the <a> Sundance Film Festival </a> . </p>
+
+30	FALSE	Diahann Carroll::birth_name	carol diahann johnson / Carroll is best known for her title role	
+<p> Carroll is best known for her title role in the 1968 television series <em> <a> Julia </a> </em> , which made her the first <a> African American </a> actress to star in her own <a> television series </a> where she did not play a domestic worker .
+

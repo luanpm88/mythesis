@@ -1,9 +1,0 @@
-Today it has only 26,000 students.
-<li>Casa Central: Headquarters.
-Main administrative services.
-&lt;small&gt;(<a>Web site</a>)&lt;/small&gt;</li>
-&lt;small&gt;(<a>Web site</a>)&lt;/small&gt;</li>
-&lt;small&gt;(<a>Web site</a>)&lt;/small&gt;</li>
-&lt;small&gt;(<a>Web site</a>) &lt;/small&gt;</li>
-&lt;small&gt;(<a>Web site</a>) &lt;/small&gt;</li>
-<li><a>Chile's NIC</a>.</li>

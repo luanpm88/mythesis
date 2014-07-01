@@ -1,3 +1,0 @@
-<li>Computer and Information Science</li>
-<li>Computer Science</li>
-<li>Computer &amp; Information Science</li>

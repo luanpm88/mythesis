@@ -1,9 +1,0 @@
-<h3>School of Music</h3>
-<li>Vocal Studies</li>
-<li>Scottish Music</li>
-<li>Academic Studies</li>
-<li>Junior School of Music</li>
-<li><a>Music Schools in Scotland</a></li>
-<li><a>Music of Scotland</a> </li>
-<li><a>Academy of Music</a> (disambiguation page)</li>
-<li><a>Royal Scottish Academy of Music and Drama website</a></li>

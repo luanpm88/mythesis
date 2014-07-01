@@ -1,0 +1,16 @@
+Found: 106
+Found Not Null: 2
+Correct: 0
+Wrong: 2
+Total: 2
+precision: 0.0
+recall: 0.0
+
+
+
+47	FALSE	Dalhousie University::chancellor	fred fountain / a member	
+It is a member of the <a> Group of Thirteen </a> , more commonly referred to as the G13, a group of the leading research universities in Canada. </p>
+
+76	FALSE	Victoria University, Toronto::chancellor	wendy cecil / somewhat separated from	
+Victoria University is somewhat separated from the rest of the university geographically, bordering <a> Queen's Park </a> , and being located on the eastern portion of the campus along with <a> St.
+

@@ -1,2 +1,0 @@
-<li><a>North Carolina State University</a></li>
-<li><a>University of North Carolina at Chapel Hill</a></li>

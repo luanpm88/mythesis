@@ -1,8 +1,0 @@
-It also owns one National-level Technical Transfer Center.
-<li>Chemical Engineering [<a>http://chemic.dlut.edu.cn/index.jsp</a>]</li>
-<li>Mechanics [<a>http://denm.dlut.edu.cn/</a>]</li>
-<li>Civil Engineering [<a>http://sche.dlut.edu.cn/</a>]</li>
-<li>Mechanical Engineering [<a>http://sme.dlut.edu.cn/</a>]</li>
-<li>Mathematics [<a>http://math.dlut.edu.cn/</a>]</li>
-<li>Environmental Engineering [<a>http://ebst.dlut.edu.cn/</a>]</li>
-<li>Management [<a>http://management.dlut.edu.cn/index.jsp</a>]</li>

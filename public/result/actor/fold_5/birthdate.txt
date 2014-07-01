@@ -1,0 +1,24 @@
+Found: 8
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	birthdate	........ / 6 , 1965 )	// <p> <strong> Margaret Dumont </strong> ( October 20 , 1882 &ndash ; March 6 , 1965 ) was an <a> American </a> comedic actress .
+
+#	NEW	birthdate	........ / 1703 ) , aka Susanna Mountfort , was an	// 1667 &#x2013 ; 1703 ) , aka Susanna Mountfort , was an <a> English </a> <a> actress </a> working in London .
+
+#	NEW	birthdate	........ / 7 , 1948 )	// <p> <strong> Susan Blakely </strong> ( born September 7 , 1948 ) is an American film actress who has mainly played supporting roles . </p>
+
+#	NEW	birthdate	........ / 1928 )	// <p> <strong> Jacques Rivette </strong> ( ; born 1 March 1928 ) is a French <a> film director </a> . </p>
+
+#	NEW	birthdate	........ / 2 February 1922	// <p> <strong> Stoyanka Konstantinova Mutafova </strong> ( ) ( born 2 February 1922 in <a> Sofia </a> ) is a <a> Bulgaria </a> n actress .
+
+#	NEW	birthdate	........ / 15 , 2001 )	// <p> <strong> Ann Sothern </strong> ( January 22 , 1909 &ndash ; March 15 , 2001 ) was an American <a> film and television actress </a> with a career spanning six decades . </p>
+
+#	NEW	birthdate	........ / 8 , 1918 &	// <p> <strong> Robert Preston </strong> ( June 8 , 1918 &ndash ; March 21 , 1987 ) was an <a> American </a> stage and film actor . </p>
+
+#	NEW	birthdate	........ / 10 , 1935 )	// <p> <strong> Sherrill Milnes </strong> ( born January 10 , 1935 ) is an <a> American </a> operatic <a> baritone </a> most famous for his <a> Verdi </a> roles .
+

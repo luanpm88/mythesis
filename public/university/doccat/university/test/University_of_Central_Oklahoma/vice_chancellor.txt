@@ -1,9 +1,0 @@
-<li><a>John Pizzarelli</a></li>
-<li>Joshua B. Gibson 1873-1891</li>
-<li>George W. Winans 1893-1894</li>
-<li>Grant B. Grumbine 1916-1917</li>
-<li>John G. Michell 1919-1931</li>
-<li>John O. Mosley 1935-1939</li>
-<li>Roscoe R. Robinson 1939-1948</li>
-<li>Bill J. Lillard 1975-1992</li>
-<li><a>Wei R. Chen</a>, Professor of biomedical engineering and recipient of 2008 U.S. Professor of the Year award from <a>CASE</a></pre>

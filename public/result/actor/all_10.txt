@@ -1,0 +1,44 @@
+Total articles: 312
+Articles for test: 281
+Articles for train: 31
+Total attributes: 64
+Attributes with high occurrences: 5/64
+
+------------
+Found: 73
+Found Not Null: 27
+Correct: 20
+Wrong: 7
+Total: 30
+precision: 0.7407407407407407
+recall: 0.6666666666666666
+
+
+
+0	TRUE	Blythe Danner:: birth_name	blythe katherine danner / Blythe Katherine Danner	// <p> <strong> Blythe Katherine Danner </strong> ( born February 3 , 1943 ) is an American <a> actress </a> .
+1	TRUE	Blythe Danner:: occupation	actress / Actress	// Danner often said the proudest night of her life was when Gwyneth won an <a> Academy Award </a> for Best Actress ( for <em> <a> Shakespeare in Love </a> </em> ) and Danner was the first person her daughter thanked , tearfully , followed by her father and grandfather . </p>
+2	TRUE	Brian De Palma:: birth_name	brian russell de palma / Brian Russell De Palma	// <p> <strong> Brian Russell De Palma </strong> ( born September 11 , 1940 ) is an <a> American </a> <a> film director </a> and <a> writer </a> .
+5	TRUE	Bruce Campbell:: birth_name	bruce lorne campbell / is an American actor	// <p> <strong> Bruce Lorne Campbell </strong> ( born June 22 , 1958 ) is an American actor , <a> producer </a> , writer , and <a> director </a> .
+9	FALSE	Caitlin Clarke:: birth_name	katherine anne clarke / actress best known for her role	// <p> <strong> Caitlin Clarke </strong> ( May 3 , 1952 &#x2013; September 9 , 2004 ) was an American <a> theater </a> and <a> film </a> actress best known for her role as Valerian in the 1981 fantasy film <em> <a> Dragonslayer </a> </em> and for her role as Charlotte Cardoza in the 1998&#x2013;1999 <a> Broadway </a> <a> musical </a> <em> <a> Titanic </a> </em> . </p>
+12	FALSE	Cary Elwes:: occupation	actor / Wars	// He earned two <a> Golden Satellite Award </a> nominations for his performances in the television films <em> <a> The Pentagon Wars </a> </em> and <em> <a> Uprising </a> </em> .
+13	TRUE	Cary Elwes:: birth_name	ivan simon cary elwes / Ivan Simon Cary Elwes	// <p> <strong> Ivan Simon Cary Elwes </strong> ( born 26 October 1962 ) , known professionally as <strong> Cary Elwes </strong> , is an English actor , known for his performances in <em> <a> Lady Jane </a> </em> , <em> <a> The Princess Bride </a> </em> , <em> <a> Robin Hood : Men in Tights </a> </em> , <em> <a> Hot Shots ! </a> </em> , <em> <a> Glory </a> </em> , <em> <a> Liar Liar </a> </em> , <em> <a> Saw </a> </em> and <em> <a> Saw 3D </a> </em> , <em> <a> Twister </a> </em> , and <em> <a> Kiss the Girls </a> </em> . </p>
+15	TRUE	Calista Flockhart:: birth_name	calista kay flockhart / Calista Kay Flockhart	// <p> <strong> Calista Kay Flockhart </strong> ( born November 11 , 1964 ) is an American actor who is primarily recognized for her work in television .
+16	FALSE	Calista Flockhart:: occupation	actress / her	// Flockhart received a <a> Clarence Derwent Award </a> for her performance .
+23	TRUE	David Cronenberg:: birth_name	david paul cronenberg / David Paul Cronenberg	// <p> <strong> David Paul Cronenberg </strong> , <a> OC </a> , <a> FRSC </a> ( born March 15 , 1943 ) is a <a> Canadian </a> <a> filmmaker </a> and <a> screenwriter </a> .
+26	TRUE	Delroy Lindo:: occupation	actor / Tony	// Lindo has been nominated for the <a> Tony </a> and <a> Screen Actors Guild </a> awards and has won a <a> Satellite Award </a> .
+28	TRUE	Dwight Schultz:: birth_name	william dwight schultz / William Dwight Schultz	// <p> <strong> William Dwight Schultz </strong> ( born November 24 , 1947 ) is an <a> American </a> stage , television , and film <a> actor </a> .
+30	TRUE	Dirk Benedict:: birth_name	dirk niewoehner / perhaps best known for playing the characters	// <p> <strong> Dirk Benedict </strong> ( born <strong> Dirk Niewoehner </strong> ; March 1 , 1945 ) is an <a> American </a> <a> movie </a> , <a> television </a> and <a> stage </a> <a> actor </a> , perhaps best known for playing the characters <a> Lieutenant Templeton &quot;Faceman&quot; Peck </a> in <em> <a> The A-Team </a> </em> <a> television series </a> and <a> Lieutenant Starbuck </a> in the original <em> <a> Battlestar Galactica </a> </em> film and television series . </p>
+31	TRUE	Dolores Fuller:: birth_date	1923 / Wood,	// <p> <strong> Dolores Fuller </strong> ( born 1923 ) is an American <a> actress </a> and <a> songwriter </a> best known as the one-time girlfriend of the low-budget film director <a> Edward D . Wood , Jr . </a>
+37	TRUE	Elizabeth Gracen:: birth_name	elizabeth grace ward / Elizabeth Grace Ward	// She was born <strong> Elizabeth Grace Ward </strong> but should not be confused with another Elizabeth Ward who worked as a television actress during the first half of the 1980s . </p>
+40	TRUE	George Lucas:: birth_name	george walton lucas, jr. / George Walton Lucas, Jr.	// <p> <strong> George Walton Lucas , Jr . </strong> ( born May 14 , 1944 ) is an American film producer , <a> screenwriter </a> , director and founder/chairman of <a> Lucasfilm </a> Ltd .
+42	TRUE	Gary Coleman:: birth_name	gary wayne coleman / Gary Wayne Coleman	// <p> <strong> Gary Wayne Coleman </strong> ( February 8 , 1968&nbsp;&#x2013; May 28 , 2010 ) was an American actor , known for his childhood role as <a> Arnold Jackson </a> in the American sitcom <em> <a> Diff'rent Strokes </a> </em> ( 1978&#x2013;1986 ) and for his small stature as an adult .
+43	FALSE	Gary Coleman:: occupation	actor / musical	// <p> Coleman is parodied in the hit 2003 Broadway <a> musical </a> <em> <a> Avenue Q </a> </em> , which won the 2004 <a> Tony Award </a> for <a> best musical </a> .
+45	TRUE	Graham Chapman:: birth_name	graham arthur chapman / Graham Arthur Chapman	// <p> <strong> Graham Arthur Chapman </strong> ( 8 January 1941 &#x2013; 4 October 1989 ) was an <a> English </a> <a> comedian </a> , <a> actor </a> , <a> writer </a> , <a> physician </a> and one of the six members of the <a> Monty Python </a> comedy troupe .
+51	TRUE	Gary Busey:: birth_name	william gary busey / William Gary Busey	// <p> <strong> Gary Busey </strong> ( born <strong> William Gary Busey </strong> June 29 , 1944 in <a> Baytown , Texas </a> ) is an American <a> film </a> and <a> stage </a> actor and artist .
+52	TRUE	Gary Busey:: occupation	actor / Actor	// He received an Oscar nomination for Best Actor in 1978 for his role in <em> The Buddy Holly Story . </em>
+60	TRUE	Harry Secombe:: birth_name	harry donald secombe / Sir Harry Donald Secombe	// <p> <strong> Sir Harry Donald Secombe </strong> <a> CBE </a> ( 8 September 1921 &#x2013; 11 April 2001 ) was a <a> Welsh </a> entertainer with a talent for comedy and a noted fine tenor singing voice .
+62	FALSE	Humphrey Bogart:: birth_name	humphrey deforest bogart / The Barefoot Contessa	// <p> <em> <a> The Barefoot Contessa </a> </em> , directed by <a> Joseph Mankiewicz </a> in 1954 and filmed in <a> Rome </a> , gave Bogart one of his subtlest roles .
+63	TRUE	Humphrey Bogart:: occupation	actor / actor	// During his career he was nominated for several awards including the <a> BAFTA </a> award for best foreign actor in 1952 for <em> <a> The African Queen </a> </em> and several <a> Academy Awards </a> . </p>
+64	TRUE	Harry Shearer:: birth_name	harry julius shearer / Harry Julius Shearer	// <p> <strong> Harry Julius Shearer </strong> ( born December 23 , 1943 ) is an American actor , comedian , writer , <a> voice artist </a> , musician , author and radio host .
+66	FALSE	Izabella Scorupco:: birth_name	izabela dorota skorupko / Poland ) is an actress who is most famous for appearing	// <p> <strong> Izabella Scorupco </strong> , or <strong> Skorupko </strong> ( born June 4 , 1970 in <a> Bia&#x0142;ystok </a> , Poland ) is an actress who is most famous for appearing as <a> Bond girl </a> <a> Natalya Simonova </a> in the 1995 <a> James Bond </a> film <em> <a> GoldenEye </a> </em> . </p>
+72	FALSE	Ian McKellen:: occupation	actor / Tony	// He has received a <a> Tony Award </a> and two <a> Academy Award </a> nominations .

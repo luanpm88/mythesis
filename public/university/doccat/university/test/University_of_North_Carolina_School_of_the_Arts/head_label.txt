@@ -1,4 +1,0 @@
-<li>School of Dance</li>
-<li>School of Drama</li>
-<li>School of Filmmaking</li>
-<h3>Present and future</h3>

@@ -1,0 +1,39 @@
+Total articles: 312
+Articles for test: 281
+Articles for train: 31
+Total attributes: 64
+Attributes with high occurrences: 5/64
+
+------------
+Found: 87
+Found Not Null: 22
+Correct: 12
+Wrong: 10
+Total: 26
+precision: 0.5454545454545454
+recall: 0.46153846153846156
+
+
+
+0	FALSE	Lou Tellegen:: birth_name	isidore louis bernard edmon van dommelen / silent film	// <p> <strong> Lou Tellegen </strong> ( November 26 , 1881 &ndash; October 29 , 1934 ) was a <a> Dutch </a> -born <a> silent film </a> and stage <a> actor </a> , <a> director </a> and <a> screenwriter </a> . </p>
+9	TRUE	June Whitfield:: birth_name	june rosemary whitfield / June Rosemary Whitfield	// <p> <strong> June Rosemary Whitfield </strong> , <a> CBE </a> ( born 11 November 1925 ) is an <a> English </a> <a> actress </a> , known in the <a> United Kingdom </a> since the 1950s for roles in <a> radio </a> and <a> television </a> <a> comedy </a> series .
+17	TRUE	Michael Douglas:: birth_name	michael kirk douglas / Michael Kirk Douglas	// <p> <img> <strong> Michael Kirk Douglas </strong> ( born September 25 , 1944 ) is an American actor and <a> producer </a> , primarily in movies and television .
+20	TRUE	Ashley Olsen:: birth_name	ashley fuller olsen / Ashley Fuller Olsen	// <p> <strong> Ashley Fuller Olsen </strong> ( born June 13 , 1986 ) is an American <a> fashion designer </a> , <a> entrepreneur </a> , and <a> actress </a> .
+23	FALSE	F. W. Murnau:: birth_name	friedrich wilhelm plumpe / the most influential	// W . &quot; Murnau </strong> ( December 28 , 1888 &ndash; March 11 , 1931 ) was one of the most influential <a> German </a> <a> film director </a> s of the <a> silent era </a> , and a prominent figure in the <a> expressionist </a> movement in German cinema during the 1920s .
+24	FALSE	F. W. Murnau:: occupation	film director / Wings	// In winning the <a> Academy Award for Unique and Artistic Production </a> it shared what is now the <a> Best Picture </a> award with the movie <em> <a> Wings </a> </em> . </p>
+26	TRUE	Maggie Smith:: birth_name	margaret natalie smith cross / Margaret Natalie Smith Cross	// <p> <strong> Dame Margaret Natalie Smith Cross </strong> , <a> DBE </a> ( born 28 December 1934 ) , better known as <strong> Maggie Smith </strong> , is an <a> English </a> film , stage , and television actress who made her stage debut in 1952 and is still performing after 58 years .
+27	FALSE	Maggie Smith:: occupation	actress / Awards	// She has won numerous awards for acting , both for the stage and for film , including five <a> BAFTA Award </a> s , two <a> Academy Awards </a> , two <a> Golden Globe </a> s , two <a> Emmy Award </a> s , two <a> Laurence Olivier Award </a> s , two <a> SAG Awards </a> , and a <a> Tony Award </a> .
+32	TRUE	George C. Scott:: birth_name	george campbell scott / George Campbell Scott	// <p> <strong> George Campbell Scott </strong> ( October 18 , 1927 &ndash; September 22 , 1999 ) was an American stage and film <a> actor </a> , <a> director </a> and <a> producer </a> .
+35	FALSE	Neve Campbell:: birth_name	neve adrianne campbell / Campbell began dating	// In 2005 , Campbell began dating <a> John Light </a> , an <a> English </a> actor whom she met while filming the movie <em> <a> Investigating Sex </a> </em> .
+36	FALSE	Neve Campbell:: occupation	actress / The	// She subsequently appeared in leading roles in several <a> Hollywood </a> films , including <em> <a> Scream </a> </em> , <em> <a> The Craft </a> </em> , and <em> <a> Wild Things </a> , </em> and has since appeared in smaller parts and returned to stage roles . </p>
+39	FALSE	Ernst Lubitsch:: birth_name	ernst lubitsch / tailor Simcha ( Simon ) Lubitch ( ) and his wife Anna of	// <p> Born in <a> Berlin </a> , as son of a <a> Jewish </a> tailor Simcha ( Simon ) Lubitch ( ) and his wife Anna of <a> Russian </a> immigrants .
+46	TRUE	Jessica Tandy:: occupation	actress / Actress	// <p> She became the oldest actress to receive the <a> Academy Award for Best Actress </a> for her role in <em> <a> Driving Miss Daisy </a> </em> ( 1989 ) , for which she also won a <a> BAFTA </a> and a <a> Golden Globe </a> , and was nominated for an <a> Academy Award for Best Supporting Actress </a> for <em> <a> Fried Green Tomatoes </a> </em> ( 1991 ) .
+48	FALSE	Oliver Hardy:: occupation	actor / film &#	// <em> <a> The Music Box </a> </em> , a 1932 short , won them an <a> Academy Award </a> for best short film &#x2014; their only such award . </p>
+50	FALSE	Oliver Hardy:: birth_name	norvell hardy / the classic <a> double act	// <p> <strong> Oliver Hardy </strong> ( January 18 , 1892 &ndash; August 7 , 1957 ) was an American <a> comic </a> actor famous as one half of <a> Laurel and Hardy </a> , the classic <a> double act </a> that began in the era of <a> silent films </a> and lasted nearly 30 years , from 1927 to 1955 . </p>
+56	TRUE	Jean Seberg:: birth_name	jean dorothy seberg / Jean Dorothy Seberg	// <p> <strong> Jean Dorothy Seberg </strong> ( November 13 , 1938 &#x2013; August 30 , 1979 ) was an <a> American </a> <a> actress </a> .
+57	FALSE	Jean Seberg:: occupation	actress / Black	// She also supported the <a> Black Panther Party </a> . </p>
+58	TRUE	Jane Birkin:: birth_name	jane mallory birkin / Jane Mallory Birkin	// <p> <strong> Jane Mallory Birkin </strong> , <a> OBE </a> ( born 14 December 1946 ) is an English-born actress and singer who lives in <a> France </a> .
+63	TRUE	Eric Morecambe:: birth_name	john eric bartholomew / John Eric Bartholomew	// <p> <strong> John Eric Bartholomew </strong> <a> OBE </a> ( 14 May 1926 &#x2013; 28 May 1984 ) , known by his stage name <strong> Eric Morecambe </strong> , was an English <a> comedian </a> who together with <a> Ernie Wise </a> formed the award-winning <a> double act </a> <a> Morecambe and Wise </a> .
+65	TRUE	LeVar Burton:: birth_name	levardis robert martyn burton, jr. / Levardis Robert Martyn Burton, Jr.	// <p> <strong> Levardis Robert Martyn Burton , Jr . </strong> ( born February 16 , 1957 ) professionally known as <strong> LeVar Burton </strong> , is an <a> American </a> <a> actor </a> , <a> director </a> , <a> producer </a> and <a> author </a> who first came to prominence portraying <a> Kunta Kinte </a> in the 1977 award-winning <a> ABC </a> television miniseries <em> <a> Roots </a> </em> , based on the novel by <a> Alex Haley </a> .
+79	TRUE	Jonathan Frakes:: birth_name	jonathan scott frakes / Jonathan Scott Frakes	// <p> <strong> Jonathan Scott Frakes </strong> ( born August 19 , 1952 ) is an <a> American </a> <a> actor </a> , <a> author </a> and <a> director </a> , best known for his portrayal of <a> Commander </a> <a> William T . Riker </a> in the television series <em> <a> Star Trek : The Next Generation </a> </em> and as <a> David Xanatos </a> in the animated television series <em> <a> Gargoyles </a> </em> . </p>
+82	TRUE	Wendy Hiller:: birth_name	wendy margaret hiller / Wendy Margaret Hiller	// <p> <strong> Dame Wendy Margaret Hiller </strong> <a> DBE </a> ( 15 August 1912 &#x2013; 14 May 2003 ) was an <a> English </a> <a> film </a> and <a> stage </a> <a> actress </a> , who enjoyed a varied acting career that spanned nearly sixty years .

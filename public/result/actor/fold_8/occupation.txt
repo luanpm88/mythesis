@@ -1,0 +1,69 @@
+Found: 23
+Found Not Null: 9
+Correct: 6
+Wrong: 3
+Total: 11
+precision: 0.6666666666666666
+recall: 0.5454545454545454
+
+
+
+0	TRUE	Louise Dresser::occupation	actress / Actress	
+During the first presentations of the <a> Academy Awards </a> in 1929 she was nominated for the <a> Academy Award for Best Actress </a> for <em> <a> A Ship Comes In </a> </em> . </p>
+
+#	NEW	occupation	........ / Academy	// <p> Singer and McQuarrie collaborated again on the 1995 film <em> <a> The Usual Suspects </a> </em> , for which McQuarrie received best screenplay awards from <em> <a> Premiere </a> </em> magazine , The Texas Board of Review , and the Chicago Critics as well as the <a> Edgar Award </a> , The Independent Spirit Award , and the British and American Academy Awards .
+
+2	FALSE	John Malkovich::occupation	actor / Award	
+For his roles in <em> <a> Places in the Heart </a> </em> and <em> <a> In the Line of Fire </a> </em> , he received <a> Academy Award </a> nominations .
+
+#	NEW	occupation	........ / actor	// <p> <strong> Charles Braun Ludlam </strong> ( April 12 , 1943 &#x2013 ; May 28 , 1987 ) was an <a> American </a> actor , director , and playwright . </p>
+
+#	NEW	occupation	........ / by	// <p> Clarkson ' s best known films may be her work with <a> Roger Corman </a> , appearing first in his fantasy film <em> <a> Deathstalker </a> </em> , as a female warrio / love interest to the title character played by Richard Hill .
+
+5	TRUE	Lana Turner::occupation	actress / Actress	
+<p> Turner ' s career recovered briefly after she appeared in the hugely successful big-screen adaptation of <a> Grace Metalious </a> ' s best-selling novel , <em> <a> Peyton Place </a> </em> ( 1957 ) , for which she was nominated for an <a> Academy Award for Best Actress </a> .
+
+#	NEW	occupation	........ / Actor -	// <p> Vaughn ' s first notable appearance was in <em> <a> The Young Philadelphians </a> </em> ( 1959 ) for which he was nominated for an <a> Academy Award for Best Supporting Actor </a> and a <a> Golden Globe Award for Best Supporting Actor - Motion Picture </a> .
+
+#	NEW	occupation	........ / actress	// <p> <strong> Debra Monk </strong> ( born February 27 , 1949 ) is an American actress , singer , and writer . </p>
+
+#	NEW	occupation	........ / William	// <p> <strong> James Goldman </strong> ( June 30 , 1927 &#x2013 ; October 28 , 1998 ) was an American <a> screenwriter </a> and playwright , and the brother of screenwriter and novelist <a> William Goldman </a> . </p>
+
+#	NEW	occupation	........ / Game	// <p> <strong> Charles Hirsch &quot ; Chuck&quot ; Barris </strong> ( born June 3 , 1929 ) is an <a> American </a> <a> game show </a> producer , <a> film director </a> and presenter best known for hosting <em> <a> The Gong Show </a> </em> and creating <em> <a> The Dating Game </a> </em> .
+
+10	TRUE	Erika Slezak::occupation	actress / Actress	
+<p> Slezak has won six <a> Daytime Emmy Award </a> s in the category of &quot ; <a> Outstanding Lead Actress in a Drama Series </a> &quot ; out of eight nominations .
+
+#	NEW	occupation	........ / Actress	// In 1954 , she was nominated for an <a> Academy Award </a> for Best Actress and a <a> BAFTA Award </a> for Best Actress in a Leading Role for <em> <a> Carmen Jones </a> </em> , and , in 1959 , was nominated for a <a> Golden Globe </a> Award for Best Actress in a Motion Picture Musical or Comedy for <em> <a> Porgy and Bess </a> </em> .
+
+12	TRUE	Lillian Gish::occupation	actress / Actress	
+<p> Returning to movies , Gish was nominated for the <a> Academy Award for Best Supporting Actress </a> in 1946 for <em> <a> Duel in the Sun </a> </em> .
+
+13	FALSE	John Gilbert (actor)::occupation	actor, director, writer / actor	
+<p> <strong> John Gilbert </strong> ( July 10 , 1899 &ndash ; January 9 , 1936 ) was an American actor and a major star of the <a> silent film </a> era . </p>
+
+14	FALSE	Mia Farrow::occupation	actress, singer / actress	
+Farrow has appeared in more than forty-five films and won numerous awards , including a <a> Golden Globe </a> award ( and seven additional Golden Globe nominations ) , five <a> BAFTA Film Award </a> nominations , and a win for best actress at the <a> San Sebastian International Film Festival </a> .
+
+#	NEW	occupation	........ / actor	// <p> <strong> Jack Mercer </strong> ( January 13 , 1910 &ndash ; December 4 , 1984 ) was an <a> American </a> <a> animator </a> , storyman and <a> voice actor </a> .
+
+#	NEW	occupation	........ / Actor	// He has received two <a> Saturn Awards </a> for Best Actor In A Television Role for his acting in <em> Farscape </em> .
+
+#	NEW	occupation	........ / director	// <p> <strong> Oscar Devereaux Micheaux </strong> ( 2 January 1884 &#x2013 ; 25 March 1951 ) was an American <a> author </a> , film <a> director </a> and independent producer of more than 44 films .
+
+#	NEW	occupation	........ / Actress	// <p> She appeared in supporting roles in several American films such as <em> <a> Foul Play </a> </em> ( 1978 ) after relocating to <a> Los Angeles </a> in the early 1970s , her final British film being <em> <a> Yanks </a> </em> ( 1979 , directed by <a> John Schlesinger </a> ) , for which she received a Supporting Actress BAFTA .
+
+19	TRUE	Samantha Eggar::occupation	actress / William	
+She received a nomination for the <a> Academy Award for Best Actress </a> for <em> <a> The Collector </a> </em> ( 1965 ) , directed by <a> William Wyler </a> .
+
+#	NEW	occupation	........ / Actress .	// The role also won Hartman an Academy Award nomination for Best Actress .
+
+21	TRUE	Kate Hudson::occupation	actress / Actress	
+She came to prominence in 2001 after winning a <a> Golden Globe </a> and receiving several nominations , including a nomination for an <a> Academy Award for Best Supporting Actress </a> , for her role in <em> <a> Almost Famous </a> </em> .
+
+#	NEW	occupation	........ / Actress	// In 1974 , she was nominated for an <a> Academy Award for Best Actress </a> for <em> <a> Claudine </a> </em> .
+
+#	null	occupation	actor / ..........
+
+#	null	occupation	actress / ..........
+

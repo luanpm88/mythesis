@@ -1,9 +1,0 @@
-<h2>University Library (Shrimati Hansa Mehta Library)</h2>
-Hansa Mehta Library: 4,56,033</li>
-<li>Faculty of Law Library: 7,305</li>
-<li>Sir Sayajirao Memorial Trust (SSMT) Library: 4,56,033 Combine with H M Library</li>
-<li>Polytechnic Library, Polytechnic College: 41,170</li>
-<li>Faculty of Management Studies Library: 5,514</li>
-<li>Faculty of Social Work Library: 13,499</li>
-<li>Oriental Institute Library: 49,347</li>
-<li>Baroda Sanskrit Mahavidyalaya Library: 5,244</li>

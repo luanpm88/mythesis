@@ -1,9 +1,0 @@
-<li><a>Karen Allen</a>, actress</li>
-<li><a>Luis Antonio</a>, Fashion Designer</li>
-<li><a>Fonzworth Bentley</a>, Hip Hop Artist, Entertainer, Fashion Designer</li>
-<li><a>Laura Dahl</a>, fashion Designer</li>
-<li><a>Marisol Deluna</a>, fashion designer/Founder, Deluna By Design, Inc.- Marisol Deluna New York</li>
-<li><a>Antonio Lopez</a>, Fashion illustrator</li>
-<li><a>Ralph Rucci</a> (1980), Fashion designer, <a>Chado Ralph Rucci</a></li>
-<li><a>Ivy Supersonic</a>, hat designer</li>
-<li><a>Isabel Toledo</a>, fashion designer</li>

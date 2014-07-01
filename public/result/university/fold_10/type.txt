@@ -1,0 +1,16 @@
+Found: 112
+Found Not Null: 2
+Correct: 1
+Wrong: 1
+Total: 2
+precision: 0.008928571428571428
+recall: 0.5
+
+
+
+35	FALSE	Upper Iowa University::type	private / and	
+<p> Upper Iowa offers both undergraduate and graduate degree programs in more than 40 majors, including art, business, conservation management, education, higher education administration, human services, information technology, liberal arts, math, nursing, psychology, science, and more.
+
+76	TRUE	University for Peace::type	graduate / interdisciplinary	
+The Charter of the university calls for UPEACE &quot;to contribute to the great universal task of educating for peace by engaging in teaching, research, post-graduate training and dissemination of knowledge fundamental to the full development of the human person and societies through the interdisciplinary study of all matters related to peace&quot;.
+

@@ -1,0 +1,66 @@
+Found: 29
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	hubs	........ / Seattle	// In February 2006 the airline and its subsidiaries were wholly acquired by <a> Seattle </a> -based Saltchuk Resources .
+
+#	NEW	hubs	........ / later	// Eleven minutes later , Stapleton Airport tower controllers saw two bright lights suddenly appear in the sky north-northwest of the airport .
+
+#	NEW	hubs	........ / AB	// <p> <strong> Transwede Airways <a> AB </a> </strong> was a <a> charter airline </a> based at <a> Gothenburg-Landvetter Airport </a> in <a> Landvetter </a> , <a> H&#x00e4 ; rryda Municipality </a> , near <a> Gothenburg </a> .
+
+#	NEW	hubs	........ / Haines	// Its main base was <a> Haines Airport </a> , with a hub at <a> Juneau International Airport </a> . </p>
+
+#	NEW	hubs	........ / airline	// <p> <strong> Challenge Aero </strong> is an <a> airline </a> based in <a> Kiev </a> , <a> Ukraine </a> .
+
+#	NEW	hubs	........ / Airlines	// It is the low cost arm of <a> Blue Panorama Airlines </a> and operates domestic and international services .
+
+#	NEW	hubs	........ / Current	// <p> : <em> Main article : <a> Avianca - Fleet - Current </a> </em> </p>
+
+#	NEW	hubs	........ / Mohammed	// It operates mainly from two hubs at <a> Murtala Mohammed International Airport </a> , Lagos and <a> Nnamdi Azikiwe International Airport </a> , Abuja .
+
+#	NEW	hubs	........ / Airlines	// A joint venture between <a> Shanghai Airlines </a> and <a> EVA Air </a> of the <a> Evergreen Group </a> based in <a> Taiwan </a> , <a> Republic of China </a> , it was established in June 2006 . </p>
+
+#	NEW	hubs	........ / Tacoma	// Its main headquarters was <a> Seattle-Tacoma International Airport </a> . </p>
+
+#	NEW	hubs	........ / Barajas	// Its main base was <a> Madrid Barajas International Airport </a> . </p>
+
+#	NEW	hubs	........ / Hebron	// Flight 444 was scheduled between <a> Hebron , Kentucky </a> ' s Greater Cincinnati Airport ( <a> Cincinnati , Ohio </a> area ) and <a> Nashville , Tennessee </a> .
+
+#	NEW	hubs	........ / September	// <p> Cosmos Air Cargo ( Transporte A&#x00e9 ; reo de Carga COSMOS ) fleet consists of the following aircraft ( at September 2005 ) : </p>
+
+#	NEW	hubs	........ / 2006	// <p> As of August <a> 2006 </a> the SADELCA fleet includes : </p>
+
+#	NEW	hubs	........ / 2006	// <p> The AeroSur fleet consists of the following aircraft ( at September <a> 2006 </a> ) .
+
+#	NEW	hubs	........ / Station	// &#x00d8 ; rland Airport is the civilian section of the military <a> &#x00d8 ; rland Main Air Station </a> .
+
+#	NEW	hubs	........ / Canada	// Though the global headquarters are in Richmond , B . C . , <a> Canada </a> , the company has its main base at <a> Stavanger Airport , Sola </a> . </p>
+
+#	NEW	hubs	........ / plane	// The Dash 8-301 passenger plane , registered HK-3952 , operated on an international flight from Cura&#x00e7 ; ao-Hato International Airport ( CUR ) .
+
+#	NEW	hubs	........ / operator	// <p> Transat A . T . is an international <a> tour operator </a> and holiday travel specialist based in <a> Montreal </a> .
+
+#	NEW	hubs	........ / Costilla	// Its main base was <a> Don Miguel Hidalgo y Costilla International Airport </a> , Guadalajara . </p>
+
+#	NEW	hubs	........ / UK	// It sells flights and services from several airports in the <a> UK </a> and <a> Ireland </a> with bases in <a> Belfast City </a> , <a> Blackpool </a> , <a> Cardiff </a> and <a> Isle of Man </a> .
+
+#	NEW	hubs	........ / Janeiro	// <p> The company ' s main objective is to operate in the market of scheduled regional flights , connecting the city of Rio de Janeiro to other cities within the state of <a> Rio de Janeiro </a> and neighboring States .
+
+#	NEW	hubs	........ / of	// At the time of this announcement , the airline also stated it was considering flying all of its domestic flights out of [ [ Avra Valley Airport ] ] in neighboring [ [ Marana , Arizona | Marana ] ] due to the higher gate fees at Tucson International Airport ; however , these plans never materialized .
+
+#	NEW	hubs	........ / Paul	// Republic operated hubs at <a> Minneapolis-Saint Paul International Airport </a> , <a> Memphis International Airport </a> , and <a> Detroit Metropolitan Wayne County Airport </a> .
+
+#	NEW	hubs	........ / Hussein	// It was formed to help develop local and international tourism with support from <a> Prince Faisal bin Al Hussein </a> .
+
+#	NEW	hubs	........ / Hato	// Its main base is at <a> Hato International Airport </a> , Cura&#x00e7 ; ao .
+
+#	NEW	hubs	........ / Hare	// <p> Flight 1572 was en route from <a> Chicago O ' Hare </a> to <a> Hartford </a> ' s <a> Bradley International Airport </a> on November 12 , 1995 .
+
+#	NEW	hubs	........ / Paran&#	// <p> After developing services in the states of <a> Paran&#x00e1 ; </a> , <a> Rio Grande do Sul </a> and <a> Santa Catarina </a> , on April 9 2010 , after being granted much sought-for slots at <a> S&#x00e3 ; o Paulo - Congonhas Airport </a> , NHT started services to the state of <a> S&#x00e3 ; o Paulo </a> . </p>
+
+#	NEW	hubs	........ / 2006	// <p> The Colombian Air Cargo fleet consists of the following aircraft ( at September <a> 2006 </a> ) : </p>
+

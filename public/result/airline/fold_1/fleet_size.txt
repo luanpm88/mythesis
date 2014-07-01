@@ -1,0 +1,102 @@
+Found: 40
+Found Not Null: 8
+Correct: 3
+Wrong: 5
+Total: 10
+precision: 0.375
+recall: 0.3
+
+
+
+#	NEW	fleet_size	........ / x00e3 ;	// Witnesses in the villages of Formosa and S&#x00e3 ; o Francisco reported seeing the aircraft overhead at about the time it reported abeam Barreiras ; they reported that the aircraft appeared to be operating normally . </p>
+
+#	NEW	fleet_size	........ / <a>	// It was later put back in service by <a> Pan American World Airways </a> . </p>
+
+#	NEW	fleet_size	........ / 1970s .	// The airline would continue to operate independently until its merger with <a> Delta Air Lines </a> in the 1970s . </p>
+
+#	NEW	fleet_size	........ / 40	// <p> Earlier in the day , at 12 : 40 local time , the crew of the accident flight flew from <a> Dallas </a> to <a> Houston </a> through the same area they were scheduled to fly later on .
+
+#	NEW	fleet_size	........ / 2000	// <p> <strong> North American Charters </strong> ( NAC ) was established in 2000 to provide cheaper and more frequent airline services to First Nations communities in <a> Northwestern Ontario </a> .
+
+#	NEW	fleet_size	........ / 2	// <p> The accident flight is known in some references ( and in the CAB report ) as Northwest Airlines Flight 2 , but it actually flew under the Northwest Orient Airlines name . </p>
+
+#	NEW	fleet_size	........ / 831	// <p> Though it is customary for airlines to retire a flight number after a major incident , Air Canada continues to use Flight 831 for the same route .
+
+7	TRUE	L'Avion::fleet_size	2 / 4	
+Operations of the two airlines were merged on 4 April 2009 , with the former now operating as OpenSkies . </p>
+
+8	FALSE	Sierra National Airlines::fleet_size	1 / 2005	
+<p> As of January <a> 2005 </a> Sierra National Airlines operated the following services : </p>
+
+#	NEW	fleet_size	........ / 612	// <p> <strong> Air West Flight 612 </strong> was a scheduled domestic passenger flight operated by <a> Air West </a> between <a> Khartoum </a> , <a> Sudan </a> and <a> Al-Fashir </a> .
+
+#	NEW	fleet_size	........ / The	// <p> The plane was piloted by Captain Bo von Willebrand , and Tauno Launis was the wireless operator .
+
+#	NEW	fleet_size	........ / 9-	// <p> The aircraft was a twin-engine <a> Douglas DC-9-33CF </a> operated on behalf of ALM by <a> Overseas National Airways </a> ( ONA ) , with an ONA aircraft and flight crew , and an ALM cabin crew .
+
+#	NEW	fleet_size	........ / 1997	// <p> The airline was established in 1997 as a sister company to <strong> HeavyLift Indonesia </strong> , operating charter flights on behalf of <a> Bouraq Indonesia Airlines </a> and <a> Sempati Air </a> . </p>
+
+#	NEW	fleet_size	........ / 24	// <p> The airline started operations between <a> Nairobi </a> and <a> Mombasa </a> on November 24 , 2006 .
+
+#	NEW	fleet_size	........ / 1	// <p> The 33-seat <a> Saab-340B </a> airplane used for Crossair Flight LX498 had been <a> lease </a> d to Crossair from <a> Moldavian Airlines </a> since 1 October 1999 .
+
+#	NEW	fleet_size	........ / 2574	// <p> Continental still uses Flight 2574 on its Houston-Fayetteville-Newark route , and it continues to fly under <a> Continental Express </a> banner operated by <a> ExpressJet Airlines </a> . </p>
+
+#	NEW	fleet_size	........ / 727	// The flight was a <a> Boeing 727 </a> ( N317PA ) routed from <a> Frankfurt </a> to Berlin-Tegel and was on initial approach .
+
+17	FALSE	Loch Lomond Seaplanes::fleet_size	1 / ,	
+<p> The airline operates tour and charter flights , as well as regular flights around the west coast of Scotland , with a two times a day service from Glasgow to <a> Oban </a> which operates from November to February , and Glasgow to <a> Tobermory , Mull </a> .
+
+#	NEW	fleet_size	........ / The	// <p> The Scandjet fleet includes the following aircraft ( ) : </p>
+
+#	NEW	fleet_size	........ / 1977	// It was established and started operations in 1977 and operates regional and international air taxi services .
+
+#	NEW	fleet_size	........ / <a>	// <p> <strong> Appalachian Airlines </strong> was a US <a> commuter airline </a> , operating out of <a> Tri-Cities Regional Airport </a> , <a> Tennessee </a> .
+
+#	NEW	fleet_size	........ / 1979	// It was established in 1979 and operates scheduled passenger services , passenger and cargo charter flights and aircraft sales and maintenance .
+
+22	TRUE	Jettime::fleet_size	6 / 19	
+The airline was founded by a group of Danish investors and operated its first flight on 19 September 2006 . </p>
+
+#	NEW	fleet_size	........ / <a>	// It operates a scheduled passenger service into <a> Groote Eylandt </a> , <a> Australia </a> , and also does work in <a> Japan </a> , <a> Ireland </a> , <a> Malaysia </a> and <a> Indonesia </a> .
+
+#	NEW	fleet_size	........ / <strong>	// <p> <strong> Leisure International Airways </strong> was a British charter airline . </p>
+
+#	NEW	fleet_size	........ / 76	// Norrlandsflyg operates twelve <a> Sikorsky S-76 </a> helicopters . </p>
+
+#	NEW	fleet_size	........ / <a>	// <p> <strong> Turkish Airlines Flight 5904 </strong> was a <a> Boeing 737-4Q8 </a> operated by the <a> Turkish Airlines </a> , registered TC-JEP and named <em> Trakya </em> , on a repositioning flight that crashed on 7 April 1999 in <a> Ceyhan </a> , <a> Adana Province </a> in southern <a> Turkey </a> .
+
+#	NEW	fleet_size	........ / 2003	// <p> The airline got its air operators certificate in <a> 2000 </a> and was established in October 2000 , but was unable to operate until 2003 due to political unrest in Nepal .
+
+#	NEW	fleet_size	........ / 2006 .	// Ltd . </strong> is an <a> airline </a> based in <a> Nepal </a> which started operations in March 2006 .
+
+#	NEW	fleet_size	........ / operated	// <a> Orient Thai Airlines </a> owned a 49% stake in the airline and operated charter services on behalf of Kampuchea Airlines .
+
+#	NEW	fleet_size	........ / 1983 .	// <p> The airline was established in 1981 in <a> Michigan </a> as a <a> Cessna </a> dealership , and started operations with cargo charters in 1983 .
+
+#	NEW	fleet_size	........ / 1999 .	// <p> The airline was established on March 5 , 1999 , out of the assets of <a> Southern Air Transport </a> and started operations in November 1999 .
+
+#	NEW	fleet_size	........ / 1997	// Waltair was established in 1997 and has bases in Stockholm , Norrk&#x00f6 ; ping and V&#x00e4 ; xj&#x00f6 ; . </p>
+
+#	NEW	fleet_size	........ / 2	// <p> The airline was established and started operations in <a> 1978 </a> and acquired the freight operations of <a> CCAir </a> on 2 January 1990 .
+
+34	FALSE	Midwest Airlines (Egypt)::fleet_size	3 / <a>	
+<p> From its beginning , the airline offered charter services from Egyptian holiday resorts to Europe and the <a> Middle East </a> on behalf of local and international <a> tour operator </a> s .
+
+35	FALSE	Nightexpress::fleet_size	3 / a>	
+It operates scheduled and chartered cargo flights out of <a> Frankfurt Airport </a> , most of which are either to <a> Birmingham Airport </a> or <a> Coventry Airport </a> . </p>
+
+36	TRUE	Novosibirsk Air Enterprise::fleet_size	9 / 1995.	
+It was established and started operations in 1995 .
+
+#	NEW	fleet_size	........ / 2007	// <p> As of May <a> 2007 </a> , Marsland Aviations operates scheduled passenger flights to the following destinations : </p>
+
+38	FALSE	Lucky Air::fleet_size	8 / 2006.	
+It started operations with a flight between Kunming and Dali within Yunnan on 26 February 2006 . </p>
+
+#	NEW	fleet_size	........ / of	// <p> The airline is owned by the <a> Isles of Scilly Steamship Company </a> , which operates shipping services to the <a> Isles of Scilly </a> in its own name , and also owns <a> Isles of Scilly Skybus </a> , which operates air services to the islands . .
+
+#	null	fleet_size	5 / ..........
+
+#	null	fleet_size	8 / ..........
+

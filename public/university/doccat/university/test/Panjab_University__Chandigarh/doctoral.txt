@@ -1,4 +1,0 @@
-<li>Library and Information Science</li>
-<li>Political Science</li>
-<li>Science
-<li>Computer Science and Applications</li>

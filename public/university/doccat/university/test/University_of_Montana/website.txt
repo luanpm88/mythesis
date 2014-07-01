@@ -1,2 +1,0 @@
-<h5>Central and Southwest Asia Center</h5>
-<p>&lt;timeline&gt; DateFormat = yyyy ImageSize  = width:800 height:auto barincrement:20 Period     = from:1895 till:2015 TimeAxis   = orientation:horizontal  PlotArea   = right:10 left:20 bottom:50 top:0</p>

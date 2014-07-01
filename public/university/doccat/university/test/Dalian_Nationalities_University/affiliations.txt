@@ -1,9 +1,0 @@
-<li>College of Economics and Management[<a>http://www.dlnu.edu.cn/jingguan</a>]
-<li>College of Life Science[<a>http://www.dlnu.edu.cn/shengwu</a>]</li>
-<li>College of Computer Science &amp; Engineering[<a>http://www.dlnu.edu.cn/comd</a>]</li>
-<li>College of Electromechanical and Information Engineering[<a>http://www.dlnu.edu.cn/emd</a>]</li>
-<li>College of Architecture and Civil Engineering[<a>http://www.dlnu.edu.cn/tujian</a>]</li>
-<li>College of Liberal Arts &amp; Law[<a>http://www.dlnu.edu.cn/wenfa/index.html</a>]</li>
-<li>College of Mathematics and Physics[<a>http://www.dlnu.edu.cn/shuli</a>]</li>
-<li>College of Foreign Languages and Cultures[<a>http://www.dlnu.edu.cn/foreign</a>]</li>
-<li>College of Design[<a>http://www.dlnu.edu.cn/gongshe</a>]</li>

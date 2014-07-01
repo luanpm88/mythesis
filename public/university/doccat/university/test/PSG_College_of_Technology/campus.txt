@@ -1,3 +1,0 @@
-<li>Electrical and Electronics Engineering</li>
-<li>Mathematics and Computer Applications</li>
-<li>Instrumentation and Control Engineering</li>

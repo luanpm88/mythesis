@@ -1,2 +1,0 @@
-<li>engineering</li>
-<li>electrical engineering and informatics</li>

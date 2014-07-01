@@ -1,0 +1,44 @@
+Found: 18
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	website	........ / Blue Wings operated the following international scheduled destinations ( at November	// ( 2005 ) ] ] Blue Wings operated the following international scheduled destinations ( at November 2009 ) : </p>
+
+#	NEW	website	........ / The flight schedules were amended for convenience of domestic and international flight changeover there .	// The flight schedules were amended for convenience of domestic and international flight changeover there .
+
+#	NEW	website	........ / It was established following deregulation of the Australian airline industry in	// It was established following deregulation of the Australian airline industry in 1990 .
+
+#	NEW	website	........ / It continued to operate as a separate entity until 1993 when its operations were merged into those already established by Ansett .	// It continued to operate as a separate entity until 1993 when its operations were merged into those already established by Ansett . </p>
+
+#	NEW	website	........ / however wartime fuel and equipment shortages had previously curtailed its operations considerably .	// <p> The Manchukuo National Airways ceased operations in August 1945 during the <a> Soviet invasion of Manchuria </a> , however wartime fuel and equipment shortages had previously curtailed its operations considerably .
+
+#	NEW	website	........ / It operates scheduled freight services throughout Europe on behalf of major integrators such as	// It operates scheduled freight services throughout Europe on behalf of major integrators such as <a> FedEx Feeder </a> and DHL Express . </p>
+
+#	NEW	website	........ / Alpi Eagles suspended all flights starting January	// <p> Alpi Eagles suspended all flights starting January 3 , 2008 .
+
+#	NEW	website	........ / The company therefore decided to cancel all operations as of	// The company therefore decided to cancel all operations as of 2 September <a> 2008 </a> . </p>
+
+#	NEW	website	........ / Eurolot operates an all ATR fleet and consists of the following aircraft ( June	// <p> Eurolot operates an all ATR fleet and consists of the following aircraft ( June 2009 ) : </p>
+
+#	NEW	website	........ / It also operates air taxi and air ambulance services .	// It also operates air taxi and air ambulance services .
+
+#	NEW	website	........ / It was established and started operations in 1991 and operates scheduled passenger transport , charter and air taxi services .	// It was established and started operations in 1991 and operates scheduled passenger transport , charter and air taxi services .
+
+#	NEW	website	........ / It also is the major air taxi service in Denmark , operating from EKRK .	// It also is the major air taxi service in Denmark , operating from EKRK .
+
+#	NEW	website	........ / It started operations in September	// It started operations in September 1979 .
+
+#	NEW	website	........ / The airline offers scheduled domestic and short-haul international services	// The airline offers scheduled domestic and short-haul international services , as well as <a> charter flight </a> s .
+
+#	NEW	website	........ / It operates passenger services from Corsica to metropolitan France .	// It operates passenger services from Corsica to metropolitan France .
+
+#	NEW	website	........ / it started flying to European holiday destinations for tour operators and added international scheduled services in	// In 1993 it started flying to European holiday destinations for tour operators and added international scheduled services in 1994 , to <a> Florence </a> .
+
+#	NEW	website	........ / It operates scheduled services from Moscow and charter flights from	// It operates scheduled services from Moscow and charter flights from <a> Kazan </a> , as well as VIP and business aviation services .
+
+#	NEW	website	........ / This deal was followed it up with a 999 promotional scheme on select routes .	// <p> This deal was followed it up with a 999 promotional scheme on select routes .
+

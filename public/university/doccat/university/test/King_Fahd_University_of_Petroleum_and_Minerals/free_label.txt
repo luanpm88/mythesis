@@ -1,9 +1,0 @@
-<li>shops and laboratory buildings</li>
-<li>the Conference Center</li>
-<li><strong>Center for Environment &amp; Water</strong>: Water, Environment, and Marine Studies Sections.</li>
-<li><strong>Center for Petroleum &amp; Minerals</strong>: Petroleum &amp; Gas Engineering, Petroleum Geology &amp; Geophysics, Minerals Resources, and Remote Sensing Sections.</li>
-<li><strong>Center for Refining &amp; Petrochemicals</strong>: Refining, Petrochemicals, and Petrochemical Products Development Sections.</li>
-<li>Health &amp; Fitness Club</li>
-<h3>Athletics</h3>
-It is designed to seat 10,000 spectators.
-KFUPM's official website</li>

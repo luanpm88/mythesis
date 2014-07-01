@@ -1,9 +1,0 @@
-<li>Computer Center</li>
-<li>College of Liberal Arts
-<li>Graduate Institute of Learning and Instruction</li>
-<li>Graduate Institute of Cognitive and Neuroscience</li>
-<li>Graduate Institute of Systems Biology and Bioinformatics</li>
-<li>Department of Earth Sciences</li>
-<li>Department of Atmospheric Sciences</li>
-<li>Graduate Instittue of Hydrological &amp; Oceanic Sciences</li>
-<li>Language Center</li>

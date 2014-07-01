@@ -1,0 +1,48 @@
+Found: 20
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	death_date	........ / January 11 , 1958 )	// <p> <strong> Edna Purviance </strong> ( October 21 , 1895 &ndash ; January 11 , 1958 ) was an American actress during the <a> silent movie </a> era .
+
+#	NEW	death_date	........ / actor	// <p> <strong> Ji&#x0159 ; &#x00ed ; Menzel </strong> ( ) ( born February 23 , 1938 , <a> Prague </a> ) is a <a> Czech </a> <a> film director </a> , <a> theatre director </a> , actor , and <a> screenwriter </a> .
+
+#	NEW	death_date	........ / singer	// <p> <strong> Victor Joseph Garber </strong> ( born March 16 , 1949 ) is a <a> Canadian </a> film , stage and television <a> actor </a> and <a> singer </a> .
+
+#	NEW	death_date	........ / model	// <p> <strong> Leonor Varela Palma </strong> ( born December 29 , 1972 ) is a <a> Chile </a> an <a> actress </a> , and <a> model </a> .
+
+#	NEW	death_date	........ / ( 2005 ) .	// A more recent film in which he appears is </em> </strong> ' ( 2005 ) .
+
+#	NEW	death_date	........ / host	// <p> <img> <strong> Robert William </strong> &quot ; <strong> Bob </strong> &quot ; <strong> Barker </strong> ( born December 12 , 1923 ) is an <a> American </a> former <a> television </a> <a> game show </a> <a> host </a> .
+
+#	NEW	death_date	........ / 1893	// In 1893 , he was impressed by <a> Alessandro Salvini </a> , a well known orator and actor , and joined Salvini ' s traveling company .
+
+#	NEW	death_date	........ / television	// <p> <strong> Richard Wagstaff &quot ; Dick&quot ; Clark </strong> ( born November 30 , 1929 ) is an American <a> businessman </a> ; <a> game-show </a> <a> host </a> ; and <a> radio </a> and <a> television personality </a> .
+
+#	NEW	death_date	........ / is	// <p> <strong> Marie-France Pisier </strong> ( born 10 May 1944 ) is a French actress .
+
+#	NEW	death_date	........ / November 15 , 2003 )	// <p> <strong> Dorothy Loudon </strong> ( September 17 , 1933 &#x2013 ; November 15 , 2003 ) was an <a> American </a> comedy actress and singer .
+
+#	NEW	death_date	........ / and	// <p> <strong> Carnie Wilson </strong> ( born April 29 , 1968 ) is an <a> American </a> <a> singer </a> and television hostess , best known as a member of the <a> pop music </a> group <a> Wilson Phillips </a> . </p>
+
+#	NEW	death_date	........ / sometimes	// <p> <strong> Kevin Paul Jackson </strong> ( born 2 October 1947 ) , credited as <strong> Paul Jackson </strong> ; sometimes as <strong> K .
+
+#	NEW	death_date	........ / The	// <p> In 1991 , he starred in <em> <a> Masterpiece Theatre </a> <strong> s production of </strong> </em> The Best of Friends <em> for PBS , which told the story of the unlikely friendship between a museum curator , a nun and a playwright .
+
+#	NEW	death_date	........ / actor	// <p> <strong> Jon Roger Davis </strong> ( born April 5 , 1939 ) is an <a> American </a> <a> actor </a> .
+
+#	NEW	death_date	........ / a>	// <p> <strong> Jeremy Robert Myron Sumpter </strong> ( born February 5 , 1989 ) is an <a> American </a> actor .
+
+#	NEW	death_date	........ / September 25 , 2005 .	// They have a daughter , Bianca , born September 25 , 2005 .
+
+#	NEW	death_date	........ / William	// <p> In 1998 , he wrote <em> Diplomatic Act </em> ( ISBN 0-671-87788-7 ) with <a> William H . Keith , Jr . </a> , a science fiction novel wherein the lead character , an actor in a science fiction show , is kidnapped by aliens who think he is the character from the program .
+
+#	NEW	death_date	........ / screenwriter	// <p> , born <strong> Seitaro Suzuki </strong> ( &#x9234 ; &#x6728 ; &#x6e05 ; &#x592a ; &#x90ce ; <strong> <em> Suzuki Seitar&#x014d ; </em> </strong> ) on May 24 , 1923 , is a <a> Japan </a> ese <a> filmmaker </a> , <a> actor </a> , and <a> screenwriter </a> .
+
+#	NEW	death_date	........ / September 21 , 1980 )	// <p> <strong> Kareena Kapoor </strong> ( , pronounced ; born on September 21 , 1980 ) , often informally referred to as <strong> Bebo </strong> , is an Indian actress who appears in <a> Bollywood </a> films .
+
+#	NEW	death_date	........ / ( August 15 , 1919 ;	// <p> <strong> Henry Richard &quot ; Huntz&quot ; Hall </strong> ( August 15 , 1919 ; to Joseph Patrick Hall and Mary Ellen Mullen , an Irish-born air-conditioner repairman and his wife , He was the 14th of 16 children .
+

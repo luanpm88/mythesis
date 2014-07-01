@@ -1,1 +1,0 @@
-<li><a>John Tower</a> -- <a>United States Senator</a></li>

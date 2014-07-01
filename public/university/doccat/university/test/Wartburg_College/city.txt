@@ -1,9 +1,0 @@
-<li>Georg Grossmann  1878-1894 </li>
-<li>Friedrich Lutz  1894-1905 </li>
-<li>Gerhard Bergstraesser 1905-1909 </li>
-<li>August Engelbrecht 1909-1933  </li>
-<li>Conrad Becker 1945-1964 </li>
-<li>William Jellema 1974-1980 </li>
-<li>Friedrich Richter 1894-1899 (Clinton IA) </li>
-<li>Otto Kraushaar 1899-1907 (Clinton IA) </li>
-<li>Otto Proehl 1919-1935 (Clinton IA)</li>

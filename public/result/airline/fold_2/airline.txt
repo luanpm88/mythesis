@@ -1,0 +1,119 @@
+Found: 39
+Found Not Null: 21
+Correct: 19
+Wrong: 2
+Total: 26
+precision: 0.9047619047619048
+recall: 0.7307692307692307
+
+
+
+0	TRUE	Northern Air Cargo::airline	northern air cargo / USA	
+<p> <strong> Northern Air Cargo </strong> is an <a> American </a> <a> cargo airline </a> based in <a> Anchorage </a> , <a> Alaska </a> , <a> USA </a> .
+
+1	TRUE	DayJet::airline	dayjet / Jet	
+<p> <strong> DayJet </strong> was an <a> American </a> commercial aviation operation that provided <a> on-demand jet travel </a> using <a> Eclipse 500 </a> <a> Very Light Jet </a> s .
+
+#	NEW	airline	........ / United Airlines	// <p> <strong> United Airlines Flight 629 </strong> , registration N37559 , was a <a> Douglas DC-6 </a> B aircraft , named &quot ; Mainliner Denver , &quot ; which was blown up with a dynamite bomb placed in the checked luggage .
+
+#	NEW	airline	........ / Alitalia	// <p> On behalf of <strong> Alitalia </strong> </p>
+
+#	NEW	airline	........ / U .	// Flying Service </strong> was an <a> American </a> <a> airline </a> based in <a> Haines </a> , <a> Alaska </a> , <a> U . S . </a>
+
+#	NEW	airline	........ / August	// <p> <strong> TWA Flight 840 </strong> was a <a> Trans World Airlines </a> flight from <a> Leonardo Da Vinci International Airport </a> in <a> Rome , Italy </a> to <a> Ben Gurion International Airport </a> in <a> Tel Aviv </a> , <a> Israel </a> , that was <a> hijacked </a> on 29 August 1969 .
+
+6	FALSE	XL Airways Germany::airline	xl airways germany / May	
+<p> The airline was founded as <strong> Star XL German Airlines </strong> by <a> Avion Group </a> from <a> Iceland </a> and received its <a> AOC </a> on 3 May 2006 .
+
+#	NEW	airline	........ / landing	// <p> The <strong> Downend air crash </strong> occurred on 6 November 1957 when a prototype <a> Bristol Britannia </a> aircraft crashed in woods near Overndale Road in <a> Downend Village </a> , near <a> Bristol </a> , England , on its landing approach at <a> Filton airport </a> during a test flight .
+
+8	TRUE	Challenge Aero::airline	challenge aero / Ukraine	
+<p> <strong> Challenge Aero </strong> is an <a> airline </a> based in <a> Kiev </a> , <a> Ukraine </a> .
+
+9	TRUE	Blu-express::airline	blu-express / Italy	
+<p> <strong> Blu-Express </strong> is a <a> low cost airline </a> based in <a> Rome </a> , <a> Italy </a> .
+
+10	TRUE	Arik Air::airline	arik air / Air	
+<p> <strong> Arik Air </strong> is a <a> Nigeria </a> n <a> airline </a> operating a domestic , regional and international flight network .
+
+11	TRUE	Shanghai Airlines Cargo::airline	shanghai airlines cargo / Airlines Cargo	
+<p> <strong> Shanghai Airlines Cargo </strong> ( &#x4e0a ; &#x6d77 ; &#x822a ; &#x7a7a ; &#x80a1 ; &#x4efd ; &#x6709 ; &#x9650 ; &#x516c ; &#x53f8 ; ) is a <a> cargo airline </a> based in the <a> People ' s Republic of China </a> .
+
+#	NEW	airline	........ / Air	// <p> <strong> Galaxy Air , Ltd </strong> ( ) was an Airline based in <a> Kyrgyzstan </a> . </p>
+
+#	NEW	airline	........ / USA	// <p> <strong> Cargo 360 </strong> was a <a> cargo airline </a> based in <a> Seattle </a> , <a> Washington </a> , <a> USA </a> .
+
+14	TRUE	Bravo Airlines::airline	bravo airlines / Africa	
+<p> <strong> Bravo Airlines </strong> was an <a> airline </a> based in <a> Madrid </a> , <a> Spain </a> operating long-haul passenger and cargo services between <a> Europe </a> and <a> Africa </a> .
+
+#	NEW	airline	........ / after	// <p> On October 8 , 1979 , <strong> Comair Flight 444 </strong> , a <a> Piper PA-31 Navajo </a> , crashed shortly after takeoff from <a> Greater Cincinnati Airport </a> .
+
+#	NEW	airline	........ / Avia&#	// <p> <strong> Omni - Avia&#x00e7 ; &#x00e3 ; o e Tecnologia </strong> was incorporated in <a> Portugal </a> in 1988 and has developed from a single-contrac / single-client seasonal provider , to a group of 11 companies and a key-player in the national aviation sector , involving a staff complement of 400 personnel and an annual turnover of 90 million euros . </p>
+
+17	TRUE	Cosmos Air Cargo::airline	cosmos air cargo / Air Cargo	
+<p> <strong> Cosmos Air Cargo </strong> is a <a> cargo airline </a> based at <a> El Dorado International Airport </a> in <a> Bogot&#x00e1 ; </a> , <a> Colombia </a> .
+
+#	NEW	airline	........ / SADELCA	// <p> <strong> SADELCA </strong> ( Sociedad A&#x00e9 ; rea Del Caquet&#x00e1 ; ) is a <a> cargo airline </a> based at <a> El Dorado International Airport </a> in <a> Bogot&#x00e1 ; </a> , <a> Colombia </a> . </p>
+
+19	TRUE	Air Norway::airline	air norway / in	
+<p> <strong> Air Norway AS </strong> is a <a> virtual </a> , <a> regional airline </a> based at <a> &#x00d8 ; rland Airport </a> in the town of <a> Brekstad </a> , the administrative centre of the <a> municipality </a> of <a> &#x00d8 ; rland </a> , in <a> S&#x00f8 ; r-Tr&#x00f8 ; ndelag </a> county , <a> Norway </a> .
+
+20	TRUE	CHC Helikopter Service::airline	chc helikopter service / Service	
+<p> <strong> CHC Helikopter Service </strong> , previously <strong> CHC Norway </strong> , <strong> CHC Helikopter Service </strong> and <strong> Helikopter Service </strong> is the Norwegian division of <a> CHC Helicopter Corporation </a> .
+
+21	TRUE	AIRES::airline	aires / de	
+<p> <strong> AIRES </strong> ( <a> Acronym </a> : <em> Aerov&#x00ed ; as de Integraci&#x00f3 ; n Regional </em> , lit .
+
+22	TRUE	Canadian Affair::airline	canadian affair / Canadian	
+<p> <strong> Canadian Affair </strong> is the UK&#x2019 ; s largest Tour Operator to Canada .
+
+23	TRUE	American Flyers Airline::airline	american flyers airline / Corporation	
+<p> ! <strong> American Flyers Airline Corporation </strong> was a United States &quot ; supplemental&quot ; charter airline that operated from 1949 to 1971 . </p>
+
+24	TRUE	Lamb Air::airline	lamb air / business	
+<p> <strong> Lamb Air Ltd . </strong> was an <a> airline </a> that began operations in 1934 in <a> The Pas </a> , <a> Manitoba </a> , <a> Canada </a> and went out of business in 1981 . </p>
+
+#	NEW	airline	........ / Alaska	// <p> <strong> Peninsula Airways </strong> , doing business as <strong> PenAir </strong> , is an <a> American </a> <a> airline </a> headquartered in <a> Anchorage </a> , <a> Alaska </a> .
+
+#	NEW	airline	........ / TEAM	// <p> <strong> TEAM Linhas A&#x00e9 ; reas </strong> ( <strong> T </strong> ransportes <strong> E </strong> speciais <strong> A </strong> &#x00e9 ; reos e <strong> M </strong> alotes ) is a regional domestic airline based in <a> Rio de Janeiro </a> , <a> Brazil </a> .
+
+27	TRUE	Air Hawaii::airline	air hawaii / West	
+<p> <strong> Air Hawaii </strong> was a scheduled passenger <a> airline </a> providing service between <a> Honolulu </a> and the U . S . West Coast cities , <a> Los Angeles </a> and <a> San Francisco </a> .
+
+28	TRUE	Arizona Airways (1993–1996)::airline	arizona airways / Texas	
+<p> <strong> Arizona Airways </strong> was an <a> airline </a> that was conceived as a <a> regional airline </a> to provide service to cities throughout the <a> Southwestern United States </a> and the Mexican state of Sonora from Texas to California .
+
+#	NEW	airline	........ / ( around ) .	// <p> The <strong> disappearance </strong> of the <a> Douglas DC-3 </a> airliner <strong> <a> NC16002 </a> </strong> occurred on the night of December 28 , 1948 near the end of a scheduled flight from <a> San Juan , Puerto Rico </a> to <a> Miami , Florida </a> ( around ) .
+
+30	TRUE	Republic Airlines (1979–1986)::airline	republic airlines / Southern Airways	
+<p> <strong> Republic Airlines </strong> was an <a> airline </a> formed on July 1 , 1979 by the <a> merger </a> of <a> North Central Airlines </a> , <a> Southern Airways </a> , and <a> Hughes Airwest </a> .
+
+#	NEW	airline	........ / Singapore	// <p> On 10 January 1954 , <a> British Overseas Airways Corporation </a> <strong> Flight 781 </strong> a <a> de Havilland DH . 106 Comet 1 </a> registered <em> G-ALYP </em> , took off from <a> Ciampino Airport </a> in <a> Rome , Italy </a> , en route to <a> Heathrow Airport </a> in <a> London </a> , <a> England </a> , on the final leg of its flight from <a> Singapore </a> .
+
+#	NEW	airline	........ / American Airlines	// <p> <strong> American Airlines Flight 444 </strong> was a <a> Boeing 727 </a> flying from <a> Chicago </a> to <a> Washington DC </a> , which on November 15 , 1979 was attacked by the <a> Unabomber </a> .
+
+33	TRUE	Royal Wings::airline	royal wings / Royal Wings	
+<p> <strong> Royal Wings </strong> is an <a> airline </a> based in <a> Amman </a> , <a> Jordan </a> operating regional scheduled and charter flights .
+
+34	FALSE	Dutch Antilles Express::airline	dutch antilles express / aircraft	
+<p> On the ATR 42-300 the aircraft has the standard <strong> flydae . com </strong>
+
+#	NEW	airline	........ / November 12	// <p> <strong> <a> American Airlines </a> Flight 1572 </strong> , registration N566AA , was a <a> McDonnell Douglas MD-83 </a> flying from <a> Chicago O ' Hare </a> that was damaged while landing short of runway at <a> Hartford </a> ' s <a> Bradley International Airport </a> on November 12 , 1995 . </p>
+
+#	NEW	airline	........ / NHT	// <p> ! Deleted image removed : <strong> NHT </strong> Linhas A&#x00e9 ; reas is a regional Brazilian domestic airline based at <a> Salgado Filho International Airport </a> , <a> Porto Alegre </a> in <a> Rio Grande do Sul </a> , <a> Brazil </a> .
+
+#	NEW	airline	........ / TWA	// <p> <strong> TWA Flight 128 </strong> was a domestic <a> U . S . </a> Flight en route from <a> Los Angeles , CA </a> to <a> Boston , MA </a> with scheduled stops at <a> Cincinnati , OH </a> and <a> Pittsburgh , PA </a> .
+
+38	TRUE	Colombian Air Cargo::airline	colombian air cargo / Air Cargo	
+<p> <strong> Colombian Air Cargo </strong> is a <a> cargo airline </a> based at <a> El Dorado International Airport </a> in <a> Bogot&#x00e1 ; </a> , <a> Colombia </a> . </p>
+
+#	null	airline	mahalo air / ..........
+
+#	null	airline	avianca cargo / ..........
+
+#	null	airline	manx2 / ..........
+
+#	null	airline	winair airlines / ..........
+
+#	null	airline	aerosur / ..........
+

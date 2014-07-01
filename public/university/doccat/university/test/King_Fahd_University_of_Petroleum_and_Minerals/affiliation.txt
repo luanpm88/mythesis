@@ -1,4 +1,0 @@
-<li><a>Precalculus Mathematics</a>,</li>
-<li><a>Office Administration</a>,</li>
-Sheikh <a>Ahmed Zaki Yamani</a></li>
-<li><a>Aerospace Engineering Club</a></li>

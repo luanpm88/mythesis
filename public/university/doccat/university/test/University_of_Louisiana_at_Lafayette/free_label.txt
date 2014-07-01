@@ -1,7 +1,0 @@
-<strong>Art museum</strong></p>
-<p><strong>Louisiana Center for Cultural &amp; Eco-Tourism</strong></p>
-<p>The center's research division houses the world's largest collection of Cajun and Creole folklore, oral history, and folklife materials and some of the nation's largest microfilm collections of French and Spanish colonial records.</p>
-The newspaper also works closely with the local newspaper The <em><a>Lafayette Daily Advertiser</a></em> concerning printing of the publication.
-<h3>Athletics</h3>
-<p>&lt;center&gt; &lt;gallery perrow=&quot;5&quot; px=200&gt;  </p>
-<p>&lt;/gallery&gt; &lt;/center&gt;</p>

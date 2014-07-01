@@ -1,0 +1,119 @@
+Found: 43
+Found Not Null: 21
+Correct: 17
+Wrong: 4
+Total: 22
+precision: 0.8095238095238095
+recall: 0.7727272727272727
+
+
+
+#	NEW	airline	........ / passengers	// <p> <strong> OJSC &quot ; Aeroflot <img> Russian Airlines&quot ; </strong> ( ) ( ) , commonly known as <strong> Aeroflot </strong> ( , English translation : &quot ; air fleet&quot ; ) , is the <a> flag carrier </a> and largest <a> airline </a> in Russia , based on passengers carried per year .
+
+#	NEW	airline	........ / passengers	// <p> <strong> Deutsche Lufthansa <a> AG </a> </strong> ( , ) ( ) is the <a> flag carrier </a> of <a> Germany </a> and the <a> largest </a> <a> airline </a> in Europe in terms of overall passengers carried .
+
+2	TRUE	Iberia (airline)::airline	iberia / Iberia	
+<p> <strong> Iberia L&#x00ed ; neas A&#x00e9 ; reas de Espa&#x00f1 ; a , S . A . </strong> ( ) is the <a> flag carrier </a> <a> airline </a> of <a> Spain </a> .
+
+3	TRUE	Futura International Airways::airline	futura international airways / Futura International Airways	
+<p> <strong> Futura International Airways </strong> was an <a> airline </a> based in <a> Palma de Mallorca </a> , <a> Spain </a> .
+
+4	TRUE	Kalitta Air::airline	kalitta air / United	
+<p> <strong> Kalitta Air </strong> is an <a> American </a> <a> cargo airline </a> headquartered in <a> Ypsilanti Township </a> , <a> Michigan </a> , <a> United States </a> .
+
+5	TRUE	Skywest Airlines::airline	skywest / Skywest Airlines	
+<p> <strong> Skywest Airlines Pty Ltd </strong> ( , ) is a regional <a> airline </a> company based in <a> Perth , Western Australia </a> , <a> Australia </a> ; servicing key towns in the state of <a> Western Australia </a> , <a> Darwin , Northern Territory </a> and <a> Melbourne , Victoria </a> ; as well as charter flights to <a> Bali </a> , <a> Indonesia </a> . </p>
+
+#	NEW	airline	........ / West Airlines	// <p> <strong> America West Express </strong> was the name for <a> America West Airlines </a> commuter and regional flights operated by <a> Mesa Air Group </a> ' s <a> Mesa Airlines </a> under a <a> code share </a> agreement .
+
+7	TRUE	Ansett Australia::airline	ansett australia / flying	
+<p> <strong> Ansett Australia </strong> , <strong> Ansett </strong> , <strong> Ansett Airlines of Australia </strong> , or <strong> ANSETT-ANA </strong> as it was commonly known in earlier years , was a major <a> Australia </a> n <a> airline </a> group , based in <a> Melbourne </a> , <a> Australia </a> , flying domestically within <a> Australia </a> and to destinations in Asia at its height in 1996 .
+
+#	NEW	airline	........ / Austral	// <p> <strong> Austral L&#x00ed ; neas A&#x00e9 ; reas </strong> is an <a> airline </a> based in <a> Buenos Aires </a> , <a> Argentina </a> .
+
+#	NEW	airline	........ / scheduled airline	// <p> <strong> Swissair Flight 111 </strong> ( SR-111 , SWR-111 ) was a <a> Swissair </a> <a> McDonnell Douglas MD-11 </a> on a scheduled airline flight from <a> John F . Kennedy International Airport </a> in New York City , United States to <a> Cointrin International Airport </a> in <a> Geneva </a> , Switzerland .
+
+10	TRUE	Hooters Air::airline	hooters air / USA	
+<p> <strong> Hooters Air </strong> was an <a> airline </a> headquartered in <a> Myrtle Beach </a> , <a> South Carolina </a> , <a> USA </a> .
+
+#	NEW	airline	........ / Air China Cargo	// <p> <strong> Air China Cargo Co . , Ltd . </strong> is a <a> cargo airline </a> based in <a> Beijing </a> , <a> China </a> .
+
+12	TRUE	SkyEurope::airline	skyeurope / main	
+<p> <strong> SkyEurope Airlines </strong> was a <a> low-cost airline </a> headquartered in <a> Bratislava </a> , with its main base at <a> M .
+
+13	TRUE	Air Canada Jazz::airline	air canada jazz / Air	
+<p> <strong> Air Canada Jazz </strong> , also known as <strong> Jazz Air </strong> , is a <a> Canadian </a> <a> regional airline </a> based at <a> Halifax Stanfield International Airport </a> in <a> Enfield </a> , <a> Nova Scotia </a> , operated by <a> Chorus Aviation </a> ( ) . </p>
+
+14	TRUE	Air Florida::airline	air florida / Air	
+<p> <strong> Air Florida </strong> was a small <a> U . S . </a> and international <a> airline </a> based out of <a> Miami International Airport </a> .
+
+15	TRUE	British Overseas Airways Corporation::airline	british overseas airways corporation / British Overseas Airways	
+<p> The <strong> British Overseas Airways Corporation </strong> ( <strong> BOAC </strong> ) was the British state airline from 1939 until 1946 and the long-haul British state airline from 1946 to 1974 .
+
+16	TRUE	Trans World Airlines::airline	trans world airlines / Trans World Airlines	
+<p> <strong> Trans World Airlines </strong> ( <strong> TWA </strong> ) was a major <a> United States </a> -based airline with hubs in <a> St .
+
+#	NEW	airline	........ / WestJet Airlines	// <p> <strong> WestJet Airlines Ltd . </strong> ( ) is a <a> Canadian </a> <a> low-cost carrier </a> that provides scheduled and charter air service to 71 destinations in Canada , the [ [ United States ] ] , [ [ Mexico ] ] and the [ [ Caribbean ] ] .
+
+18	FALSE	TAM Airlines::airline	tam airlines / new airline	
+The new airline was named <strong> TAM </strong> - <strong> T </strong> ransportes <strong> A </strong> &#x00e9 ; reos del <strong> M </strong> ercosur and maintained the IATA code of LAP , PZ .
+
+19	TRUE	Singapore Airlines::airline	singapore airlines / Singapore Airlines	
+<p> <strong> Singapore Airlines Limited </strong> ( <strong> SIA </strong> ) ( ; , abbreviated ; ) ( ) is the <a> flag carrier </a> of <a> Singapore </a> .
+
+#	NEW	airline	........ / Compania	// Compania Nationala de Transporturi Aeriene Romane TAROM S . A . </strong> , doing business as <strong> TAROM Romanian Air Transport </strong> , is the <a> flag carrier </a> and oldest currently-operating <a> airline </a> of <a> Romania </a> .
+
+#	NEW	airline	........ / Turkish Airlines	// <p> <strong> THY &#x2013 ; Turkish Airlines , Inc . </strong> ( <a> Turkish </a> : <em> T&#x00fc ; rk Hava Yollar&#x0131 ; Anonim Ortakl&#x0131 ; &#x011f ; &#x0131 ; </em> ) is the national <a> flag carrier </a> <a> airline </a> of <a> Turkey </a> , headquartered in the Turkish Airlines General Management Building on the grounds of <a> Atat&#x00fc ; rk Airport </a> in <a> Ye&#x015f ; ilk&#x00f6 ; y </a> , <a> Istanbul </a> .
+
+#	NEW	airline	........ / Air Cargo	// <p> <strong> Iran Air Cargo </strong> is the freight wing of the airline .
+
+23	TRUE	Norwegian Air Shuttle::airline	norwegian air shuttle asa / Air Shuttle	
+<p> <strong> Norwegian Air Shuttle ASA </strong> ( ) , trading as <strong> Norwegian </strong> , is the second-largest <a> airline </a> in <a> Scandinavia </a> and the third-largest <a> low-cost carrier </a> in Europe .
+
+#	NEW	airline	........ / International	// <p> <strong> International </strong> </p>
+
+25	FALSE	Pan American World Airways::airline	pan american world airways / PAA	
+It used the <a> IATA </a> code <strong> PA </strong> , and the <a> ICAO </a> code <strong> PAA </strong> . </p>
+
+#	NEW	airline	........ / new	// <p> On 14 June 1940 , in the city of Barranquilla , SCADTA , under ownership by United States businessmen , merged with Colombian Air Carrier SACO , ( <a> acronym </a> of <em> Servicio A&#x00e9 ; reo Colombiano </em> ) , forming the new <em> Aerov&#x00ed ; as Nacionales de Colombia S . A . </em> or <strong> Avianca </strong> .
+
+#	NEW	airline	........ / Republic Airways	// Parent company Delta Air Lines replaced Comair ' s service in these destinations with <a> Atlantic Southeast Airlines </a> , a subsidiary of <a> SkyWest , Inc . </a> , and <a> Chautauqua Airlines </a> , a subsidiary of <a> Republic Airways Holdings </a> .
+
+#	NEW	airline	........ / Aeroper&#	// <p> Aeroper&#x00fa ; was based at <a> Jorge Ch&#x00e1 ; vez International Airport </a> in <a> Lima , Peru </a> , and grew into an international airline while also developing a large <a> jet aircraft </a> route system domestically .
+
+#	NEW	airline	........ / Florida	// <p> <strong> Florida </strong> </p>
+
+30	TRUE	Continental Express::airline	continental express / Express	
+<p> <strong> Continental Express </strong> is the operating <a> brand </a> name used by a number of independently owned <a> regional airline </a> s providing regional jet feeder service under agreement with <a> Continental Airlines </a> .
+
+#	NEW	airline	........ / based	// <p> <strong> Saudi Arabian Airlines </strong> ( <em> </em> ) is the <a> flag carrier </a> <a> airline </a> of <a> Saudi Arabia </a> , based in <a> Jeddah </a> .
+
+32	FALSE	South African Airways::airline	south african airways / time.	
+<p> SAA won <em> Executive Travel <strong> s best airline to Africa award for the third time . </strong> </em> </p>
+
+#	NEW	airline	........ / Royal Jordanian Cargo	// <p> <strong> Royal Jordanian Cargo </strong> ( Royal Jordanian Airlines Cargo ) is the company ' s freight division operating to Africa , Europe , North America and Middle East .
+
+#	NEW	airline	........ / Kamenski :	// <p> <strong> Kamenski : </strong> </p>
+
+#	NEW	airline	........ / Tokyo	// <p> , or <strong> NCA </strong> , is a <a> cargo airline </a> based in the Onarimon Yusen Building in <a> Minato </a> , Tokyo , Japan .
+
+36	TRUE	Arrow Air::airline	arrow air / USA	
+<p> <strong> Arrow Cargo </strong> was an American <a> cargo airline </a> ( originally known as Arrow Air ) based in Building 712 on the grounds of <a> Miami International Airport </a> in <a> unincorporated </a> <a> Miami-Dade County </a> , Florida , <a> USA </a> .
+
+#	NEW	airline	........ / Canadian Airlines	// <p> <strong> Canadian Airlines </strong> operated the largest tour operator in <a> Canada </a> called <a> Canadian Holidays </a> and the <strong> Canadian Getaways </strong> program .
+
+#	NEW	airline	........ / Germany	// <p> <strong> Star Alliance </strong> is the world ' s first and largest <a> airline alliance </a> , headquartered in <a> Frankfurt am Main </a> , <a> Germany </a> .
+
+39	TRUE	Flybe::airline	flybe / Flybe	
+<p> <strong> Flybe Limited </strong> ( styled as <strong> flybe </strong> ) is a <a> low-cost </a> <a> regional airline </a> headquartered at the Jack Walker House at <a> Exeter International Airport </a> in <a> Devon </a> , <a> England </a> .
+
+#	NEW	airline	........ / Lauda Air	// <p> <strong> Lauda Air </strong> is an <a> airline </a> based in <a> Schwechat </a> , <a> Austria </a> .
+
+41	FALSE	Virgin Blue::airline	virgin blue / purchase.	
+<p> <strong> Economy Class </strong> offers a <a> buy on board </a> service with food and drinks for purchase . </p>
+
+42	TRUE	Air Canada Tango::airline	air canada tango / Air	
+<p> <strong> Air Canada Tango </strong> was a <a> low-cost </a> branch of <a> Air Canada </a> , which was established in 2001 to offer <a> no-frills </a> service on some of Air Canada ' s routes and to reduce operating costs at the struggling main company .
+
+#	null	airline	air canada / ..........
+

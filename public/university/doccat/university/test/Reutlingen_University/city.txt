@@ -1,4 +1,0 @@
-<li>TEC: School of Technology (Bachelor of Engineering)</li>
-<li>AC Bio- and Process Analytics (taught in German)</li>
-<li>TD Textile Technology / Textile Management (taught in German)</li>
-<p><strong>ESB-Research Institute</strong></p>

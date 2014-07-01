@@ -1,0 +1,362 @@
+Total articles: 312
+Articles for test: 281
+Articles for train: 31
+Total attributes: 64
+Attributes with high occurrences: 11/64
+
+------------
+Found: 156
+Found Not Null: 21
+Correct: 18
+Wrong: 3
+Total: 27
+precision: 0.8571428571428571
+recall: 0.6666666666666666
+
+
+
+#	NEW	caption	........ / Staci	// <p> <strong> Staci Greason </strong> ( born 23 May 1964 ) is an American <a> actress </a> .
+
+#	NEW	birth_name	........ / May 1964 ) is an American	// <p> <strong> Staci Greason </strong> ( born 23 May 1964 ) is an American <a> actress </a> .
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Staci Greason </strong> ( born 23 May 1964 ) is an American <a> actress </a> .
+
+#	NEW	death_date	........ / is	// <p> <strong> Staci Greason </strong> ( born 23 May 1964 ) is an American <a> actress </a> .
+
+#	NEW	birthdate	........ / May	// <p> <strong> Staci Greason </strong> ( born 23 May 1964 ) is an American <a> actress </a> .
+
+#	NEW	name	........ / Staci Greason	// <p> <strong> Staci Greason </strong> ( born 23 May 1964 ) is an American <a> actress </a> .
+
+#	NEW	occupation	........ / actress	// <p> <strong> Staci Greason </strong> ( born 23 May 1964 ) is an American <a> actress </a> .
+
+#	NEW	death_date	........ / just	// He died shortly afterward , on 28 July 1998 , in <a> Bexley </a> , <a> Greater London </a> , just weeks prior to the release of the film .
+
+8	FALSE	Lenny McLean::name	lenny mclean / hardest man	
+<p> <strong> Leonard John </strong> &quot ; <strong> Lenny </strong> &quot ; <strong> McLean </strong> ( 9 April 1949 &#x2013 ; 28 July 1998 ) , also known as &quot ; <strong> The Guv ' nor </strong> , &quot ; was a famed <a> East End of London </a> <a> bareknuckle fighter </a> , <a> bouncer </a> , former <a> criminal </a> and <a> prisoner </a> , <a> author </a> , <a> businessman </a> , <a> bodyguard </a> , <a> enforcer </a> , <a> weightlifter </a> , <a> television presenter </a> , and <a> actor </a> ; McLean was often referred to as &quot ; the hardest man in <a> Britain </a> . &quot ; </p>
+
+#	NEW	birth_name	........ / Leonard John	// <p> <strong> Leonard John </strong> &quot ; <strong> Lenny </strong> &quot ; <strong> McLean </strong> ( 9 April 1949 &#x2013 ; 28 July 1998 ) , also known as &quot ; <strong> The Guv ' nor </strong> , &quot ; was a famed <a> East End of London </a> <a> bareknuckle fighter </a> , <a> bouncer </a> , former <a> criminal </a> and <a> prisoner </a> , <a> author </a> , <a> businessman </a> , <a> bodyguard </a> , <a> enforcer </a> , <a> weightlifter </a> , <a> television presenter </a> , and <a> actor </a> ; McLean was often referred to as &quot ; the hardest man in <a> Britain </a> . &quot ; </p>
+
+10	TRUE	Harry Cohn::name	harry cohn / Columbia Pictures	
+<p> <strong> Harry Cohn </strong> ( July 23 , 1891 &ndash ; February 27 , 1958 ) was the American president and production director of <a> Columbia Pictures </a> . </p>
+
+#	NEW	birth_name	........ / to a working- class	// <p> Cohn was born to a working-class <a> German </a> - <a> Jewish </a> family in <a> New York City </a> .
+
+#	NEW	caption	........ / 1958 )	// <p> <strong> Harry Cohn </strong> ( July 23 , 1891 &ndash ; February 27 , 1958 ) was the American president and production director of <a> Columbia Pictures </a> . </p>
+
+#	NEW	occupation	........ / director	// Columbia was unable to shake off its stigma as a <a> Poverty Row </a> studio until 1934 , when director <a> Frank Capra </a> ' s Columbia comedy <em> <a> It Happened One Night </a> </em> swept the <a> Academy Awards </a> .
+
+#	NEW	death_date	........ / February 27 , 1958 )	// <p> <strong> Harry Cohn </strong> ( July 23 , 1891 &ndash ; February 27 , 1958 ) was the American president and production director of <a> Columbia Pictures </a> . </p>
+
+#	NEW	caption	........ / Michael	// <p> <strong> Michael Moriarty </strong> ( born April 5 , 1941 ) is an <a> American-Canadian </a> actor of stage and screen , and a <a> jazz </a> <a> musician </a> .
+
+#	NEW	birth_date	........ / Moriarty	// <p> Moriarty is politically active , describing himself as a &quot ; <a> centrist </a> &quot ; , and sometimes as a &quot ; realist&quot ; .
+
+#	NEW	occupation	........ / Actor	// Moriarty ' s role in <em> Menagerie </em> ( as &quot ; Jim , &quot ; the Gentleman Caller ; Waterston played the son &quot ; Tom&quot ; ) won him an <a> Emmy Award </a> for <a> Best Supporting Actor </a> of the Year .
+
+#	NEW	death_date	........ / musician	// <p> <strong> Michael Moriarty </strong> ( born April 5 , 1941 ) is an <a> American-Canadian </a> actor of stage and screen , and a <a> jazz </a> <a> musician </a> .
+
+#	NEW	birthdate	........ / On November 18	// On November 18 , 1993 , Moriarty and Wolf , along with other television executives , met with Reno to dissuade her from supporting any law that would censor the show .
+
+#	NEW	birth_name	........ / n&# x00e9 ; e	// <p> Moriarty , an <a> Irish American </a> , was born in <a> Detroit </a> , <a> Michigan </a> , the son of Elinor ( <a> n&#x00e9 ; e </a> Paul ) and George Moriarty , a police surgeon .
+
+21	TRUE	Sterling Hayden::name	sterling hayden / was an	
+<p> <strong> Sterling Hayden </strong> ( March 26 , 1916 &#x2013 ; May 23 , 1986 ) was an <a> American </a> actor and author .
+
+#	NEW	caption	........ / 1986 )	// <p> <strong> Sterling Hayden </strong> ( March 26 , 1916 &#x2013 ; May 23 , 1986 ) was an <a> American </a> actor and author .
+
+#	NEW	birth_name	........ / actor and author .	// <p> <strong> Sterling Hayden </strong> ( March 26 , 1916 &#x2013 ; May 23 , 1986 ) was an <a> American </a> actor and author .
+
+#	NEW	birth_date	........ / quot ; '	// <p> : &quot ; ' Hayden ' s wild , ' they said .
+
+#	NEW	death_date	........ / May 23 , 1986 )	// <p> <strong> Sterling Hayden </strong> ( March 26 , 1916 &#x2013 ; May 23 , 1986 ) was an <a> American </a> actor and author .
+
+#	NEW	birthdate	........ / 26 , 1916 &#	// <p> <strong> Sterling Hayden </strong> ( March 26 , 1916 &#x2013 ; May 23 , 1986 ) was an <a> American </a> actor and author .
+
+27	TRUE	Gladys Brockwell::name	gladys brockwell / silent film	
+<p> <strong> Gladys Brockwell </strong> ( September 26 , 1893 &#x2013 ; July 2 , 1929 ) was an American actress whose career began during the <a> silent film </a> era . </p>
+
+#	NEW	caption	........ / she	// <p> Born <strong> Gladys Lindeman </strong> in <a> Brooklyn , New York </a> , she was the daughter of a chorus girl who put her on stage at a very early age .
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Gladys Brockwell </strong> ( September 26 , 1893 &#x2013 ; July 2 , 1929 ) was an American actress whose career began during the <a> silent film </a> era . </p>
+
+#	NEW	death_date	........ / July 2 , 1929 )	// <p> <strong> Gladys Brockwell </strong> ( September 26 , 1893 &#x2013 ; July 2 , 1929 ) was an American actress whose career began during the <a> silent film </a> era . </p>
+
+#	NEW	birth_name	........ / an American actress whose career began during the	// <p> <strong> Gladys Brockwell </strong> ( September 26 , 1893 &#x2013 ; July 2 , 1929 ) was an American actress whose career began during the <a> silent film </a> era . </p>
+
+32	TRUE	Evelyn Brent::name	evelyn brent / an American	
+<p> <strong> Evelyn Brent </strong> ( October 20 , 1899 &#x2013 ; June 4 , 1975 ) was an American film and stage actress . </p>
+
+#	NEW	caption	........ / 1975 )	// <p> <strong> Evelyn Brent </strong> ( October 20 , 1899 &#x2013 ; June 4 , 1975 ) was an American film and stage actress . </p>
+
+#	NEW	birth_name	........ / an American film and stage actress .	// <p> <strong> Evelyn Brent </strong> ( October 20 , 1899 &#x2013 ; June 4 , 1975 ) was an American film and stage actress . </p>
+
+35	TRUE	Evelyn Brent::occupation	actress / actress	
+The actress remained four years in England , performing in films produced by British companies .
+
+#	NEW	death_date	........ / 4 , 1975 )	// <p> <strong> Evelyn Brent </strong> ( October 20 , 1899 &#x2013 ; June 4 , 1975 ) was an American film and stage actress . </p>
+
+37	FALSE	Maren Jensen::name	maren jensen / Battlestar Galactica	
+<p> <strong> Maren Kawehilani Jensen </strong> ( September 23 , 1956 , <a> Arcadia , California </a> ) is an <a> American </a> former model and actress best known for portraying <a> Athena </a> in the 1970s <a> television series </a> <em> <a> Battlestar Galactica </a> </em> . </p>
+
+#	NEW	birth_date	........ / Jensen	// <p> Jensen was born in <a> Glendale , California </a> .
+
+#	NEW	birth_name	........ / Maren Kawehilani Jensen	// <p> <strong> Maren Kawehilani Jensen </strong> ( September 23 , 1956 , <a> Arcadia , California </a> ) is an <a> American </a> former model and actress best known for portraying <a> Athena </a> in the 1970s <a> television series </a> <em> <a> Battlestar Galactica </a> </em> . </p>
+
+#	NEW	occupation	........ / actress	// <p> <strong> Maren Kawehilani Jensen </strong> ( September 23 , 1956 , <a> Arcadia , California </a> ) is an <a> American </a> former model and actress best known for portraying <a> Athena </a> in the 1970s <a> television series </a> <em> <a> Battlestar Galactica </a> </em> . </p>
+
+#	NEW	death_date	........ / ( September 23 , 1956	// <p> <strong> Maren Kawehilani Jensen </strong> ( September 23 , 1956 , <a> Arcadia , California </a> ) is an <a> American </a> former model and actress best known for portraying <a> Athena </a> in the 1970s <a> television series </a> <em> <a> Battlestar Galactica </a> </em> . </p>
+
+#	NEW	caption	........ / California	// <p> <strong> Maren Kawehilani Jensen </strong> ( September 23 , 1956 , <a> Arcadia , California </a> ) is an <a> American </a> former model and actress best known for portraying <a> Athena </a> in the 1970s <a> television series </a> <em> <a> Battlestar Galactica </a> </em> . </p>
+
+#	NEW	name	........ / to America	// <p> <strong> Eriq Ki La Salle </strong> ( born July 23 , 1962 ) is an <a> American </a> actor and <a> director </a> , known for his portrayals of Darryl in the 1988 comedy film <em> <a> Coming to America </a> </em> and <a> Dr .
+
+#	NEW	caption	........ / La	// After </em> ER <em> , La Salle had relatively small roles in movies such as </em> <a> One Hour Photo </a> <em> and also directed for </em> <a> Soul Food : The Series </a> <em> on <a> Showtime </a> . </em> </strong> </p>
+
+#	NEW	birth_name	........ / Eriq Ki La Salle	// <p> <strong> Eriq Ki La Salle </strong> ( born July 23 , 1962 ) is an <a> American </a> actor and <a> director </a> , known for his portrayals of Darryl in the 1988 comedy film <em> <a> Coming to America </a> </em> and <a> Dr .
+
+#	NEW	death_date	........ / <a>	// <p> <strong> Eriq Ki La Salle </strong> ( born July 23 , 1962 ) is an <a> American </a> actor and <a> director </a> , known for his portrayals of Darryl in the 1988 comedy film <em> <a> Coming to America </a> </em> and <a> Dr .
+
+#	NEW	birth_date	........ / La	// <p> La Salle , one of four children , was born and raised in <a> Hartford , Connecticut </a> by his mother , Ada Haynes .
+
+48	TRUE	Julianne Phillips::name	julianne phillips / Julianne Phillips	
+<p> <strong> Julianne Phillips </strong> ( born May 6 , 1960 ) is an <a> American </a> <a> model </a> and <a> actress </a> .
+
+#	NEW	caption	........ / Julianne	// <p> <strong> Julianne Phillips </strong> ( born May 6 , 1960 ) is an <a> American </a> <a> model </a> and <a> actress </a> .
+
+#	NEW	birth_name	........ / is an <a> American	// <p> <strong> Julianne Phillips </strong> ( born May 6 , 1960 ) is an <a> American </a> <a> model </a> and <a> actress </a> .
+
+#	NEW	birth_date	........ / Since 1997 ,	// <p> Since 1997 , Phillips has not acted in either television or film roles .
+
+#	NEW	occupation	........ / ,	// Two years later , she began the role of Frankie Reed , the business-oriented one of the four main titular characters on the popular television drama <em> <a> Sisters </a> </em> , in which she played until 1995 .
+
+#	NEW	death_date	........ / actress	// <p> <strong> Julianne Phillips </strong> ( born May 6 , 1960 ) is an <a> American </a> <a> model </a> and <a> actress </a> .
+
+54	TRUE	Melinda Culea::name	melinda culea / a model.	
+<p> <strong> Melinda Culea </strong> ( born May 5 , 1955 in <a> Western Springs , Illinois </a> ) is an <a> American </a> film and television actress , who moved into acting after working as a model . </p>
+
+#	NEW	caption	........ / Melinda	// <p> <strong> Melinda Culea </strong> ( born May 5 , 1955 in <a> Western Springs , Illinois </a> ) is an <a> American </a> film and television actress , who moved into acting after working as a model . </p>
+
+#	NEW	birth_name	........ / Western Springs , Illinois	// <p> <strong> Melinda Culea </strong> ( born May 5 , 1955 in <a> Western Springs , Illinois </a> ) is an <a> American </a> film and television actress , who moved into acting after working as a model . </p>
+
+#	NEW	birth_date	........ / Culea	// <p> Culea has acted in a number of other TV roles , mainly during the 1980s and 1990s . </p>
+
+#	NEW	occupation	........ / a	// Her role was as a newspaper reporter who worked with the team for the first season-and-a-half of the second season . </p>
+
+#	NEW	death_date	........ / film	// <p> <strong> Melinda Culea </strong> ( born May 5 , 1955 in <a> Western Springs , Illinois </a> ) is an <a> American </a> film and television actress , who moved into acting after working as a model . </p>
+
+60	TRUE	Henry Darrow::name	henry darrow / and <a>	
+<p> <strong> Henry Darrow </strong> ( born September 15 , 1933 ) is a prolific Puerto Rican-American <a> character actor </a> of <a> stage </a> and <a> film </a> .
+
+#	NEW	caption	........ / Henry	// <p> <strong> Henry Darrow </strong> ( born September 15 , 1933 ) is a prolific Puerto Rican-American <a> character actor </a> of <a> stage </a> and <a> film </a> .
+
+#	NEW	birth_name	........ / is a prolific Puerto Rican- American	// <p> <strong> Henry Darrow </strong> ( born September 15 , 1933 ) is a prolific Puerto Rican-American <a> character actor </a> of <a> stage </a> and <a> film </a> .
+
+#	NEW	death_date	........ / September 15 , 1933 )	// <p> <strong> Henry Darrow </strong> ( born September 15 , 1933 ) is a prolific Puerto Rican-American <a> character actor </a> of <a> stage </a> and <a> film </a> .
+
+64	TRUE	Namrata Shirodkar::name	namrata shirodkar / is an	
+<p> <strong> Namrata Shirodkar </strong> ( , born 22 January 1972 in <a> Mumbai </a> , <a> India </a> ) is an Indian <a> actress </a> and <a> model </a> . </p>
+
+#	NEW	caption	........ / India	// <p> <strong> Namrata Shirodkar </strong> ( , born 22 January 1972 in <a> Mumbai </a> , <a> India </a> ) is an Indian <a> actress </a> and <a> model </a> . </p>
+
+#	NEW	birth_name	........ / is an Indian	// <p> <strong> Namrata Shirodkar </strong> ( , born 22 January 1972 in <a> Mumbai </a> , <a> India </a> ) is an Indian <a> actress </a> and <a> model </a> . </p>
+
+#	NEW	occupation	........ / Actress	// She was nominated for the <a> IIFA Best Supporting Actress Award </a> for her performance in <em> Pukar </em> .
+
+#	NEW	birthdate	........ / married on 10	// They married on 10 February 2005 .
+
+#	NEW	birth_date	........ / on 22 January 1972	// <p> Born on 22 January 1972 in a moderate Marathi-speaking family , Namrata Shirodkar is an Aquarian .
+
+70	TRUE	Lewis Gilbert::name	lewis gilbert / Lewis Gilbert	
+<p> <strong> Lewis Gilbert </strong> <a> CBE </a> ( born 6 March 1920 in <a> London </a> ) is an <a> English </a> <a> film director </a> , <a> producer </a> and <a> screenwriter </a> </p>
+
+#	NEW	caption	........ / Lewis	// <p> <strong> Lewis Gilbert </strong> <a> CBE </a> ( born 6 March 1920 in <a> London </a> ) is an <a> English </a> <a> film director </a> , <a> producer </a> and <a> screenwriter </a> </p>
+
+#	NEW	birth_date	........ / Lewis	// <p> Lewis Gilbert was awarded the Fellowship of the <a> British Film Institute </a> in 2001 . </p>
+
+#	NEW	birth_name	........ / Lewis Gilbert	// <p> <strong> Lewis Gilbert </strong> <a> CBE </a> ( born 6 March 1920 in <a> London </a> ) is an <a> English </a> <a> film director </a> , <a> producer </a> and <a> screenwriter </a> </p>
+
+#	NEW	name	........ / January Kristen	// <p> <strong> January Kristen Jones </strong> ( born January 5 , 1978 ) is an American actress .
+
+#	NEW	caption	........ / January	// <p> <strong> January Kristen Jones </strong> ( born January 5 , 1978 ) is an American actress .
+
+#	NEW	birth_name	........ / January Kristen Jones	// <p> <strong> January Kristen Jones </strong> ( born January 5 , 1978 ) is an American actress .
+
+#	NEW	birth_date	........ / January	// <p> <strong> January Kristen Jones </strong> ( born January 5 , 1978 ) is an American actress .
+
+78	TRUE	January Jones::occupation	actress / Actress	
+<p> In 2008 and 2009 , she was nominated for a <a> Golden Globe </a> for <a> Best Actress in a Television Series Drama </a> for <em> Mad Men </em> , and won the Screen Actors Guild Award for Outstanding Performance by an Ensemble in a Drama Series for <em> Mad Men </em> . </p>
+
+#	NEW	death_date	........ / January 5 , 1978 )	// <p> <strong> January Kristen Jones </strong> ( born January 5 , 1978 ) is an American actress .
+
+#	NEW	birthdate	........ / 5 , 1978 )	// <p> <strong> January Kristen Jones </strong> ( born January 5 , 1978 ) is an American actress .
+
+#	NEW	name	........ / is an	// <p> <strong> Chip Zien </strong> ( born <strong> Jerome Herbert Zien </strong> ; March 20 , 1947 ) is an American actor .
+
+#	NEW	caption	........ / Chip	// <p> <strong> Chip Zien </strong> ( born <strong> Jerome Herbert Zien </strong> ; March 20 , 1947 ) is an American actor .
+
+#	NEW	birth_name	........ / Jerome Herbert Zien	// <p> <strong> Chip Zien </strong> ( born <strong> Jerome Herbert Zien </strong> ; March 20 , 1947 ) is an American actor .
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Chip Zien </strong> ( born <strong> Jerome Herbert Zien </strong> ; March 20 , 1947 ) is an American actor .
+
+#	NEW	occupation	........ / lead	// He is best known for playing the lead role of the Baker in the original Broadway production of <em> <a> Into the Woods </a> </em> by <a> Stephen Sondheim </a> .
+
+#	NEW	death_date	........ / March 20 , 1947 )	// <p> <strong> Chip Zien </strong> ( born <strong> Jerome Herbert Zien </strong> ; March 20 , 1947 ) is an American actor .
+
+#	NEW	birthdate	........ / 20 , 1947 )	// <p> <strong> Chip Zien </strong> ( born <strong> Jerome Herbert Zien </strong> ; March 20 , 1947 ) is an American actor .
+
+#	NEW	name	........ / Summer Wine	// <p> <strong> Brian George Wilde </strong> ( 13 June 1927&#x2013 ; 20 March 2008 ) was an English <a> actor </a> , best known for his roles in <a> television comedy </a> , including <a> Mr Barrowclough </a> in <em> <a> Porridge </a> </em> and &quot ; Foggy&quot ; Dewhurst in <em> <a> Last of the Summer Wine </a> </em> .
+
+#	NEW	caption	........ / Brian	// <p> <strong> Brian George Wilde </strong> ( 13 June 1927&#x2013 ; 20 March 2008 ) was an English <a> actor </a> , best known for his roles in <a> television comedy </a> , including <a> Mr Barrowclough </a> in <em> <a> Porridge </a> </em> and &quot ; Foggy&quot ; Dewhurst in <em> <a> Last of the Summer Wine </a> </em> .
+
+#	NEW	birth_name	........ / Brian George Wilde	// <p> <strong> Brian George Wilde </strong> ( 13 June 1927&#x2013 ; 20 March 2008 ) was an English <a> actor </a> , best known for his roles in <a> television comedy </a> , including <a> Mr Barrowclough </a> in <em> <a> Porridge </a> </em> and &quot ; Foggy&quot ; Dewhurst in <em> <a> Last of the Summer Wine </a> </em> .
+
+#	NEW	occupation	........ / actor	// <p> <strong> Brian George Wilde </strong> ( 13 June 1927&#x2013 ; 20 March 2008 ) was an English <a> actor </a> , best known for his roles in <a> television comedy </a> , including <a> Mr Barrowclough </a> in <em> <a> Porridge </a> </em> and &quot ; Foggy&quot ; Dewhurst in <em> <a> Last of the Summer Wine </a> </em> .
+
+#	NEW	name	........ / an English	// <p> <strong> Violet Helen Carson </strong> <a> OBE </a> ( 1 September 1898 &ndash ; 26 December 1983 ) was an English actress . </p>
+
+#	NEW	caption	........ / Violet	// <p> <strong> Violet Helen Carson </strong> <a> OBE </a> ( 1 September 1898 &ndash ; 26 December 1983 ) was an English actress . </p>
+
+#	NEW	birth_name	........ / Violet Helen Carson	// <p> <strong> Violet Helen Carson </strong> <a> OBE </a> ( 1 September 1898 &ndash ; 26 December 1983 ) was an English actress . </p>
+
+95	FALSE	Violet Carson::occupation	actress / ,	
+<p> On 22 March 1968 , she attended the 10th Annual Australian TV Week Logie Awards ( named after <a> John Logie Baird </a> ) at the Southern Cross Hotel in <a> Melbourne </a> , where she presented awards to some of the main winners that year .
+
+#	NEW	death_date	........ / 1983 )	// <p> <strong> Violet Helen Carson </strong> <a> OBE </a> ( 1 September 1898 &ndash ; 26 December 1983 ) was an English actress . </p>
+
+#	NEW	name	........ / January 1988	// <p> <strong> Kathleen Mary Margaret Bryant </strong> ( 8 March 1897 in <a> Kingston upon Hull </a> &#x2013 ; 1 January 1988 in <a> Manchester </a> ) was an <a> English </a> <a> actress </a> .
+
+#	NEW	caption	........ / Kathleen	// <p> <strong> Kathleen Mary Margaret Bryant </strong> ( 8 March 1897 in <a> Kingston upon Hull </a> &#x2013 ; 1 January 1988 in <a> Manchester </a> ) was an <a> English </a> <a> actress </a> .
+
+#	NEW	birth_name	........ / Kathleen Mary Margaret Bryant	// <p> <strong> Kathleen Mary Margaret Bryant </strong> ( 8 March 1897 in <a> Kingston upon Hull </a> &#x2013 ; 1 January 1988 in <a> Manchester </a> ) was an <a> English </a> <a> actress </a> .
+
+#	NEW	caption	........ / 2004 )	// <p> <strong> Rena Vlahopoulou </strong> ( &#x03a1 ; &#x03ad ; &#x03bd ; &#x03b1 ; &#x0392 ; &#x03bb ; &#x03b1 ; &#x03c7 ; &#x03bf ; &#x03c0 ; &#x03bf ; &#x03cd ; &#x03bb ; &#x03bf ; &#x03c5 ; ) ( 1923 - July 29 , 2004 ) was a famous <a> Greek </a> <a> actress </a> and <a> singer </a> .
+
+#	NEW	birth_date	........ / Vlahopoulou	// <p> Vlahopoulou was born on the island of <a> Corfu </a> , the fifth of nine children .
+
+#	NEW	occupation	........ / ,	// She was a charismatic comedienne , with considerable singing and dancing talents , and remained hugely popular on stage and film throughout her long career . </p>
+
+#	NEW	birth_name	........ / a charismatic comedienne , with considerable singing and dancing talents , and remained hugely popular on stage and film throughout her long career .	// She was a charismatic comedienne , with considerable singing and dancing talents , and remained hugely popular on stage and film throughout her long career . </p>
+
+#	NEW	death_date	........ / singer	// <p> <strong> Rena Vlahopoulou </strong> ( &#x03a1 ; &#x03ad ; &#x03bd ; &#x03b1 ; &#x0392 ; &#x03bb ; &#x03b1 ; &#x03c7 ; &#x03bf ; &#x03c0 ; &#x03bf ; &#x03cd ; &#x03bb ; &#x03bf ; &#x03c5 ; ) ( 1923 - July 29 , 2004 ) was a famous <a> Greek </a> <a> actress </a> and <a> singer </a> .
+
+105	TRUE	Detlev Buck::name	detlev buck / Bad Segeberg	
+<p> <strong> Detlev Buck </strong> ( born December 1 , 1962 in <a> Bad Segeberg </a> ) is a German <a> film director </a> and actor . </p>
+
+#	NEW	caption	........ / Detlev	// <p> <strong> Detlev Buck </strong> ( born December 1 , 1962 in <a> Bad Segeberg </a> ) is a German <a> film director </a> and actor . </p>
+
+#	NEW	birth_name	........ / Bad Segeberg	// <p> <strong> Detlev Buck </strong> ( born December 1 , 1962 in <a> Bad Segeberg </a> ) is a German <a> film director </a> and actor . </p>
+
+#	NEW	death_date	........ / and	// <p> <strong> Detlev Buck </strong> ( born December 1 , 1962 in <a> Bad Segeberg </a> ) is a German <a> film director </a> and actor . </p>
+
+109	TRUE	Sally Jessy Raphael::name	sally jessy raphael / show she	
+<p> <strong> Sally Angeline Lowenthal </strong> ( born February 25 , 1942 ) , better known as <strong> Sally Jessy Raphael </strong> , is an <a> American </a> <a> talk show </a> <a> host </a> , known for the eponymous <em> <a> Sally </a> </em> talk show she hosted for two decades . </p>
+
+#	NEW	caption	........ / Sally	// <p> <strong> Sally Angeline Lowenthal </strong> ( born February 25 , 1942 ) , better known as <strong> Sally Jessy Raphael </strong> , is an <a> American </a> <a> talk show </a> <a> host </a> , known for the eponymous <em> <a> Sally </a> </em> talk show she hosted for two decades . </p>
+
+#	NEW	birth_name	........ / Sally Angeline Lowenthal	// <p> <strong> Sally Angeline Lowenthal </strong> ( born February 25 , 1942 ) , better known as <strong> Sally Jessy Raphael </strong> , is an <a> American </a> <a> talk show </a> <a> host </a> , known for the eponymous <em> <a> Sally </a> </em> talk show she hosted for two decades . </p>
+
+#	NEW	death_date	........ / talk	// <p> <strong> Sally Angeline Lowenthal </strong> ( born February 25 , 1942 ) , better known as <strong> Sally Jessy Raphael </strong> , is an <a> American </a> <a> talk show </a> <a> host </a> , known for the eponymous <em> <a> Sally </a> </em> talk show she hosted for two decades . </p>
+
+113	TRUE	Georges Franju::name	georges franju / November 1987 )	
+<p> <strong> Georges Franju </strong> ( 12 April 1912 &ndash ; 5 November 1987 ) was a <a> French </a> <a> filmmaker </a> .
+
+#	NEW	caption	........ / Georges	// <p> <strong> Georges Franju </strong> ( 12 April 1912 &ndash ; 5 November 1987 ) was a <a> French </a> <a> filmmaker </a> .
+
+#	NEW	birth_name	........ / Georges Franju	// <p> <strong> Georges Franju </strong> ( 12 April 1912 &ndash ; 5 November 1987 ) was a <a> French </a> <a> filmmaker </a> .
+
+#	NEW	occupation	........ / director	// Franju ' s focus on the film was on visuals which he claimed marked a director as an <a> auteur </a> .
+
+#	NEW	death_date	........ / filmmaker	// <p> <strong> Georges Franju </strong> ( 12 April 1912 &ndash ; 5 November 1987 ) was a <a> French </a> <a> filmmaker </a> .
+
+#	NEW	name	........ / Kansas City	// <p> <strong> Harley Brown </strong> ( born August 2 , 1954 ) is an <a> American </a> actress , born in <a> Kansas City , Missouri </a> . </p>
+
+#	NEW	caption	........ / Harley	// <p> <strong> Harley Brown </strong> ( born August 2 , 1954 ) is an <a> American </a> actress , born in <a> Kansas City , Missouri </a> . </p>
+
+#	NEW	birth_name	........ / Kansas City , Missouri	// <p> <strong> Harley Brown </strong> ( born August 2 , 1954 ) is an <a> American </a> actress , born in <a> Kansas City , Missouri </a> . </p>
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Harley Brown </strong> ( born August 2 , 1954 ) is an <a> American </a> actress , born in <a> Kansas City , Missouri </a> . </p>
+
+#	NEW	occupation	........ / actor	// <p> She is best known as half of the <a> supercouple </a> Quint and Nola , playing alongside actor <a> Michael Tylo </a> , on <em> <a> Guiding Light </a> </em> .
+
+#	NEW	death_date	........ / actress	// <p> <strong> Harley Brown </strong> ( born August 2 , 1954 ) is an <a> American </a> actress , born in <a> Kansas City , Missouri </a> . </p>
+
+124	TRUE	Valentina Cortese::name	valentina cortese / film actress	
+<p> <strong> Valentina Cortese </strong> ( born 1 January 1923 or 1925 , <a> Milan , Italy </a> ) is an Italian <a> film actress </a> . </p>
+
+#	NEW	caption	........ / Italy	// <p> <strong> Valentina Cortese </strong> ( born 1 January 1923 or 1925 , <a> Milan , Italy </a> ) is an Italian <a> film actress </a> . </p>
+
+#	NEW	birth_name	........ / is an Italian	// <p> <strong> Valentina Cortese </strong> ( born 1 January 1923 or 1925 , <a> Milan , Italy </a> ) is an Italian <a> film actress </a> . </p>
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Valentina Cortese </strong> ( born 1 January 1923 or 1925 , <a> Milan , Italy </a> ) is an Italian <a> film actress </a> . </p>
+
+#	NEW	occupation	........ / Actress	// <p> She was nominated for the <a> Academy Award for Best Supporting Actress </a> in 1975 for her performance in <a> Fran&#x00e7 ; ois Truffaut </a> ' s <em> <a> Day for Night </a> </em> . </p>
+
+#	NEW	caption	........ / 2009 )	// <p> <strong> Philip Simmons </strong> ( June 9 , 1912 - June 22 , 2009 ) was an <a> American </a> <a> artisan </a> and <a> blacksmith </a> specializing in the craft of <a> ironwork </a> .
+
+#	NEW	birth_name	........ / an <a> American	// <p> <strong> Philip Simmons </strong> ( June 9 , 1912 - June 22 , 2009 ) was an <a> American </a> <a> artisan </a> and <a> blacksmith </a> specializing in the craft of <a> ironwork </a> .
+
+#	NEW	death_date	........ / specializing	// <p> <strong> Philip Simmons </strong> ( June 9 , 1912 - June 22 , 2009 ) was an <a> American </a> <a> artisan </a> and <a> blacksmith </a> specializing in the craft of <a> ironwork </a> .
+
+#	NEW	death_place	........ / new	// However , Simmons had to create the gate out of scrap iron because the demand for iron during World War II made it impossible to acquire new <a> iron </a> . ref
+
+133	TRUE	Janet McTeer::name	janet mcteer / May 1961 )	
+<p> <strong> Janet McTeer </strong> , <a> OBE </a> ( born 8 May 1961 ) is a <a> British </a> <a> actress </a> . </p>
+
+#	NEW	caption	........ / ( born 8	// <p> <strong> Janet McTeer </strong> , <a> OBE </a> ( born 8 May 1961 ) is a <a> British </a> <a> actress </a> . </p>
+
+#	NEW	birth_name	........ / May 1961 ) is a	// <p> <strong> Janet McTeer </strong> , <a> OBE </a> ( born 8 May 1961 ) is a <a> British </a> <a> actress </a> . </p>
+
+#	NEW	occupation	........ / Actress	// <em> <a> Tumbleweeds </a> </em> proved to be a 1999 <a> Sundance Film Festival </a> favourite , and McTeer ' s performance won her a <a> Golden Globe </a> as Best Actress and <a> Academy Award </a> and <a> Screen Actors Guild </a> nominations in the same category . </p>
+
+#	NEW	name	........ / Tim McInnerny	// <p> <strong> Tim McInnerny </strong> ( pronounced born 18 September 1956 ) is an <a> English </a> actor .
+
+#	NEW	birth_name	........ / September 1956 ) is an	// <p> <strong> Tim McInnerny </strong> ( pronounced born 18 September 1956 ) is an <a> English </a> actor .
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Tim McInnerny </strong> ( pronounced born 18 September 1956 ) is an <a> English </a> actor .
+
+#	NEW	occupation	........ / ,	// That same year , he also starred in <em> One Day </em> , a short film shown at various international film festivals . </p>
+
+#	NEW	death_date	........ / September 1956 ) is	// <p> <strong> Tim McInnerny </strong> ( pronounced born 18 September 1956 ) is an <a> English </a> actor .
+
+#	NEW	birth_name	........ / Alan E . Ball	// <p> <strong> Alan E . Ball </strong> ( born May 13 , 1957 ) is an <a> American </a> <a> writer </a> , <a> director </a> , <a> actor </a> and <a> producer </a> for <a> film </a> , <a> theatre </a> and <a> television </a> .
+
+#	NEW	death_date	........ / television	// <p> <strong> Alan E . Ball </strong> ( born May 13 , 1957 ) is an <a> American </a> <a> writer </a> , <a> director </a> , <a> actor </a> and <a> producer </a> for <a> film </a> , <a> theatre </a> and <a> television </a> .
+
+#	NEW	birth_date	........ / Ball	// <p> Ball has written two films , Academy Award winner <em> <a> American Beauty </a> </em> and <em> <a> Towelhead </a> </em> .
+
+#	NEW	occupation	........ / ,	// For his work in television and film , Ball has received critical acclaim and numerous awards , including an <a> Academy Award </a> , an <a> Emmy </a> and a <a> Golden Globe </a> .
+
+#	NEW	name	........ / New Zealand	// <p> <strong> Bruno Lawrence </strong> ( 12 February 1941 &#x2013 ; 10 June 1995 , <a> Wellington </a> , <a> New Zealand </a> ) was a <a> New Zealand </a> <a> musician </a> and <a> actor </a> . </p>
+
+147	TRUE	Bruno Lawrence::caption	bruno lawrence / New	
+<p> <strong> Bruno Lawrence </strong> ( 12 February 1941 &#x2013 ; 10 June 1995 , <a> Wellington </a> , <a> New Zealand </a> ) was a <a> New Zealand </a> <a> musician </a> and <a> actor </a> . </p>
+
+#	NEW	birth_date	........ / In	// <p> In the 1970s , Lawrence founded Blerta ( &quot ; Bruno Lawrence ' s Electric Revelation and Traveling Apparition&quot ; ) , a musical and theatrical co-operative active .
+
+#	NEW	occupation	........ / actor	// There he performed with many of those he would work with later as an actor , including future film director <a> Geoff Murphy </a> and actor <a> Ian Watkin </a> . </p>
+
+#	NEW	birth_name	........ / Lawrence ' s last and	// <p> Lawrence ' s last and , in Australia at least , best-known screen role was as the devious , golf-loving TV producer Brian Thompson in 1990s Australian satirical TV series <em> <a> Frontline </a> </em> . In 1995 during the filming of Australian feature <em> <a> Cos&#x00ec ; </a> </em> , which was scheduled to be his next role , Lawrence was diagnosed with inoperable <a> lung cancer </a> and died the same year . </p>
+
+#	NEW	birth_name	........ / Peter Woodthorpe	// <p> <strong> Peter Woodthorpe </strong> ( 25 September 1931 &#x2013 ; 12 August 2004 ) was an <a> English </a> <a> film </a> , <a> television </a> and <a> voice actor </a> who is best known for supplying the voice of <a> Gollum </a> in the <a> 1978 Bakshi version of <em> The Lord of the Rings </em> </a> and <a> BBC </a> ' s 1981 <a> radio serial </a> .
+
+#	NEW	birth_date	........ / In	// <p> In the summer of 1955 he played <a> Estragon </a> in the first British production of <em> <a> Waiting for Godot </a> </em> .
+
+#	NEW	occupation	........ / ,	// He had then just finished his second year at <a> Magdalene College , Cambridge </a> , and expected to return after a run of a few weeks .
+
+#	NEW	death_date	........ / and	// He also provided the voice of Pigsy in the cult series <em> <a> Monkey </a> </em> and was Max the pathologist in early episodes of <em> <a> Inspector Morse </a> </em> . </p>
+
+155	TRUE	Peter Woodthorpe::name	peter woodthorpe / radio serial	
+<p> <strong> Peter Woodthorpe </strong> ( 25 September 1931 &#x2013 ; 12 August 2004 ) was an <a> English </a> <a> film </a> , <a> television </a> and <a> voice actor </a> who is best known for supplying the voice of <a> Gollum </a> in the <a> 1978 Bakshi version of <em> The Lord of the Rings </em> </a> and <a> BBC </a> ' s 1981 <a> radio serial </a> .
+
+#	null	birthdate	1897 / ..........
+
+#	null	birthdate	1923 / ..........
+
+#	null	occupation	talk show host / ..........
+
+#	null	birthdate	1 january 1923 or 1925 / ..........
+
+#	null	name	philip simmons / ..........
+
+#	null	occupation	actress / ..........
+

@@ -1,4 +1,0 @@
-<li><a>City Campus</a> (Rector and central administration): Prinsstraat 13, 2000 Antwerp</li>
-<li><a>Campus Middelheim</a>: Middelheimlaan 1, 2020 Antwerp</li>
-<li><a>Campus Drie Eiken</a>: Universiteitsplein 1, 2610 Antwerp</li>
-<li><a>Interuniversity Microelectronics Centre</a> (IMEC)</li>

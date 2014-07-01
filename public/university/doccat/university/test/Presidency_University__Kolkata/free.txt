@@ -1,5 +1,0 @@
-<h3>Department of Physics</h3>
-<h3>Department of Physiology</h3>
-<h3>Department of Statistics</h3>
-<h3>Department of Zoology</h3>
-<h3>Notable alumni</h3>

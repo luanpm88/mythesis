@@ -1,3 +1,0 @@
-<li><a>Jon Fishman</a> - rock band member (<a>Phish</a>)</li>
-<li><a>Mary Karr</a> - author</li>
-<li><a>Page McConnell</a> - rock band member (<a>Phish</a>)</li>

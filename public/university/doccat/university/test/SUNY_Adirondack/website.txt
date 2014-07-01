@@ -1,3 +1,0 @@
-<h2>The campus</h2>
-<li>Culinary Arts Club</li>
-<li>Media Arts Club</li>

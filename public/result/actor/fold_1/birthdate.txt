@@ -1,0 +1,33 @@
+Found: 9
+Found Not Null: 1
+Correct: 1
+Wrong: 0
+Total: 3
+precision: 1.0
+recall: 0.3333333333333333
+
+
+
+#	NEW	birthdate	........ / a> .	// <p> Black is also a professional singer of <a> jazz </a> and <a> classical music </a> . ref
+
+#	NEW	birthdate	........ / Detroit	// <p> Fenn was born <strong> Sheryl Ann Fenn </strong> in <a> Detroit , Michigan </a> .
+
+#	NEW	birthdate	........ / 1971 ) school secretary &quot ; Miss Hoggarth&quot ; on Room 222 ( 1970-1972 ) and as &quot ; Mary Gruber&quot ; in the <em> <a> Benji </a> </em> series of motion pictures beginning in 1974 .	// Fowler&quot ; on TV ' s <em> <a> Nanny and the Professor </a> </em> ( 1970-1971 ) , school secretary &quot ; Miss Hoggarth&quot ; on Room 222 ( 1970-1972 ) and as &quot ; Mary Gruber&quot ; in the <em> <a> Benji </a> </em> series of motion pictures beginning in 1974 . </p>
+
+#	NEW	birthdate	........ / 8	// Their daughter , Catherine Rose , was born on March 8 , 2004 .
+
+#	NEW	birthdate	........ / em>	// He first gained public attention with the publication of the <a> queer punk </a> <a> zine </a> <em> <a> J . D . s </a> </em> , which he co-edited with <a> G . B .
+
+5	TRUE	Gerda Nicolson::birthdate	11 november 1937 / ( 11 November 1937 - 12 June 1992 ) was an <a> Australia </a> n theatre and television actor best known for several long-running television roles. </	
+<p> <strong> Gerda Nicolson </strong> , ( 11 November 1937 - 12 June 1992 ) was an <a> Australia </a> n theatre and television actor best known for several long-running television roles . </p>
+
+#	NEW	birthdate	........ / Laurie	// She is the daughter of 15-time <a> NHRA </a> <a> Funny Car </a> national champion <a> John Force </a> and his wife Laurie Force .
+
+#	NEW	birthdate	........ / 14	// <p> <strong> Penny Johnson Jerald </strong> ( born March 14 , 1961 ) is an American actress .
+
+#	NEW	birthdate	........ / 30 1915 &ndash ; June 8	// <p> <strong> Dorothy Dell </strong> ( January 30 , 1915 &ndash ; June 8 , 1934 ) was an American film actress . </p>
+
+#	null	birthdate	may 28, 1956 / ..........
+
+#	null	birthdate	april 29, 1936 / ..........
+

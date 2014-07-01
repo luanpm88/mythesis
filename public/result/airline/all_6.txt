@@ -1,0 +1,278 @@
+Total articles: 456
+Articles for test: 411
+Articles for train: 45
+Total attributes: 140
+Attributes with high occurrences: 18/140
+
+------------
+Found: 571
+Found Not Null: 87
+Correct: 38
+Wrong: 49
+Total: 110
+precision: 0.4367816091954023
+recall: 0.34545454545454546
+
+
+
+50	FALSE	Air Namibia:: fleet_size	8 / ( 2006 )	
+( 2006 ) ]] The Air Namibia fleet consists of the following aircraft ( at 24 May 2010 ) : </p>
+
+52	TRUE	Air Namibia:: callsign	namibia / Trans	
+<p> <strong> Air Namibia </strong> is the national <a> airline </a> of <a> Namibia </a> , headquartered in the Trans Namib Building in <a> Windhoek </a> .
+
+58	TRUE	Air Namibia:: airline	air namibia / Trans	
+<p> <strong> Air Namibia </strong> is the national <a> airline </a> of <a> Namibia </a> , headquartered in the Trans Namib Building in <a> Windhoek </a> .
+
+110	TRUE	Airphil Express:: fleet_size	10 / <a>	
+<p> On March 28 , 2010 , Air Philippines resumed operating services under their own right to <a> Iloilo </a> , <a> Bacolod </a> , <a> Puerto Princesa </a> and <a> Cagayan de Oro </a> , utilizing <a> Airbus A320 </a> jet aircraft under the name AirPhil Express . </p>
+
+114	FALSE	Braniff International Airways:: iata	bn / world'	
+The airline also operated <a> Jetrail </a> from 1969&#x2013;1974 , the world's first fully automated monorail system .
+
+115	FALSE	Braniff International Airways:: parent	braniff airways, inc. / Boeing 727	
+By the mid-1970s , Braniff operated the largest fleet of <a> Boeing 727 </a> s in the world , and pioneered the concept of fleet standardization and the efficiencies that a single type of aircraft could produce .
+
+116	FALSE	Braniff International Airways:: founded	1928 / 1979	
+<p> The airline started service with <a> Concorde </a> in 1979 between <a> Dallas/Fort Worth </a> and <a> Washington , D . C . </a> , to <a> Paris </a> and <a> London </a> on interchange flights with <a> Air France </a> and <a> British Airways </a> .
+
+119	TRUE	Braniff International Airways:: ceased	1982 / 54	
+The next day , on May 12 , 1982 , Braniff Airways ceased all operations , thus ending 54 years of service in the American <a> airline </a> industry .
+
+121	TRUE	Braniff International Airways:: callsign	braniff / International	
+<p> <strong> Braniff International Airways </strong> was an <a> American </a> <a> airline </a> that operated from 1928 until 1982 , primarily in the midwestern and southwestern U . S . , <a> South America </a> , <a> Panama </a> , and in its later years also <a> Asia </a> and <a> Europe </a> .
+
+126	FALSE	Sudan Airways:: iata	sd / cities.	
+Whilst the airline has withdrawn from its once a week service on the London route , it is entering into a codeshare agreement with UK airline BMI that will offer passengers an increased frequency of four flights weekly between the two capital cities . </p>
+
+133	TRUE	Sudan Airways:: airline	sudan airways / Air	
+<p> <strong> Sudan Airways </strong> ( ) is the national <a> airline </a> of <a> Sudan </a> and is a member of the <a> Arab Air Carriers Organization </a> .
+
+134	TRUE	Sudan Airways:: icao	sud / Carriers	
+<p> <strong> Sudan Airways </strong> ( ) is the national <a> airline </a> of <a> Sudan </a> and is a member of the <a> Arab Air Carriers Organization </a> .
+
+139	TRUE	Mahan Air:: callsign	mahan / Officially	
+<p> Officially <strong> Mahan Airlines </strong> ( ) is a private <a> airline </a> based in <a> Tehran </a> , <a> Iran </a> .
+
+141	TRUE	Mahan Air:: founded	1992 / 1991	
+Air [[Airbus A300|Airbus A300B4-600]] lands at <a> Birmingham International Airport </a> , <a> England </a> ( 2010 ) ]] The airline was established in 1991 and began operations in 1992 as Iran's first private airline .
+
+147	TRUE	Mahan Air:: airline	mahan air / Iran	
+<p> Officially <strong> Mahan Airlines </strong> ( ) is a private <a> airline </a> based in <a> Tehran </a> , <a> Iran </a> .
+
+148	FALSE	Mahan Air:: icao	irm / Iran	
+<p> Officially <strong> Mahan Airlines </strong> ( ) is a private <a> airline </a> based in <a> Tehran </a> , <a> Iran </a> .
+
+152	FALSE	Kuwait Airways:: fleet_size	19 / 8	
+<p> The Kuwait Airways fleet includes the following aircraft ( as of October 2010 ) , with an average age of 15 . 8 years : center </p>
+
+153	TRUE	Kuwait Airways:: iata	ku / it'	
+<p> Kuwait Airways also went in to alliances with several airlines to keep up with demand and to continue it's operations during the 1990 War . </p>
+
+154	FALSE	Kuwait Airways:: callsign	kuwaiti / Al	
+<p> <strong> Kuwait Airways </strong> ( ) is the <a> national </a> <a> airline </a> of <a> Kuwait </a> , with its head office on the grounds of <a> Kuwait International Airport </a> in <a> Al Farwaniyah Governorate </a> .
+
+157	FALSE	Kuwait Airways:: founded	1954 / 2009 ).	
+<p> The airline has 5 , 915 employees ( at March 2009 ) .
+
+161	FALSE	Kuwait Airways:: icao	kac / Al	
+<p> <strong> Kuwait Airways </strong> ( ) is the <a> national </a> <a> airline </a> of <a> Kuwait </a> , with its head office on the grounds of <a> Kuwait International Airport </a> in <a> Al Farwaniyah Governorate </a> .
+
+164	FALSE	Gulf Air:: iata	gf / Muharraq	
+Headquartered in <a> Muharraq </a> , adjacent to <a> Bahrain International Airport </a> , the <a> airline </a> operates scheduled services to 45 destinations in 28 countries across <a> Africa </a> , <a> Asia </a> and <a> Europe </a> .
+
+165	TRUE	Gulf Air:: callsign	gulf air / j	
+<p> <strong> Gulf Air </strong> ( <em> &#x1e6c;ayar&#x0101;n al-Khal&#x012b;j </em> ) is the principal <a> flag carrier </a> of the Kingdom of <a> Bahrain </a> .
+
+172	FALSE	Gulf Air:: icao	gfa / Bahrain	
+<p> <strong> Gulf Air </strong> ( <em> &#x1e6c;ayar&#x0101;n al-Khal&#x012b;j </em> ) is the principal <a> flag carrier </a> of the Kingdom of <a> Bahrain </a> .
+
+173	FALSE	Syrian Air:: logo_size	200 / </	
+As a result , the airline is considering leasing several Tu-204 aircraft to continue operations until the A320s can be returned to service . </p>
+
+175	FALSE	Syrian Air:: iata	rb / as	
+It operates scheduled international services to over 40 destinations in <a> Asia </a> , <a> Europe </a> and <a> North Africa </a> , as well as domestic services .
+
+177	FALSE	Syrian Air:: callsign	syrianair / Air	
+[[File : SyrianArabAirlinesofficeParis . JPG|thumb|Syrian Air office at 1 Rue Auber , [[9th arrondissement of Paris|9th arrondissement]] , Paris]] <strong> Syrian Arab Airlines </strong> ( ) , operating as <strong> Syrian Air </strong> ( ) , is the <a> flag carrier </a> <a> airline </a> of <a> Syria </a> , based in <a> Damascus </a> .
+
+179	TRUE	Syrian Air:: founded	1946 / 1961	
+<p> The airline was established by the Government of Syria in October 1961 to succeed Syrian Airways which had been established in 1946 .
+
+184	TRUE	Syrian Air:: icao	syr / Damascus	
+[[File : SyrianArabAirlinesofficeParis . JPG|thumb|Syrian Air office at 1 Rue Auber , [[9th arrondissement of Paris|9th arrondissement]] , Paris]] <strong> Syrian Arab Airlines </strong> ( ) , operating as <strong> Syrian Air </strong> ( ) , is the <a> flag carrier </a> <a> airline </a> of <a> Syria </a> , based in <a> Damascus </a> .
+
+202	FALSE	Air California:: iata	oc / same	
+Coincidentally , the latter two types were also operated by its rival <a> Pacific Southwest Airlines </a> on several of the same routes . </p>
+
+203	TRUE	Air California:: callsign	aircal / western	
+<p> <strong> Air California </strong> , later <strong> AirCal </strong> , was a <a> regional airline </a> using <a> mainline </a> equipment and serving different points in the state of <a> California </a> and some neighboring western <a> U . S . state </a> s .
+
+242	FALSE	China Southern Airlines:: callsign	china southern / in China.	
+It has a strong presence in domestic market in China .
+
+244	FALSE	China Southern Airlines:: founded	1989 / 1988	
+<p> China Southern Airlines was established in 1988 , following the government's decision to split the operating divisions of <a> Civil Aviation Administration of China </a> ( CAAC ) into separate airlines .
+
+246	FALSE	China Southern Airlines:: frequent_flyer	sky pearl club / SkyTeam	
+The airline has also <a> codeshare agreement </a> s with the following airlines ( besides SkyTeam members ) : .
+
+268	FALSE	Líneas Aéreas Privadas Argentinas:: callsign	lapa / Argentina	
+<p> <strong> L&#x00ed;neas A&#x00e9;reas Privadas Argentinas </strong> was an airline based in <a> Argentina </a> . </p>
+
+273	TRUE	Líneas Aéreas Privadas Argentinas:: ceased	2003 / 200	
+As at April 21 , 2003 , when Lapa ceased operations , only three of its remaining five <a> Boeing 737-200 </a> s were operational .
+
+285	TRUE	Air Srpska:: ceased	2003 / 2003.	
+<p> <strong> Air Srpska </strong> was an <a> airline </a> of <a> Srpska </a> , an entity of the <a> State of Bosnia and Herzegovina </a> , which was operational between 1999 and 2003 . </p>
+
+291	TRUE	Volga-Dnepr Airlines:: iata	vi / An-	
+It operates scheduled and charter passenger and cargo services , but specialises in outsize cargo operations using the world's largest fleet of <a> Antonov An-124 </a> aircraft .
+
+298	FALSE	Volga-Dnepr Airlines:: founded	1990 / 120-	
+It started operations in October 1991 , when it carried a 120-ton cargo from Amsterdam to Almaty . in which it has a 50% stake . </p>
+
+302	FALSE	EVA Air:: iata	br / to	
+In 2008 , the airline also announced the suspension of services to <a> Auckland </a> .
+
+303	TRUE	EVA Air:: callsign	eva / Air	
+<p> <strong> EVA Airways Corporation </strong> ( pronounced &quot;E-V-A Air ( ways ) &quot;; ) ( ) is an <a> airline </a> based at <a> Taiwan Taoyuan International Airport </a> near <a> Taipei </a> , <a> Taiwan </a> , operating passenger and dedicated cargo services to over 40 international destinations in <a> Asia </a> , <a> Australia </a> , <a> Europe </a> and <a> North America </a> .
+
+310	TRUE	EVA Air:: icao	eva / Europe	
+<p> <strong> EVA Airways Corporation </strong> ( pronounced &quot;E-V-A Air ( ways ) &quot;; ) ( ) is an <a> airline </a> based at <a> Taiwan Taoyuan International Airport </a> near <a> Taipei </a> , <a> Taiwan </a> , operating passenger and dedicated cargo services to over 40 international destinations in <a> Asia </a> , <a> Australia </a> , <a> Europe </a> and <a> North America </a> .
+
+316	FALSE	Air Koryo:: iata	js / It	
+It operates international services and charter flights to points in Asia and Africa .
+
+323	TRUE	Air Koryo:: callsign	air koryo / Air	
+<p> <strong> Air Koryo </strong> ( formerly <em> Chos&#x014f;n Minhang ( &#xc870;&#xc120;&#xbbfc;&#xd56d; | &#x041a;&#x043e;&#x0440;&#x0451; &#x0425;&#x0430;&#x043d;&#x0433;&#x0433;&#x043e;&#x043d;&#x0433; ( Koryo Khanggong ) ) </em> , short for <strong> Air Koryo </strong> ) is the state-owned national <a> flag carrier </a> <a> airline </a> of <a> North Korea </a> , headquartered in <a> Sunan-guy&#x014f;k </a> , <a> Pyongyang </a> .
+
+326	TRUE	Air Koryo:: icao	kor / Pyongyang	
+<p> <strong> Air Koryo </strong> ( formerly <em> Chos&#x014f;n Minhang ( &#xc870;&#xc120;&#xbbfc;&#xd56d; | &#x041a;&#x043e;&#x0440;&#x0451; &#x0425;&#x0430;&#x043d;&#x0433;&#x0433;&#x043e;&#x043d;&#x0433; ( Koryo Khanggong ) ) </em> , short for <strong> Air Koryo </strong> ) is the state-owned national <a> flag carrier </a> <a> airline </a> of <a> North Korea </a> , headquartered in <a> Sunan-guy&#x014f;k </a> , <a> Pyongyang </a> .
+
+340	TRUE	Ethiopian Airlines:: logo_size	200 / 5	
+<p> In February 2005 Ethiopian Airlines signed a preliminary agreement to buy up to 10 <a> Boeing 787 </a> Dreamliner aircraft ( 5 firm orders and 5 options ) .
+
+343	FALSE	Ethiopian Airlines:: iata	et / to	
+The aircraft was operating a domestic scheduled passenger flight to <a> Beica Airport </a> . </p>
+
+344	TRUE	Ethiopian Airlines:: callsign	ethiopian / short )	
+<p> <strong> Ethiopian Airlines </strong> ( in short ) is an <a> airline </a> headquartered on the grounds of <a> Bole International Airport </a> in <a> Addis Ababa </a> , <a> Ethiopia </a> .
+
+349	TRUE	Ethiopian Airlines:: icao	eth / Ethiopia	
+<p> <strong> Ethiopian Airlines </strong> ( in short ) is an <a> airline </a> headquartered on the grounds of <a> Bole International Airport </a> in <a> Addis Ababa </a> , <a> Ethiopia </a> .
+
+385	FALSE	Pacific Southwest Airlines:: destinations	31 / that	
+PSA's operations base at <a> San Diego International Airport </a> was gutted and now serves as that airport's commuter terminal .
+
+386	FALSE	Pacific Southwest Airlines:: iata	ps / San	
+The airline also introduced automated ticketing and check-in machines at several major airports , and briefly operated flights to <a> Cabo San Lucas </a> , Mexico .
+
+387	TRUE	Pacific Southwest Airlines:: callsign	psa / Historic	
+<p> <strong> Historic PSA Fleet : </strong> </p>
+
+388	TRUE	Pacific Southwest Airlines:: founded	1949 / 1949	
+<p> <strong> Pacific Southwest Airlines </strong> was a United States <a> airline </a> headquartered in <a> San Diego , California </a> , that operated from 1949 to 1988 .
+
+392	FALSE	Pacific Southwest Airlines:: airline	pacific southwest airlines / Fleet :	
+<p> <strong> Historic PSA Fleet : </strong> </p>
+
+393	TRUE	Pacific Southwest Airlines:: icao	psa / PSA	
+<p> <strong> Historic PSA Fleet : </strong> </p>
+
+412	FALSE	Air Caraïbes:: logo_size	200 / a>	
+It also operates transatlantic flights to <a> Paris </a> using <a> Airbus A330 </a> aircraft under the <a> Air Cara&#x00ef;bes Atlantique </a> brand .
+
+413	FALSE	Air Caraïbes:: fleet_size	8 / The	
+<p> The airline also operated the following aircraft in the past : </p>
+
+414	TRUE	Air Caraïbes:: destinations	13 / 13	
+It operates scheduled and charter services serving 13 islands in the West Indies .
+
+415	FALSE	Air Caraïbes:: iata	tx / past :	
+<p> The airline also operated the following aircraft in the past : </p>
+
+429	TRUE	Aerosvit Airlines:: callsign	aerosvit / Ukrainian	
+<p> <strong> CJSC &quot;Aircompany &quot;Aerosvit&quot; </strong> ( ) , operating as <strong> Aerosvit-Ukrainian Airlines </strong> ( ) is an <a> airline </a> with its head office on the grounds of <a> Boryspil International Airport </a> in <a> Boryspil </a> , <a> Kiev Oblast </a> , <a> Ukraine </a> .
+
+431	TRUE	Aerosvit Airlines:: founded	25 march 1994 / 1994	
+<p> The airline was established on 25 March 1994 , and started operations in April 1994 with flights from Kyiv to <a> Tel Aviv </a> , <a> Odessa </a> , <a> Thessaloniki </a> , <a> Athens </a> and <a> Larnaca </a> in co-operation with <a> Air Ukraine </a> . </p>
+
+439	FALSE	Avensa:: fleet_size	8 / p>	
+<p> Their fleet comprised </p>
+
+440	FALSE	Avensa:: destinations	3 / International	
+<p> International Destinations : </p>
+
+441	FALSE	Avensa:: iata	ve / Miami	
+The airline also flew internationally to <a> Miami </a> , <a> Aruba </a> , <a> Jamaica </a> , and <a> New Orleans </a> .
+
+444	FALSE	Avensa:: founded	may 13, 1943 / 727	
+Avensa operated a smaller <a> low-cost airline </a> called <a> Servivensa </a> , which operated mainly Boeing 727 aircraft .
+
+450	TRUE	Avensa:: callsign	avensa / management	
+<p> <strong> Avensa </strong> ( <strong> <em> A </em> </strong> erov&#x00ed;as <strong> Ven </strong> ezolanas <strong> S </strong> ociedad <strong> A </strong> nonima <em> ) was a <a> Venezuela </a> n <a> airline </a> , which is in the process of financial restructuring , after it went into <a> bankruptcy </a> due to poor management in 2002 .
+
+451	TRUE	Avensa:: icao	ave / bankruptcy	
+<p> <strong> Avensa </strong> ( <strong> <em> A </em> </strong> erov&#x00ed;as <strong> Ven </strong> ezolanas <strong> S </strong> ociedad <strong> A </strong> nonima <em> ) was a <a> Venezuela </a> n <a> airline </a> , which is in the process of financial restructuring , after it went into <a> bankruptcy </a> due to poor management in 2002 .
+
+454	FALSE	Air Nippon:: iata	el / it	
+A wholly owned <a> subsidiary </a> of <a> All Nippon Airways </a> ( ANA ) , it mainly operates short routes and flights to isolated islands in support of ANA's domestic services .
+
+463	FALSE	Air Nippon:: icao	ank / ANA'	
+<p> As part of ANA's reorganisation , Air Nippon's domestic operations are being consolidated into the main airline .
+
+467	FALSE	Antonov Airlines:: fleet_size	22 / p>	
+<p> Currently the airline's fleet consist of : </p>
+
+468	FALSE	Antonov Airlines:: iata	- / world	
+It operates international charter services in the world outsize cargo market .
+
+477	TRUE	Antonov Airlines:: airline	antonov airlines / cargo	
+<p> <strong> Antonov Airlines </strong> ( a division of the <a> Antonov ASTC </a> ) is a <a> Ukrainian </a> <a> cargo airline </a> .
+
+480	FALSE	Tunisair:: destinations	53 / 1948	
+Formed in 1948 , it operates scheduled international services to European , African and Middle Eastern destinations .
+
+481	FALSE	Tunisair:: iata	tu / by	
+The rest are served by charter flights .
+
+485	FALSE	Tunisair:: founded	1948 / 1949.	
+It started operations in 1949 .
+
+490	FALSE	Tunisair:: icao	tar / Tunisia	
+<p> <strong> Soci&#x00e9;t&#x00e9; Tunisienne de l'Air </strong> , or <strong> Tunisair </strong> ( ) is the <a> flag carrier </a> <a> airline </a> of <a> Tunisia </a> .
+
+506	FALSE	Indian (airline):: iata	ic / livery.	
+Most of the old fleets of Air India and Indian Airlines have also been painted in the new livery . </p>
+
+509	TRUE	Indian (airline):: founded	1953 / 1953.	
+<p> The airline is set up under the <em> Air Corporations Act , 1953 </em> with an initial capital of 32 million and started operations on 1 August 1953 .
+
+513	FALSE	Indian (airline):: icao	iac / countries	
+<p> <strong> Indian </strong> ( ) , formerly <strong> Indian Airlines </strong> ( ) is a major Indian airline based in <a> Mumbai </a> and focuses primarily on domestic routes , along with several international services to neighbouring countries in Asia .
+
+520	FALSE	JetBlue Airways:: iata	b6 / Boston'	
+Also in 2005 , the company added service between JFK and Boston's <a> Logan Airport </a> with ten daily flights using its new 100-seat <a> Embraer 190 </a> <a> fixed-wing aircraft </a> .
+
+521	TRUE	JetBlue Airways:: callsign	jetblue / American	
+<p> <strong> JetBlue Airways Corporation </strong> ( ) is an American <a> low-cost </a> <a> airline </a> .
+
+522	FALSE	JetBlue Airways:: parent	jetblue airways corporation / Aer	
+Passengers will be able to connect between Aer Lingus and JetBlue at <a> New York/JFK </a> on a single ticket , which can be booked through both airlines' websites .
+
+528	TRUE	JetBlue Airways:: airline	jetblue airways / JetBlue Airways	
+<p> <strong> JetBlue Airways Corporation </strong> ( ) is an American <a> low-cost </a> <a> airline </a> .
+
+529	FALSE	JetBlue Airways:: icao	jbu / JetBlue	
+<p> <strong> JetBlue Airways Corporation </strong> ( ) is an American <a> low-cost </a> <a> airline </a> .
+
+531	FALSE	Vietnam Airlines:: iata	vn / as	
+Vietnam Airlines also is working towards launching flights to the <a> Middle East </a> and <a> Indian subcontinent </a> , as well as starting more flights to other destinations in <a> Australia </a> and Europe .
+
+532	TRUE	Vietnam Airlines:: callsign	vietnam / Vietnam	
+<p> <strong> Vietnam Airlines Company Limited </strong> ( ) , trading as <strong> Vietnam Airlines </strong> ( ) , is the national <a> flag carrier </a> of <a> Vietnam </a> .
+
+533	FALSE	Vietnam Airlines:: parent	vietnam airlines corporation / following	
+The division has the number of following aircraft : </p>
+

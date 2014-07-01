@@ -1,3 +1,0 @@
-<li>The Main Administration Building (MAB)</li>
-<li>The Architecture Building</li>
-<li>The Engine Shed</li>

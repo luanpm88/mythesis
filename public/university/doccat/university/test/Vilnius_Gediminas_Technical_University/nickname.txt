@@ -1,2 +1,0 @@
-<li><a>Business Management</a></li>
-<li><a>International Studies Centre</a></li>

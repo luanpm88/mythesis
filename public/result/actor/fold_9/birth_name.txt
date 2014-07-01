@@ -1,0 +1,90 @@
+Found: 31
+Found Not Null: 18
+Correct: 8
+Wrong: 10
+Total: 18
+precision: 0.4444444444444444
+recall: 0.4444444444444444
+
+
+
+0	FALSE	Bob Monkhouse::birth_name	robert alan monkhouse / fellow comedians and comedy insiders to find	
+In a 2005 poll of fellow comedians and comedy insiders to find <em> <a> The Comedians ' Comedian </a> </em> , Monkhouse was voted among the best 50 comedy acts ever . </p>
+
+#	NEW	birth_name	........ / June 1944 ) is an	// <p> <strong> Robert Powell </strong> ( born 1 June 1944 ) is an <a> English </a> television and film <a> actor </a> , probably most famous for his title role in <em> <a> Jesus of Nazareth </a> </em> ( 1977 ) and as the fictional <a> secret agent </a> <a> Richard Hannay </a> .
+
+#	NEW	birth_name	........ / Romy Schneider	// <p> <strong> Romy Schneider </strong> ( 23 September 1938 <img> 29 May 1982 ) was a German film actress who was born in Austria and also held French citizenship . </p>
+
+3	TRUE	Kevin Costner::birth_name	kevin michael costner / Kevin Michael Costner	
+<p> <strong> Kevin Michael Costner </strong> ( born January 18 , 1955 ) is an American actor , singer , musician , producer , director , and businessman .
+
+4	TRUE	Alex D. Linz::birth_name	alexander david linz / Alexander David Linz	
+<p> <strong> Alexander David Linz </strong> ( born January 3 , 1989 ) is an <a> American </a> actor who starred in several late 1990s and early 2000s films and television programs as a <a> child actor </a> .
+
+5	FALSE	Arthur Kennedy (actor)::birth_name	john arthur kennedy / Arthur Kennedy	
+<p> <strong> Arthur Kennedy </strong> ( February 17 , 1914 &ndash ; January 5 , 1990 ) was an <a> American </a> stage and film actor best known for his performances in <a> Westerns </a> . </p>
+
+#	NEW	birth_name	........ / Barrie is also well known for his role	// <p> Barrie is also well known for his role as Gordon Brittas , the title role in <em> The Brittas Empire </em> , a BBC sitcom running from 15 February 1988 to 5 April 1999 for seven series , with 52 episodes , including two Christmas specials .
+
+#	NEW	birth_name	........ / Emma Charlotte Duerre Watson	// <strong> Emma Charlotte Duerre Watson </strong> ( born 15 April 1990 ) is an <a> English </a> <a> actress </a> and <a> model </a> who rose to prominence playing <a> Hermione Granger </a> , one of three starring roles in the <a> <em> Harry Potter </em> film series </a> .
+
+#	NEW	birth_name	........ / Catherine &# x00c9 ; lise &quot ; Cate&quot ; Blanchett	// <p> <strong> Catherine &#x00c9 ; lise &quot ; Cate&quot ; Blanchett </strong> ( born 14 May 1969 ) is an Australian actress and theatre director .
+
+#	NEW	birth_name	........ / Daniel O ' Herlihy	// <p> <strong> Daniel O ' Herlihy </strong> ( 1 May 1919 <img> 17 February 2005 ) was an <a> Oscar </a> nominated , <a> Irish </a> <a> film </a> <a> actor </a> . </p>
+
+10	TRUE	Marcello Mastroianni::birth_name	marcello vincenzo domenico mastroianni / Marcello Vincenzo Domenico Mastroianni	
+<p> <strong> Marcello Vincenzo Domenico Mastroianni </strong> <a> Knight Grand Cross </a> ( 28 September 1924&nbsp ; &#x2013 ; 19 December 1996 ) was an <a> Italian </a> <a> film actor </a> .
+
+#	NEW	birth_name	........ / Ryan O ' Neal	// <p> <strong> Ryan O ' Neal </strong> ( born <strong> Charles Patrick Ryan O ' Neal , Jr . </strong> ; April 20 , 1941 ) is an American actor . </p>
+
+#	NEW	birth_name	........ / Joan Greenwood	// <p> <strong> Joan Greenwood </strong> ( 4 March 1921 &#x2013 ; 27 February 1987 ) was an <a> English </a> actress .
+
+13	TRUE	Bill Owen (actor)::birth_name	william john owen rowbotham / William John Owen Rowbotham	
+<p> <strong> William John Owen Rowbotham </strong> <a> MBE </a> ( 14 March 1914 &#x2013 ; 12 July 1999 ) , better known as <strong> Bill Owen </strong> , was an English <a> actor </a> and <a> songwriter </a> . </p>
+
+14	FALSE	Gale Storm::birth_name	josephine owaissa cottle / performing partner ( and future husband ), Lee Bonnell from	
+Her performing partner ( and future husband ) , Lee Bonnell from <a> South Bend </a> , <a> Indiana </a> , became known as <strong> Terry Belmont </strong> . </p>
+
+15	TRUE	Michael Powell (director)::birth_name	michael latham powell / Michael Latham Powell	
+<p> <strong> Michael Latham Powell </strong> ( 30 September 1905 &ndash ; 19 February 1990 ) was an <a> English </a> <a> film director </a> , renowned for his partnership with <a> Emeric Pressburger </a> .
+
+16	FALSE	Susan Dey::birth_name	susan hallock smith / 1952 ) is an	
+<p> <strong> Susan Dey </strong> ( born December 10 , 1952 ) is an <a> American </a> <a> actress </a> , known primarily for her roles in <a> film </a> and <a> television </a> .
+
+17	FALSE	Chester Morris::birth_name	john chester brooks morris / an American actor, who starred	
+<p> <strong> Chester Morris </strong> ( February 16 , 1901 &ndash ; September 11 , 1970 ) was an American actor , who starred in the <em> <a> Boston Blackie </a> </em> detective series of the 1940s . </p>
+
+#	NEW	birth_name	........ / Andy ! not Andrew Samuel Griffith	// <p> <strong> Andy ! not Andrew Samuel Griffith </strong> ( born June 1 , 1926 ) is an <a> American </a> <a> actor </a> , <a> director </a> , <a> producer </a> , <a> Grammy Award </a> -winning <a> Southern-gospel </a> singer , and <a> writer </a> .
+
+#	NEW	birth_name	........ / well known for his	// <p> Ozu was well known for his drinking .
+
+#	NEW	birth_name	........ / Massimo Troisi	// <p> <strong> Massimo Troisi </strong> ( 19 February 1953 &#x2013 ; 4 June 1994 ) was an Italian actor , <a> film director </a> , and poet .
+
+21	FALSE	Crystal McKellar::birth_name	crystal dawn scripps mckellar / nominated for the <em> Best Young Actress Guest Starring In A Television Series	
+She was nominated for the <em> Best Young Actress Guest Starring In A Television Series </em> award at the eleventh annual <a> Youth in Film Award </a> in 1988 and 1989 .
+
+22	TRUE	Norman Jewison::birth_name	norman frederick jewison / Norman Frederick Jewison	
+<p> <strong> Norman Frederick Jewison </strong> , <a> CC </a> , <a> O . Ont </a> ( born 21 July 1926 ) is a <a> Canadian </a> <a> film director </a> , <a> producer </a> , <a> actor </a> and founder of the <a> Canadian Film Centre </a> .
+
+23	TRUE	Ryan Stiles::birth_name	ryan lee stiles / Ryan Lee Stiles	
+<p> <strong> Ryan Lee Stiles </strong> ( born April 22 , 1959 ) is an America / Canadian actor , <a> comedian </a> , <a> director </a> , and <a> voice actor </a> whose work is often associated with <a> improvisational comedy </a> .
+
+#	NEW	birth_name	........ / started his career as a stage actor in 1919 but moved into	// He started his career as a stage actor in 1919 but moved into <a> theatre </a> production in 1924 .
+
+25	FALSE	Robert Bolt::birth_name	robert oxton bolt / Although he was best known for his original play	
+<p> Although he was best known for his original play <em> <a> A Man for All Seasons </a> </em> - a depiction of <a> Sir Thomas More </a> ' s clash with <a> King Henry VIII </a> over his divorce from <a> Catherine of Aragon </a> - which won awards on the stage and in its film version , most of his writing was screenplays for films or television .
+
+26	FALSE	Ethel Merman::birth_name	ethel agnes zimmermann / an <a> American	
+<p> <strong> Ethel Merman </strong> ( January 16 , 1908 &#x2013 ; February 15 , 1984 ) was an <a> American </a> actress and singer .
+
+27	FALSE	Frank Oz::birth_name	richard frank oznowicz / U. S. citizen	
+U . S . citizen <a> film director </a> , actor , voice actor and <a> puppeteer </a> who is known for creating and performing the characters <a> Miss Piggy </a> and <a> Fozzie Bear </a> in <em> <a> The Muppet Show </a> </em> and for directing films including the 1986 <em> <a> Little Shop Of Horrors </a> </em> remake and <em> <a> Dirty Rotten Scoundrels </a> </em> .
+
+28	TRUE	Douglas Sirk::birth_name	hans detlef sierck / Hans Detlef Sierck	
+<p> <strong> Douglas Sirk </strong> ( born <strong> Hans Detlef Sierck </strong> ; April 26 , 1897 &ndash ; January 14 , 1987 ) was a <a> Danish </a> - <a> German </a> <a> film director </a> best known for his work in <a> Hollywood </a> <a> melodrama </a> s in the 1950s . </p>
+
+29	FALSE	Laraine Newman::birth_name	laraine newman / She began her comedy career as a founding member of	
+<p> She began her comedy career as a founding member of <a> The Groundlings </a> and is best known for being an original cast member on <a> NBC </a> ' s <em> <a> Saturday Night Live </a> </em> , appearing on the show from its inception in 1975 through 1980 .
+
+#	NEW	birth_name	........ / Jean Renoir	// <p> <strong> Jean Renoir </strong> ( ; 15 September 1894 &ndash ; 12 February 1979 ) was a French <a> film director </a> , screenwriter , actor , producer and author .
+

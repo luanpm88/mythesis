@@ -1,3 +1,0 @@
-<li>Career Education</li>
-<li>Education</li>
-<p>;5 majors are available:</p>

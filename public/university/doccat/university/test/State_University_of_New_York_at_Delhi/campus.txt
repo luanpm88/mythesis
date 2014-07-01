@@ -1,8 +1,0 @@
-<li>Electrical and Power Transmission Installation</li>
-<li>Enterprise Management and Operations</li>
-<li>Food and Beverage / Restaurant Operations</li>
-<li>Hotel / Motel and Restaurant Management</li>
-<li>Mason and Tile Setter</li>
-<li>Ornamental Horticulture Operations and Management</li>
-<li>Parks, Recreation and Leisure Facilities</li>
-<li>Plumber and Pipefitter</li>

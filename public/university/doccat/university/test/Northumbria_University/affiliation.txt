@@ -1,9 +1,0 @@
-<li><a>Chris Cook</a>, GB Commonwealth &amp; Olympic Swimmer</li>
-<li><a>Scott Henshall</a>, fashion designer</li>
-<li><a>Louise Hopkins</a>, artist</li>
-<li><a>Victoria Pendleton</a>, Olympic cyclist</li>
-<li><a>Sting</a>, musician</li>
-<li><a>Kevin Whately</a>, actor</li>
-<li><a>Paul Winsper</a>, fitness expert</li>
-<li><a>Kingston Park (stadium)</a></li>
-<li><a>JISC infoNet</a></li>

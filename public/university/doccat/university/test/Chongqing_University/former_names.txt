@@ -1,3 +1,0 @@
-<li>College of Computer Science</li>
-<li>College of City</li>
-<li>College of Continue Education</li>

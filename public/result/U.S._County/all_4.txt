@@ -1,0 +1,1106 @@
+Total articles: 1697
+Articles for test: 1528
+Articles for train: 169
+Total attributes: 80
+Attributes with high occurrences: 23/80
+
+------------
+Found: 1971
+Found Not Null: 363
+Correct: 299
+Wrong: 64
+Total: 651
+precision: 0.8236914600550964
+recall: 0.4592933947772657
+
+
+
+0	TRUE	Hanson County, South Dakota:: state	south dakota / South Dakota	
+<p> <strong> Hanson County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+3	TRUE	Hanson County, South Dakota:: area_water_sq_mi	1 / 848	
+<p> As of the <a> census </a> of 2000, there were 3,139 people, 1,115 households, and 848 families residing in the county.
+
+5	TRUE	Hanson County, South Dakota:: density_km2	3 / (3/	
+The <a> population density </a> was 7 people per square mile (3/km&#x00b2;).
+
+9	TRUE	Hanson County, South Dakota:: density_sq_mi	7 / (3/	
+The <a> population density </a> was 7 people per square mile (3/km&#x00b2;).
+
+10	TRUE	Hanson County, South Dakota:: area_water_km2	2 / 0.	
+The racial makeup of the county was 99.52% <a> White </a> , 0.10% <a> Native American </a> , 0.13% <a> Asian </a> , 0.03% <a> Pacific Islander </a> , 0.03% from <a> other races </a> , and 0.19% from two or more races.
+
+13	TRUE	Hand County, South Dakota:: area_water_sq_mi	4 / 1	
+<p> As of the <a> census </a> of 2000, there were 3,741 people, 1,543 households, and 1,050 families residing in the county.
+
+15	TRUE	Hand County, South Dakota:: density_km2	1 / (1/	
+The <a> population density </a> was 3 people per square mile (1/km&#x00b2;).
+
+20	TRUE	Hand County, South Dakota:: area_water_km2	9 / 0.	
+The racial makeup of the county was 99.30% <a> White </a> , 0.03% <a> Black </a> or <a> African American </a> , 0.13% <a> Native American </a> , 0.08% <a> Asian </a> , 0.13% from <a> other races </a> , and 0.32% from two or more races.
+
+21	TRUE	Hand County, South Dakota:: density_sq_mi	3 / (1/	
+The <a> population density </a> was 3 people per square mile (1/km&#x00b2;).
+
+22	TRUE	Hand County, South Dakota:: state	south dakota / South Dakota	
+<p> <strong> Hand County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+23	TRUE	Hamlin County, South Dakota:: state	south dakota / South Dakota	
+<p> <strong> Hamlin County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+28	TRUE	Hamlin County, South Dakota:: density_km2	2 / (4/	
+The <a> population density </a> was 11 people per square mile (4/km&#x00b2;).
+
+33	FALSE	Hamlin County, South Dakota:: density_sq_mi	5 / (4/	
+The <a> population density </a> was 11 people per square mile (4/km&#x00b2;).
+
+34	TRUE	Haakon County, South Dakota:: state	south dakota / South Dakota	
+<p> <strong> Haakon County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+37	FALSE	Haakon County, South Dakota:: area_water_sq_mi	14 / 620	
+<p> As of the <a> census </a> of 2000, there were 2,196 people, 870 households, and 620 families residing in the county.
+
+45	TRUE	Haakon County, South Dakota:: density_sq_mi	1 / 5/	
+The <a> population density </a> was 1 person per square mile (0,5/km&#x00b2;).
+
+46	TRUE	Gregory County, South Dakota:: state	south dakota / South Dakota	
+<p> <strong> Gregory County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+51	FALSE	Gregory County, South Dakota:: density_km2	1 / (2/	
+The <a> population density </a> was 5 people per square mile (2/km&#x00b2;).
+
+56	TRUE	Gregory County, South Dakota:: density_sq_mi	2 / (2/	
+The <a> population density </a> was 5 people per square mile (2/km&#x00b2;).
+
+58	TRUE	Grant County, South Dakota:: state	south dakota / South Dakota	
+<p> <strong> Grant County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+60	TRUE	Grant County, South Dakota:: area_water_sq_mi	5 / 2	
+<p> As of the <a> census </a> of 2000, there were 7,847 people, 3,116 households, and 2,156 families residing in the county.
+
+62	TRUE	Grant County, South Dakota:: density_km2	4 / (4/	
+The <a> population density </a> was 12 people per square mile (4/km&#x00b2;).
+
+68	TRUE	Grant County, South Dakota:: density_sq_mi	12 / (4/	
+The <a> population density </a> was 12 people per square mile (4/km&#x00b2;).
+
+69	TRUE	Grant County, South Dakota:: county	grant county / Grant County	
+<p> <strong> Grant County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+71	TRUE	Faulk County, South Dakota:: state	south dakota / South Dakota	
+<p> <strong> Faulk County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+74	TRUE	Faulk County, South Dakota:: area_water_sq_mi	6 / 708	
+<p> As of the <a> census </a> of 2000, there were 2,640 people, 1,014 households, and 708 families residing in the county.
+
+76	TRUE	Faulk County, South Dakota:: density_km2	1 / (1/	
+The <a> population density </a> was 3 people per square mile (1/km&#x00b2;).
+
+80	FALSE	Faulk County, South Dakota:: area_water_km2	14 / 0.	
+The racial makeup of the county was 99.47% <a> White </a> , 0.08% <a> Black </a> or <a> African American </a> , 0.15% <a> Native American </a> , 0.04% <a> Asian </a> , and 0.27% from two or more races.
+
+81	TRUE	Faulk County, South Dakota:: density_sq_mi	3 / (1/	
+The <a> population density </a> was 3 people per square mile (1/km&#x00b2;).
+
+82	TRUE	Fall River County, South Dakota:: county	fall river county / River County	
+<p> <strong> Fall River County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+85	TRUE	Fall River County, South Dakota:: area_water_sq_mi	9 / 1	
+<p> As of the <a> census </a> of 2000, there were 7,453 people, 3,127 households, and 1,976 families residing in the county.
+
+87	TRUE	Fall River County, South Dakota:: density_km2	2 / (2/	
+The <a> population density </a> was 4 people per square mile (2/km&#x00b2;).
+
+91	FALSE	Fall River County, South Dakota:: area_water_km2	24 / 2.	
+The racial makeup of the county was 90.51% <a> White </a> , 0.32% <a> Black </a> or <a> African American </a> , 6.05% <a> Native American </a> , 0.23% <a> Asian </a> , 0.05% <a> Pacific Islander </a> , 0.30% from <a> other races </a> , and 2.54% from two or more races.
+
+92	TRUE	Fall River County, South Dakota:: density_sq_mi	4 / (2/	
+The <a> population density </a> was 4 people per square mile (2/km&#x00b2;).
+
+93	TRUE	Fall River County, South Dakota:: state	south dakota / South Dakota	
+<p> <strong> Fall River County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+94	TRUE	Edmunds County, South Dakota:: state	south dakota / South Dakota	
+<p> <strong> Edmunds County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+97	TRUE	Edmunds County, South Dakota:: area_water_sq_mi	6 / 1	
+<p> As of the <a> census </a> of 2000, there were 4,367 people, 1,681 households, and 1,210 families residing in the county.
+
+103	TRUE	Edmunds County, South Dakota:: density_sq_mi	4 / (1/	
+The <a> population density </a> was 4 people per square mile (1/km&#x00b2;).
+
+104	TRUE	Edmunds County, South Dakota:: density_km2	1 / (1/	
+The <a> population density </a> was 4 people per square mile (1/km&#x00b2;).
+
+105	FALSE	Edmunds County, South Dakota:: area_water_km2	14 / 0.	
+The racial makeup of the county was 99.20% <a> White </a> , 0.07% <a> Black </a> or <a> African American </a> , 0.25% <a> Native American </a> , 0.09% <a> Asian </a> , 0.02% <a> Pacific Islander </a> , 0.05% from <a> other races </a> , and 0.32% from two or more races.
+
+123	TRUE	Dewey County, South Dakota:: density_km2	1 / (1/	
+The <a> population density </a> was 3 people per square mile (1/km&#x00b2;).
+
+129	TRUE	Dewey County, South Dakota:: density_sq_mi	3 / (1/	
+The <a> population density </a> was 3 people per square mile (1/km&#x00b2;).
+
+130	TRUE	Dewey County, South Dakota:: state	south dakota / South Dakota	
+<p> <strong> Dewey County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+131	TRUE	Deuel County, South Dakota:: state	south dakota / South Dakota	
+<p> <strong> Deuel County </strong> (pronounced &quot;DOOL&quot;) is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+136	TRUE	Deuel County, South Dakota:: density_km2	3 / (3/	
+The <a> population density </a> was 7 people per square mile (3/km&#x00b2;).
+
+142	TRUE	Deuel County, South Dakota:: density_sq_mi	7 / (3/	
+The <a> population density </a> was 7 people per square mile (3/km&#x00b2;).
+
+143	TRUE	Day County, South Dakota:: state	south dakota / South Dakota	
+<p> <strong> Day County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+147	TRUE	Day County, South Dakota:: density_km2	2 / (2/	
+The <a> population density </a> was 6 people per square mile (2/km&#x00b2;).
+
+152	TRUE	Day County, South Dakota:: density_sq_mi	6 / (2/	
+The <a> population density </a> was 6 people per square mile (2/km&#x00b2;).
+
+166	TRUE	Custer County, South Dakota:: county	custer county / Custer County	
+<p> <strong> Custer County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+167	TRUE	Custer County, South Dakota:: state	south dakota / South Dakota	
+<p> <strong> Custer County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+169	FALSE	Custer County, South Dakota:: area_water_sq_mi	1 / 2	
+<p> As of the <a> census </a> of 2000, there were 7,275 people, 2,970 households, and 2,067 families residing in the county.
+
+176	TRUE	Custer County, South Dakota:: area_water_km2	4 / 1.	
+The racial makeup of the county was 94.17% <a> White </a> , 0.27% <a> Black </a> or <a> African American </a> , 3.12% <a> Native American </a> , 0.18% <a> Asian </a> , 0.01% <a> Pacific Islander </a> , 0.36% from <a> other races </a> , and 1.88% from two or more races.
+
+178	TRUE	Corson County, South Dakota:: state	south dakota / South Dakota	
+<strong> Corson County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+183	TRUE	Corson County, South Dakota:: density_km2	0.7 / (0.	
+The <a> population density </a> was 1.7 people per square mile (0.7/km&#x00b2;).
+
+187	TRUE	Corson County, South Dakota:: density_sq_mi	1.7 / 7/	
+The <a> population density </a> was 1.7 people per square mile (0.7/km&#x00b2;).
+
+190	TRUE	Codington County, South Dakota:: state	south dakota / South Dakota	
+<p> <strong> Codington County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+195	TRUE	Codington County, South Dakota:: density_km2	15 / (15/	
+The <a> population density </a> was 38 people per square mile (15/km&#x00b2;).
+
+199	TRUE	Codington County, South Dakota:: density_sq_mi	38 / (15/	
+The <a> population density </a> was 38 people per square mile (15/km&#x00b2;).
+
+200	FALSE	Codington County, South Dakota:: area_water_km2	76 / 0.	
+The racial makeup of the county was 96.74% <a> White </a> , 0.14% <a> Black </a> or <a> African American </a> , 1.41% <a> Native American </a> , 0.28% <a> Asian </a> , 0.02% <a> Pacific Islander </a> , 0.57% from <a> other races </a> , and 0.84% from two or more races.
+
+201	TRUE	Clark County, South Dakota:: state	south dakota / South Dakota	
+<p> <strong> Clark County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+204	TRUE	Clark County, South Dakota:: area_water_sq_mi	10 / 1	
+<p> As of the <a> census </a> of 2000, there were 4,143 people, 1,598 households, and 1,110 families residing in the county.
+
+205	TRUE	Clark County, South Dakota:: density_km2	2 / (2/	
+The <a> population density </a> was 4 people per square mile (2/km&#x00b2;).
+
+210	TRUE	Clark County, South Dakota:: density_sq_mi	4 / (2/	
+The <a> population density </a> was 4 people per square mile (2/km&#x00b2;).
+
+212	TRUE	Charles Mix County, South Dakota:: state	south dakota / South Dakota	
+<p> <strong> Charles Mix County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+215	FALSE	Charles Mix County, South Dakota:: area_water_sq_mi	53 / 2	
+<p> As of the <a> census </a> of 2000, there were 9,350 people, 3,343 households, and 2,326 families residing in the county.
+
+217	TRUE	Charles Mix County, South Dakota:: density_km2	3 / (3/	
+The <a> population density </a> was 8 people per square mile (3/km&#x00b2;).
+
+223	TRUE	Charles Mix County, South Dakota:: density_sq_mi	8 / (3/	
+The <a> population density </a> was 8 people per square mile (3/km&#x00b2;).
+
+224	TRUE	Campbell County, South Dakota:: county	campbell county / Campbell County	
+<p> <strong> Campbell County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+225	TRUE	Campbell County, South Dakota:: state	south dakota / South Dakota	
+<p> <strong> Campbell County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+230	TRUE	Campbell County, South Dakota:: density_km2	1 / (1/	
+The <a> population density </a> was 2 people per square mile (1/km&#x00b2;).
+
+236	TRUE	Campbell County, South Dakota:: density_sq_mi	2 / (1/	
+The <a> population density </a> was 2 people per square mile (1/km&#x00b2;).
+
+238	FALSE	Butte County, South Dakota:: area_water_sq_mi	18 / 2	
+<p> As of the <a> census </a> of 2000, there were 9,094 people, 3,516 households, and 2,468 families residing in the county.
+
+240	TRUE	Butte County, South Dakota:: density_km2	2 / (2/	
+The <a> population density </a> was 4 people per square mile (2/km&#x00b2;).
+
+245	FALSE	Butte County, South Dakota:: area_water_km2	46 / 1.	
+The racial makeup of the county was 95.52% <a> White </a> , 0.10% <a> Black </a> or <a> African American </a> , 1.65% <a> Native American </a> , 0.24% <a> Asian </a> , 1.09% from <a> other races </a> , and 1.40% from two or more races.
+
+246	TRUE	Butte County, South Dakota:: density_sq_mi	4 / (2/	
+The <a> population density </a> was 4 people per square mile (2/km&#x00b2;).
+
+247	TRUE	Butte County, South Dakota:: state	south dakota / South Dakota	
+<p> <strong> Butte County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+249	TRUE	Buffalo County, South Dakota:: county	buffalo county / Buffalo County	
+<p> <strong> Buffalo County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+250	TRUE	Buffalo County, South Dakota:: state	south dakota / South Dakota	
+<p> <strong> Buffalo County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+255	FALSE	Buffalo County, South Dakota:: area_water_km2	44 / 1.	
+The racial makeup of the county is 81.59% <a> Native American </a> , 16.34% <a> White </a> , 0.10% <a> Black </a> or <a> African American </a> , 0.30% from <a> other races </a> , and 1.67% from two or more races.
+
+256	TRUE	Buffalo County, South Dakota:: density_sq_mi	4 / (2/	
+The <a> population density </a> is 4 people per square mile (2/km&#x00b2;).
+
+258	TRUE	Buffalo County, South Dakota:: density_km2	2 / (2/	
+The <a> population density </a> is 4 people per square mile (2/km&#x00b2;).
+
+260	TRUE	Brule County, South Dakota:: state	south dakota / South Dakota	
+<p> <strong> Brule County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+263	TRUE	Brule County, South Dakota:: area_water_sq_mi	28 / 1	
+<p> As of the <a> census </a> of 2000, there were 5,364 people, 1,998 households, and 1,328 families residing in the county.
+
+265	TRUE	Brule County, South Dakota:: density_km2	3 / (3/	
+The <a> population density </a> was 6 people per square mile (3/km&#x00b2;).
+
+270	TRUE	Brule County, South Dakota:: density_sq_mi	6 / (3/	
+The <a> population density </a> was 6 people per square mile (3/km&#x00b2;).
+
+284	TRUE	Brookings County, South Dakota:: state	south dakota / South Dakota	
+<p> <strong> Brookings County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+288	TRUE	Brookings County, South Dakota:: density_km2	14 / (14/	
+The <a> population density </a> was 36 people per square mile (14/km&#x00b2;).
+
+292	FALSE	Brookings County, South Dakota:: area_water_km2	27 / 0.	
+The racial makeup of the county was 96.36% <a> White </a> , 0.31% <a> Black </a> or <a> African American </a> , 0.90% <a> Native American </a> , 1.34% <a> Asian </a> , 0.04% <a> Pacific Islander </a> , 0.30% from <a> other races </a> , and 0.75% from two or more races.
+
+293	TRUE	Brookings County, South Dakota:: density_sq_mi	36 / (14/	
+The <a> population density </a> was 36 people per square mile (14/km&#x00b2;).
+
+294	TRUE	Brookings County, South Dakota:: area_water_sq_mi	10 / 6	
+<p> As of the <a> census </a> of 2000, there were 28,220 people, 10,665 households, and 6,217 families residing in the county.
+
+296	TRUE	Bon Homme County, South Dakota:: state	south dakota / South Dakota	
+<p> <strong> Bon Homme County </strong> (pronounced BAHN'-uhm) is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+299	FALSE	Bon Homme County, South Dakota:: area_water_sq_mi	18 / 1	
+<p> As of the <a> census </a> of 2000, there were 7,260 people, 2,635 households, and 1,786 families residing in the county.
+
+301	TRUE	Bon Homme County, South Dakota:: density_km2	5 / (5/	
+The <a> population density </a> was 13 people per square mile (5/km&#x00b2;).
+
+307	TRUE	Bon Homme County, South Dakota:: density_sq_mi	13 / (5/	
+The <a> population density </a> was 13 people per square mile (5/km&#x00b2;).
+
+308	TRUE	Bennett County, South Dakota:: state	south dakota / South Dakota	
+<p> <strong> Bennett County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+311	TRUE	Bennett County, South Dakota:: area_water_sq_mi	5 / 818	
+<p> As of the <a> census </a> of 2000, there were 3,574 people, 1,123 households, and 818 families residing in the county.
+
+313	TRUE	Bennett County, South Dakota:: density_km2	1 / (1/	
+The <a> population density </a> was 3 people per square mile (1/km&#x00b2;).
+
+317	TRUE	Bennett County, South Dakota:: area_water_km2	14 / 6.	
+<a> Native American </a> , 0.06% <a> Asian </a> , 0.14% <a> Pacific Islander </a> , 0.17% from <a> other races </a> , and 6.38% from two or more races.
+
+318	TRUE	Bennett County, South Dakota:: density_sq_mi	3 / (1/	
+The <a> population density </a> was 3 people per square mile (1/km&#x00b2;).
+
+320	TRUE	Beadle County, South Dakota:: state	south dakota / South Dakota	
+<p> <strong> Beadle County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+323	FALSE	Beadle County, South Dakota:: area_water_sq_mi	6 / 4	
+<p> As of the <a> census </a> of 2000, there were 17,023 people, 7,210 households, and 4,535 families residing in the county.
+
+325	TRUE	Beadle County, South Dakota:: density_km2	5 / (5/	
+The <a> population density </a> was 14 people per square mile (5/km&#x00b2;).
+
+330	TRUE	Beadle County, South Dakota:: density_sq_mi	14 / (5/	
+The <a> population density </a> was 14 people per square mile (5/km&#x00b2;).
+
+331	TRUE	Aurora County, South Dakota:: state	south dakota / South Dakota	
+<p> <strong> Aurora County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+333	FALSE	Aurora County, South Dakota:: area_water_sq_mi	4 / 816	
+<p> As of the <a> census </a> of 2000, there were 3,058 people, 1,165 households, and 816 families residing in the county.
+
+335	TRUE	Aurora County, South Dakota:: density_km2	2 / (2/	
+The <a> population density </a> was 4 people per square mile (2/km&#x00b2;).
+
+340	FALSE	Aurora County, South Dakota:: area_water_km2	11 / 0.	
+The racial makeup of the county was 95.68% <a> White </a> , 0.29% <a> Black </a> or <a> African American </a> , 1.93% <a> Native American </a> , 0.10% <a> Asian </a> , 1.44% from <a> other races </a> , and 0.56% from two or more races.
+
+341	TRUE	Aurora County, South Dakota:: density_sq_mi	4 / (2/	
+The <a> population density </a> was 4 people per square mile (2/km&#x00b2;).
+
+509	TRUE	Lexington County, South Carolina:: state	south carolina / South Carolina	
+<p> <strong> Lexington County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Carolina </a> .
+
+510	TRUE	Lexington County, South Carolina:: area_total_sq_mi	758 / 59&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 758&nbsp; <a> square mile </a> s (1,963&nbsp; <a> km&#x00b2; </a> ), of which 699&nbsp;square miles (1,811&nbsp;km&#x00b2;) is land and 59&nbsp;square miles (152&nbsp;km&#x00b2;) (7.74%) is water. </p>
+
+511	TRUE	Lexington County, South Carolina:: area_land_sq_mi	699 / (7.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 758&nbsp; <a> square mile </a> s (1,963&nbsp; <a> km&#x00b2; </a> ), of which 699&nbsp;square miles (1,811&nbsp;km&#x00b2;) is land and 59&nbsp;square miles (152&nbsp;km&#x00b2;) (7.74%) is water. </p>
+
+512	TRUE	Lexington County, South Carolina:: area_water_sq_mi	59 / 59	
+<p> As of the <a> census </a> of 2000, there were 216,014 people, 83,240 households, and 59,849 families residing in the county.
+
+514	TRUE	Lexington County, South Carolina:: density_km2	119 / (119/	
+The <a> population density </a> was 309 people per square mile (119/km&#x00b2;).
+
+727	TRUE	Chesterfield County, South Carolina:: state	south carolina / South Carolina	
+<p> <strong> Chesterfield County </strong> is a <a> county </a> located in the <a> Midlands </a> of the <a> U.S. state </a> of <a> South Carolina </a> .
+
+730	TRUE	Chesterfield County, South Carolina:: area_water_sq_mi	7 / 11	
+<p> As of the <a> census </a> of 2000, there were 42,768 people, 16,557 households, and 11,705 families residing in the county.
+
+732	TRUE	Chesterfield County, South Carolina:: density_km2	21 / (21/	
+The <a> population density </a> was 54 people per square mile (21/km&#x00b2;).
+
+836	TRUE	Anderson County, South Carolina:: county	anderson county / Anderson County	
+<p> <strong> Anderson County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Carolina </a> .
+
+837	TRUE	Anderson County, South Carolina:: state	south carolina / South Carolina	
+<p> <strong> Anderson County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Carolina </a> .
+
+840	FALSE	Anderson County, South Carolina:: area_water_sq_mi	39 / 47	
+<p> As of the <a> census </a> of 2000, there were 165,740 people, 65,649 households, and 47,276 families residing in the county.
+
+842	TRUE	Anderson County, South Carolina:: density_km2	89 / (89/	
+The <a> population density </a> was 231 people per square mile (89/km&#x00b2;).
+
+937	TRUE	Westmoreland County, Pennsylvania:: state	pennsylvania / Pennsylvania	
+<p> <strong> Westmoreland County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Pennsylvania </a> .
+
+940	FALSE	Westmoreland County, Pennsylvania:: area_water_sq_mi	11 / 104	
+<p> As of the <a> census </a> of 2000, there were 369,993 people, 149,813 households, and 104,569 families residing in the county.
+
+941	TRUE	Westmoreland County, Pennsylvania:: density_km2	139 / (139/	
+The <a> population density </a> was 361 people per square mile (139/km&#x00b2;).
+
+942	TRUE	Westmoreland County, Pennsylvania:: founded	february 26, 1773 / February 26, 1773	
+It was founded on February 26, 1773, and was the first county in the colony of Pennsylvania west of the <a> Allegheny Mountains </a> .
+
+948	TRUE	Wayne County, Pennsylvania:: county	wayne county / Wayne County	
+<p> <strong> Wayne County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Pennsylvania </a> .
+
+949	TRUE	Wayne County, Pennsylvania:: state	pennsylvania / Pennsylvania	
+<p> <strong> Wayne County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Pennsylvania </a> .
+
+950	TRUE	Wayne County, Pennsylvania:: area_land_sq_mi	729 / (2.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 751&nbsp;square miles (1,944&nbsp;km&#x00b2;), of which 729&nbsp;square miles (1,889&nbsp;km&#x00b2;) is land and 21&nbsp;square miles (55&nbsp;km&#x00b2;) (2.84%) is water. </p>
+
+951	FALSE	Wayne County, Pennsylvania:: area_water_sq_mi	21 / 12	
+<p> As of the <a> census </a> of 2000, there were 47,722 people, 18,350 households, and 12,936 families residing in the county.
+
+953	TRUE	Wayne County, Pennsylvania:: density_km2	25 / (25/	
+The <a> population density </a> was 65 people per square mile (25/km&#x00b2;).
+
+959	TRUE	Wayne County, Pennsylvania:: area_total_sq_mi	751 / 21&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 751&nbsp;square miles (1,944&nbsp;km&#x00b2;), of which 729&nbsp;square miles (1,889&nbsp;km&#x00b2;) is land and 21&nbsp;square miles (55&nbsp;km&#x00b2;) (2.84%) is water. </p>
+
+973	TRUE	Warren County, Pennsylvania:: county	warren county / Warren County	
+<p> <strong> Warren County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Pennsylvania </a> .
+
+974	TRUE	Warren County, Pennsylvania:: state	pennsylvania / Pennsylvania	
+<p> <strong> Warren County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Pennsylvania </a> .
+
+975	TRUE	Warren County, Pennsylvania:: area_land_sq_mi	883 / (1.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 898&nbsp;square miles (2,325&nbsp;km&#x00b2;), of which 883&nbsp;square miles (2,288&nbsp;km&#x00b2;) is land and 14&nbsp;square miles (37&nbsp;km&#x00b2;) (1.60%) is water.
+
+976	FALSE	Warren County, Pennsylvania:: area_water_sq_mi	14 / 12	
+<p> As of the <a> census </a> of 2000, there were 43,863 people, 17,696 households, and 12,121 families residing in the county.
+
+981	FALSE	Warren County, Pennsylvania:: area_water_km2	37 / 0.	
+The racial makeup of the county was 98.68% <a> White </a> , 0.21% <a> Black </a> or <a> African American </a> , 0.19% <a> Native American </a> , 0.27% <a> Asian </a> , 0.02% <a> Pacific Islander </a> , 0.12% from <a> other races </a> , and 0.52% from two or more races.
+
+982	TRUE	Warren County, Pennsylvania:: density_sq_mi	50 / (19/	
+The <a> population density </a> was 50 people per square mile (19/km&#x00b2;).
+
+983	TRUE	Warren County, Pennsylvania:: area_total_sq_mi	898 / 14&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 898&nbsp;square miles (2,325&nbsp;km&#x00b2;), of which 883&nbsp;square miles (2,288&nbsp;km&#x00b2;) is land and 14&nbsp;square miles (37&nbsp;km&#x00b2;) (1.60%) is water.
+
+984	TRUE	Warren County, Pennsylvania:: density_km2	19 / (19/	
+The <a> population density </a> was 50 people per square mile (19/km&#x00b2;).
+
+985	TRUE	Venango County, Pennsylvania:: state	pennsylvania / Pennsylvania	
+<p> <strong> Venango County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Pennsylvania </a> .
+
+986	TRUE	Venango County, Pennsylvania:: area_total_sq_mi	683 / 8&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 683&nbsp;square miles (1,769&nbsp;km&#x00b2;), of which 675&nbsp;square miles (1,748&nbsp;km&#x00b2;) is land and 8&nbsp;square miles (21&nbsp;km&#x00b2;) (1.17%) is water. </p>
+
+987	TRUE	Venango County, Pennsylvania:: area_land_sq_mi	675 / (1.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 683&nbsp;square miles (1,769&nbsp;km&#x00b2;), of which 675&nbsp;square miles (1,748&nbsp;km&#x00b2;) is land and 8&nbsp;square miles (21&nbsp;km&#x00b2;) (1.17%) is water. </p>
+
+988	FALSE	Venango County, Pennsylvania:: area_water_sq_mi	8 / 15	
+<p> As of the <a> census </a> of 2000, there were 57,565 people, 22,747 households, and 15,922 families residing in the county.
+
+990	TRUE	Venango County, Pennsylvania:: density_km2	33 / (33/	
+The <a> population density </a> was 85 people per square mile (33/km&#x00b2;).
+
+991	TRUE	Venango County, Pennsylvania:: founded	march 12, 1800 / March 12, 1800	
+<p> Venango County was created on March 12, 1800 from parts of <a> Allegheny </a> and <a> Lycoming </a> Counties.
+
+1030	TRUE	Sullivan County, Pennsylvania:: state	pennsylvania / Pennsylvania	
+<p> <strong> Sullivan County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Pennsylvania </a> .
+
+1031	TRUE	Sullivan County, Pennsylvania:: area_total_sq_mi	452 / 2&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 452&nbsp; <a> square mile </a> s (1,172&nbsp; <a> km&#x00b2; </a> ), of which 450&nbsp;square miles (1,165&nbsp;km&#x00b2;) is land and 2&nbsp;square miles (6&nbsp;km&#x00b2;) (0.53%) is water. </p>
+
+1032	TRUE	Sullivan County, Pennsylvania:: area_land_sq_mi	450 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 452&nbsp; <a> square mile </a> s (1,172&nbsp; <a> km&#x00b2; </a> ), of which 450&nbsp;square miles (1,165&nbsp;km&#x00b2;) is land and 2&nbsp;square miles (6&nbsp;km&#x00b2;) (0.53%) is water. </p>
+
+1033	TRUE	Sullivan County, Pennsylvania:: area_water_sq_mi	2 / 1	
+<p> As of the <a> census </a> of 2000, there were 6,556 people, 2,660 households, and 1,752 families residing in the county.
+
+1035	FALSE	Sullivan County, Pennsylvania:: founded	march 15, 1847 / (1933)	
+However, according to <a> Frederic A. Godcharles </a> (1933), the county is named for General <a> John Sullivan </a> , who led the <a> Sullivan Expedition </a> against the Iroquois in 1779. </p>
+
+1040	TRUE	Sullivan County, Pennsylvania:: county	sullivan county / Sullivan County	
+<p> <strong> Sullivan County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Pennsylvania </a> .
+
+1077	TRUE	Potter County, Pennsylvania:: state	pennsylvania / Pennsylvania	
+<p> <strong> Potter County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Pennsylvania </a> .
+
+1079	TRUE	Potter County, Pennsylvania:: area_water_sq_mi	0 / 5	
+<p> As of the <a> census </a> of 2000, there were 18,080 people, 7,005 households, and 5,001 families residing in the county.
+
+1084	TRUE	Potter County, Pennsylvania:: density_km2	6 / (6/	
+The <a> population density </a> was 17 people per square mile (6/km&#x00b2;).
+
+1120	TRUE	Northumberland County, Pennsylvania:: state	pennsylvania / Pennsylvania	
+<p> <strong> Northumberland County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Pennsylvania </a> .
+
+1121	TRUE	Northumberland County, Pennsylvania:: area_total_sq_mi	477 / 17&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 477&nbsp;square miles (1,236&nbsp;km&#x00b2;), of which 460&nbsp;square miles (1,191&nbsp;km&#x00b2;) is land and 17&nbsp;square miles (45&nbsp;km&#x00b2;) (3.66%) is water.
+
+1122	TRUE	Northumberland County, Pennsylvania:: area_land_sq_mi	460 / (3.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 477&nbsp;square miles (1,236&nbsp;km&#x00b2;), of which 460&nbsp;square miles (1,191&nbsp;km&#x00b2;) is land and 17&nbsp;square miles (45&nbsp;km&#x00b2;) (3.66%) is water.
+
+1123	FALSE	Northumberland County, Pennsylvania:: area_water_sq_mi	17 / 25	
+<p> As of the <a> census </a> of 2000, there were 94,556 people, 38,835 households, and 25,592 families residing in the county.
+
+1125	TRUE	Northumberland County, Pennsylvania:: density_km2	79 / (79/	
+The <a> population density </a> was 206 people per square mile (79/km&#x00b2;).
+
+1168	TRUE	Mifflin County, Pennsylvania:: state	pennsylvania / Pennsylvania	
+<p> <strong> Mifflin County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Pennsylvania </a> .
+
+1169	TRUE	Mifflin County, Pennsylvania:: area_total_sq_mi	415 / 3&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 415&nbsp;square miles (1,074&nbsp;km&#x00b2;), of which 412&nbsp;square miles (1,067&nbsp;km&#x00b2;) is land and 3&nbsp;square miles (7&nbsp;km&#x00b2;) (0.66%) is water. </p>
+
+1170	FALSE	Mifflin County, Pennsylvania:: area_land_sq_mi	413 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 415&nbsp;square miles (1,074&nbsp;km&#x00b2;), of which 412&nbsp;square miles (1,067&nbsp;km&#x00b2;) is land and 3&nbsp;square miles (7&nbsp;km&#x00b2;) (0.66%) is water. </p>
+
+1171	TRUE	Mifflin County, Pennsylvania:: area_water_sq_mi	3 / 12	
+<p> As of the <a> census </a> of 2000, there were 46,486 people, 18,413 households, and 12,907 families residing in the county.
+
+1173	TRUE	Mifflin County, Pennsylvania:: density_km2	44 / (44/	
+The <a> population density </a> was 113 people per square mile (44/km&#x00b2;).
+
+1191	TRUE	McKean County, Pennsylvania:: state	pennsylvania / Pennsylvania	
+<p> <strong> McKean County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Pennsylvania </a> .
+
+1192	TRUE	McKean County, Pennsylvania:: area_total_sq_mi	984 / 3&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 984&nbsp;square miles (2,549&nbsp;km&#x00b2;), of which 982&nbsp;square miles (2,542&nbsp;km&#x00b2;) is land and 3&nbsp;square miles (7&nbsp;km&#x00b2;) (0.26%) is water. </p>
+
+1193	TRUE	McKean County, Pennsylvania:: area_land_sq_mi	982 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 984&nbsp;square miles (2,549&nbsp;km&#x00b2;), of which 982&nbsp;square miles (2,542&nbsp;km&#x00b2;) is land and 3&nbsp;square miles (7&nbsp;km&#x00b2;) (0.26%) is water. </p>
+
+1194	TRUE	McKean County, Pennsylvania:: area_water_sq_mi	3 / 12	
+<p> As of the <a> census </a> of 2000, there were 45,936 people, 18,024 households, and 12,094 families residing in the county.
+
+1195	TRUE	McKean County, Pennsylvania:: density_km2	18 / (18/	
+The <a> population density </a> was 47 people per square mile (18/km&#x00b2;).
+
+1202	TRUE	Lycoming County, Pennsylvania:: state	pennsylvania / Pennsylvania	
+<strong> Lycoming County </strong> is a <a> county </a> located in the <a> Commonwealth </a> of <a> Pennsylvania </a> , <a> USA </a> .
+
+1205	TRUE	Lycoming County, Pennsylvania:: density_km2	38 / (38/	
+The <a> population density </a> was 97 people per square mile (38/km&#x00b2;).
+
+1206	TRUE	Lycoming County, Pennsylvania:: seat	williamsport / seat	
+Its <a> county seat </a> is Williamsport. </p>
+
+1209	FALSE	Lycoming County, Pennsylvania:: area_water_km2	23 / 0.	
+The racial makeup of the county was 93.91% <a> White </a> , 4.32% <a> Black </a> or <a> African American </a> , 0.21% <a> Native American </a> , 0.42% <a> Asian </a> , 0.01% <a> Pacific Islander </a> , 0.26% from <a> other races </a> , and 0.86% from two or more races.
+
+1210	TRUE	Lycoming County, Pennsylvania:: density_sq_mi	97 / (38/	
+The <a> population density </a> was 97 people per square mile (38/km&#x00b2;).
+
+1211	FALSE	Lycoming County, Pennsylvania:: area_water_sq_mi	9 / 31	
+<p> As of the <a> census </a> of 2000, there were 120,044 people, 47,003 households, and 31,680 families residing in the county.
+
+1244	TRUE	Lackawanna County, Pennsylvania:: state	pennsylvania / Pennsylvania	
+<p> <strong> Lackawanna County </strong> is a <a> county </a> in the <a> U.S. state </a> of <a> Pennsylvania </a> .
+
+1245	TRUE	Lackawanna County, Pennsylvania:: area_total_sq_mi	465 / 6&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 465&nbsp;square miles (1,203&nbsp;km&#x00b2;), of which 459&nbsp;square miles (1,188&nbsp;km&#x00b2;) is land and 6&nbsp;square miles (15&nbsp;km&#x00b2;) (1.27%) is water. </p>
+
+1246	TRUE	Lackawanna County, Pennsylvania:: area_land_sq_mi	459 / (1.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 465&nbsp;square miles (1,203&nbsp;km&#x00b2;), of which 459&nbsp;square miles (1,188&nbsp;km&#x00b2;) is land and 6&nbsp;square miles (15&nbsp;km&#x00b2;) (1.27%) is water. </p>
+
+1247	TRUE	Lackawanna County, Pennsylvania:: area_water_sq_mi	6 / 55	
+<p> As of the <a> census </a> of 2000, there were 213,295 people, 86,218 households, and 55,783 families residing in the county.
+
+1249	TRUE	Lackawanna County, Pennsylvania:: density_km2	180 / (180/	
+The <a> population density </a> was 465 people per square mile (180/km&#x00b2;).
+
+1250	TRUE	Lackawanna County, Pennsylvania:: founded	august 13, 1878 / 1878	
+It was created on August 13, 1878, from part of <a> Luzerne County </a> and is Pennsylvania's most recently established county.
+
+1281	TRUE	Indiana County, Pennsylvania:: state	pennsylvania / Pennsylvania	
+<p> <strong> Indiana County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Pennsylvania </a> .
+
+1285	TRUE	Indiana County, Pennsylvania:: density_km2	42 / (42/	
+The <a> population density </a> was 108 people per square mile (42/km&#x00b2;).
+
+1286	TRUE	Indiana County, Pennsylvania:: founded	march 30, 1803 / March 30, 1803	
+Indiana County was created on March 30, 1803, from parts of <a> Westmoreland </a> and <a> Clearfield </a> Counties, and is probably named for the <a> Indiana Territory </a> .
+
+1291	TRUE	Indiana County, Pennsylvania:: area_water_sq_mi	5 / 22	
+<p> As of the <a> census </a> of 2000, there were 89,605 people, 34,123 households, and 22,521 families residing in the county.
+
+1293	TRUE	Huntingdon County, Pennsylvania:: state	pennsylvania / Pennsylvania	
+<p> <strong> Huntingdon County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Pennsylvania </a> .
+
+1296	FALSE	Huntingdon County, Pennsylvania:: area_water_sq_mi	15 / 11	
+<p> As of the <a> census </a> of 2000, there were 45,586 people, 16,759 households, and 11,798 families residing in the county.
+
+1298	TRUE	Huntingdon County, Pennsylvania:: density_km2	20 / (20/	
+The <a> population density </a> was 52 people per square mile (20/km&#x00b2;).
+
+1299	TRUE	Huntingdon County, Pennsylvania:: founded	september 20, 1787 / September 20, 1787	
+Huntingdon County was created on September 20, 1787, from part of <a> Bedford County </a> .
+
+1330	TRUE	Franklin County, Pennsylvania:: county	franklin county / Franklin County	
+<p> <strong> Franklin County </strong> is a <a> county </a> located in <a> South Central </a> <a> Pennsylvania </a> .
+
+1331	TRUE	Franklin County, Pennsylvania:: state	pennsylvania / Pennsylvania	
+<p> <strong> Franklin County </strong> is a <a> county </a> located in <a> South Central </a> <a> Pennsylvania </a> .
+
+1332	TRUE	Franklin County, Pennsylvania:: area_water_sq_mi	1 / 36	
+<p> As of the <a> census </a> of 2000, there were 129,313 people, 50,633 households, and 36,405 families residing in the county.
+
+1333	TRUE	Franklin County, Pennsylvania:: density_km2	65 / (65/	
+The <a> population density </a> was 168 people per square mile (65/km&#x00b2;).
+
+1352	TRUE	Fayette County, Pennsylvania:: county	fayette county / Fayette County	
+<p> <strong> Fayette County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Pennsylvania </a> .
+
+1353	TRUE	Fayette County, Pennsylvania:: state	pennsylvania / Pennsylvania	
+<p> <strong> Fayette County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Pennsylvania </a> .
+
+1356	TRUE	Fayette County, Pennsylvania:: area_water_sq_mi	8 / 41	
+<p> As of the <a> census </a> of 2000, there were 148,644 people, 59,969 households, and 41,198 families residing in the county.
+
+1358	TRUE	Fayette County, Pennsylvania:: density_km2	73 / (73/	
+The <a> population density </a> was 188 people per square mile (73/km&#x00b2;).
+
+1364	TRUE	Fayette County, Pennsylvania:: founded	september 26, 1783 / September 26, 1783	
+<p> Fayette County was created on September 26, 1783, from part of <a> Westmoreland County </a> and named after the <a> Marquis de Lafayette </a> .
+
+1365	TRUE	Erie County, Pennsylvania:: county	erie county / Erie County	
+<p> <strong> Erie County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Pennsylvania </a> .
+
+1366	TRUE	Erie County, Pennsylvania:: state	pennsylvania / Pennsylvania	
+<p> <strong> Erie County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Pennsylvania </a> .
+
+1372	TRUE	Erie County, Pennsylvania:: founded	march 12, 1800 / March 12, 1800	
+<p> Erie County was established on March 12, 1800 from part of <a> Allegheny County </a> , which absorbed the lands of the disputed <a> Erie Triangle </a> in 1792.
+
+1377	TRUE	Erie County, Pennsylvania:: density_sq_mi	350 / (135/	
+The <a> population density </a> was 350 people per square mile (135/km&#x00b2;).
+
+1388	TRUE	Delaware County, Pennsylvania:: county	delaware county / Delaware County	
+<p> <strong> Delaware County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Pennsylvania </a> .
+
+1389	TRUE	Delaware County, Pennsylvania:: state	pennsylvania / Pennsylvania	
+<p> <strong> Delaware County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Pennsylvania </a> .
+
+1392	TRUE	Delaware County, Pennsylvania:: area_water_sq_mi	7 / 139	
+<p> , there were 550,864 people, 206,320 households, and 139,472 families residing in the county.
+
+1395	TRUE	Delaware County, Pennsylvania:: founded	september 26, 1789 / September 26, 1789	
+<p> Delaware County was created on September 26, 1789, from part of <a> Chester County </a> and named for the <a> Delaware River </a> .
+
+1404	TRUE	Dauphin County, Pennsylvania:: density_km2	185 / (185/	
+The <a> population density </a> was 479 people per square mile (185/km&#x00b2;).
+
+1405	TRUE	Dauphin County, Pennsylvania:: founded	march 4, 1785 / March 4, 1785	
+<p> Dauphin County was created on March 4, 1785, from part of <a> Lancaster County </a> and was named after <a> Louis-Joseph, Dauphin of France </a> the first son of <a> Louis XVI </a> .
+
+1410	TRUE	Dauphin County, Pennsylvania:: state	pennsylvania / Pennsylvania	
+<p> <strong> Dauphin County </strong> () is a <a> county </a> in the <a> U.S. state </a> of <a> Pennsylvania </a> and is one of the three counties comprising the Harrisburg&ndash; <a> Carlisle </a> <a> Metropolitan Statistical Area </a> .
+
+1438	TRUE	Clearfield County, Pennsylvania:: state	pennsylvania / Pennsylvania	
+<p> <strong> Clearfield County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Pennsylvania </a> .
+
+1441	TRUE	Clearfield County, Pennsylvania:: area_water_sq_mi	6 / 22	
+<p> As of the <a> census </a> of 2000, there were 83,382 people, 32,785 households, and 22,916 families residing in the county.
+
+1442	TRUE	Clearfield County, Pennsylvania:: density_km2	28 / (28/	
+The <a> population density </a> was 73 people per square mile (28/kmsup2/sup).
+
+1443	TRUE	Clearfield County, Pennsylvania:: founded	march 26, 1804 / March 26, 1804	
+<p> Clearfield County was created on March 26, 1804, from parts of <a> Huntingdon </a> and <a> Lycoming </a> Counties but was administered as part of <a> Centre County </a> until 1812.
+
+1449	TRUE	Clarion County, Pennsylvania:: state	pennsylvania / Pennsylvania	
+<p> <strong> Clarion County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Pennsylvania </a> .
+
+1452	TRUE	Clarion County, Pennsylvania:: area_water_sq_mi	7 / 10	
+<p> As of the <a> census </a> of 2000, there were 41,765 people, 16,052 households, and 10,738 families residing in the county.
+
+1454	TRUE	Clarion County, Pennsylvania:: density_km2	27 / (27/	
+The <a> population density </a> was 69 people per square mile (27/km&#x00b2;).
+
+1455	TRUE	Clarion County, Pennsylvania:: founded	march 11, 1839 / March 11, 1839	
+It was formed on March 11, 1839, from parts of <a> Venango </a> and <a> Armstrong </a> counties.
+
+1461	TRUE	Chester County, Pennsylvania:: county	chester county / Chester County	
+<p> <strong> Chester County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Pennsylvania </a> .
+
+1462	TRUE	Chester County, Pennsylvania:: state	pennsylvania / Pennsylvania	
+<p> <strong> Chester County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Pennsylvania </a> .
+
+1465	TRUE	Chester County, Pennsylvania:: area_water_sq_mi	4 / 113	
+<p> As of the <a> census </a> of 2000, there were 433,501 people, 157,905 households, and 113,375 families residing in the county.
+
+1467	TRUE	Chester County, Pennsylvania:: density_km2	221 / (221/	
+The <a> population density </a> was 573 people per square mile (221/km&#x00b2;).
+
+1485	TRUE	Carbon County, Pennsylvania:: county	carbon county / Carbon County	
+<p> <strong> Carbon County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Pennsylvania </a> .
+
+1486	TRUE	Carbon County, Pennsylvania:: state	pennsylvania / Pennsylvania	
+<p> <strong> Carbon County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Pennsylvania </a> .
+
+1489	TRUE	Carbon County, Pennsylvania:: area_water_sq_mi	6 / 16	
+<p> As of the <a> census </a> of 2000, there were 58,802 people, 23,701 households, and 16,424 families residing in the county.
+
+1490	TRUE	Carbon County, Pennsylvania:: density_km2	60 / (60/	
+The <a> population density </a> was 154 people per square mile (60/km&#x00b2;).
+
+1491	TRUE	Carbon County, Pennsylvania:: founded	march 13, 1843 / March 13, 1843	
+<p> Carbon County was created on March 13, 1843 from parts of <a> Northampton </a> and <a> Monroe </a> Counties and was named for the extensive deposits of <a> coal </a> in the region. </p>
+
+1508	TRUE	Cambria County, Pennsylvania:: state	pennsylvania / Pennsylvania	
+<p> <strong> Cambria County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Pennsylvania </a> .
+
+1511	TRUE	Cambria County, Pennsylvania:: area_water_sq_mi	5 / 40	
+<p> As of the <a> census </a> of 2000, there were 152,598 people, 60,531 households, and 40,616 families residing in the county.
+
+1512	TRUE	Cambria County, Pennsylvania:: density_km2	86 / (86/	
+The <a> population density </a> was 222 people per square mile (86/km&#x00b2;).
+
+1517	TRUE	Cambria County, Pennsylvania:: founded	march 26, 1804 / <a>	
+<p> Cambria County was created on March 26, 1804, from parts of <a> Bedford </a> , <a> Huntingdon </a> , and <a> Somerset </a> counties and was named for the nation of <a> Wales </a> .
+
+1519	TRUE	Butler County, Pennsylvania:: state	pennsylvania / Pennsylvania	
+<p> <strong> Butler County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Pennsylvania </a> and part of the <a> Pittsburgh Metropolitan Statistical Area </a> .
+
+1521	TRUE	Butler County, Pennsylvania:: area_water_sq_mi	6 / 46	
+<p> As of the <a> census </a> of 2000, there were 174,083 people, 65,862 households, and 46,827 families residing in the county.
+
+1523	TRUE	Butler County, Pennsylvania:: density_km2	85 / (85/	
+The <a> population density </a> was 221 people per square mile (85/km&#x00b2;).
+
+1524	TRUE	Butler County, Pennsylvania:: founded	march 12, 1800 / March 12, 1800	
+<p> Butler County was created on March 12, 1800, from part of <a> Allegheny County </a> and named in honor of General <a> Richard Butler </a> .
+
+1599	FALSE	Roberts County, South Dakota:: area_water_sq_mi	34 / 2	
+<p> As of the <a> census </a> of 2000, there were 10,016 people, 3,683 households, and 2,618 families residing in the county.
+
+1601	TRUE	Roberts County, South Dakota:: density_km2	2 / (4/	
+The <a> population density </a> was 9 people per square mile (4/km&#x00b2;).
+
+1606	FALSE	Roberts County, South Dakota:: area_water_km2	88 / 1.	
+The racial makeup of the county was 68.29% <a> White </a> , 0.10% <a> Black </a> or <a> African American </a> , 29.86% <a> Native American </a> , 0.21% <a> Asian </a> , 0.03% from <a> other races </a> , and 1.51% from two or more races.
+
+1607	TRUE	Roberts County, South Dakota:: density_sq_mi	4 / (4/	
+The <a> population density </a> was 9 people per square mile (4/km&#x00b2;).
+
+1608	TRUE	Roberts County, South Dakota:: state	south dakota / South Dakota	
+<p> <strong> Roberts County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+1610	TRUE	Potter County, South Dakota:: state	south dakota / South Dakota	
+<p> <strong> Potter County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+1611	TRUE	Potter County, South Dakota:: area_total_sq_mi	898 / 32&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 898&nbsp;square miles (2,327&nbsp;km&#x00b2;), of which 866&nbsp;square miles (2,244&nbsp;km&#x00b2;) is land and 32&nbsp;square miles (83&nbsp;km&#x00b2;) (3.56%) is water. </p>
+
+1612	TRUE	Potter County, South Dakota:: area_land_sq_mi	866 / (3.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 898&nbsp;square miles (2,327&nbsp;km&#x00b2;), of which 866&nbsp;square miles (2,244&nbsp;km&#x00b2;) is land and 32&nbsp;square miles (83&nbsp;km&#x00b2;) (3.56%) is water. </p>
+
+1613	FALSE	Potter County, South Dakota:: area_water_sq_mi	32 / 767	
+<p> As of the <a> census </a> of 2000, there were 2,693 people, 1,145 households, and 767 families residing in the county.
+
+1615	TRUE	Potter County, South Dakota:: density_km2	1 / (1/	
+The <a> population density </a> was 3 people per square mile (1/km&#x00b2;).
+
+1619	FALSE	Potter County, South Dakota:: area_water_km2	83 / 0.	
+The racial makeup of the county was 98.14% <a> White </a> , 0.82% <a> Native American </a> , 0.19% <a> Asian </a> , 0.07% from <a> other races </a> , and 0.78% from two or more races.
+
+1621	TRUE	Potter County, South Dakota:: density_sq_mi	2 / (1/	
+The <a> population density </a> was 3 people per square mile (1/km&#x00b2;).
+
+1622	TRUE	Perkins County, South Dakota:: state	south dakota / South Dakota	
+<p> <strong> Perkins County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+1625	FALSE	Perkins County, South Dakota:: area_water_sq_mi	19 / 937	
+<p> As of the <a> census </a> of 2000, there were 3,363 people, 1,429 households, and 937 families residing in the county.
+
+1632	FALSE	Perkins County, South Dakota:: area_water_km2	49 / 0.	
+The racial makeup of the county was 96.64% <a> White </a> , 0.15% <a> Black </a> or <a> African American </a> , 1.64% <a> Native American </a> , 0.24% <a> Asian </a> , 0.51% from <a> other races </a> , and 0.83% from two or more races.
+
+1636	TRUE	Pennington County, South Dakota:: area_water_sq_mi	8 / 23	
+<p> As of the census of 2000, there were 88,565 people, 34,641 households, and 23,278 families residing in the county.
+
+1643	TRUE	Pennington County, South Dakota:: state	south dakota / South Dakota	
+<strong> Pennington County </strong> is a <a> county </a> located in the US state of <a> South Dakota </a> .
+
+1644	FALSE	Pennington County, South Dakota:: area_water_km2	21 / 74&	
+The racial makeup of the county was 86.70&nbsp;% <a> White </a> , 0.85&nbsp;% <a> Black </a> or <a> African American </a> , 8.09&nbsp;% <a> Native American </a> , 0.88&nbsp;% <a> Asian </a> , 0.06&nbsp;% <a> Pacific Islander </a> , 0.68&nbsp;%% from <a> other races </a> , and 2.74&nbsp;% from two or more races.
+
+1645	TRUE	Moody County, South Dakota:: county	moody county / United States	
+<p> <strong> Moody County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> in the <a> United States </a> .
+
+1646	TRUE	Moody County, South Dakota:: state	south dakota / South Dakota	
+<p> <strong> Moody County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> in the <a> United States </a> .
+
+1647	TRUE	Moody County, South Dakota:: area_total_sq_mi	521 / 1&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 521&nbsp;square miles (1,350&nbsp;km&#x00b2;), of which 520&nbsp;square miles (1,346&nbsp;km&#x00b2;) is land and 1&nbsp;square miles (4&nbsp;km&#x00b2;) (0.27%) is water. </p>
+
+1648	TRUE	Moody County, South Dakota:: area_land_sq_mi	520 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 521&nbsp;square miles (1,350&nbsp;km&#x00b2;), of which 520&nbsp;square miles (1,346&nbsp;km&#x00b2;) is land and 1&nbsp;square miles (4&nbsp;km&#x00b2;) (0.27%) is water. </p>
+
+1649	TRUE	Moody County, South Dakota:: area_water_sq_mi	1 / 1	
+<p> As of the <a> census </a> of 2000, there were 6,595 people, 2,526 households, and 1,763 families residing in the county.
+
+1651	TRUE	Moody County, South Dakota:: density_km2	2 / (5/	
+The <a> population density </a> was 13 people per square mile (5/km&#x00b2;).
+
+1654	TRUE	Moody County, South Dakota:: area_water_km2	4 / 2.	
+The racial makeup of the county was 84.91% <a> White </a> , 0.29% <a> Black </a> or <a> African American </a> , 12.01% <a> Native American </a> , 0.56% <a> Asian </a> , 0.06% from <a> other races </a> , and 2.17% from two or more races.
+
+1655	TRUE	Moody County, South Dakota:: density_sq_mi	5 / (5/	
+The <a> population density </a> was 13 people per square mile (5/km&#x00b2;).
+
+1658	TRUE	Minnehaha County, South Dakota:: state	south dakota / South Dakota	
+<p> <strong> Minnehaha County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+1659	TRUE	Minnehaha County, South Dakota:: area_land_sq_mi	810 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 814&nbsp;square miles (2,107&nbsp;km&#x00b2;), of which 810&nbsp;square miles (2,097&nbsp;km&#x00b2;) is land and 4&nbsp;square miles (10&nbsp;km&#x00b2;) (0.49%) is water.
+
+1660	TRUE	Minnehaha County, South Dakota:: area_water_sq_mi	4 / 37	
+<p> As of the <a> census </a> of 2000, there were 148,281 people, 57,996 households, and 37,581 families residing in the county.
+
+1662	TRUE	Minnehaha County, South Dakota:: density_km2	71 / (71/	
+The <a> population density </a> was 183 people per square mile (71/km&#x00b2;).
+
+1666	FALSE	Minnehaha County, South Dakota:: area_water_km2	10 / 1.	
+The racial makeup of the county was 93.03% <a> White </a> , 1.51% <a> Black </a> or <a> African American </a> , 1.85% <a> Native American </a> , 1.01% <a> Asian </a> , 0.05% <a> Pacific Islander </a> , 1.04% from <a> other races </a> , and 1.51% from two or more races.
+
+1667	TRUE	Minnehaha County, South Dakota:: density_sq_mi	183 / (71/	
+The <a> population density </a> was 183 people per square mile (71/km&#x00b2;).
+
+1668	TRUE	Miner County, South Dakota:: state	south dakota / South Dakota	
+<p> <strong> Miner County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+1669	TRUE	Miner County, South Dakota:: area_land_sq_mi	570 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 572&nbsp;square miles (1,481&nbsp;km&#x00b2;), of which 570&nbsp;square miles (1,477&nbsp;km&#x00b2;) is land and 2&nbsp;square miles (4&nbsp;km&#x00b2;) (0.29%) is water. </p>
+
+1670	TRUE	Miner County, South Dakota:: area_water_sq_mi	2 / 789	
+<p> As of the <a> census </a> of 2000, there were 2,884 people, 1,212 households, and 789 families residing in the county.
+
+1672	FALSE	Miner County, South Dakota:: density_km2	1 / (2/	
+The <a> population density </a> was 5 people per square mile (2/km&#x00b2;).
+
+1676	FALSE	Miner County, South Dakota:: area_water_km2	4 / 0.	
+The racial makeup of the county was 98.75% <a> White </a> , 0.52% <a> Black </a> or <a> African American </a> , 0.31% <a> Native American </a> , 0.10% <a> Asian </a> , 0.10% from <a> other races </a> , and 0.21% from two or more races.
+
+1677	TRUE	Miner County, South Dakota:: density_sq_mi	2 / (2/	
+The <a> population density </a> was 5 people per square mile (2/km&#x00b2;).
+
+1678	TRUE	Mellette County, South Dakota:: state	south dakota / South Dakota	
+<p> <strong> Mellette County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+1681	TRUE	Mellette County, South Dakota:: density_km2	0 / (1/	
+The <a> population density </a> was 2 people per square mile (1/km&#x00b2;).
+
+1686	FALSE	Mellette County, South Dakota:: area_water_km2	8 / 2.	
+The racial makeup of the county was 44.74% <a> White </a> , 52.42% <a> Native American </a> , 0.10% <a> Asian </a> , 0.24% from <a> other races </a> , and 2.50% from two or more races.
+
+1687	TRUE	Mellette County, South Dakota:: density_sq_mi	1 / (1/	
+The <a> population density </a> was 2 people per square mile (1/km&#x00b2;).
+
+1688	TRUE	Mellette County, South Dakota:: area_water_sq_mi	3 / 498	
+<p> As of the <a> census </a> of 2000, there were 2,083 people, 694 households, and 498 families residing in the county.
+
+1689	TRUE	Meade County, South Dakota:: state	south dakota / South Dakota	
+<p> <strong> Meade County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+1691	FALSE	Meade County, South Dakota:: area_water_sq_mi	12 / 6	
+<p> As of the <a> census </a> of 2000, there were 24,253 people, 8,805 households, and 6,700 families residing in the county.
+
+1697	FALSE	Meade County, South Dakota:: area_water_km2	31 / 2.	
+The racial makeup of the county was 92.65% <a> White </a> , 1.48% <a> Black </a> or <a> African American </a> , 2.04% <a> Native American </a> , 0.63% <a> Asian </a> , 0.07% <a> Pacific Islander </a> , 0.61% from <a> other races </a> , and 2.52% from two or more races.
+
+1698	TRUE	Meade County, South Dakota:: density_sq_mi	7 / (3/	
+The <a> population density </a> was 7 people per square mile (3/km&#x00b2;).
+
+1699	TRUE	Meade County, South Dakota:: density_km2	3 / (3/	
+The <a> population density </a> was 7 people per square mile (3/km&#x00b2;).
+
+1700	TRUE	McPherson County, South Dakota:: state	south dakota / South Dakota	
+<p> <strong> McPherson County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+1702	FALSE	McPherson County, South Dakota:: area_water_sq_mi	15 / 822	
+<p> As of the <a> census </a> of 2000, there were 2,904 people, 1,227 households, and 822 families residing in the county.
+
+1707	FALSE	McPherson County, South Dakota:: area_water_km2	39 / 0.	
+The racial makeup of the county was 99.35% <a> White </a> , 0.28% <a> Native American </a> , 0.14% <a> Asian </a> , 0.03% from <a> other races </a> , and 0.21% from two or more races.
+
+1708	TRUE	McPherson County, South Dakota:: density_sq_mi	1 / (1/	
+The <a> population density </a> was 3 people per square mile (1/km&#x00b2;).
+
+1710	TRUE	McCook County, South Dakota:: state	south dakota / South Dakota	
+<p> <strong> McCook County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+1711	TRUE	McCook County, South Dakota:: area_land_sq_mi	575 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 577&nbsp;square miles (1,495&nbsp;km&#x00b2;), of which 575&nbsp;square miles (1,488&nbsp;km&#x00b2;) is land and 3&nbsp;square miles (7&nbsp;km&#x00b2;) (0.46%) is water. </p>
+
+1712	TRUE	McCook County, South Dakota:: area_water_sq_mi	3 / 1	
+<p> As of the <a> census </a> of 2000, there were 5,832 people, 2,204 households, and 1,558 families residing in the county.
+
+1714	TRUE	McCook County, South Dakota:: density_km2	2 / (4/	
+The <a> population density </a> was 10 people per square mile (4/km&#x00b2;).
+
+1718	TRUE	McCook County, South Dakota:: area_water_km2	7 / 0.	
+The racial makeup of the county was 98.87% <a> White </a> , 0.05% <a> Black </a> or <a> African American </a> , 0.36% <a> Native American </a> , 0.21% <a> Asian </a> , 0.15% from <a> other races </a> , and 0.36% from two or more races.
+
+1719	TRUE	McCook County, South Dakota:: density_sq_mi	4 / (4/	
+The <a> population density </a> was 10 people per square mile (4/km&#x00b2;).
+
+1720	TRUE	Marshall County, South Dakota:: county	marshall county / Marshall County	
+<p> <strong> Marshall County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+1721	TRUE	Marshall County, South Dakota:: state	south dakota / South Dakota	
+<p> <strong> Marshall County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+1723	TRUE	Marshall County, South Dakota:: area_land_sq_mi	838 / 48&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 886&nbsp; <a> square mile </a> s (2,294&nbsp; <a> km&#x00b2; </a> ), of which 838&nbsp;square miles (2,170&nbsp;km&#x00b2;) is land and 48&nbsp;square miles (124&nbsp;km&#x00b2;) is <a> water </a> .
+
+1724	FALSE	Marshall County, South Dakota:: area_water_sq_mi	48 / 1	
+<p> As of the <a> census </a> of 2000, there were 4,576 people, 1,844 households, and 1,252 families residing in the county.
+
+1728	FALSE	Marshall County, South Dakota:: area_water_km2	124 / 0.	
+The racial makeup of the county was 92.59% <a> White </a> , 0.09% <a> Black </a> or <a> African American </a> , 6.32% <a> Native American </a> , 0.09% <a> Asian </a> , 0.22% from <a> other races </a> , and 0.70% from two or more races.
+
+1729	FALSE	Marshall County, South Dakota:: density_sq_mi	3 / (2/	
+The <a> population density </a> was 6 people per square mile (2/km&#x00b2;).
+
+1731	FALSE	Marshall County, South Dakota:: density_km2	1 / (2/	
+The <a> population density </a> was 6 people per square mile (2/km&#x00b2;).
+
+1739	FALSE	Lyman County, South Dakota:: area_water_km2	174 / 1.	
+The racial makeup of the county was 64.75% <a> White </a> , 0.08% <a> Black </a> or <a> African American </a> , 33.27% <a> Native American </a> , 0.23% <a> Asian </a> , 0.05% from <a> other races </a> , and 1.62% from two or more races.
+
+1740	TRUE	Lyman County, South Dakota:: density_sq_mi	1 / (1/	
+The <a> population density </a> was 2 people per square mile (1/km&#x00b2;).
+
+1741	TRUE	Lyman County, South Dakota:: state	south dakota / South Dakota	
+<p> <strong> Lyman County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+1742	FALSE	Lyman County, South Dakota:: area_water_sq_mi	67 / 1	
+<p> As of the <a> census </a> of 2000, there were 3,895 people, 1,400 households, and 1,009 families residing in the county.
+
+1743	TRUE	Lincoln County, South Dakota:: state	south dakota / South Dakota	
+<p> <strong> Lincoln County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+1744	TRUE	Lincoln County, South Dakota:: area_land_sq_mi	578 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 579&nbsp; <a> square mile </a> s (1,499&nbsp; <a> km&#x00b2; </a> ), of which 578&nbsp;square miles (1,497&nbsp;km&#x00b2;) is land and 0&nbsp;square miles (1&nbsp;km&#x00b2;) (0.09%) is water. </p>
+
+1746	TRUE	Lincoln County, South Dakota:: density_km2	16 / (16/	
+The <a> population density </a> was 42 people per square mile (16/km&#x00b2;).
+
+1749	TRUE	Lincoln County, South Dakota:: area_water_km2	1 / 0.	
+The racial makeup of the county was 97.55% <a> White </a> , 0.34% <a> Black </a> or <a> African American </a> , 0.53% <a> Native American </a> , 0.46% <a> Asian </a> , 0.02% <a> Pacific Islander </a> , 0.29% from <a> other races </a> , and 0.81% from two or more races.
+
+1750	TRUE	Lincoln County, South Dakota:: county	lincoln county / Lincoln County	
+<p> <strong> Lincoln County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+1754	TRUE	Lincoln County, South Dakota:: density_sq_mi	42 / (16/	
+The <a> population density </a> was 42 people per square mile (16/km&#x00b2;).
+
+1755	TRUE	Lawrence County, South Dakota:: county	lawrence county / Lawrence County	
+<p> <strong> Lawrence County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+1756	TRUE	Lawrence County, South Dakota:: state	south dakota / South Dakota	
+<p> <strong> Lawrence County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+1757	TRUE	Lawrence County, South Dakota:: area_land_sq_mi	800 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 800&nbsp;square miles (2,073&nbsp;km&#x00b2;), of which 800&nbsp;square miles (2,072&nbsp;km&#x00b2;) is land and 0&nbsp;square miles (1&nbsp;km&#x00b2;) (0.03%) is water. </p>
+
+1760	FALSE	Lawrence County, South Dakota:: density_km2	5 / (11/	
+The <a> population density </a> was 27 people per square mile (11/km&#x00b2;).
+
+1763	TRUE	Lawrence County, South Dakota:: area_water_km2	1 / 1.	
+The racial makeup of the county was 95.79% <a> White </a> , 0.23% <a> Black </a> or <a> African American </a> , 2.18% <a> Native American </a> , 0.33% <a> Asian </a> , 0.05% <a> Pacific Islander </a> , 0.33% from <a> other races </a> , and 1.08% from two or more races.
+
+1764	FALSE	Lawrence County, South Dakota:: density_sq_mi	13 / (11/	
+The <a> population density </a> was 27 people per square mile (11/km&#x00b2;).
+
+1766	TRUE	Lake County, South Dakota:: county	lake county / Lake County	
+<p> <strong> Lake County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+1767	TRUE	Lake County, South Dakota:: state	south dakota / South Dakota	
+<p> <strong> Lake County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+1768	TRUE	Lake County, South Dakota:: area_total_sq_mi	575 / 12&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 575&nbsp;square miles (1,489&nbsp;km&#x00b2;), of which 563&nbsp;square miles (1,459&nbsp;km&#x00b2;) is land and 12&nbsp;square miles (31&nbsp;km&#x00b2;) (2.06%) is water. </p>
+
+1769	FALSE	Lake County, South Dakota:: area_water_sq_mi	12 / 2	
+<p> As of the <a> census </a> of 2000, there were 11,276 people, 4,372 households, and 2,828 families residing in the county.
+
+1776	FALSE	Lake County, South Dakota:: area_water_km2	31 / 0.	
+The racial makeup of the county was 97.76% <a> White </a> , 0.20% <a> Black </a> or <a> African American </a> , 0.66% <a> Native American </a> , 0.54% <a> Asian </a> , 0.01% <a> Pacific Islander </a> , 0.33% from <a> other races </a> , and 0.51% from two or more races.
+
+1778	TRUE	Lake County, South Dakota:: area_land_sq_mi	563 / (2.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 575&nbsp;square miles (1,489&nbsp;km&#x00b2;), of which 563&nbsp;square miles (1,459&nbsp;km&#x00b2;) is land and 12&nbsp;square miles (31&nbsp;km&#x00b2;) (2.06%) is water. </p>
+
+1779	TRUE	Kingsbury County, South Dakota:: state	south dakota / South Dakota	
+<p> <strong> Kingsbury County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+1780	TRUE	Kingsbury County, South Dakota:: area_total_sq_mi	864 / 25&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 864&nbsp;square miles (2,237&nbsp;km&#x00b2;), of which 838&nbsp;square miles (2,171&nbsp;km&#x00b2;) is land and 25&nbsp;square miles (66&nbsp;km&#x00b2;) (2.93%) is water. </p>
+
+1781	TRUE	Kingsbury County, South Dakota:: area_land_sq_mi	838 / (2.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 864&nbsp;square miles (2,237&nbsp;km&#x00b2;), of which 838&nbsp;square miles (2,171&nbsp;km&#x00b2;) is land and 25&nbsp;square miles (66&nbsp;km&#x00b2;) (2.93%) is water. </p>
+
+1782	FALSE	Kingsbury County, South Dakota:: area_water_sq_mi	25 / 1	
+<p> As of the <a> census </a> of 2000, there were 5,815 people, 2,406 households, and 1,592 families residing in the county.
+
+1783	FALSE	Kingsbury County, South Dakota:: density_km2	1 / (3/	
+The <a> population density </a> was 7 people per square mile (3/km&#x00b2;).
+
+1787	FALSE	Kingsbury County, South Dakota:: area_water_km2	66 / 0.	
+The racial makeup of the county was 98.54% <a> White </a> , 0.05% <a> Black </a> or <a> African American </a> , 0.40% <a> Native American </a> , 0.29% <a> Asian </a> , 0.19% from <a> other races </a> , and 0.53% from two or more races.
+
+1788	TRUE	Kingsbury County, South Dakota:: density_sq_mi	3 / (3/	
+The <a> population density </a> was 7 people per square mile (3/km&#x00b2;).
+
+1790	TRUE	Jones County, South Dakota:: county	jones county / Jones County	
+<p> <strong> Jones County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+1791	TRUE	Jones County, South Dakota:: state	south dakota / South Dakota	
+<p> <strong> Jones County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+1793	TRUE	Jones County, South Dakota:: area_water_sq_mi	1 / 327	
+<p> As of the <a> census </a> of 2000, there were 1,193 people, 509 households, and 327 families residing in the county.
+
+1800	TRUE	Jones County, South Dakota:: area_water_km2	3 / 1.	
+The racial makeup of the county was 95.81% <a> White </a> , 2.43% <a> Native American </a> , 0.08% <a> Pacific Islander </a> , 0.17% from <a> other races </a> , and 1.51% from two or more races.
+
+1801	TRUE	Jones County, South Dakota:: density_sq_mi	1 / (0/	
+The <a> population density </a> was 1 people per square mile (0/km&#x00b2;).
+
+1803	TRUE	Jerauld County, South Dakota:: state	south dakota / South Dakota	
+<p> <strong> Jerauld County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+1806	FALSE	Jerauld County, South Dakota:: area_water_sq_mi	3 / 651	
+<p> As of the <a> census </a> of 2000, there were 2,295 people, 987 households, and 651 families residing in the county.
+
+1808	FALSE	Jerauld County, South Dakota:: density_km2	1 / (2/	
+The <a> population density </a> was 4 people per square mile (2/km&#x00b2;).
+
+1813	TRUE	Jerauld County, South Dakota:: area_water_km2	7 / 0.	
+The racial makeup of the county was 99.00% <a> White </a> , 0.57% <a> Native American </a> , 0.13% <a> Asian </a> , and 0.31% from two or more races.
+
+1815	TRUE	Jerauld County, South Dakota:: density_sq_mi	2 / (2/	
+The <a> population density </a> was 4 people per square mile (2/km&#x00b2;).
+
+1816	TRUE	Jackson County, South Dakota:: county	jackson county / Jackson County	
+<p> <strong> Jackson County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+1817	TRUE	Jackson County, South Dakota:: state	south dakota / South Dakota	
+<p> <strong> Jackson County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+1820	TRUE	Jackson County, South Dakota:: area_water_sq_mi	2 / 675	
+<p> As of the <a> census </a> of 2000, there were 2,930 people, 945 households, and 675 families residing in the county.
+
+1827	TRUE	Jackson County, South Dakota:: area_water_km2	5 / 1.	
+<a> White </a> , 0.03% <a> Black </a> or <a> African American </a> , 47.85% <a> Native American </a> , 0.03% <a> Asian </a> , 0.03% <a> Pacific Islander </a> , 0.14% from <a> other races </a> , and 1.84% from two or more races.
+
+1829	TRUE	Hutchinson County, South Dakota:: state	south dakota / South Dakota	
+<p> <strong> Hutchinson County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+1831	TRUE	Hutchinson County, South Dakota:: area_water_sq_mi	2 / 2	
+<p> As of the <a> census </a> of 2000, there were 8,075 people, 3,190 households, and 2,191 families residing in the county.
+
+1833	TRUE	Hutchinson County, South Dakota:: density_km2	2 / (4/	
+The <a> population density </a> was 10 people per square mile (4/km&#x00b2;).
+
+1838	FALSE	Hutchinson County, South Dakota:: area_water_km2	4 / 0.	
+The racial makeup of the county was 98.82% <a> White </a> , 0.09% <a> Black </a> or <a> African American </a> , 0.57% <a> Native American </a> , 0.10% <a> Asian </a> , 0.06% from <a> other races </a> , and 0.36% from two or more races.
+
+1839	TRUE	Hutchinson County, South Dakota:: density_sq_mi	4 / (4/	
+The <a> population density </a> was 10 people per square mile (4/km&#x00b2;).
+
+1841	TRUE	Hughes County, South Dakota:: county	hughes county / Hughes County	
+<p> <strong> Hughes County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+1842	TRUE	Hughes County, South Dakota:: state	south dakota / South Dakota	
+<p> <strong> Hughes County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+1852	TRUE	Hughes County, South Dakota:: density_km2	9 / (9/	
+The <a> population density </a> was 22 people per square mile (9/km&#x00b2;).
+
+1853	TRUE	Hughes County, South Dakota:: density_sq_mi	22 / (9/	
+The <a> population density </a> was 22 people per square mile (9/km&#x00b2;).
+
+1856	FALSE	Harding County, South Dakota:: area_water_sq_mi	7 / 352	
+<p> As of the <a> census </a> of 2000, there were 1,353 people, 525 households, and 352 families residing in the county.
+
+1858	FALSE	Harding County, South Dakota:: density_km2	0.1 / (0.	
+The <a> population density </a> was 0.5 people per square mile (0.2/km&#x00b2;).
+
+1863	FALSE	Harding County, South Dakota:: area_water_km2	18 / 0.	
+The racial makeup of the county, as defined by the <a> US Census </a> was 97.63% White, 0.30% Black or African American, 0.74% Native American, 0.59% Asian, 0.37% from other races, and 0.37% from two or more races.
+
+1864	FALSE	Harding County, South Dakota:: density_sq_mi	0.3 / 2/	
+The <a> population density </a> was 0.5 people per square mile (0.2/km&#x00b2;).
+
+1865	TRUE	Harding County, South Dakota:: state	south dakota / South Dakota	
+<p> <strong> Harding County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+1900	TRUE	Union County, Oregon:: county	union county / Union County	
+<p> <strong> Union County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Oregon </a> .
+
+1901	TRUE	Union County, Oregon:: state	oregon / Oregon	
+<p> <strong> Union County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Oregon </a> .
+
+1903	TRUE	Union County, Oregon:: area_water_sq_mi	2 / 6	
+<p> As of the <a> census </a> of 2000, there were 24,530 people, 9,740 households, and 6,516 families residing in the county.
+
+1905	TRUE	Union County, Oregon:: density_km2	5 / (5/	
+The <a> population density </a> was 12 people per square mile (5/km&#x00b2;).
+
+1946	TRUE	Hyde County, South Dakota:: state	south dakota / South Dakota	
+<p> <strong> Hyde County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+1955	TRUE	Hyde County, South Dakota:: density_sq_mi	1 / (1/	
+The <a> population density </a> was 2 people per square mile (1/km&#x00b2;).
+
+1956	TRUE	Hyde County, South Dakota:: area_water_sq_mi	6 / 456	
+<p> As of the <a> census </a> of 2000, there were 1,671 people, 679 households, and 456 families residing in the county.
+

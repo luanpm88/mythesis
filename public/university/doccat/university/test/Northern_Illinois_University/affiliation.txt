@@ -1,5 +1,0 @@
-<p>Fraternities at NIU include <a>Alpha Psi Lambda</a>, <a>Tau Kappa Epsilon</a>, <a>Chi Sigma Tau</a>, <a>Iota Phi Theta</a>, <a>Alpha Phi Alpha</a>, <a>Phi Beta Sigma</a>, <a>Kappa Alpha Psi</a>, <a>Kappa Kappa Psi</a>, <a>Kappa Pi Beta</a>, <a>Omega Psi Phi</a>, <a>Phi Sigma Kappa</a>, <a>Phi Sigma Zeta</a>, <a>Pi Kappa Phi</a>, <a>Omega Delta</a>, <a>Phi Kappa Sigma</a>, <a>Sigma Alpha Mu</a>, <a>Gamma Kappa Epsilon</a>, <a>Alpha Kappa Lambda</a>, <a>Pi Kappa Alpha</a>, <a>Phi Kappa Theta</a>, <a>Delta Upsilon</a>, <a>Sigma Lambda Beta</a>, <a>Sigma Pi</a>, <a>Sigma Nu</a>, <a>Sigma Alpha Epsilon</a>, <a>Alpha Epsilon Pi</a>, <a>Phi Kappa Psi</a>, <a>Phi Rho Eta</a> and <a>Phi Mu Alpha Sinfonia</a>.</p>
-<li><a>Campus map</a></li>
-<li><a>NIU HUSKIE FANSITE</a></li>
-<li><a>NIU Huskie Stadium Hotels</a></li>
-<li><a>NIU Libraries</a></li>

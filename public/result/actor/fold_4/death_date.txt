@@ -1,0 +1,58 @@
+Found: 25
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	death_date	........ / May 22 , 2004 )	// <p> <strong> John Braden </strong> ( April 18 , 1949 - May 22 , 2004 ) was a writer , producer , and director of <a> motion pictures </a> and <a> television </a> programs , as well as a public advocate against drugs in the movie industry .
+
+#	NEW	death_date	........ / actor	// <p> <strong> Darnell Williams </strong> ( born March 3 , 1955 ) is a <a> British-born </a> <a> soap opera </a> <a> actor </a> .
+
+#	NEW	death_date	........ / a>	// <p> <strong> Elliott Gould </strong> ( born <strong> Elliot Goldstein </strong> ; August 29 , 1938 ) is an <a> American </a> actor .
+
+#	NEW	death_date	........ / 1996 )	// <p> <strong> Jacobus Johannes Uys </strong> ( 30 May 1921 &ndash ; 29 January 1996 ) , better known as <strong> Jamie Uys </strong> , was a <a> South Africa </a> n film director . </p>
+
+#	NEW	death_date	........ / and	// <p> <strong> Saul Zaentz </strong> ( ; born February 28 , 1921 ) is an American <a> film producer </a> and former record company executive .
+
+#	NEW	death_date	........ / is	// <p> <strong> Riley Elizabeth Weston </strong> is an actress and screenwriter from <a> Poughkeepsie , New York </a> .
+
+#	NEW	death_date	........ / actor	// <p> <strong> Joseph Mascolo </strong> ( born March 13 , 1929 ) is an <a> American </a> <a> musician </a> and dramatic <a> actor </a> .
+
+#	NEW	death_date	........ / actor	// <p> <strong> Fisher Stevens </strong> ( born November 27 , 1963 ) is an <a> American </a> actor and producer .
+
+#	NEW	death_date	........ / is	// <p> <strong> David Mark Morrissey </strong> ( born 21 June 1964 ) is an English actor and director .
+
+#	NEW	death_date	........ / n	// <p> <strong> Mark Little </strong> ( born October 20 , 1959 ) , is an <a> Australia </a> n actor , television presenter and comedian , born in a remote part of <a> Queensland </a> . </p>
+
+#	NEW	death_date	........ / Amanda	// <p> Amanda co-starred in the straight to video sequel to the 1983 film <em> <a> WarGames </a> </em> called <strong> <em> ' . </em> </strong> </p>
+
+#	NEW	death_date	........ / film	// <p> <strong> Connor Trinneer </strong> ( born March 19 , 1969 ) is an <a> American </a> film , stage and television actor .
+
+#	NEW	death_date	........ / actor	// <p> <strong> Francis Harper </strong> ( born May 17 , 1966 ) , known professionally as <strong> Hill Harper </strong> , is an <a> American </a> <a> film </a> , <a> television </a> and <a> stage </a> actor , and author .
+
+#	NEW	death_date	........ / which	// In 2007 , <em> The Oxford American College Dictionary </em> announced the addition of the term <em> EVOO , </em> short for <strong> <em> e </em> </strong> xtra- <strong> <em> v </em> </strong> irgin <a> <strong> <em> o </em> </strong> live <strong> <em> o </em> </strong> il </a> , which Ray had helped to popularize , and credited her with coining the phrase . </p>
+
+#	NEW	death_date	........ / ist .	// <p> <strong> Daniel Ronald &quot ; Ronny&quot ; Cox </strong> ( born July 23 , 1938 ) is an <a> American </a> <a> character actor </a> , <a> singer </a> / <a> songwriter </a> , and <a> guitar </a> ist . </p>
+
+#	NEW	death_date	........ / of	// He is the <a> brother </a> of theater and film actor <a> James Naughton </a> .
+
+#	NEW	death_date	........ / and	// <p> <strong> Geoffrey Durham </strong> ( born 22 July 1949 ) is a <a> British </a> comedy <a> magician </a> and actor who was known for many years as ' The Great Soprendo ' . </p>
+
+#	NEW	death_date	........ / win	// <p> Cast nabbed a <a> Daytime Emmy Award </a> win for Outstanding Younger Actress In a Drama Series in 1992 . </p>
+
+#	NEW	death_date	........ / comedian	// <p> <strong> Sean Patrick Hayes </strong> ( born June 26 , 1970 ) is an American <a> actor </a> and <a> comedian </a> .
+
+#	NEW	death_date	........ / December 10 , 1979 )	// <p> <strong> Ann Dvorak </strong> ( August 2 , 1911 &ndash ; December 10 , 1979 ) was an American film actress . </p>
+
+#	NEW	death_date	........ / November 25 , 1963	// <p> <strong> Joseph Sweeney </strong> ( <a> Philadelphia </a> , <a> Pennsylvania </a> , July 26 , 1884 &#x2013 ; November 25 , 1963 , <a> New York City </a> ) was an American actor who worked in stage production , television and movies .
+
+#	NEW	death_date	........ / Spandau	// <p> <strong> Gary Kemp </strong> ( born 16 October 1959 ) is an <a> English </a> <a> pop </a> musician and actor who is the <a> guitar </a> player and chief <a> songwriter </a> for the 1980s <a> Synthpop </a> <a> band </a> <a> Spandau Ballet </a> .
+
+#	NEW	death_date	........ / April 17 , 2007 )	// <p> <strong> Kitty Carlisle </strong> ( also billed as <strong> Kitty Carlisle Hart </strong> ; September 3 , 1910 &#x2013 ; April 17 , 2007 ) was an American singer , actress and spokeswoman for the arts .
+
+#	NEW	death_date	........ / actress	// <p> <strong> Linda Dano </strong> ( born <strong> Linda Rae Wildermuth </strong> on May 12 , 1943 ) is an <a> American </a> <a> soap opera </a> <a> actress </a> .
+
+#	NEW	death_date	........ / April 26 , 1991 )	// <p> <strong> Emily McLaughlin </strong> ( December 1 , 1930 - April 26 , 1991 ) was an American <a> soap opera </a> <a> actress </a> .
+

@@ -1,0 +1,115 @@
+Found: 43
+Found Not Null: 19
+Correct: 11
+Wrong: 8
+Total: 19
+precision: 0.5789473684210527
+recall: 0.5789473684210527
+
+
+
+0	TRUE	Air Creebec::callsign	cree / Canadian	
+<p> Air Creebec operates services to the following Canadian domestic scheduled destinations ( as of June 2010 ) : and the Air Creebec site listed 14 .
+
+#	NEW	callsign	........ / Air	// <p> The Air Ivoire fleet includes the following aircraft ( as of January 2010 ) : </p>
+
+#	NEW	callsign	........ / It	// It operates scheduled services to domestic destinations and to <a> Greenland </a> and the <a> Faroe Islands </a> .
+
+#	NEW	callsign	........ / Air	// <p> In 2005 , AeroHonduras suspended operations after its only operating aircraft ( a <a> Boeing 737-300 </a> ) <a> wet lease </a> d from <a> Falcon Air Express </a> was taken back by the company .
+
+4	FALSE	Trans International Airlines::callsign	transamerica / FAA	
+<p> Following this incident , the FAA instituted new minimums between aircraft in line-up for take-off . </p>
+
+5	FALSE	Nepal Airlines::callsign	royal nepal / Nepal	
+<p> The Nepal Airlines fleet includes the following aircraft ( as of 16 July 2010 ) : </p>
+
+6	TRUE	Sun Country Airlines::callsign	sun country / Sun	
+<p> As of December 2010 , the Sun Country Airlines fleet consists of the following aircraft with an average age of 9 . 4 years : center / center </p>
+
+#	NEW	callsign	........ / Air	// <p> The Air Fiji fleet included the following aircraft ( at December 2008 ) : </p>
+
+#	NEW	callsign	........ / Air	// <p> The Druk Air fleet consists of the following aircraft ( as of 1 May 2010 ) : </p>
+
+9	TRUE	Air Inuit::callsign	air inuit / Air	
+<p> The Air Inuit fleet includes the following aircraft ( as of December 2010 ) </p>
+
+10	TRUE	Air Jamaica Express::callsign	jamaica express / Air	
+<p> In 2002 , the Air Jamaica Express fleet consisted of 6 <a> Bombardier Dash 8 Q100 </a> aircraft seating 37 passengers and 2 <a> de Havilland Canada DHC-6 Series 300 </a> aircraft seating 19 passengers . ref
+
+#	NEW	callsign	........ / Air	// The Air Astana fleet consists the following aircraft ( at 15 March 2010 ) : center / center </p>
+
+#	NEW	callsign	........ / years :	// <p> As of January 2011 , the Aeropostal fleet consists of the following aircraft with an average age of 28 years : center / center </p>
+
+#	NEW	callsign	........ / Alitalia	// <p> As of 20 May 2010 , the Alitalia Express average fleet age was 5 . 9 years old . </p>
+
+#	NEW	callsign	........ / twenty-	// <p> The fleet at that time of merger consisted of twenty-five aircraft : center / center </p>
+
+#	NEW	callsign	........ / Two-	// The One-Two-GO Airlines fleet was consisted in the following aircraft ( as of 22 July 2010 ) : </p>
+
+16	FALSE	Transbrasil::callsign	transbrasil / known	
+The company was known for its very colorful aircraft which featured a rainbow on the aircraft ' s tail .
+
+#	NEW	callsign	........ / four	// Also in the same month , the airline received first of four new <a> A320 </a> airliners , raising its current fleet to 15 aircraft .
+
+#	NEW	callsign	........ / Air	// Macau [ [ Airbus A321 ] ] ] ] The Air Macau passenger and cargo fleet consists of the following aircraft ( at December 2009 ) : </p>
+
+#	NEW	callsign	........ / August	// <p> As of August 2006 the Sunshine Express Airlines fleet includes : </p>
+
+20	FALSE	Helios Airways::callsign	helios / jet	
+( 2004 ) ] ] When the airline ceased operating , the &#x03b1 ; jet fleet consisted of the following aircraft : </p>
+
+21	TRUE	Aero Mongolia::callsign	aero mongolia / Aero	
+<p> The Aero Mongolia fleet included the following aircraft ( as of 5 Feb 2010 ) : </p>
+
+#	NEW	callsign	........ / Albatros	// <p> As of August <a> 2006 </a> the Albatros Airways fleet includes : </p>
+
+#	NEW	callsign	........ / Shenzhen	// <p> As of December 2010 , the Shenzhen Airlines fleet consists of the following aircraft with an average age of 5 . 6 years : </p>
+
+24	TRUE	Britannia Airways::callsign	britannia / Britannia	
+<p> At the time of rebranding , the Britannia Airways fleet consisted of the following aircraft : </p>
+
+#	NEW	callsign	........ / Portugalia	// <p> The Portugalia fleet includes the following aircraft ( as of December 2010 ) ref name=&quot ; FI&quot ; / : </p>
+
+#	NEW	callsign	........ / National	// <p> The U . S . <a> National Transportation Safety Board </a> ( NTSB ) , which also participated in the investigation , disagreed with the NTSC and concluded that the evidence was consistent with a deliberate manipulation of the flight controls , most likely by the captain , which put the aircraft into a vertical dive and caused it to crash . </p>
+
+27	FALSE	Kosova Airlines::callsign	- / Kosova	
+The aircraft arrived into the Kosova Airlines fleet on 1 December 2003 and remained in the fleet until 10 May 2006 .
+
+#	NEW	callsign	........ / sale Flying	// <p> At the time of its sale Flying Tigers was operating the following aircraft : </p>
+
+#	NEW	callsign	........ / NTSB	// <p> The NTSB also found the following contributing factor : </p>
+
+30	TRUE	MacAir Airlines::callsign	macair / January	
+<p> At the end of January 2009 MacAir operated to the following scheduled destinations : </p>
+
+#	NEW	callsign	........ / Air China	// It was the second air disaster involving PRC aircraft in less than a month , after the <a> Air China Flight 129 </a> disaster on April 15 . </p>
+
+32	FALSE	Khalifa Airways::callsign	khalifa air / airline	
+<p> In 2002 the airline fleet was as follows : </p>
+
+#	NEW	callsign	........ / ADC	// <p> The ADC Airlines fleet consisted of the following aircraft ( at October 2006 ) : </p>
+
+34	FALSE	Aero California::callsign	aerocalifornia / airline	
+By 1995 the airline fleet was being upgraded to all-jet types with <a> Douglas DC-9-1 / 15 </a> jets and the longer <a> Douglas DC-9-32 </a> s comprising the fleet . </p>
+
+35	TRUE	Gambia International Airlines::callsign	gambia international / International	
+<p> In 2004 , the Gambia International Airlines fleet consisted of the following aircraft : </p>
+
+#	NEW	callsign	........ / Air	// <p> The Air Guyane fleet includes the following aircraft ( at April 2008 ) : </p>
+
+37	TRUE	Debonair (airline)::callsign	debonair / Debonair	
+<p> Debonair operated a fleet of used <a> BAe 146 </a> aircraft , later supplemented by three <a> Boeing 737-300 </a> s and a leased <a> BAC One-Eleven </a> .
+
+38	FALSE	Kam Air::callsign	kamgar / Air	
+<p> The Kam Air fleet consists of the following aircraft ( as of 27 July 2010 ) : </p>
+
+#	NEW	callsign	........ / Air	// <p> Thai Air Cargo was established in December 2004 as a joint venture between a Thai logistics firm , Commercial Transport International , or <a> CTI Holdings </a> ( 51% ) and Australian airline <a> Qantas </a> ( 49% ) . </p>
+
+40	TRUE	Aerocaribe::callsign	aerocaribe / Aerocaribe	
+<p> The Aerocaribe fleet consisted of the following aircraft ( at January 2005 ) : </p>
+
+41	TRUE	Afriqiyah Airways::callsign	afriqiyah / December	
+<p> On 21 December 2010 , <a> Afriqiyah Airways </a> Flight 8U-953 .
+
+#	NEW	callsign	........ / Between	// Between 1946 and 1955 , the airline operated a large fleet of <a> Douglas DC-3 </a> s . </p>
+

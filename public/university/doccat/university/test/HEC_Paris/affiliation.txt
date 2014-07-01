@@ -1,5 +1,0 @@
-<li> <a>CEMS Master</a> (Management)</li>
-<li> <a>ESADE</a> (Management)</li>
-<li><a>Grandes &#x00e9;coles</a></li>
-<li><a>HEC Paris website</a></li>
-<li><a>HEC Full-time MBA Program</a></li>

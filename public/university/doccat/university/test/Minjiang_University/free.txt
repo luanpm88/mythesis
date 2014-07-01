@@ -1,8 +1,0 @@
-<li>Department of Chinese Languages</li>
-<li>Department of Foreign Languages</li>
-<li>Department of Mathematics</li>
-<li>Department of Georgraphy</li>
-<li>Department of Tourism</li>
-<li>Department of Art</li>
-<li>Department of Management</li>
-<li>Esthetical and Moral Education Department</li>

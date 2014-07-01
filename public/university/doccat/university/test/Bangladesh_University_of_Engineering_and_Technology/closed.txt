@@ -1,5 +1,0 @@
-<li>Faculty of Architecture
-<li>Faculty of Electrical &amp; Electronic Engineering
-<li>Faculty of Civil Engineering
-<li>Faculty of Mechanical Engineering
-<li>Faculty of Engineering

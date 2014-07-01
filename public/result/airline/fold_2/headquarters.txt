@@ -1,0 +1,46 @@
+Found: 19
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	headquarters	........ / ,	// The company began operations in Florida in October 2007 and suspended operations on September 19 , 2008 . </p>
+
+#	NEW	headquarters	........ / Alitalia	// <p> On behalf of <strong> Alitalia </strong> </p>
+
+#	NEW	headquarters	........ / Juneau	// Its main base was <a> Haines Airport </a> , with a hub at <a> Juneau International Airport </a> . </p>
+
+#	NEW	headquarters	........ / , however .	// Operations of the German and French airline subsidiaries were not affected , however .
+
+#	NEW	headquarters	........ / Current	// <p> : <em> Main article : <a> Avianca - Fleet - Current </a> </em> </p>
+
+#	NEW	headquarters	........ / Kyrgyzstan	// <p> <strong> Galaxy Air , Ltd </strong> ( ) was an Airline based in <a> Kyrgyzstan </a> . </p>
+
+#	NEW	headquarters	........ / Tacoma	// Its main headquarters was <a> Seattle-Tacoma International Airport </a> . </p>
+
+#	NEW	headquarters	........ / Barajas	// Its main base was <a> Madrid Barajas International Airport </a> . </p>
+
+#	NEW	headquarters	........ / Cincinnati	// <p> On October 8 , 1979 , <strong> Comair Flight 444 </strong> , a <a> Piper PA-31 Navajo </a> , crashed shortly after takeoff from <a> Greater Cincinnati Airport </a> .
+
+#	NEW	headquarters	........ / September	// <p> The AeroSur fleet consists of the following aircraft ( at September <a> 2006 </a> ) .
+
+#	NEW	headquarters	........ / , lit .	// <p> <strong> AIRES </strong> ( <a> Acronym </a> : <em> Aerov&#x00ed ; as de Integraci&#x00f3 ; n Regional </em> , lit .
+
+#	NEW	headquarters	........ / Costilla	// Its main base was <a> Don Miguel Hidalgo y Costilla International Airport </a> , Guadalajara . </p>
+
+#	NEW	headquarters	........ / from	// <p> ! <strong> American Flyers Airline Corporation </strong> was a United States &quot ; supplemental&quot ; charter airline that operated from 1949 to 1971 . </p>
+
+#	NEW	headquarters	........ / launched	// <p> Manx2 was launched on 11 May 2006 with services starting on 15 July .
+
+#	NEW	headquarters	........ / Fame	// <p> On 30 May 2009 , Thomas Lamb was inducted posthumously into <a> Canada ' s Aviation Hall of Fame </a> .
+
+#	NEW	headquarters	........ / of	// The airline almost immediately ran into financial problems and discontinued operations of on 19 February 1986 . </p>
+
+#	NEW	headquarters	........ / Jordanian	// The airline is owned by <a> Royal Jordanian </a> . </p>
+
+#	NEW	headquarters	........ / Hato	// Its main base is at <a> Hato International Airport </a> , Cura&#x00e7 ; ao .
+
+#	NEW	headquarters	........ / September	// <p> The Colombian Air Cargo fleet consists of the following aircraft ( at September <a> 2006 </a> ) : </p>
+

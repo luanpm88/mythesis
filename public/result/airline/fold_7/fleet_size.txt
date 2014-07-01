@@ -1,0 +1,112 @@
+Found: 43
+Found Not Null: 14
+Correct: 10
+Wrong: 4
+Total: 15
+precision: 0.7142857142857143
+recall: 0.6666666666666666
+
+
+
+0	TRUE	Air Mandalay::fleet_size	1 / 18	
+<p> The airline was established on 6 October 1994 and started operations on 18 October 1994 with a flight from Yangon to <a> Mandalay </a> .
+
+#	NEW	fleet_size	........ / 1971 .	// <p> The airline was established and started operations in 1971 .
+
+#	NEW	fleet_size	........ / 2002 .	// <p> The airline was established in 2001 and started operations in January 2002 .
+
+3	TRUE	Astral Aviation::fleet_size	1 / 2001.	
+It was established in November 2000 and started operations in January 2001 .
+
+#	NEW	fleet_size	........ / 2000 .	// <p> The airline was incorporated in Antigua in January 2000 and started operations with the <a> Dash 8 </a> regional turboprop in June 2000 .
+
+5	TRUE	Air VIA::fleet_size	5 / 1990	
+<p> The airline was founded and started operations in 1990 as <strong> Varna International Airways </strong> using a brand new <a> Tupolev Tu-154M </a> aircraft .
+
+6	TRUE	Sosoliso Airlines::fleet_size	4 / 2000	
+<p> It was established in <a> 1994 </a> and started operations in July <a> 2000 </a> .
+
+#	NEW	fleet_size	........ / 30	// <p> The airline was established on 30 July 1998 and started operations in October 1998 .
+
+8	FALSE	XL Airways France::fleet_size	8 / 1995	
+<p> Formed as <strong> Star Airlines </strong> ( abrreviation for <strong> Soci&#x00e9 ; t&#x00e9 ; de Transport A&#x00e9 ; rien R&#x00e9 ; gional </strong> ) in 1995 by C&#x00e9 ; dric Pastrour , the airline was previously owned by <a> Transat A . T . </a> , before being sold to and taken over by <a> XL Leisure Group </a> .
+
+#	NEW	fleet_size	........ / 1989	// <p> The airline was established and started charter operations in 1989 as <em> Air Baffin </em> .
+
+#	NEW	fleet_size	........ / 24	// It operates scheduled domestic and international tourist services , mainly feeder services linking Manila and <a> Cebu </a> with 24 domestic destinations in support of the trunk route operations of other airlines .
+
+#	NEW	fleet_size	........ / a> .	// <p> <strong> WDL Aviation </strong> is an <a> charter airline </a> based at <a> Cologne Bonn Airport </a> , <a> Germany </a> . </p>
+
+12	FALSE	Expo Aviation::fleet_size	6 / 2004.	
+An <a> IL-18 </a> started operations in 2003 and ExpoAir launched Cabin Crew training in 2004 .
+
+#	NEW	fleet_size	........ / 1	// AaE started operations on 1 August 1992 .
+
+14	TRUE	New Axis Airways::fleet_size	3 / 73	
+It started operations in December 2006 and has 73 employees </p>
+
+#	NEW	fleet_size	........ / 328	// 328 ] ] ] ] Welcome Air operates the following services ( as of December 2010 ) : </p>
+
+#	NEW	fleet_size	........ / a> .	// <p> <strong> Rossair Europe </strong> is an <a> airline </a> based in the <a> Netherlands </a> . </p>
+
+#	NEW	fleet_size	........ / 18	// <p> Air Armenia was established in 2003 and started operations on 18 March 2003ref name=&quot ; FI&quot ; / with a scheduled service to <a> Frankfurt Hahn Airport </a> , which was used as a hub for cargo fro / to other points worldwide . </p>
+
+#	NEW	fleet_size	........ / 1	// <p> National Jet Systems ( NJS ) was established in 1989 and started operations on 1 July 1990 .
+
+19	TRUE	Nolinor Aviation::fleet_size	9 / 1997.	
+<p> The airline was established in 1992 and started operations in 1997 .
+
+#	NEW	fleet_size	........ / company	// <p> The company still exists , although it does not own an airline , but rather operates as an air ticket sales agent .
+
+#	NEW	fleet_size	........ / 2010	// <p> As of June 2010 , Sevenair operates scheduled passenger flights to the following destinations : </p>
+
+#	NEW	fleet_size	........ / 1991	// The airline was established in 1991 and is a franchise carrier of <a> Nationwide Airlines </a> of <a> South Africa </a> . </p>
+
+#	NEW	fleet_size	........ / 30	// <p> The Nigerian government set a deadline of April 30 , 2007 for all airlines operating in the country to re-capitalise or be grounded , in an effort to ensure better services and safety .
+
+#	NEW	fleet_size	........ / 1990	// In January 1990 operations and airline had to shut down .
+
+#	NEW	fleet_size	........ / 1996	// It was established and started operations in 1996 and operated passenger and freight services .
+
+#	NEW	fleet_size	........ / a>	// <p> Celestair Group represents an alliance of three airlines under the Aga Khan Fund for Economic Development , AKFED , and benefits from technical and operative support from other airlines owned by the <a> Aga Khan </a> , such as <a> Meridiana </a> and <a> Eurofly </a> of Italy .
+
+#	NEW	fleet_size	........ / 1984	// It was established in 1984 and operated charter services for South Africa ' s leading tour and conference operators , as well as sports unions .
+
+28	FALSE	SunExpress::fleet_size	25 / 1990	
+<p> The airline was established in October 1989 and started operations in April 1990 with a charter service between Antalya and <a> Frankfurt </a> , <a> Germany </a> .
+
+#	NEW	fleet_size	........ / 12	// <p> The airline was established on August 12 , 2003 and operations started on July 28 , 2004 .
+
+30	TRUE	Chang'an Airlines::fleet_size	4 / 1	
+<p> The airline was established on 24 December 1992 and started operations on 1 June 1993 .
+
+#	NEW	fleet_size	........ / SA226-	// <p> The airline was established as cargo charter company <strong> Jetcraft Aviation </strong> in 1989 , operating initially in <a> Queensland </a> with two <a> Mitsubishi MU-2Gs </a> and a <a> Fairchild SA226-TC Metro II </a> .
+
+32	TRUE	Air Corridor::fleet_size	2 / 737	
+<p> The airline was established in 2004 and began operations in August 2004 with a single <a> Boeing 737 </a> .
+
+#	NEW	fleet_size	........ / ,	// The international airline of Afghanistan is called <a> Ariana Afghan Airlines </a> and its domestic partner is called <a> Bakhtar Air </a> , even though they both are the same airline company . </p>
+
+#	NEW	fleet_size	........ / 16	// <p> CTK Citylink has been in existence for 16 years and is the oldest operating airline in Ghana .
+
+#	NEW	fleet_size	........ / a> .	// <p> <strong> Aero Benin </strong> is an <a> airline </a> based in <a> Benin </a> . </p>
+
+#	NEW	fleet_size	........ / a> .	// <p> <strong> Premium Air Shuttle </strong> was an <a> airline </a> based in <a> Nigeria </a> . </p>
+
+37	TRUE	Faso Airways::fleet_size	2 / <a>	
+It was established in 2000 and operates charter flights to <a> Africa </a> , <a> Europe </a> and the <a> Middle East </a> .
+
+38	TRUE	Yeti Airlines::fleet_size	7 / 1998	
+<p> Yeti Airlines was established in May 1998 and received its Air Operators Certificate on 17supt / sup August 1998 .
+
+39	FALSE	Jatayu Airlines::fleet_size	3 / 2000.	
+It operated domestic and international services from Jakarta and was established in 2000 .
+
+#	NEW	fleet_size	........ / 2000 .	// It was established in 2000 and started operations in November 2000 .
+
+#	NEW	fleet_size	........ / a> .	// <p> <strong> KAS Air Company </strong> was an <a> airline </a> based in <a> Kyrgyzstan </a> . </p>
+
+#	NEW	fleet_size	........ / 4	// <p> The airline was established in 1978 and started operations on 4 July that year .
+
+#	null	fleet_size	2 / ..........
+

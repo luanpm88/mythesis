@@ -1,0 +1,60 @@
+Found: 22
+Found Not Null: 6
+Correct: 5
+Wrong: 1
+Total: 6
+precision: 0.8333333333333334
+recall: 0.8333333333333334
+
+
+
+0	TRUE	Ava Gardner::occupation	actress / actress.	
+<p> <strong> Ava Lavinia Gardner </strong> ( December 24 , 1922 &ndash ; January 25 , 1990 ) was an American actress .
+
+#	NEW	occupation	........ / ,	// <p> <strong> Robert Anthony Rodr&#x00ed ; guez </strong> ( born June 20 , 1968 ) is an American <a> film director </a> , <a> screenwriter </a> , <a> producer </a> , <a> cinematographer </a> , <a> editor </a> and <a> musician </a> .
+
+2	TRUE	Robin Wright Penn::occupation	actress / actress.	
+<p> <strong> Robin Gayle Wright </strong> ( born April 8 , 1966 ) is an American actress .
+
+#	NEW	occupation	........ / director .	// <p> <strong> Steven Andrew Soderbergh </strong> ( ; born January 14 , 1963 ) is an American film producer , screenwriter , <a> cinematographer </a> , editor , actor , and an <a> Academy Award </a> -winning film director .
+
+#	NEW	occupation	........ / actor	// <p> <strong> Timothy James </strong> &quot ; <strong> Tim </strong> &quot ; <strong> Curry </strong> ( born 19 April 1946 ) is an <a> English </a> <a> actor </a> , <a> singer </a> , <a> composer </a> and <a> voice actor </a> , known for his work in a diverse range of theatre , film and television productions .
+
+#	NEW	occupation	........ / actress	// <p> <strong> Sophie Marceau </strong> ( ; born 17 November 1966 ) is a French actress , who has appeared in 35 films .
+
+6	FALSE	Calista Flockhart::occupation	actress / actor	
+<p> <strong> Calista Kay Flockhart </strong> ( born November 11 , 1964 ) is an American actor who is primarily recognized for her work in television .
+
+#	NEW	occupation	........ / director	// <p> <strong> Jerry Lewis </strong> ( born <strong> Joseph Levitch </strong> , March 16 , 1926 ) is an <a> American </a> <a> comedian </a> , <a> actor </a> , <a> film producer </a> , <a> writer </a> , <a> film director </a> and <a> singer </a> .
+
+#	NEW	occupation	........ / ,	// <p> <strong> Robert Jonathan Demme </strong> ( born February 22 , 1944 ) is an <a> American </a> <a> filmmaker </a> , <a> producer </a> and <a> screenwriter </a> .
+
+#	NEW	occupation	........ / director	// <p> <strong> John Michael Frankenheimer </strong> ( February 19 , 1930 &ndash ; July 6 , 2002 ) was an award-winning American film and television director known for social dramas .
+
+10	TRUE	Julia Roberts::occupation	actress / actress.	
+<p> <strong> Julia Fiona Roberts </strong> ( born October 28 , 1967 ) is an American actress .
+
+#	NEW	occupation	........ / director	// <p> <strong> Godfrey Reggio </strong> ( born March 29 , 1940 ) is an American <a> director </a> of experimental <a> documentary film </a> s . </p>
+
+#	NEW	occupation	........ / actress	// <p> <strong> Helen Elizabeth Hunt </strong> ( born June 15 , 1963 ) is an American actress , <a> film director </a> , and <a> screenwriter </a> .
+
+13	TRUE	Paul Muni::occupation	actor / actor.	
+<p> <strong> Paul Muni </strong> ( September 22 , 1895 &#x2013 ; August 25 , 1967 ) was an <a> Austrian-Hungarian </a> -born American stage and film actor .
+
+#	NEW	occupation	........ / actor	// <p> <strong> Roberto Remigio Benigni </strong> , <a> Knight Grand Cross OMRI </a> ( born 27 October 1952 ) is an Italian actor , comedian , screenwriter and <a> director </a> of film , theatre and television . </p>
+
+#	NEW	occupation	........ / actress	// <p> <strong> Laura Jeanne Reese Witherspoon </strong> ( born March 22 , 1976 ) , better known as <strong> Reese Witherspoon </strong> , is an American actress and film producer .
+
+#	NEW	occupation	........ / actor	// <p> <strong> Tony Robinson </strong> ( born 15 August 1946 ) is an <a> English </a> <a> actor </a> , <a> comedian </a> , <a> author </a> , <a> broadcaster </a> and <a> political campaigner </a> .
+
+#	NEW	occupation	........ / actor	// <p> <strong> Lionel Barrymore </strong> ( April 28 , 1878 &ndash ; November 15 , 1954 ) was an American actor of stage , screen and radio .
+
+18	TRUE	Boris Karloff::occupation	actor / actor	
+<p> <strong> Boris Karloff </strong> ( 23 November 1887 &#x2013 ; 2 February 1969 ) , whose real name was <strong> William Henry Pratt </strong> , was an <a> English </a> -born actor who emigrated to <a> Canada </a> in 1909 .
+
+#	NEW	occupation	........ / stage	// <p> McKern ' s final acting appearances came in the film <strong> <em> ' ( 1999 ) and on stage in 2000 . </em> </strong> </p>
+
+#	NEW	occupation	........ / ,	// <p> <strong> William Christopher </strong> ( born October 20 , 1932 ) is an <a> American </a> <a> actor </a> who is best known for playing <a> Father Mulcahy </a> on the <a> television </a> <a> series </a> <em> <a> M*A*S*H </a> </em> and Private Lester Hummel on <em> <a> Gomer Pyle , U . S . M . C . </a> </em> </p>
+
+#	NEW	occupation	........ / actress	// <p> <a> Dame </a> <strong> Thora Hird </strong> <a> DBE </a> ( 28 May 1911 <img> 15 March 2003 ) was an <a> English </a> <a> actress </a> . </p>
+

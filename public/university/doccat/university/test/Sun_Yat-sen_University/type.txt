@@ -1,8 +1,0 @@
-Three of the four campuses are located in <a>Guangzhou</a>, the fourth is in <a>Zhuhai</a>.
-<li>School of Political Science and Public Administration
-<li>Department of Public Administration</li>
-<li>Department of Public Communication</li>
-<li>School of Education
-<li>School of Public Health
-<li>School of Continuing Education</li>
-<li>School of Online Education</li>

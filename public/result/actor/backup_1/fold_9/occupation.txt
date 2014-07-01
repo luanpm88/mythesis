@@ -1,0 +1,76 @@
+Found: 28
+Found Not Null: 10
+Correct: 9
+Wrong: 1
+Total: 10
+precision: 0.9
+recall: 0.9
+
+
+
+#	NEW	occupation	........ / film director	// <p> <strong> Lars von Trier </strong> ( ; born <strong> Lars Trier </strong> ; 30 April 1956 ) is a <a> Danish </a> <a> film director </a> and <a> screenwriter </a> .
+
+#	NEW	occupation	........ / actor	// <p> <strong> Karl Gustav Ahlefeldt </strong> ( March 13 , 1910 &#x2013 ; March 25 , 1985 ) was a <a> Danish </a> <a> film </a> <a> actor </a> .
+
+#	NEW	occupation	........ / actor	// <p> <strong> Lee Van Cleef </strong> ( January 9 , 1925 &ndash ; December 16 , 1989 ) was an American film actor who appeared mostly in <a> Western </a> and action pictures .
+
+#	NEW	occupation	........ / actress	// <p> <strong> Helene Bertha Amalie &quot ; Leni&quot ; Riefenstahl </strong> ( ; 22 August 1902 - 8 September 2003 ) was a <a> German </a> <a> film director </a> , <a> actress </a> and dancer widely noted for her <a> aesthetics </a> and innovations as a filmmaker .
+
+4	TRUE	Laura Bertram::occupation	actress / actress.	
+<p> <strong> Laura Maureen Bertram </strong> ( born 5 September 1978 ) is a Canadian actress . </p>
+
+#	NEW	occupation	........ / actress	// <p> <strong> Liv Johanne Ullmann </strong> ( born 16 December 1938 ) is a <a> Norwegian </a> actress and film director , as well as one of the muses of the <a> Swedish </a> director <a> Ingmar Bergman </a> .
+
+#	NEW	occupation	........ / actor .	// <p> <strong> Johnny Weissmuller </strong> ( born <strong> Johann Peter Wei&#x00df ; m&#x00fc ; ller </strong> ; June 2 , 1904 &ndash ; January 20 , 1984 ) was an <a> Austro-Hungarian </a> -born American <a> swimmer </a> and actor .
+
+#	NEW	occupation	........ / actor	// <p> <strong> Jerry Lewis </strong> ( born <strong> Joseph Levitch </strong> , March 16 , 1926 ) is an <a> American </a> <a> comedian </a> , <a> actor </a> , <a> film producer </a> , <a> writer </a> , <a> film director </a> and <a> singer </a> .
+
+#	NEW	occupation	........ / five	// <p> <strong> James R . &quot ; Jim&quot ; Jarmusch </strong> ( ; involved five cab drivers and their passengers on rides in five different world cities , beginning at sundown in Los Angeles and ending at sunrise in Helsinki .
+
+#	NEW	occupation	........ / producer	// <p> <strong> Robert Jonathan Demme </strong> ( born February 22 , 1944 ) is an <a> American </a> <a> filmmaker </a> , <a> producer </a> and <a> screenwriter </a> .
+
+10	TRUE	Kirsten Dunst::occupation	actress / actress	
+<p> <strong> Kirsten Caroline Dunst </strong> ( born April 30 , 1982 ) is an American actress , model , and singer .
+
+11	TRUE	Leslie Caron::occupation	actress / actress	
+<p> <strong> Leslie Claire Margaret Caron </strong> ( ; born 1 July 1931 ) is a French film actress and dancer , who appeared in 45 films between 1951 and 2003 .
+
+#	NEW	occupation	........ / actor	// <p> <strong> Kiyoshi Atsumi </strong> ( &#x6e25 ; &#x7f8e ; &#x6e05 ; <em> Atsumi Kiyoshi </em> ) , born <strong> Yasuo Tadokoro </strong> ( &#x7530 ; &#x6240 ; &#x5eb7 ; &#x96c4 ; <em> Tadokoro Yasuo </em> , 10 March 1928 in <a> Tokyo </a> &#x2014 ; 4 August 1996 in <a> Tokyo </a> ) , was a <a> Japan </a> ese <a> film </a> <a> actor </a> .
+
+#	NEW	occupation	........ / television director	// <p> <strong> John Michael Frankenheimer </strong> ( February 19 , 1930 &ndash ; July 6 , 2002 ) was an award-winning American film and television director known for social dramas .
+
+#	NEW	occupation	........ / actor	// <p> <strong> John Adam Belushi </strong> ( ; January 24 , 1949 &#x2013 ; March 5 , 1982 ) was an American <a> comedian </a> , actor , and <a> musician </a> best known as one of the original cast members of the <a> NBC </a> sketch comedy show <em> <a> Saturday Night Live </a> </em> and for his roles in the films <em> <a> National Lampoon ' s Animal House </a> </em> and <em> <a> The Blues Brothers </a> </em> .
+
+15	TRUE	Jon Voight::occupation	actor / actor.	
+<p> <strong> Jonathan Vincent &quot ; Jon&quot ; Voight </strong> ( born December 29 , 1938 ) is an American film and television actor .
+
+16	TRUE	Julia Roberts::occupation	actress / actress.	
+<p> <strong> Julia Fiona Roberts </strong> ( born October 28 , 1967 ) is an American actress .
+
+#	NEW	occupation	........ / actor	// <p> <strong> Richard Kim Milford </strong> ( February 7 , 1951 &ndash ; June 16 , 1988 ) was an <a> American </a> <a> actor </a> , <a> singer-songwriter </a> , and <a> composer </a> .
+
+18	FALSE	Katina Paxinou::occupation	actress / career	
+<p> Born <strong> Aikaterini </strong> ( Catherine ) <strong> Konstantopoulou </strong> in <a> Piraeus </a> , Greece , she trained as an <a> opera </a> singer , but changed career and joined the <a> Greek Royal Theater </a> in 1929 .
+
+19	TRUE	Kimberly Beck::occupation	actress / actress	
+<p> <strong> Kimberly Beck </strong> ( born January 9 , 1956 ; <a> Glendale , California </a> ) is an American actress with over sixty television and film roles to her credit . </p>
+
+20	TRUE	James Spader::occupation	actor / actor	
+<p> <strong> James Todd Spader </strong> ( born February 7 , 1960 ) is an American actor best known for his <a> eccentric </a> roles in <a> movies </a> such as <em> <a> Pretty in Pink </a> </em> ; <em> <a> sex , lies , and videotape </a> </em> ; <em> <a> Crash </a> </em> ; <em> <a> Stargate </a> </em> ; and <em> <a> Secretary </a> </em> . His most famous television role is that of the colorful attorney <a> Alan Shore </a> from <em> <a> The Practice </a> </em> and its spin-off <em> <a> Boston Legal </a> </em> , for which he won three <a> Emmy Awards </a> . </p>
+
+#	NEW	occupation	........ / actor	// <p> <strong> John Fink </strong> ( born February 11 , 1940 ) is an <a> American </a> film and television <a> actor </a> . </p>
+
+#	NEW	occupation	........ / actress .	// <p> <strong> Jeannine Taylor </strong> ( born June 2 , 1954 ) is an American actress .
+
+23	TRUE	Keanu Reeves::occupation	actor / actor.	
+<p> <strong> Keanu Charles Reeves </strong> ( [ <em> kay-AH-noo </em> , often pronounced <em> kee-AH-noo </em> ] ; born September 2 , 1964 ) is a <a> Canadian </a> actor .
+
+24	TRUE	Kyle MacLachlan::occupation	actor / actor	
+<p> <strong> Kyle Merritt MacLachlan </strong> ( born February 22 , 1959 ) is an <a> American </a> <a> actor </a> .
+
+#	NEW	occupation	........ / actor	// <p> <strong> Kevin Spacey </strong> , <a> CBE </a> ( born July 26 , 1959 ) is an American actor , director , <a> screenwriter </a> , producer , and <a> crooner </a> .
+
+#	NEW	occupation	........ / television director	// <p> <strong> Kenneth &quot ; Ken&quot ; Loach </strong> ( born 17 June 1936 ) is an <a> English </a> <a> film </a> and <a> television director </a> . </p>
+
+#	NEW	occupation	........ / actor	// <p> <strong> Kenji Sahara </strong> ( &#x4f50 ; &#x539f ; &#x5065 ; &#x4e8c ; <em> Sahara Kenji </em> , born <em> Tadashi Ishihara </em> ) ( born May 14 , 1932 ) is a <a> Japan </a> ese <a> actor </a> .
+

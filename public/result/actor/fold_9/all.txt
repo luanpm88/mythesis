@@ -1,0 +1,470 @@
+Total articles: 312
+Articles for test: 281
+Articles for train: 31
+Total attributes: 64
+Attributes with high occurrences: 13/64
+
+------------
+Found: 204
+Found Not Null: 43
+Correct: 29
+Wrong: 14
+Total: 46
+precision: 0.6744186046511628
+recall: 0.6304347826086957
+
+
+
+0	FALSE	Bob Monkhouse::birth_name	robert alan monkhouse / fellow comedians and comedy insiders to find	
+In a 2005 poll of fellow comedians and comedy insiders to find <em> <a> The Comedians ' Comedian </a> </em> , Monkhouse was voted among the best 50 comedy acts ever . </p>
+
+#	NEW	birthname	........ / Robert Alan Monkhouse	// <p> <strong> Robert Alan Monkhouse </strong> , <a> OBE </a> ( 1 June 1928 &#x2013 ; 29 December 2003 ) </p>
+
+#	NEW	name	........ / December 2003 )	// <p> <strong> Robert Alan Monkhouse </strong> , <a> OBE </a> ( 1 June 1928 &#x2013 ; 29 December 2003 ) </p>
+
+#	NEW	birth_name	........ / June 1944 ) is an	// <p> <strong> Robert Powell </strong> ( born 1 June 1944 ) is an <a> English </a> television and film <a> actor </a> , probably most famous for his title role in <em> <a> Jesus of Nazareth </a> </em> ( 1977 ) and as the fictional <a> secret agent </a> <a> Richard Hannay </a> .
+
+#	NEW	birth_date	........ / 1982	// In 1982 , he won Best Actor at the <a> Venice Film Festival </a> for his role in <em> Imperativ </em> . </p>
+
+5	TRUE	Robert Powell::occupation	actor / Actor	
+For this role , Powell was nominated for a <a> BAFTA </a> award , and collected the <em> <a> TVTimes </a> </em> Best Actor award for the same performance . </p>
+
+#	NEW	birthplace	........ / advertisements and documentaries .	// His distinctive voice has become well known in advertisements and documentaries . </p>
+
+#	NEW	birthname	........ / distinctive voice has become well known	// His distinctive voice has become well known in advertisements and documentaries . </p>
+
+8	TRUE	Robert Powell::name	robert powell / Richard Hannay	
+<p> <strong> Robert Powell </strong> ( born 1 June 1944 ) is an <a> English </a> television and film <a> actor </a> , probably most famous for his title role in <em> <a> Jesus of Nazareth </a> </em> ( 1977 ) and as the fictional <a> secret agent </a> <a> Richard Hannay </a> .
+
+9	TRUE	Romy Schneider::name	romy schneider / film actress	
+<p> <strong> Romy Schneider </strong> ( 23 September 1938 <img> 29 May 1982 ) was a German film actress who was born in Austria and also held French citizenship . </p>
+
+#	NEW	birth_name	........ / Romy Schneider	// <p> <strong> Romy Schneider </strong> ( 23 September 1938 <img> 29 May 1982 ) was a German film actress who was born in Austria and also held French citizenship . </p>
+
+#	NEW	death_date	........ / 1982 )	// <p> <strong> Romy Schneider </strong> ( 23 September 1938 <img> 29 May 1982 ) was a German film actress who was born in Austria and also held French citizenship . </p>
+
+#	NEW	birthplace	........ / held French citizenship .	// <p> <strong> Romy Schneider </strong> ( 23 September 1938 <img> 29 May 1982 ) was a German film actress who was born in Austria and also held French citizenship . </p>
+
+#	NEW	caption	........ / Romy	// <p> <strong> Romy Schneider </strong> ( 23 September 1938 <img> 29 May 1982 ) was a German film actress who was born in Austria and also held French citizenship . </p>
+
+#	NEW	birthname	........ / is now an actress .	// Their daughter <a> Sarah Biasini </a> ( born 21 July 1977 ) is now an actress . </p>
+
+#	NEW	name	........ / and businessman .	// <p> <strong> Kevin Michael Costner </strong> ( born January 18 , 1955 ) is an American actor , singer , musician , producer , director , and businessman .
+
+#	NEW	caption	........ / He cast	// He cast Garrido to play the role of the Yankee manager in <em> For Love of the Game </em> .
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Kevin Michael Costner </strong> ( born January 18 , 1955 ) is an American actor , singer , musician , producer , director , and businessman .
+
+#	NEW	death_date	........ / January 18 , 1955 )	// <p> <strong> Kevin Michael Costner </strong> ( born January 18 , 1955 ) is an American actor , singer , musician , producer , director , and businessman .
+
+#	NEW	birthplace	........ / director , and	// <p> <strong> Kevin Michael Costner </strong> ( born January 18 , 1955 ) is an American actor , singer , musician , producer , director , and businessman .
+
+#	NEW	birthname	........ / is an American actor	// <p> <strong> Kevin Michael Costner </strong> ( born January 18 , 1955 ) is an American actor , singer , musician , producer , director , and businessman .
+
+21	TRUE	Kevin Costner::birth_name	kevin michael costner / Kevin Michael Costner	
+<p> <strong> Kevin Michael Costner </strong> ( born January 18 , 1955 ) is an American actor , singer , musician , producer , director , and businessman .
+
+#	NEW	occupation	........ / Director	// The film was nominated for 12 <a> Academy Awards </a> and won seven , including two for him personally ( <a> Best Picture </a> and <a> Best Director </a> ) .
+
+#	NEW	birthdate	........ / 18 , 1955 ) is an American actor , singer , musician , producer , director , and	// <p> <strong> Kevin Michael Costner </strong> ( born January 18 , 1955 ) is an American actor , singer , musician , producer , director , and businessman .
+
+#	NEW	name	........ / child actor	// <p> <strong> Alexander David Linz </strong> ( born January 3 , 1989 ) is an <a> American </a> actor who starred in several late 1990s and early 2000s films and television programs as a <a> child actor </a> .
+
+25	TRUE	Alex D. Linz::birth_name	alexander david linz / Alexander David Linz	
+<p> <strong> Alexander David Linz </strong> ( born January 3 , 1989 ) is an <a> American </a> actor who starred in several late 1990s and early 2000s films and television programs as a <a> child actor </a> .
+
+#	NEW	birth_date	........ / ( 1997 )	// His notable film roles include <em> <a> Home Alone 3 </a> </em> ( 1997 ) and <em> <a> Max Keeble ' s Big Move </a> </em> ( 2001 ) . </p>
+
+#	NEW	death_date	........ / films	// <p> <strong> Alexander David Linz </strong> ( born January 3 , 1989 ) is an <a> American </a> actor who starred in several late 1990s and early 2000s films and television programs as a <a> child actor </a> .
+
+#	NEW	birthplace	........ / lives with his	// His parents are now divorced , and he lives with his mother .
+
+#	NEW	birthname	........ / actor who starred	// <p> <strong> Alexander David Linz </strong> ( born January 3 , 1989 ) is an <a> American </a> actor who starred in several late 1990s and early 2000s films and television programs as a <a> child actor </a> .
+
+30	TRUE	Arthur Kennedy (actor)::name	arthur kennedy / was an	
+<p> <strong> Arthur Kennedy </strong> ( February 17 , 1914 &ndash ; January 5 , 1990 ) was an <a> American </a> stage and film actor best known for his performances in <a> Westerns </a> . </p>
+
+#	NEW	birth_date	........ / in 1940 .	// His first film role was of Cagney ' s younger brother in <em> <a> City for Conquest </a> </em> in 1940 .
+
+32	FALSE	Arthur Kennedy (actor)::birth_name	john arthur kennedy / Arthur Kennedy	
+<p> <strong> Arthur Kennedy </strong> ( February 17 , 1914 &ndash ; January 5 , 1990 ) was an <a> American </a> stage and film actor best known for his performances in <a> Westerns </a> . </p>
+
+33	TRUE	Arthur Kennedy (actor)::occupation	actor / Actor	
+<p> Kennedy and <a> Claude Rains </a> share the record of four losing nominations for the <a> Academy Award for Best Supporting Actor </a> .
+
+#	NEW	death_date	........ / January 5 , 1990 )	// <p> <strong> Arthur Kennedy </strong> ( February 17 , 1914 &ndash ; January 5 , 1990 ) was an <a> American </a> stage and film actor best known for his performances in <a> Westerns </a> . </p>
+
+#	NEW	birthplace	........ / and became an	// Laurie followed in the footsteps of her parents and became an actress .
+
+#	NEW	birthname	........ / film actor best known for his performances	// <p> <strong> Arthur Kennedy </strong> ( February 17 , 1914 &ndash ; January 5 , 1990 ) was an <a> American </a> stage and film actor best known for his performances in <a> Westerns </a> . </p>
+
+#	NEW	caption	........ / 1990 )	// <p> <strong> Arthur Kennedy </strong> ( February 17 , 1914 &ndash ; January 5 , 1990 ) was an <a> American </a> stage and film actor best known for his performances in <a> Westerns </a> . </p>
+
+38	TRUE	Chris Barrie::name	chris barrie / Chris Barrie	
+<p> <strong> Chris Barrie </strong> ( born 28 March 1960 ) is a <a> British </a> <a> actor </a> .
+
+#	NEW	caption	........ / Chris	// <p> <strong> Chris Barrie </strong> ( born 28 March 1960 ) is a <a> British </a> <a> actor </a> .
+
+#	NEW	death_date	........ / actor	// <p> <strong> Chris Barrie </strong> ( born 28 March 1960 ) is a <a> British </a> <a> actor </a> .
+
+#	NEW	birthdate	........ / 1960 )	// <p> <strong> Chris Barrie </strong> ( born 28 March 1960 ) is a <a> British </a> <a> actor </a> .
+
+#	NEW	birthname	........ / March 1960 ) is a	// <p> <strong> Chris Barrie </strong> ( born 28 March 1960 ) is a <a> British </a> <a> actor </a> .
+
+#	NEW	birth_name	........ / Barrie is also well known for his role	// <p> Barrie is also well known for his role as Gordon Brittas , the title role in <em> The Brittas Empire </em> , a BBC sitcom running from 15 February 1988 to 5 April 1999 for seven series , with 52 episodes , including two Christmas specials .
+
+#	NEW	birth_date	........ / When	// <p> When a pilot for an American version of the show was produced , Barrie was invited to reprise his role as Rimmer .
+
+#	NEW	name	........ / Harry Potter	// <strong> Emma Charlotte Duerre Watson </strong> ( born 15 April 1990 ) is an <a> English </a> <a> actress </a> and <a> model </a> who rose to prominence playing <a> Hermione Granger </a> , one of three starring roles in the <a> <em> Harry Potter </em> film series </a> .
+
+#	NEW	caption	........ / Emma	// <strong> Emma Charlotte Duerre Watson </strong> ( born 15 April 1990 ) is an <a> English </a> <a> actress </a> and <a> model </a> who rose to prominence playing <a> Hermione Granger </a> , one of three starring roles in the <a> <em> Harry Potter </em> film series </a> .
+
+#	NEW	birth_name	........ / Emma Charlotte Duerre Watson	// <strong> Emma Charlotte Duerre Watson </strong> ( born 15 April 1990 ) is an <a> English </a> <a> actress </a> and <a> model </a> who rose to prominence playing <a> Hermione Granger </a> , one of three starring roles in the <a> <em> Harry Potter </em> film series </a> .
+
+#	NEW	death_date	........ / describing	// Watson enjoys a close friendship with her fellow <em> Harry Potter </em> stars <a> Daniel Radcliffe </a> and <a> Rupert Grint </a> , describing them as a &quot ; unique support system&quot ; for the stresses of film work , and saying that , after working with them for the ten years of the film series , &quot ; they really are like my siblings&quot ; . </p>
+
+#	NEW	birthname	........ / Emma Watson	// <p> Emma Watson was born in Paris to Jacqueline Luesby and Chris Watson , both British lawyers .
+
+#	NEW	birthdate	........ / 2007 , She explained that the decision was significant , as the films represented a further four-year commitment to the role , but eventually conceded that she &quot ; could never let [ the role of ] Hermione go&quot ; , signing for the role on	// Radcliffe eventually signed for the final films on 2 March 2007 , She explained that the decision was significant , as the films represented a further four-year commitment to the role , but eventually conceded that she &quot ; could never let [ the role of ] Hermione go&quot ; , signing for the role on 23 March 2007 .
+
+#	NEW	name	........ / Catherine &# x00c9 ;	// <p> <strong> Catherine &#x00c9 ; lise &quot ; Cate&quot ; Blanchett </strong> ( born 14 May 1969 ) is an Australian actress and theatre director .
+
+#	NEW	caption	........ / Volpi	// <p> In 2007 , she won the <a> Volpi Cup </a> Best Actress Award at the Venice Film Festival and the Best Supporting Actress Golden Globe Award for portraying one of six incarnations of <a> Bob Dylan </a> in Todd Haynes ' feature film <em> <a> I ' m Not There </a> </em> and reprised her role as Elizabeth I in the sequel , <strong> <em> ' .
+
+#	NEW	birth_name	........ / Catherine &# x00c9 ; lise &quot ; Cate&quot ; Blanchett	// <p> <strong> Catherine &#x00c9 ; lise &quot ; Cate&quot ; Blanchett </strong> ( born 14 May 1969 ) is an Australian actress and theatre director .
+
+#	NEW	death_date	........ / is	// <p> <strong> Catherine &#x00c9 ; lise &quot ; Cate&quot ; Blanchett </strong> ( born 14 May 1969 ) is an Australian actress and theatre director .
+
+#	NEW	birthname	........ / lise & quot ; Cate&quot ; Blanchett	// <p> <strong> Catherine &#x00c9 ; lise &quot ; Cate&quot ; Blanchett </strong> ( born 14 May 1969 ) is an Australian actress and theatre director .
+
+#	NEW	occupation	........ / actor	// At the <a> 80th Academy Awards </a> Blanchett received two Academy Award nominations ; Best Actress for <em> Elizabeth : the Golden Age </em> and Best Supporting Actress for <em> I ' m Not There </em> , becoming the eleventh actor to receive two acting nominations in the same year and the first female actor to receive another nomination for the reprisal of a role . </p>
+
+#	NEW	birthplace	........ / actress and theatre	// <p> <strong> Catherine &#x00c9 ; lise &quot ; Cate&quot ; Blanchett </strong> ( born 14 May 1969 ) is an Australian actress and theatre director .
+
+#	NEW	name	........ / February 2005 )	// <p> <strong> Daniel O ' Herlihy </strong> ( 1 May 1919 <img> 17 February 2005 ) was an <a> Oscar </a> nominated , <a> Irish </a> <a> film </a> <a> actor </a> . </p>
+
+#	NEW	caption	........ / He	// <p> He also had a fairly extensive career in television , appearing in such shows as <a> CBS </a> ' s <a> anthology series </a> , <em> <a> The DuPont Show with June Allyson </a> </em> , and <a> ABC </a> ' s <a> crime drama </a> , <strong> <em> ' . </em> </strong> </p>
+
+#	NEW	birth_name	........ / Daniel O ' Herlihy	// <p> <strong> Daniel O ' Herlihy </strong> ( 1 May 1919 <img> 17 February 2005 ) was an <a> Oscar </a> nominated , <a> Irish </a> <a> film </a> <a> actor </a> . </p>
+
+#	NEW	birth_date	........ / O '	// <p> O ' Herlihy was born in <a> Wexford </a> , <a> Ireland </a> in 1919 .
+
+#	NEW	occupation	........ / Actor	// poster for <em> [ [ Robinson Crusoe ( 1954 film ) | Robinson Crusoe ] ] <em> , which earned him a nomination for the <a> Academy Award for Best Actor </a> ] ] </em> </p>
+
+#	NEW	birthplace	........ / Joseph P . Kennedy	// In 1998 , O ' Herlihy acted in his last film , </em> <a> The Rat Pack </a> <em> , playing <a> Joseph P . Kennedy </a> . </em> </strong> </p>
+
+#	NEW	birthname	........ / on British television	// In 1974 , on British television , he played the Senior American Officer , Col Max Dodd in the second series of BBC ' s POW drama <em> <a> Colditz </a> </em> .
+
+#	NEW	name	........ / film actor	// <p> <strong> Marcello Vincenzo Domenico Mastroianni </strong> <a> Knight Grand Cross </a> ( 28 September 1924&nbsp ; &#x2013 ; 19 December 1996 ) was an <a> Italian </a> <a> film actor </a> .
+
+66	TRUE	Marcello Mastroianni::birth_name	marcello vincenzo domenico mastroianni / Marcello Vincenzo Domenico Mastroianni	
+<p> <strong> Marcello Vincenzo Domenico Mastroianni </strong> <a> Knight Grand Cross </a> ( 28 September 1924&nbsp ; &#x2013 ; 19 December 1996 ) was an <a> Italian </a> <a> film actor </a> .
+
+67	TRUE	Marcello Mastroianni::occupation	actor / Actor	
+His honours have included <a> British Film Academy </a> Awards , Best Actor awards at the <a> Cannes Film Festival </a> and two <a> Golden Globe Awards </a> .
+
+#	NEW	death_date	........ / film	// <p> <strong> Marcello Vincenzo Domenico Mastroianni </strong> <a> Knight Grand Cross </a> ( 28 September 1924&nbsp ; &#x2013 ; 19 December 1996 ) was an <a> Italian </a> <a> film actor </a> .
+
+#	NEW	birthplace	........ / until his death .	// Mastroianni was married to Italian actress <a> Flora Carabella </a> ( 1926&#x2013 ; 1999 ) from 1948 until his death .
+
+#	NEW	birthname	........ / film actor	// <p> <strong> Marcello Vincenzo Domenico Mastroianni </strong> <a> Knight Grand Cross </a> ( 28 September 1924&nbsp ; &#x2013 ; 19 December 1996 ) was an <a> Italian </a> <a> film actor </a> .
+
+#	NEW	name	........ / Patrick Ryan	// <p> <strong> Ryan O ' Neal </strong> ( born <strong> Charles Patrick Ryan O ' Neal , Jr . </strong> ; April 20 , 1941 ) is an American actor . </p>
+
+#	NEW	caption	........ / Ryan	// <p> <strong> Ryan O ' Neal </strong> ( born <strong> Charles Patrick Ryan O ' Neal , Jr . </strong> ; April 20 , 1941 ) is an American actor . </p>
+
+#	NEW	birth_name	........ / Ryan O ' Neal	// <p> <strong> Ryan O ' Neal </strong> ( born <strong> Charles Patrick Ryan O ' Neal , Jr . </strong> ; April 20 , 1941 ) is an American actor . </p>
+
+#	NEW	birth_date	........ / His	// <p> His film career faded by the end of the 1970s .
+
+75	TRUE	Ryan O'Neal::occupation	actor / Actor	
+<p> O ' Neal ' s film career took off beginning with his role in <em> <a> Love Story </a> </em> ( 1970 ) , earning a nomination for an <a> Academy Award for Best Actor </a> .
+
+#	NEW	death_date	........ / April 20 , 1941 )	// <p> <strong> Ryan O ' Neal </strong> ( born <strong> Charles Patrick Ryan O ' Neal , Jr . </strong> ; April 20 , 1941 ) is an American actor . </p>
+
+#	NEW	birthdate	........ / <strong> Charles Patrick Ryan O ' Neal , Jr .	// <p> <strong> Ryan O ' Neal </strong> ( born <strong> Charles Patrick Ryan O ' Neal , Jr . </strong> ; April 20 , 1941 ) is an American actor . </p>
+
+#	NEW	birthplace	........ / an American actor .	// <p> <strong> Ryan O ' Neal </strong> ( born <strong> Charles Patrick Ryan O ' Neal , Jr . </strong> ; April 20 , 1941 ) is an American actor . </p>
+
+#	NEW	birthname	........ / Charles Patrick Ryan O ' Neal	// <p> <strong> Ryan O ' Neal </strong> ( born <strong> Charles Patrick Ryan O ' Neal , Jr . </strong> ; April 20 , 1941 ) is an American actor . </p>
+
+80	TRUE	Joan Greenwood::name	joan greenwood / February 1987 )	
+<p> <strong> Joan Greenwood </strong> ( 4 March 1921 &#x2013 ; 27 February 1987 ) was an <a> English </a> actress .
+
+81	TRUE	Joan Greenwood::caption	joan greenwood / Joan	
+<p> <strong> Joan Greenwood </strong> ( 4 March 1921 &#x2013 ; 27 February 1987 ) was an <a> English </a> actress .
+
+#	NEW	birth_name	........ / Joan Greenwood	// <p> <strong> Joan Greenwood </strong> ( 4 March 1921 &#x2013 ; 27 February 1987 ) was an <a> English </a> actress .
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Joan Greenwood </strong> ( 4 March 1921 &#x2013 ; 27 February 1987 ) was an <a> English </a> actress .
+
+#	NEW	birthdate	........ / 1921 &# x2013 ; 27	// <p> <strong> Joan Greenwood </strong> ( 4 March 1921 &#x2013 ; 27 February 1987 ) was an <a> English </a> actress .
+
+#	NEW	birthname	........ / actress .	// <p> <strong> Joan Greenwood </strong> ( 4 March 1921 &#x2013 ; 27 February 1987 ) was an <a> English </a> actress .
+
+#	NEW	death_date	........ / 1987 )	// <p> <strong> Joan Greenwood </strong> ( 4 March 1921 &#x2013 ; 27 February 1987 ) was an <a> English </a> actress .
+
+#	NEW	caption	........ / he	// <p> Born in <a> London </a> , he made his first film appearance in 1945 but did not achieve lasting fame until the 1970s , when he took the starring role of Compo Simmonite in the long-running British <a> sitcom </a> , <em> <a> Last of the Summer Wine </a> </em> .
+
+88	TRUE	Bill Owen (actor)::birth_name	william john owen rowbotham / William John Owen Rowbotham	
+<p> <strong> William John Owen Rowbotham </strong> <a> MBE </a> ( 14 March 1914 &#x2013 ; 12 July 1999 ) , better known as <strong> Bill Owen </strong> , was an English <a> actor </a> and <a> songwriter </a> . </p>
+
+#	NEW	birth_date	........ / Bill	// <p> Bill Owen was a regular in the early <em> <a> Carry On </a> </em> films .
+
+#	NEW	birthdate	........ / 1914 &# x2013 ; 12	// <p> <strong> William John Owen Rowbotham </strong> <a> MBE </a> ( 14 March 1914 &#x2013 ; 12 July 1999 ) , better known as <strong> Bill Owen </strong> , was an English <a> actor </a> and <a> songwriter </a> . </p>
+
+#	NEW	birthplace	........ / to the British	// <p> : <em> This article refers to the British actor .
+
+#	NEW	birthname	........ / Bill Owen	// <p> <strong> William John Owen Rowbotham </strong> <a> MBE </a> ( 14 March 1914 &#x2013 ; 12 July 1999 ) , better known as <strong> Bill Owen </strong> , was an English <a> actor </a> and <a> songwriter </a> . </p>
+
+93	TRUE	Bill Owen (actor)::name	bill owen / Bill Owen	
+<p> <strong> William John Owen Rowbotham </strong> <a> MBE </a> ( 14 March 1914 &#x2013 ; 12 July 1999 ) , better known as <strong> Bill Owen </strong> , was an English <a> actor </a> and <a> songwriter </a> . </p>
+
+94	TRUE	Gale Storm::name	gale storm / Gale Storm	
+She won and was immediately given the stage name <strong> Gale Storm </strong> .
+
+95	FALSE	Gale Storm::birth_name	josephine owaissa cottle / performing partner ( and future husband ), Lee Bonnell from	
+Her performing partner ( and future husband ) , Lee Bonnell from <a> South Bend </a> , <a> Indiana </a> , became known as <strong> Terry Belmont </strong> . </p>
+
+#	NEW	death_date	........ / 27 , 2009 )	// <p> <strong> Josephine Owaissa Cottle </strong> ( April 5 , 1922 - June 27 , 2009 ) , First prize was a one-year contract with a movie studio .
+
+#	NEW	birthdate	........ / ( April 5 , 1922 - June 27 , 2009 ) , First prize was a one-year contract with a movie	// <p> <strong> Josephine Owaissa Cottle </strong> ( April 5 , 1922 - June 27 , 2009 ) , First prize was a one-year contract with a movie studio .
+
+#	NEW	birthplace	........ / the stage name	// She won and was immediately given the stage name <strong> Gale Storm </strong> .
+
+#	NEW	birthname	........ / I Love Lucy	// The show , which co-starred former <a> silent film </a> actor <a> Charles Farrell </a> as her father , was originally a summer replacement for <em> <a> I Love Lucy </a> </em> on CBS , </p>
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Josephine Owaissa Cottle </strong> ( April 5 , 1922 - June 27 , 2009 ) , First prize was a one-year contract with a movie studio .
+
+#	NEW	occupation	........ / ,	// The show , which co-starred former <a> silent film </a> actor <a> Charles Farrell </a> as her father , was originally a summer replacement for <em> <a> I Love Lucy </a> </em> on CBS , </p>
+
+102	FALSE	Michael Powell (director)::name	michael powell / Emeric Pressburger	
+<p> <strong> Michael Latham Powell </strong> ( 30 September 1905 &ndash ; 19 February 1990 ) was an <a> English </a> <a> film director </a> , renowned for his partnership with <a> Emeric Pressburger </a> .
+
+#	NEW	birth_date	........ / After	// <p> After scriptwriting on two productions , Powell entered into a partnership with American producer Jerry Jackson in 1931 to make &quot ; <a> quota quickies </a> &quot ; , Powell began to direct hour-long films needed to satisfy a legal requirement that British cinemas screen a certain quota of British movies .
+
+#	NEW	birthplace	........ / classic British films .	// They worked together under the name of &quot ; <a> The Archers </a> &quot ; and produced a series of classic British films . </p>
+
+105	TRUE	Michael Powell (director)::birth_name	michael latham powell / Michael Latham Powell	
+<p> <strong> Michael Latham Powell </strong> ( 30 September 1905 &ndash ; 19 February 1990 ) was an <a> English </a> <a> film director </a> , renowned for his partnership with <a> Emeric Pressburger </a> .
+
+#	NEW	death_date	........ / renowned	// <p> <strong> Michael Latham Powell </strong> ( 30 September 1905 &ndash ; 19 February 1990 ) was an <a> English </a> <a> film director </a> , renowned for his partnership with <a> Emeric Pressburger </a> .
+
+#	NEW	birthname	........ / renowned for his partnership	// <p> <strong> Michael Latham Powell </strong> ( 30 September 1905 &ndash ; 19 February 1990 ) was an <a> English </a> <a> film director </a> , renowned for his partnership with <a> Emeric Pressburger </a> .
+
+108	TRUE	Susan Dey::name	susan dey / known primarily	
+<p> <strong> Susan Dey </strong> ( born December 10 , 1952 ) is an <a> American </a> <a> actress </a> , known primarily for her roles in <a> film </a> and <a> television </a> .
+
+#	NEW	caption	........ / Susan	// <p> <strong> Susan Dey </strong> ( born December 10 , 1952 ) is an <a> American </a> <a> actress </a> , known primarily for her roles in <a> film </a> and <a> television </a> .
+
+110	FALSE	Susan Dey::birth_name	susan hallock smith / 1952 ) is an	
+<p> <strong> Susan Dey </strong> ( born December 10 , 1952 ) is an <a> American </a> <a> actress </a> , known primarily for her roles in <a> film </a> and <a> television </a> .
+
+111	TRUE	Susan Dey::occupation	actress / Actress	
+She was also nominated for the <a> Emmy Award </a> for &quot ; Outstanding Lead Actress in a Drama Series&quot ; for this role in 1987 , 1988 , and 1989 . </p>
+
+#	NEW	death_date	........ / television	// <p> <strong> Susan Dey </strong> ( born December 10 , 1952 ) is an <a> American </a> <a> actress </a> , known primarily for her roles in <a> film </a> and <a> television </a> .
+
+#	NEW	birthplace	........ / as her professional	// She adopted her mother ' s maiden name as her professional name .
+
+#	NEW	birthname	........ / known primarily for	// <p> <strong> Susan Dey </strong> ( born December 10 , 1952 ) is an <a> American </a> <a> actress </a> , known primarily for her roles in <a> film </a> and <a> television </a> .
+
+115	TRUE	Chester Morris::name	chester morris / Boston Blackie	
+<p> <strong> Chester Morris </strong> ( February 16 , 1901 &ndash ; September 11 , 1970 ) was an American actor , who starred in the <em> <a> Boston Blackie </a> </em> detective series of the 1940s . </p>
+
+116	FALSE	Chester Morris::birth_name	john chester brooks morris / an American actor, who starred	
+<p> <strong> Chester Morris </strong> ( February 16 , 1901 &ndash ; September 11 , 1970 ) was an American actor , who starred in the <em> <a> Boston Blackie </a> </em> detective series of the 1940s . </p>
+
+117	TRUE	Chester Morris::occupation	actor / Actor	
+He was nominated for the <a> Academy Award for Best Actor </a> for <em> <a> Alibi </a> </em> ( 1929 ) directed by <a> Roland West </a> .
+
+#	NEW	death_date	........ / September 11 , 1970 )	// <p> <strong> Chester Morris </strong> ( February 16 , 1901 &ndash ; September 11 , 1970 ) was an American actor , who starred in the <em> <a> Boston Blackie </a> </em> detective series of the 1940s . </p>
+
+#	NEW	birthname	........ / detective series of	// <p> <strong> Chester Morris </strong> ( February 16 , 1901 &ndash ; September 11 , 1970 ) was an American actor , who starred in the <em> <a> Boston Blackie </a> </em> detective series of the 1940s . </p>
+
+120	FALSE	Andy Griffith::name	andy griffith / Southern- gospel	
+<p> <strong> Andy ! not Andrew Samuel Griffith </strong> ( born June 1 , 1926 ) is an <a> American </a> <a> actor </a> , <a> director </a> , <a> producer </a> , <a> Grammy Award </a> -winning <a> Southern-gospel </a> singer , and <a> writer </a> .
+
+#	NEW	caption	........ / While	// <p> While appearing in television films and guest roles on television series over the next 10 years , Griffith also appeared in two feature films , both of which flopped at the box office .
+
+#	NEW	birth_name	........ / Andy ! not Andrew Samuel Griffith	// <p> <strong> Andy ! not Andrew Samuel Griffith </strong> ( born June 1 , 1926 ) is an <a> American </a> <a> actor </a> , <a> director </a> , <a> producer </a> , <a> Grammy Award </a> -winning <a> Southern-gospel </a> singer , and <a> writer </a> .
+
+#	NEW	birth_date	........ / During	// <p> During the series ' sixth season , he served as unofficial director , executive producer and writer of the show . </p>
+
+#	NEW	death_date	........ / singer	// <p> <strong> Andy ! not Andrew Samuel Griffith </strong> ( born June 1 , 1926 ) is an <a> American </a> <a> actor </a> , <a> director </a> , <a> producer </a> , <a> Grammy Award </a> -winning <a> Southern-gospel </a> singer , and <a> writer </a> .
+
+#	NEW	birthname	........ / graduating from college	// After graduating from college , Armstrong went on to become a versatile character actor while attending <a> The Actors Studio </a> in New York City . </p>
+
+#	NEW	birthplace	........ / s Creek	// He also reprised his role as Ben Matlock on <strong> <em> ' in 1997 , and his most recent guest-starring role was in 2001 in an episode of </em> <a> Dawson ' s Creek </a> <em> . </em> </strong> </p>
+
+#	NEW	name	........ / film director	// <p> was a prominent <a> Japanese </a> <a> film director </a> and <a> script writer </a> .
+
+#	NEW	birth_name	........ / well known for his	// <p> Ozu was well known for his drinking .
+
+#	NEW	birth_date	........ / As	// <p> As a director , Ozu was eccentric and a notorious perfectionist .
+
+#	NEW	death_date	........ / He	// <p> He worked briefly as a teacher before returning to Tokyo in 1923 to join the <a> Shochiku Film Company </a> . </p>
+
+#	NEW	birthname	........ / well known for his	// <p> Ozu was well known for his drinking .
+
+132	TRUE	Massimo Troisi::name	massimo troisi / film director	
+<p> <strong> Massimo Troisi </strong> ( 19 February 1953 &#x2013 ; 4 June 1994 ) was an Italian actor , <a> film director </a> , and poet .
+
+#	NEW	birth_name	........ / Massimo Troisi	// <p> <strong> Massimo Troisi </strong> ( 19 February 1953 &#x2013 ; 4 June 1994 ) was an Italian actor , <a> film director </a> , and poet .
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Massimo Troisi </strong> ( 19 February 1953 &#x2013 ; 4 June 1994 ) was an Italian actor , <a> film director </a> , and poet .
+
+#	NEW	death_date	........ / 1994 )	// <p> <strong> Massimo Troisi </strong> ( 19 February 1953 &#x2013 ; 4 June 1994 ) was an Italian actor , <a> film director </a> , and poet .
+
+#	NEW	birthname	........ / an Italian actor	// <p> <strong> Massimo Troisi </strong> ( 19 February 1953 &#x2013 ; 4 June 1994 ) was an Italian actor , <a> film director </a> , and poet .
+
+#	NEW	name	........ / Scripps McKellar	// <p> <strong> Crystal Dawn Scripps McKellar </strong> ( born August 16 , 1976 ) is an American <a> attorney </a> and former <a> child actress </a> . </p>
+
+#	NEW	caption	........ / Crystal	// <p> <strong> Crystal Dawn Scripps McKellar </strong> ( born August 16 , 1976 ) is an American <a> attorney </a> and former <a> child actress </a> . </p>
+
+139	FALSE	Crystal McKellar::birth_name	crystal dawn scripps mckellar / nominated for the <em> Best Young Actress Guest Starring In A Television Series	
+She was nominated for the <em> Best Young Actress Guest Starring In A Television Series </em> award at the eleventh annual <a> Youth in Film Award </a> in 1988 and 1989 .
+
+#	NEW	birth_date	........ / McKellar	// <p> McKellar was born in <a> San Diego </a> , <a> California </a> .
+
+141	TRUE	Crystal McKellar::occupation	actress / Actress	
+She was nominated for the <em> Best Young Actress Guest Starring In A Television Series </em> award at the eleventh annual <a> Youth in Film Award </a> in 1988 and 1989 .
+
+#	NEW	birthname	........ / is an American	// <p> <strong> Crystal Dawn Scripps McKellar </strong> ( born August 16 , 1976 ) is an American <a> attorney </a> and former <a> child actress </a> . </p>
+
+143	FALSE	Norman Jewison::name	norman jewison / Film Centre	
+<p> <strong> Norman Frederick Jewison </strong> , <a> CC </a> , <a> O . Ont </a> ( born 21 July 1926 ) is a <a> Canadian </a> <a> film director </a> , <a> producer </a> , <a> actor </a> and founder of the <a> Canadian Film Centre </a> .
+
+#	NEW	caption	........ / ( born 21	// <p> <strong> Norman Frederick Jewison </strong> , <a> CC </a> , <a> O . Ont </a> ( born 21 July 1926 ) is a <a> Canadian </a> <a> film director </a> , <a> producer </a> , <a> actor </a> and founder of the <a> Canadian Film Centre </a> .
+
+#	NEW	birth_date	........ / Jewison '	// <p> Jewison ' s career as a film director began with the comedy <em> <a> Forty Pounds of Trouble </a> </em> ( 1962 ) , starring Curtis .
+
+#	NEW	death_date	........ / and	// <p> <strong> Norman Frederick Jewison </strong> , <a> CC </a> , <a> O . Ont </a> ( born 21 July 1926 ) is a <a> Canadian </a> <a> film director </a> , <a> producer </a> , <a> actor </a> and founder of the <a> Canadian Film Centre </a> .
+
+#	NEW	birthplace	........ / Gaily , Gaily	// <p> After the completion of the period comedy <em> <a> Gaily , Gaily </a> </em> ( 1969 ) , Jewison , having become disenchanted with the political climate in the United States , moved his family to England .
+
+148	TRUE	Norman Jewison::birth_name	norman frederick jewison / Norman Frederick Jewison	
+<p> <strong> Norman Frederick Jewison </strong> , <a> CC </a> , <a> O . Ont </a> ( born 21 July 1926 ) is a <a> Canadian </a> <a> film director </a> , <a> producer </a> , <a> actor </a> and founder of the <a> Canadian Film Centre </a> .
+
+#	NEW	birthname	........ / Jewison ' s career	// <p> Jewison ' s career as a film director began with the comedy <em> <a> Forty Pounds of Trouble </a> </em> ( 1962 ) , starring Curtis .
+
+#	NEW	occupation	........ / Director .	// <p> Continuing the string of successes was one of the films that has become closely identified with its director , <em> <a> In the Heat of the Night </a> </em> ( 1967 ) , a crime drama set in a racially divided Southern town and starring <a> Sidney Poitier </a> and <a> Rod Steiger </a> , which won five <a> Academy Awards </a> , including Best Picture , while Jewison was nominated for Best Director .
+
+#	NEW	name	........ / improvisational comedy	// <p> <strong> Ryan Lee Stiles </strong> ( born April 22 , 1959 ) is an America / Canadian actor , <a> comedian </a> , <a> director </a> , and <a> voice actor </a> whose work is often associated with <a> improvisational comedy </a> .
+
+152	TRUE	Ryan Stiles::birth_name	ryan lee stiles / Ryan Lee Stiles	
+<p> <strong> Ryan Lee Stiles </strong> ( born April 22 , 1959 ) is an America / Canadian actor , <a> comedian </a> , <a> director </a> , and <a> voice actor </a> whose work is often associated with <a> improvisational comedy </a> .
+
+#	NEW	occupation	........ / show .	// <p> Stiles received a nomination for a <a> Primetime Emmy Award for Individual Performance in a Variety or Music Program </a> in 2002 for his work on the show . </p>
+
+#	NEW	death_date	........ / April 22 , 1959 )	// <p> <strong> Ryan Lee Stiles </strong> ( born April 22 , 1959 ) is an America / Canadian actor , <a> comedian </a> , <a> director </a> , and <a> voice actor </a> whose work is often associated with <a> improvisational comedy </a> .
+
+#	NEW	birthplace	........ / <strong> Lewis Kiniski	// Stiles played Drew ' s smart but underachieving best friend , <strong> Lewis Kiniski </strong> .
+
+#	NEW	birthname	........ / played Drew ' s smart but underachieving best friend	// Stiles played Drew ' s smart but underachieving best friend , <strong> Lewis Kiniski </strong> .
+
+#	NEW	birth_name	........ / started his career as a stage actor in 1919 but moved into	// He started his career as a stage actor in 1919 but moved into <a> theatre </a> production in 1924 .
+
+#	NEW	birthplace	........ / but moved into	// He started his career as a stage actor in 1919 but moved into <a> theatre </a> production in 1924 .
+
+#	NEW	name	........ / France	// <p> <strong> Max Oph&#x00fc ; ls </strong> ( born <strong> Maximillian Oppenheimer </strong> , 6 May 1902 , <a> Saarbr&#x00fc ; cken </a> , <a> Germany </a> - 26 March 1957 , <a> Hamburg </a> , Germany ) was an influential German-born <a> film director </a> who worked in Germany , the <a> United States </a> and <a> France </a> .
+
+#	NEW	caption	........ / Germany )	// <p> <strong> Max Oph&#x00fc ; ls </strong> ( born <strong> Maximillian Oppenheimer </strong> , 6 May 1902 , <a> Saarbr&#x00fc ; cken </a> , <a> Germany </a> - 26 March 1957 , <a> Hamburg </a> , Germany ) was an influential German-born <a> film director </a> who worked in Germany , the <a> United States </a> and <a> France </a> .
+
+#	NEW	birthname	........ / the most highly regarded of	// Ophuls ' <em> <a> Letter from an Unknown Woman </a> </em> ( 1948 ) , derived from a <a> Stefan Zweig </a> novella is the most highly regarded of the American filmsref name=&quot ; bock&quot ; / .
+
+162	FALSE	Robert Bolt::name	robert bolt / two- time	
+<p> <strong> Robert Oxton Bolt </strong> , <a> CBE </a> ( 15 August 1924 &#x2013 ; 21 February 1995 ) was an <a> English </a> playwright and a two-time <a> Oscar </a> winning screenwriter .
+
+#	NEW	caption	........ / in 1995	// Like <em> A Man for All Seasons </em> , the play had been written for the BBC , and in 1995 was re-written into a children ' s book .
+
+164	FALSE	Robert Bolt::birth_name	robert oxton bolt / Although he was best known for his original play	
+<p> Although he was best known for his original play <em> <a> A Man for All Seasons </a> </em> - a depiction of <a> Sir Thomas More </a> ' s clash with <a> King Henry VIII </a> over his divorce from <a> Catherine of Aragon </a> - which won awards on the stage and in its film version , most of his writing was screenplays for films or television .
+
+#	NEW	birth_date	........ / <em>	// <p> <em> State of Revolution </em> was Bolt ' s final produced play , though he wrote several others that were never published or produced .
+
+#	NEW	death_date	........ / winning	// <p> <strong> Robert Oxton Bolt </strong> , <a> CBE </a> ( 15 August 1924 &#x2013 ; 21 February 1995 ) was an <a> English </a> playwright and a two-time <a> Oscar </a> winning screenwriter .
+
+#	NEW	birthplace	........ / times , twice	// <p> Bolt was married four times , twice to <a> British </a> actress <a> Sarah Miles </a> .
+
+#	NEW	birthname	........ / in full his themes of individuality versus society	// The play develops in full his themes of individuality versus society and authority as corrupt .
+
+#	NEW	name	........ / was an	// <p> <strong> Ethel Merman </strong> ( January 16 , 1908 &#x2013 ; February 15 , 1984 ) was an <a> American </a> actress and singer .
+
+#	NEW	caption	........ / 1984 )	// <p> <strong> Ethel Merman </strong> ( January 16 , 1908 &#x2013 ; February 15 , 1984 ) was an <a> American </a> actress and singer .
+
+171	FALSE	Ethel Merman::birth_name	ethel agnes zimmermann / an <a> American	
+<p> <strong> Ethel Merman </strong> ( January 16 , 1908 &#x2013 ; February 15 , 1984 ) was an <a> American </a> actress and singer .
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Ethel Merman </strong> ( January 16 , 1908 &#x2013 ; February 15 , 1984 ) was an <a> American </a> actress and singer .
+
+#	NEW	occupation	........ / Actress &#	// <p> Merman and Berlin reunited for <em> <a> Call Me Madam </a> </em> in 1950 , for which she won the <a> Tony Award for Best Performance by a Leading Actress in a Musical </a> , and she went on to star in the <a> 1953 screen adaptation </a> as well , winning the <a> Golden Globe Award for Best Actress &#x2013 ; Motion Picture Musical or Comedy </a> for her performance .
+
+#	NEW	death_date	........ / February 15 , 1984 )	// <p> <strong> Ethel Merman </strong> ( January 16 , 1908 &#x2013 ; February 15 , 1984 ) was an <a> American </a> actress and singer .
+
+#	NEW	birthname	........ / actress and	// <p> <strong> Ethel Merman </strong> ( January 16 , 1908 &#x2013 ; February 15 , 1984 ) was an <a> American </a> actress and singer .
+
+#	NEW	death_place	........ / New York World '	// She returned to the stage in <em> Stars in Your Eyes </em> , which struggled to survive while the public flocked to the <a> 1939 New York World ' s Fair </a> instead and finally closed short of four months .
+
+177	TRUE	Frank Oz::name	frank oz / Frank Oz	
+<p> <strong> Frank Oz </strong> ( born <strong> Richard Frank Oznowicz </strong> ; May 25 , 1944 ) is a British-born American !
+
+#	NEW	caption	........ / has cast	// <p> Landis has cast Oz in small roles in several of his movies .
+
+#	NEW	birth_date	........ / Landis	// <p> Landis has cast Oz in small roles in several of his movies .
+
+#	NEW	occupation	........ / Actor .	// <a> George Lucas </a> was so impressed by Oz ' s performance as Yoda in <em> The Empire Strikes Back </em> that he tried to get him an <a> Oscar </a> nomination for Best Supporting Actor . </p>
+
+#	NEW	birthplace	........ / Directed by Oz :	// <p> <strong> Directed by Oz : </strong> </p>
+
+182	FALSE	Frank Oz::birth_name	richard frank oznowicz / U. S. citizen	
+U . S . citizen <a> film director </a> , actor , voice actor and <a> puppeteer </a> who is known for creating and performing the characters <a> Miss Piggy </a> and <a> Fozzie Bear </a> in <em> <a> The Muppet Show </a> </em> and for directing films including the 1986 <em> <a> Little Shop Of Horrors </a> </em> remake and <em> <a> Dirty Rotten Scoundrels </a> </em> .
+
+#	NEW	birthname	........ / Richard Frank Oznowicz	// <p> <strong> Frank Oz </strong> ( born <strong> Richard Frank Oznowicz </strong> ; May 25 , 1944 ) is a British-born American !
+
+184	TRUE	Douglas Sirk::name	douglas sirk / film director	
+<p> <strong> Douglas Sirk </strong> ( born <strong> Hans Detlef Sierck </strong> ; April 26 , 1897 &ndash ; January 14 , 1987 ) was a <a> Danish </a> - <a> German </a> <a> film director </a> best known for his work in <a> Hollywood </a> <a> melodrama </a> s in the 1950s . </p>
+
+#	NEW	caption	........ / Douglas	// <p> <strong> Douglas Sirk </strong> ( born <strong> Hans Detlef Sierck </strong> ; April 26 , 1897 &ndash ; January 14 , 1987 ) was a <a> Danish </a> - <a> German </a> <a> film director </a> best known for his work in <a> Hollywood </a> <a> melodrama </a> s in the 1950s . </p>
+
+186	TRUE	Douglas Sirk::birth_name	hans detlef sierck / Hans Detlef Sierck	
+<p> <strong> Douglas Sirk </strong> ( born <strong> Hans Detlef Sierck </strong> ; April 26 , 1897 &ndash ; January 14 , 1987 ) was a <a> Danish </a> - <a> German </a> <a> film director </a> best known for his work in <a> Hollywood </a> <a> melodrama </a> s in the 1950s . </p>
+
+#	NEW	occupation	........ / by	// <p> Sirk ' s melodramas of the 1950s , while highly commercially successful , were generally very poorly received by reviewers .
+
+#	NEW	death_date	........ / there	// From around 1970 there was a considerable interest among academic film scholars for Sirk ' s work - especially his American melodramas .
+
+#	NEW	birthplace	........ / changed his German	// On arrival in the <a> United States </a> , he soon changed his German name .
+
+#	NEW	birthname	........ / a considerable interest among academic film scholars for Sirk '	// From around 1970 there was a considerable interest among academic film scholars for Sirk ' s work - especially his American melodramas .
+
+#	NEW	name	........ / Night Live	// <p> <strong> Laraine Newman </strong> ( born March 2 , 1952 ) is an <a> American </a> <a> comedienne </a> and <a> actress </a> , and part of the original <em> <a> Saturday Night Live </a> </em> cast . </p>
+
+#	NEW	caption	........ / Laraine	// <p> <strong> Laraine Newman </strong> ( born March 2 , 1952 ) is an <a> American </a> <a> comedienne </a> and <a> actress </a> , and part of the original <em> <a> Saturday Night Live </a> </em> cast . </p>
+
+193	FALSE	Laraine Newman::birth_name	laraine newman / She began her comedy career as a founding member of	
+<p> She began her comedy career as a founding member of <a> The Groundlings </a> and is best known for being an original cast member on <a> NBC </a> ' s <em> <a> Saturday Night Live </a> </em> , appearing on the show from its inception in 1975 through 1980 .
+
+#	NEW	occupation	........ / voice	// <p> Newman ' s post-SNL film career has been limited , achieving greater success in supporting roles and as a voice artist on television and features .
+
+#	NEW	death_date	........ / cast .	// <p> <strong> Laraine Newman </strong> ( born March 2 , 1952 ) is an <a> American </a> <a> comedienne </a> and <a> actress </a> , and part of the original <em> <a> Saturday Night Live </a> </em> cast . </p>
+
+#	NEW	birthplace	........ / Hills , California	// Newman attended <a> Beverly Hills High School </a> in <a> Beverly Hills , California </a> .
+
+#	NEW	birthname	........ / Saturday Night Live	// <p> <strong> Laraine Newman </strong> ( born March 2 , 1952 ) is an <a> American </a> <a> comedienne </a> and <a> actress </a> , and part of the original <em> <a> Saturday Night Live </a> </em> cast . </p>
+
+198	TRUE	Jean Renoir::name	jean renoir / producer and	
+<p> <strong> Jean Renoir </strong> ( ; 15 September 1894 &ndash ; 12 February 1979 ) was a French <a> film director </a> , screenwriter , actor , producer and author .
+
+#	NEW	birth_name	........ / Jean Renoir	// <p> <strong> Jean Renoir </strong> ( ; 15 September 1894 &ndash ; 12 February 1979 ) was a French <a> film director </a> , screenwriter , actor , producer and author .
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Jean Renoir </strong> ( ; 15 September 1894 &ndash ; 12 February 1979 ) was a French <a> film director </a> , screenwriter , actor , producer and author .
+
+#	NEW	death_date	........ / 1979 )	// <p> <strong> Jean Renoir </strong> ( ; 15 September 1894 &ndash ; 12 February 1979 ) was a French <a> film director </a> , screenwriter , actor , producer and author .
+
+#	NEW	birthplace	........ / the United States .	// At this time , Renoir became a <a> naturalized citizen </a> of the United States . </p>
+
+#	NEW	birthname	........ / was a French	// <p> <strong> Jean Renoir </strong> ( ; 15 September 1894 &ndash ; 12 February 1979 ) was a French <a> film director </a> , screenwriter , actor , producer and author .
+
+#	null	occupation	actor / ..........
+

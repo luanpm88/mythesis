@@ -1,0 +1,198 @@
+Total articles: 312
+Articles for test: 281
+Articles for train: 31
+Total attributes: 64
+Attributes with high occurrences: 5/64
+
+------------
+Found: 80
+Found Not Null: 19
+Correct: 14
+Wrong: 5
+Total: 20
+precision: 0.7368421052631579
+recall: 0.7
+
+
+
+#	NEW	birth_name	........ / is an American <a> stand-up comedienne	// ISBN-100786705426 . &quot ; ( born March 21 , 1962 ) is an American <a> stand-up comedienne </a> , <a> actress </a> , <a> singer </a> , <a> author </a> and <a> media personality </a> .
+
+#	NEW	occupation	........ / Awards	// Rosie ' s Family Cruise ] ] ' ' , a [ [ documentary film ] ] about the trip debuted on [ [ HBO ] ] on April 6 , 2006 , and was nominated for three [ [ Emmy Awards ] ] .
+
+#	NEW	birth_name	........ / Mel Colm-Cille Gerard Gibson	// <p> <img> <strong> Mel Colm-Cille Gerard Gibson </strong> , <a> AO </a> ( born January 3 , 1956 ) is an <a> Irish-American </a> actor , film director , producer and screenwriter .
+
+#	NEW	occupation	........ / second	// Gibson received two <a> Academy Award </a> s , <a> Best Director </a> and <a> Best Picture </a> for his second directorial effort .
+
+#	NEW	birth_date	........ / 3 , 1956 )	// <p> <img> <strong> Mel Colm-Cille Gerard Gibson </strong> , <a> AO </a> ( born January 3 , 1956 ) is an <a> Irish-American </a> actor , film director , producer and screenwriter .
+
+#	NEW	birth_date	........ / ( October 26 , 1963 &#	// <p> <strong> Edward &quot ; Ted&quot ; Demme </strong> ( October 26 , 1963 &#x2013 ; January 13 , 2002 ) was an <a> American </a> <a> film director </a> and <a> producer </a> . </p>
+
+#	NEW	birth_name	........ / Edward & quot ; Ted&	// <p> <strong> Edward &quot ; Ted&quot ; Demme </strong> ( October 26 , 1963 &#x2013 ; January 13 , 2002 ) was an <a> American </a> <a> film director </a> and <a> producer </a> . </p>
+
+#	NEW	birth_date	........ / ( 1945 )	// He first directed two short films , but his first feature film was <em> <a> A Tree Grows in Brooklyn </a> </em> ( 1945 ) , one his first attempts to film dramas focused on contemporary concerns , which became his forte .
+
+#	NEW	occupation	........ / Actor	// After two years in the role , he played the same part in the 1951 film version , where he won his first Oscar for <a> Best Supporting Actor </a> .
+
+#	NEW	birth_name	........ / Joanna Rapf adds that Kazan was most admired for his close work with actors , noting that director	// <p> Joanna Rapf adds that Kazan was most admired for his close work with actors , noting that director <a> Nicholas Ray </a> considered him &quot ; the best actor ' s director the United States has ever produced . &quot ; </p>
+
+#	NEW	birth_name	........ / Andrzej &# x017b ; u&#x0142 ; awski	// <p> <strong> Andrzej &#x017b ; u&#x0142 ; awski </strong> ( ; born 22 November 1940 ) is a <a> Polish </a> <a> film director </a> .
+
+#	NEW	occupation	........ / film	// His wild , imaginative , and controversial pictures have received 16 awards at various international film festivals .
+
+#	NEW	birth_name	........ / Andrzej Wajda	// <p> <strong> Andrzej Wajda </strong> ( ; born 6 March 1926 ) is a <a> Polish </a> <a> film director </a> .
+
+#	NEW	occupation	........ / ( 2007 ) .	// <p> Four of his movies have been nominated for the <a> Academy Award for Best Foreign Language Film </a> : <em> <a> The Promised Land </a> </em> ( 1975 ) , <em> <a> The Maids of Wilko </a> </em> ( 1979 ) , <em> <a> Man of Iron </a> </em> ( 1981 ) , and <em> <a> Katy&#x0144 ; </a> </em> ( 2007 ) . </p>
+
+#	NEW	birth_date	........ / 17 November 1966 )	// <p> <strong> Sophie Marceau </strong> ( ; born 17 November 1966 ) is a French actress , who has appeared in 35 films .
+
+#	NEW	birth_name	........ / who has appeared	// <p> <strong> Sophie Marceau </strong> ( ; born 17 November 1966 ) is a French actress , who has appeared in 35 films .
+
+#	NEW	occupation	........ / Actress	// During her teens , Marceau achieved popularity by her debut films <em> <a> La Boum </a> </em> ( 1980 ) and <em> <a> La Boum 2 </a> </em> ( 1982 ) , for which she received a <a> C&#x00e9 ; sar Award for Most Promising Actress </a> .
+
+#	NEW	death_place	........ / Paris in	// In 2001 , Marceau separated from &#x017b ; u&#x0142 ; awski and became involved with producer <a> Jim Lemley </a> and later gave birth to her second child , Juliette , born in Paris in 2002 . </p>
+
+18	TRUE	Clark Gable::birth_name	william clark gable / William Clark Gable	
+<p> <strong> William Clark Gable </strong> ( February 1 , 1901 &ndash ; November 16 , 1960 ) was an <a> American film actor </a> , nicknamed &quot ; The King of Hollywood&quot ; in his heyday .
+
+19	TRUE	Clark Gable::occupation	actor / Picture	
+In addition , Gable was one of the few actors to play the lead in three films that won the <a> Academy Award for Best Picture </a> . </p>
+
+#	NEW	birth_date	........ / 30 , 1972 )	// <p> <strong> Cameron Michelle Diaz </strong> ( born August 30 , 1972 ) is an American actress and former model .
+
+21	TRUE	Cameron Diaz::birth_name	cameron michelle diaz / Cameron Michelle Diaz	
+<p> <strong> Cameron Michelle Diaz </strong> ( born August 30 , 1972 ) is an American actress and former model .
+
+#	NEW	occupation	........ / Actress	// She received critical acclaim for her performance in <em> <a> Being John Malkovich </a> </em> ( 1999 ) , which earned her Best Supporting Actress nominations at the <a> Golden Globes </a> , the <a> BAFTA Awards </a> , and the <a> SAG Awards </a> .
+
+23	FALSE	Dustin Hoffman::birth_name	dustin lee hoffman / film began production	
+The film began production in March 1967 .
+
+24	FALSE	Dustin Hoffman::occupation	actor / Academy	
+<p> Hoffman has won two <a> Academy Award </a> s , five <a> Golden Globe </a> s , three <a> BAFTA </a> s , three <a> Drama Desk Awards </a> , and an <a> Emmy Award </a> .
+
+25	TRUE	Elizabeth Taylor::birth_name	elizabeth rosemond taylor / Elizabeth Rosemond Taylor	
+<p> <strong> Dame Elizabeth Rosemond Taylor </strong> , <a> DBE </a> ( born 27 February 1932 ) , also known as <strong> Liz Taylor </strong> , is an English-American actress .
+
+26	TRUE	Elizabeth Taylor::occupation	actress / Actress	
+<p> Taylor was the second actress to win two Academy Awards both for Best Actress , the first award from a color film and the second from a black and white film .
+
+#	NEW	birth_date	........ / 27 February 1932 )	// <p> <strong> Dame Elizabeth Rosemond Taylor </strong> , <a> DBE </a> ( born 27 February 1932 ) , also known as <strong> Liz Taylor </strong> , is an English-American actress .
+
+#	NEW	birth_date	........ / April 2010 .	// <p> Pacino played Dr . <a> Jack Kevorkian </a> in an HBO Films biopic entitled <em> <a> You Don ' t Know Jack </a> </em> , which premiered April 2010 .
+
+#	NEW	occupation	........ / Actor	// His role as Frank Slade in <em> <a> Scent of a Woman </a> </em> won him the <a> Academy Award for Best Actor </a> in 1992 after receiving seven previous Oscar nominations . </p>
+
+#	NEW	birth_name	........ / is an American	// <p> <strong> Alfredo James &quot ; Al&quot ; Pacino </strong> ( born April 25 , 1940 ) is an American <a> film </a> and <a> stage </a> actor and <a> director </a> .
+
+31	TRUE	Mai Zetterling::birth_name	mai elisabeth zetterling / Mai Elisabeth Zetterling	
+<p> <strong> Mai Elisabeth Zetterling </strong> ( ; May 24 , 1925 &ndash ; March 17 , 1994 ) was a Swedish actress and <a> film director </a> . </p>
+
+#	NEW	occupation	........ / film	// Her last film role was in the Swedish movie <em> Morfars resa </em> ( &quot ; Grandpa ' s Journey&quot ; ) in 1993 . </p>
+
+#	NEW	birth_name	........ / Luc Besson	// <p> <strong> Luc Besson </strong> ( ; born 18 March 1959 ) is a French <a> film director </a> , writer and <a> producer </a> .
+
+#	NEW	birth_date	........ / ,	// The film ' s director , <a> Gregory Ratoff </a> , said &quot ; She is sensational&quot ; , as an actress .
+
+#	NEW	birth_name	........ / Before becoming a star in American films , she had already been a leading actress	// <p> Before becoming a star in American films , she had already been a leading actress in Swedish , French , German , Italian , and British films .
+
+36	TRUE	Ingrid Bergman::occupation	actress / Actress	
+She won three <a> Academy Award </a> s , two <a> Emmy Award </a> s , and the <a> Tony Award </a> for <a> Best Actress </a> .
+
+#	NEW	birth_date	........ / 18 , 1950 )	// <p> <strong> Cybill Lynne Shepherd </strong> ( born February 18 , 1950 ) is an American actress and former model .
+
+38	TRUE	Cybill Shepherd::birth_name	cybill lynne shepherd / Cybill Lynne Shepherd	
+<p> <strong> Cybill Lynne Shepherd </strong> ( born February 18 , 1950 ) is an American actress and former model .
+
+#	NEW	occupation	........ / actress	// <p> In 1997 , she won her third Golden Globe award , for CBS ' <em> <a> Cybill </a> </em> ( 1995&#x2013 ; 1998 ) , a television <a> sitcom </a> , in which the title character&#x2014 ; Cybill Sheridan , an actress struggling with hammy parts in <a> B movies </a> and bad <a> soaps </a> &#x2014 ; was loosely modeled on herself ( including portrayals of her two ex-husbands ) . </p>
+
+#	NEW	birth_date	........ / 11 , 1982 )	// <p> <strong> Thora Birch </strong> ( born March 11 , 1982 ) is an American actress .
+
+#	NEW	birth_name	........ / is an American	// <p> <strong> Thora Birch </strong> ( born March 11 , 1982 ) is an American actress .
+
+42	FALSE	Thora Birch::occupation	actress / Picture	
+The movie itself went on to win the <a> Academy Award for Best Picture </a> .
+
+#	NEW	occupation	........ / Guild	// She has been nominated five times for an <a> Oscar </a> , and has won a <a> BAFTA Film Award </a> , three <a> Tonys </a> , an <a> Obie </a> , three <a> Emmys </a> , two <a> Golden Globes </a> , and a <a> Screen Actors Guild Award </a> . </p>
+
+#	NEW	birth_name	........ / parents came from prominent families ; her paternal grandfather	// Her parents came from prominent families ; her paternal grandfather , Edward Bennett Close , a stockbroker and director of the <a> American Hospital Association </a> , was first married to <a> Post Cereals </a> ' heiress <a> Marjorie Merriweather Post </a> , making Glenn Close a relative of screenwrite / director <a> Preston Sturges </a> and actress <a> Dina Merrill </a> .
+
+#	NEW	birth_date	........ / 15 , 1963 )	// <p> <strong> Helen Elizabeth Hunt </strong> ( born June 15 , 1963 ) is an American actress , <a> film director </a> , and <a> screenwriter </a> .
+
+46	TRUE	Helen Hunt::birth_name	helen elizabeth hunt / Helen Elizabeth Hunt	
+<p> <strong> Helen Elizabeth Hunt </strong> ( born June 15 , 1963 ) is an American actress , <a> film director </a> , and <a> screenwriter </a> .
+
+#	NEW	occupation	........ / actress	// In 1998 , she became the second actress ( after <a> Liza Minnelli </a> ) to win a <a> Golden Globe Award </a> , an <a> Academy Award </a> and an <a> Emmy Award </a> in the same year .
+
+#	NEW	birth_date	........ / 22 , 1844 &#	// October 22 , 1844 &#x2013 ; March 26 , 1923 ) was a <a> French </a> stage and early film <a> actress </a> , and has been referred to as &quot ; the most famous actress the world has ever known&quot ; .
+
+#	NEW	birth_name	........ / the most famous actress the world has ever known&	// October 22 , 1844 &#x2013 ; March 26 , 1923 ) was a <a> French </a> stage and early film <a> actress </a> , and has been referred to as &quot ; the most famous actress the world has ever known&quot ; .
+
+#	NEW	birth_date	........ / April 21 , 1958 )	// <p> <strong> Rosalie Anderson &quot ; Andie&quot ; MacDowell </strong> ( born April 21 , 1958 ) is an American <a> model </a> and actress .
+
+#	NEW	birth_name	........ / is an American	// <p> <strong> Rosalie Anderson &quot ; Andie&quot ; MacDowell </strong> ( born April 21 , 1958 ) is an American <a> model </a> and actress .
+
+#	NEW	occupation	........ / Actress	// Her performance earned her an Independent Spirit Award , a Los Angeles Film Critics Association Award for Best Actress , several other award nominations and led to a series of starring roles in films such as <em> <a> Green Card </a> </em> , <em> The Object of Beauty </em> , and <em> <a> Short Cuts </a> </em> . </p>
+
+#	NEW	birth_date	........ / April 17 , 2010	// On April 17 , 2010 , he was awarded the Master of Cinema Award at the 12th Annual RiverRun International Film Festival . </p>
+
+#	NEW	birth_name	........ / and <a> critic	// <p> <strong> Peter Bogdanovich </strong> ( <a> Serbian Cyrillic </a> : &#x041f ; &#x0435 ; &#x0442 ; &#x0430 ; &#x0440 ; &#x0411 ; &#x043e ; &#x0433 ; &#x0434 ; &#x0430 ; &#x043d ; &#x043e ; &#x0432 ; &#x0438 ; &#x045b ; ) , ( born July 30 , 1939 ) is a <a> Serbian American </a> <a> film historian </a> , director , writer , actor , producer , and <a> critic </a> .
+
+#	NEW	occupation	........ / Director	// The film gained eight <a> Academy Awards </a> nominations , including Best Director , and won two statues , for <a> Cloris Leachman </a> and <a> Ben Johnson </a> in the supporting acting categories .
+
+#	NEW	birth_date	........ / ( 1963 ) .	// <p> In 1964 Richardson received two <a> Academy Awards </a> ( Best Director and Best Picture ) for <em> <a> Tom Jones </a> </em> ( 1963 ) .
+
+#	NEW	birth_name	........ / Cecil Antonio &quot ; Tony&	// <p> <strong> Cecil Antonio &quot ; Tony&quot ; Richardson </strong> ( 5 June 1928 &ndash ; 14 November 1991 ) was an <a> English </a> theatre and film <a> director </a> and <a> producer </a> . </p>
+
+#	NEW	birth_date	........ / 9 May 1936 )	// <p> <strong> Albert Finney </strong> ( born 9 May 1936 ) is an English actor .
+
+#	NEW	birth_name	........ / also nominated for Best British Actor for the same	// He was also nominated for Best British Actor for the same film .
+
+60	TRUE	Albert Finney::occupation	actor / Actor	
+<p> A recipient of <a> BAFTA </a> , <a> Golden Globe </a> , <a> Emmy </a> and <a> Screen Actors Guild Award </a> s , Finney has been nominated for the <a> Academy Award for Best Actor </a> four times , for <em> <a> Tom Jones </a> </em> ( 1963 ) , <em> <a> Murder on the Orient Express </a> </em> ( 1974 ) , <em> <a> The Dresser </a> </em> ( 1983 ) , and <em> <a> Under the Volcano </a> </em> ( 1984 ) ; and was nominated for <a> Academy Award for Best Supporting Actor </a> for his performance in <em> <a> Erin Brockovich </a> </em> ( 2000 ) . </p>
+
+#	NEW	birth_date	........ / 1946 ,	// In 1946 , he made his film debut in <em> Preludio d ' amore </em> , the <a> year after </a> he appeared in five films .
+
+#	NEW	birth_name	........ / Knight Grand Cross	// <p> <strong> Vittorio Gassman </strong> <a> Knight Grand Cross </a> <a> OMRI </a> ( September 1 , 1922 &#x2013 ; June 29 , 2000 ) , popularly known as <strong> Il Mattatore </strong> , was an <a> Italian </a> <a> theatre </a> and <a> film </a> <a> actor </a> and <a> director </a> .
+
+#	NEW	occupation	........ / popular ) .	// He is considered one of the greatest Italian actors and is commonly recalled as an extremely professional , versatile , magnetic interpreter , whose long career includes both important productions as well as dozens of <em> divertissements </em> ( which made him greatly popular ) . </p>
+
+#	NEW	birth_date	........ / 1 , 1913 &#	// <p> <strong> Mary Virginia Martin </strong> ( December 1 , 1913 &#x2013 ; November 3 , 1990 ) was an American actress and singer .
+
+65	TRUE	Mary Martin::birth_name	mary virginia martin / Mary Virginia Martin	
+<p> <strong> Mary Virginia Martin </strong> ( December 1 , 1913 &#x2013 ; November 3 , 1990 ) was an American actress and singer .
+
+#	NEW	occupation	........ / Film	// <p> She received the Donaldson Award and the <a> New York Film Critics Circle Award </a> in 1943 for <em> <a> One Touch of Venus </a> </em> .
+
+#	NEW	birth_date	........ / 27 , 1972 )	// <p> <strong> Gwyneth Kate Paltrow </strong> ( ; born September 27 , 1972 ) is an American actress . </p>
+
+#	NEW	birth_name	........ / a film and	// <p> Paltrow was born in Los Angeles , California , the daughter of <a> Blythe Danner </a> , an actress , and <a> Bruce Paltrow </a> , a film and <a> television director </a> and producer .
+
+#	NEW	occupation	........ / Actress	// She garnered worldwide recognition through her performance in <em> <a> Shakespeare in Love </a> </em> ( 1998 ) , for which she won an <a> Academy Award for Best Actress </a> , a <a> Golden Globe Award </a> and two <a> Screen Actors Guild Award </a> s , for <a> Outstanding Lead Actress </a> and as a member of the <a> Outstanding Cast </a> .
+
+70	FALSE	Laurence Olivier::birth_name	laurence kerr olivier / Olivier ' s final film	
+<p> Olivier ' s final film as director was the 1970 film <em> <a> Three Sisters </a> </em> , based on the <a> Chekhov play </a> of the same name , and his 1967 National Theatre production .
+
+#	NEW	occupation	........ / Actor	// Olivier received his fifth Academy Award nomination for Best Actor for <em> The Entertainer . </em> </p>
+
+72	TRUE	Ashley Judd::occupation	actress / Actress	
+Several of her early 2000s films , including 2001 ' s <em> <a> Someone Like You </a> </em> and 2002 ' s <em> <a> High Crimes </a> </em> , received only mixed reviews and moderate box office success ; although , she did receive positive recognition , and a <a> Golden Globe </a> nomination for Best Actress , for her performance in the 2004 biography of <a> Cole Porter </a> , <em> <a> De-Lovely </a> </em> , opposite <a> Kevin Kline </a> . </p>
+
+73	FALSE	Ashley Judd::birth_name	ashley tyler ciminella / who is best known for playing a number of strong characters	
+<p> <strong> Ashley Judd </strong> ( born April 19 , 1968 ) is an <a> America </a> n <a> actress </a> , who is best known for playing a number of strong characters in films such as <em> <a> Ruby in Paradise </a> , </em> <em> <a> Kiss the Girls </a> </em> , <em> <a> Double Jeopardy </a> </em> , <em> <a> Where the Heart Is </a> </em> and <em> <a> High Crimes </a> </em> . </p>
+
+#	NEW	birth_date	........ / 24 , 1922 &	// <p> <strong> Ava Lavinia Gardner </strong> ( December 24 , 1922 &ndash ; January 25 , 1990 ) was an American actress .
+
+75	TRUE	Ava Gardner::birth_name	ava lavinia gardner / Ava Lavinia Gardner	
+<p> <strong> Ava Lavinia Gardner </strong> ( December 24 , 1922 &ndash ; January 25 , 1990 ) was an American actress .
+
+76	TRUE	Ava Gardner::occupation	actress / Actress	
+She was nominated for the <a> Academy Award for Best Actress </a> for her work in <em> <a> Mogambo </a> </em> ( 1953 ) .
+
+#	NEW	birth_name	........ / is an American actor	// <p> <strong> Thomas Jeffrey </strong> &quot ; <strong> Tom </strong> &quot ; <strong> Hanks </strong> ( born July 9 , 1956 ) is an American actor , producer , writer , and director .
+
+#	NEW	occupation	........ / winning	// The movie also earned nine Academy Award nominations , winning two .
+
+#	NEW	birth_date	........ / 9 , 1956 )	// <p> <strong> Thomas Jeffrey </strong> &quot ; <strong> Tom </strong> &quot ; <strong> Hanks </strong> ( born July 9 , 1956 ) is an American actor , producer , writer , and director .
+
+#	null	birth_date	may 24, 1925 / ..........
+

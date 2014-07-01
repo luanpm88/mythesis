@@ -1,2 +1,0 @@
-<li>Sports Center</li>
-<li><a>Ignacy Domeyko</a>, founder of <a>University of Santiago de Chile</a></li>

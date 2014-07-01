@@ -1,8 +1,0 @@
-<li>School of Medicine</li>
-<li>School of Dentistry</li>
-<li><a>Lee Chang-dong</a> (&#xc774;&#xcc3d;&#xb3d9;), film director who won the prestigious Director's Award at 2003 Venice Film Festival, former the minister of Culture and Tourism</li>
-<li>Ryu Hee-lim (&#xb958;&#xd76c;&#xb9bc;), current the director of Planning and Management of <a>YTN</a></li>
-<li>Yoon Doo Hyeon (&#xc724;&#xb450;&#xd604;), current the vice director of Newsroom of <a>YTN</a></li>
-<li>Kang Dong Gyun (&#xac15;&#xb3d9;&#xade0;), current the director of Radio 2CP of <a>MBC</a></li>
-<li>Kim Soon Hwa (&#xae40;&#xc21c;&#xd654;), current the vice-president of <a>Hyundai Mobis</a></li>
-<li>Kim Young-ho(&#xae40;&#xc601;&#xd638;), current president of Yuhan University, former the Minister of Commerce, Industry and Energy  </li>

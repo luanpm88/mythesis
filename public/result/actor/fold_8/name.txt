@@ -1,0 +1,92 @@
+Found: 30
+Found Not Null: 22
+Correct: 12
+Wrong: 10
+Total: 22
+precision: 0.5454545454545454
+recall: 0.5454545454545454
+
+
+
+#	NEW	name	........ / television director	// <p> <strong> Richard Donald Crenna </strong> ( November 30 , 1926 &#x2013 ; January 17 , 2003 ) was an American <a> motion picture </a> , <a> television </a> , and <a> radio </a> actor and occasional <a> television director </a> .
+
+1	TRUE	Louise Dresser::name	louise dresser / an American	
+<p> <strong> Louise Dresser </strong> ( October 5 , 1878 &ndash ; April 24 , 1965 ) was an American actress .
+
+2	FALSE	Corinne Griffith::name	corinne griffith / Vine Street	
+<p> For her contribution to the motion picture industry , Corrine Griffith has a star on the <a> Hollywood Walk of Fame </a> at 1560 <a> Vine Street </a> . </p>
+
+3	TRUE	Christopher McQuarrie::name	christopher mcquarrie / Christopher McQuarrie	
+<p> <strong> Christopher McQuarrie </strong> ( born 1968 ) is an <a> American </a> screenwriter , producer and director .
+
+4	FALSE	Charles Ludlam::name	charles ludlam / and playwright.	
+<p> <strong> Charles Braun Ludlam </strong> ( April 12 , 1943 &#x2013 ; May 28 , 1987 ) was an <a> American </a> actor , director , and playwright . </p>
+
+5	TRUE	Ernie Wise::name	ernie wise / for their	
+<p> <strong> Ernest Wiseman </strong> <a> OBE </a> ( 27 November 1925 &#x2013 ; 21 March 1999 ) , known by his stage name <strong> Ernie Wise </strong> , was an English <a> comedian </a> , best known as one half of the comedy duo <a> Morecambe and Wise </a> , who became an institution on British <a> television </a> , especially for their <a> Christmas </a> specials . </p>
+
+6	FALSE	Lana Clarkson::name	lana clarkson / Jean Clarkson	
+<p> <strong> Lana Jean Clarkson </strong> ( April 5 , 1962 - February 3 , 2003 ) was an <a> American </a> actress and fashion model .
+
+7	FALSE	Lana Turner::name	lana turner / Hollywood Boulevard	
+<p> For her contribution to the motion-picture industry , Turner has a star on the <a> Hollywood Walk of Fame </a> at 6241 <a> Hollywood Boulevard </a> . </p>
+
+8	TRUE	Buddy Ebsen::name	buddy ebsen / character actor	
+<p> <strong> Buddy Ebsen </strong> ( April 2 , 1908 &ndash ; July 6 , 2003 ) was an American <a> character actor </a> and dancer .
+
+9	FALSE	Bob Denver::name	bob denver / Dobie Gillis	
+<p> <strong> Robert Osbourne &quot ; Bob&quot ; Denver </strong> ( January 9 , 1935&nbsp ; &#x2013 ; September 2 , 2005 ) was an American comedic actor known for his roles as <a> Gilligan </a> on the television series <em> <a> Gilligan ' s Island </a> </em> and the <a> beatnik </a> <a> Maynard G . Krebs </a> on the 1959&#x2013 ; 1963 TV series <em> <a> The Many Loves of Dobie Gillis </a> </em> . </p>
+
+10	FALSE	Loretta Young::name	loretta young / Hollywood Boulevard.	
+<p> Young has two stars on the <a> Hollywood Walk of Fame </a> ; one for motion pictures , at 6104 <a> Hollywood Boulevard </a> , and another for television , at 6141 Hollywood Boulevard . </p>
+
+#	NEW	name	........ / work .	// <p> <strong> Robert Francis Vaughn </strong> , <a> PhD </a> ( born November 22 , 1932 ) , is an American actor noted for <a> stage </a> , <a> film </a> and <a> television </a> work .
+
+#	NEW	name	........ / Debra Monk	// <p> <strong> Debra Monk </strong> ( born February 27 , 1949 ) is an American actress , singer , and writer . </p>
+
+13	TRUE	James Goldman::name	james goldman / William Goldman	
+<p> <strong> James Goldman </strong> ( June 30 , 1927 &#x2013 ; October 28 , 1998 ) was an American <a> screenwriter </a> and playwright , and the brother of screenwriter and novelist <a> William Goldman </a> . </p>
+
+14	FALSE	Chuck Barris::name	chuck barris / Dating Game	
+<p> <strong> Charles Hirsch &quot ; Chuck&quot ; Barris </strong> ( born June 3 , 1929 ) is an <a> American </a> <a> game show </a> producer , <a> film director </a> and presenter best known for hosting <em> <a> The Gong Show </a> </em> and creating <em> <a> The Dating Game </a> </em> .
+
+#	NEW	name	........ / Wallace Weaving	// <p> <strong> Hugo Wallace Weaving </strong> ( born 4 April 1960 ) is a Nigerian-born <a> British </a> - <a> Australia </a> n film and stage actor .
+
+#	NEW	name	........ / Amanda Davies	// <p> Slezak is married to Brian Davies , and is the mother of two children , Michael ( born 1980 ) and <strong> Amanda Davies </strong> ( born 1981 ) . ref
+
+17	TRUE	Dorothy Dandridge::name	dorothy dandridge / Hollywood Boulevard	
+<p> For her contribution to the motion picture industry , Dorothy Dandridge has a star on the <a> Hollywood Walk of Fame </a> at 671 <a> Hollywood Boulevard </a> . </p>
+
+18	FALSE	Spalding Gray::name	spalding gray / Rockwell Gray	
+<p> <strong> Spalding Rockwell Gray </strong> ( June 5 , 1941 &ndash ; ca .
+
+19	FALSE	Lillian Gish::name	lillian gish / Vine Street.	
+She has a star on the <a> Hollywood Walk of Fame </a> at 1720 Vine Street . </p>
+
+20	TRUE	John Gilbert (actor)::name	john gilbert / silent film	
+<p> <strong> John Gilbert </strong> ( July 10 , 1899 &ndash ; January 9 , 1936 ) was an American actor and a major star of the <a> silent film </a> era . </p>
+
+#	NEW	name	........ / fashion model	// <p> <strong> Mia Farrow </strong> ( born <strong> Maria de Lourdes Villiers Farrow </strong> ; February 9 , 1945 ) is an American actress , singer , and former <a> fashion model </a> .
+
+22	TRUE	Jack Mercer::name	jack mercer / voice actor	
+<p> <strong> Jack Mercer </strong> ( January 13 , 1910 &ndash ; December 4 , 1984 ) was an <a> American </a> <a> animator </a> , storyman and <a> voice actor </a> .
+
+#	NEW	name	........ / Stargate SG-	// <p> <strong> Robert Benedic &quot ; Ben&quot ; Browder </strong> ( born December 11 , 1962 ) is an <a> American </a> <a> actor </a> and <a> writer </a> , best known for his roles as <a> John Crichton </a> in <em> <a> Farscape </a> </em> and <a> Cameron Mitchell </a> in <em> <a> Stargate SG-1 </a> </em> . </p>
+
+24	FALSE	Oscar Micheaux::name	oscar micheaux / more than	
+<p> <strong> Oscar Devereaux Micheaux </strong> ( 2 January 1884 &#x2013 ; 25 March 1951 ) was an American <a> author </a> , film <a> director </a> and independent producer of more than 44 films .
+
+25	TRUE	Rachel Roberts (actress)::name	rachel roberts / male character.	
+<p> <strong> Rachel Roberts </strong> ( 20 September 1927 &#x2013 ; 26 November 1980 ) was a <a> Welsh </a> <a> actress </a> noted for her fervour and passion ; Roberts is best remembered for her forthright screen performances in two key films of the 1960s , <em> <a> Saturday Night and Sunday Morning </a> </em> and <em> <a> This Sporting Life </a> </em> , in both of which she played the older mistress of the central male character . </p>
+
+26	TRUE	Samantha Eggar::name	samantha eggar / Samantha Eggar	
+<p> <strong> Samantha Eggar </strong> ( born 5 March 1939 ) is an <a> English </a> actress . </p>
+
+27	TRUE	Elizabeth Hartman::name	elizabeth hartman / Picture Drama	
+<p> <strong> Mary Elizabeth Hartman </strong> ( December 23 , 1943 &#x2013 ; June 10 , 1987 ) was an <a> American </a> <a> actress </a> , best known for her performance in the 1965 film <em> <a> A Patch of Blue </a> </em> , playing a blind girl named Selina D ' Arcy , opposite <a> Sidney Poitier </a> , a role for which she won the <a> Golden Globe Award for New Star Of The Year - Actress </a> and was nominated for the <a> Academy Award for Best Actress </a> and <a> Golden Globe Award for Best Actress &#x2013 ; Motion Picture Drama </a> .
+
+#	NEW	name	........ / Garry Hudson	// <p> <strong> Kate Garry Hudson </strong> ( born April 19 , 1979 ) is an American actress .
+
+29	TRUE	Diahann Carroll::name	diahann carroll / New York	
+<p> <strong> Diahann Carroll </strong> ( born July 17 , 1935 , in <a> New York , New York </a> ) is an American actress and singer .
+

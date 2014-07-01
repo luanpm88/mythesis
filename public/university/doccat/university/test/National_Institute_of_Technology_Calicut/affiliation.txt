@@ -1,4 +1,0 @@
-<li><a>NIT Bill</a></li>
-<li><a>AIEEE</a></li>
-<li><a>NITC Alumni</a> Official Alumni Site</li>
-<li><a>Ragam 2011</a> Cultural Festival</li>

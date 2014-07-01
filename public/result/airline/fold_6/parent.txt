@@ -1,0 +1,99 @@
+Found: 43
+Found Not Null: 3
+Correct: 0
+Wrong: 3
+Total: 3
+precision: 0.0
+recall: 0.0
+
+
+
+#	NEW	parent	........ / following international	// ( 2005 ) ] ] Blue Wings operated the following international scheduled destinations ( at November 2009 ) : </p>
+
+#	NEW	parent	........ / Nakanihon Airlines	// <p> A new <a> affiliate </a> company , <a> Nakanihon Airlines </a> ( NAL ) , was founded on May 12 , 1988 to handle NAS ' s scheduled commuter services .
+
+#	NEW	parent	........ / market .	// Qantas ' domestic operation now has the largest share of the market .
+
+#	NEW	parent	........ / continued to	// It continued to operate as a separate entity until 1993 when its operations were merged into those already established by Ansett . </p>
+
+#	NEW	parent	........ / Manchukuo Air	// It is sometimes referred to as <strong> Manchukuo Air Transport Company </strong> . </p>
+
+#	NEW	parent	........ / airline was	// <p> The airline was established and started operations in 1972 , as <strong> AirBridge Carriers </strong> at <a> East Midlands </a> .
+
+#	NEW	parent	........ / airline was	// ( 2006 ) ] ] The airline was established in 2004 and started operations on 23 December 2004 </p>
+
+#	NEW	parent	........ / was established	// <p> The company was established in 1979 as an aerobatic team and later diversified into the executive transport market .
+
+#	NEW	parent	........ / following aircraft	// <p> The Maldivian Air Taxi fleet includes the following aircraft ( at December 2010 ) . </p>
+
+9	FALSE	Livingston Energy Flight::parent	livingston aviation group / Malpensa International	
+Its main base was <a> Malpensa International Airport </a> , Milan . </p>
+
+#	NEW	parent	........ / airline was	// <p> The airline was established in 1995 and started operations on 2 February 1995 </p>
+
+#	NEW	parent	........ / EuroLOT was	// <p> EuroLOT was established on 19 December 1996 and commenced regular air operations on 1 July 1997 .
+
+#	NEW	parent	........ / Bangladesh Airlines	// <p> In 2009 , EuroAtlantic Airways signed a deal to operate 2 <a> Boeing 777-200ER </a> on behalf of <a> Biman Bangladesh Airlines </a> .
+
+#	NEW	parent	........ / flight 33 .	// Effective October 25 , 2009 Flight 11 was replaced on the Paris-Houston route by flight 33 . </p>
+
+#	NEW	parent	........ / operated scheduled	// It operated scheduled regional and international passenger services , freight transport , cargo handling and charter services from the main base is <a> Krasnoyarsk Yemelyanovo Airport </a> , as part of <a> AiRUnion </a> alliance .
+
+#	NEW	parent	........ / charter airline	// <p> <strong> Anikay Air </strong> Company is a <a> charter airline </a> based in <a> Bishkek </a> in <a> Kyrgyzstan </a> .
+
+#	NEW	parent	........ / airline was	// <p> The airline was established in 1999 and is 100% owned by Gruppo Condor . </p>
+
+#	NEW	parent	........ / airline was	// The airline was founded in 2002 and ceased its operations in 2004 when it was merged into <a> SN Brussels Airlines </a> . </p>
+
+#	NEW	parent	........ / n International	// Its main base is <a> Golos&#x00f3 ; n International Airport </a> , La Ceiba . </p>
+
+#	NEW	parent	........ / Berlin- Sch&#	// It operates from <a> Berlin-Sch&#x00f6 ; nefeld International Airport </a> , <a> Leipzig </a> and <a> Pozna&#x0144 ; -&#x0141 ; awica </a> . </p>
+
+20	FALSE	USA Jet Airlines::parent	active aero group / KYIP Passenger	
+<p> KYIP Passenger Aircraft : </p>
+
+#	NEW	parent	........ / was established	// It was established and started operations in 1991 and operates scheduled passenger transport , charter and air taxi services .
+
+#	NEW	parent	........ / major air	// It also is the major air taxi service in Denmark , operating from EKRK .
+
+#	NEW	parent	........ / Aero Services	// <p> <strong> Aero Services Executive </strong> is an <a> airline </a> company based in <a> France </a> .
+
+#	NEW	parent	........ / provides passenger	// It provides passenger service , air taxi , and freight transport .
+
+#	NEW	parent	........ / following aircraft	// <p> The Stuttgarter Flugdienst fleet consists of the following aircraft types , which provide space for 5-13 passengers : </p>
+
+#	NEW	parent	........ / operates business	// It operates business and executive flights , cargo and <a> air ambulance </a> services . </p>
+
+#	NEW	parent	........ / Adams International	// Its main base is at <a> Grantley Adams International Airport </a> , Barbados . </p>
+
+#	NEW	parent	........ / LAFI group	// <p> The airline is a Maltese registered company founded in 1978 as part of the LAFI group of companies .
+
+#	NEW	parent	........ / ( Metropolis Noord	// <p> <strong> Metropolis </strong> ( Metropolis Noord 1 BV ) is an <a> airline </a> based in the <a> Netherlands </a> . </p>
+
+#	NEW	parent	........ / airline offers	// The airline offers scheduled domestic and short-haul international services , as well as <a> charter flight </a> s .
+
+#	NEW	parent	........ / airline was	// <p> The airline was established on 1 January 1989 and started services in June 1990 .
+
+#	NEW	parent	........ / operated scheduled	// It operated scheduled and charter passenger and cargo flights from various locations around Russia .
+
+33	FALSE	Skytrans Airlines::parent	australian aviation holdings / Skytrans	
+<p> <strong> Skytrans </strong> is an Australian airline and air charter business with bases in Cairns , Townsville , Darwin , Brisbane and Perth .
+
+#	NEW	parent	........ / Continental Airways	// <p> <strong> Continental Airways </strong> was a scheduled passenger <a> airline </a> based in <a> Moscow </a> , <a> Russia </a> .
+
+#	NEW	parent	........ / also operates	// It also operates regular domestic flights from Moscow and international charter passenger and cargo services . </p>
+
+#	NEW	parent	........ / was established	// It was established in 2000 and operates cargo services throughout Russia and eastern <a> Europe </a> .
+
+#	NEW	parent	........ / airline was	// <p> The airline was established and started operations in 2000 as <strong> Bykovo Avia </strong> , and merged into Centre-Avia in December 1999 .
+
+#	NEW	parent	........ / airline was	// <p> The airline was established in 1993 as <strong> Karat Air Company </strong> ( formerly known as <strong> Rikor </strong> ) .
+
+#	NEW	parent	........ / Komiinteravia	// <p> <a> Komiinteravia </a> was established in March 1996 and started operations in July 1997 .
+
+#	NEW	parent	........ / Kalanidhi Maran	// <p> Indian media baron <a> Kalanidhi Maran </a> acquired a major stake ( 37 . 7% ) in this airline on June 2010 .
+
+#	NEW	parent	........ / main carriers	// In the domestic Market , TAESA started a fare war with the main carriers , AeroMexico and Mexicana . </p>
+
+#	NEW	parent	........ / other hand	// Germania on the other hand , with all aircraft having been leased to other airlines , no longer offered routes directly to passengers .
+

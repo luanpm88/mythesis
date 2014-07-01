@@ -1,0 +1,120 @@
+Found: 40
+Found Not Null: 22
+Correct: 20
+Wrong: 2
+Total: 26
+precision: 0.9090909090909091
+recall: 0.7692307692307693
+
+
+
+#	NEW	airline	........ / Pan American World Airways	// <p> <strong> <a> Pan American World Airways </a> Flight 202 </strong> , registration N1039V , was a <a> Boeing 377 Stratocruiser </a> aircraft which crashed in the <a> Amazon Basin </a> approximately southwest of Carolina , <a> Brazil </a> on April 28 , 1952 .
+
+#	NEW	airline	........ / Pan American World Airways	// It was later put back in service by <a> Pan American World Airways </a> . </p>
+
+#	NEW	airline	........ / Northeast Airlines	// <p> <strong> Northeast Airlines Flight 946 </strong> was a domestic <a> U . S . </a> flight from <a> Boston , Massachusetts </a> to <a> Montpelier , Vermont </a> , with a refueling stop in <a> Lebanon , New Hampshire </a> , operated by <a> Northeast Airlines </a> .
+
+#	NEW	airline	........ / passengers .	// It was carrying a crew of 5 and 80 passengers .
+
+4	TRUE	NAC Air::airline	nac air / Air	
+<p> <strong> NAC Air </strong> was a <a> Canadian </a> <a> regional airline </a> .
+
+#	NEW	airline	........ / April 2	// <p> <strong> <a> Northwest Orient Airlines </a> Flight 2 </strong> was a <a> Boeing Stratocruiser </a> aircraft that was <a> ditched </a> into <a> Puget Sound </a> just off the <a> Seattle </a> waterfront shortly after takeoff from the <a> Seattle-Tacoma International Airport </a> ( Sea-Tac ) on April 2 , 1956 .
+
+#	NEW	airline	........ / South Africa	// <p> <strong> Mango </strong> is a <a> low-cost airline </a> based in <a> Johannesburg </a> , <a> South Africa </a> .
+
+#	NEW	airline	........ / Trans- Canada	// <p> <strong> <a> Trans-Canada Airlines </a> Flight 831 </strong> was a flight from <a> Montrea / Dorval Airport </a> ( now Montr&#x00e9 ; a / Trudeau ) to <a> Toronto International Airport </a> ( now Toront / Pearson ) on November 29 , 1963 .
+
+#	NEW	airline	........ / USA	// <p> <strong> Elysair SAS </strong> , operating as <strong> L ' Avion </strong> , was an <a> airline </a> headquartered in <a> Wissous </a> , <a> France </a> . ! To find HQ information , click &quot ; Adresse si&#x00e8 ; ge social&quot ; It operated business class only long-haul services between <a> Orly Airport </a> , Paris and <a> Newark Liberty International Airport </a> in the <a> USA </a> .
+
+9	TRUE	Lloyd International Airways::airline	lloyd international airways / operate	
+<p> <strong> Lloyd International Airways </strong> was a private , <a> British </a> independent <a> airline </a> formed in 1961 to operate worldwide <a> charter flight </a> s .
+
+#	NEW	airline	........ / West	// <p> <strong> Air West Flight 612 </strong> was a scheduled domestic passenger flight operated by <a> Air West </a> between <a> Khartoum </a> , <a> Sudan </a> and <a> Al-Fashir </a> .
+
+#	NEW	airline	........ / Aero /	// <p> <strong> <em> Kaleva </em> </strong> , registered <strong> OH-ALL </strong> , was a civilian <a> Junkers Ju 52 </a> passenger and transport plane , belonging to the Finnish carrier <a> Aero / Y </a> .
+
+#	NEW	airline	........ / Flight 980	// <p> <strong> <a> ALM </a> Flight 980 </strong> was a flight scheduled to fly from <a> John F . Kennedy International Airport </a> in <a> New York , New York </a> to <a> Princess Juliana International Airport </a> in <a> St .
+
+13	TRUE	Nurman Avia::airline	nurman avia / Avia	
+<p> <strong> Nurman Avia </strong> was an <a> airline </a> based in <a> Jakarta </a> , <a> Indonesia </a> .
+
+#	NEW	airline	........ / January	// <p> <strong> Crossair Flight LX498 </strong> ( known subsequently as <strong> Crossair Flight CRX498 </strong> by officials ) was a <a> commuter </a> flight from <a> Zurich </a> , Switzerland to <a> Dresden </a> , Germany that crashed two minutes after takeoff in the Swiss municipality of <a> Niederhasli </a> on 10 January 2000 .
+
+15	TRUE	Swift Air::airline	swift air / USA	
+<p> <strong> Swift Air </strong> is an <a> American </a> <a> airline </a> based in <a> Phoenix </a> , <a> Arizona </a> , <a> USA </a> .
+
+#	NEW	airline	........ / its	// <strong> NTSB expressed concern that the NASIP did not find deficiencies in shift </strong> turnover procedures and other matters relevant to the accident , and recommended that the agency improve its NASIP procedures . <strong> </strong> </p>
+
+#	NEW	airline	........ / November 15	// <p> <strong> Pan Am Flight 708 </strong> was a cargo flight that crashed less than 10 miles west-southwest of <a> Tegel Airport </a> in <a> Berlin </a> , <a> Germany </a> , in the early morning hours of November 15 , 1966 .
+
+18	TRUE	Loch Lomond Seaplanes::airline	loch lomond seaplanes / based	
+<p> <strong> Loch Lomond Seaplanes </strong> is an <a> airline </a> based in <a> Scotland </a> .
+
+19	FALSE	Scandjet::airline	scandjet / Summer 2008	
+<p> <strong> Summer 2008 </strong> </p>
+
+#	NEW	airline	........ / Pan	// <p> <strong> Pan Europ&#x00e9 ; enne Air Service </strong> is an <a> airline </a> based in <a> Chamb&#x00e9 ; ry </a> , <a> France </a> .
+
+21	TRUE	Superior Aviation::airline	superior aviation / USA	
+<p> <strong> Superior Aviation </strong> is an <a> American </a> <a> airline </a> based in <a> Lansing </a> , <a> Michigan </a> , <a> USA </a> .
+
+22	TRUE	Jettime::airline	jettime / Airport	
+<p> <strong> Jettime </strong> is an <a> airline </a> based in <a> Copenhagen </a> , <a> Denmark </a> , operating charter and <a> wet lease </a> services out of <a> Copenhagen Airport </a> and <a> Billund Airport </a> .
+
+23	TRUE	Vincent Aviation::airline	vincent aviation / New	
+<p> <strong> Vincent Aviation </strong> is an <a> airline </a> based in <a> Wellington </a> , <a> New Zealand </a> .
+
+24	TRUE	Leisure International Airways::airline	leisure international airways / Leisure International Airways	
+<p> <strong> Leisure International Airways </strong> was a British charter airline . </p>
+
+25	TRUE	Norrlandsflyg::airline	norrlandsflyg ab / V&#	
+<p> <strong> Norrlandsflyg AB </strong> is a <a> Swedish </a> <a> helicopter </a> operator which provides <a> search and rescue </a> under contract with the <a> Swedish Maritime Administration </a> and <a> air ambulance </a> services for <a> Norrbotten County </a> and <a> V&#x00e4 ; stra G&#x00f6 ; taland County </a> .
+
+#	NEW	airline	........ / southern	// <p> <strong> Turkish Airlines Flight 5904 </strong> was a <a> Boeing 737-4Q8 </a> operated by the <a> Turkish Airlines </a> , registered TC-JEP and named <em> Trakya </em> , on a repositioning flight that crashed on 7 April 1999 in <a> Ceyhan </a> , <a> Adana Province </a> in southern <a> Turkey </a> .
+
+27	TRUE	Sita Air::airline	sita air / operating	
+<p> <strong> Sita Air </strong> is an <a> airline </a> based in <a> Kathmandu </a> , <a> Nepal </a> , operating domestic flights .
+
+#	NEW	airline	........ / Nepal	// Ltd . </strong> is an <a> airline </a> based in <a> Nepal </a> which started operations in March 2006 .
+
+29	FALSE	Kampuchea Airlines::airline	kampuchea airlines / Air	
+<p> The airline became operational in 1997 , then briefly known as <strong> SK Air </strong> .
+
+30	TRUE	Landsflug::airline	landsflug / ( Air	
+<p> <strong> Landsflug </strong> ( Air Domestic ) was an <a> airline </a> based in <a> Reykjav&#x00ed ; k </a> , <a> Iceland </a> .
+
+31	TRUE	Skyway Enterprises::airline	skyway enterprises / USA	
+<p> <strong> Skyway Enterprises </strong> is an <a> American </a> <a> airline </a> based in <a> Kissimmee </a> , <a> Florida </a> , <a> USA </a> .
+
+32	TRUE	Southern Air::airline	southern air / Air	
+<p> <strong> Southern Air </strong> is a United States airline based in Norwalk , Connecticut , USA .
+
+33	TRUE	WaltAir::airline	waltair / WaltAir	
+<p> <strong> WaltAir </strong> is a Swedish taxi airline .
+
+34	TRUE	Martinaire::airline	martinaire / USA	
+<p> <strong> Martinaire </strong> is an <a> American </a> <a> cargo airline </a> based in <a> Addison </a> , <a> Texas </a> , <a> USA </a> .
+
+35	TRUE	Midwest Airlines (Egypt)::airline	midwest airlines / Europe	
+<p> <strong> Midwest Airlines </strong> is an <a> airline </a> based in <a> Cairo </a> , <a> Egypt </a> , operating chartered passenger flights within <a> Egypt </a> and to <a> Europe </a> . </p>
+
+36	TRUE	Nightexpress::airline	nightexpress / March	
+<p> <strong> Nightexpress Luftverkehrsgesellschaft <a> mbH </a> </strong> is an <a> airline </a> based in <a> Frankfurt </a> , <a> Germany </a> , that was founded in 1984 and had 27 employees ( as of March 2007 ) .
+
+37	TRUE	Novosibirsk Air Enterprise::airline	novosibirsk air enterprise / Air Enterprise	
+<p> <strong> Novosibirsk Air Enterprise </strong> is an <a> airline </a> based in <a> Novosibirsk </a> , <a> Russia </a> .
+
+#	NEW	airline	........ / People '	// <p> <strong> Lucky Air </strong> is an <a> airline </a> based in <a> Kunming </a> , <a> Yunnan </a> , People ' s Republic of China .
+
+39	TRUE	Westward Airways (United Kingdom)::airline	westward airways / UK	
+<p> <strong> Westward Airways </strong> is an <a> airline </a> based at <a> Land ' s End Airport </a> , near <a> St Just </a> and <a> Penzance </a> in <a> Cornwall </a> , <a> England </a> , <a> UK </a> .
+
+#	null	airline	fly540 / ..........
+
+#	null	airline	appalachian airlines / ..........
+
+#	null	airline	marsland aviation / ..........
+
+#	null	airline	sierra national airlines / ..........
+

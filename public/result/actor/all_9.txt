@@ -1,0 +1,42 @@
+Total articles: 312
+Articles for test: 281
+Articles for train: 31
+Total attributes: 64
+Attributes with high occurrences: 5/64
+
+------------
+Found: 82
+Found Not Null: 25
+Correct: 21
+Wrong: 4
+Total: 27
+precision: 0.84
+recall: 0.7777777777777778
+
+
+
+2	TRUE	Jonathan Demme:: birth_name	robert jonathan demme / Robert Jonathan Demme	// <p> <strong> Robert Jonathan Demme </strong> ( born February 22 , 1944 ) is an <a> American </a> <a> filmmaker </a> , <a> producer </a> and <a> screenwriter </a> .
+6	TRUE	James Spader:: occupation	actor / Actor	// Spader also won the <a> Satellite Award </a> for Best Actor in a Series , Comedy or Musical for <em> Boston Legal </em> in 2006 . </p>
+7	TRUE	James Spader:: birth_name	james todd spader / is an American actor best known for	// <p> <strong> James Todd Spader </strong> ( born February 7 , 1960 ) is an American actor best known for his <a> eccentric </a> roles in <a> movies </a> such as <em> <a> Pretty in Pink </a> </em> ; <em> <a> sex , lies , and videotape </a> </em> ; <em> <a> Crash </a> </em> ; <em> <a> Stargate </a> </em> ; and <em> <a> Secretary </a> </em> . His most famous television role is that of the colorful attorney <a> Alan Shore </a> from <em> <a> The Practice </a> </em> and its spin-off <em> <a> Boston Legal </a> </em> , for which he won three <a> Emmy Awards </a> . </p>
+9	TRUE	John Frankenheimer:: birth_name	john michael frankenheimer / John Michael Frankenheimer	// <p> <strong> John Michael Frankenheimer </strong> ( February 19 , 1930 &ndash; July 6 , 2002 ) was an award-winning American film and television director known for social dramas .
+13	TRUE	John Belushi:: birth_name	john adam belushi / John Adam Belushi	// <p> <strong> John Adam Belushi </strong> ( ; January 24 , 1949 &#x2013; March 5 , 1982 ) was an American <a> comedian </a> , actor , and <a> musician </a> best known as one of the original cast members of the <a> NBC </a> sketch comedy show <em> <a> Saturday Night Live </a> </em> and for his roles in the films <em> <a> National Lampoon's Animal House </a> </em> and <em> <a> The Blues Brothers </a> </em> .
+16	TRUE	Jon Voight:: occupation	actor / Actor	// Voight received an Academy Award nomination for Best Actor and won the <a> Golden Globe </a> 's award for Best Actor .
+18	TRUE	Julia Roberts:: birth_name	julia fiona roberts / is an American	// <p> <strong> Julia Fiona Roberts </strong> ( born October 28 , 1967 ) is an American actress .
+19	TRUE	Julia Roberts:: occupation	actress / Actress	// After receiving Academy Award nominations for <em> <a> Steel Magnolias </a> </em> in 1990 and <em> Pretty Woman </em> in 1991 , she won the <a> Academy Award for Best Actress </a> in 2001 for her performance in <em> <a> Erin Brockovich </a> </em> .
+20	TRUE	Kim Milford:: birth_name	richard kim milford / Richard Kim Milford	// <p> <strong> Richard Kim Milford </strong> ( February 7 , 1951 &ndash; June 16 , 1988 ) was an <a> American </a> <a> actor </a> , <a> singer-songwriter </a> , and <a> composer </a> .
+25	TRUE	Katina Paxinou:: occupation	actress / Actress -	// <p> She was selected to play &quot;Pilar&quot; in the 1943 film <em> <a> For Whom the Bell Tolls </a> </em> , winning an <a> Oscar </a> and a <a> Golden Globe Award for Best Supporting Actress - Motion Picture </a> .
+27	TRUE	Khwaja Ahmad Abbas:: birth_name	khwaja ahmad abbas / Khwaja Ahmad Abbas	// <p> <strong> Khwaja Ahmad Abbas </strong> ( ) ( 7 June 1914 &#x2013; 1 June 1987 ) , popularly known as <strong> K .
+31	TRUE	Kimberly Beck:: occupation	actress / actress	// <p> <strong> Kimberly Beck </strong> ( born January 9 , 1956; <a> Glendale , California </a> ) is an American actress with over sixty television and film roles to her credit . </p>
+33	TRUE	Kirsten Dunst:: birth_name	kirsten caroline dunst / is an American actress	// <p> <strong> Kirsten Caroline Dunst </strong> ( born April 30 , 1982 ) is an American actress , model , and singer .
+34	TRUE	Kirsten Dunst:: occupation	actress / Actress	// I mean , I was 10 . &quot; Her performance earned her the <a> MTV Movie Award </a> for Best Breakthrough Performance , the <a> Saturn Award </a> for Best Young Actress , and her first <a> Golden Globe Award </a> nomination . </p>
+36	TRUE	Leslie Caron:: occupation	actress / Actress.	// She received two Academy Award nominations for Best Actress .
+37	FALSE	Leslie Caron:: birth_name	leslie claire margaret caron / Hauts- de- Seine	// <p> Caron was born in <a> Boulogne-sur-Seine </a> , <a> Seine </a> ( now <a> Boulogne-Billancourt </a> , <a> Hauts-de-Seine </a> ) , France , the daughter of Margaret ( n&#x00e9;e Petit ) , an American dancer , and Claude Caron , a French chemist .
+42	TRUE	Lars von Trier:: birth_name	lars trier / Lars von Trier	// <p> <strong> Lars von Trier </strong> ( ; born <strong> Lars Trier </strong> ; 30 April 1956 ) is a <a> Danish </a> <a> film director </a> and <a> screenwriter </a> .
+45	TRUE	Laura Bertram:: birth_name	laura maureen bertram / Laura Maureen Bertram	// <p> <strong> Laura Maureen Bertram </strong> ( born 5 September 1978 ) is a Canadian actress . </p>
+46	TRUE	Laura Bertram:: occupation	actress / Actress	// <p> She has also been nominated for two <a> Gemini Awards </a> for &quot;Best Performance in a Children's or Youth Program or Series&quot; for <em> <a> Ready or Not </a> </em> in 1996 and for Best Performance by an Actress in a Leading Role in a Dramatic Program or Mini-Series for <em> Platinum </em> in 1998 . </p>
+48	FALSE	Lee Van Cleef:: birth_name	clarence leroy van cleef, jr. / Lee Van Cleef	// <p> <strong> Lee Van Cleef </strong> ( January 9 , 1925 &ndash; December 16 , 1989 ) was an American film actor who appeared mostly in <a> Western </a> and action pictures .
+51	TRUE	Liv Ullmann:: birth_name	liv johanne ullmann / Liv Johanne Ullmann	// <p> <strong> Liv Johanne Ullmann </strong> ( born 16 December 1938 ) is a <a> Norwegian </a> actress and film director , as well as one of the muses of the <a> Swedish </a> director <a> Ingmar Bergman </a> .
+62	TRUE	Keanu Reeves:: birth_name	keanu charles reeves / Keanu Charles Reeves	// <p> <strong> Keanu Charles Reeves </strong> ( [ <em> kay-AH-noo </em> , often pronounced <em> kee-AH-noo </em> ]; born September 2 , 1964 ) is a <a> Canadian </a> actor .
+64	TRUE	Kyle MacLachlan:: birth_name	kyle merritt maclachlan / Kyle Merritt MacLachlan	// <p> <strong> Kyle Merritt MacLachlan </strong> ( born February 22 , 1959 ) is an <a> American </a> <a> actor </a> .
+65	FALSE	Kyle MacLachlan:: occupation	actor / 13	// <p> In 1995 , MacLachlan starred in <a> Paul Verhoeven </a> 's <em> <a> Showgirls </a> </em> . The movie was heavily panned by critics and it collected seven <a> Golden Raspberry Awards </a> ( from a record 13 nominations ) .
+67	FALSE	Kevin Spacey:: birth_name	kevin spacey fowler / and <a> crooner	// <p> <strong> Kevin Spacey </strong> , <a> CBE </a> ( born July 26 , 1959 ) is an American actor , director , <a> screenwriter </a> , producer , and <a> crooner </a> .

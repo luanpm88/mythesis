@@ -1,0 +1,62 @@
+Found: 25
+Found Not Null: 2
+Correct: 0
+Wrong: 2
+Total: 2
+precision: 0.0
+recall: 0.0
+
+
+
+#	NEW	birth_date	........ / Winner '	// <p> Winner ' s sex comedy <em> The System </em> ( 1964 ) began a partnership with actor <a> Oliver Reed </a> that would last for six films over a 25-year period .
+
+#	NEW	birth_date	........ / 20 , 1882 & 6 ,	// <p> <strong> Margaret Dumont </strong> ( October 20 , 1882 &ndash ; March 6 , 1965 ) was an <a> American </a> comedic actress .
+
+#	NEW	birth_date	........ / She	// <p> She was a successful and popular comedian , known especially for her <a> breeches role </a> s .
+
+#	NEW	birth_date	........ / Chong	// <p> Chong was born in <a> Seattle , Washington </a> .
+
+#	NEW	birth_date	........ / 1950	// <p> From 1950 until 1952 she played Oriole , another racially stereotyped role , on the <a> television series </a> <em> <a> Beulah </a> </em> .
+
+#	NEW	birth_date	........ / June 3 , 2010	// On June 3 , 2010 , it was announced that Gosselaar and Russell have separated .
+
+#	NEW	birth_date	........ / Bendix	// <p> Bendix wasn ' t able to play the role on television at firsta contracted film commitment prevented it .
+
+#	NEW	birth_date	........ / Her	// <p> Her recent film credits include &quot ; Get Smart&quot ; and &quot ; American Carol&quot ; .
+
+#	NEW	birth_date	........ / 7 , 1948 )	// <p> <strong> Susan Blakely </strong> ( born September 7 , 1948 ) is an American film actress who has mainly played supporting roles . </p>
+
+#	NEW	birth_date	........ / on	// Homer Bedloe </a> on the television situation comedy <em> <a> Petticoat Junction </a> </em> .
+
+10	FALSE	Alfred Newman::birth_date	march 17, 1900 / ( 2001 )	
+( However , the television remake of <em> South Pacific </em> ( 2001 ) was not made until long after Newman had died . ) </p>
+
+#	NEW	birth_date	........ / For	// <p> For many people , Wyatt is best remembered for her television role as <em> Margaret Anderson </em> in the <a> television comedy </a> <em> <a> Father Knows Best </a> </em> from 1954 to 1960 .
+
+#	NEW	birth_date	........ / 2007	// at the 2007 [ [ Deauville American Film Festival ] ] ] ] </p>
+
+#	NEW	birth_date	........ / 1988	// In 1988 Thornton appeared as <em> Amelia Lawson </em> , the Bank Manager , in the American television drama series <em> <a> Paradise </a> </em> .
+
+#	NEW	birth_date	........ / ,	// The first movie he directed was <em> <a> Nomads ( 1986 ) </a> </em> , starring <a> Pierce Brosnan </a> .
+
+#	NEW	birth_date	........ / 18 , 1952& 14 , 14 ,	// <p> <strong> Patrick Wayne Swayze </strong> ( ; August 18 , 1952&nbsp ; &#x2013 ; September 14 , 2009 ) However , he died from the disease on September 14 , 2009 .
+
+#	NEW	birth_date	........ / ,	// This film directly lead to <em> <a> La Belle Noiseuse </a> </em> , Rivette ' s most acclaimed film of his later career .
+
+#	NEW	birth_date	........ / 2010	// <p> In 2010 Mutafova was one of the leading actors in the Bulgarian film <em> If somebody loves you </em> . </p>
+
+#	NEW	birth_date	........ / Throughout	// <p> Throughout Graves ' career , he appeared in more than seventy films , television shows , and television movies .
+
+#	NEW	birth_date	........ / 22 , 1909 & 15 ,	// <p> <strong> Ann Sothern </strong> ( January 22 , 1909 &ndash ; March 15 , 2001 ) was an American <a> film and television actress </a> with a career spanning six decades . </p>
+
+#	NEW	birth_date	........ / ( June 8 , 1918 & 21 ,	// <p> <strong> Robert Preston </strong> ( June 8 , 1918 &ndash ; March 21 , 1987 ) was an <a> American </a> stage and film actor . </p>
+
+21	FALSE	Sherrill Milnes::birth_date	january 10, 1935 / 2001, Milnes	
+<p> Starting in 2001 , Milnes has been bringing his experience and expertise to young rising operatic talent through V . O . I . C . E .
+
+#	NEW	birth_date	........ / Steve	// <p> Steve is the host of <em> <a> Family Feud </a> </em> since September 2010 , replacing host <a> John O ' Hurley </a> . </p>
+
+#	NEW	birth_date	........ / Murch	// <p> Murch has written one book on film editing , <em> In the Blink of an Eye </em> ( 2001 ) .
+
+#	NEW	birth_date	........ / x7dd2 ; &#	// <p> <strong> Ken Ogata </strong> ( &#x7dd2 ; &#x5f62 ; &#x62f3 ; <em> Ogata Ken </em> , 20 July 1937-5 October 2008 ) was a Japanese <a> actor </a> .
+

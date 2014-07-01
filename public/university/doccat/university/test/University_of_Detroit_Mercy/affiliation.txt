@@ -1,9 +1,0 @@
-<p>Fraternities - <a>Kappa Delta Rho</a>, <a>Lambda Theta Pi</a>, <a>Phi Beta Sigma</a>, <a>Phi Kappa Theta</a>, <a>Sigma Pi</a></p>
-<p>Sororities - <a>Alpha Kappa Alpha</a>, <a>Delta Sigma Theta</a>, <a>Gamma Phi Beta</a>, <a>Kappa Beta Gamma</a>, <a>Sigma Sigma Sigma</a>, <a>Zeta Phi Beta</a></p>
-<li><a>Ron Fournier</a>, Radio</li>
-<li><a>Aryeh Altman</a>, Israeli Politician</li>
-<li><a>Tim Burns</a>, Michigan Politician</li>
-<li><a>Diane Hathaway</a>, Michigan Supreme Court Justice</li>
-Michael McCann</a></li>
-<li><a>Joseph Cassidy</a>, Anglican priest</li>
-<li><a>Bruce Egnater</a>, guitar amplifier designer</li>

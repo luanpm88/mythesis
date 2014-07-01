@@ -1,8 +1,0 @@
-Amenities  include study lounges on each floor, computer laboratories, laundry facilities, smart classrooms, multipurpose rooms and a kitchen in each building.
-<p>This is a list of the departments within each School:</p>
-<li>Agriculture and Human Ecology</li>
-<li>Accounting and Finance</li>
-<li>Management and Marketing</li>
-<li>Chemistry and Physics</li>
-<li>Languages and Literature
-<li>Educational Administration and Supervision</li>

@@ -1,8 +1,0 @@
-Some of the departments are listed under the faculty header.</p>
-<li>Department of Biology</li>
-<li>Department of Chemistry</li>
-<li>Department of Geography</li>
-<li>Department of Geology</li>
-<li>Department of Mathematics</li>
-<li>Department of Physics</li>
-<h2>Famous alumni</h2>

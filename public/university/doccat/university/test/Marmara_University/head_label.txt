@@ -1,4 +1,0 @@
-<li>School of Nursing </li>
-<li>School of Foreign Languages</li>
-<li>Vocational School of Divinity </li>
-<li>Vocational School of Technical Studies </li>

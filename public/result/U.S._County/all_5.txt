@@ -1,0 +1,1766 @@
+Total articles: 1697
+Articles for test: 1528
+Articles for train: 169
+Total attributes: 80
+Attributes with high occurrences: 21/80
+
+------------
+Found: 1787
+Found Not Null: 583
+Correct: 457
+Wrong: 126
+Total: 956
+precision: 0.7838765008576329
+recall: 0.4780334728033473
+
+
+
+2	FALSE	Grainger County, Tennessee:: area_water_sq_mi	22 / 6	
+pyramid Grainger County]] As of the <a> census </a> of 2000, there were 20,659 people, 8,270 households, and 6,161 families residing in the county.
+
+4	TRUE	Grainger County, Tennessee:: density_km2	28 / (28/	
+The <a> population density </a> was 74 people per square mile (28/km&#x00b2;).
+
+8	TRUE	Grainger County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Grainger County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Tennessee </a> renowned for its <a> tomatoes </a> .
+
+10	TRUE	Grainger County, Tennessee:: density_sq_mi	74 / (28/	
+The <a> population density </a> was 74 people per square mile (28/km&#x00b2;).
+
+11	TRUE	Giles County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Giles County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Tennessee </a> .
+
+14	TRUE	Giles County, Tennessee:: area_water_sq_mi	0 / 8	
+<p> As of the <a> census </a> of 2000, there were 29,447 people, 11,713 households, and 8,363 families residing in the county.
+
+16	TRUE	Giles County, Tennessee:: density_km2	19 / (19/	
+The <a> population density </a> was 48 people per square mile (19/km&#x00b2;).
+
+19	TRUE	Giles County, Tennessee:: area_water_km2	1 / 20	
+For every 100 females age 18 and over, there were 91.20 males. </p>
+
+20	TRUE	Giles County, Tennessee:: density_sq_mi	48 / (19/	
+The <a> population density </a> was 48 people per square mile (19/km&#x00b2;).
+
+21	TRUE	Gibson County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Gibson County </strong> is a <a> county </a> located in the <a> US state </a> of <a> Tennessee </a> .
+
+24	TRUE	Gibson County, Tennessee:: area_water_sq_mi	1 / 13	
+pyramid Gibson County]] As of the <a> census </a> of 2000, there were 48,152 people, 19,518 households, and 13,584 families residing in the county.
+
+26	TRUE	Gibson County, Tennessee:: density_km2	31 / (31/	
+The <a> population density </a> was 80 people per square mile (31/km&#x00b2;).
+
+28	FALSE	Gibson County, Tennessee:: area_water_km2	2 / 80	
+For every 100 females age 18 and over, there were 85.80 males. </p>
+
+29	TRUE	Gibson County, Tennessee:: density_sq_mi	80 / (31/	
+The <a> population density </a> was 80 people per square mile (31/km&#x00b2;).
+
+30	TRUE	Gibson County, Tennessee:: founded	1823 / October 21, 1823	
+The county was established by private act on October 21, 1823 and was named in honor of Colonel John H. Gibson who had died earlier that year.
+
+31	TRUE	Franklin County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Franklin County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Tennessee </a> .
+
+34	FALSE	Franklin County, Tennessee:: area_water_sq_mi	21 / 11	
+pyramid Franklin County]] As of the <a> census </a> of 2000, there were 39,270 people, 15,003 households, and 11,162 families residing in the county.
+
+39	TRUE	Franklin County, Tennessee:: density_sq_mi	71 / (27/	
+The <a> population density </a> was 71 people per square mile (27/km&#x00b2;).
+
+40	TRUE	Franklin County, Tennessee:: density_km2	27 / (27/	
+The <a> population density </a> was 71 people per square mile (27/km&#x00b2;).
+
+41	TRUE	Fentress County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Fentress County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Tennessee </a> .
+
+44	FALSE	Fentress County, Tennessee:: area_water_sq_mi	.4 / 4	
+pyramid Fentress County]] As of the <a> census </a> of 2000, there were 16,625 people, 6,693 households, and 4,818 families residing in the county.
+
+45	TRUE	Fentress County, Tennessee:: density_km2	13 / (13/	
+The <a> population density </a> was 33 people per square mile (13/km&#x00b2;).
+
+48	TRUE	Fentress County, Tennessee:: area_water_km2	1 / 10	
+For every 100 females age 18 and over, there were 93.10 males. </p>
+
+49	TRUE	Fentress County, Tennessee:: density_sq_mi	33 / (13/	
+The <a> population density </a> was 33 people per square mile (13/km&#x00b2;).
+
+51	FALSE	Fentress County, Tennessee:: founded	1823 / Fentress	
+<p> Fentress County includes part of <a> Dale Hollow Reservoir </a> and is drained by forks of the <a> Obey </a> and <a> Cumberland </a> Rivers. </p>
+
+52	TRUE	Dyer County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Dyer County </strong> is a <a> county </a> located in the westmost part of the <a> U.S. state </a> of <a> Tennessee </a> .
+
+55	FALSE	Dyer County, Tennessee:: area_water_sq_mi	16 / 10	
+pyramid Dyer County]] As of the <a> census </a> of 2000, there were 37,279 people, 14,751 households, and 10,458 families residing in the county.
+
+57	TRUE	Dyer County, Tennessee:: density_km2	28 / (28/	
+The <a> population density </a> was 73 people per square mile (28/km&#x00b2;).
+
+61	TRUE	Dyer County, Tennessee:: density_sq_mi	73 / (28/	
+The <a> population density </a> was 73 people per square mile (28/km&#x00b2;).
+
+62	TRUE	Dickson County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Dickson County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Tennessee </a> .
+
+64	TRUE	Dickson County, Tennessee:: area_water_sq_mi	1 / 12	
+<p> As of the <a> census </a> of 2000, there were 43,156 people, 16,473 households, and 12,173 families residing in the county.
+
+66	TRUE	Dickson County, Tennessee:: density_km2	34 / (34/	
+The <a> population density </a> was 88 people per square mile (34/km&#x00b2;).
+
+70	FALSE	Dickson County, Tennessee:: area_water_km2	4 / 90	
+For every 100 females age 18 and over, there were 92.90 males. </p>
+
+71	TRUE	Dickson County, Tennessee:: density_sq_mi	88 / (34/	
+The <a> population density </a> was 88 people per square mile (34/km&#x00b2;).
+
+73	TRUE	DeKalb County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> DeKalb County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Tennessee </a> .
+
+76	FALSE	DeKalb County, Tennessee:: area_water_sq_mi	24 / 4	
+<p> As of the <a> census </a> of 2000, there were 17,423 people, 6,984 households, and 4,986 families residing in the county.
+
+78	TRUE	DeKalb County, Tennessee:: density_km2	22 / (22/	
+The <a> population density </a> was 57 people per square mile (22/km&#x00b2;).
+
+81	FALSE	DeKalb County, Tennessee:: area_water_km2	63 / 90	
+For every 100 females age 18 and over, there were 94.90 males. </p>
+
+82	TRUE	DeKalb County, Tennessee:: density_sq_mi	57 / (22/	
+The <a> population density </a> was 57 people per square mile (22/km&#x00b2;).
+
+85	TRUE	Decatur County, Tennessee:: area_water_sq_mi	11 / 3	
+<p> As of the <a> census </a> of 2000, there were 11,731 people, 4,908 households, and 3,415 families residing in the county.
+
+87	TRUE	Decatur County, Tennessee:: density_km2	14 / (14/	
+The <a> population density </a> was 35 people per square mile (14/km&#x00b2;). </p>
+
+91	TRUE	Decatur County, Tennessee:: density_sq_mi	35 / (14/	
+The <a> population density </a> was 35 people per square mile (14/km&#x00b2;). </p>
+
+92	TRUE	Decatur County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Decatur County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Tennessee </a> .
+
+93	FALSE	Decatur County, Tennessee:: founded	november 1845 / 13.	
+About 13.80% of families and 16.00% of the population were below the <a> poverty line </a> , including 18.90% of those under age 18 and 22.20% of those age 65 or over. </p>
+
+103	TRUE	Cumberland County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Cumberland County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Tennessee </a> .
+
+106	TRUE	Cumberland County, Tennessee:: area_water_sq_mi	3 / 14	
+<p> As of the <a> census </a> of 2000, there were 46,802 people, 19,508 households, and 14,513 families residing in the county.
+
+108	TRUE	Cumberland County, Tennessee:: density_km2	27 / (27/	
+The <a> population density </a> was 69 people per square mile (27/km&#x00b2;). </p>
+
+111	TRUE	Cumberland County, Tennessee:: area_water_km2	9 / 60	
+For every 100 females age 18 and over, there were 91.60 males. </p>
+
+112	TRUE	Cumberland County, Tennessee:: density_sq_mi	69 / (27/	
+The <a> population density </a> was 69 people per square mile (27/km&#x00b2;). </p>
+
+113	TRUE	Crockett County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Crockett County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Tennessee </a> .
+
+116	TRUE	Crockett County, Tennessee:: area_water_sq_mi	0 / 4	
+pyramid Crockett County]] As of the <a> census </a> of 2000, there were 14,532 people, 5,632 households, and 4,066 families residing in the county.
+
+118	TRUE	Crockett County, Tennessee:: density_km2	21 / (21/	
+The <a> population density </a> was 55 people per square mile (21/km&#x00b2;).
+
+120	TRUE	Crockett County, Tennessee:: area_water_km2	1 / 70	
+For every 100 females age 18 and over, there were 90.70 males. </p>
+
+121	TRUE	Crockett County, Tennessee:: density_sq_mi	55 / (21/	
+The <a> population density </a> was 55 people per square mile (21/km&#x00b2;).
+
+125	FALSE	Coffee County, Tennessee:: area_water_sq_mi	6 / 13	
+pyramid Coffee County]] As of the <a> census </a> of 2000, there were 48,014 people, 18,885 households, and 13,597 families residing in the county.
+
+127	TRUE	Coffee County, Tennessee:: density_km2	43 / (43/	
+The <a> population density </a> was 112 people per square mile (43/km&#x00b2;).
+
+131	FALSE	Coffee County, Tennessee:: area_water_km2	15 / 30	
+For every 100 females age 18 and over, there were 92.30 males. </p>
+
+132	TRUE	Coffee County, Tennessee:: density_sq_mi	112 / (43/	
+The <a> population density </a> was 112 people per square mile (43/km&#x00b2;).
+
+133	TRUE	Coffee County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Coffee County </strong> is a <a> county </a> located in south-central portion of the <a> U.S. state </a> of <a> Tennessee </a> .
+
+134	TRUE	Cocke County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Cocke County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Tennessee </a> .
+
+137	TRUE	Cocke County, Tennessee:: area_water_sq_mi	9 / 9	
+pyramid Cocke County]] As of the <a> census </a> of 2000, there were 33,565 people, 13,762 households, and 9,715 families residing in the county.
+
+139	FALSE	Cocke County, Tennessee:: density_km2	14 / (30/	
+The <a> population density </a> was 77 people per square mile (30/km&#x00b2;).
+
+143	FALSE	Cocke County, Tennessee:: density_sq_mi	36 / (30/	
+The <a> population density </a> was 77 people per square mile (30/km&#x00b2;).
+
+144	TRUE	Claiborne County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Claiborne County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Tennessee </a> .
+
+147	TRUE	Claiborne County, Tennessee:: area_water_sq_mi	7 / 8	
+<p> As of the <a> census </a> of 2000, there were 29,862 people, 11,799 households, and 8,684 families residing in the county.
+
+149	TRUE	Claiborne County, Tennessee:: density_km2	27 / (27/	
+The <a> population density </a> was 69 people per square mile (27/km&#x00b2;).
+
+150	TRUE	Claiborne County, Tennessee:: founded	october 29, 1801 / October 29, 1801	
+<p> Claiborne County was established on October 29, 1801, created from Grainger and Hawkins counties and extended the southern boundary to <a> Anderson County </a> .
+
+153	FALSE	Claiborne County, Tennessee:: area_water_km2	19 / 40	
+For every 100 females age 18 and over, there were 91.40 males. </p>
+
+154	TRUE	Claiborne County, Tennessee:: density_sq_mi	69 / (27/	
+The <a> population density </a> was 69 people per square mile (27/km&#x00b2;).
+
+155	TRUE	Cheatham County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Cheatham County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Tennessee </a> .
+
+158	FALSE	Cheatham County, Tennessee:: area_water_sq_mi	4 / 10	
+<p> As of the <a> census </a> of 2000, there were 35,912 people, 12,878 households, and 10,160 families residing in the county.
+
+162	FALSE	Cheatham County, Tennessee:: area_water_km2	12 / 40	
+For every 100 females age 18 and over, there were 97.40 males. </p>
+
+163	TRUE	Cheatham County, Tennessee:: density_sq_mi	119 / (46/	
+The <a> population density </a> was 119 people per square mile (46/km&#x00b2;).
+
+164	TRUE	Cheatham County, Tennessee:: density_km2	46 / (46/	
+The <a> population density </a> was 119 people per square mile (46/km&#x00b2;).
+
+176	TRUE	Carroll County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Carroll County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Tennessee </a> .
+
+179	TRUE	Carroll County, Tennessee:: area_water_sq_mi	1 / 8	
+<p> As of the <a> census </a> of 2000, there were 29,475 people, 11,779 households, and 8,398 families residing in the county.
+
+181	TRUE	Carroll County, Tennessee:: density_km2	19 / (19/	
+The <a> population density </a> was 49 people per square mile (19/km&#x00b2;).
+
+184	FALSE	Carroll County, Tennessee:: area_water_km2	2 / 80	
+For every 100 females age 18 and over, there were 89.80 males. </p>
+
+185	TRUE	Carroll County, Tennessee:: density_sq_mi	49 / (19/	
+The <a> population density </a> was 49 people per square mile (19/km&#x00b2;).
+
+186	TRUE	Cannon County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Cannon County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Tennessee </a> .
+
+189	TRUE	Cannon County, Tennessee:: area_water_sq_mi	0 / 3	
+<p> As of the <a> census </a> of 2000, there were 12,826 people, 4,998 households, and 3,643 families residing in the county.
+
+191	TRUE	Cannon County, Tennessee:: density_km2	19 / (19/	
+The <a> population density </a> was 48 people per square mile (19/km&#x00b2;).
+
+195	TRUE	Cannon County, Tennessee:: area_water_km2	0 / 20	
+For every 100 females age 18 and over, there were 93.20 males. </p>
+
+196	TRUE	Cannon County, Tennessee:: density_sq_mi	48 / (19/	
+The <a> population density </a> was 48 people per square mile (19/km&#x00b2;).
+
+197	TRUE	Campbell County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Campbell County </strong> is a <a> U.S. county </a> located in the <a> U.S. state </a> of <a> Tennessee </a> .
+
+200	FALSE	Campbell County, Tennessee:: area_water_sq_mi	18 / 11	
+pyramid Campbell County]] As of the <a> census </a> of 2000, there were 39,854 people, 16,125 households, and 11,577 families residing in the county.
+
+202	TRUE	Campbell County, Tennessee:: density_km2	32 / (32/	
+The <a> population density </a> was 83 people per square mile (32/km&#x00b2;).
+
+206	FALSE	Campbell County, Tennessee:: area_water_km2	47 / 90	
+For every 100 females age 18 and over, there were 90.90 males. </p>
+
+207	TRUE	Campbell County, Tennessee:: density_sq_mi	83 / (32/	
+The <a> population density </a> was 83 people per square mile (32/km&#x00b2;).
+
+208	TRUE	Bradley County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Bradley County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Tennessee </a> .
+
+211	TRUE	Bradley County, Tennessee:: area_water_sq_mi	3 / 24	
+pyramid Bradley County]] As of the <a> census </a> of 2000, there were 87,965 people, 34,281 households, and 24,648 families residing in the county.
+
+213	FALSE	Bradley County, Tennessee:: density_km2	43 / (103/	
+The <a> population density </a> was 268 people per square mile (103/km&#x00b2;).
+
+216	FALSE	Bradley County, Tennessee:: area_water_km2	7 / 20	
+For every 100 females age 18 and over, there were 91.20 males. </p>
+
+217	FALSE	Bradley County, Tennessee:: density_sq_mi	112 / (103/	
+The <a> population density </a> was 268 people per square mile (103/km&#x00b2;).
+
+230	TRUE	Bledsoe County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Bledsoe County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Tennessee </a> .
+
+233	TRUE	Bledsoe County, Tennessee:: area_water_sq_mi	0 / 3	
+pyramid Bledsoe County]] As of the <a> census </a> of 2000, there were 12,367 people, 4,430 households, and 3,313 families residing in the county.
+
+234	TRUE	Bledsoe County, Tennessee:: density_km2	12 / (12/	
+The <a> population density </a> was 30 people per square mile (12/km&#x00b2;).
+
+235	FALSE	Bledsoe County, Tennessee:: founded	1807 / <a>	
+The county was named for <a> Anthony Bledsoe </a> , a soldier in the <a> Revolutionary War </a> and was an early settler of <a> Sumner County </a> .
+
+238	TRUE	Bledsoe County, Tennessee:: area_water_km2	1 / 121.	
+For every 100 females age 18 and over, there were 121.30
+
+239	TRUE	Bledsoe County, Tennessee:: density_sq_mi	30 / (12/	
+The <a> population density </a> was 30 people per square mile (12/km&#x00b2;).
+
+241	TRUE	Benton County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Benton County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Tennessee </a> .
+
+244	TRUE	Benton County, Tennessee:: density_km2	16 / (16/	
+The <a> population density </a> was 42 people per square mile (16/km&#x00b2;).
+
+248	TRUE	Benton County, Tennessee:: density_sq_mi	42 / (16/	
+The <a> population density </a> was 42 people per square mile (16/km&#x00b2;).
+
+254	TRUE	Bedford County, Tennessee:: density_km2	31 / (31/	
+The <a> population density </a> was 79 people per square mile (31/km&#x00b2;).
+
+257	FALSE	Bedford County, Tennessee:: area_water_km2	3 / 00	
+For every 100 females age 18 and over, there were 97.00 males. </p>
+
+258	TRUE	Bedford County, Tennessee:: density_sq_mi	79 / (31/	
+The <a> population density </a> was 79 people per square mile (31/km&#x00b2;).
+
+259	TRUE	Bedford County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Bedford County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Tennessee </a> .
+
+260	TRUE	Bedford County, Tennessee:: area_water_sq_mi	1 / 10	
+pyramid Bedford County]] As of the <a> census </a> of 2000, there were 37,586 people, 13,905 households, and 10,345 families residing in the county.
+
+261	TRUE	Fayette County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Fayette County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Tennessee </a> .
+
+264	TRUE	Fayette County, Tennessee:: area_water_sq_mi	2 / 8	
+pyramid Fayette County]] As of the <a> census </a> of 2000, there were 28,806 people, 10,467 households, and 8,017 families residing in the county.
+
+266	TRUE	Fayette County, Tennessee:: density_km2	16 / (16/	
+The <a> population density </a> was 41 people per square mile (16/km&#x00b2;).
+
+269	FALSE	Fayette County, Tennessee:: area_water_km2	4 / 20	
+For every 100 females age 18 and over, there were 92.20 males. </p>
+
+270	TRUE	Fayette County, Tennessee:: density_sq_mi	41 / (16/	
+The <a> population density </a> was 41 people per square mile (16/km&#x00b2;).
+
+271	TRUE	Chester County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Chester County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Tennessee </a> .
+
+274	TRUE	Chester County, Tennessee:: area_water_sq_mi	0 / 4	
+<p> As of the <a> census </a> of 2000, there were 15,540 people, 5,660 households, and 4,199 families residing in the county.
+
+276	TRUE	Chester County, Tennessee:: density_km2	21 / (21/	
+The <a> population density </a> was 54 people per square mile (21/km&#x00b2;).
+
+279	TRUE	Chester County, Tennessee:: density_sq_mi	54 / (21/	
+The <a> population density </a> was 54 people per square mile (21/km&#x00b2;).
+
+280	TRUE	Chester County, Tennessee:: area_water_km2	1 / 20	
+For every 100 females age 18 and over, there were 90.20 males. </p>
+
+345	TRUE	Denton County, Texas:: state	texas / Texas	
+<p> <strong> Denton County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Texas </a> .
+
+348	FALSE	Denton County, Texas:: area_water_sq_mi	69 / 111	
+The surrounding buildings on the square were listed on December 28, 2000]] As of the <a> census </a> of 2000, there were 432,976 people, 158,903 households, and 111,391 families residing in the county.
+
+366	TRUE	DeWitt County, Texas:: state	texas / Texas	
+<p> <strong> DeWitt County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Texas </a> .
+
+369	TRUE	DeWitt County, Texas:: area_water_sq_mi	1 / 5	
+<p> As of the <a> census </a> of 2000, there were 20,013 people, 7,207 households, and 5,131 families residing in the county.
+
+374	FALSE	DeWitt County, Texas:: area_water_km2	3 / 20	
+For every 100 females age 18 and over, there were 105.20 males. </p>
+
+418	TRUE	Culberson County, Texas:: state	texas / Texas	
+<p> <strong> Culberson County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Texas </a> .
+
+421	TRUE	Culberson County, Texas:: area_water_sq_mi	1 / 797	
+<p> As of the <a> census </a> of 2000, there were 2,975 people, 1,052 households, and 797 families residing in the county.
+
+424	FALSE	Culberson County, Texas:: founded	1911 / President	
+<a> President Lyndon B. Johnson </a> signed the 1966 legislation to create the park.
+
+429	TRUE	Crosby County, Texas:: state	texas / Texas	
+<p> <strong> Crosby County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Texas </a> .
+
+432	TRUE	Crosby County, Texas:: area_water_sq_mi	2 / 1	
+<p> As of the <a> census </a> of 2000, there were 7,072 people, 2,512 households, and 1,866 families residing in the county.
+
+438	TRUE	Crosby County, Texas:: density_km2	3 / (3/	
+The <a> population density </a> was 8 people per square mile (3/km&#x00b2;).
+
+593	TRUE	Cherokee County, Texas:: state	texas / Texas	
+<p> <strong> Cherokee County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Texas </a> .
+
+595	TRUE	Cherokee County, Texas:: area_water_sq_mi	10 / 12	
+<p> As of the <a> census </a> of 2000, there were 46,659 people, 16,651 households, and 12,105 families residing in the county.
+
+597	TRUE	Cherokee County, Texas:: density_km2	17 / (17/	
+The <a> population density </a> was 44 people per square mile (17/km&#x00b2;).
+
+625	TRUE	Cass County, Texas:: state	texas / Texas	
+<p> <strong> Cass County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Texas </a> .
+
+628	FALSE	Cass County, Texas:: area_water_sq_mi	23 / 8	
+<p> As of the <a> census </a> of 2000, there were 30,438 people, 12,190 households, and 8,654 families residing in the county.
+
+630	TRUE	Cass County, Texas:: density_km2	13 / (13/	
+The <a> population density </a> was 32 people per square mile (13/km&#x00b2;).
+
+631	FALSE	Cass County, Texas:: founded	1846 / was	
+The county was named for <a> Lewis Cass </a> , a senator from <a> Michigan </a> who favored the annexation of Texas.
+
+677	TRUE	Calhoun County, Texas:: state	texas / Texas	
+<p> <strong> Calhoun County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Texas </a> .
+
+681	TRUE	Calhoun County, Texas:: density_km2	16 / (16/	
+The <a> population density </a> was 40 people per square mile (16/km&#x00b2;).
+
+696	TRUE	Burnet County, Texas:: state	texas / Texas	
+<p> <strong> Burnet County </strong> is a <a> county </a> located on the <a> Edwards Plateau </a> in the <a> U.S. state </a> of <a> Texas </a> .
+
+699	FALSE	Burnet County, Texas:: area_water_sq_mi	25 / 9	
+<p> As of the <a> census </a> of 2000, there were 34,147 people, 13,133 households, and 9,665 families residing in the county.
+
+702	FALSE	Burnet County, Texas:: area_water_km2	65 / 30	
+For every 100 females age 18 and over, there were 91.30 males. </p>
+
+703	TRUE	Burnet County, Texas:: density_sq_mi	34 / (13/	
+The <a> population density </a> was 34 people per square mile (13/km&#x00b2;).
+
+705	TRUE	Burnet County, Texas:: density_km2	13 / (13/	
+The <a> population density </a> was 34 people per square mile (13/km&#x00b2;).
+
+715	TRUE	Brown County, Texas:: county	brown county / Brown County	
+<p> <strong> Brown County </strong> is a <a> county </a> in West Central Texas.
+
+716	TRUE	Brown County, Texas:: state	texas / Texas.	
+<p> <strong> Brown County </strong> is a <a> county </a> in West Central Texas.
+
+749	TRUE	Brewster County, Texas:: area_water_sq_mi	0 / 2	
+<p> As of the <a> census </a> of 2000, there were 8,866 people, 3,669 households, and 2,216 families residing in the county.
+
+754	FALSE	Brewster County, Texas:: density_sq_mi	1.4 / (1/	
+The <a> population density </a> was 1 person per square mile (1/km&#x00b2;).
+
+755	TRUE	Brewster County, Texas:: state	texas / Texas	
+<p> <strong> Brewster County </strong> is a <a> county </a> located in western part of the <a> U.S. state </a> of <a> Texas </a> , along the border with <a> Mexico </a> .
+
+789	TRUE	Borden County, Texas:: state	texas / Texas	
+<p> <strong> Borden County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Texas </a> .
+
+792	TRUE	Borden County, Texas:: area_water_sq_mi	7 / 216	
+<p> As of the <a> census </a> of 2000, there were 729 people, 292 households, and 216 families residing in the county.
+
+793	FALSE	Borden County, Texas:: density_km2	03 / (0.	
+The <a> population density </a> was 0.80 people per square mile (0.31/km&#x00b2;).
+
+796	FALSE	Borden County, Texas:: area_water_km2	19 / 108.	
+For every 100 females age 18 and over, there were 108.30
+
+798	TRUE	Borden County, Texas:: pop	729 / 729.	
+In 2000, its population was 729.
+
+800	TRUE	Blanco County, Texas:: state	texas / Texas	
+<p> <strong> Blanco County </strong> is a <a> county </a> located on the <a> Edwards Plateau </a> in the <a> U.S. state </a> of <a> Texas </a> .
+
+803	TRUE	Blanco County, Texas:: area_water_sq_mi	2 / 2	
+<p> As of the <a> census </a> of 2000, there were 8,418 people, 3,303 households, and 2,391 families residing in the county.
+
+805	TRUE	Blanco County, Texas:: density_km2	5 / (5/	
+The <a> population density </a> was 12 people per square mile (5/km&#x00b2;).
+
+808	FALSE	Blanco County, Texas:: area_water_km2	6 / 90	
+For every 100 females age 18 and over, there were 94.90 males. </p>
+
+809	TRUE	Blanco County, Texas:: density_sq_mi	12 / (5/	
+The <a> population density </a> was 12 people per square mile (5/km&#x00b2;).
+
+831	TRUE	Bee County, Texas:: state	texas / Texas	
+<p> <strong> Bee County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Texas </a> .
+
+833	TRUE	Bee County, Texas:: area_water_sq_mi	0 / 32	
+As of 2000, the population was 32,359.
+
+838	TRUE	Bee County, Texas:: area_water_km2	0 / 2000	
+As of 2000, the population was 32,359.
+
+841	TRUE	Baylor County, Texas:: state	texas / Texas	
+<p> <strong> Baylor County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Texas </a> .
+
+843	FALSE	Baylor County, Texas:: area_water_sq_mi	30 / 1	
+<p> As of the <a> census </a> of 2000, there were 4,093 people, 1,791 households, and 1,156 families residing in the county.
+
+848	TRUE	Baylor County, Texas:: density_sq_mi	5 / (2/	
+The <a> population density </a> was 5 people per square mile (2/km&#x00b2;).
+
+849	TRUE	Baylor County, Texas:: density_km2	2 / (2/	
+The <a> population density </a> was 5 people per square mile (2/km&#x00b2;).
+
+851	TRUE	Bastrop County, Texas:: state	texas / Texas	
+<p> <strong> Bastrop County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Texas </a> .
+
+854	FALSE	Bastrop County, Texas:: area_water_sq_mi	8 / 14	
+<p> As of the <a> census </a> of 2000, there were 57,733 people, 20,097 households, and 14,771 families residing in the county.
+
+856	TRUE	Bastrop County, Texas:: density_km2	25 / (25/	
+The <a> population density </a> was 65 people per square mile (25/km&#x00b2;).
+
+858	FALSE	Bastrop County, Texas:: area_water_km2	20 / 80	
+For every 100 females age 18 and over, there were 104.80 males. </p>
+
+859	TRUE	Bastrop County, Texas:: density_sq_mi	65 / (25/	
+The <a> population density </a> was 65 people per square mile (25/km&#x00b2;).
+
+871	TRUE	Bailey County, Texas:: state	texas / Texas	
+<p> <strong> Bailey County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Texas </a> .
+
+874	TRUE	Bailey County, Texas:: area_water_sq_mi	1 / 1	
+<p> As of the <a> census </a> of 2000, there were 6,594 people, 2,348 households, and 1,777 families residing in the county.
+
+876	FALSE	Bailey County, Texas:: density_km2	1 / (3/	
+The <a> population density </a> was 8 people per square mile (3/km&#x00b2;).
+
+879	FALSE	Bailey County, Texas:: area_water_km2	2 / 10	
+For every 100 females age 18 and over, there were 94.10 males. </p>
+
+880	TRUE	Bailey County, Texas:: density_sq_mi	3 / (3/	
+The <a> population density </a> was 8 people per square mile (3/km&#x00b2;).
+
+881	TRUE	Austin County, Texas:: county	austin county / Land&# x2013;	
+<p> <strong> Austin County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Texas </a> adjacent to the <a> Houston&#x2013;Sugar&nbsp;Land&#x2013;Baytown </a> metropolitan area.
+
+882	TRUE	Austin County, Texas:: state	texas / Texas	
+<p> <strong> Austin County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Texas </a> adjacent to the <a> Houston&#x2013;Sugar&nbsp;Land&#x2013;Baytown </a> metropolitan area.
+
+890	TRUE	Austin County, Texas:: area_water_km2	10 / 90	
+For every 100 females age 18 and over, there were 92.90 males. </p>
+
+892	TRUE	Atascosa County, Texas:: county	atascosa county / Bexar County	
+<p> <strong> Atascosa County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Texas </a> , and was formed in 1856 from <a> Bexar County </a> .
+
+893	TRUE	Atascosa County, Texas:: state	texas / Texas	
+<p> <strong> Atascosa County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Texas </a> , and was formed in 1856 from <a> Bexar County </a> .
+
+896	TRUE	Atascosa County, Texas:: area_water_sq_mi	3 / 10	
+<p> As of the <a> census </a> of 2000, there were 38,628 people, 12,816 households, and 10,022 families residing in the county.
+
+898	TRUE	Atascosa County, Texas:: density_km2	12 / (12/	
+The <a> population density </a> was 31 people per square mile (12/km&#x00b2;).
+
+900	TRUE	Atascosa County, Texas:: area_water_km2	9 / 20	
+For every 100 females age 18 and over, there were 94.20 males. </p>
+
+901	TRUE	Atascosa County, Texas:: density_sq_mi	31 / (12/	
+The <a> population density </a> was 31 people per square mile (12/km&#x00b2;).
+
+903	TRUE	Armstrong County, Texas:: state	texas / Texas	
+<p> <strong> Armstrong County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Texas </a> , and was formed in 1876 from <a> Bexar County </a> .
+
+906	TRUE	Armstrong County, Texas:: area_water_sq_mi	0 / 612	
+<p> As of the <a> census </a> of 2000, there were 2,148 people, 802 households, and 612 families residing in the county.
+
+908	TRUE	Armstrong County, Texas:: density_km2	1 / (1/	
+The <a> population density </a> was 2 people per square mile (1/km&#x00b2;).
+
+910	TRUE	Armstrong County, Texas:: area_water_km2	0 / 30	
+For every 100 females age 18 and over, there were 90.30 males. </p>
+
+911	TRUE	Armstrong County, Texas:: county	armstrong county / Bexar County	
+<p> <strong> Armstrong County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Texas </a> , and was formed in 1876 from <a> Bexar County </a> .
+
+912	TRUE	Armstrong County, Texas:: density_sq_mi	2 / (1/	
+The <a> population density </a> was 2 people per square mile (1/km&#x00b2;).
+
+913	TRUE	Archer County, Texas:: county	archer county / Fannin County	
+<p> <strong> Archer County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Texas </a> , and was formed in 1858 from <a> Fannin County </a> .
+
+914	TRUE	Archer County, Texas:: state	texas / Texas	
+<p> <strong> Archer County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Texas </a> , and was formed in 1858 from <a> Fannin County </a> .
+
+924	TRUE	Aransas County, Texas:: state	texas / Texas	
+<p> <strong> Aransas County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Texas </a> .
+
+929	TRUE	Aransas County, Texas:: density_km2	34 / (34/	
+The <a> population density </a> was 89 people per square mile (34/km&#x00b2;).
+
+932	TRUE	Aransas County, Texas:: density_sq_mi	89 / (34/	
+The <a> population density </a> was 89 people per square mile (34/km&#x00b2;).
+
+933	TRUE	Angelina County, Texas:: state	texas / Texas	
+<p> <strong> Angelina County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Texas </a> .
+
+937	TRUE	Angelina County, Texas:: density_km2	39 / (39/	
+The <a> population density </a> was 100 people per square mile (39/km&#x00b2;).
+
+941	TRUE	Angelina County, Texas:: density_sq_mi	100 / (39/	
+The <a> population density </a> was 100 people per square mile (39/km&#x00b2;).
+
+954	TRUE	Anderson County, Texas:: state	texas / Texas	
+<p> <strong> Anderson County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Texas </a> .
+
+956	TRUE	Anderson County, Texas:: area_water_sq_mi	7 / 11	
+<p> As of the <a> census </a> of 2000, there were 55,109 people, 15,678 households, and 11,335 families residing in the county.
+
+961	FALSE	Anderson County, Texas:: area_water_km2	19 / 40	
+For every 100 females age 18 and over, there were 173.40 males. </p>
+
+962	TRUE	Anderson County, Texas:: density_sq_mi	52 / (20/	
+The <a> population density </a> was 52 people per square mile (20/km&#x00b2;).
+
+964	TRUE	Anderson County, Texas:: density_km2	20 / (20/	
+The <a> population density </a> was 52 people per square mile (20/km&#x00b2;).
+
+975	TRUE	Williamson County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Williamson County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Tennessee </a> .
+
+977	TRUE	Williamson County, Tennessee:: area_water_sq_mi	1 / 35	
+<p> As of the <a> census </a> of 2000, there were 126,638 people, 44,725 households, and 35,780 families residing in the county.
+
+984	TRUE	White County, Tennessee:: area_water_sq_mi	3 / 6	
+As of the <a> census </a> of 2000, there were 23,102 people, 9,229 households, and 6,774 families residing in the county.
+
+985	TRUE	White County, Tennessee:: density_km2	24 / (24/	
+The <a> population density </a> was 61 people per square mile (24/km&#x00b2;).
+
+986	TRUE	White County, Tennessee:: founded	september 11, 1806 / September 11, 1806	
+<p> On September 11, 1806, an act of the <a> Tennessee General Assembly </a> created White County out of <a> Smith </a> and <a> Jackson </a> counties, responding to a petition signed by 155 residents of the area.
+
+989	FALSE	White County, Tennessee:: area_water_km2	7 / 40	
+For every 100 females age 18 and over, there were 92.40 males. </p>
+
+990	TRUE	White County, Tennessee:: density_sq_mi	61 / (24/	
+The <a> population density </a> was 61 people per square mile (24/km&#x00b2;).
+
+991	TRUE	White County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> White County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Tennessee </a> .
+
+992	TRUE	Weakley County, Tennessee:: area_total_sq_mi	582 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 582&nbsp;square miles (1,507&nbsp;km&#x00b2;), of which 580&nbsp;square miles (1,503&nbsp;km&#x00b2;) is land and 2&nbsp;square miles (4&nbsp;km&#x00b2;) (0.28%) is water. </p>
+
+993	TRUE	Weakley County, Tennessee:: area_land_sq_mi	580 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 582&nbsp;square miles (1,507&nbsp;km&#x00b2;), of which 580&nbsp;square miles (1,503&nbsp;km&#x00b2;) is land and 2&nbsp;square miles (4&nbsp;km&#x00b2;) (0.28%) is water. </p>
+
+995	TRUE	Weakley County, Tennessee:: area_water_sq_mi	2 / 9	
+pyramid Weakley County]] As of the <a> census </a> of 2000, there were 34,895 people, 13,599 households, and 9,124 families residing in the county.
+
+996	TRUE	Weakley County, Tennessee:: density_km2	23 / (23/	
+The <a> population density </a> was 60 people per square mile (23/km&#x00b2;).
+
+1000	FALSE	Weakley County, Tennessee:: area_water_km2	4 / 10	
+For every 100 females age 18 and over, there were 91.10 males. </p>
+
+1001	TRUE	Weakley County, Tennessee:: density_sq_mi	60 / (23/	
+The <a> population density </a> was 60 people per square mile (23/km&#x00b2;).
+
+1002	TRUE	Weakley County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Weakley County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Tennessee </a> .
+
+1004	TRUE	Wayne County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Wayne County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Tennessee </a> .
+
+1005	TRUE	Wayne County, Tennessee:: area_total_sq_mi	736 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 736&nbsp;square miles (1,905&nbsp;km&#x00b2;), of which 734&nbsp;square miles (1,901&nbsp;km&#x00b2;) is land and 2&nbsp;square miles (4&nbsp;km&#x00b2;) (0.22%) is water. </p>
+
+1006	TRUE	Wayne County, Tennessee:: area_land_sq_mi	734 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 736&nbsp;square miles (1,905&nbsp;km&#x00b2;), of which 734&nbsp;square miles (1,901&nbsp;km&#x00b2;) is land and 2&nbsp;square miles (4&nbsp;km&#x00b2;) (0.22%) is water. </p>
+
+1007	TRUE	Wayne County, Tennessee:: area_water_sq_mi	2 / 4	
+<p> As of the <a> census </a> of 2000, there were 16,842 people, 5,936 households, and 4,321 families residing in the county.
+
+1009	TRUE	Wayne County, Tennessee:: density_km2	9 / (9/	
+The <a> population density </a> was 23 people per square mile (9/km&#x00b2;).
+
+1013	FALSE	Wayne County, Tennessee:: area_water_km2	4 / 50	
+For every 100 females age 18 and over, there were 125.50 males. </p>
+
+1014	TRUE	Wayne County, Tennessee:: density_sq_mi	23 / (9/	
+The <a> population density </a> was 23 people per square mile (9/km&#x00b2;).
+
+1028	TRUE	Warren County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Warren County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Tennessee </a> .
+
+1029	TRUE	Warren County, Tennessee:: area_water_sq_mi	1 / 10	
+pyramid Warren County]] As of the <a> census </a> of 2000, there were 38,276 people, 15,181 households, and 10,824 families residing in the county.
+
+1030	TRUE	Warren County, Tennessee:: density_km2	34 / (34/	
+The <a> population density </a> was 88 people per square mile (34/km&#x00b2;).
+
+1034	TRUE	Warren County, Tennessee:: area_water_km2	4 / 70	
+For every 100 females age 18 and over, there were 94.70 males. </p>
+
+1035	TRUE	Warren County, Tennessee:: density_sq_mi	88 / (34/	
+The <a> population density </a> was 88 people per square mile (34/km&#x00b2;).
+
+1036	TRUE	Warren County, Tennessee:: area_total_sq_mi	434 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 434&nbsp;square miles (1,124&nbsp;km&#x00b2;), of which 433&nbsp;square miles (1,121&nbsp;km&#x00b2;) is land and 1&nbsp;square miles (4&nbsp;km&#x00b2;) (0.32%) is water. </p>
+
+1037	TRUE	Warren County, Tennessee:: area_land_sq_mi	433 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 434&nbsp;square miles (1,124&nbsp;km&#x00b2;), of which 433&nbsp;square miles (1,121&nbsp;km&#x00b2;) is land and 1&nbsp;square miles (4&nbsp;km&#x00b2;) (0.32%) is water. </p>
+
+1039	TRUE	Van Buren County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Van Buren County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Tennessee </a> .
+
+1040	TRUE	Van Buren County, Tennessee:: area_total_sq_mi	275 / 273&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 275&nbsp;square miles (711&nbsp;km&#x00b2;), of which 273&nbsp;square miles (708&nbsp;km&#x00b2;) is land and 1&nbsp;square miles (3&nbsp;km&#x00b2;) (0.42%) is water. </p>
+
+1042	TRUE	Van Buren County, Tennessee:: area_land_sq_mi	273 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 275&nbsp;square miles (711&nbsp;km&#x00b2;), of which 273&nbsp;square miles (708&nbsp;km&#x00b2;) is land and 1&nbsp;square miles (3&nbsp;km&#x00b2;) (0.42%) is water. </p>
+
+1043	TRUE	Van Buren County, Tennessee:: area_water_sq_mi	1 / 1	
+<p> As of the <a> census </a> of 2000, there were 5,508 people, 2,180 households, and 1,619 families residing in the county.
+
+1044	TRUE	Van Buren County, Tennessee:: density_km2	8 / (8/	
+The <a> population density </a> was 20 people per square mile (8/km&#x00b2;).
+
+1045	FALSE	Van Buren County, Tennessee:: area_total_km2	711 / 2000,	
+As of 2000, the population was 5,508.
+
+1047	TRUE	Van Buren County, Tennessee:: area_land_km2	708 / (3&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 275&nbsp;square miles (711&nbsp;km&#x00b2;), of which 273&nbsp;square miles (708&nbsp;km&#x00b2;) is land and 1&nbsp;square miles (3&nbsp;km&#x00b2;) (0.42%) is water. </p>
+
+1048	TRUE	Van Buren County, Tennessee:: area_water_km2	3 / 30	
+For every 100 females age 18 and over, there were 95.30 males. </p>
+
+1049	TRUE	Van Buren County, Tennessee:: density_sq_mi	20 / (8/	
+The <a> population density </a> was 20 people per square mile (8/km&#x00b2;).
+
+1050	TRUE	Union County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Union County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Tennessee </a> .
+
+1051	TRUE	Union County, Tennessee:: area_total_sq_mi	247 / 224&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 247&nbsp; <a> square mile </a> s (640&nbsp; <a> km&#x00b2; </a> ), of which 224&nbsp;square miles (579&nbsp;km&#x00b2;) is land and 24&nbsp;square miles (61&nbsp;km&#x00b2;) (9.54%) is water. </p>
+
+1052	TRUE	Union County, Tennessee:: area_land_sq_mi	224 / (9.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 247&nbsp; <a> square mile </a> s (640&nbsp; <a> km&#x00b2; </a> ), of which 224&nbsp;square miles (579&nbsp;km&#x00b2;) is land and 24&nbsp;square miles (61&nbsp;km&#x00b2;) (9.54%) is water. </p>
+
+1053	FALSE	Union County, Tennessee:: area_water_sq_mi	24 / 5	
+<p> As of the <a> census </a> of 2000, there were 17,808 people, 6,742 households, and 5,191 families residing in the county.
+
+1054	TRUE	Union County, Tennessee:: density_km2	31 / (31/	
+The <a> population density </a> was 80 people per square mile (31/km&#x00b2;).
+
+1055	FALSE	Union County, Tennessee:: area_total_km2	640 / 17,808	
+Its population was 17,808 as of the <a> United States Census, 2000 </a> .
+
+1056	FALSE	Union County, Tennessee:: area_water_km2	61 / 60	
+For every 100 females age 18 and over, there were 96.60 males. </p>
+
+1057	TRUE	Union County, Tennessee:: density_sq_mi	80 / (31/	
+The <a> population density </a> was 80 people per square mile (31/km&#x00b2;).
+
+1081	TRUE	Tipton County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Tipton County </strong> is a <a> county </a> located on the western end of the <a> U.S. state </a> of <a> Tennessee </a> .
+
+1082	TRUE	Tipton County, Tennessee:: area_land_sq_mi	459 / (3.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 475&nbsp; <a> square mile </a> s (1,230&nbsp; <a> km&#x00b2; </a> ), of which 459&nbsp;square miles (1,190&nbsp;km&#x00b2;) is land and 15&nbsp;square miles (40&nbsp;km&#x00b2;) (3.23%) is water. </p>
+
+1084	TRUE	Tipton County, Tennessee:: density_km2	43 / (43/	
+The <a> population density </a> was 112 people per square mile (43/km&#x00b2;).
+
+1088	FALSE	Tipton County, Tennessee:: area_water_km2	40 / 20	
+For every 100 females age 18 and over, there were 93.20 males. </p>
+
+1089	TRUE	Tipton County, Tennessee:: density_sq_mi	112 / (43/	
+The <a> population density </a> was 112 people per square mile (43/km&#x00b2;).
+
+1090	TRUE	Tipton County, Tennessee:: area_total_sq_mi	475 / (3.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 475&nbsp; <a> square mile </a> s (1,230&nbsp; <a> km&#x00b2; </a> ), of which 459&nbsp;square miles (1,190&nbsp;km&#x00b2;) is land and 15&nbsp;square miles (40&nbsp;km&#x00b2;) (3.23%) is water. </p>
+
+1091	FALSE	Tipton County, Tennessee:: area_water_sq_mi	15 / 14	
+pyramid Tipton County]] As of the <a> census </a> of 2000, there were 51,271 people, 18,106 households, and 14,176 families residing in the county.
+
+1114	TRUE	Stewart County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Stewart County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Tennessee </a> .
+
+1115	TRUE	Stewart County, Tennessee:: area_total_sq_mi	493 / (7.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 493&nbsp; <a> square mile </a> s (1,277&nbsp; <a> km&#x00b2; </a> ), of which 458&nbsp;square miles (1,187&nbsp;km&#x00b2;) is land and 35&nbsp;square miles (90&nbsp;km&#x00b2;) (7.04%) is water. </p>
+
+1116	TRUE	Stewart County, Tennessee:: area_land_sq_mi	458 / (7.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 493&nbsp; <a> square mile </a> s (1,277&nbsp; <a> km&#x00b2; </a> ), of which 458&nbsp;square miles (1,187&nbsp;km&#x00b2;) is land and 35&nbsp;square miles (90&nbsp;km&#x00b2;) (7.04%) is water. </p>
+
+1117	FALSE	Stewart County, Tennessee:: area_water_sq_mi	35 / 3	
+<p> As of the <a> census </a> of 2000, there were 12,370 people, 4,930 households, and 3,653 families residing in the county.
+
+1118	TRUE	Stewart County, Tennessee:: density_km2	10 / (10/	
+The <a> population density </a> was 27 people per square mile (10/km&#x00b2;).
+
+1122	FALSE	Stewart County, Tennessee:: area_water_km2	90 / 50	
+For every 100 females age 18 and over, there were 96.50 males. </p>
+
+1123	TRUE	Stewart County, Tennessee:: density_sq_mi	27 / (10/	
+The <a> population density </a> was 27 people per square mile (10/km&#x00b2;).
+
+1156	TRUE	Sequatchie County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Sequatchie County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Tennessee </a> .
+
+1157	TRUE	Sequatchie County, Tennessee:: area_total_sq_mi	266 / 266&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 266&nbsp;square miles (689&nbsp;km&#x00b2;), of which 266&nbsp;square miles (689&nbsp;km&#x00b2;) is land and 0&nbsp;square miles (0&nbsp;km&#x00b2;) (0.07%) is water. </p>
+
+1158	TRUE	Sequatchie County, Tennessee:: area_land_sq_mi	266 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 266&nbsp;square miles (689&nbsp;km&#x00b2;), of which 266&nbsp;square miles (689&nbsp;km&#x00b2;) is land and 0&nbsp;square miles (0&nbsp;km&#x00b2;) (0.07%) is water. </p>
+
+1159	TRUE	Sequatchie County, Tennessee:: area_water_sq_mi	0 / 3	
+<p> As of the <a> census </a> of 2000, there were 11,370 people, 4,463 households, and 3,311 families residing in the county.
+
+1161	TRUE	Sequatchie County, Tennessee:: density_km2	17 / (17/	
+The <a> population density </a> was 43 people per square mile (17/km&#x00b2;).
+
+1164	FALSE	Sequatchie County, Tennessee:: area_total_km2	689 / 2000,	
+As of 2000, the population was 11,370.
+
+1165	TRUE	Sequatchie County, Tennessee:: area_land_km2	689 / (0&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 266&nbsp;square miles (689&nbsp;km&#x00b2;), of which 266&nbsp;square miles (689&nbsp;km&#x00b2;) is land and 0&nbsp;square miles (0&nbsp;km&#x00b2;) (0.07%) is water. </p>
+
+1166	TRUE	Sequatchie County, Tennessee:: area_water_km2	0 / 80	
+For every 100 females age 18 and over, there were 95.80 males. </p>
+
+1167	TRUE	Sequatchie County, Tennessee:: density_sq_mi	43 / (17/	
+The <a> population density </a> was 43 people per square mile (17/km&#x00b2;).
+
+1168	TRUE	Scott County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Scott County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Tennessee </a> .
+
+1169	TRUE	Scott County, Tennessee:: area_total_sq_mi	533 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 533&nbsp;square miles (1,381&nbsp;km&#x00b2;), of which 532&nbsp;square miles (1,378&nbsp;km&#x00b2;) is land and 1&nbsp;square miles (3&nbsp;km&#x00b2;) (0.21%) is water. </p>
+
+1170	TRUE	Scott County, Tennessee:: area_land_sq_mi	532 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 533&nbsp;square miles (1,381&nbsp;km&#x00b2;), of which 532&nbsp;square miles (1,378&nbsp;km&#x00b2;) is land and 1&nbsp;square miles (3&nbsp;km&#x00b2;) (0.21%) is water. </p>
+
+1171	TRUE	Scott County, Tennessee:: area_water_sq_mi	1 / 6	
+<p> As of the <a> census </a> of 2000, there were 21,127 people, 8,203 households, and 6,012 families residing in the county.
+
+1173	TRUE	Scott County, Tennessee:: density_km2	15 / (15/	
+The <a> population density </a> was 40 people per square mile (15/km&#x00b2;).
+
+1174	TRUE	Scott County, Tennessee:: founded	1849 / 1849	
+It was created in 1849 from Anderson, Campbell, Fentress, and Morgan Counties and named for General <a> Winfield Scott </a> .
+
+1177	FALSE	Scott County, Tennessee:: area_water_km2	3 / 00	
+For every 100 females age 18 and over, there were 94.00 males. </p>
+
+1178	TRUE	Scott County, Tennessee:: density_sq_mi	40 / (15/	
+The <a> population density </a> was 40 people per square mile (15/km&#x00b2;).
+
+1179	TRUE	Rutherford County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Rutherford County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Tennessee </a> .
+
+1180	TRUE	Rutherford County, Tennessee:: area_total_sq_mi	624 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 624&nbsp;square miles (1,616&nbsp;km&#x00b2;), of which 619&nbsp;square miles (1,603&nbsp;km&#x00b2;) is land and 5&nbsp;square miles (13&nbsp;km&#x00b2;) (0.81%) is water. </p>
+
+1182	FALSE	Rutherford County, Tennessee:: area_water_sq_mi	5 / 47	
+<p> As of the <a> census </a> of 2000, there were 182,023 people, 66,443 households, and 47,440 families residing in the county.
+
+1186	FALSE	Rutherford County, Tennessee:: area_water_km2	13 / 20	
+For every 100 females age 18 and over, there were 97.20 males. </p>
+
+1188	FALSE	Rutherford County, Tennessee:: pop	257,048 / 255,239.	
+<p> The 2009 <a> Claritas Estimate </a> put the population of Rutherford County at 255,239.
+
+1191	TRUE	Robertson County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Robertson County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Tennessee </a> .
+
+1192	TRUE	Robertson County, Tennessee:: area_total_sq_mi	477 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 477&nbsp; <a> square mile </a> s (1,235&nbsp; <a> km&#x00b2; </a> ), of which 476&nbsp;square miles (1,234&nbsp;km&#x00b2;) is land and 0&nbsp;square miles (1&nbsp;km&#x00b2;) (0.04%) is water. </p>
+
+1193	TRUE	Robertson County, Tennessee:: area_land_sq_mi	476 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 477&nbsp; <a> square mile </a> s (1,235&nbsp; <a> km&#x00b2; </a> ), of which 476&nbsp;square miles (1,234&nbsp;km&#x00b2;) is land and 0&nbsp;square miles (1&nbsp;km&#x00b2;) (0.04%) is water. </p>
+
+1195	TRUE	Robertson County, Tennessee:: density_km2	44 / (44/	
+The <a> population density </a> was 114 people per square mile (44/km&#x00b2;).
+
+1199	TRUE	Robertson County, Tennessee:: area_water_km2	1 / 70	
+For every 100 females age 18 and over, there were 95.70 males. </p>
+
+1200	TRUE	Robertson County, Tennessee:: density_sq_mi	114 / (44/	
+The <a> population density </a> was 114 people per square mile (44/km&#x00b2;).
+
+1201	TRUE	Robertson County, Tennessee:: area_water_sq_mi	0 / 15	
+pyramid Robertson County]] As of the <a> census </a> of 2000, there were 54,433 people, 19,906 households, and 15,447 families residing in the county.
+
+1202	TRUE	Roane County, Tennessee:: area_total_sq_mi	395 / 361&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 395&nbsp; <a> square mile </a> s (1,023&nbsp; <a> km&#x00b2; </a> ), of which 361&nbsp;square miles (935&nbsp;km&#x00b2;) is land and 34&nbsp;square miles (88&nbsp;km&#x00b2;) (8.61%) is water. </p>
+
+1203	TRUE	Roane County, Tennessee:: area_land_sq_mi	361 / (8.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 395&nbsp; <a> square mile </a> s (1,023&nbsp; <a> km&#x00b2; </a> ), of which 361&nbsp;square miles (935&nbsp;km&#x00b2;) is land and 34&nbsp;square miles (88&nbsp;km&#x00b2;) (8.61%) is water. </p>
+
+1204	FALSE	Roane County, Tennessee:: area_water_sq_mi	34 / 15	
+pyramid Roane County]] As of the <a> census </a> of 2000, there were 51,910 people, 21,200 households, and 15,242 families residing in the county.
+
+1206	TRUE	Roane County, Tennessee:: density_km2	56 / (56/	
+The <a> population density </a> was 144 people per square mile (56/km&#x00b2;).
+
+1210	TRUE	Roane County, Tennessee:: density_sq_mi	144 / (56/	
+The <a> population density </a> was 144 people per square mile (56/km&#x00b2;).
+
+1211	TRUE	Roane County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Roane County </strong> is a <a> county </a> of the <a> U.S. state </a> of <a> Tennessee </a> ( <a> TN </a> ), <a> United States </a> .
+
+1212	FALSE	Roane County, Tennessee:: area_water_km2	88 / 70	
+For every 100 females age 18 and over, there were 90.70 males. </p>
+
+1213	TRUE	Rhea County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Rhea County </strong> (pronounced &quot; <em> ray </em> &quot;) is a <a> county </a> located in the <a> U.S. state </a> of <a> Tennessee </a> .
+
+1214	TRUE	Rhea County, Tennessee:: area_total_sq_mi	336 / 316&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 336&nbsp; <a> square mile </a> s (871&nbsp; <a> km&#x00b2; </a> ), of which 316&nbsp;square miles (818&nbsp;km&#x00b2;) is land and 20&nbsp;square miles (53&nbsp;km&#x00b2;) (6.08%) is water. </p>
+
+1215	TRUE	Rhea County, Tennessee:: area_land_sq_mi	316 / (6.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 336&nbsp; <a> square mile </a> s (871&nbsp; <a> km&#x00b2; </a> ), of which 316&nbsp;square miles (818&nbsp;km&#x00b2;) is land and 20&nbsp;square miles (53&nbsp;km&#x00b2;) (6.08%) is water. </p>
+
+1216	TRUE	Rhea County, Tennessee:: area_water_sq_mi	20 / 8	
+pyramid Rhea County]] As of the <a> census </a> of 2000, there were 28,400 people, 11,184 households, and 8,108 families residing in the county.
+
+1218	TRUE	Rhea County, Tennessee:: density_km2	35 / (35/	
+The <a> population density </a> was 90 people per square mile (35/km&#x00b2;).
+
+1221	FALSE	Rhea County, Tennessee:: area_total_km2	871 / 2000,	
+As of 2000, the population was 28,400.
+
+1222	FALSE	Rhea County, Tennessee:: area_water_km2	53 / 70	
+For every 100 females age 18 and over, there were 91.70 males. </p>
+
+1223	TRUE	Rhea County, Tennessee:: density_sq_mi	90 / (35/	
+The <a> population density </a> was 90 people per square mile (35/km&#x00b2;).
+
+1224	TRUE	Polk County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Polk County </strong> is a <a> county </a> located in the southeastern corner of the <a> U.S. state </a> of <a> Tennessee </a> .
+
+1225	TRUE	Polk County, Tennessee:: area_total_sq_mi	442 / 7&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 442&nbsp;square miles (1,146&nbsp;km&#x00b2;), of which 435&nbsp;square miles (1,127&nbsp;km&#x00b2;) is land and 7&nbsp;square miles (19&nbsp;km&#x00b2;) is <a> water </a> .
+
+1226	TRUE	Polk County, Tennessee:: area_land_sq_mi	435 / 7&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 442&nbsp;square miles (1,146&nbsp;km&#x00b2;), of which 435&nbsp;square miles (1,127&nbsp;km&#x00b2;) is land and 7&nbsp;square miles (19&nbsp;km&#x00b2;) is <a> water </a> .
+
+1227	TRUE	Polk County, Tennessee:: area_water_sq_mi	7 / 4	
+<p> As of the <a> census </a> of 2000, there were 16,050 people, 6,448 households, and 4,752 families residing in the county.
+
+1229	TRUE	Polk County, Tennessee:: density_km2	14 / (14/	
+The <a> population density </a> was 37 people per square mile (14/km&#x00b2;).
+
+1230	TRUE	Polk County, Tennessee:: founded	1839 / 28	
+It was created 28 November 1839 from parts of <a> Bradley </a> and <a> McMinn </a> counties.
+
+1233	FALSE	Polk County, Tennessee:: area_water_km2	19 / 80	
+For every 100 females age 18 and over, there were 95.80 males. </p>
+
+1234	TRUE	Polk County, Tennessee:: density_sq_mi	37 / (14/	
+The <a> population density </a> was 37 people per square mile (14/km&#x00b2;).
+
+1247	TRUE	Perry County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Perry County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Tennessee </a> .
+
+1248	TRUE	Perry County, Tennessee:: area_total_sq_mi	423 / (1.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 423&nbsp;square miles (1,095&nbsp;km&#x00b2;), of which 415&nbsp;square miles (1,075&nbsp;km&#x00b2;) is land and 8&nbsp;square miles (21&nbsp;km&#x00b2;) (1.89%) is water.
+
+1249	TRUE	Perry County, Tennessee:: area_land_sq_mi	415 / (1.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 423&nbsp;square miles (1,095&nbsp;km&#x00b2;), of which 415&nbsp;square miles (1,075&nbsp;km&#x00b2;) is land and 8&nbsp;square miles (21&nbsp;km&#x00b2;) (1.89%) is water.
+
+1250	FALSE	Perry County, Tennessee:: area_water_sq_mi	8 / 2	
+<p> As of the <a> census </a> of 2000, there were 7,631 people, 3,023 households, and 2,164 families residing in the county.
+
+1252	TRUE	Perry County, Tennessee:: density_km2	7 / (7/	
+The <a> population density </a> was 18 people per square mile (7/km&#x00b2;).
+
+1256	FALSE	Perry County, Tennessee:: area_water_km2	21 / 30	
+For every 100 females age 18 and over, there were 95.30 males. </p>
+
+1257	TRUE	Perry County, Tennessee:: density_sq_mi	18 / (7/	
+The <a> population density </a> was 18 people per square mile (7/km&#x00b2;).
+
+1258	TRUE	Overton County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Overton County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Tennessee </a> .
+
+1259	TRUE	Overton County, Tennessee:: area_total_sq_mi	435 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 435&nbsp; <a> square mile </a> s (1,126&nbsp; <a> km&#x00b2; </a> ), of which 433&nbsp;square miles (1,122&nbsp;km&#x00b2;) is land and 1&nbsp;square miles (4&nbsp;km&#x00b2;) (0.33%) is water. </p>
+
+1260	TRUE	Overton County, Tennessee:: area_land_sq_mi	433 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 435&nbsp; <a> square mile </a> s (1,126&nbsp; <a> km&#x00b2; </a> ), of which 433&nbsp;square miles (1,122&nbsp;km&#x00b2;) is land and 1&nbsp;square miles (4&nbsp;km&#x00b2;) (0.33%) is water. </p>
+
+1261	TRUE	Overton County, Tennessee:: area_water_sq_mi	1 / 5	
+<p> As of the <a> census </a> of 2000, there were 20,118 people, 8,110 households, and 5,920 families residing in the county.
+
+1263	TRUE	Overton County, Tennessee:: density_km2	18 / (18/	
+The <a> population density </a> was 46 people per square mile (18/km&#x00b2;).
+
+1267	FALSE	Overton County, Tennessee:: area_water_km2	4 / 10	
+For every 100 females age 18 and over, there were 93.10 males. </p>
+
+1268	TRUE	Overton County, Tennessee:: density_sq_mi	46 / (18/	
+The <a> population density </a> was 46 people per square mile (18/km&#x00b2;).
+
+1269	TRUE	Obion County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Obion County </strong> is a <a> county </a> located in the <a> State </a> of <a> Tennessee </a> .
+
+1270	FALSE	Obion County, Tennessee:: area_water_sq_mi	10 / 9	
+As of the <a> census </a> of 2000, there were 32,450 people, 13,182 households, and 9,398 families residing in the county.
+
+1271	TRUE	Obion County, Tennessee:: density_km2	23 / (23/	
+The <a> population density </a> was 60 people per square mile (23/km&#x00b2;).
+
+1273	FALSE	Obion County, Tennessee:: area_water_km2	27 / 90	
+For every 100 females age 18 and over, there were 89.90 males. </p>
+
+1274	TRUE	Obion County, Tennessee:: density_sq_mi	60 / (23/	
+The <a> population density </a> was 60 people per square mile (23/km&#x00b2;).
+
+1277	TRUE	Morgan County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Morgan County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Tennessee </a> .
+
+1278	TRUE	Morgan County, Tennessee:: area_total_sq_mi	522 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 522&nbsp;square miles (1,353&nbsp;km&#x00b2;), of which 522&nbsp;square miles (1,352&nbsp;km&#x00b2;) is land and 0.4&nbsp;square miles (1&nbsp;km&#x00b2;) (0.07%) is water.
+
+1279	TRUE	Morgan County, Tennessee:: area_land_sq_mi	522 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 522&nbsp;square miles (1,353&nbsp;km&#x00b2;), of which 522&nbsp;square miles (1,352&nbsp;km&#x00b2;) is land and 0.4&nbsp;square miles (1&nbsp;km&#x00b2;) (0.07%) is water.
+
+1280	FALSE	Morgan County, Tennessee:: area_water_sq_mi	.4 / 5	
+<p> As of the <a> census </a> of 2000, there were 19,757 people, 6,990 households, and 5,235 families residing in the county.
+
+1282	TRUE	Morgan County, Tennessee:: density_km2	15 / (15/	
+The <a> population density </a> was 38 people per square mile (15/km&#x00b2;).
+
+1283	FALSE	Morgan County, Tennessee:: founded	1817 / November 10, 2002	
+<p> On November 10, 2002, a <a> tornado </a> destroyed 50 homes.
+
+1287	TRUE	Morgan County, Tennessee:: area_water_km2	1 / 40	
+For every 100 females age 18 and over, there were 116.40 males. </p>
+
+1288	TRUE	Morgan County, Tennessee:: density_sq_mi	38 / (15/	
+The <a> population density </a> was 38 people per square mile (15/km&#x00b2;).
+
+1289	TRUE	Moore County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Moore County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Tennessee </a> .
+
+1290	TRUE	Moore County, Tennessee:: area_total_sq_mi	130 / 129&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 130&nbsp;square miles (338&nbsp;km&#x00b2;), of which 129&nbsp;square miles (335&nbsp;km&#x00b2;) is land and 1&nbsp;square miles (3&nbsp;km&#x00b2;) (0.93%) is water. </p>
+
+1291	TRUE	Moore County, Tennessee:: area_land_sq_mi	129 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 130&nbsp;square miles (338&nbsp;km&#x00b2;), of which 129&nbsp;square miles (335&nbsp;km&#x00b2;) is land and 1&nbsp;square miles (3&nbsp;km&#x00b2;) (0.93%) is water. </p>
+
+1292	TRUE	Moore County, Tennessee:: area_water_sq_mi	1 / 1	
+<p> As of the <a> census </a> of 2000, there were 5,740 people, 2,211 households, and 1,686 families residing in the county.
+
+1294	TRUE	Moore County, Tennessee:: density_km2	17 / (17/	
+The <a> population density </a> was 44 people per square mile (17/km&#x00b2;).
+
+1297	FALSE	Moore County, Tennessee:: area_total_km2	338 / 2000,	
+As of 2000, the population was 5,740.
+
+1298	FALSE	Moore County, Tennessee:: area_water_km2	3 / 80	
+For every 100 females age 18 and over, there were 97.80 males. </p>
+
+1299	TRUE	Moore County, Tennessee:: density_sq_mi	44 / (17/	
+The <a> population density </a> was 44 people per square mile (17/km&#x00b2;).
+
+1300	TRUE	Moore County, Tennessee:: area_land_km2	335 / (3&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 130&nbsp;square miles (338&nbsp;km&#x00b2;), of which 129&nbsp;square miles (335&nbsp;km&#x00b2;) is land and 1&nbsp;square miles (3&nbsp;km&#x00b2;) (0.93%) is water. </p>
+
+1301	TRUE	Monroe County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Monroe County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Tennessee </a> .
+
+1302	TRUE	Monroe County, Tennessee:: area_land_sq_mi	635 / (2.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 653&nbsp;square miles (1,690&nbsp;km&#x00b2;), of which 635&nbsp;square miles (1,644&nbsp;km&#x00b2;) is land and 18&nbsp;square miles (46&nbsp;km&#x00b2;) (2.71%) is water. </p>
+
+1303	FALSE	Monroe County, Tennessee:: area_water_sq_mi	18 / 11	
+<p> As of the <a> census </a> of 2000, there are 38,961 people, 15,329 households, and 11,236 families residing in the county.
+
+1305	TRUE	Monroe County, Tennessee:: density_km2	24 / (24/	
+The <a> population density </a> is 61 people per square mile (24/km&#x00b2;).
+
+1309	FALSE	Monroe County, Tennessee:: area_water_km2	46 / 90	
+For every 100 females age 18 and over, there are 93.90 males. </p>
+
+1310	TRUE	Monroe County, Tennessee:: density_sq_mi	61 / (24/	
+The <a> population density </a> is 61 people per square mile (24/km&#x00b2;).
+
+1311	TRUE	Monroe County, Tennessee:: area_total_sq_mi	653 / (2.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 653&nbsp;square miles (1,690&nbsp;km&#x00b2;), of which 635&nbsp;square miles (1,644&nbsp;km&#x00b2;) is land and 18&nbsp;square miles (46&nbsp;km&#x00b2;) (2.71%) is water. </p>
+
+1312	TRUE	Meigs County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Meigs County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Tennessee </a> .
+
+1313	TRUE	Meigs County, Tennessee:: area_total_sq_mi	217 / 195&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 217&nbsp;square miles (561&nbsp;km&#x00b2;), of which 195&nbsp;square miles (505&nbsp;km&#x00b2;) is land and 22&nbsp;square miles (57&nbsp;km&#x00b2;) (10.11%) is water. </p>
+
+1314	TRUE	Meigs County, Tennessee:: area_land_sq_mi	195 / (10.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 217&nbsp;square miles (561&nbsp;km&#x00b2;), of which 195&nbsp;square miles (505&nbsp;km&#x00b2;) is land and 22&nbsp;square miles (57&nbsp;km&#x00b2;) (10.11%) is water. </p>
+
+1315	FALSE	Meigs County, Tennessee:: area_water_sq_mi	22 / 3	
+pyramid Meigs County]] As of the <a> census </a> of 2000, there were 11,086 people, 4,304 households, and 3,262 families residing in the county.
+
+1318	FALSE	Meigs County, Tennessee:: area_total_km2	561 / 2000,	
+As of 2000, the population was 11,086.
+
+1319	TRUE	Meigs County, Tennessee:: area_land_km2	505 / (57&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 217&nbsp;square miles (561&nbsp;km&#x00b2;), of which 195&nbsp;square miles (505&nbsp;km&#x00b2;) is land and 22&nbsp;square miles (57&nbsp;km&#x00b2;) (10.11%) is water. </p>
+
+1320	FALSE	Meigs County, Tennessee:: area_water_km2	57 / 30	
+For every 100 females age 18 and over, there were 97.30 males. </p>
+
+1321	TRUE	Meigs County, Tennessee:: density_sq_mi	57 / (22/	
+The <a> population density </a> was 57 people per square mile (22/km&#x00b2;).
+
+1322	TRUE	Meigs County, Tennessee:: density_km2	22 / (22/	
+The <a> population density </a> was 57 people per square mile (22/km&#x00b2;).
+
+1323	TRUE	McNairy County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> McNairy County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Tennessee </a> .
+
+1324	TRUE	McNairy County, Tennessee:: area_total_sq_mi	561 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 561&nbsp;square miles (1,453&nbsp;km&#x00b2;), of which 560&nbsp;square miles (1,450&nbsp;km&#x00b2;) is land and 1&nbsp;square miles (2&nbsp;km&#x00b2;) (0.14%) is water. </p>
+
+1325	TRUE	McNairy County, Tennessee:: area_land_sq_mi	560 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 561&nbsp;square miles (1,453&nbsp;km&#x00b2;), of which 560&nbsp;square miles (1,450&nbsp;km&#x00b2;) is land and 1&nbsp;square miles (2&nbsp;km&#x00b2;) (0.14%) is water. </p>
+
+1326	TRUE	McNairy County, Tennessee:: area_water_sq_mi	1 / 7	
+pyramid McNairy County]] As of the <a> census </a> of 2000, there were 24,653 people, 9,980 households, and 7,135 families residing in the county.
+
+1328	TRUE	McNairy County, Tennessee:: density_km2	17 / (17/	
+The <a> population density </a> was 44 people per square mile (17/km&#x00b2;).
+
+1332	FALSE	McNairy County, Tennessee:: area_water_km2	2 / 40	
+For every 100 females age 18 and over, there were 91.40 males. </p>
+
+1333	TRUE	McNairy County, Tennessee:: density_sq_mi	44 / (17/	
+The <a> population density </a> was 44 people per square mile (17/km&#x00b2;).
+
+1335	TRUE	McMinn County, Tennessee:: area_total_sq_mi	432 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 432&nbsp;square miles (1,119&nbsp;km&#x00b2;), of which 430&nbsp;square miles (1,114&nbsp;km&#x00b2;) is land and 2&nbsp;square miles (5&nbsp;km&#x00b2;) (0.45%) is water. </p>
+
+1336	TRUE	McMinn County, Tennessee:: area_water_sq_mi	2 / 14	
+<p> At the 2000 <a> census </a> , there were 49,015 people, 19,721 households and 14,317 families residing in the county.
+
+1338	TRUE	McMinn County, Tennessee:: density_km2	44 / (44/	
+The <a> population density </a> was 114 per square mile (44/km&#x00b2;).
+
+1339	TRUE	McMinn County, Tennessee:: founded	1819 / 1819 a> (1758&#x2013; 1824).	
+<p> McMinn County was created in 1819 from Indian lands and was named in honor of <a> Joseph McMinn </a> (1758&#x2013;1824).
+
+1343	TRUE	McMinn County, Tennessee:: density_sq_mi	114 / (44/	
+The <a> population density </a> was 114 per square mile (44/km&#x00b2;).
+
+1344	TRUE	McMinn County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> McMinn County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Tennessee </a> .
+
+1345	TRUE	McMinn County, Tennessee:: area_land_sq_mi	430 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 432&nbsp;square miles (1,119&nbsp;km&#x00b2;), of which 430&nbsp;square miles (1,114&nbsp;km&#x00b2;) is land and 2&nbsp;square miles (5&nbsp;km&#x00b2;) (0.45%) is water. </p>
+
+1346	FALSE	McMinn County, Tennessee:: area_water_km2	5 / 80	
+For every 100 females age 18 and over, there were 89.80 males. </p>
+
+1347	TRUE	Maury County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Maury County </strong> () is a <a> county </a> located in the <a> U.S. state </a> of <a> Tennessee </a> .
+
+1348	TRUE	Maury County, Tennessee:: area_land_sq_mi	613 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 616&nbsp; <a> square mile </a> s (1,594&nbsp; <a> km&#x00b2; </a> ), of which 613&nbsp;square miles (1,587&nbsp;km&#x00b2;) is land and 3&nbsp;square miles (7&nbsp;km&#x00b2;) (0.43%) is water. </p>
+
+1349	FALSE	Maury County, Tennessee:: area_water_sq_mi	3 / 19	
+pyramid Maury County]] As of the <a> census </a> of 2000, there were 69,498 people, 26,444 households, and 19,277 families residing in the county.
+
+1350	TRUE	Maury County, Tennessee:: pop	69,498 / 69,498.	
+As of 2000, the population was 69,498.
+
+1351	TRUE	Maury County, Tennessee:: density_km2	44 / (44/	
+The <a> population density </a> was 113 people per square mile (44/km&#x00b2;).
+
+1354	FALSE	Maury County, Tennessee:: area_water_km2	7 / 30	
+For every 100 females age 18 and over, there were 90.30 males. </p>
+
+1355	TRUE	Maury County, Tennessee:: density_sq_mi	113 / (44/	
+The <a> population density </a> was 113 people per square mile (44/km&#x00b2;).
+
+1356	TRUE	Maury County, Tennessee:: area_total_sq_mi	616 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 616&nbsp; <a> square mile </a> s (1,594&nbsp; <a> km&#x00b2; </a> ), of which 613&nbsp;square miles (1,587&nbsp;km&#x00b2;) is land and 3&nbsp;square miles (7&nbsp;km&#x00b2;) (0.43%) is water. </p>
+
+1357	TRUE	Marshall County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Marshall County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Tennessee </a> .
+
+1358	TRUE	Marshall County, Tennessee:: area_total_sq_mi	376 / 375&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 376&nbsp; <a> square mile </a> s (974&nbsp; <a> km&#x00b2; </a> ), of which 375&nbsp;square miles (972&nbsp;km&#x00b2;) is land and 1&nbsp;square miles (2&nbsp;km&#x00b2;) (0.20%) is water.
+
+1359	TRUE	Marshall County, Tennessee:: area_land_sq_mi	375 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 376&nbsp; <a> square mile </a> s (974&nbsp; <a> km&#x00b2; </a> ), of which 375&nbsp;square miles (972&nbsp;km&#x00b2;) is land and 1&nbsp;square miles (2&nbsp;km&#x00b2;) (0.20%) is water.
+
+1360	TRUE	Marshall County, Tennessee:: area_water_sq_mi	1 / 7	
+<p> As of the <a> census </a> of 2000, there were 26,767 people, 10,307 households, and 7,472 families residing in the county.
+
+1362	TRUE	Marshall County, Tennessee:: density_km2	28 / (28/	
+The <a> population density </a> was 71 people per square mile (28/km&#x00b2;).
+
+1365	TRUE	Marshall County, Tennessee:: area_water_km2	2 / 90	
+For every 100 females age 18 and over, there were 92.90 males. </p>
+
+1366	TRUE	Marshall County, Tennessee:: density_sq_mi	71 / (28/	
+The <a> population density </a> was 71 people per square mile (28/km&#x00b2;).
+
+1367	TRUE	Marion County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Marion County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Tennessee </a> .
+
+1368	TRUE	Marion County, Tennessee:: area_total_sq_mi	512 / (2.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 512&nbsp; <a> square mile </a> s (1,327&nbsp; <a> km&#x00b2; </a> ), of which 498&nbsp;square miles (1,291&nbsp;km&#x00b2;) is land and 14&nbsp;square miles (36&nbsp;km&#x00b2;) (2.72%) is water. </p>
+
+1369	FALSE	Marion County, Tennessee:: area_water_sq_mi	14 / 27	
+As of 2000, the population was 27,776.
+
+1374	FALSE	Marion County, Tennessee:: area_water_km2	36 / 00	
+For every 100 females age 18 and over, there were 92.00 males. </p>
+
+1375	TRUE	Marion County, Tennessee:: area_land_sq_mi	498 / (2.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 512&nbsp; <a> square mile </a> s (1,327&nbsp; <a> km&#x00b2; </a> ), of which 498&nbsp;square miles (1,291&nbsp;km&#x00b2;) is land and 14&nbsp;square miles (36&nbsp;km&#x00b2;) (2.72%) is water. </p>
+
+1378	TRUE	Madison County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Madison County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Tennessee </a> .
+
+1379	TRUE	Madison County, Tennessee:: area_total_sq_mi	559 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 559&nbsp; <a> square mile </a> s (1,447&nbsp; <a> km&#x00b2; </a> ), of which 557&nbsp;square miles (1,443&nbsp;km&#x00b2;) is land and 2&nbsp;square miles (4&nbsp;km&#x00b2;) (0.29%) is water. </p>
+
+1380	TRUE	Madison County, Tennessee:: area_land_sq_mi	557 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 559&nbsp; <a> square mile </a> s (1,447&nbsp; <a> km&#x00b2; </a> ), of which 557&nbsp;square miles (1,443&nbsp;km&#x00b2;) is land and 2&nbsp;square miles (4&nbsp;km&#x00b2;) (0.29%) is water. </p>
+
+1381	TRUE	Madison County, Tennessee:: density_km2	64 / (64/	
+The <a> population density </a> was 165 people per square mile (64/km&#x00b2;).
+
+1384	FALSE	Madison County, Tennessee:: area_water_km2	4 / 20	
+For every 100 females age 18 and over, there were 87.20 males. </p>
+
+1385	TRUE	Madison County, Tennessee:: density_sq_mi	165 / (64/	
+The <a> population density </a> was 165 people per square mile (64/km&#x00b2;).
+
+1386	TRUE	Madison County, Tennessee:: area_water_sq_mi	2 / 24	
+pyramid Madison County]] As of the <a> census </a> of 2000, there were 91,837 people, 35,552 households, and 24,637 families residing in the county.
+
+1407	TRUE	Lewis County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Lewis County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Tennessee </a> .
+
+1408	TRUE	Lewis County, Tennessee:: area_total_sq_mi	282 / 282&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 282&nbsp; <a> square mile </a> s (732&nbsp; <a> km&#x00b2; </a> ), of which 282&nbsp;square miles (731&nbsp;km&#x00b2;) is land and 0&nbsp;square miles (1&nbsp;km&#x00b2;) (0.13%) is water. </p>
+
+1409	TRUE	Lewis County, Tennessee:: area_land_sq_mi	282 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 282&nbsp; <a> square mile </a> s (732&nbsp; <a> km&#x00b2; </a> ), of which 282&nbsp;square miles (731&nbsp;km&#x00b2;) is land and 0&nbsp;square miles (1&nbsp;km&#x00b2;) (0.13%) is water. </p>
+
+1410	TRUE	Lewis County, Tennessee:: area_water_sq_mi	0 / 3	
+<p> As of the <a> census </a> of 2000, there were 11,367 people, 4,381 households, and 3,215 families residing in the county.
+
+1412	TRUE	Lewis County, Tennessee:: density_km2	16 / (16/	
+The <a> population density </a> was 40 people per square mile (16/km&#x00b2;).
+
+1417	TRUE	Lawrence County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Lawrence County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Tennessee </a> .
+
+1418	TRUE	Lawrence County, Tennessee:: area_total_sq_mi	618 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 618&nbsp;square miles (1,600&nbsp;km&#x00b2;), of which 617&nbsp;square miles (1,598&nbsp;km&#x00b2;) is land and 1&nbsp;square miles (2&nbsp;km&#x00b2;) (0.12%) is water. </p>
+
+1419	TRUE	Lawrence County, Tennessee:: area_land_sq_mi	617 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 618&nbsp;square miles (1,600&nbsp;km&#x00b2;), of which 617&nbsp;square miles (1,598&nbsp;km&#x00b2;) is land and 1&nbsp;square miles (2&nbsp;km&#x00b2;) (0.12%) is water. </p>
+
+1420	TRUE	Lawrence County, Tennessee:: area_water_sq_mi	1 / 11	
+pyramid Lawrence County]] As of the <a> census </a> of 2000, there were 39,926 people, 65,480 households, and 11,362 families residing in the county.
+
+1421	TRUE	Lawrence County, Tennessee:: density_km2	25 / (25/	
+The <a> population density </a> was 65 people per square mile (25/km&#x00b2;).
+
+1422	TRUE	Lawrence County, Tennessee:: founded	1817 / October 21, 1817	
+<p> Created by an act of the <a> Tennessee General Assembly </a> on October 21, 1817, Lawrence County was formed from lands previously included in <a> Hickman </a> and <a> Giles Counties </a> . </p>
+
+1426	TRUE	Lawrence County, Tennessee:: area_water_km2	2 / 20	
+For every 100 females age 18 and over, there were 90.20 males. </p>
+
+1427	TRUE	Lawrence County, Tennessee:: density_sq_mi	65 / (25/	
+The <a> population density </a> was 65 people per square mile (25/km&#x00b2;).
+
+1429	TRUE	Lauderdale County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Lauderdale County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Tennessee </a> .
+
+1430	TRUE	Lauderdale County, Tennessee:: area_total_sq_mi	507 / (7.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 507&nbsp;square miles (1,313&nbsp;km&#x00b2;), of which 470&nbsp;square miles (1,218&nbsp;km&#x00b2;) is land and 37&nbsp;square miles (95&nbsp;km&#x00b2;) (7.23%) is water. </p>
+
+1431	TRUE	Lauderdale County, Tennessee:: area_land_sq_mi	470 / (7.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 507&nbsp;square miles (1,313&nbsp;km&#x00b2;), of which 470&nbsp;square miles (1,218&nbsp;km&#x00b2;) is land and 37&nbsp;square miles (95&nbsp;km&#x00b2;) (7.23%) is water. </p>
+
+1432	FALSE	Lauderdale County, Tennessee:: area_water_sq_mi	37 / 6	
+pyramid Lauderdale County]] As of the <a> census </a> of 2000, there were 27,101 people, 9,567 households, and 6,811 families residing in the county.
+
+1434	TRUE	Lauderdale County, Tennessee:: density_km2	22 / (22/	
+The <a> population density </a> was 58 people per square mile (22/km&#x00b2;).
+
+1439	FALSE	Lauderdale County, Tennessee:: area_water_km2	95 / 109.	
+For every 100 females age 18 and over, there were 109.00
+
+1440	TRUE	Lauderdale County, Tennessee:: density_sq_mi	58 / (22/	
+The <a> population density </a> was 58 people per square mile (22/km&#x00b2;).
+
+1441	TRUE	Lake County, Tennessee:: area_total_sq_mi	194 / 163&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 194&nbsp;square miles (502&nbsp;km&#x00b2;), of which 163&nbsp;square miles (423&nbsp;km&#x00b2;) is land and 30&nbsp;square miles (79&nbsp;km&#x00b2;) (15.68%) is water. </p>
+
+1442	TRUE	Lake County, Tennessee:: area_land_sq_mi	163 / (15.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 194&nbsp;square miles (502&nbsp;km&#x00b2;), of which 163&nbsp;square miles (423&nbsp;km&#x00b2;) is land and 30&nbsp;square miles (79&nbsp;km&#x00b2;) (15.68%) is water. </p>
+
+1443	FALSE	Lake County, Tennessee:: area_water_sq_mi	30 / 1	
+pyramid Lake County]] As of the <a> census </a> of 2000, there were 7,954 people, 2,410 households, and 1,614 families residing in the county.
+
+1445	TRUE	Lake County, Tennessee:: density_km2	19 / (19/	
+The <a> population density </a> was 49 people per square mile (19/km&#x00b2;).
+
+1447	FALSE	Lake County, Tennessee:: area_total_km2	502 / 2000,	
+As of 2000, the population was 7,954.
+
+1448	TRUE	Lake County, Tennessee:: area_land_km2	423 / (79&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 194&nbsp;square miles (502&nbsp;km&#x00b2;), of which 163&nbsp;square miles (423&nbsp;km&#x00b2;) is land and 30&nbsp;square miles (79&nbsp;km&#x00b2;) (15.68%) is water. </p>
+
+1449	FALSE	Lake County, Tennessee:: area_water_km2	79 / 40	
+For every 100 females age 18 and over, there were 163.40 males. </p>
+
+1450	TRUE	Lake County, Tennessee:: density_sq_mi	49 / (19/	
+The <a> population density </a> was 49 people per square mile (19/km&#x00b2;).
+
+1451	TRUE	Lake County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Lake County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Tennessee </a> .
+
+1463	TRUE	Johnson County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Johnson County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Tennessee </a> .
+
+1466	TRUE	Johnson County, Tennessee:: area_water_sq_mi	4 / 4	
+pyramid Johnson County]] As of the <a> census </a> of 2000, there were 17,499 people, 6,827 households, and 4,751 families residing in the county.
+
+1468	TRUE	Johnson County, Tennessee:: density_km2	23 / (23/	
+The <a> population density </a> was 59 people per square mile (23/km&#x00b2;).
+
+1472	TRUE	Johnson County, Tennessee:: area_water_km2	11 / 40	
+For every 100 females age 18 and over, there were 114.40 males. </p>
+
+1473	TRUE	Johnson County, Tennessee:: density_sq_mi	59 / (23/	
+The <a> population density </a> was 59 people per square mile (23/km&#x00b2;).
+
+1476	FALSE	Jefferson County, Tennessee:: area_water_sq_mi	41 / 12	
+pyramid Jefferson County]] As of the <a> census </a> of 2000, there were 44,294 people, 17,155 households, and 12,608 families residing in the county.
+
+1478	TRUE	Jefferson County, Tennessee:: density_km2	62 / (62/	
+The <a> population density </a> was 162 people per square mile (62/km&#x00b2;).
+
+1483	TRUE	Jefferson County, Tennessee:: density_sq_mi	162 / (62/	
+The <a> population density </a> was 162 people per square mile (62/km&#x00b2;).
+
+1484	TRUE	Jefferson County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Jefferson County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Tennessee </a> .
+
+1485	TRUE	Jackson County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Jackson County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Tennessee </a> .
+
+1488	FALSE	Jackson County, Tennessee:: area_water_sq_mi	11 / 3	
+pyramid for Jackson County]] As of the <a> census </a> of 2000, there were 10,984 people, 4,466 households, and 3,139 families residing in the county.
+
+1491	TRUE	Jackson County, Tennessee:: density_km2	14 / (14/	
+The <a> population density </a> was 36 people per square mile (14/km&#x00b2;).
+
+1492	TRUE	Jackson County, Tennessee:: founded	1801 / Jackson	
+<p> Jackson County was created by an act of the <a> Tennessee General Assembly </a> on November 6, 1801.
+
+1494	FALSE	Jackson County, Tennessee:: area_water_km2	28 / 90	
+For every 100 females age 18 and over, there were 94.90 males. </p>
+
+1495	TRUE	Jackson County, Tennessee:: density_sq_mi	36 / (14/	
+The <a> population density </a> was 36 people per square mile (14/km&#x00b2;).
+
+1496	TRUE	Humphreys County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Humphreys County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Tennessee </a> .
+
+1505	TRUE	Humphreys County, Tennessee:: density_sq_mi	33.7 / (13/	
+The <a> population density </a> was 33.7 people per square mile (13/km&#x00b2;).
+
+1510	TRUE	Houston County, Tennessee:: density_km2	15.6 / (15.	
+The <a> population density </a> was 40.4 people per square mile (15.6/km&#x00b2;).
+
+1515	TRUE	Houston County, Tennessee:: density_sq_mi	40.4 / 6/	
+The <a> population density </a> was 40.4 people per square mile (15.6/km&#x00b2;).
+
+1516	TRUE	Houston County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Houston County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Tennessee </a> .
+
+1517	TRUE	Hickman County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Hickman County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Tennessee </a> .
+
+1520	TRUE	Hickman County, Tennessee:: area_water_sq_mi	0 / 5	
+<p> As of the <a> census </a> of 2000, there were 22,295 people, 8,081 households, and 5,955 families residing in the county.
+
+1522	TRUE	Hickman County, Tennessee:: density_km2	14 / (14/	
+The <a> population density </a> was 36 people per square mile (14/km&#x00b2;).
+
+1525	TRUE	Hickman County, Tennessee:: area_water_km2	0 / 50	
+For every 100 females age 18 and over, there were 111.50 males. </p>
+
+1526	TRUE	Hickman County, Tennessee:: density_sq_mi	36 / (14/	
+The <a> population density </a> was 36 people per square mile (14/km&#x00b2;).
+
+1527	TRUE	Henry County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Henry County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Tennessee </a> .
+
+1532	TRUE	Henry County, Tennessee:: density_km2	21 / (21/	
+The <a> population density </a> was 55 people per square mile (21/km&#x00b2;).
+
+1534	FALSE	Henry County, Tennessee:: area_water_km2	82 / 40	
+For every 100 females age 18 and over, there were 90.40 males. </p>
+
+1535	TRUE	Henry County, Tennessee:: density_sq_mi	55 / (21/	
+The <a> population density </a> was 55 people per square mile (21/km&#x00b2;).
+
+1536	TRUE	Henderson County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Henderson County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Tennessee </a> .
+
+1539	TRUE	Henderson County, Tennessee:: area_water_sq_mi	6 / 7	
+pyramid Henderson County]] As of the <a> census </a> of 2000, there were 25,522 people, 10,306 households, and 7,451 families residing in the county.
+
+1541	TRUE	Henderson County, Tennessee:: density_km2	19 / (19/	
+The <a> population density </a> was 49 people per square mile (19/km&#x00b2;).
+
+1543	FALSE	Henderson County, Tennessee:: area_water_km2	15 / 00	
+For every 100 females age 18 and over, there were 90.00 males. </p>
+
+1544	TRUE	Henderson County, Tennessee:: density_sq_mi	49 / (19/	
+The <a> population density </a> was 49 people per square mile (19/km&#x00b2;).
+
+1546	TRUE	Haywood County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Haywood County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Tennessee </a> .
+
+1549	TRUE	Haywood County, Tennessee:: area_water_sq_mi	1 / 5	
+pyramid Haywood County]] As of the <a> census </a> of 2000, there were 19,797 people, 7,558 households, and 5,419 families residing in the county.
+
+1551	TRUE	Haywood County, Tennessee:: density_km2	14 / (14/	
+The <a> population density </a> was 37 people per square mile (14/km&#x00b2;).
+
+1554	TRUE	Haywood County, Tennessee:: area_water_km2	2 / 40	
+For every 100 females age 18 and over, there were 82.40 males. </p>
+
+1555	TRUE	Haywood County, Tennessee:: density_sq_mi	37 / (14/	
+The <a> population density </a> was 37 people per square mile (14/km&#x00b2;).
+
+1557	TRUE	Hawkins County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Hawkins County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Tennessee </a> .
+
+1560	FALSE	Hawkins County, Tennessee:: area_water_sq_mi	13 / 15	
+<p> As of the <a> census </a> of 2000, there were 53,563 people, 21,936 households, and 15,925 families residing in the county.
+
+1562	TRUE	Hawkins County, Tennessee:: density_km2	42 / (42/	
+The <a> population density </a> was 110 people per square mile (42/km&#x00b2;).
+
+1566	TRUE	Hawkins County, Tennessee:: density_sq_mi	110 / (42/	
+The <a> population density </a> was 110 people per square mile (42/km&#x00b2;).
+
+1568	TRUE	Hardin County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Hardin County </strong> is a <a> county </a> located in the <a> U.S. </a> <a> State of Tennessee </a> .
+
+1570	FALSE	Hardin County, Tennessee:: area_land_sq_mi	578 / (3.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and (3.09%) is water. </p>
+
+1572	TRUE	Hardin County, Tennessee:: density_km2	17 / (17/	
+The <a> population density </a> was 44 people per square mile (17/km&#x00b2;).
+
+1573	FALSE	Hardin County, Tennessee:: founded	1819 / was	
+The county was named posthumously for <a> Col.
+
+1577	TRUE	Hardin County, Tennessee:: density_sq_mi	44 / (17/	
+The <a> population density </a> was 44 people per square mile (17/km&#x00b2;).
+
+1578	FALSE	Hardin County, Tennessee:: area_water_sq_mi	18 / 7	
+pyramid Hardin County]] As of the <a> census </a> of 2000, there were 25,578 people, 10,426 households, and 7,444 families residing in the county.
+
+1579	TRUE	Hardeman County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Hardeman County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Tennessee </a> .
+
+1581	TRUE	Hardeman County, Tennessee:: density_km2	16 / (16/	
+The <a> population density </a> was 42 people per square mile (16/km&#x00b2;).
+
+1585	TRUE	Hardeman County, Tennessee:: density_sq_mi	42 / (16/	
+The <a> population density </a> was 42 people per square mile (16/km&#x00b2;).
+
+1586	FALSE	Hardeman County, Tennessee:: area_water_sq_mi	3 / 6	
+pyramid Hardeman County]] As of the <a> census </a> of 2000, there were 28,105 people, 9,412 households, and 6,767 families residing in the county.
+
+1588	FALSE	Hardeman County, Tennessee:: area_water_km2	7 / 40	
+For every 100 females age 18 and over, there were 121.40 males. </p>
+
+1589	TRUE	Hancock County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Hancock County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Tennessee </a> .
+
+1592	TRUE	Hancock County, Tennessee:: area_water_sq_mi	1 / 1	
+<p> As of the <a> census </a> of 2000, there were 6,786 people, 2,769 households, and 1,938 families residing in the county.
+
+1594	TRUE	Hancock County, Tennessee:: density_km2	12 / (12/	
+The <a> population density </a> was 30 people per square mile (12/km&#x00b2;).
+
+1597	TRUE	Hancock County, Tennessee:: area_water_km2	3 / 30	
+For every 100 females age 18 and over, there were 94.30 males. </p>
+
+1598	TRUE	Hancock County, Tennessee:: density_sq_mi	30 / (12/	
+The <a> population density </a> was 30 people per square mile (12/km&#x00b2;).
+
+1612	FALSE	Hamblen County, Tennessee:: area_water_sq_mi	15 / 16	
+<p> As of the <a> census </a> of 2000, there were 58,128 people, 23,211 households, and 16,595 families residing in the county.
+
+1614	TRUE	Hamblen County, Tennessee:: density_km2	139 / (139/	
+The <a> population density </a> was 361 people per square mile (139/km&#x00b2;).
+
+1615	TRUE	Hamblen County, Tennessee:: founded	1870 / 1870	
+<p> Hamblen County was created in 1870 from Jefferson, Grainger, and Greene Counties.
+
+1618	FALSE	Hamblen County, Tennessee:: area_water_km2	38 / 50	
+For every 100 females age 18 and over, there were 93.50 males. </p>
+
+1619	TRUE	Hamblen County, Tennessee:: density_sq_mi	361 / (139/	
+The <a> population density </a> was 361 people per square mile (139/km&#x00b2;).
+
+1620	TRUE	Hamblen County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Hamblen County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Tennessee </a> .
+
+1621	TRUE	Grundy County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Grundy County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Tennessee </a> .
+
+1625	TRUE	Grundy County, Tennessee:: density_km2	15 / (15/	
+The <a> population density </a> was 40 people per square mile (15/km&#x00b2;).
+
+1627	FALSE	Grundy County, Tennessee:: area_water_km2	2 / 30	
+For every 100 females age 18 and over, there were 94.30 males. </p>
+
+1628	TRUE	Grundy County, Tennessee:: density_sq_mi	40 / (15/	
+The <a> population density </a> was 40 people per square mile (15/km&#x00b2;).
+
+1629	TRUE	Grundy County, Tennessee:: area_water_sq_mi	1 / 4	
+pyramid Grundy County]] As of the <a> census </a> of 2000, there were 14,332 people, 5,562 households, and 4,054 families residing in the county.
+
+1630	TRUE	Greene County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Greene County </strong> is a <a> county </a> in the <a> U.S. state </a> of <a> Tennessee </a> .
+
+1632	TRUE	Greene County, Tennessee:: area_water_sq_mi	2 / 18	
+pyramid Greene County]] As of the <a> census </a> of 2000, there were 62,909 people, 25,756 households, and 18,132 families residing in the county.
+
+1634	TRUE	Greene County, Tennessee:: density_km2	39 / (39/	
+The <a> population density </a> was 101 people per square mile (39/km&#x00b2;).
+
+1635	TRUE	Greene County, Tennessee:: founded	1783 / 1783	
+Greene County was formed in 1783, when the area was still part of North Carolina.
+
+1637	FALSE	Greene County, Tennessee:: area_water_km2	6 / 40	
+For every 100 females age 18 and over, there were 91.40 males. </p>
+
+1638	TRUE	Greene County, Tennessee:: density_sq_mi	101 / (39/	
+The <a> population density </a> was 101 people per square mile (39/km&#x00b2;).
+
+1640	TRUE	Anderson County, Tennessee:: state	tennessee / Tennessee	
+<p> <strong> Anderson County </strong> is a <a> U.S. county </a> located in the <a> U.S. state </a> of <a> Tennessee </a> .
+
+1642	TRUE	Anderson County, Tennessee:: area_water_sq_mi	7 / 20	
+pyramid for Anderson County]] As of the <a> census </a> of 2000, there were 71,330 people, 29,780 households, and 20,518 families residing in the county.
+
+1644	TRUE	Anderson County, Tennessee:: density_km2	82 / (82/	
+The <a> population density </a> was 211 people per square mile (82/km&#x00b2;).
+
+1648	FALSE	Anderson County, Tennessee:: area_water_km2	19 / 40	
+For every 100 females age 18 and over, there were 87.40 males. </p>
+
+1649	TRUE	Anderson County, Tennessee:: density_sq_mi	211 / (82/	
+The <a> population density </a> was 211 people per square mile (82/km&#x00b2;).
+
+1650	TRUE	Anderson County, Tennessee:: county	anderson county / Anderson County	
+<p> <strong> Anderson County </strong> is a <a> U.S. county </a> located in the <a> U.S. state </a> of <a> Tennessee </a> .
+
+1652	TRUE	Ziebach County, South Dakota:: state	south dakota / South Dakota	
+<p> <strong> Ziebach County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+1654	TRUE	Ziebach County, South Dakota:: area_water_sq_mi	9 / 594	
+<p> As of the <a> census </a> of 2000, there were 2,519 people, 741 households, and 594 families residing in the county.
+
+1656	TRUE	Ziebach County, South Dakota:: density_km2	0.5 / (0.	
+The <a> population density </a> was 1.3 people per square mile (0.5/km&#x00b2;).
+
+1660	FALSE	Ziebach County, South Dakota:: area_water_km2	23 / 1	
+For every 100 females age 18 and over, there were 98.1 males. </p>
+
+1661	TRUE	Ziebach County, South Dakota:: density_sq_mi	1.3 / 5/	
+The <a> population density </a> was 1.3 people per square mile (0.5/km&#x00b2;).
+
+1675	TRUE	Walworth County, South Dakota:: state	south dakota / South Dakota	
+<p> <strong> Walworth County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+1676	TRUE	Walworth County, South Dakota:: area_total_sq_mi	744 / (4.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 744&nbsp;square miles (1,928&nbsp;km&#x00b2;), of which 708&nbsp;square miles (1,833&nbsp;km&#x00b2;) is land and 36&nbsp;square miles (94&nbsp;km&#x00b2;) (4.89%) is water. </p>
+
+1677	FALSE	Walworth County, South Dakota:: area_water_sq_mi	36 / 1	
+<p> As of the <a> census </a> of 2000, there were 5,974 people, 2,506 households, and 1,643 families residing in the county.
+
+1679	TRUE	Walworth County, South Dakota:: density_km2	3 / (3/	
+The <a> population density </a> was 8 people per square mile (3/km&#x00b2;).
+
+1683	FALSE	Walworth County, South Dakota:: area_water_km2	94 / 30	
+For every 100 females age 18 and over, there were 90.30 males. </p>
+
+1684	TRUE	Walworth County, South Dakota:: density_sq_mi	8 / (3/	
+The <a> population density </a> was 8 people per square mile (3/km&#x00b2;).
+
+1685	TRUE	Walworth County, South Dakota:: area_land_sq_mi	708 / (4.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 744&nbsp;square miles (1,928&nbsp;km&#x00b2;), of which 708&nbsp;square miles (1,833&nbsp;km&#x00b2;) is land and 36&nbsp;square miles (94&nbsp;km&#x00b2;) (4.89%) is water. </p>
+
+1687	TRUE	Union County, South Dakota:: state	south dakota / South Dakota	
+<p> <strong> Union County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+1688	TRUE	Union County, South Dakota:: area_total_sq_mi	467 / (1.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 467&nbsp; <a> square mile </a> s (1,210&nbsp; <a> km&#x00b2; </a> ), of which 460&nbsp;square miles (1,192&nbsp;km&#x00b2;) is land and 7&nbsp;square miles (17&nbsp;km&#x00b2;) (1.43%) is water. </p>
+
+1689	TRUE	Union County, South Dakota:: area_water_sq_mi	7 / 3	
+<p> As of the <a> census </a> of 2000, there were 12,584 people, 4,927 households, and 3,517 families residing in the county.
+
+1691	FALSE	Union County, South Dakota:: density_km2	4 / (11/	
+The <a> population density </a> was 27 people per square mile (11/km&#x00b2;).
+
+1695	FALSE	Union County, South Dakota:: area_water_km2	17 / 30	
+For every 100 females age 18 and over, there were 98.30 males. </p>
+
+1696	FALSE	Union County, South Dakota:: density_sq_mi	12 / (11/	
+The <a> population density </a> was 27 people per square mile (11/km&#x00b2;).
+
+1697	TRUE	Union County, South Dakota:: area_land_sq_mi	460 / (1.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 467&nbsp; <a> square mile </a> s (1,210&nbsp; <a> km&#x00b2; </a> ), of which 460&nbsp;square miles (1,192&nbsp;km&#x00b2;) is land and 7&nbsp;square miles (17&nbsp;km&#x00b2;) (1.43%) is water. </p>
+
+1698	TRUE	Turner County, South Dakota:: state	south dakota / South Dakota	
+<p> <strong> Turner County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+1699	TRUE	Turner County, South Dakota:: area_total_sq_mi	617 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 617&nbsp; <a> square mile </a> s (1,599&nbsp; <a> km&#x00b2; </a> ), of which 617&nbsp;square miles (1,598&nbsp;km&#x00b2;) is land and 1&nbsp;square mile (2&nbsp;km&#x00b2;) (0.10%) is water. </p>
+
+1700	TRUE	Turner County, South Dakota:: area_land_sq_mi	617 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 617&nbsp; <a> square mile </a> s (1,599&nbsp; <a> km&#x00b2; </a> ), of which 617&nbsp;square miles (1,598&nbsp;km&#x00b2;) is land and 1&nbsp;square mile (2&nbsp;km&#x00b2;) (0.10%) is water. </p>
+
+1701	TRUE	Turner County, South Dakota:: area_water_sq_mi	1 / 2	
+As of the <a> census </a> of 2000, there were 8,849 people, 3,510 households, and 2,478 families residing in the county.
+
+1702	TRUE	Turner County, South Dakota:: density_km2	2 / (6/	
+The <a> population density </a> was 14 people per square mile (6/km&#x00b2;).
+
+1706	FALSE	Turner County, South Dakota:: area_water_km2	2 / 90	
+For every 100 females age 18 and over, there were 93.90 males. </p>
+
+1707	TRUE	Turner County, South Dakota:: density_sq_mi	6 / (6/	
+The <a> population density </a> was 14 people per square mile (6/km&#x00b2;).
+
+1709	TRUE	Tripp County, South Dakota:: state	south dakota / South Dakota	
+<p> <strong> Tripp County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+1712	TRUE	Tripp County, South Dakota:: area_water_sq_mi	3 / 1	
+<p> As of the <a> census </a> of 2000, there were 6,430 people, 2,550 households, and 1,721 families residing in the county.
+
+1714	FALSE	Tripp County, South Dakota:: density_km2	1 / (2/	
+The <a> population density </a> was 4 people per square mile (2/km&#x00b2;).
+
+1718	TRUE	Tripp County, South Dakota:: area_water_km2	8 / 70	
+For every 100 females age 18 and over, there were 94.70 males. </p>
+
+1719	TRUE	Tripp County, South Dakota:: density_sq_mi	2 / (2/	
+The <a> population density </a> was 4 people per square mile (2/km&#x00b2;).
+
+1722	FALSE	Todd County, South Dakota:: area_water_sq_mi	3 / 1	
+<p> As of the <a> census </a> of 2000, there were 9,050 people, 2,462 households, and 1,917 families residing in the county.
+
+1724	FALSE	Todd County, South Dakota:: density_km2	1 / (3/	
+The <a> population density </a> was 6 people per square mile (3/km&#x00b2;).
+
+1727	FALSE	Todd County, South Dakota:: area_water_km2	7 / 30	
+For every 100 females age 18 and over, there were 92.30 males. </p>
+
+1728	TRUE	Todd County, South Dakota:: density_sq_mi	2 / (3/	
+The <a> population density </a> was 6 people per square mile (3/km&#x00b2;).
+
+1729	TRUE	Todd County, South Dakota:: state	south dakota / South Dakota	
+<p> } <strong> Todd County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+1730	TRUE	Sully County, South Dakota:: state	south dakota / South Dakota	
+<p> <strong> Sully County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+1733	TRUE	Sully County, South Dakota:: area_water_sq_mi	63 / 442	
+<p> As of the <a> census </a> of 2000, there were 1,556 people, 630 households, and 442 families residing in the County.
+
+1735	TRUE	Sully County, South Dakota:: density_km2	1 / (1/	
+The <a> population density </a> was 2 people per square mile (1/km&#x00b2;).
+
+1739	FALSE	Sully County, South Dakota:: area_water_km2	164 / 50	
+For every 100 females age 18 and over, there were 108.50 males. </p>
+
+1740	TRUE	Sully County, South Dakota:: density_sq_mi	2 / (1/	
+The <a> population density </a> was 2 people per square mile (1/km&#x00b2;).
+
+1741	TRUE	Stanley County, South Dakota:: state	south dakota / South Dakota	
+<p> <strong> Stanley County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+1744	FALSE	Stanley County, South Dakota:: area_water_sq_mi	74 / 775	
+<p> As of the <a> census </a> of 2000, there were 2,772 people, 1,111 households, and 775 families residing in the county.
+
+1746	TRUE	Stanley County, South Dakota:: density_km2	1 / (1/	
+The <a> population density </a> was 2 people per square mile (1/km&#x00b2;).
+
+1750	FALSE	Stanley County, South Dakota:: area_water_km2	191 / 00	
+For every 100 females age 18 and over, there were 98.00 males. </p>
+
+1751	TRUE	Stanley County, South Dakota:: density_sq_mi	2 / (1/	
+The <a> population density </a> was 2 people per square mile (1/km&#x00b2;).
+
+1752	TRUE	Spink County, South Dakota:: state	south dakota / South Dakota	
+<p> <strong> Spink County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+1755	FALSE	Spink County, South Dakota:: area_water_sq_mi	6 / 1	
+<p> As of the <a> census </a> of 2000, there were 7,454 people, 2,847 households, and 1,933 families residing in the county.
+
+1758	FALSE	Spink County, South Dakota:: area_water_km2	16 / 20	
+For every 100 females age 18 and over, there were 106.20 males. </p>
+
+1759	TRUE	Spink County, South Dakota:: density_sq_mi	5 / (2/	
+The <a> population density </a> was 5 people per square mile (2/km&#x00b2;).
+
+1761	TRUE	Spink County, South Dakota:: density_km2	2 / (2/	
+The <a> population density </a> was 5 people per square mile (2/km&#x00b2;).
+
+1763	TRUE	Shannon County, South Dakota:: state	south dakota / South Dakota	
+<p> <strong> Shannon County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+1766	TRUE	Shannon County, South Dakota:: area_water_sq_mi	3 / 2	
+<p> As of the <a> census </a> of 2000, there were 12,466 people, 2,785 households, and 2,353 families residing in the county.
+
+1768	TRUE	Shannon County, South Dakota:: density_km2	2 / (2/	
+The <a> population density </a> was 6 people per square mile (2/km&#x00b2;).
+
+1772	FALSE	Shannon County, South Dakota:: area_water_km2	7 / 60	
+For every 100 females age 18 and over, there were 95.60 males. </p>
+
+1773	FALSE	Shannon County, South Dakota:: density_sq_mi	5 / (2/	
+The <a> population density </a> was 6 people per square mile (2/km&#x00b2;).
+
+1775	TRUE	Sanborn County, South Dakota:: state	south dakota / South Dakota	
+<p> <strong> Sanborn County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> South Dakota </a> .
+
+1776	TRUE	Sanborn County, South Dakota:: area_total_sq_mi	570 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 570&nbsp;square miles (1,477&nbsp;km&#x00b2;), of which 569&nbsp;square miles (1,474&nbsp;km&#x00b2;) is land and 1&nbsp;square miles (3&nbsp;km&#x00b2;) (0.21%) is water. </p>
+
+1777	TRUE	Sanborn County, South Dakota:: area_land_sq_mi	569 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 570&nbsp;square miles (1,477&nbsp;km&#x00b2;), of which 569&nbsp;square miles (1,474&nbsp;km&#x00b2;) is land and 1&nbsp;square miles (3&nbsp;km&#x00b2;) (0.21%) is water. </p>
+
+1778	TRUE	Sanborn County, South Dakota:: area_water_sq_mi	1 / 732	
+<p> As of the <a> census </a> of 2000, there were 2,675 people, 1,043 households, and 732 families residing in the county.
+
+1780	FALSE	Sanborn County, South Dakota:: density_km2	1 / (2/	
+The <a> population density </a> was 5 people per square mile (2/km&#x00b2;).
+
+1785	FALSE	Sanborn County, South Dakota:: area_water_km2	3 / 70	
+For every 100 females age 18 and over, there were 104.70 males. </p>
+
+1786	TRUE	Sanborn County, South Dakota:: density_sq_mi	2 / (2/	
+The <a> population density </a> was 5 people per square mile (2/km&#x00b2;).
+

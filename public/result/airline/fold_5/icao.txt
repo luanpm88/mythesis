@@ -1,0 +1,106 @@
+Found: 43
+Found Not Null: 10
+Correct: 3
+Wrong: 7
+Total: 10
+precision: 0.3
+recall: 0.3
+
+
+
+#	NEW	icao	........ / airline '	// <p> The airline ' s fleet comprises 34 aircraft , including : </p>
+
+#	NEW	icao	........ / TESIS	// <p> <strong> TESIS Aviation Enterprise </strong> was a <a> cargo airline </a> based in Moscow , Russia .
+
+#	NEW	icao	........ / Austrian	// In January 2005 <a> Austrian Airlines </a> acquired the majority stake ( 62% ) in the company .
+
+#	NEW	icao	........ / American	// <p> <strong> American Airlines Flight 1 </strong> was a domestic , scheduled passenger flight from <a> New York International ( Idlewild ) Airport </a> ( later renamed John F . Kennedy International Airport ) , <a> New York </a> to <a> Los Angeles International Airport </a> , <a> California </a> that crashed shortly after take-off on 1 March 1962 .
+
+#	NEW	icao	........ / US	// <p> <strong> MetroJet </strong> was a <a> no-frills </a> &quot ; <a> airline </a> within an airline&quot ; brand operated as a division of <a> US Airways </a> from 1998 to 2001 . </p>
+
+#	NEW	icao	........ / two	// On board , there were 52 passengers ( including two infants ) , three flight attendants , and two pilots .
+
+#	NEW	icao	........ / Florida	// <p> <strong> National Airlines Flight 2511 </strong> , registration N8225H , was a <a> Douglas DC-6 </a> B aircraft which exploded over <a> Bolivia , North Carolina </a> en route from <a> New York International ( Idlewild ) Airport </a> , <a> New York City , New York </a> , to <a> Miami , Florida </a> on January 6 , 1960 .
+
+7	TRUE	Air Ukraine::icao	ukr / There	
+There was a plan to merge Air Ukraine , <a> Aerosvit Airlines </a> and <a> Ukraine International Airlines </a> as a new Air Ukraine to form a strong flag carrier for the country .
+
+8	FALSE	RUTACA Airlines::icao	ruc / Venezuela	
+<p> <strong> Rutaca </strong> ( Rutas A&#x00e9 ; reas C . A . ) is an <a> airline </a> based in <a> Ciudad Bol&#x00ed ; var </a> , <a> Venezuela </a> . </p>
+
+#	NEW	icao	........ / airline	// <p> The airline was established in May 1997 as <em> Servicio de Transporte A&#x00e9 ; reo Regional </em> by founder , and Chief Executive , Valentin Kasyanov .
+
+#	NEW	icao	........ / it	// <p> In 1987 the airline division of CAAC was divided up into a number of airlines , each named after the region of China where it had its hub .
+
+#	NEW	icao	........ / LAN	// It is a subsidiary of Chilean publicly-traded company <a> LAN Airlines </a> ( ) , which owns 49% of the airline .
+
+12	FALSE	Flyglobespan::icao	gsm / route	
+The company also admitted to providing a poor operating service since the route was launched on 25 May 2007 , which affected the passenger figures .
+
+13	FALSE	Flyjet::icao	fje / United	
+<p> The company held a <a> United Kingdom Civil Aviation Authority </a> Type A Operating Licence , and is permitted to carry passengers , cargo and mail on aircraft with 20 or more seats . </p>
+
+#	NEW	icao	........ / started	// <p> The airline started operations on 1 February 1988 .
+
+#	NEW	icao	........ / Authority .	// <p> <strong> Palestinian Airlines </strong> ( <em> al-khutut al-filastiniya </em> ) is an <a> airline </a> based in <a> Egypt </a> that is wholly-owned by the Palestinian Authority . </p>
+
+#	NEW	icao	........ / Teebah	// <p> <strong> Teebah Airlines </strong> was a <a> Sierra Leone </a> registered <a> charter airline </a> based in <a> Amman </a> , <a> Jordan </a> , leasing its aircraft out to other airlines on demand .
+
+#	NEW	icao	........ / group -	// [ [ Boeing 717 | Boeing 717-200 ] ] taking off from <a> Perth International Airport </a> ] ] QantasLink flights are operated by the airlines that make up the group - Eastern Australia Airlines and Sunstate Airlines ; and also contracted carrier Cobham Aviation ( formerly National Jet Systems ) ] ] .
+
+#	NEW	icao	........ / PAN	// <p> <strong> PAN Air </strong> L&#x00ed ; neas A&#x00e9 ; reas S . A . is a <a> cargo airline </a> based in <a> Madrid </a> , <a> Spain </a> .
+
+#	NEW	icao	........ / Le&#	// <p> <strong> LagunAir L&#x00ed ; neas A&#x00e9 ; reas </strong> , usually referred to simply as <strong> LagunAir </strong> , was an <a> airline </a> based in <a> Le&#x00f3 ; n </a> , <a> Spain </a> .
+
+#	NEW	icao	........ / quot ;	// <p> <a> Atlantic Airlines </a> , which previously operated all-cargo airline activities within the Air Atlantique Group , was the subject of a management buy-out in July 2004 and now operates as an independent companyref name=&quot ; FI&quot ; / .
+
+#	NEW	icao	........ / Colombia	// <p> The airline was founded and started operations in 1965 as <strong> Aeropesca Colombia </strong> . </p>
+
+#	NEW	icao	........ / Medell&#	// <p> <strong> West Caribbean Airways </strong> was an <a> airline </a> based in <a> Medell&#x00ed ; n </a> , <a> Colombia </a> .
+
+#	NEW	icao	........ / Vostok	// The Vostok Airlines fleet includes the following aircraft ( at June 2010 ) : </p>
+
+#	NEW	icao	........ / Russia	// <p> <strong> Saravia </strong> ( Saratov Airlines Joint Stock Company ) is an <a> airline </a> based in <a> Saratov </a> , <a> Russia </a> .
+
+#	NEW	icao	........ / Bravo	// In <a> 2006 </a> , wishing to expand their operations in the African market , Bravo Airlines became an airline group , and joined with several Congolese private investors , to create a new airline , named <strong> Bravo Air Congo </strong> .
+
+26	TRUE	Air Max Africa::icao	- / August	
+<p> As of August 2006 the Air Max-Gabon fleet included onlya single <a> turboprop </a> aircraft , namely a <a> Fokker F27 Mk300M </a> .
+
+#	NEW	icao	........ / Largusgruppen	// In April 2002 the airline rebranded as Direktflyg following the sale of the turboprop operation to the Largusgruppen company .
+
+28	FALSE	Regional 1::icao	tsh / Canada	
+<p> <strong> Regional 1 </strong> , a wholly owned subsidiary of <a> Avmax </a> , is a regional <a> airline </a> based in <a> Calgary </a> , <a> Alberta </a> , <a> Canada </a> .
+
+29	FALSE	Crimea Air::icao	- / Ukraine	
+<p> <strong> Crimea Air </strong> was an <a> airline </a> on the grounds of <a> Simferopol International Airport </a> in <a> Simferopol </a> , <a> Ukraine </a> .
+
+#	NEW	icao	........ / Stock	// <p> The airline was established in 1984 and is wholly owned by the Motor Sich Joint Stock Company .
+
+#	NEW	icao	........ / Company	// On 20 August 2003 it changed the form of ownership and became Open Joint Stock Company Odessa Airlines .
+
+#	NEW	icao	........ / Tavrey	// <p> As of August 2006 the Tavrey Airlines fleet includes : </p>
+
+33	FALSE	Ukraine Air Enterprise::icao	ukn / Ukraine	
+<p> <strong> Ukraine Air Enterprise </strong> is an <a> airline </a> based in <a> Kiev </a> , <a> Ukraine </a> .
+
+#	NEW	icao	........ / started	// <p> The airline started operations in 2005 and was owned by Europa Leisure International ( 60% ) and North Fleet ( 40% ) . ref
+
+#	NEW	icao	........ / Gulf	// <p> <strong> Gulf Traveller </strong> was the all-economy full service <a> subsidiary </a> <a> airline </a> of <a> Gulf Air </a> .
+
+#	NEW	icao	........ / airline	// <p> The airline was established on 4 August 1961 as Yemen Airlines and started operations in <a> 1962 </a> .
+
+#	NEW	icao	........ / Venezuela	// <p> <strong> Venezolana </strong> is an <a> airline </a> based in <a> Maracaibo </a> , <a> Venezuela </a> .
+
+38	FALSE	Línea Turística Aereotuy::icao	tuy / aircraft	
+It is part of a full service safari company with its own lodges , camps , guides , aircraft and sailing vessels .
+
+#	NEW	icao	........ / Venezuela	// <p> <strong> Servivensa </strong> is an <a> airline </a> based in <a> Caracas </a> , <a> Venezuela </a> .
+
+#	NEW	icao	........ / LAN	// In November 2001 <a> LAN Airlines </a> bought a majority stake in the company .
+
+#	NEW	icao	........ / June	// <p> The fleet of Air Minas Linhas A&#x00e9 ; reas includes the following aircraft configured in all-economy class ( as of June 2010 ) : </p>
+
+42	TRUE	Gestair::icao	ges / business	
+Part of the Gestair Group with its business units Commercial Aviation , Aviation Training and Private Aviation , it is a corporate aviation company operating a wide range of services including charter flights and aircraft management , scheduled commuter flights , aircraft maintenance and handling and ad hoc charters .
+

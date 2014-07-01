@@ -1,3 +1,0 @@
-<h3>Degrees and Majors</h3>
-<li><em>Economics and Finance</em></li>
-<li><em>Philosophy and Religion</em></li>

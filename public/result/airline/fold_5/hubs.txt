@@ -1,0 +1,76 @@
+Found: 34
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	hubs	........ / Nitra	// The company has its head office on the grounds of <a> Nitra Airport </a> , <a> Nitra </a> .
+
+#	NEW	hubs	........ / Domodedovo	// Its main bases were <a> Domodedovo International Airport </a> , Moscow and <a> Irkutsk Airport </a> .
+
+#	NEW	hubs	........ / Malm&#	// Its main base is <a> Malm&#x00f6 ; Airport </a> , with a hub at <a> Stockholm-Bromma Airport </a> . </p>
+
+#	NEW	hubs	........ / York	// <p> The aircraft received instructions to taxi to New York International Airport ' s Runway 31L at 09 : 54 AM EST , and clearance to proceed to Los Angeles non-stop under <a> instrument flight rules </a> ( IFR ) at 10 : 02 AM EST .
+
+#	NEW	hubs	........ / CIS	// It operated scheduled domestic , international and cargo services mostly to other <a> CIS </a> nations and Europe .
+
+#	NEW	hubs	........ / vez	// Its main base is on the grounds of <a> Jorge Ch&#x00e1 ; vez International Airport </a> .
+
+#	NEW	hubs	........ / Glasgow	// Its main bases were <a> Glasgow International Airport </a> , <a> Edinburgh Airport </a> and <a> Aberdeen Airport </a> .
+
+#	NEW	hubs	........ / Gatwick	// It was owned by Mike Hawkins ( 49 . 9% ) and Shaun Dewey ( 49 . 9% ) and operated from London Gatwick Airport , Newcastle International Airport and Manchester Ringway Airport .
+
+#	NEW	hubs	........ / airline	// <p> <strong> Titan Airways </strong> is a British <a> charter airline </a> based at <a> London Stansted Airport </a> , United Kingdom .
+
+#	NEW	hubs	........ / the	// Palestinian Airlines transferred its base to Gaza following the opening of the airport in November 1998 .
+
+#	NEW	hubs	........ / Alia	// Its main base was <a> Queen Alia International Airport </a> . </p>
+
+#	NEW	hubs	........ / airline	// <p> <strong> PAN Air </strong> L&#x00ed ; neas A&#x00e9 ; reas S . A . is a <a> cargo airline </a> based in <a> Madrid </a> , <a> Spain </a> .
+
+#	NEW	hubs	........ / n	// Its main base was <a> Le&#x00f3 ; n Airport </a> and it maintained <a> focus city </a> operations at <a> Valladolid Airport </a> and <a> Salamanca Airport </a> , connecting the <a> Castile and Le&#x00f3 ; n </a> regions with major Spanish destinations .
+
+#	NEW	hubs	........ / Coventry	// Its main base is <a> Coventry Airport </a> . </p>
+
+#	NEW	hubs	........ / Herrera	// It operated largely domestic services , with its main base at <a> Olaya Herrera Airport </a> ( EOH ) , Medell&#x00ed ; n .
+
+#	NEW	hubs	........ / again .	// The system is designed to forward calls to the airport when dealing with high volumes of calls , where you will be forwarded to the same number and be forwarded again . </p>
+
+#	NEW	hubs	........ / Novy	// Its main base is <a> Khabarovsk Novy Airport </a> . </p>
+
+#	NEW	hubs	........ / Tsentralny	// Its main base is <a> Saratov Tsentralny Airport </a> ( RTW ) . </p>
+
+#	NEW	hubs	........ / Kinshasa	// Its main base was <a> Kinshasa International Airport </a> .
+
+#	NEW	hubs	........ / Gabon	// It was established in 2002 as <strong> Air Max-Gabon </strong> and operated charter and passenger flights in <a> West Africa </a> out of <a> Libreville International Airport </a> .
+
+#	NEW	hubs	........ / nge	// Its main base is <a> Borl&#x00e4 ; nge Airport </a> . </p>
+
+#	NEW	hubs	........ / Simferopol	// Its main base is Simferopol International Airport . . </p>
+
+#	NEW	hubs	........ / Zaporizhia	// Its main base is <a> Zaporizhia International Airport </a> . </p>
+
+#	NEW	hubs	........ / Odessa	// Its main base is <a> Odessa International Airport </a> . </p>
+
+#	NEW	hubs	........ / Odessa	// Its main bases are <a> Odessa Airport </a> ( ODS ) and <a> Simferopol Airport </a> ( SIP ) . </p>
+
+#	NEW	hubs	........ / airline	// <p> <strong> Ukraine Air Enterprise </strong> is an <a> airline </a> based in <a> Kiev </a> , <a> Ukraine </a> .
+
+#	NEW	hubs	........ / Stansted	// The airline ' s flight hubs were <a> London Stansted Airport </a> , <a> Gibraltar </a> , Germany and Spain . </p>
+
+#	NEW	hubs	........ / Dhabi	// Its main base was <a> Abu Dhabi International Airport </a> .
+
+#	NEW	hubs	........ / Ambouli	// The plane landed at <a> Djibouti-Ambouli International Airport </a> , <a> Djibouti City </a> , <a> Djibouti </a> where he was over-powered by the crew .
+
+#	NEW	hubs	........ / var	// Its main base is <a> Sim&#x00f3 ; n Bol&#x00ed ; var International Airport </a> , Caracas . </p>
+
+#	NEW	hubs	........ / airline	// <p> <strong> Servivensa </strong> is an <a> airline </a> based in <a> Caracas </a> , <a> Venezuela </a> .
+
+#	NEW	hubs	........ / Viracopos	// Its main base is <a> Viracopos International Airport </a> , Campinas . </p>
+
+#	NEW	hubs	........ / airline	// <p> <strong> Air Minas Linhas A&#x00e9 ; reas </strong> is an <a> airline </a> based in <a> Belo Horizonte </a> , <a> Minas Gerais </a> , <a> Brazil </a> .
+
+#	NEW	hubs	........ / n	// Its main base is <a> Madrid-Torrej&#x00f3 ; n Airport </a> . </p>
+

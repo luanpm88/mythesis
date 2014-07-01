@@ -1,0 +1,99 @@
+Found: 44
+Found Not Null: 1
+Correct: 1
+Wrong: 0
+Total: 1
+precision: 1.0
+recall: 1.0
+
+
+
+#	NEW	logo_size	........ / 18	// <p> As of November 2009 a total of 18 aircraft are in Brindabella Airlines service : </p>
+
+#	NEW	logo_size	........ / 4	// The <a> aircraft registration </a> number was , a <a> Douglas DC-4 </a> <a> propliner </a> .
+
+#	NEW	logo_size	........ / </	// <p> The ASTAR Air Cargo fleet consists of the following aircraft : </p>
+
+#	NEW	logo_size	........ / ,	// In March 2007 , when Canadian company Garda Security bought ATIS , Ameriflight was sold to a group of investors including the company ' s president , Gary Richards .
+
+#	NEW	logo_size	........ / </	// Twenty-four of the thirty-three people on board were killed . </p>
+
+#	NEW	logo_size	........ / a	// His plan was to disable the aircraft ' s <a> cockpit voice recorder </a> before take-off and once airborne he intended to kill the crew using blunt force so their injuries would appear consistent with an accident rather than a hijacking .
+
+#	NEW	logo_size	........ / 2007 .	// It had 63 employees as of at March 2007 .
+
+#	NEW	logo_size	........ / a>	// <p> The flight was documented on the television program , <em> <a> Mayday </a> </em> ( Air Emergenc / Air Crash Investigation ) . </p>
+
+#	NEW	logo_size	........ / 2010 :	// <p> The Air China Cargo fleet consists of the following aircraft as of January 2010 : </p>
+
+#	NEW	logo_size	........ / <a>	// <p> <strong> BETA Cargo </strong> ( Brazilian Express Transportes A&#x00e9 ; reos ) is a <a> cargo airline </a> based in <a> Brazil </a> .
+
+#	NEW	logo_size	........ / 2010 ) :	// <p> The Business Aviation Center fleet consists of the following aircraft ( at May 2010 ) : </p>
+
+#	NEW	logo_size	........ / 2007 ) :	// <p> The BritishJET fleet consisted of the following aircraft ( at March 2007 ) : </p>
+
+#	NEW	logo_size	........ / 2009 ) :	// <p> The Blue Bird Aviation fleet includes the following aircraft ( as of 4 July 2009 ) : </p>
+
+#	NEW	logo_size	........ / 2007 )	// <p> The Bemidji Airlines fleet consists of the following aircraft ( at March 2007 ) ref name=&quot ; FI&quot ; / : </p>
+
+14	TRUE	Avioquintana::logo_size	200 / 2006 ) :	
+<p> The Avioquintana fleet includes the following aircraft ( at August 2006 ) : </p>
+
+#	NEW	logo_size	........ / a>	// <p> The Aviavilsa fleet includes the following aircraft ( as of 15 March 2009 ) [ <a> http : / /www . ch-aviation . c / aircraft . php ? search=set&amp ; airline=LVR&amp ; al_op=1 </a> ] : </p>
+
+#	NEW	logo_size	........ / 2007 ) :	// <p> The Aviast fleet includes the following aircraft ( at March 2007 ) : </p>
+
+#	NEW	logo_size	........ / 2007 )	// <p> The Focus Air cargo fleet consisted of the following aircraft ( at December 2007 ) ref name=&quot ; FI&quot ; / : </p>
+
+#	NEW	logo_size	........ / </	// <p> The Angara Airlines fleet includes the following aircraft ( at March ) </p>
+
+#	NEW	logo_size	........ / 2007 )	// <p> The Alberta Citylink fleet consists of the following aircraft ( at March 2007 ) ref name=&quot ; FI&quot ; / : </p>
+
+#	NEW	logo_size	........ / 2005 ) :	// <p> The FS Air Service fleet consists of the following aircraft ( at January 2005 ) : </p>
+
+#	NEW	logo_size	........ / 2008	// <p> As of June 2008 , the fleet consists of : </p>
+
+#	NEW	logo_size	........ / </	// <p> The Air Universal fleet included the following aircraft : </p>
+
+#	NEW	logo_size	........ / 2007 )	// Satellite uses the [ [ Cessna 402 ] ] ] ] The Air Satellite fleet was consisted in the following aircraft ( at August 2007 ) ref name=&quot ; FI&quot ; / : </p>
+
+#	NEW	logo_size	........ / 2007	// <p> The Air Freight NZ fleet consists of the following aircraft ( at March <a> 2007 </a> ) ref name=&quot ; FI&quot ; / : </p>
+
+#	NEW	logo_size	........ / a	// On 1 March 2004 , due to rising fuel costs , the airline announced it was ending all operations within a week . ref
+
+#	NEW	logo_size	........ / </	// <p> The aircraft was an older four-engined DC-8 passenger jet which had first flown in 1969 as part of the air fleet of <a> Braniff International Airways </a> .
+
+#	NEW	logo_size	........ / 2007 )	// It was owned by <a> Spanair </a> ( 51% ) and <a> SAS Group </a> ( 49% ) and had 155 employees ( at March 2007 ) </p>
+
+#	NEW	logo_size	........ / 2010 ) :	// <p> The fleet of Rico Linhas A&#x00e9 ; reas includes the following aircraft configured in all-economy class ( as of June 2010 ) : </p>
+
+#	NEW	logo_size	........ / 2007 ) :	// <p> The Aeron&#x00e1 ; utica fleet includes the following aircraft ( at March 2007 ) : ref name=&quot ; FI&quot ; / </p>
+
+#	NEW	logo_size	........ / the	// <p> The aircraft was partially submerged , and at least one of the fuel tanks had ruptured during the crash .
+
+#	NEW	logo_size	........ / 2007	// It is wholly owned by Cargo Holdings International ( CHI ) and has 194 employees ( at March <a> 2007 </a> ) ref name=&quot ; FI&quot ; / . </p>
+
+#	NEW	logo_size	........ / 2004	// The aircraft was taken out of service in February 2004 and the 30-year old aircraft was scrapped in 2009 .
+
+#	NEW	logo_size	........ / 2009	// <p> As of December 2009 the Tasair fleet consists of the following : </p>
+
+#	NEW	logo_size	........ / 2009 ) :	// The Romavia fleet includes the following aircraft ( as of December 2009 ) : </p>
+
+#	NEW	logo_size	........ / 2010 ) :	// <p> The TAM Mercosur fleet consists of the following aircraft ( as of August 2010 ) : center / center </p>
+
+#	NEW	logo_size	........ / </	// Centurion Air Cargo was then formed in July 1999 , taking over the <a> operating certificate </a> of Challenge Air Cargo includes : </p>
+
+#	NEW	logo_size	........ / 2007	// In April 2007 AirBridge had purchased <a> Mal&#x00e9 ; v </a> airline from Hungarian government .
+
+#	NEW	logo_size	........ / 2006	// <p> As of August 2006 the Air Excellence fleet included : </p>
+
+#	NEW	logo_size	........ / 1997	// <p> <strong> Air D ' Ayiti </strong> was a short-lived <a> airline </a> from <a> Haiti </a> , which was operational between 1997 and 1999 .
+
+#	NEW	logo_size	........ / 2007	// <p> In 2007 , Aero Cuahonte was shut down . </p>
+
+#	NEW	logo_size	........ / <a>	// In March 1994 it was transformed into a regional scheduled operator , changed its name to <strong> TAVAJ Transportes A&#x00e9 ; reos Regulares / A </strong> , and moved its base to <a> Rio Branco </a> .
+
+#	NEW	logo_size	........ / 500	// As of January 2007 , the company has 500 employees . </p>
+
+#	NEW	logo_size	........ / to	// <p> As the plane was taking off , it over rotated ; the aircraft descended and the left <a> wing </a> struck the ground , causing the wing to separate .
+

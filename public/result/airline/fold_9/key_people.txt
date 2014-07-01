@@ -1,0 +1,96 @@
+Found: 44
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	key_people	........ / The Bearskin	// <p> The Bearskin Airlines fleet includes the following aircraft ( as of August 2010 ) : </p>
+
+#	NEW	key_people	........ / were operated	// Flights were operated with AN / NH flight numbers , although Air Next had its own airline codes . </p>
+
+#	NEW	key_people	........ / the parent	// It served most domestic destinations of the parent company .
+
+#	NEW	key_people	........ / an & quot ;	// As an &quot ; airline with an airline , &quot ; and a subsidiary and operationing division of the USAir Group , the US Airways Shuttle no longer exists .
+
+#	NEW	key_people	........ / a 5-	// Etihad also has a 5-star rating for its First and Business Classes .
+
+#	NEW	key_people	........ / June 11	// <p> On June 11 , 1980 , Lorenzo established a <a> holding company </a> , <a> Texas Air Corporation </a> , for Texas International .
+
+#	NEW	key_people	........ / plan was	// The plan was to commence in 1971 and to run until 1980 .
+
+#	NEW	key_people	........ / Air previously	// J-Air previously had its headquarters in <a> &#x014c ; mura </a> , <a> Nagasaki Prefecture </a> .
+
+#	NEW	key_people	........ / in 1997	// <p> The airline was established in 1997 and started operations in 2000 .
+
+#	NEW	key_people	........ / is a	// The airline is a member of the <a> European Regions Airline Association </a> .
+
+#	NEW	key_people	........ / The airline	// <p> The airline was established and started operations on August 7 , 1968 .
+
+#	NEW	key_people	........ / the following	// <p> <a> TACA ' s regional airlines system </a> includes the following airlines : </p>
+
+#	NEW	key_people	........ / merged entity	// The merged entity eventually became Britain ' s foremost independent , international scheduled airline . </p>
+
+#	NEW	key_people	........ / Omar Mohammed	// Only one terrorist still remained undetected by the Maltese Government , Omar Mohammed Ali Rezaq , who in fact survived .
+
+#	NEW	key_people	........ / in 1995	// ( 2003 ) ] ] The airline was established in 1995 as <strong> Heliopolis Airlines </strong> .
+
+#	NEW	key_people	........ / In 1970	// <p> In 1970 the airline had its headquarters at <a> Los Cerillos Airport </a> . </p>
+
+#	NEW	key_people	........ / operates scheduled	// It operates scheduled domestic , regional , and international passenger and freight services .
+
+#	NEW	key_people	........ / SilkAir ( Singapore )	// <p> <strong> SilkAir ( Singapore ) Private Limited </strong> is an <a> airline </a> based in <a> Singapore </a> .
+
+#	NEW	key_people	........ / operated flights	// It also operated flights between Florida and the West Coast , and from the Northeast to the west coast . </p>
+
+#	NEW	key_people	........ / Airlines currently	// Ethiopia Airlines currently has <a> codeshare agreement </a> s with the following airlines : </p>
+
+#	NEW	key_people	........ / in use	// By the early 1980s a <a> Fokker F27 Friendship </a> was also in use on these services . </p>
+
+#	NEW	key_people	........ / Siberia Airlines	// <p> Siberia Airlines has grown mainly through a series of mergers with smaller regional airlines .
+
+#	NEW	key_people	........ / the running	// The airline was also responsible for the running of the nation ' s <a> airport </a> s .
+
+#	NEW	key_people	........ / 163 passengers	// carrying 163 passengers and 13 crew members , left New York ' s JFK airport on Friday , December 29 , 1972 at 9 : 20 p . m . , en route to Miami International Airport .
+
+#	NEW	key_people	........ / which he	// Founder <a> Michel Leblanc </a> had previously founded <a> Royal Aviation </a> , which he later sold to <a> Canada 3000 </a> .
+
+#	NEW	key_people	........ / the regional	// TTALPA is also part of the regional <a> Caribbean Airline Pilots Association </a> ( C-ALPA ) .
+
+#	NEW	key_people	........ / that time	// By that time , the weather had deteriorated even more and the sun had since set .
+
+#	NEW	key_people	........ / July 1997	// On 4 July 1997 the airline began operations on the route using its own identity , with <a> Saab 2000 </a> aircraft .
+
+#	NEW	key_people	........ / the relatives	// It was later ratified by the relatives of the victims who agreed to the conditions .
+
+#	NEW	key_people	........ / The Air	// <p> The Air Srpska fleet consisted of two <a> ATR 72 </a> <a> turboprop </a> aircraft . </p>
+
+#	NEW	key_people	........ / October 5	// <p> The <a> airline </a> was established on October 5 , 1990 , as Japan Air Charter Co . , Ltd .
+
+#	NEW	key_people	........ / the decade	// As the decade progressed , new routes to previously under-served African airports were opened . </p>
+
+#	NEW	key_people	........ / Mandarin Airlines	// Thus , Mandarin Airlines became <a> ROC </a> ' s first airline to fly direct to Australia and Canada .
+
+#	NEW	key_people	........ / in 1987	// <p> The airline was established in 1987 and started operations in 1988 as <em> Air Botnia </em> .
+
+#	NEW	key_people	........ / December 2003	// The airline was established in December 2003 and started operations on 23 July 2004 .
+
+#	NEW	key_people	........ / the years	// <p> Over the years , Air Anatolia operated the following aircraft types : </p>
+
+#	NEW	key_people	........ / the prince	// At the same time , he noted that Shoreline , a company owned by the prince , had expressed an interest in taking over the airline . </p>
+
+#	NEW	key_people	........ / the following	// <p> The airline also operated the following aircraft in the past : </p>
+
+#	NEW	key_people	........ / were also	// <a> Douglas DC9s </a> were also introduced to give the airline a more competitive edge .
+
+#	NEW	key_people	........ / main base	// Its main base is <a> Tunis-Carthage International Airport </a> .
+
+#	NEW	key_people	........ / enabled the	// This enabled the airline to reach beyond the regional destinations it served .
+
+#	NEW	key_people	........ / October 1951	// <p> In October 1951 , <a> British Overseas Airways Corporation ( BOAC ) </a> became a major shareholder in Gulf Aviation , holding a 22% stake . </p>
+
+#	NEW	key_people	........ / with overwhelming	// Presented with overwhelming competition from other regional airlines Atlantic Coast Airlines and United Airlines were unable to negotiate a mutual agreement .
+
+#	NEW	key_people	........ / owns 11	// The airline owns 11 airports , five of which have international status .
+

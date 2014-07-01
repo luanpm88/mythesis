@@ -1,0 +1,91 @@
+Found: 39
+Found Not Null: 1
+Correct: 1
+Wrong: 0
+Total: 2
+precision: 1.0
+recall: 0.5
+
+
+
+#	NEW	key_people	........ / still operates	// It still operates as a general aviation company . </p>
+
+1	TRUE	Compass Airlines (Australia)::key_people	bryan grey / Bryan Grey	
+<p> Compass Mk I , as it later became known , was established by Bryan Grey , who had previously run <a> regional airline </a> <a> East-West Airlines </a> .
+
+#	NEW	key_people	........ / long distance	// A long distance route between Hsinking and <a> Berlin </a> was also pioneered in 1938 . </p>
+
+#	NEW	key_people	........ / EI- JIV	// The aircraft , EI-JIV , is based at East Midlands airport in the UK . </p>
+
+#	NEW	key_people	........ / main bases	// Its main bases were <a> Dublin International Airport </a> , Shannon International Airport and <a> Cork Airport </a> . </p>
+
+#	NEW	key_people	........ / main base	// Its main base was <a> Marco Polo International Airport </a> ) , <a> Venice </a> . </p>
+
+#	NEW	key_people	........ / Lars Erik	// It is wholly owned by Lars Erik Nielsen ( Chairman ) and has 275 employees ( at March 2007 ) . </p>
+
+#	NEW	key_people	........ / the remaining	// Also the remaining A321 is due to be returned to the lessor .
+
+#	NEW	key_people	........ / main base	// Its main base was <a> Harsta / Narvik Airport , Evenes </a> .
+
+#	NEW	key_people	........ / main base	// Its main base is <a> Warsaw Frederic Chopin Airport </a> . </p>
+
+#	NEW	key_people	........ / main base	// Its main base is <a> Portela Airport </a> , <a> Lisbon </a> . </p>
+
+#	NEW	key_people	........ / October 25	// Effective October 25 , 2009 Flight 11 was replaced on the Paris-Houston route by flight 33 . </p>
+
+#	NEW	key_people	........ / In October	// <p> In October 2004 KrasAir and <a> Domodedovo Airlines </a> set up a joint management company called AirBridge .
+
+#	NEW	key_people	........ / The Anikay	// <p> The Anikay Air fleet includes the following aircraft ( at March 2008 ) : </p>
+
+#	NEW	key_people	........ / the aircraft	// Three of the aircraft will be operated for ad hoc charter missions as well as private flights for the owners , whereas the fourth will be operated privately .
+
+#	NEW	key_people	........ / Gruppo Condor .	// <p> The airline was established in 1999 and is 100% owned by Gruppo Condor . </p>
+
+#	NEW	key_people	........ / main base	// Its main base is <a> Golos&#x00f3 ; n International Airport </a> , La Ceiba . </p>
+
+#	NEW	key_people	........ / The Windrose	// <p> The Windrose Air fleet comprises ( as of January 2008 ) : </p>
+
+#	NEW	key_people	........ / The airline	// <p> The airline operates a fleet of <a> DC-9 </a> s . </p>
+
+#	NEW	key_people	........ / main base	// Its main base is <a> Lennart Meri Tallinn Airport </a> . </p>
+
+#	NEW	key_people	........ / has a	// CAT also has a large maintenance facility . </p>
+
+#	NEW	key_people	........ / offers on-	// It offers on-demand service of flights aboard <a> business jet </a> s . </p>
+
+#	NEW	key_people	........ / The airline	// <p> The airline has two <a> Cessna 208 </a> Caravan . </p>
+
+#	NEW	key_people	........ / The Stuttgarter	// <p> The Stuttgarter Flugdienst fleet consists of the following aircraft types , which provide space for 5-13 passengers : </p>
+
+#	NEW	key_people	........ / operates business	// It operates business and executive flights , cargo and <a> air ambulance </a> services . </p>
+
+#	NEW	key_people	........ / main base	// Its main base is at <a> Grantley Adams International Airport </a> , Barbados . </p>
+
+#	NEW	key_people	........ / The organisation	// <p> The organisation is an internationally accredited enterprise that primarily offers a range of aviation services namely flight operations charters with its own fleet , aircraft maintenance services and business charter brokerage . </p>
+
+#	NEW	key_people	........ / airline offers	// The airline offers scheduled domestic and short-haul international services , as well as <a> charter flight </a> s .
+
+#	NEW	key_people	........ / x00e9 ; Territoriale	// The airline is owned by Collectivit&#x00e9 ; Territoriale de Corse ( 60 . 37% ) ,
+
+#	NEW	key_people	........ / The airline	// <p> The airline was established and started operations on 23 February 1995 .
+
+#	NEW	key_people	........ / November 2000	// In November 2000 , Skytrans merged with AirSwift Aviation , another small regional airline based in Cairns .
+
+#	NEW	key_people	........ / provides the	// <p> Gazpromavia also provides the following services : </p>
+
+#	NEW	key_people	........ / main base	// Its main base is <a> Domodedovo International Airport </a> , Moscow . </p>
+
+#	NEW	key_people	........ / Bykovo Aircraft	// The airline is owned by Bykovo Aircraft Repair Plant ( 29 . 4% ) ,
+
+#	NEW	key_people	........ / The airline	// <p> The airline was established in 1993 as <strong> Karat Air Company </strong> ( formerly known as <strong> Rikor </strong> ) .
+
+#	NEW	key_people	........ / 2004 UTair	// In 2004 UTair gained control of more than 70% of <a> Komiinteravia </a> . </p>
+
+#	NEW	key_people	........ / Indian media	// <p> Indian media baron <a> Kalanidhi Maran </a> acquired a major stake ( 37 . 7% ) in this airline on June 2010 .
+
+#	NEW	key_people	........ / <strong> Airports	// <p> <strong> Airports served in the United States : </strong> </p>
+
+#	NEW	key_people	........ / Yanda Airlines .	// Germania Express has adopted the IATA code &quot ; ST&quot ; which was previously used by Yanda Airlines . </p>
+
+#	null	key_people	bryan grey / ..........
+

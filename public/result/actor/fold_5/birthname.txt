@@ -1,0 +1,68 @@
+Found: 30
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	birthname	........ / that would last for six films over a	// <p> Winner ' s sex comedy <em> The System </em> ( 1964 ) began a partnership with actor <a> Oliver Reed </a> that would last for six films over a 25-year period .
+
+#	NEW	birthname	........ / ndash ; March 6	// <p> <strong> Margaret Dumont </strong> ( October 20 , 1882 &ndash ; March 6 , 1965 ) was an <a> American </a> comedic actress .
+
+#	NEW	birthname	........ / she married the	// In 1686 she married the actor <a> William Mountfort </a> , and after Mountfort ' s infamous murder in 1692 , she married the actor <a> John Verbruggen </a> .
+
+#	NEW	birthname	........ / best known for his role	// <p> <strong> Marcus Chong </strong> ( born <strong> Marcus Wyatt </strong> on July 8 , 1967 ) is an <a> American </a> <a> actor </a> best known for his role as <a> Tank </a> in the <a> science fiction </a> film <em> <a> The Matrix </a> </em> . </p>
+
+#	NEW	birthname	........ / Florenz & quot ; Flo&quot ; Ziegfeld	// <p> <strong> Florenz &quot ; Flo&quot ; Ziegfeld , Jr . </strong> ( March 21 , 1867 &ndash ; July 22 , 1932 ) was an American <a> Broadway </a> <a> impresario </a> .
+
+#	NEW	birthname	........ / Thelma & quot ; Butterfly&quot ; McQueen	// <p> <strong> Thelma &quot ; Butterfly&quot ; McQueen </strong> ( January 7 , 1911 &ndash ; December 22 , 1995 ) was an American actress .
+
+#	NEW	birthname	........ / is an American	// <p> <strong> Mark-Paul Harry Gosselaar </strong> ( born March 1 , 1974 ) is an American <a> actor </a> .
+
+#	NEW	birthname	........ / had also appeared	// Bendix had also appeared in the stage version , but in the role of Officer Krupp ( a role played on film by <a> Broderick Crawford </a> ) .
+
+#	NEW	birthname	........ / Her recent film credits include &quot ; Get Smart& quot ;	// <p> Her recent film credits include &quot ; Get Smart&quot ; and &quot ; American Carol&quot ; .
+
+#	NEW	birthname	........ / is an American film actress who has mainly played supporting roles .	// <p> <strong> Susan Blakely </strong> ( born September 7 , 1948 ) is an American film actress who has mainly played supporting roles . </p>
+
+#	NEW	birthname	........ / in many movies	// <p> <strong> Charles Gerstle Levison </strong> ( January 26 , 1905 &ndash ; July 9 , 2007 ) , better known as <strong> Charles Lane </strong> , was an <a> American </a> <a> character actor </a> seen in many movies and TV shows , and at the time of his death may have been the oldest living professional American actor .
+
+#	NEW	birthname	........ / conductor of music for	// <p> <strong> Alfred Newman </strong> ( March 17 , 1900&ndash ; February 17 , 1970 ) was an <a> American </a> <a> composer </a> , arranger , and conductor of music for <a> film </a> s .
+
+#	NEW	birthname	........ / for many years .	// He is , however , the father-in-law of actor and <a> Los Angeles </a> television personality Don Lamond , best known for hosting Stooges shorts on <a> KTTV </a> for many years . </p>
+
+#	NEW	birthname	........ / Father Knows Best	// <p> For many people , Wyatt is best remembered for her television role as <em> Margaret Anderson </em> in the <a> television comedy </a> <em> <a> Father Knows Best </a> </em> from 1954 to 1960 .
+
+#	NEW	birthname	........ / Paymer has appeared	// Paymer has appeared in over 90 films in his career .
+
+#	NEW	birthname	........ / Hathaway continued to	// <p> Hathaway continued to appear in family-oriented films over the next three years , subsequently becoming known in mainstream media as a children ' s role model .
+
+#	NEW	birthname	........ / has also made several	// Diamond has also made several <a> cameo appearance </a> s in films , including appearances in <em> <a> Dickie Roberts : Former Child Star </a> </em> in 2003 and in <em> <a> Made </a> </em> in 2001 .
+
+#	NEW	birthname	........ / the Bank Manager	// In 1988 Thornton appeared as <em> Amelia Lawson </em> , the Bank Manager , in the American television drama series <em> <a> Paradise </a> </em> .
+
+#	NEW	birthname	........ / other claims arising from her belief that he hired Pellicano	// <p> On July 3 , 2006 , McTiernan ' s former wife , film producer <a> Donna Dubrow </a> , filed suit against him for <a> invasion of privacy </a> and other claims arising from her belief that he hired Pellicano to wiretap her telephone .
+
+#	NEW	birthname	........ / a Reuters article reported that Swayze &quot ; has a very limited amount of disease	// On March 5 , 2008 , a Reuters article reported that Swayze &quot ; has a very limited amount of disease , and he appears to be responding well to treatment thus far . &quot ;
+
+#	NEW	birthname	........ / Shid&# x014d ; Nakamura	// <p> On May 10 , 2005 , Takeuchi married <a> Shid&#x014d ; Nakamura </a> , a <a> Kabuki </a> actor .
+
+#	NEW	birthname	........ / is a French	// <p> <strong> Jacques Rivette </strong> ( ; born 1 March 1928 ) is a French <a> film director </a> . </p>
+
+#	NEW	birthname	........ / was one of	// <p> In 2010 Mutafova was one of the leading actors in the Bulgarian film <em> If somebody loves you </em> . </p>
+
+#	NEW	birthname	........ / From & quot ; Canciones de las Brigadas Internacionales& quot ;	// <p> <strong> From &quot ; Canciones de las Brigadas Internacionales&quot ; </strong> and <strong> &quot ; Solidarit&#x00e4 ; t&quot ; </strong> </p>
+
+#	NEW	birthname	........ / with a career spanning six decades .	// <p> <strong> Ann Sothern </strong> ( January 22 , 1909 &ndash ; March 15 , 2001 ) was an American <a> film and television actress </a> with a career spanning six decades . </p>
+
+#	NEW	birthname	........ / and film actor .	// <p> <strong> Robert Preston </strong> ( June 8 , 1918 &ndash ; March 21 , 1987 ) was an <a> American </a> stage and film actor . </p>
+
+#	NEW	birthname	........ / most famous for his	// <p> <strong> Sherrill Milnes </strong> ( born January 10 , 1935 ) is an <a> American </a> operatic <a> baritone </a> most famous for his <a> Verdi </a> roles .
+
+#	NEW	birthname	........ / Think Like a Man : What Men Really Think About Love	// He is the author of <em> <a> Act Like a Lady , Think Like a Man : What Men Really Think About Love , Relationships , Intimacy , and Commitment </a> </em> , which was published in March 2009 . </p>
+
+#	NEW	birthname	........ / Walter Scott Murch	// <p> <strong> Walter Scott Murch </strong> ( born July 12 , 1943 ) is a <a> film editor </a> and <a> sound designer </a> , the son of painter <a> Walter Tandy Murch </a> ( 1907-1967 ) . </p>
+
+#	NEW	birthname	........ / was a Japanese	// <p> <strong> Ken Ogata </strong> ( &#x7dd2 ; &#x5f62 ; &#x62f3 ; <em> Ogata Ken </em> , 20 July 1937-5 October 2008 ) was a Japanese <a> actor </a> .
+

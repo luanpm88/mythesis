@@ -1,0 +1,50 @@
+Found: 21
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	website	........ / At dawn the next day , search aircraft were sent to Flight 201 ' s last known position .	// At dawn the next day , search aircraft were sent to Flight 201 ' s last known position .
+
+#	NEW	website	........ / The airline was established and started operations in	// <p> The airline was established and started operations in 1949 .
+
+#	NEW	website	........ / Scheduled flights were first operated in	// Scheduled flights were first operated in 2001 .
+
+#	NEW	website	........ / air operator that provides leasing services as well as a branded operation on domestic and intra-European flights .	// <p> <strong> Jet Air Sp . z o . o . </strong> is a <a> Polish </a> air operator that provides leasing services as well as a branded operation on domestic and intra-European flights .
+
+#	NEW	website	........ / Ladeco then became exclusively an internal carrier between Chilean cities .	// Ladeco then became exclusively an internal carrier between Chilean cities .
+
+#	NEW	website	........ / It was scheduled to fly	// It was scheduled to fly 2 , 465 miles ( 3 , 967&nbsp ; km ) to JFK airport . </p>
+
+#	NEW	website	........ / It operates non-scheduled passenger services throughout the Falkland Islands .	// It operates non-scheduled passenger services throughout the Falkland Islands .
+
+#	NEW	website	........ / Inter Island Airways operates passenger and cargo flights in and between	// Inter Island Airways operates passenger and cargo flights in and between <a> American Samoa </a> , Independent <a> Samoa </a> and to neighboring Pacific island countries .
+
+#	NEW	website	........ / A second explosion followed after the plane crashed .	// A second explosion followed after the plane crashed .
+
+#	NEW	website	........ / In his crew were an engineer , a wireless operator and a mechanic .	// In his crew were an engineer , a wireless operator and a mechanic .
+
+#	NEW	website	........ / It operates charter flights both domestically and to destinations throughout	// It operates charter flights both domestically and to destinations throughout <a> Africa </a> .
+
+#	NEW	website	........ / The helicopters are flown using the Air Operators Certificate of Oxford Air Services Limited .	// The helicopters are flown using the Air Operators Certificate of Oxford Air Services Limited . </p>
+
+#	NEW	website	........ / It operates scheduled services to over 70 villages in Alaska and also provides charter services throughout Alaska .	// It operates scheduled services to over 70 villages in Alaska and also provides charter services throughout Alaska .
+
+#	NEW	website	........ / It was established and started operations in 1985 and operates scheduled and on-demand air cargo services .	// It was established and started operations in 1985 and operates scheduled and on-demand air cargo services .
+
+#	NEW	website	........ / It operated cargo services on behalf of express package services including Purolator	// It operated cargo services on behalf of express package services including Purolator , Airborne Express and <a> FedEx </a> .
+
+#	NEW	website	........ / It was established and started operations in 1996 and operates domestic charter services .	// It was established and started operations in 1996 and operates domestic charter services .
+
+#	NEW	website	........ / It was a private airline operating international scheduled and charter passenger services from 1995 until its collapse on	// It was a private airline operating international scheduled and charter passenger services from 1995 until its collapse on 23 November 2009 .
+
+#	NEW	website	........ / It started operations in March 1991 and undertakes all types of cargo operations , as well as maintenance work for third parties .	// It started operations in March 1991 and undertakes all types of cargo operations , as well as maintenance work for third parties .
+
+#	NEW	website	........ / The pilots were flying visually not instrumentally when the plane vanished from	// The pilots were flying visually not instrumentally when the plane vanished from <a> radar </a> .
+
+#	NEW	website	........ / The animals and pets are given ample space to roam before their flight of upon arrival .	// The animals and pets are given ample space to roam before their flight of upon arrival .
+
+#	NEW	website	........ / It operates scheduled and charter passenger flights .	// It operates scheduled and charter passenger flights .
+

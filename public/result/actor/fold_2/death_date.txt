@@ -1,0 +1,56 @@
+Found: 24
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	death_date	........ / is	// <p> <strong> Staci Greason </strong> ( born 23 May 1964 ) is an American <a> actress </a> .
+
+#	NEW	death_date	........ / just	// He died shortly afterward , on 28 July 1998 , in <a> Bexley </a> , <a> Greater London </a> , just weeks prior to the release of the film .
+
+#	NEW	death_date	........ / February 27 , 1958 )	// <p> <strong> Harry Cohn </strong> ( July 23 , 1891 &ndash ; February 27 , 1958 ) was the American president and production director of <a> Columbia Pictures </a> . </p>
+
+#	NEW	death_date	........ / musician	// <p> <strong> Michael Moriarty </strong> ( born April 5 , 1941 ) is an <a> American-Canadian </a> actor of stage and screen , and a <a> jazz </a> <a> musician </a> .
+
+#	NEW	death_date	........ / May 23 , 1986 )	// <p> <strong> Sterling Hayden </strong> ( March 26 , 1916 &#x2013 ; May 23 , 1986 ) was an <a> American </a> actor and author .
+
+#	NEW	death_date	........ / July 2 , 1929 )	// <p> <strong> Gladys Brockwell </strong> ( September 26 , 1893 &#x2013 ; July 2 , 1929 ) was an American actress whose career began during the <a> silent film </a> era . </p>
+
+#	NEW	death_date	........ / 4 , 1975 )	// <p> <strong> Evelyn Brent </strong> ( October 20 , 1899 &#x2013 ; June 4 , 1975 ) was an American film and stage actress . </p>
+
+#	NEW	death_date	........ / ( September 23 , 1956	// <p> <strong> Maren Kawehilani Jensen </strong> ( September 23 , 1956 , <a> Arcadia , California </a> ) is an <a> American </a> former model and actress best known for portraying <a> Athena </a> in the 1970s <a> television series </a> <em> <a> Battlestar Galactica </a> </em> . </p>
+
+#	NEW	death_date	........ / <a>	// <p> <strong> Eriq Ki La Salle </strong> ( born July 23 , 1962 ) is an <a> American </a> actor and <a> director </a> , known for his portrayals of Darryl in the 1988 comedy film <em> <a> Coming to America </a> </em> and <a> Dr .
+
+#	NEW	death_date	........ / actress	// <p> <strong> Julianne Phillips </strong> ( born May 6 , 1960 ) is an <a> American </a> <a> model </a> and <a> actress </a> .
+
+#	NEW	death_date	........ / film	// <p> <strong> Melinda Culea </strong> ( born May 5 , 1955 in <a> Western Springs , Illinois </a> ) is an <a> American </a> film and television actress , who moved into acting after working as a model . </p>
+
+#	NEW	death_date	........ / September 15 , 1933 )	// <p> <strong> Henry Darrow </strong> ( born September 15 , 1933 ) is a prolific Puerto Rican-American <a> character actor </a> of <a> stage </a> and <a> film </a> .
+
+#	NEW	death_date	........ / January 5 , 1978 )	// <p> <strong> January Kristen Jones </strong> ( born January 5 , 1978 ) is an American actress .
+
+#	NEW	death_date	........ / March 20 , 1947 )	// <p> <strong> Chip Zien </strong> ( born <strong> Jerome Herbert Zien </strong> ; March 20 , 1947 ) is an American actor .
+
+#	NEW	death_date	........ / 1983 )	// <p> <strong> Violet Helen Carson </strong> <a> OBE </a> ( 1 September 1898 &ndash ; 26 December 1983 ) was an English actress . </p>
+
+#	NEW	death_date	........ / singer	// <p> <strong> Rena Vlahopoulou </strong> ( &#x03a1 ; &#x03ad ; &#x03bd ; &#x03b1 ; &#x0392 ; &#x03bb ; &#x03b1 ; &#x03c7 ; &#x03bf ; &#x03c0 ; &#x03bf ; &#x03cd ; &#x03bb ; &#x03bf ; &#x03c5 ; ) ( 1923 - July 29 , 2004 ) was a famous <a> Greek </a> <a> actress </a> and <a> singer </a> .
+
+#	NEW	death_date	........ / and	// <p> <strong> Detlev Buck </strong> ( born December 1 , 1962 in <a> Bad Segeberg </a> ) is a German <a> film director </a> and actor . </p>
+
+#	NEW	death_date	........ / talk	// <p> <strong> Sally Angeline Lowenthal </strong> ( born February 25 , 1942 ) , better known as <strong> Sally Jessy Raphael </strong> , is an <a> American </a> <a> talk show </a> <a> host </a> , known for the eponymous <em> <a> Sally </a> </em> talk show she hosted for two decades . </p>
+
+#	NEW	death_date	........ / filmmaker	// <p> <strong> Georges Franju </strong> ( 12 April 1912 &ndash ; 5 November 1987 ) was a <a> French </a> <a> filmmaker </a> .
+
+#	NEW	death_date	........ / actress	// <p> <strong> Harley Brown </strong> ( born August 2 , 1954 ) is an <a> American </a> actress , born in <a> Kansas City , Missouri </a> . </p>
+
+#	NEW	death_date	........ / specializing	// <p> <strong> Philip Simmons </strong> ( June 9 , 1912 - June 22 , 2009 ) was an <a> American </a> <a> artisan </a> and <a> blacksmith </a> specializing in the craft of <a> ironwork </a> .
+
+#	NEW	death_date	........ / September 1956 ) is	// <p> <strong> Tim McInnerny </strong> ( pronounced born 18 September 1956 ) is an <a> English </a> actor .
+
+#	NEW	death_date	........ / television	// <p> <strong> Alan E . Ball </strong> ( born May 13 , 1957 ) is an <a> American </a> <a> writer </a> , <a> director </a> , <a> actor </a> and <a> producer </a> for <a> film </a> , <a> theatre </a> and <a> television </a> .
+
+#	NEW	death_date	........ / and	// He also provided the voice of Pigsy in the cult series <em> <a> Monkey </a> </em> and was Max the pathologist in early episodes of <em> <a> Inspector Morse </a> </em> . </p>
+

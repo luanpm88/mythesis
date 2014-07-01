@@ -1,4 +1,0 @@
-<p><strong>Creative Arts</strong></p>
-<li>Fine Arts</li>
-<p><strong>Health Sciences</strong></p>
-<li>Liberal Arts &amp; Sciences</li>

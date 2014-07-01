@@ -1,3 +1,0 @@
-<li>School of Arts and Sciences</li>
-<li>Institute for <a>Astrophysics</a> and Computational Sciences</li>
-<li>Institute of <a>Musical Arts</a></li>

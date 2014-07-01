@@ -1,0 +1,65 @@
+Found: 27
+Found Not Null: 1
+Correct: 1
+Wrong: 0
+Total: 1
+precision: 1.0
+recall: 1.0
+
+
+
+#	NEW	caption	........ / Staci	// <p> <strong> Staci Greason </strong> ( born 23 May 1964 ) is an American <a> actress </a> .
+
+#	NEW	caption	........ / 1958 )	// <p> <strong> Harry Cohn </strong> ( July 23 , 1891 &ndash ; February 27 , 1958 ) was the American president and production director of <a> Columbia Pictures </a> . </p>
+
+#	NEW	caption	........ / Michael	// <p> <strong> Michael Moriarty </strong> ( born April 5 , 1941 ) is an <a> American-Canadian </a> actor of stage and screen , and a <a> jazz </a> <a> musician </a> .
+
+#	NEW	caption	........ / 1986 )	// <p> <strong> Sterling Hayden </strong> ( March 26 , 1916 &#x2013 ; May 23 , 1986 ) was an <a> American </a> actor and author .
+
+#	NEW	caption	........ / she	// <p> Born <strong> Gladys Lindeman </strong> in <a> Brooklyn , New York </a> , she was the daughter of a chorus girl who put her on stage at a very early age .
+
+#	NEW	caption	........ / 1975 )	// <p> <strong> Evelyn Brent </strong> ( October 20 , 1899 &#x2013 ; June 4 , 1975 ) was an American film and stage actress . </p>
+
+#	NEW	caption	........ / California	// <p> <strong> Maren Kawehilani Jensen </strong> ( September 23 , 1956 , <a> Arcadia , California </a> ) is an <a> American </a> former model and actress best known for portraying <a> Athena </a> in the 1970s <a> television series </a> <em> <a> Battlestar Galactica </a> </em> . </p>
+
+#	NEW	caption	........ / La	// After </em> ER <em> , La Salle had relatively small roles in movies such as </em> <a> One Hour Photo </a> <em> and also directed for </em> <a> Soul Food : The Series </a> <em> on <a> Showtime </a> . </em> </strong> </p>
+
+#	NEW	caption	........ / Julianne	// <p> <strong> Julianne Phillips </strong> ( born May 6 , 1960 ) is an <a> American </a> <a> model </a> and <a> actress </a> .
+
+#	NEW	caption	........ / Melinda	// <p> <strong> Melinda Culea </strong> ( born May 5 , 1955 in <a> Western Springs , Illinois </a> ) is an <a> American </a> film and television actress , who moved into acting after working as a model . </p>
+
+#	NEW	caption	........ / Henry	// <p> <strong> Henry Darrow </strong> ( born September 15 , 1933 ) is a prolific Puerto Rican-American <a> character actor </a> of <a> stage </a> and <a> film </a> .
+
+#	NEW	caption	........ / India	// <p> <strong> Namrata Shirodkar </strong> ( , born 22 January 1972 in <a> Mumbai </a> , <a> India </a> ) is an Indian <a> actress </a> and <a> model </a> . </p>
+
+#	NEW	caption	........ / Lewis	// <p> <strong> Lewis Gilbert </strong> <a> CBE </a> ( born 6 March 1920 in <a> London </a> ) is an <a> English </a> <a> film director </a> , <a> producer </a> and <a> screenwriter </a> </p>
+
+#	NEW	caption	........ / January	// <p> <strong> January Kristen Jones </strong> ( born January 5 , 1978 ) is an American actress .
+
+#	NEW	caption	........ / Chip	// <p> <strong> Chip Zien </strong> ( born <strong> Jerome Herbert Zien </strong> ; March 20 , 1947 ) is an American actor .
+
+#	NEW	caption	........ / Brian	// <p> <strong> Brian George Wilde </strong> ( 13 June 1927&#x2013 ; 20 March 2008 ) was an English <a> actor </a> , best known for his roles in <a> television comedy </a> , including <a> Mr Barrowclough </a> in <em> <a> Porridge </a> </em> and &quot ; Foggy&quot ; Dewhurst in <em> <a> Last of the Summer Wine </a> </em> .
+
+#	NEW	caption	........ / Violet	// <p> <strong> Violet Helen Carson </strong> <a> OBE </a> ( 1 September 1898 &ndash ; 26 December 1983 ) was an English actress . </p>
+
+#	NEW	caption	........ / Kathleen	// <p> <strong> Kathleen Mary Margaret Bryant </strong> ( 8 March 1897 in <a> Kingston upon Hull </a> &#x2013 ; 1 January 1988 in <a> Manchester </a> ) was an <a> English </a> <a> actress </a> .
+
+#	NEW	caption	........ / 2004 )	// <p> <strong> Rena Vlahopoulou </strong> ( &#x03a1 ; &#x03ad ; &#x03bd ; &#x03b1 ; &#x0392 ; &#x03bb ; &#x03b1 ; &#x03c7 ; &#x03bf ; &#x03c0 ; &#x03bf ; &#x03cd ; &#x03bb ; &#x03bf ; &#x03c5 ; ) ( 1923 - July 29 , 2004 ) was a famous <a> Greek </a> <a> actress </a> and <a> singer </a> .
+
+#	NEW	caption	........ / Detlev	// <p> <strong> Detlev Buck </strong> ( born December 1 , 1962 in <a> Bad Segeberg </a> ) is a German <a> film director </a> and actor . </p>
+
+#	NEW	caption	........ / Sally	// <p> <strong> Sally Angeline Lowenthal </strong> ( born February 25 , 1942 ) , better known as <strong> Sally Jessy Raphael </strong> , is an <a> American </a> <a> talk show </a> <a> host </a> , known for the eponymous <em> <a> Sally </a> </em> talk show she hosted for two decades . </p>
+
+#	NEW	caption	........ / Georges	// <p> <strong> Georges Franju </strong> ( 12 April 1912 &ndash ; 5 November 1987 ) was a <a> French </a> <a> filmmaker </a> .
+
+#	NEW	caption	........ / Harley	// <p> <strong> Harley Brown </strong> ( born August 2 , 1954 ) is an <a> American </a> actress , born in <a> Kansas City , Missouri </a> . </p>
+
+#	NEW	caption	........ / Italy	// <p> <strong> Valentina Cortese </strong> ( born 1 January 1923 or 1925 , <a> Milan , Italy </a> ) is an Italian <a> film actress </a> . </p>
+
+#	NEW	caption	........ / 2009 )	// <p> <strong> Philip Simmons </strong> ( June 9 , 1912 - June 22 , 2009 ) was an <a> American </a> <a> artisan </a> and <a> blacksmith </a> specializing in the craft of <a> ironwork </a> .
+
+#	NEW	caption	........ / ( born 8	// <p> <strong> Janet McTeer </strong> , <a> OBE </a> ( born 8 May 1961 ) is a <a> British </a> <a> actress </a> . </p>
+
+26	TRUE	Bruno Lawrence::caption	bruno lawrence / New	
+<p> <strong> Bruno Lawrence </strong> ( 12 February 1941 &#x2013 ; 10 June 1995 , <a> Wellington </a> , <a> New Zealand </a> ) was a <a> New Zealand </a> <a> musician </a> and <a> actor </a> . </p>
+

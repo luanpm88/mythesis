@@ -1,0 +1,77 @@
+Found: 30
+Found Not Null: 7
+Correct: 4
+Wrong: 3
+Total: 7
+precision: 0.5714285714285714
+recall: 0.5714285714285714
+
+
+
+#	NEW	occupation	........ / cast .	// James ultimately made 19 <em> Carry On </em> films , receiving top-billing in 17 , making him one of the most featured performers of the regular cast . </p>
+
+#	NEW	occupation	........ / Actress	// She won the award for Best Actress at the <a> Golden Globes </a> , <a> Academy Award </a> s , and the <a> Screen Actors Guild Award </a> for her performance in <em> The Blind Side </em> .
+
+#	NEW	occupation	........ / Ensemble	// She was nominated for , but did not win , the <a> Young Artist Award </a> for Outstanding Young Ensemble Cast .
+
+#	NEW	occupation	........ / Globe	// He has been nominated for three <a> Academy Awards </a> and won three <a> Golden Globe Award </a> s .
+
+4	TRUE	Cary Grant::occupation	actor / Actor	
+<p> Nominated twice for the <a> Academy Award for Best Actor </a> and five times for a <a> Golden Globe Award for Best Actor </a> , he missed out every time until he was finally honored with an <a> Honorary Award </a> at the <a> 42nd Academy Awards </a> &quot ; for his unique mastery of the art of screen acting with the respect and affection of his colleagues&quot ; . </p>
+
+#	NEW	occupation	........ / actor	// <p> He performed in <a> vaudeville </a> as an <a> actor </a> , <a> magician </a> and <a> dancer </a> .
+
+#	NEW	occupation	........ / Dish	// Lee is presently ( 2009 ) appearing in select cities with <a> Sharam </a> , one half of Grammy Award nominated and Grammy Award winning <a> Deep Dish </a> .
+
+#	NEW	occupation	........ / Actor	// <em> Travesties </em> was a Broadway hit which won two <a> Tony Awards </a> ( Best Performance by an Actor for John Wood and Best Comedy ) , as well as the <a> New York Drama Critics Circle Award </a> ( Best Play ) , and Curry ' s performance as the famous <a> dadaist </a> <a> Tristan Tzara </a> received good reviews . </p>
+
+#	NEW	occupation	........ / Visconti	// The company performed mostly light <a> comedies </a> , but they also staged plays by <a> Beaumarchais </a> , and worked with famous directors like <a> Luchino Visconti </a> .
+
+#	NEW	occupation	........ / Year	// <p> From then on , fame rose quickly for Borge , who won Best New Radio Performer of the Year in 1942 .
+
+#	NEW	occupation	........ / Film	// However , he and the film won numerous nominations and awards , including the Jury Prize at the <a> 1998 Cannes Film Festival </a> . </p>
+
+#	NEW	occupation	........ / actor	// <p> <strong> Theodore &quot ; Ted&quot ; Raimi </strong> ( born December 14 , 1965 ) is an <a> American </a> <a> actor </a> , perhaps best known for his roles as <a> Lieutenant Tim O ' Neill </a> in <em> <a> seaQuest DSV </a> </em> and <a> Joxer the Mighty </a> in <strong> <em> ' / </em> </strong> ' .
+
+#	NEW	occupation	........ / film	// <p> Her best-known film roles were as : </p>
+
+#	NEW	occupation	........ / Richard	// Dolenz participated in the 2008&#x2013 ; 09 season of CMT ' s &quot ; Gone Country , &quot ; competing against fellow celebrities Sheila E ( who eventually won ) , Taylor Dayne , George Clinton , and Richard Grieco .
+
+14	FALSE	Jean Reno::occupation	actor / Jones	
+Additionally , Reno did the voice-over for Mufasa in the French-language version of <em> <a> The Lion King </a> </em> , a role originally performed by <a> James Earl Jones </a> . </p>
+
+15	TRUE	Eileen Heckart::occupation	actress / Actress	
+Her awards include <a> Tony Honors for Excellence in Theatre </a> , a 2000 <a> Drama Desk Award </a> for Outstanding Actress in a Play for the <a> off-Broadway </a> <em> <a> The Waverley Gallery </a> </em> , and the 1953 <a> Theatre World Award </a> for <em> <a> Picnic </a> </em> .
+
+#	NEW	occupation	........ / portrayed	// <p> Williams has been portrayed in two <a> made-for-television </a> films .
+
+#	NEW	occupation	........ / Academy	// He was twice nominated for the Best Director <a> Academy Award </a> .
+
+#	NEW	occupation	........ / Blowup	// Previously , he had been nominated for <a> Academy Award </a> s for Best Director and Best Screenplay for <em> <a> Blowup </a> </em> .
+
+#	NEW	occupation	........ / Actress	// She earned a Best Actress Academy Award nomination for her performance .
+
+20	TRUE	Rutger Hauer::occupation	actor / Actor	
+<p> In 1999 , Hauer was awarded the Dutch &#x201c ; Best Actor of the Century Rembrandt Award&#x201d ; . </p>
+
+21	FALSE	Tony Hancock::occupation	actor / television	
+Hancock also made an <a> ITV </a> series , <em> <a> The Tony Hancock Show </a> </em> , during this period , which ran for two series in 1956&#x2013 ; 57 either side of the first BBC television series .
+
+#	NEW	occupation	........ / host	// So these films have never been about the effect of the technology , of industry , on people , it&#x2019 ; s been that everything , politics , education , the finance structure [ &#x2026 ; ] the culture , religion , all of that exists within the host of technology .
+
+#	NEW	occupation	........ / Tony	// Its book won a <a> Tony Award </a> .
+
+24	TRUE	Denise Richards::occupation	actress / Actress&	
+She was ranked as one of the worst <a> Bond girl </a> s of all time by <em> <a> Entertainment Weekly </a> </em> in 2008 , and was chosen as &quot ; Worst Supporting Actress&quot ; at the <a> 1999 Razzie Awards </a> for the role . </p>
+
+25	FALSE	Wolfgang Petersen::occupation	film director / DGA	
+Though not a financial success , the film received positive reviews and was nominated for six <a> Academy Awards </a> , two of which ( for <a> Best Director </a> and <a> Best Adapted Screenplay </a> ) went to Petersen himself ; he was also nominated for a <a> BAFTA Award </a> and <a> DGA Award </a> .
+
+#	NEW	occupation	........ / Fever	// <p> Three of Shawn ' s plays have been adapted into films : <em> The Designated Mourner </em> ( basically a film of <a> David Hare </a> ' s stage production ) , <em> Marie and Bruce </em> , and <em> The Fever </em> .
+
+#	NEW	occupation	........ / Achievement	// Burton ' s work on <em> Sweeney Todd </em> won the National Board of Review Award for best director and received a Golden Globe nomination for Best Director and won an Academy Award for Best Achievement in Art Direction .
+
+#	NEW	occupation	........ / Actress	// who won an <a> Academy Award for Best Supporting Actress </a> for her performance .
+
+#	NEW	occupation	........ / without	// This is because the Emmy for <a> Outstanding Voice-Over Performance </a> is a <a> Creative Arts </a> and not handed out during the primetime telecast and , prior to 2009 , was a juried award without nominations .
+

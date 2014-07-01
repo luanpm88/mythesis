@@ -1,0 +1,73 @@
+Found: 30
+Found Not Null: 3
+Correct: 0
+Wrong: 3
+Total: 3
+precision: 0.0
+recall: 0.0
+
+
+
+#	NEW	ceased	........ / 25 December 2009 ) :	// <p> The Air Mandalay fleet includes the following aircraft ( at 25 December 2009 ) : </p>
+
+#	NEW	ceased	........ / 2009 ) :	// <p> The Batavia Air fleet includes the following aircraft ( at December 2009 ) : </p>
+
+#	NEW	ceased	........ / 2009 ) :	// <p> The Astral Aviation fleet consists of the following aircraft ( as of 1 May 2009 ) : </p>
+
+#	NEW	ceased	........ / 2007 :	// <p> The Caribbean Star Airlines fleet consisted of the following aircraft as of March 2007 : ref name=&quot ; FI&quot ; / </p>
+
+#	NEW	ceased	........ / 1990	// <p> The airline was founded and started operations in 1990 as <strong> Varna International Airways </strong> using a brand new <a> Tupolev Tu-154M </a> aircraft .
+
+#	NEW	ceased	........ / 2006	// <p> As of August <a> 2006 </a> the Sosoliso Airlines fleet included : </p>
+
+#	NEW	ceased	........ / 2010 ) :	// The China Cargo Airlines fleet consists of the following aircraft ( as of 30 July 2010 ) : </p>
+
+#	NEW	ceased	........ / 2010 10 . 1	// ( 2006 ) ] ] As of December 2010 , the XL Airways France fleet consists of the following aircraft with an average age of 10 . 1 years : </p>
+
+#	NEW	ceased	........ / 2010	// <p> As of November 2010 the WDL Aviation fleet includes : </p>
+
+#	NEW	ceased	........ / 2009 ) :	// <p> The New Axis Airways fleet consisted of the following aircraft ( as of December 2009 ) : </p>
+
+#	NEW	ceased	........ / 2010 ) :	// <p> The Welcome Air fleet consists of the following aircraft ( at December 2010 ) : </p>
+
+#	NEW	ceased	........ / 2010	// <p> As of February 2010 the Cobham fleet consists of the following aircraft : </p>
+
+12	FALSE	Royal Swazi National Airways::ceased	12 april 1999 / 2009 13. 1	
+In August 2009 it was revealed that the government owed the company some <a> E </a> 13 . 1 million for air travel accumulated by 16 government ministries and departments . </p>
+
+#	NEW	ceased	........ / 2010	// <p> As of November 2010 , the Sevenair fleet consists of the following aircraft : </p>
+
+14	FALSE	Zambian Airways::ceased	2009 / 24 September 2008 )	
+The Zambian Airways fleet consisted of the following aircraft ( as of 24 September 2008 ) [ <a> http : / /www . ch-aviation . c / aircraft . php ? search=set&amp ; airline=Q3&amp ; al_op=1 </a> ] : </p>
+
+#	NEW	ceased	........ / 1991	// The airline was established in 1991 and is a franchise carrier of <a> Nationwide Airlines </a> of <a> South Africa </a> . </p>
+
+#	NEW	ceased	........ / 2006	// <p> As of August <a> 2006 </a> the Easy Link fleet included : </p>
+
+#	NEW	ceased	........ / 2005 ) :	// <p> The Phoenix Aviation fleet consisted of the following aircraft ( at January 2005 ) : </p>
+
+#	NEW	ceased	........ / 2009 ) :	// The Celestair fleet consists of the following aircraft ( as of March 2009 ) : </p>
+
+#	NEW	ceased	........ / 2007	// <p> On March 2007 the Executive Aerospace fleet included </p>
+
+#	NEW	ceased	........ / 2010 ) :	// <p> The SunExpress fleet consists of the following aircraft ( as of December 2010 ) : </p>
+
+#	NEW	ceased	........ / 2010	// <p> As of August 2010 , the Darwin Airline fleet includes : ref name=&quot ; FI&quot ; / </p>
+
+#	NEW	ceased	........ / 2008	// <p> As of December 2008 the Toll Aviation fleet consists of the following aircraft : </p>
+
+23	FALSE	Air Corridor::ceased	10 january 2008 / 2008 ) :	
+<p> The Air Corridor fleet consisted of the following aircraft ( at April 2008 ) : </p>
+
+#	NEW	ceased	........ / 2006	// <p> As of August 2006 the Bakhtar Afghan Airlines fleet included : </p>
+
+#	NEW	ceased	........ / 2006	// <p> As of August 2006 the Premium Air Shuttle fleet includes : </p>
+
+#	NEW	ceased	........ / 2006 ) :	// <p> The Faso Airways fleet includes the following aircraft ( at August 2006 ) : </p>
+
+#	NEW	ceased	........ / 2006 . .	// <p> The Yeti Airlines fleet includes the following aircraft as of October 2010 : The fourth Jetstream was delivered on 29 August 2006 . .
+
+#	NEW	ceased	........ / 2007	// On 26 June 2007 , The Indonesian Transportation Ministry discontinued the airline ' s Aircraft Operator Certificate because of &quot ; the management ' s inability to consistently apply flight safety measurements as stipulated . &quot ; </p>
+
+#	NEW	ceased	........ / 2010	// <p> As of June 2010 the Airnorth fleet consists of the following aircraft : ref name=&quot ; CASAR&quot ; / </p>
+

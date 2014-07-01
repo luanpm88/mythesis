@@ -1,7 +1,0 @@
-<li><a>Faculty of Arts and Sciences</a></li>
-<li><a>Faculty of Fine Arts</a></li>
-<li>Institute of Banking and Insurance </li>
-<li>Institute of Educational Sciences</li>
-<li>Institute of Fine Arts</li>
-<li>Institute of Neurological Sciences</li>
-<li>Institute of Social Sciences</li>

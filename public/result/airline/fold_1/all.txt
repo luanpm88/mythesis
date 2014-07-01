@@ -1,0 +1,1159 @@
+Total articles: 456
+Articles for test: 411
+Articles for train: 45
+Total attributes: 120
+Attributes with high occurrences: 15/120
+
+------------
+Found: 513
+Found Not Null: 82
+Correct: 56
+Wrong: 26
+Total: 99
+precision: 0.6829268292682927
+recall: 0.5656565656565656
+
+
+
+#	NEW	callsign	........ / authorities	// <p> When the aircraft failed to report abeam Carolina and then abeam the town of <a> Santar&#x00e9 ; m , Brazil </a> , local authorities initiated a missing aircraft alert .
+
+#	NEW	founded	........ / 1952 .	// <p> <strong> <a> Pan American World Airways </a> Flight 202 </strong> , registration N1039V , was a <a> Boeing 377 Stratocruiser </a> aircraft which crashed in the <a> Amazon Basin </a> approximately southwest of Carolina , <a> Brazil </a> on April 28 , 1952 .
+
+#	NEW	frequent_flyer	........ / Pan American	// <p> &quot ; Airline officials said the find had been made by a C-46 Pan American cargo plane piloted by Capt .
+
+#	NEW	parent	........ / C- 46	// <p> &quot ; Airline officials said the find had been made by a C-46 Pan American cargo plane piloted by Capt .
+
+#	NEW	key_people	........ / the United	// Richard Olney of the United States Air Force base at San Juan , Puerto Rico , and Maj .
+
+#	NEW	fleet_size	........ / x00e3 ;	// Witnesses in the villages of Formosa and S&#x00e3 ; o Francisco reported seeing the aircraft overhead at about the time it reported abeam Barreiras ; they reported that the aircraft appeared to be operating normally . </p>
+
+#	NEW	logo_size	........ / 1952	// &quot ; The New York Times&quot ; , May 2 , 1952 </p>
+
+#	NEW	airline	........ / Pan American World Airways	// <p> <strong> <a> Pan American World Airways </a> Flight 202 </strong> , registration N1039V , was a <a> Boeing 377 Stratocruiser </a> aircraft which crashed in the <a> Amazon Basin </a> approximately southwest of Carolina , <a> Brazil </a> on April 28 , 1952 .
+
+#	NEW	icao	........ / Brazil	// <p> Flight 202 had begun its route the previous evening in <a> Buenos Aires </a> , <a> Argentina </a> , with stopovers in <a> Montevideo </a> , <a> Uruguay </a> , and <a> Rio de Janeiro </a> , <a> Brazil </a> .
+
+#	NEW	airline	........ / Pan American World Airways	// It was later put back in service by <a> Pan American World Airways </a> . </p>
+
+#	NEW	iata	........ / it	// On November 24 , 2009 , the Department of State announced that it was offering a reward of up to $5M for Abu Ibrahim , now about 73 years old .
+
+#	NEW	icao	........ / International	// <p> <strong> Pan Am Flight 830 </strong> was a <a> Boeing 747-121 </a> , named &quot ; Clipper Ocean Rover&quot ; , flying from <a> Narita International Airport </a> in <a> Tokyo </a> to <a> Honolulu International Airport </a> in <a> Hawaii </a> on August 11 , 1982 . </p>
+
+#	NEW	callsign	........ / landing	// The aircraft remained airborne and made an <a> emergency landing </a> in Honolulu .
+
+#	NEW	ceased	........ / 15 .	// He was released in <a> 1996 </a> after serving a partial sentence of 8 years instead of 15 .
+
+#	NEW	founded	........ / 2009	// On November 24 , 2009 , the Department of State announced that it was offering a reward of up to $5M for Abu Ibrahim , now about 73 years old .
+
+#	NEW	hubs	........ / Hawaii	// <p> One hundred forty miles Northwest of Hawaii , at 36 , 000 feet , and with 274 people onboard , a bomb placed under a seat cushion exploded , killing 16-year-old Toru Ozawa , a <a> Japan </a> ese national .
+
+#	NEW	parent	........ / blast also	// The blast also injured 15 other people ( including the boy ' s parents ) and caused damage to the floor and ceiling .
+
+#	NEW	fleet_size	........ / <a>	// It was later put back in service by <a> Pan American World Airways </a> . </p>
+
+#	NEW	logo_size	........ / 7	// In <a> 2006 </a> , he was convicted by a <a> United States </a> court and ordered to serve another 7 years . </p>
+
+#	NEW	key_people	........ / injured 15	// The blast also injured 15 other people ( including the boy ' s parents ) and caused damage to the floor and ceiling .
+
+#	NEW	airline	........ / Northeast Airlines	// <p> <strong> Northeast Airlines Flight 946 </strong> was a domestic <a> U . S . </a> flight from <a> Boston , Massachusetts </a> to <a> Montpelier , Vermont </a> , with a refueling stop in <a> Lebanon , New Hampshire </a> , operated by <a> Northeast Airlines </a> .
+
+#	NEW	icao	........ / Northeast	// <p> <strong> Northeast Airlines Flight 946 </strong> was a domestic <a> U . S . </a> flight from <a> Boston , Massachusetts </a> to <a> Montpelier , Vermont </a> , with a refueling stop in <a> Lebanon , New Hampshire </a> , operated by <a> Northeast Airlines </a> .
+
+#	NEW	callsign	........ / who	// <p> The crew of Flight 946 consisted of Captain John A . Rapsis , 52 , who had been a pilot for <a> Northeast Airlines </a> since 1957 and had over 15 , 000 hours of flight experience .
+
+#	NEW	hubs	........ / Logan	// <p> ! Deleted image removed : At 5 : 42 p . m . EST , Northeast Airlines Flight 946 left <a> Logan International Airport </a> towards its first stop in <a> Lebanon , New Hampshire </a> .
+
+#	NEW	frequent_flyer	........ / also began	// In addition , Edmond Rousse , Jr . , also began working at National Life . </p>
+
+#	NEW	headquarters	........ / the	// <a> Air Traffic Control </a> replied and gave the crew weather , visibility and other information regarding conditions at the airport . </p>
+
+#	NEW	key_people	........ / Edmond Rousse	// In addition , Edmond Rousse , Jr . , also began working at National Life . </p>
+
+#	NEW	website	........ / The airline would continue to operate independently until its merger with	// The airline would continue to operate independently until its merger with <a> Delta Air Lines </a> in the 1970s . </p>
+
+#	NEW	fleet_size	........ / 1970s .	// The airline would continue to operate independently until its merger with <a> Delta Air Lines </a> in the 1970s . </p>
+
+#	NEW	logo_size	........ / </	// The airline would continue to operate independently until its merger with <a> Delta Air Lines </a> in the 1970s . </p>
+
+#	NEW	parent	........ / Air Traffic	// <a> Air Traffic Control </a> replied and gave the crew weather , visibility and other information regarding conditions at the airport . </p>
+
+#	NEW	airline	........ / passengers .	// It was carrying a crew of 5 and 80 passengers .
+
+#	NEW	callsign	........ / final	// On June 19 , 1969 the NTSB issued its final report , which included the following Probable Cause statement : </p>
+
+#	NEW	ceased	........ / 1969	// On June 19 , 1969 the NTSB issued its final report , which included the following Probable Cause statement : </p>
+
+#	NEW	founded	........ / 40	// <p> Earlier in the day , at 12 : 40 local time , the crew of the accident flight flew from <a> Dallas </a> to <a> Houston </a> through the same area they were scheduled to fly later on .
+
+#	NEW	hubs	........ / Hobby	// <p> At 16 : 11 , the crew departed <a> William P . Hobby Airport </a> as Braniff Flight 352 , a <a> Lockheed L-188A Electra </a> four-engine <a> turboprop </a> , en route to <a> Dallas-Love Field </a> .
+
+#	NEW	parent	........ / crew of	// It was carrying a crew of 5 and 80 passengers .
+
+#	NEW	key_people	........ / the bodies	// <p> Many of the bodies were found in pieces .
+
+#	NEW	fleet_size	........ / 40	// <p> Earlier in the day , at 12 : 40 local time , the crew of the accident flight flew from <a> Dallas </a> to <a> Houston </a> through the same area they were scheduled to fly later on .
+
+#	NEW	logo_size	........ / </	// On June 19 , 1969 the NTSB issued its final report , which included the following Probable Cause statement : </p>
+
+#	NEW	icao	........ / Texas	// <p> <strong> <a> Braniff International Airways </a> Flight 352 </strong> was a scheduled domestic flight from <a> William P . Hobby Airport </a> in <a> Houston </a> , <a> Texas </a> , <a> United States </a> to <a> Dallas , Texas </a> ; on May 3 , 1968 a <a> Lockheed L-188A Electra </a> flying on the route , registration N9707C , broke up in mid air and crashed near <a> Dawson , Texas </a> after flying into a severe <a> thunderstorm </a> .
+
+#	NEW	website	........ / http : / /corsicanadailysun . co / loca /	// [ <a> http : / /corsicanadailysun . co / loca / x21237792 / Dawson-plane-crash-remembered ? keyword=leadpicturestory </a> ] . </p>
+
+42	TRUE	NAC Air::airline	nac air / Air	
+<p> <strong> NAC Air </strong> was a <a> Canadian </a> <a> regional airline </a> .
+
+43	FALSE	NAC Air::iata	- / an	
+NAC grew steadily , evolving from the early two aircraft operation serving four communities to an eleven aircraft operation connecting <a> Sioux Lookout , Ontario </a> ; <a> Winnipeg </a> ; <a> Thunder Bay </a> ; <a> Red Lake , Ontario </a> ; <a> Thompson , Manitoba </a> and 21 First Nations communities </p>
+
+#	NEW	icao	........ / NAC	// <p> NAC Air ceased operations indefinitely in early <a> 2008 </a> due to financial difficulties . </p>
+
+#	NEW	callsign	........ / operation	// NAC grew steadily , evolving from the early two aircraft operation serving four communities to an eleven aircraft operation connecting <a> Sioux Lookout , Ontario </a> ; <a> Winnipeg </a> ; <a> Thunder Bay </a> ; <a> Red Lake , Ontario </a> ; <a> Thompson , Manitoba </a> and 21 First Nations communities </p>
+
+#	NEW	ceased	........ / 2008	// <p> NAC Air ceased operations indefinitely in early <a> 2008 </a> due to financial difficulties . </p>
+
+47	TRUE	NAC Air::founded	2000 / 2000	
+<p> <strong> North American Charters </strong> ( NAC ) was established in 2000 to provide cheaper and more frequent airline services to First Nations communities in <a> Northwestern Ontario </a> .
+
+#	NEW	hubs	........ / Bay	// Its main base was at the <a> Thunder Bay International Airport </a> .
+
+#	NEW	frequent_flyer	........ / lower than	// NAC ' s airfares were 40-50% lower than its competitors ' existing fares and it also offered daily services with the possibility of same-day returns for business travellers .
+
+#	NEW	parent	........ / Canadian	// <p> <strong> NAC Air </strong> was a <a> Canadian </a> <a> regional airline </a> .
+
+#	NEW	headquarters	........ / Bay	// Its main base was at the <a> Thunder Bay International Airport </a> .
+
+#	NEW	key_people	........ / at the	// Its main base was at the <a> Thunder Bay International Airport </a> .
+
+#	NEW	fleet_size	........ / 2000	// <p> <strong> North American Charters </strong> ( NAC ) was established in 2000 to provide cheaper and more frequent airline services to First Nations communities in <a> Northwestern Ontario </a> .
+
+#	NEW	logo_size	........ / 2008	// <p> NAC Air ceased operations indefinitely in early <a> 2008 </a> due to financial difficulties . </p>
+
+55	FALSE	NAC Air::destinations	26 / 21	
+NAC grew steadily , evolving from the early two aircraft operation serving four communities to an eleven aircraft operation connecting <a> Sioux Lookout , Ontario </a> ; <a> Winnipeg </a> ; <a> Thunder Bay </a> ; <a> Red Lake , Ontario </a> ; <a> Thompson , Manitoba </a> and 21 First Nations communities </p>
+
+#	NEW	icao	........ / Orient	// <p> The accident flight is known in some references ( and in the CAB report ) as Northwest Airlines Flight 2 , but it actually flew under the Northwest Orient Airlines name . </p>
+
+#	NEW	callsign	........ / down	// <p> The captain brought the aircraft down smoothly .
+
+#	NEW	frequent_flyer	........ / but had	// When the captain during his pre-takeoff checklist called , &quot ; Cowl flaps set for takeoff&quot ; , the flight engineer replied &quot ; Set for takeoff&quot ; , but had not actually closed them .
+
+#	NEW	key_people	........ / Flight 2	// <p> Flight 2 departed Sea-Tac at just after 8 : 00 AM .
+
+#	NEW	fleet_size	........ / 2	// <p> The accident flight is known in some references ( and in the CAB report ) as Northwest Airlines Flight 2 , but it actually flew under the Northwest Orient Airlines name . </p>
+
+#	NEW	logo_size	........ / 2	// <p> The accident flight is known in some references ( and in the CAB report ) as Northwest Airlines Flight 2 , but it actually flew under the Northwest Orient Airlines name . </p>
+
+#	NEW	airline	........ / April 2	// <p> <strong> <a> Northwest Orient Airlines </a> Flight 2 </strong> was a <a> Boeing Stratocruiser </a> aircraft that was <a> ditched </a> into <a> Puget Sound </a> just off the <a> Seattle </a> waterfront shortly after takeoff from the <a> Seattle-Tacoma International Airport </a> ( Sea-Tac ) on April 2 , 1956 .
+
+#	NEW	parent	........ / accident flight	// <p> The accident flight is known in some references ( and in the CAB report ) as Northwest Airlines Flight 2 , but it actually flew under the Northwest Orient Airlines name . </p>
+
+#	NEW	airline	........ / South Africa	// <p> <strong> Mango </strong> is a <a> low-cost airline </a> based in <a> Johannesburg </a> , <a> South Africa </a> .
+
+#	NEW	icao	........ / budget	// It operates domestic scheduled budget services .
+
+#	NEW	callsign	........ / Mango&#	// <p> Mango&#x2019 ; s is a <a> low cost airline </a> featuring a uniform fleet of aircraft with high seat density , high productivity from employees , and operating efficiencies , such as online ticket selling </p>
+
+#	NEW	ceased	........ / the	// <p> Mango was launched on 30 October 2006 with bookings going on sale at midnight on the same date .
+
+#	NEW	hubs	........ / Tambo	// Its main base is <a> OR Tambo International Airport </a> , Johannesburg .
+
+#	NEW	frequent_flyer	........ / same	// <p> Mango was launched on 30 October 2006 with bookings going on sale at midnight on the same date .
+
+#	NEW	destinations	........ / 800	// <p> Mango operates four Boeing 737-800 aircraft which are serviced and maintained by SAA Technical .
+
+#	NEW	headquarters	........ / Tambo	// Its main base is <a> OR Tambo International Airport </a> , Johannesburg .
+
+#	NEW	key_people	........ / main base	// Its main base is <a> OR Tambo International Airport </a> , Johannesburg .
+
+#	NEW	website	........ / It operates domestic scheduled budget services .	// It operates domestic scheduled budget services .
+
+#	NEW	logo_size	........ / </	// <p> Mango operates services to the following destinations : </p>
+
+#	NEW	airline	........ / Trans- Canada	// <p> <strong> <a> Trans-Canada Airlines </a> Flight 831 </strong> was a flight from <a> Montrea / Dorval Airport </a> ( now Montr&#x00e9 ; a / Trudeau ) to <a> Toronto International Airport </a> ( now Toront / Pearson ) on November 29 , 1963 .
+
+#	NEW	iata	........ / 54CF	// The aircraft was a four-engine <a> Douglas </a> <a> DC-8-54CF </a> airliner , registered CF-TJN .
+
+#	NEW	icao	........ / same	// <p> Though it is customary for airlines to retire a flight number after a major incident , Air Canada continues to use Flight 831 for the same route .
+
+#	NEW	callsign	........ / aircraft	// The aircraft was a four-engine <a> Douglas </a> <a> DC-8-54CF </a> airliner , registered CF-TJN .
+
+#	NEW	hubs	........ / Douglas	// The aircraft was a four-engine <a> Douglas </a> <a> DC-8-54CF </a> airliner , registered CF-TJN .
+
+#	NEW	destinations	........ / 8-	// The aircraft was a four-engine <a> Douglas </a> <a> DC-8-54CF </a> airliner , registered CF-TJN .
+
+#	NEW	parent	........ / crash .	// <p> Trans-Canada Airline , predecessor to <a> Air Canada </a> , created a memorial garden near the site of the crash .
+
+#	NEW	key_people	........ / a four-	// The aircraft was a four-engine <a> Douglas </a> <a> DC-8-54CF </a> airliner , registered CF-TJN .
+
+#	NEW	website	........ / originates in Geneva and terminates in Toronto with a stopover in Montreal .	// Flight 831 originates in Geneva and terminates in Toronto with a stopover in Montreal . </p>
+
+#	NEW	fleet_size	........ / 831	// <p> Though it is customary for airlines to retire a flight number after a major incident , Air Canada continues to use Flight 831 for the same route .
+
+#	NEW	logo_size	........ / 8-	// The aircraft was a four-engine <a> Douglas </a> <a> DC-8-54CF </a> airliner , registered CF-TJN .
+
+#	NEW	airline	........ / USA	// <p> <strong> Elysair SAS </strong> , operating as <strong> L ' Avion </strong> , was an <a> airline </a> headquartered in <a> Wissous </a> , <a> France </a> . ! To find HQ information , click &quot ; Adresse si&#x00e8 ; ge social&quot ; It operated business class only long-haul services between <a> Orly Airport </a> , Paris and <a> Newark Liberty International Airport </a> in the <a> USA </a> .
+
+#	NEW	iata	........ / by	// The airline was purchased by <a> British Airways </a> and has since merged with <a> OpenSkies </a> an all business class airline owned by <a> British Airways </a> . </p>
+
+88	FALSE	L'Avion::icao	avi / OpenSkies.	
+Operations of the two airlines were merged on 4 April 2009 , with the former now operating as OpenSkies . </p>
+
+89	FALSE	L'Avion::callsign	elysair / FI&	
+<p> ref name=&quot ; FI&quot ; / </p>
+
+#	NEW	hubs	........ / Gaulle	// US carriers have previously operated to Orly but were forced to move to <a> Charles de Gaulle International Airport </a> by the French government .
+
+91	TRUE	L'Avion::destinations	2 / 90	
+It used two <a> Boeing 757-200 </a> aircraft , modified by Lufthansa Technik , Gamco and H4 Aerospace , with only 90 seats in a 2x2 configuration .
+
+92	FALSE	L'Avion::parent	elysair sas / carriers have	
+US carriers have previously operated to Orly but were forced to move to <a> Charles de Gaulle International Airport </a> by the French government .
+
+#	NEW	key_people	........ / Soci&# x00e9 ;	// <p> L ' Avion was wholly owned by Soci&#x00e9 ; t&#x00e9 ; de Participation A&#x00e9 ; rienne ( SPA ) and has 55 employees ( at March 2007 ) . </p>
+
+94	TRUE	L'Avion::fleet_size	2 / 4	
+Operations of the two airlines were merged on 4 April 2009 , with the former now operating as OpenSkies . </p>
+
+#	NEW	logo_size	........ / 2009	// Operations of the two airlines were merged on 4 April 2009 , with the former now operating as OpenSkies . </p>
+
+#	NEW	ceased	........ / 2009	// Operations of the two airlines were merged on 4 April 2009 , with the former now operating as OpenSkies . </p>
+
+97	FALSE	L'Avion::founded	2006 / 3 January 2007	
+The first flight was on 3 January 2007 from Paris to <a> Newark </a> .
+
+98	TRUE	Sierra National Airlines::callsign	sierra national airlines / National	
+<p> As of January <a> 2005 </a> Sierra National Airlines operated the following services : </p>
+
+#	NEW	icao	........ / regional	// It operated scheduled domestic , regional and international services , but is currently not active . </p>
+
+#	NEW	ceased	........ / 2005	// <p> As of January <a> 2005 </a> Sierra National Airlines operated the following services : </p>
+
+101	FALSE	Sierra National Airlines::founded	1990 / 2005	
+<p> As of January <a> 2005 </a> Sierra National Airlines operated the following services : </p>
+
+#	NEW	hubs	........ / Lungi	// It is based at the <a> Lungi International Airport </a> , in <a> Lungi </a> , <a> Sierra Leone </a> .
+
+#	NEW	frequent_flyer	........ / following services :	// <p> As of January <a> 2005 </a> Sierra National Airlines operated the following services : </p>
+
+#	NEW	destinations	........ / 2005	// <p> As of January <a> 2005 </a> Sierra National Airlines operated the following services : </p>
+
+#	NEW	parent	........ / operated scheduled	// It operated scheduled domestic , regional and international services , but is currently not active . </p>
+
+#	NEW	key_people	........ / flights between	// Scheduled flights between <a> London Gatwick Airport </a> and <a> Lungi International Airport </a> , Freetown , resumed on 30 November 2004 .
+
+107	FALSE	Sierra National Airlines::fleet_size	1 / 2005	
+<p> As of January <a> 2005 </a> Sierra National Airlines operated the following services : </p>
+
+#	NEW	logo_size	........ / 2005	// <p> As of January <a> 2005 </a> Sierra National Airlines operated the following services : </p>
+
+#	NEW	headquarters	........ / Gatwick	// Scheduled flights between <a> London Gatwick Airport </a> and <a> Lungi International Airport </a> , Freetown , resumed on 30 November 2004 .
+
+110	TRUE	Lloyd International Airways::airline	lloyd international airways / operate	
+<p> <strong> Lloyd International Airways </strong> was a private , <a> British </a> independent <a> airline </a> formed in 1961 to operate worldwide <a> charter flight </a> s .
+
+#	NEW	iata	........ / first	// The first aircraft joined the fleet in April of that year .
+
+#	NEW	callsign	........ / year .	// The first aircraft joined the fleet in April of that year .
+
+#	NEW	icao	........ / flights	// These flights were operated with Britannias .
+
+114	TRUE	Lloyd International Airways::ceased	1972 / 1972.	
+Lloyd International ceased operations in June 1972 . </p>
+
+#	NEW	hubs	........ / Stansted	// <p> In 1967 , Lloyd International shifted its main operating base from Gatwick to <a> Stansted </a> .
+
+#	NEW	frequent_flyer	........ / airline was	// This airline was to specialise in Far East &quot ; tramping&quot ; , concentrating on ships ' crews and freight .
+
+#	NEW	parent	........ / increase air	// to increase air cargo volumes . </p>
+
+#	NEW	headquarters	........ / Stansted	// <p> In 1967 , Lloyd International shifted its main operating base from Gatwick to <a> Stansted </a> .
+
+#	NEW	key_people	........ / the company '	// It was also the company ' s first <a> turbofan </a> -powered jet . </p>
+
+#	NEW	website	........ / These flights were operated with Britannias .	// These flights were operated with Britannias .
+
+#	NEW	logo_size	........ / </	// While these aircraft were primarily intended for freight operations , they were also used to transport passengers . </p>
+
+122	TRUE	Lloyd International Airways::founded	1961 / 1961	
+<p> <strong> Lloyd International Airways </strong> was a private , <a> British </a> independent <a> airline </a> formed in 1961 to operate worldwide <a> charter flight </a> s .
+
+#	NEW	airline	........ / West	// <p> <strong> Air West Flight 612 </strong> was a scheduled domestic passenger flight operated by <a> Air West </a> between <a> Khartoum </a> , <a> Sudan </a> and <a> Al-Fashir </a> .
+
+#	NEW	icao	........ / Sudan	// <p> <strong> Air West Flight 612 </strong> was a scheduled domestic passenger flight operated by <a> Air West </a> between <a> Khartoum </a> , <a> Sudan </a> and <a> Al-Fashir </a> .
+
+#	NEW	callsign	........ / negotiations	// Twenty minutes of negotiations followed </p>
+
+#	NEW	founded	........ / 612	// <p> <strong> Air West Flight 612 </strong> was a scheduled domestic passenger flight operated by <a> Air West </a> between <a> Khartoum </a> , <a> Sudan </a> and <a> Al-Fashir </a> .
+
+#	NEW	frequent_flyer	........ / Civil Aviation	// name=&quot ; france24&quot ; / Sudan ' s Civil Aviation Authority also formed a separate committee specifically to investigate how Muhammed was able to pass through security undetected . ref
+
+#	NEW	parent	........ / passengers and	// <p> The passengers and crew subsequently re-boarded the aircraft , which then returned to Khartoum International at 22 : 00 local time ( 1900 GMT ) .
+
+#	NEW	fleet_size	........ / 612	// <p> <strong> Air West Flight 612 </strong> was a scheduled domestic passenger flight operated by <a> Air West </a> between <a> Khartoum </a> , <a> Sudan </a> and <a> Al-Fashir </a> .
+
+#	NEW	logo_size	........ / 22 :	// <p> The passengers and crew subsequently re-boarded the aircraft , which then returned to Khartoum International at 22 : 00 local time ( 1900 GMT ) .
+
+#	NEW	hubs	........ / aircraft	// <p> The passengers and crew subsequently re-boarded the aircraft , which then returned to Khartoum International at 22 : 00 local time ( 1900 GMT ) .
+
+#	NEW	key_people	........ / formed a	// name=&quot ; france24&quot ; / Sudan ' s Civil Aviation Authority also formed a separate committee specifically to investigate how Muhammed was able to pass through security undetected . ref
+
+#	NEW	airline	........ / Aero /	// <p> <strong> <em> Kaleva </em> </strong> , registered <strong> OH-ALL </strong> , was a civilian <a> Junkers Ju 52 </a> passenger and transport plane , belonging to the Finnish carrier <a> Aero / Y </a> .
+
+#	NEW	icao	........ / Launis	// <p> The plane was piloted by Captain Bo von Willebrand , and Tauno Launis was the wireless operator .
+
+#	NEW	founded	........ / 301 14 , 1940 at 15 . 05	// <p> The commander of Shch-301 G . Golderg ' s report on the incident hold in the Russian State Naval Archives starts with the notice of a Finnish airplane on its way from Tallinn to Helsinki on June 14 , 1940 at 15 . 05 PM .
+
+#	NEW	frequent_flyer	........ / crew	// All nine passengers and crew members on board were killed . </p>
+
+#	NEW	destinations	........ / 9	// The aircraft was shot down by two <a> Soviet </a> <a> Ilyushin DB-3 </a> bombers during <a> peacetime </a> between the Soviet Union and Finland on June 14 , 1940 , while en route from <a> Tallinn </a> to <a> Helsinki </a> , killing all 9 onboard . </p>
+
+#	NEW	parent	........ / U . S .	// The American courier was reportedly transporting the U . S . military codes to safety from Estonia . </p>
+
+#	NEW	key_people	........ / the crash	// At the crash site 3 Estonian fishing boats and the remains of the airplane were found .
+
+#	NEW	fleet_size	........ / The	// <p> The plane was piloted by Captain Bo von Willebrand , and Tauno Launis was the wireless operator .
+
+#	NEW	logo_size	........ / of	// In 2007 , he was honored for his service in a ceremony at the U . S . Department of State .
+
+#	NEW	callsign	........ / diplomatic	// The items included about 100&nbsp ; kg of diplomatic mail , and valuables and currencies including : 1 ) 2 golden medals , 2 ) 2000 <a> Finnish mark </a> s , 3 ) 10 . 000 <a> Romanian leu </a> s , 4 ) 13 . 500
+
+#	NEW	website	........ / The plane was piloted by Captain Bo von Willebrand , and Tauno Launis was the wireless operator .	// <p> The plane was piloted by Captain Bo von Willebrand , and Tauno Launis was the wireless operator .
+
+#	NEW	airline	........ / Flight 980	// <p> <strong> <a> ALM </a> Flight 980 </strong> was a flight scheduled to fly from <a> John F . Kennedy International Airport </a> in <a> New York , New York </a> to <a> Princess Juliana International Airport </a> in <a> St .
+
+#	NEW	iata	........ / an	// <p> The aircraft was a twin-engine <a> Douglas DC-9-33CF </a> operated on behalf of ALM by <a> Overseas National Airways </a> ( ONA ) , with an ONA aircraft and flight crew , and an ALM cabin crew .
+
+#	NEW	icao	........ / International	// <p> <strong> <a> ALM </a> Flight 980 </strong> was a flight scheduled to fly from <a> John F . Kennedy International Airport </a> in <a> New York , New York </a> to <a> Princess Juliana International Airport </a> in <a> St .
+
+#	NEW	callsign	........ / aircraft	// <p> The aircraft was a twin-engine <a> Douglas DC-9-33CF </a> operated on behalf of ALM by <a> Overseas National Airways </a> ( ONA ) , with an ONA aircraft and flight crew , and an ALM cabin crew .
+
+#	NEW	founded	........ / 980	// <p> <strong> <a> ALM </a> Flight 980 </strong> was a flight scheduled to fly from <a> John F . Kennedy International Airport </a> in <a> New York , New York </a> to <a> Princess Juliana International Airport </a> in <a> St .
+
+#	NEW	hubs	........ / Kennedy	// <p> Flight 980 made a normal departure from Kennedy Airport and had an uneventful flight to the Caribbean .
+
+#	NEW	frequent_flyer	........ / accident	// The accident is one of a small number of intentional water ditchings of jet airliners .
+
+#	NEW	parent	........ / flight carried	// The flight carried 57 passengers and 6 crew .
+
+#	NEW	key_people	........ / the crew	// At this point the crew noticed a possible discrepancy between the fuel gauges and what had been computed as the amount of fuel remaining .
+
+#	NEW	website	........ / made a normal departure from Kennedy Airport and had an uneventful flight to the Caribbean .	// <p> Flight 980 made a normal departure from Kennedy Airport and had an uneventful flight to the Caribbean .
+
+#	NEW	logo_size	........ / 2	// Maarten </a> , <a> Netherlands Antilles </a> , on 2 May 1970 .
+
+#	NEW	ceased	........ / ( 30&	// After several unsuccessful landing attempts , the aircraft ' s fuel was exhausted and it made a forced <a> water landing </a> ( ditching ) in the <a> Caribbean Sea </a> 48&nbsp ; km ( 30&nbsp ; mi ) off <a> St .
+
+#	NEW	fleet_size	........ / 9-	// <p> The aircraft was a twin-engine <a> Douglas DC-9-33CF </a> operated on behalf of ALM by <a> Overseas National Airways </a> ( ONA ) , with an ONA aircraft and flight crew , and an ALM cabin crew .
+
+157	TRUE	Nurman Avia::airline	nurman avia / Avia	
+<p> <strong> Nurman Avia </strong> was an <a> airline </a> based in <a> Jakarta </a> , <a> Indonesia </a> .
+
+#	NEW	callsign	........ / Nurman	// <p> As of March 2007 the Nurman Avia fleet included the following aircraft : ref name=&quot ; FI&quot ; / </p>
+
+159	TRUE	Nurman Avia::ceased	2007 / 2007	
+<p> As of March 2007 the Nurman Avia fleet included the following aircraft : ref name=&quot ; FI&quot ; / </p>
+
+160	TRUE	Nurman Avia::founded	1997 / 1997	
+<p> The airline was established in 1997 as a sister company to <strong> HeavyLift Indonesia </strong> , operating charter flights on behalf of <a> Bouraq Indonesia Airlines </a> and <a> Sempati Air </a> . </p>
+
+#	NEW	hubs	........ / Hatta	// It operated passenger and cargo charters out of <a> Soekarno-Hatta International Airport </a> , Jakarta . . </p>
+
+#	NEW	parent	........ / Hatta International	// It operated passenger and cargo charters out of <a> Soekarno-Hatta International Airport </a> , Jakarta . . </p>
+
+#	NEW	headquarters	........ / Hatta	// It operated passenger and cargo charters out of <a> Soekarno-Hatta International Airport </a> , Jakarta . . </p>
+
+#	NEW	key_people	........ / operated passenger	// It operated passenger and cargo charters out of <a> Soekarno-Hatta International Airport </a> , Jakarta . . </p>
+
+#	NEW	fleet_size	........ / 1997	// <p> The airline was established in 1997 as a sister company to <strong> HeavyLift Indonesia </strong> , operating charter flights on behalf of <a> Bouraq Indonesia Airlines </a> and <a> Sempati Air </a> . </p>
+
+#	NEW	logo_size	........ / a> .	// <p> The airline was established in 1997 as a sister company to <strong> HeavyLift Indonesia </strong> , operating charter flights on behalf of <a> Bouraq Indonesia Airlines </a> and <a> Sempati Air </a> . </p>
+
+#	NEW	icao	........ / domestic	// It operates domestic and international passenger and freight services . </p>
+
+#	NEW	callsign	........ / July	// <p> As of July 2010 the Fly540 fleet consists of the following aircraft : </p>
+
+#	NEW	ceased	........ / 2006 .	// <p> The airline started operations between <a> Nairobi </a> and <a> Mombasa </a> on November 24 , 2006 .
+
+170	TRUE	Fly540::founded	2006 / 2006.	
+<p> The airline started operations between <a> Nairobi </a> and <a> Mombasa </a> on November 24 , 2006 .
+
+#	NEW	hubs	........ / and	// It operates domestic and international passenger and freight services . </p>
+
+#	NEW	frequent_flyer	........ / above- mentioned	// The airline ' s name refers to its price of Sh5 , 540 per adult return fare between the above-mentioned cities . </p>
+
+173	FALSE	Fly540::destinations	16 / 2010	
+<p> As of July 2010 the Fly540 fleet consists of the following aircraft : </p>
+
+#	NEW	parent	........ / airline started	// <p> The airline started operations between <a> Nairobi </a> and <a> Mombasa </a> on November 24 , 2006 .
+
+#	NEW	key_people	........ / is a	// <p> <a> Lonrho Africa </a> is a major investor in the company , paying <a> US $ </a> 1 . 5 million for a 49 % stake .
+
+#	NEW	fleet_size	........ / 24	// <p> The airline started operations between <a> Nairobi </a> and <a> Mombasa </a> on November 24 , 2006 .
+
+177	FALSE	Fly540::logo_size	50 / to	
+<p> In May 2007 the airline introduced two <a> de Havilland Canada Dash 8-100 </a> aircraft to increase the airline ' s capacity , allowing it to develop new domestic routes .
+
+#	NEW	airline	........ / January	// <p> <strong> Crossair Flight LX498 </strong> ( known subsequently as <strong> Crossair Flight CRX498 </strong> by officials ) was a <a> commuter </a> flight from <a> Zurich </a> , Switzerland to <a> Dresden </a> , Germany that crashed two minutes after takeoff in the Swiss municipality of <a> Niederhasli </a> on 10 January 2000 .
+
+#	NEW	iata	........ / no	// The cold , <a> drizzly </a> weather was normal for the area , there were no indications that anything was wrong with the aircraft , and , although this particular aircraft had 24 , 000 flying hours since its November 1990 delivery , There were no survivors .
+
+#	NEW	icao	........ / aircraft	// The crash of Crossair Flight LX498 was the first time in Crossair ' s 25-year history that the regional airline had lost an aircraft , </p>
+
+#	NEW	ceased	........ / 33- 1 October 1999 .	// <p> The 33-seat <a> Saab-340B </a> airplane used for Crossair Flight LX498 had been <a> lease </a> d to Crossair from <a> Moldavian Airlines </a> since 1 October 1999 .
+
+#	NEW	founded	........ / 00	// The plane was scheduled to depart from <a> Zurich Airport </a> ( Switzerland ) on Monday , 10 January 2000 , at around 6 : 00 p . m . and arrive in <a> Dresden Airport </a> ( Germany ) a few hours later .
+
+#	NEW	hubs	........ / Zurich	// The plane was scheduled to depart from <a> Zurich Airport </a> ( Switzerland ) on Monday , 10 January 2000 , at around 6 : 00 p . m . and arrive in <a> Dresden Airport </a> ( Germany ) a few hours later .
+
+#	NEW	key_people	........ / theory resulted	// The theory resulted in multiple countries banning <a> mobile phone usage on aircraft </a> . </p>
+
+#	NEW	parent	........ / Swiss regional	// It was the first fatal crash for the Swiss regional airline <a> Crossair </a> in its 25-year history . </p>
+
+#	NEW	headquarters	........ / turboprop	// The seven passengers and three crewmembers aboard the two- <a> turboprop </a> engine <a> Saab 340 </a> aircraft all died on impact .
+
+#	NEW	fleet_size	........ / 1	// <p> The 33-seat <a> Saab-340B </a> airplane used for Crossair Flight LX498 had been <a> lease </a> d to Crossair from <a> Moldavian Airlines </a> since 1 October 1999 .
+
+#	NEW	logo_size	........ / a>	// An alternative theory has been developed that suggests the crash may instead have been the result of <a> mobile phone </a> use interfering with the aircraft .
+
+#	NEW	callsign	........ / drizzly	// The cold , <a> drizzly </a> weather was normal for the area , there were no indications that anything was wrong with the aircraft , and , although this particular aircraft had 24 , 000 flying hours since its November 1990 delivery , There were no survivors .
+
+#	NEW	website	........ / After this information was made public , a number of countries that had previously been reluctant to do so outlawed cell phones on flights ( including Switzerland ) .	// After this information was made public , a number of countries that had previously been reluctant to do so outlawed cell phones on flights ( including Switzerland ) . </em> </p>
+
+191	TRUE	Swift Air::airline	swift air / USA	
+<p> <strong> Swift Air </strong> is an <a> American </a> <a> airline </a> based in <a> Phoenix </a> , <a> Arizona </a> , <a> USA </a> .
+
+#	NEW	icao	........ / business	// It operates a fleet of business jets available for charter and private use .
+
+#	NEW	callsign	........ / Air	// <p> As of May 2010 the Swift Air fleet includes : </p>
+
+#	NEW	ceased	........ / 2009	// <p> In October 2009 , Swift Aviation was reported to be under investigation by the <a> FAA </a> and <a> OSHA </a> for safety and maintenance issues .
+
+195	TRUE	Swift Air::founded	1997 / 1997	
+<p> The airline was established in 1997 and was the launch customer for the <a> Embraer ERJ 135 Legacy </a> aircraft .
+
+#	NEW	hubs	........ / Harbor	// Its main base is <a> Phoenix Sky Harbor International Airport </a> .
+
+#	NEW	frequent_flyer	........ / main base	// Its main base is <a> Phoenix Sky Harbor International Airport </a> .
+
+#	NEW	key_people	........ / main base	// Its main base is <a> Phoenix Sky Harbor International Airport </a> .
+
+#	NEW	destinations	........ / 2010	// <p> As of May 2010 the Swift Air fleet includes : </p>
+
+#	NEW	parent	........ / Swift Air	// <p> As of May 2010 the Swift Air fleet includes : </p>
+
+#	NEW	headquarters	........ / Harbor	// Its main base is <a> Phoenix Sky Harbor International Airport </a> .
+
+#	NEW	website	........ / It operates a fleet of business jets available for charter and private use .	// It operates a fleet of business jets available for charter and private use .
+
+#	NEW	logo_size	........ / 2010	// <p> As of May 2010 the Swift Air fleet includes : </p>
+
+#	NEW	airline	........ / its	// <strong> NTSB expressed concern that the NASIP did not find deficiencies in shift </strong> turnover procedures and other matters relevant to the accident , and recommended that the agency improve its NASIP procedures . <strong> </strong> </p>
+
+#	NEW	iata	........ / this	// <p> The National Transportation Safety Board determines the probable cause ( s ) of this accident as follows : </p>
+
+#	NEW	key_people	........ / found very	// It found very few safety deficiencies , and complimented the airline on its internal evaluation system .
+
+#	NEW	callsign	........ / National	// <p> The National Transportation Safety Board determines the probable cause ( s ) of this accident as follows : </p>
+
+#	NEW	ceased	........ / 2574	// <p> Continental still uses Flight 2574 on its Houston-Fayetteville-Newark route , and it continues to fly under <a> Continental Express </a> banner operated by <a> ExpressJet Airlines </a> . </p>
+
+#	NEW	destinations	........ / 2574	// <p> Continental still uses Flight 2574 on its Houston-Fayetteville-Newark route , and it continues to fly under <a> Continental Express </a> banner operated by <a> ExpressJet Airlines </a> . </p>
+
+#	NEW	parent	........ / on National Summit	// Paper presented on National Summit by NTSB on transportation safety .
+
+#	NEW	fleet_size	........ / 2574	// <p> Continental still uses Flight 2574 on its Houston-Fayetteville-Newark route , and it continues to fly under <a> Continental Express </a> banner operated by <a> ExpressJet Airlines </a> . </p>
+
+#	NEW	logo_size	........ / the	// <p> The <a> National Transportation Safety Board </a> ( NTSB ) investigation revealed that bolts had been removed from the horizontal stabilizer during maintenance the night before the accident and , following a shift change , the screws were not replaced .
+
+#	NEW	icao	........ / Texas	// <p> <strong> <a> Continental Express </a> Flight 2574 </strong> ( Jetlink 2574 ) was a scheduled domestic passenger <a> airline </a> flight operated by <a> Britt Airways </a> from <a> Laredo International Airport </a> in <a> Laredo , Texas </a> to <a> Bush Intercontinental Airport </a> in <a> Houston , Texas </a> .
+
+#	NEW	frequent_flyer	........ / FAA conducted	// Following the accident , the FAA conducted a National Aviation Safety Inspection Program ( NASIP ) of Continental Express ' maintenance program .
+
+#	NEW	airline	........ / November 15	// <p> <strong> Pan Am Flight 708 </strong> was a cargo flight that crashed less than 10 miles west-southwest of <a> Tegel Airport </a> in <a> Berlin </a> , <a> Germany </a> , in the early morning hours of November 15 , 1966 .
+
+#	NEW	iata	........ / November	// <p> <strong> Pan Am Flight 708 </strong> was a cargo flight that crashed less than 10 miles west-southwest of <a> Tegel Airport </a> in <a> Berlin </a> , <a> Germany </a> , in the early morning hours of November 15 , 1966 .
+
+#	NEW	icao	........ / navigation	// Some major components were not returned , including the flight data and <a> cockpit voice recorder </a> s , flight control systems , navigation and communication equipment .
+
+#	NEW	callsign	........ / cause	// The cause was undetermined because U . S . investigators were not allowed to survey the accident site or the aircraft remains .
+
+#	NEW	ceased	........ / 708	// <p> Flight 708 usually landed at <a> Tempelhof Airport </a> .
+
+#	NEW	founded	........ / 1966 .	// <p> <strong> Pan Am Flight 708 </strong> was a cargo flight that crashed less than 10 miles west-southwest of <a> Tegel Airport </a> in <a> Berlin </a> , <a> Germany </a> , in the early morning hours of November 15 , 1966 .
+
+#	NEW	hubs	........ / Tempelhof	// <p> Flight 708 usually landed at <a> Tempelhof Airport </a> .
+
+#	NEW	frequent_flyer	........ / three crew	// All three crew members perished .
+
+#	NEW	destinations	........ / 727	// The flight was a <a> Boeing 727 </a> ( N317PA ) routed from <a> Frankfurt </a> to Berlin-Tegel and was on initial approach .
+
+#	NEW	headquarters	........ / Tempelhof	// <p> Flight 708 usually landed at <a> Tempelhof Airport </a> .
+
+#	NEW	fleet_size	........ / 727	// The flight was a <a> Boeing 727 </a> ( N317PA ) routed from <a> Frankfurt </a> to Berlin-Tegel and was on initial approach .
+
+#	NEW	logo_size	........ / aircraft	// The cause was undetermined because U . S . investigators were not allowed to survey the accident site or the aircraft remains .
+
+#	NEW	key_people	........ / undetermined because	// The cause was undetermined because U . S . investigators were not allowed to survey the accident site or the aircraft remains .
+
+228	TRUE	Loch Lomond Seaplanes::airline	loch lomond seaplanes / based	
+<p> <strong> Loch Lomond Seaplanes </strong> is an <a> airline </a> based in <a> Scotland </a> .
+
+#	NEW	iata	........ / ( at	// <p> The Loch Lomond Seaplanes fleet includes the following aircraft ( at April 2009 ) : </p>
+
+#	NEW	icao	........ / Mull	// <p> The airline operates tour and charter flights , as well as regular flights around the west coast of Scotland , with a two times a day service from Glasgow to <a> Oban </a> which operates from November to February , and Glasgow to <a> Tobermory , Mull </a> .
+
+#	NEW	callsign	........ / Loch	// <p> The Loch Lomond Seaplanes fleet includes the following aircraft ( at April 2009 ) : </p>
+
+#	NEW	ceased	........ / 2009 ) :	// <p> The Loch Lomond Seaplanes fleet includes the following aircraft ( at April 2009 ) : </p>
+
+#	NEW	hubs	........ / airline	// <p> <strong> Loch Lomond Seaplanes </strong> is an <a> airline </a> based in <a> Scotland </a> .
+
+234	TRUE	Loch Lomond Seaplanes::destinations	2 / 2009 ) :	
+<p> The Loch Lomond Seaplanes fleet includes the following aircraft ( at April 2009 ) : </p>
+
+#	NEW	parent	........ / Companies House	// <p> <a> Companies House </a> Company Number SC243178 </p>
+
+#	NEW	headquarters	........ / Scotland	// <p> <strong> Loch Lomond Seaplanes </strong> is an <a> airline </a> based in <a> Scotland </a> .
+
+#	NEW	key_people	........ / Company Number	// <p> <a> Companies House </a> Company Number SC243178 </p>
+
+238	FALSE	Loch Lomond Seaplanes::fleet_size	1 / ,	
+<p> The airline operates tour and charter flights , as well as regular flights around the west coast of Scotland , with a two times a day service from Glasgow to <a> Oban </a> which operates from November to February , and Glasgow to <a> Tobermory , Mull </a> .
+
+#	NEW	logo_size	........ / 2008 .	// The Glasgow to Mull service was launched in April 2008 . </p>
+
+240	FALSE	Loch Lomond Seaplanes::founded	2007 / operates	
+<p> The airline operates tour and charter flights , as well as regular flights around the west coast of Scotland , with a two times a day service from Glasgow to <a> Oban </a> which operates from November to February , and Glasgow to <a> Tobermory , Mull </a> .
+
+241	FALSE	Scandjet::airline	scandjet / Summer 2008	
+<p> <strong> Summer 2008 </strong> </p>
+
+242	TRUE	Scandjet::icao	- / Dubrovnik	
+During the season of April-October ScandJet offers direct flights from Scandinavia ( Stockholm , Gothenburg , Oslo and Copenhagen ) to Croatia ( Pula , Zadar , Split , Dubrovnik and Zagreb ) and Bosnia &amp ; Herzegovina ( Sarajevo ) .
+
+243	FALSE	Scandjet::callsign	- / Scandjet	
+<p> The Scandjet fleet includes the following aircraft ( ) : </p>
+
+#	NEW	founded	........ / 2008	// <p> <strong> Summer 2008 </strong> </p>
+
+#	NEW	hubs	........ / Arlanda	// <p> From <a> Stockholm-Arlanda Airport </a> </p>
+
+#	NEW	parent	........ / following aircraft ( ) :	// <p> The Scandjet fleet includes the following aircraft ( ) : </p>
+
+#	NEW	headquarters	........ / Arlanda	// <p> From <a> Stockholm-Arlanda Airport </a> </p>
+
+#	NEW	key_people	........ / Stockholm- Arlanda	// <p> From <a> Stockholm-Arlanda Airport </a> </p>
+
+#	NEW	fleet_size	........ / The	// <p> The Scandjet fleet includes the following aircraft ( ) : </p>
+
+#	NEW	logo_size	........ / </	// <p> The Scandjet fleet includes the following aircraft ( ) : </p>
+
+#	NEW	airline	........ / Pan	// <p> <strong> Pan Europ&#x00e9 ; enne Air Service </strong> is an <a> airline </a> based in <a> Chamb&#x00e9 ; ry </a> , <a> France </a> .
+
+252	TRUE	Pan Européenne Air Service::iata	- / ch-	
+<p> The Pan Europ&#x00e9 ; enne Air Service fleet includes the following aircraft ( as of 12 July 2008 ) [ <a> http : / /www . ch-aviation . c / aircraft . php ? search=set&amp ; airline=PEA&amp ; al_op=1 </a> ] : </p>
+
+253	FALSE	Pan Européenne Air Service::icao	pea / regional	
+It was established and started operations in 1977 and operates regional and international air taxi services .
+
+254	TRUE	Pan Européenne Air Service::callsign	- / Air	
+<p> The Pan Europ&#x00e9 ; enne Air Service fleet includes the following aircraft ( as of 12 July 2008 ) [ <a> http : / /www . ch-aviation . c / aircraft . php ? search=set&amp ; airline=PEA&amp ; al_op=1 </a> ] : </p>
+
+#	NEW	ceased	........ / 1977	// It was established and started operations in 1977 and operates regional and international air taxi services .
+
+256	TRUE	Pan Européenne Air Service::founded	1977 / 1977	
+It was established and started operations in 1977 and operates regional and international air taxi services .
+
+#	NEW	hubs	........ / ry	// Its main bases are <a> Chamb&#x00e9 ; ry Airport </a> and <a> Lyon-Bron Airport </a> , <a> Lyon </a> . . </p>
+
+#	NEW	frequent_flyer	........ / international air	// It was established and started operations in 1977 and operates regional and international air taxi services .
+
+#	NEW	key_people	........ / main bases	// Its main bases are <a> Chamb&#x00e9 ; ry Airport </a> and <a> Lyon-Bron Airport </a> , <a> Lyon </a> . . </p>
+
+#	NEW	website	........ / It was established and started operations in 1977 and operates regional and international air taxi services .	// It was established and started operations in 1977 and operates regional and international air taxi services .
+
+#	NEW	fleet_size	........ / 1977	// It was established and started operations in 1977 and operates regional and international air taxi services .
+
+#	NEW	logo_size	........ / 1977	// It was established and started operations in 1977 and operates regional and international air taxi services .
+
+#	NEW	headquarters	........ / ry	// Its main bases are <a> Chamb&#x00e9 ; ry Airport </a> and <a> Lyon-Bron Airport </a> , <a> Lyon </a> . . </p>
+
+#	NEW	iata	........ / destinations :	// <p> Appalachian Airlines offered scheduled flights to the following destinations : </p>
+
+#	NEW	icao	........ / following	// <p> Appalachian Airlines offered scheduled flights to the following destinations : </p>
+
+#	NEW	callsign	........ / Appalachian	// <p> Appalachian Airlines offered scheduled flights to the following destinations : </p>
+
+267	TRUE	Appalachian Airlines::ceased	1980 / 1980.	
+It was founded in 1977 as <strong> Appalachian Flying Service </strong> , and ceased its operations in 1980 . </p>
+
+#	NEW	frequent_flyer	........ / following destinations :	// <p> Appalachian Airlines offered scheduled flights to the following destinations : </p>
+
+#	NEW	key_people	........ / in 1977	// It was founded in 1977 as <strong> Appalachian Flying Service </strong> , and ceased its operations in 1980 . </p>
+
+#	NEW	fleet_size	........ / <a>	// <p> <strong> Appalachian Airlines </strong> was a US <a> commuter airline </a> , operating out of <a> Tri-Cities Regional Airport </a> , <a> Tennessee </a> .
+
+#	NEW	parent	........ / Appalachian Airlines	// <p> <strong> Appalachian Airlines </strong> was a US <a> commuter airline </a> , operating out of <a> Tri-Cities Regional Airport </a> , <a> Tennessee </a> .
+
+#	NEW	logo_size	........ / </	// <p> Appalachian Airlines offered scheduled flights to the following destinations : </p>
+
+273	TRUE	Superior Aviation::airline	superior aviation / USA	
+<p> <strong> Superior Aviation </strong> is an <a> American </a> <a> airline </a> based in <a> Lansing </a> , <a> Michigan </a> , <a> USA </a> .
+
+#	NEW	icao	........ / scheduled	// It was established in 1979 and operates scheduled passenger services , passenger and cargo charter flights and aircraft sales and maintenance .
+
+#	NEW	callsign	........ / Superior	// <p> As of August 2006 the Superior Aviation fleet includes : </p>
+
+#	NEW	ceased	........ / 2005	// <p> As of January 2005 the Superior Aviation fleet also includes ref name=&quot ; FI&quot ; / : </p>
+
+277	TRUE	Superior Aviation::founded	1979 / 1979	
+It was established in 1979 and operates scheduled passenger services , passenger and cargo charter flights and aircraft sales and maintenance .
+
+#	NEW	hubs	........ / American	// <p> <strong> Superior Aviation </strong> is an <a> American </a> <a> airline </a> based in <a> Lansing </a> , <a> Michigan </a> , <a> USA </a> .
+
+#	NEW	frequent_flyer	........ / Superior Aviation	// <p> As of August 2006 the Superior Aviation fleet includes : </p>
+
+#	NEW	parent	........ / Superior Aviation fleet	// <p> As of August 2006 the Superior Aviation fleet includes : </p>
+
+#	NEW	key_people	........ / ref name=&	// <p> As of January 2005 the Superior Aviation fleet also includes ref name=&quot ; FI&quot ; / : </p>
+
+#	NEW	fleet_size	........ / 1979	// It was established in 1979 and operates scheduled passenger services , passenger and cargo charter flights and aircraft sales and maintenance .
+
+#	NEW	logo_size	........ / 2005	// <p> As of January 2005 the Superior Aviation fleet also includes ref name=&quot ; FI&quot ; / : </p>
+
+#	NEW	website	........ / It was established in 1979 and operates scheduled passenger services , passenger and cargo charter flights and aircraft sales and maintenance .	// It was established in 1979 and operates scheduled passenger services , passenger and cargo charter flights and aircraft sales and maintenance .
+
+285	TRUE	Jettime::airline	jettime / Airport	
+<p> <strong> Jettime </strong> is an <a> airline </a> based in <a> Copenhagen </a> , <a> Denmark </a> , operating charter and <a> wet lease </a> services out of <a> Copenhagen Airport </a> and <a> Billund Airport </a> .
+
+#	NEW	icao	........ / September	// The airline was founded by a group of Danish investors and operated its first flight on 19 September 2006 . </p>
+
+287	TRUE	Jettime::callsign	jettime / all-	
+As of January 2011 , the Jettime fleet consists of six <a> Boeing 737-300 </a> aircraft with an average age of 21 . 3 years , each of which is equipped with 148 passenger seats in an all- <a> economy class </a> cabin layout .
+
+#	NEW	ceased	........ / 19 September 2006 .	// The airline was founded by a group of Danish investors and operated its first flight on 19 September 2006 . </p>
+
+289	TRUE	Jettime::founded	september 2006 / 2006.	
+The airline was founded by a group of Danish investors and operated its first flight on 19 September 2006 . </p>
+
+#	NEW	destinations	........ / ( 2009 ) .	// Jettime [ [ Boeing 737-300 ] ] with deployed <a> thrust reversers </a> shortly after landing at <a> Salzburg Airport </a> , <a> Austria </a> ( 2009 ) . ] ]
+
+#	NEW	headquarters	........ / flight	// The airline was founded by a group of Danish investors and operated its first flight on 19 September 2006 . </p>
+
+#	NEW	key_people	........ / Danish investors	// The airline was founded by a group of Danish investors and operated its first flight on 19 September 2006 . </p>
+
+#	NEW	website	........ / The airline was founded by a group of Danish investors and operated its first flight on	// The airline was founded by a group of Danish investors and operated its first flight on 19 September 2006 . </p>
+
+294	TRUE	Jettime::iata	- / class	
+As of January 2011 , the Jettime fleet consists of six <a> Boeing 737-300 </a> aircraft with an average age of 21 . 3 years , each of which is equipped with 148 passenger seats in an all- <a> economy class </a> cabin layout .
+
+#	NEW	logo_size	........ / 2006 .	// The airline was founded by a group of Danish investors and operated its first flight on 19 September 2006 . </p>
+
+296	TRUE	Jettime::fleet_size	6 / 19	
+The airline was founded by a group of Danish investors and operated its first flight on 19 September 2006 . </p>
+
+297	TRUE	Vincent Aviation::airline	vincent aviation / New	
+<p> <strong> Vincent Aviation </strong> is an <a> airline </a> based in <a> Wellington </a> , <a> New Zealand </a> .
+
+298	TRUE	Vincent Aviation::callsign	vincent / Vincent	
+<p> As of August 2010 , the Vincent Aviation fleet consists of the following aircraft : </p>
+
+#	NEW	ceased	........ / 2010	// <p> As of August 2010 , the Vincent Aviation fleet consists of the following aircraft : </p>
+
+300	TRUE	Vincent Aviation::founded	1992 / 1992.	
+It was founded by Peter Vincent in 1992 . </p>
+
+#	NEW	hubs	........ / charter	// It operates <a> air charter </a> , freight and subcontract flights with hubs at <a> Wellington International Airport </a> and <a> Darwin International Airport </a> , <a> Australia </a> .
+
+#	NEW	frequent_flyer	........ / following aircraft :	// <p> As of August 2010 , the Vincent Aviation fleet consists of the following aircraft : </p>
+
+#	NEW	destinations	........ / 2010	// <p> As of August 2010 , the Vincent Aviation fleet consists of the following aircraft : </p>
+
+#	NEW	parent	........ / Vincent Aviation serves	// <p> Vincent Aviation serves primarily as a charter airline .
+
+#	NEW	headquarters	........ / Fleet	// <p> <strong> Darwin Aus-based Fleet </strong> </p>
+
+#	NEW	key_people	........ / in 1992 .	// It was founded by Peter Vincent in 1992 . </p>
+
+#	NEW	fleet_size	........ / <a>	// It operates a scheduled passenger service into <a> Groote Eylandt </a> , <a> Australia </a> , and also does work in <a> Japan </a> , <a> Ireland </a> , <a> Malaysia </a> and <a> Indonesia </a> .
+
+#	NEW	logo_size	........ / </	// <p> As of August 2010 , the Vincent Aviation fleet consists of the following aircraft : </p>
+
+309	TRUE	Leisure International Airways::airline	leisure international airways / Leisure International Airways	
+<p> <strong> Leisure International Airways </strong> was a British charter airline . </p>
+
+#	NEW	founded	........ / 1988 737- 200	// <p> The airline was established in 1988 october as <a> Air UK Leisure </a> , the charter airline of <a> AirUK </a> , and flying whit <a> Boeing 737-200 </a> planes . The first flight of AirUK Leisure was London-Faro . Latest , 1988 october , the 737-200 was replaced by <a> 737-400 </a> and from this mode , the airline was converted in the first european operator of the 737-400 . . 737-400&#x00b4 ; s was operated between London and Manchester .
+
+#	NEW	frequent_flyer	........ / was a	// <p> <strong> Leisure International Airways </strong> was a British charter airline . </p>
+
+#	NEW	parent	........ / Leisure International	// <p> <strong> Leisure International Airways </strong> was a British charter airline . </p>
+
+#	NEW	fleet_size	........ / <strong>	// <p> <strong> Leisure International Airways </strong> was a British charter airline . </p>
+
+#	NEW	logo_size	........ / </	// <p> <strong> Leisure International Airways </strong> was a British charter airline . </p>
+
+#	NEW	key_people	........ / a British	// <p> <strong> Leisure International Airways </strong> was a British charter airline . </p>
+
+316	TRUE	Norrlandsflyg::airline	norrlandsflyg ab / V&#	
+<p> <strong> Norrlandsflyg AB </strong> is a <a> Swedish </a> <a> helicopter </a> operator which provides <a> search and rescue </a> under contract with the <a> Swedish Maritime Administration </a> and <a> air ambulance </a> services for <a> Norrbotten County </a> and <a> V&#x00e4 ; stra G&#x00f6 ; taland County </a> .
+
+#	NEW	callsign	........ / Norrlandsflyg	// <p> <strong> Norrlandsflyg AB </strong> is a <a> Swedish </a> <a> helicopter </a> operator which provides <a> search and rescue </a> under contract with the <a> Swedish Maritime Administration </a> and <a> air ambulance </a> services for <a> Norrbotten County </a> and <a> V&#x00e4 ; stra G&#x00f6 ; taland County </a> .
+
+#	NEW	ceased	........ / 76	// Norrlandsflyg operates twelve <a> Sikorsky S-76 </a> helicopters . </p>
+
+#	NEW	founded	........ / 76	// Norrlandsflyg operates twelve <a> Sikorsky S-76 </a> helicopters . </p>
+
+#	NEW	destinations	........ / 76	// Norrlandsflyg operates twelve <a> Sikorsky S-76 </a> helicopters . </p>
+
+#	NEW	parent	........ / Sikorsky S-	// Norrlandsflyg operates twelve <a> Sikorsky S-76 </a> helicopters . </p>
+
+#	NEW	headquarters	........ / S-	// Norrlandsflyg operates twelve <a> Sikorsky S-76 </a> helicopters . </p>
+
+#	NEW	key_people	........ / operates twelve	// Norrlandsflyg operates twelve <a> Sikorsky S-76 </a> helicopters . </p>
+
+#	NEW	fleet_size	........ / 76	// Norrlandsflyg operates twelve <a> Sikorsky S-76 </a> helicopters . </p>
+
+#	NEW	icao	........ / County	// <p> <strong> Norrlandsflyg AB </strong> is a <a> Swedish </a> <a> helicopter </a> operator which provides <a> search and rescue </a> under contract with the <a> Swedish Maritime Administration </a> and <a> air ambulance </a> services for <a> Norrbotten County </a> and <a> V&#x00e4 ; stra G&#x00f6 ; taland County </a> .
+
+#	NEW	logo_size	........ / 76	// Norrlandsflyg operates twelve <a> Sikorsky S-76 </a> helicopters . </p>
+
+#	NEW	hubs	........ / llivare	// The company has its headquarters and technical base at G&#x00f6 ; teborg City Airport ( S&#x00e4 ; ve ) and helicopters stationed in <a> G&#x00e4 ; llivare </a> , <a> Gothenburg </a> , <a> Ronneby </a> , <a> Sundsvall </a> , <a> Stockholm </a> and <a> Visby </a> .
+
+#	NEW	airline	........ / southern	// <p> <strong> Turkish Airlines Flight 5904 </strong> was a <a> Boeing 737-4Q8 </a> operated by the <a> Turkish Airlines </a> , registered TC-JEP and named <em> Trakya </em> , on a repositioning flight that crashed on 7 April 1999 in <a> Ceyhan </a> , <a> Adana Province </a> in southern <a> Turkey </a> .
+
+#	NEW	icao	........ / Turkey	// <p> <strong> Turkish Airlines Flight 5904 </strong> was a <a> Boeing 737-4Q8 </a> operated by the <a> Turkish Airlines </a> , registered TC-JEP and named <em> Trakya </em> , on a repositioning flight that crashed on 7 April 1999 in <a> Ceyhan </a> , <a> Adana Province </a> in southern <a> Turkey </a> .
+
+#	NEW	callsign	........ / two	// <p> The aircraft , a <a> Boeing 737-4Q8 </a> with two <a> CFMI CFM56-3C1 </a> <a> jet engine </a> s , was built by <a> Boeing </a> with manufacturer serial number 2537 / 2732 , and made its first flight on 9 June 1995 . ref
+
+#	NEW	ceased	........ / 8	// The aircraft crashed at 00 : 44 EET ( 22 : 44 <a> UTC </a> on April 6 ) , 8 minutes after taking off , about east-northeast of the airport near Hamdilli village of <a> Ceyhan </a> district in poor weather conditions .
+
+#	NEW	founded	........ / 737- 2537 / 2732 9 June	// <p> The aircraft , a <a> Boeing 737-4Q8 </a> with two <a> CFMI CFM56-3C1 </a> <a> jet engine </a> s , was built by <a> Boeing </a> with manufacturer serial number 2537 / 2732 , and made its first flight on 9 June 1995 . ref
+
+#	NEW	hubs	........ / EET	// <p> TK5904 with two pilots and four flight attendants took off empty at 00 : 36 <a> EET </a> from <a> Adana &#x015e ; akirpa&#x015f ; a Airport </a> to pick up pilgrims at <a> King Abdulaziz International Airport </a> in <a> Jeddah </a> , <a> Saudi Arabia </a> .
+
+#	NEW	frequent_flyer	........ / wreckage was	// The crash created a deep hole at the point of impact and the wreckage was scattered over an area of around . </p>
+
+#	NEW	destinations	........ / 1995 .	// <p> The aircraft , a <a> Boeing 737-4Q8 </a> with two <a> CFMI CFM56-3C1 </a> <a> jet engine </a> s , was built by <a> Boeing </a> with manufacturer serial number 2537 / 2732 , and made its first flight on 9 June 1995 . ref
+
+#	NEW	parent	........ / were no	// There were no passengers on board , all the 6 crew members died in the accident . </p>
+
+#	NEW	key_people	........ / were no	// There were no passengers on board , all the 6 crew members died in the accident . </p>
+
+#	NEW	iata	........ / June	// <p> The aircraft , a <a> Boeing 737-4Q8 </a> with two <a> CFMI CFM56-3C1 </a> <a> jet engine </a> s , was built by <a> Boeing </a> with manufacturer serial number 2537 / 2732 , and made its first flight on 9 June 1995 . ref
+
+#	NEW	fleet_size	........ / <a>	// <p> <strong> Turkish Airlines Flight 5904 </strong> was a <a> Boeing 737-4Q8 </a> operated by the <a> Turkish Airlines </a> , registered TC-JEP and named <em> Trakya </em> , on a repositioning flight that crashed on 7 April 1999 in <a> Ceyhan </a> , <a> Adana Province </a> in southern <a> Turkey </a> .
+
+#	NEW	logo_size	........ / a>	// The aircraft crashed at 00 : 44 EET ( 22 : 44 <a> UTC </a> on April 6 ) , 8 minutes after taking off , about east-northeast of the airport near Hamdilli village of <a> Ceyhan </a> district in poor weather conditions .
+
+341	TRUE	Sita Air::airline	sita air / operating	
+<p> <strong> Sita Air </strong> is an <a> airline </a> based in <a> Kathmandu </a> , <a> Nepal </a> , operating domestic flights .
+
+#	NEW	icao	........ / domestic	// <p> <strong> Sita Air </strong> is an <a> airline </a> based in <a> Kathmandu </a> , <a> Nepal </a> , operating domestic flights .
+
+#	NEW	callsign	........ / Air	// <p> As of August 2008 the Sita Air fleet includes : </p>
+
+#	NEW	ceased	........ / 2003	// <p> The airline got its air operators certificate in <a> 2000 </a> and was established in October 2000 , but was unable to operate until 2003 due to political unrest in Nepal .
+
+#	NEW	founded	........ / 2000	// <p> The airline got its air operators certificate in <a> 2000 </a> and was established in October 2000 , but was unable to operate until 2003 due to political unrest in Nepal .
+
+#	NEW	hubs	........ / the	// As a result the airport was closed for two days .
+
+#	NEW	frequent_flyer	........ / airport was	// As a result the airport was closed for two days .
+
+#	NEW	destinations	........ / 2008	// <p> As of August 2008 the Sita Air fleet includes : </p>
+
+#	NEW	parent	........ / Sita Air	// <p> As of August 2008 the Sita Air fleet includes : </p>
+
+#	NEW	key_people	........ / the airport	// As a result the airport was closed for two days .
+
+#	NEW	fleet_size	........ / 2003	// <p> The airline got its air operators certificate in <a> 2000 </a> and was established in October 2000 , but was unable to operate until 2003 due to political unrest in Nepal .
+
+#	NEW	logo_size	........ / 2003	// <p> The airline got its air operators certificate in <a> 2000 </a> and was established in October 2000 , but was unable to operate until 2003 due to political unrest in Nepal .
+
+#	NEW	airline	........ / Nepal	// Ltd . </strong> is an <a> airline </a> based in <a> Nepal </a> which started operations in March 2006 .
+
+354	TRUE	Agni Air::iata	ag / at	
+Agni Air provides scheduled flights at the following locations ( as of June 2010 ) : </p>
+
+#	NEW	icao	........ / as	// <p> The Civil Aviation Authority of Nepal ( CAAN ) granted Agni Air an air operators certificate , allowing it to operate scheduled flights , as well as mountain flights .
+
+#	NEW	callsign	........ / June	// Agni Air provides scheduled flights at the following locations ( as of June 2010 ) : </p>
+
+357	TRUE	Agni Air::founded	2006 / 2006.	
+Ltd . </strong> is an <a> airline </a> based in <a> Nepal </a> which started operations in March 2006 .
+
+#	NEW	hubs	........ / airline	// Ltd . </strong> is an <a> airline </a> based in <a> Nepal </a> which started operations in March 2006 .
+
+359	FALSE	Agni Air::destinations	8 / 2010 ) :	
+Agni Air provides scheduled flights at the following locations ( as of June 2010 ) : </p>
+
+#	NEW	parent	........ / airline	// Ltd . </strong> is an <a> airline </a> based in <a> Nepal </a> which started operations in March 2006 .
+
+#	NEW	key_people	........ / is an	// Ltd . </strong> is an <a> airline </a> based in <a> Nepal </a> which started operations in March 2006 .
+
+#	NEW	fleet_size	........ / 2006 .	// Ltd . </strong> is an <a> airline </a> based in <a> Nepal </a> which started operations in March 2006 .
+
+#	NEW	logo_size	........ / 2006 .	// Ltd . </strong> is an <a> airline </a> based in <a> Nepal </a> which started operations in March 2006 .
+
+364	FALSE	Kampuchea Airlines::airline	kampuchea airlines / Air	
+<p> The airline became operational in 1997 , then briefly known as <strong> SK Air </strong> .
+
+#	NEW	icao	........ / operated	// <a> Orient Thai Airlines </a> owned a 49% stake in the airline and operated charter services on behalf of Kampuchea Airlines .
+
+366	TRUE	Kampuchea Airlines::callsign	kampuchea / years	
+<p> Over the years , Kampuchea Airlines operated the following aircraft types : </p>
+
+367	TRUE	Kampuchea Airlines::ceased	2004 / 2004.	
+Kampuchea Airlines was shut down in 2004 . </p>
+
+#	NEW	frequent_flyer	........ / following aircraft	// <p> Over the years , Kampuchea Airlines operated the following aircraft types : </p>
+
+#	NEW	parent	........ / Thai Airlines	// <a> Orient Thai Airlines </a> owned a 49% stake in the airline and operated charter services on behalf of Kampuchea Airlines .
+
+#	NEW	key_people	........ / in 2004 .	// Kampuchea Airlines was shut down in 2004 . </p>
+
+#	NEW	fleet_size	........ / operated	// <a> Orient Thai Airlines </a> owned a 49% stake in the airline and operated charter services on behalf of Kampuchea Airlines .
+
+372	TRUE	Landsflug::airline	landsflug / ( Air	
+<p> <strong> Landsflug </strong> ( Air Domestic ) was an <a> airline </a> based in <a> Reykjav&#x00ed ; k </a> , <a> Iceland </a> .
+
+#	NEW	icao	........ / domestic	// It operated domestic passenger services .
+
+#	NEW	callsign	........ / Landsflug	// Landsflug had 80 employees ( at March 2007 ) .
+
+#	NEW	ceased	........ / 2007 ) .	// Landsflug had 80 employees ( at March 2007 ) .
+
+#	NEW	founded	........ / 2005	// <p> The airline was established in 2004 and started operations on 1 October 2004 The owners of <a> City Star Airlines </a> , a ticket sales office based in Aberdeen , Scotland , acquired the controlling shares of the airline in 2005 in order to acquire JAR OPS 1 licensed operator for its expanding Aberdeen operation .
+
+#	NEW	hubs	........ / Reykjavik	// Its main base was <a> Reykjavik International Airport </a> , Reykjav&#x00ed ; k .
+
+#	NEW	frequent_flyer	........ / Reykjav&# x00ed ;	// Its main base was <a> Reykjavik International Airport </a> , Reykjav&#x00ed ; k .
+
+#	NEW	headquarters	........ / Reykjavik	// Its main base was <a> Reykjavik International Airport </a> , Reykjav&#x00ed ; k .
+
+#	NEW	key_people	........ / Reykjavik International	// Its main base was <a> Reykjavik International Airport </a> , Reykjav&#x00ed ; k .
+
+381	TRUE	Landsflug::destinations	5 / 1	
+<p> The airline was established in 2004 and started operations on 1 October 2004 The owners of <a> City Star Airlines </a> , a ticket sales office based in Aberdeen , Scotland , acquired the controlling shares of the airline in 2005 in order to acquire JAR OPS 1 licensed operator for its expanding Aberdeen operation .
+
+#	NEW	parent	........ / ( Air Domestic )	// <p> <strong> Landsflug </strong> ( Air Domestic ) was an <a> airline </a> based in <a> Reykjav&#x00ed ; k </a> , <a> Iceland </a> .
+
+383	FALSE	Skyway Enterprises::iata	ki / be	
+Both aircraft had to be written off .
+
+#	NEW	icao	........ / domestic	// It operates domestic on demand cargo and passenger charter flights , as well as contract flights for <a> FedEx </a> and <a> Mario ' s Air </a> . </p>
+
+#	NEW	callsign	........ / Both	// Both aircraft had to be written off .
+
+#	NEW	ceased	........ / 1989 .	// It moved operations to Kissimmee in 1989 . </p>
+
+387	TRUE	Skyway Enterprises::founded	1981 / 1981	
+<p> The airline was established in 1981 in <a> Michigan </a> as a <a> Cessna </a> dealership , and started operations with cargo charters in 1983 .
+
+#	NEW	hubs	........ / American	// <p> <strong> Skyway Enterprises </strong> is an <a> American </a> <a> airline </a> based in <a> Kissimmee </a> , <a> Florida </a> , <a> USA </a> .
+
+#	NEW	frequent_flyer	........ / two crew	// The aircraft was substantially damaged but the two crew survived . </p>
+
+#	NEW	parent	........ / aircraft was	// The aircraft was substantially damaged but the two crew survived . </p>
+
+#	NEW	key_people	........ / moved operations	// It moved operations to Kissimmee in 1989 . </p>
+
+#	NEW	fleet_size	........ / 1983 .	// <p> The airline was established in 1981 in <a> Michigan </a> as a <a> Cessna </a> dealership , and started operations with cargo charters in 1983 .
+
+393	TRUE	Skyway Enterprises::airline	skyway enterprises / USA	
+<p> <strong> Skyway Enterprises </strong> is an <a> American </a> <a> airline </a> based in <a> Kissimmee </a> , <a> Florida </a> , <a> USA </a> .
+
+#	NEW	logo_size	........ / a> .	// It operates domestic on demand cargo and passenger charter flights , as well as contract flights for <a> FedEx </a> and <a> Mario ' s Air </a> . </p>
+
+#	NEW	website	........ / It operates domestic on demand cargo and passenger charter flights , as well as contract flights for	// It operates domestic on demand cargo and passenger charter flights , as well as contract flights for <a> FedEx </a> and <a> Mario ' s Air </a> . </p>
+
+396	TRUE	Southern Air::airline	southern air / Air	
+<p> <strong> Southern Air </strong> is a United States airline based in Norwalk , Connecticut , USA .
+
+#	NEW	icao	........ / ACMI	// It operates ACMI and charter operations utilizing Boeing 777 and 747 cargo aircraft to international <a> air cargo </a> carriers .
+
+398	TRUE	Southern Air::callsign	southern air / Air	
+<p> In early 2010 , Southern Air also introduced a new livery to its fleet along with new corporate branding . </p>
+
+#	NEW	ceased	........ / 1999 .	// <p> The airline was established on March 5 , 1999 , out of the assets of <a> Southern Air Transport </a> and started operations in November 1999 .
+
+400	FALSE	Southern Air::founded	march 5, 1999 / 1999.	
+<p> The airline was established on March 5 , 1999 , out of the assets of <a> Southern Air Transport </a> and started operations in November 1999 .
+
+#	NEW	destinations	........ / 2010	// <p> In February and March of 2010 , Southern Air took delivery of two Boeing 777 freighters .
+
+402	FALSE	Southern Air::parent	oak hill capital partners / Air also	
+Southern Air also offer cargo charters to brokers , as well as cargo transportation for the government . </p>
+
+#	NEW	key_people	........ / has 750	// The company currently has 750 employees . </p>
+
+#	NEW	fleet_size	........ / 1999 .	// <p> The airline was established on March 5 , 1999 , out of the assets of <a> Southern Air Transport </a> and started operations in November 1999 .
+
+#	NEW	logo_size	........ / </	// <p> In early 2010 , Southern Air also introduced a new livery to its fleet along with new corporate branding . </p>
+
+#	NEW	frequent_flyer	........ / Southern Air	// <p> In early 2010 , Southern Air also introduced a new livery to its fleet along with new corporate branding . </p>
+
+407	TRUE	WaltAir::airline	waltair / WaltAir	
+<p> <strong> WaltAir </strong> is a Swedish taxi airline .
+
+#	NEW	icao	........ / WaltAir	// <p> <strong> WaltAir </strong> is a Swedish taxi airline .
+
+#	NEW	callsign	........ / WaltAir	// <p> <strong> WaltAir </strong> is a Swedish taxi airline .
+
+410	TRUE	WaltAir::founded	1997 / 1997	
+Waltair was established in 1997 and has bases in Stockholm , Norrk&#x00f6 ; ping and V&#x00e4 ; xj&#x00f6 ; . </p>
+
+#	NEW	hubs	........ / Stockholm	// Waltair was established in 1997 and has bases in Stockholm , Norrk&#x00f6 ; ping and V&#x00e4 ; xj&#x00f6 ; . </p>
+
+#	NEW	frequent_flyer	........ / WaltAir	// <p> <strong> WaltAir </strong> is a Swedish taxi airline .
+
+#	NEW	key_people	........ / is a	// <p> <strong> WaltAir </strong> is a Swedish taxi airline .
+
+#	NEW	fleet_size	........ / 1997	// Waltair was established in 1997 and has bases in Stockholm , Norrk&#x00f6 ; ping and V&#x00e4 ; xj&#x00f6 ; . </p>
+
+#	NEW	logo_size	........ / <p>	// <p> <strong> WaltAir </strong> is a Swedish taxi airline .
+
+416	TRUE	Martinaire::airline	martinaire / USA	
+<p> <strong> Martinaire </strong> is an <a> American </a> <a> cargo airline </a> based in <a> Addison </a> , <a> Texas </a> , <a> USA </a> .
+
+#	NEW	iata	........ / January	// <p> The airline was established and started operations in <a> 1978 </a> and acquired the freight operations of <a> CCAir </a> on 2 January 1990 .
+
+#	NEW	icao	........ / DHL	// It operates feeder flights for overnight package delivery services , including <a> UPS </a> and <a> DHL </a> .
+
+#	NEW	callsign	........ / UPS	// It operates feeder flights for overnight package delivery services , including <a> UPS </a> and <a> DHL </a> .
+
+#	NEW	founded	........ / 2 January 1990 .	// <p> The airline was established and started operations in <a> 1978 </a> and acquired the freight operations of <a> CCAir </a> on 2 January 1990 .
+
+#	NEW	hubs	........ / Addison	// Its main base is <a> Addison Airport </a> , near <a> Dallas </a> .
+
+#	NEW	destinations	........ / 2	// <p> The airline was established and started operations in <a> 1978 </a> and acquired the freight operations of <a> CCAir </a> on 2 January 1990 .
+
+#	NEW	parent	........ / operates feeder	// It operates feeder flights for overnight package delivery services , including <a> UPS </a> and <a> DHL </a> .
+
+#	NEW	headquarters	........ / Addison	// Its main base is <a> Addison Airport </a> , near <a> Dallas </a> .
+
+#	NEW	website	........ / It operates feeder flights for overnight package delivery services	// It operates feeder flights for overnight package delivery services , including <a> UPS </a> and <a> DHL </a> .
+
+#	NEW	fleet_size	........ / 2	// <p> The airline was established and started operations in <a> 1978 </a> and acquired the freight operations of <a> CCAir </a> on 2 January 1990 .
+
+#	NEW	logo_size	........ / 2	// <p> The airline was established and started operations in <a> 1978 </a> and acquired the freight operations of <a> CCAir </a> on 2 January 1990 .
+
+#	NEW	ceased	........ / 2 January 1990 .	// <p> The airline was established and started operations in <a> 1978 </a> and acquired the freight operations of <a> CCAir </a> on 2 January 1990 .
+
+#	NEW	key_people	........ / main base	// Its main base is <a> Addison Airport </a> , near <a> Dallas </a> .
+
+#	NEW	iata	........ / ( at	// <p> The Midwest Airlines fleet consists of the following aircraft ( at January 2011 ) : </p>
+
+#	NEW	icao	........ / Europe	// <p> <strong> Midwest Airlines </strong> is an <a> airline </a> based in <a> Cairo </a> , <a> Egypt </a> , operating chartered passenger flights within <a> Egypt </a> and to <a> Europe </a> . </p>
+
+#	NEW	callsign	........ / Midwest	// <p> The Midwest Airlines fleet consists of the following aircraft ( at January 2011 ) : </p>
+
+#	NEW	ceased	........ / 2004	// Of those , one was sold in 2004 , while the other one is stored . </p>
+
+434	FALSE	Midwest Airlines (Egypt)::founded	1998 / 2011 ) :	
+<p> The Midwest Airlines fleet consists of the following aircraft ( at January 2011 ) : </p>
+
+#	NEW	hubs	........ / East	// <p> From its beginning , the airline offered charter services from Egyptian holiday resorts to Europe and the <a> Middle East </a> on behalf of local and international <a> tour operator </a> s .
+
+#	NEW	destinations	........ / 2011 ) :	// <p> The Midwest Airlines fleet consists of the following aircraft ( at January 2011 ) : </p>
+
+#	NEW	parent	........ / airline stopped	// Due to circumstances attributable to the then owners , the airline stopped operations in 2006 .
+
+#	NEW	key_people	........ / in 1998	// <p> Midwest Airlines was founded in 1998 with an initial fleet of two <a> Airbus A310-300 </a> s .
+
+439	FALSE	Midwest Airlines (Egypt)::fleet_size	3 / <a>	
+<p> From its beginning , the airline offered charter services from Egyptian holiday resorts to Europe and the <a> Middle East </a> on behalf of local and international <a> tour operator </a> s .
+
+440	TRUE	Midwest Airlines (Egypt)::airline	midwest airlines / Europe	
+<p> <strong> Midwest Airlines </strong> is an <a> airline </a> based in <a> Cairo </a> , <a> Egypt </a> , operating chartered passenger flights within <a> Egypt </a> and to <a> Europe </a> . </p>
+
+#	NEW	logo_size	........ / 2011 ) :	// <p> The Midwest Airlines fleet consists of the following aircraft ( at January 2011 ) : </p>
+
+#	NEW	website	........ / Concerted efforts during 2009 brought Midwest back into the air operations scene .	// Concerted efforts during 2009 brought Midwest back into the air operations scene .
+
+#	NEW	iata	........ / It	// It started operations and became Mo&#x00e7 ; ambique Expresso in 1995 as an independent airline .
+
+#	NEW	icao	........ / scheduled	// It operates domestic and regional scheduled and charter services .
+
+#	NEW	callsign	........ / LAM	// It is wholly owned by LAM and has 50 employees ( at March 2007 ) .
+
+#	NEW	ceased	........ / 2007 ) .	// It is wholly owned by LAM and has 50 employees ( at March 2007 ) .
+
+#	NEW	hubs	........ / Maputo	// Its main base is <a> Maputo International Airport </a> . . </p>
+
+#	NEW	frequent_flyer	........ / main base	// Its main base is <a> Maputo International Airport </a> . . </p>
+
+#	NEW	destinations	........ / 50	// It is wholly owned by LAM and has 50 employees ( at March 2007 ) .
+
+#	NEW	parent	........ / airline was	// <p> The airline was established in September 1995 as Special Operations Department of <a> Linhas A&#x00e9 ; reas de Mo&#x00e7 ; ambique </a> ( LAM ) .
+
+#	NEW	headquarters	........ / Maputo	// Its main base is <a> Maputo International Airport </a> . . </p>
+
+#	NEW	key_people	........ / main base	// Its main base is <a> Maputo International Airport </a> . . </p>
+
+#	NEW	website	........ / It operates domestic and regional scheduled and charter services .	// It operates domestic and regional scheduled and charter services .
+
+454	TRUE	Nightexpress::airline	nightexpress / March	
+<p> <strong> Nightexpress Luftverkehrsgesellschaft <a> mbH </a> </strong> is an <a> airline </a> based in <a> Frankfurt </a> , <a> Germany </a> , that was founded in 1984 and had 27 employees ( as of March 2007 ) .
+
+#	NEW	icao	........ / are	// It operates scheduled and chartered cargo flights out of <a> Frankfurt Airport </a> , most of which are either to <a> Birmingham Airport </a> or <a> Coventry Airport </a> . </p>
+
+#	NEW	callsign	........ / Nightexpress	// <p> As of December 2010 , the Nightexpress fleet consists of the following aircraft : </p>
+
+#	NEW	frequent_flyer	........ / following aircraft :	// <p> As of December 2010 , the Nightexpress fleet consists of the following aircraft : </p>
+
+#	NEW	destinations	........ / 2010	// <p> As of December 2010 , the Nightexpress fleet consists of the following aircraft : </p>
+
+#	NEW	parent	........ / Frankfurt Airport	// It operates scheduled and chartered cargo flights out of <a> Frankfurt Airport </a> , most of which are either to <a> Birmingham Airport </a> or <a> Coventry Airport </a> . </p>
+
+#	NEW	key_people	........ / December 2010	// <p> As of December 2010 , the Nightexpress fleet consists of the following aircraft : </p>
+
+461	FALSE	Nightexpress::fleet_size	3 / a>	
+It operates scheduled and chartered cargo flights out of <a> Frankfurt Airport </a> , most of which are either to <a> Birmingham Airport </a> or <a> Coventry Airport </a> . </p>
+
+#	NEW	logo_size	........ / </	// <p> As of December 2010 , the Nightexpress fleet consists of the following aircraft : </p>
+
+#	NEW	hubs	........ / Frankfurt	// It operates scheduled and chartered cargo flights out of <a> Frankfurt Airport </a> , most of which are either to <a> Birmingham Airport </a> or <a> Coventry Airport </a> . </p>
+
+464	TRUE	Novosibirsk Air Enterprise::airline	novosibirsk air enterprise / Air Enterprise	
+<p> <strong> Novosibirsk Air Enterprise </strong> is an <a> airline </a> based in <a> Novosibirsk </a> , <a> Russia </a> .
+
+#	NEW	icao	........ / airline	// <p> As of August 2006 the airline also operated : </p>
+
+#	NEW	callsign	........ / Air	// <p> As of March 2009 the Novosibirsk Air Enterprise fleet includes : </p>
+
+#	NEW	ceased	........ / 2006	// <p> As of August 2006 the airline also operated : </p>
+
+468	TRUE	Novosibirsk Air Enterprise::founded	1995 / 1995.	
+It was established and started operations in 1995 .
+
+#	NEW	hubs	........ / Tolmachevo	// Its main base is <a> Novosibirsk Tolmachevo Airport </a> . . </p>
+
+#	NEW	frequent_flyer	........ / airline	// <p> As of August 2006 the airline also operated : </p>
+
+#	NEW	destinations	........ / 2009	// <p> As of March 2009 the Novosibirsk Air Enterprise fleet includes : </p>
+
+#	NEW	parent	........ / airline also	// <p> As of August 2006 the airline also operated : </p>
+
+#	NEW	headquarters	........ / Tolmachevo	// Its main base is <a> Novosibirsk Tolmachevo Airport </a> . . </p>
+
+#	NEW	key_people	........ / August 2006	// <p> As of August 2006 the airline also operated : </p>
+
+#	NEW	website	........ / It was established and started operations in	// It was established and started operations in 1995 .
+
+476	TRUE	Novosibirsk Air Enterprise::fleet_size	9 / 1995.	
+It was established and started operations in 1995 .
+
+#	NEW	logo_size	........ / 2006	// <p> As of August 2006 the airline also operated : </p>
+
+#	NEW	icao	........ / following	// <p> As of May <a> 2007 </a> , Marsland Aviations operates scheduled passenger flights to the following destinations : </p>
+
+#	NEW	callsign	........ / June	// <p> The Marsland Aviation fleet consists of the following aircraft ( as of June 2010 ) : </p>
+
+#	NEW	ceased	........ / 2007	// <p> As of May <a> 2007 </a> , Marsland Aviations operates scheduled passenger flights to the following destinations : </p>
+
+#	NEW	founded	........ / 2007	// <p> As of May <a> 2007 </a> , Marsland Aviations operates scheduled passenger flights to the following destinations : </p>
+
+#	NEW	hubs	........ / airline	// <p> <strong> Marsland Aviation </strong> is an <a> airline </a> based in <a> Khartoum </a> , <a> Sudan </a> .
+
+483	TRUE	Marsland Aviation::destinations	10 / 2010 ) :	
+<p> The Marsland Aviation fleet consists of the following aircraft ( as of June 2010 ) : </p>
+
+#	NEW	parent	........ / Marsland Aviation	// <p> <strong> Marsland Aviation </strong> is an <a> airline </a> based in <a> Khartoum </a> , <a> Sudan </a> .
+
+#	NEW	fleet_size	........ / 2007	// <p> As of May <a> 2007 </a> , Marsland Aviations operates scheduled passenger flights to the following destinations : </p>
+
+#	NEW	logo_size	........ / 2007	// <p> As of May <a> 2007 </a> , Marsland Aviations operates scheduled passenger flights to the following destinations : </p>
+
+#	NEW	key_people	........ / May <a>	// <p> As of May <a> 2007 </a> , Marsland Aviations operates scheduled passenger flights to the following destinations : </p>
+
+#	NEW	airline	........ / People '	// <p> <strong> Lucky Air </strong> is an <a> airline </a> based in <a> Kunming </a> , <a> Yunnan </a> , People ' s Republic of China .
+
+#	NEW	icao	........ / Yunnan	// It started operations with a flight between Kunming and Dali within Yunnan on 26 February 2006 . </p>
+
+490	TRUE	Lucky Air::callsign	lucky air / Air	
+<p> The Lucky Air fleet includes the following aircraft ( as of February 2010 ) ref name=&quot ; FI&quot ; / : </p>
+
+#	NEW	ceased	........ / 23 December 2005	// <p> On 23 December 2005 , Shilin Airlines changed name to Lucky Air .
+
+492	TRUE	Lucky Air::founded	july 2004 / 2004	
+<p> The airline was established in July 2004 as a start-up airline known as <strong> Shilin Airlines </strong> .
+
+#	NEW	hubs	........ / Dali	// Its main base is <a> Dali Airport </a> . </p>
+
+#	NEW	frequent_flyer	........ / airline	// <p> The airline is owned by Hainan Airlines , Shanxi Airlines and Yunnan Shilin Tourism Aviation .
+
+#	NEW	parent	........ / Shilin Airlines	// <p> On 23 December 2005 , Shilin Airlines changed name to Lucky Air .
+
+#	NEW	headquarters	........ / Dali	// Its main base is <a> Dali Airport </a> . </p>
+
+#	NEW	key_people	........ / main base	// Its main base is <a> Dali Airport </a> . </p>
+
+498	FALSE	Lucky Air::fleet_size	8 / 2006.	
+It started operations with a flight between Kunming and Dali within Yunnan on 26 February 2006 . </p>
+
+#	NEW	logo_size	........ / 2005	// <p> On 23 December 2005 , Shilin Airlines changed name to Lucky Air .
+
+#	NEW	website	........ / It started operations with a flight between Kunming and Dali within Yunnan on	// It started operations with a flight between Kunming and Dali within Yunnan on 26 February 2006 . </p>
+
+501	TRUE	Westward Airways (United Kingdom)::airline	westward airways / UK	
+<p> <strong> Westward Airways </strong> is an <a> airline </a> based at <a> Land ' s End Airport </a> , near <a> St Just </a> and <a> Penzance </a> in <a> Cornwall </a> , <a> England </a> , <a> UK </a> .
+
+502	FALSE	Westward Airways (United Kingdom)::icao	- / operates	
+<p> The airline is owned by the <a> Isles of Scilly Steamship Company </a> , which operates shipping services to the <a> Isles of Scilly </a> in its own name , and also owns <a> Isles of Scilly Skybus </a> , which operates air services to the islands . .
+
+#	NEW	ceased	........ / 31 January 2009	// After a review of the operations , it was decided to close the Lands End Flying School as of Saturday 31 January 2009 , after which point Westward Airways also terminated the operation of sightseeing flights .
+
+#	NEW	destinations	........ / 2009	// Until February 2009 it operated sight seeing flights in the local area , also running the former <a> Lands End Flying School </a> and is the operator of <a> Land ' s End Airport </a> .
+
+#	NEW	headquarters	........ / Cessna	// <p> The company operates two <a> Cessna 152 </a> s and two <a> Cessna 172 </a> s </p>
+
+#	NEW	key_people	........ / The company	// <p> The company operates two <a> Cessna 152 </a> s and two <a> Cessna 172 </a> s </p>
+
+#	NEW	fleet_size	........ / of	// <p> The airline is owned by the <a> Isles of Scilly Steamship Company </a> , which operates shipping services to the <a> Isles of Scilly </a> in its own name , and also owns <a> Isles of Scilly Skybus </a> , which operates air services to the islands . .
+
+508	FALSE	Westward Airways (United Kingdom)::callsign	- / Westward	
+<p> Westward Airways ( Land ' s End ) Ltd holds a <a> United Kingdom Civil Aviation Authority </a> Type B Operating Licence , it is permitted to carry passengers , cargo and mail on aircraft with fewer than 20 seats an / or weighing less than 10 tonnes . </p>
+
+#	NEW	logo_size	........ / 2009	// After a review of the operations , it was decided to close the Lands End Flying School as of Saturday 31 January 2009 , after which point Westward Airways also terminated the operation of sightseeing flights .
+
+#	NEW	founded	........ / it 31 January 2009	// After a review of the operations , it was decided to close the Lands End Flying School as of Saturday 31 January 2009 , after which point Westward Airways also terminated the operation of sightseeing flights .
+
+#	NEW	hubs	........ / 1971	// It started services in <a> 1971 </a> between Land ' s End Airport and the Scilly Isles with a <a> de Havilland Dragon Rapide </a> and <a> Britten-Norman Islander </a> . </p>
+
+#	NEW	parent	........ / started services	// It started services in <a> 1971 </a> between Land ' s End Airport and the Scilly Isles with a <a> de Havilland Dragon Rapide </a> and <a> Britten-Norman Islander </a> . </p>
+
+#	null	iata	- / ..........
+
+#	null	airline	fly540 / ..........
+
+#	null	founded	1997 / ..........
+
+#	null	fleet_size	5 / ..........
+
+#	null	iata	so / ..........
+
+#	null	fleet_size	8 / ..........
+
+#	null	founded	september 1995 / ..........
+
+#	null	iata	- / ..........
+
+#	null	founded	1984 / ..........
+
+#	null	iata	- / ..........
+
+#	null	airline	appalachian airlines / ..........
+
+#	null	founded	1977 / ..........
+
+#	null	airline	marsland aviation / ..........
+
+#	null	airline	sierra national airlines / ..........
+
+#	null	destinations	worldwide / ..........
+
+#	null	iata	- / ..........
+
+#	null	iata	- / ..........
+

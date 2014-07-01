@@ -1,0 +1,90 @@
+Found: 29
+Found Not Null: 20
+Correct: 13
+Wrong: 7
+Total: 21
+precision: 0.65
+recall: 0.6190476190476191
+
+
+
+0	FALSE	Michael Winner::name	michael winner / Feature films	
+<p> <strong> Feature films </strong> </p>
+
+1	TRUE	Margaret Dumont::name	margaret dumont / was an	
+<p> <strong> Margaret Dumont </strong> ( October 20 , 1882 &ndash ; March 6 , 1965 ) was an <a> American </a> comedic actress .
+
+2	TRUE	Susanna Verbruggen::name	susanna verbruggen / Susanna Verbruggen	
+<p> <strong> Susanna Verbruggen </strong> ( n&#x00e9 ; e <strong> Percival </strong> ) ( c .
+
+#	NEW	name	........ / The Matrix	// <p> <strong> Marcus Chong </strong> ( born <strong> Marcus Wyatt </strong> on July 8 , 1967 ) is an <a> American </a> <a> actor </a> best known for his role as <a> Tank </a> in the <a> science fiction </a> film <em> <a> The Matrix </a> </em> . </p>
+
+#	NEW	name	........ / an American	// <p> <strong> Florenz &quot ; Flo&quot ; Ziegfeld , Jr . </strong> ( March 21 , 1867 &ndash ; July 22 , 1932 ) was an American <a> Broadway </a> <a> impresario </a> .
+
+5	FALSE	Butterfly McQueen::name	butterfly mcqueen / an American	
+<p> <strong> Thelma &quot ; Butterfly&quot ; McQueen </strong> ( January 7 , 1911 &ndash ; December 22 , 1995 ) was an American actress .
+
+6	FALSE	Mark-Paul Gosselaar::name	mark-paul gosselaar / Paul Harry	
+<p> <strong> Mark-Paul Harry Gosselaar </strong> ( born March 1 , 1974 ) is an American <a> actor </a> .
+
+7	TRUE	William Bendix::name	william bendix / Ruth Story	
+<p> <strong> William Bendix </strong> ( January 14 , 1906 &#x2013 ; December 14 , 1964 ) was an American film , radio , and television <a> actor </a> , best remembered in movies for the title role in the movie <em> <a> The Babe Ruth Story </a> </em> and for portraying clumsily earnest aircraft plant worker Chester A . Riley in radio and television ' s <em> <a> The Life of Riley </a> </em> .
+
+8	TRUE	Susan Blakely::name	susan blakely / Susan Blakely	
+<p> <strong> Susan Blakely </strong> ( born September 7 , 1948 ) is an American film actress who has mainly played supporting roles . </p>
+
+9	TRUE	Charles Lane (actor)::name	charles lane / professional American	
+<p> <strong> Charles Gerstle Levison </strong> ( January 26 , 1905 &ndash ; July 9 , 2007 ) , better known as <strong> Charles Lane </strong> , was an <a> American </a> <a> character actor </a> seen in many movies and TV shows , and at the time of his death may have been the oldest living professional American actor .
+
+10	TRUE	Alfred Newman::name	alfred newman / music for	
+<p> <strong> Alfred Newman </strong> ( March 17 , 1900&ndash ; February 17 , 1970 ) was an <a> American </a> <a> composer </a> , arranger , and conductor of music for <a> film </a> s .
+
+11	TRUE	Larry Fine::name	larry fine / Three Stooges	
+<p> <strong> Louis Feinberg </strong> ( October 5 , 1902 &ndash ; January 24 , 1975 ) , known professionally as <strong> Larry Fine </strong> , was an <a> American </a> <a> comedian </a> and <a> actor </a> , who is best known as a member of the comedy act <a> The Three Stooges </a> . </p>
+
+12	FALSE	Jane Wyatt::name	jane wyatt / Star Trek	
+<p> <strong> Jane Waddington Wyatt </strong> ( August 12 , 1910 &ndash ; October 20 , 2006 ) was an American actress perhaps best known for her role as the housewife and mother on the television series <em> <a> Father Knows Best </a> </em> and as <a> Amanda Grayson </a> , the human mother of <a> Spock </a> on the <a> science fiction </a> <a> television </a> show , <em> <a> Star Trek </a> </em> .
+
+#	NEW	name	........ / Drag Me	// <p> <strong> David Paymer </strong> ( born August 30 , 1954 ) is an <a> American </a> <a> actor </a> and <a> television director </a> , seen in such films as <em> <a> Quiz Show </a> </em> , <em> <a> Searching for Bobby Fischer </a> </em> , <em> <a> City Slickers </a> </em> , <em> <a> Crazy People </a> </em> , <em> <a> State and Main </a> </em> , <em> <a> Payback </a> </em> , <em> <a> Get Shorty </a> </em> , <em> <a> Carpool </a> </em> , <em> <a> The American President </a> </em> , <em> <a> Ocean ' s Thirteen </a> </em> , and <em> <a> Drag Me to Hell </a> </em> .
+
+14	FALSE	Anne Hathaway (actress)::name	anne hathaway / Anne Jacqueline	
+<p> <strong> Anne Jacqueline Hathaway </strong> ( born November 12 , 1982 ) is an American actress .
+
+#	NEW	name	........ / New Class	// <p> <strong> Dustin Neil Diamond </strong> ( born January 7 , 1977 ) is an <a> American </a> <a> actor </a> , <a> musician </a> , and stand-up <a> comedian </a> best known for his role as <a> Samuel &quot ; Screech&quot ; Powers </a> in the television shows <em> <a> Saved by the Bell </a> </em> , <em> <a> Good Morning , Miss Bliss </a> </em> , <em> <a> Saved by the Bell : The College Years </a> </em> and <em> <a> Saved by the Bell : The New Class </a> </em> . </p>
+
+16	TRUE	Sigrid Thornton::name	sigrid thornton / Sigrid Thornton	
+<p> <strong> Sigrid Thornton </strong> ( born 12 February 1959 ) is an Australian <a> actress </a> . </p>
+
+#	NEW	name	........ / Thomas Crown	// <p> <strong> John Campbell McTiernan , Jr . </strong> ( born January 8 , 1951 ) is an American film director and producer , best known for his <a> action films </a> and most identifiable with the three films he directed back-to-back : <em> <a> Predator </a> </em> , <em> <a> Die Hard </a> </em> , and <em> <a> The Hunt for Red October </a> </em> , along with later movies such as <em> <a> Last Action Hero </a> </em> , <em> <a> Die Hard With A Vengeance </a> </em> , and <em> <a> The Thomas Crown Affair </a> </em> .
+
+#	NEW	name	........ / and commercials .	// She has gone on to star in many TV shows , movies , and commercials . </p>
+
+19	TRUE	Jacques Rivette::name	jacques rivette / Jacques Rivette	
+<p> <strong> Jacques Rivette </strong> ( ; born 1 March 1928 ) is a French <a> film director </a> . </p>
+
+#	NEW	name	........ / Stoyanka Konstantinova	// <p> <strong> Stoyanka Konstantinova Mutafova </strong> ( ) ( born 2 February 1922 in <a> Sofia </a> ) is a <a> Bulgaria </a> n actress .
+
+21	TRUE	Peter Graves::name	peter graves / Peter Graves	
+<p> <strong> Peter Aurness </strong> ( March 18 , 1926 &#x2013 ; March 14 , 2010 ) , known professionally as <strong> Peter Graves </strong> , was an <a> American </a> <a> film </a> and <a> television </a> <a> actor </a> .
+
+#	NEW	name	........ / <a> actor	// <p> <strong> Ernst Busch </strong> ( born January 22 , 1900 in <a> Kiel </a> , died June 8 , 1980 in <a> Berlin </a> ) was a <a> German </a> <a> singer </a> and <a> actor </a> . </p>
+
+23	TRUE	Ann Sothern::name	ann sothern / career spanning	
+<p> <strong> Ann Sothern </strong> ( January 22 , 1909 &ndash ; March 15 , 2001 ) was an American <a> film and television actress </a> with a career spanning six decades . </p>
+
+24	TRUE	Robert Preston (actor)::name	robert preston / film actor.	
+<p> <strong> Robert Preston </strong> ( June 8 , 1918 &ndash ; March 21 , 1987 ) was an <a> American </a> stage and film actor . </p>
+
+25	TRUE	Sherrill Milnes::name	sherrill milnes / most famous	
+<p> <strong> Sherrill Milnes </strong> ( born January 10 , 1935 ) is an <a> American </a> operatic <a> baritone </a> most famous for his <a> Verdi </a> roles .
+
+26	FALSE	Steve Harvey::name	steve harvey / radio personality	
+<p> <strong> Broderick Steven &quot ; Steve&quot ; Harvey </strong> ( born January 17 , 1957 ) is an <a> American </a> <a> actor </a> , <a> comedian </a> , <a> entertainer </a> , television &amp ; <a> radio personality </a> and best-selling <a> author </a> .
+
+27	FALSE	Walter Murch::name	walter murch / Tandy Murch	
+<p> <strong> Walter Scott Murch </strong> ( born July 12 , 1943 ) is a <a> film editor </a> and <a> sound designer </a> , the son of painter <a> Walter Tandy Murch </a> ( 1907-1967 ) . </p>
+
+#	NEW	name	........ / October 2008 )	// <p> <strong> Ken Ogata </strong> ( &#x7dd2 ; &#x5f62 ; &#x62f3 ; <em> Ogata Ken </em> , 20 July 1937-5 October 2008 ) was a Japanese <a> actor </a> .
+
+#	null	name	patrick swayze / ..........
+

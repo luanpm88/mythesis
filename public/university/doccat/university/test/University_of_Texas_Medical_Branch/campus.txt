@@ -1,3 +1,0 @@
-<h2>Hospitals and clinics</h2>
-<h2>Size and budget</h2>
-<li>Personnel: 11,323 (Fall 2007)</li>

@@ -1,0 +1,103 @@
+Found: 44
+Found Not Null: 5
+Correct: 2
+Wrong: 3
+Total: 5
+precision: 0.4
+recall: 0.4
+
+
+
+#	NEW	icao	........ / Australia	// <p> <strong> Brindabella Airlines Pty Ltd </strong> is a regional <a> airline </a> based in <a> Canberra </a> , <a> Australia </a> .
+
+#	NEW	icao	........ / Utah	// <p> <strong> <a> United Airlines </a> Flight 409 </strong> was a scheduled flight departing from <a> Denver , Colorado </a> to <a> Salt Lake City , Utah </a> on October 6 , 1955 .
+
+#	NEW	icao	........ / Russia	// <p> <strong> CJSC , Aviaprad </strong> ( ) was an <a> airline </a> based in <a> Yekaterinburg </a> , <a> Russia </a> .
+
+3	FALSE	Astar Air Cargo::icao	dhl / USA	
+<p> <strong> ASTAR Air Cargo </strong> is an <a> American </a> <a> cargo airline </a> based in <a> Miami </a> , <a> Florida </a> , <a> USA </a> .
+
+#	NEW	icao	........ / Hope	// <p> <strong> Ameriflight LLC </strong> is an <a> American </a> <a> cargo airline </a> with its headquarters in Hangar 1 on the grounds of <a> Bob Hope Airport </a> in <a> Burbank </a> , <a> California </a> , <a> USA </a> .
+
+#	NEW	icao	........ / International	// <p> <strong> <a> Crossair </a> Flight LX 3597 </strong> was an <a> Avro RJ100 </a> regional airliner , registration HB-IXM , on a scheduled flight from Berlin , Germany to <a> Zurich </a> , Switzerland that crashed during its approach to land at <a> Zurich International Airport </a> on November 24 , 2001 .
+
+#	NEW	icao	........ / Canada	// <p> <strong> Air Mikisew </strong> was an <a> airline </a> based in <a> Fort McMurray </a> , <a> Alberta </a> , <a> Canada </a> .
+
+#	NEW	icao	........ / China	// <p> <strong> <a> China Airlines </a> Flight 006 </strong> ( callsign &quot ; Dynasty 006&quot ; ) was a daily non-stop flight departing from <a> Taipei </a> at 4 : 15&nbsp ; pm and scheduled to arrive at <a> Los Angeles International Airport </a> at 7 : 00&nbsp ; am local time .
+
+#	NEW	icao	........ / China	// <p> <strong> Air China Cargo Co . , Ltd . </strong> is a <a> cargo airline </a> based in <a> Beijing </a> , <a> China </a> .
+
+9	TRUE	BETA Cargo::icao	bet / Cargo	
+<p> <strong> BETA Cargo </strong> ( Brazilian Express Transportes A&#x00e9 ; reos ) is a <a> cargo airline </a> based in <a> Brazil </a> .
+
+#	NEW	icao	........ / Business	// <p> <strong> Business Aviation Center </strong> ( or Business Aviation Centre ) is an <a> charter airline </a> based in <a> Kiev </a> , <a> Ukraine </a> .
+
+11	FALSE	BritishJET::icao	- / tour	
+<p> <strong> BritishJET </strong> was a trading name for the tour operator <em> Malta Bargains Limited </em> based in <a> Malta </a> .
+
+#	NEW	icao	........ / Bird	// <p> <strong> Blue Bird Aviation </strong> is a <a> general aviation </a> company based in <a> Khartoum </a> , <a> Sudan </a> .
+
+#	NEW	icao	........ / Bemidji	// <p> <strong> Bemidji Airlines </strong> ( Bemidji Aviation Services Inc ) is an <a> American </a> <a> airline </a> based in <a> Bemidji </a> , <a> Minnesota </a> <a> USA </a> .
+
+#	NEW	icao	........ / Mexico	// <p> <strong> Aviones de Renta de Quintana Roo , S . A . de C . V . </strong> ( <a> operating as </a> <strong> Avioquintana </strong> ) is an <a> air taxi </a> service based in <a> Quintana Roo </a> , in <a> Mexico </a> .
+
+15	FALSE	Aviavilsa::icao	lvr / Lithuania	
+<p> <strong> Aviavilsa </strong> is a <a> cargo airline </a> based in <a> Vilnius </a> , <a> Lithuania </a> .
+
+#	NEW	icao	........ / Aviast	// <p> <strong> Aviast Air Ltd . </strong> ( ) is a <a> cargo airline </a> based in <a> Moscow </a> , <a> Russia </a> .
+
+#	NEW	icao	........ / USA	// <p> <strong> Focus Air Cargo </strong> was a <a> cargo airline </a> based in <a> Fort Lauderdale </a> , <a> Florida </a> , <a> USA </a> .
+
+#	NEW	icao	........ / Russia	// <p> <a> JSC </a> <strong> Angara Airlines </strong> ( ) is an <a> airline </a> based in <a> Irkutsk </a> , <a> Russia </a> .
+
+#	NEW	icao	........ / Canada	// <p> <strong> Alberta Citylink </strong> is an <a> airline </a> based in <a> Medicine Hat </a> , <a> Alberta </a> , <a> Canada </a> .
+
+#	NEW	icao	........ / Alaska	// <p> <strong> FS Air Service </strong> is an <a> American </a> <a> airline </a> based in <a> Anchorage </a> , <a> Alaska </a> , <a> USA </a> .
+
+#	NEW	icao	........ / Australia	// <p> <strong> Aircruising Australia Limited </strong> ( ) is an <a> airline </a> based in <a> Sydney </a> , <a> Australia </a> .
+
+#	NEW	icao	........ / Jordan	// <p> <strong> Air Universal </strong> was a privately owned <a> airline </a> based in <a> Amman </a> , <a> Jordan </a> , which operated chartered passenger flights between 2002 and 2007 .
+
+#	NEW	icao	........ / Canada	// <p> <strong> Air Satellite </strong> was an <a> airline </a> based in <a> Baie-Comeau </a> , <a> Quebec </a> , <a> Canada </a> .
+
+#	NEW	icao	........ / New	// <p> <strong> Air Freight NZ </strong> is a <a> cargo airline </a> based in <a> Auckland </a> , <a> New Zealand </a> .
+
+#	NEW	icao	........ / Aires	// <p> <strong> American Falcon </strong> was an <a> Argentinian </a> <a> airline </a> based in <a> Buenos Aires </a> .
+
+#	NEW	icao	........ / International	// <p> <strong> Surinam Airways Flight PY764 </strong> was an international scheduled passenger flight from <a> Amsterdam Airport Schiphol </a> in the <a> Netherlands </a> to <a> Paramaribo-Zanderij International Airport </a> in <a> Suriname </a> on a <a> Surinam Airways </a> <a> DC-8 </a> .
+
+#	NEW	icao	........ / Spain	// <p> <strong> Quantum Air </strong> ( formerly known as <strong> Aerol&#x00ed ; neas de Baleares </strong> , operated as <strong> AeBal </strong> ) was an <a> airline </a> based in <a> Madrid </a> , <a> Spain </a> .
+
+#	NEW	icao	........ / Amazon	// <p> <strong> Rico Linhas A&#x00e9 ; reas / A </strong> is a regional Brazilian airline with its headquarters at <a> Eduardo Gomes International Airport </a> in <a> Manaus </a> , <a> Brazil </a> authorized to operate scheduled passenger and cargo services in the <a> Amazon </a> region .
+
+#	NEW	icao	........ / Fevereiro	// <p> <strong> Aeron&#x00e1 ; utica </strong> ( also known as <strong> Gira Globo Aeron&#x00e1 ; utica </strong> after its parent company ) is an <a> airline </a> based in <a> Luanda </a> , <a> Angola </a> , operating domestic chartered freight and passenger flights out of <a> Quatro de Fevereiro Airport </a> , Luanda . </p>
+
+#	NEW	icao	........ / City	// <p> <strong> <a> KLM </a> Flight 633 </strong> was a passenger flight from <a> Amsterdam </a> to <a> New York City </a> .
+
+#	NEW	icao	........ / USA	// <p> <strong> Capital Cargo International Airlines , Inc . </strong> is a <a> cargo airline </a> based in <a> Orlando </a> , <a> Florida </a> , <a> USA </a> .
+
+#	NEW	icao	........ / Melbourne	// <p> <strong> British Airways Flight 9 </strong> , sometimes referred to as the <strong> Speedbird 9 </strong> or <strong> Jakarta incident </strong> , was a scheduled <a> British Airways </a> flight from <a> London Heathrow </a> to <a> Auckland </a> , with stops in <a> Bombay </a> , <a> Madras </a> , <a> Kuala Lumpur </a> , <a> Perth </a> , and <a> Melbourne </a> .
+
+#	NEW	icao	........ / Hobart	// <p> <strong> Tasair </strong> is an <a> airline </a> based in <a> Hobart </a> and <a> Devonport </a> , <a> Australia </a> .
+
+#	NEW	icao	........ / Romania	// <p> <strong> Romavia </strong> ( Romanian Aviation Company ) was an <a> airline </a> based in <a> Bucharest </a> , <a> Romania </a> .
+
+#	NEW	icao	........ / TAM	// <p> <strong> TAM Airlines </strong> , also known as <strong> Transportes A&#x00e9 ; reos del Mercosur S . A . </strong> , formerly known as TAM Mercosur and LAP ( L&#x00ed ; neas A&#x00e9 ; reas Paraguayas ) , is an <a> airline </a> with its headquarters in <a> Asunci&#x00f3 ; n , Paraguay </a> .
+
+#	NEW	icao	........ / International	// <p> <strong> Centurion Air Cargo </strong> is a <a> cargo airline </a> with its headquarters in Building 706 on the grounds of <a> Miami International Airport </a> in <a> unincorporated </a> <a> Miami-Dade County </a> , <a> Florida </a> , <a> USA </a> .
+
+#	NEW	icao	........ / Russia	// <p> <strong> AiRUnion </strong> was a <a> Russia </a> n airline alliance .
+
+#	NEW	icao	........ / Libreville	// <p> <strong> Air Excellence </strong> was an <a> airline </a> based in <a> Libreville </a> , <a> Gabon </a> .
+
+#	NEW	icao	........ / Haiti	// <p> <strong> Air D ' Ayiti </strong> was a short-lived <a> airline </a> from <a> Haiti </a> , which was operational between 1997 and 1999 .
+
+40	TRUE	Aero Cuahonte::icao	cua / International	
+<p> <strong> Aero Cuahonte </strong> was a commuter <a> airline </a> based in <a> Uruapan </a> , <a> Mexico </a> , operating scheduled and chartered passenger flights out of <a> Don Miguel Hidalgo y Costilla International Airport </a> in <a> Guadalajara </a> .
+
+#	NEW	icao	........ / Sul	// <p> The airline traces its origins to an air taxi company <strong> T </strong> axi <strong> A </strong> &#x00e9 ; reo <strong> Va </strong> le do <strong> J </strong> uru&#x00e1 ; , established in <a> Cruzeiro do Sul </a> in September 1972 .
+
+#	NEW	icao	........ / Linhas	// <p> <strong> TRIP Linhas A&#x00e9 ; reas / A </strong> ( Transporte A&#x00e9 ; reo Regional do Interior Paulista ) is a domestic regional <a> airline </a> based in <a> Campinas </a> , <a> S&#x00e3 ; o Paulo </a> , <a> Brazil </a> . </p>
+
+#	NEW	icao	........ / International	// <p> <strong> Continental Airlines Flight 1713 </strong> crashed while taking off in a snowstorm from <a> Stapleton International Airport </a> in <a> Denver , Colorado </a> on .
+

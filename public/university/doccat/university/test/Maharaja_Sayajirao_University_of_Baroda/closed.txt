@@ -1,3 +1,0 @@
-<h2>Faculty of Medicine</h2>
-<h2>Faculty of Commerce</h2>
-<h2>Faculty of Science</h2>

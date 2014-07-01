@@ -1,2 +1,0 @@
-<li><a>Joel Otto</a>, <a>NHL</a> center</li>
-<li><a>Andrew Murray</a>, <a>NHL</a> center</li>

@@ -1,7 +1,0 @@
-<p><strong>Atmospheric Sciences/Meteorology</strong></p>
-<li>Environmental Sciences</li>
-<p><strong>Digital and Graphic Arts</strong></p>
-<p><strong>Fine and Performing Arts</strong></p>
-<p><strong>Natural Sciences</strong></p>
-<p><strong>Social Sciences</strong></p>
-<li>Masters of Liberal Arts</li>

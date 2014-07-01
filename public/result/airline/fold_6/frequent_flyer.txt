@@ -1,0 +1,48 @@
+Found: 20
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	frequent_flyer	........ / Airbus A320	// It initially operated charter flights from D&#x00fc ; sseldorf using a wet-leased <a> Airbus A320 </a> .
+
+#	NEW	frequent_flyer	........ / its shares .	// As of September 2006 , ANA bears 86 . 7% of the shares of Air Central ; and Nagoya Railroad bears 13 . 3% of its shares . </p>
+
+#	NEW	frequent_flyer	........ / It	// <p> It is also important to assess the method by which the airline was shut down .
+
+#	NEW	frequent_flyer	........ / East- West	// Because of its operating structure , East-West was able to significantly undercut other airlines .
+
+#	NEW	frequent_flyer	........ / airline announced	// <p> On October 18 , 2006 the airline announced that due to financial diffuculties they would cease operations .
+
+#	NEW	frequent_flyer	........ / right |	// <p> [ [ Image : Maldivian air taxi . jpg | thumb | right | Flight
+
+#	NEW	frequent_flyer	........ / remaining A321	// Also the remaining A321 is due to be returned to the lessor .
+
+#	NEW	frequent_flyer	........ / all Kato	// <p> Late August <a> 2008 </a> the <a> Norwegian Civil Aviation Authority </a> discontinued the company ' s maintenance authorization issued to Kato Air Service , and all Kato Airs four planes were grounded .
+
+#	NEW	frequent_flyer	........ / this incident	// The ASN entry for this incident refers back to this Wikipedia article as a source .
+
+#	NEW	frequent_flyer	........ / cheaper than	// The airline ' s airfares were to be 30-40% cheaper than other carriers . </p>
+
+#	NEW	frequent_flyer	........ / is 100%	// <p> The airline was established in 1999 and is 100% owned by Gruppo Condor . </p>
+
+#	NEW	frequent_flyer	........ / USA Jet	// <p> USA Jet Airlines is a division of <a> Active Aero Group </a> .
+
+#	NEW	frequent_flyer	........ / ref name=&	// <p> The Avies fleet includes the following aircraft ( at August 2007 ) ref name=&quot ; FI&quot ; / : </p>
+
+#	NEW	frequent_flyer	........ / Cirrus Group .	// name=&quot ; FI&quot ; / Augsburg Airways was purchased by <a> Cirrus Airlines </a> and forms part of the Cirrus Group . </p>
+
+#	NEW	frequent_flyer	........ / left |	// <p> [ [ Image : Continental Airways T154 RA-85847 . jpg | thumb | left | Continental
+
+#	NEW	frequent_flyer	........ / following services :	// <p> Gazpromavia also provides the following services : </p>
+
+#	NEW	frequent_flyer	........ / main base	// Its main base is <a> Domodedovo International Airport </a> , Moscow . </p>
+
+#	NEW	frequent_flyer	........ / airline	// The airline is owned by Bykovo Aircraft Repair Plant ( 29 . 4% ) ,
+
+#	NEW	frequent_flyer	........ / great guest	// Their marketing theme &quot ; offering low ' everyday spicy fares ' and great guest services to price conscious travelers .
+
+#	NEW	frequent_flyer	........ / IATA code &	// Germania Express has adopted the IATA code &quot ; ST&quot ; which was previously used by Yanda Airlines . </p>
+

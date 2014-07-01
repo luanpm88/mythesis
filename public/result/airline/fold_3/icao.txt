@@ -1,0 +1,101 @@
+Found: 43
+Found Not Null: 5
+Correct: 1
+Wrong: 4
+Total: 5
+precision: 0.2
+recall: 0.2
+
+
+
+#	NEW	icao	........ / Colombia	// <p> On the night of June 6 , 1992 , the aircraft , a <a> Boeing 737-204 Advanced </a> registered as HP-1205 , took off from <a> Tocumen International Airport </a> in <a> Panama City </a> for a flight to <a> Cali </a> , <a> Colombia </a> with 40 passengers and 7 crew .
+
+#	NEW	icao	........ / began	// In 1996 the airline began using 757-200s to fly flights between Bahrain and Europe .
+
+#	NEW	icao	........ / International	// <strong> Chengdu Airlines <a> Co . , Ltd . </a> </strong> ( ) is a privately owned airline based in <a> Chengdu </a> , <a> Sichuan </a> , <a> People ' s Republic of China </a> , operating domestic passenger services out of <a> Chengdu Shuangliu International Airport </a> . </p>
+
+#	NEW	icao	........ / serving	// It is a regional domestic airline serving 16 destinations under the <a> QantasLink </a> banner .
+
+#	NEW	icao	........ / May	// <p> Tatarstan Airlines operates flights to the following ( as of May 2007 ) : </p>
+
+#	NEW	icao	........ / started	// <p> The airline started operations in 2002 .
+
+#	NEW	icao	........ / airline	// <p> The airline was established and started operations in 1996 .
+
+#	NEW	icao	........ / flights	// Scheduled flights were first operated in 2001 .
+
+#	NEW	icao	........ / Jet	// <p> <strong> Jet Air Sp . z o . o . </strong> is a <a> Polish </a> air operator that provides leasing services as well as a branded operation on domestic and intra-European flights .
+
+#	NEW	icao	........ / International	// Under the <strong> International Air Services </strong> brand WestWind provides airport terminal services to charter and international airlines at the Saskatoon , Regina and Winnipeg airports .
+
+#	NEW	icao	........ / International	// <p> <strong> IBC Airways </strong> is an <a> American </a> <a> cargo airline </a> with its headquarters in Building 101 on the grounds of <a> Miami International Airport </a> in <a> unincorporated </a> <a> Miami-Dade County </a> , <a> Florida </a> , <a> USA </a> .
+
+#	NEW	icao	........ / LAN	// <p> Ladeco began operations in 1958 flying mostly internal routes between Chile ' s major cities and some international routes , and continued to run services until 1994 when <a> LanChile </a> ( currently called <a> LAN Airlines </a> ) bought over 99% of the shares and merged Ladeco into its fleet .
+
+#	NEW	icao	........ / JetBlue	// <p> <strong> <a> JetBlue Airways </a> Flight 292 </strong> was a scheduled flight from <a> Bob Hope Airport </a> ( BUR ) in <a> Burbank </a> , <a> California </a> to <a> John F . Kennedy International Airport </a> ( JFK ) in <a> New York City </a> .
+
+#	NEW	icao	........ / New	// <p> <strong> USAir Flight 5050 </strong> was an &quot ; extra section&quot ; passenger flight to replace the regularly scheduled but cancelled flight 1846 , from <a> New York </a> ' s <a> La Guardia Airport </a> to <a> Charlotte International Airport </a> in <a> Charlotte </a> , <a> North Carolina </a> on September 20 , 1989 .
+
+#	NEW	icao	........ / airline	// <p> The airline was established in 1948 and started operations on 24 December 1948 .
+
+#	NEW	icao	........ / following	// <p> The Girjet fleet consisted of the following aircraft ( at December 2007 ) : </p>
+
+#	NEW	icao	........ / while	// For this reason , Air Inter ' s flights were categorised as domestic while Swissair ' s were international .
+
+#	NEW	icao	........ / financial	// / br / br / smallPhoto : <em> Inter Island Airways Dornier 228 at Tau Airport , Manu ' a Islands of American Samoa in November 2003 </em> / smallbr / br / In November 2003 , Inter Island Airways restarted flight operations ( <em> initially with Las Vegas , Nevada based </em> <a> Vision Airlines </a> ) when <a> Samoa Air </a> suspended airline operations in September of the same year due to financial difficulties .
+
+#	NEW	icao	........ / California	// The transcontinental flight , carrying three crew and four passengers , had originated in <a> Newark , New Jersey </a> , with its final destination in <a> Oakland , California </a> .
+
+#	NEW	icao	........ / Belgian	// <p> In the <strong> Sabena OO-AUB Ostend crash </strong> , a <a> Junkers Ju 52 </a> aircraft owned and operated by <a> Belgian </a> air operator <a> Sabena </a> crashed near <a> Ostend </a> , Belgium on November 16 , 1937 .
+
+#	NEW	icao	........ / regional	// Founded in 1991 , it operated regional and international charter flights out of <a> Riga International Airport </a> between 1995 and 2005 . </p>
+
+#	NEW	icao	........ / Nigeria	// It operates Dornier aircraft in Nigeria on a charter basis , as well as running a fixed-base and maintenance operation .
+
+#	NEW	icao	........ / International	// <p> <strong> East African Airlines </strong> was an <a> airline </a> based in <a> Kampala </a> , <a> Uganda </a> , operating out of <a> Entebbe International Airport </a> . </p>
+
+#	NEW	icao	........ / acquired	// <p> When <a> Horizon Air </a> began operating in 1983 , Cascade was competing against an unstoppable airline that eventually acquired <a> Air Oregon </a> and <a> Transwestern Airlines </a> .
+
+#	NEW	icao	........ / operates	// It operates charter flights both domestically and to destinations throughout <a> Africa </a> .
+
+#	NEW	icao	........ / are	// The helicopters are flown using the Air Operators Certificate of Oxford Air Services Limited . </p>
+
+26	FALSE	Gensa::icao	gen / TAM	
+It was founded in 1996 , and since 2005 it operates flights in code share with <a> Varig </a> and <a> TAM Linhas A&#x00e9 ; reas </a> . </p>
+
+27	TRUE	Slovenian Spirit::icao	sty / Paris	
+<p> Slovenian Spirit operated flights on the Styrian Spirit network connecting <a> Maribor Airport </a> in <a> Slovenia </a> with <a> Salzburg </a> in <a> Austria </a> , and <a> Paris </a> .
+
+#	NEW	icao	........ / Europe	// It operates domestic cargo charters in Mexico and the <a> USA </a> and has over 25 interline agreements providing connecting services to the rest of the Americas , <a> Europe </a> and <a> Asia </a> .
+
+#	NEW	icao	........ / following	// <p> Fairline operated the following services : </p>
+
+#	NEW	icao	........ / Alaska .	// In 1999 Yute Air filed for <a> bankruptcy </a> and the company and <a> operating certificate </a> were acquired by the Flight International Group in April 2000 and renamed Flight Alaska . </p>
+
+#	NEW	icao	........ / scheduled	// It was established and started operations in 1985 and operates scheduled and on-demand air cargo services .
+
+#	NEW	icao	........ / airline	// <p> The airline was established and started operations in 2003 . </p>
+
+#	NEW	icao	........ / Hainan	// The airline took over the entire cargo operations of <a> Hainan Airlines </a> , <a> China Xinhua Airlines </a> , <a> Chang ' an Airlines </a> and <a> Shanxi Airlines </a> , all members of the Hainan Air Group . </p>
+
+#	NEW	icao	........ / operations	// <p> <strong> Voyageur Airways </strong> is an airline based in <a> North Bay </a> , <a> Ontario </a> , <a> Canada </a> that commenced operations in 1968 .
+
+#	NEW	icao	........ / Knighthawk	// <p> When operations ceased , the Knighthawk Air Express fleet consisted of the following aircraft : </p>
+
+36	FALSE	Guinea Ecuatorial Airlines::icao	gea / domestic	
+It was established and started operations in 1996 and operates domestic charter services .
+
+#	NEW	icao	........ / scheduled	// It was a private airline operating international scheduled and charter passenger services from 1995 until its collapse on 23 November 2009 .
+
+38	FALSE	Inversija::icao	inv / third	
+It started operations in March 1991 and undertakes all types of cargo operations , as well as maintenance work for third parties .
+
+#	NEW	icao	........ / Flight	// <p> <strong> Cebu Pacific Flight 387 ( 5J387 ) </strong> was a domestic <a> Cebu Pacific Air </a> flight from <a> Manila </a> ' s <a> Ninoy Aquino International Airport </a> to <a> Lumbia Airport </a> in <a> Cagayan de Oro City </a> on <a> Mindanao </a> Island .
+
+#	NEW	icao	........ / International	// <p> At 9 : 43 , flight 254 left <a> Guarulhos International Airport </a> , S&#x00e3 ; o Paulo , heading towards Bel&#x00e9 ; m .
+
+41	FALSE	MASkargo::icao	mas / are	
+<a> Kuala Lumpur </a> ' s location on the main flight routes of <a> Asia </a> is a fact worth mentioning as are the low operation costs .
+
+#	NEW	icao	........ / scheduled	// It operates scheduled and charter passenger flights .
+

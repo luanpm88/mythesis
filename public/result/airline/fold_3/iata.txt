@@ -1,0 +1,49 @@
+Found: 13
+Found Not Null: 1
+Correct: 1
+Wrong: 0
+Total: 7
+precision: 1.0
+recall: 0.14285714285714285
+
+
+
+#	NEW	iata	........ / at	// Its main base is <a> Sydney Airport </a> , with a hub at <a> Melbourne Airport </a> . </p>
+
+#	NEW	iata	........ / at	// <p> <strong> Hi Fly </strong> is an <a> airline </a> based at <a> Portela Airport </a> in <a> Lisbon </a> , <a> Portugal </a> , which has specialised in the worldwide <a> aircraft lease </a> on medium to long term contracts for airlines , tour operators , governments , companies and individuals . </p>
+
+#	NEW	iata	........ / at	// <p> Starting from October 2010 , Jet Air operated flights on behalf of <a> Ostfriesische Lufttransport </a> ( OLT ) from their hub at <a> Bremen Airport </a> to both <a> Nuremberg Airport </a> and <a> Brussels Airport </a> . : </p>
+
+#	NEW	iata	........ / La	// <p> <strong> USAir Flight 5050 </strong> was an &quot ; extra section&quot ; passenger flight to replace the regularly scheduled but cancelled flight 1846 , from <a> New York </a> ' s <a> La Guardia Airport </a> to <a> Charlotte International Airport </a> in <a> Charlotte </a> , <a> North Carolina </a> on September 20 , 1989 .
+
+4	TRUE	Air Inter::iata	it / at	
+<p> The difference between the competing Air Inter and Swissair services on this route was that the former ' s passengers had to use the terminal at Basl / Mulhouse airport through the domestic channel that connected the airport to the French city of Mulhouse , whereas the latter ' s used the international channel that linked the airport with the Swiss city of Basle .
+
+#	NEW	iata	........ / at	// Its main base of operations is at <a> Pago Pago International Airport </a> .
+
+#	NEW	iata	........ / by	// <p> On October 10 , 1933 , a <a> Boeing 247 </a> <a> propliner </a> operated by <a> United Air Lines </a> and <a> registered </a> as NC13304 , crashed near <a> Chesterton , Indiana </a> .
+
+#	NEW	iata	........ / an	// <p> <strong> East African Airlines </strong> was an <a> airline </a> based in <a> Kampala </a> , <a> Uganda </a> , operating out of <a> Entebbe International Airport </a> . </p>
+
+#	NEW	iata	........ / an	// <p> When <a> Horizon Air </a> began operating in 1983 , Cascade was competing against an unstoppable airline that eventually acquired <a> Air Oregon </a> and <a> Transwestern Airlines </a> .
+
+#	NEW	iata	........ / OR	// Its main base is <a> OR Tambo International Airport </a> , Johannesburg . </p>
+
+#	NEW	iata	........ / an	// <p> <strong> GENSA </strong> ( General Servi&#x00e7 ; os A&#x00e9 ; reos ) is an <a> airline </a> is based in <a> Campo Grande </a> , <a> Brazil </a> .
+
+#	NEW	iata	........ / At	// <p> At 9 : 43 , flight 254 left <a> Guarulhos International Airport </a> , S&#x00e3 ; o Paulo , heading towards Bel&#x00e9 ; m .
+
+#	NEW	iata	........ / Opened	// <p> Opened in 1998 , the same year <a> KLIA </a> ( <a> Kuala Lumpur International Airport </a> ) began operations , the MASkargo Animal Hotel started as a centre catering to inbound animal shipments for staging and delivery .
+
+#	null	iata	- / ..........
+
+#	null	iata	- / ..........
+
+#	null	iata	es / ..........
+
+#	null	iata	- / ..........
+
+#	null	iata	- / ..........
+
+#	null	iata	ik / ..........
+

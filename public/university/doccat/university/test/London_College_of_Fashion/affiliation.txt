@@ -1,8 +1,0 @@
-<li><a>Jimmy Choo</a>, shoe designer</li>
-<li><a>Tom Ford</a>, fashion designer</li>
-<li><a>Roland Mouret</a>, fashion designer</li>
-<li><a>Donatella Versace</a>, fashion designer</li>
-<li><a>College Website</a></li>
-<li><a>College Short Course Website</a></li>
-<li><a>College Study Abroad Website</a></li>
-<li><a>College Archive</a></li>

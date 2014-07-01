@@ -1,5 +1,0 @@
-<li>Bachelor of Industrial Chemical Process Technology</li>
-<li>Veterinary Technology</li>
-<li>TV and Radio Communications Technology</li>
-<li>Chemical Engineering Technology</li>
-<li>Industrial Chemical Process Technology</li>

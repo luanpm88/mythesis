@@ -1,4 +1,0 @@
-<li>Graduate School of Economics</li>
-<li>Graduate School of Engineering</li>
-<li>Graduate School of Medicine</li>
-<li>Graduate School of Creative Cities</li>

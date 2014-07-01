@@ -1,3 +1,0 @@
-<li>Department of Human Resource</li>
-<li>Finance Department</li>
-<li>Security and Safeguard Department</li>

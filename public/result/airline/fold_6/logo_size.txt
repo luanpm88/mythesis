@@ -1,0 +1,99 @@
+Found: 43
+Found Not Null: 3
+Correct: 2
+Wrong: 1
+Total: 3
+precision: 0.6666666666666666
+recall: 0.6666666666666666
+
+
+
+0	TRUE	Blue Wings::logo_size	200 / 2009 ) :	
+( 2007 ) ] ] The Blue Wings fleet consists of the following aircraft ( at 25 November 2009 ) : </p>
+
+#	NEW	logo_size	........ / 2007	// <p> As of March 2007 the Air Central fleet included : </p>
+
+#	NEW	logo_size	........ / 1947 .	// <p> <strong> East-West Airlines </strong> was an <a> Australia </a> n <a> regional airline </a> founded in <a> Tamworth , New South Wales </a> in 1947 .
+
+#	NEW	logo_size	........ / </	// It is sometimes referred to as <strong> Manchukuo Air Transport Company </strong> . </p>
+
+#	NEW	logo_size	........ / 2010 ) :	// <p> The Air Contractors fleet consists of the following aircraft ( at 7 September 2010 ) : </p>
+
+#	NEW	logo_size	........ / 2006	// <p> On October 18 , 2006 the airline announced that due to financial diffuculties they would cease operations .
+
+#	NEW	logo_size	........ / 2006 :	// It operated flights to the following cities as of October 2006 : </p>
+
+#	NEW	logo_size	........ / 2010 ) .	// <p> The Maldivian Air Taxi fleet includes the following aircraft ( at December 2010 ) . </p>
+
+#	NEW	logo_size	........ / 2003	// <p> The airline was established on 13 January 2003 and started operations in May 2003 .
+
+#	NEW	logo_size	........ / ,	// The airline , using the brand name <strong> Kato Air </strong> operated scheduled passenger and cargo services , as well as daily freight services for the National Mail company , northern Norway .
+
+#	NEW	logo_size	........ / of	// Initially EuroLOT operated as an air carrier with its own network of connections .
+
+#	NEW	logo_size	........ / 757-	// EuroAtlantic [ [ Boeing 757 | Boeing 757-200 ] ] taking off from <a> Bristol International Airport </a> , <a> England </a> .
+
+#	NEW	logo_size	........ / of	// The flight was routine until just before the <a> Mississippi River </a> , when it deviated from its filed flight plan to the north to avoid a line of thunderstorms .
+
+#	NEW	logo_size	........ / 2008 ) :	// <p> The KrasAir fleet consisted of the following aircraft ( as at May 2008 ) : </p>
+
+#	NEW	logo_size	........ / 2008 ) :	// <p> The Anikay Air fleet includes the following aircraft ( at March 2008 ) : </p>
+
+#	NEW	logo_size	........ / a> .	// <p> <strong> Elbe Air </strong> ( Elbe Air Lufttransport GmbH ) was an <a> airline </a> based in <a> Germany </a> . </p>
+
+#	NEW	logo_size	........ / 2004	// The airline was founded in 2002 and ceased its operations in 2004 when it was merged into <a> SN Brussels Airlines </a> . </p>
+
+#	NEW	logo_size	........ / 2009 ) :	// Isle&#x00f1 ; a Airlines operates the following services ( at January 2009 ) : </p>
+
+#	NEW	logo_size	........ / 2008 ) :	// <p> The Windrose Air fleet comprises ( as of January 2008 ) : </p>
+
+#	NEW	logo_size	........ / 2010	// <p> As May , 2010 the USA Jet Airlines fleet includes : </p>
+
+#	NEW	logo_size	........ / 1991	// It was established and started operations in 1991 and operates scheduled passenger transport , charter and air taxi services .
+
+#	NEW	logo_size	........ / <a>	// <p> <strong> Copenhagen Air Taxi </strong> is an <a> airline </a> based in <a> Roskilde </a> , <a> Denmark </a> .
+
+#	NEW	logo_size	........ / </	// It offers on-demand service of flights aboard <a> business jet </a> s . </p>
+
+#	NEW	logo_size	........ / and	// It provides passenger service , air taxi , and freight transport .
+
+#	NEW	logo_size	........ / 5-	// <p> The Stuttgarter Flugdienst fleet consists of the following aircraft types , which provide space for 5-13 passengers : </p>
+
+#	NEW	logo_size	........ / a>	// It operates business and executive flights , cargo and <a> air ambulance </a> services . </p>
+
+#	NEW	logo_size	........ / 2006	// <p> The Trans Island Air 2000 fleet includes the following aircraft ( at August <a> 2006 </a> ) : </p>
+
+#	NEW	logo_size	........ / aircraft	// <p> The organisation is an internationally accredited enterprise that primarily offers a range of aviation services namely flight operations charters with its own fleet , aircraft maintenance services and business charter brokerage . </p>
+
+#	NEW	logo_size	........ / a> .	// <p> <strong> Metropolis </strong> ( Metropolis Noord 1 BV ) is an <a> airline </a> based in the <a> Netherlands </a> . </p>
+
+#	NEW	logo_size	........ / 2008 .	// The SkyKing fleet and crew was merged into Air Turks and Caicos on 22 October 2008 . brbr </p>
+
+30	TRUE	Air Corsica::logo_size	200 / 2010.	
+In November 2000 it changed its name from Compagnie Corse Mediterranee to CCM Airlines , then to Air Corsica in October 2010 .
+
+#	NEW	logo_size	........ / 9 .	// As of December 2010 , the Augsburg Airways fleet consists of the following aircraft with an average age of 9 . 2 years : center / center </p>
+
+#	NEW	logo_size	........ / 2008	// <p> It had suspended operations at the end of September 2008 due to the <a> Air Union </a> collapse . </p>
+
+#	NEW	logo_size	........ / <a>	// <p> In December 2006 , the airline was acquired from its founders by Australian Aviation Holdings , which also owns <a> Queensland Regional Airlines </a> and <a> Inland Pacific Air </a> .
+
+#	NEW	logo_size	........ / 154	// It was established in 1995 and operated out of <a> Sheremetyevo International Airport </a> , Moscow , using a fleet of three <a> Tupolev Tu-154 </a> aircraft .
+
+#	NEW	logo_size	........ / 16	// <p> The airline was established in March 1995 and started operations on 16 April 1995 .
+
+#	NEW	logo_size	........ / 2005 ) :	// <p> Airstars Airways operates freight services to the following international scheduled destinations ( at January 2005 ) : <a> Shijiazhuang </a> and <a> Tianjin </a> . </p>
+
+#	NEW	logo_size	........ / 2007	// <p> As of March 2007 the Centre-Avia Airlines fleet included : ref name=&quot ; FI&quot ; / </p>
+
+#	NEW	logo_size	........ / 2007	// <p> As of March 2007 the Karat Air fleet includesref name=&quot ; FI&quot ; / : </p>
+
+#	NEW	logo_size	........ / <a>	// <p> <strong> UTair Express </strong> is an <a> airline </a> based in <a> Russia </a> .
+
+40	FALSE	SpiceJet::logo_size	200 / </	
+center / center br Each aircraft in the SpiceJet fleet is named after a spice : </p>
+
+#	NEW	logo_size	........ / 737	// <p> Some of the staff and assets were taken over and <a> L&#x00ed ; neas A&#x00e9 ; reas Azteca </a> was established on 9 May 2000 and started operations on 1 June 2001 operating domestic services with <a> Boeing 737 </a> aircraft . </p>
+
+#	NEW	logo_size	........ / 5	// ( 2007 ) ] ] The airline was founded in April 1978 as <strong> Special Air Transport </strong> ( <strong> SAT </strong> ) in <a> Cologne </a> and started operations on 5 Sep 1978 .
+

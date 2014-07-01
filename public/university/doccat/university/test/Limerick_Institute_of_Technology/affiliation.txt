@@ -1,3 +1,0 @@
-<li><a>LIT Millennium Theatre</a></li>
-<li><a>Shannon ABC</a></li>
-<li><a>Innovation Vouchers</a></li>

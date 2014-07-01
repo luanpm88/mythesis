@@ -1,0 +1,40 @@
+Found: 16
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	birthplace	........ / Victoria ' s Secret	// She was one of <a> Victoria ' s Secret </a> main models in the 1980s and early 1990s .
+
+#	NEW	birthplace	........ / Florenz Ziegfeld Jr .	// Esther died on January 29 , 1917 , two days before he signed a long-term contract with <a> Florenz Ziegfeld Jr . </a> to appear in his <em> Follies </em> . </p>
+
+#	NEW	birthplace	........ / personal and professional	// During her marriage , she used the name <strong> Rebecca Romijn-Stamos </strong> in both her personal and professional life .
+
+#	NEW	birthplace	........ / meet the young	// After the play had finished Hoffman asked to meet the young actress .
+
+#	NEW	birthplace	........ / a Swedish actress .	// <p> <strong> Rebecka M&#x00e5 ; nstr&#x00e5 ; le Liljeberg </strong> ( born May 13 , 1981 ) is a Swedish actress . </p>
+
+#	NEW	birthplace	........ / sister , Debbie	// <p> <strong> Marcia Lynne &quot ; Marcheline&quot ; Bertrand </strong> , and a sister , Debbie Bertrand .
+
+#	NEW	birthplace	........ / stage and film	// <p> <strong> Samuel Alexander &quot ; Sam&quot ; Mendes </strong> , <a> CBE </a> ( born 1 August 1965 ) is an English stage and film director .
+
+#	NEW	birthplace	........ / The January Man ,	// <p> Mastrantonio has been married to director <a> Pat O ' Connor </a> , who helmed <em> The January Man </em> , since 1990 .
+
+#	NEW	birthplace	........ / s first season .	// Her health problems were the reason her father took so much time off <em> The Muppet Show <strong> s first season . </strong> </em> </p>
+
+#	NEW	birthplace	........ / they divorced in	// He married actress Barbara Woodell ; they divorced in 1932 . </p>
+
+#	NEW	birthplace	........ / Zeta Beta Tau	// Louis , Missouri </a> , where he was a member of the Alpha Xi chapter of <a> Zeta Beta Tau </a> fraternity .
+
+#	NEW	birthplace	........ / is an American	// <p> <strong> Carlos Irwin Estevez </strong> ( born September 3 , 1965 ) , known professionally as <strong> Charlie Sheen </strong> , is an American actor .
+
+#	NEW	birthplace	........ / is a British	// <p> <strong> Alexander Medawar &quot ; Alex&quot ; Garland </strong> ( born 1970 ) is a British <a> novelist </a> and screenwriter . </p>
+
+#	NEW	birthplace	........ / to destroy it .	// Tsukamoto has stated he has a love-hate relationship with Tokyo , and in the end the characters of this film set out to destroy it . </em> </strong>
+
+#	NEW	birthplace	........ / brother , Matt	// <p> <strong> Jake Thomas </strong> ( born January 30 , 1990 ) is an American actor and singer known for his roles in the television show <em> <a> Lizzie McGuire </a> </em> , in which he plays Lizzie ' s younger brother , Matt McGuire .
+
+#	NEW	birthplace	........ / Foundation and United	// She has been awarded : &quot ; Ambassador of Peace&quot ; from the Washington Times Foundation and United Nations .
+

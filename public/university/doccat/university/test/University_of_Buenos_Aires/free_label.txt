@@ -1,5 +1,0 @@
-<li><a>Facultad de Derecho</a> (<a>law</a>)</li>
-<li><a>Facultad de Medicina</a> (<a>medicine</a>)</li>
-<li><a>Facultad de Ciencias Sociales</a> (<a>social sciences</a>)</li>
-<li><a>Facultad de Veterinaria</a> (<a>veterinary medicine</a>)</li>
-<li><a>Facultad de Ciencias Econ&#x00f3;micas</a> (<a>economics</a>)</li>

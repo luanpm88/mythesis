@@ -1,5 +1,0 @@
-<li>Department of Information Technology</li>
-<li>Department of Nursing Science</li>
-<li>Department of Education</li>
-<li>Department of Teacher Education Turku</li>
-<li>Department of Teacher Education Rauma</li>

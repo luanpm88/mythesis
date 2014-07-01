@@ -1,0 +1,449 @@
+Total articles: 312
+Articles for test: 281
+Articles for train: 31
+Total attributes: 64
+Attributes with high occurrences: 13/64
+
+------------
+Found: 188
+Found Not Null: 46
+Correct: 30
+Wrong: 16
+Total: 51
+precision: 0.6521739130434783
+recall: 0.5882352941176471
+
+
+
+#	NEW	caption	........ / Feature	// <p> <strong> Feature films </strong> </p>
+
+1	TRUE	Michael Winner::birth_name	michael robert winner / Michael Robert Winner	
+<p> <strong> Michael Robert Winner </strong> ( born 30 October 1935 ) is a British <a> film director </a> and <a> producer </a> , active in both <a> Europe </a> and the <a> United States </a> , also known as a <a> food </a> critic for the <em> <a> Sunday Times </a> </em> .
+
+#	NEW	birth_date	........ / Winner '	// <p> Winner ' s sex comedy <em> The System </em> ( 1964 ) began a partnership with actor <a> Oliver Reed </a> that would last for six films over a 25-year period .
+
+3	FALSE	Michael Winner::name	michael winner / Feature films	
+<p> <strong> Feature films </strong> </p>
+
+#	NEW	birthname	........ / that would last for six films over a	// <p> Winner ' s sex comedy <em> The System </em> ( 1964 ) began a partnership with actor <a> Oliver Reed </a> that would last for six films over a 25-year period .
+
+#	NEW	death_place	........ / New York City	// Winner made a final splash , however , with <em> <a> Death Wish 3 </a> </em> in 1985 , which was set in <a> New York City </a> but filmed mostly in <a> London </a> for budgetary reasons . </p>
+
+6	FALSE	Margaret Dumont::birth_name	daisy juliette baker / ndash ; March 6	
+<p> <strong> Margaret Dumont </strong> ( October 20 , 1882 &ndash ; March 6 , 1965 ) was an <a> American </a> comedic actress .
+
+#	NEW	birth_date	........ / 20 , 1882 & 6 ,	// <p> <strong> Margaret Dumont </strong> ( October 20 , 1882 &ndash ; March 6 , 1965 ) was an <a> American </a> comedic actress .
+
+#	NEW	death_date	........ / March 6 , 1965 )	// <p> <strong> Margaret Dumont </strong> ( October 20 , 1882 &ndash ; March 6 , 1965 ) was an <a> American </a> comedic actress .
+
+#	NEW	birthdate	........ / 6 , 1965 )	// <p> <strong> Margaret Dumont </strong> ( October 20 , 1882 &ndash ; March 6 , 1965 ) was an <a> American </a> comedic actress .
+
+10	TRUE	Margaret Dumont::name	margaret dumont / was an	
+<p> <strong> Margaret Dumont </strong> ( October 20 , 1882 &ndash ; March 6 , 1965 ) was an <a> American </a> comedic actress .
+
+#	NEW	birthname	........ / ndash ; March 6	// <p> <strong> Margaret Dumont </strong> ( October 20 , 1882 &ndash ; March 6 , 1965 ) was an <a> American </a> comedic actress .
+
+#	NEW	caption	........ / Groucho :	// <p> : <strong> Groucho : </strong> Why don ' t you marry me ? : <strong> Dumont : </strong> Why , marry you ? : <strong> Groucho : </strong> You take me , and I ' ll take a vacation .
+
+13	TRUE	Margaret Dumont::occupation	actress / actress.	
+<p> <strong> Margaret Dumont </strong> ( October 20 , 1882 &ndash ; March 6 , 1965 ) was an <a> American </a> comedic actress .
+
+14	TRUE	Susanna Verbruggen::name	susanna verbruggen / Susanna Verbruggen	
+<p> <strong> Susanna Verbruggen </strong> ( n&#x00e9 ; e <strong> Percival </strong> ) ( c .
+
+#	NEW	caption	........ / and	// In 1686 she married the actor <a> William Mountfort </a> , and after Mountfort ' s infamous murder in 1692 , she married the actor <a> John Verbruggen </a> .
+
+#	NEW	birth_name	........ / a successful and popular comedian , known especially for her <a> breeches role	// <p> She was a successful and popular comedian , known especially for her <a> breeches role </a> s .
+
+#	NEW	birth_date	........ / She	// <p> She was a successful and popular comedian , known especially for her <a> breeches role </a> s .
+
+#	NEW	birthdate	........ / 1703 ) , aka Susanna Mountfort , was an	// 1667 &#x2013 ; 1703 ) , aka Susanna Mountfort , was an <a> English </a> <a> actress </a> working in London .
+
+#	NEW	birthname	........ / she married the	// In 1686 she married the actor <a> William Mountfort </a> , and after Mountfort ' s infamous murder in 1692 , she married the actor <a> John Verbruggen </a> .
+
+#	NEW	name	........ / The Matrix	// <p> <strong> Marcus Chong </strong> ( born <strong> Marcus Wyatt </strong> on July 8 , 1967 ) is an <a> American </a> <a> actor </a> best known for his role as <a> Tank </a> in the <a> science fiction </a> film <em> <a> The Matrix </a> </em> . </p>
+
+#	NEW	caption	........ / Marcus	// <p> <strong> Marcus Chong </strong> ( born <strong> Marcus Wyatt </strong> on July 8 , 1967 ) is an <a> American </a> <a> actor </a> best known for his role as <a> Tank </a> in the <a> science fiction </a> film <em> <a> The Matrix </a> </em> . </p>
+
+#	NEW	birth_date	........ / Chong	// <p> Chong was born in <a> Seattle , Washington </a> .
+
+#	NEW	birthplace	........ / as Frankie Warner .	// <p> Marcus Chong ' s acting debut was in <strong> <em> ' as Frankie Warner .
+
+24	TRUE	Marcus Chong::birth_name	marcus wyatt / Marcus Wyatt	
+<p> <strong> Marcus Chong </strong> ( born <strong> Marcus Wyatt </strong> on July 8 , 1967 ) is an <a> American </a> <a> actor </a> best known for his role as <a> Tank </a> in the <a> science fiction </a> film <em> <a> The Matrix </a> </em> . </p>
+
+#	NEW	birthname	........ / best known for his role	// <p> <strong> Marcus Chong </strong> ( born <strong> Marcus Wyatt </strong> on July 8 , 1967 ) is an <a> American </a> <a> actor </a> best known for his role as <a> Tank </a> in the <a> science fiction </a> film <em> <a> The Matrix </a> </em> . </p>
+
+#	NEW	name	........ / an American	// <p> <strong> Florenz &quot ; Flo&quot ; Ziegfeld , Jr . </strong> ( March 21 , 1867 &ndash ; July 22 , 1932 ) was an American <a> Broadway </a> <a> impresario </a> .
+
+#	NEW	birth_name	........ / A semi-biographical film	// <p> A semi-biographical film , <em> <a> The Great Ziegfeld </a> </em> , was produced in 1936 .
+
+#	NEW	birthname	........ / Florenz & quot ; Flo&quot ; Ziegfeld	// <p> <strong> Florenz &quot ; Flo&quot ; Ziegfeld , Jr . </strong> ( March 21 , 1867 &ndash ; July 22 , 1932 ) was an American <a> Broadway </a> <a> impresario </a> .
+
+29	FALSE	Butterfly McQueen::name	butterfly mcqueen / an American	
+<p> <strong> Thelma &quot ; Butterfly&quot ; McQueen </strong> ( January 7 , 1911 &ndash ; December 22 , 1995 ) was an American actress .
+
+#	NEW	caption	........ / 1995 )	// <p> <strong> Thelma &quot ; Butterfly&quot ; McQueen </strong> ( January 7 , 1911 &ndash ; December 22 , 1995 ) was an American actress .
+
+#	NEW	birth_name	........ / Thelma & quot ; Butterfly&quot ; McQueen	// <p> <strong> Thelma &quot ; Butterfly&quot ; McQueen </strong> ( January 7 , 1911 &ndash ; December 22 , 1995 ) was an American actress .
+
+32	TRUE	Butterfly McQueen::occupation	actress / actress.	
+<p> <strong> Thelma &quot ; Butterfly&quot ; McQueen </strong> ( January 7 , 1911 &ndash ; December 22 , 1995 ) was an American actress .
+
+#	NEW	death_date	........ / December 22 , 1995 )	// <p> <strong> Thelma &quot ; Butterfly&quot ; McQueen </strong> ( January 7 , 1911 &ndash ; December 22 , 1995 ) was an American actress .
+
+#	NEW	birthplace	........ / was an American	// <p> <strong> Thelma &quot ; Butterfly&quot ; McQueen </strong> ( January 7 , 1911 &ndash ; December 22 , 1995 ) was an American actress .
+
+#	NEW	birthname	........ / Thelma & quot ; Butterfly&quot ; McQueen	// <p> <strong> Thelma &quot ; Butterfly&quot ; McQueen </strong> ( January 7 , 1911 &ndash ; December 22 , 1995 ) was an American actress .
+
+#	NEW	birth_date	........ / 1950	// <p> From 1950 until 1952 she played Oriole , another racially stereotyped role , on the <a> television series </a> <em> <a> Beulah </a> </em> .
+
+37	FALSE	Mark-Paul Gosselaar::name	mark-paul gosselaar / Paul Harry	
+<p> <strong> Mark-Paul Harry Gosselaar </strong> ( born March 1 , 1974 ) is an American <a> actor </a> .
+
+38	TRUE	Mark-Paul Gosselaar::birth_name	mark-paul harry gosselaar / Mark- Paul Harry Gosselaar	
+<p> <strong> Mark-Paul Harry Gosselaar </strong> ( born March 1 , 1974 ) is an American <a> actor </a> .
+
+#	NEW	birth_date	........ / June 3 , 2010	// On June 3 , 2010 , it was announced that Gosselaar and Russell have separated .
+
+40	TRUE	Mark-Paul Gosselaar::occupation	actor / actor	
+<p> <strong> Mark-Paul Harry Gosselaar </strong> ( born March 1 , 1974 ) is an American <a> actor </a> .
+
+#	NEW	birthplace	........ / is an American	// <p> <strong> Mark-Paul Harry Gosselaar </strong> ( born March 1 , 1974 ) is an American <a> actor </a> .
+
+#	NEW	birthname	........ / is an American	// <p> <strong> Mark-Paul Harry Gosselaar </strong> ( born March 1 , 1974 ) is an American <a> actor </a> .
+
+#	NEW	caption	........ / Street ( 1948 ) -	// <p> 55 &#x0009 ; Race Street ( 1948 ) - Lt Barney Runson </p>
+
+#	NEW	birth_date	........ / Bendix	// <p> Bendix wasn ' t able to play the role on television at firsta contracted film commitment prevented it .
+
+#	NEW	birthplace	........ / Battle Stations ( 1956 ) - Buck	// <p> 32 &#x0009 ; Battle Stations ( 1956 ) - Buck Fitzpatrick </p>
+
+#	NEW	birthname	........ / had also appeared	// Bendix had also appeared in the stage version , but in the role of Officer Krupp ( a role played on film by <a> Broderick Crawford </a> ) .
+
+47	TRUE	William Bendix::name	william bendix / Ruth Story	
+<p> <strong> William Bendix </strong> ( January 14 , 1906 &#x2013 ; December 14 , 1964 ) was an American film , radio , and television <a> actor </a> , best remembered in movies for the title role in the movie <em> <a> The Babe Ruth Story </a> </em> and for portraying clumsily earnest aircraft plant worker Chester A . Riley in radio and television ' s <em> <a> The Life of Riley </a> </em> .
+
+#	NEW	birth_name	........ / an American film , radio , and television	// <p> <strong> William Bendix </strong> ( January 14 , 1906 &#x2013 ; December 14 , 1964 ) was an American film , radio , and television <a> actor </a> , best remembered in movies for the title role in the movie <em> <a> The Babe Ruth Story </a> </em> and for portraying clumsily earnest aircraft plant worker Chester A . Riley in radio and television ' s <em> <a> The Life of Riley </a> </em> .
+
+#	NEW	caption	........ / Karri	// <p> <strong> Karri Kathleen Turner </strong> ( born December 21 , 1966 ) is an <a> American </a> <a> television </a> <a> actress </a> who is best known for playing <a> Lieutenant Harriet Sims </a> on the television series <em> <a> JAG </a> </em> ( 1997&#x2013 ; 2005 ) . </p>
+
+50	TRUE	Karri Turner::birth_name	karri kathleen turner / Karri Kathleen Turner	
+<p> <strong> Karri Kathleen Turner </strong> ( born December 21 , 1966 ) is an <a> American </a> <a> television </a> <a> actress </a> who is best known for playing <a> Lieutenant Harriet Sims </a> on the television series <em> <a> JAG </a> </em> ( 1997&#x2013 ; 2005 ) . </p>
+
+#	NEW	birth_date	........ / Her	// <p> Her recent film credits include &quot ; Get Smart&quot ; and &quot ; American Carol&quot ; .
+
+#	NEW	birthplace	........ / quot ; American Carol&	// <p> Her recent film credits include &quot ; Get Smart&quot ; and &quot ; American Carol&quot ; .
+
+#	NEW	birthname	........ / Her recent film credits include &quot ; Get Smart& quot ;	// <p> Her recent film credits include &quot ; Get Smart&quot ; and &quot ; American Carol&quot ; .
+
+54	TRUE	Susan Blakely::name	susan blakely / Susan Blakely	
+<p> <strong> Susan Blakely </strong> ( born September 7 , 1948 ) is an American film actress who has mainly played supporting roles . </p>
+
+#	NEW	caption	........ / Blakely	// <p> In 1982 , Blakely married media consultant and legal , medical and crisis management expert Steve Jaffe , a former television producer .
+
+#	NEW	birth_name	........ / Blakely won the Best Actress Award at the	// In 2002 , Blakely won the Best Actress Award at the <a> California Independent Film Festival </a> for her starring role in the film <em> <a> Hungry Hearts </a> </em> .
+
+#	NEW	birth_date	........ / 7 , 1948 )	// <p> <strong> Susan Blakely </strong> ( born September 7 , 1948 ) is an American film actress who has mainly played supporting roles . </p>
+
+#	NEW	death_date	........ / September 7 , 1948 )	// <p> <strong> Susan Blakely </strong> ( born September 7 , 1948 ) is an American film actress who has mainly played supporting roles . </p>
+
+#	NEW	birthdate	........ / 7 , 1948 )	// <p> <strong> Susan Blakely </strong> ( born September 7 , 1948 ) is an American film actress who has mainly played supporting roles . </p>
+
+#	NEW	birthname	........ / is an American film actress who has mainly played supporting roles .	// <p> <strong> Susan Blakely </strong> ( born September 7 , 1948 ) is an American film actress who has mainly played supporting roles . </p>
+
+61	TRUE	Susan Blakely::occupation	actress / actress	
+<p> <strong> Susan Blakely </strong> ( born September 7 , 1948 ) is an American film actress who has mainly played supporting roles . </p>
+
+#	NEW	birthplace	........ / played supporting roles .	// <p> <strong> Susan Blakely </strong> ( born September 7 , 1948 ) is an American film actress who has mainly played supporting roles . </p>
+
+63	TRUE	Charles Lane (actor)::name	charles lane / professional American	
+<p> <strong> Charles Gerstle Levison </strong> ( January 26 , 1905 &ndash ; July 9 , 2007 ) , better known as <strong> Charles Lane </strong> , was an <a> American </a> <a> character actor </a> seen in many movies and TV shows , and at the time of his death may have been the oldest living professional American actor .
+
+#	NEW	caption	........ / Lane	// On January 26 , 2007 , Lane celebrated his 102nd birthday .
+
+65	TRUE	Charles Lane (actor)::birth_name	charles gerstle levison / Charles Gerstle Levison	
+<p> <strong> Charles Gerstle Levison </strong> ( January 26 , 1905 &ndash ; July 9 , 2007 ) , better known as <strong> Charles Lane </strong> , was an <a> American </a> <a> character actor </a> seen in many movies and TV shows , and at the time of his death may have been the oldest living professional American actor .
+
+#	NEW	birth_date	........ / on	// Homer Bedloe </a> on the television situation comedy <em> <a> Petticoat Junction </a> </em> .
+
+67	TRUE	Charles Lane (actor)::occupation	actor / actor.	
+<p> <strong> Charles Gerstle Levison </strong> ( January 26 , 1905 &ndash ; July 9 , 2007 ) , better known as <strong> Charles Lane </strong> , was an <a> American </a> <a> character actor </a> seen in many movies and TV shows , and at the time of his death may have been the oldest living professional American actor .
+
+#	NEW	birthplace	........ / Lane celebrated his	// On January 26 , 2007 , Lane celebrated his 102nd birthday .
+
+#	NEW	birthname	........ / in many movies	// <p> <strong> Charles Gerstle Levison </strong> ( January 26 , 1905 &ndash ; July 9 , 2007 ) , better known as <strong> Charles Lane </strong> , was an <a> American </a> <a> character actor </a> seen in many movies and TV shows , and at the time of his death may have been the oldest living professional American actor .
+
+70	TRUE	Alfred Newman::name	alfred newman / music for	
+<p> <strong> Alfred Newman </strong> ( March 17 , 1900&ndash ; February 17 , 1970 ) was an <a> American </a> <a> composer </a> , arranger , and conductor of music for <a> film </a> s .
+
+#	NEW	caption	........ / exactly a	// <p> Newman died on February 17 , 1970 exactly a month before his 70th birthday at his home in Hollywood from complications of emphysema . </p>
+
+#	NEW	birth_name	........ / In addition his own film scores , Newman acted as musical director on numerous other	// <p> In addition his own film scores , Newman acted as musical director on numerous other films .
+
+#	NEW	occupation	........ / ,	// <p> <strong> Alfred Newman </strong> ( March 17 , 1900&ndash ; February 17 , 1970 ) was an <a> American </a> <a> composer </a> , arranger , and conductor of music for <a> film </a> s .
+
+#	NEW	birthplace	........ / had five children .	// <p> He married Martha Louise Montgomery ( born December 5 , 1920 , Clarksdale , Mississippi - died May 9 , 2005 , Pacific Palisades , California ) , a former actress and Goldwyn Girl ; they had five children . </p>
+
+#	NEW	birthname	........ / conductor of music for	// <p> <strong> Alfred Newman </strong> ( March 17 , 1900&ndash ; February 17 , 1970 ) was an <a> American </a> <a> composer </a> , arranger , and conductor of music for <a> film </a> s .
+
+76	FALSE	Alfred Newman::birth_date	march 17, 1900 / ( 2001 )	
+( However , the television remake of <em> South Pacific </em> ( 2001 ) was not made until long after Newman had died . ) </p>
+
+77	TRUE	Larry Fine::name	larry fine / Three Stooges	
+<p> <strong> Louis Feinberg </strong> ( October 5 , 1902 &ndash ; January 24 , 1975 ) , known professionally as <strong> Larry Fine </strong> , was an <a> American </a> <a> comedian </a> and <a> actor </a> , who is best known as a member of the comedy act <a> The Three Stooges </a> . </p>
+
+#	NEW	caption	........ / Mabel '	// <p> Mabel ' s death came nearly six years after the death of their only son , John , in a car accident on November 17 , 1961 .
+
+79	TRUE	Larry Fine::birth_name	louis feinberg / Larry Fine	
+<p> <strong> Louis Feinberg </strong> ( October 5 , 1902 &ndash ; January 24 , 1975 ) , known professionally as <strong> Larry Fine </strong> , was an <a> American </a> <a> comedian </a> and <a> actor </a> , who is best known as a member of the comedy act <a> The Three Stooges </a> . </p>
+
+#	NEW	birthname	........ / for many years .	// He is , however , the father-in-law of actor and <a> Los Angeles </a> television personality Don Lamond , best known for hosting Stooges shorts on <a> KTTV </a> for many years . </p>
+
+81	FALSE	Jane Wyatt::name	jane wyatt / Star Trek	
+<p> <strong> Jane Waddington Wyatt </strong> ( August 12 , 1910 &ndash ; October 20 , 2006 ) was an American actress perhaps best known for her role as the housewife and mother on the television series <em> <a> Father Knows Best </a> </em> and as <a> Amanda Grayson </a> , the human mother of <a> Spock </a> on the <a> science fiction </a> <a> television </a> show , <em> <a> Star Trek </a> </em> .
+
+#	NEW	caption	........ / Though	// <p> Though one of her early suitors was <a> John D . Rockefeller III </a> , Wyatt was married to investment broker Edgar Bethune Ward from November 9 , 1935 , until his death on November 8 , 2000 , just one day short of the couple ' s 65th wedding anniversary .
+
+#	NEW	birth_date	........ / For	// <p> For many people , Wyatt is best remembered for her television role as <em> Margaret Anderson </em> in the <a> television comedy </a> <em> <a> Father Knows Best </a> </em> from 1954 to 1960 .
+
+#	NEW	birthplace	........ / in a comedy	// This role won Wyatt three <a> Emmy Award </a> s for best actress in a comedy series .
+
+#	NEW	birthname	........ / Father Knows Best	// <p> For many people , Wyatt is best remembered for her television role as <em> Margaret Anderson </em> in the <a> television comedy </a> <em> <a> Father Knows Best </a> </em> from 1954 to 1960 .
+
+86	TRUE	Jane Wyatt::birth_name	jane waddington wyatt / Jane Waddington Wyatt	
+<p> <strong> Jane Waddington Wyatt </strong> ( August 12 , 1910 &ndash ; October 20 , 2006 ) was an American actress perhaps best known for her role as the housewife and mother on the television series <em> <a> Father Knows Best </a> </em> and as <a> Amanda Grayson </a> , the human mother of <a> Spock </a> on the <a> science fiction </a> <a> television </a> show , <em> <a> Star Trek </a> </em> .
+
+#	NEW	birth_name	........ / is an <a> American	// <p> <strong> David Paymer </strong> ( born August 30 , 1954 ) is an <a> American </a> <a> actor </a> and <a> television director </a> , seen in such films as <em> <a> Quiz Show </a> </em> , <em> <a> Searching for Bobby Fischer </a> </em> , <em> <a> City Slickers </a> </em> , <em> <a> Crazy People </a> </em> , <em> <a> State and Main </a> </em> , <em> <a> Payback </a> </em> , <em> <a> Get Shorty </a> </em> , <em> <a> Carpool </a> </em> , <em> <a> The American President </a> </em> , <em> <a> Ocean ' s Thirteen </a> </em> , and <em> <a> Drag Me to Hell </a> </em> .
+
+#	NEW	death_date	........ / in over 90	// Paymer has appeared in over 90 films in his career .
+
+#	NEW	birthplace	........ / Best Supporting Actor	// Paymer was nominated for an <a> Academy Award for Best Supporting Actor </a> in 1992 for <em> <a> Mr .
+
+#	NEW	birthname	........ / Paymer has appeared	// Paymer has appeared in over 90 films in his career .
+
+#	NEW	name	........ / Drag Me	// <p> <strong> David Paymer </strong> ( born August 30 , 1954 ) is an <a> American </a> <a> actor </a> and <a> television director </a> , seen in such films as <em> <a> Quiz Show </a> </em> , <em> <a> Searching for Bobby Fischer </a> </em> , <em> <a> City Slickers </a> </em> , <em> <a> Crazy People </a> </em> , <em> <a> State and Main </a> </em> , <em> <a> Payback </a> </em> , <em> <a> Get Shorty </a> </em> , <em> <a> Carpool </a> </em> , <em> <a> The American President </a> </em> , <em> <a> Ocean ' s Thirteen </a> </em> , and <em> <a> Drag Me to Hell </a> </em> .
+
+#	NEW	caption	........ / David	// <p> <strong> David Paymer </strong> ( born August 30 , 1954 ) is an <a> American </a> <a> actor </a> and <a> television director </a> , seen in such films as <em> <a> Quiz Show </a> </em> , <em> <a> Searching for Bobby Fischer </a> </em> , <em> <a> City Slickers </a> </em> , <em> <a> Crazy People </a> </em> , <em> <a> State and Main </a> </em> , <em> <a> Payback </a> </em> , <em> <a> Get Shorty </a> </em> , <em> <a> Carpool </a> </em> , <em> <a> The American President </a> </em> , <em> <a> Ocean ' s Thirteen </a> </em> , and <em> <a> Drag Me to Hell </a> </em> .
+
+93	FALSE	Anne Hathaway (actress)::name	anne hathaway / Anne Jacqueline	
+<p> <strong> Anne Jacqueline Hathaway </strong> ( born November 12 , 1982 ) is an American actress .
+
+#	NEW	caption	........ / Anne	// <p> <strong> Anne Jacqueline Hathaway </strong> ( born November 12 , 1982 ) is an American actress .
+
+95	FALSE	Anne Hathaway (actress)::birth_name	anne jacqueline hathaway / [ [ Deauville American Film Festival ]	
+at the 2007 [ [ Deauville American Film Festival ] ] ] ] </p>
+
+#	NEW	birth_date	........ / 2007	// at the 2007 [ [ Deauville American Film Festival ] ] ] ] </p>
+
+97	TRUE	Anne Hathaway (actress)::occupation	actress / actress.	
+<p> <strong> Anne Jacqueline Hathaway </strong> ( born November 12 , 1982 ) is an American actress .
+
+#	NEW	death_date	........ / November 12 , 1982 )	// <p> <strong> Anne Jacqueline Hathaway </strong> ( born November 12 , 1982 ) is an American actress .
+
+#	NEW	birthplace	........ / is an American	// <p> <strong> Anne Jacqueline Hathaway </strong> ( born November 12 , 1982 ) is an American actress .
+
+#	NEW	birthname	........ / Hathaway continued to	// <p> Hathaway continued to appear in family-oriented films over the next three years , subsequently becoming known in mainstream media as a children ' s role model .
+
+#	NEW	name	........ / New Class	// <p> <strong> Dustin Neil Diamond </strong> ( born January 7 , 1977 ) is an <a> American </a> <a> actor </a> , <a> musician </a> , and stand-up <a> comedian </a> best known for his role as <a> Samuel &quot ; Screech&quot ; Powers </a> in the television shows <em> <a> Saved by the Bell </a> </em> , <em> <a> Good Morning , Miss Bliss </a> </em> , <em> <a> Saved by the Bell : The College Years </a> </em> and <em> <a> Saved by the Bell : The New Class </a> </em> . </p>
+
+#	NEW	birth_name	........ / Dustin Neil Diamond	// <p> <strong> Dustin Neil Diamond </strong> ( born January 7 , 1977 ) is an <a> American </a> <a> actor </a> , <a> musician </a> , and stand-up <a> comedian </a> best known for his role as <a> Samuel &quot ; Screech&quot ; Powers </a> in the television shows <em> <a> Saved by the Bell </a> </em> , <em> <a> Good Morning , Miss Bliss </a> </em> , <em> <a> Saved by the Bell : The College Years </a> </em> and <em> <a> Saved by the Bell : The New Class </a> </em> . </p>
+
+#	NEW	birthplace	........ / Jose , California	// <p> Diamond was born on January 7 , 1977 , in <a> San Jose , California </a> . </p>
+
+#	NEW	birthname	........ / has also made several	// Diamond has also made several <a> cameo appearance </a> s in films , including appearances in <em> <a> Dickie Roberts : Former Child Star </a> </em> in 2003 and in <em> <a> Made </a> </em> in 2001 .
+
+105	TRUE	Sigrid Thornton::name	sigrid thornton / Sigrid Thornton	
+<p> <strong> Sigrid Thornton </strong> ( born 12 February 1959 ) is an Australian <a> actress </a> . </p>
+
+106	FALSE	Sigrid Thornton::birth_name	sigrid thornton / Thornton appeared as <em> Amelia Lawson	
+In 1988 Thornton appeared as <em> Amelia Lawson </em> , the Bank Manager , in the American television drama series <em> <a> Paradise </a> </em> .
+
+#	NEW	birth_date	........ / 1988	// In 1988 Thornton appeared as <em> Amelia Lawson </em> , the Bank Manager , in the American television drama series <em> <a> Paradise </a> </em> .
+
+#	NEW	occupation	........ / actress	// <p> <strong> Sigrid Thornton </strong> ( born 12 February 1959 ) is an Australian <a> actress </a> . </p>
+
+#	NEW	birthplace	........ / is an Australian	// <p> <strong> Sigrid Thornton </strong> ( born 12 February 1959 ) is an Australian <a> actress </a> . </p>
+
+#	NEW	birthname	........ / the Bank Manager	// In 1988 Thornton appeared as <em> Amelia Lawson </em> , the Bank Manager , in the American television drama series <em> <a> Paradise </a> </em> .
+
+#	NEW	name	........ / Thomas Crown	// <p> <strong> John Campbell McTiernan , Jr . </strong> ( born January 8 , 1951 ) is an American film director and producer , best known for his <a> action films </a> and most identifiable with the three films he directed back-to-back : <em> <a> Predator </a> </em> , <em> <a> Die Hard </a> </em> , and <em> <a> The Hunt for Red October </a> </em> , along with later movies such as <em> <a> Last Action Hero </a> </em> , <em> <a> Die Hard With A Vengeance </a> </em> , and <em> <a> The Thomas Crown Affair </a> </em> .
+
+112	TRUE	John McTiernan::birth_name	john campbell mctiernan, jr. / John Campbell McTiernan, Jr.	
+<p> <strong> John Campbell McTiernan , Jr . </strong> ( born January 8 , 1951 ) is an American film director and producer , best known for his <a> action films </a> and most identifiable with the three films he directed back-to-back : <em> <a> Predator </a> </em> , <em> <a> Die Hard </a> </em> , and <em> <a> The Hunt for Red October </a> </em> , along with later movies such as <em> <a> Last Action Hero </a> </em> , <em> <a> Die Hard With A Vengeance </a> </em> , and <em> <a> The Thomas Crown Affair </a> </em> .
+
+#	NEW	birth_date	........ / ,	// The first movie he directed was <em> <a> Nomads ( 1986 ) </a> </em> , starring <a> Pierce Brosnan </a> .
+
+#	NEW	death_date	........ / September 24 , 2007	// On September 24 , 2007 this bid was denied by Federal District Judge Dale S . Fischer .
+
+#	NEW	birthname	........ / other claims arising from her belief that he hired Pellicano	// <p> On July 3 , 2006 , McTiernan ' s former wife , film producer <a> Donna Dubrow </a> , filed suit against him for <a> invasion of privacy </a> and other claims arising from her belief that he hired Pellicano to wiretap her telephone .
+
+#	NEW	caption	........ / As a	// <p> As a reaction to his father ' s death at age 57 from a <a> heart attack </a> in 1982 , Swayze began to drink heavily .
+
+117	FALSE	Patrick Swayze::birth_name	patrick wayne swayze / suspended for two months, but the film aired	
+Filming was suspended for two months , but the film aired in 1999 .
+
+#	NEW	birth_date	........ / 18 , 1952& 14 , 14 ,	// <p> <strong> Patrick Wayne Swayze </strong> ( ; August 18 , 1952&nbsp ; &#x2013 ; September 14 , 2009 ) However , he died from the disease on September 14 , 2009 .
+
+#	NEW	death_date	........ / September 14 , 2009 .	// <p> <strong> Patrick Wayne Swayze </strong> ( ; August 18 , 1952&nbsp ; &#x2013 ; September 14 , 2009 ) However , he died from the disease on September 14 , 2009 .
+
+#	NEW	birthname	........ / a Reuters article reported that Swayze &quot ; has a very limited amount of disease	// On March 5 , 2008 , a Reuters article reported that Swayze &quot ; has a very limited amount of disease , and he appears to be responding well to treatment thus far . &quot ;
+
+#	NEW	name	........ / and commercials .	// She has gone on to star in many TV shows , movies , and commercials . </p>
+
+#	NEW	birth_name	........ / met during the filming of the movie	// They met during the filming of the movie <em> <a> Be with You </a> </em> .
+
+#	NEW	birthplace	........ / movies , and	// She has gone on to star in many TV shows , movies , and commercials . </p>
+
+#	NEW	birthname	........ / Shid&# x014d ; Nakamura	// <p> On May 10 , 2005 , Takeuchi married <a> Shid&#x014d ; Nakamura </a> , a <a> Kabuki </a> actor .
+
+125	TRUE	Jacques Rivette::name	jacques rivette / Jacques Rivette	
+<p> <strong> Jacques Rivette </strong> ( ; born 1 March 1928 ) is a French <a> film director </a> . </p>
+
+#	NEW	caption	........ / Rivette	// <p> In 1963 , Rivette was made editor in chief of <em> <a> Cahiers du cin&#x00e9 ; ma </a> </em> after Eric Rohmer was forced out .
+
+#	NEW	birth_name	........ / March 1928 ) is a French <a> film director	// <p> <strong> Jacques Rivette </strong> ( ; born 1 March 1928 ) is a French <a> film director </a> . </p>
+
+#	NEW	birth_date	........ / ,	// This film directly lead to <em> <a> La Belle Noiseuse </a> </em> , Rivette ' s most acclaimed film of his later career .
+
+#	NEW	birthdate	........ / 1928 )	// <p> <strong> Jacques Rivette </strong> ( ; born 1 March 1928 ) is a French <a> film director </a> . </p>
+
+#	NEW	birthname	........ / is a French	// <p> <strong> Jacques Rivette </strong> ( ; born 1 March 1928 ) is a French <a> film director </a> . </p>
+
+#	NEW	occupation	........ / director	// <p> <strong> Jacques Rivette </strong> ( ; born 1 March 1928 ) is a French <a> film director </a> . </p>
+
+#	NEW	name	........ / Stoyanka Konstantinova	// <p> <strong> Stoyanka Konstantinova Mutafova </strong> ( ) ( born 2 February 1922 in <a> Sofia </a> ) is a <a> Bulgaria </a> n actress .
+
+#	NEW	caption	........ / Stoyanka	// <p> <strong> Stoyanka Konstantinova Mutafova </strong> ( ) ( born 2 February 1922 in <a> Sofia </a> ) is a <a> Bulgaria </a> n actress .
+
+#	NEW	birth_name	........ / the leading actors in the Bulgarian film <em> If somebody loves you	// <p> In 2010 Mutafova was one of the leading actors in the Bulgarian film <em> If somebody loves you </em> . </p>
+
+#	NEW	birth_date	........ / 2010	// <p> In 2010 Mutafova was one of the leading actors in the Bulgarian film <em> If somebody loves you </em> . </p>
+
+136	TRUE	Stoyanka Mutafova::occupation	actress / actress.	
+<p> <strong> Stoyanka Konstantinova Mutafova </strong> ( ) ( born 2 February 1922 in <a> Sofia </a> ) is a <a> Bulgaria </a> n actress .
+
+#	NEW	birthname	........ / was one of	// <p> In 2010 Mutafova was one of the leading actors in the Bulgarian film <em> If somebody loves you </em> . </p>
+
+#	NEW	birthdate	........ / 2 February 1922	// <p> <strong> Stoyanka Konstantinova Mutafova </strong> ( ) ( born 2 February 1922 in <a> Sofia </a> ) is a <a> Bulgaria </a> n actress .
+
+139	TRUE	Peter Graves::name	peter graves / Peter Graves	
+<p> <strong> Peter Aurness </strong> ( March 18 , 1926 &#x2013 ; March 14 , 2010 ) , known professionally as <strong> Peter Graves </strong> , was an <a> American </a> <a> film </a> and <a> television </a> <a> actor </a> .
+
+#	NEW	caption	........ / Graves	// <p> Graves died of a <a> heart attack </a> on March 14 , 2010 , four days prior to his 84th birthday .
+
+141	TRUE	Peter Graves::birth_name	peter aurness / Peter Graves	
+<p> <strong> Peter Aurness </strong> ( March 18 , 1926 &#x2013 ; March 14 , 2010 ) , known professionally as <strong> Peter Graves </strong> , was an <a> American </a> <a> film </a> and <a> television </a> <a> actor </a> .
+
+#	NEW	birth_date	........ / Throughout	// <p> Throughout Graves ' career , he appeared in more than seventy films , television shows , and television movies .
+
+143	TRUE	Peter Graves::occupation	actor / actor	
+<p> <strong> Peter Aurness </strong> ( March 18 , 1926 &#x2013 ; March 14 , 2010 ) , known professionally as <strong> Peter Graves </strong> , was an <a> American </a> <a> film </a> and <a> television </a> <a> actor </a> .
+
+#	NEW	name	........ / <a> actor	// <p> <strong> Ernst Busch </strong> ( born January 22 , 1900 in <a> Kiel </a> , died June 8 , 1980 in <a> Berlin </a> ) was a <a> German </a> <a> singer </a> and <a> actor </a> . </p>
+
+#	NEW	caption	........ / From & quot ;	// <p> <strong> From &quot ; Canciones de las Brigadas Internacionales&quot ; </strong> and <strong> &quot ; Solidarit&#x00e4 ; t&quot ; </strong> </p>
+
+#	NEW	birth_name	........ / died June	// <p> <strong> Ernst Busch </strong> ( born January 22 , 1900 in <a> Kiel </a> , died June 8 , 1980 in <a> Berlin </a> ) was a <a> German </a> <a> singer </a> and <a> actor </a> . </p>
+
+#	NEW	occupation	........ / quot ;	// <p> <strong> From &quot ; Canciones de las Brigadas Internacionales&quot ; </strong> and <strong> &quot ; Solidarit&#x00e4 ; t&quot ; </strong> </p>
+
+#	NEW	birthname	........ / From & quot ; Canciones de las Brigadas Internacionales& quot ;	// <p> <strong> From &quot ; Canciones de las Brigadas Internacionales&quot ; </strong> and <strong> &quot ; Solidarit&#x00e4 ; t&quot ; </strong> </p>
+
+#	NEW	birthplace	........ / Brigadas Internacionales& quot ;	// <p> <strong> From &quot ; Canciones de las Brigadas Internacionales&quot ; </strong> and <strong> &quot ; Solidarit&#x00e4 ; t&quot ; </strong> </p>
+
+150	TRUE	Ann Sothern::name	ann sothern / career spanning	
+<p> <strong> Ann Sothern </strong> ( January 22 , 1909 &ndash ; March 15 , 2001 ) was an American <a> film and television actress </a> with a career spanning six decades . </p>
+
+151	FALSE	Ann Sothern::birth_name	harriette arlene lake / an American <a> film and television actress	
+<p> <strong> Ann Sothern </strong> ( January 22 , 1909 &ndash ; March 15 , 2001 ) was an American <a> film and television actress </a> with a career spanning six decades . </p>
+
+#	NEW	birthdate	........ / 15 , 2001 )	// <p> <strong> Ann Sothern </strong> ( January 22 , 1909 &ndash ; March 15 , 2001 ) was an American <a> film and television actress </a> with a career spanning six decades . </p>
+
+#	NEW	birthplace	........ / and television actress	// <p> <strong> Ann Sothern </strong> ( January 22 , 1909 &ndash ; March 15 , 2001 ) was an American <a> film and television actress </a> with a career spanning six decades . </p>
+
+#	NEW	birth_date	........ / 22 , 1909 & 15 ,	// <p> <strong> Ann Sothern </strong> ( January 22 , 1909 &ndash ; March 15 , 2001 ) was an American <a> film and television actress </a> with a career spanning six decades . </p>
+
+#	NEW	death_date	........ / March 15 , 2001 )	// <p> <strong> Ann Sothern </strong> ( January 22 , 1909 &ndash ; March 15 , 2001 ) was an American <a> film and television actress </a> with a career spanning six decades . </p>
+
+#	NEW	birthname	........ / with a career spanning six decades .	// <p> <strong> Ann Sothern </strong> ( January 22 , 1909 &ndash ; March 15 , 2001 ) was an American <a> film and television actress </a> with a career spanning six decades . </p>
+
+157	TRUE	Robert Preston (actor)::name	robert preston / film actor.	
+<p> <strong> Robert Preston </strong> ( June 8 , 1918 &ndash ; March 21 , 1987 ) was an <a> American </a> stage and film actor . </p>
+
+158	FALSE	Robert Preston (actor)::birth_name	robert preston meservey / stage and film actor.	
+<p> <strong> Robert Preston </strong> ( June 8 , 1918 &ndash ; March 21 , 1987 ) was an <a> American </a> stage and film actor . </p>
+
+#	NEW	birth_date	........ / ( June 8 , 1918 & 21 ,	// <p> <strong> Robert Preston </strong> ( June 8 , 1918 &ndash ; March 21 , 1987 ) was an <a> American </a> stage and film actor . </p>
+
+#	NEW	occupation	........ / actor .	// <p> <strong> Robert Preston </strong> ( June 8 , 1918 &ndash ; March 21 , 1987 ) was an <a> American </a> stage and film actor . </p>
+
+#	NEW	death_date	........ / March 21 , 1987 )	// <p> <strong> Robert Preston </strong> ( June 8 , 1918 &ndash ; March 21 , 1987 ) was an <a> American </a> stage and film actor . </p>
+
+#	NEW	birthdate	........ / 8 , 1918 &	// <p> <strong> Robert Preston </strong> ( June 8 , 1918 &ndash ; March 21 , 1987 ) was an <a> American </a> stage and film actor . </p>
+
+#	NEW	birthname	........ / and film actor .	// <p> <strong> Robert Preston </strong> ( June 8 , 1918 &ndash ; March 21 , 1987 ) was an <a> American </a> stage and film actor . </p>
+
+#	NEW	birthplace	........ / and film actor .	// <p> <strong> Robert Preston </strong> ( June 8 , 1918 &ndash ; March 21 , 1987 ) was an <a> American </a> stage and film actor . </p>
+
+165	TRUE	Sherrill Milnes::name	sherrill milnes / most famous	
+<p> <strong> Sherrill Milnes </strong> ( born January 10 , 1935 ) is an <a> American </a> operatic <a> baritone </a> most famous for his <a> Verdi </a> roles .
+
+#	NEW	birth_name	........ / is an <a> American	// <p> <strong> Sherrill Milnes </strong> ( born January 10 , 1935 ) is an <a> American </a> operatic <a> baritone </a> most famous for his <a> Verdi </a> roles .
+
+167	FALSE	Sherrill Milnes::birth_date	january 10, 1935 / 2001, Milnes	
+<p> Starting in 2001 , Milnes has been bringing his experience and expertise to young rising operatic talent through V . O . I . C . E .
+
+#	NEW	birthdate	........ / 10 , 1935 )	// <p> <strong> Sherrill Milnes </strong> ( born January 10 , 1935 ) is an <a> American </a> operatic <a> baritone </a> most famous for his <a> Verdi </a> roles .
+
+#	NEW	birthplace	........ / and varied musical	// As a child , he exhibited strong and varied musical talents .
+
+#	NEW	birthname	........ / most famous for his	// <p> <strong> Sherrill Milnes </strong> ( born January 10 , 1935 ) is an <a> American </a> operatic <a> baritone </a> most famous for his <a> Verdi </a> roles .
+
+171	FALSE	Steve Harvey::name	steve harvey / radio personality	
+<p> <strong> Broderick Steven &quot ; Steve&quot ; Harvey </strong> ( born January 17 , 1957 ) is an <a> American </a> <a> actor </a> , <a> comedian </a> , <a> entertainer </a> , television &amp ; <a> radio personality </a> and best-selling <a> author </a> .
+
+#	NEW	caption	........ / Lia	// Other finalists included : <a> Delilah </a> , <a> Blair Garner </a> , <a> Kidd Kraddick </a> , <em> <a> The Lia Show </a> </em> and <a> John Tesh </a> . </p>
+
+#	NEW	birth_date	........ / Steve	// <p> Steve is the host of <em> <a> Family Feud </a> </em> since September 2010 , replacing host <a> John O ' Hurley </a> . </p>
+
+#	NEW	occupation	........ / author	// <p> <strong> Broderick Steven &quot ; Steve&quot ; Harvey </strong> ( born January 17 , 1957 ) is an <a> American </a> <a> actor </a> , <a> comedian </a> , <a> entertainer </a> , television &amp ; <a> radio personality </a> and best-selling <a> author </a> .
+
+#	NEW	birthplace	........ / Harvey , a	// <p> Harvey was born in <a> Welch , West Virginia </a> , the son of Eloise and Jesse Harvey , a coal miner .
+
+#	NEW	birthname	........ / Think Like a Man : What Men Really Think About Love	// He is the author of <em> <a> Act Like a Lady , Think Like a Man : What Men Really Think About Love , Relationships , Intimacy , and Commitment </a> </em> , which was published in March 2009 . </p>
+
+#	NEW	birth_name	........ / Broderick Steven &quot ; Steve&quot ; Harvey	// <p> <strong> Broderick Steven &quot ; Steve&quot ; Harvey </strong> ( born January 17 , 1957 ) is an <a> American </a> <a> actor </a> , <a> comedian </a> , <a> entertainer </a> , television &amp ; <a> radio personality </a> and best-selling <a> author </a> .
+
+178	FALSE	Walter Murch::birth_name	walter scott murch / He is perhaps the only film editor in history to have received Academy nominations for films edited on four different systems :	
+<p> He is perhaps the only film editor in history to have received Academy nominations for films edited on four different systems : </p>
+
+#	NEW	birth_date	........ / Murch	// <p> Murch has written one book on film editing , <em> In the Blink of an Eye </em> ( 2001 ) .
+
+#	NEW	birthname	........ / Walter Scott Murch	// <p> <strong> Walter Scott Murch </strong> ( born July 12 , 1943 ) is a <a> film editor </a> and <a> sound designer </a> , the son of painter <a> Walter Tandy Murch </a> ( 1907-1967 ) . </p>
+
+181	FALSE	Walter Murch::name	walter murch / Tandy Murch	
+<p> <strong> Walter Scott Murch </strong> ( born July 12 , 1943 ) is a <a> film editor </a> and <a> sound designer </a> , the son of painter <a> Walter Tandy Murch </a> ( 1907-1967 ) . </p>
+
+#	NEW	name	........ / October 2008 )	// <p> <strong> Ken Ogata </strong> ( &#x7dd2 ; &#x5f62 ; &#x62f3 ; <em> Ogata Ken </em> , 20 July 1937-5 October 2008 ) was a Japanese <a> actor </a> .
+
+#	NEW	birth_name	........ / His sons <a> Kanta	// <p> His sons <a> Kanta </a> and <a> Naoto Ogata </a> are actors .
+
+#	NEW	birth_date	........ / x7dd2 ; &#	// <p> <strong> Ken Ogata </strong> ( &#x7dd2 ; &#x5f62 ; &#x62f3 ; <em> Ogata Ken </em> , 20 July 1937-5 October 2008 ) was a Japanese <a> actor </a> .
+
+#	NEW	occupation	........ / actor	// <p> <strong> Ken Ogata </strong> ( &#x7dd2 ; &#x5f62 ; &#x62f3 ; <em> Ogata Ken </em> , 20 July 1937-5 October 2008 ) was a Japanese <a> actor </a> .
+
+#	NEW	birthname	........ / was a Japanese	// <p> <strong> Ken Ogata </strong> ( &#x7dd2 ; &#x5f62 ; &#x62f3 ; <em> Ogata Ken </em> , 20 July 1937-5 October 2008 ) was a Japanese <a> actor </a> .
+
+#	NEW	birthplace	........ / was a Japanese	// <p> <strong> Ken Ogata </strong> ( &#x7dd2 ; &#x5f62 ; &#x62f3 ; <em> Ogata Ken </em> , 20 July 1937-5 October 2008 ) was a Japanese <a> actor </a> .
+
+#	null	death_date	1703 / ..........
+
+#	null	occupation	actress / ..........
+
+#	null	name	patrick swayze / ..........
+
+#	null	occupation	actress / ..........
+
+#	null	occupation	actress / ..........
+

@@ -1,0 +1,46 @@
+Found: 19
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	birth_date	........ / After	// <p> After marriage , he moved to <a> Lewisville , Texas </a> , and later to <a> Killeen </a> , where he started several companies to serve local military families .
+
+#	NEW	birth_date	........ / Williams	// <p> Williams was born in <a> London </a> , <a> UK </a> .
+
+#	NEW	birth_date	........ / Gould	// <p> Gould became one of the many celebrity producers of <a> The 1 Second Film </a> collaboration in June 2009 . </p>
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Jacobus Johannes Uys </strong> ( 30 May 1921 &ndash ; 29 January 1996 ) , better known as <strong> Jamie Uys </strong> , was a <a> South Africa </a> n film director . </p>
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Saul Zaentz </strong> ( ; born February 28 , 1921 ) is an American <a> film producer </a> and former record company executive .
+
+#	NEW	birth_date	........ / Sutton	// <p> Sutton was born in <a> Clarksville , Tennessee </a> , the only child to Frank Sims Sutton and Thelma Spencer .
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Fisher Stevens </strong> ( born November 27 , 1963 ) is an <a> American </a> actor and producer .
+
+#	NEW	birth_date	........ / In	// <em> In The Director ' s Chair </em> .
+
+#	NEW	birth_date	........ / 2007	// The 2007 film was Cummings ' s sixth computer-animated movie appearance .
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Rena Sherel Sofer </strong> ( born December 2 , 1968 ) is an <a> American </a> <a> actress </a> . </p>
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Connor Trinneer </strong> ( born March 19 , 1969 ) is an <a> American </a> film , stage and television actor .
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Rachael Domenica Ray </strong> ( born August 25 , 1968 ) is an American television personality , celebrity chef and author .
+
+#	NEW	birth_date	........ / Durham	// <p> Durham married writer and comedian <a> Victoria Wood </a> in March 1980 , but they separated in October 2002 .
+
+#	NEW	birth_date	........ / Her	// <p> Her most-recognized role is as &quot ; Nina Webster&quot ; on the daytime drama , <em> The Young and the Restless </em> .
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Sean Patrick Hayes </strong> ( born June 26 , 1970 ) is an American <a> actor </a> and <a> comedian </a> .
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Ann Dvorak </strong> ( August 2 , 1911 &ndash ; December 10 , 1979 ) was an American film actress . </p>
+
+#	NEW	birth_date	........ / p>	// His most famous role was as juror number nine in the 1957 film <em> <a> Twelve Angry Men </a> </em> . </p>
+
+#	NEW	birth_date	........ / He	// <p> He played a lead role in Blockbuster Movie - The Bodyguard . </p>
+
+#	NEW	birth_date	........ / 2003	// In 2003 Dano was nominated for a Daytime Emmy for Supporting Actress for the role , and left <em> One Life to Live </em> on March 13 , 2004 . </p>
+

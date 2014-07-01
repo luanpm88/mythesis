@@ -1,0 +1,22 @@
+Found: 105
+Found Not Null: 4
+Correct: 1
+Wrong: 3
+Total: 4
+precision: 0.009523809523809525
+recall: 0.25
+
+
+
+32	FALSE	Upper Iowa University::president	alan g. walker / Jobs online magazine.	
+<p> UIU is recognized for being a military-friendly college by these publicationsMilitary Advanced Education ( MAE ) magazine&#x2019;s &#x201c;3rd Annual Guide to Military-Friendly Colleges and Universities&#x201d; and the 2010 list for top-military friendly schools published by G.I. Jobs online magazine.
+
+65	TRUE	Ithaca College::president	thomas rochon / Thomas Rochon	
+Thomas Rochon was named the eighth president of Ithaca College on April 11, 2008.
+
+72	FALSE	Victoria University, Toronto::president	paul w. gooch / Michael' s College	
+Michael's College </a> Loretto College.
+
+90	FALSE	Acadia University::president	ray ivany / students in January	
+The College began with 21 students in January 1839.
+

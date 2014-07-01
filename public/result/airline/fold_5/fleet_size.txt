@@ -1,0 +1,110 @@
+Found: 43
+Found Not Null: 14
+Correct: 4
+Wrong: 10
+Total: 14
+precision: 0.2857142857142857
+recall: 0.2857142857142857
+
+
+
+0	TRUE	Aero Slovakia::fleet_size	34 / 34	
+<p> The airline ' s fleet comprises 34 aircraft , including : </p>
+
+#	NEW	fleet_size	........ / 2006 ) :	// <p> The TESIS fleet consisted of the following aircraft ( at August 2006 ) : </p>
+
+#	NEW	fleet_size	........ / 2007	// <p> As of January 2007 the Slovak Airlines fleet includes : </p>
+
+#	NEW	fleet_size	........ / 2008 ) :	// <p> The Malm&#x00f6 ; Aviation fleet consists of the following aircraft ( at January 2008 ) : </p>
+
+#	NEW	fleet_size	........ / its	// Its aircraft were among the oldest and least fuel efficient in US Airways ' s fleet , and like its parent its labor costs were among the highest in the industry .
+
+#	NEW	fleet_size	........ / 707	// <p> The aircraft had been called into service on short notice when the normal aircraft used for the evening flight to Miami , a <a> Boeing 707 </a> jet identified as Flight 601 , was grounded due to a cracked window .
+
+6	FALSE	Air Ukraine::fleet_size	4 / 2002 ) :	
+<p> The Air Ukraine fleet consisted of the following aircraft ( at December 2002 ) : </p>
+
+#	NEW	fleet_size	........ / 19	// <p> The RUTACA Airlines fleet includes the following aircraft ( as of 19 October 2008 ) [ <a> http : / /www . ch-aviation . c / aircraft . php ? search=set&amp ; airline=RUC&amp ; al_op=1 </a> ] : </p>
+
+#	NEW	fleet_size	........ / 9	// <p> The Star Per&#x00fa ; fleet consists of the following aircraft ( as of 9 April 2010 ) : </p>
+
+#	NEW	fleet_size	........ / 1971	// <p> In 1963 , China departed from its policies of Marxist self-sufficiency with a purchase of six <a> Vickers Viscount </a> aircraft from Great Britain , followed in 1971 with four <a> Hawker Siddeley Trident </a> aircraft from <a> Pakistan International Airlines </a> .
+
+#	NEW	fleet_size	........ / 2007 :	// <p> LAN Peru has codeshare agreements with the following airlines as of November 2007 : </p>
+
+11	TRUE	Flyglobespan::fleet_size	9 / 16	
+<p> The Flyglobespan fleet included the following aircraft as of 16 December 2009 prior to ceasing operations : </p>
+
+#	NEW	fleet_size	........ / 2008 ) :	// <p> The FlyJet fleet consisted of the following aircraft ( at January 2008 ) : </p>
+
+13	FALSE	Titan Airways::fleet_size	14 / 17	
+<p> The Titan Airways fleet consists of the following aircraft ( at 17 November 2010 ) </p>
+
+14	FALSE	Palestinian Airlines::fleet_size	3 / 1998.	
+Palestinian Airlines transferred its base to Gaza following the opening of the airport in November 1998 .
+
+#	NEW	fleet_size	........ / ,	// <p> <strong> Teebah Airlines </strong> was a <a> Sierra Leone </a> registered <a> charter airline </a> based in <a> Amman </a> , <a> Jordan </a> , leasing its aircraft out to other airlines on demand .
+
+#	NEW	fleet_size	........ / 200 /	// In 200 / 06 , eight of the 717s were returned to QantasLink following Jetstar ' s acquisition of <a> Airbus A320 </a> aircraft .
+
+17	FALSE	PAN Air::fleet_size	7 / 2010 ) :	
+<p> The PAN Air fleet consists of the following aircraft ( at June 2010 ) : </p>
+
+#	NEW	fleet_size	........ / 21	// <p> The LagunAir fleet consists of the following aircraft ( as of 21 September 2008 ) [ <a> http : / /www . ch-aviation . c / aircraft . php ? search=set&amp ; airline=N7&amp ; al_op=1 </a> ] : </p>
+
+#	NEW	fleet_size	........ / 2009 ) :	// <p> RVL Group own and operate the following aircraft : ( correct as of June 2009 ) : </p>
+
+#	NEW	fleet_size	........ / 9	// <p> The Intercontinental de Avacion fleet consisted of 1 <a> Bombardier Dash 8 Q300 </a> aircraft ( at January 2005 ) , and <a> DC-9 30 </a> </p>
+
+#	NEW	fleet_size	........ / 2005 ) :	// <p> The West Caribbean Airways fleet consisted of the following aircraft ( at January 2005 ) : </p>
+
+#	NEW	fleet_size	........ / 10	// <p> The Sky Airline fleet consists of the following aircraft ( as of 10 December 2008 ) [ <a> http : / /www . ch-aviation . c / aircraft . php ? search=set&amp ; airline=H2&amp ; al_op=1 </a> ] : </p>
+
+#	NEW	fleet_size	........ / 2010 ) :	// The Vostok Airlines fleet includes the following aircraft ( at June 2010 ) : </p>
+
+#	NEW	fleet_size	........ / 2006 ) :	// <p> The Saravia fleet includes the following aircraft ( at August 2006 ) : </p>
+
+#	NEW	fleet_size	........ / 8	// <p> Bravo Air Congo suspended operations on 8 August 2008 . </p>
+
+#	NEW	fleet_size	........ / 2006	// <p> As of August 2006 the Air Max-Gabon fleet included onlya single <a> turboprop </a> aircraft , namely a <a> Fokker F27 Mk300M </a> .
+
+27	TRUE	Direktflyg::fleet_size	7 / 32.	
+<p> [ [ File : KSU Direktflyg BAe Jetstream 32 . png | thumb | Direktflyg Jetstream 32 at [ [ Kristiansund Airport , Kvernberget ] ] ] ] The Direktflyg fleet consists of the following aircraft ( at March 2007 ) : ref name=&quot ; FI&quot ; / </p>
+
+#	NEW	fleet_size	........ / 2010 )	// <p> The Regional 1 fleet consists of the following aircraft ( as of August 2010 ) [ <a> http : / /www . ch-aviation . c / aircraft . php ? search=set&amp ; airline=TSH&amp ; al_op=1 </a> ] : </p>
+
+#	NEW	fleet_size	........ / 2007 ) :	// <p> The Crimea Air fleet consisted of the following aircraft ( at March 2007 ) : </p>
+
+30	FALSE	Motor Sich Airlines::fleet_size	9 / 2006	
+<p> As of August 2006 the fleet included : </p>
+
+31	FALSE	Odessa Airlines::fleet_size	3 / 2007 )	
+<p> The Odessa Airlines fleet includes the following aircraft ( at March 2007 ) ref name=&quot ; FI&quot ; / : </p>
+
+#	NEW	fleet_size	........ / 2006	// <p> As of August 2006 the Tavrey Airlines fleet includes : </p>
+
+#	NEW	fleet_size	........ / 13	// <p> The Ukraine Air Enterprise fleet consists of the following aircraft ( as of 13 May 2009 ) [ <a> http : / /www . ch-aviation . c / aircraft . php ? search=set&amp ; airline=UKN&amp ; al_op=1 </a> ] : </p>
+
+#	NEW	fleet_size	........ / 2005	// <p> The airline started operations in 2005 and was owned by Europa Leisure International ( 60% ) and North Fleet ( 40% ) . ref
+
+35	FALSE	Gulf Traveller::fleet_size	6 / 2007 )	
+<p> The Gulf Traveller Fleet consists of the following aircraft ( as of March 2007 ) ref name=&quot ; FI&quot ; / : </p>
+
+#	NEW	fleet_size	........ / 2	// <p> The Yemenia fleet consists of the following aircraft ( as of 2 July 2010 ) : </p>
+
+#	NEW	fleet_size	........ / 19	// <p> The Venezolana fleet consists of the following aircraft ( as of 19 May 2010 ) [ <a> http : / /www . ch-aviation . c / aircraft . php ? search=set&amp ; airline=RAV&amp ; al_op=1 </a> ] : </p>
+
+38	TRUE	Línea Turística Aereotuy::fleet_size	9 / 17	
+<p> On 17 April 2009 , an LTA Cessna 208 Caravan aircraft crashed shortly after taking off from <a> Canaima </a> , Venezuela , killing one child .
+
+39	FALSE	Servivensa::fleet_size	3 / 2006 ) :	
+<p> The Servivensa fleet consists of the following aircraft ( at August 2006 ) : </p>
+
+40	FALSE	ABSA Cargo Airline::fleet_size	3 / 2010 )	
+<p> The ABSA fleet includes the following aircraft ( at March 2010 ) ref name=&quot ; flight2010&quot ; / : </p>
+
+41	FALSE	Air Minas Linhas Aéreas::fleet_size	6 / 2010 ) :	
+<p> The fleet of Air Minas Linhas A&#x00e9 ; reas includes the following aircraft configured in all-economy class ( as of June 2010 ) : </p>
+
+#	NEW	fleet_size	........ / 2007 )	// <p> The Gestair fleet consists of the following aircraft ( at March 2007 ) ref name=&quot ; FI&quot ; / : </p>
+

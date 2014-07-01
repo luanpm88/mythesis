@@ -1,3 +1,0 @@
-<li><a>Official Site</a></li>
-<li><a>UOC Radio</a></li>
-<li><a>Transformation Services Laboratory</a></li>

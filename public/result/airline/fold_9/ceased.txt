@@ -1,0 +1,97 @@
+Found: 38
+Found Not Null: 5
+Correct: 3
+Wrong: 2
+Total: 8
+precision: 0.6
+recall: 0.375
+
+
+
+#	NEW	ceased	........ / 500	// <p> The airline was established in August <a> 2004 </a> and its first flight was on June 1 , 2005 with a pair of <a> Boeing 737-500 </a> aircraft .
+
+#	NEW	ceased	........ / 1996 10 , 1997 .	// The same agreement gave USAir an option to purchase the entire shuttle operation on or after October 10 , 1996 with an exclusive right to do so until April 10 , 1997 .
+
+#	NEW	ceased	........ / 2004 .	// It started operations in September 2004 . </p>
+
+3	FALSE	Texas International Airlines::ceased	1982 / 600	
+<p> During the 1960s the airline operated a <a> Beechcraft Model 99 </a> and six <a> Convair 600 </a> s .
+
+#	NEW	ceased	........ / 1961 .	// <p> The initial aircraft type operated was the Douglas DC-7C , the first of which was leased from <a> Sabena </a> in November 1961 .
+
+#	NEW	ceased	........ / 2008	// The first aircraft was delivered on October 3 , 2008 , received the type certification from the Japan Civil Aviation Bureau ( JCAB ) on October 27 and operated its first flight in February 2009 . </p>
+
+#	NEW	ceased	........ / 2000 .	// <p> The airline was established in 1997 and started operations in 2000 .
+
+#	NEW	ceased	........ / 2010 ) :	// <p> The Finncomm Airlines fleet includes the following aircraft ( as of 14 October 2010 ) : </p>
+
+#	NEW	ceased	........ / 1968 .	// <p> The airline was established and started operations on August 7 , 1968 .
+
+#	NEW	ceased	........ / 2009	// <p> In October 2009 it was announced that TACA would merge its assets in a strategic alliance with Colombian airline <a> Avianca </a> , in which case each will maintain their own trademark and operations .
+
+#	NEW	ceased	........ / 1977 .	// The <a> aircraft </a> operated the inaugural flight between <a> London Gatwick </a> and <a> Houston </a> on 24 October 1977 . ] ]
+
+#	NEW	ceased	........ / 1996	// After three months he was handed over to the U . S . , brought before a U . S . court and sentenced to life imprisonment on October 7 , 1996 with a no-parole recommendation . </p>
+
+#	NEW	ceased	........ / 1998	// In October 1998 LanChile merged Fast Air with Ladeco .
+
+#	NEW	ceased	........ / 1991	// It was renamed again to the current name of Air Namibia in October 1991 after the independence of the country . </p>
+
+#	NEW	ceased	........ / 1995	// It operated two <a> Airbus A310-200s </a> for a brief period from 1993 to 1995 before they were transferred to Singapore Airlines , and two <a> Fokker F70 </a> from 1995 to 2000 .
+
+#	NEW	ceased	........ / 2005 2006 .	// <p> On October 28 , 2005 , Delta announced plans to incorporate Song ' s aircraft into Delta ' s mainline domestic long haul operation beginning in May 2006 .
+
+#	NEW	ceased	........ / 2002	// <p> Air Sinai ceased airline operations in its own right in 2002 and operates as a ' paper airline ' for its parent company , <a> EgyptAir </a> . ref
+
+#	NEW	ceased	........ / 2004	// <p> In 2004 , the airline absorbed <a> Chelyabinsk Airlines </a> . </p>
+
+#	NEW	ceased	........ / 2008	// He died on November 21 , 2008 , from complications stemming from injuries he sustained in a fall a month earlier . </p>
+
+#	NEW	ceased	........ / 20 September 1991	// <p> The airlines was established on 20 September 1991 and began operations on 3 December 1993 with two <a> Boeing 737-200 </a> aircraft as <strong> Sahara Airlines </strong> .
+
+20	TRUE	Jetsgo::ceased	2005 / 2005	
+<p> On March 11 , 2005 , Jetsgo abruptly announced that it had ceased operations .
+
+#	NEW	ceased	........ / 8 September 2006	// <p> The company announced on 8 September 2006 that the airline would be shut down on 31 December 2006 .
+
+#	NEW	ceased	........ / 1917 )	// <p> The flight leader , <a> Lieutenant </a> Charles Carroll Taylor ( born October 25 , 1917 ) , graduated from <a> Naval Air Station Corpus Christi </a> in February 1942 and became a flight instructor in October of that year . </p>
+
+#	NEW	ceased	........ / 28 September 1992	// <p> The airline was established on 28 September 1992 and started scheduled operations on 12 January 1994 .
+
+#	NEW	ceased	........ / 1812	// <p> <strong> Siberia Airlines Flight 1812 </strong> crashed over the <a> Black Sea </a> on 4 October 2001 , en route from <a> Tel Aviv </a> , <a> Israel </a> to <a> Novosibirsk </a> , Russia .
+
+25	TRUE	Air Srpska::ceased	2003 / 2003.	
+<p> <strong> Air Srpska </strong> was an <a> airline </a> of <a> Srpska </a> , an entity of the <a> State of Bosnia and Herzegovina </a> , which was operational between 1999 and 2003 . </p>
+
+26	FALSE	JALways::ceased	december 1, 2010 / 1.	
+The airline obtained a license to operate scheduled services on July 30 , 1999 and operated its first scheduled passenger service on October 1 .
+
+#	NEW	ceased	........ / 2004	// In 2004 the airline announced that it would move its head office from Casablanca to the <a> Province of Nouaceur </a> , near <a> Mohammed V International Airport </a> .
+
+#	NEW	ceased	........ / 1991	// <p> On 16 October 1991 , Mandarin Airlines started operations with direct flights from Taipei to <a> Sydney </a> in <a> Australia </a> .
+
+#	NEW	ceased	........ / 2010 .	// <p> Blue1 has codeshare agreements with the following <a> Star Alliance </a> airlines as of October 2010 . </p>
+
+#	NEW	ceased	........ / 2004 .	// The airline was established in December 2003 and started operations on 23 July 2004 .
+
+31	TRUE	Royal Tongan Airlines::ceased	2004 / 2004	
+<p> On 18 May 2004 , the airline ceased all operations with the remaining one hundred employees losing their jobs , and the islands of Tonga being left without domestic air service . </p>
+
+#	NEW	ceased	........ / 200	// After ceasing operations two Boeings 727-200 were leased to Santa Barbara Airlines , as well as both DC-10s .
+
+#	NEW	ceased	........ / 1998	// <p> On 21 October 1998 , Tunisair celebrated the fiftieth anniversary of its creation , and beginning to remove their <a> Boeing 727 </a> s . </p>
+
+#	NEW	ceased	........ / 11 September 2007	// <p> On 11 September 2007 , the European Commission added Mahan Air to the list of <a> airlines banned within the EU </a> .
+
+#	NEW	ceased	........ / 26	// Service to <a> Najaf </a> will begin 26 September and <a> Erbil </a> will begin on 26 October . </p>
+
+#	NEW	ceased	........ / January 5 , 2006	// On January 5 , 2006 <a> Independence Air </a> ceased operations . </p>
+
+#	NEW	ceased	........ / 23 December 2010 ) :	// ( 2004 ) ] ] The Uzbekistan Airways fleet includes the following aircraft ( as of 23 December 2010 ) : </p>
+
+#	null	ceased	2003 / ..........
+
+#	null	ceased	1991 / ..........
+
+#	null	ceased	2002 / ..........
+

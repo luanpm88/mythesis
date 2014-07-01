@@ -1,9 +1,0 @@
-<p>Student to faculty ratio is 13:1.</p>
-<li><a>American Chemical Society</a></li>
-<li>Associate Reformed Presbyterian Student Union</li>
-<li>Fellowship at the Barn</li>
-<li>Student Senate</li>
-<li><strong>Administrative offices</strong>: Belk Hall, Watkins Student Center</li>
-<li><strong>Classrooms</strong>: Belk Hall, Reid Hall, Daniel Moultrie Science Center (DMSC)</li>
-<li><strong>Dining services</strong>: Java City, Moffatt Dining Hall and Snappers</li>
-<li><strong>Computer Lab and library</strong>:  McCain Library, Reid Hall (archives)</li>

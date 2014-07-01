@@ -1,0 +1,202 @@
+Total articles: 312
+Articles for test: 281
+Articles for train: 31
+Total attributes: 64
+Attributes with high occurrences: 5/64
+
+------------
+Found: 79
+Found Not Null: 23
+Correct: 19
+Wrong: 4
+Total: 25
+precision: 0.8260869565217391
+recall: 0.76
+
+
+
+#	NEW	birth_name	........ / Soad Mohamed Hosny	// <p> <strong> Soad Mohamed Hosny </strong> ( <a> Arabic </a> : <strong> &#x0633 ; &#x0639 ; &#x0627 ; &#x062f ; &#x062d ; &#x0633 ; &#x0646 ; &#x064a ; </strong> January 26 , 1943 &#x2013 ; June 21 , 2001 ) was an <a> Egyptian </a> actress born in the Bulaq district of <a> Cairo </a> .
+
+#	NEW	birth_date	........ / 2002	// In 2002 , however , British courts decided that the cause of Hosny ' s death had been a <a> suicide </a> , although substantial evidence suggested she had been murdered .
+
+#	NEW	birth_name	........ / is an American actor of stage	// <p> <strong> Mandel Bruce &quot ; Mandy&quot ; Patinkin </strong> ( ; November 30 , 1952 , <a> Chicago , Illinois </a> ) is an American actor of stage and screen and a <a> tenor </a> vocalist .
+
+#	NEW	occupation	........ / as	// The award winning book , published in 2005 , benefits the <a> Christopher Reeve Foundation </a> and includes an audio CD with Patinkin singing and reading the story as well as Dana Reeve and <a> Bernadette Peters </a> singing . </p>
+
+4	TRUE	Steven Soderbergh::birth_name	steven andrew soderbergh / Steven Andrew Soderbergh	
+<p> <strong> Steven Andrew Soderbergh </strong> ( ; born January 14 , 1963 ) is an American film producer , screenwriter , <a> cinematographer </a> , editor , actor , and an <a> Academy Award </a> -winning film director .
+
+#	NEW	occupation	........ / Actress	// Julia Roberts had supporting roles in <em> Ocean ' s Eleven </em> , <em> Ocean ' s Twelve </em> , and <em> Full Frontal </em> , and won an <a> Academy Award for Best Actress </a> for her lead in <em> Erin Brockovich </em> .
+
+#	NEW	birth_date	........ / which	// In the same year , Soderbergh made <em> <a> Full Frontal </a> </em> which was shot mostly on digital video in an improvisional style that deliberately blurred the line between which actors were playing characters and which were playing fictionized versions of themselves .
+
+#	NEW	birth_date	........ / 1 , 1937 )	// <p> <strong> Morgan Porterfield Freeman , Jr . </strong> ( born June 1 , 1937 ) is an American actor , film director , and narrator .
+
+8	TRUE	Morgan Freeman::birth_name	morgan porterfield freeman, jr. / Morgan Porterfield Freeman, Jr.	
+<p> <strong> Morgan Porterfield Freeman , Jr . </strong> ( born June 1 , 1937 ) is an American actor , film director , and narrator .
+
+#	NEW	occupation	........ / Award	// He has also won a <a> Golden Globe Award </a> and a <a> Screen Actors Guild Award </a> . </p>
+
+#	NEW	birth_date	........ / April 19 , 1909	// <p> On April 19 , 1909 , the <a> Biograph Company </a> director <a> D .
+
+11	TRUE	Mary Pickford::occupation	actress / Actress	
+<em> Coquette </em> was a success and won her an Academy Award for Best Actress , but the public failed to respond to her in the more sophisticated roles . </p>
+
+#	NEW	birth_name	........ / a . k . a .	// They <a> adopted </a> two children : Roxanne ( born 1944 , adopted 1944 ) and Ronald Charles ( born 1937 , adopted 1943 , a . k . a .
+
+#	NEW	birth_date	........ / 17 , 1880 &	// <p> <strong> Mack Sennett </strong> ( January 17 , 1880 &ndash ; November 5 , 1960 ) was a <a> Canadian </a> -born <a> American </a> director and was known as the innovator of <a> slapstick </a> comedy in film .
+
+#	NEW	occupation	........ / Film	// His short &quot ; <a> Wrestling Swordfish </a> &quot ; was awarded the <a> Academy Award for Best Live Action Short Film </a> in 1932 and he earned an <a> Academy Honorary Award </a> in 1937 . </p>
+
+#	NEW	birth_name	........ / the innovator of	// <p> <strong> Mack Sennett </strong> ( January 17 , 1880 &ndash ; November 5 , 1960 ) was a <a> Canadian </a> -born <a> American </a> director and was known as the innovator of <a> slapstick </a> comedy in film .
+
+#	NEW	birth_date	........ / 29 , 1936 )	// <p> <strong> Mary Tyler Moore </strong> ( born December 29 , 1936 ) is an American actress , primarily known for her roles in television <a> sitcom </a> s . </p>
+
+#	NEW	birth_name	........ / Mary Tyler Moore	// <p> <strong> Mary Tyler Moore </strong> ( born December 29 , 1936 ) is an American actress , primarily known for her roles in television <a> sitcom </a> s . </p>
+
+18	TRUE	Mary Tyler Moore::occupation	actress / Actress	
+She also appeared in a number of films , most notably 1980 ' s <em> <a> Ordinary People </a> </em> , in which she played a role that was the polar opposite of the television characters she had portrayed , and for which she was nominated for an <a> Academy Award for Best Actress </a> . </p>
+
+#	NEW	birth_date	........ / home	// <p> His <a> Bel Air </a> home , which had six loans totaling $18 million on it , failed to sell an April 2010 foreclosure auction despite an opening offer of $10 . 4 million , far substantially less than the $35 million that Cage had originally tried to sell it for .
+
+#	NEW	occupation	........ / actor	// Cage , at age 32 , became the fifth youngest actor ever to win the <a> Academy Award for Best Actor </a> for his performance in <em> <a> Leaving Las Vegas </a> </em> . </p>
+
+#	NEW	birth_name	........ / Nicolas Kim Coppola	// <p> <strong> Nicolas Cage </strong> ( born <strong> Nicolas Kim Coppola </strong> ; January 7 , 1964 ) is an American actor , producer and director , having appeared in over 60 films including <em> <a> The Rock </a> </em> ( 1996 ) , <em> <a> Fac / Off </a> </em> ( 1997 ) , <em> <a> Gone In 60 Seconds </a> </em> ( 2000 ) , <em> <a> National Treasure </a> </em> ( 2004 ) , <em> <a> Ghost Rider </a> </em> ( 2007 ) , <em> <a> Bad Lieutenant : Port of Call New Orleans </a> </em> ( 2009 ) , and <em> <a> Kick-Ass </a> </em> ( 2010 ) .
+
+#	NEW	birth_name	........ / raised her son ( by actor	// They raised her son ( by actor <a> Vincent Spano </a> ) , Aljosha ( born 1984 ) and daughter , Sonja Kinski , now a model ( born 1986 ) .
+
+23	FALSE	Nastassja Kinski::occupation	actress / film	
+<em> <a> Paris , Texas </a> </em> won awards at <a> Cannes </a> , however , the film was not widely released in the United States .
+
+#	NEW	birth_date	........ / ( May 6 , 1915&	// <p> <strong> George Orson Welles </strong> ( May 6 , 1915&nbsp ; &#x2013 ; October 10 , 1985 ) , best known as <strong> Orson Welles </strong> , was an American filmmaker , actor , <a> theatre director </a> , <a> screenwriter </a> , and <a> producer </a> , who worked extensively in film , theatre , television and radio .
+
+25	TRUE	Orson Welles::birth_name	george orson welles / George Orson Welles	
+<p> <strong> George Orson Welles </strong> ( May 6 , 1915&nbsp ; &#x2013 ; October 10 , 1985 ) , best known as <strong> Orson Welles </strong> , was an American filmmaker , actor , <a> theatre director </a> , <a> screenwriter </a> , and <a> producer </a> , who worked extensively in film , theatre , television and radio .
+
+#	NEW	occupation	........ / Actress	// <em> Ambersons </em> was an expensive flop for RKO , although it received four Academy Award nominations including Best Picture and Best Supporting Actress for <a> Agnes Moorehead </a> . </p>
+
+#	NEW	birth_date	........ / ,	// The film , <em> <a> The Rise and Rise of Michael Rimmer </a> </em> , was not a success , although the cast contained notable names . </p>
+
+28	TRUE	Peter Cook::birth_name	peter edward cook / Peter Edward Cook	
+<p> <strong> Peter Edward Cook </strong> ( 17 November 1937 &ndash ; 9 January 1995 ) was an English <a> satirist </a> , writer and <a> comedian </a> .
+
+#	NEW	birth_date	........ / May 1967 )	// <p> <strong> Madhuri Dixit </strong> ( ) ( born <strong> Madhuri Shankar Dixit </strong> on 15 May 1967 ) is an Indian <a> Bollywood </a> <a> actress </a> .
+
+30	TRUE	Madhuri Dixit::birth_name	madhuri shankar dixit / Madhuri Shankar Dixit	
+<p> <strong> Madhuri Dixit </strong> ( ) ( born <strong> Madhuri Shankar Dixit </strong> on 15 May 1967 ) is an Indian <a> Bollywood </a> <a> actress </a> .
+
+31	TRUE	Madhuri Dixit::occupation	actress / Actress	
+It won Dixit her third Filmfare Best Actress Award .
+
+#	NEW	birth_date	........ / ( April 3 , 1924 &#	// <p> <strong> Marlon Brando , Jr . </strong> ( April 3 , 1924 &#x2013 ; July 1 , 2004 ) was an <a> American </a> actor who performed for over half a century . </p>
+
+33	TRUE	Marlon Brando::birth_name	marlon brando, jr. / Marlon Brando, Jr.	
+<p> <strong> Marlon Brando , Jr . </strong> ( April 3 , 1924 &#x2013 ; July 1 , 2004 ) was an <a> American </a> actor who performed for over half a century . </p>
+
+#	NEW	occupation	........ / Actor	// <p> Brando won the <a> Academy Award for Best Actor </a> for his performance , but turned down the Oscar , becoming the second actor to refuse a Best Actor award ( the first being <a> George C . Scott </a> for <em> <a> Patton </a> </em> ) . Brando boycotted the award ceremony , sending instead American Indian Rights activist <a> Sacheen Littlefeather </a> , who appeared in full Apache dress , to state Brando ' s reasons , which were based on his objection to the depiction of American Indians by Hollywood and television . </p>
+
+#	NEW	birth_date	........ / 16 , 1927 )	// <p> <strong> Peter Michael Falk </strong> ( born September 16 , 1927 ) is a retired American actor , best known for his role as Lieutenant Columbo in the <a> television series </a> <em> <a> Columbo </a> </em> .
+
+36	TRUE	Peter Falk::birth_name	peter michael falk / Peter Michael Falk	
+<p> <strong> Peter Michael Falk </strong> ( born September 16 , 1927 ) is a retired American actor , best known for his role as Lieutenant Columbo in the <a> television series </a> <em> <a> Columbo </a> </em> .
+
+37	TRUE	Paul Reubens::birth_name	paul rubenfeld / Paul Rubenfeld	
+<strong> Paul Reubens </strong> ( born <strong> Paul Rubenfeld </strong> ; August 27 , 1952 ) is an American <a> actor </a> , <a> writer </a> , <a> film producer </a> , and <a> comedian </a> , best known for his character <a> Pee-wee Herman </a> .
+
+#	NEW	occupation	........ / Award	// <em> Playhouse </em> garnered 15 <a> Emmy Awards </a> , all of them in the <a> Creative Arts Emmy Award </a> category . </p>
+
+#	NEW	birth_date	........ / 17 May 1958 )	// <p> <strong> Paul Whitehouse </strong> ( born 17 May 1958 ) is a British actor , writer and <a> comedian </a> .
+
+#	NEW	birth_name	........ / Paul Whitehouse	// <p> <strong> Paul Whitehouse </strong> ( born 17 May 1958 ) is a British actor , writer and <a> comedian </a> .
+
+#	NEW	occupation	........ / Award	// A second series was broadcast 16 January - 20 February 2007 , during which they won a <a> Sony Radio Academy Award </a> .
+
+42	TRUE	Peter Sellers::birth_name	richard henry sellers / Richard Henry Sellers	
+<p> <strong> Richard Henry Sellers </strong> , <a> OBE </a> ( 8 September 1925 &ndash ; 24 July 1980 ) , known as <strong> Peter Sellers </strong> , was a British <a> comedian </a> and actor best known as <a> Chief Inspector Clouseau </a> in <em> <a> The Pink Panther </a> </em> film series , for playing three different characters in <em> <a> Dr .
+
+#	NEW	occupation	........ / All	// Sellers never won an Oscar but won the <a> BAFTA </a> for <em> I ' m All Right Jack </em> . </p>
+
+#	NEW	birth_date	........ / 1963	// <em> Harakiri </em> won him an <a> award </a> at the <a> 1963 Cannes Film Festival </a> , solidifying his place in the history of cinema . </p>
+
+#	NEW	birth_name	........ / notable films include	// Other notable films include <em> <a> Harakiri </a> </em> ( 1962 ) and <em> <a> Samurai Rebellion </a> </em> ( 1967 ) .
+
+#	NEW	occupation	........ / Film	// <em> Harakiri </em> won him an <a> award </a> at the <a> 1963 Cannes Film Festival </a> , solidifying his place in the history of cinema . </p>
+
+#	NEW	birth_date	........ / 5 , 1943 )	// <p> <strong> Michael Kenneth Mann </strong> ( born February 5 , 1943 ) is an American <a> film director </a> , <a> screenwriter </a> , and <a> producer </a> .
+
+48	TRUE	Michael Mann (director)::birth_name	michael kenneth mann / is an American	
+<p> <strong> Michael Kenneth Mann </strong> ( born February 5 , 1943 ) is an American <a> film director </a> , <a> screenwriter </a> , and <a> producer </a> .
+
+49	FALSE	Max Steiner::birth_name	maximilian raoul steiner / of music for	
+<p> <strong> Max Steiner </strong> ( May 10 , 1888 &#x2013 ; December 28 , 1971 ) was an <a> Austria </a> n <a> composer </a> of music for <a> theatre </a> productions and <a> film </a> s .
+
+#	NEW	birth_date	........ / ( 15 September 1921 &	// <p> <strong> Norma MacMillan </strong> ( 15 September 1921 &ndash ; 16 March 2001 ) was a <a> Canadian </a> <a> voice actor </a> . </p>
+
+#	NEW	birth_name	........ / Norma MacMillan	// <p> <strong> Norma MacMillan </strong> ( 15 September 1921 &ndash ; 16 March 2001 ) was a <a> Canadian </a> <a> voice actor </a> . </p>
+
+52	FALSE	Norma MacMillan::occupation	voice actor / on	
+<p> MacMillan was the mother of <a> Stefan Arngrim </a> , who played <a> Barry Lockridge </a> on <a> Land of The Giants ( TV series ) </a> , and <a> Alison Arngrim </a> , who played <a> Nellie Oleson </a> on <em> <a> Little House on the Prairie </a> </em> . </p>
+
+#	NEW	birth_name	........ / Robert Siodmak	// <p> <strong> Robert Siodmak </strong> ( 8 August 1900 - 10 March 1973 ) was a German born <a> American </a> <a> film director </a> .
+
+#	NEW	occupation	........ / Film	// and <em> <a> The Devil Came at Night </a> ( Nachts , wenn der Teufel kam , </em> 1957 ) which was nominated for the <a> Academy Award for Best Foreign Language Film </a> and is based on the true story of <a> Bruno L&#x00fc ; dke </a> . </p>
+
+#	NEW	birth_name	........ / is an American	// <p> <strong> Spike Jonze </strong> ( born October 22 , 1969 ) is an American <a> director </a> , <a> producer </a> and <a> actor </a> , whose work includes <a> music video </a> s , <a> commercial </a> s , <a> film </a> and <a> television </a> .
+
+#	NEW	occupation	........ / which	// The video received awards for Best Direction , Breakthrough , and Best Choreography , which Jonze accepted , still in character .
+
+#	NEW	birth_date	........ / April 8 , 1966 )	// <p> <strong> Robin Gayle Wright </strong> ( born April 8 , 1966 ) is an American actress .
+
+58	TRUE	Robin Wright Penn::birth_name	robin gayle wright / Robin Gayle Wright	
+<p> <strong> Robin Gayle Wright </strong> ( born April 8 , 1966 ) is an American actress .
+
+59	TRUE	Robin Wright Penn::occupation	actress / Actress.	
+She went on to co-star with her husband in the 1997 film <em> <a> She ' s So Lovely </a> </em> , for which she was nominated for a Screen Actors Guild Award for Best Actress .
+
+#	NEW	birth_date	........ / ,	// <p> Born <strong> Reginald Ingram Montgomery Hitchcock </strong> in <a> Dublin </a> , <a> Ireland </a> , the son of a <a> clergy </a> man .
+
+61	FALSE	Rex Ingram (director)::birth_name	reginald ingram montgomery hitchcock / Rex Ingram	
+<strong> Rex Ingram </strong> ( 15 January 1892 &ndash ; 21 July 1950 ) was a <a> film director </a> , producer , writer and actor .
+
+#	NEW	occupation	........ / actor	// <p> : <em> For the African-American actor of the same name , see </em> <a> Rex Ingram ( actor ) </a> ( 1895 &#x2013 ; 1969 ) .
+
+#	NEW	birth_date	........ / 2007	// But in 2007 , because of the age of the actors and the onscreen deaths of both characters , he claimed that the project ( which he intended to call <em> Double V Vega </em> ) is &quot ; kind of unlikely now&quot ; . </p>
+
+64	TRUE	Quentin Tarantino::birth_name	quentin jerome tarantino / Quentin Jerome Tarantino	
+<p> <strong> Quentin Jerome Tarantino </strong> ( ; born March 27 , 1963 ) is an American film director , screenwriter , producer , cinematographer and occasional actor .
+
+#	NEW	occupation	........ / BAFTA	// His films have earned him an <a> Academy Award </a> , a <a> Golden Globe Award </a> , a <a> BAFTA </a> and a <a> Palme d ' Or </a> and he has been nominated for <a> Emmy </a> and <a> Grammy </a> awards . </p>
+
+#	NEW	birth_name	........ / is an English film director and producer known for his stylish visuals and an obsession for	// <p> <strong> Sir Ridley Scott </strong> ( born 30 November 1937 ) is an English film director and producer known for his stylish visuals and an obsession for detail .
+
+#	NEW	occupation	........ / Film	// It was produced in Europe and won a Best Debut Film medal at the <a> Cannes Film Festival </a> but made limited commercial impact in the US .
+
+#	NEW	birth_date	........ / Unhappy	// <p> Unhappy with the theatrical version of the film ( which he blamed on paying too much attention to the opinions of preview audiences ) , Scott supervised a director ' s cut of <em> Kingdom of Heaven </em> , which was released on DVD in 2006 .
+
+#	NEW	birth_date	........ / April 1997 ) , <a>	// 16 April 1997 ) , <a> Rebel Antonio </a> ( b .
+
+#	NEW	birth_name	........ / Robert Anthony Rodr&#x00ed ; guez	// <p> <strong> Robert Anthony Rodr&#x00ed ; guez </strong> ( born June 20 , 1968 ) is an American <a> film director </a> , <a> screenwriter </a> , <a> producer </a> , <a> cinematographer </a> , <a> editor </a> and <a> musician </a> .
+
+#	NEW	occupation	........ / Film	// <em> El Mariachi </em> , which was shot for around $7 , 000 with money raised by his friend Carlos Gallardo and participating in medical research studies , won the Audience Award at the <a> Sundance Film Festival </a> in 1993 .
+
+72	TRUE	Shannon Elizabeth::birth_name	shannon elizabeth fadal / is an American actress and former fashion	
+<p> <strong> Shannon Elizabeth </strong> ( born Shannon Elizabeth Fadal , September 7 , 1973 ) is an American actress and former fashion model .
+
+#	NEW	birth_date	........ / April 7 , 1964 )	// <p> <strong> Russell Ira Crowe </strong> ( born April 7 , 1964 ) is a New Zealand-born Australian actor and musician .
+
+74	TRUE	Russell Crowe::birth_name	russell ira crowe / Russell Ira Crowe	
+<p> <strong> Russell Ira Crowe </strong> ( born April 7 , 1964 ) is a New Zealand-born Australian actor and musician .
+
+#	NEW	occupation	........ / Actor	// He has been nominated for three Oscars , and in 2001 , he won the <a> Academy Award for Best Actor </a> for his starring role in the film <em> <a> Gladiator </a> </em> .
+
+#	NEW	birth_date	........ / ( October 30 , 1896 &	// <p> <strong> Ruth Gordon Jones </strong> ( October 30 , 1896 &ndash ; August 28 , 1985 ) , better known as <strong> Ruth Gordon </strong> , was an American actress and writer .
+
+77	TRUE	Ruth Gordon::birth_name	ruth gordon jones / Ruth Gordon Jones	
+<p> <strong> Ruth Gordon Jones </strong> ( October 30 , 1896 &ndash ; August 28 , 1985 ) , better known as <strong> Ruth Gordon </strong> , was an American actress and writer .
+
+#	NEW	occupation	........ / award	// Gordon won an <a> Academy Award </a> , an <a> Emmy </a> and two <a> Golden Globe award </a> s for her acting . </p>
+
+#	null	occupation	actor / ..........
+
+#	null	occupation	actress / ..........
+

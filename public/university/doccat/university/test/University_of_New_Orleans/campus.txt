@@ -1,3 +1,0 @@
-<li>Men's and Women's Basketball</li>
-<li>Men's and Women's Swimming and Diving</li>
-<li>Men's and Women's Tennis</li>

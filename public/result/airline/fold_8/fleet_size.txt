@@ -1,0 +1,111 @@
+Found: 39
+Found Not Null: 17
+Correct: 6
+Wrong: 11
+Total: 20
+precision: 0.35294117647058826
+recall: 0.3
+
+
+
+#	NEW	fleet_size	........ / 1982	// <p> The airline was established in June 1982 and started operations on July 1 , 1982 .
+
+1	TRUE	Air Ivoire::fleet_size	4 / 1964	
+<p> The airline was established on 14 December 1960 and started operations in August <a> 1964 </a> .
+
+#	NEW	fleet_size	........ / <a>	// It operates scheduled services to domestic destinations and to <a> Greenland </a> and the <a> Faroe Islands </a> .
+
+3	TRUE	AeroHonduras::fleet_size	1 / 12	
+<p> The airline was established in January 2002 as Sol Air , and started operations on 12 July 2002 with a leased <a> Boeing 727-200 </a> .
+
+#	NEW	fleet_size	........ / 1978	// The airline remained focused on charter and cargo operations until the passage of the <a> Airline Deregulation Act </a> of 1978 , which gave it the opportunity to offer scheduled passenger service .
+
+5	TRUE	Nepal Airlines::fleet_size	8 / 1958	
+<p> The airline was established in July 1958 as Royal Nepal Airlines Corporation ( RNAC ) with one <a> Douglas DC-3 </a> .
+
+6	FALSE	Air Fiji::fleet_size	5 / 10	
+<p> The airline was established in 1967 and started operations on 10 July 1967 as Air Pacific .
+
+7	FALSE	Druk Air::fleet_size	3 / 1986	
+At the time , the <a> runway </a> was in length , Prior to the establishment of the <a> Department of Civil Aviation </a> in January 1986 , the airline was responsible for the operation and maintenance of airport infrastructure .
+
+#	NEW	fleet_size	........ / 1978	// <p> The airline was established and started operations in 1978 using a <a> de Havilland Canada DHC-2 Beaver </a> aircraft .
+
+9	TRUE	Aeropostal Alas de Venezuela::fleet_size	4 / 1947.	
+This new service started on 21 March 1947 . </p>
+
+#	NEW	fleet_size	........ / 1997 .	// <p> The airline was established and started operations on 1 October 1997 .
+
+11	FALSE	One-Two-GO Airlines::fleet_size	8 / 2003.	
+<p> The airline started operations on 3 December 2003 . </p>
+
+#	NEW	fleet_size	........ / 2001 .	// <strong> TransBrasil </strong> was an international <a> Brazil </a> ian airline which ceased operations in December 2001 .
+
+13	FALSE	Thai AirAsia::fleet_size	19 / 2004.	
+<p> Thai AirAsia launched domestic operations on February 2004 .
+
+#	NEW	fleet_size	........ / 1995	// <p> The airline was established on 13 September 1994 , and began commercial operations on 9 November 1995 , with a flight from Macau to <a> Beijing </a> and <a> Shanghai </a> ( prior to 1995 , there was no air service to Macau other than the helicopter service ) .
+
+#	NEW	fleet_size	........ / 1998 .	// It started operations on 25 October 1998 .
+
+16	FALSE	Helios Airways::fleet_size	3 / 15	
+On 15 May 2000 , it operated its first charter flight to <a> London Gatwick </a> .
+
+17	TRUE	Aero Mongolia::fleet_size	5 / 2001	
+<p> The airline was established in 2001 and performed its first flight domestically on May 25 , 2003 .
+
+18	FALSE	Air Alps::fleet_size	5 / 1999	
+<p> The airline was established in 1998 and started operations on 28 March 1999 with two Dornier 328 aircraft , acquiring three more in 2000 and one more in each year of operation .
+
+19	FALSE	Albatros Airways::fleet_size	1 / 3	
+<p> The airline was established and started operations on 3 November 2004 . </p>
+
+20	FALSE	Trans Air Congo::fleet_size	6 / 410	
+<p> It was established on 24 August 1994 by the <a> El-Hage </a> family and started services with a single <a> Let 410 </a> aircraft .
+
+#	NEW	fleet_size	........ / 2010 ) :	// <p> Shenzhen Airlines has the following <a> codeshare </a> agreements ( at March 2010 ) : </p>
+
+#	NEW	fleet_size	........ / 737	// 737 at [ [ East Midlands Airport ] ] in 1982 ] ] The airline was established on 1 December 1961 by Ted Langton and started operations on 5 May 1962 as <strong> Euravia ( London ) </strong> flying <a> Lockheed Constellation </a> s on <a> inclusive tour holidays </a> for Universal Sky Tours .
+
+#	NEW	fleet_size	........ / 7	// It started operations on 7 July 1990 with a flight from Lisbon to Porto .
+
+#	NEW	fleet_size	........ / 185	// Flight 185 remained level at FL350 until it started a rapid and nearly vertical dive , as shown on Jakarta radar , around 16 : 12 : 18 .
+
+25	TRUE	Kosova Airlines::fleet_size	1 / Airlines	
+On 10 May 2006 , the only aircraft in the Kosova Airlines fleet , a <a> Boeing 737-700 </a> , which was <a> wet leased </a> from the <a> German </a> airline <a> Hamburg International </a> , was returned to that airline , and Kosova Airlines ceased operating flights .
+
+#	NEW	fleet_size	........ / 58	// <p> By the mid-1980s , Flying Tigers operated scheduled cargo service to six continents and served 58 countries .
+
+#	NEW	fleet_size	........ / 2	// Ten passengers and 2 flight attendants , who were seated in the rear of the aircraft , survived .
+
+#	NEW	fleet_size	........ / 1998 .	// <p> MacAir Airlines was established and started charter operations in 1992 as <strong> McKinlay Air Charters </strong> , adding scheduled services in 1998 .
+
+#	NEW	fleet_size	........ / 15 .	// It was the second air disaster involving PRC aircraft in less than a month , after the <a> Air China Flight 129 </a> disaster on April 15 . </p>
+
+30	FALSE	Khalifa Airways::fleet_size	37 / 30	
+In the Arab press that month it was reported that the airline was only operating &quot ; a dozen aircraft at the most , &quot ; out of the 30 it previously had in its fleet .
+
+#	NEW	fleet_size	........ / 1989	// In 1989 the first international scheduled service was started between Los Angeles and La Paz , <a> Loreto </a> and <a> Los Cabos </a> .
+
+#	NEW	fleet_size	........ / 1	// <p> Gambia International Airlines was established on 23 January 1996 and started operations ( originally only <a> ground handling </a> ) on 1 March of the same year .
+
+#	NEW	fleet_size	........ / 1999	// It ceased operations in October <a> 1999 </a> . </p>
+
+34	FALSE	Kam Air::fleet_size	3 / 2010	
+It operates scheduled domestic passenger services and international services to the <a> Middle East </a> , Asian republics and from August 2010 also to <a> Vienna </a> , Austria in Europe .
+
+#	NEW	fleet_size	........ / 2004	// <p> Thai Air Cargo was established in December 2004 as a joint venture between a Thai logistics firm , Commercial Transport International , or <a> CTI Holdings </a> ( 51% ) and Australian airline <a> Qantas </a> ( 49% ) . </p>
+
+#	NEW	fleet_size	........ / 2005 ) :	// <p> Aerocaribe operated the following services ( at January 2005 ) : </p>
+
+37	FALSE	Afriqiyah Airways::fleet_size	13 / <a>	
+It operates domestic services between Tripoli and <a> Benghazi </a> and international scheduled services to over 25 countries in <a> Europe </a> , <a> Africa </a> , <a> Asia </a> and the <a> Middle East </a> .
+
+#	NEW	fleet_size	........ / <a>	// It also operates <a> charter </a> , cargo and <a> wet lease </a> services .
+
+#	null	fleet_size	13 / ..........
+
+#	null	fleet_size	3 / ..........
+
+#	null	fleet_size	8 / ..........
+

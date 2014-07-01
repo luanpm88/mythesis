@@ -1,0 +1,95 @@
+Found: 42
+Found Not Null: 1
+Correct: 0
+Wrong: 1
+Total: 1
+precision: 0.0
+recall: 0.0
+
+
+
+#	NEW	logo_size	........ / <p>	// <p> Two minutes after this call , Tocumen air traffic control lost all contact with Flight 201 .
+
+#	NEW	logo_size	........ / 1979 .	// <p> The airline was established and started operations in 1979 .
+
+#	NEW	logo_size	........ / ( 2006 ) .	// United Eagle Airlines [ [ Airbus A319-100 ] ] at <a> Kunming Wujiaba International Airport </a> ( 2006 ) . ] ]
+
+3	FALSE	Eastern Australia Airlines::logo_size	200 / 1949.	
+<p> The airline was established and started operations in 1949 .
+
+#	NEW	logo_size	........ / 2007 ) :	// <p> Tatarstan Airlines operates flights to the following ( as of May 2007 ) : </p>
+
+#	NEW	logo_size	........ / <a>	// Its main base in Europe is <a> Paris-Charles de Gaulle Airport </a> and in Africa <a> Ibn Batouta International Airport </a> .
+
+#	NEW	logo_size	........ / a> .	// Its main base is <a> Dubai International Airport </a> . </p>
+
+#	NEW	logo_size	........ / 1996 .	// <p> The airline was established and started operations in 1996 .
+
+#	NEW	logo_size	........ / a> .	// The airline ' s branded operation is based in <a> Bydgoszcz </a> . </p>
+
+#	NEW	logo_size	........ / and	// Under the <strong> International Air Services </strong> brand WestWind provides airport terminal services to charter and international airlines at the Saskatoon , Regina and Winnipeg airports .
+
+#	NEW	logo_size	........ / <a>	// Its main base is <a> Miami International Airport </a> .
+
+#	NEW	logo_size	........ / a>	// <p> The three-man flight crew died and the three <a> flight attendants </a> survived .
+
+#	NEW	logo_size	........ / 757	// At the time of takeover , Ladeco was equipped mainly with <a> Boeing 737 </a> aircraft as well as some <a> Boeing 727 </a> s and <a> Boeing 757 </a> s .
+
+#	NEW	logo_size	........ / an	// On September 21 , 2005 , flight 292 executed an <a> emergency landing </a> at <a> Los Angeles International Airport </a> ( LAX ) after the <a> nose wheels </a> jammed in an abnormal position .
+
+#	NEW	logo_size	........ / the	// The captain then took over control from the first officer and aborted the takeoff , but he was unable to stop the plane before it ran off the end of the runway into Bowery Bay .
+
+#	NEW	logo_size	........ / 24	// <p> The airline was established in 1948 and started operations on 24 December 1948 .
+
+#	NEW	logo_size	........ / a> .	// Its base was <a> Barcelona International Airport </a> . </p>
+
+#	NEW	logo_size	........ / </	// <p> The company established its operational and engineering base at <a> Paris-Orly Airport </a> , where its flights were concentrated at <a> Orly Ouest </a> , Orly Airport ' s West Terminal . </p>
+
+#	NEW	logo_size	........ / <a>	// Its main base of operations is at <a> Pago Pago International Airport </a> .
+
+#	NEW	logo_size	........ / </	// The transcontinental flight , carrying three crew and four passengers , had originated in <a> Newark , New Jersey </a> , with its final destination in <a> Oakland , California </a> .
+
+#	NEW	logo_size	........ / </	// Unfortunately , conditions were little better at Ostend , and the aircraft hit a factory chimney while circling to land at Stene Airport . </p>
+
+#	NEW	logo_size	........ / 1995	// Founded in 1991 , it operated regional and international charter flights out of <a> Riga International Airport </a> between 1995 and 2005 . </p>
+
+#	NEW	logo_size	........ / a> .	// Its main base is <a> Kaduna Airport </a> . </p>
+
+#	NEW	logo_size	........ / 2	// <p> The airline was established in March 2002 and started operations on 2 December 2002 .
+
+#	NEW	logo_size	........ / </	// <p> When <a> Horizon Air </a> began operating in 1983 , Cascade was competing against an unstoppable airline that eventually acquired <a> Air Oregon </a> and <a> Transwestern Airlines </a> .
+
+#	NEW	logo_size	........ / 1996 .	// <p> The airline was established in 1996 and started operations in June 1996 .
+
+#	NEW	logo_size	........ / and	// Based at London <a> Stansted Airport </a> , Air Harrods operates a fleet of <a> helicopter </a> s liveried in green and gold ; colours commonly associated with the Harrods name .
+
+#	NEW	logo_size	........ / a> .	// It was founded in 1996 , and since 2005 it operates flights in code share with <a> Varig </a> and <a> TAM Linhas A&#x00e9 ; reas </a> . </p>
+
+#	NEW	logo_size	........ / <a>	// <p> Slovenian Spirit operated flights on the Styrian Spirit network connecting <a> Maribor Airport </a> in <a> Slovenia </a> with <a> Salzburg </a> in <a> Austria </a> , and <a> Paris </a> .
+
+#	NEW	logo_size	........ / 2	// <p> The airline was established on 9 February 2000 and started operations on 2 November 2000 .
+
+#	NEW	logo_size	........ / 2004 .	// <p> The airline was established in 2003 and started operations in January 2004 .
+
+#	NEW	logo_size	........ / 2000	// In 1999 Yute Air filed for <a> bankruptcy </a> and the company and <a> operating certificate </a> were acquired by the Flight International Group in April 2000 and renamed Flight Alaska . </p>
+
+#	NEW	logo_size	........ / 1985	// It was established and started operations in 1985 and operates scheduled and on-demand air cargo services .
+
+#	NEW	logo_size	........ / 2003 .	// <p> The airline was established and started operations in 2003 . </p>
+
+#	NEW	logo_size	........ / 7	// These aircraft are usually <a> STOL </a> <a> Dash-7 </a> s , as they often operate off of unprepared or short airfields .
+
+#	NEW	logo_size	........ / the	// The aircraft was able to land at the airport but sustained substantial damage to the left wing .
+
+#	NEW	logo_size	........ / 1996	// It was established and started operations in 1996 and operates domestic charter services .
+
+#	NEW	logo_size	........ / 1995 .	// <p> The airline was established on 6 October 1994 and started operations in July 1995 .
+
+#	NEW	logo_size	........ / a> .	// Its main base is <a> Riga International Airport </a> . </p>
+
+#	NEW	logo_size	........ / to	// In that call , the pilot said he was from the airport and was starting to descend .
+
+#	NEW	logo_size	........ / 41	// At 17 : 45 , flight 254 took off from Marab&#x00e1 ; , and the <a> autopilot </a> started a long 158&#x00b0 ; curve to port , instead of the reasonable 41 degrees heading correction to starboard that should be expected during a normal flight to Bel&#x00e9 ; m .
+
+#	NEW	logo_size	........ / 747-	// It became a subsidiary of Malaysia Airlines in April 1997 with two <a> Boeing 747-200F </a> freighters from the parent company .
+

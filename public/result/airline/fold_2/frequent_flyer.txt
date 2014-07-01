@@ -1,0 +1,60 @@
+Found: 26
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	frequent_flyer	........ / based Saltchuk	// In February 2006 the airline and its subsidiaries were wholly acquired by <a> Seattle </a> -based Saltchuk Resources .
+
+#	NEW	frequent_flyer	........ / they were	// They also found an additional $40 , 000 in insurance policies ; however , Mrs . King had not signed either these policies or those purchased at the airport , and they were therefore worthless .
+
+#	NEW	frequent_flyer	........ / Jimmie Bergqvist .	// Transwede Airways had appointed a new CEO , Trygve Gjertsen , who started January 1 , 2007 , taking over Jimmie Bergqvist . </p>
+
+#	NEW	frequent_flyer	........ / returned to	// The aircraft was re-registered N28714 and returned to service .
+
+#	NEW	frequent_flyer	........ / French airline	// Operations of the German and French airline subsidiaries were not affected , however .
+
+#	NEW	frequent_flyer	........ / nobody was	// Despite the aircraft coming down in a residential area , nobody was killed on the ground .
+
+#	NEW	frequent_flyer	........ / providing services	// However , the airline now holds the leading position in business aviation and providing services for VIP passengers .
+
+#	NEW	frequent_flyer	........ / Blu- express	// <p> As of September 2009 , the Blu-express fleet includes : </p>
+
+#	NEW	frequent_flyer	........ / comfort needed	// <p> It also includes more than 400 sales points with the easiest access and comfort needed to offer a fast and timely service .
+
+#	NEW	frequent_flyer	........ / SADELCA fleet	// <p> As of August <a> 2006 </a> the SADELCA fleet includes : </p>
+
+#	NEW	frequent_flyer	........ / per	// When this was granted , it saved the company NOK&nbsp ; 540 , 000 per year .
+
+#	NEW	frequent_flyer	........ / current CHC	// <p> On the 26 october 2010 the name was changed back to the current CHC Helikopter Service .
+
+#	NEW	frequent_flyer	........ / airline plans	// The airline plans to fly to other countries like Brazil , Mexico and Canada .
+
+#	NEW	frequent_flyer	........ / Flying Lambs&	// <p> In 1965 , the Canadian Broadcasting Corporation ( <a> CBC </a> ) produced a television show called &quot ; The Flying Lambs&quot ; .
+
+#	NEW	frequent_flyer	........ / A&# x00e9 ;	// <p> In June 2010 TEAM Linhas A&#x00e9 ; reas operated services to the following destinations : </p>
+
+#	NEW	frequent_flyer	........ / airline advertised	// The airline advertised its service as <em> &quot ; High Class .
+
+#	NEW	frequent_flyer	........ / three crew	// The aircraft carried 29 passengers and three crew members .
+
+#	NEW	frequent_flyer	........ / United	// At the time of its formation , Republic was the sixth largest airline in the United States .
+
+#	NEW	frequent_flyer	........ / then all	// 33 minutes into the flight the pilot reported to be on course flying at 10 , 000 metres , then all contact was lost . </p>
+
+#	NEW	frequent_flyer	........ / aircraft had	// It was later determined that the bomb was powerful enough to have destroyed the aircraft had it worked correctly . </p>
+
+#	NEW	frequent_flyer	........ / airline	// The airline is owned by <a> Royal Jordanian </a> . </p>
+
+#	NEW	frequent_flyer	........ / were	// On 9 December 2005 , its first international services to <a> Valencia </a> , Venezuela , were launched .
+
+#	NEW	frequent_flyer	........ / delayed connecting	// The flight departed O ' Hare over 90 minutes late due to bad weather and delayed connecting passengers .
+
+#	NEW	frequent_flyer	........ / following destinations :	// <p> NHT operates services to the following destinations : </p>
+
+#	NEW	frequent_flyer	........ / crew	// <p> As a result of the crash , 65 passengers and 5 crew members were fatally injured .
+
+#	NEW	frequent_flyer	........ / addition it	// <p> In addition it offers charter flights . </p>
+

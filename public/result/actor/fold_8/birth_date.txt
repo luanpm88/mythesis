@@ -1,0 +1,49 @@
+Found: 19
+Found Not Null: 1
+Correct: 1
+Wrong: 0
+Total: 1
+precision: 1.0
+recall: 1.0
+
+
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Louise Dresser </strong> ( October 5 , 1878 &ndash ; April 24 , 1965 ) was an American actress .
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Corinne Mae Griffith </strong> ( November 21 , 1894 &ndash ; July 13 , 1979 ) was an <a> American </a> actress .
+
+2	TRUE	Christopher McQuarrie::birth_date	1968 / <strong>	
+<p> <strong> Christopher McQuarrie </strong> ( born 1968 ) is an <a> American </a> screenwriter , producer and director .
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Charles Braun Ludlam </strong> ( April 12 , 1943 &#x2013 ; May 28 , 1987 ) was an <a> American </a> actor , director , and playwright . </p>
+
+#	NEW	birth_date	........ / Wise	// <p> Wise was married to the dancer Doreen Blythe from 18 January 1953 until his death ; they had no children . </p>
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Lana Turner </strong> ( February 8 , 1921 &ndash ; June 29 , 1995 ) was an <a> American </a> <a> actress </a> . </p>
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Buddy Ebsen </strong> ( April 2 , 1908 &ndash ; July 6 , 2003 ) was an American <a> character actor </a> and dancer .
+
+#	NEW	birth_date	........ / em>	// Kildare </a> </em> , telecast on October 10 , 1963 .
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Loretta Young </strong> ( January 6 , 1913 &ndash ; August 12 , 2000 ) was an American actress .
+
+#	NEW	birth_date	........ / Vaughn	// <p> Vaughn continued to act , in television and in mostly <a> B movie </a> s .
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Debra Monk </strong> ( born February 27 , 1949 ) is an American actress , singer , and writer . </p>
+
+#	NEW	birth_date	........ / Goldman	// <p> Goldman died from a <a> heart attack </a> in <a> New York City </a> , where he had lived for many years . </p>
+
+#	NEW	birth_date	........ / In 1980 ,	// <p> In 1980 , he starred and directed <a> The Gong Show Movie </a> .
+
+#	NEW	birth_date	........ / Ron 10 , 2007 .	// <a> Ron Carlivati </a> was subsequently made co-head writer , with Higley ultimately leaving the series on September 10 , 2007 . </strong> </em> </p>
+
+#	NEW	birth_date	........ / June 22 , 1959 .	// They were married on June 22 , 1959 . </p>
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Spalding Rockwell Gray </strong> ( June 5 , 1941 &ndash ; ca .
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Lillian Diana Gish </strong> ( October 14 , 1893&nbsp ; &#x2013 ; February 27 , 1993 ) was an American stage , screen and television actress whose film acting career spanned 75 years , from 1912 to 1987 . </p>
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Samantha Eggar </strong> ( born 5 March 1939 ) is an <a> English </a> actress . </p>
+
+#	NEW	birth_date	........ / em>	// Also the same year , she appeared in another romantic comedy , <em> <a> My Best Friend ' s Girl </a> </em> , which was released in September . </p>
+

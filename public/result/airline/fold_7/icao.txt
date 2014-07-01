@@ -1,0 +1,109 @@
+Found: 45
+Found Not Null: 9
+Correct: 4
+Wrong: 5
+Total: 9
+precision: 0.4444444444444444
+recall: 0.4444444444444444
+
+
+
+#	NEW	icao	........ / Myanmar	// <p> <strong> Air Mandalay </strong> ( ) is an <a> airline </a> based in <a> Yangon </a> , <a> Myanmar </a> .
+
+#	NEW	icao	........ / Kangaroo	// <p> <strong> Emu Airways </strong> was an <a> airline </a> based in <a> Adelaide </a> in <a> Australia </a> operating tourist flights to nearby <a> Kangaroo Island </a> .
+
+2	FALSE	Airfast Indonesia::icao	afe / Indonesia	
+<p> <strong> Airfast Indonesia </strong> is an <a> airline </a> based in <a> Jakarta </a> , <a> Indonesia </a> .
+
+#	NEW	icao	........ / Batavia	// <p> <strong> Batavia Air </strong> ( PT .
+
+#	NEW	icao	........ / Astral	// <p> <strong> Astral Aviation </strong> is a <a> cargo airline </a> based in <a> Nairobi </a> , <a> Kenya </a> .
+
+#	NEW	icao	........ / Barbuda	// <p> <strong> Caribbean Star Airlines </strong> was an <a> airline </a> based in <a> Antigua and Barbuda </a> .
+
+#	NEW	icao	........ / Tu-	// <p> The airline was founded and started operations in 1990 as <strong> Varna International Airways </strong> using a brand new <a> Tupolev Tu-154M </a> aircraft .
+
+#	NEW	icao	........ / Sosoliso	// <p> <strong> Sosoliso Airlines </strong> was a scheduled , domestic , passenger <a> airline </a> .
+
+#	NEW	icao	........ / China	// <p> <strong> China Cargo Airlines </strong> ( ) sometimes as abbreviated &#x4e2d ; &#x8d27 ; &#x822a ; , is a <a> cargo airline </a> based in <a> Shanghai </a> , <a> People ' s Republic of China </a> .
+
+#	NEW	icao	........ / France	// On 23 November 2006 the airline changed its name to <strong> XL Airways France </strong> .
+
+#	NEW	icao	........ / Canada	// <p> <strong> Air Nunavut </strong> is an <a> airline </a> based in <a> Iqaluit </a> , <a> Nunavut </a> , <a> Canada </a> .
+
+#	NEW	icao	........ / Philippines	// <p> <strong> Zest Airways Inc . </strong> ( formerly <strong> Asian Spirit </strong> ) is an airline based in <a> Pasay City </a> , <a> Manila </a> in the <a> Philippines </a> .
+
+12	TRUE	WDL Aviation::icao	wdl / WDL	
+<p> <strong> WDL Aviation </strong> is an <a> charter airline </a> based at <a> Cologne Bonn Airport </a> , <a> Germany </a> . </p>
+
+#	NEW	icao	........ / Pakistan	// <p> <strong> <a> Pakistan </a> </strong> </p>
+
+14	FALSE	Australian air Express::icao	xme / Australian	
+<p> <strong> Australian air Express </strong> is a <a> logistics </a> company based in <a> Melbourne </a> , <a> Australia </a> .
+
+#	NEW	icao	........ / France	// <p> <strong> New Axis Airways </strong> was an <a> airline </a> based in <a> Marseille </a> , <a> France </a> .
+
+#	NEW	icao	........ / Austria	// <p> <strong> Welcome Air </strong> Luftfahrt is an <a> airline </a> based in <a> Innsbruck </a> , <a> Austria </a> . </p>
+
+17	TRUE	Rossair Europe::icao	ros / Netherlands	
+<p> <strong> Rossair Europe </strong> is an <a> airline </a> based in the <a> Netherlands </a> . </p>
+
+#	NEW	icao	........ / Armenia	// <p> <strong> Air Armenia </strong> is an <a> airline </a> based in <a> Yerevan </a> , <a> Armenia </a> .
+
+19	FALSE	Cobham Aviation Services Australia::icao	njs / Cobham	
+<p> <strong> Cobham Aviation Services Australia </strong> ( formerly <strong> National Jet </strong> Systems ) , is a scheduled and charter <a> airline </a> with its Headquarters based in <a> Adelaide </a> , <a> Australia </a> .
+
+#	NEW	icao	........ / Nolinor	// <p> <strong> Les Investissements Nolinor Inc . </strong> , trading as <strong> Nolinor Aviation </strong> , is a <a> charter airline </a> based in <a> Montreal </a> , <a> Quebec </a> , <a> Canada </a> .
+
+#	NEW	icao	........ / Swaziland	// <p> <strong> Royal Swazi National Airways Corporation </strong> was the <a> national airline </a> of the <a> Kingdom of Swaziland </a> .
+
+22	FALSE	Sevenair::icao	sen / Tunisair	
+<p> <strong> Sevenair </strong> ( ( ) , formerly known as <strong> Tuninter </strong> ( ) is an <a> airline </a> based in <a> Tunis </a> , Tunisia and operates internal , short-distance flights as part of <a> Tunisair </a> . </p>
+
+#	NEW	icao	........ / Zambia	// <p> <strong> Zambian Airways </strong> was the <a> flag carrier </a> of Zambia , based in <a> Lusaka </a> , <a> Zambia </a> .
+
+#	NEW	icao	........ / Zambia	// <p> <strong> Nationwide Airlines ( Zambia ) Limited </strong> is a scheduled , domestic , passenger <a> airline </a> based in <a> Zambia </a> .
+
+#	NEW	icao	........ / Easy	// <p> <strong> Easy Link Aviation </strong> Services was an <a> airline </a> based in <a> Nigeria </a> . </p>
+
+26	TRUE	Orion Air::icao	ori / Seychelles	
+<p> <strong> Orion Air </strong> was an <a> airline </a> based in the <a> Seychelles </a> . </p>
+
+#	NEW	icao	........ / Phoenix	// <p> <strong> Phoenix Aviation </strong> was an <a> airline </a> based in <a> Sharjah </a> , <a> United Arab Emirates </a> .
+
+#	NEW	icao	........ / AKFED	// <p> <strong> Celestair </strong> is a group of airlines <a> Air Burkina </a> , <a> Air Mali </a> and <a> Air Uganda </a> , part of <a> AKFED </a> Group </p>
+
+#	NEW	icao	........ / Executive	// <p> <strong> Executive Aerospace </strong> was a charter <a> airline </a> based in <a> Johannesburg </a> , <a> South Africa </a> .
+
+#	NEW	icao	........ / Turkey	// <p> <strong> SunExpress </strong> ( ) is an <a> airline </a> based in <a> Antalya </a> , <a> Turkey </a> .
+
+#	NEW	icao	........ / Lugano	// <p> <strong> Darwin Airline </strong> is a <a> regional airline </a> with its head office on the grounds of <a> Lugano Airport </a> in <a> Agno </a> , <a> Switzerland </a> , near <a> Lugano </a> .
+
+#	NEW	icao	........ / China	// <p> <strong> Chang&#x2019 ; an Airlines Co . , Ltd . </strong> ( &#x957f ; &#x5b89 ; &#x822a ; &#x7a7a ; ) is an <a> airline </a> based in <a> Xi ' an </a> , <a> Shaanxi </a> , the <a> People ' s Republic of China </a> .
+
+#	NEW	icao	........ / Toll	// <p> <strong> Toll Aviation </strong> is an <a> airline </a> based in <a> Brisbane </a> , <a> Australia </a> .
+
+#	NEW	icao	........ / Mozambique	// <p> <strong> Air Corridor </strong> was an <a> airline </a> based in <a> Nampula </a> , <a> Mozambique </a> .
+
+#	NEW	icao	........ / Afghanistan	// <p> <strong> Bakhtar Afghan Airlines </strong> was an <a> airline </a> based in <a> Afghanistan </a> .
+
+#	NEW	icao	........ / Accra	// <p> <strong> CTK CiTylinK </strong> is an <a> airline </a> in <a> Ghana </a> based in <a> Accra </a> .
+
+#	NEW	icao	........ / Benin	// <p> <strong> Aero Benin </strong> is an <a> airline </a> based in <a> Benin </a> . </p>
+
+38	TRUE	Premium Air Shuttle::icao	emi / Nigeria	
+<p> <strong> Premium Air Shuttle </strong> was an <a> airline </a> based in <a> Nigeria </a> . </p>
+
+#	NEW	icao	........ / Faso	// <p> <strong> Faso Airways </strong> is an <a> airline </a> based in <a> Ouagadougou </a> , <a> Burkina Faso </a> .
+
+40	FALSE	Yeti Airlines::icao	- / Nepal	
+Ltd . </strong> is an <a> airline </a> based in <a> Nepal </a> .
+
+#	NEW	icao	........ / Indonesia	// <p> <strong> Jatayu Airlines </strong> ( Jatayu Gelang Sejahtera ) was an <a> airline </a> based in <a> Jakarta </a> , <a> Indonesia </a> .
+
+#	NEW	icao	........ / Trans	// <p> <strong> Trans Air Benin </strong> is a scheduled passenger <a> airline </a> based in <a> Cotonou </a> in <a> Benin </a> .
+
+#	NEW	icao	........ / Kyrgyzstan	// <p> <strong> KAS Air Company </strong> was an <a> airline </a> based in <a> Kyrgyzstan </a> . </p>
+
+#	NEW	icao	........ / Australia	// <p> <strong> Capiteq Limited </strong> , ref name=&quot ; ABN&quot ; / trading as <strong> Airnorth </strong> , is a <a> regional airline </a> ref name=&quot ; AOC&quot ; / based in <a> Darwin </a> in <a> Australia </a> .
+

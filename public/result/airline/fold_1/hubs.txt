@@ -1,0 +1,80 @@
+Found: 36
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	hubs	........ / Hawaii	// <p> One hundred forty miles Northwest of Hawaii , at 36 , 000 feet , and with 274 people onboard , a bomb placed under a seat cushion exploded , killing 16-year-old Toru Ozawa , a <a> Japan </a> ese national .
+
+#	NEW	hubs	........ / Logan	// <p> ! Deleted image removed : At 5 : 42 p . m . EST , Northeast Airlines Flight 946 left <a> Logan International Airport </a> towards its first stop in <a> Lebanon , New Hampshire </a> .
+
+#	NEW	hubs	........ / Hobby	// <p> At 16 : 11 , the crew departed <a> William P . Hobby Airport </a> as Braniff Flight 352 , a <a> Lockheed L-188A Electra </a> four-engine <a> turboprop </a> , en route to <a> Dallas-Love Field </a> .
+
+#	NEW	hubs	........ / Bay	// Its main base was at the <a> Thunder Bay International Airport </a> .
+
+#	NEW	hubs	........ / Tambo	// Its main base is <a> OR Tambo International Airport </a> , Johannesburg .
+
+#	NEW	hubs	........ / Douglas	// The aircraft was a four-engine <a> Douglas </a> <a> DC-8-54CF </a> airliner , registered CF-TJN .
+
+#	NEW	hubs	........ / Gaulle	// US carriers have previously operated to Orly but were forced to move to <a> Charles de Gaulle International Airport </a> by the French government .
+
+#	NEW	hubs	........ / Lungi	// It is based at the <a> Lungi International Airport </a> , in <a> Lungi </a> , <a> Sierra Leone </a> .
+
+#	NEW	hubs	........ / Stansted	// <p> In 1967 , Lloyd International shifted its main operating base from Gatwick to <a> Stansted </a> .
+
+#	NEW	hubs	........ / aircraft	// <p> The passengers and crew subsequently re-boarded the aircraft , which then returned to Khartoum International at 22 : 00 local time ( 1900 GMT ) .
+
+#	NEW	hubs	........ / Kennedy	// <p> Flight 980 made a normal departure from Kennedy Airport and had an uneventful flight to the Caribbean .
+
+#	NEW	hubs	........ / Hatta	// It operated passenger and cargo charters out of <a> Soekarno-Hatta International Airport </a> , Jakarta . . </p>
+
+#	NEW	hubs	........ / and	// It operates domestic and international passenger and freight services . </p>
+
+#	NEW	hubs	........ / Zurich	// The plane was scheduled to depart from <a> Zurich Airport </a> ( Switzerland ) on Monday , 10 January 2000 , at around 6 : 00 p . m . and arrive in <a> Dresden Airport </a> ( Germany ) a few hours later .
+
+#	NEW	hubs	........ / Harbor	// Its main base is <a> Phoenix Sky Harbor International Airport </a> .
+
+#	NEW	hubs	........ / Tempelhof	// <p> Flight 708 usually landed at <a> Tempelhof Airport </a> .
+
+#	NEW	hubs	........ / airline	// <p> <strong> Loch Lomond Seaplanes </strong> is an <a> airline </a> based in <a> Scotland </a> .
+
+#	NEW	hubs	........ / Arlanda	// <p> From <a> Stockholm-Arlanda Airport </a> </p>
+
+#	NEW	hubs	........ / ry	// Its main bases are <a> Chamb&#x00e9 ; ry Airport </a> and <a> Lyon-Bron Airport </a> , <a> Lyon </a> . . </p>
+
+#	NEW	hubs	........ / American	// <p> <strong> Superior Aviation </strong> is an <a> American </a> <a> airline </a> based in <a> Lansing </a> , <a> Michigan </a> , <a> USA </a> .
+
+#	NEW	hubs	........ / charter	// It operates <a> air charter </a> , freight and subcontract flights with hubs at <a> Wellington International Airport </a> and <a> Darwin International Airport </a> , <a> Australia </a> .
+
+#	NEW	hubs	........ / llivare	// The company has its headquarters and technical base at G&#x00f6 ; teborg City Airport ( S&#x00e4 ; ve ) and helicopters stationed in <a> G&#x00e4 ; llivare </a> , <a> Gothenburg </a> , <a> Ronneby </a> , <a> Sundsvall </a> , <a> Stockholm </a> and <a> Visby </a> .
+
+#	NEW	hubs	........ / EET	// <p> TK5904 with two pilots and four flight attendants took off empty at 00 : 36 <a> EET </a> from <a> Adana &#x015e ; akirpa&#x015f ; a Airport </a> to pick up pilgrims at <a> King Abdulaziz International Airport </a> in <a> Jeddah </a> , <a> Saudi Arabia </a> .
+
+#	NEW	hubs	........ / the	// As a result the airport was closed for two days .
+
+#	NEW	hubs	........ / airline	// Ltd . </strong> is an <a> airline </a> based in <a> Nepal </a> which started operations in March 2006 .
+
+#	NEW	hubs	........ / Reykjavik	// Its main base was <a> Reykjavik International Airport </a> , Reykjav&#x00ed ; k .
+
+#	NEW	hubs	........ / American	// <p> <strong> Skyway Enterprises </strong> is an <a> American </a> <a> airline </a> based in <a> Kissimmee </a> , <a> Florida </a> , <a> USA </a> .
+
+#	NEW	hubs	........ / Stockholm	// Waltair was established in 1997 and has bases in Stockholm , Norrk&#x00f6 ; ping and V&#x00e4 ; xj&#x00f6 ; . </p>
+
+#	NEW	hubs	........ / Addison	// Its main base is <a> Addison Airport </a> , near <a> Dallas </a> .
+
+#	NEW	hubs	........ / East	// <p> From its beginning , the airline offered charter services from Egyptian holiday resorts to Europe and the <a> Middle East </a> on behalf of local and international <a> tour operator </a> s .
+
+#	NEW	hubs	........ / Maputo	// Its main base is <a> Maputo International Airport </a> . . </p>
+
+#	NEW	hubs	........ / Frankfurt	// It operates scheduled and chartered cargo flights out of <a> Frankfurt Airport </a> , most of which are either to <a> Birmingham Airport </a> or <a> Coventry Airport </a> . </p>
+
+#	NEW	hubs	........ / Tolmachevo	// Its main base is <a> Novosibirsk Tolmachevo Airport </a> . . </p>
+
+#	NEW	hubs	........ / airline	// <p> <strong> Marsland Aviation </strong> is an <a> airline </a> based in <a> Khartoum </a> , <a> Sudan </a> .
+
+#	NEW	hubs	........ / Dali	// Its main base is <a> Dali Airport </a> . </p>
+
+#	NEW	hubs	........ / 1971	// It started services in <a> 1971 </a> between Land ' s End Airport and the Scilly Isles with a <a> de Havilland Dragon Rapide </a> and <a> Britten-Norman Islander </a> . </p>
+

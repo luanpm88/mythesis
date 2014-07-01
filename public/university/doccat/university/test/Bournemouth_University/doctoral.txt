@@ -1,8 +1,0 @@
-<li>Abbotsbury House - for nursing students.</li>
-<li>Hannah Fernando - News Editor, <a>Heat Magazine</a></li>
-<li><a>Matthew Osment</a> - Environmental activist/musician</li>
-<li><a>Peter Kosminsky</a> - Film Writer and Director</li>
-<li><a>Fergal Keane</a> - BBC journalist</li>
-<li><a>Peter Alliss</a> - Golf commentator</li>
-<li><a>Bill Bryson</a> - Travel writer</li>
-<li><a>Martin Clunes</a> - Comedy actor</li>

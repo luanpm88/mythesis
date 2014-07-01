@@ -1,9 +1,0 @@
-<li>Department of Design</li>
-<li>Department of Fine Art</li>
-<li>Department of Built Environment Management</li>
-<li>Department of Construction Engineering</li>
-<li>Department of Business</li>
-<li>Department of Humanities</li>
-<li>Department of Electrical &amp; Electronic Engineering</li>
-<li>Department of Mechanical &amp; Automobile Engineering</li>
-<h2>LIT Working with Enterprise</h2>

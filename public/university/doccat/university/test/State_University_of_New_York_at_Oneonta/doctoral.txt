@@ -1,4 +1,0 @@
-<li><a>Bill Pullman</a> - Actor, Director, Producer</li>
-<li><a>Roger Watkins</a> - Film Director and Actor </li>
-<li><a>Gary Valentine</a> - Actor</li>
-<li><a>Gary Sinise</a>- Actor </li>

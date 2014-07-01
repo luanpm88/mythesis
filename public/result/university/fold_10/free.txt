@@ -1,0 +1,22 @@
+Found: 112
+Found Not Null: 4
+Correct: 0
+Wrong: 4
+Total: 4
+precision: 0.0
+recall: 0.0
+
+
+
+54	FALSE	Williams College::free	ephs / 124	
+As of 2009, the school has an enrollment of 2,124 undergraduate students and 49 graduate students. </p>
+
+59	FALSE	University of California, Los Angeles::free	daily bruin / , '	
+She said, 'No.'
+
+62	FALSE	Mount Saint Vincent University::free	mystics / ,	
+Over the ensuing years, the order developed a convent, schools, an orphanage, and health care facilities throughout the Halifax area, as well as across North America. </p>
+
+98	FALSE	Berea College::free	mountaineers / 12	
+<p> All students are required to attend the college on a full-time basis, which is 3.00 course credits of enrollment, or 12 semester hours.
+

@@ -1,0 +1,98 @@
+Found: 45
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	key_people	........ / the United	// Richard Olney of the United States Air Force base at San Juan , Puerto Rico , and Maj .
+
+#	NEW	key_people	........ / injured 15	// The blast also injured 15 other people ( including the boy ' s parents ) and caused damage to the floor and ceiling .
+
+#	NEW	key_people	........ / Edmond Rousse	// In addition , Edmond Rousse , Jr . , also began working at National Life . </p>
+
+#	NEW	key_people	........ / the bodies	// <p> Many of the bodies were found in pieces .
+
+#	NEW	key_people	........ / at the	// Its main base was at the <a> Thunder Bay International Airport </a> .
+
+#	NEW	key_people	........ / Flight 2	// <p> Flight 2 departed Sea-Tac at just after 8 : 00 AM .
+
+#	NEW	key_people	........ / main base	// Its main base is <a> OR Tambo International Airport </a> , Johannesburg .
+
+#	NEW	key_people	........ / a four-	// The aircraft was a four-engine <a> Douglas </a> <a> DC-8-54CF </a> airliner , registered CF-TJN .
+
+#	NEW	key_people	........ / Soci&# x00e9 ;	// <p> L ' Avion was wholly owned by Soci&#x00e9 ; t&#x00e9 ; de Participation A&#x00e9 ; rienne ( SPA ) and has 55 employees ( at March 2007 ) . </p>
+
+#	NEW	key_people	........ / flights between	// Scheduled flights between <a> London Gatwick Airport </a> and <a> Lungi International Airport </a> , Freetown , resumed on 30 November 2004 .
+
+#	NEW	key_people	........ / the company '	// It was also the company ' s first <a> turbofan </a> -powered jet . </p>
+
+#	NEW	key_people	........ / formed a	// name=&quot ; france24&quot ; / Sudan ' s Civil Aviation Authority also formed a separate committee specifically to investigate how Muhammed was able to pass through security undetected . ref
+
+#	NEW	key_people	........ / the crash	// At the crash site 3 Estonian fishing boats and the remains of the airplane were found .
+
+#	NEW	key_people	........ / the crew	// At this point the crew noticed a possible discrepancy between the fuel gauges and what had been computed as the amount of fuel remaining .
+
+#	NEW	key_people	........ / operated passenger	// It operated passenger and cargo charters out of <a> Soekarno-Hatta International Airport </a> , Jakarta . . </p>
+
+#	NEW	key_people	........ / is a	// <p> <a> Lonrho Africa </a> is a major investor in the company , paying <a> US $ </a> 1 . 5 million for a 49 % stake .
+
+#	NEW	key_people	........ / theory resulted	// The theory resulted in multiple countries banning <a> mobile phone usage on aircraft </a> . </p>
+
+#	NEW	key_people	........ / main base	// Its main base is <a> Phoenix Sky Harbor International Airport </a> .
+
+#	NEW	key_people	........ / found very	// It found very few safety deficiencies , and complimented the airline on its internal evaluation system .
+
+#	NEW	key_people	........ / undetermined because	// The cause was undetermined because U . S . investigators were not allowed to survey the accident site or the aircraft remains .
+
+#	NEW	key_people	........ / Company Number	// <p> <a> Companies House </a> Company Number SC243178 </p>
+
+#	NEW	key_people	........ / Stockholm- Arlanda	// <p> From <a> Stockholm-Arlanda Airport </a> </p>
+
+#	NEW	key_people	........ / main bases	// Its main bases are <a> Chamb&#x00e9 ; ry Airport </a> and <a> Lyon-Bron Airport </a> , <a> Lyon </a> . . </p>
+
+#	NEW	key_people	........ / in 1977	// It was founded in 1977 as <strong> Appalachian Flying Service </strong> , and ceased its operations in 1980 . </p>
+
+#	NEW	key_people	........ / ref name=&	// <p> As of January 2005 the Superior Aviation fleet also includes ref name=&quot ; FI&quot ; / : </p>
+
+#	NEW	key_people	........ / Danish investors	// The airline was founded by a group of Danish investors and operated its first flight on 19 September 2006 . </p>
+
+#	NEW	key_people	........ / in 1992 .	// It was founded by Peter Vincent in 1992 . </p>
+
+#	NEW	key_people	........ / a British	// <p> <strong> Leisure International Airways </strong> was a British charter airline . </p>
+
+#	NEW	key_people	........ / operates twelve	// Norrlandsflyg operates twelve <a> Sikorsky S-76 </a> helicopters . </p>
+
+#	NEW	key_people	........ / were no	// There were no passengers on board , all the 6 crew members died in the accident . </p>
+
+#	NEW	key_people	........ / the airport	// As a result the airport was closed for two days .
+
+#	NEW	key_people	........ / is an	// Ltd . </strong> is an <a> airline </a> based in <a> Nepal </a> which started operations in March 2006 .
+
+#	NEW	key_people	........ / in 2004 .	// Kampuchea Airlines was shut down in 2004 . </p>
+
+#	NEW	key_people	........ / Reykjavik International	// Its main base was <a> Reykjavik International Airport </a> , Reykjav&#x00ed ; k .
+
+#	NEW	key_people	........ / moved operations	// It moved operations to Kissimmee in 1989 . </p>
+
+#	NEW	key_people	........ / has 750	// The company currently has 750 employees . </p>
+
+#	NEW	key_people	........ / is a	// <p> <strong> WaltAir </strong> is a Swedish taxi airline .
+
+#	NEW	key_people	........ / main base	// Its main base is <a> Addison Airport </a> , near <a> Dallas </a> .
+
+#	NEW	key_people	........ / in 1998	// <p> Midwest Airlines was founded in 1998 with an initial fleet of two <a> Airbus A310-300 </a> s .
+
+#	NEW	key_people	........ / main base	// Its main base is <a> Maputo International Airport </a> . . </p>
+
+#	NEW	key_people	........ / December 2010	// <p> As of December 2010 , the Nightexpress fleet consists of the following aircraft : </p>
+
+#	NEW	key_people	........ / August 2006	// <p> As of August 2006 the airline also operated : </p>
+
+#	NEW	key_people	........ / May <a>	// <p> As of May <a> 2007 </a> , Marsland Aviations operates scheduled passenger flights to the following destinations : </p>
+
+#	NEW	key_people	........ / main base	// Its main base is <a> Dali Airport </a> . </p>
+
+#	NEW	key_people	........ / The company	// <p> The company operates two <a> Cessna 152 </a> s and two <a> Cessna 172 </a> s </p>
+

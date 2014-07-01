@@ -1,0 +1,81 @@
+Found: 17
+Found Not Null: 5
+Correct: 1
+Wrong: 4
+Total: 21
+precision: 0.2
+recall: 0.047619047619047616
+
+
+
+0	FALSE	Futura International Airways::iata	fh / It	
+It operated scheduled services and charter flights for tour operators and other airlines , in <a> Europe </a> , as well as <a> wet lease </a> and ad hoc charters .
+
+#	NEW	iata	........ / It	// It operates international scheduled and ad-hoc cargo charter services .
+
+#	NEW	iata	........ / destinations :	// <p> Skywest Airlines operates scheduled international flights to the following destinations : </p>
+
+#	NEW	iata	........ / at	// <p> <a> Mesa Airlines </a> operated America West Express from hubs at <a> Sky Harbor International Airport </a> in <a> Phoenix , Arizona </a> , <a> McCarran International Airport </a> in <a> Las Vegas , Nevada </a> , and <a> Los Angeles International Airport </a> in <a> Los Angeles , California </a> to regional destinations .
+
+4	TRUE	Ansett Australia::iata	an / at	
+<p> Ansett ran a scheduled terminal transfer service at <a> Sydney </a> Airport , which offered seamless connection from its Domestic terminal to the International terminal for Ansett Australia services connecting to Ansett International .
+
+#	NEW	iata	........ / at	// <p> On 2 September 1998 the aircraft used for the flight , registered HB-IWF , crashed into the Atlantic Ocean southwest of <a> Halifax International Airport </a> at the entrance to <a> St .
+
+#	NEW	iata	........ / by	// Hooters Air flights were operated by <a> Winston-Salem , North Carolina </a> -based <a> Pace Airlines </a> both as ad-hoc private charters , and as scheduled <a> USDOT </a> public charters .
+
+#	NEW	iata	........ / US	// <p> WestJet serves major US airports such as <a> Los Angeles International Airport </a> , <a> Las Vegas McCarran International Airport </a> , <a> Newark Liberty International Airport </a> and <a> San Francisco International Airport </a> ; the latter two on a seasonal basis .
+
+8	FALSE	Turkish Airlines::iata	tk / It	
+It operates scheduled services to 130 international and 41 domestic cities ( 38 domestic airports ) , serving a total of 171 airports , in <a> Europe </a> , <a> Asia </a> , <a> Africa </a> , and the <a> Americas </a> .
+
+9	FALSE	Norwegian Air Shuttle::iata	dy / leased	
+Following the bankruptcy , NAS took over three leased Fokker 50 aircraft , and started operating from <a> Bergen Airport , Flesland </a> to <a> Haugesund Airport , Karm&#x00f8 ; y </a> , as well as from Bergen to <a> Molde Airport , &#x00c5 ; r&#x00f8 ; </a> or <a> Kristiansund Airport , Kvernberget </a> and onwards to <a> Trondheim Airport , V&#x00e6 ; rnes </a> .
+
+10	FALSE	All Nippon Airways::iata	nh / at	
+Its main domestic hubs are at <a> Tokyo International Airport </a> , <a> Osaka International Airport </a> , <a> Ch&#x016b ; bu Centrair International Airport </a> ( near <a> Nagoya </a> ) , and <a> New Chitose Airport </a> ( near <a> Sapporo </a> ) . </p>
+
+#	NEW	iata	........ / at	// <p> Aeroper&#x00fa ; was based at <a> Jorge Ch&#x00e1 ; vez International Airport </a> in <a> Lima , Peru </a> , and grew into an international airline while also developing a large <a> jet aircraft </a> route system domestically .
+
+#	NEW	iata	........ / it '	// Continental Express operated more flights to <a> Mexico </a> more than any other airline from it ' s hub <a> George Bush Intercontinental Airport </a> . </p>
+
+#	NEW	iata	........ / at	// <p> The airline ' s main operational base is at <a> Jeddah-King Abdulaziz International Airport </a> ( JED ) .
+
+#	NEW	iata	........ / main	// Its main base was Miami International Airport .
+
+#	NEW	iata	........ / at	// China </a> <a> A330-243 </a> at <a> Beijing Capital International Airport </a> ( 2009 ) Image : Melbourne Airport Star Alliance Aircraft . jpg | Air
+
+#	NEW	iata	........ / at	// <p> <strong> Air Canada Tango </strong> was a <a> low-cost </a> branch of <a> Air Canada </a> , which was established in 2001 to offer <a> no-frills </a> service on some of Air Canada ' s routes and to reduce operating costs at the struggling main company .
+
+#	null	iata	av / ..........
+
+#	null	iata	lh / ..........
+
+#	null	iata	ib / ..........
+
+#	null	iata	sa / ..........
+
+#	null	iata	rj / ..........
+
+#	null	iata	ac / ..........
+
+#	null	iata	ba / ..........
+
+#	null	iata	tw / ..........
+
+#	null	iata	sq / ..........
+
+#	null	iata	ro / ..........
+
+#	null	iata	ir / ..........
+
+#	null	iata	cp / ..........
+
+#	null	iata	be / ..........
+
+#	null	iata	ca / ..........
+
+#	null	iata	ne / ..........
+
+#	null	iata	pa / ..........
+

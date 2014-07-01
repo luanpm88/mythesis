@@ -1,0 +1,17 @@
+Found: 3
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 1
+recall: 0.0
+
+
+
+#	NEW	caption	........ / the cast	// He remained with the cast of the latter show when it moved to <a> television </a> . </p>
+
+#	NEW	caption	........ / quot ;	// The episode , &quot ; If You Can ' t Believe the Truth . . . , &quot ; also featured <a> Barbara Eden </a> and <a> Ken Berry </a> . </p>
+
+#	NEW	caption	........ / Her	// <p> Her third trip was as part of a documentary film expedition in 2007 .
+
+#	null	caption	jack mercer / ..........
+

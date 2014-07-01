@@ -1,2 +1,0 @@
-<li>School of Management</li>
-<li>School of Engineering</li>

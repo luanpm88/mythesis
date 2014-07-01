@@ -1,0 +1,54 @@
+Found: 23
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	birthplace	........ / role in July	// He also played the &quot ; Maytag Repairman&quot ; in commercials for <a> Maytag </a> brand appliances , from 1989 until his retirement from the role in July 2003 . </p>
+
+#	NEW	birthplace	........ / actor and a	// <p> Burgess Meredith was involved in theatre , film , and television , both as an actor and a director .
+
+#	NEW	birthplace	........ / fall of the	// It was finally released in 1990 after the fall of the <a> Communist </a> regime .
+
+#	NEW	birthplace	........ / to generally favorable	// He reprised the role in the <a> Roundabout Theatre </a> ' s New York production which opened in January , 2010 to generally favorable reviews .
+
+#	NEW	birthplace	........ / recurring role in	// She also had a non-recurring role in <strong> <em> ' . </em> </strong> </p>
+
+#	NEW	birthplace	........ / youngest of three	// <p> Christina Cox was born just outside of Toronto , the youngest of three daughters .
+
+#	NEW	birthplace	........ / Award the same	// Winner of the David di Donatello Awards 1974 , Thulin was also been nominated for the BAFTA Award the same year .
+
+#	NEW	birthplace	........ / the animated series	// He was the voice of <a> Moses </a> in the animated series <strong> <em> ' .
+
+#	NEW	birthplace	........ / States , and	// <p> [ [ File : ChristopherPlummer09TIFF . jpg | thumb | right | Plummer at the [ [ 2009 Toronto International Film Festival ] ] ] ] Plummer has won many honours in Canada , the United Kingdom , the United States , and <a> Austria </a> .
+
+#	NEW	birthplace	........ / over the United	// and to fund animal rescue and park facilities all over the United States .
+
+#	NEW	birthplace	........ / in Atlanta and	// Thanhouser traveled around the United States and Eastern Canada with various companies , after which he formed his own stock companies in Atlanta and Milwaukee .
+
+#	NEW	birthplace	........ / to favor their	// In 1959 , the <a> United States Senate </a> opened investigations into &quot ; <a> payola </a> &quot ; , the practice of music-producing companies paying broadcasting companies to favor their product .
+
+#	NEW	birthplace	........ / is a French	// <p> <strong> Marie-France Pisier </strong> ( born 10 May 1944 ) is a French actress .
+
+#	NEW	birthplace	........ / battle fighting <a> obesity	// <p> Wilson has had a lifelong battle fighting <a> obesity </a> .
+
+#	NEW	birthplace	........ / role in the	// She reprised her role in the 1998 sequel <strong> <em> ' . </em> </strong> </p>
+
+#	NEW	birthplace	........ / <strong> Paul Jackson	// <p> <strong> Kevin Paul Jackson </strong> ( born 2 October 1947 ) , credited as <strong> Paul Jackson </strong> ; sometimes as <strong> K .
+
+#	NEW	birthplace	........ / company of attractive	// <p> Romero never married , but made regular appearances on the Hollywood social circuit in the company of attractive actresses .
+
+#	NEW	birthplace	........ / singer as a	// Carrere longed to be a singer as a child .
+
+#	NEW	birthplace	........ / his career in	// He began his career in television .
+
+#	NEW	birthplace	........ / Bay City Blues	// <p> Jurasik also starred as Mitch Kline in the 1983 short-lived <a> CBS </a> series <em> <a> Bay City Blues </a> </em> . </p>
+
+#	NEW	birthplace	........ / entertainment- over- logic	// His films are renowned by film enthusiasts worldwide for their jarring visual style , irreverent humour , nihilistic cool and entertainment-over-logic sensibility .
+
+#	NEW	birthplace	........ / who appears in	// <p> <strong> Kareena Kapoor </strong> ( , pronounced ; born on September 21 , 1980 ) , often informally referred to as <strong> Bebo </strong> , is an Indian actress who appears in <a> Bollywood </a> films .
+
+#	NEW	birthplace	........ / an actor from	// He wanted to be an actor from boyhood .
+

@@ -1,0 +1,106 @@
+Found: 34
+Found Not Null: 20
+Correct: 9
+Wrong: 11
+Total: 24
+precision: 0.45
+recall: 0.375
+
+
+
+#	NEW	founded	........ / 1963	// <p> The airline was established in 1963 by <a> bush pilot </a> Otto John Hegland and started operations in July 1963 from its base at <a> Big Trout Lake , Ontario </a> ( but was named after <a> Bearskin Lake </a> where Hegland had a general store ) .
+
+#	NEW	founded	........ / 500	// <p> The airline was established in August <a> 2004 </a> and its first flight was on June 1 , 2005 with a pair of <a> Boeing 737-500 </a> aircraft .
+
+2	FALSE	Etihad Airways::founded	2003 / September 2004.	
+It started operations in September 2004 . </p>
+
+#	NEW	founded	........ / 99	// <p> During the 1960s the airline operated a <a> Beechcraft Model 99 </a> and six <a> Convair 600 </a> s .
+
+4	FALSE	Caledonian Airways::founded	1961 / 1995	
+<p> In 1995 , British Airways decided to exit the short- to medium-haul <a> package holiday </a> market and sell Caledonian Airways to UK-based tour operator Inspirations , then part of the US-owned Carlson group , along with its core fleet of five Tristars .
+
+5	FALSE	J-Air::founded	august 8, 1996 / 1996	
+<p> In August 1996 , JAL Flight Academy was restructured , J-Air was separated and established as a wholly owned regional subsidiary <a> airline </a> of Japan Airlines on August 8 .
+
+#	NEW	founded	........ / 2000 .	// <p> The airline was established in 1997 and started operations in 2000 .
+
+#	NEW	founded	........ / 1993	// <p> In 1993 , Juhani Pakari and his father started Finncomm Airlines as an <a> Air Taxi </a> business flying light aircraft to remote airstrips which other carriers did not serve .
+
+#	NEW	founded	........ / 1968 .	// <p> The airline was established and started operations on August 7 , 1968 .
+
+9	FALSE	British Caledonian::founded	1970 / 1977.	
+The <a> aircraft </a> operated the inaugural flight between <a> London Gatwick </a> and <a> Houston </a> on 24 October 1977 . ] ]
+
+10	TRUE	Flash Airlines::founded	1995 / 1995	
+( 2003 ) ] ] The airline was established in 1995 as <strong> Heliopolis Airlines </strong> .
+
+11	FALSE	LAN Airlines::founded	1929 / 1995.	
+<p> The approval from the Chilean Anti-monopolies Board resulted in the acquisition of control of the country ' s second airline <a> Ladeco </a> on August 11 , 1995 .
+
+#	NEW	founded	........ / 1946	// <p> The airline was established in 1946 as <a> South West Air Transport </a> and started operations in 1948 .
+
+13	FALSE	Song (airline)::founded	2003 / 200	
+The airline operated more than 200 flights a day and carried over ten million passengers . </p>
+
+14	FALSE	Air Sinai::founded	1982 / 2002	
+<p> Air Sinai ceased airline operations in its own right in 2002 and operates as a ' paper airline ' for its parent company , <a> EgyptAir </a> . ref
+
+#	NEW	founded	........ / 1992	// Tu-154 ] ] ] ] Siberia Airlines was established in May 1992 in <a> Ob </a> . </p>
+
+#	NEW	founded	........ / 2008	// He died on November 21 , 2008 , from complications stemming from injuries he sustained in a fall a month earlier . </p>
+
+17	TRUE	JetLite::founded	1991 / 200	
+<p> The airlines was established on 20 September 1991 and began operations on 3 December 1993 with two <a> Boeing 737-200 </a> aircraft as <strong> Sahara Airlines </strong> .
+
+18	TRUE	Jetsgo::founded	2001 / 2005.	
+<p> Jetsgo was launched on June 12 , 2001 and ceased operations on March 11 , 2005 .
+
+#	NEW	founded	........ / 1992	// <p> Records showed training accidents between 1942 and 1945 accounted for the loss of 95 aviation personnel from NAS Fort Lauderdale In 1992 , another expedition located scattered debris on the ocean floor , but nothing could be identified .
+
+20	TRUE	CityJet::founded	1994 / 12 January 1994.	
+<p> The airline was established on 28 September 1992 and started scheduled operations on 12 January 1994 .
+
+21	TRUE	Air Srpska::founded	1999 / 1999	
+<p> <strong> Air Srpska </strong> was an <a> airline </a> of <a> Srpska </a> , an entity of the <a> State of Bosnia and Herzegovina </a> , which was operational between 1999 and 2003 . </p>
+
+#	NEW	founded	........ / 1999	// The airline obtained a license to operate scheduled services on July 30 , 1999 and operated its first scheduled passenger service on October 1 .
+
+23	TRUE	Mandarin Airlines::founded	1991 / 1991	
+<p> On 16 October 1991 , Mandarin Airlines started operations with direct flights from Taipei to <a> Sydney </a> in <a> Australia </a> .
+
+#	NEW	founded	........ / 1988	// <p> The airline was established in 1987 and started operations in 1988 as <em> Air Botnia </em> .
+
+#	NEW	founded	........ / 23 July 2004 .	// The airline was established in December 2003 and started operations on 23 July 2004 .
+
+26	TRUE	Air Anatolia::founded	1998 / 1998	
+<p> <strong> Air Anatolia </strong> ( <a> Turkish </a> : Anadolu Hava&#x00e7 ; ilik A . S . ) was a <a> charter airline </a> from <a> Turkey </a> , which was operational between 1998 and 2002 . </p>
+
+27	FALSE	Royal Tongan Airlines::founded	1985 / 1974 737- 200	
+It was planned for Friendly Island Airways to begin operations in October 1974 , with technical and managerial assistance provided by the <a> Japanese airline </a> , and for the airline to operate a surplus ANA <a> Boeing 737-200 </a> .
+
+28	FALSE	Avensa::founded	may 13, 1943 / 727	
+Avensa operated a smaller <a> low-cost airline </a> called <a> Servivensa </a> , which operated mainly Boeing 727 aircraft .
+
+29	TRUE	Tunisair::founded	1948 / 1	
+When the company first started in 1948 , its head office was at 1 Rue d ' Ath&#x00e8 ; nes in Tunis .
+
+30	TRUE	Mahan Air::founded	1992 / 1992	
+Air [ [ Airbus A300 | Airbus A300B4-600 ] ] lands at <a> Birmingham International Airport </a> , <a> England </a> ( 2010 ) ] ] The airline was established in 1991 and began operations in 1992 as Iran ' s first private airline .
+
+31	FALSE	Gulf Air::founded	1950 / 28	
+Headquartered in <a> Muharraq </a> , adjacent to <a> Bahrain International Airport </a> , the <a> airline </a> operates scheduled services to 45 destinations in 28 countries across <a> Africa </a> , <a> Asia </a> and <a> Europe </a> .
+
+#	NEW	founded	........ / 1989	// <p> The airline was established and started operations on 15 December 1989 and had been in a marketing agreement with United Airlines since its inception .
+
+33	FALSE	Uzbekistan Airways::founded	1992 / 1993.	
+When international routes became top priority , <a> Airbus </a> planes were leased , starting in 1993 .
+
+#	null	founded	1945 / ..........
+
+#	null	founded	1957 / ..........
+
+#	null	founded	1971 / ..........
+
+#	null	founded	1958 / ..........
+

@@ -1,0 +1,14 @@
+Found: 3
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	death_place	........ / <p> On January 14 , 2011 , it	// <p> On January 14 , 2011 , it was announced that Silverstone and Jarecki were expecting their first child .
+
+#	NEW	death_place	........ / , 1906 &ndash ; August 29 , 2000 ) was	// <p> <strong> Rose Hobart </strong> ( May 1 , 1906 &ndash ; August 29 , 2000 ) was an American actress . </p>
+
+#	NEW	death_place	........ / , Paris , France .	// <p> He is buried next to <a> Simone Signoret </a> in the <a> P&#x00e8 ; re Lachaise </a> Cemetery , Paris , France . </p>
+

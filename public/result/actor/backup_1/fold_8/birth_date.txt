@@ -1,0 +1,54 @@
+Found: 23
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	birth_date	........ / 2002	// In 2002 , however , British courts decided that the cause of Hosny ' s death had been a <a> suicide </a> , although substantial evidence suggested she had been murdered .
+
+#	NEW	birth_date	........ / which	// In the same year , Soderbergh made <em> <a> Full Frontal </a> </em> which was shot mostly on digital video in an improvisional style that deliberately blurred the line between which actors were playing characters and which were playing fictionized versions of themselves .
+
+#	NEW	birth_date	........ / 1 , 1937 )	// <p> <strong> Morgan Porterfield Freeman , Jr . </strong> ( born June 1 , 1937 ) is an American actor , film director , and narrator .
+
+#	NEW	birth_date	........ / April 19 , 1909	// <p> On April 19 , 1909 , the <a> Biograph Company </a> director <a> D .
+
+#	NEW	birth_date	........ / 17 , 1880 &	// <p> <strong> Mack Sennett </strong> ( January 17 , 1880 &ndash ; November 5 , 1960 ) was a <a> Canadian </a> -born <a> American </a> director and was known as the innovator of <a> slapstick </a> comedy in film .
+
+#	NEW	birth_date	........ / 29 , 1936 )	// <p> <strong> Mary Tyler Moore </strong> ( born December 29 , 1936 ) is an American actress , primarily known for her roles in television <a> sitcom </a> s . </p>
+
+#	NEW	birth_date	........ / home	// <p> His <a> Bel Air </a> home , which had six loans totaling $18 million on it , failed to sell an April 2010 foreclosure auction despite an opening offer of $10 . 4 million , far substantially less than the $35 million that Cage had originally tried to sell it for .
+
+#	NEW	birth_date	........ / ( May 6 , 1915&	// <p> <strong> George Orson Welles </strong> ( May 6 , 1915&nbsp ; &#x2013 ; October 10 , 1985 ) , best known as <strong> Orson Welles </strong> , was an American filmmaker , actor , <a> theatre director </a> , <a> screenwriter </a> , and <a> producer </a> , who worked extensively in film , theatre , television and radio .
+
+#	NEW	birth_date	........ / ,	// The film , <em> <a> The Rise and Rise of Michael Rimmer </a> </em> , was not a success , although the cast contained notable names . </p>
+
+#	NEW	birth_date	........ / May 1967 )	// <p> <strong> Madhuri Dixit </strong> ( ) ( born <strong> Madhuri Shankar Dixit </strong> on 15 May 1967 ) is an Indian <a> Bollywood </a> <a> actress </a> .
+
+#	NEW	birth_date	........ / ( April 3 , 1924 &#	// <p> <strong> Marlon Brando , Jr . </strong> ( April 3 , 1924 &#x2013 ; July 1 , 2004 ) was an <a> American </a> actor who performed for over half a century . </p>
+
+#	NEW	birth_date	........ / 16 , 1927 )	// <p> <strong> Peter Michael Falk </strong> ( born September 16 , 1927 ) is a retired American actor , best known for his role as Lieutenant Columbo in the <a> television series </a> <em> <a> Columbo </a> </em> .
+
+#	NEW	birth_date	........ / 17 May 1958 )	// <p> <strong> Paul Whitehouse </strong> ( born 17 May 1958 ) is a British actor , writer and <a> comedian </a> .
+
+#	NEW	birth_date	........ / 1963	// <em> Harakiri </em> won him an <a> award </a> at the <a> 1963 Cannes Film Festival </a> , solidifying his place in the history of cinema . </p>
+
+#	NEW	birth_date	........ / 5 , 1943 )	// <p> <strong> Michael Kenneth Mann </strong> ( born February 5 , 1943 ) is an American <a> film director </a> , <a> screenwriter </a> , and <a> producer </a> .
+
+#	NEW	birth_date	........ / ( 15 September 1921 &	// <p> <strong> Norma MacMillan </strong> ( 15 September 1921 &ndash ; 16 March 2001 ) was a <a> Canadian </a> <a> voice actor </a> . </p>
+
+#	NEW	birth_date	........ / April 8 , 1966 )	// <p> <strong> Robin Gayle Wright </strong> ( born April 8 , 1966 ) is an American actress .
+
+#	NEW	birth_date	........ / ,	// <p> Born <strong> Reginald Ingram Montgomery Hitchcock </strong> in <a> Dublin </a> , <a> Ireland </a> , the son of a <a> clergy </a> man .
+
+#	NEW	birth_date	........ / 2007	// But in 2007 , because of the age of the actors and the onscreen deaths of both characters , he claimed that the project ( which he intended to call <em> Double V Vega </em> ) is &quot ; kind of unlikely now&quot ; . </p>
+
+#	NEW	birth_date	........ / Unhappy	// <p> Unhappy with the theatrical version of the film ( which he blamed on paying too much attention to the opinions of preview audiences ) , Scott supervised a director ' s cut of <em> Kingdom of Heaven </em> , which was released on DVD in 2006 .
+
+#	NEW	birth_date	........ / April 1997 ) , <a>	// 16 April 1997 ) , <a> Rebel Antonio </a> ( b .
+
+#	NEW	birth_date	........ / April 7 , 1964 )	// <p> <strong> Russell Ira Crowe </strong> ( born April 7 , 1964 ) is a New Zealand-born Australian actor and musician .
+
+#	NEW	birth_date	........ / ( October 30 , 1896 &	// <p> <strong> Ruth Gordon Jones </strong> ( October 30 , 1896 &ndash ; August 28 , 1985 ) , better known as <strong> Ruth Gordon </strong> , was an American actress and writer .
+

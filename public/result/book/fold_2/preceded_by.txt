@@ -1,0 +1,531 @@
+Found: 252
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 9
+recall: 0.0
+
+
+
+#	NEW	preceded_by	........ / 11	// <p> <em> Night Fall </em> debuted as number one on the New York Times Best Seller List on December 12 , 2004 , and remained on the list for 11 weeks . </p>
+
+#	NEW	preceded_by	........ / attention to is the way to take	// The other issue he pays attention to is the way to take it cocaine - to sniff it through a hundred dollar bill .
+
+#	NEW	preceded_by	........ / 27	// The essays were selected from his monthly column &quot ; The View of Life&quot ; in <em> <a> Natural History </a> </em> magazine , to which Gould contributed for 27 years .
+
+#	NEW	preceded_by	........ / 1964 .	// <p> <strong> <em> Black Hearts in Battersea </em> </strong> is a children ' s novel by <a> Joan Aiken </a> first published in 1964 .
+
+#	NEW	preceded_by	........ / 1982 .	// All three novels debuted on <a> <em> The New York Times </em> Best Seller list </a> , with <em> North and South </em> reaching #1 within four weeks on February 28 , 1982 .
+
+#	NEW	preceded_by	........ / 1966 .	// <p> <strong> <em> Vanity Dies Hard </em> </strong> is a novel by British writer <a> Ruth Rendell </a> , published in 1966 . </p>
+
+#	NEW	preceded_by	........ / church	// The title originates from a quote of Hubbard ' s from 1950 , when he reportedly said he wanted to sell potential church members a &quot ; piece of blue sky . &quot ; </p>
+
+#	NEW	preceded_by	........ / Alms for Oblivion&quot ; novel	// The novel follows on from Raven&#x2019 ; s &quot ; Alms for Oblivion&quot ; novel sequence . </p>
+
+#	NEW	preceded_by	........ / explanation for the mystery is given at the novel '	// An explanation for the mystery is given at the novel ' s end . </p>
+
+#	NEW	preceded_by	........ / just	// At the same time , he emphasizes the fact that homosexuals are people who have feelings , emotions , and feel love just as anyone else . '
+
+#	NEW	preceded_by	........ / 2	// By the time players arrive at the city in <em> Halo 2 </em> , it is deserted ; &quot ; Second Sunrise&quot ; , which takes place during the attack , explains that this was not always the case .
+
+#	NEW	preceded_by	........ / 000	// <p> By November , Hastra Mitra had published its third edition , and had sold as many as 10 , 000 copies .
+
+#	NEW	preceded_by	........ / 5	// had given the book a rating of 4 . 5 stars out of 5 . ! Missing image removed : </p>
+
+#	NEW	preceded_by	........ / 1874 )	// Ox ' s Experiment </a> ( Translation from 1874 ) </p>
+
+#	NEW	preceded_by	........ / 2012 .	// <p> His children take Parsons forward in time to meet with Loris again , and he struggles with the decision to return to 2012 .
+
+#	NEW	preceded_by	........ / humanity is preparing to send	// <p> <em> Lovelock </em> is set in a near-future in which humanity is preparing to send out its first interstellar colonization ship , called the <em> Ark </em> .
+
+#	NEW	preceded_by	........ / just	// The man ' s beard had been burned off by some thugs , a grim reminder of what was happening just to the east of Holland . </p>
+
+#	NEW	preceded_by	........ / 1980 '	// <p> The premise of the book was that it was a satirical review of American events in the 1980 ' s .
+
+#	NEW	preceded_by	........ / Mars :	// &quot ; <a> Book of the Times ; Finding the Advantages in Some Mind Disorders </a> &quot ; Review of <em> An Anthropologist on Mars : Seven Paradoxical Tales </em> by Oliver Sacks .
+
+#	NEW	preceded_by	........ / 20	// The book is a long-running New York Times and BusinessWeek bestseller that has been translated into 20 languages .
+
+#	NEW	preceded_by	........ / ID=2028	// With other small musicians , she was driving towards the sinister &quot ; Pagoda of Mists&quot ; , which is guarded by a mysterious creature . . . [ <a> http : / /www . dupuis . co / servle / jpecat ? pgm=VIEW_ALBUM&amp ; lang=UK&amp ; OUVRAGE_ID=2028 </a> ] </p>
+
+#	NEW	preceded_by	........ / x2013 ; the change is all for the better . &	// It stated the author &quot ; has given this historical novel a different treatment&#x2013 ; one which scrupulously tries to respect historical fact but doesn ' t take itself too seriously&#x2013 ; the change is all for the better . &quot ; </p>
+
+#	NEW	preceded_by	........ / 18	// With the main character being 18 at the end of the narrative , the style comes off as plain , direct , and using language familiar to younger adults . </p>
+
+#	NEW	preceded_by	........ / 34 .	// A friend of the <a> Beatles </a> and many other pop acts of the era , Cogan died of <a> cancer </a> in 1966 at the age of 34 .
+
+#	NEW	preceded_by	........ / 1722	// <p> At the front of the book , Liss provides a &quot ; Time Line of Significant Events Leading Up to the <a> 1722 General Election </a> &quot ; .
+
+#	NEW	preceded_by	........ / none is given .	// Fatuous and overbearing , Harry Wurts relishes being a nuisance but too easily takes offense when none is given .
+
+#	NEW	preceded_by	........ / 30	// Written in the course of six months while its author was thirteen years old , it was translated from French to English and into 30 other languages . </p>
+
+#	NEW	preceded_by	........ / as to the merit of the novel .	// The review expressed no other opinion as to the merit of the novel . </p>
+
+#	NEW	preceded_by	........ / long	// However , there do seem to be more mermaids with tails than without them , and there are plenty of tailed mermaids ( and mermen ) swimming about in these stories , which , as we should expect , come mostly from countries with a long seaboard . &quot ; </p>
+
+#	NEW	preceded_by	........ / none	// Luckily she finds a copy of an old book titled none other than &quot ; How to be Popular&quot ; when cleaning out Jason ' s grandmother ' s attic . </p>
+
+#	NEW	preceded_by	........ / 2007 .	// <p> The follow-up to <em> The Healthy Dead </em> is <a> The Lees Of Laughter ' s End </a> , also published by PS Publishing in 2007 . </p>
+
+#	NEW	preceded_by	........ / ( 1996 ) .	// All three were reprinted in the later de Camp collection <em> <a> Rubber Dinosaurs and Wooden Elephants </a> </em> ( 1996 ) . </p>
+
+#	NEW	preceded_by	........ / long	// It is one in a long series of such anthologies by Manning-Sanders . </p>
+
+#	NEW	preceded_by	........ / 80s &	// <p> Note : ** Late ' 80s &quot ; travelogue&quot ; subsections . </p>
+
+#	NEW	preceded_by	........ / 2005	// Although it was thought that the last annual was to be produced was the 2005 edition after the cancellation of the Chaser newspaper , the 2007 edition was released in mid-November 2007 . </p>
+
+#	NEW	preceded_by	........ / 8	// It is Rankin ' s first novel , and the first book in the &quot ; now legendary&quot ; <a> Brentford Trilogy </a> ( which , , consists of 8 novels ) .
+
+#	NEW	preceded_by	........ / long	// Fay , though , has always been unwelcome and takes off for a long weekend , leaving Laurel in the big house full of memories .
+
+#	NEW	preceded_by	........ / 27	// The essays were culled from his monthly column &quot ; The View of Life&quot ; in <em> <a> Natural History </a> </em> magazine , to which Gould contributed for 27 years .
+
+#	NEW	preceded_by	........ / 31	// The review aggregator <a> Metacritic </a> reported the book had an average score of 90 out of 100 , based on 31 reviews .
+
+#	NEW	preceded_by	........ / just	// In fact , Michaelmas controls world events just as much as he reports them .
+
+#	NEW	preceded_by	........ / 1938	// <p> <em> Water </em> is set in 1938 , when India was still under the colonial rule of the British , and when the marriage of children to older men was commonplace .
+
+#	NEW	preceded_by	........ / 1993	// The German translation , which appeared in 1993 , is slightly longer than the original .
+
+#	NEW	preceded_by	........ / 2 ; &	// <p> div class=&quot ; references-small&quot ; style=&quot ; -moz-column-count : 2 ; column-count : 2 ; &quot ; reference / / div </p>
+
+#	NEW	preceded_by	........ / 2009 .	// The movie was localised into an <a> Indonesia </a> n version with the title &quot ; <em> Meraih Mimpi </em> &quot ; and released on Indonesian cinemas on 16 September 2009 .
+
+#	NEW	preceded_by	........ / 20	// In addition , some 20 bars of gold have gone missing , not to mention the merchant ' s beautiful daughter .
+
+#	NEW	preceded_by	........ / Reviews of the novel	// <p> Reviews of the novel were mixed .
+
+#	NEW	preceded_by	........ / 1995	// <p> The diary covers the year 1995 , which proved to be particularly productive for Eno .
+
+#	NEW	preceded_by	........ / Long	// <p> <strong> <em> In Mayan Splendor </em> </strong> is a collection of poems by <a> Frank Belknap Long </a> .
+
+#	NEW	preceded_by	........ / 025	// It was released in <a> 1988 </a> by <a> Arkham House </a> in an edition of 5 , 025 copies .
+
+#	NEW	preceded_by	........ / 1991 .	// <p> <strong> Where ' s Wall / Waldo ? : The Magnificent Poster Book ! </strong> was a <a> Where ' s Wally ? </a> poster book released in 1991 .
+
+#	NEW	preceded_by	........ / struggle is impossible to conduct .	// <p> However , Guevara emphasizes that guerrilla warfare is a favorable method only against totalitarian regimes , ( such as the revolutionary war against the <a> Batista dictatorship </a> in Cuba ) , where political opposition and legal civil struggle is impossible to conduct . </p>
+
+#	NEW	preceded_by	........ / 48	// It only contained 48 pages and many of the stories that appeared in the trade version were not included . </p>
+
+#	NEW	preceded_by	........ / relocation to New York .	// However , the promotion required a relocation to New York .
+
+#	NEW	preceded_by	........ / character of the novel	// <p> , a Blade Brandier , is also a main character of the novel , and acts as Midori ' s &quot ; manager . &quot ; </p>
+
+#	NEW	preceded_by	........ / 100	// <p> Wagget includes &quot ; The Soap Opera 100 , &quot ; his look at &quot ; Daytime ' s 100 Most Noteworth Actors , Writers , and Producers . &quot ;
+
+#	NEW	preceded_by	........ / 1929 New England	// <p> In 1929 New England , the newly married Sexton and Honora Beecher arrange to buy the old beach house they are renting , but when <a> the Depression </a> strikes their small town , their hopes are dashed .
+
+#	NEW	preceded_by	........ / 2001	// <p> 2001 Romantic Times Reviewer Choice Awards </p>
+
+#	NEW	preceded_by	........ / in the novel	// As in many other Delany works , a writer is a character in the novel , in this case the protagonist . </p>
+
+#	NEW	preceded_by	........ / long	// Meanwhile , Paul ' s mother gives him the beach mansion , and he clears it out and sells it for $3 million , which he donates to <a> Bellevue Hospital </a> , where his wealthy but wild-living father had died long ago .
+
+#	NEW	preceded_by	........ / 40	// In 1996 , he had been diagnosed with <a> testicular cancer </a> , which spread to his lungs , abdomen and brain , and was only given a 40 percent chance of living .
+
+#	NEW	preceded_by	........ / him to go to Anger	// He had anger management problems which caused him to go to Anger Management .
+
+#	NEW	preceded_by	........ / ride is coming for them .	// He says that a ride is coming for them .
+
+#	NEW	preceded_by	........ / 1964 .	// <p> The story begins on 26 March 1964 .
+
+#	NEW	preceded_by	........ / order for him to save	// The story starts off with &quot ; Tano Il Greco&quot ; , a tired mafia boss , making a deal with Montalbano to stage his arrest in order for him to save face .
+
+#	NEW	preceded_by	........ / 2008 .	// It was published in the USA in January 2007 , and will be published in the UK in 2008 . </p>
+
+#	NEW	preceded_by	........ / 2006 .	// It was shortlisted for the <a> Duncan Lawrie International Dagger </a> award for crime novels in translation , and was translated into English by Steven T . Murray in 2006 .
+
+#	NEW	preceded_by	........ / ( 2005 ) .	// It is currently published by the <a> University of Washington Press </a> ( 2005 ) .
+
+#	NEW	preceded_by	........ / 1998 .	// <p> Cut to part two which takes place 78 years later in 1998 .
+
+#	NEW	preceded_by	........ / 1952 .	// <p> <a> The New York Times Book Review </a> published a dismissive review on February 24 , 1952 .
+
+#	NEW	preceded_by	........ / him to Paris to seek	// Clark ' s journey takes him to Paris to seek out the real-life inspiration for Poe ' s character <a> C .
+
+#	NEW	preceded_by	........ / 1632	// <p> <em> 1633 </em> continues where <em> 1632 </em> left off .
+
+#	NEW	preceded_by	........ / 1968	// &quot ; The Man Who Liked Ants&quot ; was adapted as &quot ; The House on Dragon ' s Rock&quot ; which aired on November 24 , 1968 , as an episode of the sixth season . </p>
+
+#	NEW	preceded_by	........ / 58	// 89-58 was forced to take over control of the pilot , in an attempt to kill everyone on the plane .
+
+#	NEW	preceded_by	........ / 1981 .	// <p> <strong> <em> The Eyes of Darkness </em> </strong> is a best-selling novel written by <a> Dean Koontz </a> , released in 1981 .
+
+#	NEW	preceded_by	........ / protagonist of the novel	// The protagonist of the novel , Kenneth Trachtenberg , is an intellectually gifted and philosophically tortured man attempting to work out his fate and worldview .
+
+#	NEW	preceded_by	........ / 1932	// <p> <em> <a> The Scotsman </a> </em> of June 6 , 1932 said , &quot ; The stories are worthy alike of Mrs Christie ' s powers of invention , and of the ' Crime Club ' series in which they are issued . &quot ; </p>
+
+#	NEW	preceded_by	........ / 1947 .	// <a> Hodder and Stoughton </a> published the first <a> British </a> edition in 1947 .
+
+#	NEW	preceded_by	........ / 1966 .	// <p> &quot ; The Blunderer&quot ; was filmed as &quot ; Le Meurtrier&quot ; in 1966 . </p>
+
+#	NEW	preceded_by	........ / characters~	// <p> ~description how this novel mentions other works or their characters~ </p>
+
+#	NEW	preceded_by	........ / long	// Legend had it that powerful wizards had built the city of Mereklar shortly after the <em> Cataclysm </em> and so long as the cats were there to protect the city , evil could not harm its citizens .
+
+#	NEW	preceded_by	........ / long-	// In an effort to stave off the attack , Moran kidnaps Adrienne Hunter , a long-ago love interest of Pitt and the daughter of the commander of the Hundred and First salvage fleet , Admiral Leigh Hunter .
+
+#	NEW	preceded_by	........ / Long	// Meanwhile , DeVries fires off Michael Long , the director for Public Relations and his present crew for trying to waste her time and humiliating her during the mock-up presentation for &quot ; Arthur&quot ; ' s unveiling to the world .
+
+#	NEW	preceded_by	........ / ( 2 ) .	// Numerous translations are available including Dutch ( first edition only ) , French ( 1+2 ) , German ( 1 ) , Italian ( 1 ) , Japanese ( 1+2 ) , Polish ( 2 ) , Romanian ( 1 ) , Russian ( 2 ) , Serbian ( 2 ) , and Spanish ( 2 ) .
+
+#	NEW	preceded_by	........ / 1972	// <p> The story begins in 1972 , ten years after the global war which followed the Cuban missile crisis .
+
+#	NEW	preceded_by	........ / long	// Seeing that &quot ; the boat [ upon which the Moomins are returning ] was a very long way away&quot ; , he walks down to the jetty to wait for them . </p>
+
+#	NEW	preceded_by	........ / action of the novel	// The whole action of the novel takes place on <a> Boxing Day </a> when , early in the morning , Gentry is found murdered in the attic .
+
+#	NEW	preceded_by	........ / small	// It tells of a series of erotic and violent encounters in a small American seaport following the arrival of an African-American sea captain .
+
+#	NEW	preceded_by	........ / 2010 .	// Tapscott and Williams have released a followup to Wikinomics , entitled <strong> <em> ' , which was released on September 28 , 2010 . </em> </strong> </p>
+
+#	NEW	preceded_by	........ / which the novel	// In order to do so , she had to deny that their marriage was consummated , which the novel depicts as one of the most audacious lies in the history of England .
+
+#	NEW	preceded_by	........ / ( 1913 ) .	// <p> <strong> <em> Dingo </em> </strong> is a novel by the French novelist and playwright <a> Octave Mirbeau </a> ( 1913 ) . </p>
+
+#	NEW	preceded_by	........ / 1930	// <p> : Events leading up to the <a> Manifesto </a> and other events to 1930 </p>
+
+#	NEW	preceded_by	........ / de	// <p> In the third part , <strong> Cis de man </strong> ( &quot ; Cis the Man&quot ; ) , Ciske is now an adult soldier and fights against the German soldiers in <a> World War II </a> .
+
+#	NEW	preceded_by	........ / x201c ;	// Like other men , they are victimized by &#x201c ; the competitive wage-system , which presents them with the alternative to swindle or to starve . &#x201d ; </p>
+
+#	NEW	preceded_by	........ / 8th&	// ( &quot ; December&nbsp ; 8th&quot ; is the date in Japan , on the west side of the <a> International Date Line </a> ; the local time was December&nbsp ; 7 . )
+
+#	NEW	preceded_by	........ / Describing the plot of the novel	// <p> Describing the plot of the novel itself , Manson said : &quot ; The whole story , if you take it from the beginning , is parallel to my own , but just told in metaphors and different symbols that I thought other people could draw from .
+
+#	NEW	preceded_by	........ / 1994 .	// It ends with Nash being awarded the <a> &quot ; Nobel Prize in Economics&quot ; </a> in 1994 .
+
+#	NEW	preceded_by	........ / 1920	// In chapter three , he explains how <em> <a> Pravda </a> </em> in 1920 had wrongly reported the formation of a Communist Party of China .
+
+#	NEW	preceded_by	........ / 1988 .	// The atlas presents the results of the European Bird Census Council ' s European Ornithological Atlas project , the fieldwork for which was carried out between 1985 and 1988 . </p>
+
+#	NEW	preceded_by	........ / 1992 ) leading to radical new understandings	// Chopra 1989 , McFadden 2000 , Zohar 1990 , 1993 , Wheatley 1992 ) leading to radical new understandings of this theory , often baffling and bemusing to mainstream scientists . &quot ;
+
+#	NEW	preceded_by	........ / none	// He visits each of the Endless in turn to see if they ' ve seen Delirium , but none of them have any clue where she is .
+
+#	NEW	preceded_by	........ / 1977 .	// <p> <strong> <em> The Vision </em> </strong> is a novel by the best-selling author <a> Dean Koontz </a> , released in 1977 . </p>
+
+#	NEW	preceded_by	........ / just New Orleans .	// As the body count grows , the case takes a darker turn when Carson encounters Deucalion , pushing Carson and Michael on to the path of a 200-year-old mystery and evil that threatens more than just New Orleans .
+
+#	NEW	preceded_by	........ / 2003 .	// The book was a <em> <a> New York Times </a> </em> Notable Book for 2003 . </p>
+
+#	NEW	preceded_by	........ / 2007	// Bushman wrote in 2007 that Brodie had &quot ; shaped the view of the Prophet for half a century .
+
+#	NEW	preceded_by	........ / ( 1988 )	// Its dialogue was described in <a> Kim Newman </a> ' s book <em> Nightmare Movies </em> ( 1988 ) as &quot ; incredibly <a> misanthropic </a> &quot ; .
+
+#	NEW	preceded_by	........ / 1974 .	// <p> <strong> <em> The Face of Trespass </em> </strong> is a novel by British writer <a> Ruth Rendell </a> , first published in 1974 . </p>
+
+#	NEW	preceded_by	........ / 1964 .	// During the second season , &quot ; The Gentle Ladies&quot ; and &quot ; The Ever-Loving Spouse&quot ; aired back-to-back on March 5 and 12 , 1964 . </p>
+
+#	NEW	preceded_by	........ / 1995	// It won the 1995 Irish Times International Fiction Prize . </p>
+
+#	NEW	preceded_by	........ / long	// They quickly return to their home at the monastery and go to the roadside to find Roger is coming back from his long journey as a knight ' s minstrel .
+
+#	NEW	preceded_by	........ / 1943 to find	// Using the time machine , called <em> translator </em> , Yoko travels back to 1943 to find out more about the strange ' creature ' hiding in Dragon Mountain , and after a rough start manages to convince her great-uncle of her sincerity .
+
+#	NEW	preceded_by	........ / 1948	// The book was first published in the United Kingdom by <a> Methuen </a> in <a> 1948 </a> .
+
+#	NEW	preceded_by	........ / long time for this	// Fadi says &quot ; I ' ve waited a long time for this moment , &quot ; referring to the time that Bourne killed his sister ( which we later learn is untrue ) .
+
+#	NEW	preceded_by	........ / 2002 &	// <p> Kert&#x00e9 ; sz won the <a> Nobel Prize for Literature </a> in 2002 &quot ; for writing that upholds the fragile experience of the individual against the barbaric arbitrariness of history&quot ; . </p>
+
+#	NEW	preceded_by	........ / 2007	// <p> <em> Capture the Saint </em> was the 52nd Saint book published since 1928 and remains , as of 2007 , the final literary adventure of Simon Templar .
+
+#	NEW	preceded_by	........ / in the novel	// <p> The <a> French Resistance </a> appears to still be active in the novel , tentatively allied to German forces fighting in France .
+
+#	NEW	preceded_by	........ / she is about to re-	// Eventually mother comes for the children and takes them home , where they discover she is about to re-marry .
+
+#	NEW	preceded_by	........ / ( 51 ) .	// This bypassing , however , can lead to other problems : Namely , the methods used are not necessarily authentic ; &quot ; some stratagems obviously serve other purposes than that of providing access to being&quot ; ( 51 ) .
+
+#	NEW	preceded_by	........ / 2005 .	// <p> The novel was short listed for the <a> Booker Prize </a> in 2005 . </p>
+
+#	NEW	preceded_by	........ / 1995 .	// It was published posthumously in 1998 by <a> Random House </a> under their <a> Vintage </a> imprint , following Zelazny ' s death in 1995 . </p>
+
+#	NEW	preceded_by	........ / long	// She returns to Australia , where she will likely marry a young neighbor , an emigrant from England , who has long loved her .
+
+#	NEW	preceded_by	........ / 2006 .	// This book was published by <a> Indiana University Press </a> , and released around March 2006 . </p>
+
+#	NEW	preceded_by	........ / 12	// It is the story of a family in the 1950s coming to terms with the death of a child , and spent 12 weeks on the Publisher ' s Weekly best seller list . </p>
+
+#	NEW	preceded_by	........ / 1977 .	// The first British edition was published by Magnum in 1977 .
+
+#	NEW	preceded_by	........ / 1987	// The first book was originally published as <em> Love Sickness </em> in the Summer and Autumn 1987 editions of the British literary magazine <a> Interzone </a> .
+
+#	NEW	preceded_by	........ / 1 .	// The episode &quot ; The Judas Pair&quot ; first aired on 7 February 1986 as episode 5 of season 1 . </p>
+
+#	NEW	preceded_by	........ / one Helm novel	// Up to this point , Hamilton had maintained a publishing schedule of at least one Helm novel annually , sometimes more than one .
+
+#	NEW	preceded_by	........ / 1997 .	// Barer would go on to write an original Saint novel ( more closely related to the character ) entitled <em> <a> Capture the Saint </a> </em> , which was also published in 1997 . </p>
+
+#	NEW	preceded_by	........ / 2006 .	// <p> The Pendragon Legend was translated into English by <a> Len Rix </a> in 2006 .
+
+#	NEW	preceded_by	........ / Church	// <p> The Process is also the name given to an unrelated 1960s magical organization which is known as The Process Church of the Final Judgment .
+
+#	NEW	preceded_by	........ / 1898 .	// It was published in 1911 , although the action takes place between 1887 and 1898 .
+
+#	NEW	preceded_by	........ / way to handle the new threat	// They must find a way out while Ben ' s allies find a way to handle the new threat from the Gorse . </p>
+
+#	NEW	preceded_by	........ / 1998	// Fire , Bed , and Bone won the <a> Guardian Fiction Prize </a> in 1998 and the Kliatt Editors ' Choice and Voice of Youth Advocates Non Fiction Honor List . </p>
+
+#	NEW	preceded_by	........ / 1957 .	// It was published by <a> Scholastic </a> in 1956 , and won the <a> Caldecott Medal </a> in 1957 .
+
+#	NEW	preceded_by	........ / 1952	// It was first published in 1952 under the pseudonym <a> Carolyn Keene </a> .
+
+#	NEW	preceded_by	........ / 1973 .	// He later won the Literature prize in 1973 . </p>
+
+#	NEW	preceded_by	........ / 1950	// And the author quotes the Daily Express editorial of 29th March 1950 , which stated , &quot ; Kelly richly deserved to die .
+
+#	NEW	preceded_by	........ / 1988 .	// <p> <strong> Paradise of the Blind </strong> is a novel by <a> Duong Thu Huong </a> , published in 1988 .
+
+#	NEW	preceded_by	........ / 400	// The encyclopedia has 2 , 560 entries contributed by 231 experts from various fields , as well as 2 , 400 maps , photographs and illustrations , many of which are published for the first time .
+
+#	NEW	preceded_by	........ / 1969	// ( Review ) <em> <a> The Expository Times </a> , </em> Vol 80 , February 1969 , pp .
+
+#	NEW	preceded_by	........ / 1998 .	// <p> Manchester Slingback won the <a> Crime Writer ' s Association </a> Silver Dagger in 1998 . </p>
+
+#	NEW	preceded_by	........ / long	// It is one in a long series of such anthologies by Manning-Sanders . </p>
+
+#	NEW	preceded_by	........ / De	// <p> The <a> Tagalog </a> translations in this book were done by Sinag De Leon-Amado .
+
+#	NEW	preceded_by	........ / 167 ) &	// <p> According to Margaret Singer and Janja Lalich ( 1997 : 167 ) &quot ; Crazy therapies&quot ; are promoted using several techniques .
+
+#	NEW	preceded_by	........ / 1980 .	// <p> <em> The Moon Goddess and the Son </em> was a nominee for the <a> Hugo Award for Best Novella </a> in 1980 .
+
+#	NEW	preceded_by	........ / 26	// <p> The stories in the first half of the book are numbered from one to 26 until the central story , also called &quot ; The Atlas . &quot ;
+
+#	NEW	preceded_by	........ / time for the world to develop new technologies	// <p> Romm writes that strategies to combat climate change with current technologies can significantly slow global warming and buy more time for the world to develop new technologies and take even stronger action .
+
+#	NEW	preceded_by	........ / in the novel	// The simple prose style introduced in the novel came to be known as &quot ; Alali language&quot ; .
+
+#	NEW	preceded_by	........ / 1971 .	// <p> <strong> <em> The Arkham Collector : Volume I </em> </strong> is a collection of the entire run of the magazine <em> <a> The Arkham Collector </a> </em> from 1967 to 1971 .
+
+#	NEW	preceded_by	........ / 1980 .	// <p> <strong> <em> Amazons </em> </strong> is a novel co-written by <a> Don DeLillo </a> , published under the pseudonym Cleo Birdwell in 1980 .
+
+#	NEW	preceded_by	........ / 1927 .	// <p> <strong> <em> Doomsday </em> </strong> is a novel by <a> Warwick Deeping </a> which was published in 1927 . </p>
+
+#	NEW	preceded_by	........ / Long	// <p> <strong> <em> Beds in the East </em> </strong> is the third novel in <a> Anthony Burgess </a> ' s Malayan Trilogy <em> <a> The Long Day Wanes </a> </em> .
+
+#	NEW	preceded_by	........ / de	// <p> <strong> <em> Ressurrei&#x00e7 ; &#x00e3 ; o </em> </strong> ( <em> Resurrection </em> ) is a novel written by the <a> Brazil </a> ian writer <a> Machado de Assis </a> .
+
+#	NEW	preceded_by	........ / de	// <p> <strong> Quincas Borba </strong> is a novel written by the <a> Brazil </a> ian writer <a> Machado de Assis </a> .
+
+#	NEW	preceded_by	........ / 500	// It was released in <a> 2004 </a> by <a> Arkham House </a> in an edition of approximately 2 , 500 copies .
+
+#	NEW	preceded_by	........ / 1997 .	// The book was released in <a> Australia </a> on August 4 , 1997 . </p>
+
+#	NEW	preceded_by	........ / 2006	// <p> <strong> Where ' s Wall / Waldo : The Great Picture Hunt </strong> was released in May <a> 2006 </a> .
+
+#	NEW	preceded_by	........ / 1989	// It was published in 1989 , the bicentenary of the <a> French Revolution </a> , and like many other works in that year , was highly critical of its legacy .
+
+#	NEW	preceded_by	........ / 2008 .	// The novel was awarded the prize for Best First Book in the <a> Commonwealth Writers ' Prize </a> 2008 .
+
+#	NEW	preceded_by	........ / 1953 .	// Then the author translated the book into Chinese himself and it was published by the Nanyang Press in <a> Singapore </a> in 1953 .
+
+#	NEW	preceded_by	........ / 1813 .	// The story is set in early 1813 .
+
+#	NEW	preceded_by	........ / 033	// It was published in an edition of 4 , 033 copies . </p>
+
+#	NEW	preceded_by	........ / 609	// It was published in an edition of 2 , 609 copies . </p>
+
+#	NEW	preceded_by	........ / 1947	// It was released during <a> 1947 </a> and was the author ' s first book .
+
+#	NEW	preceded_by	........ / just	// <p> Tedla is found by a social worker named Val Endrada on the planet Capella light-years away from its home planet of Gammadis just after trying to commit suicide .
+
+#	NEW	preceded_by	........ / 051	// It was released in <a> 1958 </a> by <a> Arkham House </a> in an edition of 2 , 051 copies . </p>
+
+#	NEW	preceded_by	........ / 1959 .	// <p> <strong> <em> Arkham House : The First 20 Years </em> </strong> is a <a> bibliography </a> of books published by <a> Arkham House </a> from 1939 to 1959 .
+
+#	NEW	preceded_by	........ / 137	// It was released in 1970 by <a> Arkham House </a> in an edition of 2 , 137 copies .
+
+#	NEW	preceded_by	........ / Long	// <p> <strong> <em> The Rim of the Unknown </em> </strong> is a collection of stories by author <a> Frank Belknap Long </a> .
+
+#	NEW	preceded_by	........ / 1964 .	// It had first been published as a fourteen story collection ( six stories not in the later Arkham House edition ) as a Consul paperback by World Distributors , UK , in 1964 .
+
+#	NEW	preceded_by	........ / 1977 .	// The story &quot ; There ' s a Long , Long Trail A-Winding&quot ; had won a <a> World Fantasy Award </a> in 1977 .
+
+#	NEW	preceded_by	........ / 081	// It was published in <a> 1982 </a> by <a> Arkham House </a> in an edition of 4 , 081 copies .
+
+#	NEW	preceded_by	........ / 2006 .	// <p> <strong> Voidfarer </strong> is a fantasy book by <a> Sean McMullen </a> released in 2006 .
+
+#	NEW	preceded_by	........ / 1983	// &quot ; Petra&quot ; was nominated in 1983 , but lost .
+
+#	NEW	preceded_by	........ / 596	// It was released in <a> 1984 </a> by <a> Arkham House </a> in an edition of 3 , 596 copies .
+
+#	NEW	preceded_by	........ / 1996	// It was released in <a> 1996 </a> and was the author ' s first book .
+
+#	NEW	preceded_by	........ / 500	// It was published in an edition of approximately 2 , 500 copies .
+
+#	NEW	preceded_by	........ / 052	// It was released in <a> 1961 </a> by <a> Mycroft &amp ; Moran </a> in an edition of 2 , 052 copies .
+
+#	NEW	preceded_by	........ / 022	// It was released in <a> 1966 </a> by <a> Mycroft &amp ; Moran </a> in an edition of 2 , 022 copies .
+
+#	NEW	preceded_by	........ / 2010	// <p> There is now a fully revised and updated version of this book with a Foreword by Burton G . Malkeil , published in 2010 </p>
+
+#	NEW	preceded_by	........ / ( 43	// It comprises xx + 409 pages , with 45 colour plates ( 43 of which contain Pratt ' s illustrations of birds ; the remaining two contain photographs of plants important to birds in the region ) .
+
+#	NEW	preceded_by	........ / 1946	// Its plot has nothing in common with the 1946 film &quot ; Tarzan and the Leopard Woman . &quot ; </p>
+
+#	NEW	preceded_by	........ / 1998 .	// It received a <a> Singapore Literature Prize </a> Commendation Award for 1998 . </p>
+
+#	NEW	preceded_by	........ / 904	// It was released in <a> 1968 </a> by <a> Mycroft &amp ; Moran </a> in an edition of 2 , 904 copies .
+
+#	NEW	preceded_by	........ / 40 '	// It takes place in <a> Vancouver </a> , <a> Canada </a> during the 1930 ' s and 40 ' s . </p>
+
+#	NEW	preceded_by	........ / 1894	// <p> The illustrations in the book were provided by her husband , Montagu Barstow , whom she married in <a> 1894 </a> . </p>
+
+#	NEW	preceded_by	........ / 2000 .	// Edited by Tore Boeckmann , it was published by Plume in 2000 .
+
+#	NEW	preceded_by	........ / 2005 .	// It was first published in <a> Canada </a> on August 23 , 2005 and later in the <a> USA </a> on September 20 , 2005 . </p>
+
+#	NEW	preceded_by	........ / Church	// This Bible version constituted a cornerstone in the development of written Romanian , and was for long the standard one used by the <a> Romanian Orthodox Church </a> . </p>
+
+#	NEW	preceded_by	........ / de	// <p> Aldama y Guevara ' s <em> Arte </em> is mostly derivative of previously published grammars of Nahuatl , particularly <a> Horacio Carochi </a> ' s <em> <a> Arte de la lengua mexicana con la declaracion de los adverbios della </a> </em> . </p>
+
+#	NEW	preceded_by	........ / 1894	// <p> The illustrations in the book were provided by her husband , Montagu Barstow , who she married in <a> 1894 </a> . </p>
+
+#	NEW	preceded_by	........ / ( 1967 ) is a novel	// <p> <strong> <em> The Pyramid </em> </strong> ( 1967 ) is a novel by the English author , <a> William Golding </a> . </p>
+
+#	NEW	preceded_by	........ / 1974 novel '	// <p> Originally removed from the 1974 novel ' s publication , the middle section consisting Mandella returning to Earth was re-inserted in this omnibus edition </p>
+
+#	NEW	preceded_by	........ / 1914 novel	// The marriage did not last but in their time together they became friends with the author Afr&#x00e2 ; nio Peixoto and their colourful lives inspired this 1914 novel which caused a storm . </p>
+
+#	NEW	preceded_by	........ / 1952	// The story draws from the <a> Copper Scroll </a> found at <a> Qumran </a> in 1952 , which lists buried treasure . </p>
+
+#	NEW	preceded_by	........ / small&	// <p> div class=&quot ; references-small&quot ; reference / / div </p>
+
+#	NEW	preceded_by	........ / them to the examination of Ramus Ymph for a vacancy for the high	// He accompanies them to the examination of Ramus Ymph for a vacancy for the high office of Servant .
+
+#	NEW	preceded_by	........ / 1998 .	// <p> <strong> <em> Hullabaloo in the Guava Orchard </em> </strong> is a <a> novel </a> by <a> Kiran Desai </a> published in 1998 .
+
+#	NEW	preceded_by	........ / 1912	// Dru as dictator imposes a series of reforms that resemble the <a> Bull Moose platform of 1912 </a> and then vanishes . </em> </p>
+
+#	NEW	preceded_by	........ / 901 .	// It features Anjuli O ' Connell , employed as a <a> psychologist </a> to monitor an <a> Artificial Intelligence </a> named 901 .
+
+#	NEW	preceded_by	........ / 2005 .	// <p> <strong> Stalin ' s Ghost </strong> is a <a> crime novel </a> by <a> Martin Cruz Smith </a> set in <a> Russia </a> circa 2005 .
+
+#	NEW	preceded_by	........ / 2002	// <p> 2002 Romantic Times Reviewer Choice Award </p>
+
+#	NEW	preceded_by	........ / foreshadowing to later parts of the novel .	// These quotes range throughout history and cultures , many of them acting as foreshadowing to later parts of the novel . </p>
+
+#	NEW	preceded_by	........ / 2073	// <p> The story takes place in <a> 2073 </a> , sixty years after an uncontrollable epidemic , the Red Death , has depopulated the planet .
+
+#	NEW	preceded_by	........ / 2003	// &quot ; The Angriest Book Club in America&quot ; , <em> <a> BlackBook </a> </em> magazine , Fall 2003 , no .
+
+#	NEW	preceded_by	........ / 4	// However , it is included in Pinkwater ' s compilation <em> 4 Fantastic Novels </em> . </p>
+
+#	NEW	preceded_by	........ / 1959 .	// The novel was adapted for the silver screen in Italy in 1959 . </p>
+
+#	NEW	preceded_by	........ / 2008	// It was released in 1969 under the pseudonym of John Lange , and later re-released in 2008 as part of the <a> Hard Case Crime </a> series .
+
+#	NEW	preceded_by	........ / none	// <p> In the past , Dibdin ensured that Zen repeatedly came up against a wall of silence , but none more implacable than that he encounters here .
+
+#	NEW	preceded_by	........ / 2001 .	// <p> The ' War ' section is divided into writings ' Before September ' and ' After September ' , showing Hitchens ' reaction to the Terrorist attacks of September 11 , 2001 .
+
+#	NEW	preceded_by	........ / 1958 ) &	// <p> The title is quite similar to a quotation attributed to Juan Ram&#x00f3 ; n Jim&#x00e9 ; nez ( 24 December 1881 &#x2013 ; 29 May 1958 ) &quot ; If they give you ruled paper , write the other way . &quot ;
+
+#	NEW	preceded_by	........ / 1962	// The first edition was reprinted in England in 1962 under the same title .
+
+#	NEW	preceded_by	........ / 1894	// <p> The illustrations in the book were provided by her husband , Montagu Barstow , who she married in <a> 1894 </a> . </p>
+
+#	NEW	preceded_by	........ / 5&#	// <p> One amazing statistic mentioned by Michael Palin in the introduction to this book is that Basil Pao took 30 , 000 pictures during the 5&#x00bd ; months that the trip lasted .
+
+#	NEW	preceded_by	........ / is the third novel	// It is the third novel in the internationally popular Inspector Montalbano series . </p>
+
+#	NEW	preceded_by	........ / 2001 .	// <p> Several stories from the collection were staged at the Greenwich Street Theater in March and April 2000 , with continued runs at the Tribeca Playhouse in January and April 2001 . </p>
+
+#	NEW	preceded_by	........ / 1987 .	// <p> <strong> <em> Strange Toys </em> </strong> is a <a> fantasy novel </a> written by <a> Patricia Geary </a> and published in 1987 .
+
+#	NEW	preceded_by	........ / warrior	// <p> &quot ; Grigsby sees the work as a poetic account of forceful suppression of an older fertility cult , with human sacrifice central to its religion , in 5th-century England , and its replacement by an incoming warrior cult .
+
+#	NEW	preceded_by	........ / 1994 .	// Cartoons from previous collections <em> Cows of Our Planet </em> , <em> The Chickens are Restless </em> , and <em> The Curse of Madame &quot ; C&quot ; </em> are featured , all of which were printed from 1992-1994 .
+
+#	NEW	preceded_by	........ / 10K	// <p> In 1995 Ford reported its sales as &quot ; 40 , 000 copies in print ( six thousand in hardcover ) in English , about 10K more in the foreign editions&quot ; . </p>
+
+#	NEW	preceded_by	........ / 0415969420 ) .	// <p> The <strong> <em> J . R . R . Tolkien Encyclopedia </em> </strong> , subtitled <em> Scholarship and Critical Assessment </em> , edited by <a> Michael D . C . Drout </a> , was published by <a> Routledge </a> in 2006 ( ISBN 978-0415969420 ) .
+
+#	NEW	preceded_by	........ / climax to the narrative is fought	// This climax to the narrative is fought over marshland , waterside , on ship and across ships .
+
+#	NEW	preceded_by	........ / 2 .	// The first edition retailed at <a> $ </a> 2 . 50ref
+
+#	NEW	preceded_by	........ / 2003	// <p> <strong> <em> Collaborator </em> </strong> is an <a> alternate history </a> novel by <a> Murray Davies </a> , published as a hardcover on 19 September 2003 </p>
+
+#	NEW	preceded_by	........ / order for him to be	// Understood everything : what he had had to be , how she had covered up to herself for him , in order for him to be her idea of him .
+
+#	NEW	preceded_by	........ / mission	// Warden and Hashi offer half-truths to the Council , telling them that they failed to recapture Angus and Milos , and that they arranged for Morn to be given to Nick as ' payment ' for a job they had him do so that she could be used as a bargaining ship should Nick ' s mission at Billingate fail .
+
+#	NEW	preceded_by	........ / 1817 .	// <p> <strong> The Toll-Gate </strong> is a <a> Regency </a> novel by <a> Georgette Heyer </a> , which takes place in 1817 .
+
+#	NEW	preceded_by	........ / 1973 .	// The book gained positive reviews from a variety of sources , and won the <a> Booker Prize for Fiction </a> in 1973 .
+
+#	NEW	preceded_by	........ / goal is to lead the reader to a	// <p> The book ' s goal is to lead the reader to a more enjoyable and fulfilling lifestyle , helping them to become more aware of , not only themselves , but others around them .
+
+#	NEW	preceded_by	........ / long	// It is one in a long series of such anthologies by Manning-Sanders . </p>
+
+#	NEW	preceded_by	........ / name=&	// <p> An English translation was published by the <a> University of Michigan Press </a> in 2002ref name=&quot ; dumb luck&quot ; / . </p>
+
+#	NEW	preceded_by	........ / long	// It is one in a long series of such anthologies by Manning-Sanders . </p>
+
+#	NEW	preceded_by	........ / 1958 .	// The novel was first serialized in three parts and published in <a> Astounding Science Fiction </a> magazine in 1958 .
+
+#	NEW	preceded_by	........ / characters~	// <p> ~description of how this novel mentions other works or their characters~ </p>
+
+#	NEW	preceded_by	........ / characters~	// <p> ~description of how this novel mentions other works or their characters~ </p>
+
+#	NEW	preceded_by	........ / 1987 .	// Cartoons from previous collections <em> Bride of The Far Side </em> , <em> It Came from the Far Side </em> , and <em> Hound of the Far Side </em> are featured , all of which were printed from 1985-1987 .
+
+#	NEW	preceded_by	........ / 100	// The book shows that Mecca was in fact way off the incense route from <a> Yemen </a> to <a> Syria </a> , which bypassed where Mecca is today by more than 100 miles .
+
+#	NEW	preceded_by	........ / de	// After untying her , he finds out that she is &quot ; Amos Klein&quot ; , a woman who adopted a male <em> nom de plume </em> to increase sales of her novels .
+
+#	NEW	preceded_by	........ / 2006 .	// <p> The book was on the <a> New York Times Best Seller list </a> for the week ending October 14 , 2006 . </p>
+
+#	NEW	preceded_by	........ / 2002 ' .	// <p> Although <em> The Gatekeepers </em> was not a best-seller , it was however named as one of the New York Times Book Review ' s ' Notable Books of 2002 ' .
+
+#	NEW	preceded_by	........ / reviews of the novel	// <p> ! Link to , but don ' t include , reviews of the novel and other sources ! Links to websites about novel </p>
+
+#	NEW	preceded_by	........ / During the course of the novel	// <p> During the course of the novel , the King of Elfland uses up all of the three powerful magic spells which he had been reserving for the defense of his realm . </p>
+
+#	NEW	preceded_by	........ / character for them throughout the novel .	// From the window of their home , they can see the entire city , which takes on a dreamlike , foreign , and romantic , yet inaccessible , character for them throughout the novel . </p>
+
+#	NEW	preceded_by	........ / 100	// The top ten prizes are an all-expenses-paid 10-day tour of England ' s literary sites , with 100 runner-up prizes .
+
+#	NEW	preceded_by	........ / Long	// <p> <strong> <em> The Horror from the Hills </em> </strong> is a <a> horror novel </a> by author <a> Frank Belknap Long </a> .
+
+#	NEW	preceded_by	........ / 2005 .	// <p> A mass-market edition was issued by <a> Tor Books </a> in 2005 .
+
+#	NEW	preceded_by	........ / 1943	// It should not be confused with the 1943 film &quot ; Tarzan Triumphs . &quot ;
+
+#	NEW	preceded_by	........ / R . K novel	// And as you expect from R . K novel , you are only let out with a very heavy heart .
+
+#	NEW	preceded_by	........ / 90% ; &	// <p> div style=&quot ; font-size : 90% ; &quot ; references / / div </p>
+
+#	NEW	preceded_by	........ / referred to this novel	// Dean has referred to this novel as a &quot ; love poem&quot ; to &quot ; my college , and ultimately to the study of English literature . &quot ; </pre>
+
+#	NEW	preceded_by	........ / 2006	// <em> College Literature </em> , Fall 2006 , Vol .
+
+#	NEW	preceded_by	........ / legs .	// A few weeks later Jacob is summoned to take a look at Camel , an old man who , after drinking Jamaican ginger extract for many years , can ' t move his arms or legs .
+
+#	NEW	preceded_by	........ / characters~	// <p> ~description of how this novel mentions other works or their characters~ </p>
+
+#	null	preceded_by	night terrors / ..........
+
+#	null	preceded_by	- / ..........
+
+#	null	preceded_by	the organon of the healing art / ..........
+
+#	null	preceded_by	none / ..........
+
+#	null	preceded_by	- / ..........
+
+#	null	preceded_by	- / ..........
+
+#	null	preceded_by	ravenheart / ..........
+
+#	null	preceded_by	magnum sacerdos / ..........
+
+#	null	preceded_by	the kill clause / ..........
+

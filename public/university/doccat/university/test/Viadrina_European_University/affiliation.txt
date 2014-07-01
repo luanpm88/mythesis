@@ -1,8 +1,0 @@
-<li><a>Carl Philipp Emanuel Bach</a></li>
-<li><a>Alexander von Humboldt</a></li>
-<li><a>Wilhelm von Humboldt</a></li>
-<li><a>Ulrich von Hutten</a></li>
-<li><a>Ludwig von Pfuel</a></li>
-<li><a>Heinrich von Kleist</a></li>
-<li><a>Jodocus Willich</a></li>
-<li><a>Collegium Polonicum (CP)</a></li>

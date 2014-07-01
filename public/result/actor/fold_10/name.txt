@@ -1,0 +1,90 @@
+Found: 29
+Found Not Null: 20
+Correct: 12
+Wrong: 8
+Total: 21
+precision: 0.6
+recall: 0.5714285714285714
+
+
+
+0	FALSE	Ava Gardner::name	ava gardner / an American	
+<p> <strong> Ava Lavinia Gardner </strong> ( December 24 , 1922 &ndash ; January 25 , 1990 ) was an American actress .
+
+#	NEW	name	........ / K .	// <p> <strong> Khwaja Ahmad Abbas </strong> ( ) ( 7 June 1914 &#x2013 ; 1 June 1987 ) , popularly known as <strong> K .
+
+#	NEW	name	........ / Kick- Ass	// <p> <strong> Nicolas Cage </strong> ( born <strong> Nicolas Kim Coppola </strong> ; January 7 , 1964 ) is an American actor , producer and director , having appeared in over 60 films including <em> <a> The Rock </a> </em> ( 1996 ) , <em> <a> Fac / Off </a> </em> ( 1997 ) , <em> <a> Gone In 60 Seconds </a> </em> ( 2000 ) , <em> <a> National Treasure </a> </em> ( 2004 ) , <em> <a> Ghost Rider </a> </em> ( 2007 ) , <em> <a> Bad Lieutenant : Port of Call New Orleans </a> </em> ( 2009 ) , and <em> <a> Kick-Ass </a> </em> ( 2010 ) .
+
+3	TRUE	Ridley Scott::name	ridley scott / Ridley Scott	
+<p> <strong> Sir Ridley Scott </strong> ( born 30 November 1937 ) is an English film director and producer known for his stylish visuals and an obsession for detail .
+
+4	FALSE	Robin Wright Penn::name	robin wright / Gayle Wright	
+<p> <strong> Robin Gayle Wright </strong> ( born April 8 , 1966 ) is an American actress .
+
+#	NEW	name	........ / Academy Award	// <p> <strong> Steven Andrew Soderbergh </strong> ( ; born January 14 , 1963 ) is an American film producer , screenwriter , <a> cinematographer </a> , editor , actor , and an <a> Academy Award </a> -winning film director .
+
+#	NEW	name	........ / seaQuest DSV	// <p> <strong> Theodore &quot ; Ted&quot ; Raimi </strong> ( born December 14 , 1965 ) is an <a> American </a> <a> actor </a> , perhaps best known for his roles as <a> Lieutenant Tim O ' Neill </a> in <em> <a> seaQuest DSV </a> </em> and <a> Joxer the Mighty </a> in <strong> <em> ' / </em> </strong> ' .
+
+7	FALSE	Tim Curry::name	tim curry / film and	
+<p> <strong> Timothy James </strong> &quot ; <strong> Tim </strong> &quot ; <strong> Curry </strong> ( born 19 April 1946 ) is an <a> English </a> <a> actor </a> , <a> singer </a> , <a> composer </a> and <a> voice actor </a> , known for his work in a diverse range of theatre , film and television productions .
+
+8	FALSE	Otto Preminger::name	otto preminger / strong reviews	
+The film premiered at the Emperor Theater in Vienna on 21 December 1931 , to strong reviews and business .
+
+9	TRUE	Sophie Marceau::name	sophie marceau / Sophie Marceau	
+<p> <strong> Sophie Marceau </strong> ( ; born 17 November 1966 ) is a French actress , who has appeared in 35 films .
+
+10	FALSE	Calista Flockhart::name	calista flockhart / Kay Flockhart	
+<p> <strong> Calista Kay Flockhart </strong> ( born November 11 , 1964 ) is an American actor who is primarily recognized for her work in television .
+
+11	TRUE	Jerry Lewis::name	jerry lewis / film director	
+<p> <strong> Jerry Lewis </strong> ( born <strong> Joseph Levitch </strong> , March 16 , 1926 ) is an <a> American </a> <a> comedian </a> , <a> actor </a> , <a> film producer </a> , <a> writer </a> , <a> film director </a> and <a> singer </a> .
+
+12	TRUE	Jonathan Demme::name	jonathan demme / Robert Jonathan	
+<p> <strong> Robert Jonathan Demme </strong> ( born February 22 , 1944 ) is an <a> American </a> <a> filmmaker </a> , <a> producer </a> and <a> screenwriter </a> .
+
+13	FALSE	Jim Henson::name	jim henson / The Muppets	
+<p> <strong> James Maury </strong> &quot ; <strong> Jim </strong> &quot ; <strong> Henson </strong> ( September 24 , 1936 &#x2013 ; May 16 , 1990 ) was an <a> American </a> <a> puppeteer </a> best known as the creator of <a> The Muppets </a> .
+
+14	FALSE	John Frankenheimer::name	john frankenheimer / British Academy	
+<p> <strong> <a> British Academy Film Awards </a> </strong> </p>
+
+#	NEW	name	........ / Fiona Roberts	// <p> <strong> Julia Fiona Roberts </strong> ( born October 28 , 1967 ) is an American actress .
+
+16	TRUE	Godfrey Reggio::name	godfrey reggio / documentary film	
+<p> <strong> Godfrey Reggio </strong> ( born March 29 , 1940 ) is an American <a> director </a> of experimental <a> documentary film </a> s . </p>
+
+#	NEW	name	........ / Elizabeth Hunt	// <p> <strong> Helen Elizabeth Hunt </strong> ( born June 15 , 1963 ) is an American actress , <a> film director </a> , and <a> screenwriter </a> .
+
+18	TRUE	Paul Muni::name	paul muni / American stage	
+<p> <strong> Paul Muni </strong> ( September 22 , 1895 &#x2013 ; August 25 , 1967 ) was an <a> Austrian-Hungarian </a> -born American stage and film actor .
+
+19	FALSE	Roberto Benigni::name	roberto benigni / and television.	
+<p> <strong> Roberto Remigio Benigni </strong> , <a> Knight Grand Cross OMRI </a> ( born 27 October 1952 ) is an Italian actor , comedian , screenwriter and <a> director </a> of film , theatre and television . </p>
+
+#	NEW	name	........ / Reese Witherspoon	// <p> <strong> Laura Jeanne Reese Witherspoon </strong> ( born March 22 , 1976 ) , better known as <strong> Reese Witherspoon </strong> , is an American actress and film producer .
+
+21	TRUE	Tony Robinson::name	tony robinson / political campaigner	
+<p> <strong> Tony Robinson </strong> ( born 15 August 1946 ) is an <a> English </a> <a> actor </a> , <a> comedian </a> , <a> author </a> , <a> broadcaster </a> and <a> political campaigner </a> .
+
+22	TRUE	Lionel Barrymore::name	lionel barrymore / screen and	
+<p> <strong> Lionel Barrymore </strong> ( April 28 , 1878 &ndash ; November 15 , 1954 ) was an American actor of stage , screen and radio .
+
+23	TRUE	Boris Karloff::name	boris karloff / William Henry	
+<p> <strong> Boris Karloff </strong> ( 23 November 1887 &#x2013 ; 2 February 1969 ) , whose real name was <strong> William Henry Pratt </strong> , was an <a> English </a> -born actor who emigrated to <a> Canada </a> in 1909 .
+
+#	NEW	name	........ / on stage	// <p> McKern ' s final acting appearances came in the film <strong> <em> ' ( 1999 ) and on stage in 2000 . </em> </strong> </p>
+
+25	TRUE	Debbie Reynolds::name	debbie reynolds / who was	
+<p> <strong> Debbie Reynolds </strong> ( born April 1 , 1932 ) is an <a> American </a> <a> actress </a> , <a> singer </a> , and <a> dancer </a> who was an <a> MGM </a> contract star .
+
+#	NEW	name	........ / TV show	// In 2010 , he directed <em> The Last Airbender </em> , based on the <a> Nickelodeon </a> TV show <strong> <em> ' . </em> </strong> </p>
+
+27	TRUE	William Christopher::name	william christopher / Gomer Pyle	
+<p> <strong> William Christopher </strong> ( born October 20 , 1932 ) is an <a> American </a> <a> actor </a> who is best known for playing <a> Father Mulcahy </a> on the <a> television </a> <a> series </a> <em> <a> M*A*S*H </a> </em> and Private Lester Hummel on <em> <a> Gomer Pyle , U . S . M . C . </a> </em> </p>
+
+28	TRUE	Thora Hird::name	thora hird / March 2003 )	
+<p> <a> Dame </a> <strong> Thora Hird </strong> <a> DBE </a> ( 28 May 1911 <img> 15 March 2003 ) was an <a> English </a> <a> actress </a> . </p>
+
+#	null	name	leonard rossiter / ..........
+

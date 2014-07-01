@@ -1,0 +1,54 @@
+Found: 15
+Found Not Null: 8
+Correct: 8
+Wrong: 0
+Total: 11
+precision: 1.0
+recall: 0.7272727272727273
+
+
+
+0	TRUE	Margaret Dumont::occupation	actress / actress.	
+<p> <strong> Margaret Dumont </strong> ( October 20 , 1882 &ndash ; March 6 , 1965 ) was an <a> American </a> comedic actress .
+
+1	TRUE	Butterfly McQueen::occupation	actress / actress.	
+<p> <strong> Thelma &quot ; Butterfly&quot ; McQueen </strong> ( January 7 , 1911 &ndash ; December 22 , 1995 ) was an American actress .
+
+2	TRUE	Mark-Paul Gosselaar::occupation	actor / actor	
+<p> <strong> Mark-Paul Harry Gosselaar </strong> ( born March 1 , 1974 ) is an American <a> actor </a> .
+
+3	TRUE	Susan Blakely::occupation	actress / actress	
+<p> <strong> Susan Blakely </strong> ( born September 7 , 1948 ) is an American film actress who has mainly played supporting roles . </p>
+
+4	TRUE	Charles Lane (actor)::occupation	actor / actor.	
+<p> <strong> Charles Gerstle Levison </strong> ( January 26 , 1905 &ndash ; July 9 , 2007 ) , better known as <strong> Charles Lane </strong> , was an <a> American </a> <a> character actor </a> seen in many movies and TV shows , and at the time of his death may have been the oldest living professional American actor .
+
+#	NEW	occupation	........ / ,	// <p> <strong> Alfred Newman </strong> ( March 17 , 1900&ndash ; February 17 , 1970 ) was an <a> American </a> <a> composer </a> , arranger , and conductor of music for <a> film </a> s .
+
+6	TRUE	Anne Hathaway (actress)::occupation	actress / actress.	
+<p> <strong> Anne Jacqueline Hathaway </strong> ( born November 12 , 1982 ) is an American actress .
+
+#	NEW	occupation	........ / actress	// <p> <strong> Sigrid Thornton </strong> ( born 12 February 1959 ) is an Australian <a> actress </a> . </p>
+
+#	NEW	occupation	........ / director	// <p> <strong> Jacques Rivette </strong> ( ; born 1 March 1928 ) is a French <a> film director </a> . </p>
+
+9	TRUE	Stoyanka Mutafova::occupation	actress / actress.	
+<p> <strong> Stoyanka Konstantinova Mutafova </strong> ( ) ( born 2 February 1922 in <a> Sofia </a> ) is a <a> Bulgaria </a> n actress .
+
+10	TRUE	Peter Graves::occupation	actor / actor	
+<p> <strong> Peter Aurness </strong> ( March 18 , 1926 &#x2013 ; March 14 , 2010 ) , known professionally as <strong> Peter Graves </strong> , was an <a> American </a> <a> film </a> and <a> television </a> <a> actor </a> .
+
+#	NEW	occupation	........ / quot ;	// <p> <strong> From &quot ; Canciones de las Brigadas Internacionales&quot ; </strong> and <strong> &quot ; Solidarit&#x00e4 ; t&quot ; </strong> </p>
+
+#	NEW	occupation	........ / actor .	// <p> <strong> Robert Preston </strong> ( June 8 , 1918 &ndash ; March 21 , 1987 ) was an <a> American </a> stage and film actor . </p>
+
+#	NEW	occupation	........ / author	// <p> <strong> Broderick Steven &quot ; Steve&quot ; Harvey </strong> ( born January 17 , 1957 ) is an <a> American </a> <a> actor </a> , <a> comedian </a> , <a> entertainer </a> , television &amp ; <a> radio personality </a> and best-selling <a> author </a> .
+
+#	NEW	occupation	........ / actor	// <p> <strong> Ken Ogata </strong> ( &#x7dd2 ; &#x5f62 ; &#x62f3 ; <em> Ogata Ken </em> , 20 July 1937-5 October 2008 ) was a Japanese <a> actor </a> .
+
+#	null	occupation	actress / ..........
+
+#	null	occupation	actress / ..........
+
+#	null	occupation	actress / ..........
+

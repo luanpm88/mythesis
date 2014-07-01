@@ -1,9 +1,0 @@
-<h2>Overview of KNU's history</h2>
-College of Liberal Arts and Sciences is divided into College of Humanities and Social Sciences and College of Natural Sciences (1981).
-<li>College of Social Sciences</li>
-<li><a>College of Natural Sciences</a></li>
-<li>College of Agriculture and Life Sciences</li>
-<h3>Daegu Sankyeok campus (Main Campus)</h3>
-<h3>Sangju campus</h3>
-<h3>Arts &amp; Entertainment</h3>
-<li><a>Department of Astronomy &amp; Atmospheric Sciences </a></li>

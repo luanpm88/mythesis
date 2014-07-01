@@ -1,0 +1,12 @@
+Found: 2
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	birth_place	........ / shopkeepers who	// <p> Ramis was born in <a> Chicago </a> , <a> Illinois </a> , the son of Ruth ( <a> n&#x00e9 ; e </a> Cokee ) and Nathan Ramis , shopkeepers who owned the store Ace Food &amp ; Liquor Mart on the city ' s far North Side .
+
+#	NEW	birth_place	........ / Los Angeles	// <p> Thomas travels between Los Angeles , California and <a> Knoxville </a> , <a> Tennessee </a> .
+

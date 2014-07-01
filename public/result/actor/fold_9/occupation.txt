@@ -1,0 +1,53 @@
+Found: 17
+Found Not Null: 7
+Correct: 7
+Wrong: 0
+Total: 8
+precision: 1.0
+recall: 0.875
+
+
+
+0	TRUE	Robert Powell::occupation	actor / Actor	
+For this role , Powell was nominated for a <a> BAFTA </a> award , and collected the <em> <a> TVTimes </a> </em> Best Actor award for the same performance . </p>
+
+#	NEW	occupation	........ / Director	// The film was nominated for 12 <a> Academy Awards </a> and won seven , including two for him personally ( <a> Best Picture </a> and <a> Best Director </a> ) .
+
+2	TRUE	Arthur Kennedy (actor)::occupation	actor / Actor	
+<p> Kennedy and <a> Claude Rains </a> share the record of four losing nominations for the <a> Academy Award for Best Supporting Actor </a> .
+
+#	NEW	occupation	........ / actor	// At the <a> 80th Academy Awards </a> Blanchett received two Academy Award nominations ; Best Actress for <em> Elizabeth : the Golden Age </em> and Best Supporting Actress for <em> I ' m Not There </em> , becoming the eleventh actor to receive two acting nominations in the same year and the first female actor to receive another nomination for the reprisal of a role . </p>
+
+#	NEW	occupation	........ / Actor	// poster for <em> [ [ Robinson Crusoe ( 1954 film ) | Robinson Crusoe ] ] <em> , which earned him a nomination for the <a> Academy Award for Best Actor </a> ] ] </em> </p>
+
+5	TRUE	Marcello Mastroianni::occupation	actor / Actor	
+His honours have included <a> British Film Academy </a> Awards , Best Actor awards at the <a> Cannes Film Festival </a> and two <a> Golden Globe Awards </a> .
+
+6	TRUE	Ryan O'Neal::occupation	actor / Actor	
+<p> O ' Neal ' s film career took off beginning with his role in <em> <a> Love Story </a> </em> ( 1970 ) , earning a nomination for an <a> Academy Award for Best Actor </a> .
+
+#	NEW	occupation	........ / ,	// The show , which co-starred former <a> silent film </a> actor <a> Charles Farrell </a> as her father , was originally a summer replacement for <em> <a> I Love Lucy </a> </em> on CBS , </p>
+
+8	TRUE	Susan Dey::occupation	actress / Actress	
+She was also nominated for the <a> Emmy Award </a> for &quot ; Outstanding Lead Actress in a Drama Series&quot ; for this role in 1987 , 1988 , and 1989 . </p>
+
+9	TRUE	Chester Morris::occupation	actor / Actor	
+He was nominated for the <a> Academy Award for Best Actor </a> for <em> <a> Alibi </a> </em> ( 1929 ) directed by <a> Roland West </a> .
+
+10	TRUE	Crystal McKellar::occupation	actress / Actress	
+She was nominated for the <em> Best Young Actress Guest Starring In A Television Series </em> award at the eleventh annual <a> Youth in Film Award </a> in 1988 and 1989 .
+
+#	NEW	occupation	........ / Director .	// <p> Continuing the string of successes was one of the films that has become closely identified with its director , <em> <a> In the Heat of the Night </a> </em> ( 1967 ) , a crime drama set in a racially divided Southern town and starring <a> Sidney Poitier </a> and <a> Rod Steiger </a> , which won five <a> Academy Awards </a> , including Best Picture , while Jewison was nominated for Best Director .
+
+#	NEW	occupation	........ / show .	// <p> Stiles received a nomination for a <a> Primetime Emmy Award for Individual Performance in a Variety or Music Program </a> in 2002 for his work on the show . </p>
+
+#	NEW	occupation	........ / Actress &#	// <p> Merman and Berlin reunited for <em> <a> Call Me Madam </a> </em> in 1950 , for which she won the <a> Tony Award for Best Performance by a Leading Actress in a Musical </a> , and she went on to star in the <a> 1953 screen adaptation </a> as well , winning the <a> Golden Globe Award for Best Actress &#x2013 ; Motion Picture Musical or Comedy </a> for her performance .
+
+#	NEW	occupation	........ / Actor .	// <a> George Lucas </a> was so impressed by Oz ' s performance as Yoda in <em> The Empire Strikes Back </em> that he tried to get him an <a> Oscar </a> nomination for Best Supporting Actor . </p>
+
+#	NEW	occupation	........ / by	// <p> Sirk ' s melodramas of the 1950s , while highly commercially successful , were generally very poorly received by reviewers .
+
+#	NEW	occupation	........ / voice	// <p> Newman ' s post-SNL film career has been limited , achieving greater success in supporting roles and as a voice artist on television and features .
+
+#	null	occupation	actor / ..........
+

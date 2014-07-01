@@ -1,0 +1,96 @@
+Found: 40
+Found Not Null: 6
+Correct: 2
+Wrong: 4
+Total: 6
+precision: 0.3333333333333333
+recall: 0.3333333333333333
+
+
+
+#	NEW	fleet_size	........ / 2010 ) :	// The Martinair and Martinair Cargo fleet consists of the following aircraft ( October 2010 ) : </p>
+
+#	NEW	fleet_size	........ / 2011 ) :	// <p> The Aeroflot fleet includes the following aircraft ( as of January 2011 ) : </p>
+
+#	NEW	fleet_size	........ / 2010	// <p> As of December 2010 , the Lufthansa fleet consists of the following aircraft with an average age of 13 . 1 years : center / center </p>
+
+#	NEW	fleet_size	........ / 28	// The Iberia fleet consists of the following aircraft as of 28 July 2010 : </p>
+
+#	NEW	fleet_size	........ / 4	// <p> The Futura International Airways fleet consisted of the following aircraft ( as of 4 September 2008 ) [ <a> http : / /www . ch-aviation . c / aircraft . php ? search=set&amp ; airline=FH&amp ; al_op=1 </a> ] : </p>
+
+#	NEW	fleet_size	........ / 2011	// <p> As of January 2011 , the Kalitta Air fleet consists of the following aircraft with an average age of 27 . 3 years : </p>
+
+6	FALSE	Skywest Airlines::fleet_size	18 / 2010	
+<p> As of June 2010 the Skywest fleet consists of : </p>
+
+#	NEW	fleet_size	........ / 61	// <p> America West Express <a> fleet </a> consisted of 61 <a> turboprop </a> and <a> regional jet </a> aircraft . </p>
+
+#	NEW	fleet_size	........ / ( 2009 )	// ( 2009 ) ] ] The Austral L&#x00ed ; neas A&#x00e9 ; reas fleet consists of the following aircraft ( as of 23 December 2010 ) : </p>
+
+#	NEW	fleet_size	........ / ,	// <p> Two paintings , including the &quot ; Le Peintre&quot ; ( the Painter ) by <a> Pablo Picasso </a> , were on board the aircraft and were destroyed in the accident . </p>
+
+10	FALSE	Hooters Air::fleet_size	6 / 2005 ) :	
+<p> The Hooters Air fleet consisted of the following aircraft ( at December 2005 ) : </p>
+
+#	NEW	fleet_size	........ / 2010	// <p> As of December 2010 , the Air China fleet consists of the following aircraft with an average age of 7 . 3 years : center / center </p>
+
+#	NEW	fleet_size	........ / 2007	// ( 2008 ) - Livery was applied on 1st April 2007 ] ] The SkyEurope fleet consisted of the following aircraft ( at 1 September 2009 ) : </p>
+
+#	NEW	fleet_size	........ / 9	// <p> On February 9 , 2010 , Air Canada Jazz announced that it had finalized an agreement with Bombardier Commercial Aircraft for 15 Q400 NextGen aircraft with options for an additional 15 aircraft with deliveries to start in May 2011 .
+
+#	NEW	fleet_size	........ / operated	// <p> The airline operated the following : </p>
+
+#	NEW	fleet_size	........ / <a>	// <p> BOAC ' s initial land plane equipment during the years immediately following the end of <a> World War Two </a> was based on converted or adapted military aircraft including the <a> Avro Lancastrian </a> , <a> Consolidated Liberator </a> , <a> Handley Page Halton </a> and <a> Avro York </a> .
+
+#	NEW	fleet_size	........ / 767	// <p> TWA ' s fleet renewal program included adding newer and smaller , more fuel-efficient longer-range aircraft such as the <a> Boeing 757 </a> and 767 and short-range aircraft such as the <a> McDonnell Douglas MD-80 </a> and <a> Boeing 717 </a> .
+
+#	NEW	fleet_size	........ / following	// <p> The WestJet fleet consists of the following aircraft : center / center </p>
+
+#	NEW	fleet_size	........ / 2010 ) :	// <p> The fleet of TAM Airlines includes the following aircraft ( as of December 2010 ) : </p>
+
+#	NEW	fleet_size	........ / following	// <p> The Singapore Airlines fleet consists of the following aircraft : </p>
+
+20	TRUE	TAROM::fleet_size	26 / 300	
+A310-300 ] ] , the only type of <a> wide-body aircraft </a> in the fleet ] ] [ [ File : tarom b737-300 yr-bge landing london heathrow arp . jpg | thumb | [ [ Boeing 737-300 ] ] in the current livery ] ] The TAROM fleet consists of the following aircraft ( as of 26 July 2010 ) : center / center </p>
+
+#	NEW	fleet_size	........ / ( 2007 )	// ( 2007 ) ] ] Iran Air operates the following aircraft ( as of 09 January 2011 ) : </p>
+
+22	FALSE	Norwegian Air Shuttle::fleet_size	54 / 800	
+The company has opted to modernize the fleet with state-of-the-art Boeing 737-800 aircraft .
+
+#	NEW	fleet_size	........ / 2010	// ( 2009 ) ] ] As of December 2010 , the ANA passenger fleet ( excluding subsidiaries ) consists of the following aircraft : </p>
+
+#	NEW	fleet_size	........ / 2010	// <p> As of September 2010 , the Avianca fleet consists of the following aircraft : </p>
+
+#	NEW	fleet_size	........ / 2008	// In early 2008 , Delta announced it was going to reduce its domestic capacity by 4-5% , in which Comair will reduce its 50-seat Canadair Regional Jet fleet by 8-14 aircraft .
+
+#	NEW	fleet_size	........ / <a>	// Following Gen . <a> Juan Velasco Alvarado </a> being overthrown , the new military government began withdrawing from the daily running of the national carrier . </p>
+
+#	NEW	fleet_size	........ / 2009	// <p> The Gulfstream International Airlines fleet consists of the following aircraft ( at March <a> 2009 </a> ) : </p>
+
+#	NEW	fleet_size	........ / 20	// As of 2009 , Continental Express consists of 214 aircraft operated by ExpressJet Airlines , and 20 aircraft operated by Chautauqua Airlines . </p>
+
+#	NEW	fleet_size	........ / 24	// The Air Canada fleet consists of 204 aircraft , as of 24 November 2010 .
+
+#	NEW	fleet_size	........ / ( 2010 )	// ( 2010 ) ] ] Saudi Arabian Airlines operates the following aircraft ( as of 3 December 2010 ) : center / center </p>
+
+#	NEW	fleet_size	........ / 2011	// As of Januray 2011 , SAA ' s fleet consists of the following aircraft : </p>
+
+#	NEW	fleet_size	........ / following	// <p> The Royal Jordanian fleet consists of the following aircraft ( ) : </p>
+
+#	NEW	fleet_size	........ / 83	// These included the United States ' s <a> Strategic Defense Initiative </a> , its planned deployment of <a> Pershing II </a> missiles in Europe in March and April , and FleetEx ' 83 , the largest fleet exercise held to date in the North Pacific .
+
+#	NEW	fleet_size	........ / 2009 ) :	// The Nippon Cargo Airlines fleet consists of the following aircraft ( as of March 2009 ) : </p>
+
+35	FALSE	Arrow Air::fleet_size	7 / 01	
+<p> The Arrow Cargo fleet includes the following aircraft ( at 01 Aug 2009 ) : </p>
+
+36	TRUE	Canadian Airlines::fleet_size	163 / 163	
+<p> At the time of its acquisition by <a> Air Canada </a> , it operated a fleet of 163 aircraft .
+
+#	NEW	fleet_size	........ / 2010	// <p> As of November 2010 , the Flybe fleet includes the following aircraft : </p>
+
+#	NEW	fleet_size	........ / 2010	// <p> As of December 2010 the Virgin Blue fleet consists of the following aircraft with an average age of 6 . 4 years : </p>
+
+#	NEW	fleet_size	........ / 200	// <p> The fleet of Air Canada Tango consisted of up to 13 <a> Airbus A320 </a> and ( from 2002 ) up to 6 <a> Boeing 737-200 </a> . </p>
+

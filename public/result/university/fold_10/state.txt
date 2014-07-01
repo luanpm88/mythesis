@@ -1,0 +1,13 @@
+Found: 111
+Found Not Null: 1
+Correct: 1
+Wrong: 0
+Total: 1
+precision: 0.009009009009009009
+recall: 1.0
+
+
+
+81	TRUE	University of California, San Francisco::state	california / California	
+<p> The <strong> University of California, San Francisco </strong> ( <strong> UCSF </strong> ) is one of the world's leading centers of health sciences research, patient care, and education.
+

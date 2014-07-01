@@ -1,0 +1,52 @@
+Found: 22
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	birthplace	........ / advertisements and documentaries .	// His distinctive voice has become well known in advertisements and documentaries . </p>
+
+#	NEW	birthplace	........ / held French citizenship .	// <p> <strong> Romy Schneider </strong> ( 23 September 1938 <img> 29 May 1982 ) was a German film actress who was born in Austria and also held French citizenship . </p>
+
+#	NEW	birthplace	........ / director , and	// <p> <strong> Kevin Michael Costner </strong> ( born January 18 , 1955 ) is an American actor , singer , musician , producer , director , and businessman .
+
+#	NEW	birthplace	........ / lives with his	// His parents are now divorced , and he lives with his mother .
+
+#	NEW	birthplace	........ / and became an	// Laurie followed in the footsteps of her parents and became an actress .
+
+#	NEW	birthplace	........ / actress and theatre	// <p> <strong> Catherine &#x00c9 ; lise &quot ; Cate&quot ; Blanchett </strong> ( born 14 May 1969 ) is an Australian actress and theatre director .
+
+#	NEW	birthplace	........ / Joseph P . Kennedy	// In 1998 , O ' Herlihy acted in his last film , </em> <a> The Rat Pack </a> <em> , playing <a> Joseph P . Kennedy </a> . </em> </strong> </p>
+
+#	NEW	birthplace	........ / until his death .	// Mastroianni was married to Italian actress <a> Flora Carabella </a> ( 1926&#x2013 ; 1999 ) from 1948 until his death .
+
+#	NEW	birthplace	........ / an American actor .	// <p> <strong> Ryan O ' Neal </strong> ( born <strong> Charles Patrick Ryan O ' Neal , Jr . </strong> ; April 20 , 1941 ) is an American actor . </p>
+
+#	NEW	birthplace	........ / to the British	// <p> : <em> This article refers to the British actor .
+
+#	NEW	birthplace	........ / the stage name	// She won and was immediately given the stage name <strong> Gale Storm </strong> .
+
+#	NEW	birthplace	........ / classic British films .	// They worked together under the name of &quot ; <a> The Archers </a> &quot ; and produced a series of classic British films . </p>
+
+#	NEW	birthplace	........ / as her professional	// She adopted her mother ' s maiden name as her professional name .
+
+#	NEW	birthplace	........ / s Creek	// He also reprised his role as Ben Matlock on <strong> <em> ' in 1997 , and his most recent guest-starring role was in 2001 in an episode of </em> <a> Dawson ' s Creek </a> <em> . </em> </strong> </p>
+
+#	NEW	birthplace	........ / Gaily , Gaily	// <p> After the completion of the period comedy <em> <a> Gaily , Gaily </a> </em> ( 1969 ) , Jewison , having become disenchanted with the political climate in the United States , moved his family to England .
+
+#	NEW	birthplace	........ / <strong> Lewis Kiniski	// Stiles played Drew ' s smart but underachieving best friend , <strong> Lewis Kiniski </strong> .
+
+#	NEW	birthplace	........ / but moved into	// He started his career as a stage actor in 1919 but moved into <a> theatre </a> production in 1924 .
+
+#	NEW	birthplace	........ / times , twice	// <p> Bolt was married four times , twice to <a> British </a> actress <a> Sarah Miles </a> .
+
+#	NEW	birthplace	........ / Directed by Oz :	// <p> <strong> Directed by Oz : </strong> </p>
+
+#	NEW	birthplace	........ / changed his German	// On arrival in the <a> United States </a> , he soon changed his German name .
+
+#	NEW	birthplace	........ / Hills , California	// Newman attended <a> Beverly Hills High School </a> in <a> Beverly Hills , California </a> .
+
+#	NEW	birthplace	........ / the United States .	// At this time , Renoir became a <a> naturalized citizen </a> of the United States . </p>
+

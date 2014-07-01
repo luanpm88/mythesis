@@ -1,3 +1,0 @@
-<li>Department of Nursing Science</li>
-<li>Department of Education</li>
-<li>Department of Computer Science, Mathematics and Technology</li>

@@ -1,5 +1,0 @@
-<li>Institute for High Energy Physics</li>
-<li>Institute for Theoretical Pysics</li>
-<li>Korteweg-De Vries Institute for Mathematics</li>
-<li>SCO-Kohnstamm Institute (Child rearing, education and child welfare)</li>
-<li>Van der Waals-Zeeman Institute (Condensed Matter Physics, Complex Soft Matter and Quantum Gases-Atom Optics)</li>

@@ -1,4 +1,0 @@
-<li>Department of Electric Power Engineering</li>
-<li>Department of Thermal Power Engineering</li>
-<li>Department of Information Engineering</li>
-<li>Department of Automation</li>

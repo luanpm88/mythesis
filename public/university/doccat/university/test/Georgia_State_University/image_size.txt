@@ -1,6 +1,0 @@
-<h2>Student media</h2>
-The University Library (also known as the William Russell Pullen Library, housed in Library North and Library South) contains more than 1.4 million volumes, including 8,000 active serials and nearly 22,000 media materials.
-<li><strong>&#x03a3;&#x0393;&#x03a1;</strong> <a>Sigma Gamma Rho</a></li>
-<li><strong>&#x03a3;&#x03a3;&#x03a1;</strong> <a>Sigma Sigma Rho</a></li>
-<li><a>Mary Hood</a>, author</li>
-<li><a>Sue Savage-Rumbaugh</a>, primatologist at GSU's Language Research Center</li>

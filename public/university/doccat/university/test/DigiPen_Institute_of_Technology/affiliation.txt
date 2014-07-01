@@ -1,8 +1,0 @@
-<li><a>Claude Comair</a>
-<li><a>Prasanna Ghali</a>
-<li><a>DigiPen Fact Sheet</a></li>
-<li><a>IGF Award Winners</a></li>
-<li><a>DigiPen's Site</a></li>
-<li><a>DigiPen Summer Workshop Site</a></li>
-<li><a>DigiPen&#x00b4;s Bilbao Site</a></li>
-<li><a>DigiPen&#x00b4;s Bilbao Blog</a></li>

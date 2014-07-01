@@ -1,0 +1,114 @@
+Found: 33
+Found Not Null: 22
+Correct: 19
+Wrong: 3
+Total: 30
+precision: 0.8636363636363636
+recall: 0.6333333333333333
+
+
+
+0	TRUE	Air Ivoire::airline	air ivoire / C&#	
+<p> <strong> Air Ivoire </strong> is an <a> airline </a> headquartered in <a> Abidjan </a> , <a> C&#x00f4 ; te d ' Ivoire </a> .
+
+#	NEW	airline	........ / Air	// <p> <strong> Air Iceland </strong> ( <a> Icelandic </a> : <strong> Flugf&#x00e9 ; lag &#x00cd ; slands </strong> ) is a <a> regional airline </a> based in <a> Reykjav&#x00ed ; k </a> , <a> Iceland </a> .
+
+2	FALSE	Trans International Airlines::airline	trans international airlines / Transamerica Airlines	
+It offered scheduled service operating as <strong> Transamerica Airlines </strong> in its last decade .
+
+3	TRUE	Sun Country Airlines::airline	sun country airlines / headquartered	
+<p> <strong> MN Airlines , LLC </strong> , <a> operating as </a> <strong> Sun Country Airlines </strong> , is an <a> American </a> <a> low-cost airline </a> headquartered in the <a> Minneapolis-St .
+
+4	FALSE	Air Jamaica Express::airline	air jamaica express / Air Taxi	
+The airline was established in 1973 as <strong> Jamaica Air Taxi </strong> , and later operated as <strong> Trans-Jamaican Airline </strong> until it was taken over by <a> Gordon Stewart </a> who also controlled Air Jamaica in 1994 . </p>
+
+#	NEW	airline	........ / Express	// <p> <strong> Alitalia Express S . p . A . </strong> was a <a> regional airline </a> based in <a> Rome </a> , <a> Italy </a> and a wholly owned subsidiary of <a> Alitalia </a> .
+
+#	NEW	airline	........ / National Airways	// <p> <strong> National Airways Corporation </strong> was the national domestic airline of New Zealand from 1947 until 1978 when it amalgamated with New Zealand ' s international airline , <a> Air New Zealand </a> .
+
+7	TRUE	Transbrasil::airline	transbrasil / ian airline	
+<strong> TransBrasil </strong> was an international <a> Brazil </a> ian airline which ceased operations in December 2001 .
+
+#	NEW	airline	........ / Thailand '	// <p> <strong> Thai AirAsia </strong> ( ) is a joint venture of Malaysian low-fare airline <a> AirAsia </a> ( ) and Thailand ' s <a> Asia Aviation </a> .
+
+#	NEW	airline	........ / headquartered	// <p> <strong> Air Macau Company Limited </strong> ( ) is the <a> flag carrier </a> <a> airline </a> of and headquartered in <a> Macau </a> .
+
+10	TRUE	Sunshine Express Airlines::airline	sunshine express airlines / Express Airlines	
+<p> <strong> Sunshine Express Airlines </strong> is an <a> air charter </a> company that previously operated as an <a> airline </a> serving many regional destinations on the East Coast of <a> Australia </a> ; from <a> Hervey Bay </a> to <a> Port Macquarie </a> .
+
+11	TRUE	Helios Airways::airline	helios airways / an	
+<p> <strong> Helios Airways </strong> was a low-cost <a> Cypriot </a> <a> airline </a> operating <a> scheduled </a> and <a> charter </a> flights between <a> Cyprus </a> and many <a> Europe </a> an destinations .
+
+12	TRUE	Air Alps::airline	air alps / Air	
+<p> <strong> Air Alps </strong> ( Air Alps Aviation , Alpenl&#x00e4 ; ndisches Flugunternehmen Ges . m . b . H . ) is an <a> airline </a> based in <a> Innsbruck </a> , <a> Austria </a> .
+
+13	TRUE	Albatros Airways::airline	albatros airways / Albatros Airways	
+<p> <strong> Albatros Airways Sh . p . k . </strong> was a <a> low-cost airline </a> based in <a> Tirana </a> in <a> Albania </a> .
+
+14	TRUE	Trans Air Congo::airline	trans air congo / Trans Air Congo	
+<p> <strong> Trans Air Congo </strong> is a scheduled passenger and cargo <a> airline </a> based in <a> Brazzaville </a> , <a> Republic of Congo </a> .
+
+#	NEW	airline	........ / People '	// <p> <strong> Shenzhen Airlines </strong> ( ) is a domestic and international low-cost carrier airline headquartered on the grounds of <a> Shenzhen Bao ' an International Airport </a> in <a> Bao ' an District </a> , <a> Shenzhen </a> , <a> Guangdong </a> , <a> People ' s Republic of China </a> . </p>
+
+16	TRUE	Britannia Airways::airline	britannia airways / Thomsonfly	
+<p> <strong> Britannia Airways </strong> was the largest <a> charter airline </a> in the United Kingdom , rebranded as <strong> <a> Thomsonfly </a> </strong> in 2005 .
+
+#	NEW	airline	........ / Portug&#	// <p> <strong> Portug&#x00e1 ; lia </strong> ( <strong> Companhia Portuguesa de Transportes A&#x00e9 ; reos S . A . </strong> ) is a <a> regional airline </a> with its head office in <a> Lisbon </a> , <a> Portugal </a> .
+
+#	NEW	airline	........ / US Air	// <p> The theory that the crash was caused by a defective servo valve in the plane ' s rudder , resulting in a rudder hard-over , has been compared to two other Boeing 737 crashes , <a> United Airlines Flight 585 </a> and <a> US Air Flight 427 </a> . </p>
+
+19	TRUE	Kosova Airlines::airline	kosova airlines / Kosova Airlines	
+<p> <strong> Kosova Airlines </strong> is an airline that is based in <a> Kosovo </a> .
+
+20	TRUE	Flying Tiger Line::airline	flying tiger line / leased	
+<p> <strong> Flying Tiger Line </strong> , also known as <strong> Flying Tigers </strong> , was the first scheduled cargo <a> airline </a> in the <a> United States </a> and a major military charter operator during the <a> Cold War </a> era for both cargo and personnel ( the latter with leased aircraft ) .
+
+#	NEW	airline	........ / June 24	// <p> <strong> <a> Eastern Air Lines </a> Flight 66 </strong> , a <a> Boeing 727 </a> -225 with registration number N8845E , departed from <a> New Orleans </a> <a> Moisant Field </a> , bound for <a> John F . Kennedy International Airport </a> on the afternoon of June 24 , 1975 .
+
+22	TRUE	MacAir Airlines::airline	macair airlines / Australia.	
+<p> <strong> MacAir Airlines Pty Ltd </strong> was a regional <a> airline </a> based in <a> Townsville </a> , Queensland , Australia .
+
+#	NEW	airline	........ / second air	// It was the second air disaster involving PRC aircraft in less than a month , after the <a> Air China Flight 129 </a> disaster on April 15 . </p>
+
+24	TRUE	Khalifa Airways::airline	khalifa airways / Khalifa Airways	
+<p> <strong> Khalifa Airways </strong> ( <strong> &#x0627 ; &#x0644 ; &#x062e ; &#x0637 ; &#x0648 ; &#x0637 ; &#x0627 ; &#x0644 ; &#x062c ; &#x0648 ; &#x064a ; &#x0629 ; &#x0627 ; &#x0644 ; &#x062e ; &#x0644 ; &#x064a ; &#x0641 ; &#x0629 ; </strong> ) was a passenger and cargo <a> airline </a> based in <a> Algiers </a> , <a> Algeria </a> which was founded in June 1999 by <a> Rafik Khalifa </a> and ceased flying in 2003 . </p>
+
+25	TRUE	ADC Airlines::airline	aviation development company / Nigeria	
+<p> <strong> ADC Airlines </strong> was a Nigerian airline owned by <strong> Aviation Development Company plc </strong> and headquartered in <a> Ikeja </a> , <a> Lagos State </a> , <a> Nigeria </a> .
+
+26	TRUE	Gambia International Airlines::airline	gambia international airlines / headquartered	
+<p> <strong> Gambia International Airlines </strong> ( GIA ) was the national <a> airline </a> of <a> The Gambia </a> , headquartered in <a> Banjul </a> .
+
+27	FALSE	Air Guyane Express::airline	air guyane express / French	
+<p> <strong> Air Guyane SP </strong> is an <a> airline </a> with its head office on the grounds of <a> Cayenne-Rochambeau Airport </a> in <a> Matoury </a> , <a> French Guiana </a> .
+
+28	TRUE	Debonair (airline)::airline	debonair / Italy	
+<p> <strong> Debonair </strong> was a <a> British </a> airline operating mainly from <a> London Luton Airport </a> offering flights to and from <a> Spain </a> , <a> France </a> , <a> Germany </a> and <a> Italy </a> .
+
+29	TRUE	Kam Air::airline	kam air / Centre	
+<p> <strong> Kam Air </strong> is an <a> airline </a> headquartered in the Kabul Business Centre in <a> Kabul </a> , <a> Afghanistan </a> .
+
+30	TRUE	Thai Air Cargo::airline	thai air cargo / Air Cargo	
+<p> <strong> Thai Air Cargo </strong> ( T2 Cargo ) , was a <a> cargo airline </a> based in <a> Bangkok </a> , <a> Thailand </a> . </p>
+
+31	TRUE	Aerocaribe::airline	aerocaribe / Aerocaribe	
+<p> <strong> Aerocaribe </strong> was an airline based in <a> M&#x00e9 ; rida , Yucat&#x00e1 ; n </a> , <a> Mexico </a> .
+
+#	NEW	airline	........ / Lucas Aviation	// <p> In 1970 , the airline was re-constituted as a <a> regional airline </a> named <strong> Lucas Aviation </strong> .
+
+#	null	airline	nepal airlines / ..........
+
+#	null	airline	aero mongolia / ..........
+
+#	null	airline	aerohonduras / ..........
+
+#	null	airline	air astana / ..........
+
+#	null	airline	aeropostal alas de venezuela / ..........
+
+#	null	airline	air creebec / ..........
+
+#	null	airline	air fiji / ..........
+
+#	null	airline	air inuit / ..........
+

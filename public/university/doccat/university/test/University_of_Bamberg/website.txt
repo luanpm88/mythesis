@@ -1,3 +1,0 @@
-<li><a>Humanities</a> and <a>Cultural Sciences</a></li>
-<li><a>Human Sciences</a></li>
-<li>Behavioral Sciences: Sociology, Political Science, Psychology</li>

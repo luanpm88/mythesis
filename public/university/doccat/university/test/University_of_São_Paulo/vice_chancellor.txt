@@ -1,2 +1,0 @@
-<li>Professor Doctor (Professor Doutor) - MS-3 (must have a doctoral or equivalent degree)</li>
-<li>Associate Professor (Professor Associado) - MS-5 (must have a <em>Livre Docente</em> title; equivalent to the German <a>Habilitation</a>)</li>

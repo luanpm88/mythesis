@@ -1,0 +1,72 @@
+Found: 32
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	headquarters	........ / Airbus	// It initially operated charter flights from D&#x00fc ; sseldorf using a wet-leased <a> Airbus A320 </a> .
+
+#	NEW	headquarters	........ / Osaka	// <p> Between <a> Osaka International Airport </a> ( <strong> ITM </strong> ) <a> Itami , &#x014c ; saka </a> and : </p>
+
+#	NEW	headquarters	........ / Company	// It is sometimes referred to as <strong> Manchukuo Air Transport Company </strong> . </p>
+
+#	NEW	headquarters	........ / ,	// <p> <strong> Air Contractors ( Ireland ) Limited </strong> is a freight <a> airline </a> based in <a> Dublin </a> , <a> Ireland </a> .
+
+#	NEW	headquarters	........ / Dublin	// Its main bases were <a> Dublin International Airport </a> , Shannon International Airport and <a> Cork Airport </a> . </p>
+
+#	NEW	headquarters	........ / Polo	// Its main base was <a> Marco Polo International Airport </a> ) , <a> Venice </a> . </p>
+
+#	NEW	headquarters	........ / Malpensa	// Its main base was <a> Malpensa International Airport </a> , Milan . </p>
+
+#	NEW	headquarters	........ / ,	// Its main base was <a> Harsta / Narvik Airport , Evenes </a> .
+
+#	NEW	headquarters	........ / Chopin	// Its main base is <a> Warsaw Frederic Chopin Airport </a> . </p>
+
+#	NEW	headquarters	........ / Portela	// Its main base is <a> Portela Airport </a> , <a> Lisbon </a> . </p>
+
+#	NEW	headquarters	........ / flight	// Effective October 25 , 2009 Flight 11 was replaced on the Paris-Houston route by flight 33 . </p>
+
+#	NEW	headquarters	........ / March	// <p> The Anikay Air fleet includes the following aircraft ( at March 2008 ) : </p>
+
+#	NEW	headquarters	........ / Germany	// <p> <strong> Elbe Air </strong> ( Elbe Air Lufttransport GmbH ) was an <a> airline </a> based in <a> Germany </a> . </p>
+
+#	NEW	headquarters	........ / Miramare	// Its main base is <a> Miramare Airport </a> , Rimini .
+
+#	NEW	headquarters	........ / Airlines	// The airline was founded in 2002 and ceased its operations in 2004 when it was merged into <a> SN Brussels Airlines </a> . </p>
+
+#	NEW	headquarters	........ / n	// Its main base is <a> Golos&#x00f3 ; n International Airport </a> , La Ceiba . </p>
+
+#	NEW	headquarters	........ / January	// <p> The Windrose Air fleet comprises ( as of January 2008 ) : </p>
+
+#	NEW	headquarters	........ / DC-	// <p> The airline operates a fleet of <a> DC-9 </a> s . </p>
+
+#	NEW	headquarters	........ / Tallinn	// Its main base is <a> Lennart Meri Tallinn Airport </a> . </p>
+
+#	NEW	headquarters	........ / France	// <p> <strong> Aero Services Executive </strong> is an <a> airline </a> company based in <a> France </a> .
+
+#	NEW	headquarters	........ / Cessna	// <p> The airline has two <a> Cessna 208 </a> Caravan . </p>
+
+#	NEW	headquarters	........ / for	// <p> The Stuttgarter Flugdienst fleet consists of the following aircraft types , which provide space for 5-13 passengers : </p>
+
+#	NEW	headquarters	........ / ambulance	// It operates business and executive flights , cargo and <a> air ambulance </a> services . </p>
+
+#	NEW	headquarters	........ / Adams	// Its main base is at <a> Grantley Adams International Airport </a> , Barbados . </p>
+
+#	NEW	headquarters	........ / Malta	// Its main bases are <a> Malta International Airport </a> and <a> Tripoli International Airport </a> , <a> Libya </a> .
+
+#	NEW	headquarters	........ / ,	// In 1993 it started flying to European holiday destinations for tour operators and added international scheduled services in 1994 , to <a> Florence </a> .
+
+#	NEW	headquarters	........ / around Russia .	// It operated scheduled and charter passenger and cargo flights from various locations around Russia .
+
+#	NEW	headquarters	........ / Moscow .	// Its main base is <a> Domodedovo International Airport </a> , Moscow . </p>
+
+#	NEW	headquarters	........ / Moscow	// Its main base is <a> Bykovo Airport </a> , Moscow , from where it operates <a> charter flight </a> s .
+
+#	NEW	headquarters	........ / Russia	// <p> <strong> UTair Express </strong> is an <a> airline </a> based in <a> Russia </a> .
+
+#	NEW	headquarters	........ / ModiLuft	// <p> SpiceJet , India ' s leading low cost airline , is a reincarnation of <a> ModiLuft </a> .
+
+#	NEW	headquarters	........ / States :	// <p> <strong> Airports served in the United States : </strong> </p>
+

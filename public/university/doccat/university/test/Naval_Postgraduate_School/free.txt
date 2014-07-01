@@ -1,8 +1,0 @@
-Most of the faculty are civilians.</p>
-<li>Applied Mathematics Department <a>Web page</a></li>
-<li>Meteorology Department <a>Web page</a></li>
-<li>Oceanography Department <a>Web page</a></li>
-<li>Physics Department <a>Web page</a></li>
-<li>Systems Engineering Department <a>Web page</a></li>
-<li>Defense Analysis Department</li>
-<li>National Security Affairs Academic Program</li>

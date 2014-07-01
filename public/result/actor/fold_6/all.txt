@@ -1,0 +1,461 @@
+Total articles: 312
+Articles for test: 281
+Articles for train: 31
+Total attributes: 64
+Attributes with high occurrences: 13/64
+
+------------
+Found: 199
+Found Not Null: 40
+Correct: 16
+Wrong: 24
+Total: 44
+precision: 0.4
+recall: 0.36363636363636365
+
+
+
+#	NEW	caption	........ / WKRP in	// <p> After <em> WKRP in Cincinnati </em> folded in 1982 , Jump made an appearance as a <a> pedophile </a> on <em> <a> Diff ' rent Strokes </a> </em> .
+
+#	NEW	birth_place	........ / Los Angeles	// He was a television producer and on-air personality in Dayton , Ohio , when he decided to move to Los Angeles and study acting . </p>
+
+#	NEW	birthname	........ / had a brief speaking role	// He had a brief speaking role as a farmer in the 1976 TV Movie &quot ; Sybil . &quot ;
+
+3	FALSE	Gordon Jump::name	gordon jump / Los Angeles	
+<p> Jump died in 2003 from <a> pulmonary fibrosis </a> , leading to <a> respiratory failure </a> at his home near <a> Los Angeles , California </a> . </p>
+
+4	TRUE	Gordon Jump::birth_name	alexander gordon jump / Alexander Gordon Jump	
+<p> <strong> Alexander Gordon Jump </strong> ( April 1 , 1932 &ndash ; September 22 , 2003 ) was an American <a> actor </a> best known as the clueless <a> radio station </a> manager Arthur &quot ; Big Guy&quot ; Carlson in the <a> TV series </a> <em> <a> WKRP in Cincinnati </a> </em> and the incompetent &quot ; Piece of Chalief Tinkler&quot ; in the sitcom <em> <a> Soap </a> </em> .
+
+5	TRUE	Gordon Jump::occupation	actor / Soap	
+<p> <strong> Alexander Gordon Jump </strong> ( April 1 , 1932 &ndash ; September 22 , 2003 ) was an American <a> actor </a> best known as the clueless <a> radio station </a> manager Arthur &quot ; Big Guy&quot ; Carlson in the <a> TV series </a> <em> <a> WKRP in Cincinnati </a> </em> and the incompetent &quot ; Piece of Chalief Tinkler&quot ; in the sitcom <em> <a> Soap </a> </em> .
+
+#	NEW	birthplace	........ / role in July	// He also played the &quot ; Maytag Repairman&quot ; in commercials for <a> Maytag </a> brand appliances , from 1989 until his retirement from the role in July 2003 . </p>
+
+#	NEW	name	........ / who had	// In 1972 , Dullea married a third time to Susie Fuller , who had two daughters from a previous relationship .
+
+#	NEW	caption	........ / Audrey Hepburn	// In 2000 , he appeared in <em> <a> The Audrey Hepburn Story </a> </em> as Hepburn ' s father Joseph .
+
+#	NEW	birth_name	........ / actor best known for the character of astronaut	// <p> <strong> Keir Dullea </strong> ( ; born May 30 , 1936 ) is an <a> American </a> actor best known for the character of astronaut <a> David Bowman </a> , whom he portrayed in the 1968 film <strong> <em> ' and in 1984 ' s </em> <a> 2010 : The Year We Make Contact </a> <em> , as well as his roles in the films </em> <a> Bunny Lake is Missing </a> <em> ( 1965 ) and </em> <a> Black Christmas </a> <em> ( 1974 ) . </em> </strong> </p>
+
+#	NEW	birthname	........ / His first marriage	// His first marriage was to stage and film actress Margot Bennett in 1960 .
+
+11	FALSE	Edna Purviance::name	edna purviance / California death	
+<p> Purviance died of <a> cancer </a> on January 13 , 1958 , at the age of 62 ( as per her official California death certificate ) .
+
+#	NEW	caption	........ / where they	// When she was three , the family moved to <a> Lovelock , Nevada </a> , where they assumed ownership of a hotel property .
+
+#	NEW	birth_name	........ / an American actress during the	// <p> <strong> Edna Purviance </strong> ( October 21 , 1895 &ndash ; January 11 , 1958 ) was an American actress during the <a> silent movie </a> era .
+
+#	NEW	birth_date	........ / em>	// Her last film with him , <em> <a> A Woman of Paris </a> </em> , was also her first lead role .
+
+#	NEW	occupation	........ / actress	// <p> <strong> Edna Purviance </strong> ( October 21 , 1895 &ndash ; January 11 , 1958 ) was an American actress during the <a> silent movie </a> era .
+
+#	NEW	death_date	........ / January 11 , 1958 )	// <p> <strong> Edna Purviance </strong> ( October 21 , 1895 &ndash ; January 11 , 1958 ) was an American actress during the <a> silent movie </a> era .
+
+#	NEW	birthname	........ / an American actress during	// <p> <strong> Edna Purviance </strong> ( October 21 , 1895 &ndash ; January 11 , 1958 ) was an American actress during the <a> silent movie </a> era .
+
+18	TRUE	Burgess Meredith::name	burgess meredith / an actor	
+<p> Burgess Meredith was involved in theatre , film , and television , both as an actor and a director .
+
+19	FALSE	Burgess Meredith::birth_name	oliver burgess meredith / best known to the larger world audience for his film and television work, Meredith was an influential actor and director for the	
+Although best known to the larger world audience for his film and television work , Meredith was an influential actor and director for the stage .
+
+#	NEW	birth_date	........ / Burgess	// <p> Burgess Meredith was involved in theatre , film , and television , both as an actor and a director .
+
+#	NEW	birthplace	........ / actor and a	// <p> Burgess Meredith was involved in theatre , film , and television , both as an actor and a director .
+
+#	NEW	caption	........ / United States	// <p> Meredith served in the <a> United States Army Air Forces </a> in <a> World War II </a> , reaching the rank of <a> captain </a> .
+
+#	NEW	birthname	........ / Although best known	// Although best known to the larger world audience for his film and television work , Meredith was an influential actor and director for the stage .
+
+#	NEW	birth_name	........ / Ji&# x0159 ; &#x00ed ; Menzel	// <p> <strong> Ji&#x0159 ; &#x00ed ; Menzel </strong> ( ) ( born February 23 , 1938 , <a> Prague </a> ) is a <a> Czech </a> <a> film director </a> , <a> theatre director </a> , actor , and <a> screenwriter </a> .
+
+#	NEW	birth_date	........ / p>	// Menzel was nominated for an Academy Award for Best Foreign Language Film again in 1986 with his dark comedy <em> <a> My Sweet Little Village </a> </em> . </p>
+
+#	NEW	occupation	........ / actor	// <p> <strong> Ji&#x0159 ; &#x00ed ; Menzel </strong> ( ) ( born February 23 , 1938 , <a> Prague </a> ) is a <a> Czech </a> <a> film director </a> , <a> theatre director </a> , actor , and <a> screenwriter </a> .
+
+#	NEW	death_date	........ / actor	// <p> <strong> Ji&#x0159 ; &#x00ed ; Menzel </strong> ( ) ( born February 23 , 1938 , <a> Prague </a> ) is a <a> Czech </a> <a> film director </a> , <a> theatre director </a> , actor , and <a> screenwriter </a> .
+
+#	NEW	birthplace	........ / fall of the	// It was finally released in 1990 after the fall of the <a> Communist </a> regime .
+
+#	NEW	caption	........ / Ji&# x0159 ; &#	// <p> <strong> Ji&#x0159 ; &#x00ed ; Menzel </strong> ( ) ( born February 23 , 1938 , <a> Prague </a> ) is a <a> Czech </a> <a> film director </a> , <a> theatre director </a> , actor , and <a> screenwriter </a> .
+
+#	NEW	birthname	........ / nominated for an Academy Award for Best Foreign Language Film again	// Menzel was nominated for an Academy Award for Best Foreign Language Film again in 1986 with his dark comedy <em> <a> My Sweet Little Village </a> </em> . </p>
+
+31	FALSE	Victor Garber::name	victor garber / a bank	
+<p> Recently Garber had an uncredited cameo in <em> <a> The Town </a> </em> as a bank manager .
+
+#	NEW	caption	........ / Victor Joseph	// <p> <strong> Victor Joseph Garber </strong> ( born March 16 , 1949 ) is a <a> Canadian </a> film , stage and television <a> actor </a> and <a> singer </a> .
+
+33	TRUE	Victor Garber::birth_name	victor joseph garber / Victor Joseph Garber	
+<p> <strong> Victor Joseph Garber </strong> ( born March 16 , 1949 ) is a <a> Canadian </a> film , stage and television <a> actor </a> and <a> singer </a> .
+
+#	NEW	occupation	........ / actor	// <p> <strong> Victor Joseph Garber </strong> ( born March 16 , 1949 ) is a <a> Canadian </a> film , stage and television <a> actor </a> and <a> singer </a> .
+
+#	NEW	death_date	........ / singer	// <p> <strong> Victor Joseph Garber </strong> ( born March 16 , 1949 ) is a <a> Canadian </a> film , stage and television <a> actor </a> and <a> singer </a> .
+
+#	NEW	birthplace	........ / to generally favorable	// He reprised the role in the <a> Roundabout Theatre </a> ' s New York production which opened in January , 2010 to generally favorable reviews .
+
+#	NEW	birthname	........ / Victor Joseph Garber	// <p> <strong> Victor Joseph Garber </strong> ( born March 16 , 1949 ) is a <a> Canadian </a> film , stage and television <a> actor </a> and <a> singer </a> .
+
+38	TRUE	Leonor Varela::caption	varela / Leonor Varela	
+<p> <strong> Leonor Varela Palma </strong> ( born December 29 , 1972 ) is a <a> Chile </a> an <a> actress </a> , and <a> model </a> .
+
+39	FALSE	Leonor Varela::birth_name	leonor varela palma / nominated for the	
+She was nominated for the <a> Ariel Award in 2005 </a> in the category of Best Actress for <em> <a> Innocent Voices </a> </em> ( 2004 ) .
+
+#	NEW	occupation	........ / actress	// <p> <strong> Leonor Varela Palma </strong> ( born December 29 , 1972 ) is a <a> Chile </a> an <a> actress </a> , and <a> model </a> .
+
+#	NEW	death_date	........ / model	// <p> <strong> Leonor Varela Palma </strong> ( born December 29 , 1972 ) is a <a> Chile </a> an <a> actress </a> , and <a> model </a> .
+
+#	NEW	birthplace	........ / recurring role in	// She also had a non-recurring role in <strong> <em> ' . </em> </strong> </p>
+
+43	FALSE	Leonor Varela::name	leonor varela / Arrested Development	
+<p> Varela also had a short recurring role in the <a> Fox Television </a> series <em> <a> Arrested Development </a> </em> as the original Marta .
+
+#	NEW	birthname	........ / was nominated for	// She was nominated for the <a> Ariel Award in 2005 </a> in the category of Best Actress for <em> <a> Innocent Voices </a> </em> ( 2004 ) .
+
+45	FALSE	Christina Cox::name	christina cox / currently resides	
+<p> Cox currently resides in <a> Los Angeles </a> , <a> California </a> . ref
+
+#	NEW	caption	........ / Christina Cox	// <p> Christina Cox was born just outside of Toronto , the youngest of three daughters .
+
+#	NEW	birth_place	........ / Los Angeles	// <p> Cox currently resides in <a> Los Angeles </a> , <a> California </a> . ref
+
+#	NEW	occupation	........ / actress	// <p> <strong> Christina Cox </strong> ( born July 31 , 1971 ) is a <a> Canadian </a> <a> movie </a> and <a> television </a> <a> actress </a> and <a> stuntwoman </a> . </p>
+
+#	NEW	birthplace	........ / youngest of three	// <p> Christina Cox was born just outside of Toronto , the youngest of three daughters .
+
+#	NEW	birth_name	........ / is a	// <p> <strong> Christina Cox </strong> ( born July 31 , 1971 ) is a <a> Canadian </a> <a> movie </a> and <a> television </a> <a> actress </a> and <a> stuntwoman </a> . </p>
+
+51	FALSE	Ingrid Thulin::name	ingrid thulin / although they	
+<p> She was married to <a> Harry Schein </a> , the founder of the <a> Swedish Film Institute </a> , for more than 30 years until 1989 , although they had lived separately for many years before the divorce .
+
+#	NEW	caption	........ / daughter of	// <p> Thulin was born in <a> Sollefte&#x00e5 ; </a> , <a> &#x00c5 ; ngermanland </a> , northern Sweden , the daughter of Nanna ( n&#x00e9 ; e Larsson ) and Adam Thulin , a fisherman .
+
+#	NEW	birth_name	........ / January 1926 &ndash ; 7 January	// <p> <strong> Ingrid Thulin </strong> ( ; 27 January 1926 &ndash ; 7 January 2004 ) was a <a> Swedish </a> <a> film actress </a> . </p>
+
+#	NEW	occupation	........ / actress	// <p> <strong> Ingrid Thulin </strong> ( ; 27 January 1926 &ndash ; 7 January 2004 ) was a <a> Swedish </a> <a> film actress </a> . </p>
+
+#	NEW	birthplace	........ / Award the same	// Winner of the David di Donatello Awards 1974 , Thulin was also been nominated for the BAFTA Award the same year .
+
+#	NEW	birthname	........ / film actress	// <p> <strong> Ingrid Thulin </strong> ( ; 27 January 1926 &ndash ; 7 January 2004 ) was a <a> Swedish </a> <a> film actress </a> . </p>
+
+57	FALSE	Peter Strauss::name	peter strauss / more recent	
+A more recent film in which he appears is </em> </strong> ' ( 2005 ) .
+
+#	NEW	caption	........ / He married	// <p> He married actress <a> Rachel Ticotin </a> on December 31 , 1998 .
+
+#	NEW	occupation	........ / actor	// <p> <strong> Peter Strauss </strong> ( born February 20 , 1947 ) is an <a> American </a> television and movie actor , known for his roles in several television <a> miniseries </a> in the 1970s and 1980s .
+
+#	NEW	death_date	........ / ( 2005 ) .	// A more recent film in which he appears is </em> </strong> ' ( 2005 ) .
+
+#	NEW	birthplace	........ / the animated series	// He was the voice of <a> Moses </a> in the animated series <strong> <em> ' .
+
+#	NEW	birth_name	........ / television and movie actor , known for his roles in several television	// <p> <strong> Peter Strauss </strong> ( born February 20 , 1947 ) is an <a> American </a> television and movie actor , known for his roles in several television <a> miniseries </a> in the 1970s and 1980s .
+
+#	NEW	birthname	........ / known for his roles	// <p> <strong> Peter Strauss </strong> ( born February 20 , 1947 ) is an <a> American </a> television and movie actor , known for his roles in several television <a> miniseries </a> in the 1970s and 1980s .
+
+#	NEW	caption	........ / Christopher Plummer	// <p> <strong> Christopher Plummer </strong> , <a> CC </a> ( born December 13 , 1929 ) is a <a> Canadian </a> <a> theatre </a> , <a> film </a> and <a> television </a> <a> actor </a> . </p>
+
+65	FALSE	Christopher Plummer::birth_name	arthur christopher orme plummer / is a	
+<p> <strong> Christopher Plummer </strong> , <a> CC </a> ( born December 13 , 1929 ) is a <a> Canadian </a> <a> theatre </a> , <a> film </a> and <a> television </a> <a> actor </a> . </p>
+
+66	TRUE	Christopher Plummer::occupation	actor / actor	
+<p> <strong> Christopher Plummer </strong> , <a> CC </a> ( born December 13 , 1929 ) is a <a> Canadian </a> <a> theatre </a> , <a> film </a> and <a> television </a> <a> actor </a> . </p>
+
+#	NEW	name	........ / said it '	// Speaking to the <a> Canadian Broadcasting Corporation </a> in an interview that aired on March 7 , 2010 , Plummer appeared slightly irritated that it had taken so long to receive a personal <a> Academy Award </a> nomination , saying , &quot ; Well , I said it ' s about time !
+
+#	NEW	birthname	........ / In a career that spans over five decades	// <p> In a career that spans over five decades and includes substantial roles in film , television , and theatre , Plummer is perhaps best known for the role of <a> Captain Georg von Trapp </a> in <em> <a> The Sound of Music </a> </em> .
+
+#	NEW	birthplace	........ / States , and	// <p> [ [ File : ChristopherPlummer09TIFF . jpg | thumb | right | Plummer at the [ [ 2009 Toronto International Film Festival ] ] ] ] Plummer has won many honours in Canada , the United Kingdom , the United States , and <a> Austria </a> .
+
+70	FALSE	Bob Barker::name	bob barker / told people	
+In an interview , Barker told people at home : </p>
+
+#	NEW	caption	........ / is an	// <p> <img> <strong> Robert William </strong> &quot ; <strong> Bob </strong> &quot ; <strong> Barker </strong> ( born December 12 , 1923 ) is an <a> American </a> former <a> television </a> <a> game show </a> <a> host </a> .
+
+#	NEW	birth_name	........ / Barker was inducted to the NAB Broadcasting Hall of Fame .	// <p> On April 14 , 2008 , Barker was inducted to the NAB Broadcasting Hall of Fame . </p>
+
+73	FALSE	Bob Barker::occupation	game show host / host	
+<p> <img> <strong> Robert William </strong> &quot ; <strong> Bob </strong> &quot ; <strong> Barker </strong> ( born December 12 , 1923 ) is an <a> American </a> former <a> television </a> <a> game show </a> <a> host </a> .
+
+#	NEW	death_date	........ / host	// <p> <img> <strong> Robert William </strong> &quot ; <strong> Bob </strong> &quot ; <strong> Barker </strong> ( born December 12 , 1923 ) is an <a> American </a> former <a> television </a> <a> game show </a> <a> host </a> .
+
+#	NEW	birthplace	........ / over the United	// and to fund animal rescue and park facilities all over the United States .
+
+#	NEW	birthname	........ / game show	// <p> <img> <strong> Robert William </strong> &quot ; <strong> Bob </strong> &quot ; <strong> Barker </strong> ( born December 12 , 1923 ) is an <a> American </a> former <a> television </a> <a> game show </a> <a> host </a> .
+
+77	TRUE	Edwin Thanhouser::name	edwin thanhouser / had changed	
+He did this early in 1915 , but as the film industry , its practices , and the tastes of the public had changed since he had last been in films in 1912 , Edwin Thanhouser ' s re-entry did not duplicate the success he had scored in earlier years .
+
+#	NEW	caption	........ / managed the	// In Milwaukee he managed the Academy of Music , which became a very profitable venture .
+
+#	NEW	birth_name	........ / pioneering movie studio released its first commercial film on	// This pioneering movie studio released its first commercial film on March 15 , 1910 .
+
+#	NEW	death_date	........ / 1893	// In 1893 , he was impressed by <a> Alessandro Salvini </a> , a well known orator and actor , and joined Salvini ' s traveling company .
+
+#	NEW	birthplace	........ / in Atlanta and	// Thanhouser traveled around the United States and Eastern Canada with various companies , after which he formed his own stock companies in Atlanta and Milwaukee .
+
+#	NEW	birthname	........ / a well known orator	// In 1893 , he was impressed by <a> Alessandro Salvini </a> , a well known orator and actor , and joined Salvini ' s traveling company .
+
+83	FALSE	Dick Clark::name	dick clark / Elvis Presley	
+On that day , Clark interviewed <a> Elvis Presley </a> . </p>
+
+#	NEW	caption	........ / show moved	// In 1964 , the show moved from Philadelphia to <a> Hollywood </a> , <a> California </a> .
+
+#	NEW	birth_name	........ / quot ; Dick Clark ' s American Bandstand Theater&quot ; opened	// <p> &quot ; Dick Clark ' s American Bandstand Theater&quot ; opened in Branson in April 2006 .
+
+#	NEW	birthplace	........ / to favor their	// In 1959 , the <a> United States Senate </a> opened investigations into &quot ; <a> payola </a> &quot ; , the practice of music-producing companies paying broadcasting companies to favor their product .
+
+#	NEW	birthname	........ / is best known for hosting long-running television shows such	// Clark is best known for hosting long-running television shows such as <em> <a> American Bandstand </a> </em> , </p>
+
+#	NEW	death_date	........ / television	// <p> <strong> Richard Wagstaff &quot ; Dick&quot ; Clark </strong> ( born November 30 , 1929 ) is an American <a> businessman </a> ; <a> game-show </a> <a> host </a> ; and <a> radio </a> and <a> television personality </a> .
+
+89	FALSE	Marie-France Pisier::name	marie-france pisier / French Postcards	
+She did not fare well with either her TV credits ( the 1979 ABC miniseries <em> The French Atlantic Affair </em> and 1980s <em> Scruples </em> ) or her second Hollywood film <em> French Postcards </em> ( 1979 ) .
+
+#	NEW	birth_name	........ / Marie- France Pisier	// <p> <strong> Marie-France Pisier </strong> ( born 10 May 1944 ) is a French actress .
+
+#	NEW	occupation	........ / actress .	// <p> <strong> Marie-France Pisier </strong> ( born 10 May 1944 ) is a French actress .
+
+#	NEW	death_date	........ / is	// <p> <strong> Marie-France Pisier </strong> ( born 10 May 1944 ) is a French actress .
+
+#	NEW	birthdate	........ / 10 May 1944 )	// <p> <strong> Marie-France Pisier </strong> ( born 10 May 1944 ) is a French actress .
+
+#	NEW	birthplace	........ / is a French	// <p> <strong> Marie-France Pisier </strong> ( born 10 May 1944 ) is a French actress .
+
+#	NEW	birthname	........ / is a French	// <p> <strong> Marie-France Pisier </strong> ( born 10 May 1944 ) is a French actress .
+
+96	FALSE	Dorothy Loudon::name	dorothy loudon / she meets	
+<p> In 1979 , <a> Michael Bennett </a> cast Loudon as Bea Asher , a widow who becomes romantically involved with a mail carrier she meets at the local dance hall , in <em> <a> Ballroom </a> </em> .
+
+#	NEW	birth_name	........ / comedy actress and	// <p> <strong> Dorothy Loudon </strong> ( September 17 , 1933 &#x2013 ; November 15 , 2003 ) was an <a> American </a> comedy actress and singer .
+
+#	NEW	occupation	........ / actress	// <p> <strong> Dorothy Loudon </strong> ( September 17 , 1933 &#x2013 ; November 15 , 2003 ) was an <a> American </a> comedy actress and singer .
+
+#	NEW	death_date	........ / November 15 , 2003 )	// <p> <strong> Dorothy Loudon </strong> ( September 17 , 1933 &#x2013 ; November 15 , 2003 ) was an <a> American </a> comedy actress and singer .
+
+#	NEW	birthname	........ / comedy actress and	// <p> <strong> Dorothy Loudon </strong> ( September 17 , 1933 &#x2013 ; November 15 , 2003 ) was an <a> American </a> comedy actress and singer .
+
+101	FALSE	Carnie Wilson::name	carnie wilson / her daughter	
+<p> In 2006 , she finally launched her solo career , with an album of lullabies , <em> A Mother ' s Gift : Lullabies from the Heart </em> , created shortly after the birth of her daughter Lola . </p>
+
+#	NEW	caption	........ / a cast	// In April 2008 , she was a cast member of the VH1 series <em> <a> Celebracadabra </a> . </em> In July 2008 , she starred in a new show called <em> <a> Outsider ' s Inn </a> . </em> </p>
+
+#	NEW	birth_name	........ / they welcomed their first daughter , Lola Sofia	// In April 2005 , they welcomed their first daughter , Lola Sofia Bonfiglio .
+
+#	NEW	death_date	........ / and	// <p> <strong> Carnie Wilson </strong> ( born April 29 , 1968 ) is an <a> American </a> <a> singer </a> and television hostess , best known as a member of the <a> pop music </a> group <a> Wilson Phillips </a> . </p>
+
+#	NEW	birthplace	........ / battle fighting <a> obesity	// <p> Wilson has had a lifelong battle fighting <a> obesity </a> .
+
+#	NEW	birthname	........ / Luciana & quot ; Luci&quot ; Bella	// On June 12 , 2009 , their second daughter , Luciana &quot ; Luci&quot ; Bella , was born . </p>
+
+#	NEW	birth_date	........ / June 12 , 2009	// On June 12 , 2009 , their second daughter , Luciana &quot ; Luci&quot ; Bella , was born . </p>
+
+#	NEW	name	........ / D- Generation	// <p> In 1985 , whilst performing in a <a> University of Melbourne </a> revue of <em> Too Cool for Sandals </em> , with Michael Veitch and <a> Tom Gleisner </a> , Szubanski was talent-spotted by producers from the <a> ABC </a> network , who convinced her to join up with some other university friends in creating the television sketch comedy show , <em> <a> The D-Generation </a> </em> . </p>
+
+#	NEW	caption	........ / Szubanski was	// <p> Szubanski was born in <a> Liverpool </a> , England ; her father came from a well-off Polish family and her mother was Scottish , a native of <a> Dunfermline </a> .
+
+#	NEW	birthplace	........ / role in the	// She reprised her role in the 1998 sequel <strong> <em> ' . </em> </strong> </p>
+
+#	NEW	birth_name	........ / television presenter , radio host and author .	// <p> <strong> Magda Szubanski </strong> ( born 12 April 1961 ) is a British-born Australian actress , comedian , television presenter , radio host and author . </p>
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Magda Szubanski </strong> ( born 12 April 1961 ) is a British-born Australian actress , comedian , television presenter , radio host and author . </p>
+
+#	NEW	birthdate	........ / April 1961 ) is a British-born Australian actress , comedian , television presenter , radio host and author .	// <p> <strong> Magda Szubanski </strong> ( born 12 April 1961 ) is a British-born Australian actress , comedian , television presenter , radio host and author . </p>
+
+#	NEW	birthname	........ / is a British-	// <p> <strong> Magda Szubanski </strong> ( born 12 April 1961 ) is a British-born Australian actress , comedian , television presenter , radio host and author . </p>
+
+115	FALSE	Paul Jackson (producer)::name	paul jackson / Harry Enfield	
+<em> Saturday Live </em> featured such comedy stars as Lenny Henry , <a> Pamela Stephenson </a> , <a> Michael Barrymore </a> , <a> Peter Cook </a> and <a> Barry Humphries </a> and bought to prominence talents such as Ben Elton ( as a performer ) , Fry and Laurie , <a> Harry Enfield </a> and <a> Julian Clary </a> .
+
+#	NEW	caption	........ / company made	// The company made <em> Coming Next </em> , a sketch show with <a> Hale and Pace </a> , <a> Chris Barrie </a> and several other series .
+
+117	FALSE	Paul Jackson (producer)::birth_name	kevin paul jackson / Paul Jackson	
+Paul Jackson </strong> , is a <a> British </a> television director , producer and executive . </p>
+
+#	NEW	birth_date	........ / ,	// Paul Jackson </strong> , is a <a> British </a> television director , producer and executive . </p>
+
+#	NEW	death_date	........ / sometimes	// <p> <strong> Kevin Paul Jackson </strong> ( born 2 October 1947 ) , credited as <strong> Paul Jackson </strong> ; sometimes as <strong> K .
+
+#	NEW	birthplace	........ / <strong> Paul Jackson	// <p> <strong> Kevin Paul Jackson </strong> ( born 2 October 1947 ) , credited as <strong> Paul Jackson </strong> ; sometimes as <strong> K .
+
+#	NEW	birthname	........ / Kevin Paul Jackson	// <p> <strong> Kevin Paul Jackson </strong> ( born 2 October 1947 ) , credited as <strong> Paul Jackson </strong> ; sometimes as <strong> K .
+
+122	FALSE	Cesar Romero::name	cesar romero / to be	
+However , he was almost always described in interviews and articles as a &quot ; confirmed bachelor , &quot ; and after his death was reported by many sources to be <a> gay </a> . </p>
+
+#	NEW	caption	........ / Gisele MacKenzie	// He performed the mambo with <a> Gisele MacKenzie </a> on her <a> NBC </a> <a> variety show </a> , <em> <a> The Gisele MacKenzie Show </a> </em> .
+
+124	TRUE	Cesar Romero::birth_name	cesar julio romero, jr. / Cesar Julio Romero, Jr.	
+<p> <strong> Cesar Julio Romero , Jr . </strong> ( February 15 , 1907&nbsp ; &#x2013 ; January 1 , 1994 ) was a <a> Cuban American </a> <a> film </a> and <a> television </a> <a> actor </a> , who played <a> The Joker </a> in the 1960s television series <em> <a> Batman </a> </em> .
+
+#	NEW	birth_date	........ / In October 1942	// <p> In October 1942 , he voluntarily enlisted in the U . S . Coast Guard and served in the Pacific Theater .
+
+126	TRUE	Cesar Romero::occupation	actor / actor	
+<p> <strong> Cesar Julio Romero , Jr . </strong> ( February 15 , 1907&nbsp ; &#x2013 ; January 1 , 1994 ) was a <a> Cuban American </a> <a> film </a> and <a> television </a> <a> actor </a> , who played <a> The Joker </a> in the 1960s television series <em> <a> Batman </a> </em> .
+
+#	NEW	birthplace	........ / company of attractive	// <p> Romero never married , but made regular appearances on the Hollywood social circuit in the company of attractive actresses .
+
+#	NEW	birthname	........ / Romero played &quot ; Latin lovers& quot ;	// <p> Romero played &quot ; Latin lovers&quot ; in <a> film </a> s from the 1930s until the 1950s , usually in supporting roles .
+
+#	NEW	name	........ / Christopher Nolan	// More recently , director <a> Christopher Nolan </a> attached to a proposed film version .
+
+#	NEW	death_date	........ / The	// <p> In 1991 , he starred in <em> <a> Masterpiece Theatre </a> <strong> s production of </strong> </em> The Best of Friends <em> for PBS , which told the story of the unlikely friendship between a museum curator , a nun and a playwright .
+
+#	NEW	birthname	........ / one of several actors considered for	// <p> McGoohan was one of several actors considered for the role of <a> James Bond </a> in <em> <a> Dr .
+
+#	NEW	birth_name	........ / Patrick Joseph McGoohan	// <p> <strong> Patrick Joseph McGoohan </strong> ( March 19 , 1928 &#x2013 ; January 13 , 2009 ) was an <a> American </a> -born <a> actor </a> , raised in <a> Ireland </a> and <a> England </a> , with an extensive stage and film career , most notably in the 1960s <a> television </a> series <em> <a> Danger Man </a> </em> ( renamed <em> Secret Agent </em> when exported to the <a> US </a> ) , and <em> <a> The Prisoner </a> </em> .
+
+#	NEW	occupation	........ / ,	// <p> <strong> Patrick Joseph McGoohan </strong> ( March 19 , 1928 &#x2013 ; January 13 , 2009 ) was an <a> American </a> -born <a> actor </a> , raised in <a> Ireland </a> and <a> England </a> , with an extensive stage and film career , most notably in the 1960s <a> television </a> series <em> <a> Danger Man </a> </em> ( renamed <em> Secret Agent </em> when exported to the <a> US </a> ) , and <em> <a> The Prisoner </a> </em> .
+
+#	NEW	name	........ / Krzysztof Zanussi	// She also found work in a handful of films , including <a> Krzysztof Zanussi </a> ' s <em> Barwy ochronn / Camouflage </em> ( 1977 ) . </p>
+
+#	NEW	caption	........ / Joanna Pacu&#	// <p> Pacula was born <strong> Joanna Pacu&#x0142 ; a </strong> in <a> Tomasz&#x00f3 ; w Lubelski </a> , Poland to a <a> pharmacist </a> mother and an <a> engineer </a> father .
+
+#	NEW	birth_name	........ / is a	// <p> <strong> Joanna Pacula </strong> ( born January 2 , 1957 ) is a <a> Polish </a> <a> actress </a> . </p>
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Joanna Pacula </strong> ( born January 2 , 1957 ) is a <a> Polish </a> <a> actress </a> . </p>
+
+138	TRUE	Joanna Pacuła::occupation	actress / actress	
+<p> <strong> Joanna Pacula </strong> ( born January 2 , 1957 ) is a <a> Polish </a> <a> actress </a> . </p>
+
+#	NEW	birthdate	........ / 2 , 1957 )	// <p> <strong> Joanna Pacula </strong> ( born January 2 , 1957 ) is a <a> Polish </a> <a> actress </a> . </p>
+
+140	FALSE	Roger Davis (television actor)::name	roger davis / an interest	
+<p> Davis develops land and builds luxury homes in southern California , and owns an interest in movie developer Lonetree Entertainment in <a> Los Angeles </a> .
+
+#	NEW	caption	........ / Jon Roger	// <p> <strong> Jon Roger Davis </strong> ( born April 5 , 1939 ) is an <a> American </a> <a> actor </a> .
+
+142	TRUE	Roger Davis (television actor)::birth_name	jon roger davis / Jon Roger Davis	
+<p> <strong> Jon Roger Davis </strong> ( born April 5 , 1939 ) is an <a> American </a> <a> actor </a> .
+
+#	NEW	birth_date	........ / In 1968 ,	// <p> In 1968 , Davis married actress <a> Jaclyn Smith </a> .
+
+#	NEW	occupation	........ / actor	// <p> <strong> Jon Roger Davis </strong> ( born April 5 , 1939 ) is an <a> American </a> <a> actor </a> .
+
+#	NEW	death_date	........ / actor	// <p> <strong> Jon Roger Davis </strong> ( born April 5 , 1939 ) is an <a> American </a> <a> actor </a> .
+
+#	NEW	birthname	........ / Jon Roger Davis	// <p> <strong> Jon Roger Davis </strong> ( born April 5 , 1939 ) is an <a> American </a> <a> actor </a> .
+
+#	NEW	name	........ / Prep School	// Other upcoming films include <em> <a> Death And Cremation </a> </em> , and <em> <a> Prep School </a> </em> . </p>
+
+#	NEW	caption	........ / YOBI Show	// <p> Sumpter has been co-hosting <em> <a> The YOBI Show </a> </em> , an online reality contest show , with Danielle Ryan . </p>
+
+149	TRUE	Jeremy Sumpter::birth_name	jeremy robert myron sumpter / Jeremy Robert Myron Sumpter	
+<p> <strong> Jeremy Robert Myron Sumpter </strong> ( born February 5 , 1989 ) is an <a> American </a> actor .
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Jeremy Robert Myron Sumpter </strong> ( born February 5 , 1989 ) is an <a> American </a> actor .
+
+151	TRUE	Jeremy Sumpter::occupation	actor / actor.	
+<p> <strong> Jeremy Robert Myron Sumpter </strong> ( born February 5 , 1989 ) is an <a> American </a> actor .
+
+#	NEW	death_date	........ / a>	// <p> <strong> Jeremy Robert Myron Sumpter </strong> ( born February 5 , 1989 ) is an <a> American </a> actor .
+
+#	NEW	birthname	........ / Jeremy Robert Myron Sumpter	// <p> <strong> Jeremy Robert Myron Sumpter </strong> ( born February 5 , 1989 ) is an <a> American </a> actor .
+
+154	FALSE	Tia Carrere::name	tia carrere / an all	
+Carrere attended <a> Sacred Hearts Academy </a> , an all girls school .
+
+#	NEW	birth_name	........ / Carrere filed for divorce in person at	// On April 2 , 2010 , Carrere filed for divorce in person at <a> Los Angeles Superior Court </a> .
+
+#	NEW	birth_place	........ / Los Angeles	// At present , she lives in <a> Los Angeles </a> .
+
+#	NEW	death_date	........ / September 25 , 2005 .	// They have a daughter , Bianca , born September 25 , 2005 .
+
+#	NEW	birthplace	........ / singer as a	// Carrere longed to be a singer as a child .
+
+#	NEW	birthname	........ / have a daughter	// They have a daughter , Bianca , born September 25 , 2005 .
+
+#	NEW	name	........ / very interested	// <p> In the early 1970s , Joff&#x00e9 ; had attended <a> Workers&#x2019 ; Revolutionary Party </a> meetings , but he never became a party member , and by 1977 he had long severed his association with it : &#x201c ; I was very interested in politics at that time .
+
+#	NEW	caption	........ / with the	// He has a son , <a> Rowan Joff&#x00e9 ; </a> , with the former and a daughter , <a> Nathalie Lunghi </a> , with the latter .
+
+#	NEW	birth_name	........ / November 1945 ) is an English- French	// <p> <strong> Roland Joff&#x00e9 ; </strong> ( born 17 November 1945 ) is an English-French <a> film director </a> who is known for his <a> Oscar </a> nominated movies , <em> <a> The Killing Fields </a> </em> and <em> <a> The Mission </a> </em> .
+
+#	NEW	birth_date	........ / As	// <p> As executive produce / director : </p>
+
+#	NEW	birthplace	........ / his career in	// He began his career in television .
+
+#	NEW	birthname	........ / began his career	// He began his career in television .
+
+#	NEW	birth_name	........ / actor known for his television roles as	// <p> <strong> Peter Jurasik </strong> ( born April 25 , 1950 ) is an <a> American </a> actor known for his television roles as <a> Londo Mollari </a> in the 1990s science fiction series <em> <a> Babylon 5 </a> </em> and Sid the Snitch on the 1980s series <em> <a> Hill Street Blues </a> </em> and its short-lived spinoff <em> <a> Beverly Hills Buntz </a> </em> . </p>
+
+#	NEW	birth_date	........ / Jurasik	// <p> Jurasik was born in <a> Queens , New York </a> the third of four children .
+
+#	NEW	death_date	........ / William	// <p> In 1998 , he wrote <em> Diplomatic Act </em> ( ISBN 0-671-87788-7 ) with <a> William H . Keith , Jr . </a> , a science fiction novel wherein the lead character , an actor in a science fiction show , is kidnapped by aliens who think he is the character from the program .
+
+#	NEW	birthplace	........ / Bay City Blues	// <p> Jurasik also starred as Mitch Kline in the 1983 short-lived <a> CBS </a> series <em> <a> Bay City Blues </a> </em> . </p>
+
+170	TRUE	Peter Jurasik::name	peter jurasik / Hill Street	
+<p> <strong> Peter Jurasik </strong> ( born April 25 , 1950 ) is an <a> American </a> actor known for his television roles as <a> Londo Mollari </a> in the 1990s science fiction series <em> <a> Babylon 5 </a> </em> and Sid the Snitch on the 1980s series <em> <a> Hill Street Blues </a> </em> and its short-lived spinoff <em> <a> Beverly Hills Buntz </a> </em> . </p>
+
+#	NEW	caption	........ / Problem Child	// <p> His movie roles include <a> Crom </a> in the film <em> <a> Tron </a> </em> ( 1982 ) , with future <em> Babylon 5 </em> co-star <a> Bruce Boxleitner </a> , and as Roy , the perfect father neighbor , in <em> <a> Problem Child </a> </em> ( 1990 ) . </p>
+
+#	NEW	death_place	........ / New York	// <p> Jurasik was born in <a> Queens , New York </a> the third of four children .
+
+#	NEW	birthname	........ / a science fiction novel wherein	// <p> In 1998 , he wrote <em> Diplomatic Act </em> ( ISBN 0-671-87788-7 ) with <a> William H . Keith , Jr . </a> , a science fiction novel wherein the lead character , an actor in a science fiction show , is kidnapped by aliens who think he is the character from the program .
+
+174	FALSE	Seijun Suzuki::name	seijun suzuki / making films	
+Two friends of Suzuki met with Hori the next day and were informed that &quot ; Suzuki ' s films were incomprehensible , that they did not make any money and that Suzuki might as well give up his career as a director as he would not be making films for any other companies . &quot ;
+
+#	NEW	caption	........ / air force	// Later , the freighter that took him to <a> Taiwan </a> sank after an attack by the <a> American air force </a> , he spent 7 or 8 hours in the ocean before being rescued .
+
+176	TRUE	Seijun Suzuki::birth_name	seitaro suzuki / Suzuki Seitar&# x014d ;	
+<p> , born <strong> Seitaro Suzuki </strong> ( &#x9234 ; &#x6728 ; &#x6e05 ; &#x592a ; &#x90ce ; <strong> <em> Suzuki Seitar&#x014d ; </em> </strong> ) on May 24 , 1923 , is a <a> Japan </a> ese <a> filmmaker </a> , <a> actor </a> , and <a> screenwriter </a> .
+
+#	NEW	birth_date	........ / 1956	// In 1956 , he became a full-fledged director .
+
+#	NEW	occupation	........ / actor	// <p> , born <strong> Seitaro Suzuki </strong> ( &#x9234 ; &#x6728 ; &#x6e05 ; &#x592a ; &#x90ce ; <strong> <em> Suzuki Seitar&#x014d ; </em> </strong> ) on May 24 , 1923 , is a <a> Japan </a> ese <a> filmmaker </a> , <a> actor </a> , and <a> screenwriter </a> .
+
+#	NEW	death_date	........ / screenwriter	// <p> , born <strong> Seitaro Suzuki </strong> ( &#x9234 ; &#x6728 ; &#x6e05 ; &#x592a ; &#x90ce ; <strong> <em> Suzuki Seitar&#x014d ; </em> </strong> ) on May 24 , 1923 , is a <a> Japan </a> ese <a> filmmaker </a> , <a> actor </a> , and <a> screenwriter </a> .
+
+#	NEW	birthplace	........ / entertainment- over- logic	// His films are renowned by film enthusiasts worldwide for their jarring visual style , irreverent humour , nihilistic cool and entertainment-over-logic sensibility .
+
+#	NEW	birthname	........ / he is more commonly recognized	// In Japan , he is more commonly recognized as an actor for his numerous roles in Japanese films and television . </p>
+
+182	FALSE	Kareena Kapoor::name	kareena kapoor / During her	
+During her career , Kapoor has received five <a> Filmfare Awards </a> and has been noted for her performances in a range of <a> film genre </a> s ; these include her work from contemporary <a> romantic dramas </a> to <a> comedies </a> , <a> period film </a> s to major Bollywood productions , as well as less publicised <a> independent film </a> s . </p>
+
+#	NEW	birth_name	........ / is the granddaughter of actor and filmmaker	// She is the granddaughter of actor and filmmaker <a> Raj Kapoor </a> , great-granddaughter of actor <a> Prithviraj Kapoor </a> , and niece of actor <a> Rishi Kapoor </a> .
+
+#	NEW	death_date	........ / September 21 , 1980 )	// <p> <strong> Kareena Kapoor </strong> ( , pronounced ; born on September 21 , 1980 ) , often informally referred to as <strong> Bebo </strong> , is an Indian actress who appears in <a> Bollywood </a> films .
+
+#	NEW	birthname	........ / is an Indian actress who appears	// <p> <strong> Kareena Kapoor </strong> ( , pronounced ; born on September 21 , 1980 ) , often informally referred to as <strong> Bebo </strong> , is an Indian actress who appears in <a> Bollywood </a> films .
+
+#	NEW	occupation	........ / actress	// <p> <strong> Kareena Kapoor </strong> ( , pronounced ; born on September 21 , 1980 ) , often informally referred to as <strong> Bebo </strong> , is an Indian actress who appears in <a> Bollywood </a> films .
+
+#	NEW	birthplace	........ / who appears in	// <p> <strong> Kareena Kapoor </strong> ( , pronounced ; born on September 21 , 1980 ) , often informally referred to as <strong> Bebo </strong> , is an Indian actress who appears in <a> Bollywood </a> films .
+
+#	NEW	name	........ / He attended	// <p> He attended Catholic grammar school .
+
+#	NEW	caption	........ / Huntz& quot ;	// <p> <strong> Henry Richard &quot ; Huntz&quot ; Hall </strong> ( August 15 , 1919 ; to Joseph Patrick Hall and Mary Ellen Mullen , an Irish-born air-conditioner repairman and his wife , He was the 14th of 16 children .
+
+#	NEW	birth_name	........ / Henry Richard &quot ; Huntz&quot ; Hall	// <p> <strong> Henry Richard &quot ; Huntz&quot ; Hall </strong> ( August 15 , 1919 ; to Joseph Patrick Hall and Mary Ellen Mullen , an Irish-born air-conditioner repairman and his wife , He was the 14th of 16 children .
+
+#	NEW	death_date	........ / ( August 15 , 1919 ;	// <p> <strong> Henry Richard &quot ; Huntz&quot ; Hall </strong> ( August 15 , 1919 ; to Joseph Patrick Hall and Mary Ellen Mullen , an Irish-born air-conditioner repairman and his wife , He was the 14th of 16 children .
+
+#	NEW	birthname	........ / in films not associated	// <p> He appeared in films not associated with the comedy team , such as his portrayal of Private Carraway in the war film , <em> <a> A Walk in the Sun </a> </em> , in 1945 . </p>
+
+193	FALSE	Dennis Weaver::name	dennis weaver / recycled materials	
+<p> The &#x201c ; <a> Earth Ship </a> , &#x201d ; the personal home he commissioned architect <a> Michael Reynolds </a> to design and build in <a> Ridgway , Colorado </a> during the late 1980s , incorporated recycled materials in its construction and featured advanced eco-technologies . </p>
+
+#	NEW	caption	........ / Weaver ' s	// <p> Weaver ' s most recent work was done on an ABC Family cable television show called <em> <a> Wildfire </a> , </em> where he played Henry , the father of Jean Ritter and the co-owner of Raintree Ranch .
+
+195	TRUE	Dennis Weaver::birth_name	william dennis weaver / William Dennis Weaver	
+<p> <strong> William Dennis Weaver </strong> ( June 4 , 1924 &ndash ; February 24 , 2006 ) was an American actor , best known for his work in <a> television </a> , including roles on <em> <a> Gunsmoke </a> </em> , as Marshal Sam McCloud on the <a> NBC </a> <a> police </a> <a> drama </a> <em> <a> McCloud </a> </em> , and the 1971 TV movie <em> <a> Duel </a> </em> . </p>
+
+#	NEW	birth_date	........ / 1961	// In 1961 he did an episode of <em> <a> The Twilight Zone </a> </em> called &quot ; Shadow Play&quot ; where he was trapped inside his own dream . </p>
+
+#	NEW	birthplace	........ / an actor from	// He wanted to be an actor from boyhood .
+
+#	NEW	birthname	........ / to be an actor from	// He wanted to be an actor from boyhood .
+
+#	null	occupation	actor / ..........
+
+#	null	occupation	actor / ..........
+
+#	null	occupation	actor / ..........
+

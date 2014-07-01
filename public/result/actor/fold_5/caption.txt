@@ -1,0 +1,48 @@
+Found: 20
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	caption	........ / Feature	// <p> <strong> Feature films </strong> </p>
+
+#	NEW	caption	........ / Groucho :	// <p> : <strong> Groucho : </strong> Why don ' t you marry me ? : <strong> Dumont : </strong> Why , marry you ? : <strong> Groucho : </strong> You take me , and I ' ll take a vacation .
+
+#	NEW	caption	........ / and	// In 1686 she married the actor <a> William Mountfort </a> , and after Mountfort ' s infamous murder in 1692 , she married the actor <a> John Verbruggen </a> .
+
+#	NEW	caption	........ / Marcus	// <p> <strong> Marcus Chong </strong> ( born <strong> Marcus Wyatt </strong> on July 8 , 1967 ) is an <a> American </a> <a> actor </a> best known for his role as <a> Tank </a> in the <a> science fiction </a> film <em> <a> The Matrix </a> </em> . </p>
+
+#	NEW	caption	........ / 1995 )	// <p> <strong> Thelma &quot ; Butterfly&quot ; McQueen </strong> ( January 7 , 1911 &ndash ; December 22 , 1995 ) was an American actress .
+
+#	NEW	caption	........ / Street ( 1948 ) -	// <p> 55 &#x0009 ; Race Street ( 1948 ) - Lt Barney Runson </p>
+
+#	NEW	caption	........ / Karri	// <p> <strong> Karri Kathleen Turner </strong> ( born December 21 , 1966 ) is an <a> American </a> <a> television </a> <a> actress </a> who is best known for playing <a> Lieutenant Harriet Sims </a> on the television series <em> <a> JAG </a> </em> ( 1997&#x2013 ; 2005 ) . </p>
+
+#	NEW	caption	........ / Blakely	// <p> In 1982 , Blakely married media consultant and legal , medical and crisis management expert Steve Jaffe , a former television producer .
+
+#	NEW	caption	........ / Lane	// On January 26 , 2007 , Lane celebrated his 102nd birthday .
+
+#	NEW	caption	........ / exactly a	// <p> Newman died on February 17 , 1970 exactly a month before his 70th birthday at his home in Hollywood from complications of emphysema . </p>
+
+#	NEW	caption	........ / Mabel '	// <p> Mabel ' s death came nearly six years after the death of their only son , John , in a car accident on November 17 , 1961 .
+
+#	NEW	caption	........ / Though	// <p> Though one of her early suitors was <a> John D . Rockefeller III </a> , Wyatt was married to investment broker Edgar Bethune Ward from November 9 , 1935 , until his death on November 8 , 2000 , just one day short of the couple ' s 65th wedding anniversary .
+
+#	NEW	caption	........ / David	// <p> <strong> David Paymer </strong> ( born August 30 , 1954 ) is an <a> American </a> <a> actor </a> and <a> television director </a> , seen in such films as <em> <a> Quiz Show </a> </em> , <em> <a> Searching for Bobby Fischer </a> </em> , <em> <a> City Slickers </a> </em> , <em> <a> Crazy People </a> </em> , <em> <a> State and Main </a> </em> , <em> <a> Payback </a> </em> , <em> <a> Get Shorty </a> </em> , <em> <a> Carpool </a> </em> , <em> <a> The American President </a> </em> , <em> <a> Ocean ' s Thirteen </a> </em> , and <em> <a> Drag Me to Hell </a> </em> .
+
+#	NEW	caption	........ / Anne	// <p> <strong> Anne Jacqueline Hathaway </strong> ( born November 12 , 1982 ) is an American actress .
+
+#	NEW	caption	........ / As a	// <p> As a reaction to his father ' s death at age 57 from a <a> heart attack </a> in 1982 , Swayze began to drink heavily .
+
+#	NEW	caption	........ / Rivette	// <p> In 1963 , Rivette was made editor in chief of <em> <a> Cahiers du cin&#x00e9 ; ma </a> </em> after Eric Rohmer was forced out .
+
+#	NEW	caption	........ / Stoyanka	// <p> <strong> Stoyanka Konstantinova Mutafova </strong> ( ) ( born 2 February 1922 in <a> Sofia </a> ) is a <a> Bulgaria </a> n actress .
+
+#	NEW	caption	........ / Graves	// <p> Graves died of a <a> heart attack </a> on March 14 , 2010 , four days prior to his 84th birthday .
+
+#	NEW	caption	........ / From & quot ;	// <p> <strong> From &quot ; Canciones de las Brigadas Internacionales&quot ; </strong> and <strong> &quot ; Solidarit&#x00e4 ; t&quot ; </strong> </p>
+
+#	NEW	caption	........ / Lia	// Other finalists included : <a> Delilah </a> , <a> Blair Garner </a> , <a> Kidd Kraddick </a> , <em> <a> The Lia Show </a> </em> and <a> John Tesh </a> . </p>
+

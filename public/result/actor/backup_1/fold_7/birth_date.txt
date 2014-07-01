@@ -1,0 +1,54 @@
+Found: 23
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	birth_date	........ / April 28 , 2010	// However on April 28 , 2010 , it was reported that Bullock had filed for divorce on April 23 in <a> Austin </a> .
+
+#	NEW	birth_date	........ / 2002	// In 2002 , she appeared in the film <em> <a> Hollywood Ending </a> </em> , directed by <a> Woody Allen </a> . </p>
+
+#	NEW	birth_date	........ / 2003 ,	// <p> In 2003 , he starred in the <a> Edward Zwick </a> ' s historical drama <em> <a> The Last Samurai </a> </em> , for which he received a Golden Globe nomination as best actor . </p>
+
+#	NEW	birth_date	........ / ,	// <a> Richard Schickel </a> , the film critic , said about Grant : &quot ; He ' s the best star actor there ever was in the movies . &quot ;
+
+#	NEW	birth_date	........ / October 3 , 1962 )	// <p> <strong> Thomas Lee Bass </strong> ( aka <strong> Tommy Lee </strong> ) ( born October 3 , 1962 ) is a Greek-American musician , and founding member of <a> glam metal </a> band <a> M&#x00f6 ; tley Cr&#x00fc ; e </a> .
+
+#	NEW	birth_date	........ / 1992 ,	// In 1992 , Eastwood directed <em> <a> Unforgiven </a> </em> , a <a> revisionist western </a> drama for which he won an <a> Oscar </a> for best director , as well as Best Picture .
+
+#	NEW	birth_date	........ / 19 May 1969 )	// <p> <strong> Thomas Vinterberg </strong> ( born 19 May 1969 ) is a Danish film director who , along with <a> Lars von Trier </a> , co-founded the <a> Dogme 95 </a> movement in <a> filmmaking </a> , which established rules for simplifying movie production . </p>
+
+#	NEW	birth_date	........ / in	// Born in the German city of Ulm , she was billed in some English language films as <strong> Hildegard Neff </strong> or <strong> Hildegarde Neff </strong> . </p>
+
+#	NEW	birth_date	........ / 8 , 1945 )	// <p> <strong> George Michael Dolenz , Jr . </strong> ( born March 8 , 1945 ) is an American actor , musician , <a> television director </a> , <a> radio personality </a> and <a> theatre director </a> ; he is best known as a member of the 1960s made-for-television band <a> The Monkees </a> . </p>
+
+#	NEW	birth_date	........ / 30 , 1948 )	// <p> <strong> Jean Reno </strong> ( ; born July 30 , 1948 ) is a French <a> actor </a> .
+
+#	NEW	birth_date	........ / 29 , 1919 &#	// <p> <strong> Eileen Heckart </strong> ( March 29 , 1919 &#x2013 ; December 31 , 2001 ) was an American actress of stage , screen , and television . </p>
+
+#	NEW	birth_date	........ / 15 April 1988	// He died on 15 April 1988 in his Camden flat ; the cause of death was an overdose of <a> barbiturate </a> s .
+
+#	NEW	birth_date	........ / 1915	// In 1915 , Markus relocated his family to Vienna , the city that Otto later claimed to have been born in .
+
+#	NEW	birth_date	........ / ( 29 September 1912 &#	// <p> <strong> Michelangelo Antonioni </strong> , <a> Cavaliere di Gran Croce OMRI </a> ( 29 September 1912 &#x2013 ; 30 July 2007 ) was an <a> Italian </a> <a> modernist </a> <a> film director </a> . </p>
+
+#	NEW	birth_date	........ / April 3 , 2009	// On April 3 , 2009 , she helped introduce La Do&#x00f1 ; a , a <a> watch </a> by <a> Cartier </a> inspired by fellow Mexican actress <a> Mar&#x00ed ; a F&#x00e9 ; lix </a> . </p>
+
+#	NEW	birth_date	........ / 23 January 1944 )	// <p> <strong> Rutger Oelsen Hauer </strong> ( ; ; born 23 January 1944 ) is a Dutch stage , television and film actor .
+
+#	NEW	birth_date	........ / 29 , 1940 )	// <p> <strong> Godfrey Reggio </strong> ( born March 29 , 1940 ) is an American <a> director </a> of experimental <a> documentary film </a> s . </p>
+
+#	NEW	birth_date	........ / Gelbart '	// <p> Gelbart ' s best known screen work is perhaps the screenplay for 1982 ' s <em> <a> Tootsie </a> </em> , which he co-wrote with <a> Murray Schisgal </a> .
+
+#	NEW	birth_date	........ / 1 , 2005 ) .	// They have two daughters , Sam J . Sheen ( born March 9 , 2004 ) and Lola Rose Sheen ( born June 1 , 2005 ) . </p>
+
+#	NEW	birth_date	........ / 14 March 1941 )	// <p> <strong> Wolfgang Petersen </strong> ( born 14 March 1941 ) is a <a> German </a> <a> film director </a> and <a> screenwriter </a> .
+
+#	NEW	birth_date	........ / 12 , 1943 )	// <p> <strong> Wallace Michael Shawn </strong> ( born November 12 , 1943 ) , sometimes credited as <strong> Wally Shawn </strong> , is an American comic <a> character actor </a> and author .
+
+#	NEW	birth_date	........ / 25 , 1958 )	// <p> <strong> Timothy W . Burton </strong> ( born August 25 , 1958 ) is an American film director , film producer , writer and artist .
+
+#	NEW	birth_date	........ / October 29 , 1971 )	// <p> <strong> Winona Laura Horowitz </strong> ( born October 29 , 1971 ) , better known under her professional name <strong> Winona Ryder </strong> , is an American actress .
+

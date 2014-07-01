@@ -1,3 +1,0 @@
-<li><a>Gene Simmons</a></li>
-<li><a>Official website</a> </li>
-<li><a>Sullivan CC information</a> </li>

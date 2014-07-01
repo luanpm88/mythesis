@@ -1,0 +1,100 @@
+Found: 44
+Found Not Null: 2
+Correct: 0
+Wrong: 2
+Total: 2
+precision: 0.0
+recall: 0.0
+
+
+
+#	NEW	parent	........ / Netherlands	// <p> <strong> Martinair </strong> is an <a> airline </a> headquartered on the grounds of <a> Amsterdam Airport Schiphol </a> , the <a> Netherlands </a> .
+
+#	NEW	parent	........ / increase the airlines '	// <p> In February 2010 , the Russian government announced that all regional airlines owned by the state through the holding company ' Rostechnologii ' would be consolidated with the national carrier Aeroflot in order to increase the airlines ' financial viability .
+
+#	NEW	parent	........ / addition to its	// <p> In addition to its main operation , Lufthansa has several subsidiaries , including : b / <strong> Airline subsidiaries : </strong> </p>
+
+#	NEW	parent	........ / Iberia Group	// <p> Iberia Airlines , with <a> Iberia Regional </a> ( operated by an independent carrier <a> Air Nostrum </a> ) , is a part of <strong> Iberia Group </strong> .
+
+#	NEW	parent	........ / Futura International	// <p> <strong> Futura International Airways </strong> was an <a> airline </a> based in <a> Palma de Mallorca </a> , <a> Spain </a> .
+
+#	NEW	parent	........ / cargo airline	// <p> <strong> Kalitta Air </strong> is an <a> American </a> <a> cargo airline </a> headquartered in <a> Ypsilanti Township </a> , <a> Michigan </a> , <a> United States </a> .
+
+#	NEW	parent	........ / Western Australia	// <p> Skywest began service in 1963 as <strong> Carnarvon Air Taxis </strong> flying charter flights with small <a> general aviation </a> aircraft out of <a> Carnarvon , Western Australia </a> .
+
+#	NEW	parent	........ / America West Airlines	// Originally , America West operated the Dash-8 turboprop aircraft , but on November 30 , 1992 , America West signed a codeshare agreement with <a> Mesa Airlines </a> to operate <a> America West Airlines </a> ' regional and commuter services .
+
+#	NEW	parent	........ / Howard Government	// Two other Ansett BAe-146 aircraft were chartered by the Howard Government and Federal opposition in late 2001 during the federal election campaigns , <strong> VH-JJP </strong> ( Federal Government ) and <strong> VH-JJT </strong> ( Opposition ) . </p>
+
+#	NEW	parent	........ / Buenos Aires	// <p> <strong> Austral L&#x00ed ; neas A&#x00e9 ; reas </strong> is an <a> airline </a> based in <a> Buenos Aires </a> , <a> Argentina </a> .
+
+#	NEW	parent	........ / Government of	// <p> Two memorials to those who died in the crash have been established by the Government of Canada .
+
+#	NEW	parent	........ / Myrtle Beach	// <p> <strong> Hooters Air </strong> was an <a> airline </a> headquartered in <a> Myrtle Beach </a> , <a> South Carolina </a> , <a> USA </a> .
+
+#	NEW	parent	........ / Air China Cargo	// <p> <strong> Air China Cargo Co . , Ltd . </strong> is a <a> cargo airline </a> based in <a> Beijing </a> , <a> China </a> .
+
+#	NEW	parent	........ / SkyEurope Airlines	// <p> <strong> SkyEurope Airlines </strong> was a <a> low-cost airline </a> headquartered in <a> Bratislava </a> , with its main base at <a> M .
+
+#	NEW	parent	........ / Canada ' s largest	// <p> It is Canada ' s largest regional air carrier , operating as Air Canada Jazz for <a> Air Canada </a> to 82 destinations in Canada and the <a> United States </a> .
+
+#	NEW	parent	........ / International Airport	// <p> <strong> Air Florida </strong> was a small <a> U . S . </a> and international <a> airline </a> based out of <a> Miami International Airport </a> .
+
+#	NEW	parent	........ / BOAC- Cunard Ltd	// <p> In 1962 , BOAC and <a> Cunard </a> formed <strong> BOAC-Cunard Ltd </strong> to operate scheduled services to North America , the Caribbean and South America .
+
+#	NEW	parent	........ / United States	// <p> <strong> Trans World Airlines </strong> ( <strong> TWA </strong> ) was a major <a> United States </a> -based airline with hubs in <a> St .
+
+#	NEW	parent	........ / IATA code of	// The new airline was named <strong> TAM </strong> - <strong> T </strong> ransportes <strong> A </strong> &#x00e9 ; reos del <strong> M </strong> ercosur and maintained the IATA code of LAP , PZ .
+
+#	NEW	parent	........ / Singapore	// <p> <strong> Singapore Airlines Limited </strong> ( <strong> SIA </strong> ) ( ; , abbreviated ; ) ( ) is the <a> flag carrier </a> of <a> Singapore </a> .
+
+#	NEW	parent	........ / TAROM	// The brand name <strong> <em> TAROM </em> </strong> is an <a> acronym </a> for ( Romanian Air Transport ) .
+
+#	NEW	parent	........ / percent of	// <p> Although the company was publicly traded , the government owned 98 percent of shares .
+
+22	FALSE	Iran Air::parent	iran national airlines corporation / airline.	
+<p> <strong> Iran Air Cargo </strong> is the freight wing of the airline .
+
+#	NEW	parent	........ / subsidiaries manages personell	// All flights are operated by the parent company Norwegian Air Shuttle ASA , the subsidiaries manages personell , sales and marketing within certain geographical areas .
+
+#	NEW	parent	........ / International	// <p> <strong> International </strong> </p>
+
+#	NEW	parent	........ / ICAO	// It used the <a> IATA </a> code <strong> PA </strong> , and the <a> ICAO </a> code <strong> PAA </strong> . </p>
+
+#	NEW	parent	........ / air transport	// It is wholly owned by <a> Avianca-TACA Ltd . </a> , a Latin American <a> holding company </a> established in the <a> Bahamas </a> and specialized in <a> air transport </a> .
+
+#	NEW	parent	........ / Republic Airways Holdings	// Parent company Delta Air Lines replaced Comair ' s service in these destinations with <a> Atlantic Southeast Airlines </a> , a subsidiary of <a> SkyWest , Inc . </a> , and <a> Chautauqua Airlines </a> , a subsidiary of <a> Republic Airways Holdings </a> .
+
+#	NEW	parent	........ / Peruvian Air Force	// At first , the airline was largely controlled by the <a> Peruvian Air Force </a> .
+
+#	NEW	parent	........ / Florida	// <p> <strong> Florida </strong> </p>
+
+#	NEW	parent	........ / Continental Airlines	// <p> <strong> Continental Express </strong> is the operating <a> brand </a> name used by a number of independently owned <a> regional airline </a> s providing regional jet feeder service under agreement with <a> Continental Airlines </a> .
+
+#	NEW	parent	........ / Canada	// <p> <strong> Air Canada </strong> ( ) is the <a> flag carrier </a> and largest <a> airline </a> of <a> Canada </a> .
+
+#	NEW	parent	........ / King Abdulaziz International	// <p> The airline ' s main operational base is at <a> Jeddah-King Abdulaziz International Airport </a> ( JED ) .
+
+#	NEW	parent	........ / Suid- Afrikaanse Lugdiens	// During this time , it was also known by its <a> Afrikaans </a> name , <strong> <em> Suid-Afrikaanse Lugdiens ( SAL ) </em> </strong> , which has been dropped .
+
+#	NEW	parent	........ / ( Royal Jordanian Airlines	// <p> <strong> Royal Jordanian Cargo </strong> ( Royal Jordanian Airlines Cargo ) is the company ' s freight division operating to Africa , Europe , North America and Middle East .
+
+#	NEW	parent	........ / Kamenski :	// <p> <strong> Kamenski : </strong> </p>
+
+#	NEW	parent	........ / cargo airline	// <p> , or <strong> NCA </strong> , is a <a> cargo airline </a> based in the Onarimon Yusen Building in <a> Minato </a> , Tokyo , Japan .
+
+#	NEW	parent	........ / weekly scheduled cargo	// It operated over 90 weekly scheduled cargo flights , and had a strong charter business .
+
+38	FALSE	Canadian Airlines::parent	canadian airlines corporation / Canadian Getaways	
+<p> <strong> Canadian Airlines </strong> operated the largest tour operator in <a> Canada </a> called <a> Canadian Holidays </a> and the <strong> Canadian Getaways </strong> program .
+
+#	NEW	parent	........ / airline alliance	// <p> <strong> Star Alliance </strong> is the world ' s first and largest <a> airline alliance </a> , headquartered in <a> Frankfurt am Main </a> , <a> Germany </a> .
+
+#	NEW	parent	........ / charter airline	// Jersey European Airways was taken over in 1983 by <a> Jack Walker </a> ' s <a> Walker Steel Group </a> who were already the parent company of <a> Blackpool </a> based <a> charter airline </a> Spacegrand Aviation .
+
+#	NEW	parent	........ / Lauda Air	// <p> <strong> Lauda Air </strong> is an <a> airline </a> based in <a> Schwechat </a> , <a> Austria </a> .
+
+#	NEW	parent	........ / buy on board	// <p> <strong> Economy Class </strong> offers a <a> buy on board </a> service with food and drinks for purchase . </p>
+
+#	NEW	parent	........ / Boeing 737-	// <p> The fleet of Air Canada Tango consisted of up to 13 <a> Airbus A320 </a> and ( from 2002 ) up to 6 <a> Boeing 737-200 </a> . </p>
+

@@ -1,0 +1,1739 @@
+Total articles: 1697
+Articles for test: 1528
+Articles for train: 169
+Total attributes: 80
+Attributes with high occurrences: 23/80
+
+------------
+Found: 1979
+Found Not Null: 574
+Correct: 447
+Wrong: 127
+Total: 1003
+precision: 0.7787456445993032
+recall: 0.4456630109670987
+
+
+
+0	TRUE	Polk County, Oregon:: area_total_sq_mi	744 / 744&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 744&nbsp;square miles (1,927&nbsp;km&#x00b2;), of which 741&nbsp;square miles (1,919&nbsp;km&#x00b2;) is land and 3&nbsp;square miles (8&nbsp;km&#x00b2;) (0.42%) is water. </p>
+
+1	FALSE	Polk County, Oregon:: area_land_sq_mi	741 / 140	
+<p> As of the <a> census </a> of 2000, there were 62,380 people, 23,058 households, and 16,140 families residing in the county.
+
+6	TRUE	Polk County, Oregon:: county	polk county / Polk County	
+<p> <strong> Polk County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Oregon </a> .
+
+7	TRUE	Polk County, Oregon:: state	oregon / Oregon	
+<p> <strong> Polk County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Oregon </a> .
+
+8	TRUE	Polk County, Oregon:: area_water_sq_mi	3 / 30.	
+<p> There were 23,058 households out of which 32.10% had children under the age of 18 living with them, 57.10% were <a> married couples </a> living together, 9.20% had a female householder with no husband present, and 30.00% were non-families.
+
+9	TRUE	Polk County, Oregon:: density_km2	32 / (32/	
+The <a> population density </a> was 84 people per square mile (32/km&#x00b2;).
+
+10	TRUE	Polk County, Oregon:: founded	december 22, 1845 / December 22, 1845	
+<p> The <a> Oregon Provisional Legislature </a> created Polk County from <a> Yamhill District </a> on December 22, 1845, granting to it the entire southwestern portion of present day Oregon to the <a> California </a> border.
+
+12	TRUE	Multnomah County, Oregon:: state	oregon / Oregon	
+<p> <strong> Multnomah County </strong> () is one of 36 <a> counties </a> in the <a> U.S. state </a> of <a> Oregon </a> .
+
+13	TRUE	Multnomah County, Oregon:: area_total_sq_mi	466 / 466&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 466&nbsp;square miles (1,206&nbsp;km&#x00b2;), of which 435&nbsp;square miles (1,127&nbsp;km&#x00b2;) are land and (6.53%) are water. </p>
+
+14	FALSE	Multnomah County, Oregon:: area_water_sq_mi	30 / 44.	
+<p> There are 272,098 households out of which 26.5% have children under the age of 18 living with them, 40.9% are <a> married couples </a> living together, 10.8% have a female householder with no husband present, and 44.1% are non-families.
+
+15	TRUE	Multnomah County, Oregon:: pop	726,855 / 726,855.	
+In 2009, the county's population was 726,855.
+
+16	TRUE	Multnomah County, Oregon:: density_km2	586 / (586/	
+The <a> population density </a> is 1,518 people per square mile (586/km&#x00b2;).
+
+22	TRUE	Multnomah County, Oregon:: area_land_sq_mi	435 / (6.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 466&nbsp;square miles (1,206&nbsp;km&#x00b2;), of which 435&nbsp;square miles (1,127&nbsp;km&#x00b2;) are land and (6.53%) are water. </p>
+
+45	TRUE	Malheur County, Oregon:: state	oregon / Oregon	
+<p> <strong> Malheur County </strong> () is a <a> county </a> located in the southeast corner of the <a> U.S. state </a> of <a> Oregon </a> .
+
+47	FALSE	Malheur County, Oregon:: area_water_sq_mi	43 / 28.	
+<p> There were 10,221 households out of which 36.20% had children under the age of 18 living with them, 57.30% were <a> married couples </a> living together, 10.40% had a female householder with no husband present, and 28.10% were non-families.
+
+50	TRUE	Malheur County, Oregon:: founded	february 17, 1887 / February 17, 1887	
+<p> Malheur County was created February 17, 1887, from the southern portion of <a> Baker County </a> .
+
+54	FALSE	Malheur County, Oregon:: density_sq_mi	3.2 / (1/	
+The <a> population density </a> was 3 people per square mile (1/km&#x00b2;).
+
+56	TRUE	Linn County, Oregon:: state	oregon / Oregon	
+<p> <strong> Linn County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Oregon </a> .
+
+59	TRUE	Linn County, Oregon:: area_water_sq_mi	18 / 28.	
+<p> There were 39,541 households out of which 32.00% had children under the age of 18 living with them, 56.90% were <a> married couples </a> living together, 10.00% had a female householder with no husband present, and 28.60% were non-families.
+
+62	FALSE	Linn County, Oregon:: founded	december 28, 1847 / 1851	
+The county seat was originally located in Calapooia (later known as <a> Brownsville </a> ), but in 1851 the Territorial Legislature passed an act establishing <a> Albany </a> as the county seat.
+
+67	FALSE	Linn County, Oregon:: density_sq_mi	50 / (17/	
+The <a> population density </a> was 45 people per square mile (17/km&#x00b2;).
+
+91	TRUE	Lake County, Oregon:: state	oregon / Oregon	
+<p> <strong> Lake County </strong> is a <a> county </a> in the <a> high desert </a> south central region of the <a> U.S. state </a> of <a> Oregon </a> .
+
+96	TRUE	Lake County, Oregon:: density_km2	0 / (0/	
+The <a> population density </a> was 1 person per square mile (0/km&#x00b2;).
+
+97	TRUE	Lake County, Oregon:: founded	october 24, 1874 / October 24, 1874	
+<p> Lake County was created from <a> Jackson </a> and <a> Wasco </a> Counties on October 24, 1874 by the State Legislature.
+
+208	TRUE	Deschutes County, Oregon:: state	oregon / Oregon	
+<p> <strong> Deschutes County </strong> () is a <a> county </a> located in the <a> U.S. state </a> of <a> Oregon </a> .
+
+215	FALSE	Deschutes County, Oregon:: area_water_sq_mi	37 / 29.	
+<p> There were 45,595 households out of which 32.10% had children under the age of 18 living with them, 58.00% were <a> married couples </a> living together, 8.50% had a female householder with no husband present, and 29.90% were non-families.
+
+216	FALSE	Deschutes County, Oregon:: area_water_km2	96 / 29.	
+<p> There were 45,595 households out of which 32.10% had children under the age of 18 living with them, 58.00% were <a> married couples </a> living together, 8.50% had a female householder with no husband present, and 29.90% were non-families.
+
+217	TRUE	Van Wert County, Ohio:: county	van wert county / 2000 U.	
+<p> <strong> Van Wert County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Ohio </a> with a population of 29,659 as of the <a> 2000 U.S. census </a> .
+
+218	FALSE	Van Wert County, Ohio:: area_total_sq_mi	410 / 72	
+The <a> population density </a> was 72 people per square mile (28/km&#x00b2;).
+
+219	FALSE	Van Wert County, Ohio:: area_land_sq_mi	410 / 354	
+<p> As of the <a> census </a> of 2000, there were 29,659 people, 11,587 households, and 8,354 families residing in the county.
+
+220	TRUE	Van Wert County, Ohio:: area_water_sq_mi	0 / 27.	
+There were 11,587 households out of which 32.90% had children under the age of 18 living with them, 60.20% were <a> married couples </a> living together, 8.50% had a female householder with no husband present, and 27.90% were non-families.
+
+221	TRUE	Van Wert County, Ohio:: density_km2	28 / (28/	
+The <a> population density </a> was 72 people per square mile (28/km&#x00b2;).
+
+224	TRUE	Van Wert County, Ohio:: area_water_km2	1 / 27.	
+There were 11,587 households out of which 32.90% had children under the age of 18 living with them, 60.20% were <a> married couples </a> living together, 8.50% had a female householder with no husband present, and 27.90% were non-families.
+
+225	TRUE	Van Wert County, Ohio:: density_sq_mi	72 / (28/	
+The <a> population density </a> was 72 people per square mile (28/km&#x00b2;).
+
+226	TRUE	Van Wert County, Ohio:: state	ohio / U.	
+<p> <strong> Van Wert County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Ohio </a> with a population of 29,659 as of the <a> 2000 U.S. census </a> .
+
+229	TRUE	Union County, Ohio:: county	union county / Union County	
+<p> <strong> Union County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Ohio </a> .
+
+230	TRUE	Union County, Ohio:: state	ohio / Ohio	
+<p> <strong> Union County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Ohio </a> .
+
+232	FALSE	Union County, Ohio:: area_total_sq_mi	437 / 94	
+The <a> population density </a> was 94 people per square mile (36/km&#x00b2;).
+
+233	FALSE	Union County, Ohio:: area_land_sq_mi	437 / 888	
+<p> As of the <a> census </a> of 2000, there were 40,909 people, 14,346 households, and 10,888 families residing in the county.
+
+234	TRUE	Union County, Ohio:: area_water_sq_mi	0 / 24.	
+<p> There were 14,346 households out of which 38.50% had children under the age of 18 living with them, 64.40% were <a> married couples </a> living together, 8.00% had a female householder with no husband present, and 24.10% were non-families.
+
+235	TRUE	Union County, Ohio:: density_km2	36 / (36/	
+The <a> population density </a> was 94 people per square mile (36/km&#x00b2;).
+
+240	TRUE	Union County, Ohio:: area_water_km2	1 / 24.	
+<p> There were 14,346 households out of which 38.50% had children under the age of 18 living with them, 64.40% were <a> married couples </a> living together, 8.00% had a female householder with no husband present, and 24.10% were non-families.
+
+241	TRUE	Union County, Ohio:: density_sq_mi	94 / (36/	
+The <a> population density </a> was 94 people per square mile (36/km&#x00b2;).
+
+242	TRUE	Tuscarawas County, Ohio:: state	ohio / Ohio	
+<p> <strong> Tuscarawas County </strong> is a <a> county </a> located in the eastern part of the <a> state </a> of <a> Ohio </a> .
+
+243	TRUE	Tuscarawas County, Ohio:: area_total_sq_mi	571 / 568&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 571&nbsp; <a> square mile </a> s (1,480&nbsp; <a> km&#x00b2; </a> ).568&nbsp;square
+
+245	FALSE	Tuscarawas County, Ohio:: area_land_sq_mi	568 / 313	
+<p> As of the <a> census </a> of 2000, there were 90,914 people, 35,653 households, and 25,313 families residing in the county.
+
+246	FALSE	Tuscarawas County, Ohio:: area_water_sq_mi	4 / 29.	
+<p> There were 35,653 households out of which 32.30% had children under the age of 18 living with them, 58.10% were <a> married couples </a> living together, 9.30% had a female householder with no husband present, and 29.00% were non-families.
+
+247	TRUE	Tuscarawas County, Ohio:: density_km2	62 / (62/	
+The <a> population density </a> was 160 people per square mile (62/km&#x00b2;).
+
+250	TRUE	Tuscarawas County, Ohio:: area_water_km2	10 / 29.	
+<p> There were 35,653 households out of which 32.30% had children under the age of 18 living with them, 58.10% were <a> married couples </a> living together, 9.30% had a female householder with no husband present, and 29.00% were non-families.
+
+251	TRUE	Tuscarawas County, Ohio:: density_sq_mi	160 / (62/	
+The <a> population density </a> was 160 people per square mile (62/km&#x00b2;).
+
+253	TRUE	Trumbull County, Ohio:: state	ohio / Ohio	
+<p> <strong> Trumbull County </strong> is a <a> county </a> located in the <a> state </a> of <a> Ohio </a> , <a> United States </a> .
+
+254	TRUE	Trumbull County, Ohio:: area_total_sq_mi	635 / 616&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 635&nbsp; <a> square mile </a> s (1,644&nbsp; <a> km&#x00b2; </a> ).616&nbsp;square
+
+255	FALSE	Trumbull County, Ohio:: area_land_sq_mi	616 / 690	
+<p> As of the <a> census </a> of 2000, there were 225,116 people, 89,020 households, and 61,690 families residing in the county.
+
+257	TRUE	Trumbull County, Ohio:: area_water_sq_mi	18 / 30.	
+<p> There were 89,020 households out of which 29.90% had children under the age of 18 living with them, 52.90% were <a> married couples </a> living together, 12.50% had a female householder with no husband present, and 30.70% were non-families.
+
+258	TRUE	Trumbull County, Ohio:: density_km2	141 / (141/	
+The <a> population density </a> was 365 people per square mile (141/km&#x00b2;).
+
+260	FALSE	Trumbull County, Ohio:: area_water_km2	47 / 30.	
+<p> There were 89,020 households out of which 29.90% had children under the age of 18 living with them, 52.90% were <a> married couples </a> living together, 12.50% had a female householder with no husband present, and 30.70% were non-families.
+
+261	TRUE	Trumbull County, Ohio:: density_sq_mi	365 / (141/	
+The <a> population density </a> was 365 people per square mile (141/km&#x00b2;).
+
+276	TRUE	Stark County, Ohio:: state	ohio / Ohio	
+<p> <strong> Stark County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Ohio </a> .
+
+277	FALSE	Stark County, Ohio:: area_total_sq_mi	581 / 656	
+The <a> population density </a> was 656 people per square mile (253/km&#x00b2;).
+
+278	TRUE	Stark County, Ohio:: area_water_sq_mi	5 / 30.	
+<p> There were 148,316 households out of which 31.00% had children under the age of 18 living with them, 54.20% were <a> married couples </a> living together, 11.50% had a female householder with no husband present, and 30.70% were non-families.
+
+280	TRUE	Stark County, Ohio:: density_km2	253 / (253/	
+The <a> population density </a> was 656 people per square mile (253/km&#x00b2;).
+
+285	FALSE	Stark County, Ohio:: area_water_km2	12 / 30.	
+<p> There were 148,316 households out of which 31.00% had children under the age of 18 living with them, 54.20% were <a> married couples </a> living together, 11.50% had a female householder with no husband present, and 30.70% were non-families.
+
+286	TRUE	Stark County, Ohio:: density_sq_mi	656 / (253/	
+The <a> population density </a> was 656 people per square mile (253/km&#x00b2;).
+
+287	FALSE	Stark County, Ohio:: area_land_sq_mi	576 / 782	
+<p> As of the <a> census </a> of 2000, there were 378,098 people, 148,316 households, and 102,782 families residing in the county.
+
+288	TRUE	Ross County, Ohio:: state	ohio / Ohio	
+<p> <strong> Ross County </strong> is a <a> county </a> located in the Appalachian region of the <a> state </a> of <a> Ohio </a> , <a> United States </a> established on August 20, 1798.
+
+289	TRUE	Ross County, Ohio:: area_total_sq_mi	693 / 693&	
+According to the <a> U.S. Census Bureau </a> , the county has a total area of 693&nbsp; <a> square mile </a> s (1,795&nbsp; <a> km&#x00b2; </a> ).
+
+290	TRUE	Ross County, Ohio:: area_water_sq_mi	5 / 29.	
+<p> There were 27,136 households out of which 32.70% had children under the age of 18 living with them, 55.20% were <a> married couples </a> living together, 11.10% had a female householder with no husband present, and 29.30% were non-families.
+
+292	TRUE	Ross County, Ohio:: density_km2	41 / (41/	
+The <a> population density </a> was 106 people per square mile (41/km&#x00b2;).
+
+297	FALSE	Ross County, Ohio:: area_water_km2	12 / 29.	
+<p> There were 27,136 households out of which 32.70% had children under the age of 18 living with them, 55.20% were <a> married couples </a> living together, 11.10% had a female householder with no husband present, and 29.30% were non-families.
+
+298	TRUE	Ross County, Ohio:: density_sq_mi	106 / (41/	
+The <a> population density </a> was 106 people per square mile (41/km&#x00b2;).
+
+311	TRUE	Crook County, Oregon:: state	oregon / Oregon	
+<p> <strong> Crook County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Oregon </a> .
+
+314	TRUE	Crook County, Oregon:: area_water_sq_mi	8 / 26.	
+<p> There were 7,354 households out of which 32.30% had children under the age of 18 living with them, 61.50% were <a> married couples </a> living together, 8.20% had a female householder with no husband present, and 26.20% were non-families.
+
+316	TRUE	Crook County, Oregon:: density_km2	2 / (2/	
+The <a> population density </a> was 6 people per square mile (2/km&#x00b2;).
+
+335	TRUE	Columbia County, Oregon:: state	oregon / Oregon	
+<p> <strong> Columbia County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Oregon </a> .
+
+339	TRUE	Columbia County, Oregon:: density_km2	26 / (26/	
+The <a> population density </a> was 66 people per square mile (26/km&#x00b2;).
+
+391	TRUE	Woodward County, Oklahoma:: state	oklahoma / U.	
+<p> <strong> Woodward County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Oklahoma </a> .
+
+393	TRUE	Woodward County, Oklahoma:: area_water_sq_mi	4 / 28.	
+<p> There were 7,141 households out of which 33.10% had children under the age of 18 living with them, 59.10% were <a> married couples </a> living together, 8.40% had a female householder with no husband present, and 28.90% were non-families.
+
+395	TRUE	Woodward County, Oklahoma:: density_km2	6 / (6/	
+The <a> population density </a> was 15 people per square mile (6/km&#x00b2;).
+
+399	TRUE	Woodward County, Oklahoma:: area_water_km2	10 / 28.	
+<p> There were 7,141 households out of which 33.10% had children under the age of 18 living with them, 59.10% were <a> married couples </a> living together, 8.40% had a female householder with no husband present, and 28.90% were non-families.
+
+400	TRUE	Woodward County, Oklahoma:: density_sq_mi	15 / (6/	
+The <a> population density </a> was 15 people per square mile (6/km&#x00b2;).
+
+403	TRUE	Woods County, Oklahoma:: state	oklahoma / U.	
+<p> <strong> Woods County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Oklahoma </a> .
+
+406	TRUE	Woods County, Oklahoma:: area_water_sq_mi	4 / 39.	
+<p> There were 3,684 households out of which 24.10% had children under the age of 18 living with them, 50.90% were <a> married couples </a> living together, 7.30% had a female householder with no husband present, and 39.10% were non-families.
+
+407	TRUE	Woods County, Oklahoma:: density_km2	3 / (3/	
+The <a> population density </a> was 7 people per square mile (3/km&#x00b2;).
+
+411	TRUE	Woods County, Oklahoma:: area_water_km2	9 / 39.	
+<p> There were 3,684 households out of which 24.10% had children under the age of 18 living with them, 50.90% were <a> married couples </a> living together, 7.30% had a female householder with no husband present, and 39.10% were non-families.
+
+412	TRUE	Woods County, Oklahoma:: density_sq_mi	7 / (3/	
+The <a> population density </a> was 7 people per square mile (3/km&#x00b2;).
+
+415	TRUE	Washita County, Oklahoma:: state	oklahoma / U.	
+<p> <strong> Washita County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Oklahoma </a> .
+
+418	TRUE	Washita County, Oklahoma:: area_water_sq_mi	6 / 27.	
+<p> There were 4,506 households out of which 33.60% had children under the age of 18 living with them, 61.00% were <a> married couples </a> living together, 8.50% had a female householder with no husband present, and 27.50% were non-families.
+
+420	TRUE	Washita County, Oklahoma:: density_km2	4 / (4/	
+The <a> population density </a> was 12 people per square mile (4/km&#x00b2;).
+
+424	FALSE	Washita County, Oklahoma:: area_water_km2	15 / 27.	
+<p> There were 4,506 households out of which 33.60% had children under the age of 18 living with them, 61.00% were <a> married couples </a> living together, 8.50% had a female householder with no husband present, and 27.50% were non-families.
+
+426	TRUE	Washita County, Oklahoma:: density_sq_mi	12 / (4/	
+The <a> population density </a> was 12 people per square mile (4/km&#x00b2;).
+
+439	TRUE	Wagoner County, Oklahoma:: county	wagoner county / Wagoner County	
+<p> <strong> Wagoner County </strong> is a <a> county </a> located in the U.S. state of <a> Oklahoma </a> .
+
+440	TRUE	Wagoner County, Oklahoma:: state	oklahoma / U.	
+<p> <strong> Wagoner County </strong> is a <a> county </a> located in the U.S. state of <a> Oklahoma </a> .
+
+449	FALSE	Wagoner County, Oklahoma:: area_water_km2	73 / 20.	
+<p> There were 21,010 households out of which 37.40% had children under the age of 18 living with them, 65.90% were married couples living together, 9.80% had a female householder with no husband present, and 20.50% were non-families.
+
+451	TRUE	Tulsa County, Oklahoma:: state	oklahoma / U.	
+<p> <strong> Tulsa County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Oklahoma </a> .
+
+452	TRUE	Tulsa County, Oklahoma:: area_land_sq_mi	570 / (2.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 587&nbsp; <a> square mile </a> s (1,520&nbsp; <a> km&#x00b2; </a> ), of which 570&nbsp;square miles (1,477&nbsp;km&#x00b2;) is land and 17&nbsp;square miles (43&nbsp;km&#x00b2;) (2.85%) is water. </p>
+
+453	FALSE	Tulsa County, Oklahoma:: area_water_sq_mi	17 / 35.	
+<p> There were 226,892 households out of which 32.20% had children under the age of 18 living with them, 49.10% were <a> married couples </a> living together, 12.10% had a female householder with no husband present, and 35.10% were non-families.
+
+455	TRUE	Tulsa County, Oklahoma:: density_km2	381 / (381/	
+The <a> population density </a> was 988 people per square mile (381/km&#x00b2;).
+
+460	FALSE	Tulsa County, Oklahoma:: area_water_km2	43 / 35.	
+<p> There were 226,892 households out of which 32.20% had children under the age of 18 living with them, 49.10% were <a> married couples </a> living together, 12.10% had a female householder with no husband present, and 35.10% were non-families.
+
+461	TRUE	Tulsa County, Oklahoma:: density_sq_mi	988 / (381/	
+The <a> population density </a> was 988 people per square mile (381/km&#x00b2;).
+
+462	TRUE	Tulsa County, Oklahoma:: area_total_sq_mi	587 / 570&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 587&nbsp; <a> square mile </a> s (1,520&nbsp; <a> km&#x00b2; </a> ), of which 570&nbsp;square miles (1,477&nbsp;km&#x00b2;) is land and 17&nbsp;square miles (43&nbsp;km&#x00b2;) (2.85%) is water. </p>
+
+508	TRUE	Rogers County, Oklahoma:: area_total_sq_mi	711 / 675&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 711&nbsp; <a> square mile </a> s (1,843&nbsp; <a> km&#x00b2; </a> ), of which 675&nbsp;square miles (1,748&nbsp;km&#x00b2;) is land and 36&nbsp;square miles (95&nbsp;km&#x00b2;) (5.13%) is water. </p>
+
+509	TRUE	Rogers County, Oklahoma:: area_land_sq_mi	675 / (5.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 711&nbsp; <a> square mile </a> s (1,843&nbsp; <a> km&#x00b2; </a> ), of which 675&nbsp;square miles (1,748&nbsp;km&#x00b2;) is land and 36&nbsp;square miles (95&nbsp;km&#x00b2;) (5.13%) is water. </p>
+
+511	TRUE	Rogers County, Oklahoma:: density_km2	40 / (40/	
+The <a> population density </a> was 105 people per square mile (40/km&#x00b2;).
+
+515	FALSE	Rogers County, Oklahoma:: area_water_km2	95 / 21.	
+<p> There were 25,724 households out of which 38.40% had children under the age of 18 living with them, 65.60% were <a> married couples </a> living together, 8.90% had a female householder with no husband present, and 21.90% were non-families.
+
+516	TRUE	Rogers County, Oklahoma:: density_sq_mi	105 / (40/	
+The <a> population density </a> was 105 people per square mile (40/km&#x00b2;).
+
+517	TRUE	Rogers County, Oklahoma:: state	oklahoma / U.	
+<p> <strong> Rogers County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Oklahoma </a> .
+
+518	FALSE	Rogers County, Oklahoma:: area_water_sq_mi	36 / 21.	
+<p> There were 25,724 households out of which 38.40% had children under the age of 18 living with them, 65.60% were <a> married couples </a> living together, 8.90% had a female householder with no husband present, and 21.90% were non-families.
+
+520	FALSE	Roger Mills County, Oklahoma:: area_land_sq_mi	1,142 / 988	
+<p> As of the <a> census </a> of 2000, there were 3,436 people, 1,428 households, and 988 families residing in the county.
+
+521	TRUE	Roger Mills County, Oklahoma:: area_water_sq_mi	5 / 30.	
+<p> There were 1,428 households out of which 29.40% had children under the age of 18 living with them, 58.80% were <a> married couples </a> living together, 6.80% had a female householder with no husband present, and 30.80% were non-families.
+
+523	TRUE	Roger Mills County, Oklahoma:: density_km2	1 / 1/	
+The <a> population density </a> was 1/km&#x00b2; (3/mi&#x00b2;).
+
+526	FALSE	Roger Mills County, Oklahoma:: area_land_km2	2,957 / 436.	
+As of 2000, the population was 3,436.
+
+527	FALSE	Roger Mills County, Oklahoma:: area_water_km2	12 / 30.	
+<p> There were 1,428 households out of which 29.40% had children under the age of 18 living with them, 58.80% were <a> married couples </a> living together, 6.80% had a female householder with no husband present, and 30.80% were non-families.
+
+528	TRUE	Roger Mills County, Oklahoma:: density_sq_mi	3 / (3/	
+The <a> population density </a> was 1/km&#x00b2; (3/mi&#x00b2;).
+
+529	TRUE	Roger Mills County, Oklahoma:: state	oklahoma / U.	
+<p> <strong> Roger Mills County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Oklahoma </a> .
+
+530	TRUE	Roger Mills County, Oklahoma:: area_total_sq_mi	1,146 / (1	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 2,969 <a> km&#x00b2; </a> (1,146 <a> mi&#x00b2; </a> ).
+
+531	TRUE	Roger Mills County, Oklahoma:: area_total_km2	2,969 / 2	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 2,969 <a> km&#x00b2; </a> (1,146 <a> mi&#x00b2; </a> ).
+
+544	TRUE	Pottawatomie County, Oklahoma:: state	oklahoma / U.	
+<p> <strong> Pottawatomie County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Oklahoma </a> .
+
+553	FALSE	Pottawatomie County, Oklahoma:: area_water_km2	14 / 27.	
+<p> There were 24,540 households out of which 32.70% had children under the age of 18 living with them, 56.50% were <a> married couples </a> living together, 11.80% had a female householder with no husband present, and 27.80% were non-families.
+
+554	TRUE	Pottawatomie County, Oklahoma:: density_sq_mi	83 / (83/	
+The <a> population density </a> was 32/km&#x00b2; (83/mi&#x00b2;).
+
+579	TRUE	Payne County, Oklahoma:: state	oklahoma / U.	
+<p> <strong> Payne County </strong> is a <a> county </a> in the <a> U.S. state </a> of <a> Oklahoma </a> .
+
+580	FALSE	Payne County, Oklahoma:: area_land_sq_mi	686 / 314	
+<p> As of the <a> census </a> of 2000, there were 68,190 people, 26,680 households, and 15,314 families residing in the county.
+
+588	TRUE	Payne County, Oklahoma:: area_total_sq_mi	697 / 697&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 697&nbsp;square miles (1,806&nbsp;km&#x00b2;), of which 686&nbsp;square miles (1,778&nbsp;km&#x00b2;) is land and 11&nbsp;square miles (28&nbsp;km&#x00b2;) (1.55%) is water. </p>
+
+742	TRUE	Mayes County, Oklahoma:: state	oklahoma / U.	
+<p> <strong> Mayes County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Oklahoma </a> .
+
+743	TRUE	Mayes County, Oklahoma:: area_total_sq_mi	684 / 656&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 684&nbsp; <a> square mile </a> s (1,770&nbsp; <a> km&#x00b2; </a> ), of which 656&nbsp;square miles (1,699&nbsp;km&#x00b2;) is land and 27&nbsp;square miles (71&nbsp;km&#x00b2;) (4.00%) is water. </p>
+
+744	TRUE	Mayes County, Oklahoma:: area_land_sq_mi	656 / (4.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 684&nbsp; <a> square mile </a> s (1,770&nbsp; <a> km&#x00b2; </a> ), of which 656&nbsp;square miles (1,699&nbsp;km&#x00b2;) is land and 27&nbsp;square miles (71&nbsp;km&#x00b2;) (4.00%) is water. </p>
+
+745	TRUE	Mayes County, Oklahoma:: area_water_sq_mi	27 / 27.	
+<p> There were 14,823 households out of which 32.60% had children under the age of 18 living with them, 60.20% were <a> married couples </a> living together, 9.00% had a female householder with no husband present, and 27.00% were non-families.
+
+747	TRUE	Mayes County, Oklahoma:: density_km2	23 / (23/	
+The <a> population density </a> was 58 people per square mile (23/km&#x00b2;).
+
+752	FALSE	Mayes County, Oklahoma:: area_water_km2	71 / 27.	
+<p> There were 14,823 households out of which 32.60% had children under the age of 18 living with them, 60.20% were <a> married couples </a> living together, 9.00% had a female householder with no husband present, and 27.00% were non-families.
+
+753	TRUE	Mayes County, Oklahoma:: density_sq_mi	58 / (23/	
+The <a> population density </a> was 58 people per square mile (23/km&#x00b2;).
+
+766	TRUE	Major County, Oklahoma:: state	oklahoma / U.	
+<p> <strong> Major County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Oklahoma </a> .
+
+767	FALSE	Major County, Oklahoma:: area_total_sq_mi	958 / 22	
+Fairview, which had been settled following the <a> Land Run of 1893 </a> , was designated the county seat and voters reaffirmed the choice on December 22, 1908.
+
+768	TRUE	Major County, Oklahoma:: area_land_sq_mi	957 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 958&nbsp; <a> square mile </a> s (2,481&nbsp; <a> km&#x00b2; </a> ), of which 957&nbsp;square miles (2,478&nbsp;km&#x00b2;) is land and 1&nbsp;square miles (3&nbsp;km&#x00b2;) (0.12%) is water. </p>
+
+769	TRUE	Major County, Oklahoma:: area_water_sq_mi	1 / 22	
+Fairview, which had been settled following the <a> Land Run of 1893 </a> , was designated the county seat and voters reaffirmed the choice on December 22, 1908.
+
+775	TRUE	Major County, Oklahoma:: area_water_km2	3 / 22	
+Fairview, which had been settled following the <a> Land Run of 1893 </a> , was designated the county seat and voters reaffirmed the choice on December 22, 1908.
+
+776	TRUE	Major County, Oklahoma:: density_km2	3 / (3&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 958&nbsp; <a> square mile </a> s (2,481&nbsp; <a> km&#x00b2; </a> ), of which 957&nbsp;square miles (2,478&nbsp;km&#x00b2;) is land and 1&nbsp;square miles (3&nbsp;km&#x00b2;) (0.12%) is water. </p>
+
+777	TRUE	Major County, Oklahoma:: density_sq_mi	8 / (3&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 958&nbsp; <a> square mile </a> s (2,481&nbsp; <a> km&#x00b2; </a> ), of which 957&nbsp;square miles (2,478&nbsp;km&#x00b2;) is land and 1&nbsp;square miles (3&nbsp;km&#x00b2;) (0.12%) is water. </p>
+
+778	TRUE	Love County, Oklahoma:: state	oklahoma / U.	
+<p> <strong> Love County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Oklahoma </a> .
+
+779	TRUE	Love County, Oklahoma:: area_total_sq_mi	532 / 515&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 532&nbsp; <a> square mile </a> s (1,378&nbsp; <a> km&#x00b2; </a> ), of which 515&nbsp;square miles (1,335&nbsp;km&#x00b2;) is land and 17&nbsp;square miles (43&nbsp;km&#x00b2;) (3.11%) is water. </p>
+
+780	TRUE	Love County, Oklahoma:: area_land_sq_mi	515 / (3.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 532&nbsp; <a> square mile </a> s (1,378&nbsp; <a> km&#x00b2; </a> ), of which 515&nbsp;square miles (1,335&nbsp;km&#x00b2;) is land and 17&nbsp;square miles (43&nbsp;km&#x00b2;) (3.11%) is water. </p>
+
+781	FALSE	Love County, Oklahoma:: area_water_sq_mi	17 / 25.	
+<p> There were 3,442 households out of which 31.70% had children under the age of 18 living with them, 60.40% were <a> married couples </a> living together, 10.00% had a female householder with no husband present, and 25.70% were non-families.
+
+783	TRUE	Love County, Oklahoma:: density_km2	7 / (7/	
+The <a> population density </a> was 17 people per square mile (7/km&#x00b2;).
+
+787	FALSE	Love County, Oklahoma:: area_water_km2	43 / 25.	
+<p> There were 3,442 households out of which 31.70% had children under the age of 18 living with them, 60.40% were <a> married couples </a> living together, 10.00% had a female householder with no husband present, and 25.70% were non-families.
+
+788	TRUE	Love County, Oklahoma:: density_sq_mi	17 / (7/	
+The <a> population density </a> was 17 people per square mile (7/km&#x00b2;).
+
+790	TRUE	Logan County, Oklahoma:: state	oklahoma / U.	
+<p> <strong> Logan County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Oklahoma </a> .
+
+791	TRUE	Logan County, Oklahoma:: area_total_sq_mi	749 / 744&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 749&nbsp; <a> square mile </a> s (1,940&nbsp; <a> km&#x00b2; </a> ), of which 744&nbsp;square miles (1,928&nbsp;km&#x00b2;) is land and 4&nbsp;square miles (12&nbsp;km&#x00b2;) (0.60%) is water. </p>
+
+792	TRUE	Logan County, Oklahoma:: area_land_sq_mi	744 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 749&nbsp; <a> square mile </a> s (1,940&nbsp; <a> km&#x00b2; </a> ), of which 744&nbsp;square miles (1,928&nbsp;km&#x00b2;) is land and 4&nbsp;square miles (12&nbsp;km&#x00b2;) (0.60%) is water. </p>
+
+793	TRUE	Logan County, Oklahoma:: area_water_sq_mi	4 / 27.	
+<p> There were 12,389 households out of which 33.70% had children under the age of 18 living with them, 59.20% were <a> married couples </a> living together, 9.80% had a female householder with no husband present, and 27.40% were non-families.
+
+795	TRUE	Logan County, Oklahoma:: density_km2	18 / (18/	
+The <a> population density </a> was 46 people per square mile (18/km&#x00b2;).
+
+800	TRUE	Logan County, Oklahoma:: area_water_km2	12 / 27.	
+<p> There were 12,389 households out of which 33.70% had children under the age of 18 living with them, 59.20% were <a> married couples </a> living together, 9.80% had a female householder with no husband present, and 27.40% were non-families.
+
+801	TRUE	Logan County, Oklahoma:: density_sq_mi	46 / (18/	
+The <a> population density </a> was 46 people per square mile (18/km&#x00b2;).
+
+802	TRUE	Lincoln County, Oklahoma:: state	oklahoma / U.	
+<p> <strong> Lincoln County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Oklahoma </a> .
+
+803	TRUE	Lincoln County, Oklahoma:: area_total_sq_mi	966 / 958&	
+According to the <a> U.S. Census Bureau </a> , the county has a total area of 966&nbsp; <a> square mile </a> s (2,501&nbsp; <a> km&#x00b2; </a> ), of which 958&nbsp;square miles (2,481&nbsp;km&#x00b2;) is land and 8&nbsp;square miles (20&nbsp;km&#x00b2;) (0.82%) is water. </p>
+
+804	TRUE	Lincoln County, Oklahoma:: area_land_sq_mi	958 / (0.	
+According to the <a> U.S. Census Bureau </a> , the county has a total area of 966&nbsp; <a> square mile </a> s (2,501&nbsp; <a> km&#x00b2; </a> ), of which 958&nbsp;square miles (2,481&nbsp;km&#x00b2;) is land and 8&nbsp;square miles (20&nbsp;km&#x00b2;) (0.82%) is water. </p>
+
+805	TRUE	Lincoln County, Oklahoma:: area_water_sq_mi	8 / 25.	
+<p> There were 12,178 households out of which 34.10% had children under the age of 18 living with them, 61.50% were <a> married couples </a> living together, 9.20% had a female householder with no husband present, and 25.10% were non-families.
+
+807	TRUE	Lincoln County, Oklahoma:: density_km2	13 / (13/	
+The <a> population density </a> was 34 people per square mile (13/km&#x00b2;).
+
+812	TRUE	Lincoln County, Oklahoma:: area_water_km2	20 / 25.	
+<p> There were 12,178 households out of which 34.10% had children under the age of 18 living with them, 61.50% were <a> married couples </a> living together, 9.20% had a female householder with no husband present, and 25.10% were non-families.
+
+813	TRUE	Lincoln County, Oklahoma:: density_sq_mi	34 / (13/	
+The <a> population density </a> was 34 people per square mile (13/km&#x00b2;).
+
+814	TRUE	Le Flore County, Oklahoma:: state	oklahoma / U.	
+<p> <strong> Le Flore County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Oklahoma </a> .
+
+818	TRUE	Le Flore County, Oklahoma:: density_km2	12 / (12/	
+The <a> population density </a> was 30 people per square mile (12/km&#x00b2;).
+
+821	TRUE	Le Flore County, Oklahoma:: area_water_km2	58 / 26.	
+<p> There were 17,861 households out of which 33.40% had children under the age of 18 living with them, 58.50% were <a> married couples </a> living together, 11.00% had a female householder with no husband present, and 26.10% were non-families.
+
+822	TRUE	Le Flore County, Oklahoma:: density_sq_mi	30 / (12/	
+The <a> population density </a> was 30 people per square mile (12/km&#x00b2;).
+
+823	FALSE	Le Flore County, Oklahoma:: area_water_sq_mi	22 / 26.	
+<p> There were 17,861 households out of which 33.40% had children under the age of 18 living with them, 58.50% were <a> married couples </a> living together, 11.00% had a female householder with no husband present, and 26.10% were non-families.
+
+825	TRUE	Latimer County, Oklahoma:: state	oklahoma / U.	
+<p> <strong> Latimer County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Oklahoma </a> .
+
+826	TRUE	Latimer County, Oklahoma:: area_total_sq_mi	729 / 729&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 729&nbsp;square miles (1,888&nbsp;km&#x00b2;), of which 722&nbsp;square miles (1,870&nbsp;km&#x00b2;) is land and 7&nbsp;square miles (18&nbsp;km&#x00b2;) (0.95%) is water. </p>
+
+827	FALSE	Latimer County, Oklahoma:: area_land_sq_mi	722 / 868	
+<p> As of the <a> census </a> of 2000, there were 10,692 people, 3,951 households, and 2,868 families residing in the county.
+
+828	TRUE	Latimer County, Oklahoma:: area_water_sq_mi	7 / 27.	
+<p> There were 3,951 households out of which 32.20% had children under the age of 18 living with them, 56.90% were <a> married couples </a> living together, 11.50% had a female householder with no husband present, and 27.40% were non-families.
+
+829	TRUE	Latimer County, Oklahoma:: density_km2	6 / (6/	
+The <a> population density </a> was 15 people per square mile (6/km&#x00b2;).
+
+834	TRUE	Latimer County, Oklahoma:: area_water_km2	18 / 27.	
+<p> There were 3,951 households out of which 32.20% had children under the age of 18 living with them, 56.90% were <a> married couples </a> living together, 11.50% had a female householder with no husband present, and 27.40% were non-families.
+
+835	TRUE	Latimer County, Oklahoma:: density_sq_mi	15 / (6/	
+The <a> population density </a> was 15 people per square mile (6/km&#x00b2;).
+
+837	TRUE	Kiowa County, Oklahoma:: state	oklahoma / U.	
+<p> <strong> Kiowa County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Oklahoma </a> .
+
+840	FALSE	Kiowa County, Oklahoma:: area_water_sq_mi	16 / 33.	
+<p> There were 4,208 households out of which 27.90% had children under the age of 18 living with them, 52.00% were <a> married couples </a> living together, 10.40% had a female householder with no husband present, and 33.10% were non-families.
+
+846	FALSE	Kiowa County, Oklahoma:: area_water_km2	42 / 33.	
+<p> There were 4,208 households out of which 27.90% had children under the age of 18 living with them, 52.00% were <a> married couples </a> living together, 10.40% had a female householder with no husband present, and 33.10% were non-families.
+
+847	TRUE	Kiowa County, Oklahoma:: density_sq_mi	10 / (4/	
+The <a> population density </a> was 10 people per square mile (4/km&#x00b2;).
+
+848	TRUE	Kiowa County, Oklahoma:: density_km2	4 / (4/	
+The <a> population density </a> was 10 people per square mile (4/km&#x00b2;).
+
+849	TRUE	Kingfisher County, Oklahoma:: state	oklahoma / U.	
+<p> <strong> Kingfisher County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Oklahoma </a> .
+
+850	TRUE	Kingfisher County, Oklahoma:: area_total_sq_mi	906 / 906&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 906&nbsp;square miles (2,346&nbsp;km&#x00b2;), of which 903&nbsp;square miles (2,339&nbsp;km&#x00b2;) is land and 3&nbsp;square miles (8&nbsp;km&#x00b2;) (0.33%) is water. </p>
+
+851	FALSE	Kingfisher County, Oklahoma:: area_land_sq_mi	903 / 893	
+<p> As of the <a> census </a> of 2000, there were 13,926 people, 5,247 households, and 3,893 families residing in the county.
+
+852	TRUE	Kingfisher County, Oklahoma:: area_water_sq_mi	3 / 25.	
+<p> There were 5,247 households out of which 35.40% had children under the age of 18 living with them, 62.20% were <a> married couples </a> living together, 8.00% had a female householder with no husband present, and 25.80% were non-families.
+
+854	TRUE	Kingfisher County, Oklahoma:: density_km2	6 / (6/	
+The <a> population density </a> was 15 people per square mile (6/km&#x00b2;).
+
+859	TRUE	Kingfisher County, Oklahoma:: area_water_km2	8 / 25.	
+<p> There were 5,247 households out of which 35.40% had children under the age of 18 living with them, 62.20% were <a> married couples </a> living together, 8.00% had a female householder with no husband present, and 25.80% were non-families.
+
+860	TRUE	Kingfisher County, Oklahoma:: density_sq_mi	15 / (6/	
+The <a> population density </a> was 15 people per square mile (6/km&#x00b2;).
+
+861	TRUE	Kay County, Oklahoma:: state	oklahoma / U.	
+<p> <strong> Kay County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Oklahoma </a> .
+
+862	TRUE	Kay County, Oklahoma:: area_total_sq_mi	945 / 945&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 945&nbsp;square miles (2,448&nbsp;km&#x00b2;), of which 919&nbsp;square miles (2,379&nbsp;km&#x00b2;) is land and 26&nbsp;square miles (68&nbsp;km&#x00b2;) (2.80%) is water.
+
+863	FALSE	Kay County, Oklahoma:: area_land_sq_mi	919 / 141	
+<p> As of the <a> census </a> of 2000, there were 48,080 people, 19,157 households, and 13,141 families residing in the county.
+
+864	FALSE	Kay County, Oklahoma:: area_water_sq_mi	26 / 31.	
+<p> There were 19,157 households out of which 31.90% had children under the age of 18 living with them, 54.70% were <a> married couples </a> living together, 10.20% had a female householder with no husband present, and 31.40% were non-families.
+
+866	TRUE	Kay County, Oklahoma:: density_km2	20 / (20/	
+The <a> population density </a> was 52 people per square mile (20/km&#x00b2;).
+
+869	FALSE	Kay County, Oklahoma:: area_water_km2	68 / 31.	
+<p> There were 19,157 households out of which 31.90% had children under the age of 18 living with them, 54.70% were <a> married couples </a> living together, 10.20% had a female householder with no husband present, and 31.40% were non-families.
+
+870	TRUE	Kay County, Oklahoma:: density_sq_mi	52 / (20/	
+The <a> population density </a> was 52 people per square mile (20/km&#x00b2;).
+
+871	TRUE	Johnston County, Oklahoma:: county	johnston county / Johnston County	
+<p> <strong> Johnston County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Oklahoma </a> .
+
+876	TRUE	Johnston County, Oklahoma:: density_km2	6 / (6/	
+The <a> population density </a> was 16 people per square mile (6/km&#x00b2;).
+
+882	TRUE	Johnston County, Oklahoma:: density_sq_mi	16 / (6/	
+The <a> population density </a> was 16 people per square mile (6/km&#x00b2;).
+
+883	TRUE	Johnston County, Oklahoma:: state	oklahoma / U.	
+<p> <strong> Johnston County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Oklahoma </a> .
+
+884	TRUE	Jefferson County, Oklahoma:: county	jefferson county / Jefferson County	
+<p> <strong> Jefferson County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Oklahoma </a> .
+
+885	TRUE	Jefferson County, Oklahoma:: state	oklahoma / U.	
+<p> <strong> Jefferson County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Oklahoma </a> .
+
+889	TRUE	Jefferson County, Oklahoma:: density_km2	3 / (3/	
+The <a> population density </a> was 9 people per square mile (3/km&#x00b2;).
+
+895	TRUE	Jefferson County, Oklahoma:: density_sq_mi	9 / (3/	
+The <a> population density </a> was 9 people per square mile (3/km&#x00b2;).
+
+896	FALSE	Jefferson County, Oklahoma:: area_water_sq_mi	15 / 31.	
+<p> There were 2,716 households out of which 29.20% had children under the age of 18 living with them, 55.60% were <a> married couples </a> living together, 9.20% had a female householder with no husband present, and 31.40% were non-families.
+
+898	TRUE	Jackson County, Oklahoma:: state	oklahoma / U.	
+<p> <strong> Jackson County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Oklahoma </a> .
+
+900	TRUE	Jackson County, Oklahoma:: area_water_sq_mi	1 / 27.	
+<p> There were 10,590 households out of which 38.10% had children under the age of 18 living with them, 57.80% were <a> married couples </a> living together, 10.70% had a female householder with no husband present, and 27.60% were non-families.
+
+905	FALSE	Jackson County, Oklahoma:: area_water_km2	4 / 27.	
+<p> There were 10,590 households out of which 38.10% had children under the age of 18 living with them, 57.80% were <a> married couples </a> living together, 10.70% had a female householder with no husband present, and 27.60% were non-families.
+
+906	TRUE	Jackson County, Oklahoma:: density_sq_mi	35 / (14/	
+The <a> population density </a> was 35 people per square mile (14/km&#x00b2;).
+
+907	TRUE	Jackson County, Oklahoma:: county	jackson county / Jackson County	
+<p> <strong> Jackson County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Oklahoma </a> .
+
+909	TRUE	Jackson County, Oklahoma:: density_km2	14 / (14/	
+The <a> population density </a> was 35 people per square mile (14/km&#x00b2;).
+
+911	TRUE	Hughes County, Oklahoma:: state	oklahoma / U.	
+<p> <strong> Hughes County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Oklahoma </a> .
+
+914	TRUE	Hughes County, Oklahoma:: area_water_sq_mi	8 / 30.	
+<p> There were 5,319 households out of which 28.80% had children under the age of 18 living with them, 53.50% were <a> married couples </a> living together, 11.30% had a female householder with no husband present, and 30.90% were non-families.
+
+916	TRUE	Hughes County, Oklahoma:: density_km2	7 / (7/	
+The <a> population density </a> was 18 people per square mile (7/km&#x00b2;).
+
+919	TRUE	Hughes County, Oklahoma:: density_sq_mi	18 / (7/	
+The <a> population density </a> was 18 people per square mile (7/km&#x00b2;).
+
+922	FALSE	Hughes County, Oklahoma:: area_water_km2	20 / 30.	
+<p> There were 5,319 households out of which 28.80% had children under the age of 18 living with them, 53.50% were <a> married couples </a> living together, 11.30% had a female householder with no husband present, and 30.90% were non-families.
+
+923	TRUE	Haskell County, Oklahoma:: state	oklahoma / U.	
+<p> <strong> Haskell County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Oklahoma </a> .
+
+927	TRUE	Haskell County, Oklahoma:: density_km2	8 / (8/	
+The <a> population density </a> was 20 people per square mile (8/km&#x00b2;).
+
+933	TRUE	Haskell County, Oklahoma:: density_sq_mi	20 / (8/	
+The <a> population density </a> was 20 people per square mile (8/km&#x00b2;).
+
+935	TRUE	Harper County, Oklahoma:: state	oklahoma / U.	
+<p> <strong> Harper County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Oklahoma </a> .
+
+938	TRUE	Harper County, Oklahoma:: area_water_sq_mi	2 / 31.	
+<p> There were 1,509 households out of which 28.00% had children under the age of 18 living with them, 58.60% were <a> married couples </a> living together, 6.50% had a female householder with no husband present, and 31.70% were non-families.
+
+939	TRUE	Harper County, Oklahoma:: density_km2	1 / (1/	
+The <a> population density </a> was 3 people per square mile (1/km&#x00b2;).
+
+944	TRUE	Harper County, Oklahoma:: area_water_km2	5 / 31.	
+<p> There were 1,509 households out of which 28.00% had children under the age of 18 living with them, 58.60% were <a> married couples </a> living together, 6.50% had a female householder with no husband present, and 31.70% were non-families.
+
+945	TRUE	Harper County, Oklahoma:: density_sq_mi	3 / (1/	
+The <a> population density </a> was 3 people per square mile (1/km&#x00b2;).
+
+948	TRUE	Harmon County, Oklahoma:: state	oklahoma / U.	
+<p> <strong> Harmon County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Oklahoma </a> .
+
+950	TRUE	Harmon County, Oklahoma:: area_water_sq_mi	1 / 31.	
+<p> There were 1,266 households out of which 30.20% had children under the age of 18 living with them, 55.70% were <a> married couples </a> living together, 9.20% had a female householder with no husband present, and 31.80% were non-families.
+
+952	TRUE	Harmon County, Oklahoma:: density_km2	2 / (2/	
+The <a> population density </a> was 6 people per square mile (2/km&#x00b2;).
+
+956	TRUE	Harmon County, Oklahoma:: area_water_km2	2 / 31.	
+<p> There were 1,266 households out of which 30.20% had children under the age of 18 living with them, 55.70% were <a> married couples </a> living together, 9.20% had a female householder with no husband present, and 31.80% were non-families.
+
+957	TRUE	Harmon County, Oklahoma:: density_sq_mi	6 / (2/	
+The <a> population density </a> was 6 people per square mile (2/km&#x00b2;).
+
+960	TRUE	Greer County, Oklahoma:: state	oklahoma / U.	
+<p> <strong> Greer County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Oklahoma </a> .
+
+963	FALSE	Greer County, Oklahoma:: area_water_sq_mi	4 / 35.	
+<p> There were 2,237 households out of which 25.60% had children under the age of 18 living with them, 51.00% were <a> married couples </a> living together, 9.60% had a female householder with no husband present, and 35.50% were non-families.
+
+965	TRUE	Greer County, Oklahoma:: density_km2	4 / (4/	
+The <a> population density </a> was 10 people per square mile (4/km&#x00b2;).
+
+970	TRUE	Greer County, Oklahoma:: density_sq_mi	10 / (4/	
+The <a> population density </a> was 10 people per square mile (4/km&#x00b2;).
+
+972	TRUE	Grant County, Oklahoma:: county	grant county / Grant County	
+<p> <strong> Grant County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Oklahoma </a> .
+
+973	TRUE	Grant County, Oklahoma:: state	oklahoma / U.	
+<p> <strong> Grant County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Oklahoma </a> .
+
+975	TRUE	Grant County, Oklahoma:: area_water_sq_mi	3 / 30.	
+<p> There were 2,089 households out of which 30.70% had children under the age of 18 living with them, 60.40% were <a> married couples </a> living together, 6.30% had a female householder with no husband present, and 30.30% were non-families.
+
+977	TRUE	Grant County, Oklahoma:: density_km2	2 / (2/	
+The <a> population density </a> was 5 people per square mile (2/km&#x00b2;).
+
+982	TRUE	Grant County, Oklahoma:: area_water_km2	8 / 30.	
+<p> There were 2,089 households out of which 30.70% had children under the age of 18 living with them, 60.40% were <a> married couples </a> living together, 6.30% had a female householder with no husband present, and 30.30% were non-families.
+
+983	TRUE	Grant County, Oklahoma:: density_sq_mi	5 / (2/	
+The <a> population density </a> was 5 people per square mile (2/km&#x00b2;).
+
+985	TRUE	Grady County, Oklahoma:: state	oklahoma / U.	
+<p> <strong> Grady County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Oklahoma </a> .
+
+988	TRUE	Grady County, Oklahoma:: area_water_sq_mi	4 / 26.	
+<p> There were 17,341 households out of which 34.70% had children under the age of 18 living with them, 60.50% were <a> married couples </a> living together, 9.70% had a female householder with no husband present, and 26.20% were non-families.
+
+990	TRUE	Grady County, Oklahoma:: density_km2	16 / (16/	
+The <a> population density </a> was 41 people per square mile (16/km&#x00b2;).
+
+996	TRUE	Grady County, Oklahoma:: density_sq_mi	41 / (16/	
+The <a> population density </a> was 41 people per square mile (16/km&#x00b2;).
+
+997	TRUE	Garvin County, Oklahoma:: state	oklahoma / U.	
+<p> <strong> Garvin County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Oklahoma </a> .
+
+1000	TRUE	Garvin County, Oklahoma:: area_water_sq_mi	6 / 30.	
+<p> There were 10,865 households out of which 30.70% had children under the age of 18 living with them, 56.40% were <a> married couples </a> living together, 10.10% had a female householder with no husband present, and 30.00% were non-families.
+
+1002	TRUE	Garvin County, Oklahoma:: density_km2	13 / (13/	
+The <a> population density </a> was 34 people per square mile (13/km&#x00b2;).
+
+1007	FALSE	Garvin County, Oklahoma:: area_water_km2	16 / 30.	
+<p> There were 10,865 households out of which 30.70% had children under the age of 18 living with them, 56.40% were <a> married couples </a> living together, 10.10% had a female householder with no husband present, and 30.00% were non-families.
+
+1008	TRUE	Garvin County, Oklahoma:: density_sq_mi	34 / (13/	
+The <a> population density </a> was 34 people per square mile (13/km&#x00b2;).
+
+1009	TRUE	Garfield County, Oklahoma:: county	garfield county / named after	
+<p> <strong> Garfield County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Oklahoma </a> named after President <a> James A. Garfield </a> .
+
+1012	TRUE	Garfield County, Oklahoma:: area_water_sq_mi	2 / 31.	
+<p> There were 23,175 households out of which 31.40% had children under the age of 18 living with them, 54.20% were <a> married couples </a> living together, 10.50% had a female householder with no husband present, and 31.80% were non-families.
+
+1014	TRUE	Garfield County, Oklahoma:: density_km2	21 / (21/	
+The <a> population density </a> was 55 people per square mile (21/km&#x00b2;).
+
+1018	TRUE	Garfield County, Oklahoma:: area_water_km2	4 / 31.	
+<p> There were 23,175 households out of which 31.40% had children under the age of 18 living with them, 54.20% were <a> married couples </a> living together, 10.50% had a female householder with no husband present, and 31.80% were non-families.
+
+1019	TRUE	Garfield County, Oklahoma:: density_sq_mi	55 / (21/	
+The <a> population density </a> was 55 people per square mile (21/km&#x00b2;).
+
+1020	TRUE	Garfield County, Oklahoma:: state	oklahoma / named	
+<p> <strong> Garfield County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Oklahoma </a> named after President <a> James A. Garfield </a> .
+
+1022	TRUE	Ellis County, Oklahoma:: state	oklahoma / U.	
+<p> <strong> Ellis County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Oklahoma </a> .
+
+1025	TRUE	Ellis County, Oklahoma:: area_water_sq_mi	3 / 31.	
+<p> There were 1,769 households out of which 25.30% had children under the age of 18 living with them, 59.90% were <a> married couples </a> living together, 6.00% had a female householder with no husband present, and 31.10% were non-families.
+
+1027	TRUE	Ellis County, Oklahoma:: density_km2	1 / (1/	
+The <a> population density </a> was 3 people per square mile (1/km&#x00b2;).
+
+1031	TRUE	Ellis County, Oklahoma:: area_water_km2	7 / 31.	
+<p> There were 1,769 households out of which 25.30% had children under the age of 18 living with them, 59.90% were <a> married couples </a> living together, 6.00% had a female householder with no husband present, and 31.10% were non-families.
+
+1032	TRUE	Ellis County, Oklahoma:: density_sq_mi	2 / (1/	
+The <a> population density </a> was 3 people per square mile (1/km&#x00b2;).
+
+1034	TRUE	Dewey County, Oklahoma:: state	oklahoma / U.	
+<p> <strong> Dewey County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Oklahoma </a> .
+
+1037	TRUE	Dewey County, Oklahoma:: area_water_sq_mi	8 / 31.	
+<p> There were 1,962 households out of which 26.70% had children under the age of 18 living with them, 59.80% were <a> married couples </a> living together, 5.00% had a female householder with no husband present, and 31.90% were non-families.
+
+1039	FALSE	Dewey County, Oklahoma:: density_km2	1 / (2/	
+The <a> population density </a> was 5 people per square mile (2/km&#x00b2;).
+
+1043	FALSE	Dewey County, Oklahoma:: area_water_km2	21 / 31.	
+<p> There were 1,962 households out of which 26.70% had children under the age of 18 living with them, 59.80% were <a> married couples </a> living together, 5.00% had a female householder with no husband present, and 31.90% were non-families.
+
+1044	TRUE	Dewey County, Oklahoma:: density_sq_mi	2 / (2/	
+The <a> population density </a> was 5 people per square mile (2/km&#x00b2;).
+
+1046	TRUE	Delaware County, Oklahoma:: county	delaware county / Delaware County	
+<p> <strong> Delaware County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Oklahoma </a> .
+
+1047	TRUE	Delaware County, Oklahoma:: state	oklahoma / Delaware	
+<p> <strong> Delaware County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Oklahoma </a> .
+
+1050	FALSE	Delaware County, Oklahoma:: area_water_sq_mi	52 / 27.	
+<p> There were 14,838 households out of which 29.00% had children under the age of 18 living with them, 59.50% were <a> married couples </a> living together, 8.90% had a female householder with no husband present, and 27.40% were non-families.
+
+1051	TRUE	Delaware County, Oklahoma:: density_km2	19 / (19/	
+The <a> population density </a> was 50 people per square mile (19/km&#x00b2;).
+
+1057	TRUE	Delaware County, Oklahoma:: density_sq_mi	50 / (19/	
+The <a> population density </a> was 50 people per square mile (19/km&#x00b2;).
+
+1061	FALSE	Custer County, Oklahoma:: area_water_sq_mi	15 / 35.	
+<p> There were 10,136 households out of which 30.20% had children under the age of 18 living with them, 51.60% were <a> married couples </a> living together, 9.50% had a female householder with no husband present, and 35.10% were non-families.
+
+1066	FALSE	Custer County, Oklahoma:: area_water_km2	40 / 35.	
+<p> There were 10,136 households out of which 30.20% had children under the age of 18 living with them, 51.60% were <a> married couples </a> living together, 9.50% had a female householder with no husband present, and 35.10% were non-families.
+
+1067	TRUE	Custer County, Oklahoma:: density_sq_mi	26 / (10/	
+The <a> population density </a> was 26 people per square mile (10/km&#x00b2;).
+
+1068	TRUE	Custer County, Oklahoma:: state	oklahoma / U.	
+<p> <strong> Custer County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Oklahoma </a> .
+
+1069	TRUE	Custer County, Oklahoma:: density_km2	10 / (10/	
+The <a> population density </a> was 26 people per square mile (10/km&#x00b2;).
+
+1070	TRUE	Creek County, Oklahoma:: state	oklahoma / U.	
+<p> <strong> Creek County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Oklahoma </a> .
+
+1073	FALSE	Creek County, Oklahoma:: area_water_sq_mi	14 / 24.	
+<p> There were 25,289 households out of which 34.80% had children under the age of 18 living with them, 60.10% were <a> married couples </a> living together, 10.90% had a female householder with no husband present, and 24.80% were non-families.
+
+1075	TRUE	Creek County, Oklahoma:: density_km2	27 / (27/	
+The <a> population density </a> was 70 people per square mile (27/km&#x00b2;).
+
+1080	FALSE	Creek County, Oklahoma:: area_water_km2	37 / 24.	
+<p> There were 25,289 households out of which 34.80% had children under the age of 18 living with them, 60.10% were <a> married couples </a> living together, 10.90% had a female householder with no husband present, and 24.80% were non-families.
+
+1081	TRUE	Creek County, Oklahoma:: density_sq_mi	70 / (27/	
+The <a> population density </a> was 70 people per square mile (27/km&#x00b2;).
+
+1082	TRUE	Craig County, Oklahoma:: state	oklahoma / U.	
+<p> <strong> Craig County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Oklahoma </a> .
+
+1085	TRUE	Craig County, Oklahoma:: area_water_sq_mi	2 / 29.	
+<p> There were 5,620 households out of which 30.90% had children under the age of 18 living with them, 57.30% were <a> married couples </a> living together, 9.70% had a female householder with no husband present, and 29.80% were non-families.
+
+1087	TRUE	Craig County, Oklahoma:: density_km2	8 / (8/	
+The <a> population density </a> was 20 people per square mile (8/km&#x00b2;).
+
+1092	TRUE	Craig County, Oklahoma:: density_sq_mi	20 / (8/	
+The <a> population density </a> was 20 people per square mile (8/km&#x00b2;).
+
+1093	FALSE	Craig County, Oklahoma:: area_water_km2	4 / 29.	
+<p> There were 5,620 households out of which 30.90% had children under the age of 18 living with them, 57.30% were <a> married couples </a> living together, 9.70% had a female householder with no husband present, and 29.80% were non-families.
+
+1094	TRUE	Cotton County, Oklahoma:: state	oklahoma / U.	
+<p> <strong> Cotton County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Oklahoma </a> .
+
+1096	TRUE	Cotton County, Oklahoma:: area_water_sq_mi	5 / 29.	
+<p> There were 2,614 households out of which 31.30% had children under the age of 18 living with them, 57.60% were <a> married couples </a> living together, 9.70% had a female householder with no husband present, and 29.60% were non-families.
+
+1098	TRUE	Cotton County, Oklahoma:: density_km2	4 / (4/	
+The <a> population density </a> was 10 people per square mile (4/km&#x00b2;).
+
+1103	TRUE	Cotton County, Oklahoma:: area_water_km2	14 / 29.	
+<p> There were 2,614 households out of which 31.30% had children under the age of 18 living with them, 57.60% were <a> married couples </a> living together, 9.70% had a female householder with no husband present, and 29.60% were non-families.
+
+1104	TRUE	Cotton County, Oklahoma:: density_sq_mi	10 / (4/	
+The <a> population density </a> was 10 people per square mile (4/km&#x00b2;).
+
+1118	TRUE	Coal County, Oklahoma:: state	oklahoma / U.	
+<p> <strong> Coal County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Oklahoma </a> .
+
+1121	TRUE	Coal County, Oklahoma:: area_water_sq_mi	3 / 30.	
+<p> There were 2,373 households out of which 30.70% had children under the age of 18 living with them, 55.20% were <a> married couples </a> living together, 10.60% had a female householder with no husband present, and 30.30% were non-families.
+
+1123	TRUE	Coal County, Oklahoma:: density_km2	2 / (4/	
+The <a> population density </a> was 12 people per square mile (4/km&#x00b2;).
+
+1128	TRUE	Coal County, Oklahoma:: area_water_km2	8 / 30.	
+<p> There were 2,373 households out of which 30.70% had children under the age of 18 living with them, 55.20% were <a> married couples </a> living together, 10.60% had a female householder with no husband present, and 30.30% were non-families.
+
+1129	FALSE	Coal County, Oklahoma:: density_sq_mi	5 / (4/	
+The <a> population density </a> was 12 people per square mile (4/km&#x00b2;).
+
+1153	TRUE	Choctaw County, Oklahoma:: state	oklahoma / U.	
+<p> <strong> Choctaw County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Oklahoma </a> .
+
+1158	TRUE	Choctaw County, Oklahoma:: density_km2	8 / (8/	
+The <a> population density </a> was 20 people per square mile (8/km&#x00b2;).
+
+1164	TRUE	Choctaw County, Oklahoma:: density_sq_mi	20 / (8/	
+The <a> population density </a> was 20 people per square mile (8/km&#x00b2;).
+
+1165	TRUE	Cherokee County, Oklahoma:: state	oklahoma / U.	
+<p> <strong> Cherokee County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Oklahoma </a> .
+
+1168	TRUE	Cherokee County, Oklahoma:: density_km2	22 / (22/	
+The <a> population density </a> was 57 people per square mile (22/km&#x00b2;).
+
+1169	FALSE	Cherokee County, Oklahoma:: founded	1907 / 32	
+The median age was 32 years.
+
+1176	FALSE	Cherokee County, Oklahoma:: area_water_sq_mi	25 / 31.	
+<p> There were 16,175 households out of which 32.70% had children under the age of 18 living with them, 52.50% were <a> married couples </a> living together, 11.90% had a female householder with no husband present, and 31.50% were non-families.
+
+1177	TRUE	Carter County, Oklahoma:: state	oklahoma / U.	
+<p> <strong> Carter County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Oklahoma </a> .
+
+1180	FALSE	Carter County, Oklahoma:: area_water_sq_mi	10 / 29.	
+<p> There were 17,992 households out of which 32.50% had children under the age of 18 living with them, 54.50% were <a> married couples </a> living together, 12.00% had a female householder with no husband present, and 29.70% were non-families.
+
+1182	TRUE	Carter County, Oklahoma:: density_km2	21 / (21/	
+The <a> population density </a> was 55 people per square mile (21/km&#x00b2;).
+
+1187	FALSE	Carter County, Oklahoma:: area_water_km2	26 / 29.	
+<p> There were 17,992 households out of which 32.50% had children under the age of 18 living with them, 54.50% were <a> married couples </a> living together, 12.00% had a female householder with no husband present, and 29.70% were non-families.
+
+1188	TRUE	Carter County, Oklahoma:: density_sq_mi	55 / (21/	
+The <a> population density </a> was 55 people per square mile (21/km&#x00b2;).
+
+1189	TRUE	Canadian County, Oklahoma:: state	oklahoma / U.	
+<p> <strong> Canadian County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Oklahoma </a> .
+
+1192	FALSE	Canadian County, Oklahoma:: area_water_sq_mi	5 / 22.	
+<p> There were 31,484 households out of which 39.80% had children under the age of 18 living with them, 64.30% were <a> married couples </a> living together, 9.70% had a female householder with no husband present, and 22.40% were non-families.
+
+1193	TRUE	Canadian County, Oklahoma:: density_km2	38 / (38/	
+The <a> population density </a> was 98 people per square mile (38/km&#x00b2;).
+
+1198	TRUE	Canadian County, Oklahoma:: density_sq_mi	98 / (38/	
+The <a> population density </a> was 98 people per square mile (38/km&#x00b2;).
+
+1201	TRUE	Caddo County, Oklahoma:: state	oklahoma / U.	
+<p> <strong> Caddo County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Oklahoma </a> .
+
+1203	FALSE	Caddo County, Oklahoma:: area_water_sq_mi	12 / 27.	
+<p> There were 10,957 households out of which 33.30% had children under the age of 18 living with them, 55.20% were <a> married couples </a> living together, 13.00% had a female householder with no husband present, and 27.30% were non-families.
+
+1205	TRUE	Caddo County, Oklahoma:: density_km2	9 / 9/	
+The <a> population density </a> was 9/km&#x00b2; (24/sq&nbsp;mi).
+
+1210	TRUE	Caddo County, Oklahoma:: density_sq_mi	24 / (24/	
+The <a> population density </a> was 9/km&#x00b2; (24/sq&nbsp;mi).
+
+1212	TRUE	Bryan County, Oklahoma:: state	oklahoma / U.	
+<p> <strong> Bryan County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Oklahoma </a> .
+
+1220	TRUE	Bryan County, Oklahoma:: density_sq_mi	40 / (16/	
+The <a> population density </a> was 40 people per square mile (16/km&#x00b2;).
+
+1221	TRUE	Bryan County, Oklahoma:: density_km2	16 / (16/	
+The <a> population density </a> was 40 people per square mile (16/km&#x00b2;).
+
+1223	TRUE	Blaine County, Oklahoma:: state	oklahoma / U.	
+<p> <strong> Blaine County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Oklahoma </a> .
+
+1225	FALSE	Blaine County, Oklahoma:: area_water_sq_mi	10 / 18	
+<p> There were 4,159 households out of which 30.80 percent had children under the age of 18 living with them.
+
+1227	TRUE	Blaine County, Oklahoma:: density_km2	5 / (5/	
+The <a> population density </a> of the county was 13 people per square mile (5/km&#x00b2;).
+
+1232	FALSE	Blaine County, Oklahoma:: area_water_km2	27 / 18	
+<p> There were 4,159 households out of which 30.80 percent had children under the age of 18 living with them.
+
+1233	TRUE	Blaine County, Oklahoma:: density_sq_mi	13 / (5/	
+The <a> population density </a> of the county was 13 people per square mile (5/km&#x00b2;).
+
+1234	TRUE	Beckham County, Oklahoma:: state	oklahoma / U.	
+<p> <strong> Beckham County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Oklahoma </a> .
+
+1235	FALSE	Beckham County, Oklahoma:: area_total_sq_mi	904 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and (0.26%) is water. </p>
+
+1237	TRUE	Beckham County, Oklahoma:: area_water_sq_mi	2 / 32.	
+<p> There were 7,356 households out of which 32.30% had children under the age of 18 living with them, 53.80% were <a> married couples </a> living together, 10.40% had a female householder with no husband present, and 32.00% were non-families.
+
+1239	TRUE	Beckham County, Oklahoma:: density_km2	8 / (8/	
+The <a> population density </a> was 22 people per square mile (8/km&#x00b2;).
+
+1242	TRUE	Beckham County, Oklahoma:: density_sq_mi	22 / (8/	
+The <a> population density </a> was 22 people per square mile (8/km&#x00b2;).
+
+1245	TRUE	Beckham County, Oklahoma:: area_water_km2	6 / 32.	
+<p> There were 7,356 households out of which 32.30% had children under the age of 18 living with them, 53.80% were <a> married couples </a> living together, 10.40% had a female householder with no husband present, and 32.00% were non-families.
+
+1246	TRUE	Beaver County, Oklahoma:: state	oklahoma / U.	
+<p> <strong> Beaver County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Oklahoma </a> .
+
+1249	TRUE	Beaver County, Oklahoma:: area_water_sq_mi	3 / 24.	
+<p> There were 2,245 households out of which 33.50% had children under the age of 18 living with them, 66.30% were <a> married couples </a> living together, 6.10% had a female householder with no husband present, and 24.00% were non-families.
+
+1255	TRUE	Beaver County, Oklahoma:: area_water_km2	8 / 24.	
+<p> There were 2,245 households out of which 33.50% had children under the age of 18 living with them, 66.30% were <a> married couples </a> living together, 6.10% had a female householder with no husband present, and 24.00% were non-families.
+
+1259	FALSE	Atoka County, Oklahoma:: area_water_sq_mi	12 / 29.	
+<p> There were 4,964 households out of which 31.30% had children under the age of 18 living with them, 56.90% were <a> married couples </a> living together, 10.20% had a female householder with no husband present, and 29.40% were non-families.
+
+1261	TRUE	Atoka County, Oklahoma:: density_km2	2 / (5/	
+The <a> population density </a> was 14 people per square mile (5/km&#x00b2;).
+
+1265	TRUE	Atoka County, Oklahoma:: area_water_km2	30 / 29.	
+<p> There were 4,964 households out of which 31.30% had children under the age of 18 living with them, 56.90% were <a> married couples </a> living together, 10.20% had a female householder with no husband present, and 29.40% were non-families.
+
+1266	FALSE	Atoka County, Oklahoma:: density_sq_mi	6 / (5/	
+The <a> population density </a> was 14 people per square mile (5/km&#x00b2;).
+
+1267	TRUE	Atoka County, Oklahoma:: state	oklahoma / U.	
+<p> <strong> Atoka County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Oklahoma </a> , and was formed in 1907 from <a> Choctaw Lands </a> .
+
+1269	TRUE	Alfalfa County, Oklahoma:: state	oklahoma / U.	
+<p> <strong> Alfalfa County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Oklahoma </a> .
+
+1274	TRUE	Alfalfa County, Oklahoma:: density_km2	3 / (3/	
+The <a> population density </a> was 7 people per square mile (3/km&#x00b2;).
+
+1278	TRUE	Alfalfa County, Oklahoma:: density_sq_mi	7 / (3/	
+The <a> population density </a> was 7 people per square mile (3/km&#x00b2;).
+
+1279	FALSE	Alfalfa County, Oklahoma:: area_water_km2	38 / 32.	
+<p> There were 2,199 households out of which 26.90% had children under the age of 18 living with them, 59.30% were <a> married couples </a> living together, 5.70% had a female householder with no husband present, and 32.60% were non-families.
+
+1280	TRUE	Adair County, Oklahoma:: state	oklahoma / U.	
+<p> <strong> Adair County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Oklahoma </a> .
+
+1282	TRUE	Adair County, Oklahoma:: area_water_sq_mi	1 / 18	
+Of the 7,471 households, 37.3 percent included children under the age of 18 and slightly more than half (57.1 percent) included <a> married couples </a> living together.
+
+1284	TRUE	Adair County, Oklahoma:: density_km2	14 / (14/	
+The <a> population density </a> was 36 people per square mile (14/km&#x00b2;). </p>
+
+1290	TRUE	Adair County, Oklahoma:: density_sq_mi	36 / (14/	
+The <a> population density </a> was 36 people per square mile (14/km&#x00b2;). </p>
+
+1291	TRUE	Wyandot County, Ohio:: state	ohio / Ohio	
+<p> <strong> Wyandot County </strong> is a <a> county </a> located in the <a> state </a> of <a> Ohio </a> , <a> United States </a> .
+
+1292	FALSE	Wyandot County, Ohio:: area_total_sq_mi	408 / 56	
+The <a> population density </a> was 56 people per square mile (22/km&#x00b2;).
+
+1293	TRUE	Wyandot County, Ohio:: area_water_sq_mi	2 / 29.	
+<p> There were 8,882 households out of which 33.10% had children under the age of 18 living with them, 57.90% were <a> married couples </a> living together, 9.20% had a female householder with no husband present, and 29.40% were non-families.
+
+1294	TRUE	Wyandot County, Ohio:: density_km2	22 / (22/	
+The <a> population density </a> was 56 people per square mile (22/km&#x00b2;).
+
+1299	TRUE	Wyandot County, Ohio:: area_water_km2	5 / 29.	
+<p> There were 8,882 households out of which 33.10% had children under the age of 18 living with them, 57.90% were <a> married couples </a> living together, 9.20% had a female householder with no husband present, and 29.40% were non-families.
+
+1300	TRUE	Wyandot County, Ohio:: density_sq_mi	56 / (22/	
+The <a> population density </a> was 56 people per square mile (22/km&#x00b2;).
+
+1301	TRUE	Wyandot County, Ohio:: area_land_sq_mi	406 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 408&nbsp;square miles (1,056&nbsp;km&#x00b2;).406&nbsp;square miles (1,051&nbsp;km&#x00b2;) of it is land and 2&nbsp;square miles (5&nbsp;km&#x00b2;) of it (0.49%) is water. </p>
+
+1304	TRUE	Wood County, Ohio:: state	ohio / Ohio	
+<p> <strong> Wood County </strong> is a <a> county </a> located in the <a> state </a> of <a> Ohio </a> , <a> United States </a> .
+
+1305	FALSE	Wood County, Ohio:: area_land_sq_mi	617 / 678	
+<p> As of the <a> census </a> of 2000, there were 121,065 people, 45,172 households, and 29,678 families residing in the county.
+
+1306	TRUE	Wood County, Ohio:: area_water_sq_mi	3 / 34.	
+<p> There were 45,172 households out of which 32.00% had children under the age of 18 living with them, 53.90% were <a> married couples </a> living together, 8.50% had a female householder with no husband present, and 34.30% were non-families.
+
+1308	TRUE	Wood County, Ohio:: density_km2	76 / (76/	
+The <a> population density </a> was 196 people per square mile (76/km&#x00b2;).
+
+1311	TRUE	Wood County, Ohio:: area_water_km2	8 / 34.	
+<p> There were 45,172 households out of which 32.00% had children under the age of 18 living with them, 53.90% were <a> married couples </a> living together, 8.50% had a female householder with no husband present, and 34.30% were non-families.
+
+1312	TRUE	Wood County, Ohio:: density_sq_mi	196 / (76/	
+The <a> population density </a> was 196 people per square mile (76/km&#x00b2;).
+
+1314	TRUE	Williams County, Ohio:: state	ohio / Ohio	
+<p> <strong> Williams County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Ohio </a> .
+
+1315	TRUE	Williams County, Ohio:: area_total_sq_mi	423 / 422&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 423&nbsp; <a> square mile </a> s (1,096&nbsp; <a> km&#x00b2; </a> ).422&nbsp;square
+
+1317	FALSE	Williams County, Ohio:: area_land_sq_mi	422 / 664	
+<p> As of the <a> census </a> of 2000, there were 39,188 people, 15,105 households, and 10,664 families residing in the county.
+
+1318	TRUE	Williams County, Ohio:: area_water_sq_mi	1 / 29.	
+<p> There were 15,105 households out of which 33.30% had children under the age of 18 living with them, 57.50% were <a> married couples </a> living together, 9.00% had a female householder with no husband present, and 29.40% were non-families.
+
+1319	TRUE	Williams County, Ohio:: density_km2	36 / (36/	
+The <a> population density </a> was 93 people per square mile (36/km&#x00b2;).
+
+1323	TRUE	Williams County, Ohio:: area_water_km2	3 / 29.	
+<p> There were 15,105 households out of which 33.30% had children under the age of 18 living with them, 57.50% were <a> married couples </a> living together, 9.00% had a female householder with no husband present, and 29.40% were non-families.
+
+1324	TRUE	Williams County, Ohio:: density_sq_mi	93 / (36/	
+The <a> population density </a> was 93 people per square mile (36/km&#x00b2;).
+
+1326	TRUE	Wayne County, Ohio:: state	ohio / Ohio	
+<p> <strong> Wayne County </strong> is a <a> county </a> located in the <a> state </a> of <a> Ohio </a> , <a> United States </a> , and is <a> named </a> for General <a> &quot;Mad&quot; Anthony Wayne </a> .
+
+1327	FALSE	Wayne County, Ohio:: area_total_sq_mi	556 / 201	
+The <a> population density </a> was 201 people per square mile (78/km&#x00b2;).
+
+1328	FALSE	Wayne County, Ohio:: area_land_sq_mi	555 / 484	
+<p> As of the <a> census </a> of 2000, there were 111,564 people, 40,445 households, and 29,484 families residing in the county.
+
+1330	TRUE	Wayne County, Ohio:: area_water_sq_mi	1 / 27.	
+<p> There were 40,445 households out of which 35.00% had children under the age of 18 living with them, 60.80% were <a> married couples </a> living together, 8.70% had a female householder with no husband present, and 27.10% were non-families.
+
+1331	TRUE	Wayne County, Ohio:: density_km2	78 / (78/	
+The <a> population density </a> was 201 people per square mile (78/km&#x00b2;).
+
+1336	TRUE	Wayne County, Ohio:: area_water_km2	2 / 27.	
+<p> There were 40,445 households out of which 35.00% had children under the age of 18 living with them, 60.80% were <a> married couples </a> living together, 8.70% had a female householder with no husband present, and 27.10% were non-families.
+
+1337	TRUE	Wayne County, Ohio:: county	wayne county / General <a> &	
+<p> <strong> Wayne County </strong> is a <a> county </a> located in the <a> state </a> of <a> Ohio </a> , <a> United States </a> , and is <a> named </a> for General <a> &quot;Mad&quot; Anthony Wayne </a> .
+
+1338	TRUE	Wayne County, Ohio:: density_sq_mi	201 / (78/	
+The <a> population density </a> was 201 people per square mile (78/km&#x00b2;).
+
+1339	TRUE	Washington County, Ohio:: state	ohio / Ohio	
+<p> <strong> Washington County </strong> is a <a> county </a> located in the <a> state </a> of <a> Ohio </a> .
+
+1340	FALSE	Washington County, Ohio:: area_total_sq_mi	640 / 100	
+The <a> population density </a> was 100 people per square mile (38/km&#x00b2;).
+
+1341	FALSE	Washington County, Ohio:: area_land_sq_mi	635 / 671	
+<p> As of the <a> census </a> of 2000, there were 63,251 people, 25,137 households, and 17,671 families residing in the county.
+
+1342	TRUE	Washington County, Ohio:: area_water_sq_mi	5 / 29.	
+<p> There were 25,137 households out of which 30.90% had children under the age of 18 living with them, 57.90% were <a> married couples </a> living together, 9.10% had a female householder with no husband present, and 29.70% were non-families.
+
+1346	TRUE	Washington County, Ohio:: area_water_km2	13 / 29.	
+<p> There were 25,137 households out of which 30.90% had children under the age of 18 living with them, 57.90% were <a> married couples </a> living together, 9.10% had a female householder with no husband present, and 29.70% were non-families.
+
+1347	TRUE	Washington County, Ohio:: density_sq_mi	100 / (38/	
+The <a> population density </a> was 100 people per square mile (38/km&#x00b2;).
+
+1349	TRUE	Washington County, Ohio:: density_km2	38 / (38/	
+The <a> population density </a> was 100 people per square mile (38/km&#x00b2;).
+
+1351	TRUE	Warren County, Ohio:: state	ohio / Ohio	
+<p> <strong> Warren County </strong> is a <a> county </a> located in the <a> state </a> of <a> Ohio </a> , <a> United States </a> .
+
+1352	FALSE	Warren County, Ohio:: area_total_sq_mi	407 / (1	
+The Ohio Constitution requires that every county have an area of at least four hundred square miles (1,036&nbsp;km&#x00b2;).
+
+1353	FALSE	Warren County, Ohio:: area_land_sq_mi	400 / 261	
+<p> As of the <a> census </a> of 2000, there were 158,383 people, 55,966 households, and 43,261 families residing in the county.
+
+1354	TRUE	Warren County, Ohio:: area_water_sq_mi	8 / 22.	
+<p> There were 55,966 households out of which 39.70% had children under the age of 18 living with them, 66.20% were <a> married couples </a> living together, 8.00% had a female householder with no husband present, and 22.70% were non-families.
+
+1356	TRUE	Warren County, Ohio:: density_km2	153 / (153/	
+The <a> population density </a> was 396 people per square mile (153/km&#x00b2;).
+
+1360	FALSE	Warren County, Ohio:: area_water_km2	19 / 22.	
+<p> There were 55,966 households out of which 39.70% had children under the age of 18 living with them, 66.20% were <a> married couples </a> living together, 8.00% had a female householder with no husband present, and 22.70% were non-families.
+
+1361	TRUE	Warren County, Ohio:: density_sq_mi	396 / (153/	
+The <a> population density </a> was 396 people per square mile (153/km&#x00b2;).
+
+1362	TRUE	Vinton County, Ohio:: state	ohio / Ohio	
+<p> <strong> Vinton County </strong> is a <a> county </a> located in the <a> state </a> of <a> Ohio </a> , <a> United States </a> .
+
+1363	FALSE	Vinton County, Ohio:: area_land_sq_mi	414 / 551	
+<p> As of the <a> census </a> of 2000, there were 12,806 people, 4,892 households, and 3,551 families residing in the county.
+
+1364	TRUE	Vinton County, Ohio:: area_water_sq_mi	1 / 27.	
+<p> There were 4,892 households out of which 34.00% had children under the age of 18 living with them, 57.20% were <a> married couples </a> living together, 10.20% had a female householder with no husband present, and 27.40% were non-families.
+
+1365	TRUE	Vinton County, Ohio:: density_km2	12 / (12/	
+The <a> population density </a> was 31 people per square mile (12/km&#x00b2;).
+
+1368	TRUE	Vinton County, Ohio:: area_water_km2	2 / 27.	
+<p> There were 4,892 households out of which 34.00% had children under the age of 18 living with them, 57.20% were <a> married couples </a> living together, 10.20% had a female householder with no husband present, and 27.40% were non-families.
+
+1369	TRUE	Vinton County, Ohio:: density_sq_mi	31 / (12/	
+The <a> population density </a> was 31 people per square mile (12/km&#x00b2;).
+
+1370	TRUE	Vinton County, Ohio:: area_total_sq_mi	415 / 415&	
+<p> According to the <a> United States Census Bureau </a> , the county has a total area of 415&nbsp;square miles (1,075&nbsp;km&#x00b2;). 414&nbsp;square miles (1,072&nbsp;km&#x00b2;) of it is land and 1&nbsp;square miles (2&nbsp;km&#x00b2;) of it (0.21%) is water. </p>
+
+1372	TRUE	Seneca County, Ohio:: state	ohio / Ohio	
+<p> <strong> Seneca County </strong> is a <a> county </a> located in the <a> state </a> of <a> Ohio </a> , <a> United States </a> .
+
+1374	FALSE	Seneca County, Ohio:: area_water_sq_mi	2 / a>.	
+<p> Despite the presence of the <a> Great Lakes </a> which make for a somewhat milder <a> climate </a> in the region, Seneca County has a rather <a> continental climate </a> , namely after removal of the forests which once covered most of it upset the <a> microclimate </a> .
+
+1381	FALSE	Scioto County, Ohio:: county	scioto county / Green (D)	
+<p> <strong> Auditor </strong> : David L. Green (D) </p>
+
+1382	FALSE	Scioto County, Ohio:: state	ohio / (D)	
+<p> <strong> Auditor </strong> : David L. Green (D) </p>
+
+1383	TRUE	Scioto County, Ohio:: area_total_sq_mi	616 / 616&	
+<p> According to the <a> United States Census Bureau </a> , the county has a total area of 616&nbsp;square miles (1,596&nbsp;km&#x00b2;). 612&nbsp;square miles (1,586&nbsp;km&#x00b2;) of it is land and 4&nbsp;square miles (10&nbsp;km&#x00b2;) of it (0.62%) is water.
+
+1384	FALSE	Scioto County, Ohio:: area_land_sq_mi	612 / 362	
+<p> As of the <a> census </a> of 2000, there were 79,195 people, 30,871 households, and 21,362 families residing in the county.
+
+1385	FALSE	Scioto County, Ohio:: area_water_sq_mi	4 / 30.	
+<p> There were 30,871 households out of which 31.80% had children under the age of 18 living with them, 52.30% were <a> married couples </a> living together, 13.10% had a female householder with no husband present, and 30.80% were non-families.
+
+1387	TRUE	Scioto County, Ohio:: density_km2	50 / (50/	
+The <a> population density </a> was 129 people per square mile (50/km&#x00b2;).
+
+1392	TRUE	Scioto County, Ohio:: area_water_km2	10 / 30.	
+<p> There were 30,871 households out of which 31.80% had children under the age of 18 living with them, 52.30% were <a> married couples </a> living together, 13.10% had a female householder with no husband present, and 30.80% were non-families.
+
+1393	TRUE	Scioto County, Ohio:: density_sq_mi	129 / (50/	
+The <a> population density </a> was 129 people per square mile (50/km&#x00b2;).
+
+1394	TRUE	Sandusky County, Ohio:: state	ohio / Ohio	
+<p> <strong> Sandusky County </strong> is a <a> county </a> in the <a> U.S. state </a> of <a> Ohio </a> .
+
+1395	FALSE	Sandusky County, Ohio:: area_total_sq_mi	418 / 151	
+The <a> population density </a> was 151 people per square mile (58/km&#x00b2;).
+
+1396	FALSE	Sandusky County, Ohio:: area_water_sq_mi	9 / 28.	
+<p> There were 23,717 households out of which 33.30% had children under the age of 18 living with them, 56.50% were <a> married couples </a> living together, 10.50% had a female householder with no husband present, and 28.50% were non-families.
+
+1398	TRUE	Sandusky County, Ohio:: density_km2	58 / (58/	
+The <a> population density </a> was 151 people per square mile (58/km&#x00b2;).
+
+1402	FALSE	Sandusky County, Ohio:: area_water_km2	22 / 28.	
+<p> There were 23,717 households out of which 33.30% had children under the age of 18 living with them, 56.50% were <a> married couples </a> living together, 10.50% had a female householder with no husband present, and 28.50% were non-families.
+
+1403	TRUE	Sandusky County, Ohio:: density_sq_mi	151 / (58/	
+The <a> population density </a> was 151 people per square mile (58/km&#x00b2;).
+
+1404	FALSE	Sandusky County, Ohio:: area_land_sq_mi	409 / 957	
+<p> As of the <a> census </a> of 2000, there were 61,792 people, 23,717 households, and 16,957 families residing in the county.
+
+1406	TRUE	Richland County, Ohio:: state	ohio / Ohio	
+<p> <strong> Richland County </strong> is a <a> county </a> located in the <a> state </a> of <a> Ohio </a> , <a> United States </a> .
+
+1407	TRUE	Richland County, Ohio:: area_total_sq_mi	500 / 497&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 500&nbsp; <a> square mile </a> s (1,296&nbsp; <a> km&#x00b2; </a> ).497&nbsp;square
+
+1408	FALSE	Richland County, Ohio:: area_land_sq_mi	497 / 277	
+<p> As of the <a> census </a> of 2000, there were 128,852 people, 49,534 households, and 34,277 families residing in the county.
+
+1409	TRUE	Richland County, Ohio:: area_water_sq_mi	3 / 30.	
+<p> There were 49,534 households out of which 30.90% had children under the age of 18 living with them, 54.30% were <a> married couples </a> living together, 11.40% had a female householder with no husband present, and 30.80% were non-families.
+
+1411	TRUE	Richland County, Ohio:: density_km2	100 / (100/	
+The <a> population density </a> was 259 people per square mile (100/km&#x00b2;).
+
+1416	TRUE	Richland County, Ohio:: area_water_km2	9 / 30.	
+<p> There were 49,534 households out of which 30.90% had children under the age of 18 living with them, 54.30% were <a> married couples </a> living together, 11.40% had a female householder with no husband present, and 30.80% were non-families.
+
+1417	TRUE	Richland County, Ohio:: density_sq_mi	259 / (100/	
+The <a> population density </a> was 259 people per square mile (100/km&#x00b2;).
+
+1418	TRUE	Preble County, Ohio:: state	ohio / Ohio	
+<p> <strong> Preble County </strong> is a <a> county </a> located in the <a> state </a> of <a> Ohio </a> , <a> United States </a> .
+
+1419	FALSE	Preble County, Ohio:: area_total_sq_mi	426 / 100	
+The <a> population density </a> was 100 people per square mile (38/km&#x00b2;).
+
+1420	TRUE	Preble County, Ohio:: area_water_sq_mi	2 / 24.	
+<p> There were 16,001 households out of which 34.20% had children under the age of 18 living with them, 63.50% were <a> married couples </a> living together, 8.50% had a female householder with no husband present, and 24.10% were non-families.
+
+1422	TRUE	Preble County, Ohio:: density_km2	38 / (38/	
+The <a> population density </a> was 100 people per square mile (38/km&#x00b2;).
+
+1427	TRUE	Preble County, Ohio:: area_water_km2	4 / 24.	
+<p> There were 16,001 households out of which 34.20% had children under the age of 18 living with them, 63.50% were <a> married couples </a> living together, 8.50% had a female householder with no husband present, and 24.10% were non-families.
+
+1428	TRUE	Preble County, Ohio:: density_sq_mi	100 / (38/	
+The <a> population density </a> was 100 people per square mile (38/km&#x00b2;).
+
+1429	TRUE	Preble County, Ohio:: area_land_sq_mi	425 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 426&nbsp;square miles (1,104&nbsp;km&#x00b2;).425&nbsp;square miles (1,100&nbsp;km&#x00b2;) of it is land and 2&nbsp;square miles (4&nbsp;km&#x00b2;) of it (0.36%) is water. </p>
+
+1430	TRUE	Portage County, Ohio:: state	ohio / Ohio	
+<p> <strong> Portage County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Ohio </a> .
+
+1431	FALSE	Portage County, Ohio:: area_total_sq_mi	507 / 309	
+The <a> population density </a> was 309 people per square mile (119/km&#x00b2;).
+
+1432	FALSE	Portage County, Ohio:: area_land_sq_mi	492 / 175	
+<p> As of the <a> census </a> of 2000, there were 152,061 people, 56,449 households, and 39,175 families residing in the county.
+
+1433	FALSE	Portage County, Ohio:: area_water_sq_mi	15 / 30.	
+<p> There were 56,449 households out of which 32.30% had children under the age of 18 living with them, 55.60% were <a> married couples </a> living together, 10.10% had a female householder with no husband present, and 30.60% were non-families.
+
+1435	TRUE	Portage County, Ohio:: density_km2	119 / (119/	
+The <a> population density </a> was 309 people per square mile (119/km&#x00b2;).
+
+1440	FALSE	Portage County, Ohio:: area_water_km2	38 / 30.	
+<p> There were 56,449 households out of which 32.30% had children under the age of 18 living with them, 55.60% were <a> married couples </a> living together, 10.10% had a female householder with no husband present, and 30.60% were non-families.
+
+1441	TRUE	Portage County, Ohio:: density_sq_mi	309 / (119/	
+The <a> population density </a> was 309 people per square mile (119/km&#x00b2;).
+
+1442	TRUE	Pike County, Ohio:: state	ohio / Ohio	
+<p> <strong> Pike County </strong> is a <a> county </a> located in the Appalachian region of the <a> U.S. state </a> of <a> Ohio </a> .
+
+1443	FALSE	Pike County, Ohio:: area_total_sq_mi	444 / 63	
+The <a> population density </a> was 63 people per square mile (24/km&#x00b2;).
+
+1444	TRUE	Pike County, Ohio:: area_land_sq_mi	441 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 444&nbsp;square miles (1,150&nbsp;km&#x00b2;).441&nbsp;square miles (1,143&nbsp;km&#x00b2;) of it is land and 2&nbsp;square miles (6&nbsp;km&#x00b2;) of it (0.55%) is water. </p>
+
+1446	TRUE	Pike County, Ohio:: density_km2	24 / (24/	
+The <a> population density </a> was 63 people per square mile (24/km&#x00b2;).
+
+1451	TRUE	Pike County, Ohio:: area_water_km2	6 / 26.	
+<p> There were 10,444 households out of which 35.50% had children under the age of 18 living with them, 56.80% were <a> married couples </a> living together, 11.90% had a female householder with no husband present, and 26.60% were non-families.
+
+1452	TRUE	Pike County, Ohio:: density_sq_mi	63 / (24/	
+The <a> population density </a> was 63 people per square mile (24/km&#x00b2;).
+
+1453	TRUE	Pike County, Ohio:: area_water_sq_mi	3 / 26.	
+<p> There were 10,444 households out of which 35.50% had children under the age of 18 living with them, 56.80% were <a> married couples </a> living together, 11.90% had a female householder with no husband present, and 26.60% were non-families.
+
+1454	TRUE	Pickaway County, Ohio:: state	ohio / Ohio	
+<p> <strong> Pickaway County </strong> is a <a> county </a> located in the <a> state </a> of <a> Ohio </a> , <a> United States </a> .
+
+1455	FALSE	Pickaway County, Ohio:: area_total_sq_mi	507 / 105	
+The <a> population density </a> was 105 people per square mile (41/km&#x00b2;).
+
+1456	FALSE	Pickaway County, Ohio:: area_land_sq_mi	502 / 287	
+<p> As of the <a> census </a> of 2000, there were 52,727 people, 17,599 households, and 13,287 families residing in the county.
+
+1457	TRUE	Pickaway County, Ohio:: area_water_sq_mi	5 / 24.	
+<p> There were 17,599 households out of which 35.40% had children under the age of 18 living with them, 61.50% were <a> married couples </a> living together, 9.80% had a female householder with no husband present, and 24.50% were non-families.
+
+1459	TRUE	Pickaway County, Ohio:: density_km2	41 / (41/	
+The <a> population density </a> was 105 people per square mile (41/km&#x00b2;).
+
+1464	FALSE	Pickaway County, Ohio:: area_water_km2	13 / 24.	
+<p> There were 17,599 households out of which 35.40% had children under the age of 18 living with them, 61.50% were <a> married couples </a> living together, 9.80% had a female householder with no husband present, and 24.50% were non-families.
+
+1465	TRUE	Pickaway County, Ohio:: density_sq_mi	105 / (41/	
+The <a> population density </a> was 105 people per square mile (41/km&#x00b2;).
+
+1466	FALSE	Perry County, Ohio:: area_total_sq_mi	413 / 83	
+The <a> population density </a> was 83 people per square mile (32/km&#x00b2;).
+
+1467	TRUE	Perry County, Ohio:: state	ohio / Ohio	
+<p> <strong> Perry County </strong> is a <a> county </a> located in the <a> state </a> of <a> Ohio </a> , <a> United States </a> .
+
+1468	FALSE	Perry County, Ohio:: area_land_sq_mi	410 / 350	
+<p> As of the <a> census </a> of 2000, there were 34,078 people, 12,500 households, and 9,350 families residing in the county.
+
+1469	TRUE	Perry County, Ohio:: area_water_sq_mi	3 / 25.	
+<p> There were 12,500 households out of which 36.7% had children under the age of 18 living with them, 60.1% were <a> married couples </a> living together, 9.8% had a female householder with no husband present, and 25.2% were non-families.
+
+1471	TRUE	Perry County, Ohio:: density_km2	32 / (32/	
+The <a> population density </a> was 83 people per square mile (32/km&#x00b2;).
+
+1475	TRUE	Perry County, Ohio:: area_water_km2	7 / 25.	
+<p> There were 12,500 households out of which 36.7% had children under the age of 18 living with them, 60.1% were <a> married couples </a> living together, 9.8% had a female householder with no husband present, and 25.2% were non-families.
+
+1476	TRUE	Perry County, Ohio:: density_sq_mi	83 / (32/	
+The <a> population density </a> was 83 people per square mile (32/km&#x00b2;).
+
+1477	TRUE	Paulding County, Ohio:: state	ohio / Ohio	
+<p> <strong> Paulding County </strong> is a <a> county </a> located in the <a> state </a> of <a> Ohio </a> , <a> United States </a> .
+
+1478	FALSE	Paulding County, Ohio:: area_land_sq_mi	416 / 689	
+<p> As of the <a> census </a> of 2000, there were 20,293 people, 7,773 households, and 5,689 families residing in the county.
+
+1479	TRUE	Paulding County, Ohio:: area_water_sq_mi	3 / 26.	
+<p> There were 7,773 households out of which 34.10% had children under the age of 18 living with them, 60.90% were <a> married couples </a> living together, 8.10% had a female householder with no husband present, and 26.80% were non-families.
+
+1481	TRUE	Paulding County, Ohio:: density_km2	19 / (19/	
+The <a> population density </a> was 49 people per square mile (19/km&#x00b2;).
+
+1485	TRUE	Paulding County, Ohio:: area_water_km2	7 / 26.	
+<p> There were 7,773 households out of which 34.10% had children under the age of 18 living with them, 60.90% were <a> married couples </a> living together, 8.10% had a female householder with no husband present, and 26.80% were non-families.
+
+1486	TRUE	Paulding County, Ohio:: density_sq_mi	49 / (19/	
+The <a> population density </a> was 49 people per square mile (19/km&#x00b2;).
+
+1487	TRUE	Paulding County, Ohio:: area_total_sq_mi	419 / 419&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 419&nbsp;square miles (1,085&nbsp;km&#x00b2;).416&nbsp;square miles (1,078&nbsp;km&#x00b2;) of it is land and 3&nbsp;square miles (7&nbsp;km&#x00b2;) of it is water.
+
+1489	TRUE	Noble County, Ohio:: state	ohio / Ohio	
+<p> <strong> Noble County </strong> is a <a> county </a> located in the <a> state </a> of <a> Ohio </a> .
+
+1490	FALSE	Noble County, Ohio:: area_total_sq_mi	405 / 35	
+The <a> population density </a> was 35 people per square mile (14/km&#x00b2;).
+
+1491	FALSE	Noble County, Ohio:: area_land_sq_mi	399 / 318	
+<p> As of the <a> census </a> of 2000, there were 14,058 people, 4,546 households, and 3,318 families residing in the county.
+
+1492	TRUE	Noble County, Ohio:: area_water_sq_mi	6 / 27.	
+<p> There were 4,546 households out of which 33.50% had children under the age of 18 living with them, 61.50% were <a> married couples </a> living together, 7.70% had a female householder with no husband present, and 27.00% were non-families.
+
+1497	FALSE	Noble County, Ohio:: area_water_km2	14 / 27.	
+<p> There were 4,546 households out of which 33.50% had children under the age of 18 living with them, 61.50% were <a> married couples </a> living together, 7.70% had a female householder with no husband present, and 27.00% were non-families.
+
+1498	TRUE	Noble County, Ohio:: density_sq_mi	35 / (14/	
+The <a> population density </a> was 35 people per square mile (14/km&#x00b2;).
+
+1499	TRUE	Noble County, Ohio:: density_km2	14 / (14/	
+The <a> population density </a> was 35 people per square mile (14/km&#x00b2;).
+
+1501	FALSE	Muskingum County, Ohio:: area_total_sq_mi	673 / 127	
+The <a> population density </a> was 127 people per square mile (49/km&#x00b2;).
+
+1502	FALSE	Muskingum County, Ohio:: area_land_sq_mi	665 / 860	
+<p> As of the <a> census </a> of 2000, there were 84,585 people, 32,518 households, and 22,860 families residing in the county.
+
+1503	TRUE	Muskingum County, Ohio:: area_water_sq_mi	8 / 29.	
+<p> There were 32,518 households out of which 33.30% had children under the age of 18 living with them, 54.30% were <a> married couples </a> living together, 12.00% had a female householder with no husband present, and 29.70% were non-families.
+
+1505	TRUE	Muskingum County, Ohio:: density_km2	49 / (49/	
+The <a> population density </a> was 127 people per square mile (49/km&#x00b2;).
+
+1509	FALSE	Muskingum County, Ohio:: area_water_km2	21 / 29.	
+<p> There were 32,518 households out of which 33.30% had children under the age of 18 living with them, 54.30% were <a> married couples </a> living together, 12.00% had a female householder with no husband present, and 29.70% were non-families.
+
+1510	TRUE	Muskingum County, Ohio:: density_sq_mi	127 / (49/	
+The <a> population density </a> was 127 people per square mile (49/km&#x00b2;).
+
+1511	TRUE	Muskingum County, Ohio:: state	ohio / Ohio	
+<p> <strong> Muskingum County </strong> is a <a> county </a> located in the <a> state </a> of <a> Ohio </a> , <a> United States </a> .
+
+1513	TRUE	Morrow County, Ohio:: state	ohio / Ohio	
+<p> <strong> Morrow County </strong> is a <a> county </a> located in the <a> state </a> of <a> Ohio </a> , <a> United States </a> .
+
+1514	FALSE	Morrow County, Ohio:: area_total_sq_mi	407 / 78	
+The <a> population density </a> was 78 people per square mile (30/km&#x00b2;).
+
+1515	FALSE	Morrow County, Ohio:: area_land_sq_mi	406 / 854	
+<p> As of the <a> census </a> of 2000, there were 31,628 people, 11,499 households, and 8,854 families residing in the county.
+
+1516	TRUE	Morrow County, Ohio:: area_water_sq_mi	1 / 23.	
+<p> There were 11,499 households out of which 35.60% had children under the age of 18 living with them, 64.60% were <a> married couples </a> living together, 8.10% had a female householder with no husband present, and 23.00% were non-families.
+
+1517	TRUE	Morrow County, Ohio:: density_km2	30 / (30/	
+The <a> population density </a> was 78 people per square mile (30/km&#x00b2;).
+
+1520	TRUE	Morrow County, Ohio:: area_water_km2	3 / 23.	
+<p> There were 11,499 households out of which 35.60% had children under the age of 18 living with them, 64.60% were <a> married couples </a> living together, 8.10% had a female householder with no husband present, and 23.00% were non-families.
+
+1521	TRUE	Morrow County, Ohio:: density_sq_mi	78 / (30/	
+The <a> population density </a> was 78 people per square mile (30/km&#x00b2;).
+
+1524	TRUE	Morgan County, Ohio:: state	ohio / Ohio	
+<p> <strong> Morgan County </strong> is a <a> county </a> located in the <a> state </a> of <a> Ohio </a> .
+
+1525	FALSE	Morgan County, Ohio:: area_total_sq_mi	422 / 36	
+The <a> population density </a> was 36 people per square mile (14/km&#x00b2;).
+
+1526	FALSE	Morgan County, Ohio:: area_land_sq_mi	418 / 176	
+<p> As of the <a> census </a> of 2000, there were 14,897 people, 5,890 households, and 4,176 families residing in the county.
+
+1529	FALSE	Morgan County, Ohio:: area_water_km2	11 / 29.	
+<p> There were 5,890 households out of which 30.90% had children under the age of 18 living with them, 56.90% were <a> married couples </a> living together, 9.90% had a female householder with no husband present, and 29.10% were non-families.
+
+1530	TRUE	Morgan County, Ohio:: density_sq_mi	36 / (14/	
+The <a> population density </a> was 36 people per square mile (14/km&#x00b2;).
+
+1531	TRUE	Morgan County, Ohio:: density_km2	14 / (14/	
+The <a> population density </a> was 36 people per square mile (14/km&#x00b2;).
+
+1532	FALSE	Morgan County, Ohio:: area_water_sq_mi	4 / 29.	
+<p> There were 5,890 households out of which 30.90% had children under the age of 18 living with them, 56.90% were <a> married couples </a> living together, 9.90% had a female householder with no husband present, and 29.10% were non-families.
+
+1535	TRUE	Monroe County, Ohio:: state	ohio / Ohio	
+<p> <strong> Monroe County </strong> is a <a> county </a> located in the <a> state </a> of <a> Ohio </a> .
+
+1536	FALSE	Monroe County, Ohio:: area_total_sq_mi	457 / 33	
+The <a> population density </a> was 33 people per square mile (13/km&#x00b2;).
+
+1537	TRUE	Monroe County, Ohio:: area_land_sq_mi	456 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 457&nbsp;square miles (1,185&nbsp;km&#x00b2;).456&nbsp;square miles (1,180&nbsp;km&#x00b2;) of it is land and 2&nbsp;square miles (5&nbsp;km&#x00b2;) of it (0.42%) is water. </p>
+
+1538	TRUE	Monroe County, Ohio:: area_water_sq_mi	2 / 26.	
+<p> There were 6,021 households out of which 29.50% had children under the age of 18 living with them, 61.70% were <a> married couples </a> living together, 8.10% had a female householder with no husband present, and 26.70% were non-families.
+
+1540	TRUE	Monroe County, Ohio:: density_km2	13 / (13/	
+The <a> population density </a> was 33 people per square mile (13/km&#x00b2;).
+
+1543	TRUE	Monroe County, Ohio:: density_sq_mi	33 / (13/	
+The <a> population density </a> was 33 people per square mile (13/km&#x00b2;).
+
+1546	TRUE	Monroe County, Ohio:: area_water_km2	5 / 26.	
+<p> There were 6,021 households out of which 29.50% had children under the age of 18 living with them, 61.70% were <a> married couples </a> living together, 8.10% had a female householder with no husband present, and 26.70% were non-families.
+
+1547	TRUE	Miami County, Ohio:: state	ohio / Ohio	
+<p> <strong> Miami County </strong> is a <a> county </a> located in the <a> state </a> of <a> Ohio </a> , <a> United States </a> .
+
+1548	FALSE	Miami County, Ohio:: area_total_sq_mi	409 / 243	
+The <a> population density </a> was 243 people per square mile (94/km&#x00b2;).
+
+1549	TRUE	Miami County, Ohio:: area_land_sq_mi	407 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 409&nbsp;square miles (1,060&nbsp;km&#x00b2;).407&nbsp;square miles (1,054&nbsp;km&#x00b2;) of it is land and 2&nbsp;square miles (6&nbsp;km&#x00b2;) of it (0.53%) is water. </p>
+
+1550	TRUE	Miami County, Ohio:: area_water_sq_mi	2 / 27.	
+<p> There were 38,437 households out of which 33.30% had children under the age of 18 living with them, 59.50% were <a> married couples </a> living together, 9.70% had a female householder with no husband present, and 27.30% were non-families.
+
+1552	TRUE	Miami County, Ohio:: density_km2	94 / (94/	
+The <a> population density </a> was 243 people per square mile (94/km&#x00b2;).
+
+1557	FALSE	Miami County, Ohio:: area_water_km2	6 / 27.	
+<p> There were 38,437 households out of which 33.30% had children under the age of 18 living with them, 59.50% were <a> married couples </a> living together, 9.70% had a female householder with no husband present, and 27.30% were non-families.
+
+1558	TRUE	Miami County, Ohio:: density_sq_mi	243 / (94/	
+The <a> population density </a> was 243 people per square mile (94/km&#x00b2;).
+
+1559	FALSE	Mercer County, Ohio:: area_total_sq_mi	473 / 88	
+The <a> population density </a> was 88 people per square mile (34/km&#x00b2;).
+
+1560	FALSE	Mercer County, Ohio:: area_land_sq_mi	463 / 022	
+<p> As of the <a> census </a> of 2000, there were 40,924 people, 14,756 households, and 11,022 families residing in the county.
+
+1561	TRUE	Mercer County, Ohio:: area_water_sq_mi	10 / 25.	
+<p> There were 14,756 households out of which 37.10% had children under the age of 18 living with them, 64.10% were <a> married couples </a> living together, 7.40% had a female householder with no husband present, and 25.30% were non-families.
+
+1562	TRUE	Mercer County, Ohio:: density_km2	34 / (34/	
+The <a> population density </a> was 88 people per square mile (34/km&#x00b2;).
+
+1566	FALSE	Mercer County, Ohio:: area_water_km2	26 / 25.	
+<p> There were 14,756 households out of which 37.10% had children under the age of 18 living with them, 64.10% were <a> married couples </a> living together, 7.40% had a female householder with no husband present, and 25.30% were non-families.
+
+1567	TRUE	Mercer County, Ohio:: density_sq_mi	88 / (34/	
+The <a> population density </a> was 88 people per square mile (34/km&#x00b2;).
+
+1568	TRUE	Mercer County, Ohio:: state	ohio / Ohio	
+<p> <strong> Mercer County </strong> is a <a> county </a> located in the <a> state </a> of <a> Ohio </a> , <a> United States </a> .
+
+1569	TRUE	Meigs County, Ohio:: state	ohio / Ohio	
+<p> <strong> Meigs County </strong> is a <a> county </a> located in the <a> state </a> of <a> Ohio </a> , <a> United States </a> .
+
+1570	FALSE	Meigs County, Ohio:: area_total_sq_mi	432 / 54	
+The <a> population density </a> was 54 people per square mile (21/km&#x00b2;).
+
+1571	FALSE	Meigs County, Ohio:: area_land_sq_mi	429 / 574	
+<p> As of the <a> census </a> of 2000, there were 23,072 people, 9,234 households, and 6,574 families residing in the county.
+
+1572	TRUE	Meigs County, Ohio:: area_water_sq_mi	3 / 28.	
+<p> There were 9,234 households out of which 31.20% had children under the age of 18 living with them, 56.90% were <a> married couples </a> living together, 10.00% had a female householder with no husband present, and 28.80% were non-families.
+
+1574	TRUE	Meigs County, Ohio:: density_km2	21 / (21/	
+The <a> population density </a> was 54 people per square mile (21/km&#x00b2;).
+
+1579	TRUE	Meigs County, Ohio:: density_sq_mi	54 / (21/	
+The <a> population density </a> was 54 people per square mile (21/km&#x00b2;).
+
+1580	TRUE	Meigs County, Ohio:: area_water_km2	8 / 28.	
+<p> There were 9,234 households out of which 31.20% had children under the age of 18 living with them, 56.90% were <a> married couples </a> living together, 10.00% had a female householder with no husband present, and 28.80% were non-families.
+
+1653	TRUE	Logan County, Ohio:: state	ohio / Ohio	
+<p> <strong> Logan County </strong> is a <a> county </a> located in the <a> state </a> of <a> Ohio </a> , <a> United States </a> .
+
+1654	FALSE	Logan County, Ohio:: area_total_sq_mi	467 / 100	
+The <a> population density </a> was 100 people per square mile (39/km&#x00b2;).
+
+1655	TRUE	Logan County, Ohio:: area_land_sq_mi	458 / (1.	
+According to the <a> U.S. Census Bureau </a> , the county has a total area of 467&nbsp;square miles (1,209&nbsp;km&#x00b2;).458&nbsp;square miles (1,187&nbsp;km&#x00b2;) of it is land and 8&nbsp;square miles (22&nbsp;km&#x00b2;) of it (1.79%) is water.
+
+1656	TRUE	Logan County, Ohio:: area_water_sq_mi	8 / 29.	
+<p> There were 17,956 households out of which 33.30% had children under the age of 18 living with them, 57.00% were <a> married couples </a> living together, 9.50% had a female householder with no husband present, and 29.10% were non-families.
+
+1658	TRUE	Logan County, Ohio:: density_km2	39 / (39/	
+The <a> population density </a> was 100 people per square mile (39/km&#x00b2;).
+
+1663	FALSE	Logan County, Ohio:: area_water_km2	22 / 29.	
+<p> There were 17,956 households out of which 33.30% had children under the age of 18 living with them, 57.00% were <a> married couples </a> living together, 9.50% had a female householder with no husband present, and 29.10% were non-families.
+
+1664	TRUE	Logan County, Ohio:: density_sq_mi	100 / (39/	
+The <a> population density </a> was 100 people per square mile (39/km&#x00b2;).
+
+1700	TRUE	Knox County, Ohio:: state	ohio / Ohio	
+<p> <strong> Knox County </strong> is a <a> county </a> located in the <a> state </a> of <a> Ohio </a> , <a> United States </a> .
+
+1701	FALSE	Knox County, Ohio:: area_total_sq_mi	530 / 103	
+The <a> population density </a> was 103 people per square mile (40/km&#x00b2;).
+
+1702	TRUE	Knox County, Ohio:: area_land_sq_mi	527 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 530&nbsp;square miles (1,371&nbsp;km&#x00b2;).527&nbsp;square miles (1,365&nbsp;km&#x00b2;) of it is land and 2&nbsp;square miles (6&nbsp;km&#x00b2;) of it (0.46%) is water.
+
+1703	TRUE	Knox County, Ohio:: area_water_sq_mi	2 / 28.	
+<p> There were 19,975 households out of which 32.50% had children under the age of 18 living with them, 59.60% were <a> married couples </a> living together, 8.50% had a female householder with no husband present, and 28.10% were non-families.
+
+1705	TRUE	Knox County, Ohio:: density_km2	40 / (40/	
+The <a> population density </a> was 103 people per square mile (40/km&#x00b2;).
+
+1711	TRUE	Knox County, Ohio:: density_sq_mi	103 / (40/	
+The <a> population density </a> was 103 people per square mile (40/km&#x00b2;).
+
+1712	TRUE	Jefferson County, Ohio:: state	ohio / Ohio	
+<p> <strong> Jefferson County </strong> is a <a> county </a> located in the <a> state </a> of <a> Ohio </a> .
+
+1715	TRUE	Jefferson County, Ohio:: area_water_sq_mi	1 / 32.	
+<p> There were 30,417 households out of which 26.70% had children under the age of 18 living with them, 52.30% were <a> married couples </a> living together, 11.60% had a female householder with no husband present, and 32.30% were non-families.
+
+1717	TRUE	Jefferson County, Ohio:: density_km2	70 / (70/	
+The <a> population density </a> was 180 people per square mile (70/km&#x00b2;).
+
+1721	TRUE	Jefferson County, Ohio:: area_water_km2	3 / 32.	
+<p> There were 30,417 households out of which 26.70% had children under the age of 18 living with them, 52.30% were <a> married couples </a> living together, 11.60% had a female householder with no husband present, and 32.30% were non-families.
+
+1722	TRUE	Jefferson County, Ohio:: density_sq_mi	180 / (70/	
+The <a> population density </a> was 180 people per square mile (70/km&#x00b2;).
+
+1724	TRUE	Jackson County, Ohio:: state	ohio / Ohio	
+<p> <strong> Jackson County </strong> is a <a> county </a> located in the <a> state </a> of <a> Ohio </a> , <a> United States </a> .
+
+1727	TRUE	Jackson County, Ohio:: area_water_sq_mi	1 / 12.	
+<p> There were 12,619 households out of which 34.5% had children under the age of 18 living with them, 55.4% were <a> married couples </a> living together, 12.0% had a female householder with no husband present, and 27.6% were non-families.
+
+1729	TRUE	Jackson County, Ohio:: density_km2	30 / (30/	
+The <a> population density </a> was 78 people per square mile (30/km&#x00b2;).
+
+1734	TRUE	Jackson County, Ohio:: area_water_km2	3 / 27.	
+<p> There were 12,619 households out of which 34.5% had children under the age of 18 living with them, 55.4% were <a> married couples </a> living together, 12.0% had a female householder with no husband present, and 27.6% were non-families.
+
+1735	TRUE	Jackson County, Ohio:: density_sq_mi	78 / (30/	
+The <a> population density </a> was 78 people per square mile (30/km&#x00b2;).
+
+1761	TRUE	Hocking County, Ohio:: state	ohio / Ohio	
+<p> <strong> Hocking County </strong> is a <a> county </a> located in the <a> state </a> of <a> Ohio </a> , <a> United States </a> .
+
+1764	TRUE	Hocking County, Ohio:: area_water_sq_mi	1 / 27.	
+<p> There were 10,843 households out of which 33.50% had children under the age of 18 living with them, 58.30% were <a> married couples </a> living together, 9.50% had a female householder with no husband present, and 27.80% were non-families.
+
+1766	TRUE	Hocking County, Ohio:: density_km2	26 / (26/	
+The <a> population density </a> was 67 people per square mile (26/km&#x00b2;).
+
+1770	TRUE	Hocking County, Ohio:: area_water_km2	2 / 27.	
+<p> There were 10,843 households out of which 33.50% had children under the age of 18 living with them, 58.30% were <a> married couples </a> living together, 9.50% had a female householder with no husband present, and 27.80% were non-families.
+
+1771	TRUE	Hocking County, Ohio:: density_sq_mi	67 / (26/	
+The <a> population density </a> was 67 people per square mile (26/km&#x00b2;).
+
+1785	TRUE	Henry County, Ohio:: state	ohio / Ohio	
+<p> <strong> Henry County </strong> is a <a> county </a> located in the <a> state </a> of <a> Ohio </a> , <a> United States </a> .
+
+1788	TRUE	Henry County, Ohio:: area_water_sq_mi	3 / 27.	
+<p> There were 10,935 households out of which 35.20% had children under the age of 18 living with them, 61.10% were <a> married couples </a> living together, 8.10% had a female householder with no husband present, and 27.20% were non-families.
+
+1790	TRUE	Henry County, Ohio:: density_km2	27 / (27/	
+The <a> population density </a> was 70 people per square mile (27/km&#x00b2;).
+
+1793	TRUE	Henry County, Ohio:: area_water_km2	9 / 27.	
+<p> There were 10,935 households out of which 35.20% had children under the age of 18 living with them, 61.10% were <a> married couples </a> living together, 8.10% had a female householder with no husband present, and 27.20% were non-families.
+
+1794	TRUE	Henry County, Ohio:: density_sq_mi	70 / (27/	
+The <a> population density </a> was 70 people per square mile (27/km&#x00b2;).
+
+1797	TRUE	Harrison County, Ohio:: state	ohio / Ohio	
+<p> <strong> Harrison County </strong> is a <a> county </a> located in the <a> state </a> of <a> Ohio </a> , <a> USA </a> .
+
+1800	FALSE	Harrison County, Ohio:: area_water_sq_mi	7 / 29.	
+<p> There were 6,398 households out of which 29.1% had children under the age of 18 living with them, 58.5% were <a> married couples </a> living together, 8.8% had a female householder with no husband present, and 29.4% were non-families.
+
+1802	TRUE	Harrison County, Ohio:: density_km2	15 / (15/	
+The <a> population density </a> was 39 people per square mile (15/km&#x00b2;).
+
+1806	FALSE	Harrison County, Ohio:: area_water_km2	19 / 29.	
+<p> There were 6,398 households out of which 29.1% had children under the age of 18 living with them, 58.5% were <a> married couples </a> living together, 8.8% had a female householder with no husband present, and 29.4% were non-families.
+
+1808	TRUE	Harrison County, Ohio:: density_sq_mi	39 / (15/	
+The <a> population density </a> was 39 people per square mile (15/km&#x00b2;).
+
+1809	TRUE	Hardin County, Ohio:: state	ohio / Ohio	
+<p> <strong> Hardin County </strong> is a <a> county </a> located in the <a> state </a> of <a> Ohio </a> , <a> United States </a> .
+
+1812	TRUE	Hardin County, Ohio:: area_water_sq_mi	0 / 32.	
+<p> There were 11,963 households out of which 31.40% had children under the age of 18 living with them, 55.00% were <a> married couples </a> living together, 8.90% had a female householder with no husband present, and 32.00% were non-families.
+
+1813	TRUE	Hardin County, Ohio:: density_km2	26 / (26/	
+The <a> population density </a> was 68 people per square mile (26/km&#x00b2;).
+
+1819	TRUE	Hardin County, Ohio:: area_water_km2	1 / 32.	
+<p> There were 11,963 households out of which 31.40% had children under the age of 18 living with them, 55.00% were <a> married couples </a> living together, 8.90% had a female householder with no husband present, and 32.00% were non-families.
+
+1820	TRUE	Hardin County, Ohio:: density_sq_mi	68 / (26/	
+The <a> population density </a> was 68 people per square mile (26/km&#x00b2;).
+
+1822	TRUE	Hancock County, Ohio:: state	ohio / Ohio	
+<p> <strong> Hancock County </strong> is a <a> county </a> located in the <a> state </a> of <a> Ohio </a> , <a> United States </a> .
+
+1825	TRUE	Hancock County, Ohio:: area_water_sq_mi	2 / 31.	
+<p> There were 27,898 households out of which 32.60% had children under the age of 18 living with them, 56.40% were <a> married couples </a> living together, 8.70% had a female householder with no husband present, and 31.40% were non-families.
+
+1827	TRUE	Hancock County, Ohio:: density_km2	52 / (52/	
+The <a> population density </a> was 134 people per square mile (52/km&#x00b2;).
+
+1832	TRUE	Hancock County, Ohio:: area_water_km2	6 / 31.	
+<p> There were 27,898 households out of which 32.60% had children under the age of 18 living with them, 56.40% were <a> married couples </a> living together, 8.70% had a female householder with no husband present, and 31.40% were non-families.
+
+1833	TRUE	Hancock County, Ohio:: density_sq_mi	134 / (52/	
+The <a> population density </a> was 134 people per square mile (52/km&#x00b2;).
+
+1893	TRUE	Fulton County, Ohio:: state	ohio / Ohio	
+<p> <strong> Fulton County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Ohio </a> .
+
+1896	TRUE	Fulton County, Ohio:: area_water_sq_mi	0 / 24.	
+<p> There were 15,480 households out of which 37.10% had children under the age of 18 living with them, 63.20% were <a> married couples </a> living together, 8.20% had a female householder with no husband present, and 24.50% were non-families.
+
+1902	TRUE	Fulton County, Ohio:: area_water_km2	1 / 24.	
+<p> There were 15,480 households out of which 37.10% had children under the age of 18 living with them, 63.20% were <a> married couples </a> living together, 8.20% had a female householder with no husband present, and 24.50% were non-families.
+
+1903	TRUE	Fulton County, Ohio:: density_sq_mi	104 / (40/	
+The <a> population density </a> was 104 people per square mile (40/km&#x00b2;).
+
+1904	TRUE	Fulton County, Ohio:: density_km2	40 / (40/	
+The <a> population density </a> was 104 people per square mile (40/km&#x00b2;).
+
+1936	TRUE	Erie County, Ohio:: state	ohio / Ohio	
+<p> <strong> Erie County </strong> is a <a> county </a> located in the <a> state </a> of <a> Ohio </a> , <a> United States </a> .
+
+1941	TRUE	Erie County, Ohio:: density_km2	121 / (121/	
+The <a> population density </a> was 312 people per square mile (121/km&#x00b2;).
+
+1946	TRUE	Erie County, Ohio:: density_sq_mi	312 / (121/	
+The <a> population density </a> was 312 people per square mile (121/km&#x00b2;).
+
+1947	TRUE	Delaware County, Ohio:: state	ohio / Ohio	
+<p> <strong> Delaware County </strong> is a fast-growing <a> suburban </a> <a> county </a> in the <a> state </a> of <a> Ohio </a> , <a> United States </a> , within the <a> Columbus </a> , <a> Ohio </a> <a> Metropolitan Statistical Area </a> .
+
+1955	TRUE	Defiance County, Ohio:: state	ohio / Ohio	
+<p> <strong> Defiance County </strong> is a <a> county </a> located in the <a> state </a> of <a> Ohio </a> , <a> United States </a> .
+
+1958	TRUE	Defiance County, Ohio:: area_water_sq_mi	3 / 27.	
+<p> There were 15,138 households out of which 34.30% had children under the age of 18 living with them, 58.90% were <a> married couples </a> living together, 9.60% had a female householder with no husband present, and 27.20% were non-families.
+
+1960	TRUE	Defiance County, Ohio:: density_km2	37 / (37/	
+The <a> population density </a> was 96 people per square mile (37/km&#x00b2;).
+
+1965	TRUE	Defiance County, Ohio:: area_water_km2	8 / 27.	
+<p> There were 15,138 households out of which 34.30% had children under the age of 18 living with them, 58.90% were <a> married couples </a> living together, 9.60% had a female householder with no husband present, and 27.20% were non-families.
+
+1966	TRUE	Defiance County, Ohio:: density_sq_mi	96 / (37/	
+The <a> population density </a> was 96 people per square mile (37/km&#x00b2;).
+
+1967	TRUE	Darke County, Ohio:: state	ohio / Ohio	
+<p> <strong> Darke County </strong> is a <a> county </a> located in the <a> state </a> of <a> Ohio </a> , <a> United States </a> .
+
+1970	TRUE	Darke County, Ohio:: area_water_sq_mi	0 / 27.	
+<p> There were 20,419 households out of which 33.30% had children under the age of 18 living with them, 61.00% were <a> married couples </a> living together, 8.00% had a female householder with no husband present, and 27.00% were non-families.
+
+1972	TRUE	Darke County, Ohio:: density_km2	34 / (34/	
+The <a> population density </a> was 89 people per square mile (34/km&#x00b2;).
+
+1975	TRUE	Darke County, Ohio:: area_water_km2	2 / 27.	
+<p> There were 20,419 households out of which 33.30% had children under the age of 18 living with them, 61.00% were <a> married couples </a> living together, 8.00% had a female householder with no husband present, and 27.00% were non-families.
+
+1976	TRUE	Darke County, Ohio:: density_sq_mi	89 / (34/	
+The <a> population density </a> was 89 people per square mile (34/km&#x00b2;).
+

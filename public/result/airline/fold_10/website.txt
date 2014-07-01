@@ -1,0 +1,52 @@
+Found: 22
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	website	........ / Services are largely on a scheduled basis , but charter services are also operated .	// Services are largely on a scheduled basis , but charter services are also operated .
+
+#	NEW	website	........ / International operations started on May	// International operations started on May 15 , 1955 , with flights to points in Europe , followed by service to New York on June 8 using <a> Lockheed </a> <a> Super Constellations </a> .
+
+#	NEW	website	........ / Flight operations started on	// Flight operations started on 14 December 1927 .
+
+#	NEW	website	........ / It operated scheduled services and charter flights for tour operators and other airlines	// It operated scheduled services and charter flights for tour operators and other airlines , in <a> Europe </a> , as well as <a> wet lease </a> and ad hoc charters .
+
+#	NEW	website	........ / It operates international scheduled and ad-hoc cargo charter services .	// It operates international scheduled and ad-hoc cargo charter services .
+
+#	NEW	website	........ / Golden Wing Club was the airport lounge service owned and operated by Ansett .	// <p> Golden Wing Club was the airport lounge service owned and operated by Ansett .
+
+#	NEW	website	........ / All flights were operated by Pace Airlines .	// All flights were operated by Pace Airlines .
+
+#	NEW	website	........ / Air China will shortly introduce its new A330-300 aircraft to long haul operations beginning with Frankfurt for the winter	// <p> Air China will shortly introduce its new A330-300 aircraft to long haul operations beginning with Frankfurt for the winter 201 / 11 schedule .
+
+#	NEW	website	........ / Seatback PTV is available on Jazz flights operated with	// Seatback PTV is available on Jazz flights operated with CRJ705 equipment . </p>
+
+#	NEW	website	........ / At midnight , all TWA flights officially became listed as American Airlines flights .	// At midnight , all TWA flights officially became listed as American Airlines flights .
+
+#	NEW	website	........ / Presently Pantanal operates some flights on behalf of TAM , particularly those with origin and destination at	// Presently Pantanal operates some flights on behalf of TAM , particularly those with origin and destination at <a> S&#x00e3 ; o-Paulo-Congonhas Airport </a> . </p>
+
+#	NEW	website	........ / Regular weekly scheduled flights quickly followed from Singapore to Kuala Lumpur , Ipoh and Penang from	// Regular weekly scheduled flights quickly followed from Singapore to Kuala Lumpur , Ipoh and Penang from 1 May 1947 with the same aircraft type .
+
+#	NEW	website	........ / saw the operation of its first trans-Atlantic flight .	// 1966 saw the operation of its first trans-Atlantic flight .
+
+#	NEW	website	........ / Other jointly operated flights soon followed with Austrian Airlines , Swissair , and Croatian Airlines .	// Other jointly operated flights soon followed with Austrian Airlines , Swissair , and Croatian Airlines .
+
+#	NEW	website	........ / The plane made its first scheduled flight on 1 February .	// The plane made its first scheduled flight on 1 February .
+
+#	NEW	website	........ / it operated its first cargo flight between Osaka and Tokyo using a	// On 15 December 1953 , it operated its first cargo flight between Osaka and Tokyo using a <a> de Havilland Dove </a> , JA5008 .
+
+#	NEW	website	........ / are currently operated on flights shorter than one-and-a-half hours .	// The 10 Fokker 50s and 15 Fokker 100s are currently operated on flights shorter than one-and-a-half hours .
+
+#	NEW	website	........ / Together with its regional partners , the airline operates on average more than	// Together with its regional partners , the airline operates on average more than 1 , 370 scheduled flights daily . </pre>
+
+#	NEW	website	........ / ( SFS ) was set up as a special unit of Saudia , and operates special flights for the Royal family and government agencies .	// The <em> Special Flight Services </em> ( SFS ) was set up as a special unit of Saudia , and operates special flights for the Royal family and government agencies .
+
+#	NEW	website	........ / It operates scheduled cargo services in Asia and to Europe and the North America .	// It operates scheduled cargo services in Asia and to Europe and the North America .
+
+#	NEW	website	........ / It operated over 90 weekly scheduled cargo flights , and had a strong charter business .	// It operated over 90 weekly scheduled cargo flights , and had a strong charter business .
+
+#	NEW	website	........ / It was originally scheduled to become a member on March	// It was originally scheduled to become a member on March 29 , 2009 .
+

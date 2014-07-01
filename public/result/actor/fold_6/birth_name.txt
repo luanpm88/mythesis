@@ -1,0 +1,83 @@
+Found: 31
+Found Not Null: 11
+Correct: 7
+Wrong: 4
+Total: 11
+precision: 0.6363636363636364
+recall: 0.6363636363636364
+
+
+
+0	TRUE	Gordon Jump::birth_name	alexander gordon jump / Alexander Gordon Jump	
+<p> <strong> Alexander Gordon Jump </strong> ( April 1 , 1932 &ndash ; September 22 , 2003 ) was an American <a> actor </a> best known as the clueless <a> radio station </a> manager Arthur &quot ; Big Guy&quot ; Carlson in the <a> TV series </a> <em> <a> WKRP in Cincinnati </a> </em> and the incompetent &quot ; Piece of Chalief Tinkler&quot ; in the sitcom <em> <a> Soap </a> </em> .
+
+#	NEW	birth_name	........ / actor best known for the character of astronaut	// <p> <strong> Keir Dullea </strong> ( ; born May 30 , 1936 ) is an <a> American </a> actor best known for the character of astronaut <a> David Bowman </a> , whom he portrayed in the 1968 film <strong> <em> ' and in 1984 ' s </em> <a> 2010 : The Year We Make Contact </a> <em> , as well as his roles in the films </em> <a> Bunny Lake is Missing </a> <em> ( 1965 ) and </em> <a> Black Christmas </a> <em> ( 1974 ) . </em> </strong> </p>
+
+#	NEW	birth_name	........ / an American actress during the	// <p> <strong> Edna Purviance </strong> ( October 21 , 1895 &ndash ; January 11 , 1958 ) was an American actress during the <a> silent movie </a> era .
+
+3	FALSE	Burgess Meredith::birth_name	oliver burgess meredith / best known to the larger world audience for his film and television work, Meredith was an influential actor and director for the	
+Although best known to the larger world audience for his film and television work , Meredith was an influential actor and director for the stage .
+
+#	NEW	birth_name	........ / Ji&# x0159 ; &#x00ed ; Menzel	// <p> <strong> Ji&#x0159 ; &#x00ed ; Menzel </strong> ( ) ( born February 23 , 1938 , <a> Prague </a> ) is a <a> Czech </a> <a> film director </a> , <a> theatre director </a> , actor , and <a> screenwriter </a> .
+
+5	TRUE	Victor Garber::birth_name	victor joseph garber / Victor Joseph Garber	
+<p> <strong> Victor Joseph Garber </strong> ( born March 16 , 1949 ) is a <a> Canadian </a> film , stage and television <a> actor </a> and <a> singer </a> .
+
+6	FALSE	Leonor Varela::birth_name	leonor varela palma / nominated for the	
+She was nominated for the <a> Ariel Award in 2005 </a> in the category of Best Actress for <em> <a> Innocent Voices </a> </em> ( 2004 ) .
+
+#	NEW	birth_name	........ / is a	// <p> <strong> Christina Cox </strong> ( born July 31 , 1971 ) is a <a> Canadian </a> <a> movie </a> and <a> television </a> <a> actress </a> and <a> stuntwoman </a> . </p>
+
+#	NEW	birth_name	........ / January 1926 &ndash ; 7 January	// <p> <strong> Ingrid Thulin </strong> ( ; 27 January 1926 &ndash ; 7 January 2004 ) was a <a> Swedish </a> <a> film actress </a> . </p>
+
+#	NEW	birth_name	........ / television and movie actor , known for his roles in several television	// <p> <strong> Peter Strauss </strong> ( born February 20 , 1947 ) is an <a> American </a> television and movie actor , known for his roles in several television <a> miniseries </a> in the 1970s and 1980s .
+
+10	FALSE	Christopher Plummer::birth_name	arthur christopher orme plummer / is a	
+<p> <strong> Christopher Plummer </strong> , <a> CC </a> ( born December 13 , 1929 ) is a <a> Canadian </a> <a> theatre </a> , <a> film </a> and <a> television </a> <a> actor </a> . </p>
+
+#	NEW	birth_name	........ / Barker was inducted to the NAB Broadcasting Hall of Fame .	// <p> On April 14 , 2008 , Barker was inducted to the NAB Broadcasting Hall of Fame . </p>
+
+#	NEW	birth_name	........ / pioneering movie studio released its first commercial film on	// This pioneering movie studio released its first commercial film on March 15 , 1910 .
+
+#	NEW	birth_name	........ / quot ; Dick Clark ' s American Bandstand Theater&quot ; opened	// <p> &quot ; Dick Clark ' s American Bandstand Theater&quot ; opened in Branson in April 2006 .
+
+#	NEW	birth_name	........ / Marie- France Pisier	// <p> <strong> Marie-France Pisier </strong> ( born 10 May 1944 ) is a French actress .
+
+#	NEW	birth_name	........ / comedy actress and	// <p> <strong> Dorothy Loudon </strong> ( September 17 , 1933 &#x2013 ; November 15 , 2003 ) was an <a> American </a> comedy actress and singer .
+
+#	NEW	birth_name	........ / they welcomed their first daughter , Lola Sofia	// In April 2005 , they welcomed their first daughter , Lola Sofia Bonfiglio .
+
+#	NEW	birth_name	........ / television presenter , radio host and author .	// <p> <strong> Magda Szubanski </strong> ( born 12 April 1961 ) is a British-born Australian actress , comedian , television presenter , radio host and author . </p>
+
+18	FALSE	Paul Jackson (producer)::birth_name	kevin paul jackson / Paul Jackson	
+Paul Jackson </strong> , is a <a> British </a> television director , producer and executive . </p>
+
+19	TRUE	Cesar Romero::birth_name	cesar julio romero, jr. / Cesar Julio Romero, Jr.	
+<p> <strong> Cesar Julio Romero , Jr . </strong> ( February 15 , 1907&nbsp ; &#x2013 ; January 1 , 1994 ) was a <a> Cuban American </a> <a> film </a> and <a> television </a> <a> actor </a> , who played <a> The Joker </a> in the 1960s television series <em> <a> Batman </a> </em> .
+
+#	NEW	birth_name	........ / Patrick Joseph McGoohan	// <p> <strong> Patrick Joseph McGoohan </strong> ( March 19 , 1928 &#x2013 ; January 13 , 2009 ) was an <a> American </a> -born <a> actor </a> , raised in <a> Ireland </a> and <a> England </a> , with an extensive stage and film career , most notably in the 1960s <a> television </a> series <em> <a> Danger Man </a> </em> ( renamed <em> Secret Agent </em> when exported to the <a> US </a> ) , and <em> <a> The Prisoner </a> </em> .
+
+#	NEW	birth_name	........ / is a	// <p> <strong> Joanna Pacula </strong> ( born January 2 , 1957 ) is a <a> Polish </a> <a> actress </a> . </p>
+
+22	TRUE	Roger Davis (television actor)::birth_name	jon roger davis / Jon Roger Davis	
+<p> <strong> Jon Roger Davis </strong> ( born April 5 , 1939 ) is an <a> American </a> <a> actor </a> .
+
+23	TRUE	Jeremy Sumpter::birth_name	jeremy robert myron sumpter / Jeremy Robert Myron Sumpter	
+<p> <strong> Jeremy Robert Myron Sumpter </strong> ( born February 5 , 1989 ) is an <a> American </a> actor .
+
+#	NEW	birth_name	........ / Carrere filed for divorce in person at	// On April 2 , 2010 , Carrere filed for divorce in person at <a> Los Angeles Superior Court </a> .
+
+#	NEW	birth_name	........ / November 1945 ) is an English- French	// <p> <strong> Roland Joff&#x00e9 ; </strong> ( born 17 November 1945 ) is an English-French <a> film director </a> who is known for his <a> Oscar </a> nominated movies , <em> <a> The Killing Fields </a> </em> and <em> <a> The Mission </a> </em> .
+
+#	NEW	birth_name	........ / actor known for his television roles as	// <p> <strong> Peter Jurasik </strong> ( born April 25 , 1950 ) is an <a> American </a> actor known for his television roles as <a> Londo Mollari </a> in the 1990s science fiction series <em> <a> Babylon 5 </a> </em> and Sid the Snitch on the 1980s series <em> <a> Hill Street Blues </a> </em> and its short-lived spinoff <em> <a> Beverly Hills Buntz </a> </em> . </p>
+
+27	TRUE	Seijun Suzuki::birth_name	seitaro suzuki / Suzuki Seitar&# x014d ;	
+<p> , born <strong> Seitaro Suzuki </strong> ( &#x9234 ; &#x6728 ; &#x6e05 ; &#x592a ; &#x90ce ; <strong> <em> Suzuki Seitar&#x014d ; </em> </strong> ) on May 24 , 1923 , is a <a> Japan </a> ese <a> filmmaker </a> , <a> actor </a> , and <a> screenwriter </a> .
+
+#	NEW	birth_name	........ / is the granddaughter of actor and filmmaker	// She is the granddaughter of actor and filmmaker <a> Raj Kapoor </a> , great-granddaughter of actor <a> Prithviraj Kapoor </a> , and niece of actor <a> Rishi Kapoor </a> .
+
+#	NEW	birth_name	........ / Henry Richard &quot ; Huntz&quot ; Hall	// <p> <strong> Henry Richard &quot ; Huntz&quot ; Hall </strong> ( August 15 , 1919 ; to Joseph Patrick Hall and Mary Ellen Mullen , an Irish-born air-conditioner repairman and his wife , He was the 14th of 16 children .
+
+30	TRUE	Dennis Weaver::birth_name	william dennis weaver / William Dennis Weaver	
+<p> <strong> William Dennis Weaver </strong> ( June 4 , 1924 &ndash ; February 24 , 2006 ) was an American actor , best known for his work in <a> television </a> , including roles on <em> <a> Gunsmoke </a> </em> , as Marshal Sam McCloud on the <a> NBC </a> <a> police </a> <a> drama </a> <em> <a> McCloud </a> </em> , and the 1971 TV movie <em> <a> Duel </a> </em> . </p>
+

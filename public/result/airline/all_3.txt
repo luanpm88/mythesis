@@ -1,0 +1,106 @@
+Total articles: 456
+Articles for test: 411
+Articles for train: 45
+Total attributes: 140
+Attributes with high occurrences: 18/140
+
+------------
+Found: 584
+Found Not Null: 89
+Correct: 46
+Wrong: 43
+Total: 106
+precision: 0.5168539325842697
+recall: 0.4339622641509434
+
+
+
+2	FALSE	Omni Air International:: iata	oy / International	// <p> <strong> Omni Air International </strong> is a <a> United States </a> <a> charter airline </a> , based in <a> Tulsa , Oklahoma </a> , <a> USA </a> .
+13	FALSE	East African Safari Air:: fleet_size	4 / 2008 ) :	// <p> The East African Safari Air Express fleet includes the following aircraft ( at March 2008 ) : </p>
+14	FALSE	East African Safari Air:: destinations	4 / 2008 ) :	// <p> The East African Safari Air Express fleet includes the following aircraft ( at March 2008 ) : </p>
+18	FALSE	East African Safari Air:: founded	1989 / 2003	// <p> Fast growth saw the airline run into cash flow problems and in late 2003 East African Safari Air started to search for investors .
+42	FALSE	Royal Tongan Airlines:: iata	wr / Royal	// <p> <strong> Royal Tongan Airlines </strong> was the national <a> airline </a> of <a> Tonga </a> until liquidation in 2004 .
+49	TRUE	Royal Tongan Airlines:: ceased	2004 / 2004	// <p> On 18 May 2004 , the airline ceased all operations with the remaining one hundred employees losing their jobs , and the islands of Tonga being left without domestic air service . </p>
+50	TRUE	Royal Tongan Airlines:: airline	royal tongan airlines / until	// <p> <strong> Royal Tongan Airlines </strong> was the national <a> airline </a> of <a> Tonga </a> until liquidation in 2004 .
+52	FALSE	Royal Tongan Airlines:: founded	1985 / Royal	// In dismissing KPMG's review , CEO Logan Appu , stated that the airline would continue to operate internationally , and confirmed that the airline would begin flights to <a> Honolulu </a> in December 2003 , in spite of the report recommending that Royal Tongan ditch the international flights and concentrate only on domestic services .
+57	TRUE	Air Europe:: callsign	air europe / Inter	// <p> <strong> Air Europe </strong> was a wholly privately owned , independent <a> British </a> <a> airline </a> , established in 1978 under the working title <strong> Inter European Airways </strong> .
+59	FALSE	Air Europe:: founded	1979 / 1978	// <p> <strong> Air Europe </strong> was a wholly privately owned , independent <a> British </a> <a> airline </a> , established in 1978 under the working title <strong> Inter European Airways </strong> .
+62	TRUE	Air Europe:: airline	air europe / European Airways	// <p> <strong> Air Europe </strong> was a wholly privately owned , independent <a> British </a> <a> airline </a> , established in 1978 under the working title <strong> Inter European Airways </strong> .
+76	FALSE	Air India Regional:: logo_size	200 / 1996.	// [[ATR 42#ATR 42-320|ATR 42-320]] belonging to Air India Regional]] The airline was established on 1 April 1996 and started operations on 21 June 1996 .
+94	TRUE	SCADTA:: callsign	scadta / Latin America'	// <p> The <strong> Colombian-German Air Transport Society </strong> ( , ) , or <strong> SCADTA </strong> , was <a> Latin America's </a> first <a> airline </a> , operating from 1919 until World War II .
+95	TRUE	SCADTA:: parent	scadta / Andean	// SCADTA was barred from operating flights to the US and the <a> Panama Canal </a> , although it continued to maintain a broad route network throughout the <a> Andean </a> region .
+105	TRUE	Mohawk Airlines:: iata	mo / by	// <p> <strong> Mohawk Airlines </strong> was an <a> airline </a> that operated in the <a> Mid-Atlantic region </a> of the United States , primarily the states of New York and <a> Pennsylvania </a> from the mid-1940s until its acquisition by <a> Allegheny Airlines </a> in 1972 .
+106	TRUE	Mohawk Airlines:: callsign	mohawk / United	// <p> <strong> Mohawk Airlines </strong> was an <a> airline </a> that operated in the <a> Mid-Atlantic region </a> of the United States , primarily the states of New York and <a> Pennsylvania </a> from the mid-1940s until its acquisition by <a> Allegheny Airlines </a> in 1972 .
+118	TRUE	Armenian Airlines:: callsign	armenian / state-	// <p> <strong> Armenian Airlines </strong> was the state-owned national <a> airline </a> of <a> Armenia </a> .
+124	TRUE	Armenian Airlines:: icao	rme / Armenia	// <p> <strong> Armenian Airlines </strong> was the state-owned national <a> airline </a> of <a> Armenia </a> .
+158	FALSE	Virgin America:: destinations	14 / 30	// <p> Virgin America plans on flying to major destinations throughout the United States and initially predicted that it would have approximately ten destinations within the first year of service and up to 30 after five years of service . </p>
+162	FALSE	Virgin America:: founded	2004 / March 18, 2010	// <p> On March 18 , 2010 , Virgin America announced its intention to start flying to Toronto from Los Angeles and San Francisco , which , pending government approval , would make it the airline's first international destination .
+165	TRUE	Virgin America:: airline	virgin america / Virgin America	// <p> <strong> Virgin America , Inc . </strong> is a <a> United States </a> -based <a> low-cost airline </a> that began service on August 8 , 2007 .
+168	TRUE	Empire Airlines:: iata	em / Empire	// <p> <strong> Empire Airlines </strong> is a charter and <a> cargo airline </a> based in <a> Coeur d'Alene </a> , <a> Idaho </a> , <a> USA </a> .
+169	TRUE	Empire Airlines:: callsign	empire / charter	// <p> <strong> Empire Airlines </strong> is a charter and <a> cargo airline </a> based in <a> Coeur d'Alene </a> , <a> Idaho </a> , <a> USA </a> .
+175	FALSE	Empire Airlines:: icao	cfs / USA	// <p> <strong> Empire Airlines </strong> is a charter and <a> cargo airline </a> based in <a> Coeur d'Alene </a> , <a> Idaho </a> , <a> USA </a> .
+184	TRUE	ABX Air:: founded	1980 / 17 April 1980.	// It started operations on 17 April 1980 .
+191	TRUE	ABX Air:: icao	abx / Wilmington	// <p> <strong> ABX Air , Inc . </strong> , formerly <a> Airborne Express </a> , is a <a> cargo airline </a> headquartered at Wilmington Air Park ( formerly <a> Airborne Airpark </a> ) in <a> unincorporated </a> <a> Clinton County </a> , <a> Ohio </a> , <a> United States </a> , near the City of <a> Wilmington </a> .
+192	TRUE	USA3000 Airlines:: fleet_size	5 / 2010	// <p> As of April 2010 , USA3000 Airlines has 5 aircraft in its fleet consisting of : </p>
+196	FALSE	USA3000 Airlines:: parent	apple vacations / USA3000 Airlines has	// <p> As of April 2010 , USA3000 Airlines has 5 aircraft in its fleet consisting of : </p>
+205	TRUE	Valuair:: fleet_size	2 / 30	// <p> As of 30 April 2009 , the Valuair fleet includes the following aircraft : </p>
+206	FALSE	Valuair:: destinations	5 / 2008	// <p> In February 2008 , Jetstar Asia announced that it would begin flights to <a> Medan </a> later in the year .
+207	FALSE	Valuair:: iata	vf / Limited	// <p> <strong> Valuair Limited </strong> ( <a> Chinese </a> : &#x60e0;&#x65c5;&#x822a;&#x7a7a; ) is a <a> Singapore </a> -based <a> low-cost carrier </a> .
+208	TRUE	Valuair:: callsign	valuair / Singapore	// <p> <strong> Valuair Limited </strong> ( <a> Chinese </a> : &#x60e0;&#x65c5;&#x822a;&#x7a7a; ) is a <a> Singapore </a> -based <a> low-cost carrier </a> .
+216	TRUE	Valuair:: airline	valuair / Singapore	// <p> <strong> Valuair Limited </strong> ( <a> Chinese </a> : &#x60e0;&#x65c5;&#x822a;&#x7a7a; ) is a <a> Singapore </a> -based <a> low-cost carrier </a> .
+231	TRUE	Germanwings:: fleet_size	30 / 4	// As of December 2010 , the Germanwings fleet consists of 30 <a> Airbus A319-100 </a> aircraft with an average age of 5 . 4 years .
+232	FALSE	Germanwings:: destinations	70 / 5.	// As of December 2010 , the Germanwings fleet consists of 30 <a> Airbus A319-100 </a> aircraft with an average age of 5 . 4 years .
+234	TRUE	Germanwings:: callsign	germanwings / Lufthansa	// <p> <strong> Germanwings <a> GmbH </a> </strong> is a <a> low-cost airline </a> based in <a> Cologne </a> , <a> Germany </a> , which is wholly-owned by <a> Lufthansa </a> .
+241	TRUE	Germanwings:: airline	germanwings / Lufthansa	// <p> <strong> Germanwings <a> GmbH </a> </strong> is a <a> low-cost airline </a> based in <a> Cologne </a> , <a> Germany </a> , which is wholly-owned by <a> Lufthansa </a> .
+259	FALSE	Volareweb.com:: destinations	4 / 2008	// <p> As of 1 January 2008 , Volareweb is an integral part of the Alitalia Group and was serving as the company's Italian low-cost subsidiary .
+260	FALSE	Volareweb.com:: iata	ve / Alitalia-	// <p> <strong> Volareweb . com </strong> was a <a> low cost </a> subsidiary of the old <a> Alitalia-LAI </a> based in <a> Milan-Malpensa International Airport </a> , <a> Italy </a> and ceased activity with this name since 12 January 2009 .
+261	TRUE	Volareweb.com:: callsign	vola / Alitalia-	// <p> <strong> Volareweb . com </strong> was a <a> low cost </a> subsidiary of the old <a> Alitalia-LAI </a> based in <a> Milan-Malpensa International Airport </a> , <a> Italy </a> and ceased activity with this name since 12 January 2009 .
+269	FALSE	Volareweb.com:: airline	volareweb.com / this	// <p> <strong> Volareweb . com </strong> was a <a> low cost </a> subsidiary of the old <a> Alitalia-LAI </a> based in <a> Milan-Malpensa International Airport </a> , <a> Italy </a> and ceased activity with this name since 12 January 2009 .
+321	TRUE	Wizz Air:: founded	2003 / 2003.	// <p> The airline was established in September 2003 .
+327	TRUE	Wizz Air:: airline	wizz air / Air	// <p> <strong> <a> Wizz Air Romania </a> </strong> </p>
+359	FALSE	Allegheny Airlines:: destinations	31 / 1979.	// <p> <strong> Allegheny Airlines </strong> was an airline operating out of <a> Pittsburgh </a> , <a> Pennsylvania </a> , <a> United States </a> , from 1952 to 1979 .
+360	TRUE	Allegheny Airlines:: iata	al / an	// <p> <strong> Allegheny Airlines </strong> was an airline operating out of <a> Pittsburgh </a> , <a> Pennsylvania </a> , <a> United States </a> , from 1952 to 1979 .
+361	TRUE	Allegheny Airlines:: callsign	allegheny / United	// <p> <strong> Allegheny Airlines </strong> was an airline operating out of <a> Pittsburgh </a> , <a> Pennsylvania </a> , <a> United States </a> , from 1952 to 1979 .
+371	FALSE	Dan-Air:: iata	da / nd	// <p> The airline derived its name from its parent's initials , <strong> D </strong> for <strong> D </strong> avies , <strong> A </strong> for <strong> a </strong> nd , and <strong> N </strong> for <strong> N </strong> ewman .
+372	FALSE	Dan-Air:: callsign	dan-air / N	// <p> The airline derived its name from its parent's initials , <strong> D </strong> for <strong> D </strong> avies , <strong> A </strong> for <strong> a </strong> nd , and <strong> N </strong> for <strong> N </strong> ewman .
+374	TRUE	Dan-Air:: founded	1953 / 23 May 1953.	// <p> The fledgeling airline received its <a> air operator's certificate </a> on 23 May 1953 .
+378	FALSE	Dan-Air:: icao	dan / N	// <p> The airline derived its name from its parent's initials , <strong> D </strong> for <strong> D </strong> avies , <strong> A </strong> for <strong> a </strong> nd , and <strong> N </strong> for <strong> N </strong> ewman .
+380	FALSE	Dan-Air:: airline	dan air services / N	// <p> The airline derived its name from its parent's initials , <strong> D </strong> for <strong> D </strong> avies , <strong> A </strong> for <strong> a </strong> nd , and <strong> N </strong> for <strong> N </strong> ewman .
+383	FALSE	Meridiana Fly:: iata	ig / December	// A 29 . 95% stake in <strong> Eurofly </strong> was acquired in December 2006 .
+384	FALSE	Meridiana Fly:: parent	interprogramme (57.19%) / intercontinental	// It is Italy's second largest airline operating domestic and <a> Europe </a> an services , as well as intercontinental flights .
+391	FALSE	Meridiana Fly:: airline	meridiana fly / December	// A 29 . 95% stake in <strong> Eurofly </strong> was acquired in December 2006 .
+411	FALSE	Jet2.com:: destinations	54 / 2011	// <p> In January 2011 , the airline introduced the Boeing 737-800 aircraft into the fleet . </p>
+423	FALSE	Uzbekistan Airways:: iata	hy / Fleet	// <p> &lt;center&gt; <strong> Uzbekistan Airways Cargo Aircraft Fleet </strong> &lt;/center&gt; </p>
+424	TRUE	Uzbekistan Airways:: callsign	uzbekistan / headquartered	// <p> <strong> Uzbekistan Airways </strong> ( ) , ( ) is the <a> flag carrier </a> <a> airline </a> of <a> Uzbekistan </a> , headquartered in <a> Tashkent </a> . </p>
+427	FALSE	Uzbekistan Airways:: founded	1992 / 1993.	// When international routes became top priority , <a> Airbus </a> planes were leased , starting in 1993 .
+433	TRUE	Uzbekistan Airways:: icao	uzb / Tashkent	// <p> <strong> Uzbekistan Airways </strong> ( ) , ( ) is the <a> flag carrier </a> <a> airline </a> of <a> Uzbekistan </a> , headquartered in <a> Tashkent </a> . </p>
+442	TRUE	Air Niagara:: ceased	1984 / 1984.	// <p> Air Niagara ceased operating in 1984 . </p>
+446	FALSE	Air Niagara:: fleet_size	2 / 1978	// It was one of the many airlines that started flying after the <a> Airline Deregulation Act </a> of 1978 in the <a> United States </a> . </p>
+451	FALSE	Lao Airlines:: callsign	lao / Vietnam	// <p> <strong> <a> Vietnam </a> </strong> </p>
+454	TRUE	Lao Airlines:: founded	1976 / 1976	// <p> The airline was established and started operations in September 1976 as <strong> Lao Aviation </strong> .
+460	FALSE	Lao Airlines:: icao	lao / Thailand	// <p> <strong> <a> Thailand </a> </strong> </p>
+467	FALSE	Frontier Flying Service:: founded	1950 / 2005	// <p> In 2005 the airline merged with <a> Cape Smythe Air Services </a> , taking on their routes and retaining the Frontier Flying Service name . </p>
+479	TRUE	Middle East Airlines:: iata	me / Middle	// <p> [[File : MEAofficeParis . JPG|thumb|Middle East Airlines office in the [[9th arrondissement of Paris|9th arrondissement]] , <a> Paris </a> ]] <strong> Middle East Airlines &#x2013; Air Liban S . A . L . </strong> ( ) , more commonly known as <strong> Middle East Airlines ( MEA ) </strong> ( ) , is the national <a> flag-carrier </a> <a> airline </a> of <a> Lebanon </a> , with its head office in <a> Beirut </a> .
+483	TRUE	Middle East Airlines:: frequent_flyer	cedar miles / MEA'	// <p> MEA's frequent-flyer program is called Cedar Miles and has three different tiers , Basic , Prestige , and Elite .
+484	TRUE	Middle East Airlines:: lounge	cedar lounge / Cedar Lounge	// Prestige and Elite members gain numerous benefits such as access to the Cedar Lounge at Beirut Rafic Hariri International Airport as well as outstation lounges at all MEA destinations . </p>
+488	FALSE	Middle East Airlines:: callsign	cedar jet / head	// <p> [[File : MEAofficeParis . JPG|thumb|Middle East Airlines office in the [[9th arrondissement of Paris|9th arrondissement]] , <a> Paris </a> ]] <strong> Middle East Airlines &#x2013; Air Liban S . A . L . </strong> ( ) , more commonly known as <strong> Middle East Airlines ( MEA ) </strong> ( ) , is the national <a> flag-carrier </a> <a> airline </a> of <a> Lebanon </a> , with its head office in <a> Beirut </a> .
+489	TRUE	Middle East Airlines:: icao	mea / Beirut	// <p> [[File : MEAofficeParis . JPG|thumb|Middle East Airlines office in the [[9th arrondissement of Paris|9th arrondissement]] , <a> Paris </a> ]] <strong> Middle East Airlines &#x2013; Air Liban S . A . L . </strong> ( ) , more commonly known as <strong> Middle East Airlines ( MEA ) </strong> ( ) , is the national <a> flag-carrier </a> <a> airline </a> of <a> Lebanon </a> , with its head office in <a> Beirut </a> .
+493	TRUE	Cirrus Airlines:: callsign	cirrus / Germany	// <p> <strong> Cirrus Airlines Luftfahrtgesellschaft mbH </strong> is an <a> airline </a> based in <a> Saarbr&#x00fc;cken </a> , <a> Germany </a> .
+494	FALSE	Cirrus Airlines:: parent	aviation investment corp. / International Air Lines	// It operates both charter and scheduled flights , the latter on behalf of <a> Lufthansa </a> and <a> Swiss International Air Lines </a> .
+495	FALSE	Cirrus Airlines:: founded	1995 / 1998	// In March 1998 , Cirrus Airlines received its licence to operate scheduled services between <a> Saarbr&#x00fc;cken </a> and <a> Hamburg </a> .
+500	TRUE	Cirrus Airlines:: icao	rus / mbH	// <p> <strong> Cirrus Airlines Luftfahrtgesellschaft mbH </strong> is an <a> airline </a> based in <a> Saarbr&#x00fc;cken </a> , <a> Germany </a> .
+502	FALSE	Cirrus Airlines:: logo_size	200 / a>.	// In August 1999 , Cirrus took over the route from <a> Mannheim City Airport </a> to <a> Berlin </a> <a> Tempelhof </a> from <a> Cosmos Air </a> . </p>
+506	FALSE	Harbour Air:: destinations	8 / 39	// <p> As of March 2009 , the Harbour Air fleet consisted of 39 aircraft : </p>
+510	TRUE	Harbour Air:: founded	1982 / 1982	// <p> The airline was established and started operations in 1982 as <strong> Windoak Air Service </strong> to provide seaplane charter services for the forestry industry in British Columbia .
+519	FALSE	SAHSA:: fleet_size	45 / the	// <p> SAHSA's fleet consisted of the following aircraft : </p>
+521	FALSE	SAHSA:: iata	sh / SA	// <p> <strong> Servicio A&#x00e9;reo de Honduras </strong> <a> SA </a> otherwise known as <strong> SAHSA Airlines </strong> was the national flag carrier <a> airline </a> of <a> Honduras </a> from October 22 , 1945 to January 14 , 1994 .
+522	TRUE	SAHSA:: callsign	sahsa / January	// <p> <strong> Servicio A&#x00e9;reo de Honduras </strong> <a> SA </a> otherwise known as <strong> SAHSA Airlines </strong> was the national flag carrier <a> airline </a> of <a> Honduras </a> from October 22 , 1945 to January 14 , 1994 .
+526	FALSE	SAHSA:: alliance	tan-sahsa / airline	// <p> The airline also operated : </p>
+532	FALSE	S7 Airlines:: destinations	87 / 7.	// <p> At 22 March 2010 , the average age of the S7 Airlines Boeing and Airbus fleet is 7 . 5 years . </p>
+542	TRUE	S7 Airlines:: iata	s7 / Airlines	// <p> <strong> OJSC Siberia Airlines </strong> ( ) , operating as <strong> S7 Airlines </strong> , is an <a> airline </a> headquartered in <a> Ob </a> , <a> Novosibirsk Oblast </a> , <a> Russia </a> , with offices in <a> Moscow </a> . &lt; ! --The &quot;English&quot; page does not list the company headquarters--&gt; <strong> S7 Airlines </strong> is currently <a> Russia </a> 's fastest growing airline and recently passed <a> Aeroflot </a> as <a> Russia </a> 's largest domestic airline . </p>
+543	TRUE	S7 Airlines:: airline	s7 airlines / S7 Airlines	// <p> <strong> OJSC Siberia Airlines </strong> ( ) , operating as <strong> S7 Airlines </strong> , is an <a> airline </a> headquartered in <a> Ob </a> , <a> Novosibirsk Oblast </a> , <a> Russia </a> , with offices in <a> Moscow </a> . &lt; ! --The &quot;English&quot; page does not list the company headquarters--&gt; <strong> S7 Airlines </strong> is currently <a> Russia </a> 's fastest growing airline and recently passed <a> Aeroflot </a> as <a> Russia </a> 's largest domestic airline . </p>
+550	TRUE	Air 2000:: founded	1987 / 11 April 1987	// <p> The airline started operations on 11 April 1987 , launched by the Owners Abroad Group using two <a> Boeing 757 </a> aircraft .
+557	FALSE	Pacific Wings:: destinations	5 / 10	// Tam Ho was indicted on two counts of witness tampering by a federal Grand Jury in May 2008 and faces up to 10 years in prison in connection with the event .
+565	TRUE	Pacific Wings:: airline	pacific wings / United	// <p> <strong> Pacific Wings Airlines </strong> is an <a> American </a> commuter <a> airline </a> headquartered in <a> Dallas </a> , <a> Texas </a> , <a> United States </a> .
+568	TRUE	Pacific Wings:: fleet_size	8 / 2008.	// The airline began operating flights from <a> Hartsfield-Jackson Atlanta International Airport </a> in <a> Atlanta </a> under the name <strong> GeorgiaSkies </strong> using Cessna Grand Caravan aircraft on September 29 , 2008 . </p>
+576	TRUE	CityJet:: founded	1994 / 12 January 1994.	// <p> The airline was established on 28 September 1992 and started scheduled operations on 12 January 1994 .

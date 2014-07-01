@@ -1,3 +1,0 @@
-<li><a>MPA</a></li>
-<li><a>MSF</a></li>
-<p>&lt;small&gt; <a>IBM</a>, <a>Toyota</a>, <a>Microsoft Corporation</a>, <a>General Electric</a>, <a>Intel</a>, <a>Cisco Systems</a>, <a>Dow Chemical Co.</a>, <a>Hitachi</a>, <a>Samsung</a>, <a>ACNielsen</a>, <a>Texas Instruments</a>, <a>PricewaterhouseCoopers</a>, <a>British Petroleum</a>, <a>Wal-Mart</a>, <a>Procter &amp; Gamble</a>, <a>Siemens</a>, <a>DuPont</a>, <a>Target</a>, <a>KPMG</a>, <a>Caterpillar</a>, <a>Komatsu</a>, <a>Kellogg's</a>, <a>Nationwide</a>, <a>Salesforce.com</a>,

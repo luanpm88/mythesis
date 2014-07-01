@@ -1,0 +1,111 @@
+Found: 38
+Found Not Null: 21
+Correct: 17
+Wrong: 4
+Total: 23
+precision: 0.8095238095238095
+recall: 0.7391304347826086
+
+
+
+#	NEW	founded	........ / 50	// <p> The crash of <strong> <a> Copa Airlines </a> Flight 201 </strong> is the deadliest airline disaster in Panama in 50 years , and the deadliest disaster in the history of <a> Copa Airlines </a> . </p>
+
+#	NEW	founded	........ / 1979 .	// <p> The airline was established and started operations in 1979 .
+
+#	NEW	founded	........ / 2004	// <p> The airline was established in 2004 as <strong> United Eagle Airlines </strong> ( , also known as <strong> UEAir </strong> ) . Scheduled revenue flights were launched when the first aircraft , an <a> Airbus A320-200 </a> , was delivered in July 2005 .
+
+3	TRUE	Eastern Australia Airlines::founded	1949 / 1949.	
+<p> The airline was established and started operations in 1949 .
+
+4	FALSE	Tatarstan Airlines::founded	1993 / 2010 :	
+<p> Tatarstan Airlines operates the following aircraft , as of July , 2010 : </p>
+
+5	FALSE	Europe Airpost::founded	1991 / 2008	
+On March 14 , 2008 <a> Air Contractors </a> of <a> Ireland </a> officially acquired the airline .
+
+#	NEW	founded	........ / 2002 .	// <p> The airline started operations in 2002 .
+
+#	NEW	founded	........ / 1996 .	// <p> The airline was established and started operations in 1996 .
+
+#	NEW	founded	........ / 2001 .	// Scheduled flights were first operated in 2001 .
+
+9	TRUE	Jet Air::founded	2001 / 2001	
+<p> Jet Air started its operational activity in 2001 in the business aviation sector , providing broker rendering services ( small aircraft and helicopters ) to local operators and companies .
+
+10	TRUE	IBC Airways::founded	1991 / 1991.	
+<p> The airline was established in 1991 .
+
+#	NEW	founded	........ / 1958	// <p> Ladeco began operations in 1958 flying mostly internal routes between Chile ' s major cities and some international routes , and continued to run services until 1994 when <a> LanChile </a> ( currently called <a> LAN Airlines </a> ) bought over 99% of the shares and merged Ladeco into its fleet .
+
+#	NEW	founded	........ / 31	// <p> As the first officer began the takeoff on runway 31 , the airplane started to drift to the left .
+
+#	NEW	founded	........ / 1948 .	// <p> The airline was established in 1948 and started operations on 24 December 1948 .
+
+#	NEW	founded	........ / <strong>	// <p> <strong> Girjet </strong> ( Gesti&#x00f3 ; n A&#x00e9 ; rea Ejecutiva , SL ) was an <a> airline </a> based in <a> Barcelona </a> , <a> Spain </a> .
+
+#	NEW	founded	........ / 1997	// / br / The airline suspended air operations in late 1997 to focus its attention on expanding its facilities , and acquiring a modern aircraft fleet starting with a new <a> STOL </a> type 19-seater <a> Dornier </a> 228-212 aircraft in April 1998 . br
+
+#	NEW	founded	........ / 247	// <p> On October 10 , 1933 , a <a> Boeing 247 </a> <a> propliner </a> operated by <a> United Air Lines </a> and <a> registered </a> as NC13304 , crashed near <a> Chesterton , Indiana </a> .
+
+#	NEW	founded	........ / 52	// <p> In the <strong> Sabena OO-AUB Ostend crash </strong> , a <a> Junkers Ju 52 </a> aircraft owned and operated by <a> Belgian </a> air operator <a> Sabena </a> crashed near <a> Ostend </a> , Belgium on November 16 , 1937 .
+
+18	TRUE	Concors::founded	1991 / 1991	
+Founded in 1991 , it operated regional and international charter flights out of <a> Riga International Airport </a> between 1995 and 2005 . </p>
+
+19	FALSE	Dornier Aviation Nigeria::founded	1979 / a	
+It operates Dornier aircraft in Nigeria on a charter basis , as well as running a fixed-base and maintenance operation .
+
+20	TRUE	East African Airlines::founded	2002 / 2002.	
+<p> The airline was established in March 2002 and started operations on 2 December 2002 .
+
+21	FALSE	Cascade Airways::founded	1969 / 1983	
+<p> When <a> Horizon Air </a> began operating in 1983 , Cascade was competing against an unstoppable airline that eventually acquired <a> Air Oregon </a> and <a> Transwestern Airlines </a> .
+
+22	TRUE	Egoli Air::founded	1996 / 1996.	
+<p> The airline was established in 1996 and started operations in June 1996 .
+
+#	NEW	founded	........ / 1996	// It was founded in 1996 , and since 2005 it operates flights in code share with <a> Varig </a> and <a> TAM Linhas A&#x00e9 ; reas </a> . </p>
+
+#	NEW	founded	........ / 2006 .	// The airline suspended services in March 2006 .
+
+25	TRUE	Estafeta Carga Aérea::founded	9 february 2000 / 2000.	
+<p> The airline was established on 9 February 2000 and started operations on 2 November 2000 .
+
+26	TRUE	Fairline::founded	2003 / 2004.	
+<p> The airline was established in 2003 and started operations in January 2004 .
+
+27	TRUE	Flight Alaska::founded	2000 / 1999	
+In 1999 Yute Air filed for <a> bankruptcy </a> and the company and <a> operating certificate </a> were acquired by the Flight International Group in April 2000 and renamed Flight Alaska . </p>
+
+28	TRUE	Freight Runners Express::founded	1985 / 1985	
+It was established and started operations in 1985 and operates scheduled and on-demand air cargo services .
+
+29	TRUE	Georgian Cargo Airlines Africa::founded	2003 / 2003.	
+<p> The airline was established and started operations in 2003 . </p>
+
+30	TRUE	Voyageur Airways::founded	1968 / 1968.	
+<p> <strong> Voyageur Airways </strong> is an airline based in <a> North Bay </a> , <a> Ontario </a> , <a> Canada </a> that commenced operations in 1968 .
+
+31	TRUE	Knighthawk Air Express::founded	1993 / 1993	
+<p> The airline was established in December <a> 1993 </a> .
+
+32	TRUE	Guinea Ecuatorial Airlines::founded	1996 / 1996	
+It was established and started operations in 1996 and operates domestic charter services .
+
+33	TRUE	Imair Airlines::founded	1994 / 1994	
+<p> The airline was established on 6 October 1994 and started operations in July 1995 .
+
+34	TRUE	Inversija::founded	1991 / 1991	
+It started operations in March 1991 and undertakes all types of cargo operations , as well as maintenance work for third parties .
+
+#	NEW	founded	........ / that	// In that call , the pilot said he was from the airport and was starting to descend .
+
+36	TRUE	MASkargo::founded	1972 / 1972	
+<p> The company was established in 1972 to handle the delivery of cargo around the world via <a> Malaysia Airlines </a> ' global network of routes .
+
+#	NEW	founded	........ / 2004	// <p> <a> TUI Airlines Belgium </a> was created in March 2004 through the acquisition of most of the flights of <a> Sobelair </a> , which went bankrupt .
+
+#	null	founded	15 january 2003 / ..........
+
+#	null	founded	12 november 1954 / ..........
+

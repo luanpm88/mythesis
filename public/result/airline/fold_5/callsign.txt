@@ -1,0 +1,127 @@
+Found: 45
+Found Not Null: 27
+Correct: 21
+Wrong: 6
+Total: 27
+precision: 0.7777777777777778
+recall: 0.7777777777777778
+
+
+
+#	NEW	callsign	........ / air	// <p> <strong> Aero Slovakia </strong> is an aviation company based in <a> Slovakia </a> offering a range of aviation services , including air taxi operations .
+
+1	TRUE	TESIS Aviation Enterprise::callsign	tesis / TESIS	
+<p> <strong> TESIS Aviation Enterprise </strong> was a <a> cargo airline </a> based in Moscow , Russia .
+
+#	NEW	callsign	........ / Slovensk&#	// <p> <strong> Slovak Airlines </strong> ( <strong> Slovensk&#x00e9 ; aerol&#x00ed ; nie a . s . </strong> ) was an <a> airline </a> based in <a> Bratislava </a> , <a> Slovakia </a> .
+
+#	NEW	callsign	........ / Malm&#	// <p> <strong> Malm&#x00f6 ; Aviation </strong> is a <a> regional airline </a> based in <a> Malm&#x00f6 ; </a> , Sweden .
+
+#	NEW	callsign	........ / American	// <p> <strong> American Airlines Flight 1 </strong> was a domestic , scheduled passenger flight from <a> New York International ( Idlewild ) Airport </a> ( later renamed John F . Kennedy International Airport ) , <a> New York </a> to <a> Los Angeles International Airport </a> , <a> California </a> that crashed shortly after take-off on 1 March 1962 .
+
+#	NEW	callsign	........ / US	// <p> <strong> MetroJet </strong> was a <a> no-frills </a> &quot ; <a> airline </a> within an airline&quot ; brand operated as a division of <a> US Airways </a> from 1998 to 2001 . </p>
+
+#	NEW	callsign	........ / US	// <p> <strong> <a> US Airways </a> Flight 1016 </strong> was a regularly scheduled flight between <a> Columbia , South Carolina </a> and <a> Charlotte , North Carolina </a> .
+
+#	NEW	callsign	........ / National	// <p> <strong> National Airlines Flight 2511 </strong> , registration N8225H , was a <a> Douglas DC-6 </a> B aircraft which exploded over <a> Bolivia , North Carolina </a> en route from <a> New York International ( Idlewild ) Airport </a> , <a> New York City , New York </a> , to <a> Miami , Florida </a> on January 6 , 1960 .
+
+8	TRUE	Air Ukraine::callsign	air ukraine / national	
+<p> <strong> Air Ukraine </strong> ( ) was the national <a> airline </a> of <a> Ukraine </a> , based in <a> Kiev </a> .
+
+9	TRUE	RUTACA Airlines::callsign	rutaca / Ciudad	
+<p> <strong> Rutaca </strong> ( Rutas A&#x00e9 ; reas C . A . ) is an <a> airline </a> based in <a> Ciudad Bol&#x00ed ; var </a> , <a> Venezuela </a> . </p>
+
+#	NEW	callsign	........ / Star	// <p> <strong> Star Per&#x00fa ; </strong> , formerly called <strong> Star Up </strong> , is a <a> low-cost carrier </a> based at <a> Jorge Ch&#x00e1 ; vez International Airport </a> in <a> Lima </a> , <a> Peru </a> .
+
+11	TRUE	Civil Aviation Administration of China::callsign	caac / of China	
+<p> The <strong> Civil Aviation Administration of China </strong> ( <strong> CAAC </strong> ; ) , formerly the <strong> General Administration of Civil Aviation of China </strong> ( ) , is the <a> aviation authority </a> under the <a> Ministry of Transport of the People ' s Republic of China </a> .
+
+12	FALSE	LAN Perú::callsign	lan peru / LAN	
+<p> <strong> LAN Per&#x00fa ; S . A . </strong> is an <a> airline </a> based in <a> Lima </a> , <a> Peru </a> .
+
+13	TRUE	Flyglobespan::callsign	globespan / Flyglobespan	
+<p> <strong> Flyglobespan </strong> was a <a> British </a> <a> low-cost airline </a> based in <a> Edinburgh </a> , <a> Scotland </a> .
+
+#	NEW	callsign	........ / London-	// <p> Destinations Are : <strong> Cyprus </strong> - Larnaca , Paphos <strong> Egypt </strong> - Sharm , Cairo <strong> Greece </strong> - Corfu <strong> Hungary </strong> - Budapest <strong> Ireland </strong> - Dublin , Shannon <strong> Netherlands </strong> - Amsterdam <strong> Portugal </strong> - Lisbon , Funchal , Faro <strong> Spain </strong> - Tenerife Sur , Lanzarote , Malaga <strong> Thailand </strong> - Phuket <strong> Turkey </strong> - Ankara , Istanbul <strong> United Kingdom </strong> Manchester , London-Luton , Glasgow </p>
+
+15	FALSE	Titan Airways::callsign	zap / Titan	
+<p> <strong> Titan Airways </strong> is a British <a> charter airline </a> based at <a> London Stansted Airport </a> , United Kingdom .
+
+16	TRUE	Palestinian Airlines::callsign	palestinian / Palestinian	
+<p> <strong> Palestinian Airlines </strong> ( <em> al-khutut al-filastiniya </em> ) is an <a> airline </a> based in <a> Egypt </a> that is wholly-owned by the Palestinian Authority . </p>
+
+17	TRUE	Teebah Airlines::callsign	teebah / Sierra	
+<p> <strong> Teebah Airlines </strong> was a <a> Sierra Leone </a> registered <a> charter airline </a> based in <a> Amman </a> , <a> Jordan </a> , leasing its aircraft out to other airlines on demand .
+
+#	NEW	callsign	........ / Qantas	// <p> <strong> QantasLink </strong> is a regional brand of <a> Australia </a> n airline <a> Qantas </a> and is an affiliate member of the <a> Oneworld </a> <a> airline alliance </a> .
+
+#	NEW	callsign	........ / Air	// <p> <strong> PAN Air </strong> L&#x00ed ; neas A&#x00e9 ; reas S . A . is a <a> cargo airline </a> based in <a> Madrid </a> , <a> Spain </a> .
+
+20	TRUE	LagunAir::callsign	lagunair / Le&#	
+<p> <strong> LagunAir L&#x00ed ; neas A&#x00e9 ; reas </strong> , usually referred to simply as <strong> LagunAir </strong> , was an <a> airline </a> based in <a> Le&#x00f3 ; n </a> , <a> Spain </a> .
+
+21	FALSE	Air Atlantique::callsign	atlantic / Air	
+<p> <strong> Air Atlantique </strong> is an <a> airline </a> based in <a> Coventry </a> , <a> United Kingdom </a> .
+
+#	NEW	callsign	........ / Intercontinental	// <p> <strong> Intercontinental de Avaci&#x00f3 ; n </strong> was an <a> airline </a> based in <a> Bogot&#x00e1 ; </a> , <a> Colombia </a> .
+
+23	TRUE	West Caribbean Airways::callsign	west / West	
+<p> <strong> West Caribbean Airways </strong> was an <a> airline </a> based in <a> Medell&#x00ed ; n </a> , <a> Colombia </a> .
+
+#	NEW	callsign	........ / based	// <p> <strong> Sky Airline </strong> is an <a> airline </a> based at the <a> Comodoro Arturo Merino Ben&#x00ed ; tez International Airport </a> in <a> Santiago </a> , Chile .
+
+#	NEW	callsign	........ / Vostok	// <p> <strong> JSC &quot ; Vostok Aviation Company&quot ; </strong> ( ) is an <a> airline </a> headquartered in <a> Khabarovsk </a> , <a> Russia </a> .
+
+26	TRUE	Saravia::callsign	saratov air / Saratov	
+<p> <strong> Saravia </strong> ( Saratov Airlines Joint Stock Company ) is an <a> airline </a> based in <a> Saratov </a> , <a> Russia </a> .
+
+#	NEW	callsign	........ / Republic	// <p> <strong> Bravo Air Congo </strong> was an <a> airline </a> based in <a> Kinshasa </a> , <a> Democratic Republic of the Congo </a> operating domestic and regional passenger services .
+
+28	FALSE	Air Max Africa::callsign	- / Air	
+<p> <strong> Air Max Africa </strong> was an <a> airline </a> based in <a> Libreville </a> , <a> Gabon </a> .
+
+#	NEW	callsign	........ / Svenska	// <p> <strong> Direktflyg </strong> , officially <strong> Svenska Direktflyg AB </strong> is a <a> regional airline </a> based in <a> Borl&#x00e4 ; nge </a> , <a> Sweden </a> .
+
+#	NEW	callsign	........ / Alberta	// <p> <strong> Regional 1 </strong> , a wholly owned subsidiary of <a> Avmax </a> , is a regional <a> airline </a> based in <a> Calgary </a> , <a> Alberta </a> , <a> Canada </a> .
+
+31	FALSE	Crimea Air::callsign	- / Simferopol International	
+<p> <strong> Crimea Air </strong> was an <a> airline </a> on the grounds of <a> Simferopol International Airport </a> in <a> Simferopol </a> , <a> Ukraine </a> .
+
+32	TRUE	Motor Sich Airlines::callsign	motor sich / Ukraine	
+<p> <strong> Motor Sich </strong> is an <a> airline </a> based in <a> Zaporizhia </a> , <a> Ukraine </a> .
+
+33	TRUE	Odessa Airlines::callsign	odessa air / Ukraine	
+<p> <strong> Odessa Airlines </strong> is an <a> airline </a> based in <a> Odessa </a> , <a> Ukraine </a> .
+
+34	TRUE	Tavrey Airlines::callsign	tavrey / Tavrey	
+<p> <strong> Tavrey Airlines </strong> ( aka Tavrey Aircompany ) is an <a> airline </a> based in <a> Odessa </a> , <a> Ukraine </a> .
+
+#	NEW	callsign	........ / Air	// <p> <strong> Ukraine Air Enterprise </strong> is an <a> airline </a> based in <a> Kiev </a> , <a> Ukraine </a> .
+
+36	TRUE	Fly Europa::callsign	fly euro / London	
+<p> <strong> Fly Europa </strong> was an <a> airline </a> based in <a> London </a> , <a> United Kingdom </a> .
+
+37	TRUE	Gulf Traveller::callsign	gulf air / Gulf	
+<p> <strong> Gulf Traveller </strong> was the all-economy full service <a> subsidiary </a> <a> airline </a> of <a> Gulf Air </a> .
+
+38	TRUE	Yemenia::callsign	yemeni / national	
+<p> <strong> Yemenia - Yemen Airways </strong> ( ) is the national <a> airline </a> of <a> Yemen </a> , based in <a> Sana ' a </a> .
+
+39	TRUE	Venezolana::callsign	venezolana / Venezuela	
+<p> <strong> Venezolana </strong> is an <a> airline </a> based in <a> Maracaibo </a> , <a> Venezuela </a> .
+
+40	TRUE	Línea Turística Aereotuy::callsign	aereotuy / L&#	
+<p> <strong> L&#x00ed ; nea Tur&#x00ed ; stica Aereotuy </strong> is an <a> airline </a> based in <a> Caracas </a> , <a> Venezuela </a> .
+
+41	TRUE	Servivensa::callsign	servivensa / Venezuela	
+<p> <strong> Servivensa </strong> is an <a> airline </a> based in <a> Caracas </a> , <a> Venezuela </a> .
+
+42	TRUE	ABSA Cargo Airline::callsign	absa cargo / ABSA -	
+<p> <strong> ABSA Cargo Airline </strong> ( formerly <strong> ABSA - Aerolinhas Brasileiras S . A . </strong> ) is a <a> cargo airline </a> based in <a> Campinas </a> , <a> Brazil </a> .
+
+43	TRUE	Air Minas Linhas Aéreas::callsign	air minas / Air	
+<p> <strong> Air Minas Linhas A&#x00e9 ; reas </strong> is an <a> airline </a> based in <a> Belo Horizonte </a> , <a> Minas Gerais </a> , <a> Brazil </a> .
+
+44	FALSE	Gestair::callsign	gestair / Private	
+<p> <strong> - Private Aviation </strong> </p>
+

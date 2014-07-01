@@ -1,9 +1,0 @@
-<li>Lincoln Performing Arts Centre (LPAC)</li>
-<li>Department of Biological Sciences (DBS)</li>
-<h3>Lincoln Performing Arts Centre</h3>
-<li>Agriculture, Food &amp; Animal Sciences
-<li>Department of Biological Sciences</li>
-<li>Health, Life &amp; Social Sciences
-<li>School of Natural &amp; Applied Sciences</li>
-<li>School of Social Sciences</li>
-<li>Lincoln School of Performing Arts</li>

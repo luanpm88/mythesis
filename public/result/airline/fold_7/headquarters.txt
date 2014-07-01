@@ -1,0 +1,54 @@
+Found: 23
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	headquarters	........ / Africa	// It operates scheduled and non-schedule / ad hoc cargo charters to regional destinations in <a> Africa </a> .
+
+#	NEW	headquarters	........ / Barbuda	// <p> <strong> Caribbean Star Airlines </strong> was an <a> airline </a> based in <a> Antigua and Barbuda </a> .
+
+#	NEW	headquarters	........ / ,	// <p> <strong> Sosoliso Airlines </strong> was a scheduled , domestic , passenger <a> airline </a> .
+
+#	NEW	headquarters	........ / Bonn	// <p> <strong> WDL Aviation </strong> is an <a> charter airline </a> based at <a> Cologne Bonn Airport </a> , <a> Germany </a> . </p>
+
+#	NEW	headquarters	........ / Pakistan	// <p> <strong> <a> Pakistan </a> </strong> </p>
+
+#	NEW	headquarters	........ / ,	// <p> <strong> Australian air Express </strong> is a <a> logistics </a> company based in <a> Melbourne </a> , <a> Australia </a> .
+
+#	NEW	headquarters	........ / December	// 328 ] ] ] ] Welcome Air operates the following services ( as of December 2010 ) : </p>
+
+#	NEW	headquarters	........ / Zvartnots	// Its main base is <a> Zvartnots International Airport </a> , Yerevan . </p>
+
+#	NEW	headquarters	........ / Zambia	// <p> <strong> Nationwide Airlines ( Zambia ) Limited </strong> is a scheduled , domestic , passenger <a> airline </a> based in <a> Zambia </a> .
+
+#	NEW	headquarters	........ / Nigeria	// <p> <strong> Easy Link Aviation </strong> Services was an <a> airline </a> based in <a> Nigeria </a> . </p>
+
+#	NEW	headquarters	........ / March	// The Celestair fleet consists of the following aircraft ( as of March 2009 ) : </p>
+
+#	NEW	headquarters	........ / ,	// <p> <strong> Executive Aerospace </strong> was a charter <a> airline </a> based in <a> Johannesburg </a> , <a> South Africa </a> .
+
+#	NEW	headquarters	........ / Lufthansa	// <p> The owners of SunExpress are 50% <a> Turkish Airlines </a> and 50% <a> Lufthansa </a> .
+
+#	NEW	headquarters	........ / ,	// <p> The airline was established on August 12 , 2003 and operations started on July 28 , 2004 .
+
+#	NEW	headquarters	........ / operations	// <p> The airline was established on 24 December 1992 and started operations on 1 June 1993 .
+
+#	NEW	headquarters	........ / ,	// <p> <strong> Toll Aviation </strong> is an <a> airline </a> based in <a> Brisbane </a> , <a> Australia </a> .
+
+#	NEW	headquarters	........ / operations	// Air Corridor ceased operations on 10 January 2008 . . </p>
+
+#	NEW	headquarters	........ / Afghanistan	// <p> <strong> Bakhtar Afghan Airlines </strong> was an <a> airline </a> based in <a> Afghanistan </a> .
+
+#	NEW	headquarters	........ / Benin	// <p> <strong> Aero Benin </strong> is an <a> airline </a> based in <a> Benin </a> . </p>
+
+#	NEW	headquarters	........ / Nigeria	// <p> <strong> Premium Air Shuttle </strong> was an <a> airline </a> based in <a> Nigeria </a> . </p>
+
+#	NEW	headquarters	........ / August	// <p> The Faso Airways fleet includes the following aircraft ( at August 2006 ) : </p>
+
+#	NEW	headquarters	........ / Nepal	// Ltd . </strong> is an <a> airline </a> based in <a> Nepal </a> .
+
+#	NEW	headquarters	........ / Kyrgyzstan	// <p> <strong> KAS Air Company </strong> was an <a> airline </a> based in <a> Kyrgyzstan </a> . </p>
+

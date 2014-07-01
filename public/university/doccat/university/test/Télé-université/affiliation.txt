@@ -1,2 +1,0 @@
-<li><a>ERASME</a>: a <a>data warehouse</a> laboratory</li>
-<li><a>Website</a></li>

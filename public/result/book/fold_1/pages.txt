@@ -1,0 +1,1916 @@
+Found: 945
+Found Not Null: 6
+Correct: 2
+Wrong: 4
+Total: 11
+precision: 0.3333333333333333
+recall: 0.18181818181818182
+
+
+
+#	NEW	pages	........ / person	// <p> The story is narrated by Merlyn in a first person perspective .
+
+#	NEW	pages	........ / twentieth	// It is considered to be one of the most important novels in Honduran literature in the early twentieth century .
+
+#	NEW	pages	........ / ( 2007 )	// <p> Other books in the series : <strong> The Fire Thief </strong> ( 2005 ) and <strong> The Fire Thief Fight Back </strong> ( 2007 ) </p>
+
+#	NEW	pages	........ / can	// <p> Katarina Bishop has been groomed for a life of thieving as long as she can remember .
+
+#	NEW	pages	........ / town	// It is revealed later in the story that when Ian was about 12 years old Charlie&#x2019 ; s twin brother ( Alec ) had drowned in the town river .
+
+#	NEW	pages	........ / remains	// He says that the man is in fact not famous even though the book that would have made him famous remains unchanged .
+
+#	NEW	pages	........ / over	// It drives off other kragen in return for offerings of food organized by an entrenched quasi-religious priesthood built up over generations .
+
+#	NEW	pages	........ / mid	// <p> The novel is set in <a> Melbourne </a> in the mid 1970s .
+
+#	NEW	pages	........ / II	// The story is about three young boys , the Rock Jockeys , set out to climb dangerous Devil ' s Wall hoping of finding the remains of a World War II bomber .
+
+#	NEW	pages	........ / review	// &quot ; But otherwise his play-by-play writing style can seem a bit choppy , especially in the story ' s more poignant moments , &quot ; the review noted .
+
+#	NEW	pages	........ / remaining	// If he accepts , she will cancel his remaining debt .
+
+#	NEW	pages	........ / ,	// <p> <strong> Rose </strong> : Shell ' s stillborn baby , named after Father Rose .
+
+#	NEW	pages	........ / and	// The novel shifts points of view , cutting from Bosch ' s first-person commentary to the third-person perspectives of Walling and Backus .
+
+#	NEW	pages	........ / little	// <p> When Dr . Craig Bowman is served with a summons for medical malpractice , he ' s shocked , enraged , and more than a little humiliated .
+
+#	NEW	pages	........ / new	// A headed volunteer charity worker named Siuzan Delage helps Cavala adjust to his new state .
+
+#	NEW	pages	........ / years	// He describes the discovery of his &quot ; double&quot ; , Georg Friedrich Martens , a man who lived an almost parallel life to Friedrich eighty-nine years previously .
+
+#	NEW	pages	........ / little	// Pankratov finds the only remaining painting that he had created , which was a portrait of Valya as a little girl .
+
+#	NEW	pages	........ / for	// <p> <strong> Xavier McLachlan </strong> - The <a> main character </a> of the story , he is often called &quot ; Xave&quot ; for short .
+
+#	NEW	pages	........ / three	// <p> The status of the Kukulkan novels as part of the <em> Viagens </em> series is problematic on three grounds .
+
+#	NEW	pages	........ / 1931 .	// The three books were published together as one volume , <em> Penrod : His Complete Story </em> , in 1931 . </p>
+
+#	NEW	pages	........ / are	// <p> Humanity is at war with a genocidal alien race known as the Gbaba , and after a long war , it becomes obvious that humans are losing .
+
+#	NEW	pages	........ / melancholy	// <p> The story then switches over to the wife of the old man , who meets a melancholy prince .
+
+#	NEW	pages	........ / to	// That promise leads them into a war for which they are ill-prepared , which threatens the very people they are trying to protect .
+
+#	NEW	pages	........ / violent	// <p> The story opens in the middle of a particularly violent battle .
+
+#	NEW	pages	........ / were	// When they shrink , they realise that they are too small to hear which didn ' t happen the last time they were shrunk .
+
+#	NEW	pages	........ / book	// <p> Sibthorp assembled the descriptions and <a> plates </a> , his death in 1796 included an endowment to see the book published .
+
+#	NEW	pages	........ / and	// <p> Mitchison offered her own criticisms of the manuscript ; she found the God-figure too traditionally male , and was amused by Stapledon ' s myth-making , which jarred with his self-image as a man of practicality and pragmatism .
+
+#	NEW	pages	........ / his	// His death was faked , and he remained with Mittel as his bodyguard .
+
+#	NEW	pages	........ / read . &	// <em> The New York Times </em> described it as &quot ; harrowing&quot ; , &quot ; one of the saddest stories you ' ll ever read . &quot ;
+
+#	NEW	pages	........ / long	// A thrifty and wise man , who has been part of the player ' s group for a long while .
+
+#	NEW	pages	........ / primary	// <p> <a> Daniel B . Wallace </a> , in review of <em> Misquoting Jesus </em> says the book &quot ; comes up short on genuine substance about his primary contention .
+
+#	NEW	pages	........ / 1963 .	// This could be regarded as Carr ' s first book as his first novel , <em> <a> A Day in Summer </a> </em> , was not published until 1963 . </p>
+
+#	NEW	pages	........ / three	// The following list respects the order of the book , as divided into its three parts .
+
+#	NEW	pages	........ / than	// <p> &quot ; This is another tale in which Merrivale is loud and tantrum-y but tolerable , and the narration more continuous and sane than usual .
+
+#	NEW	pages	........ / tree-	// Nevertheless , he is still making arrangements to add to the exhibits , including a recent acquisition , &quot ; Patience&quot ; , a Bornese tree-snake .
+
+#	NEW	pages	........ / same	// <p> This biography , contains two parts in the same volume .
+
+#	NEW	pages	........ / 2007 .	// An American edition was published by <a> Tor Books </a> in 2007 . </p>
+
+#	NEW	pages	........ / s	// <p> <strong> Margaret O ' Koren </strong> - Cass and Caitlin ' s Mother .
+
+#	NEW	pages	........ / after	// <p> The next day , Chris calls Manuel Ramirez , the acting chief of police and gives him info about Jimmy Wing ' s kidnapper ' s vehicle , and to call him after noon .
+
+#	NEW	pages	........ / 2000 .	// <p> <strong> <em> The Fast Red Road : A Plainsong </em> </strong> serves as <a> Stephen Graham Jones </a> ' s debut novel written in 2000 .
+
+#	NEW	pages	........ / ever	// The story concerns Dale Sutton ' s mission to the dreaded planet <a> Saturn </a> from which no one has ever returned .
+
+#	NEW	pages	........ / 9	// <p> The book contains 9 chapters .
+
+#	NEW	pages	........ / novel&	// Buckell calls it his &quot ; caribbean <a> steampunk </a> novel&quot ; .
+
+#	NEW	pages	........ / father	// <p> Some time prior to the opening of the book and his training at the academy , Fred had been living with his father aboard the space station which his father commands .
+
+#	NEW	pages	........ / criminal	// He provides the UN forces with details of her Earth criminal record .
+
+#	NEW	pages	........ / Miss	// Edison relates a long story about Mr . Edward Anderson who was tempted into infidelity by a young woman named Miss Evelyn .
+
+#	NEW	pages	........ / village	// The novel follows the story of Peter , the son of drunkard woodcutter Tomas , and his life in a seemingly normal village ( Chust ) .
+
+#	NEW	pages	........ / ,	// <p> <em> The Day of the Ants </em> again , just as its predecessor has several connected plotlines , some of which take place in the world of humans , while others - among ants .
+
+#	NEW	pages	........ / 1999	// <p> Now I Can Die in Peace is a collection of Simmons ' articles from 1999 to 2004 .
+
+#	NEW	pages	........ / empty	// But with the help of money from Jolie Logan ' s father , Kate does find a flat and an empty shop .
+
+#	NEW	pages	........ / to	// <p> The village was originally called Oberhochwald , and then afterwards renamed Teufelheim ( <em> Devil home </em> in <a> German </a> ) , which was eventually distorted to Eifelheim .
+
+#	NEW	pages	........ / of	// The story is about Tag and Cowboy who spend their free time searching for treasure from sunken ships off the coast of Bermuda .
+
+#	NEW	pages	........ / Bird	// <p> Long before Columbus : Jutthunvaa ' is called the Bird Girl .
+
+53	TRUE	The Dark Crusader::pages	. / find	
+But there is something about Dr Witherspoon that Bentall find suspicious .
+
+#	NEW	pages	........ / 2004 .	// <p> The novel was originally published under the name Amagansett when it first appeared in 2004 .
+
+#	NEW	pages	........ / little	// J . L . B . Matekoni </a> , but he seems reluctant to set a wedding date , which makes her a little unhappy .
+
+#	NEW	pages	........ / greater	// <p> Because Hersh named Ben-Menashe as a major source of the book , other allegations by the former Israeli official were granted greater attention .
+
+#	NEW	pages	........ / threatening	// The story is about Chris Masters who is having problems with bullies at his school , stealing his lunch money and threatening him .
+
+#	NEW	pages	........ / other	// It was a recipient of a <a> National Jewish Book Award </a> and several other honours .
+
+#	NEW	pages	........ / 1943 .	// First published in 1947 , the story covers the period from 1942 to 1943 . </p>
+
+#	NEW	pages	........ / 1944 .	// First published in 1948 , the story covers the period from 1943 to 1944 . </p>
+
+#	NEW	pages	........ / 1968 .	// <p> This book was written for the <a> Stratemeyer Syndicate </a> by Jerrold Mundis in 1968 . </p>
+
+#	NEW	pages	........ / Dan	// <p> <strong> <em> Diplomatic Dan </em> </strong> is the fourth volume of autobiography by Dan Raschen .
+
+#	NEW	pages	........ / 14	// It includes four previously published stories and 14 new ones . </p>
+
+#	NEW	pages	........ / three	// This hasty , staccato style carries over into the novel , which is just over 200 pages long in contemporary editions but contains forty separate chapters averaging two to three pages each . </p>
+
+#	NEW	pages	........ / ,	// <p> The story starts out with Sneeze , Hiccup , Goldie , Ace , and Peirre .
+
+#	NEW	pages	........ / 2010 .	// According to <em> <a> The Independent </a> </em> , the book had sold fewer than 1 , 000 copies by March 2010 . </p>
+
+#	NEW	pages	........ / several	// This is represented through the illustrations of satellites on several pages . </p>
+
+#	NEW	pages	........ / anything	// Consequently , they grow up always together and loving each other more than anything else .
+
+#	NEW	pages	........ / written .	// A planned third book , to be called <em> Swordsmen of Pellucidar </em> , was never written . ref
+
+#	NEW	pages	........ / their	// <p> Lucinda takes a job at a performance art project called , &quot ; Complaint Line , &quot ; listening to anonymous callers talk about their grievances .
+
+#	NEW	pages	........ / usual	// They had arranged to meet in the Bordone Room at 11 . 30 , but they both arrive early , and the first 170 pages of the book consist of Atzbacher ' s thoughts and recollections as he surreptitiously watches Reger in his usual position .
+
+#	NEW	pages	........ / by	// <p> Later , Sligon reveals the secret to Siona ( whose father was banished by Niamh ' s ) and strikes Chong with a poisoned dagger&#x2014 ; only to be immediately slain by Siona .
+
+#	NEW	pages	........ / skin	// Karn notices that Delgan is rather refined for a &quot ; Blue Barbarian&quot ; ( the only race of which he knows having such skin colour ) .
+
+#	NEW	pages	........ / to	// <p> Following the events of <a> Running the Risk </a> , Dax and the other Colas are sent to recover .
+
+#	NEW	pages	........ / naval	// W . Wilson </a> providing the naval chapters ) .
+
+#	NEW	pages	........ / ,	// <p> The book contains content from twenty-nine contributors , including <a> psychologist </a> s , counselors and school therapists .
+
+#	NEW	pages	........ / 266	// <p> English translation : <em> S&#x00e9 ; bastien Roch </em> , Dedalus , &#x00ab ; Empire of the senses &#x00bb ; , 2000 , 266 pages ( ISBN : 1873982437 ) . </p>
+
+#	NEW	pages	........ / by	// It includes one posthumously published work ( the story by Smith ) .
+
+#	NEW	pages	........ / ,	// However , when half the <a> hit-men </a> in Europe start gunning for them , things get complicated quickly .
+
+#	NEW	pages	........ / ,	// <p> &quot ; . . . this novel is too in your face , too ambitious and ultimately too obvious to be very funny , or actually very original .
+
+#	NEW	pages	........ / they	// The two assume human forms , and after eating , explore &quot ; another use that humans have for mouths&quot ; - they kiss .
+
+#	NEW	pages	........ / loss . &	// She describes the girl ' s expression &quot ; to be a mass of contradictions : innocent yet experienced , joyous yet tearful , full of longing and yet full of loss . &quot ;
+
+#	NEW	pages	........ / early	// Out of eighty fights in his early career , Christie lost only two and gained a reputation for early knockouts .
+
+#	NEW	pages	........ / Jacob	// <p> In this sequel to <em> Shadowmancer </em> , Thomas , Kate , and Raphah flee from the evil sorcerer Demurral and head to London with Jacob Crane .
+
+#	NEW	pages	........ / ,	// The church was designed to permit the entry of light , which was considered necessary to create an atmosphere conducive to prayer . Art Resource , N / Giraudon </p>
+
+#	NEW	pages	........ / it	// It contains all of his published <a> science fiction </a> stories as of it publication .
+
+#	NEW	pages	........ / ,	// The book was released on July 30 , 2006 .
+
+#	NEW	pages	........ / and	// The book is written very much from Josh ' s point of view , the taut language effectively conveying his distress and frustration .
+
+#	NEW	pages	........ / ,	// ( The authors analyzed the last two of these in the books <em> Paying with Plastic </em> and <em> Invisible Engines </em> , respectively . ) </p>
+
+#	NEW	pages	........ / research	// <p> Hauser uses <strong> artificial moral dilemmas </strong> as a research strategy .
+
+#	NEW	pages	........ / 2000	// The book was released in two editions , one in 1985 ! Date ? and the revised and expanded edition in 2000 ! Date ? .
+
+#	NEW	pages	........ / from	// By autumn 1999 she had written 107 books during the last seventeen years and decided have a holiday next seven weeks from writing .
+
+#	NEW	pages	........ / firmly	// After many popular mystery novels and a number of movies , the character of Ellery Queen was at this point firmly established .
+
+#	NEW	pages	........ / another	// Ezra fails miserably not only because he is totally inept in romance , but because the girl is already in love with another man .
+
+#	NEW	pages	........ / major	// <p> <strong> Degeneration </strong> ( <em> Entartung </em> , 1892 ) , was <a> Max Nordau </a> ' s major work .
+
+#	NEW	pages	........ / to	// <p> <strong> <em> Discrimination </em> </strong> &#x2013 ; Most of the characters in the novel are discriminated against in one way or the other , yet each of them show discrimination to others .
+
+#	NEW	pages	........ / ,	// As he nears the end of his life story , Alessandro tells his young companion , &quot ; And yet if you asked me what [ the truth ] was , I can ' t tell you .
+
+#	NEW	pages	........ / 2007 .	// <p> <strong> The Chase </strong> is a western book by novelist <a> Clive Cussler </a> in November 2007 .
+
+#	NEW	pages	........ / to	// <p> During World War I , the men of a Hungarian village leave to fight .
+
+#	NEW	pages	........ / ,	// <p> The story takes place approximately two weeks following the end of the events of <em> <a> Armies of Hanuman </a> </em> , beginning in Lanka .
+
+#	NEW	pages	........ / ,	// The story is about Murphy who is now the sheriff of Turret , New Mexico .
+
+#	NEW	pages	........ / simple	// <p> That said , it is not a simple story .
+
+#	NEW	pages	........ / ,	// pI will read you their names directly ; here they are , in my pocketbook .
+
+#	NEW	pages	........ / prophecy . &	// <p> The book does not include a list of bottom billion countries because Collier believes this might lead to a &quot ; self-fulfilling prophecy . &quot ;
+
+#	NEW	pages	........ / Nanking	// Written by historian Hua-ling Hu and published in 2000 , the book recounts how Vautrin saved thousands of lives of women and children during the Nanking Massacre .
+
+#	NEW	pages	........ / e	// <p> <strong> <em> The Family Nobody Wanted </em> </strong> is a 1954 <a> memoir </a> by Helen Doss ( n&#x00e9 ; e Grigsby ) .
+
+#	NEW	pages	........ / Moers '	// <p> <em> The City of Dreaming Books </em> also contains a wealth of made-up words , which can be found in most of Moers ' work .
+
+#	NEW	pages	........ / Glass	// <p> In the epilogue of the story , the castle of Katschei becomes the Belarus Chapter of the Champions Order of Glass Mountain .
+
+#	NEW	pages	........ / 1996 .	// <p> <em> Dave Barry in Cyberspace </em> is a best-selling humor book that was published by Ballantine Books in 1996 .
+
+#	NEW	pages	........ / 1999 .	// The book was originally published in 1999 . </p>
+
+#	NEW	pages	........ / ,	// Viewing consumerism ( with respective overworking and dissatisfaction ) as a deliberately spread disease , the book consists of three parts &#x2014 ; symptoms , origins and treatment .
+
+#	NEW	pages	........ / novel	// But even they are not the main instigators of the events , as the final chapter of the novel reveals .
+
+#	NEW	pages	........ / ,	// It covers topics such as Hardcore Gaming , LAN Events , Indie Game Development , Videogames as Art , Music in Games , Professional Gamers , Future of Games , etc .
+
+#	NEW	pages	........ / quot ;	// Two of his books had his name as &quot ; Col .
+
+#	NEW	pages	........ / inside	// <p> Draper wanted to tell the story of the Bush White House with an inside perspective .
+
+#	NEW	pages	........ / movements	// He is seen talking to questionable people , and before long his line is tapped and his movements followed .
+
+#	NEW	pages	........ / Astorre	// <em> Omert&#x00e0 ; </em> follows the story of Don Aprile ' s adopted &quot ; nephew&quot ; Astorre Viola .
+
+#	NEW	pages	........ / ,	// The book is Chabon ' s first book-length foray into nonfiction , with 16 essays , some previously published .
+
+#	NEW	pages	........ / their	// <p> The book follows four young friends who are befriended by a magical candy vendor , asking them to retrieve an ancient treasure hidden beneath their school .
+
+#	NEW	pages	........ / Bosch	// <p> <strong> <em> Lost Light </em> </strong> is the ninth novel in <a> Michael Connelly </a> ' s Harry Bosch series .
+
+#	NEW	pages	........ / ,	// &quot ; An extra ordinary saga of romance , history , religion , and political intrigue . &quot ;
+
+#	NEW	pages	........ / observation	// In the morning , the victim is found dead , locked inside the room which was under observation continuously .
+
+#	NEW	pages	........ / looks	// <p> Both Flamande and Gasquet are masters of disguise , and no one knows what either man looks like .
+
+#	NEW	pages	........ / ten	// Book One is divided into seven chapters ; Book Two is divided into six chapters ; Book Three has ten chapters .
+
+#	NEW	pages	........ / 1949 .	// It was first published by Pellegrini &amp ; Cudahy in 1949 .
+
+#	NEW	pages	........ / needed . &	// He believes &quot ; that the war would at last provide him with the prop he needed . &quot ;
+
+#	NEW	pages	........ / she	// Three years ago , he had fallen in love with her during a brief but intense encounter on a railway platform&#x2014 ; after which she vanished .
+
+#	NEW	pages	........ / two	// Seward is murdered , but then Dravot produces a fabricated story about what happened : that there were two Rippers .
+
+#	NEW	pages	........ / 2006	// It was published by <a> Prime Books </a> in <a> 2006 </a> . </p>
+
+#	NEW	pages	........ / 1990	// It was first published in 1990 in Australian by Pan Macmillan . </p>
+
+#	NEW	pages	........ / inaccessible . &	// Voices From a Medieval Village </em> &quot ; as a book that most children would find inaccessible . &quot ;
+
+#	NEW	pages	........ / sophisticated	// This deciphers the mathematical expressions because the &quot ; forbidden&quot ; mathematical maneuvers are the only way aliens can communicate with other more sophisticated races .
+
+#	NEW	pages	........ / actually	// <p> : <a> Lord Byron </a> and <a> Shelley </a> figure in its pages , under different names and different worldly circumstances from those in which they actually lived .
+
+#	NEW	pages	........ / 000 .	// The book was considered disappointing by many critics , and sales were much lower : <a> Nielsen BookScan </a> , which covers roughly 70 percent of book sales , placed hardback sales at 293 , 000 copies and paperback sales at 138 , 000 . </p>
+
+#	NEW	pages	........ / ,	// The book documents the life of Ghahramani , including her early childhood .
+
+#	NEW	pages	........ / enemy :	// Morgra has dark intentions for the wolf pack , which revolve around a legend which brings the wolves together with their most feared enemy : Man .
+
+#	NEW	pages	........ / taken	// It ' s 1976 , the royal family has been deposed , the professional classes have fled and the communists have taken over .
+
+#	NEW	pages	........ / and	// Along this road , Kayla finds other separate versions of herself , quickly realizing that she is not the only girl with her genetic code and looks .
+
+#	NEW	pages	........ / 1998 .	// <p> An updated revision , <strong> <em> The American Way of Death Revisited </em> </strong> , completed by Mitford just before her death in 1996 , appeared in 1998 . </p>
+
+#	NEW	pages	........ / Kyle	// <p> <strong> <em> In the Wings : Behind the Scenes at the New York City Ballet </em> </strong> is a book by Kyle Froman .
+
+#	NEW	pages	........ / 688	// The film adaption grossed $12 , 688 in limited release . </p>
+
+#	NEW	pages	........ / be	// <p> This book has yet to be published .
+
+#	NEW	pages	........ / 1988	// <p> : <em> This description is based on the 1988 edition . </em>
+
+#	NEW	pages	........ / his	// The book tells the story of his life , as well as the problems he faced with his journeys .
+
+#	NEW	pages	........ / s	// He is the wielder of the Sword of Bellandra , yet has never used it to take another man ' s life .
+
+#	NEW	pages	........ / vision . &	// <p> The Miles Franklin Award Judges ' Report called it &quot ; a novel with a rather surprising vision . &quot ;
+
+#	NEW	pages	........ / ,	// The author ' s name is only listed as a <a> pseudonym </a> , Chimo .
+
+#	NEW	pages	........ / of	// In saving Morkeleb ' s life , Jenny ' s weak powers are much augmented , allowing her to confront Zyerne but also tempting her to transform into a dragon and abandon the concerns of humanity .
+
+#	NEW	pages	........ / of	// <p> The book analyses the arguments of <a> greenhouse sceptics </a> and the use and presentation of statistics .
+
+#	NEW	pages	........ / his	// <p> The book follows the career of Hugh Paret from youth to manhood , and how his profession as a corporation lawyer gradually changed his values .
+
+#	NEW	pages	........ / quot ;	// It is the first in the four book &quot ; Steve Forrester&quot ; series .
+
+#	NEW	pages	........ / historical	// <p> The novel begins with a strange ' Author ' s Note ' : &quot ; This is not a historical novel .
+
+#	NEW	pages	........ / criminal	// The younger Van der Eem was convicted twice on drug charges and has been blocked from entering the <a> United States </a> because of his criminal record .
+
+#	NEW	pages	........ / about	// <p> The book also includes a section about grammar .
+
+#	NEW	pages	........ / ,	// <p> In the forward of the book , <a> W .
+
+#	NEW	pages	........ / and	// One long bus ride later , they arrive at the conference surrounded by cabins and writers .
+
+#	NEW	pages	........ / or	// After ten days of mutually infatuated courtship , he proposes marriage to her despite knowing nothing about her family or background .
+
+#	NEW	pages	........ / ,	// <p> <strong> Lost and Found </strong> is a children ' s picture book by <a> Oliver Jeffers </a> , published in 2005 .
+
+#	NEW	pages	........ / generally	// The critical reaction to the book was generally positive .
+
+#	NEW	pages	........ / published . &	// But he says that book is &quot ; unlikely to be published . &quot ;
+
+#	NEW	pages	........ / ,	// The structural parallel to Ms . Bull ' s first novel , <a> War for the Oaks </a> , is obvious .
+
+#	NEW	pages	........ / ( 1995 )	// <p> <strong> <em> All That Glitters </em> </strong> is a ( 1995 ) novel by <a> V .
+
+#	NEW	pages	........ / ,	// Also , there are different short stories , full of imagination and humor .
+
+#	NEW	pages	........ / his	// Garrison Keillor has called Garner ' s Modern American Usage one of the five most influential books in his library .
+
+#	NEW	pages	........ / grew	// He tells the story of the generation of <a> Estonia </a> ns with which he grew up .
+
+#	NEW	pages	........ / ,	// The book is named after its main character , Alcatraz Smedry . </p>
+
+#	NEW	pages	........ / 1988 .	// <p> <strong> <em> Dragonsword </em> </strong> is a novel written by <a> Gael Baudino </a> and published in 1988 .
+
+#	NEW	pages	........ / ,	// Nonetheless it is subtitled &quot ; A Fantasy for Technophiles&quot ; and the central place of devices generally , and electronics specifically , justifies that label .
+
+#	NEW	pages	........ / and	// Under the eyes of his determined mother , he is groomed into a fully fledged general and statesman .
+
+#	NEW	pages	........ / 1932-	// The book version was first published by <a> ERB , Inc . </a> on 1932-04-15 .
+
+#	NEW	pages	........ / ,	// In suspense , the passengers mull over their pasts and the future , form attachments and suspicions , tell secrets , explore desires .
+
+#	NEW	pages	........ / to	// The man , named Decker , cries as he kisses the infant goodbye , then walks out in the rain to be shot to death .
+
+#	NEW	pages	........ / 2008 .	// The book was released 7 February 2008 . </p>
+
+#	NEW	pages	........ / these	// In Lynette Cook ' s illustrations - many newly created for this book - we glimpse the landscapes and atmospheres that might adorn these planets .
+
+#	NEW	pages	........ / its	// <p> The novel received mostly glowing reviews in the United States and abroad , and has had a cult following since its publication .
+
+#	NEW	pages	........ / never	// It was published by <a> Gnome Press </a> in an edition of 5 , 000 copies , some of which were never bound .
+
+#	NEW	pages	........ / twenty	// <p> Comic book writer Warren Ellis counts the novel as one of his early favorites , writing , &quot ; I must have read that book twenty times .
+
+#	NEW	pages	........ / omnibus	// The first two books were somewhat rewritten for the omnibus edition .
+
+#	NEW	pages	........ / you	// A great book is one whose advice you follow .
+
+#	NEW	pages	........ / successful	// Toby and Lou remain estranged as the book follows both characters through life ' s progress : Lou raises their son and Toby and Deary develop a successful business .
+
+#	NEW	pages	........ / this	// Several of the stories are original to this collection .
+
+#	NEW	pages	........ / 1997 .	// <p> The novel <strong> <em> Tenderness </em> </strong> was written by <a> Robert Cormier </a> in 1997 .
+
+#	NEW	pages	........ / ,	// Each one of the group then receives a unique calling card , in the form of newspaper clippings , drawings and phone calls .
+
+#	NEW	pages	........ / ( 1997 ) .	// <p> It was a sequel to <em> <a> The Book of Night with Moon </a> </em> ( 1997 ) .
+
+#	NEW	pages	........ / 2001 .	// The first complete English translation was published by <a> Wesleyan University Press </a> in 2001 . </p>
+
+#	NEW	pages	........ / each	// <p> His relationship with Tiffany is going well after they admit they both like each other .
+
+#	NEW	pages	........ / 15	// <p> <strong> <em> The Delivery Man </em> </strong> , is <a> Joe McGinniss Jr . </a> ' s first novel , published 15 January 2008 .
+
+#	NEW	pages	........ / 1969	// The book was originally published by Allison &amp ; Busby in 1976 and collects stories originally published between 1969 and 1974 .
+
+#	NEW	pages	........ / fascination&	// ( &quot ; The Dark Heart will ensure Italy remains an object of our fascination&quot ; .
+
+#	NEW	pages	........ / ,	// It was first published in book form in <a> 1943 </a> by The World ' s Work , Ltd .
+
+#	NEW	pages	........ / its	// The book has stayed constantly in print since its publication .
+
+#	NEW	pages	........ / good . &	// If only all thrillers could be this good . &quot ;
+
+#	NEW	pages	........ / for	// <p> The mix up over the letter informing Affad of his forthcoming death has caused major ructions within the Gnostic sect , and he is called back to Egypt for admonishment .
+
+#	NEW	pages	........ / s	// Fearing more burglary attempts , the doctor decides to keep the ring in his friend ' s home .
+
+#	NEW	pages	........ / 1995 .	// The two works were published in 1985 and 1986 , respectively , and <em> Allies and Aliens </em> was published in 1995 . </p>
+
+#	NEW	pages	........ / , &	// The novel begins with an introduction by a character who calls himself , &quot ; S . &quot ; ;
+
+#	NEW	pages	........ / 12	// The book has been cited as a source in at least 12 other published works . </p>
+
+#	NEW	pages	........ / better	// <p> Jerry O ' Sullivan , honest <a> Dublin </a> theatrical carpenter , moves to <a> London </a> , seeking a better job .
+
+#	NEW	pages	........ / s	// This is the last book which Sampson Low published during Verne ' s lifetime .
+
+#	NEW	pages	........ / 1989 .	// <p> <strong> <em> Tripmaster Monkey : His Fake Book </em> </strong> is the third book written by <a> Maxine Hong Kingston </a> , and was published in 1989 .
+
+#	NEW	pages	........ / ,	// It was released in the <a> United States </a> on July 25 , 2006 .
+
+#	NEW	pages	........ / Francisco	// At Jessica ' s urging , Ian has quit his advertising job to become a struggling writer , and she supports him with her successful San Francisco boutique .
+
+#	NEW	pages	........ / year	// Darkside also won the Calderdale Children ' s Book of the year Award .
+
+#	NEW	pages	........ / ,	// The three , with occasional assistance from Helen , embark upon a series of breakneck escapes from the police and Hugh ' s strait-laced uncle while they gather evidence ( including the beautiful stage magician C&#x00e9 ; cile Feyoum , Abu ' s widow ) .
+
+#	NEW	pages	........ / 1957 .	// <p> The story takes place in 1957 .
+
+#	NEW	pages	........ / Allan	// He meets with Gideon Fell to discuss his possession of the manuscript of an unpublished story by Edgar Allan Poe .
+
+#	NEW	pages	........ / 1987	// The book was published on February 1 , 1987 by <a> Dell Publications </a> .
+
+#	NEW	pages	........ / ,	// The fence has kept them apart , but now there are mysterious things happening at both homes unexplained ransackings , unexplained prowlers wearing yellow handkerchiefs , and two near stranglings .
+
+#	NEW	pages	........ / ! &	// There ' s a dead man inside ! &quot ;
+
+#	NEW	pages	........ / redirects	// <p> : <strong> <em> Birds of South Asia </em> </strong> redirects here .
+
+#	NEW	pages	........ / 2000 .	// It was first published by <a> Baen Books </a> in 2000 .
+
+#	NEW	pages	........ / with	// Brian Innes , a painter who lives in Geneva too , is asked by his old school friend DeForrest Page to warn his daughter Audrey against continuing to associate with Eve .
+
+#	NEW	pages	........ / two	// She is also reputed to be a blackmailer responsible for at least two suicides .
+
+#	NEW	pages	........ / 2002 .	// A prequel , <em> <a> The Prize in the Game </a> </em> , was published in 2002 . </p>
+
+#	NEW	pages	........ / 1981 .	// It was first published by <a> Ace Books </a> in 1981 .
+
+#	NEW	pages	........ / ,	// It has been translated into <a> French </a> , <a> Italian </a> , and other languages .
+
+#	NEW	pages	........ / sell	// Waltz is called and offered money but refuses to sell it .
+
+#	NEW	pages	........ / mother	// <p> <strong> The North London book of the Dead </strong> br / A young man ' s mother dies .
+
+#	NEW	pages	........ / ,	// Among its motifs are the often vain search for happiness , love and prosperity .
+
+#	NEW	pages	........ / 1975 .	// Originally published as series of autobiographical essay in the Toronto magazine <em> Everywoman ' s World </em> from June to November in 1917 , and later separately published in 1975 . </p>
+
+#	NEW	pages	........ / 1989 .	// It was first published by <a> Mark V . Ziesing </a> in 1989 . </p>
+
+#	NEW	pages	........ / 440 .	// <p> It has a <a> LCC </a> of BS 440 . H237 . </p>
+
+#	NEW	pages	........ / he	// Although much of the material had been printed originally in 1924 for the <em> <a> Herald Tribune Syndicate </a> </em> , Lofting planned to complete the story in book form but never finished before he died .
+
+#	NEW	pages	........ / 2008	// <p> <strong> <em> Identical </em> </strong> is <a> Ellen Hopkins </a> ' fifth novel , released in August <a> 2008 </a> . </p>
+
+#	NEW	pages	........ / ,	// <p> Three teens , three different stories , one death wish .
+
+#	NEW	pages	........ / selling	// The book is Steel ' s fifty-fifth best selling novel .
+
+#	NEW	pages	........ / 88	// <p> The story begins with Brian as a child of around 8 or 9 and it ends with him as an 88 year old man .
+
+#	NEW	pages	........ / 1951 .	// It was first published by Pellegrini &amp ; Cudahy in 1951 .
+
+#	NEW	pages	........ / loved	// It is a story about overcoming barriers to be with loved one .
+
+#	NEW	pages	........ / 20	// The book was first published on 20 October 2005 .
+
+#	NEW	pages	........ / 76	// <p> <strong> <em> What Hetty Did </em> </strong> is the seventh novel by <a> J . L . Carr </a> , published in 1988 when he was 76 years old .
+
+#	NEW	pages	........ / ,	// <p> The novel opens like a detective story as the narrator begins , br </p>
+
+#	NEW	pages	........ / s	// The collection is edited by <a> Stephen Jones </a> and was issued to celebrate the centenary of Howard ' s birth .
+
+#	NEW	pages	........ / 1954 .	// It was first published by <a> Rinehart &amp ; Company </a> in 1954 .
+
+#	NEW	pages	........ / hardcover	// It was first published by Rich Cowan in 1955 and was Dick ' s first hardcover book .
+
+#	NEW	pages	........ / alone	// It had not previously been published as a stand-alone volume .
+
+#	NEW	pages	........ / Nariyoshi	// <p> <strong> Katy </strong> &#x2013 ; the other neighbor of the Nariyoshi family .
+
+#	NEW	pages	........ / alone	// It had not previously been published as a stand-alone volume .
+
+#	NEW	pages	........ / auditionguide .	// <p> www . performingarts-auditionguide . com
+
+#	NEW	pages	........ / 2002 .	// It was first published by <a> Gollancz </a> in 2002 .
+
+#	NEW	pages	........ / 500	// Following the war , growth resumed and , by the 1950s , <em> La Ventana </em> was up to an average of 500 pages . ref
+
+#	NEW	pages	........ / 1980 .	// It was first published by <a> Doubleday </a> in 1980 .
+
+#	NEW	pages	........ / ,	// Bagley&#x2019 ; s book ranks as a Mormon historical classic . &#x201d ; ,
+
+#	NEW	pages	........ / 9 .	// Interspecific competition [ [ Image : Ecology sample page . JPG | right | thumb | A typical page from the ninth chapter , which discusses the nature of [ [ predation ] ] . ] ] 9 .
+
+#	NEW	pages	........ / early	// <p> The book tells the story of Karr ' s troubled childhood in a small Texan town in the early 1960s .
+
+#	NEW	pages	........ / 1970 .	// It was first published by <a> Macmillan </a> in 1970 .
+
+#	NEW	pages	........ / 2007 .	// It was first published by Thomas Allen Publishers in September 2007 .
+
+#	NEW	pages	........ / 1973 .	// It was first published by <a> Doubleday </a> in 1973 .
+
+#	NEW	pages	........ / this	// The first story , &quot ; Amanda Morgan&quot ; , is original to this collection .
+
+#	NEW	pages	........ / working	// Webb maintains that Scots-Irish attitudes form the bedrock of American society , especially among the working class .
+
+#	NEW	pages	........ / 1985 .	// It was first published by <a> Tor Books </a> in 1985 .
+
+#	NEW	pages	........ / 1986 .	// It was first published by <a> Ace Books </a> in 1986 .
+
+#	NEW	pages	........ / 1986 .	// It was first published by <a> Baen Books </a> in 1986 .
+
+#	NEW	pages	........ / ( 1995 ) .	// <p> Stories 4 to 8 were republished in <em> The Magnificent Wilf </em> ( 1995 ) . </p>
+
+#	NEW	pages	........ / 1946 .	// The novel was originally serialized in the magazine <em> <a> Astounding </a> </em> in 1946 . </p>
+
+#	NEW	pages	........ / and	// <p> This book expanded and adapted the psionics concept ( which had appeared in all the original editions to one degree or another ) with a new emphasis on balance and playability .
+
+#	NEW	pages	........ / lawyer	// <p> The detective , whose name we never learn ( he is simply called &quot ; il Vice&quot ; , as &quot ; the Vice Chief of Police&quot ; ) investigates the murder of lawyer Sandoz .
+
+#	NEW	pages	........ / Russian	// <p> In his first novel , British intelligence assigns Agent Jonathan Anders to investigate the death of another of their agents aboard a Russian trawler .
+
+#	NEW	pages	........ / 1976 .	// It was first published by <a> Knopf </a> in 1976 .
+
+#	NEW	pages	........ / first	// <p> <strong> <em> Native Speaker </em> </strong> ( 1995 ) is <a> Chang-Rae Lee </a> &#x2019 ; s first novel .
+
+#	NEW	pages	........ / ,	// His latest book takes on a subject so challenging it has to hide behind a coy title : <strong> <em> Things a Computer Scientist Rarely Talks About </em> </strong> ( CSLI Publications , $35 ) .
+
+#	NEW	pages	........ / s	// <p> <strong> <em> Peony in Love </em> </strong> is the fifth of <a> Lisa See </a> ' s novels .
+
+#	NEW	pages	........ / unfolds .	// And from then on the story does unfolds . ref
+
+#	NEW	pages	........ / or	// <p> Spenser calls himself a &quot ; poetic devil , &quot ; but he does not always quote correctly or verbatim .
+
+#	NEW	pages	........ / 2006 .	// It was first published by <a> Coteau Books </a> in 2006 .
+
+#	NEW	pages	........ / Side	// The collection contains more than 1 , 100 comics that had not previously appeared in any other Far Side books .
+
+#	NEW	pages	........ / e .	// <p> The book details the different names given to cacha&#x00e7 ; a in many of the regions of the country ; e . g .
+
+#	NEW	pages	........ / family	// It follows the exploits of its heroine , Phoebe Beecham , as she learns the true history of her family history .
+
+#	NEW	pages	........ / this	// The first two stories are original to this collection .
+
+#	NEW	pages	........ / 2006	// <p> <strong> <em> A Writer ' s Life </em> </strong> is a 2006 autobiography by <a> Gay Talese </a> .
+
+#	NEW	pages	........ / from	// <p> <strong> Like everyone in Harmony , Jacob was blind from birth .
+
+#	NEW	pages	........ / 1956 .	// It won the <a> National Book Award </a> in 1956 . </p>
+
+#	NEW	pages	........ / 2007 .	// <p> The novella was published in the United Kingdom by <a> PS Publishing </a> in March 2007 . </p>
+
+#	NEW	pages	........ / ( 1995 ) .	// <p> This book was included , along with <em> Drink Down the Moon </em> ( 1990 ) , in <em> Jack of Kinrowan </em> ( 1995 ) . </p>
+
+#	NEW	pages	........ / cursed&	// The book deals with deaths on-set , copycat crimes , obsessed fans , bizarre coincidences , and other incidents which lead a film to be called &quot ; cursed&quot ; .
+
+#	NEW	pages	........ / Benedict	// It is the second book of his Alex Benedict series .
+
+#	NEW	pages	........ / monologues&	// It reads like a long , <em> long </em> transcript of his television and radio shows , with their <a> Manichaean </a> monologues&quot ; .
+
+#	NEW	pages	........ / created	// Figures from Marshall France ' s books are alive in Galen , and Thomas and Saxony begin to question if the books were patterned onto Galen , or if the writer ' s magic created Galen .
+
+#	NEW	pages	........ / ,	// <p> This sequel to also set in Ireland follows the clans or families of the O ' Byrnes , Walshes , MacGowans etc .
+
+#	NEW	pages	........ / for	// The story ends with the FBI agents , along with John Ashcroft , working on their attempt to obtain a presidential pardon for Whitacre .
+
+#	NEW	pages	........ / whole	// The only black mark on his record is the Liberator clones he made , which ended up attacking whole worlds .
+
+#	NEW	pages	........ / ,	// After a long cleansing shower , he visits Dresden ' s office .
+
+#	NEW	pages	........ / 2008 .	// <p> <strong> &quot ; One For The Road&quot ; </strong> is a travel book by <a> Bj&#x00f8 ; rn Christian T&#x00f8 ; rrissen </a> , first published in 2008 .
+
+#	NEW	pages	........ / ,	// <p> <strong> <em> My Life in Dog Years </em> </strong> is a non-fiction book written by <a> Gary Paulsen </a> , together with his wife , Ruth Wright Paulsen .
+
+#	NEW	pages	........ / 9	// The complete <em> History </em> will contain 15 volumes , with volumes 5 and 9 to consist of two books each .
+
+#	NEW	pages	........ / see . &	// <p> Summers divides the world into &quot ; Real Space , &quot ; the space we share with other people and objects and &quot ; Virtual Space , &quot ; space that exists within two dimensions which people &quot ; seem to see . &quot ;
+
+#	NEW	pages	........ / 2009 .	// <p> <em> The Dragons of Babel </em> was nominated for the Locus Award for Best Fantasy Novel in 2009 . </p>
+
+288	TRUE	Tomás and the Library Lady::pages	40 / United	
+Based on a true story , it details the circumstances behind the son of a migrant farm worker during the 1940s in the Midwest United States .
+
+#	NEW	pages	........ / ,	// ( First Penguin edition , page 5 ) </p>
+
+#	NEW	pages	........ / Mike	// <p> <strong> Heat </strong> is a realistic fiction book written by Mike Lupica .
+
+#	NEW	pages	........ / 1932 .	// The first of these sequels was <em> <a> Celia en el colegio </a> </em> , first published in 1932 .
+
+#	NEW	pages	........ / McCoy	// <p> Rinaldi tells the story of the Hatfield-McCoy feud in the late 19th century through the eyes of Fanny , a young female member of the McCoy clan .
+
+#	NEW	pages	........ / 1957 .	// <p> It was published as <a> Popular Library </a> #824 in 1957 . </p>
+
+#	NEW	pages	........ / 1951 .	// The novel was originally serialized in the magazine <em> <a> Astounding </a> </em> in 1951 . </p>
+
+#	NEW	pages	........ / 2006 .	// <p> <strong> <em> Gomorrah </em> </strong> is a book by <a> Roberto Saviano </a> published in 2006 . </p>
+
+#	NEW	pages	........ / history . &	// They take the reader on an odyssey across some of the hardest terrain of recent American history . &quot ;
+
+#	NEW	pages	........ / Los	// It focuses on an Asian American ' s quest for the past and present of racial justice in Los Angeles .
+
+#	NEW	pages	........ / by	// <p> The novel is set after an atomic war and the world is run by Polynesians .
+
+#	NEW	pages	........ / 000	// It was first published by <a> Gnome Press </a> in 1957 in an edition of 4 , 000 copies .
+
+#	NEW	pages	........ / this	// Most of the poems are original to this collection .
+
+#	NEW	pages	........ / first	// <p> <strong> <em> Union Street </em> </strong> is <a> Pat Barker </a> ' s first novel .
+
+#	NEW	pages	........ / s	// <p> <strong> <em> Extinction </em> </strong> is the last of <a> Thomas Bernhard </a> &#x2019 ; s novels .
+
+#	NEW	pages	........ / 1987	// <p> <strong> <em> Isaac Asimov ' s Robot City : Cyborg </em> </strong> is a book written in 1987 by <a> William F . Wu </a> .
+
+#	NEW	pages	........ / 1988	// <p> <strong> <em> Isaac Asimov ' s Robot City : Perihelion </em> </strong> is a book written in 1988 by <a> William F . Wu </a> .
+
+#	NEW	pages	........ / nightmarish	// The <strong> <a> Times Educational Supplement </a> </strong> described it as a nightmarish chiller .
+
+#	NEW	pages	........ / needy&	// <p> Moo decides to create &quot ; love poems for the needy&quot ; .
+
+#	NEW	pages	........ / and	// It is a personal critical perspective on contemporary <a> civilization </a> and society .
+
+#	NEW	pages	........ / ,	// <p> <em> The Middle East Bedside Book </em> contains a treasury of proverbs , etiquette , information and ideas to have come out of the Middle East , and Arab culture .
+
+#	NEW	pages	........ / ,	// It is a collection of Eminem ' s personal stories , reflections , photographs , original artwork , and lyric sheets .
+
+#	NEW	pages	........ / their	// He ends up taking care of the boy , who is socially immature , having been ignored by his parents , only used as a pawn in their quarrelling .
+
+#	NEW	pages	........ / 2	// It is also known as <strong> Tim The Tiny Horse 2 </strong> . </p>
+
+#	NEW	pages	........ / animal	// <p> The book gives info about the nature , production , variety , and manifold uses of animal poop .
+
+#	NEW	pages	........ / 2008	// <p> <strong> <em> The Go-Giver : A Little Story about a Powerful Business Idea </em> </strong> is a 2008 book written by Bob Burg and John D . Mann .
+
+#	NEW	pages	........ / 1971 .	// It was first published by <a> Ace Books </a> in 1971 . </p>
+
+#	NEW	pages	........ / travel	// <p> The book has been included in numerous lists of best travel books .
+
+#	NEW	pages	........ / tall	// ( The pseudonym ' Tom Collins ' is slang for a tall story . )
+
+#	NEW	pages	........ / also	// A blue-cover edition of which only 8 , 500 copies were made was also produced .
+
+#	NEW	pages	........ / named	// He especially is oblivous to the fact that Cary has strong feelings for a girl named Wendy .
+
+#	NEW	pages	........ / 1927 .	// It was first published in 1927 .
+
+#	NEW	pages	........ / those	// <p> It is a historic fiction novel about events that actually happened in Cambodia during those time .
+
+#	NEW	pages	........ / his	// <p> But the kidnapper has more than just money on his mind .
+
+#	NEW	pages	........ / 1988 .	// The majority of the story takes place in 1988 . </p>
+
+#	NEW	pages	........ / original	// <p> Due to such large changes in the state of the software industry , Yourdon reversed some of his original predictions .
+
+#	NEW	pages	........ / s	// From inside the &quot ; iron city&quot ; of a state penitentiary in Pittsburgh , America ' s &quot ; iron city , &quot ; three black Communist prisoners spearhead a fight to save James ' s life .
+
+#	NEW	pages	........ / 978-	// <p> 1971 , France , Editions d ' art Albert Skira , Les Sentiers de la cr&#x00e9 ; ation , Genevabr / ISBN 978-2-605-00112-5 br / </p>
+
+326	FALSE	The Sotheby's Wine Encyclopedia::pages	664 / 600	
+The largest revision took place in 1997 when the book increased in size from 480 to 600 pages .
+
+#	NEW	pages	........ / 23	// It is &#x014c ; e ' s first novel , written when he was 23 years old . </p>
+
+#	NEW	pages	........ / ,	// The book was ranked among the top 250 Bestsellers in Books on <a> Amazon . com </a> ,
+
+#	NEW	pages	........ / ,	// In the plot McGee sets out to investigate the death of an ailing millionaire , and encounters a motorcycle gang , pornographic movie-makers , and balloonists .
+
+#	NEW	pages	........ / Lucas	// <p> The novel tells the story of Lucas Lessar .
+
+#	NEW	pages	........ / iron	// <p> The novel tells the story of Mrs . Maitland , a leathery old widow who owns and operates an iron mill .
+
+#	NEW	pages	........ / 1894 .	// <p> It was first published in installments in <em> <a> Atlantic Monthly </a> </em> from January through October 1894 . </p>
+
+#	NEW	pages	........ / Susan	// <p> <strong> Martha Speaks </strong> is the fictional book written by Susan Meddaugh .
+
+#	NEW	pages	........ / 1966	// The story then jumps from Saigon in 1966 to Phnom Penh in 1973 .
+
+#	NEW	pages	........ / called	// It is set in a small English <a> spa town </a> called Ennistone .
+
+#	NEW	pages	........ / protect	// Berta is hiding and only the famous five can protect her .
+
+#	NEW	pages	........ / 2003	// <p> <strong> Kate Remembered </strong> is a well-known book published and released on July 11 , 2003 by <a> A .
+
+#	NEW	pages	........ / 1956 .	// It was first published in 1956 . </p>
+
+#	NEW	pages	........ / of	// <p> The main themes in this novel are about the burden of guilt .
+
+#	NEW	pages	........ / groundbreaking	// <p> Seven authors made significant contributions to this groundbreaking book .
+
+#	NEW	pages	........ / 1908 .	// <p> <em> The State </em> was first published in Germany in 1908 .
+
+#	NEW	pages	........ / third	// First published in 1965 , it is Cormier ' s third novel .
+
+#	NEW	pages	........ / poetry	// <p> <strong> <em> Please Plant This Book </em> </strong> is <a> Richard Brautigan </a> ' s sixth poetry publication .
+
+#	NEW	pages	........ / her	// Like other novels by the author , it is based on the life challenges of her students .
+
+#	NEW	pages	........ / early	// <p> <strong> <em> India ' s Ancient Past </em> </strong> is a book by Professor <a> Ram Sharan Sharma </a> which details the history of early India .
+
+#	NEW	pages	........ / s	// <p> It tells the story of <a> Edgar Allan Poe </a> , whose wife has just died , and his protege , narrator Augie Dubbins , as they visit Pittsburgh at the invitation of Dr . Brunrichter , who takes an eager interest in Poe ' s writings .
+
+#	NEW	pages	........ / tenement	// <p> It tells the story of two deaths as the result of a tenement fire .
+
+#	NEW	pages	........ / Marshall	// It opens with the story of Assistant District Attorney Tory Welch being attacked at the office of plastic surgeon Marshall Cutter .
+
+#	NEW	pages	........ / and	// <p> It tells the story of Joe and Stella .
+
+#	NEW	pages	........ / in	// <p> Violet Carpenter is already considered a spinster at age twenty-five when financial necessity forces her to take in lodgers .
+
+#	NEW	pages	........ / ,	// Reiber ' s shame lessens gradually over his own family ' s lower middle class pretensions , and he confronts reality .
+
+#	NEW	pages	........ / 1988	// It was first published in <a> 1988 </a> .
+
+#	NEW	pages	........ / 17-	// <p> It is the first book in the 17-volume Rocksburg series . </p>
+
+#	NEW	pages	........ / 17-	// <p> It is the second book in the 17-volume Rocksburg series . </p>
+
+#	NEW	pages	........ / 17-	// <p> It is the fifth book in the 17-volume Rocksburg series . </p>
+
+#	NEW	pages	........ / 1996 .	// <p> <strong> <em> Distant Star </em> </strong> by Chilean author <a> Roberto Bola&#x00f1 ; o </a> was first published in 1996 .
+
+#	NEW	pages	........ / 17-	// <p> It is the thirteenth book in the 17-volume Rocksburg series . </p>
+
+#	NEW	pages	........ / 17-	// <p> It is the tenth book in the 17-volume Rocksburg series . </p>
+
+#	NEW	pages	........ / spy-	// When she matures into adulthood , Takiko is able to find employment in the court of the Japanese emperor and falls in love with an enemy spy-Hideo .
+
+#	NEW	pages	........ / 2002 .	// <p> <strong> <em> Your Face Tomorrow , Volume 1 : Fever and Spear </em> </strong> by <a> Javier Mar&#x00ed ; as </a> was first published in 2002 .
+
+#	NEW	pages	........ / Historical	// <p> <em> Jip , His Story </em> won the 1997 Scott O&#x2019 ; Dell Award for Historical Fiction .
+
+#	NEW	pages	........ / 2008 .	// <p> <strong> <em> 1000 Recordings to Hear Before You Die </em> </strong> is a musical reference book written by Tom Moon , published in 2008 . </p>
+
+#	NEW	pages	........ / ,	// <p> <strong> <em> Eva </em> </strong> is a young adult science-fiction novel by <a> Peter Dickinson </a> , published in 1988 .
+
+#	NEW	pages	........ / critical	// <p> The book received a generally positive critical reception .
+
+#	NEW	pages	........ / 25	// It was published by <a> Howard Books </a> on March 25 2008 .
+
+#	NEW	pages	........ / Morris	// The film was directed by <a> Guy Green </a> , from a screenplay written by Morris West .
+
+#	NEW	pages	........ / of	// <p> It tells the story of a working-class family of five through shifting points of view .
+
+#	NEW	pages	........ / Fiction . &	// &quot ; Adult books : Fiction . &quot ;
+
+#	NEW	pages	........ / in	// The pages are also edged in purple .
+
+#	NEW	pages	........ / Southern	// <p> The first of the novel ' s two sections takes place in Efica , an invented country occupying an archipelago in the Southern Hemisphere .
+
+#	NEW	pages	........ / main	// The UK marketing campaign made the whole book available to read online for free between the 8 and 22 April on the Egmont <strong> Gone </strong> main page .
+
+#	NEW	pages	........ / 2008	// <p> <em> The Book of Negroes </em> won the 2007 <a> Rogers Writers ' Trust Fiction Prize </a> and the 2008 <a> Commonwealth Writers ' Prize </a> .
+
+#	NEW	pages	........ / of	// It is set in and around the <a> Portobello </a> area of London .
+
+#	NEW	pages	........ / macabre . &	// The stories in this volume are richly descriptive , with a whiff of the grotesque and macabre . &quot ;
+
+#	NEW	pages	........ / 7 )	// Le Clezio&quot ; ( 2006-05-30 ) was first published by Revue des Deux Mondes , Paris ( issue no . 7 ) on pages 75&#x2013 ; 77br / . There were3 pages </p>
+
+#	NEW	pages	........ / 2000	// <p> <strong> <em> Ireland : Landscapes of God ' s Peace </em> </strong> is <a> M&#x00e1 ; ire Brennan </a> ' s ( Moya Brennan ) 2000 book .
+
+#	NEW	pages	........ / 1979 .	// It was first published in paperback by <a> Zebra Books </a> in September 1979 . </p>
+
+#	NEW	pages	........ / 2009 .	// The jacket cover was revealed on March 3 , 2009 ; the book itself was released on May 12 , 2009 . </p>
+
+#	NEW	pages	........ / their	// Human life is portrayed as a field of action in which the character and destinies of individuals are formed and revealed t hrough their actions .
+
+#	NEW	pages	........ / Central	// The United States has expanded to included Canada and Central America .
+
+#	NEW	pages	........ / psyche . &	// It has been described as &quot ; a terrifying journey into the darkest corners of the psyche . &quot ;
+
+#	NEW	pages	........ / ,	// <p> The book was first officially published in <a> Serbia </a> , in August 2008 .
+
+#	NEW	pages	........ / 2001 .	// <p> The novel was selected as a <em> New York Times </em> Notable Book of 2001 . </p>
+
+#	NEW	pages	........ / of	// The book includes nine chapters and is structured by type of group .
+
+#	NEW	pages	........ / early	// The protagonist , Daffodil , is the &#x201c ; little girl&#x201d ; of the title , and the plot primarily is used to illustrate the domestic life of early Pittsburghers .
+
+#	NEW	pages	........ / Augusten	// The book contains stories from the adult life of Augusten Burroughs .
+
+#	NEW	pages	........ / ,	// <p> This English National Bestseller has been published in <strong> Gujarati </strong> language by a leading Gujarati book publisher , <strong> <em> R .
+
+#	NEW	pages	........ / ,	// <p> <strong> <em> My Story </em> </strong> ( or <strong> <em> Mon histoire </em> </strong> ) is a Canadian , tell-all , memoir by Julie Couillard .
+
+#	NEW	pages	........ / Parker	// <p> <strong> <em> January </em> </strong> is the first book in the <a> Countdown series </a> by Daniel Parker ( b .
+
+#	NEW	pages	........ / year	// The only one left is a man named Hierax , who they are told retired after being maimed in a crash a year ago .
+
+#	NEW	pages	........ / that	// Mr . Skues is a useful antedote to the extremists who followed Halford and should be read along with that author .
+
+#	NEW	pages	........ / ,	// Michaux is best known for his esoteric books written in a highly accessible style , and his body of work includes poetry travelogues , and art criticism .
+
+#	NEW	pages	........ / 2-	// <p> &quot ; Diego et Frida&quot ; ( 1993 ) Published byGallimard , &quot ; Folio&quot ; , &quot ; Editions Flammarion&quot ; , Parisbr / ISBN 2-07-038944-8 ( 308 pages ) </p>
+
+#	NEW	pages	........ / men . &	// <p> The book deals with a reversal of the traditional gender roles , and describes a society of &quot ; dominant women and submissive men . &quot ;
+
+#	NEW	pages	........ / 1990 .	// It is the first of two book collections of underwater photographs , followed by Impressionen unter Wasser ( Impressions under Water ) in 1990 . </p>
+
+#	NEW	pages	........ / ,	// <p> Alison Anderson is the author of <em> Darwin ' s Wink </em> and the translator of seventeen books , including <em> The Elegance of the Hedgehog </em> , by Muriel Barbery .
+
+#	NEW	pages	........ / s	// It was the first time the book was published under Baum ' s name .
+
+#	NEW	pages	........ / his	// Set in a fictional universe , the novel follows the adventures of a complex thief and his apprentice .
+
+#	NEW	pages	........ / of	// <p> Jefferson produced the work as a guide for two young American friends , Thomas Lee Shippen and John Rutledge , following a wine tour of Europe .
+
+#	NEW	pages	........ / towards	// In the original novel , he is described as follows : &quot ; Jack and Lucy-Ann saw a coloured man coming towards them .
+
+#	NEW	pages	........ / 1955 .	// The novel was published as <em> The Bride of Death </em> in the United States in 1955 . </p>
+
+#	NEW	pages	........ / her	// On the second day of school a random girl calls Dinah a bitch after Dinah attempts opening the girl ' s locker , thinking it ' s her own .
+
+#	NEW	pages	........ / ,	// <p> 71 colour plates are placed centrally within the book , between pages 400 and 401 . </p>
+
+#	NEW	pages	........ / two	// The novel was a commercial and popular success , remaining on the bestseller list for two years .
+
+#	NEW	pages	........ / published	// It is her 37th published novel .
+
+#	NEW	pages	........ / by	// <p> The United Kingdom edition collects six novelettes and short stories by various science fiction authors , with a foreword by Carnell .
+
+#	NEW	pages	........ / by	// <p> The United Kingdom edition collects seven novelettes and short stories by various science fiction authors , with a foreword by Carnell .
+
+#	NEW	pages	........ / ,	// Martin ' s Press </a> on March 3 , 2009 .
+
+#	NEW	pages	........ / by	// <p> The book collects seven novelettes and short stories by various science fiction authors , with a foreword by Carnell .
+
+#	NEW	pages	........ / by	// <p> The book collects nine novelettes and short stories by various science fiction authors , with a foreword by Carnell .
+
+#	NEW	pages	........ / Williams	// <p> This book is the first Brown and Williams collaboration .
+
+#	NEW	pages	........ / M .	// <p> <strong> Black Rage </strong> is a book by psychiatrists William H . Grier and Price M . Cobbs .
+
+#	NEW	pages	........ / change	// And if so , how will she go about to change that ?
+
+#	NEW	pages	........ / 1981 .	// <p> <strong> <em> Liars in Love </em> </strong> is a collection of short stories by <a> Richard Yates </a> , published in 1981 . </p>
+
+#	NEW	pages	........ / poetry	// <p> <strong> <em> The Galilee Hitch-Hiker </em> </strong> is <a> Richard Brautigan </a> ' s second poetry publication .
+
+#	NEW	pages	........ / time	// <p> The story builds on multiple short stories of people and events that occur in these various time periods .
+
+#	NEW	pages	........ / 2008 .	// <p> <strong> <em> The Virgin Book of British Hit Singles </em> </strong> is a charts reference book published in October 2008 .
+
+#	NEW	pages	........ / for	// As a young boy , Helmuth plans to become a soldier and fight for Germany .
+
+#	NEW	pages	........ / 2006 .	// First published on 22 August 2006 . </p>
+
+#	NEW	pages	........ / family	// <p> The title is somewhat misleading , as Granny Dorothy ' s story is only a small part of the book , but it sets the focus on family history .
+
+#	NEW	pages	........ / folkloric	// The plot concerns a village festival in the English countryside , and features <a> Morris dancing </a> among other folkloric elements .
+
+#	NEW	pages	........ / ,	// <p> Perhaps the primary theme of the novel is that evil can only be resisted psychically : when the rational controls that order man ' s existence slacken , destruction comes .
+
+#	NEW	pages	........ / left	// It covers the 2006-2008 period where his last book <em> <a> Fiasco </a> </em> left off .
+
+#	NEW	pages	........ / 1996	// <p> <strong> <em> Melody </em> </strong> is a 1996 novel by <a> V .
+
+#	NEW	pages	........ / and	// <p> <strong> <em> Seeking / 11 Truth at Japan ' s Parliament </em> </strong> is a book published by Japanese lawmaker <a> Yukihisa Fujita </a> and others .
+
+#	NEW	pages	........ / contrary .	// Both Olsson and Str&#x00f6 ; m suspected that another Wallander story would follow <em> The Troubled Man </em> , despite Mankell ' s insistence to the contrary . ref
+
+#	NEW	pages	........ / discourse&	// The book blasts what it calls the <a> Bush administration ' s </a> &quot ; <a> Islamophobic </a> discourse&quot ; .
+
+#	NEW	pages	........ / ,	// He has also confirmed that Changes marks the midpoint of Harry ' s story and there will be at least 7 more books , possibly 10 , to finish Harry ' s story .
+
+#	NEW	pages	........ / 2008 .	// <p> <strong> <em> Mothstorm </em> </strong> is a young adult novel by <a> Philip Reeve </a> , released in October 2008 .
+
+#	NEW	pages	........ / ,	// <p> <strong> <em> United Kingdom Election Results </em> </strong> is a website and <a> e-book </a> by author David Boothroyd , published in 1994 .
+
+#	NEW	pages	........ / for	// The war between Nilfgaard and the Northern Kingdoms begins , resulting in a series of quick and stunning victories for Nilfgaard .
+
+#	NEW	pages	........ / trained	// The strong but untrained Britons have success for a short time , but are quickly conquered again by the well-trained legionaries .
+
+#	NEW	pages	........ / ,	// <p> It is a troublesome fact on which even Mma Ramotswe and her assistant Mma Makutsi agree : there are things that men know and ladies do not , and vice versa .
+
+#	NEW	pages	........ / state	// <p> The <strong> <em> Great Olympic Encyclopedia </em> </strong> ( ) is the 3rd Olympic encyclopedia in Russian , issued by the Bolshaya Rossiyskaya entsiklopediya state publisher .
+
+#	NEW	pages	........ / river	// <p> The story is about four spoiled twenty-something children who are challenged by their billionaire father to earn $100 , 000 in one year in order to inherit his beautiful Hudson river estate .
+
+#	NEW	pages	........ / of	// The book ' s end goal is to present local class field theory from the cohomological point of view .
+
+#	NEW	pages	........ / ,	// <p> As well as high school and police academy memories , she finds in the box a letter written to her 14 years before , shortly after she left Mickey , which never reached her .
+
+#	NEW	pages	........ / half	// She also makes good progress at her piano lessons and secretly longs to play at the function held after the half-term break , though she knows this will not be possible if she goes home at half term .
+
+#	NEW	pages	........ / 1998	// The book was published in paperback in February 1998 by <a> Scholastic </a> .
+
+#	NEW	pages	........ / 1934	// The novel was originally serialized in 5 parts the magazine <em> <a> Astounding </a> </em> beginning with the December 1934 issue . </p>
+
+#	NEW	pages	........ / fans&	// In his book <strong> <em> ' , George Malko writes that Hubbard ' s works including </em> Slaves of Sleep <em> , </em> Kingslayer <em> , </em> Typewriter in the Sky <em> , </em> Fear <em> , </em> Death ' s Deputy <em> , and </em> Final Blackout <em> &quot ; were eagerly welcomed by devoted fans&quot ; .
+
+#	NEW	pages	........ / modern	// <p> In his 2004 book <em> Names and History : People , Places and Things </em> , George Redmonds provided a modern assessment .
+
+#	NEW	pages	........ / ,	// <p> <strong> Hero-Type </strong> is Lyga ' s third YA novel , also set in Brookdale .
+
+#	NEW	pages	........ / out&	// The review summarized by writing that <em> London Film Location Guide </em> was &quot ; incredibly detailed , well-written and well thought out&quot ; .
+
+#	NEW	pages	........ / and	// <p> The book has a strong environmental message that is put clearly and comprehensibly .
+
+#	NEW	pages	........ / thirteenth	// <p> <strong> <em> Pandaemonium </em> </strong> is <a> Christopher Brookmyre </a> ' s thirteenth novel .
+
+#	NEW	pages	........ / ,	// <p> It all begins when nine year old Sadie ' s mother , who is a <a> childminder </a> , gets ill .
+
+#	NEW	pages	........ / ,	// It was released on March 10 , 2009 .
+
+#	NEW	pages	........ / shotgun	// A man and a woman die from shotgun wounds .
+
+#	NEW	pages	........ / 2002 .	// <p> <strong> <em> No More Dead Dogs </em> </strong> is a novel by <a> Gordon Korman </a> published in 2002 .
+
+#	NEW	pages	........ / Alternative	// <p> In 2000 , the book received the Children ' s Book Award from the Firecracker Alternative Book Award .
+
+#	NEW	pages	........ / 2007 .	// <p> The book won the &#x201c ; annual best foreign novels in 21 century&#x201d ; by the People&#x2019 ; s Literature Publishing House ( PLPH ) January 28 , 2007 . </p>
+
+#	NEW	pages	........ / fifth	// It is Kingsolver ' s fifth novel .
+
+#	NEW	pages	........ / Kill&	// The book also includes an original Young Bond short story by Charlie Higson titled &quot ; A Hard Man to Kill&quot ; .
+
+#	NEW	pages	........ / 1987 .	// The book was awarded the CBCA Book of the Year for Older Readers in 1987 .
+
+#	NEW	pages	........ / same-	// <p> <strong> <em> The Mirror of Love </em> </strong> is a book of romantic poems on the history of same-sex ! same-sex
+
+#	NEW	pages	........ / their	// <p> Others assert &quot ; the secret&quot ; offers false hope to those in true need of more conventional assistance in their lives .
+
+#	NEW	pages	........ / 1964	// <p> <strong> <em> The Act of Creation </em> </strong> is a 1964 book by <a> Arthur Koestler </a> .
+
+#	NEW	pages	........ / their	// <p> The three remaining scientists fall into a survivor&#x2019 ; s depression realizing their small expedition won&#x2019 ; t be missed while also lacking a means to return home on their own .
+
+#	NEW	pages	........ / ,	// <p> <strong> Mommywood </strong> is a 2009 book by <a> Tori Spelling </a> , released on April 14 , 2009 .
+
+#	NEW	pages	........ / 2008 .	// Its current ( seventh ) edition was published in 2008 . </p>
+
+#	NEW	pages	........ / 1999	// <p> <strong> <em> The Plutonium Files : America ' s Secret Medical Experiments in the Cold War </em> </strong> is a 1999 book by <a> Eileen Welsome </a> .
+
+#	NEW	pages	........ / ( e .	// Cytowic also suggested synesthesia could be expressed in non-sensory parts of the brain ( e . g .
+
+#	NEW	pages	........ / 5000	// It follows the changes in an imaginary English valley over the course of seven thousand years , from 5000 BC to 1900 .
+
+#	NEW	pages	........ / written	// She explores the book , which suddenly has a story written inside .
+
+#	NEW	pages	........ / achieve	// <p> <em> Taxi </em> is the first Egyptian book written mainly in <a> dialect </a> to achieve success .
+
+#	NEW	pages	........ / underwater	// Sadly , this was cut short by his death in a diving accident during 2000 in the Bahamas ( he was an enthusiastic underwater archaeologist ) .
+
+#	NEW	pages	........ / important	// But they stand as the fullest story yet of the Bush presidency and of the war that is likely to be its most important legacy .
+
+#	NEW	pages	........ / semi-	// <p> The stories related in the book do not occur in chronological order , and are in some cases semi-fictionalised .
+
+#	NEW	pages	........ / his	// The ambitious narrative is built around the stories of Santiago Zavala and Ambrosio respectively ; one the son of a minister , the other his chauffeur .
+
+#	NEW	pages	........ / 154	// <p> Originally published in Germany in 1923 by Dr . Ernst Schertel , <em> Magic : History / Theory / Practice </em> , in its original German edition , was a hardcover book consisting of 154 pages . </p>
+
+#	NEW	pages	........ / 2000 .	// <p> The book was noted as one of the ten best &quot ; romance&quot ; novels for young adults in 2000 . </p>
+
+#	NEW	pages	........ / important	// Just after they make their first attempts at settling in , Spock discovers a nearby moon has two important features .
+
+#	NEW	pages	........ / ,	// <p> A vital colony , needed to support the eventual expansion of the Federation , is suffering problems .
+
+#	NEW	pages	........ / 2006 .	// <p> <strong> <em> The Million Dollar Putt </em> </strong> is a work of young adult fiction written by <a> Dan Gutman </a> in 2006 .
+
+#	NEW	pages	........ / he	// <p> This novel describes the life of the photographer , and the impact he has on his grandchildren when he dies .
+
+#	NEW	pages	........ / P .	// <p> <strong> <em> Plum Stones </em> </strong> is a collection of short stories by <a> P . G .
+
+#	NEW	pages	........ / 000	// <p> The first edition , published in 2005 by Vietnam ' s Encyclopedia Publishing House , has four volumes consisting of 40 , 000 entries .
+
+#	NEW	pages	........ / sister	// <p> The story then switches to a first-person account , written by John Robertson after his meeting with his sister Ellen .
+
+#	NEW	pages	........ / D	// <p> At 159 pages , Elder Evils is not one of the larger D&amp ; D books .
+
+#	NEW	pages	........ / drug	// <p> When film tycoon , Sir Robert Hellier , loses his daughter to <a> heroin </a> , he declares war on the drug peddlers .
+
+#	NEW	pages	........ / Newford	// <p> De Lint explains the title as follows : &quot ; Writing , for me , is a peeling back of layers , particularly with the Newford stories .
+
+#	NEW	pages	........ / 2007 .	// It was a best-seller for many months , selling over 115 , 000 copies in 2007 , and won the <a> Quill Award </a> for best business book in 2007 . </p>
+
+#	NEW	pages	........ / kin&	// Before leaving she tells Kirk all of her names and their meaning , a highly symbolic act for a Romulan which is only done to &quot ; one closer than kin&quot ; .
+
+#	NEW	pages	........ / for	// Prior to this he published three novels for adults , six novels for teenagers and one volume of short stories for teenagers .
+
+#	NEW	pages	........ / imaginative	// <em> Booklist </em> also praised the book calling the <em> Glitch in Sleep </em> an imaginative series .
+
+#	NEW	pages	........ / trap	// <p> Hoyt escapes from prison after reading about &quot ; The Dominator ' s&quot ; murders which copy many of his techniques , and plots with him to trap Rizzoli .
+
+#	NEW	pages	........ / foolishly	// It is poorly written and foolishly argued .
+
+#	NEW	pages	........ / fighting	// They have had trouble with the Titcher , which they call the Dreen because of the howl of one of the fighting units .
+
+#	NEW	pages	........ / 1 .	// By December 2006 , there were 1 . 2 million copies in print . </p>
+
+#	NEW	pages	........ / second . &	// The book states , &quot ; The people who have prepared this book have tried consistently to put the Word of God first and science second . &quot ;
+
+#	NEW	pages	........ / beset	// <p> Astley ' s characters in this novel often only realise their failings after disaster has beset them .
+
+493	FALSE	Switchers (novel)::pages	201 / their	
+Armed with this knowledge , the two transform themselves into <a> mammoth </a> s , in which form they continue their journey .
+
+#	NEW	pages	........ / and	// <p> The novel is about two friends : Delfin and Felipe .
+
+#	NEW	pages	........ / by	// Each story features an afterword by Butler .
+
+#	NEW	pages	........ / ,	// <p> <strong> <em> Babel </em> </strong> is a book by <a> Patti Smith </a> , published in 1978 , and contains Smith ' s poems along with her prose , lyrics , pictures and drawings . </p>
+
+#	NEW	pages	........ / 1967 .	// Russell completely rewrote the novel for the paperback edition published by <a> Lancer Books </a> in 1967 . </p>
+
+#	NEW	pages	........ / 1998 .	// <p> <a> Toshie Kihara </a> adapted the story into a one-volume manga called ( ISBN 978-4-09-191221-3 ) which was published in February 1998 .
+
+#	NEW	pages	........ / 1992 .	// <p> <strong> <em> Woolgathering </em> </strong> is a book by <a> Patti Smith </a> , published in 1992 . </p>
+
+#	NEW	pages	........ / 500	// On his subsequent book tour , Godin agreed to come any place where people bought 2 , 500 copies of his book .
+
+#	NEW	pages	........ / 1928	// <p> <strong> <em> Deluge </em> </strong> is a 1928 novel by <a> S .
+
+#	NEW	pages	........ / Cirulli	// <p> <strong> Pregnancy After A Loss </strong> is a book by Carol Cirulli Lanham .
+
+#	NEW	pages	........ / THIS	// <p> ! PLEASE ADD CATEGORIES AND INTERWIKIS AT THE BOTTOM OF THIS PAGE .
+
+#	NEW	pages	........ / television	// <p> The novel concerns the first interstellar flight which is financed by making it into a television show .
+
+#	NEW	pages	........ / ,	// <p> The novel concerns Russian genetics experiments resulting in a being that is half ape , half brain . </p>
+
+#	NEW	pages	........ / their	// <p> The story is told through the voices of eight characters , in third person and each in a chapter of their own .
+
+#	NEW	pages	........ / to	// It is the last time they will see each other before going off to college .
+
+#	NEW	pages	........ / Honour	// The novel was recognized as a Society of School Librarians International Honor Book ( 2006 ) , and as a Manitoba Reader ' s Young Choice Award Honour Book .
+
+#	NEW	pages	........ / were	// The ten stories , listed below , are arranged in the order in which they were written .
+
+#	NEW	pages	........ / 1936 .	// The book contains 10 short stories and was first published in 1936 .
+
+#	NEW	pages	........ / ,	// <p> <strong> <em> Little Mouse ' s Big Book of Fears </em> </strong> is a children ' s picture book by <a> Emily Gravett </a> , published in 2007 .
+
+#	NEW	pages	........ / his	// The man attempts to slash at the white man ' s neck with a knife and fails , only cutting his red tie off of his neck .
+
+#	NEW	pages	........ / ,	// On 21SUPs / SUP April , the same exclamations appeared on the fourth page on many newspapers , which aroused curiosity .
+
+#	NEW	pages	........ / 350	// <p> The encyclopedia features articles by more than 350 authors .
+
+#	NEW	pages	........ / 252	// The 1842 and 1843 editions were only 48 pages while , the 1855 edition was considerably expanded by Blacker with hand-painted , colored illustrations and 252 pages . </p>
+
+#	NEW	pages	........ / biological	// Later in the story , her puppy dies as a result of the owner ' s biological experiments .
+
+#	NEW	pages	........ / unique	// Through their shared experiences and self-created myth of their own origins , they create their own unique identities .
+
+#	NEW	pages	........ / ,	// A different publisher , Putnam , brought out his <em> Beasts Royal </em> , containing four previously published stories and eight new ones , in 1934 .
+
+#	NEW	pages	........ / man .	// After William ' s funeral , Joachim returned , only to find that Sarah had no place in her heart for another man . br
+
+#	NEW	pages	........ / Dixon	// The chapbook also includes an interview with Copper by R . Dixon Smith .
+
+#	NEW	pages	........ / 2009 .	// <p> <strong> A Cool Head </strong> is <a> Ian Rankin </a> ' s entry in <a> Quick Reads </a> 2009 . </p>
+
+#	NEW	pages	........ / in	// <em> God ' s Economy </em> ) which is in faith .
+
+#	NEW	pages	........ / old	// <p> But he never begins , and he is now an old man .
+
+#	NEW	pages	........ / this	// All but three of the stories are original to this collection .
+
+#	NEW	pages	........ / ( 1988 ) .	// <p> The book inspired a dramatic horror film , <em> <a> The Serpent and the Rainbow </a> </em> ( 1988 ) .
+
+#	NEW	pages	........ / their	// <p> Of the various engravers and authors who worked on the plates of the atlas , only two have signed their work .
+
+#	NEW	pages	........ / few	// <p> The story of a young girl named Aril is told primarily with long horizontal images and few words .
+
+#	NEW	pages	........ / ,	// Another criticism raised , which was also raised over &quot ; Misquoting Jesus , &quot ; is that Ehrman implies that the information being presented is new , or groundbreaking .
+
+#	NEW	pages	........ / 1970	// <p> <strong> November 1970 </strong> </p>
+
+#	NEW	pages	........ / ( ,	// <p> <strong> <em> The Castaways of the Flag </em> </strong> ( , lit .
+
+#	NEW	pages	........ / strong>	// <p> This is the first <a> English language </a> edition of the Italian original <strong> <em> La solitudine del satiro </em> </strong> ( lit .
+
+#	NEW	pages	........ / might	// <p> But his book , &quot ; The Book of the Black Bass , &quot ; will be all the monument and &quot ; obituary&quot ; that any man might crave .
+
+#	NEW	pages	........ / ,	// It is part of the <em> Smart Pop </em> series , a series which goes beyond the normal way of thinking about games , books , movies , etc .
+
+#	NEW	pages	........ / same	// <p> In 1978 , the book was adapted for the screen in a film of the same name .
+
+#	NEW	pages	........ / atomic	// <p> The play concerns a worker who rebels against military control of atomic energy .
+
+#	NEW	pages	........ / their	// The project has published a commentary that sets out problems with the book ' s account of their work .
+
+#	NEW	pages	........ / see	// The only habitable island features a strange-looking skyscraper at its mountain peak , obviously of functional design , as only some people are able to see it .
+
+#	NEW	pages	........ / and	// Three Ancients inhabit the New World , with the remaining four staying back in the Old World of Europe and Asia .
+
+#	NEW	pages	........ / ,	// As in the other books in the series , persons and places are frequently given their Greek names rather than the English ones ( Sokrates , Platon , etc ) . </p>
+
+#	NEW	pages	........ / 1941 .	// The novel originally in the magazine <em> <a> Unknown </a> </em> in February 1941 .
+
+#	NEW	pages	........ / 15 .	// It appeared on <a> The New York Times Best Seller list </a> in September 2008 , debuting at number 15 . </p>
+
+#	NEW	pages	........ / 2007 .	// <em> The Janissary Tree </em> won an <a> Edgar Award </a> for Best Novel 2007 . </p>
+
+#	NEW	pages	........ / 1837 .	// It was first published in book form by the Liberal Union in 1837 . </p>
+
+#	NEW	pages	........ / ,	// <p> The story opens with a discussion between Barton Swift and an old friend , Alec Peterson .
+
+#	NEW	pages	........ / this	// &quot ; Mad Holiday&quot ; was written for this collection .
+
+#	NEW	pages	........ / ,	// Other stories find themselves narrated in the third person by the author &quot ; B . &quot ; ,
+
+#	NEW	pages	........ / 1998 .	// <p> <strong> Dark Back of Time </strong> by <a> Javier Mar&#x00ed ; as </a> was first published in 1998 .
+
+#	NEW	pages	........ / 1969 .	// <p> The novel takes place in 1969 .
+
+#	NEW	pages	........ / s	// The film ' s version is instead based on Dr . Jack Thorne , and is only given Eddie ' s name .
+
+#	NEW	pages	........ / novel . &	// ( The author called his work a &quot ; scientific novel . &quot ; )
+
+#	NEW	pages	........ / full	// <p> To promote <em> Without Sorcery </em> , <a> Prime Press </a> published the story &quot ; It&quot ; in advance of the full collection .
+
+#	NEW	pages	........ / 3 .	// Book 2 ends here , but the scene continues on in Book 3 . </p>
+
+#	NEW	pages	........ / to	// This story may be closer to the truth than many people would like to believe . . .
+
+#	NEW	pages	........ / Michael	// <p> <strong> <em> My Beautiful Mommy </em> </strong> is a children ' s book written by <a> plastic surgeon </a> Dr . Michael Salzhauer .
+
+#	NEW	pages	........ / ,	// The story continues the story of the Lee family of Delano , Georgia .
+
+#	NEW	pages	........ / 1979-	// <p> Morse later revised the book as volumes II &amp ; III of a four volume study of Shiel issued by The Reynolds Morse Foundation ( now The Salvadore Dali Foundation ) 1979-1983 .
+
+#	NEW	pages	........ / ,	// The story continues the story of the Lee family of Delano , Georgia .
+
+#	NEW	pages	........ / 1931	// It was first published in book form in <a> 1931 </a> by Brewer and Warren .
+
+#	NEW	pages	........ / 1965 .	// <p> The essay was later collected in a compilation entitled <em> Decline of the English Murder and Other Essays </em> , published by London ' s Penguin Group in 1965 . </p>
+
+#	NEW	pages	........ / all	// The story follows Sergei Herminov , an Estonian Yeminite , whose companion Jorge Hernandez is lost in his own made-up fantasy land where he is the king of all times .
+
+#	NEW	pages	........ / 1947 .	// The novel originally appeared in the magazine <em> <a> Collier ' s Weekly </a> </em> in 1947 . </p>
+
+#	NEW	pages	........ / Jessie . &	// After this , a long string of questions is shown , written by a fan called &quot ; Jessie . &quot ;
+
+#	NEW	pages	........ / called '	// <p> ' Memory Prime ' is the name of a planet home to aritifical intelligences called ' Pathfinders ' .
+
+#	NEW	pages	........ / business . &	// . . . It ' s going faster than World Series tickets , which could make Sparky something of a threat to <a> Norman Mailer </a> in this writing business . &quot ;
+
+#	NEW	pages	........ / Roger	// <p> <strong> <em> It ' s Not Easy Being a Bunny </em> </strong> is a children ' s book written by Marilyn Sadler and illustrated by Roger Bollen .
+
+#	NEW	pages	........ / 0691088365 ) .	// An edition with a new <a> preface </a> by Edward O . Wilson was published in 2001 ( ISBN 0691088365 ) . </p>
+
+#	NEW	pages	........ / ,	// The novel was originally serialized in three parts in the magazine <em> <a> Amazing Stories </a> </em> beginning in October , 1948 .
+
+#	NEW	pages	........ / ,	// The first story was originally published in <em> Weird Tales </em> magazine , Vol . 6 , No . 1 , Issue 22 , July 1925 .
+
+#	NEW	pages	........ / 1937	// It was published in <a> 1937 </a> .
+
+#	NEW	pages	........ / Star	// <p> The book takes place in <a> Texas </a> , which is known as the Lone Star State .
+
+#	NEW	pages	........ / 2008 .	// <p> <strong> <em> Sinner </em> </strong> is a <a> Ted Dekker </a> mystery novel released in September 2008 .
+
+#	NEW	pages	........ / and	// Although she remains crippled , she regains the ability to walk and talk .
+
+#	NEW	pages	........ / 700&	// The story provides ecological context by describing interactions with other lifeforms in the forest and historical context through parallels with world events that occur during the tree ' s 700&nbsp ; years of life .
+
+#	NEW	pages	........ / ( 1969 ) .	// The stories were previously collected in a different configuration under the title <em> Jirel of Joiry </em> ( 1969 ) . </p>
+
+#	NEW	pages	........ / 2003 .	// The narrative begins from after Armstrong ' s first <a> Tour de France </a> win in 1999 and continues up till his fifth win in 2003 . </p>
+
+#	NEW	pages	........ / aloud&	// <p> Reviewers variously commented that it is a &quot ; quick&quot ; read , and a &quot ; nice book to read aloud&quot ; .
+
+#	NEW	pages	........ / ,	// <p> <strong> <em> Spilled Water </em> </strong> is a children ' s novel by <a> Sally Grindley </a> , published in 2004 .
+
+#	NEW	pages	........ / ,	// <p> <strong> <em> Cloud Busting </em> </strong> is a children ' s novel by <a> Malorie Blackman </a> , published in 2004 .
+
+#	NEW	pages	........ / ,	// <p> <strong> <em> My Big Brother , Boris </em> </strong> is a children ' s picture book by <a> Liz Pichon </a> , published in 2004 .
+
+#	NEW	pages	........ / ,	// <p> <strong> <em> The Last Castaways </em> </strong> is a children ' s book by <a> Harry Horse </a> , published in 2003 .
+
+#	NEW	pages	........ / ,	// <p> <strong> <em> Two Frogs </em> </strong> is a children ' s picture book written and illustrated by <a> Chris Wormell </a> , published in 2003 .
+
+#	NEW	pages	........ / Gray	// She also has a remarkable power , in which she can draw new runes that are not in the Gray book .
+
+#	NEW	pages	........ / 1981 .	// <p> <strong> <em> Golden God </em> </strong> is a novel by Jeanne DuPrau published in 1981 .
+
+#	NEW	pages	........ / ,	// <p> <strong> <em> That Pesky Rat </em> </strong> is a children ' s picture book by <a> Lauren Child </a> , published in 2002 .
+
+#	NEW	pages	........ / ,	// <p> <strong> <em> Jazzy in the Jungle </em> </strong> is a children ' s picture book by <a> Lucy Cousins </a> , published in 2002 .
+
+#	NEW	pages	........ / who	// Money is made possible only by the men who produce .
+
+#	NEW	pages	........ / her	// She had traveled the region in which the story takes place , and the topics of <a> galvanism </a> and such other occult ideas were themes of conversation among her companions .
+
+#	NEW	pages	........ / four	// <p> The novel is divided into four books .
+
+#	NEW	pages	........ / American	// Words Matter : Conversations with Asian American Writers .
+
+#	NEW	pages	........ / 2008 .	// <p> <strong> <em> Defending Identity : Its Indispensable Role in Protecting Democracy </em> </strong> is a book by <a> Natan Sharansky </a> published in June 2008 . </p>
+
+#	NEW	pages	........ / s	// The book includes a bibliography of Mundy ' s works .
+
+#	NEW	pages	........ / 1 /	// <p> <em> <a> Deadfall </a> </em> was adapted for <em> <a> Suspense </a> </em> and broadcast / 1 / 1951 . </p>
+
+#	NEW	pages	........ / 1919 .	// The novel was originally serialized in the magazine <em> <a> All-Story Weekly </a> </em> beginning May 3 , 1919 . </p>
+
+#	NEW	pages	........ / felt . &#	// <p> All About Lulu received a starred review in Publishers Weekly ( / 1 / 08 ) , who called the book &#x201c ; a stunner&#x2014 ; viciously funny and deeply felt . &#x201d ;
+
+#	NEW	pages	........ / Christopher	// <p> <strong> A Year In The Province </strong> is a comic novel by Christopher Marsh .
+
+#	NEW	pages	........ / girlfriend -	// He is bitter , cynical and troubled but very charming , and the only thing he ( secretly ) cares about is his long suffering girlfriend - Evie .
+
+#	NEW	pages	........ / 5	// Info on Seasons 5 and 6 were not in the book , because this book was released before Season 5 began .
+
+#	NEW	pages	........ / in	// &#x00c9 ; milie and Maximilien soon fall in love .
+
+#	NEW	pages	........ / 1968 .	// The novel was previously included in an expanded edition of the Finney ' s book <em> The Unholy City </em> in 1968 . </p>
+
+#	NEW	pages	........ / ,	// <p> When asked about the book , Goble explained ; <em> &#x201c ; This book is the kind of book I began looking for , but never found .
+
+#	NEW	pages	........ / ,	// <p> <strong> <em> Will </em> </strong> is a historical fiction novel by <a> Christopher Rush </a> , published in 2007 .
+
+#	NEW	pages	........ / 2002 .	// <p> <strong> <em> Nuclear Dream </em> </strong> is a collection of various works by Sergey Lukyaninko , which was published in 2002 .
+
+#	NEW	pages	........ / leading	// However , Reginald Hill is said to have been unhappy with the series and it subsequently remains the only one to star Hale and Pace in the leading roles .
+
+#	NEW	pages	........ / Nazi	// <p> The true story of how the keepers of the <a> Warsaw Zoo </a> saved hundreds of people from Nazi hands .
+
+#	NEW	pages	........ / 0-	// Also Published under ISBN 0-345-45219-4 </p>
+
+#	NEW	pages	........ / 2009	// <p> This novel has also been published in Germany ( in 2008 by Bertelsmann ) and Poland ( in 2009 by Amber ) . </p>
+
+#	NEW	pages	........ / another	// And reverts to her normal age after an hour , leaving him hopelessly in love with a woman who won ' t exist for another decade .
+
+#	NEW	pages	........ / spiritual	// <p> In his second book , and through his groundbreaking research into the afterlife , Michael Newton has documented the more indepth results of his clinical work in spiritual hypnotherapy .
+
+#	NEW	pages	........ / ,	// The novel comprises three parts : Conception , Growth and Delivery . </p>
+
+#	NEW	pages	........ / ,	// The book takes readers sentence by sentence through Turing&#x2019 ; s paper providing explanations , further examples , corrections , and biographical information .
+
+#	NEW	pages	........ / of	// Mirbeau ' s text designates literature as repository of meaning .
+
+#	NEW	pages	........ / s	// It is the penultimate novel in the series and the last to be published during Burrough ' s lifetime .
+
+#	NEW	pages	........ / 1940	// The first complete edition of the novel was published in <a> 1940 </a> . </p>
+
+#	NEW	pages	........ / remaining	// He discovers that Lucien Fox ( aka Brother Fleet ) is one of the two remaining Rippers .
+
+#	NEW	pages	........ / ,	// <p> The novel , set in Chicago , is the story of two childhood friends and young criminals , Danny Carer and Evan McGann .
+
+#	NEW	pages	........ / Nicholas	// <p> <strong> <em> Divine Action and Modern Science </em> </strong> ( 2002 ) is a book written by Nicholas Saunders .
+
+#	NEW	pages	........ / work . &	// <p> Quotes : &quot ; Finely homed structurally and tightly textured , it ' s a wry , romantic story that should make Anderson ' s American reputation and create a demand for her other work . &quot ;
+
+#	NEW	pages	........ / human	// Their book culminates in a stunningly original examination of the connection between primate and human traits .
+
+#	NEW	pages	........ / old	// Three other investigations follow : one into the attempted murder of a young woman , another into the serial killings of small old women in the district , and a third into drug trafficking by old men .
+
+#	NEW	pages	........ / 1	// <p> The book has a spin-off , <strong> <em> Wikipedia Reader ' s Guide : The Missing Manual </em> </strong> , consisting of Appendix B ( slightly expanded ) and Chapter 1 from the book . </p>
+
+#	NEW	pages	........ / interesting	// Other criticisms included the simplicity of the writing and a lack of interesting stories .
+
+#	NEW	pages	........ / his	// Dean comforts her through her long recovery , and she comes to depend on his companionship .
+
+#	NEW	pages	........ / 13 ) .	// The queen told her daughter that no one wanted a queen who , &#x201c ; . . . makes up stories and seems to talk to wild beasts&#x201d ; ( Hale 13 ) .
+
+#	NEW	pages	........ / its	// This in turn makes much of the population vulnerable to being easily seduced by authoritarian forms of religion and tempts them to reject liberalism altogether , its strengths as well as its weaknesses .
+
+#	NEW	pages	........ / about	// Early on in the book Oskan has a <a> prophecy </a> about Sharley .
+
+#	NEW	pages	........ / 1918 .	// The novel was turned into a play &quot ; <strong> The Legion of Honour </strong> &quot ; by Orczy in 1918 . </p>
+
+#	NEW	pages	........ / socialist	// The book treats Nazism as a species of orthodox socialist theory .
+
+#	NEW	pages	........ / traditional	// <p> Since the book concerns with alternate possible realities some parts of it can ' t be read in the traditional order .
+
+#	NEW	pages	........ / minor	// In response Hager wrote that &quot ; out of a 350 page book , with nearly 1000 detailed references , Don Brash has found two minor inaccuracies .
+
+#	NEW	pages	........ / second	// <p> <strong> <em> Three Days Before the Shooting . . . </em> </strong> is the title of the edited manuscript of <a> Ralph Ellison </a> ' s never-finished second novel .
+
+#	NEW	pages	........ / Richard	// <p> <strong> <em> Half the House : a memoir </em> </strong> is written by Richard Hoffman .
+
+#	NEW	pages	........ / four	// It is revealed that her father , his best friend , another man named Alex Crew , and an inside man stole 28 million dollars worth of diamonds , and divided them into four shares .
+
+#	NEW	pages	........ / ,	// <p> Detective Lieutenant Peter van Effen , a man with a sardonic sense of humor and many hidden talents , and his fuzzy-minded boss , Chief of Police De Graaf , are called in .
+
+#	NEW	pages	........ / being	// After hearing Loque ' s story , Bobby assumes that Saint Dane is after the flume and decides to prevent the flume from being reopened .
+
+#	NEW	pages	........ / original	// She stated , &quot ; If I tried to write <em> Midnight Sun </em> now , in my current frame of mind , James would probably win and all the Cullens would die , which wouldn ' t dovetail too well with the original story .
+
+#	NEW	pages	........ / s	// The book provides unique insight into life at the Playboy Mansion while providing a detailed account of what day to day life was like as one of Hefner&#x2019 ; s girlfriends .
+
+#	NEW	pages	........ / ,	// The two armies line up against each other and <a> Indrajit </a> , the battle commander , calls out champions to fight against the opposing champion , Hanuman .
+
+#	NEW	pages	........ / ,	// He interviews the only witness to the second crime , a man called James Noone , but fails to learn much .
+
+#	NEW	pages	........ / fall	// <p> As a child , <a> Kathleen E . Woodiwiss </a> relished creating her own stories , and by age six was telling herself stories at night to help fall asleep .
+
+#	NEW	pages	........ / phone	// The story begins when a burglar makes a wrong phone number .
+
+#	NEW	pages	........ / one	// Now when he picks up a book , he only tears out one page . </p>
+
+#	NEW	pages	........ / American	// They also contain a considerable amount of observation on the nature of small American towns .
+
+#	NEW	pages	........ / evolutionary	// <p> The efficient market hypothesis comes under attack in this book using biological and evolutionary analogies .
+
+#	NEW	pages	........ / long	// Sa ' and Ch ' idzigyaak hesitate for a long time .
+
+#	NEW	pages	........ / yet	// The book concludes with chapters about post war activities : resolving problems of ownership , coordinating the return of stolen art , and attempting to collect what was yet missing .
+
+#	NEW	pages	........ / world	// Like other Strugatsky novels , the setting is an internationalized future of advanced technology and world peace .
+
+#	NEW	pages	........ / to	// She removes some of Mma Ramotswe ' s burden of worry by solving an important fraud investigation on her own , and manoeuvring Charlie back to work .
+
+#	NEW	pages	........ / are	// Card expands the story into a novel of over 400 pages so many of the details and characters are fictional .
+
+#	NEW	pages	........ / his	// While reporting to Abbot Glisam , Bisky tells him of his story .
+
+#	NEW	pages	........ / four	// <p> ; Brittany : The book then moves forward by four years .
+
+#	NEW	pages	........ / s	// Cook also wrote : &quot ; Johnstone ' s businesslike biog feels as if written at arm ' s length - but this distance allows him to state some awkward facts about Cruise ' s Scientology .
+
+#	NEW	pages	........ / 1992	// Portions of the series were significantly rewritten for the 1992 edition . </p>
+
+#	NEW	pages	........ / journey	// <p> The six begin their long journey south .
+
+#	NEW	pages	........ / barbarous	// Darker in tone than other volumes in the series , the novel offers eight alternative catastrophes in a world of chaos and barbarous collapse .
+
+#	NEW	pages	........ / 2009 .	// A sequel , <em> Pickles to Pittsburgh </em> , was published in 2000 by Atheneum Books ; a hardcover edition followed in 2009 . </p>
+
+#	NEW	pages	........ / 1978	// It was first published in 1978 and has remained in print ever since .
+
+#	NEW	pages	........ / 2008 .	// The book was published in January 2008 . </p>
+
+#	NEW	pages	........ / 12 :	// <p> <strong> Chapter 12 : Civil War </strong> </p>
+
+#	NEW	pages	........ / positive	// <p> The book has received some positive praise .
+
+#	NEW	pages	........ / you	// Comedian <a> Stewart Lee </a> , whom Brand cited as an influence , said of the book &quot ; you can read Russell Brand&#x2019 ; s book and dismiss it as rubbish if you like .
+
+#	NEW	pages	........ / his	// He meets a mysterious woman by the name of Joni , who begins to probe him about his past .
+
+#	NEW	pages	........ / are	// The noosphere is the collective consciousness of humanity , the networks of thought and emotion in which all are immersed .
+
+#	NEW	pages	........ / 1950 .	// It was first published by Pellegrini &amp ; Cudahy in 1950 .
+
+#	NEW	pages	........ / ,	// Part of the Sudorian Fleet , each of these 2 mile long ships are armed with &quot ; gravtech&quot ; weapons so powerful they can create new mountain ranges when used against a planetary surface , hence their name .
+
+#	NEW	pages	........ / Times	// It received literary praise , being nominated for the ALA Best Books for Young Adults award , a 2006 National Book Award nominee , and a New York Times Bestseller .
+
+#	NEW	pages	........ / Tyler	// However , are various events surrounding Tyler related ?
+
+#	NEW	pages	........ / this	// <p> For many years filmmaker <a> Hal Ashby </a> unsuccessfully attempted to make a film adaptation of this book .
+
+#	NEW	pages	........ / primitive	// It is both the story of mothers and daughters and the story of a primitive America .
+
+#	NEW	pages	........ / 2006	// <p> The first &quot ; Small Change&quot ; novel , <em> <a> Farthing </a> </em> , was released in August 2006 by Tor Books .
+
+#	NEW	pages	........ / second	// <p> <strong> <em> Blues for Mister Charlie </em> </strong> is <a> James Baldwin </a> ' s second play .
+
+#	NEW	pages	........ / in	// Their feelings towards each other are only dissembled and their relationship to other people gain in importance .
+
+#	NEW	pages	........ / wrote	// Fedogan and Bremer published a <a> chapbook </a> containing the ending of the story as Wandrei originally wrote it .
+
+#	NEW	pages	........ / becomes	// In other developments in Kinsey ' s personal story , she loses her VW car , and her friend Vera Lipton becomes engaged .
+
+#	NEW	pages	........ / ,	// <p> <strong> <em> The Cat Who Played Post Office </em> </strong> is the sixth book in <a> The Cat Who Series </a> , published in 1987 .
+
+#	NEW	pages	........ / story	// He is a lean man in his late 20 ' s or early 30 ' s when the story starts .
+
+#	NEW	pages	........ / VanBrooks	// Koko after jumping unto the top shelf , leads Qwill to a hollowed out book containing a sort of catalogue for VanBrooks collection .
+
+#	NEW	pages	........ / work	// She could only fiddle with broken bits of machinery and make them work again .
+
+#	NEW	pages	........ / s	// The scene , which did not feature in [ [ Elena Fort&#x00fa ; n ] ] ' s novels was designed to emphasize a further dramatic touch in Celia ' s story .
+
+#	NEW	pages	........ / talk	// This must be followed or else you could receive vandalization warnings on your talk page .
+
+#	NEW	pages	........ / 1973 .	// The book concludes with the release from captivity of him and the other POWs in 1973 . </p>
+
+#	NEW	pages	........ / quot ;	// The book is the fourth of twenty-four books written by Sawkins under Colin Forbes in the &quot ; Tweed and Co . &quot ; series .
+
+#	NEW	pages	........ / queer&	// At one point in the book , he even spray paints the words &quot ; and proud ! &quot ; following the graffiti on his locker which reads &quot ; queer&quot ; .
+
+#	NEW	pages	........ / Holocaust .	// name=NYT-talkp / He also reminded the reader that Hitler ' s speech is balanced out earlier in the book by Lieber ' s long monologue on the horrors of the Holocaust . ref
+
+#	NEW	pages	........ / Culture . &	// &quot ; Book Review : The Making of a Counter Culture . &quot ;
+
+#	NEW	pages	........ / ,	// The house ' s single door can lead to almost any place - from other rooms like the kitchen , to faraway places , and even other time periods .
+
+#	NEW	pages	........ / of	// This novel is part of the <a> Grand Tour </a> series of novels .
+
+#	NEW	pages	........ / group	// They then ask Cadel and Sonja to join the squad , which is disguised as a youth group home .
+
+#	NEW	pages	........ / considerable	// The story is very well told and must have involved considerable research .
+
+#	NEW	pages	........ / World	// The longer , the story of Lalla , is set in an indefinite time , but obviously after the Second World War .
+
+#	NEW	pages	........ / it&	// Booktrust Children ' s Books commends Fergus for being &quot ; an immensely likeable character whose story , along with that of the bog child , will long stay with those who read it&quot ; .
+
+#	NEW	pages	........ / in	// Valerie MacEwan commends the book saying , &quot ; only the most ardent aficionado of anime would find this volume lacking in detail .
+
+#	NEW	pages	........ / Mother&	// The novel is composed of a novelette with the same title and its sequel , &quot ; The Snake Mother&quot ; .
+
+#	NEW	pages	........ / named	// The two have another friend , a girl named Claude .
+
+#	NEW	pages	........ / 6 .	// <p> <a> CBS </a> ' <em> <a> 60 Minutes </a> </em> interviewed Feith about the book on April 6 .
+
+#	NEW	pages	........ / published	// <p> <strong> <em> The Sweet Smell of Psychosis </em> </strong> is <a> Will Self </a> ' s first published Novella .
+
+#	NEW	pages	........ / and	// <p> <strong> <em> Mauprat </em> </strong> is a novel by the French novelist <a> George Sand </a> about love and education .
+
+#	NEW	pages	........ / rare	// <em> <a> San Francisco Chronicle </a> </em> reported in 2003 that writer John Baxter retained a first edition copy of <em> Slaves of Sleep </em> in his private collection of rare books .
+
+#	NEW	pages	........ / 2003-	// The <a> Luxembourg </a> -based group Artvalue bought the name and rights in 2002 and published the last 3 editions from 2003-5 .
+
+#	NEW	pages	........ / about	// While James only appears minimally , we learn a great deal about him from Alfred&#x2019 ; s thoughts and what others say about him .
+
+#	NEW	pages	........ / printed	// The more expensive online edition includes videos and other material , not available with the printed book .
+
+#	NEW	pages	........ / of	// <p> A framing device included in the collected edition , The Domination , is set several years after the events of Drakon .
+
+#	NEW	pages	........ / story	// agreed with several other reviewers about the strength of Gilbert ' s story telling .
+
+#	NEW	pages	........ / literature&	// American anarchist <a> Harry Kelly </a> wrote a long review in which he described <em> The Bolshevik Myth </em> as &quot ; a great piece of literature&quot ; .
+
+#	NEW	pages	........ / to	// <p> The author has confirmed that there are more books to come .
+
+#	NEW	pages	........ / ,	// And like all the other books , it received new , younger-appealing cover art and was rewritten to apply to today ' s society , economy and technology .
+
+#	NEW	pages	........ / not	// Socialists are wrong because they disregard the fact that modern civilization naturally evolved and was not planned .
+
+#	NEW	pages	........ / one	// It tells the story of two women , Hester and her young ward Katherine , and their relationship with one another .
+
+#	NEW	pages	........ / David	// <p> <strong> <em> Berry Town </em> </strong> is a series of children ' s books , written by Stephen R . Johnson and illustrated by David Leonard .
+
+#	NEW	pages	........ / 2009 .	// According to the <em> <a> Library Journal </a> </em> it was the second most borrowed fiction book in United States libraries in 2009 . </p>
+
+#	NEW	pages	........ / ,	// He is a native of Long Island , New York .
+
+#	NEW	pages	........ / 130	// The book is set in what was once <a> Los Angeles </a> , 130 years after the war .
+
+#	NEW	pages	........ / off . &	// This is a rousing story that reminds us that &quot ; adventure&quot ; really is someone else in deep trouble a long way off . &quot ;
+
+#	NEW	pages	........ / two	// In the latter parts of the story the narrating is more evenly distributed between the two characters .
+
+#	NEW	pages	........ / evaporate	// Kyle McAvoy is another of the two-dimensional yet terrifically likeable heroes who come to life on Mr . Grisham&#x2019 ; s pages only to evaporate later .
+
+#	NEW	pages	........ / different	// On the other hand , the <em> The Elfin Ship </em> novel deletes nearly all the events in <em> The Man in the Moon <strong> s concluding 60 pages , replacing them with 200 pages taking the plot in a different direction .
+
+#	NEW	pages	........ / 2007 .	// The novel was written in 2007 . </p>
+
+#	NEW	pages	........ / ,	// It was originally published by <a> Harper Bibles </a> on October 7 , 2008 .
+
+#	NEW	pages	........ / JourneyForth	// <p> <em> Mumsi Meets a Lion </em> is a children ' s book by Kim Stegall and published by <a> BJU Press </a> under the JourneyForth label .
+
+#	NEW	pages	........ / home	// Each episode featured one pastry chef or baker who demonstrates professional techniques that can be performed in a home kitchen .
+
+#	NEW	pages	........ / eerie . &	// <p> Kirkus , 0 / 1 / 1997 &quot ; For as long as the tale ' s dream state is sustained , the result is exquisite and eerie . &quot ;
+
+#	NEW	pages	........ / ,	// Although the main characters and story lines are the same , there are significant differences between the book and the series , most notably : </p>
+
+#	NEW	pages	........ / by	// After her wounds were treated by a vampire , Sookie and Eric shared an intimate momment only to be interrupted by Bubba .
+
+#	NEW	pages	........ / vicious	// Before long , two dogs end up in a vicious fight .
+
+#	NEW	pages	........ / of	// It contains his visualizations of different beings from various works of fantasy .
+
+#	NEW	pages	........ / ,	// <p> iv ) <strong> A law , natural ( i . e .
+
+#	NEW	pages	........ / to	// <p> Although there are long hours of study and self-discipline , Tessia&#x2019 ; s new life also offers more opportunities than she had ever hoped for , and an exciting new world opens up to her .
+
+#	NEW	pages	........ / remains	// <p> <strong> Chapter 7 : Expropriation </strong> br / Although the number of expropriations has declined since the 1970s , the value of the expropriations that do occur remains high .
+
+#	NEW	pages	........ / s	// However , the Mirror-Kirk framed him for treason , which resulted in Spock ' s execution .
+
+#	NEW	pages	........ / against	// Henty ' s character fights for the <a> Confederate States of America </a> , even though he is against slavery .
+
+#	NEW	pages	........ / ,	// 1 . 4 , page 13 ) by Crystal Uchino . </p>
+
+#	NEW	pages	........ / 36-	// The set included three digest-sized books : the 36-page &quot ; Men &amp ; Magic&quot ; , the 40-page &quot ; Monsters &amp ; Treasure&quot ; , and the 36-page &quot ; The Underworld &amp ; Wilderness Adventures&quot ; .
+
+#	NEW	pages	........ / his	// He uses as a vehicle for this what he describes as the &quot ; unnatural perversion&quot ; of sons dying before their fathers , which has affected three key figures in his story .
+
+#	NEW	pages	........ / Best	// Nominated for the 2001 <a> World Fantasy Award </a> for Best Anthology .
+
+#	NEW	pages	........ / later	// A story of two gay fugitive lovers on the run , it presaged the satire and drug fueled violence so prominent in his later books .
+
+#	NEW	pages	........ / them	// The three ladies - all named Mary - are standing in the crowd and Rubin calls them over .
+
+#	NEW	pages	........ / 2006 .	// The original edition had a print run of just 800 copies ; the volume was reprinted in 2006 . </p>
+
+#	NEW	pages	........ / his	// Bucky is trying to ensure his grandfather has a military burial , but when Bucky submits a claim for his grandfather ' s death benefits , the military has no record of his grandfather .
+
+#	NEW	pages	........ / while	// <p> The last 145 pages of the book is addressed to passengers , to help them determine which airlines have good safety records and how to better ensure safe travel while flying .
+
+#	NEW	pages	........ / film	// speculated about a possible film adaptation , which led to many questions about a time line for a film adaptation .
+
+#	NEW	pages	........ / in	// The text was written between late January and June 2008 , during which Atwood took time for two vacations ( birding in Cuba and in France ) .
+
+#	NEW	pages	........ / so&	// Each tale is followed by her refrain of &quot ; And Grandpa never lies , so I know it ' s so&quot ; .
+
+#	NEW	pages	........ / 2008 .	// <p> <strong> <em> Broken Soup </em> </strong> is a children ' s novel by <a> Jenny Valentine </a> , published in 2008 . </p>
+
+#	NEW	pages	........ / 2006 .	// The original edition was published by Fayard in 2006 . </p>
+
+#	NEW	pages	........ / three	// He gave her three months to write the book , which would be published and distributed within a further three months .
+
+#	NEW	pages	........ / 1933&	// Reich set out to analyze &quot ; the economic and ideological structure of German society between 1928 and 1933&quot ; in this book .
+
+#	NEW	pages	........ / what	// <p> The book opens to notes written by Mamah Borthwick , reminiscing on her life and expressing her longing to tell her views of what happened .
+
+#	NEW	pages	........ / wrong . &	// <p> Chris Stephenson , of <em> Carousel </em> , reviewed the book saying &quot ; To work successfully , the book required a delicate balancing-act and Anne Fine , a consummate high-wire performer , doesn ' t put a foot wrong . &quot ;
+
+#	NEW	pages	........ / by	// Although they are actually long short stories , they are termed <em> novels </em> by Cervantes .
+
+#	NEW	pages	........ / few	// <p> When Collins sent a signed copy of the book to her father , <a> Joe Collins </a> , he stopped reading it after the first few pages .
+
+#	NEW	pages	........ / attacks	// Eric saves Sookie ' s life by staking Long Shadow when he attacks her .
+
+#	NEW	pages	........ / Russia .	// <p> <em> The ABC of Communism </em> was written during the civil war , and was written to convince the citizens of Russia . ref
+
+#	NEW	pages	........ / mountainous	// Dorothy sets out for the Emerald City , climbing a landscape of mountainous produce .
+
+#	NEW	pages	........ / 1973-	// <p> <strong> <em> The World ' s Number One , Flat-Out , All-Time Great Stock Car Racing Book </em> </strong> is a non-fiction book on early stock car racing written in 1973-1974 .
+
+#	NEW	pages	........ / ,	// He is always very very heavily armed , carrying more weapons then any other guard , he will only go somewhere unarmed if ordered to do so directly by the Princess , or Queen .
+
+#	NEW	pages	........ / a>	// <p> <em> Anarchy Alive ! </em> was favourably reviewed in journals including <strong> <em> ' , </em> <a> New International </a> <em> and </em> <a> Anarchist Studies </a> <em> .
+
+#	NEW	pages	........ / alarmists . &	// <p> <em> The Philadelphia Inquirer </em> wrote that the book &quot ; names names and calls nonsense nonsense&quot ; , and provides &quot ; important insight into the fatal flaws of the key arguments of vaccine alarmists . &quot ;
+
+#	NEW	pages	........ / possible	// <p> As a <a> short story cycle </a> , the book presents forty mutually exclusive stories staged in a wide variety of possible afterlives .
+
+#	NEW	pages	........ / ,	// <p> The story is set forty years into the future , in an America in which distinctions between government , religion , and corporations have vanished .
+
+#	NEW	pages	........ / 5&	// In only 96 hours a dieter can lose 7 pounds and over 5&nbsp ; inches .
+
+#	NEW	pages	........ / of	// When she discovers that her new azi security chief has been tampered with , her list of possible enemies grows to include key men inside Reseune itself : Yanni Schwartz , the Director , and Adam Hicks , the head of security .
+
+#	NEW	pages	........ / 17-	// <p> It is the seventeenth book in the 17-volume Rocksburg series . </p>
+
+#	NEW	pages	........ / to	// ( After the war , which also involved France on the side of Ireland , British women outnumbered men by three to one . )
+
+#	NEW	pages	........ / original	// The sequel occurs &quot ; several years&quot ; after the original story .
+
+#	NEW	pages	........ / s	// <p> Only the first volume was completed at the time of Campbell ' s death .
+
+#	NEW	pages	........ / attack	// The defector also gives background information on the new technology which was used to attack Manticore .
+
+#	NEW	pages	........ / supporters .	// LaFontaine ' s opinion is that the book reads more like a rallying of supporters . ref
+
+#	NEW	pages	........ / ,	// It was the author ' s first attempt at a thriller , and his first novel .
+
+#	NEW	pages	........ / ,	// <p> The stories all deal with the concept of toying beyond the limits of human knowledge , </p>
+
+#	NEW	pages	........ / accident-	// <p> The novel concerns a man who is unnaturally accident-prone .
+
+#	NEW	pages	........ / all	// She is housed along with other recently liberated Jews , which include men and women of all ages .
+
+#	NEW	pages	........ / 1915 .	// The novel originally appeared in the magazine <em> <a> Argosy </a> </em> in 1915 . </p>
+
+#	NEW	pages	........ / V .	// <p> <strong> Heart Song </strong> is the second of the five books in the Logan series by <a> V . C .
+
+#	NEW	pages	........ / ,	// dans Paris , page &#x00e0 ; page .
+
+#	NEW	pages	........ / ,	// Butters suggested that Clarkson should write a book about Ferrari for his new publishing company , who specialise in limited edition books .
+
+#	NEW	pages	........ / unspellbinding	// Writing in The New York Times Book Review , John Simon said the memoir did not contain &quot ; a single unspellbinding page . &quot ;
+
+#	NEW	pages	........ / of	// <p> The book , based in an unknown country and at a point in the unspecified past , opens with the end of death .
+
+#	NEW	pages	........ / John	// <p> <strong> <em> Sporting Times </em> </strong> is a 1932 <a> semi-autobiographical novel </a> by John Bante .
+
+#	NEW	pages	........ / with	// Over the years , her aunt gives in to cancer , and she looks back on her night at the Staveney ' s with longing .
+
+#	NEW	pages	........ / name	// Those who lack genuine authority and succumb to the temptation to exercise unalloyed power are leaders in name only .
+
+#	NEW	pages	........ / powerful	// <p> The Sackers , a race of physically repellent beings , murder an entire race to steal a powerful device .
+
+#	NEW	pages	........ / haunt	// <p> In the last novel of the series , Mara ' s actions in the first two books come back to haunt her .
+
+#	NEW	pages	........ / ,	// <p> Mara also arranges a political marriage with her family ' s second most powerful enemy , the Anasati .
+
+#	NEW	pages	........ / the	// that eventually merges with secular history on the pages following .
+
+#	NEW	pages	........ / Kenneth	// On April 7 , 2009 , <strong> <em> Relentless </em> </strong> was nominated for a <a> National Business Book Award </a> , alongside works by Margaret Atwood , Peter C . Newman and Kenneth Whyte .
+
+#	NEW	pages	........ / 2005 .	// <p> <em> The Running Man </em> was named <a> Children ' s Book Council of Australia </a> Book of the Year for Older Readers in 2005 .
+
+#	NEW	pages	........ / syndrome . &	// The critic said that the book suffered from the &quot ; kitchen-sink syndrome . &quot ;
+
+#	NEW	pages	........ / first	// She has written a sequel that improves upon the first book .
+
+#	NEW	pages	........ / 39	// <p> <strong> <em> Beyond the Grave </em> </strong> is the fourth book in <em> <a> The 39 Clues </a> </em> series .
+
+#	NEW	pages	........ / ,	// Butterfly </a> </em> , earns its own chapter .
+
+#	NEW	pages	........ / Roland	// The book is written by Roland Smith .
+
+#	NEW	pages	........ / Baum	// It has long been one of the rarest items in the Baum bibliography .
+
+#	NEW	pages	........ / American	// <p> The narrator and protagonist of the story is Clover , a young African-American girl .
+
+#	NEW	pages	........ / he	// <p> Having heard Meurig ' s confession , Cadfael tells him his penance is to live a long life , doing as much good as he can .
+
+#	NEW	pages	........ / place	// Eventually he steals a sakoda car and goes back , only to find things have changed and he has no place there .
+
+#	NEW	pages	........ / Benjamin	// <p> <strong> <em> American Nerd : The Story of My People </em> </strong> is a book by Benjamin Nugent .
+
+#	NEW	pages	........ / years	// The novel exploded upon the Quebec literary scene when Marie-Claire Blais was only twenty years old .
+
+#	NEW	pages	........ / for	// Shasarak has enlisted the aid of the dreaded demon lord Agarash the Damned in order to eradicate the resistance movement once and for all .
+
+#	NEW	pages	........ / 2008 .	// <p> Stephen Christian released the official soundtrack for the book on its <a> MySpace </a> page in a blog on March 7 , 2008 . </p>
+
+#	NEW	pages	........ / for	// <a> Rob MacGregor </a> , the author of this book , also wrote five of the other Indiana Jones books for Bantam .
+
+#	NEW	pages	........ / ,	// <p> The Enterprise is assigned to carry a diplomatic mission , which is nothing new .
+
+#	NEW	pages	........ / respiratory	// Though Dodds attempts to save his life , the man has suffered fatal gunshot wounds and dies of respiratory failure .
+
+#	NEW	pages	........ / not	// Actually , the story is not linear .
+
+#	NEW	pages	........ / ,	// <p> &quot ; One of the best first sentences I ' ve ever read and a book that lives up to it ! &quot ; says Frank Cottrell-Boyce , British screenwriter and novelist .
+
+#	NEW	pages	........ / being	// <p> Other reviewers fault the book for not being realistic .
+
+#	NEW	pages	........ / quot ;	// Sinclair called <em> The Brass Check </em> &quot ; the most important and most dangerous book I have ever written . &quot ; ( p .
+
+#	NEW	pages	........ / 1903	// <p> The original edition of the book collected sixteen tales by the author ; the 1903 edition added twelve more .
+
+#	NEW	pages	........ / 2009 .	// <p> <strong> <em> Fool </em> </strong> is the eleventh novel by <a> Christopher Moore </a> , released on February 10 , 2009 . </p>
+
+#	NEW	pages	........ / to	// One day , Jaa came to Kwamfa and confronted the man and accused him of using her name in vain and doing things that she would never agree to do .
+
+#	NEW	pages	........ / 2008 .	// An unabridged audio version of the novel was published by Hachette Book Group in August 2008 .
+
+#	NEW	pages	........ / 000	// The book has sold over 250 , 000 copies . </p>
+
+#	NEW	pages	........ / ,	// It examines the long <a> history of money </a> , <a> credit </a> , and <a> banking </a> .
+
+#	NEW	pages	........ / for	// It was discovered by man for man .
+
+#	NEW	pages	........ / to	// Bobby and Maria ' s lives are shattered when a vicious Hispanic street gang attack Bobby and Maria while the two were walking to school .
+
+#	NEW	pages	........ / systematic	// The bulk of the book , from pages 31 to 826 is the systematic list .
+
+#	NEW	pages	........ / from	// The Enterprise is sent to meet this new threat , only to fall apart from within .
+
+#	NEW	pages	........ / exact	// He is removed from command and Commander Spock takes over , but it is not an exact improvement .
+
+#	NEW	pages	........ / other	// The grouping is captured by the Tomarii , who use them in other conflicts .
+
+#	NEW	pages	........ / with	// He also relates stories of his parents , who fled from Russia in 1914 , his experiences at school and a brief flirtation with Communism .
+
+#	NEW	pages	........ / various	// <p> An enigmatic package arrives at Alex ' s house containing a photo album of violent photographs depicting victims of various cases .
+
+#	NEW	pages	........ / 1940 .	// The novel consists of two novellas , &quot ; Adventure on Poloda&quot ; and &quot ; Tangor Returns&quot ; , written quickly in late 1940 .
+
+#	NEW	pages	........ / and	// <p> The novel is highly praised by many crime fiction critics and writers .
+
+#	NEW	pages	........ / Watertown	// While the exact setting of the novel is not known although it states Carthage , NY a town near Watertown NY .
+
+#	NEW	pages	........ / 1961 .	// The book was first published in 1961 . </p>
+
+#	NEW	pages	........ / ,	// <p> Besides Heaven ' s perspective in the story , the books include illustrations , newspaper reports , and other characters ' entries .
+
+#	NEW	pages	........ / fake	// In addition , Sid Halley ' s ex-father-in-law , Charles , asks Sid to try and find a man who has conned Sid ' s ex-wife Jenny and left her facing a possible jail sentence over a fake charity .
+
+#	NEW	pages	........ / 1926 .	// It was first published in 1926 .
+
+#	NEW	pages	........ / 2009 .	// It was released in the United States on September 8 , 2009 . </p>
+
+#	NEW	pages	........ / 12	// It contains a long novella , which was the only previously unpublished story included , and 12 short stories .
+
+#	NEW	pages	........ / 2007	// <p> <strong> <em> The Seventh Decade : The New Shape of Nuclear Danger </em> </strong> is a 2007 book by <a> Jonathan Schell </a> .
+
+#	NEW	pages	........ / kitchen	// <p> Although comprehensive in its scope , many modern critics consider it more of a historical document than a working cookbook due to its elegant writing style and dependence on 1920s kitchen technology .
+
+#	NEW	pages	........ / city&	// <p> Reviewer Hutchings describes the novel as &quot ; classic detective fiction&quot ; typified by its first-person narrative and &quot ; engagement with the city&quot ; .
+
+#	NEW	pages	........ / influenced	// It recounts his early life and includes his accounts of people who influenced him .
+
+#	NEW	pages	........ / artificial	// <p> <strong> Celeste </strong> is an artificial intelligence .
+
+#	NEW	pages	........ / Ryan	// <p> <strong> <em> Kung Fu High School </em> </strong> is a brutally descriptive action , romance , fiction novel written Ryan Gattis .
+
+#	NEW	pages	........ / ( 2005 ) .	// <p> This novel has been translated into French ( 2000 ) , Slovenian ( 2003 ) , Dutch ( 2003 ) , Spanish ( 2003 ) , German ( 2004 ) , and Italian ( 2005 ) . </p>
+
+#	NEW	pages	........ / kind . &	// <p> The judge noted that &quot ; the nature of the allegations which were made in the book . . . are of the most serious and defamatory kind . &quot ;
+
+#	NEW	pages	........ / act	// <p> In real life , the seed of virtually every serious crime , not only murder , is sown long before the performance of the act itself .
+
+#	NEW	pages	........ / into	// <p> The story then evolved into one in which the Monkey King pursued Civet into &quot ; our reality&quot ; , resulting in &quot ; several normal children from our universe&quot ; being taken back into theirs .
+
+#	NEW	pages	........ / 1991 .	// <p> <strong> <em> The Eagle Has Flown </em> </strong> is a book by <a> Jack Higgins </a> , first published in 1991 .
+
+#	NEW	pages	........ / self-	// <p> Although Heller ' s disease is debilitating , the book is full of humor and never self-pitying .
+
+#	NEW	pages	........ / ,	// <p> The Gargoyle follows two different time lines , one in the form of a story [ or &#x2018 ; memory&#x2019 ; ] , and one in real time .
+
+#	NEW	pages	........ / of	// <p> The only city remaining of the kingdom to the south of Thesa .
+
+#	NEW	pages	........ / cunning	// Mahisuru , which later went on to become Mysore , had lost its chieftain and was vulnerable to the machinations of a cunning upstart .
+
+844	FALSE	The Garden of the Gods::pages	192 / ,	
+Humour is also brought in the form of several new and colourful characters , including Lumis Bean , Harry Bunny , Prince Jeejeebuoy , and Count Rossignol . </p>
+
+#	NEW	pages	........ / 1975 .	// It was first published by <a> Harper &amp ; Row </a> in 1975 . </p>
+
+#	NEW	pages	........ / story	// Even though this mini series was inspired by Bierce ' s short story , the movie was based very loosely on the actual story itself .
+
+#	NEW	pages	........ / happy . &	// This book could have been longer by several hundred pages and I would have been happy . &quot ;
+
+#	NEW	pages	........ / ,	// He concludes on page 97 , saying : </p>
+
+#	NEW	pages	........ / redesigned	// <p> On the dedication page , there is a quotation from <em> Exeter Phoenix </em> by Thomas Sharp , the town planner who redesigned Exeter .
+
+#	NEW	pages	........ / ,	// The 304 page paperback novel was released April , 2009 .
+
+#	NEW	pages	........ / ,	// The story ends when the old Canon , having grown fond of the Cardinal , relents at last , bequeaths his excellent <a> wine cellar </a> , and his collection of soap scraps , to him . </p>
+
+#	NEW	pages	........ / 2009 .	// br / Physick Book debuted at #2 on the New York Times Hardcover Fiction Bestseller list on June 20 , 2009 . </p>
+
+#	NEW	pages	........ / Chris	// <p> <strong> <em> One Team , One Dream </em> </strong> is a book by Chris Manning .
+
+#	NEW	pages	........ / book&	// However , he criticises the book for its &quot ; little overall cohesiveness ; more a collection of articles in book form than a book&quot ; .
+
+#	NEW	pages	........ / in	// <p> By 1970 , Veikko Huovinen had established himself as a prominent author of folksy comedy novels in Finland .
+
+#	NEW	pages	........ / print	// <p> The Official Gazette is only available in print form .
+
+#	NEW	pages	........ / 2007 .	// <p> A screenplay of the story was written by <a> Joe McStravick </a> in 2007 .
+
+#	NEW	pages	........ / old	// <p> Strangelove provides a scholarly definition of the term <strong> empire of mind </strong> and applies it within an analysis of new and old media .
+
+#	NEW	pages	........ / 1992	// <p> <strong> <em> Broken Lives </em> </strong> was written by <a> Estelle Blackburn </a> between 1992 and 1998 .
+
+#	NEW	pages	........ / ,	// While some erstwhile and modern histories draw similar conclusions as the Savarkar , others , including <a> R . C .
+
+#	NEW	pages	........ / ,	// In Debt </em> </strong> is the book companion for the documentary <a> of the same name </a> , published on September 29 , 2008 .
+
+#	NEW	pages	........ / life	// He condemns the war in Europe and tells his life story .
+
+#	NEW	pages	........ / written	// Noah , storyteller and chronicler , tutors the children born after colonization and must explore the past to fill in the gaps in his written histories .
+
+#	NEW	pages	........ / ,	// Now Dane must fight his own to ensure that the vampiric community remains a secret , returning to the start of it all , Barrow , Alaska .
+
+#	NEW	pages	........ / repair	// As long as he can keep telling stories , a princess of the little people will bring him food and water so he can repair himself .
+
+#	NEW	pages	........ / ,	// <p> The book ' s appendix lists additional sources of information and resources including government organizations , associations and foundations . </p>
+
+#	NEW	pages	........ / ,	// Setting two appears to do nothing ; setting three creates another , stronger and longer-ranged , destabilizing beam .
+
+#	NEW	pages	........ / 1-	// <p> <a> Cemetery Dance Publications </a> printed a limited edition hardcover of the book ( ISBN 1-881475-15-8 ) .
+
+#	NEW	pages	........ / 1974	// <p> <strong> <em> The Ogre Downstairs </em> </strong> is a <a> 1974 </a> fantasy novel for children .
+
+#	NEW	pages	........ / progressive	// For example there is little discussion about the influence of mass transit and urban planning in Europe and other progressive regions .
+
+#	NEW	pages	........ / his	// Sabato draws on his three decades of experience as a political analyst in proposing this radical step , making reference to historical and political events as he makes his case .
+
+#	NEW	pages	........ / 1963 .	// <p> <strong> <em> Fascinating Womanhood </em> </strong> is the title of a book written by <a> Helen Andelin </a> in 1963 .
+
+#	NEW	pages	........ / ,	// &quot ; It ' s fair to say that the Hollywood novels made a pleasant read , but nothing more .
+
+#	NEW	pages	........ / Sterkarm	// The clansmen , who have always lived by plunder , begin robbing the FUPs , which leads to the FUP ' s power-hungry boss kidnapping the only son of the Sterkarm chieftain .
+
+#	NEW	pages	........ / 2 .	// <strong> <em> The Choirs of Kandahar </em> </strong> is essentially a continuation of Chapter 2 . </p>
+
+#	NEW	pages	........ / expressionist	// <p> The story is an account of the final months of the life of Klingsor , a forty-two-year-old expressionist painter .
+
+#	NEW	pages	........ / original	// 33 illustrations photographically reduced from the original edition .
+
+#	NEW	pages	........ / ,	// <p> She watches <a> tall ships </a> at the docks , consistently showing a strong interest in sailing , which she shares with one of the Armourer ' s sons , Piers .
+
+#	NEW	pages	........ / ,	// The narrative deals with the cyclical nature of control , destruction , and development during revolution .
+
+#	NEW	pages	........ / in	// Shortly after their departure , Richard received summons from his past and announced he had to make a long trip . . . to the Sahara desert in Africa .
+
+#	NEW	pages	........ / by	// <p> The Sulphur signs belong to a destructive dark group ; this is the only sign who isn ' t created by God .
+
+#	NEW	pages	........ / Battle	// <p> At Battle School , the other students barely tolerate Zeck because of his strong religious beliefs and his refusal to fight in the Battle Room .
+
+#	NEW	pages	........ / 80	// For example , the <a> endpapers </a> ( inside the front and back cover ) contain miniaturized scans of more than 80 pages apparently torn from the author ' s notebook .
+
+884	FALSE	Mitchell Report (baseball)::pages	409 / case	
+&quot ; Discipline of players and others identified in this report will be determined on a case-by-case basis .
+
+#	NEW	pages	........ / too	// The head is the result of one of his experiments which failed ( he believes , due to the brain being disconnected from oxygen for too long ) .
+
+#	NEW	pages	........ / ,	// <p> The story revolves around Gemma Doyle , a young woman sent from her home in British <a> India </a> to the mysterious boarding school , Spence Academy .
+
+#	NEW	pages	........ / or	// <p> The book is composed of three books within the book that can be read separately or together .
+
+#	NEW	pages	........ / 1940	// The setting is just after the <a> Spanish Civil War </a> in <a> 1940 </a> .
+
+#	NEW	pages	........ / ( 1992 ) .	// The other novels are <em> <a> Dragonsword </a> </em> ( 1989 ) and <em> <a> Dragon Death </a> </em> ( 1992 ) .
+
+#	NEW	pages	........ / ( 1999 )	// The characters Grey , Sarah , and Nan appear in two earlier works by Lackey which were published in the short story anthology , <em> <a> Werehunter </a> </em> ( 1999 ) </p>
+
+#	NEW	pages	........ / ,	// <p> In <em> Expert Card Technique </em> , <a> Jean Hugard </a> said of it , &quot ; . . . perhaps no other book in all the list of conjuring books has been so avidly read , so affectionately regarded . &quot ;
+
+#	NEW	pages	........ / ,	// The book was set for its official release April 1 , 2009 .
+
+#	NEW	pages	........ / three	// <p> The book is divided into three sections .
+
+#	NEW	pages	........ / 366	// <p> Eleven pages of introductory material are followed by the book ' s main content : 366 pages of text and colour paintings .
+
+#	NEW	pages	........ / to	// This aspect of the book is even more pronounced when compared to Korzybski&#x2019 ; s <em> Science and Sanity </em> , which is invariably considered a very difficult book to understand .
+
+#	NEW	pages	........ / to	// The book relies on Feyerabends ' s own memory as well as the various stray sources that he did manage to keep .
+
+#	NEW	pages	........ / 960	// The hardback is 820 pages and the paperback is 960 pages and are published by Bedfor / St .
+
+#	NEW	pages	........ / diary	// After the death of Ramakrishna , the growing public recognition would have encouraged Gupta to make his diary public .
+
+#	NEW	pages	........ / its	// <p> The book is partly censored , but it is printed to show which parts were blacked out&#x2014 ; it is perhaps the earliest published book to show its deletions .
+
+#	NEW	pages	........ / mass	// <p> <em> Dark Scribe Magazine <strong> s review of the book states , &quot ; Brian Keene consistently pumps out high-quality works of horror in both the small press and the mass market .
+
+#	NEW	pages	........ / be	// Later Geary and Desjani admit to each other their feelings for each other but realize that as long as Geary is her commanding officer they can never be together .
+
+#	NEW	pages	........ / artistic	// <p> In <a> Philip Nel </a> ' s analysis , a conflict between the book ' s plot and its illustrations leads to artistic tension .
+
+#	NEW	pages	........ / ( i .	// The book claims that the world population of 6 billion people is subject to the immense influence of an elite ( i . e .
+
+#	NEW	pages	........ / 3	// <p> The first instalment contains pages 3 to 70 .
+
+#	NEW	pages	........ / original	// <p> The following details of the characters are based on the original novel .
+
+#	NEW	pages	........ / 16-	// <p> <strong> Gregory &quot ; Greg&quot ; Donahoe </strong> : He ' s 16-years-old and Marcy ' s boyfriend .
+
+#	NEW	pages	........ / York :	// ( 1979 ) <em> <a> Riverworld and Other Stories </a> </em> New York : Berlkley .
+
+#	NEW	pages	........ / ,	// <p> Originally published by a British publisher , Spectre , in 2002 .
+
+#	NEW	pages	........ / 137	// <p> <strong> <em> The Longest Memory </em> </strong> is a short fiction novel ( only 137 pages long ) by British writer <a> Fred D ' Aguiar </a> .
+
+#	NEW	pages	........ / heavy	// <p> The book argues that heavy metal began with <a> Black Sabbath </a> in 1970 , eschewing the concept of ' proto- ' heavy metal .
+
+#	NEW	pages	........ / gilt	// The new purse , substituted for his own , and which contained his fifteen Louis d ' or , was worked with gilt beads .
+
+#	NEW	pages	........ / ,	// <p> The book is also a political novel , and a romance .
+
+#	NEW	pages	........ / ,	// After a long journey , Zhuo finally meets Lian on Mount Heaven , but she remains cold and indifferent towards him , refusing to accept his apologies .
+
+#	NEW	pages	........ / four	// <strong> Chapter 1 : </strong> In this chapter , the authors talk about their choice in choosing the four neighborhoods .
+
+#	NEW	pages	........ / ,	// The second box contains sixteen additional paintings , which they return to London .
+
+#	NEW	pages	........ / strong>	// <p> <strong> <em> On reading as true travel </em> </strong> ( orig .
+
+#	NEW	pages	........ / very	// br <strong> Donald </strong> - Worked many different jobs during his adolescent years , but was unable to keep any of them for very long .
+
+#	NEW	pages	........ / Age '	// <p> <strong> Coming of age : </strong> The novel is also a ' Coming of Age ' story .
+
+#	NEW	pages	........ / ,	// <p> <em> The Great Romance </em> is a short novel , originally published in two parts .
+
+#	NEW	pages	........ / or	// <p> Maya is a sparrow which has his own mystery in the book : Good or Evil .
+
+#	NEW	pages	........ / three	// It was also the beginning of her photographic career , which was to span more than three decades .
+
+#	NEW	pages	........ / zoological	// <p> : &quot ; . . . a levy of 40 , 000 naturalists were engaged for years in forming a hundred different zoological armies .
+
+#	NEW	pages	........ / s	// <p> Following the release of this publication , former Led Zeppelin guitarist <a> Jimmy Page </a> reportedly threatened to sue its author over the book ' s contents .
+
+#	NEW	pages	........ / 700	// This book is based on extensive research and analysis of previous studies , and the book contains over 700 references .
+
+#	NEW	pages	........ / economic	// Alter also said Roosevelt ' s inspirational leadership led to psychological victories which helped the country recover from an economic crisis .
+
+#	NEW	pages	........ / based&	// <p> The book remarks on the relatively low percentage of conventional medical activity ( 50 to 80% ) which could be called &quot ; evidence-based&quot ; .
+
+#	NEW	pages	........ / worms	// He was wondering how long it would be until he would be consumed by worms himself .
+
+#	NEW	pages	........ / quot ;	// Sorry ' s grandmother Winter , one of a long line of witches , recommends that Laura should &quot ; changeover&quot ; from her normal life , becoming a witch or &quot ; woman of the moon&quot ; herself .
+
+#	NEW	pages	........ / s	// <p> <strong> Rob Reece </strong> is Piper ' s husband .
+
+#	NEW	pages	........ / access	// After finding out that Robyn now works at a &quot ; whorehouse&quot ; , Kristina goes over and is able to sell the girls ice , instead of street crank , which was the only meth they ' d had access to .
+
+#	NEW	pages	........ / with	// After reading her first novel , Ryan attempts to rekindle his relationship with Samantha .
+
+#	NEW	pages	........ / 16 :	// <p> <strong> Chapter 15&mdash ; 16 : </strong> The 1970s .
+
+#	NEW	pages	........ / I . &	// <p> The structure of the novel is quite unique ; the narrator of the story is only identified as &quot ; I . &quot ;
+
+#	NEW	pages	........ / and	// From that day on , she is somewhat cursed by the long struggle and suffering of being part of others&#x2019 ; dreams and nightmares .
+
+#	NEW	pages	........ / 000	// According to <em> <a> Forbes </a> </em> , Jordan had intended for it to be the final book &quot ; even if it reaches 2 , 000 pages . &quot ;
+
+#	NEW	pages	........ / 1998 .	// <p> <strong> <em> We Interrupt This Broadcast </em> </strong> is the title of a <a> non-fiction </a> book from 1998 .
+
+#	NEW	pages	........ / s	// Many stories are reminiscences of encounters with Sufis of long ago but experiences highlighted are valuable even from today ' s perspective .
+
+#	NEW	pages	........ / quot ;	// However , Hakluyt ' s translation was only published for the first time in 2004 under the title <em> The Free Sea </em> as part of Liberty Fund ' s &quot ; Natural Law and Enlightenment Classics&quot ; series .
+
+#	NEW	pages	........ / ,	// <p> The focus then shifts to tell the story behind &quot ; The Death of Marat&quot ; , and the story of its director , Adolphe Sarre .
+
+#	NEW	pages	........ / for	// <p> <strong> The Case for Latvia .
+
+#	NEW	pages	........ / while	// <p> Shortly before he died , Shah stated that his books form a complete course that could fulfil the function he had fulfilled while alive .
+
+#	NEW	pages	........ / 35	// Originally published in 1956 and still in print today , it was the first of this author&#x2019 ; s 35 books .
+
+#	NEW	pages	........ / name	// Set in larger type , it further expands the topical lists , includes a map , and provides information about census records and how the Polish language works ( including an explanation of case endings and name suffixes ) .
+
+#	NEW	pages	........ / Mitchel&	// <p> Amy is living with a man named &quot ; Mitchel&quot ; .
+
+#	null	pages	72 / ..........
+
+#	null	pages	560 / ..........
+
+#	null	pages	60 / ..........
+
+#	null	pages	201 / ..........
+
+#	null	pages	78 / ..........
+

@@ -1,6 +1,0 @@
-<li><a>Taufik Akbar</a>, Indonesian astronauts</li>
-<li><a>Mangunwijaya</a>, Indonesian architect, writer, and Catholic religious leader</li>
-<li><a>Sujiwo Tejo</a>, Indonesian writer, painter, musician</li>
-<li><a>Alumni association</a></li>
-<li><a>Bosscha Observatory</a></li>
-<p><a>fr:Institut technologique de Bandung</a> <a>id:Institut Teknologi Bandung</a> <a>jv:Institut Teknologi Bandung</a> <a>la:Schola Suprema Technologiae Bandung</a> <a>ms:Institut Teknologi Bandung</a> <a>nl:Technische Hogeschool Bandoeng</a> <a>ja:&#x30d0;&#x30f3;&#x30c9;&#x30f3;&#x5de5;&#x79d1;&#x5927;&#x5b66;</a> <a>simple:Institut Teknologi Bandung</a> <a>su:Institut Teknologi Bandung</a></p>

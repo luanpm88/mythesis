@@ -1,8 +1,0 @@
-<p><strong>&lt;big&gt;Arts&lt;/big&gt;</strong></p>
-<p>The <a>Faculty of Arts</a> occupies building 19 and comprises three schools:</p>
-<p><strong>&lt;big&gt;Creative Arts&lt;/big&gt;</strong></p>
-<p>The <a>Faculty of Creative Arts</a> occupies building 25 and comprises three schools:</p>
-<p><strong>&lt;big&gt;Health &amp; Behavioural Sciences(HBS)&lt;/big&gt;</strong></p>
-<p>The <a>Faculty of Health &amp; Behavioural Sciences</a> comprises three schools:</p>
-<li><a>School of [[Biological Sciences]]</a></li>
-<li><a>School of Earth &amp; [[Environmental Sciences]]</a></li>

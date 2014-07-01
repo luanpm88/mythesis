@@ -1,1 +1,0 @@
-The available parts include: coat (red, or blue), vest (red or blue), button-down shirt (white or blue), pants (white, blue, or khaki), and long tie (red or blue).</li>

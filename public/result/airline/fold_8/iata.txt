@@ -1,0 +1,67 @@
+Found: 20
+Found Not Null: 5
+Correct: 1
+Wrong: 4
+Total: 11
+precision: 0.2
+recall: 0.09090909090909091
+
+
+
+#	NEW	iata	........ / Or	// <p> <strong> Air Creebec Inc . </strong> is a <a> regional airline </a> based in <a> Val-d ' Or </a> , <a> Quebec </a> , <a> Canada </a> .
+
+#	NEW	iata	........ / an	// <p> <strong> Air Ivoire </strong> is an <a> airline </a> headquartered in <a> Abidjan </a> , <a> C&#x00f4 ; te d ' Ivoire </a> .
+
+#	NEW	iata	........ / an	// <p> <strong> AeroHonduras </strong> was an <a> airline </a> based in <a> Tegucigalpa </a> , <a> Honduras </a> .
+
+3	FALSE	Nepal Airlines::iata	ra / an	
+<p> <strong> Nepal Airlines </strong> , formerly known as &quot ; Royal Nepal Airlines&quot ; , is an <a> airline </a> based in <a> Kathmandu </a> , <a> Nepal </a> .
+
+4	FALSE	Sun Country Airlines::iata	sy / an	
+<p> <strong> MN Airlines , LLC </strong> , <a> operating as </a> <strong> Sun Country Airlines </strong> , is an <a> American </a> <a> low-cost airline </a> headquartered in the <a> Minneapolis-St .
+
+#	NEW	iata	........ / an	// <p> <strong> Air Fiji </strong> was an <a> airline </a> based in <a> Nausori </a> , <a> Fiji </a> .
+
+#	NEW	iata	........ / an	// <p> <strong> Air Inuit Ltd </strong> is an <a> airline </a> based in <a> Dorval </a> , <a> Quebec </a> , <a> Canada </a> .
+
+#	NEW	iata	........ / it	// The airline was established in 1973 as <strong> Jamaica Air Taxi </strong> , and later operated as <strong> Trans-Jamaican Airline </strong> until it was taken over by <a> Gordon Stewart </a> who also controlled Air Jamaica in 1994 . </p>
+
+#	NEW	iata	........ / office	// <p> <strong> Air Astana </strong> is a <a> Kazakhstan </a> <a> airline </a> with its head office and <a> registered office </a> in <a> Almaty </a> .
+
+#	NEW	iata	........ / an	// <p> <strong> Aeropostal Alas de Venezuela </strong> , normally referred to as just <em> Aeropostal </em> , is an <a> airline </a> based in Torre Polar Oeste in <a> Caracas </a> , <a> Venezuela </a> .
+
+10	FALSE	National Airways Corporation::iata	nz / it	
+<p> <strong> National Airways Corporation </strong> was the national domestic airline of New Zealand from 1947 until 1978 when it amalgamated with New Zealand ' s international airline , <a> Air New Zealand </a> .
+
+#	NEW	iata	........ / an	// <strong> TransBrasil </strong> was an international <a> Brazil </a> ian airline which ceased operations in December 2001 .
+
+12	TRUE	Sunshine Express Airlines::iata	cq / an	
+<p> <strong> Sunshine Express Airlines </strong> is an <a> air charter </a> company that previously operated as an <a> airline </a> serving many regional destinations on the East Coast of <a> Australia </a> ; from <a> Hervey Bay </a> to <a> Port Macquarie </a> .
+
+#	NEW	iata	........ / an	// <p> <strong> Helios Airways </strong> was a low-cost <a> Cypriot </a> <a> airline </a> operating <a> scheduled </a> and <a> charter </a> flights between <a> Cyprus </a> and many <a> Europe </a> an destinations .
+
+#	NEW	iata	........ / an	// <p> <strong> Shenzhen Airlines </strong> ( ) is a domestic and international low-cost carrier airline headquartered on the grounds of <a> Shenzhen Bao ' an International Airport </a> in <a> Bao ' an District </a> , <a> Shenzhen </a> , <a> Guangdong </a> , <a> People ' s Republic of China </a> . </p>
+
+#	NEW	iata	........ / Capital	// <p> <strong> <a> China Northern Airlines </a> Flight 6136 </strong> ( CBF6136 , CJ6136 ) was a flight from <a> Beijing Capital International Airport </a> to <a> Dalian Zhoushuizi International Airport </a> , a coastal city in <a> Liaoning </a> province of the <a> People ' s Republic of China </a> . </p>
+
+#	NEW	iata	........ / La	// <p> <strong> AeroCalifornia </strong> was a low-cost airline with its headquarters in <a> La Paz , Baja California Sur </a> , <a> Mexico </a> .
+
+#	NEW	iata	........ / an	// <p> <strong> Kam Air </strong> is an <a> airline </a> headquartered in the Kabul Business Centre in <a> Kabul </a> , <a> Afghanistan </a> .
+
+#	NEW	iata	........ / an	// <p> <strong> Aerocaribe </strong> was an airline based in <a> M&#x00e9 ; rida , Yucat&#x00e1 ; n </a> , <a> Mexico </a> .
+
+19	FALSE	Afriqiyah Airways::iata	8u / an	
+<p> <strong> Afriqiyah Airways </strong> ( ) is an <a> airline </a> based in <a> Tripoli </a> , <a> Libya </a> .
+
+#	null	iata	by / ..........
+
+#	null	iata	- / ..........
+
+#	null	iata	cc / ..........
+
+#	null	iata	q8 / ..........
+
+#	null	iata	a6 / ..........
+
+#	null	iata	t2 / ..........
+

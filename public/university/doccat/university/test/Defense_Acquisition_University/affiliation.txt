@@ -1,7 +1,0 @@
-<li><a>Huntsville, Alabama</a></li>
-<li><a>Defense Acquisition Portal</a></li>
-<li><a>Integrated Defense AT&amp;L Life Cycle Management Chart</a></li>
-<li><a>Defense Acquisition Guidebook</a></li>
-<li><a>ACQuire Search Tool</a></li>
-<li><a>Best Practice Clearinghouse</a></li>
-<li><a>ACQuipedia</a></li>

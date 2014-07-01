@@ -1,4 +1,0 @@
-<h2>Athletics</h2>
-<li>Men's Sports: Baseball; basketball; cross country; golf; soccer; tennis; and, track and field</li>
-<li>Women's Sports: Basketball; cross country; soccer; softball; tennis; track and field; and, volleyball</li>
-<p>Webster University Vienna has a student newspaper called the &quot;Vienna Review.&quot;

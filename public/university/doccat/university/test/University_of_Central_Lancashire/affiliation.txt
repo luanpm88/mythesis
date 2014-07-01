@@ -1,5 +1,0 @@
-<li><a>Mike Allen</a>, broadcaster</li>
-<li><a>Victoria Derbyshire</a>, broadcaster</li>
-<li><a>Sally Naden</a>, broadcaster</li>
-<li><a>UCLan Students' Union website</a></li>
-<li><a>Westlakes Scientific Consulting website</a></li>

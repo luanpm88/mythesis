@@ -1,3 +1,0 @@
-<li><strong>Faculty of Agriculture</strong></li>
-<li><strong>Faculty of Medicine</strong></li>
-<h4>Faculty, School and Department administrative bodies</h4>

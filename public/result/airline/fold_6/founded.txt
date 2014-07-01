@@ -1,0 +1,100 @@
+Found: 31
+Found Not Null: 18
+Correct: 13
+Wrong: 5
+Total: 23
+precision: 0.7222222222222222
+recall: 0.5652173913043478
+
+
+
+0	TRUE	Blue Wings::founded	2002 / 2003	
+<p> Blue Wings was established in 2002 , received the <a> AOC </a> on 27 June 2003 and started operations in July of the same year .
+
+#	NEW	founded	........ / 23 April 1991 .	// Commuter services began operations on 23 April 1991 .
+
+2	TRUE	Compass Airlines (Australia)::founded	1990 / 1990.	
+It was established following deregulation of the Australian airline industry in 1990 .
+
+3	TRUE	Air Contractors::founded	1972 / 1972	
+<p> The airline was established and started operations in 1972 , as <strong> AirBridge Carriers </strong> at <a> East Midlands </a> .
+
+4	TRUE	Eirjet::founded	2004 / 2004	
+( 2006 ) ] ] The airline was established in 2004 and started operations on 23 December 2004 </p>
+
+5	FALSE	Alpi Eagles::founded	1979 / 1996	
+In May 1996 , Alpi Eagles started scheduled passenger services from <a> Venice </a> .
+
+#	NEW	founded	........ / 1993	// <p> The airline was established in 1993 by Danish investors and started operations in the same year .
+
+#	NEW	founded	........ / 2003 .	// <p> The airline was established on 13 January 2003 and started operations in May 2003 .
+
+#	NEW	founded	........ / 1995	// <p> The airline was established in 1995 and started operations on 2 February 1995 </p>
+
+#	NEW	founded	........ / 1 July 1997 .	// <p> EuroLOT was established on 19 December 1996 and commenced regular air operations on 1 July 1997 .
+
+#	NEW	founded	........ / 11	// <p> Notably , until 2009 Continental Airlines still used Flight 11 , on the Paris-Houston route ; flight numbers in the USA involved in fatal accidents are more commonly retired .
+
+11	TRUE	Birdy Airlines::founded	2002 / 2004	
+The airline was founded in 2002 and ceased its operations in 2004 when it was merged into <a> SN Brussels Airlines </a> . </p>
+
+12	TRUE	Isleña Airlines::founded	1981 / 1981	
+<p> The airline was established in 1981 by Arturo Alvarado Wood and started operations on 31 March 1981 .
+
+#	NEW	founded	........ / Sch&#	// <p> <strong> Windrose Air </strong> is an <a> airline </a> based in <a> Sch&#x00f6 ; nefeld </a> , <a> Germany </a> operating business and private charter services , cargo and air ambulance services .
+
+#	NEW	founded	........ / 9	// <p> The airline operates a fleet of <a> DC-9 </a> s . </p>
+
+15	TRUE	Avies::founded	1991 / 1991	
+It was established and started operations in 1991 and operates scheduled passenger transport , charter and air taxi services .
+
+#	NEW	founded	........ / airline	// <p> <strong> Aero Services Executive </strong> is an <a> airline </a> company based in <a> France </a> .
+
+17	FALSE	Finist'air::founded	1981 / airline	
+<p> <strong> Finist ' air </strong> is an <a> airline </a> based at <a> Brest Guipavas Airport </a> in <a> France </a> .
+
+#	NEW	founded	........ / Barbados	// <p> <strong> Trans Island Air </strong> is an <a> airline </a> based in <a> Christ Church </a> in <a> Barbados </a> operating charters throughout the Caribbean .
+
+19	FALSE	Medavia::founded	1978 / 1979.	
+It started operations in September 1979 .
+
+#	NEW	founded	........ / 1	// <p> <strong> Metropolis </strong> ( Metropolis Noord 1 BV ) is an <a> airline </a> based in the <a> Netherlands </a> . </p>
+
+21	FALSE	Air Corsica::founded	2000 / 1990.	
+<p> The airline was established on 1 January 1989 and started services in June 1990 .
+
+22	TRUE	Augsburg Airways::founded	1980 / 1986	
+<p> The airline was established in 1980 as <strong> Interot Airways </strong> , but started revenue operations only in 1986 with flights from Augsburg to <a> D&#x00fc ; sseldorf </a> .
+
+23	TRUE	Sibaviatrans::founded	23 february 1995 / 1995.	
+<p> The airline was established and started operations on 23 February 1995 .
+
+24	TRUE	Continental Airways::founded	1995 / 1995	
+It was established in 1995 and operated out of <a> Sheremetyevo International Airport </a> , Moscow , using a fleet of three <a> Tupolev Tu-154 </a> aircraft .
+
+25	TRUE	Gazpromavia::founded	1995 / 16 April 1995.	
+<p> The airline was established in March 1995 and started operations on 16 April 1995 .
+
+26	TRUE	Airstars::founded	2000 / 2000	
+It was established in 2000 and operates cargo services throughout Russia and eastern <a> Europe </a> .
+
+27	TRUE	Centre-Avia::founded	2000 / 2000	
+<p> The airline was established and started operations in 2000 as <strong> Bykovo Avia </strong> , and merged into Centre-Avia in December 1999 .
+
+#	NEW	founded	........ / 1997 .	// <p> <a> Komiinteravia </a> was established in March 1996 and started operations in July 1997 .
+
+#	NEW	founded	........ / is	// <p> <strong> SpiceJet </strong> is a <a> low-cost airline </a> headquartered in <a> Gurgaon </a> , <a> India </a> .
+
+30	FALSE	TAESA::founded	1988 / the	
+<p> Some of the staff and assets were taken over and <a> L&#x00ed ; neas A&#x00e9 ; reas Azteca </a> was established on 9 May 2000 and started operations on 1 June 2001 operating domestic services with <a> Boeing 737 </a> aircraft . </p>
+
+#	null	founded	october 1990 / ..........
+
+#	null	founded	1947 / ..........
+
+#	null	founded	1999 / ..........
+
+#	null	founded	1993 / ..........
+
+#	null	founded	1993 / ..........
+

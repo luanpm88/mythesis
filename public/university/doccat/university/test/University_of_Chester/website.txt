@@ -1,3 +1,0 @@
-<li>Faculty of <a>Applied Sciences</a>
-<li>Department of <a>Biological Sciences</a></li>
-<li>Department of Clinical Sciences</li>

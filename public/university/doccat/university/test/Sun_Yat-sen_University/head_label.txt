@@ -1,9 +1,0 @@
-<li>School of Humanities
-<li>School of Foreign Languages
-<li>School of Engineering</li>
-<li>School of Management
-<li>School of Software</li>
-<li>School of Pre-Clinical Medicine
-<li>Guanghua School of Stomatology</li>
-<li>School of Nursing</li>
-<li>School of Pharmacology</li>

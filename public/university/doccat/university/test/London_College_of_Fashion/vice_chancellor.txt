@@ -1,7 +1,0 @@
-<h2>Short courses</h2>
-Over 180 different short courses are offered.
-These short courses run all of the College's 6 sites across London.
-<li>E-Learning] (short courses delivered online via virtual lectures and chat sessions)</li>
-<p>E-learning short courses are a way of studying an LCF short courses without attending classes in London.
-Students attend weekly pre-arranged 'virtual lectures'.
-A total of 8 different e-learning short courses are currently offered.

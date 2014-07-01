@@ -1,0 +1,95 @@
+Found: 42
+Found Not Null: 1
+Correct: 0
+Wrong: 1
+Total: 1
+precision: 0.0
+recall: 0.0
+
+
+
+#	NEW	logo_size	........ / 1952	// &quot ; The New York Times&quot ; , May 2 , 1952 </p>
+
+#	NEW	logo_size	........ / 7	// In <a> 2006 </a> , he was convicted by a <a> United States </a> court and ordered to serve another 7 years . </p>
+
+#	NEW	logo_size	........ / </	// The airline would continue to operate independently until its merger with <a> Delta Air Lines </a> in the 1970s . </p>
+
+#	NEW	logo_size	........ / </	// On June 19 , 1969 the NTSB issued its final report , which included the following Probable Cause statement : </p>
+
+#	NEW	logo_size	........ / 2008	// <p> NAC Air ceased operations indefinitely in early <a> 2008 </a> due to financial difficulties . </p>
+
+#	NEW	logo_size	........ / 2	// <p> The accident flight is known in some references ( and in the CAB report ) as Northwest Airlines Flight 2 , but it actually flew under the Northwest Orient Airlines name . </p>
+
+#	NEW	logo_size	........ / </	// <p> Mango operates services to the following destinations : </p>
+
+#	NEW	logo_size	........ / 8-	// The aircraft was a four-engine <a> Douglas </a> <a> DC-8-54CF </a> airliner , registered CF-TJN .
+
+#	NEW	logo_size	........ / 2009	// Operations of the two airlines were merged on 4 April 2009 , with the former now operating as OpenSkies . </p>
+
+#	NEW	logo_size	........ / 2005	// <p> As of January <a> 2005 </a> Sierra National Airlines operated the following services : </p>
+
+#	NEW	logo_size	........ / </	// While these aircraft were primarily intended for freight operations , they were also used to transport passengers . </p>
+
+#	NEW	logo_size	........ / 22 :	// <p> The passengers and crew subsequently re-boarded the aircraft , which then returned to Khartoum International at 22 : 00 local time ( 1900 GMT ) .
+
+#	NEW	logo_size	........ / of	// In 2007 , he was honored for his service in a ceremony at the U . S . Department of State .
+
+#	NEW	logo_size	........ / 2	// Maarten </a> , <a> Netherlands Antilles </a> , on 2 May 1970 .
+
+#	NEW	logo_size	........ / a> .	// <p> The airline was established in 1997 as a sister company to <strong> HeavyLift Indonesia </strong> , operating charter flights on behalf of <a> Bouraq Indonesia Airlines </a> and <a> Sempati Air </a> . </p>
+
+15	FALSE	Fly540::logo_size	50 / to	
+<p> In May 2007 the airline introduced two <a> de Havilland Canada Dash 8-100 </a> aircraft to increase the airline ' s capacity , allowing it to develop new domestic routes .
+
+#	NEW	logo_size	........ / a>	// An alternative theory has been developed that suggests the crash may instead have been the result of <a> mobile phone </a> use interfering with the aircraft .
+
+#	NEW	logo_size	........ / 2010	// <p> As of May 2010 the Swift Air fleet includes : </p>
+
+#	NEW	logo_size	........ / the	// <p> The <a> National Transportation Safety Board </a> ( NTSB ) investigation revealed that bolts had been removed from the horizontal stabilizer during maintenance the night before the accident and , following a shift change , the screws were not replaced .
+
+#	NEW	logo_size	........ / aircraft	// The cause was undetermined because U . S . investigators were not allowed to survey the accident site or the aircraft remains .
+
+#	NEW	logo_size	........ / 2008 .	// The Glasgow to Mull service was launched in April 2008 . </p>
+
+#	NEW	logo_size	........ / </	// <p> The Scandjet fleet includes the following aircraft ( ) : </p>
+
+#	NEW	logo_size	........ / 1977	// It was established and started operations in 1977 and operates regional and international air taxi services .
+
+#	NEW	logo_size	........ / </	// <p> Appalachian Airlines offered scheduled flights to the following destinations : </p>
+
+#	NEW	logo_size	........ / 2005	// <p> As of January 2005 the Superior Aviation fleet also includes ref name=&quot ; FI&quot ; / : </p>
+
+#	NEW	logo_size	........ / 2006 .	// The airline was founded by a group of Danish investors and operated its first flight on 19 September 2006 . </p>
+
+#	NEW	logo_size	........ / </	// <p> As of August 2010 , the Vincent Aviation fleet consists of the following aircraft : </p>
+
+#	NEW	logo_size	........ / </	// <p> <strong> Leisure International Airways </strong> was a British charter airline . </p>
+
+#	NEW	logo_size	........ / 76	// Norrlandsflyg operates twelve <a> Sikorsky S-76 </a> helicopters . </p>
+
+#	NEW	logo_size	........ / a>	// The aircraft crashed at 00 : 44 EET ( 22 : 44 <a> UTC </a> on April 6 ) , 8 minutes after taking off , about east-northeast of the airport near Hamdilli village of <a> Ceyhan </a> district in poor weather conditions .
+
+#	NEW	logo_size	........ / 2003	// <p> The airline got its air operators certificate in <a> 2000 </a> and was established in October 2000 , but was unable to operate until 2003 due to political unrest in Nepal .
+
+#	NEW	logo_size	........ / 2006 .	// Ltd . </strong> is an <a> airline </a> based in <a> Nepal </a> which started operations in March 2006 .
+
+#	NEW	logo_size	........ / a> .	// It operates domestic on demand cargo and passenger charter flights , as well as contract flights for <a> FedEx </a> and <a> Mario ' s Air </a> . </p>
+
+#	NEW	logo_size	........ / </	// <p> In early 2010 , Southern Air also introduced a new livery to its fleet along with new corporate branding . </p>
+
+#	NEW	logo_size	........ / <p>	// <p> <strong> WaltAir </strong> is a Swedish taxi airline .
+
+#	NEW	logo_size	........ / 2	// <p> The airline was established and started operations in <a> 1978 </a> and acquired the freight operations of <a> CCAir </a> on 2 January 1990 .
+
+#	NEW	logo_size	........ / 2011 ) :	// <p> The Midwest Airlines fleet consists of the following aircraft ( at January 2011 ) : </p>
+
+#	NEW	logo_size	........ / </	// <p> As of December 2010 , the Nightexpress fleet consists of the following aircraft : </p>
+
+#	NEW	logo_size	........ / 2006	// <p> As of August 2006 the airline also operated : </p>
+
+#	NEW	logo_size	........ / 2007	// <p> As of May <a> 2007 </a> , Marsland Aviations operates scheduled passenger flights to the following destinations : </p>
+
+#	NEW	logo_size	........ / 2005	// <p> On 23 December 2005 , Shilin Airlines changed name to Lucky Air .
+
+#	NEW	logo_size	........ / 2009	// After a review of the operations , it was decided to close the Lands End Flying School as of Saturday 31 January 2009 , after which point Westward Airways also terminated the operation of sightseeing flights .
+

@@ -1,0 +1,108 @@
+Found: 30
+Found Not Null: 18
+Correct: 15
+Wrong: 3
+Total: 28
+precision: 0.8333333333333334
+recall: 0.5357142857142857
+
+
+
+#	NEW	airline	........ / It	// It operated domestic services from its main base at Fukuoka Airport .
+
+1	FALSE	Olympic Aviation::airline	olympic aviation / Olympic Airways	
+The company was also responsible for charter flights in the <strong> Olympic Airways Group of Companies </strong> , until <strong> <a> Macedonian Airlines </a> </strong> was created . </p>
+
+2	TRUE	US Airways Shuttle::airline	us airways shuttle / air shuttle	
+<p> <strong> US Airways Shuttle </strong> is the brand name for <a> US Airways </a> ' hourly <a> air shuttle </a> service operating in the <a> Northeastern United States </a> .
+
+3	TRUE	Texas International Airlines::airline	texas international airlines / Continental Airlines	
+<p> <strong> Texas International Airlines </strong> was a <a> United States </a> <a> airline </a> , known from 1944 until 1947 as <strong> Aviation Enterprises </strong> , until 1969 as <strong> Trans-Texas Airways </strong> , and as <strong> Texas International Airlines </strong> until 1982 , when it merged with <a> Continental Airlines </a> .
+
+4	FALSE	Caledonian Airways::airline	caledonian airways / it	
+As part of this campaign , it had coined the slogans &quot ; <strong> B </strong> etter <strong> o </strong> ff <strong> a </strong> t <strong> C </strong> aledonian&quot ; and &quot ; <strong> B </strong> etter <strong> u </strong> nder <strong> A </strong> dam&quot ; .
+
+#	NEW	airline	........ / a	// <p> JAL Flight Academy ( JFA ) was established by <a> Japan Airlines </a> ( JAL ) in August 1989 , as a flight training school <a> subsidiary </a> based at Omura Airport , <a> Nagasaki </a> .
+
+#	NEW	airline	........ / near	// <p> <strong> Finnish Commuter Airlines Oy </strong> , trading as <strong> Finncomm Airlines </strong> , is a regional <a> airline </a> with its head office on the grounds of <a> Sein&#x00e4 ; joki Airport </a> in <a> Ilmajoki </a> , <a> Finland </a> , near <a> Sein&#x00e4 ; joki </a> .
+
+#	NEW	airline	........ / TACA	// <p> <strong> TACA </strong> is the <a> trade name </a> &quot ; brand&quot ; comprising a group of five independently IATA-coded and -owned <a> Central American </a> airlines , whose operations are combined to function as one and a number of other independently owned and IATA-coded <a> regional airlines </a> which <a> code-share </a> and feed the TACA brand system .
+
+8	TRUE	British Caledonian::airline	british caledonian / and	
+<p> <strong> British Caledonian </strong> was a private , <a> British </a> independent airline , operating out of <a> Gatwick Airport </a> in the 1970s and 1980s .
+
+#	NEW	airline	........ / terrorist	// <p> <strong> EgyptAir Flight 648 </strong> was a <a> Boeing 737-200 </a> airliner registered SU-AYH <a> hijacked </a> in 1985 by the terrorist <a> Abu Nidal Organization </a> .
+
+10	FALSE	Flash Airlines::airline	flash airlines / Heliopolis Airlines	
+( 2003 ) ] ] The airline was established in 1995 as <strong> Heliopolis Airlines </strong> .
+
+11	TRUE	LAN Airlines::airline	lan airlines / LAN Airlines	
+<p> <strong> LAN Airlines S . A . </strong> is an <a> airline </a> based in <a> Santiago , Chile </a> .
+
+12	TRUE	Air Namibia::airline	air namibia / Trans	
+<p> <strong> Air Namibia </strong> is the national <a> airline </a> of <a> Namibia </a> , headquartered in the Trans Namib Building in <a> Windhoek </a> .
+
+13	TRUE	SilkAir::airline	silkair / ( Singapore )	
+<p> <strong> SilkAir ( Singapore ) Private Limited </strong> is an <a> airline </a> based in <a> Singapore </a> .
+
+14	TRUE	Song (airline)::airline	song / Air	
+<p> <strong> Song , LLC </strong> was a <a> low-cost &quot ; airline </a> within an airline&quot ; brand owned and operated by <a> Delta Air Lines </a> .
+
+15	TRUE	Interflug::airline	interflug / when	
+<p> [ [ File : Iljuschin Il-14 Interflug DM-SAB 02 . JPG | thumb | 200px | An Interflug [ [ Ilyushin Il-14 ] ] ] ] [ [ File : Hans-Grade-Museum 03 . jpg | thumb | 200px | An Interflug [ [ Ilyushin Il-18 ] ] ] ] [ [ File : Baade-152-2 . png | thumb | 200px | Sketch of the [ [ Baade 152 ] ] as it would have appeared in service with Interflug ] ] <strong> Interflug </strong> ( <strong> Interflug GmbH </strong> , <strong> Gesellschaft f&#x00fc ; r Internationalen Flugverkehr mbH </strong> ) was the state <a> airline </a> of <a> East Germany </a> from 1963 to 1991 , when it ceased operations following <a> German reunification </a> .
+
+#	NEW	airline	........ / Eastern Air	// <p> <strong> <a> Eastern Air Lines </a> Flight 401 </strong> was a <a> Lockheed L-1011 Tristar 1 </a> jet that crashed into the <a> Florida Everglades </a> on the night of December 29 , 1972 , causing 101 fatalities ( 77 initial crash survivors , two died shortly afterward ) .
+
+#	NEW	airline	........ / West Indies Airways	// <p> <strong> BWIA West Indies Airways Limited </strong> , known locally as &quot ; B-wee&quot ; , was the national airline of <a> Trinidad and Tobago </a> .
+
+#	NEW	airline	........ / during	// <p> <strong> Flight 19 </strong> was the designation of five <a> TBM Avenger </a> <a> torpedo bomber </a> s that disappeared on December 5 , 1945 , during a <a> United States Navy </a> -authorized overwater navigation training flight from <a> Naval Air Station Fort Lauderdale </a> , <a> Florida </a> .
+
+#	NEW	airline	........ / Novosibirsk	// <p> <strong> Siberia Airlines Flight 1812 </strong> crashed over the <a> Black Sea </a> on 4 October 2001 , en route from <a> Tel Aviv </a> , <a> Israel </a> to <a> Novosibirsk </a> , Russia .
+
+#	NEW	airline	........ / pilots	// <p> In May 2009 , it was reported that the airline terminated the assignments of 130 American contract <a> Hawaii </a> -based <a> Boeing 747 </a> pilots and closed its <a> Oahu </a> office .
+
+21	TRUE	Royal Air Maroc::airline	royal air maroc / Royal Air	
+<p> <strong> Royal Air Maroc </strong> ( commonly called <strong> RAM </strong> , &#x0627 ; &#x0644 ; &#x062e ; &#x0637 ; &#x0648 ; &#x0637 ; &#x0627 ; &#x0644 ; &#x0645 ; &#x0644 ; &#x0643 ; &#x064a ; &#x0629 ; &#x0627 ; &#x0644 ; &#x0645 ; &#x063a ; &#x0631 ; &#x0628 ; &#x064a ; &#x0629 ; <em> Al-Khu&#x1e6d ; &#x016b ; &#x1e6d ; al-Malak&#x012b ; yyah al-Maghrib&#x012b ; yyah </em> in Arabic ) is the <a> flag carrier </a> <a> airline </a> of <a> Morocco </a> , headquartered on the grounds of <a> Casablanca-Anfa Airport </a> in <a> Casablanca </a> .
+
+22	TRUE	Mandarin Airlines::airline	mandarin airlines / Mandarin Airlines	
+<p> <strong> Mandarin Airlines , Limited </strong> ( &#x83ef ; &#x4fe1 ; &#x822a ; &#x7a7a ; ; <a> pinyin </a> : Hu&#x00e1 ; x&#x00ec ; n H&#x00e1 ; ngk&#x014d ; ng ) is an <a> airline </a> based in <a> Songshan District </a> , <a> Taipei </a> , <a> Taiwan </a> .
+
+23	TRUE	Blue1::airline	blue1 / world&#	
+<p> <strong> Blue1 <a> Oy </a> </strong> is a Finnish airline owned by <a> SAS Group </a> and a full member of <a> Star Alliance </a> , the world&#x2019 ; s largest airline alliance , with a hub at <a> Helsinki-Vantaa Airport </a> .
+
+#	NEW	airline	........ / July	// The airline was established in December 2003 and started operations on 23 July 2004 .
+
+25	TRUE	Air Anatolia::airline	air anatolia / Air	
+<p> <strong> Air Anatolia </strong> ( <a> Turkish </a> : Anadolu Hava&#x00e7 ; ilik A . S . ) was a <a> charter airline </a> from <a> Turkey </a> , which was operational between 1998 and 2002 . </p>
+
+26	TRUE	Royal Tongan Airlines::airline	royal tongan airlines / until	
+<p> <strong> Royal Tongan Airlines </strong> was the national <a> airline </a> of <a> Tonga </a> until liquidation in 2004 .
+
+#	NEW	airline	........ / which	// Avensa operated a smaller <a> low-cost airline </a> called <a> Servivensa </a> , which operated mainly Boeing 727 aircraft .
+
+28	TRUE	Gulf Air::airline	gulf air / Gulf Air	
+<p> <strong> Gulf Air </strong> ( <em> &#x1e6c ; ayar&#x0101 ; n al-Khal&#x012b ; j </em> ) is the principal <a> flag carrier </a> of the Kingdom of <a> Bahrain </a> .
+
+29	TRUE	Atlantic Coast Airlines::airline	atlantic coast airlines / Inc.	
+<p> <strong> Atlantic Coast Airlines </strong> was an <a> airline </a> based in the <a> United States </a> owned by <a> Atlantic Coast Holdings , Inc . </a> .
+
+#	null	airline	tunisair / ..........
+
+#	null	airline	mahan air / ..........
+
+#	null	airline	air srpska / ..........
+
+#	null	airline	ethiopian airlines / ..........
+
+#	null	airline	di air / ..........
+
+#	null	airline	air sinai / ..........
+
+#	null	airline	jetlite / ..........
+
+#	null	airline	jetsgo / ..........
+
+#	null	airline	cityjet / ..........
+
+#	null	airline	s7 airlines / ..........
+

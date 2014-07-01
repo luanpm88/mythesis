@@ -1,0 +1,482 @@
+Total articles: 1145
+Articles for test: 1031
+Articles for train: 114
+Total attributes: 317
+Attributes with high occurrences: 25/317
+
+------------
+Found: 2042
+Found Not Null: 155
+Correct: 29
+Wrong: 126
+Total: 173
+precision: 0.1870967741935484
+recall: 0.1676300578034682
+
+
+
+7	FALSE	Jadavpur University:: nickname	ju / University	
+<p> Recently , Jadavpur University has been considered to be upgraded to a <a> Central University </a> . </p>
+
+26	FALSE	Rice University:: nickname	owls / women'	
+In 2005-06 , the women's soccer , basketball , and tennis teams advanced , with five individuals competing in track and field .
+
+41	FALSE	Stanford University:: country	united states / on-	
+<p> Eighty-nine percent of undergraduate students live in on-campus university housing , partially because first-year students are required to live on campus , and because students are guaranteed housing for all four years of their undergraduate careers .
+
+66	FALSE	St. John Fisher College:: nickname	cardinal / Women	
+Women compete at the varsity level in basketball , golf , lacrosse , soccer , <a> softball </a> , tennis , and <a> volleyball </a> . </p>
+
+76	FALSE	St. John Fisher College:: established	1948 / an	
+<a> John Fisher </a> College </strong> is a <a> private </a> <a> liberal arts college </a> located in <a> Pittsford , New York </a> , <a> United States </a> , an eastern suburb of <a> Rochester </a> .
+
+87	FALSE	Simon Fraser University:: free_label	satellite campuses / Athletics	
+<p> The Clan competes in <a> Canadian Interuniversity Sport </a> ( CIS ) and the U . S . <a> National Association of Intercollegiate Athletics </a> ( NAIA ) and the <a> Men's Collegiate Lacrosse Association </a> ( MCLA ) .
+
+93	FALSE	Simon Fraser University:: established	1965 / p>	
+<p> <strong> Board of Governors </strong> </p>
+
+101	FALSE	Seattle University:: nickname	redhawks / women'	
+In 2009 , the university hired men's basketball coaches <a> Cameron Dollar </a> , former assistant at University of Washington , and women's coach <a> Joan Bonvicini </a> , former University of Arizona coach and one of the winningest women's college basketball coaches .
+
+110	FALSE	Seattle University:: established	1891 / a>.	
+It is also one of three law schools in Washington state , the other two being the <a> University of Washington School of Law </a> and <a> Gonzaga University School of Law </a> .
+
+122	FALSE	Syracuse University:: free_label	newspaper / athletics	
+SU is a member of the <a> Big East Conference </a> for all <a> NCAA </a> <a> Division I </a> athletics , except for the women's <a> ice hockey </a> , and the <a> rowing crew </a> .
+
+158	TRUE	University of Michigan:: free_label	sports / sports.	
+<p> U-M athletes have starred in Major League Baseball , the <a> National Football League </a> and <a> National Basketball Association </a> as well as other professional sports .
+
+184	TRUE	University of Washington:: established	1861 / a>.	
+<p> The <strong> University of Washington </strong> ( <strong> UW </strong> , commonly called <strong> U-Dub </strong> ) is a public research <a> university </a> , founded in 1861 in <a> Seattle , Washington </a> , <a> United States </a> .
+
+275	TRUE	University of Oslo:: established	1811 / 1811	
+The university was founded in 1811 as <strong> The Royal Frederick University </strong> ( in Norwegian <em> Det Kongelige Frederiks Universitet </em> and in Latin <em> Universitas Regia Fredericiana </em> ) and was modelled after the recently established <a> University of Berlin </a> .
+
+294	FALSE	University of Sydney:: established	1850 / <a>	
+<p> <strong> The University of Sydney </strong> ( informally <strong> Sydney University </strong> or <strong> USyd </strong> ) is a university located in <a> Sydney </a> , <a> Australia </a> .
+
+310	FALSE	University of Southern California:: free_label	newspaper / for	
+<p> The USC Trojans participate in the <a> NCAA </a> <a> Division I ( FBS ) </a> <a> Pacific-10 Conference </a> and has won 114 total team national championships ( non-NCAA and NCAA ) : 91 for men and 23 for women .
+
+315	FALSE	University of Southern California:: established	1880 / 17	
+USC's academic departments fall either under the general <a> liberal arts </a> and <a> science </a> s of the College of Letters , Arts , and Sciences for undergraduates , the Graduate School for graduates , or the university's 17 professional schools .
+
+332	FALSE	KAIST:: established	february 16, 1971 / 6	
+<p> 6 colleges , 2 Schools , 21 departments , 3 divisions , 6 professional graduate schools and 10 interdisciplinary programs . </p>
+
+350	FALSE	Millsaps College:: established	1890 / a>.	
+<p> <strong> Millsaps College </strong> is a private <a> liberal arts college </a> located in <a> Jackson , Mississippi </a> .
+
+359	FALSE	Oberlin College:: motto	learning and labor / Colleges with a Conscience&	
+The college was ranked among the <em> <a> Princeton Review </a> 's <strong> list of </strong> </em> &quot;Colleges with a Conscience&quot; <em> in 2005 .
+
+367	FALSE	Oberlin College:: country	united states / institution	
+Its budget is more than $2 million , making it the third-largest of its kind in North America behind the Berkeley Student Cooperative and the Inter-Cooperative Council of Ann Arbor , and by far the largest relative to the size of the institution whose students it serves . </p>
+
+382	FALSE	Occidental College:: established	april 20, 1887 / a>.	
+<p> <strong> Occidental College </strong> is a selective , <a> private </a> , <a> coeducational </a> <a> liberal arts college </a> located in the <a> Eagle Rock </a> neighborhood of <a> Los Angeles , California </a> .
+
+400	FALSE	Purdue University:: established	may 6, 1869 / organized	
+Purdue is organized into eight colleges and schools contained within larger colleges; the two exceptions are the <a> Krannert School of Management </a> and the <a> School of Veterinary Medicine </a> .
+
+417	FALSE	Princeton University:: established	1746 / a>.	
+<p> <strong> Princeton University </strong> is a <a> private </a> <a> research university </a> located in <a> Princeton </a> , <a> New Jersey </a> , <a> United States </a> .
+
+437	FALSE	Reed College:: established	1908 / a>.	
+<p> <strong> Reed College </strong> is a <a> private </a> , <a> independent </a> , <a> liberal arts college </a> located in southeast <a> Portland , Oregon </a> .
+
+456	FALSE	Royal Institute of Technology:: established	1827 / <a>	
+guarding the entrance to the courtyard]] The <strong> Royal Institute of Technology </strong> ( , abbreviated <strong> KTH </strong> ) is a <a> university </a> in <a> Stockholm </a> , <a> Sweden </a> .
+
+473	TRUE	American Film Institute:: established	1967 / 1967	
+<p> The <strong> American Film Institute </strong> is an independent <a> non-profit organization </a> created by the <a> National Endowment for the Arts </a> , which was established in 1967 when President <a> Lyndon B . Johnson </a> signed the National Foundation on the Arts and the Humanities Act .
+
+484	FALSE	Columbia University:: free_label	newspaper / Athletics	
+One hundred blocks north of the main campus at Morningside Heights , the Baker Athletics Complex also includes facilities for baseball , softball , soccer , lacrosse , field hockey , tennis , track and rowing .
+
+490	FALSE	Columbia University:: established	1754 / Arts	
+<p> In 1990 the Faculty of Arts &amp; Sciences was created , unifying the faculties of Columbia College , the School of General Studies , the Graduate School of Arts and Sciences , and the School of International and Public Affairs . </p>
+
+510	FALSE	George Mason University:: established	1957 / and	
+<p> <strong> George Mason University </strong> ( often referred to as <strong> GMU </strong> or <strong> Mason </strong> ) is a <a> public university </a> based in <a> unincorporated </a> <a> Fairfax County </a> , <a> Virginia </a> , <a> United States </a> , south of and adjacent to the city of <a> Fairfax </a> .
+
+518	FALSE	Geneva College:: nickname	golden tornadoes / school	
+The school offers a range of men's and women's varsity sports , including <a> football </a> , <a> baseball </a> , <a> softball </a> , <a> basketball </a> , <a> volleyball </a> , <a> track &amp; field </a> , <a> cross country </a> , <a> tennis </a> , and <a> soccer </a> . </p>
+
+526	FALSE	Geneva College:: established	1848 / <a>	
+<p> <strong> Geneva College </strong> is a <a> Christian </a> <a> liberal arts </a> <a> college </a> in <a> Beaver Falls </a> , <a> Pennsylvania </a> , <a> United States </a> , north of <a> Pittsburgh </a> .
+
+535	FALSE	Grinnell College:: established	1846 / s	
+<p> The school's varsity sports teams are named the <strong> Pioneers </strong> .
+
+538	FALSE	Grinnell College:: nickname	pioneers / NCAA	
+They participate in eighteen intercollegiate sports at the <a> NCAA </a> Division III level and in the <a> Midwest Conference </a> .
+
+572	FALSE	University of Texas at Austin:: established	1883 / a>.	
+<p> <strong> The University of Texas at Austin </strong> ( also referred to as the <strong> University of Texas </strong> , <strong> UT </strong> , <strong> UT Austin </strong> , or <strong> Texas </strong> ) is a <a> public </a> <a> research university </a> located in <a> Austin </a> , <a> Texas </a> , <a> United States </a> , and is the <a> flagship </a> institution of <a> The University of Texas System </a> .
+
+592	TRUE	University of Tulsa:: established	1894 / 1894	
+<p> The University of Tulsa was founded in <a> Muskogee , Oklahoma </a> , as the Presbyterian School for Indian Girls in 1882 under the leadership of <a> Alice Mary Robertson </a> , but was re-chartered as the <strong> Henry Kendall College </strong> in 1894 under the auspices of the Presbyterian Women's Board of Home Missions .
+
+598	FALSE	University of Tulsa:: free_label	sports / Center	
+<p> Home to women's volleyball along with the men's and women's basketball programs , the <a> Donald W . Reynolds Center </a> houses office and meeting space , practice and weights facilities , as well as the main basketball arena .
+
+602	TRUE	University of Tulsa:: mascot	captain cane / Huffy	
+From 1978 to 1994 , the mascot was known as &quot;Huffy , &quot; who was similar to Captain Cane in appearance . </p>
+
+610	FALSE	University of Sussex:: established	1961 / were :	
+<p> The new schools were : </p>
+
+625	FALSE	Utrecht University:: established	1636 / Groningen	
+Leiden , Groningen and Utrecht were the three State Universities ( 'hoge scholen' ) of the new state .
+
+633	TRUE	Utrecht University:: students	29,082 / 26, 1636 29, 082 students in 2008, and employed 8, 614 faculty and staff, 570	
+Established March 26 , 1636 , it had an enrollment of 29 , 082 students in 2008 , and employed 8 , 614 faculty and staff , 570 of which are full professors .
+
+636	FALSE	Upper Iowa University:: type	private / and	
+<p> Upper Iowa offers both undergraduate and graduate degree programs in more than 40 majors , including art , business , conservation management , education , higher education administration , human services , information technology , liberal arts , math , nursing , psychology , science , and more .
+
+651	FALSE	Upper Iowa University:: president	alan g. walker / Online College Rankings	
+Best Buy Rankings since 2007 and the Online Education Database ( OEDb ) Online College Rankings since 2007 . </p>
+
+661	FALSE	University of New Brunswick:: established	1785 / New	
+<p> The <strong> University of New Brunswick </strong> ( <strong> UNB </strong> ) is a Canadian university located in the province of <a> New Brunswick </a> .
+
+667	FALSE	University of New Brunswick:: free_label	sports teams / Sports	
+Sports at the club level include rugby , field hockey &quot;Redsticks&quot; baseball , cheer leading , Cross Country Running , and the Woodsmen ( among others ) .
+
+698	FALSE	University of Prince Edward Island:: established	1969 / and	
+<p> The <strong> University of Prince Edward Island </strong> ( <strong> UPEI </strong> ) is a <a> public </a> <a> liberal arts </a> university in <a> Charlottetown </a> , <a> Prince Edward Island </a> , <a> Canada </a> , and the sole university in the province .
+
+705	FALSE	University of Prince Edward Island:: mascot	panther / on	
+<p> In October 2004 , the UPEI administration undertook an official campus plan to improve the <a> aesthetics </a> of modern buildings constructed since the amalgamation which do not enhance the original SDU design , and to take overall campus aesthetics into account for future developments on and adjacent to the campus . </p>
+
+733	FALSE	University of Victoria:: nickname	vikes / Sports	
+<p> <strong> Canadian Inter-University Sports ( CIS ) Championships </strong> br / Men's basketball : 1980 , 1981 , 1982 , 1983 , 1984 , 1985 , 1986 , 1997br / Women's basketball : 1980 , 1981 , 1982 , 1985 , 1987 , 1992 , 1998 , 2000 , 2003br / Men's cross-country : 1995 , 1996 , 1997 , 1998br / Women's cross-country : 1981 , 1986 , 1987 , 1988 , 1995 , 1999 , 2000 , 2001 , 2002br / Women's field hockey : 1985 , 1988 , 1990 , 1992 , 1993 , 1995 , 1996 , 1998 , 2001 , 2003 , 2008br / Men's soccer : 1976 , 1988 , 1997 , 2004br / Women's soccer : 2005 </p>
+
+748	FALSE	University of Manitoba:: established	1877 / <a>	
+The Faculty of Dentistry , the Faculty of Medicine , the School of Medical Rehabilitation , and the School of <a> Dental Hygiene </a> are the major health sciences units located on this campus .
+
+759	FALSE	University of Manchester Institute of Science and Technology:: city	manchester / Grosvenor	
+The Faraday Building will be replaced by student accommodation and it is envisaged that the Engineering Schools will eventually be relocated to new buildings on the site of the present halls of residence in the Grosvenor Place area . </p>
+
+762	FALSE	University of Manchester Institute of Science and Technology:: established	1824 / <a>	
+<p> The <strong> University of Manchester Institute of Science and Technology </strong> ( <strong> UMIST </strong> ) was a <a> university </a> based in the centre of the <a> city </a> of <a> Manchester </a> in <a> England </a> .
+
+767	TRUE	University of Manchester Institute of Science and Technology:: mottoeng	by knowledge and work / ( By Knowledge and Work ).	
+The UMIST motto was <em> Scientia et Labore </em> ( By Knowledge and Work ) . </p>
+
+781	FALSE	University of Chicago:: established	1890 / Social	
+<p> The University contains six professional schools : the <a> Pritzker School of Medicine </a> ( which is a part of the Biological Sciences Division ) , the <a> Booth School of Business </a> , the <a> Law School </a> , the <a> Divinity School </a> , the <a> Harris School of Public Policy Studies </a> , and the <a> School of Social Service Administration </a> ( SSA ) .
+
+793	FALSE	University for Peace:: type	graduate / years	
+After two years of academic work , these students receive an MA in International Affairs from American University's <a> School of International Service </a> and an MA in <a> Natural Resources and Sustainable Development </a> from UPEACE . </p>
+
+796	FALSE	University for Peace:: country	costa rica / Development	
+After two years of academic work , these students receive an MA in International Affairs from American University's <a> School of International Service </a> and an MA in <a> Natural Resources and Sustainable Development </a> from UPEACE . </p>
+
+798	TRUE	University for Peace:: established	1980 / 1980	
+<p> The <strong> University for Peace </strong> ( <strong> UPEACE </strong> ) was established in <a> Costa Rica </a> in <a> 1980 </a> &quot;to provide humanity with an international institution of higher education for peace and with the aim of promoting among all human beings the spirit of understanding , tolerance and <a> peaceful coexistence </a> . &quot;
+
+827	FALSE	University of Canterbury:: established	1873 / strong> ( ;	
+<p> The <strong> University of Canterbury </strong> ( ; postnominal abbreviation <strong> <em> <a> Cantuar </a> . </em> </strong> or <strong> <em> Cant . </em> </strong>
+
+846	FALSE	Victoria University, Toronto:: established	october 12, 1836 / College	
+<p> <strong> Victoria University </strong> is a <a> federated school </a> of the <a> University of Toronto </a> , consisting of Victoria College and <a> Emmanuel College </a> .
+
+855	FALSE	Victoria University, Toronto:: president	paul w. gooch / Emmanuel College	
+<p> In 1928 , the independent Union College federated with the theology department of Victoria College , and became <a> Emmanuel College </a> . </p>
+
+858	FALSE	Victoria University, Toronto:: chancellor	wendy cecil / somewhat separated from	
+Victoria University is somewhat separated from the rest of the university geographically , bordering <a> Queen's Park </a> , and being located on the eastern portion of the campus along with <a> St .
+
+860	FALSE	Victoria University, Australia:: city	melbourne / St	
+<p> The St Albans campus is located in McKecknie Street <a> St Albans </a> and is the second-largest campus of the university ( by student population ) .
+
+862	TRUE	Victoria University, Australia:: country	australia / Australia	
+<p> Victoria University's Faculty o&#x2202; Business and Law is one of the largest and prestigious business schools in Australia , with over 10 , 000 students studying at campuses spread across the city's west , as well as two city campuses .
+
+864	TRUE	Victoria University, Australia:: established	1916 / 1916	
+<p> Victoria University ( VU ) was founded in 1916 as Footscray Technical School .
+
+881	FALSE	Victoria University of Wellington:: established	1897 / p>	
+<p> <strong> Collections </strong> </p>
+
+895	FALSE	Wabash College:: faculty	82 / 2007	
+The current head football coach is <a> Erik Raeburn </a> who replaced <a> Chris Creighton </a> after completion of the 2007 season . </p>
+
+896	FALSE	Wabash College:: established	1832 / a>.	
+<p> <strong> Wabash College </strong> is a small , private , <a> liberal arts college </a> for <a> men </a> , located in <a> Crawfordsville , Indiana </a> .
+
+899	FALSE	Wabash College:: nickname	little giants / competes	
+Wabash College competes in Men's Intercollegiate Baseball , Basketball , Tennis , Cross Country , Track and Field , Golf , Football , Soccer , Swimming &amp; Diving and Wrestling . </p>
+
+900	FALSE	Wabash College:: free_label	athletics / Diving	
+Wabash College competes in Men's Intercollegiate Baseball , Basketball , Tennis , Cross Country , Track and Field , Golf , Football , Soccer , Swimming &amp; Diving and Wrestling . </p>
+
+910	FALSE	Williams College:: faculty	315 / 2003.	
+Williams played in the 2003 , 2004 , and 2010 men's basketball Division III national championship games , winning the title in March 2003 .
+
+911	TRUE	Williams College:: undergrad	2,124 / 2007.	
+<p> Williams enrolled 2 , 124 undergraduate students and 49 graduate students in 2007 .
+
+912	FALSE	Williams College:: established	1793 / a>.	
+<p> <strong> Williams College </strong> is a private <a> liberal arts college </a> located in <a> Williamstown </a> , <a> Massachusetts </a> , <a> United States </a> .
+
+913	TRUE	Williams College:: postgrad	49 / 49	
+<p> Williams enrolled 2 , 124 undergraduate students and 49 graduate students in 2007 .
+
+917	FALSE	Williams College:: free_label	athletics / swimming	
+Other perennial contenders in NCAA tournaments include women's <a> lacrosse </a> , women's <a> volleyball </a> , women's soccer , women's <a> field hockey </a> , men's <a> golf </a> , men's and women's swimming and diving and men's track and field . </p>
+
+922	TRUE	Williams College:: mascot	purple cow / purple	
+<p> The Williams <a> college mascot </a> is a <a> purple cow </a> .
+
+932	FALSE	Yale University:: established	1701 / 1861	
+In 1861 , the Graduate School of Arts and Sciences became the first U . S . school to award the Ph . D . </p>
+
+949	FALSE	York University:: established	1959 / a>.	
+<p> <strong> York University </strong> ( ) is a <a> public </a> <a> research university </a> in <a> Toronto </a> , <a> Ontario </a> , <a> Canada </a> .
+
+952	TRUE	York University:: staff	7,000 / 200,	
+<p> York has a student population of approximately 51 , 000 , 7 , 000 staff , and 200 , 000 alumni worldwide .
+
+953	FALSE	York University:: free_label	sports teams / of	
+These include a football stadium , 4 gymnasia , 5 sport playing fields , 4 softball fields , 9 outdoor tennis courts , 5 squash courts , 3 dance/aerobic studios , 6 ice arenas , a swimming pool , an expanding fitness centre and the new <a> Rexall Centre </a> ( home of the <a> Rogers Tennis Cup </a> ) . </p>
+
+967	FALSE	Columbia Business School:: established	1916 / a>.	
+<p> <strong> Columbia Business School </strong> ( <strong> CBS </strong> ) is the <a> business school </a> of <a> Columbia University </a> in <a> Manhattan </a> , <a> New York City </a> .
+
+987	FALSE	Indian Institute of Science:: established	1909 / a>.	
+<p> The <strong> Indian Institute of Science </strong> ( <strong> IISc </strong> ) is a research institution of higher learning located in <a> Bangalore </a> , <a> India </a> .
+
+1004	FALSE	University of California, Los Angeles:: free	daily bruin / , '	
+She said , 'No . '
+
+1016	FALSE	University of Glasgow:: established	1451 / joint	
+The University has also established joint departments with the <a> Glasgow School of Art </a> and in <a> naval architecture </a> with the <a> University of Strathclyde </a> . </p>
+
+1034	FALSE	Macquarie University:: established	1964 / Sydney.	
+In 1972 , the university established the <a> Macquarie Law School </a> , the third law school in Sydney .
+
+1040	FALSE	Macquarie University:: free_label	named after / volleyball	
+The complex also contains a state-of-the-art gymnasium and squash , badminton , basketball , volleyball and netball courts . </p>
+
+1051	TRUE	Mount Saint Vincent University:: established	1873 / 1873	
+It was established in 1873 and is locally referred to as <strong> The Mount </strong> . </p>
+
+1056	TRUE	Mount Saint Vincent University:: nickname	mystics / Colleges	
+<p> Home to the Mystics , the Mount competes in the Atlantic Colleges Athletic Association ( ACAA ) in Women&#x2019;s and Men&#x2019;s Basketball , Soccer and Women&#x2019;s Volleyball .
+
+1058	FALSE	Mount Saint Vincent University:: free	mystics / 1951	
+By 1951 , degrees were offered in Arts , Secretarial Science , Music , Home Economics , Library Science , Nursing and Education .
+
+1070	FALSE	Northern Michigan University:: established	1899 / <strong>	
+<p> <strong> Art and Design </strong> </p>
+
+1072	TRUE	Northern Michigan University:: nickname	wildcats / Wildcats	
+<p> NMU&#x2019;s Wildcats compete in the NCAA's Division II <a> Great Lakes Intercollegiate Athletic Conference </a> in basketball , football , golf , skiing , cross country , soccer , volleyball , track &amp; field , and swimming/diving .
+
+1097	FALSE	Norwegian School of Management:: established	1943 / <a>	
+<p> <strong> BI Norwegian School of Management </strong> ( ) is the largest business school in <a> Norway </a> and the second largest in all of Europe .
+
+1103	FALSE	Ohio State University:: established	1870 / a>.	
+<p> <strong> Ohio State University </strong> , commonly referred to as <strong> Ohio State </strong> or <strong> OSU </strong> , is a <a> public </a> research university located in <a> Columbus , Ohio </a> .
+
+1136	FALSE	Hunter College:: established	1870 / the	
+<p> Hunter , a fully accredited college , is organized into four schools : <a> The School of Arts and Sciences </a> , the <a> School of Education </a> , the <a> School of the Health Professions </a> and the <a> School of Social Work </a> .
+
+1157	FALSE	Iowa State University:: free_label	nickname / sports	
+<p> The Iowa State Cyclones compete in 18 varsity sports in the <a> NCAA </a> 's <a> Division I-A </a> as a member of the <a> Big 12 Conference </a> .
+
+1164	FALSE	Iowa State University:: established	1858 / a>.	
+<p> <strong> Iowa State University of Science and Technology </strong> , more commonly known as <strong> Iowa State University </strong> ( <strong> ISU </strong> ) , is a <a> public </a> <a> land-grant </a> and <a> space-grant </a> research university located in <a> Ames , Iowa </a> , <a> United States </a> .
+
+1171	TRUE	Indian Institute of Technology Kanpur:: established	1959 / 1959.	
+<p> The <strong> Indian Institute of Technology Kanpur </strong> ( ) ( also known as <strong> IIT Kanpur </strong> or <strong> IITK </strong> ) is an <a> Indian Institutes of Technology </a> , set up in <a> Kanpur </a> in 1959 .
+
+1192	FALSE	Ithaca College:: established	1892 / a>.	
+<p> <strong> Ithaca College </strong> is a <a> private college </a> located on the South Hill of <a> Ithaca , New York </a> .
+
+1197	FALSE	Ithaca College:: staff	989 / 6,	
+The hillside campus continued to grow in the ensuing 30 years to accommodate more than 6 , 000 students . </p>
+
+1200	FALSE	Ithaca College:: president	thomas rochon / expand its curriculum.	
+<p> As the campus expanded , the college also began to expand its curriculum .
+
+1208	FALSE	James Madison University:: established	1908 / 1914	
+In 1914 , the name of the university was changed to the State Normal School for Women at Harrisonburg .
+
+1242	TRUE	Crandall University:: established	1949 / 1949	
+<p> The school was founded in 1949 under the name <strong> United Baptist Bible Training School </strong> ( UBBTS ) , and served as both a <a> secondary school </a> and a Bible school .
+
+1245	FALSE	Crandall University:: free_label	sports teams / sports	
+<p> In 2009 , plans for a $24 million expansion to the campus , including a new academic building , a second residence and a sports complex were unveiled .
+
+1254	FALSE	Brown University:: country	united states / Western	
+In 2000 , a group of students from the university's Technology House converted the south side of the Sciences Library into a giant video display which allowed bystanders to play <a> Tetris </a> , the largest of its kind ever in the Western Hemisphere .
+
+1258	FALSE	Brown University:: established	1764 / a>.	
+Academically , Brown consists of <a> The College </a> , <a> Graduate School </a> , <a> Alpert Medical School </a> , and the <a> School of Engineering </a> .
+
+1278	FALSE	Barnard College:: postgrad	none / ,	
+Most Columbia classes are open to Barnard students and vice versa , Barnard students and faculty are represented in the University Senate , and student clubs such as the <em> <a> Columbia Daily Spectator </a> </em> are open to all students . </p>
+
+1279	FALSE	Barnard College:: established	1889 / and	
+<p> <strong> Barnard College </strong> is an independently incorporated <a> women's </a> <a> liberal arts college </a> , an official college of <a> Columbia University </a> , and a member of the <a> Seven Sisters </a> .
+
+1280	FALSE	Barnard College:: campus	urban / <a>	
+<p> <strong> Barnard College </strong> is an independently incorporated <a> women's </a> <a> liberal arts college </a> , an official college of <a> Columbia University </a> , and a member of the <a> Seven Sisters </a> .
+
+1299	FALSE	Bob Jones University:: postgrad	500 / 4	
+The university enrolls approximately 4 , 000 students representing every state and fifty foreign countries .
+
+1300	FALSE	Bob Jones University:: established	1927 / It	
+It is the largest private <a> liberal arts </a> university in South Carolina and has a reputation for being one of the most conservative of religious schools in the United States .
+
+1313	FALSE	Chalmers University of Technology:: established	1829 / natural	
+<p> <strong> Chalmers University of Technology </strong> ( , often shortened to <strong> Chalmers </strong> ) , is a <a> university </a> in <a> Gothenburg </a> , <a> Sweden </a> , that focuses on research and education in technology , natural science and architecture .
+
+1330	FALSE	California Institute of Technology:: established	1891 / a>.	
+<p> The <strong> California Institute of Technology </strong> ( commonly referred to as <strong> Caltech </strong> ) is a <a> private </a> research university located in <a> Pasadena , California </a> , <a> United States </a> .
+
+1369	FALSE	Drexel University:: established	1891 / a>.	
+<p> <strong> Drexel University </strong> is a <a> private </a> <a> coeducation </a> al <a> university </a> with the main campus located in the <a> University City </a> area within <a> Philadelphia </a> , <a> Pennsylvania </a> , <a> United States </a> .
+
+1389	FALSE	Dartmouth College:: nickname	big green / team	
+In addition to the traditional American team sports ( football , basketball , baseball , and ice hockey ) , Dartmouth competes in many other sports including track and field , sailing , tennis , rowing , soccer , skiing , rugby union and lacrosse .
+
+1407	FALSE	Dalhousie University:: established	1818 / a>.	
+<p> <strong> Dalhousie University </strong> is a <a> university </a> located in <a> Halifax </a> , <a> Nova Scotia </a> , <a> Canada </a> .
+
+1417	FALSE	Dalhousie University:: chancellor	fred fountain / a member	
+It is a member of the <a> Group of Thirteen </a> , more commonly referred to as the G13 , a group of the leading research universities in Canada . </p>
+
+1462	FALSE	Uppsala University:: established	1477 / Central	
+<p> <strong> North of Central Uppsala </strong> </p>
+
+1481	FALSE	University of Rochester:: established	1850 / education.	
+<p> : The <strong> Warner School </strong> is the university's primary graduate school for education .
+
+1495	FALSE	University of California, San Francisco:: city	san francisco / biomedical	
+Though one of the ten campuses of the <a> University of California </a> , it is unique for being the only University of California campus dedicated solely to graduate education , and this in health and <a> biomedical science </a> s .
+
+1496	TRUE	University of California, San Francisco:: state	california / California	
+<p> The <strong> University of California , San Francisco </strong> ( <strong> UCSF </strong> ) is one of the world's leading centers of health sciences research , patient care , and education .
+
+1497	FALSE	University of California, San Francisco:: country	united states / US	
+<p> In 2009 , the School of Medicine was the second largest recipient of <a> National Institutes of Health </a> research funds among all US medical schools , receiving awards totaling $417 . 7&nbsp;million .
+
+1501	FALSE	University of California, San Francisco:: established	1873 / the	
+<p> The <strong> University of California , San Francisco </strong> ( <strong> UCSF </strong> ) is one of the world's leading centers of health sciences research , patient care , and education .
+
+1514	FALSE	University of California:: established	1868 / a>.	
+<p> The <strong> University of California </strong> ( <strong> UC </strong> ) is a <a> public university </a> <a> system </a> in the <a> state </a> of <a> California </a> .
+
+1540	FALSE	University of California, Berkeley:: free_label	newspaper / Sports	
+A member of both the <a> Pacific-10 Conference </a> and the <a> Mountain Pacific Sports Federation </a> in the <a> NCAA </a> , Cal students have won national titles in many sports , including football , men's basketball , baseball , men's gymnastics , softball , water polo , rugby , and crew .
+
+1551	FALSE	University of California, Santa Cruz:: country	united states / s	
+The <a> NASA Ames Research Center </a> campus is planned to ultimately hold 2 , 000 UCSC students - about 10% of the entire university's future student body as envisioned for 2020 . </p>
+
+1555	FALSE	University of California, Santa Cruz:: established	1965 / a>.	
+<p> The <strong> University of California , Santa Cruz </strong> , also known as <strong> UC Santa Cruz </strong> or <strong> UCSC </strong> , is a <a> public </a> , <a> collegiate </a> <a> university </a> ; one of ten campuses in the <a> University of California </a> .
+
+1575	FALSE	University of California, Davis:: nickname	aggies / They	
+They have also won NCAA Division II championships in Softball ( 2003 ) , Men's Tennis ( 1992 ) , and Women's Tennis ( 1990 , 1993 ) .
+
+1583	FALSE	University of California, Davis:: country	united states / academic	
+<p> The academic Graduate Students and management students are represented by the <a> Graduate Student Association </a> ( GSA ) .
+
+1596	FALSE	University of California, San Diego:: free_label	newspaper / compete	
+UCSD participates at the <a> NCAA's </a> <a> Division II </a> ( DII ) level in the <a> California Collegiate Athletic Association </a> , although water polo , fencing , and men's volleyball compete at the <a> Division I </a> level .
+
+1620	FALSE	Kansas State University:: established	1863 / a>.	
+<p> <strong> Kansas State University </strong> , commonly shortened to <strong> K-State </strong> , is an institution of higher learning located in <a> Manhattan </a> , <a> Kansas </a> , in the <a> United States </a> .
+
+1632	FALSE	Kent State University:: established	1910 / 1915	
+In 1915 , the school was renamed <strong> Kent State Normal College </strong> due to the addition of four-year degrees .
+
+1649	FALSE	Lund University:: established	1666 / 1085	
+A <a> cathedral school </a> ( the <em> <a> Katedralskolan </a> </em> ) for the training of clergy was established in 1085 and is today Scandinavia's oldest school </p>
+
+1667	TRUE	Jagiellonian University:: established	1364 / 1364	
+<p> The <strong> Jagiellonian University </strong> ( , often shortened to <em> UJ </em> ; historical names : , University of Krakow , Krak&#x00f3;w Academy , The Main Crown School , Main School of Krak&#x00f3;w ) was established in 1364 by <a> Casimir III the Great </a> in <a> Krak&#x00f3;w </a> .
+
+1705	TRUE	Poznań University of Technology:: established	1919 / Machinery.	
+But a state school had existed in <a> Pozna&#x0144; </a> since 1919 , under name of the Higher State School of Machinery .
+
+1762	FALSE	Acadia University:: president	ray ivany / students in January	
+The College began with 21 students in January 1839 .
+
+1789	TRUE	Berea College:: undergrad	1,514 / 1, 514	
+Current full-time enrollment is 1 , 514 students .
+
+1796	FALSE	Berea College:: free	mountaineers / ,	
+Berea's primary service region is Southern <a> Appalachia </a> , but students come from all states in the <a> United States </a> and more than 60 other countries .
+
+1812	FALSE	School of the Art Institute of Chicago:: established	1866 / <a>	
+The <strong> School of the Art Institute of Chicago </strong> ( <strong> SAIC </strong> ) is one of America's largest accredited independent schools of art and design , located in the <a> Loop </a> in <a> Chicago </a> , <a> Illinois </a> .
+
+1829	FALSE	Emory University:: established	1836 / and	
+<p> Today , the school consists of nine academic divisions : the College of Arts and Sciences , <a> Oxford College </a> , Laney Graduate School , <a> School of Law </a> , <a> School of Medicine </a> , <a> Nell Hodgson Woodruff School of Nursing </a> , <a> Rollins School of Public Health </a> , <a> Candler School of Theology </a> , and <a> Roberto C . Goizueta Business School </a> . </p>
+
+1842	FALSE	Los Angeles Pierce College:: nickname	the brahmas / Conference	
+<p> Pierce College currently fields 11 athletic teams , which compete in the <a> Western State Conference </a> . </p>
+
+1844	FALSE	Los Angeles Pierce College:: established	1947 / p>	
+<p> <strong> Los Angeles Pierce College </strong> , also known as <strong> Pierce College </strong> , <strong> Pierce </strong> , is a two-year <a> community college </a> that serves more than 23 , 000 students in the northern <a> Chalk Hills </a> of <a> Woodland Hills </a> , a community within the <a> San Fernando Valley </a> region of the <a> city of Los Angeles </a> , <a> California </a> . </p>
+
+1862	TRUE	University of Cologne:: postgrad	3,718 / 2005	
+<p> In 2005 , the University enrolled 47 , 203 students , including 3 , 718 graduate students .
+
+1874	FALSE	University of Cologne:: faculty	508 / ( 1386 ).	
+<p> The University of <a> Cologne </a> was established in 1388 as the fourth university in the <a> Holy Roman Empire </a> after the <a> Charles University of Prague </a> ( 1348 ) , the <a> University of Vienna </a> ( 1365 ) and the <a> Ruprecht Karl University of Heidelberg </a> ( 1386 ) .
+
+1892	TRUE	Odense University:: city	odense / situated	
+<p> SDU Odense is considered the main campus of the <a> University of Southern Denmark </a> , both because of its relative size and because the central administration of the university is situated there .
+
+1894	FALSE	Odense University:: country	denmark / s )	
+Approximately 800 researchers and 12 , 000 students ( counting both <a> undergraduate </a> s and <a> postgraduate </a> s ) are enrolled at SDU Odense .
+
+1901	FALSE	Odense University:: established	1966 / 1998	
+<p> <strong> Odense University </strong> , now <strong> Syddansk Universitet Odense </strong> ( or <strong> SDU Odense </strong> in abbreviated form ) , has been part of the <a> University of Southern Denmark </a> since 1998 of which it forms the biggest campus .
+
+1912	FALSE	University of California, Irvine:: city	irvine / housing	
+There were only nine buildings and a dirt road connecting the main campus to the housing units .
+
+1922	TRUE	University of California, Irvine:: established	1965 / USA.	
+<p> The <strong> University of California , Irvine </strong> ( <strong> UCI </strong> or <strong> UC Irvine </strong> ) , founded in 1965 , is one of the ten general campuses of the <a> University of California </a> , located in <a> Irvine </a> , <a> California </a> , USA .
+
+1924	FALSE	University of California, Irvine:: free_label	newspaper / athletics	
+The week of April 20 , 2009 was a historical milestone for the UCI athletics program , as both school&#x2019;s Men&#x2019;s Volleyball and Baseball squads were simultaneously ranked No . 1 nationally in NCAA Division I polls .
+
+1928	FALSE	University of California, Irvine:: mascot	peter the anteater / the	
+UCI mascot is the [[anteater]] .
+
+1942	TRUE	Michigan Technological University:: established	1885 / 1885	
+<p> Michigan Tech was founded in 1885 as the <strong> Michigan Mining School </strong> .
+
+1957	FALSE	Carnegie Mellon University:: nickname	tartans / teams	
+Currently , varsity teams are fielded in basketball , track , cross country , football , golf , soccer , swimming , volleyball , tennis , and cheerleading .
+
+1977	FALSE	Mendel University Brno:: established	1919 / <a>	
+<p> <strong> Mendel University in Brno </strong> is located in <a> Brno </a> , <a> Czech Republic </a> .
+
+1995	FALSE	University College London:: established	1826 / a>	
+Many University of London schools and institutes are also close by , including <a> Birkbeck , University of London </a> , the <a> Institute of Education </a> , <a> London Business School </a> , the <a> London School of Hygiene &amp; Tropical Medicine </a> , the <a> Royal Veterinary College </a> , the <a> School of Advanced Study </a> , the <a> School of Oriental and African Studies </a> , <a> The School of Pharmacy </a> and the <a> Senate House Library </a> .
+
+2023	TRUE	Lehigh University:: staff	1,255 / 1,	
+As of 2010 , the university comprises 4 , 781 undergraduate students , 2 , 270 <a> graduate student </a> s , 666 professors , and a staff of 1 , 255 .
+
+2027	FALSE	Lehigh University:: country	usa / is	
+It is organized into three contiguous campuses on and around <a> South Mountain </a> : </p>
+
+2034	FALSE	Lehigh University:: established	1865 / the	
+<p> <strong> Lehigh University </strong> is a <a> private </a> , co-educational university located in <a> Bethlehem , Pennsylvania </a> , in the <a> Lehigh Valley </a> region of the United States .
+
+2037	FALSE	Lehigh University:: free_label	athletics / coaches	
+Lehigh graduates have gone on to professional careers in the <a> National Football League </a> , <a> Major League Baseball </a> , <a> Major League Soccer </a> , and the <a> National Basketball Association </a> as players , scouts , coaches and owners .
+

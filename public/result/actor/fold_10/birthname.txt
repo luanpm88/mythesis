@@ -1,0 +1,71 @@
+Found: 30
+Found Not Null: 1
+Correct: 1
+Wrong: 0
+Total: 1
+precision: 1.0
+recall: 1.0
+
+
+
+#	NEW	birthname	........ / Ava Lavinia Gardner	// <p> <strong> Ava Lavinia Gardner </strong> ( December 24 , 1922 &ndash ; January 25 , 1990 ) was an American actress .
+
+#	NEW	birthname	........ / popularly known as	// <p> <strong> Khwaja Ahmad Abbas </strong> ( ) ( 7 June 1914 &#x2013 ; 1 June 1987 ) , popularly known as <strong> K .
+
+#	NEW	birthname	........ / the fifth youngest	// Cage , at age 32 , became the fifth youngest actor ever to win the <a> Academy Award for Best Actor </a> for his performance in <em> <a> Leaving Las Vegas </a> </em> . </p>
+
+#	NEW	birthname	........ / Sir Ridley Scott	// <p> <strong> Sir Ridley Scott </strong> ( born 30 November 1937 ) is an English film director and producer known for his stylish visuals and an obsession for detail .
+
+#	NEW	birthname	........ / ( b . 10 December	// January 1999 ) , <a> Rogue Joaquin </a> and daughter <a> Rhiannon Elizabeth </a> ( b . 10 December 2005 ) . </p>
+
+#	NEW	birthname	........ / Robin Gayle Wright	// <p> <strong> Robin Gayle Wright </strong> ( born April 8 , 1966 ) is an American actress .
+
+#	NEW	birthname	........ / is an American	// <p> <strong> Steven Andrew Soderbergh </strong> ( ; born January 14 , 1963 ) is an American film producer , screenwriter , <a> cinematographer </a> , editor , actor , and an <a> Academy Award </a> -winning film director .
+
+#	NEW	birthname	........ / early promo photos	// Several early promo photos still have the original name visible on his costume . </em> </strong> </p>
+
+#	NEW	birthname	........ / brought him a	// It brought him a third Tony nomination , again for Best Actor in a Musical .
+
+#	NEW	birthname	........ / played Crain ' s	// Veteran character actor <a> Eugene Pallette </a> played Crain ' s father .
+
+#	NEW	birthname	........ / is a French	// <p> <strong> Sophie Marceau </strong> ( ; born 17 November 1966 ) is a French actress , who has appeared in 35 films .
+
+#	NEW	birthname	........ / is an American	// <p> <strong> Calista Kay Flockhart </strong> ( born November 11 , 1964 ) is an American actor who is primarily recognized for her work in television .
+
+#	NEW	birthname	........ / met Lewis during	// Hayes met Lewis during shooting of the televised film and went on to receive a <a> Screen Actors Guild Award </a> for best actor . </p>
+
+#	NEW	birthname	........ / which won him	// He is best known for directing <em> <a> The Silence of the Lambs </a> </em> , which won him the <a> Academy Award </a> for Best Director . </p>
+
+#	NEW	birthname	........ / best known as	// <p> <strong> James Maury </strong> &quot ; <strong> Jim </strong> &quot ; <strong> Henson </strong> ( September 24 , 1936 &#x2013 ; May 16 , 1990 ) was an <a> American </a> <a> puppeteer </a> best known as the creator of <a> The Muppets </a> .
+
+#	NEW	birthname	........ / John Michael Frankenheimer	// <p> <strong> John Michael Frankenheimer </strong> ( February 19 , 1930 &ndash ; July 6 , 2002 ) was an award-winning American film and television director known for social dramas .
+
+#	NEW	birthname	........ / is an American	// <p> <strong> Julia Fiona Roberts </strong> ( born October 28 , 1967 ) is an American actress .
+
+#	NEW	birthname	........ / and raised in	// <p> Born and raised in <a> New Orleans </a> , <a> Louisiana </a> .
+
+#	NEW	birthname	........ / Helen Elizabeth Hunt	// <p> <strong> Helen Elizabeth Hunt </strong> ( born June 15 , 1963 ) is an American actress , <a> film director </a> , and <a> screenwriter </a> .
+
+#	NEW	birthname	........ / born American stage	// <p> <strong> Paul Muni </strong> ( September 22 , 1895 &#x2013 ; August 25 , 1967 ) was an <a> Austrian-Hungarian </a> -born American stage and film actor .
+
+#	NEW	birthname	........ / is an Italian	// <p> <strong> Roberto Remigio Benigni </strong> , <a> Knight Grand Cross OMRI </a> ( born 27 October 1952 ) is an Italian actor , comedian , screenwriter and <a> director </a> of film , theatre and television . </p>
+
+#	NEW	birthname	........ / ran for a	// The play opened on Friday 8 June 1962 at the <a> Belgrade Theatre </a> in <a> Coventry </a> and ran for a week .
+
+22	TRUE	Reese Witherspoon::birthname	laura jeanne reese witherspoon / Laura Jeanne Reese	
+<p> <strong> Laura Jeanne Reese Witherspoon </strong> ( born March 22 , 1976 ) , better known as <strong> Reese Witherspoon </strong> , is an American actress and film producer .
+
+#	NEW	birthname	........ / his former wife	// <p> Robinson and his former wife Mary Shepherd were active in Bristol Labour politics from the early 1980s . </p>
+
+#	NEW	birthname	........ / an American actor	// <p> <strong> Lionel Barrymore </strong> ( April 28 , 1878 &ndash ; November 15 , 1954 ) was an American actor of stage , screen and radio .
+
+#	NEW	birthname	........ / William Henry Pratt	// <p> <strong> Boris Karloff </strong> ( 23 November 1887 &#x2013 ; 2 February 1969 ) , whose real name was <strong> William Henry Pratt </strong> , was an <a> English </a> -born actor who emigrated to <a> Canada </a> in 1909 .
+
+#	NEW	birthname	........ / McKern ' s final	// <p> McKern ' s final acting appearances came in the film <strong> <em> ' ( 1999 ) and on stage in 2000 . </em> </strong> </p>
+
+#	NEW	birthname	........ / Features	// <p> <strong> Features </strong> : </p>
+
+#	NEW	birthname	........ / known for making	// Night Shyamalan </strong> , is an Indian-born American <a> filmmaker </a> and <a> screenwriter </a> , known for making movies with contemporary supernatural plots that climax with a <a> twist ending </a> .
+
+#	NEW	birthname	........ / a book about	// In 1985 , he and his wife Barbara wrote <em> Mixed Blessings </em> , a book about their experiences raising Ned . ref name=BestCar / </p>
+

@@ -1,0 +1,60 @@
+Found: 18
+Found Not Null: 6
+Correct: 5
+Wrong: 1
+Total: 10
+precision: 0.8333333333333334
+recall: 0.5
+
+
+
+#	NEW	occupation	........ / Actor	// His original portrayal ( 1985&ndash ; 1990 ) earned him an <a> Emmy </a> nomination for Outstanding Actor in a Leading Role and five <em> <a> Soap Opera Digest </a> </em> Best Actor Awards .
+
+1	TRUE	Melody Thomas Scott::occupation	actress / actress	
+Her first film credit was as a child actress </p>
+
+#	NEW	occupation	........ / Actress	// Her performance in Love &amp ; Basketball earned her the 2001 <a> NAACP Image Award </a> for Outstanding Actress in a Motion Picture , as well as an <a> Independent Spirit Award </a> nomination for Best Actress and a <a> BET Award </a> . </p>
+
+#	NEW	occupation	........ / ,	// <p> <strong> John Drew , Jr . </strong> ( November 13 , 1853&ndash ; July 9 , 1927 ) was an <a> American </a> stage actor noted for his roles in <a> Shakespeare </a> an comedy , society drama , and light comedies .
+
+4	TRUE	Daniela Bianchi::occupation	actress / with	
+<p> <strong> Daniela Bianchi </strong> ( born 31 January 1942 ) is an Italian actress , whose best known part was <a> Tatiana Romanova </a> in the 1963 <a> James Bond </a> movie <em> <a> From Russia with Love </a> </em> . </p>
+
+5	TRUE	Renée Jones::occupation	actress / Actress	
+She has been nominated five times for the <a> NAACP Image Award </a> for Outstanding Actress in a Daytime Drama Series for the role .
+
+#	NEW	occupation	........ / Director	// The film was critically panned and a commercial failure ; Pitof &quot ; won&quot ; the <a> Golden Raspberry Award </a> for <a> Worst Director </a> . </p>
+
+#	NEW	occupation	........ / actor	// <p> <strong> Ken Lerner </strong> ( born May 27 , 1948 ) is an American television , stage and film actor who is perhaps most famous for playing &quot ; <a> Principal Flutie </a> &quot ; in the first episodes of the <a> television series </a> <em> <a> Buffy the Vampire Slayer </a> </em> . </p>
+
+#	NEW	occupation	........ / Comedy	// Two years later he was awarded the <a> Perrier Comedy Award </a> , at the <a> 1998 Edinburgh Festival Fringe </a> and won the Best Stand-Up Award at the British Comedy Awards .
+
+9	TRUE	Joseph Schildkraut::occupation	actor / Actor	
+<p> Schildkraut received an <a> Academy Award for Best Supporting Actor </a> for his role as <a> Alfred Dreyfus </a> in <em> <a> The Life of Emile Zola </a> </em> ( 1937 ) .
+
+#	NEW	occupation	........ / ,	// More prominent film roles followed , and he became famous as a <a> leading man </a> in <a> silent film </a> romances , earning an annual salary of $100 , 000 .
+
+#	NEW	occupation	........ / Actress	// For her portrayal of Carrie Brady , Clark has been nominated for four <a> Young Artist Award </a> s and two Outstanding Younger Actress <a> Daytime Emmy Award </a> s . </p>
+
+#	NEW	occupation	........ / Globe	// She has also been nominated for a <a> Screen Actors Guild Award </a> in 2006 ; and for a <a> Golden Globe Award </a> in 2007 . </p>
+
+#	NEW	occupation	........ / director .	// He is known for his starring role on the television series <em> <a> Thirtysomething </a> </em> , and is currently a television producer and director . </p>
+
+14	TRUE	Bree Williamson::occupation	actress / Actress	
+<p> In 2009 and 2010 Williamson was nominated for a <a> Daytime Emmy Award </a> for <a> Outstanding Supporting Actress </a> for the role of Jessica . </p>
+
+#	NEW	occupation	........ / voice	// <p> In 2003 she was nominated for a <a> Daytime Emmy Award </a> for her work on the TV show <em> <a> What ' s New Scooby Doo ? </a> </em> , where she did the voice of <a> Velma Dinkley </a> .
+
+16	FALSE	Tonja Walker::occupation	actress / ,	
+She has produced an award winning Family Film entitled The Derby Stallion , starring <a> Zac Efron </a> , <a> Bill Cobbs </a> , <a> William R . Moses </a> and herself that will come out on Video on Demand March 8 , 2007 .
+
+#	NEW	occupation	........ / Actress	// Her performance in the film was appreciated and earned her several awards for Best Actress including the <a> National Film Award for Best Actress </a> and also the <a> Filmfare Best Actress Award </a> .
+
+#	null	occupation	actor / ..........
+
+#	null	occupation	actress / ..........
+
+#	null	occupation	actor / ..........
+
+#	null	occupation	actor / ..........
+

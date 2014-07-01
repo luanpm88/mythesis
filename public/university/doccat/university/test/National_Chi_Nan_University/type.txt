@@ -1,7 +1,0 @@
-<li><a>Chinese Language</a> and <a>Literature</a></li>
-<li><a>Public Policy</a> and <a>Administration</a></li>
-<li><a>Comparative Education</a></li>
-<li><a>Adult</a> and <a>Continuing Education</a></li>
-<li><a>Biomedicine</a> and <a>Biomedical technology</a></li>
-<li>Center for <a>Southeast Asian studies</a></li>
-<li><a>List of universities in Taiwan</a></li>

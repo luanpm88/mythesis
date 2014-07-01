@@ -1,0 +1,46 @@
+Found: 19
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Staci Greason </strong> ( born 23 May 1964 ) is an American <a> actress </a> .
+
+#	NEW	birth_date	........ / Moriarty	// <p> Moriarty is politically active , describing himself as a &quot ; <a> centrist </a> &quot ; , and sometimes as a &quot ; realist&quot ; .
+
+#	NEW	birth_date	........ / quot ; '	// <p> : &quot ; ' Hayden ' s wild , ' they said .
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Gladys Brockwell </strong> ( September 26 , 1893 &#x2013 ; July 2 , 1929 ) was an American actress whose career began during the <a> silent film </a> era . </p>
+
+#	NEW	birth_date	........ / Jensen	// <p> Jensen was born in <a> Glendale , California </a> .
+
+#	NEW	birth_date	........ / La	// <p> La Salle , one of four children , was born and raised in <a> Hartford , Connecticut </a> by his mother , Ada Haynes .
+
+#	NEW	birth_date	........ / Since 1997 ,	// <p> Since 1997 , Phillips has not acted in either television or film roles .
+
+#	NEW	birth_date	........ / Culea	// <p> Culea has acted in a number of other TV roles , mainly during the 1980s and 1990s . </p>
+
+#	NEW	birth_date	........ / on 22 January 1972	// <p> Born on 22 January 1972 in a moderate Marathi-speaking family , Namrata Shirodkar is an Aquarian .
+
+#	NEW	birth_date	........ / Lewis	// <p> Lewis Gilbert was awarded the Fellowship of the <a> British Film Institute </a> in 2001 . </p>
+
+#	NEW	birth_date	........ / January	// <p> <strong> January Kristen Jones </strong> ( born January 5 , 1978 ) is an American actress .
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Chip Zien </strong> ( born <strong> Jerome Herbert Zien </strong> ; March 20 , 1947 ) is an American actor .
+
+#	NEW	birth_date	........ / Vlahopoulou	// <p> Vlahopoulou was born on the island of <a> Corfu </a> , the fifth of nine children .
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Harley Brown </strong> ( born August 2 , 1954 ) is an <a> American </a> actress , born in <a> Kansas City , Missouri </a> . </p>
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Valentina Cortese </strong> ( born 1 January 1923 or 1925 , <a> Milan , Italy </a> ) is an Italian <a> film actress </a> . </p>
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Tim McInnerny </strong> ( pronounced born 18 September 1956 ) is an <a> English </a> actor .
+
+#	NEW	birth_date	........ / Ball	// <p> Ball has written two films , Academy Award winner <em> <a> American Beauty </a> </em> and <em> <a> Towelhead </a> </em> .
+
+#	NEW	birth_date	........ / In	// <p> In the 1970s , Lawrence founded Blerta ( &quot ; Bruno Lawrence ' s Electric Revelation and Traveling Apparition&quot ; ) , a musical and theatrical co-operative active .
+
+#	NEW	birth_date	........ / In	// <p> In the summer of 1955 he played <a> Estragon </a> in the first British production of <em> <a> Waiting for Godot </a> </em> .
+

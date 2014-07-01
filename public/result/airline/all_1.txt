@@ -1,0 +1,142 @@
+Total articles: 456
+Articles for test: 411
+Articles for train: 45
+Total attributes: 140
+Attributes with high occurrences: 18/140
+
+------------
+Found: 560
+Found Not Null: 125
+Correct: 63
+Wrong: 62
+Total: 137
+precision: 0.504
+recall: 0.45985401459854014
+
+
+
+27	TRUE	Jetstar Asia Airways:: callsign	jetstar asia / Jetstar	// <p> <strong> Jetstar Asia Airways Private Limited </strong> ( <a> Chinese </a> : &#x6377;&#x661f;&#x4e9a;&#x6d32;&#x822a;&#x7a7a;&#x516c;&#x53f8; ) , operating as <strong> Jetstar Asia </strong> , is a <a> low-cost airline </a> headquartered in <a> Singapore </a> .
+29	FALSE	Jetstar Asia Airways:: founded	2004 / 49	// <p> Jetstar Asia was started with Qantas having a 49 per cent stake in the airline .
+35	FALSE	Jetstar Asia Airways:: airline	jetstar airways / Singapore	// <p> <strong> Jetstar Asia Airways Private Limited </strong> ( <a> Chinese </a> : &#x6377;&#x661f;&#x4e9a;&#x6d32;&#x822a;&#x7a7a;&#x516c;&#x53f8; ) , operating as <strong> Jetstar Asia </strong> , is a <a> low-cost airline </a> headquartered in <a> Singapore </a> .
+42	FALSE	New York Airways:: founded	1949 / 24	// <p> At its peak , the airline partnered with 24 international and domestic airlines and served the following destinations : </p>
+45	FALSE	New York Airways:: ceased	1979 / 61	// Later the airline operated the <a> Boeing Vertol 107-II </a> Turbocopter , and finally <a> Sikorsky S-61 </a> . </p>
+46	TRUE	New York Airways:: airline	new york airways / airports	// <p> <strong> New York Airways </strong> was an <a> airline </a> that offered scheduled <a> helicopter </a> service from a helipad atop the <a> Pan Am Building </a> in <a> Midtown </a> <a> Manhattan </a> , <a> New York City </a> to airports in the area .
+51	FALSE	Nepal Airlines:: logo_size	200 / lt;	// Of three crew and 21 passengers , one crew member and one passenger were killed . &lt;ref
+52	FALSE	Nepal Airlines:: fleet_size	8 / 16	// <p> The Nepal Airlines fleet includes the following aircraft ( as of 16 July 2010 ) : </p>
+53	FALSE	Nepal Airlines:: iata	ra / Nepal	// <p> <strong> Nepal Airlines </strong> , formerly known as &quot;Royal Nepal Airlines&quot; , is an <a> airline </a> based in <a> Kathmandu </a> , <a> Nepal </a> .
+54	TRUE	Nepal Airlines:: callsign	royal nepal / based	// <p> <strong> Nepal Airlines </strong> , formerly known as &quot;Royal Nepal Airlines&quot; , is an <a> airline </a> based in <a> Kathmandu </a> , <a> Nepal </a> .
+56	TRUE	Nepal Airlines:: founded	1958 / 3	// <p> The airline was established in July 1958 as Royal Nepal Airlines Corporation ( RNAC ) with one <a> Douglas DC-3 </a> .
+61	TRUE	Nepal Airlines:: airline	nepal airlines / Royal	// <p> <strong> Nepal Airlines </strong> , formerly known as &quot;Royal Nepal Airlines&quot; , is an <a> airline </a> based in <a> Kathmandu </a> , <a> Nepal </a> .
+62	TRUE	Nepal Airlines:: icao	rna / operates	// It is the government owned , national flag-carrier airline and operates more than 30 domestic and 7 international routes .
+63	TRUE	Pacific Blue Airlines:: logo_size	200 / the	// <p> As of July 2009 , Pacific Blue operates scheduled passenger from New Zealand and Australia to Asia and the Pacific .
+64	TRUE	Pacific Blue Airlines:: fleet_size	10 / 2010 :	// <p> &lt;center&gt; Pacific Blue's fleet consists of the following aircraft as of April 2010 : </p>
+67	TRUE	Pacific Blue Airlines:: founded	2003 / 2004	// <p> The <a> airline </a> was established in 2003 and started operations in January 2004 with a service between Christchurch and <a> Brisbane </a> , <a> Australia </a> .
+71	FALSE	Pacific Blue Airlines:: icao	pbn / South	// Based at <a> Christchurch International Airport </a> in <a> Christchurch </a> , it currently operates low-fare air services between New Zealand and Australia , and Australia to South Asia .
+73	FALSE	Pacific Blue Airlines:: iata	dj / Australia	// In addition to international services to and from Apia for <a> Polynesian Blue </a> , this aircraft is used on all of Pacific Blue's other routes]] <strong> Pacific Blue </strong> is the <a> New Zealand </a> based subsidiary of <a> Australia </a> n airline <a> Virgin Blue </a> .
+76	FALSE	Air Paradise International:: fleet_size	3 / 2005 ) :	// <p> The Air Paradise fleet comprised the following aircraft ( at July 2005 ) : </p>
+77	FALSE	Air Paradise International:: destinations	7 / p>	// <p> Air Paradise operated services to the following international scheduled destinations ( at January 2005 ) : <a> Adelaide </a> , <a> Brisbane </a> , <a> Melbourne </a> , <a> Osaka </a> , <a> Perth </a> , <a> Seoul </a> and <a> Sydney </a> . </p>
+78	TRUE	Air Paradise International:: iata	ad / Indonesia	// <p> <strong> Air Paradise International </strong> was an <a> airline </a> based in <a> Denpasar </a> , <a> Bali </a> , <a> Indonesia </a> .
+81	TRUE	Air Paradise International:: founded	2002 / 2003	// <p> The airline was established in June 2002 and started operations on 16 February 2003 with services to <a> Perth </a> in <a> Australia </a> from <a> Denpasar </a> , <a> Bali </a> .
+88	FALSE	Sun Country Airlines:: fleet_size	13 / 4	// <p> As of December 2010 , the Sun Country Airlines fleet consists of the following aircraft with an average age of 9 . 4 years : &lt;center&gt; &lt;/center&gt; </p>
+89	FALSE	Sun Country Airlines:: destinations	35 / 10s.	// It will be the airline's first service to Europe , but Sun Country used to operate charter flights to Europe with its DC-10s .
+90	FALSE	Sun Country Airlines:: iata	sy / an	// <p> <strong> MN Airlines , LLC </strong> , <a> operating as </a> <strong> Sun Country Airlines </strong> , is an <a> American </a> <a> low-cost airline </a> headquartered in the <a> Minneapolis-St .
+91	TRUE	Sun Country Airlines:: callsign	sun country / American	// <p> <strong> MN Airlines , LLC </strong> , <a> operating as </a> <strong> Sun Country Airlines </strong> , is an <a> American </a> <a> low-cost airline </a> headquartered in the <a> Minneapolis-St .
+100	TRUE	Sun Country Airlines:: airline	sun country airlines / headquartered	// <p> <strong> MN Airlines , LLC </strong> , <a> operating as </a> <strong> Sun Country Airlines </strong> , is an <a> American </a> <a> low-cost airline </a> headquartered in the <a> Minneapolis-St .
+103	FALSE	Air Panama:: iata	- / Jets	// <p> <strong> Jets </strong> </p>
+104	FALSE	Air Panama:: callsign	air panama / Jets	// <p> <strong> Jets </strong> </p>
+109	FALSE	Air Panama:: airline	air panama / Jets	// <p> <strong> Jets </strong> </p>
+111	TRUE	Luftfahrtgesellschaft Walter:: logo_size	200 / 2004.	// The <a> Dortmund </a> based <a> airline </a> transported about 50 , 000 passengers in 2003 and the expected sales is 13 million Euro in 2004 .
+114	FALSE	Luftfahrtgesellschaft Walter:: iata	he / as	// <p> <strong> LGW </strong> is a <a> German </a> <a> regional airline </a> officially known as <strong> Luftfahrtgesellschaft Walter mbH </strong> .
+115	TRUE	Luftfahrtgesellschaft Walter:: callsign	walter / LGW	// <p> <strong> LGW </strong> is a <a> German </a> <a> regional airline </a> officially known as <strong> Luftfahrtgesellschaft Walter mbH </strong> .
+117	FALSE	Luftfahrtgesellschaft Walter:: founded	1980 / 2003	// <a> Eurowings </a> ) , Dortmund- <a> Stuttgart </a> ( in 2003 , ex .
+122	TRUE	Luftfahrtgesellschaft Walter:: airline	luftfahrtgesellschaft walter / officially	// <p> <strong> LGW </strong> is a <a> German </a> <a> regional airline </a> officially known as <strong> Luftfahrtgesellschaft Walter mbH </strong> .
+123	FALSE	Luftfahrtgesellschaft Walter:: icao	lgw / City	// <a> City Air Germany </a> ) .
+127	FALSE	National Airways Corporation:: iata	nz / it	// <p> <strong> National Airways Corporation </strong> was the national domestic airline of New Zealand from 1947 until 1978 when it amalgamated with New Zealand's international airline , <a> Air New Zealand </a> .
+130	FALSE	National Airways Corporation:: founded	1947 / Airline	// Separated from stand alone subsidiaries , <a> Eagle Airways </a> , <a> Air Nelson </a> , <a> Mount Cook Airline </a> and <a> Zeal320 </a> ( the airline's Airbus A320 operator ) .
+141	TRUE	AirUK:: iata	uk / regional	// <p> <strong> Air UK </strong> was a wholly privately owned , independent regional <a> British </a> airline formed in 1980 as a result of a <a> merger </a> involving four rival <a> UK </a> -based <a> regional airline </a> s .
+142	FALSE	AirUK:: parent	british air transport (holdings) / following	// <p> Air UK operated the following aircraft types at one point or another during its 19-year existence : </p>
+143	FALSE	AirUK:: founded	1980 / 1981	// At the start of the 1981-82 winter timetable in November 1981 , Air UK relaunched scheduled operations from <a> Stansted </a> by opening a new route to Amsterdam .
+150	TRUE	AirUK:: airline	air uk / based	// <p> <strong> Air UK </strong> was a wholly privately owned , independent regional <a> British </a> airline formed in 1980 as a result of a <a> merger </a> involving four rival <a> UK </a> -based <a> regional airline </a> s .
+151	FALSE	Laker Airways:: logo_size	250 / </	// By that time , the airline had carried over two million <em> Skytrain </em> passengers . </p>
+153	FALSE	Laker Airways:: callsign	laker / Ex	// ( <strong> APEX </strong> stood for <strong> A </strong> dvanced <strong> P </strong> urchase <strong> Ex </strong> cursion . )
+155	TRUE	Laker Airways:: founded	1966 / 102	// The airline commenced commercial operations from its London Gatwick Airport base on 29 July 1966 with two former <a> British Overseas Airways Corporation </a> ( BOAC ) <a> Bristol Britannia </a> 102 series <a> turboprop </a> s , initially operating under contract to <a> Air France </a> .
+157	FALSE	Laker Airways:: airline	laker airways / Ex	// ( <strong> APEX </strong> stood for <strong> A </strong> dvanced <strong> P </strong> urchase <strong> Ex </strong> cursion . )
+163	FALSE	One-Two-GO Airlines:: fleet_size	8 / 22	// The One-Two-GO Airlines fleet was consisted in the following aircraft ( as of 22 July 2010 ) : </p>
+164	FALSE	One-Two-GO Airlines:: destinations	7 / 2010 ) :	// <p> One-Two-GO Airlines was served the following destinations ( as of July 2010 ) : </p>
+168	TRUE	One-Two-GO Airlines:: founded	2003 / 2003.	// <p> The airline started operations on 3 December 2003 . </p>
+173	FALSE	One-Two-GO Airlines:: ceased	2009 / 3 December 2003.	// <p> The airline started operations on 3 December 2003 . </p>
+181	TRUE	Angel Airlines (Thailand):: founded	1997 / 1997	// <p> <strong> Angel Airlines </strong> , trading as <strong> Angel Air </strong> , was an <a> airline </a> based in <a> Bangkok </a> , <a> Thailand </a> , which was operational between 1997 and 2006 . </p>
+186	TRUE	Angel Airlines (Thailand):: ceased	2006 / 2006.	// <p> <strong> Angel Airlines </strong> , trading as <strong> Angel Air </strong> , was an <a> airline </a> based in <a> Bangkok </a> , <a> Thailand </a> , which was operational between 1997 and 2006 . </p>
+187	TRUE	Angel Airlines (Thailand):: icao	nge / types :	// <p> Over the years , Angel Airlines operated the following aircraft types : </p>
+191	TRUE	Qeshm Air:: callsign	qeshm air / Gulf	// <p> <strong> Qeshm Air </strong> ( ) was an <a> Iran </a> ian passenger <a> airline </a> based on the island of <a> Qeshm </a> in the <a> Persian Gulf </a> .
+196	TRUE	Qeshm Air:: ceased	2008 / 2008.	// The airline was founded in 1993 and discontinued in 2008 . </p>
+198	FALSE	Qeshm Air:: icao	irq / Arab	// <p> Qeshm Air operated scheduled passenger service from Qeshm Island to cities in Iran , as well as the <a> United Arab Emirates </a> , with some cargo service to other countries .
+200	FALSE	Qeshm Air:: iata	- / Persian	// <p> <strong> Qeshm Air </strong> ( ) was an <a> Iran </a> ian passenger <a> airline </a> based on the island of <a> Qeshm </a> in the <a> Persian Gulf </a> .
+205	TRUE	Xiamen Airlines:: callsign	xiamen air / j&#	// <p> <strong> Xiamen Airlines </strong> ( ; <a> Pe&#x030d;h-&#x014d;e-j&#x012b; </a> E-mng Hang-khong ) is the first <a> privately owned </a> airline in the <a> People's Republic of China </a> .
+207	TRUE	Xiamen Airlines:: founded	1984 / 1984	// Established on July 25 , 1984 and based in <a> Xiamen </a> , it operates scheduled passenger flights out <a> Xiamen Gaoqi International Airport </a> and , to a lesser extent .
+212	TRUE	Xiamen Airlines:: airline	xiamen airlines / People'	// <p> <strong> Xiamen Airlines </strong> ( ; <a> Pe&#x030d;h-&#x014d;e-j&#x012b; </a> E-mng Hang-khong ) is the first <a> privately owned </a> airline in the <a> People's Republic of China </a> .
+219	TRUE	Lufthansa Cargo:: destinations	39 / 39	// <p> Lufthansa Cargo operates flights to 39 destinations in 23 countries . </p>
+220	FALSE	Lufthansa Cargo:: iata	lh / holding	// <p> <strong> Lufthansa Cargo </strong> is the <a> cargo airline </a> subsidiary of <a> Lufthansa </a> with its own ICAO code , and callsign , unlike most other &quot;cargo divisions&quot; of airline holding companies and their operations across the world .
+221	TRUE	Lufthansa Cargo:: callsign	lufthansa cargo / Lufthansa	// <p> <strong> Lufthansa Cargo </strong> is the <a> cargo airline </a> subsidiary of <a> Lufthansa </a> with its own ICAO code , and callsign , unlike most other &quot;cargo divisions&quot; of airline holding companies and their operations across the world .
+223	FALSE	Lufthansa Cargo:: founded	1994 / airline	// <p> <strong> Lufthansa Cargo </strong> is the <a> cargo airline </a> subsidiary of <a> Lufthansa </a> with its own ICAO code , and callsign , unlike most other &quot;cargo divisions&quot; of airline holding companies and their operations across the world .
+228	TRUE	Lufthansa Cargo:: airline	lufthansa cargo / companies	// <p> <strong> Lufthansa Cargo </strong> is the <a> cargo airline </a> subsidiary of <a> Lufthansa </a> with its own ICAO code , and callsign , unlike most other &quot;cargo divisions&quot; of airline holding companies and their operations across the world .
+233	FALSE	Merpati Nusantara Airlines:: iata	mz / Indonesia	// <p> <strong> Merpati Nusantara Airlines </strong> is an <a> airline </a> based in <a> Central Jakarta </a> , <a> Jakarta </a> , <a> Indonesia </a> .
+234	TRUE	Merpati Nusantara Airlines:: callsign	merpati / Indonesia	// <p> <strong> Merpati Nusantara Airlines </strong> is an <a> airline </a> based in <a> Central Jakarta </a> , <a> Jakarta </a> , <a> Indonesia </a> .
+236	TRUE	Merpati Nusantara Airlines:: founded	6 september 1962 / 1962.	// <p> The airline was established and started operations on 6 September 1962 .
+249	TRUE	Flying Tiger Line:: airline	flying tiger line / cargo	// <p> <strong> Flying Tiger Line </strong> , also known as <strong> Flying Tigers </strong> , was the first scheduled cargo <a> airline </a> in the <a> United States </a> and a major military charter operator during the <a> Cold War </a> era for both cargo and personnel ( the latter with leased aircraft ) .
+251	FALSE	Flying Tiger Line:: founded	1945 / p>	// Covert flights for DOD were not uncommon throughout the airline's history , since its roots were from <a> Civil Air Transport </a> ( CAT ) , just as was its sister airline <a> Air America ( airline ) </a> which was owned by General Claire Lee Chennault commander of the Flying Tigers fighter squadron in Southeast Asia . </p>
+279	TRUE	Trans International Airlines:: callsign	transamerica / last	// It offered scheduled service operating as <strong> Transamerica Airlines </strong> in its last decade .
+282	TRUE	Trans International Airlines:: ceased	september 30, 1986 / 1986.	// The airline was dissolved and ceased operations on September 30 , 1986 . </p>
+283	FALSE	Trans International Airlines:: airline	trans international airlines / Transamerica Airlines	// It offered scheduled service operating as <strong> Transamerica Airlines </strong> in its last decade .
+293	TRUE	Modern Air Transport:: callsign	modern / Air	// <p> <strong> Modern Air Transport , Inc . </strong> ( operating as <strong> Modern Air </strong> ) was a <a> US </a> non-scheduled and supplemental carrier founded in 1946 .
+295	FALSE	Modern Air Transport:: founded	1946 / 1968	// In 1968 , the airline established an overseas base at <a> Tegel Airport </a> in what used to be <a> West Berlin </a> in the days prior to Germany's ] <a> re-unification </a> . Between 1968 and 1974 , operations increasingly focused on <a> Berlin Tegel </a> .
+300	FALSE	Modern Air Transport:: ceased	1975 / 1971.	// <p> Modern Air eventually operated a ten-strong CV-990 fleet , following the acquisition of a second batch of five sourced from American Airlines and <a> VARIG </a> between March 1968 and July 1971 .
+301	TRUE	Modern Air Transport:: airline	modern air transport / Air	// <p> <strong> Modern Air Transport , Inc . </strong> ( operating as <strong> Modern Air </strong> ) was a <a> US </a> non-scheduled and supplemental carrier founded in 1946 .
+306	TRUE	Republic Express Airlines:: callsign	public express / Indonesia	// <p> <strong> Republic Express Airlines </strong> ( RPX Airlines ) is a <a> cargo airline </a> based in <a> Jakarta </a> , <a> Indonesia </a> .
+308	TRUE	Republic Express Airlines:: founded	2001 / 2001.	// <p> The airline was established in 2001 and started operations on 17 October 2001 .
+312	TRUE	Republic Express Airlines:: airline	republic express airlines / Express Airlines	// <p> <strong> Republic Express Airlines </strong> ( RPX Airlines ) is a <a> cargo airline </a> based in <a> Jakarta </a> , <a> Indonesia </a> .
+315	FALSE	Thai AirAsia:: fleet_size	19 / 15	// Also in the same month , the airline received first of four new <a> A320 </a> airliners , raising its current fleet to 15 aircraft .
+339	FALSE	Hawkair:: fleet_size	5 / 2010 ) :	// <p> The Hawkair fleet includes the following aircraft ( as of November 2010 ) : </p>
+340	FALSE	Hawkair:: destinations	3 / services	// <p> Hawkair operates scheduled services to the following destinations in British Columbia from the South Terminal of Vancouver International Airport : </p>
+344	TRUE	Hawkair:: founded	1994 / 1994	// <p> Hawkair Aviation Services was established and started operations in 1994 as an air freight service operating out of Terrace .
+353	TRUE	Eastern Provincial Airways:: callsign	provincial / Eastern	// <p> <strong> Eastern Provincial Airways </strong> traces its history from <a> Maritime Central Airways </a> ( MCA ) from 1961 and merged with <a> CP Air </a> to form <a> Canadian Pacific Airlines </a> in 1986 . </p>
+355	FALSE	Eastern Provincial Airways:: founded	1949 / 1970	// <p> By 1970 , EPA had started to resemble a modern airline .
+358	FALSE	Eastern Provincial Airways:: alliance	cp air / orange	// The orange gander logo was put on the tail , and the nose cone was painted black .
+359	TRUE	Eastern Provincial Airways:: airline	eastern provincial airways / Canadian Pacific Airlines	// <p> <strong> Eastern Provincial Airways </strong> traces its history from <a> Maritime Central Airways </a> ( MCA ) from 1961 and merged with <a> CP Air </a> to form <a> Canadian Pacific Airlines </a> in 1986 . </p>
+365	TRUE	Nordair:: iata	nd / of	// <p> <strong> Nordair </strong> is a defunct <a> Quebec </a> -based regional <a> airline </a> founded in 1947 from the merger of Boreal Airways and Mont Laurier Aviation .
+366	TRUE	Nordair:: callsign	nordair / Boreal	// <p> <strong> Nordair </strong> is a defunct <a> Quebec </a> -based regional <a> airline </a> founded in 1947 from the merger of Boreal Airways and Mont Laurier Aviation .
+377	FALSE	Harmony Airways:: fleet_size	3 / included	// <p> The Harmony Airways fleet included the following aircraft : </p>
+378	FALSE	Harmony Airways:: destinations	9 / following	// <p> Harmony Airways served the following destinations : </p>
+380	FALSE	Harmony Airways:: callsign	harmony / US	// <p> <strong> Canada and US </strong> </p>
+387	FALSE	Harmony Airways:: airline	harmony airways / US	// <p> <strong> Canada and US </strong> </p>
+388	FALSE	Harmony Airways:: icao	hmy / following	// <p> Harmony Airways served the following destinations : </p>
+413	TRUE	Debonair (airline):: callsign	debonair / Germany	// <p> <strong> Debonair </strong> was a <a> British </a> airline operating mainly from <a> London Luton Airport </a> offering flights to and from <a> Spain </a> , <a> France </a> , <a> Germany </a> and <a> Italy </a> .
+419	TRUE	Debonair (airline):: ceased	1999 / 1999	// It ceased operations in October <a> 1999 </a> . </p>
+420	TRUE	Debonair (airline):: icao	deb / Italy	// <p> <strong> Debonair </strong> was a <a> British </a> airline operating mainly from <a> London Luton Airport </a> offering flights to and from <a> Spain </a> , <a> France </a> , <a> Germany </a> and <a> Italy </a> .
+425	FALSE	KNILM:: founded	16 july 1928 / 1946	// Starting on 16 November 1946 it operated a weekly trans-Pacific flight between Batavia and <a> Los Angeles </a> .
+429	FALSE	KNILM:: ceased	1 august 1947 / 1946	// Starting on 16 November 1946 it operated a weekly trans-Pacific flight between Batavia and <a> Los Angeles </a> .
+436	TRUE	Transbrasil:: callsign	transbrasil / TransBrasil	// <strong> TransBrasil </strong> was an international <a> Brazil </a> ian airline which ceased operations in December 2001 .
+440	TRUE	Transbrasil:: ceased	2001 / 2001.	// <strong> TransBrasil </strong> was an international <a> Brazil </a> ian airline which ceased operations in December 2001 .
+441	TRUE	Transbrasil:: airline	transbrasil / ceased	// <strong> TransBrasil </strong> was an international <a> Brazil </a> ian airline which ceased operations in December 2001 .
+449	TRUE	Kish Air:: founded	1989 / 1989	// <p> The airline was established on December 16 , 1989 and started operations in <a> 1989 </a> .
+458	TRUE	Iran Aseman Airlines:: founded	1980 / 1980.	// <p> The airline was established and started operations in 1980 .
+462	TRUE	Iran Aseman Airlines:: callsign	aseman / air	// <p> <strong> Iran Aseman Airlines </strong> ( ) is an <a> airline </a> based in <a> Tehran </a> , <a> Iran </a> , operating scheduled domestic and regional flights within the <a> Persian Gulf </a> area , as well as charter and air taxi services .
+463	FALSE	Iran Aseman Airlines:: parent	iranian civil pension fund investment company / Iran	// <p> <strong> Iran Aseman Airlines </strong> ( ) is an <a> airline </a> based in <a> Tehran </a> , <a> Iran </a> , operating scheduled domestic and regional flights within the <a> Persian Gulf </a> area , as well as charter and air taxi services .
+465	TRUE	Iran Aseman Airlines:: airline	iran aseman airlines / air	// <p> <strong> Iran Aseman Airlines </strong> ( ) is an <a> airline </a> based in <a> Tehran </a> , <a> Iran </a> , operating scheduled domestic and regional flights within the <a> Persian Gulf </a> area , as well as charter and air taxi services .
+466	FALSE	Iran Aseman Airlines:: icao	irc / charter	// <p> <strong> Iran Aseman Airlines </strong> ( ) is an <a> airline </a> based in <a> Tehran </a> , <a> Iran </a> , operating scheduled domestic and regional flights within the <a> Persian Gulf </a> area , as well as charter and air taxi services .
+471	FALSE	Iranian Airlines:: iata	- / Iran	// <p> <strong> Iranian Airlines </strong> ( ) is an <a> airline </a> based in <a> Tehran </a> , <a> Iran </a> .
+472	FALSE	Iranian Airlines:: callsign	saha / Iranian	// <p> <strong> Iranian Airlines </strong> ( ) is an <a> airline </a> based in <a> Tehran </a> , <a> Iran </a> .
+483	FALSE	Caspian Airlines:: fleet_size	5 / 30	// <p> The Caspian Airlines fleet includes the following aircraft ( as of 30 January 2010 ) [ <a> http : //www . ch-aviation . ch/aircraft . php ? search=set&amp;airline=CPN&amp;al_op=1 </a> ] : </p>
+484	FALSE	Caspian Airlines:: destinations	20 / p>	// Its main base is <a> Mehrabad International Airport </a> , Tehran . </p>
+485	FALSE	Caspian Airlines:: iata	rv / an	// <p> <strong> Caspian Airlines </strong> ( ) is an airline headquartered in <a> Tehran </a> , <a> Iran </a> .
+486	TRUE	Caspian Airlines:: callsign	caspian / headquartered	// <p> <strong> Caspian Airlines </strong> ( ) is an airline headquartered in <a> Tehran </a> , <a> Iran </a> .
+492	FALSE	Caspian Airlines:: icao	cpn / Ukraine	// Established in <a> 1993 </a> , it operates services between Tehran and other major cities in Iran and <a> international </a> flights to <a> Armenia </a> , <a> Syria </a> , <a> Turkey </a> , <a> UAE </a> and <a> Ukraine </a> .
+504	TRUE	Iran Air Tours:: airline	iran air tours / Air	// <p> <strong> Iran Air Tours </strong> ( ) is an <a> airline </a> based in <a> Tehran </a> , <a> Iran </a> .
+509	FALSE	President Airlines:: fleet_size	1 / 2007 ) :	// <p> The President Airlines fleet includes the following aircraft ( at March 2007 ) : </p>
+511	FALSE	President Airlines:: iata	to / Cambodia	// <p> <strong> President Airlines </strong> was an <a> airline </a> based in <a> Phnom Penh </a> , <a> Cambodia </a> .
+512	FALSE	President Airlines:: callsign	- / President	// <p> <strong> President Airlines </strong> was an <a> airline </a> based in <a> Phnom Penh </a> , <a> Cambodia </a> .
+514	TRUE	President Airlines:: founded	1997 / 1998.	// <p> President Airlines was established in 1997 and began operations in October 1998 .
+520	TRUE	President Airlines:: airline	president airlines / President Airlines	// <p> <strong> President Airlines </strong> was an <a> airline </a> based in <a> Phnom Penh </a> , <a> Cambodia </a> .
+525	TRUE	Mekong Airlines:: callsign	mekong airlines / Mekong	// <p> <strong> Mekong Airlines </strong> was an <a> airline </a> based in <a> Cambodia </a> . </p>
+531	TRUE	Mekong Airlines:: ceased	2003 / 2003	// <p> Mekong Airlines operated 1 <a> Boeing 737-500 </a> from January to October 2003 , leased from <a> International Lease Finance Corporation </a> . </p>
+532	TRUE	Mekong Airlines:: airline	mekong airlines / Mekong Airlines	// <p> <strong> Mekong Airlines </strong> was an <a> airline </a> based in <a> Cambodia </a> . </p>

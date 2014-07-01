@@ -1,2 +1,0 @@
-<h3>20th Century</h3>
-<li><a>WRMC</a>, non-stop student-run Middlebury radio</li>

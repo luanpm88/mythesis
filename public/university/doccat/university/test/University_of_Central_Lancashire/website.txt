@@ -1,8 +1,0 @@
-<li><strong>Faculty of Arts, Humanities and Social Sciences</strong>
-<li>School of  Creative and Performing Arts
-<li>Confucius Institute</li>
-<li>School of  Nursing and Caring Sciences
-<li>Institute of Innovation, Enterprise and Entrepreneurship</li>
-<li>School of  Computing, Engineering and Physical Sciences
-<li>School of  Forensic and Investigative Sciences
-<li>School of  Pharmacy and Pharmaceutical Sciences </li>

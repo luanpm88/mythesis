@@ -1,0 +1,87 @@
+Found: 33
+Found Not Null: 9
+Correct: 1
+Wrong: 8
+Total: 10
+precision: 0.1111111111111111
+recall: 0.1
+
+
+
+#	NEW	destinations	........ / 2010 ) :	// <p> The Bearskin Airlines fleet includes the following aircraft ( as of August 2010 ) : </p>
+
+1	FALSE	Air Next::destinations	5 / 2009	
+<p> As of December 2009 , the Air Next fleet included the following aircraft : </p>
+
+#	NEW	destinations	........ / 11	// <p> The Etihad Airways fleet consists of the following aircraft ( as of 11 November 2010 ) : </p>
+
+#	NEW	destinations	........ / 1978	// Following the 1978 <a> Airline Deregulation Act </a> the airline expanded its routes throughout much of the central and southern United States . </p>
+
+#	NEW	destinations	........ / 6	// This provided the resources to expand the airline ' s freighting activities and to add a pair of <a> DC-6 </a> Bs to its fleet in time for the following year ' s European summer charter season . </p>
+
+5	FALSE	J-Air::destinations	16 / 2009.	
+The first aircraft was delivered on October 3 , 2008 , received the type certification from the Japan Civil Aviation Bureau ( JCAB ) on October 27 and operated its first flight in February 2009 . </p>
+
+#	NEW	destinations	........ / 14	// <p> The Finncomm Airlines fleet includes the following aircraft ( as of 14 October 2010 ) : </p>
+
+#	NEW	destinations	........ / 1977	// It was formed following the Cayman Government ' s purchase of 51% of <a> Cayman Brac Airways </a> , from LACSA , the Costa Rican flag carrier , and became wholly government owned in December 1977 </p>
+
+#	NEW	destinations	........ / 16	// <p> The TACA fleet consists of the following aircraft ( at 16 August 2010 ) : </p>
+
+#	NEW	destinations	........ / 2010 ) :	// <p> The LAN Airlines fleet consists of the following aircraft ( as of November 2010 ) : </p>
+
+#	NEW	destinations	........ / 24	// ( 2006 ) ] ] The Air Namibia fleet consists of the following aircraft ( at 24 May 2010 ) : </p>
+
+11	FALSE	SilkAir::destinations	31 / 5	
+<p> Today , the SilkAir fleet , with an average of 5 . 5 years in operation , consists of the following aircraft : </p>
+
+#	NEW	destinations	........ / 2008	// <p> On January 1 , 2008 , Delta began repainting the last aircraft bearing the Song livery into mainline Delta Air Lines colors . </p>
+
+13	TRUE	Air Sinai::destinations	1 / 2010 ) :	
+<p> Air Sinai does not operate a dedicated fleet , however the following <a> EgyptAir </a> aircraft is used to operate its flights ( as of December 2010 ) : </p>
+
+14	FALSE	S7 Airlines::destinations	87 / 16	
+<p> The S7 Airlines fleet consists of the following aircraft ( at 16 May 2010 ) : </p>
+
+#	NEW	destinations	........ / 1011	// <p> Over the following months and years , employees of Eastern Air Lines began reporting sightings of the dead crew members on board another L-1011 ( N318EA ) .
+
+#	NEW	destinations	........ / 2010 :	// <p> Jet Lite ' s fleet consists of the following aircraft families as of November 2010 : </p>
+
+#	NEW	destinations	........ / 2006 ) :	// <p> The BWIA fleet consisted of the following aircraft ( at August 2006 ) : center / center </p>
+
+#	NEW	destinations	........ / 1942	// <p> The flight leader , <a> Lieutenant </a> Charles Carroll Taylor ( born October 25 , 1917 ) , graduated from <a> Naval Air Station Corpus Christi </a> in February 1942 and became a flight instructor in October of that year . </p>
+
+#	NEW	destinations	........ / 2010	// <p> As of November 2010 the CityJet fleet consists of the following aircraft : </p>
+
+#	NEW	destinations	........ / 200 .	// <p> The following investigation conducted by Russian <a> air safety </a> officials discovered that the wreckage bore damage similar to that caused by the distinctive spherical <a> shrapnel </a> produced by the S-200 .
+
+#	NEW	destinations	........ / 72	// <p> The Air Srpska fleet consisted of two <a> ATR 72 </a> <a> turboprop </a> aircraft . </p>
+
+22	FALSE	JALways::destinations	15 / 26	
+The airline operated its last <a> Boeing 747-300 </a> <em> Classic Jumbo Jet </em> as JALways Flight 73 from Honolulu to Tokyo on July 30 , 2009 ; after 26 years of service to the airline group .
+
+#	NEW	destinations	........ / 2011	// <p> As of January 2011 , the Royal Air Maroc fleet consists of the following aircraft : center / center </p>
+
+#	NEW	destinations	........ / 2009 ) :	// <p> The Mandarin Airlines fleet includes the following aircraft ( as of October 2009 ) : </p>
+
+#	NEW	destinations	........ / 6	// <p> As of December 2010 , the Blue1 fleet consists of the following aircraft with an average age of 10 . 6 years : center / center </p>
+
+#	NEW	destinations	........ / 4	// <p> As of December 2010 , the Nok Air fleet consists of the following aircraft with an average age of 19 . 4 years : </p>
+
+27	FALSE	Avensa::destinations	3 / 2007.	
+The rest of the fleet was derelict and scrapped in 2007 . </p>
+
+28	FALSE	Tunisair::destinations	53 / 2010 ) :	
+<p> The Tunisair fleet consists of the following aircraft ( as of July 2010 ) : center / center </p>
+
+29	FALSE	Mahan Air::destinations	28 / 2008	
+The ban was subject to certain limitations ; for example , Mahan Air was able to operate aircraft wet-leased from other carriers provided those aircraft met EU regulations , however this ban was lifted on 25 July 2008 in view of the progress made by the carrier , which were verified during an on site inspection in Iran . </p>
+
+#	NEW	destinations	........ / 2011 ) :	// Currently , the Gulf Air fleet consists of the following aircraft ( as of January 2011 ) : </p>
+
+#	NEW	destinations	........ / 2006	// On January 5 , 2006 <a> Independence Air </a> ceased operations . </p>
+
+#	NEW	destinations	........ / 23	// ( 2004 ) ] ] The Uzbekistan Airways fleet includes the following aircraft ( as of 23 December 2010 ) : </p>
+
+#	null	destinations	13 / ..........
+

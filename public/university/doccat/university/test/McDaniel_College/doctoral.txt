@@ -1,5 +1,0 @@
-<li>Computer Science</li>
-<li>Environmental Policy and Science </li>
-<li>Political Science and International Studies </li>
-<li>Sport Science </li>
-<li>Exercise Science</li>

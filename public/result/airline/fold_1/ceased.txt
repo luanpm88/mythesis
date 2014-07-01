@@ -1,0 +1,82 @@
+Found: 34
+Found Not Null: 4
+Correct: 4
+Wrong: 0
+Total: 4
+precision: 1.0
+recall: 1.0
+
+
+
+#	NEW	ceased	........ / 15 .	// He was released in <a> 1996 </a> after serving a partial sentence of 8 years instead of 15 .
+
+#	NEW	ceased	........ / 1969	// On June 19 , 1969 the NTSB issued its final report , which included the following Probable Cause statement : </p>
+
+#	NEW	ceased	........ / 2008	// <p> NAC Air ceased operations indefinitely in early <a> 2008 </a> due to financial difficulties . </p>
+
+#	NEW	ceased	........ / the	// <p> Mango was launched on 30 October 2006 with bookings going on sale at midnight on the same date .
+
+#	NEW	ceased	........ / 2009	// Operations of the two airlines were merged on 4 April 2009 , with the former now operating as OpenSkies . </p>
+
+#	NEW	ceased	........ / 2005	// <p> As of January <a> 2005 </a> Sierra National Airlines operated the following services : </p>
+
+6	TRUE	Lloyd International Airways::ceased	1972 / 1972.	
+Lloyd International ceased operations in June 1972 . </p>
+
+#	NEW	ceased	........ / ( 30&	// After several unsuccessful landing attempts , the aircraft ' s fuel was exhausted and it made a forced <a> water landing </a> ( ditching ) in the <a> Caribbean Sea </a> 48&nbsp ; km ( 30&nbsp ; mi ) off <a> St .
+
+8	TRUE	Nurman Avia::ceased	2007 / 2007	
+<p> As of March 2007 the Nurman Avia fleet included the following aircraft : ref name=&quot ; FI&quot ; / </p>
+
+#	NEW	ceased	........ / 2006 .	// <p> The airline started operations between <a> Nairobi </a> and <a> Mombasa </a> on November 24 , 2006 .
+
+#	NEW	ceased	........ / 33- 1 October 1999 .	// <p> The 33-seat <a> Saab-340B </a> airplane used for Crossair Flight LX498 had been <a> lease </a> d to Crossair from <a> Moldavian Airlines </a> since 1 October 1999 .
+
+#	NEW	ceased	........ / 2009	// <p> In October 2009 , Swift Aviation was reported to be under investigation by the <a> FAA </a> and <a> OSHA </a> for safety and maintenance issues .
+
+#	NEW	ceased	........ / 2574	// <p> Continental still uses Flight 2574 on its Houston-Fayetteville-Newark route , and it continues to fly under <a> Continental Express </a> banner operated by <a> ExpressJet Airlines </a> . </p>
+
+#	NEW	ceased	........ / 708	// <p> Flight 708 usually landed at <a> Tempelhof Airport </a> .
+
+#	NEW	ceased	........ / 2009 ) :	// <p> The Loch Lomond Seaplanes fleet includes the following aircraft ( at April 2009 ) : </p>
+
+#	NEW	ceased	........ / 1977	// It was established and started operations in 1977 and operates regional and international air taxi services .
+
+16	TRUE	Appalachian Airlines::ceased	1980 / 1980.	
+It was founded in 1977 as <strong> Appalachian Flying Service </strong> , and ceased its operations in 1980 . </p>
+
+#	NEW	ceased	........ / 2005	// <p> As of January 2005 the Superior Aviation fleet also includes ref name=&quot ; FI&quot ; / : </p>
+
+#	NEW	ceased	........ / 19 September 2006 .	// The airline was founded by a group of Danish investors and operated its first flight on 19 September 2006 . </p>
+
+#	NEW	ceased	........ / 2010	// <p> As of August 2010 , the Vincent Aviation fleet consists of the following aircraft : </p>
+
+#	NEW	ceased	........ / 76	// Norrlandsflyg operates twelve <a> Sikorsky S-76 </a> helicopters . </p>
+
+#	NEW	ceased	........ / 8	// The aircraft crashed at 00 : 44 EET ( 22 : 44 <a> UTC </a> on April 6 ) , 8 minutes after taking off , about east-northeast of the airport near Hamdilli village of <a> Ceyhan </a> district in poor weather conditions .
+
+#	NEW	ceased	........ / 2003	// <p> The airline got its air operators certificate in <a> 2000 </a> and was established in October 2000 , but was unable to operate until 2003 due to political unrest in Nepal .
+
+23	TRUE	Kampuchea Airlines::ceased	2004 / 2004.	
+Kampuchea Airlines was shut down in 2004 . </p>
+
+#	NEW	ceased	........ / 2007 ) .	// Landsflug had 80 employees ( at March 2007 ) .
+
+#	NEW	ceased	........ / 1989 .	// It moved operations to Kissimmee in 1989 . </p>
+
+#	NEW	ceased	........ / 1999 .	// <p> The airline was established on March 5 , 1999 , out of the assets of <a> Southern Air Transport </a> and started operations in November 1999 .
+
+#	NEW	ceased	........ / 2 January 1990 .	// <p> The airline was established and started operations in <a> 1978 </a> and acquired the freight operations of <a> CCAir </a> on 2 January 1990 .
+
+#	NEW	ceased	........ / 2004	// Of those , one was sold in 2004 , while the other one is stored . </p>
+
+#	NEW	ceased	........ / 2007 ) .	// It is wholly owned by LAM and has 50 employees ( at March 2007 ) .
+
+#	NEW	ceased	........ / 2006	// <p> As of August 2006 the airline also operated : </p>
+
+#	NEW	ceased	........ / 2007	// <p> As of May <a> 2007 </a> , Marsland Aviations operates scheduled passenger flights to the following destinations : </p>
+
+#	NEW	ceased	........ / 23 December 2005	// <p> On 23 December 2005 , Shilin Airlines changed name to Lucky Air .
+
+#	NEW	ceased	........ / 31 January 2009	// After a review of the operations , it was decided to close the Lands End Flying School as of Saturday 31 January 2009 , after which point Westward Airways also terminated the operation of sightseeing flights .
+

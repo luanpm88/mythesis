@@ -1,0 +1,889 @@
+Found: 379
+Found Not Null: 67
+Correct: 53
+Wrong: 14
+Total: 94
+precision: 0.7910447761194029
+recall: 0.5638297872340425
+
+
+
+#	NEW	pub_date	........ / 2008	// <p> <strong> <em> ' Gingersnaps </em> </strong> ' is a 2008 novel by <a> Cathy Cassidy </a> . </p>
+
+#	NEW	pub_date	........ / 2007	// <p> <strong> <em> The White Giraffe </em> </strong> is a 2007 children ' s book by Lauren St . John . </p>
+
+#	NEW	pub_date	........ / 3	// His wife has died 3 years before the beginning of the book .
+
+3	TRUE	Blanca Olmedo::pub_date	1908 / 1908.	
+A romance novel , published at a time when the trend for romantic literature had fallen out of fashion in Central America , it was completed in 1903 and published in 1908 .
+
+#	NEW	pub_date	........ / ( 2005 )	// <p> Other books in the series : <strong> The Fire Thief </strong> ( 2005 ) and <strong> The Fire Thief Fight Back </strong> ( 2007 ) </p>
+
+#	NEW	pub_date	........ / 2010 .	// <p> <strong> <em> Heist Society </em> </strong> is the sixth novel by author <a> Ally Carter </a> , and was published on February 9 , 2010 .
+
+#	NEW	pub_date	........ / ( 1977 )	// <p> <strong> <em> Monkey Grip </em> </strong> ( 1977 ) is a <a> novel </a> by Australian writer <a> Helen Garner </a> , her first published book .
+
+#	NEW	pub_date	........ / 1931	// <p> <strong> <em> American Beauty </em> </strong> is a 1931 novel by American author <a> Edna Ferber </a> first published by <a> Doubleday </a> .
+
+#	NEW	pub_date	........ / 1955 .	// The novel was published as <em> The Bride of Death </em> in the United States in 1955 . </p>
+
+#	NEW	pub_date	........ / ,	// In the second edition of the book , <strong> <em> Seeds of Change : Six plants that transformed mankind </em> </strong> , he adds the <a> coca plant </a> to the list . </p>
+
+#	NEW	pub_date	........ / 1996	// <p> <strong> <em> Expiration Date </em> </strong> is a 1996 <a> fantasy novel </a> by <a> Tim Powers </a> .
+
+#	NEW	pub_date	........ / 1998 .	// It was first published on December 1 , 1998 . </p>
+
+#	NEW	pub_date	........ / 2006	// <p> <strong> <em> The Charioteer of Delphi </em> </strong> is a children ' s <a> historical novel </a> by <a> Caroline Lawrence </a> , published in <a> 2006 </a> .
+
+#	NEW	pub_date	........ / ,	// Michaux is best known for his esoteric books written in a highly accessible style , and his body of work includes poetry travelogues , and art criticism .
+
+14	TRUE	Diego et Frida::pub_date	1993 / 1993.	
+It was originally published in the <a> French language </a> in 1993 . </p>
+
+#	NEW	pub_date	........ / 1997 .	// It was originally published in French in 1991 and an English translation was released in 1997 . </p>
+
+16	TRUE	Barlowe's Guide to Fantasy::pub_date	1996 / 1996	
+<p> <strong> <em> Barlowe ' s Guide to Fantasy </em> </strong> is a 1996 <a> fantasy </a> book by artist <a> Wayne Barlowe </a> .
+
+17	TRUE	The Poverty of Historicism::pub_date	1957 / 1957	
+<p> When published as a book in 1957 , <em> The Poverty of Historicism </em> was hailed by the anti-communist author <a> Arthur Koestler </a> as <em> &quot ; probably the only book published this year which will outlive the century . &quot ; </em> </p>
+
+#	NEW	pub_date	........ / 2009	// <p> An excerpt from the book was published in the February 16 , 2009 issue of <em> <a> Sports Illustrated </a> </em> ; the book , published by <a> Viking Press </a> , was released on February 19 , 2009 , and at one time was ranked at #29 on the <em> <a> New York Times </a> </em> non-fiction bestseller list .
+
+19	TRUE	The Loser::pub_date	1983 / 1983.	
+<p> <strong> <em> The Loser </em> </strong> is a novel by <a> Thomas Bernhard </a> , originally published in <a> German </a> in 1983 . </p>
+
+#	NEW	pub_date	........ / 1986 .	// <p> <strong> <em> Granny Was a Buffer Girl </em> </strong> is a young adult novel by <a> Berlie Doherty </a> , published in 1986 .
+
+#	NEW	pub_date	........ / 2000	// <p> <strong> Is the Holocaust Unique ? : Perspectives on Comparative Genocide </strong> is a 2000 book edited by <a> Alan S Rosenbaum </a> .
+
+#	NEW	pub_date	........ / 2002 .	// <p> <strong> <em> No More Dead Dogs </em> </strong> is a novel by <a> Gordon Korman </a> published in 2002 .
+
+#	NEW	pub_date	........ / 21 century&#	// <p> The book won the &#x201c ; annual best foreign novels in 21 century&#x201d ; by the People&#x2019 ; s Literature Publishing House ( PLPH ) January 28 , 2007 . </p>
+
+#	NEW	pub_date	........ / 2006	// <p> <strong> <em> The Secret </em> </strong> is a best-selling 2006 <a> self-help </a> book written by <a> Rhonda Byrne </a> and based upon <a> William Walker Atkinson </a> ' s prior works and school of thought .
+
+#	NEW	pub_date	........ / 1964	// <p> <strong> <em> The Act of Creation </em> </strong> is a 1964 book by <a> Arthur Koestler </a> .
+
+26	TRUE	Leaving Springfield::pub_date	2004 / 2004	
+The book was published in 2004 by <a> Wayne State University Press </a> .
+
+#	NEW	pub_date	........ / 2008	// <p> <strong> <em> Quofum </em> </strong> ( <a> 2008 </a> ) is a <a> science fiction </a> <a> novel </a> written by <a> Alan Dean Foster </a> . </p>
+
+#	NEW	pub_date	........ / 2009 )	// <p> <strong> <em> Ten Technologies to Fix Energy and Climate </em> </strong> ( second edition , 2009 ) or <strong> <em> Ten Technologies to Save the Planet </em> </strong> ( first edition , 2008 ) is a <a> popular science </a> book by <a> Chris Goodall </a> first published in 2008 and re-issued in 2009 by <a> Profile Books </a> .
+
+29	TRUE	The Plutonium Files::pub_date	1999 / 1999	
+<p> <strong> <em> The Plutonium Files : America ' s Secret Medical Experiments in the Cold War </em> </strong> is a 1999 book by <a> Eileen Welsome </a> .
+
+#	NEW	pub_date	........ / his	// <p> In his book Tolstoy describes the fate of various groups : </p>
+
+#	NEW	pub_date	........ / 2008 .	// <p> <strong> <em> Broken Soup </em> </strong> is a children ' s novel by <a> Jenny Valentine </a> , published in 2008 . </p>
+
+#	NEW	pub_date	........ / 2006 .	// The original edition was published by Fayard in 2006 . </p>
+
+#	NEW	pub_date	........ / 1986	// <p> <strong> <em> Son of Interflux </em> </strong> is a 1986 novel by <a> Gordon Korman </a> . </p>
+
+#	NEW	pub_date	........ / 2005 .	// <p> Flash ahead to the summer of 2005 .
+
+#	NEW	pub_date	........ / 1941 .	// <p> <strong> <em> We Couldn ' t Leave Dinah </em> </strong> is a children ' s novel by <a> Mary Treadgold </a> , published in 1941 .
+
+36	TRUE	Dead Man's Ransom::pub_date	1984 / 1984	
+It is the ninth in the <a> Brother Cadfael </a> series , and was first published in <a> 1984 </a> . </p>
+
+#	NEW	pub_date	........ / ,	// As the author states in the opening chapter , it is a partly a collection partly a case-history of his writing career over twenty years as a professional writer ( with the book being dedicated to his parents , Peter and Monica Raban ) . </p>
+
+#	NEW	pub_date	........ / 1911	// It was published serially in Perkins Gilman ' s periodical <em> <a> The Forerunner </a> </em> and then in book form , both in <a> 1911 </a> .
+
+#	NEW	pub_date	........ / October 2008 .	// The book was first published <a> Rodale Books </a> in October 2008 . </p>
+
+40	TRUE	The Trouble With Normal (book)::pub_date	1999 / 1999	
+It was published in 1999 by <a> The Free Press </a> , an <a> imprint </a> of <a> Simon and Schuster </a> .
+
+41	TRUE	A Girl from Lübeck::pub_date	1962 / 1962	
+<p> <strong> <em> A Girl from L&#x00fc ; beck </em> </strong> is a 1962 novel by Scottish writer <a> Bruce Marshall </a> . </p>
+
+#	NEW	pub_date	........ / 2005	// <p> <strong> <em> Madrasa Education : Strength and Weakness </em> </strong> is a book by Muhammadullah Khalili Qasmi , published in 2005 jointly by Manak Publishers , New Delhi and <a> Markazul Maarif </a> Mumbai . </p>
+
+#	NEW	pub_date	........ / 2009 .	// The book was first published in Korean on November 7 , 2008 , and was later published in English on February 10 , 2009 .
+
+#	NEW	pub_date	........ / 2008 .	// <p> <strong> <em> The Mighty Book of Boosh </em> </strong> , known as <strong> <em> The Pocket Book of Boosh </em> </strong> in the paperback version , is a collection of original and archive material relating to <a> The Mighty Boosh </a> , published in 2008 .
+
+#	NEW	pub_date	........ / ,	// The first three parts of the second volume , which Campbell was working on literally to the day that he died , were completed by Campbell ' s long-time editor , <a> Robert Walter </a> , and published by Harper and Row in 1989 .
+
+#	NEW	pub_date	........ / 2010	// <p> <strong> <em> Mission of Honor </em> </strong> by <a> David Weber </a> and published on June 22 , 2010 by <a> Baen Books </a> , is the twelfth novel set in the <a> Honorverse </a> in the main <a> Honor Harrington </a> series .
+
+#	NEW	pub_date	........ / 2010	// <p> Thomas Greanias has published four novels between the years 2005 and 2010 , all pertaining to the same series . </p>
+
+48	TRUE	The Grange at High Force::pub_date	1965 / 1965.	
+<p> <strong> <em> The Grange at High Force </em> </strong> is a children ' s novel by <a> Philip Turner </a> , published in 1965 .
+
+#	NEW	pub_date	........ / 1959	// Published in <a> 1959 </a> , it is the second book in the <a> Grave Digger Jones &amp ; Coffin Ed Johnson Mysteries </a> .
+
+#	NEW	pub_date	........ / 1867	// <p> In December 1867 , Mo&#x00ef ; se Millaud and Gaboriau renewed their contract from the previous year , in which Gaboriau had committed to publishing his literary works in Millaud et Compagnie papers .
+
+#	NEW	pub_date	........ / 2002 .	// It was Jones ' last published book before his death in 2002 . </p>
+
+52	TRUE	Observations Concerning the Increase of Mankind, Peopling of Countries, etc.::pub_date	1755 / 1755	
+It was circulated by Franklin in manuscript , but in 1755 published as an addendum to another essay .
+
+#	NEW	pub_date	........ / 2009 .	// The novel , the sixteenth in <a> the Roman Mysteries </a> series , was published in 2009 .
+
+54	FALSE	Hussein, An Entertainment::pub_date	1938 / 20	
+He was about 20 years old , The Oxford University Press distinguished <em> Hussein </em> with publication , making it the first full-length novel published in the centuries of its existence .
+
+#	NEW	pub_date	........ / May 29 , 2007	// <p> Jewels by Danielle Steel ( published May 29 , 2007 by <a> Dell Publishing </a> ) </p>
+
+#	NEW	pub_date	........ / 1925	// <p> <strong> The Whisper of Ancient Secrets </strong> : In <a> Victoria </a> , Australia 1925 an insane inventor hopes to travel to the centre of the universe and the <a> Outer God </a> Azathoth before the machinations of the Cult of the Sand Bat ruin his plans .
+
+#	NEW	pub_date	........ / 1970 .	// <p> <strong> <em> The Dermis Probe </em> </strong> is a book by the writer <a> Idries Shah </a> published <a> Octagon Press </a> in 1970 .
+
+#	NEW	pub_date	........ / ,	// During his life , Mercator published five volumes of his atlas , the last one being published by his son Rumold .
+
+#	NEW	pub_date	........ / ,	// <p> <strong> <em> Jesus , Interrupted : Revealing the Hidden Contradictions in the Bible ( And Why We Don ' t Know About Them ) </em> </strong> is a book by <a> Bart D . Ehrman </a> , a <a> New Testament </a> scholar at <a> University of North Carolina at Chapel Hill </a> .
+
+#	NEW	pub_date	........ / 1977	// The novel was finally published in 1977 just before the film ' s release . </p>
+
+#	NEW	pub_date	........ / 2005	// The book was published in 2005 by <a> Warner Books </a> , the same year as the <a> 25th Golden Raspberry Awards </a> . </p>
+
+#	NEW	pub_date	........ / that	// The project has published a commentary that sets out problems with the book ' s account of their work .
+
+#	NEW	pub_date	........ / 1987 .	// <p> <strong> <em> The Ghost Drum </em> </strong> is a children ' s fantasy novel by <a> Susan Price </a> , first published in 1987 .
+
+#	NEW	pub_date	........ / 2009 .	// <p> The book was released on June 2 , 2009 .
+
+#	NEW	pub_date	........ / 1970	// <p> <strong> <em> The General Danced at Dawn </em> </strong> is a 1970 collection of short stories by <a> George MacDonald Fraser </a> , featuring a young Scottish soldier named Dand MacNeill .
+
+#	NEW	pub_date	........ / 1949 .	// It was first published in 1949 .
+
+67	TRUE	Querelle of Brest::pub_date	1947 / 1953.	
+It was written in 1947 and first published in 1953 .
+
+68	TRUE	Wikipedia – The Missing Manual::pub_date	2008 / 2008	
+<p> <strong> <em> Wikipedia : The Missing Manual </em> </strong> is a 2008 book by John Broughton .
+
+#	NEW	pub_date	........ / 2004	// a three week run at the <a> Edinburgh Festival Fringe </a> in <a> Edinburgh </a> , Scotland in August 2004 , at the &quot ; Simpsons Mania&quot ; convention in <a> Toronto </a> , Canada ( the North American debut of the play ) in October 2004 and at <a> Riverside Studios </a> in <a> London </a> , England in May 2005 . </p>
+
+#	NEW	pub_date	........ / 0- 609-60100- 8 )	// <p> The hardcover edition ( ISBN 0-609-60100-8 ) was released by <a> Crown Publishers </a> .
+
+71	TRUE	The Wordy Shipmates::pub_date	2008 / 2008	
+<p> <strong> <em> The Wordy Shipmates </em> </strong> is a 2008 book by <a> Sarah Vowell </a> that chronicles the 17th and 18th century history of <a> Puritan </a> colonists in <a> Massachusetts </a> , <a> United States </a> .
+
+#	NEW	pub_date	........ / 2005	// <p> <em> Lolita </em> is included on <a> <em> TIME <strong> s 100 Best English-language Novels from 1923 to 2005 </strong> </em> </a> .
+
+#	NEW	pub_date	........ / 1978	// <p> <em> The Garden of the Gods </em> was first published in 1978 by <a> William Collins Sons &amp ; Co . Ltd </a> , and simultaneously in America by Simon and Schuster ( ISBN 0-671-24729-8 ) . </p>
+
+#	NEW	pub_date	........ / 2003	// <p> <strong> <em> The Earth , My Butt , and Other Big Round Things </em> </strong> is a <a> 2003 </a> <a> young adult novel </a> by <a> Carolyn Mackler </a> . </p>
+
+#	NEW	pub_date	........ / 2000 .	// It was first published in 2000 . </p>
+
+#	NEW	pub_date	........ / 1991 .	// The book was first published by <a> DAW Books </a> ( No . 865 ) in November , 1991 . </p>
+
+#	NEW	pub_date	........ / 2009 .	// <p> <strong> <em> Fool </em> </strong> is the eleventh novel by <a> Christopher Moore </a> , released on February 10 , 2009 . </p>
+
+#	NEW	pub_date	........ / 2007	// <p> <strong> The Shadow Speaker </strong> ( Su / Hyperion <a> 2007 </a> ) , by <a> Nnedi Okorafor </a> , is a <a> young adult </a> , first-person novel that takes place in the year 2070 .
+
+79	FALSE	Nights in Rodanthe (novel)::pub_date	september 2002 / 2008.	
+An unabridged audio version of the novel was published by Hachette Book Group in August 2008 .
+
+#	NEW	pub_date	........ / ,	// Epicenter Press , which published the book , is a small publisher of books about Alaska , based in <a> Seattle , Washington </a> , run by editor Kent Sturgis , who was raised in Alaska . </p>
+
+#	NEW	pub_date	........ / ,	// <p> <strong> <em> The Mass Psychology of Fascism </em> </strong> , originally <strong> <em> Die Massenpsychologie des Faschismus </em> </strong> in <a> German </a> , was a <a> book </a> written by <a> Wilhelm Reich </a> in 1933 .
+
+#	NEW	pub_date	........ / This	// <p> This book by Arcadia Publishing is another in their &quot ; Images of America&quot ; series . </p>
+
+#	NEW	pub_date	........ / 2007	// <p> <strong> <em> Loving Frank </em> </strong> is an American novel by <a> Nancy Horan </a> published in <a> 2007 </a> .
+
+84	FALSE	Blacker's Art of Fly Making::pub_date	1842 / 54	
+<p> Published by the Author , WILLIAM BLACKER , At 54 , <a> Dean Street </a> Soho , 1855 . </p>
+
+#	NEW	pub_date	........ / 1998	// The book was made into a television series entitled <em> <a> Longitude </a> </em> . In 1998 , <em> The Illustrated Longitude </em> was published , supplementing the earlier text with 180 images of characters , events , instruments , maps and publications . </p>
+
+#	NEW	pub_date	........ / 2008	// <p> <strong> <em> The Believers </em> </strong> is a novel by <a> Zo&#x00eb ; Heller </a> first published in <a> 2008 </a> .
+
+#	NEW	pub_date	........ / 11	// Zia had ruled Pakistan for 11 years prior to his death . </p>
+
+#	NEW	pub_date	........ / 1993	// <p> <strong> <em> The Giant Garden of Oz </em> </strong> is a novel written and illustrated by <a> Eric Shanower </a> , first published in 1993 by <a> Emerald City Press </a> , a division of Books of Wonder .
+
+#	NEW	pub_date	........ / 2005	// <p> Deisinger outlined his idea for the project to Begai in early 2005 , mapping out plans for English and German versions of the as-yet-untitled book .
+
+#	NEW	pub_date	........ / 1970 .	// <p> <strong> <em> The Lime Works </em> </strong> is a novel by <a> Thomas Bernhard </a> , first published in <a> German </a> in 1970 .
+
+91	TRUE	The Gypsies (poem)::pub_date	1827 / 1827	
+<p> <strong> <em> The Gypsies </em> </strong> ( ) is a <a> narrative poem </a> by <a> Aleksandr Pushkin </a> , originally written in <a> Russian </a> in 1824 and first published in <a> 1827 </a> .
+
+#	NEW	pub_date	........ / ( 2008 )	// <p> <strong> <em> Swallowing Darkness </em> </strong> ( 2008 ) is the seventh novel in the <a> Merry Gentry </a> series written by <a> Laurell K . Hamilton </a> . </p>
+
+#	NEW	pub_date	........ / ( 1929 )	// <p> <strong> <em> A House is Built </em> </strong> ( 1929 ) is the first novel of &quot ; <a> M .
+
+#	NEW	pub_date	........ / 1929 .	// <p> <strong> <em> Return of the Brute </em> </strong> is a novel written by Irish writer <a> Liam O ' Flaherty </a> and published in 1929 . </p>
+
+#	NEW	pub_date	........ / 1973	// <p> <strong> <em> The Via Veneto Papers </em> </strong> is a memoir collection by <a> Ennio Flaiano </a> , originally published in Italian in <a> 1973 </a> , with a new expanded edition by <a> Rizzoli </a> in <a> 1989 </a> and translated into English by <a> John Satriano </a> in <a> 1992 </a> . </p>
+
+#	NEW	pub_date	........ / New	// <p> The <a> New York Times </a> Book Review called Sum a &quot ; delightful , thought-provoking little collection [ which ] belongs to that category of strange , unclassifiable books that will haunt the reader long after the last page has been turned&quot ; .
+
+#	NEW	pub_date	........ / 1987	// <p> <strong> <em> Death of a Cad </em> </strong> is a <a> mystery </a> novel by M . C . Beaton ( <a> Marion Chesney </a> ) , first published in <a> 1987 </a> .
+
+98	FALSE	Last Evenings on Earth::pub_date	1997 / 2006	
+<p> <strong> <em> Last Evenings on Earth </em> </strong> is a collection of short stories , published in 2006 , by the Chilean author <a> Roberto Bola&#x00f1 ; o </a> .
+
+99	FALSE	Dark Back of Time::pub_date	1998 / 2001.	
+Ester Allen&#x2019 ; s English translation was published by <a> New Directions </a> in 2001 . </p>
+
+#	NEW	pub_date	........ / 1974	// <p> When <em> The War Between the Tates </em> was published in 1974 , Lurie was a part-time adjunct teaching English at <a> Cornell University </a> ( she later became the second woman ever to ever to be awarded tenure at Cornell ) where her husband was a full professor .
+
+#	NEW	pub_date	........ / 1988	// It is a sequel to Cherryh ' s 1988 <a> Hugo award </a> -winning science fiction novel , <em> <a> Cyteen </a> </em> , and was published in hardcover by [ [ DAW Books ] ] in January 2009 .
+
+#	NEW	pub_date	........ / ( 2006	// <p> <strong> <em> The Keep </em> </strong> ( 2006 , ISBN 1-4000-7974-2 ) is a novel by <a> Jennifer Egan </a> which became a National Bestseller , a <a> New York Times </a> and <a> San Francisco Chronicle </a> Notable Book , and a <a> Chicago Tribune </a> , <a> Kansas City Star </a> , and <a> Rocky Mountain News </a> Best Book of the Year .
+
+#	NEW	pub_date	........ / 000	// The book has sold over 250 , 000 copies . </p>
+
+#	NEW	pub_date	........ / 2008	// <p> <strong> <em> The Ascent of Money : A Financial History of the World </em> </strong> is Harvard professor <a> Niall Ferguson </a> ' s tenth book , published in 2008 , and an adapted television documentary for <a> Channel 4 </a> ( UK ) and <a> PBS </a> ( US ) .
+
+105	TRUE	The Buddha and His Dhamma::pub_date	1957 / 1957	
+It was first published in 1957 after Ambedkar ' s death . </p>
+
+#	NEW	pub_date	........ / 1993	// <p> <strong> <em> Queen Ann in Oz </em> </strong> is a <a> 1993 </a> <a> children ' s novel </a> written by Karyl Carlson and Eric Gjovaag , and illustrated by William Campbell and Irwin Terry .
+
+107	TRUE	The Education of Lev Navrozov::pub_date	1975 / 1975.	
+It was first published by <a> Harper &amp ; Row </a> in 1975 . </p>
+
+#	NEW	pub_date	........ / quot ;	// <p> &quot ; <strong> The Damned Thing </strong> &quot ; is a <a> short story </a> written by <a> Ambrose Bierce </a> .
+
+#	NEW	pub_date	........ / ,	// <p> The book ' s publishers , Westland Ltd . have had tremendous success with the novel and it has gone into repeat runs . .
+
+#	NEW	pub_date	........ / 1997 .	// The book was published by <a> Simon and Schuster </a> and released in 1997 . </p>
+
+#	NEW	pub_date	........ / ,	// He held approximately thirty patents ( in printing , telegraph and type-forming machines ) and published several novels , among other works . </p>
+
+#	NEW	pub_date	........ / 2006 .	// It was first published in <a> hardcover </a> by <a> Baen Books </a> in November 2004 ; a <a> paperback </a> edition followed in March 2006 .
+
+#	NEW	pub_date	........ / 1984	// <p> The book was published by Contemporary Books and contains Anderson ' s <a> diary </a> account of the first 151 games of the <a> 1984 Detroit Tigers World Series championship season </a> .
+
+#	NEW	pub_date	........ / 1983 .	// <p> <strong> <em> Handles </em> </strong> is a children ' s novel by <a> Jan Mark </a> which was published in 1983 .
+
+#	NEW	pub_date	........ / book	// This novella was published in book form after the famous <a> Le Proc&#x00e8 ; s-Verbal </a> , his first novel which won the Renaudot prize in 1963 . This novella was also included in a collection of short stories entitled <a> La fi&#x00e8 ; vre </a> ( Pages 60 to 87 ) . </p>
+
+116	FALSE	Le Chercheur d'or::pub_date	1985 / Publishers	
+<h5> From Publishers Weekly </h5>
+
+#	NEW	pub_date	........ / 5	// The book was first released on 5 October 2006 , and was published by <a> Doubleday </a> .
+
+#	NEW	pub_date	........ / 2005	// First released in 2005 in its original Portuguese , the novel was subsequently translated by Margaret Jull Costa in 2008 . </p>
+
+#	NEW	pub_date	........ / 2006 .	// The novel was first published in 2006 .
+
+#	NEW	pub_date	........ / 2002 .	// <p> Solzhenitsyn published this two-volume work on the history of <a> Russian </a> - <a> Jewish </a> relations in 2001 and 2002 .
+
+121	FALSE	Chalice (novel)::pub_date	2008 / years.	
+Her work has been published for thirty years .
+
+#	NEW	pub_date	........ / ,	// Rather , it is to realize himself fully as a human being in doing what he does well .
+
+#	NEW	pub_date	........ / 17 November 2009 .	// It was released in the UK on 12 November 2009 , published by <a> Walker Books </a> , and in the US on 17 November 2009 .
+
+124	TRUE	Love and Responsibility::pub_date	1960 / 1981.	
+<p> <strong> Love and Responsibility </strong> is a book written by Karol Wojty&#x0142 ; a before he became <a> Pope John Paul II </a> and was originally published in <a> Polish </a> in 1960 and in <a> English </a> in 1981 .
+
+125	TRUE	The Wallchart of World History::pub_date	1890 / 1890	
+<p> The original version by <a> Edward Hull </a> was published in 1890 and spanned to his present day in the 19th century .
+
+#	NEW	pub_date	........ / 10	// <p> Published by <a> HarperCollins Canada </a> , <strong> <em> Relentless </em> </strong> quickly became a Canadian best-seller after appearing in bookstores and online a mere 10 weeks before Ted Rogers&#x2019 ; death on Dec . 2 , 2008 .
+
+#	NEW	pub_date	........ / 2008 )	// <p> <strong> <em> All About Lulu </em> </strong> ( published 2008 ) is a coming-of-age novel by <a> American </a> author <a> Jonathan Evison </a> .
+
+#	NEW	pub_date	........ / ( 1985 )	// <p> <strong> <em> Foreign Land </em> </strong> ( 1985 ) is the first novel of the acclaimed author <a> Jonathan Raban </a> . </p>
+
+#	NEW	pub_date	........ / 2005	// It was the 2005 <a> CBCA Book of the Year for Older Readers </a> , and also won the <a> Courier Mail </a> 2005 People ' s Choice Award for Younger Readers . </p>
+
+#	NEW	pub_date	........ / 1989	// <p> In 1989 , it was published in the <a> United Kingdom </a> as <em> The Imperfect Spies : The History of Israeli Intelligence </em> .
+
+#	NEW	pub_date	........ / April 15 , 2011	// <p> <strong> <em> The Pale King </em> </strong> is a posthumous unfinished novel by <a> David Foster Wallace </a> that will be published on April 15 , 2011 by <a> Little , Brown and Company </a> .
+
+#	NEW	pub_date	........ / Orhan	// <p> Until the publication of <a> Orhan Pamuk </a> ' s <em> My Name is Red </em> and <em> Snow </em> , &#x0130 ; nce Memed was the best-known Turkish novel published after World War II .
+
+#	NEW	pub_date	........ / 2009	// <p> It also won Publishers Weekly ' s Best Book of the Year for 2009 award . </p>
+
+134	FALSE	Beyond the Grave::pub_date	june 2, 2009 / 39	
+<p> <strong> <em> Beyond the Grave </em> </strong> is the fourth book in <em> <a> The 39 Clues </a> </em> series .
+
+#	NEW	pub_date	........ / ,	// ( A later edition of this , called <em> The Visitors from Oz </em> , was published by Hungry Tiger Press with minimal editing in 2005 . )
+
+#	NEW	pub_date	........ / 2009	// It was published in 2009 by <a> Pan Macmillan Australia </a> . </p>
+
+#	NEW	pub_date	........ / 1957	// <p> <strong> <em> The Master : An Adventure Story </em> </strong> is a 1957 science fiction adventure novel by <a> T .
+
+#	NEW	pub_date	........ / ( 2008 )	// <p> <strong> <em> Olive Kitteridge </em> </strong> ( 2008 ) is a novel by American author <a> Elizabeth Strout </a> .
+
+#	NEW	pub_date	........ / 1985	// <p> <strong> <em> Don&#x2019 ; t Care High </em> </strong> is a 1985 novel by <a> Gordon Korman </a> . </p>
+
+#	NEW	pub_date	........ / ( 2008 )	// <p> <strong> <em> 1635 : The Dreeson Incident </em> </strong> ( 2008 ) is a direct sequel to <strong> <em> ' . </em> </strong> </p>
+
+141	FALSE	Creature of the Night (novel)::pub_date	june 5, 2008 / 2008.	
+It was first published by <a> Roaring Brook Press </a> on June 5 , 2008 .
+
+#	NEW	pub_date	........ / ,	// <p> After one year of circulation , Orosa-Nakpil , Malate made it to the Best Sellers List released by National Book Store in April 2007 .
+
+#	NEW	pub_date	........ / 1998	// Published in 1998 , <em> Koolaids </em> is Alameddine ' s first novel .
+
+144	TRUE	Incidents::pub_date	1987 / 1987	
+<p> <strong> <em> Incidents </em> </strong> is a 1987 collection of four essays by <a> Roland Barthes </a> .
+
+#	NEW	pub_date	........ / 2009	// While the white paper was originally due to be completed in December 2008 , it was delayed until 2009 due to the volume of work required . </p>
+
+#	NEW	pub_date	........ / ,	// <p> <strong> Carey Lewis Longhorn : </strong> Rich , but dies suddenly .
+
+#	NEW	pub_date	........ / 2008	// <p> <strong> Wanting </strong> is a 2008 <a> novel </a> by Australian author <a> Richard Flanagan </a> . </p>
+
+148	TRUE	The Exeter Blitz::pub_date	1978 / 1978.	
+<p> <strong> <em> The Exeter Blitz </em> </strong> is a children ' s historical novel by <a> David Rees </a> , first published in 1978 .
+
+#	NEW	pub_date	........ / 2007	// <p> <strong> <em> Transformers : The Veiled Threat </em> </strong> is a novel set in between the events of the 2007 movie <a> Transformers </a> and its 2009 sequel .
+
+#	NEW	pub_date	........ / 2005 .	// She hatched the idea to write a book about bacon after going out for cocktails with her two brothers in 2005 .
+
+#	NEW	pub_date	........ / ( 1993 )	// <p> <strong> <em> Shadows of Forgotten Ancestors : A Search for Who We Are </em> </strong> ( 1993 ) is a non-fiction book by the late <a> Carl Sagan </a> and his wife , <a> Ann Druyan </a> . </p>
+
+#	NEW	pub_date	........ / ( 2007 )	// <p> <strong> <em> Journeys to the End of the World </em> </strong> ( 2007 ) is the debut <a> novel </a> by <a> Clive Algar </a> and is reviewed in the May 2009 issue of Historical Novels Review Online .
+
+#	NEW	pub_date	........ / 1995	// <p> <strong> <em> December 7 , 1941 : A Different Path </em> </strong> is a 1995 alternate history novel by <a> David L . Alley </a> which premises a different course for the <a> Second World War </a> when the Japanese decide to attack the <a> Soviet Union </a> instead of the United States . </p>
+
+#	NEW	pub_date	........ / ,	// <p> <strong> <em> One Team , One Dream </em> </strong> is a book by Chris Manning .
+
+155	FALSE	Anime Explosion! The What? Why? & Wow! Of Japanese Animation::pub_date	january 1, 2002 / 2002	
+It was published on January 1 , 2002 by Stone Bridge Press .
+
+#	NEW	pub_date	........ / 1956	// He had begun exhibiting a strong affinity to <a> pacifism </a> with his novel Rauhanpiippu in <a> 1956 </a> , but during the 60s had not written anything obviously political .
+
+157	FALSE	Ardiente paciencia::pub_date	1985 / English	
+The novel was published in the English market under the title <em> The Postman </em> .
+
+#	NEW	pub_date	........ / of	// The index of each issues is usually published in electronic format on the website of the Ministry of Legal Affairs . </p>
+
+#	NEW	pub_date	........ / 2009	// It was first published in <a> 2009 </a> and is the first book in the <a> Battle for the Solar System </a> novel trilogy .
+
+160	TRUE	A History of Fly Fishing for Trout::pub_date	1921 / 1921.	
+<p> <strong> <em> A History of Fly Fishing for Trout </em> </strong> is a <a> fly fishing </a> book written by John Waller Hills published in London in 1921 . </p>
+
+#	NEW	pub_date	........ / 2008	// <p> <strong> <em> The Whole Truth </em> </strong> is a <a> 2008 book </a> by <a> David Baldacci </a> . </p>
+
+162	TRUE	Against His-Story, Against Leviathan::pub_date	1983 / 1983	
+<p> <strong> <em> Against His-Story , Against Leviathan ! </em> </strong> is a 1983 book by <a> Fredy Perlman </a> , for which he is best known .
+
+#	NEW	pub_date	........ / 2003	// <p> <strong> <em> The Touch </em> </strong> is a <a> historical novel </a> by <a> Colleen McCullough </a> published in <a> 2003 </a> .
+
+#	NEW	pub_date	........ / 1917	// <p> <strong> &quot ; Out Where the West Begins&quot ; </strong> is a poem written by <a> Arthur Chapman </a> and first published in his 1917 book of verse , <em> Out Where the West Begins : And Other Western Verses . </em>
+
+#	NEW	pub_date	........ / 1998 .	// It was published first by Delacorte Press in 1998 . </p>
+
+#	NEW	pub_date	........ / 13	// with bad bank checks , but eventually served around 5 years in prison - 6 months in <a> France </a> , 6 months in <a> Sweden </a> and 4 years in the <a> United States </a> of a 13 and a half year sentence . </p>
+
+167	TRUE	The Go-Giver::pub_date	2008 / 2008	
+<p> <strong> <em> The Go-Giver : A Little Story about a Powerful Business Idea </em> </strong> is a 2008 book written by Bob Burg and John D . Mann .
+
+#	NEW	pub_date	........ / 2007	// It was published in trade paperback by Kensington Publishing on October 1 , <a> 2007 </a> .
+
+#	NEW	pub_date	........ / 2006 .	// It was Published in trade paperback by Kensington Publishing in 2006 . </p>
+
+#	NEW	pub_date	........ / 1970	// It was first published by <a> Ace Books </a> in 1970 , as an <a> Ace Double </a> bound <a> t&#x00ea ; te-b&#x00ea ; che </a> with <em> The Anything Tree </em> by John Rackham . </p>
+
+#	NEW	pub_date	........ / 1971 .	// It was first published by <a> Ace Books </a> in 1971 . </p>
+
+#	NEW	pub_date	........ / 2001	// <p> <strong> <em> Apartment 255 </em> </strong> is a <a> 2001 </a> <a> Ned Kelly Award </a> winning novel by the Australian author <a> Bunty Avieson </a> . </p>
+
+#	NEW	pub_date	........ / 1980	// <p> <em> The Snow Leopard </em> won the 1980 <a> National Book Award </a> for Nonfiction ( paperback ) </p>
+
+#	NEW	pub_date	........ / 2003 .	// <p> &#x0009 ; <strong> <em> Tomorrow Wendy : A Love Story </em> </strong> is a <a> teen novel </a> by Shelly Stoehr published in <a> 1998 </a> and republished in 2003 .
+
+#	NEW	pub_date	........ / 1927 .	// It was first published in 1927 .
+
+#	NEW	pub_date	........ / ( 1966 )	// <p> <strong> <em> Darker than Amber </em> </strong> ( 1966 ) is the seventh novel in the <a> Travis McGee </a> series by <a> John D . MacDonald </a> .
+
+#	NEW	pub_date	........ / 2001 .	// It was first published in 2001 . </p>
+
+#	NEW	pub_date	........ / ( 1970 )	// <p> <strong> <em> The Long Lavender Look </em> </strong> ( 1970 ) is the twelfth novel in the <a> Travis McGee </a> series by <a> John D . MacDonald </a> .
+
+#	NEW	pub_date	........ / 2001 .	// It was first published in the <a> UK </a> in 2001 .
+
+#	NEW	pub_date	........ / 1946 .	// <p> <strong> <em> Back </em> </strong> is a novel written by British writer <a> Henry Green </a> and published in 1946 . </p>
+
+#	NEW	pub_date	........ / 1977	// <p> <strong> <em> List of Recent Holarctic Bird Species </em> </strong> is a 1977 book by <a> Karel H . Voous </a> , published by the <a> British Ornithologists ' Union </a> .
+
+#	NEW	pub_date	........ / 1996 .	// <p> <strong> <em> Rise and Resurrection of the American Programmer </em> </strong> is a book written by <a> Edward Yourdon </a> in 1996 .
+
+#	NEW	pub_date	........ / ( 1971 )	// <p> <strong> <em> A Tan and Sandy Silence </em> </strong> ( 1971 ) is the thirteenth novel in the <a> Travis McGee </a> series by <a> John D . MacDonald </a> .
+
+#	NEW	pub_date	........ / ( 1973 )	// <p> <strong> <em> The Turquoise Lament </em> </strong> ( 1973 ) is the fifteenth novel in the <a> Travis McGee </a> series by <a> John D . MacDonald </a> .
+
+#	NEW	pub_date	........ / ( 1981 )	// <p> <strong> <em> Free Fall in Crimson </em> </strong> ( 1981 ) is the nineteenth novel in the <a> Travis McGee </a> series by <a> John D . MacDonald </a> .
+
+#	NEW	pub_date	........ / 1910	// <p> It was first published in installments in <em> <a> Harper ' s Monthly </a> </em> from November 1910 through October 1911 . </p>
+
+#	NEW	pub_date	........ / October 1894 .	// <p> It was first published in installments in <em> <a> Atlantic Monthly </a> </em> from January through October 1894 . </p>
+
+#	NEW	pub_date	........ / 2005	// After the 2005 book , Artvalue stopped the print and created Artvalue . com ,
+
+#	NEW	pub_date	........ / Germany	// Published in Germany under the title &quot ; Belagert die Sturmburg . &quot ; </p>
+
+190	TRUE	Extinction (1995 novel)::pub_date	1986 / 1986.	
+It was originally published in <a> German </a> in 1986 . </p>
+
+#	NEW	pub_date	........ / 1987	// <p> <strong> <em> Isaac Asimov ' s Robot City : Cyborg </em> </strong> is a book written in 1987 by <a> William F . Wu </a> .
+
+#	NEW	pub_date	........ / 1988	// <p> <strong> <em> Isaac Asimov ' s Robot City : Perihelion </em> </strong> is a book written in 1988 by <a> William F . Wu </a> .
+
+#	NEW	pub_date	........ / 1951 .	// It was first published in 1951 .
+
+#	NEW	pub_date	........ / 1955 .	// It was first published in 1955 . </p>
+
+#	NEW	pub_date	........ / 1956 .	// It was first published in 1956 . </p>
+
+196	TRUE	In the Middle of the Night (novel)::pub_date	1995 / 1995	
+It was published in <a> 1995 </a> .
+
+#	NEW	pub_date	........ / ,	// <em> Hunger Games </em> is the first novel in a trilogy , followed by <em> <a> Catching Fire </a> </em> , published September 1 , 2009 , and <em> <a> Mockingjay </a> </em> , published August 24 , 2010 . </p>
+
+198	TRUE	Take Me Where the Good Times Are::pub_date	1965 / 1965	
+First published in 1965 , it is Cormier ' s third novel .
+
+199	FALSE	Detour for Emmy::pub_date	1993 / 1995- 1996.	
+It won the South Carolina Young Adult Book Award for 1995-1996 .
+
+#	NEW	pub_date	........ / 2006	// In 2006 , Pocket Books published <em> <a> Voyages of Imagination </a> </em> , which expanded <em> Star Trek Chronology </em> to include the events of all of the Star Trek novels . </p>
+
+#	NEW	pub_date	........ / 1794	// <p> <strong> <em> The Latimers : A Tale of the Western Insurrection of 1794 </em> </strong> is an historical novel by the American writer and <a> Presbyterian </a> clergyman <a> Henry Christopher McCook </a> ( 1837&#x2013 ; 1911 ) set in 1790s <a> Pittsburgh </a> , <a> Pennsylvania </a> . </p>
+
+#	NEW	pub_date	........ / 1992	// In 1992 the <a> University of Pittsburgh Press </a> published the three in one volume under the title <em> The Homewood Books </em> .
+
+#	NEW	pub_date	........ / 102	// <p> <strong> <em> 102 Minutes : The Untold Story of the Fight to Survive Inside the Twin Towers </em> </strong> is an American <a> non-fiction </a> book that was published in 2005 and was written by <em> <a> New York Times </a> </em> journalists <a> Jim Dwyer </a> and <a> Kevin Flynn </a> .
+
+#	NEW	pub_date	........ / 2001	// The book was published in 2001 by <a> Coach House Books </a> . </p>
+
+#	NEW	pub_date	........ / ,	// Her avocation , however , is to write poetry .
+
+#	NEW	pub_date	........ / 1988	// It was first published in <a> 1988 </a> .
+
+207	TRUE	Distant Star::pub_date	1996 / 1996.	
+<p> <strong> <em> Distant Star </em> </strong> by Chilean author <a> Roberto Bola&#x00f1 ; o </a> was first published in 1996 .
+
+208	TRUE	Mémoires de deux jeunes mariées::pub_date	1842 / 1842	
+It was serialized in the French journal <em> La Presse </em> in 1841 and published by Furne in 1842 as the first work in the second volume ( <em> Sc&#x00e8 ; nes de la vie priv&#x00e9 ; e , tome II </em> or <em> Scenes from Private Life , Volume 2 </em> ) of Balzac ' s <em> <a> La Com&#x00e9 ; die humaine </a> </em> .
+
+#	NEW	pub_date	........ / ,	// <p> Twenty years after its publication , <em> Of Nightingales That Weep </em> received the <a> Phoenix Award </a> , an annual honor presented by the <a> Children ' s Literature Association </a> to books that , two decades earlier , did not receive any literary honors when they were first published . </p>
+
+#	NEW	pub_date	........ / 2005 .	// <a> Margaret Jull Costa </a> &#x2019 ; s English Translation was published by <a> New Directions </a> in 2005 .
+
+#	NEW	pub_date	........ / 2008	// It was published in 2008 in hardcover format by Metropolitan Books .
+
+#	NEW	pub_date	........ / 2005	// In <a> 2005 </a> , the book was turned into a musical by Danny Duncan and Emily Klion and performed at <a> The Marsh </a> .
+
+#	NEW	pub_date	........ / 2006 .	// An English translation , by Chris Andrews , was published by <a> New Directions </a> in 2006 .
+
+#	NEW	pub_date	........ / 2004	// <p> <strong> <em> Sound of the Beast : The Complete Headbanging History of Heavy Metal </em> </strong> is a 2004 book by <a> Ian Christe </a> , documenting the history of <a> heavy metal music </a> and its origins . </p>
+
+#	NEW	pub_date	........ / 1000	// <p> <strong> <em> 1000 Recordings to Hear Before You Die </em> </strong> is a musical reference book written by Tom Moon , published in 2008 . </p>
+
+216	TRUE	The Hard Life::pub_date	1961 / 1961	
+Published in 1961 , it was O ' Brien ' s fourth novel and the third to be published .
+
+217	TRUE	The Immigrants::pub_date	1977 / ( 1977 )	
+<p> : <em> For the defunct Israeli political party , see <a> HaOlim </a> . </em> <strong> The Immigrants </strong> ( 1977 ) is a <a> historical novel </a> written by <a> Howard Fast </a> .
+
+#	NEW	pub_date	........ / ,	// <p> According to the publisher , the interviews lead to a book which is &quot ; an opus on thinking and on poetry&quot ; and which uses &quot ; broad strokes using mythological colors to tell his story&quot ; . The storyline of this book is definitely what the French call &quot ; Ailleurs&quot ; meaning somewhere else . </p>
+
+#	NEW	pub_date	........ / 1999	// The first edition was published in 1999 and currently has 8 editions .
+
+#	NEW	pub_date	........ / 1832	// It was published in <a> 1832 </a> by Mame-Delaunay as one of the <em> Sc&#x00e8 ; nes de la vie priv&#x00e9 ; e </em> ( <em> Scenes of Private Life </em> ) in <a> La Com&#x00e9 ; die humaine </a> .
+
+#	NEW	pub_date	........ / 1890	// </em> Caesar ' s Column <em> was published <a> pseudonymously </a> in <a> 1890 </a> .
+
+#	NEW	pub_date	........ / 1995	// <p> <strong> <em> Fig Pudding </em> </strong> is a <a> young adult </a> novel written by <a> Ralph Fletcher </a> , first published in <a> 1995 </a> .
+
+#	NEW	pub_date	........ / 1907	// <p> <strong> <em> Through the Eye of the Needle : A Romance </em> </strong> is a <a> 1907 </a> <a> Utopian novel </a> written by <a> William Dean Howells </a> .
+
+#	NEW	pub_date	........ / ,	// <p> It tells the story of Sidney , who takes in a boarder with the initial K . and whose presence leads to mystery . </p>
+
+#	NEW	pub_date	........ / 1910	// <p> <strong> <em> At the Villa Rose </em> </strong> is a 1910 <a> detective novel </a> by British writer <a> A . E . W . Mason </a> featuring his character <a> Inspector Hanaud </a> . </p>
+
+#	NEW	pub_date	........ / 2000	// The book , published in 2000 , focuses on historical markers and museums across the United States . </p>
+
+#	NEW	pub_date	........ / 1996	// <p> <strong> <em> Another Kind of Monday </em> </strong> is a <a> 1996 </a> <a> young-adult novel </a> by the <a> American </a> writer <a> William E . Coles , Jr . </a> ( 1932&ndash ; 2005 ) set in 1990s <a> Pittsburgh </a> , <a> Pennsylvania </a> . </p>
+
+#	NEW	pub_date	........ / 1959	// <p> <strong> <em> The Devil ' s Advocate </em> </strong> is a 1959 novel by <a> Australia </a> n author <a> Morris West </a> .
+
+#	NEW	pub_date	........ / 3	// The study was done over a period of 3 years , from January 1993 to September 1995 .
+
+#	NEW	pub_date	........ / ,	// <p> Martial Power , the first supplement in the Power series of books in Dungeons and Dragons , 4th edition , published and debuted new options for the classes that were in the Martial power source .
+
+#	NEW	pub_date	........ / 2005	// <p> <strong> <em> The Wing of Night </em> </strong> is a 2005 novel by <a> Australia </a> n author <a> Brenda Walker </a> .
+
+#	NEW	pub_date	........ / 2003	// <p> <strong> <em> Three Dog Night </em> </strong> is a 2003 novel by <a> Australia </a> n author <a> Peter Goldsworthy </a> .
+
+#	NEW	pub_date	........ / 2002	// <p> Published in 2002 , <strong> <em> The English Assassin </em> </strong> is the second <a> spy </a> novel in the <a> Gabriel Allon </a> series by <a> Daniel Silva </a> . </p>
+
+234	TRUE	Kate Remembered::pub_date	july 11, 2003 / July 11, 2003	
+<p> <strong> Kate Remembered </strong> is a well-known book published and released on July 11 , 2003 by <a> A .
+
+#	NEW	pub_date	........ / 1982 .	// It was first published in paperback by <a> DAW Books </a> in June 1982 . </p>
+
+#	NEW	pub_date	........ / ,	// In the <a> United States </a> , <a> Australia </a> and <a> New Zealand </a> , the novel was published under the title <strong> <em> Someone Knows My Name </em> </strong> . </p>
+
+#	NEW	pub_date	........ / 2008	// <p> <strong> <em> Portobello </em> </strong> is a novel by British writer <a> Ruth Rendell </a> , published in <a> 2008 </a> .
+
+#	NEW	pub_date	........ / 2004	// <p> <strong> <em> The Submerged Cathedral </em> </strong> is a 2004 novel by <a> Australia </a> n author <a> Charlotte Wood </a> .
+
+#	NEW	pub_date	........ / 1977 .	// It was first published in paperback by <a> Zebra Books </a> in 1977 . </p>
+
+#	NEW	pub_date	........ / 1977 .	// It was first published in paperback by <a> Zebra Books </a> in February 1977 . </p>
+
+#	NEW	pub_date	........ / September 1979 .	// It was first published in paperback by <a> Zebra Books </a> in September 1979 . </p>
+
+242	TRUE	It's a Matter of Survival::pub_date	1991 / 1991	
+<p> <strong> <em> It ' s a Matter of Survival </em> </strong> is a 1991 book by <a> Anita Gordon </a> and <a> David Suzuki </a> .
+
+#	NEW	pub_date	........ / 2008	// The title was revealed by D . J . MacHale on December 9 , 2008 , and was taken from a closing line in the preceding book , <em> <a> Raven Rise </a> </em> . .
+
+#	NEW	pub_date	........ / 1971 .	// <p> <strong> <em> The Room </em> </strong> is the second novel by <a> Hubert Selby , Jr . </a> , first published in 1971 .
+
+#	NEW	pub_date	........ / 2001 .	// <p> The novel was selected as a <em> New York Times </em> Notable Book of 2001 . </p>
+
+#	NEW	pub_date	........ / 1956 .	// <p> <strong> <em> Lost in the Barrens </em> </strong> is a <a> children ' s </a> <a> novel </a> by <a> Farley Mowat </a> , first published in 1956 .
+
+247	TRUE	One Day of Life::pub_date	1980 / 1980	
+<em> One Day of Life </em> was published in 1980 , the year of the beginning of the Salvadoran Civil War . </p>
+
+#	NEW	pub_date	........ / 1881	// <p> <strong> <em> The Great Romance </em> </strong> is a <a> science fiction </a> and <a> Utopian </a> novel , first published in <a> New Zealand </a> in <a> 1881 </a> .
+
+#	NEW	pub_date	........ / 2004	// <p> The <strong> Alamat ng Gubat </strong> ( <em> Legend of the Forest </em> ) is a 2004 novel which was the fourth book published by <a> Bob Ong </a> , a Filipino contemporary author noted for using conversational <a> Filipino </a> to create humorous and reflective depictions of life as a <a> Filipino </a> .
+
+#	NEW	pub_date	........ / 13	// <p> <strong> <em> Linda McCartney ' s Sixties : A Portrait of an Era </em> </strong> ( published on 13 October 1992 ) is a book by <a> Linda McCartney </a> which presents a number of selected photographic portraits of rock legends .
+
+#	NEW	pub_date	........ / ,	// The book , a cohesive adaptation of several articles previously published by Kelley , concerns the impact made by black members of the American <a> working class </a> on American politics and culture .
+
+252	TRUE	Crossfire (2007 novel)::pub_date	2007 / 2007	
+<p> <strong> <em> Crossfire </em> </strong> is a 2007 novel by <a> Andy McNab </a> .
+
+#	NEW	pub_date	........ / 1909	// <p> <strong> <em> A Little Girl in Old Pittsburg </em> </strong> is a <a> novel </a> for children published in 1909 by the <a> American </a> writer <a> Amanda Minnie Douglas </a> ( 1831&ndash ; 1916 ) set in late 18th century <a> Pittsburgh </a> , <a> Pennsylvania </a> . </p>
+
+#	NEW	pub_date	........ / 2004	// <p> <strong> <em> Magical Thinking </em> </strong> is a 2004 <a> memoir </a> by <a> American </a> writer <a> Augusten Burroughs </a> .
+
+#	NEW	pub_date	........ / May 1999 .	// It was first published in <a> paperback </a> by <a> Baen Books </a> in May 1999 .
+
+#	NEW	pub_date	........ / 2894	// <p> <strong> <em> 2894 , or The Fossil Man ( A Midwinter Night ' s Dream ) </em> </strong> is an <a> 1894 </a> <a> utopian novel </a> written by Walter Browne .
+
+#	NEW	pub_date	........ / October 2007 .	// The book was first published on 23 October 2007 .
+
+#	NEW	pub_date	........ / 1787	// <p> <strong> Memorandums taken on a journey from Paris into the southern parts of France and Northern Italy , in the year 1787 </strong> , or <strong> Memoranda </strong> , is a text by <a> Thomas Jefferson </a> , written during a trip beginning February 28 , 1787 from France to Italy . </p>
+
+#	NEW	pub_date	........ / ( ,	// <p> <strong> <em> Statism and Anarchy </em> </strong> ( , <em> Gosudarstvennost ' i anarkhiia </em> ) was the last work by the <a> Russian </a> <a> anarchist </a> <a> Mikhail Bakunin </a> .
+
+260	TRUE	The Green Bible::pub_date	2008 / October 7, 2008.	
+It was originally published by <a> Harper Bibles </a> on October 7 , 2008 .
+
+#	NEW	pub_date	........ / 1944 )	// <p> <strong> <em> The Island of Adventure </em> </strong> ( published in 1944 ) is a popular children ' s book by <a> Enid Blyton </a> .
+
+#	NEW	pub_date	........ / 1880&# x2013 ; 1902	// <p> The <strong> Geographical Dictionary of the Kingdom of Poland and other Slavic Countries </strong> ( ) is a <a> Polish </a> monumental <a> encyclopedia </a> that was published between 1880&#x2013 ; 1902 in <a> Warsaw </a> by <a> Filip Sulimierski </a> , <a> Bronis&#x0142 ; aw Chlebowski </a> , <a> W&#x0142 ; adys&#x0142 ; aw Walewski </a> and others . </p>
+
+263	TRUE	Free Food for Millionaires::pub_date	2007 / 2007	
+<p> <strong> <em> Free Food for Millionaires </em> </strong> is a 2007 novel by <a> Korean American </a> writer <a> Min Jin Lee </a> .
+
+#	NEW	pub_date	........ / ( 2008 )	// <p> <strong> <em> American Exorcist : Critical Essays on William Peter Blatty </em> </strong> ( 2008 ) is a collection of essays studying all of <a> William Peter Blatty ' s </a> novels , from <em> Which Way To Mecca , Jack ? </em> ( 1959 ) to <em> <a> Elsewhere </a> </em> ( 2009 ) . </p>
+
+#	NEW	pub_date	........ / 1995	// It is a 1995 book by <a> Steve N . G . Howell </a> and <a> Sophie Webb </a> , published by <a> Oxford University Press </a> . </p>
+
+#	NEW	pub_date	........ / 2005	// It is the sequel of the 2005 novel Once .
+
+#	NEW	pub_date	........ / 1965	// It was first published in hardcover by <a> Dennis Dobson </a> in 1965 , followed by a paperback edition by <a> Corgi </a> the same year , and an <a> American </a> paperback edition by <a> Bantam Books </a> in February 1967 .
+
+#	NEW	pub_date	........ / 1965	// It was first published in hardcover by <a> Dennis Dobson </a> in 1965 , followed by a paperback edition by <a> Corgi </a> in 1966 , and an <a> American </a> paperback edition by <a> Bantam Books </a> in August 1970 . </p>
+
+#	NEW	pub_date	........ / 1966	// It was first published in hardcover by <a> Dennis Dobson </a> in the <a> United Kingdom </a> in 1966 , followed by a paperback edition by <a> Corgi </a> the same year , and an <a> American </a> paperback edition with different contents by <a> Bantam Books </a> in December 1971 . </p>
+
+#	NEW	pub_date	........ / 1966	// It was first published in hardcover by <a> Dennis Dobson </a> in the <a> United Kingdom </a> in 1966 , followed by a paperback edition by <a> Corgi </a> the same year , and an <a> American </a> paperback edition with different contents by <a> Bantam Books </a> in May 1972 . </p>
+
+#	NEW	pub_date	........ / 1967	// It was first published in hardcover by <a> Dennis Dobson </a> in 1967 , followed by a paperback edition by <a> Corgi </a> the same year . </p>
+
+#	NEW	pub_date	........ / 3	// Except one thing , she doesn ' t remember anything in the last 3 years !
+
+273	FALSE	The Year of the Hare::pub_date	1975 / 1994	
+It is Paasilinna ' s most widely read work and was included in 1994 in the <a> UNESCO Collection of Representative Works </a> which funded the 1995 English translation by <a> Herbert Lomas </a> .
+
+#	NEW	pub_date	........ / ( 1969 )	// <p> <strong> <em> The Siege of Trencher ' s Farm </em> </strong> ( 1969 ) is a novel by <a> British </a> author <a> Gordon Williams </a> and first published by <a> Secker &amp ; Warburg </a> .
+
+#	NEW	pub_date	........ / 1981 .	// <p> <strong> <em> Liars in Love </em> </strong> is a collection of short stories by <a> Richard Yates </a> , published in 1981 . </p>
+
+#	NEW	pub_date	........ / 1896	// <p> <strong> <em> A Prophetic Romance : Mars to Earth </em> </strong> is an <a> 1896 </a> <a> utopian novel </a> written by John McCoy , and published pseudonymously as the work of &quot ; The Lord Commissioner , &quot ; the narrator of the tale .
+
+#	NEW	pub_date	........ / 1985	// <p> <strong> <em> Der Blindensturz </em> </strong> ( <a> 1985 </a> ) ( translated as <strong> <em> The Parable of the Blind </em> </strong> ) is the title of short <a> novel </a> in ten chapters by <a> German </a> writer <a> Gert Hofmann </a> . </p>
+
+#	NEW	pub_date	........ / 2008 .	// <p> <strong> <em> When Giants Walked the Earth : A Biography of Led Zeppelin </em> </strong> is a book written by <a> Mick Wall </a> , published in 2008 .
+
+#	NEW	pub_date	........ / 2003	// <p> <strong> <em> No One Thinks Of Greenland </em> </strong> is a <a> 2003 </a> novel by <a> John Griesemer </a> , upon which the film <em> <a> Guy X </a> </em> was based . </p>
+
+#	NEW	pub_date	........ / May 2001	// M . Stirling </a> , set after the events of <em> <a> Terminator 2 : Judgment Day </a> </em> , and first published on May 2001 , which makes them the first works to officially continue the franchise .
+
+#	NEW	pub_date	........ / October 2008 .	// <p> <strong> <em> The Virgin Book of British Hit Singles </em> </strong> is a charts reference book published in October 2008 .
+
+#	NEW	pub_date	........ / ( 2008 )	// <p> <strong> <em> The Lazarus Project </em> </strong> ( 2008 ) is a novel by Bosnian-Herzegovinian fiction writer and journalist <a> Aleksandar Hemon </a> .
+
+#	NEW	pub_date	........ / 2006	// It was published in 2006 by Life of Reiley , the author&#x2019 ; s publishing , consulting and speaking company . </p>
+
+#	NEW	pub_date	........ / 2008	// <p> <strong> <em> The Boy Who Dared </em> </strong> is a 2008 fictionalized novel by <a> American </a> children ' s author <a> Susan Campbell Bartoletti </a> .
+
+#	NEW	pub_date	........ / 1965	// <p> <strong> Stoner </strong> is a 1965 novel by the American writer <a> John Williams </a> .
+
+#	NEW	pub_date	........ / new	// It is the first of a series of books on <a> new religious movements </a> published by the Center for Studies on New Religions . </p>
+
+#	NEW	pub_date	........ / 22	// First published on 22 August 2006 . </p>
+
+#	NEW	pub_date	........ / ,	// The novel was published as <em> Death of a Fool </em> in the United States , a reference to the fact that the murder victim is playing a Fool in the festival . </p>
+
+#	NEW	pub_date	........ / 1960	// <p> <strong> <em> Welcome to Hard Times </em> </strong> is the debut <a> 1960 </a> novel by <a> American </a> author <a> E . L . Doctorow </a> .
+
+#	NEW	pub_date	........ / 39 ;	// <p> <strong> <em> Black As He&#39 ; s Painted </em> </strong> is a <a> detective novel </a> by <a> Ngaio Marsh </a> ; it is the twenty-eighth novel to feature <a> Roderick Alleyn </a> , and was first published in 1974 .
+
+#	NEW	pub_date	........ / 2005	// <p> <strong> <em> The Second Great Depression </em> </strong> ( subtitled <em> Starting 2007 Ending 2020 </em> ) is a <a> 2005 </a> <a> non-fiction </a> <a> book </a> on <a> economics </a> by <a> Warren Brussee </a> .
+
+#	NEW	pub_date	........ / 1842	// His main work on the <em> Beagle </em> collections continued , and in 1842 he published the first of three volumes on geology , <em> <a> The Structure and Distribution of Coral Reefs </a> </em> .
+
+#	NEW	pub_date	........ / 2009 .	// The English translation will be published in 2009 . </p>
+
+#	NEW	pub_date	........ / 1994	// Originally published in Japanese in 1994 , it was translated and published in English by <a> Bloomsbury Publishing </a> in 2008 . </p>
+
+295	TRUE	Beneath the Surface (Picture book)::pub_date	2004 / 10	
+It was published in 2004 , 10 years after its prequel . </p>
+
+#	NEW	pub_date	........ / ( 2009 )	// <p> <strong> <em> We Think , Therefore We Are </em> </strong> ( 2009 ) is a science fiction anthology of new short stories edited by <a> Peter Crowther </a> , the sixth in his themed science fiction anthology series for <a> DAW Books </a> .
+
+#	NEW	pub_date	........ / 5 : 00	// At 5 : 00 PM on Sunday afternoon , he was here collecting bottles and cans and found the missing coat in a dumpster .
+
+#	NEW	pub_date	........ / 2005	// <p> <strong> The Future of Music : Manifesto for the Digital Music Revolution </strong> is a 2005 book by <a> Dave Kusek </a> and <a> Gerd Leonhard </a> .
+
+#	NEW	pub_date	........ / May 2009 .	// <p> The book was published on 29 May 2009 . </p>
+
+#	NEW	pub_date	........ / 1992 .	// Univ of South Carolina Press , 1992 .
+
+301	TRUE	Girl in May::pub_date	1956 / 1956	
+<p> <strong> <em> Girl in May </em> </strong> is a 1956 novel by Scottish writer <a> Bruce Marshall </a> . </p>
+
+#	NEW	pub_date	........ / 2009	// <p> <strong> <em> Handle With Care </em> </strong> is a novel by <a> Jodi Picoult </a> published in <a> 2009 </a> .
+
+303	TRUE	Children of This Earth::pub_date	1930 / 1930	
+<p> <strong> <em> Children of This Earth </em> </strong> is a 1930 novel by Scottish writer <a> Bruce Marshall </a> . </p>
+
+#	NEW	pub_date	........ / 1980- 1981 .	// <p> The material from these books formed the basis for <em> Charlie Brown ' s Cyclopedia </em> , a 15 volume set published by <a> Funk &amp ; Wagnalls </a> in 1980-1981 . </p>
+
+#	NEW	pub_date	........ / 1902	// <p> <strong> <em> The Sport of the Gods </em> </strong> is a <a> novel </a> by <a> Paul Laurence Dunbar </a> , first published in 1902 , centered around urban black life . </p>
+
+#	NEW	pub_date	........ / 2002	// It has sold more than 15 , 000 copies during its first printing in the Philippines in 2002 and has been expanded into a franchise ( Bud Brothers Group and Bud Brothers Unlimited ) by its Publisher Precious Pages Corp by 2005 . </p>
+
+#	NEW	pub_date	........ / 2010 .	// The third book of the series , <em> Fallout </em> , is due to be published in 2010 .
+
+308	TRUE	Little Fur Family::pub_date	1946 / 1946	
+<p> <strong> <em> Little Fur Family </em> </strong> is a 1946 picture book written by <a> Margaret Wise Brown </a> and illustrated by <a> Garth Williams </a> .
+
+#	NEW	pub_date	........ / 2005	// <p> <strong> <em> Something Borrowed </em> </strong> is a 2005 <a> chick lit </a> novel by author <a> Emily Giffin </a> .
+
+#	NEW	pub_date	........ / New	// <p> After Kenneth B . Clark published a negative review of the book in the New York Times </p>
+
+#	NEW	pub_date	........ / 2009	// It was published in February 2009 , and is a stand alone prequel telling a story occurring hundreds of years before her bestselling <a> The Black Magician Trilogy </a> .
+
+#	NEW	pub_date	........ / 2009 )	// <p> <strong> <em> The Fat Tail : The Power of Political Knowledge for Strategic Investing </em> </strong> ( Oxford University Press : 2009 ) is a book by political scientists <a> Ian Bremmer </a> and <a> Preston Keat </a> .
+
+313	TRUE	Topless in Philadelphia::pub_date	2009 / 2009.	
+An acting edition of <em> Topless in Philadelphia </em> was published by Matador Books in 2009 . </p>
+
+#	NEW	pub_date	........ / ,	// This book , through its chapters establishes its origins in <a> Algebra </a> , more specifically <a> Group Theory </a> .
+
+#	NEW	pub_date	........ / 1	// <p> <strong> <em> Tea Time for the Traditionally Built </em> </strong> is the tenth in <a> The No . 1 Ladies ' Detective Agency </a> series of novels by <a> Alexander McCall Smith </a> , set in <a> Gaborone </a> , <a> Botswana </a> , and featuring the <a> Motswana </a> protagonist <a> Precious Ramotswe </a> . </p>
+
+316	TRUE	The Boozer Challenge::pub_date	april 1, 1989 / April 1, 1989	
+<p> The Boozer Challenge was published on April 1 , 1989 , by <a> Penguin </a> . </p>
+
+#	NEW	pub_date	........ / ,	// <p> <strong> <em> Local Fields </em> </strong> , or <strong> <em> Corps Locaux </em> </strong> as originally published in the French , is a seminal graduate-level <a> algebraic number theory </a> textbook by <a> Jean-Pierre Serre </a> covering <a> local fields </a> , <a> ramification </a> , <a> group cohomology </a> , and <a> local class field theory </a> .
+
+#	NEW	pub_date	........ / 12	// <p> <strong> A Book of Magic Adventures </strong> is a 1983 anthology of 12 <a> fairy tales </a> from around the world that have been collected and retold by <a> Ruth Manning-Sanders </a> .
+
+#	NEW	pub_date	........ / 1799	// Published in 1799 , it is Hays ' second novel . </p>
+
+#	NEW	pub_date	........ / 2004	// <p> The book has won numerous awards from a variety of publications , libraries , and parenting groups , including Best Book of 2004 by <a> Parenting Magazine </a> . </p>
+
+#	NEW	pub_date	........ / 1998	// The book was published in paperback in February 1998 by <a> Scholastic </a> .
+
+#	NEW	pub_date	........ / 1985	// <p> <strong> <em> Mingling Among the Mongols </em> </strong> is a 1985 travelogue written by Israeli born historian <a> Christopher Gudgeon </a> .
+
+#	NEW	pub_date	........ / 2008	// <p> <strong> <em> The Fire Kimono </em> </strong> is a <a> 2008 </a> <a> mystery novel </a> written by <a> Laura Joh Rowland </a> , set in the <a> Genroku </a> period ( AD 1688&#x2013 ; 1704 ) in <a> Japan </a> .
+
+#	NEW	pub_date	........ / ( 1989 )	// <p> <strong> <em> Does God Play Dice : The New Mathematics of Chaos </em> </strong> ( 1989 ) is a book about <a> chaos theory </a> written by <a> mathematician </a> <a> Ian Stewart </a> . </p>
+
+#	NEW	pub_date	........ / 2009 .	// It was published in the United Kingdom on the 13th August , 2009 . </p>
+
+#	NEW	pub_date	........ / 1970 .	// It was first published in hardcover by <a> George Allen &amp ; Unwin </a> , London , in 1970 .
+
+#	NEW	pub_date	........ / ,	// Only Derek Landy ( Author ) , Harper Collins ( publisher ) , and Derek Landy ' s Munchkin Army that protects him from the ninjas knows . </p>
+
+#	NEW	pub_date	........ / 1993	// King ' s book was a finalist for the <a> 1993 Governor General ' s Award in Fiction </a> .
+
+329	FALSE	The Gathering Storm (novel)::pub_date	october 27, 2009 / October 27, 2009 ;	
+The books would be published a year apart with the first volume , <em> The Gathering Storm </em> , published on October 27 , 2009 ; a week earlier than originally announced .
+
+#	NEW	pub_date	........ / ,	// <p> <strong> <em> Giants , Monsters &amp ; Dragons , An Encyclopedia of Folklore , Legend and Myth </em> </strong> is an encyclopedia of <a> monsters </a> , <a> folklore </a> , <a> myths </a> , and <a> legend </a> s compiled by Carol Rose .
+
+#	NEW	pub_date	........ / 1529 .	// <p> <strong> <em> On War against the Turk </em> </strong> ( German : <em> Vom Kriege wider die T&#x00fc ; rken </em> ) was a book written by <a> Martin Luther </a> in 1528 and published in 1529 .
+
+#	NEW	pub_date	........ / 1996	// First published in 1996 , it generated controversy after the <a> National Endowment for the Arts </a> canceled grant money for an illustrated bilingual edition in both Spanish and English .
+
+#	NEW	pub_date	........ / May 2002 .	// A second edition was published in May 2000 , and a third edition came out in May 2002 .
+
+#	NEW	pub_date	........ / ,	// It has traditionally been published in an orange cover , hence its informal name , the <strong> <em> Orange Book </em> </strong> . </p>
+
+335	TRUE	The German Shepherd Dog in Word and Picture::pub_date	1923 / 1923	
+<p> <strong> <em> The German Shepherd Dog in Word and Picture </em> </strong> is a 1923 book written by <a> Max von Stephanitz </a> , the creator of the <a> German Shepherd Dog </a> breed , in which he outlines the original expectation and ideology of the breed . </p>
+
+#	NEW	pub_date	........ / 1945	// <p> <strong> <em> Freedom From Fear : The American People in Depression and War , 1929&ndash ; 1945 </em> </strong> is a <a> Pulitzer Prize </a> -winning book written in 1999 by historian <a> David M . Kennedy </a> .
+
+#	NEW	pub_date	........ / 2009	// Published in March 2009 by Leisure Books it has a <a> rock and roll </a> setting and features a detective named Spike Berenger .
+
+#	NEW	pub_date	........ / ( 2000 )	// <p> <strong> <em> Prodigal Summer </em> </strong> ( 2000 ) is the fifth novel by <a> American </a> <a> author </a> <a> Barbara Kingsolver </a> .
+
+#	NEW	pub_date	........ / 2009	// <p> <strong> <em> Sag Harbor : A Novel </em> </strong> is a 2009 book by award-winning African American author <a> Colson Whitehead </a> . </p>
+
+#	NEW	pub_date	........ / 90210	// <p> Publisher ' s Note The Beverly Hills , 90210 star and reality show celebrity recounts the ups and downs of being a mother of two young children , in a follow up to sTORI Telling that describes how her life in the spotlight has been shaped by her toddler son and new baby daughter . </p>
+
+#	NEW	pub_date	........ / 1994	// <p> A Stonewall Inn paperback edition was published in 1994 by St . Martin Griffin .
+
+#	NEW	pub_date	........ / 2009	// <p> <strong> <em> The Gamble : General David Petraeus and the American Military Adventure in Iraq , 2006-2008 </em> </strong> is a 2009 book by journalist <a> Thomas E . Ricks </a> about the <a> Iraq War </a> .
+
+#	NEW	pub_date	........ / 1996	// <p> <strong> <em> Melody </em> </strong> is a 1996 novel by <a> V .
+
+#	NEW	pub_date	........ / 1888	// It was first published in 1888 by <a> Charles Scribner ' s Sons </a> .
+
+#	NEW	pub_date	........ / 2009	// It was published August 20 , 2009 by <a> Gollancz </a> . </p>
+
+#	NEW	pub_date	........ / 2008 .	// Its current ( seventh ) edition was published in 2008 . </p>
+
+#	NEW	pub_date	........ / 11	// <p> <strong> <em> Seeking / 11 Truth at Japan ' s Parliament </em> </strong> is a book published by Japanese lawmaker <a> Yukihisa Fujita </a> and others .
+
+348	TRUE	The Troubled Man::pub_date	18 august 2009 / 2009.	
+<p> The novel was published in Sweden on 18 August 2009 .
+
+#	NEW	pub_date	........ / ,	// However , after eight years of research , Fraternity Historian Craig S . Sowell was able to unearth much of the information that was thought to be lost .
+
+#	NEW	pub_date	........ / ,	// <p> In her review of the book , <a> New Scientist </a> columnist Lize Else described Cytowic as a pioneer in synesthesia research .
+
+#	NEW	pub_date	........ / 1996	// <p> <strong> <em> Push </em> </strong> is the 1996 debut <a> novel </a> of <a> American </a> author <a> Sapphire </a> . </p>
+
+352	TRUE	Exposure (novel)::pub_date	october 6, 2008 / October 6, 2008	
+<p> <strong> <em> Exposure </em> </strong> is a fictional sports novel for <a> children </a> by <a> Mal Peet </a> , published on October 6 , 2008 by <a> Walker Books Ltd </a> .
+
+353	TRUE	A Valley Grows Up::pub_date	1953 / 1953.	
+<p> <strong> <em> A Valley Grows Up </em> </strong> is a history book for children written and illustrated by <a> Edward Osmond </a> , first published in 1953 .
+
+#	NEW	pub_date	........ / 1978	// <p> <strong> <em> Livia </em> </strong> , published in 1978 and sub-titled <em> Buried Alive </em> , is the second volume in <a> Lawrence Durrell </a> ' s <em> <a> The Avignon Quintet </a> </em> .
+
+#	NEW	pub_date	........ / 1985	// It was first published in 1985 and has since been included in a single book with <em> <a> In the Path of the Storm </a> </em> and <em> <a> Battle for the Park </a> </em> in the &quot ; Second Omnibus&quot ; edition ( Hutchinson , 1995 ) . </p>
+
+356	TRUE	Manhattan Is My Beat::pub_date	1988 / 1988	
+First published in 1988 , it is the first book in the Rune Trilogy . </p>
+
+357	TRUE	United Kingdom Election Results::pub_date	1994 / 1994.	
+<p> <strong> <em> United Kingdom Election Results </em> </strong> is a website and <a> e-book </a> by author David Boothroyd , published in 1994 .
+
+#	NEW	pub_date	........ / ,	// Among other topics , the book addresses the role of spontaneity , storytelling , and likeability in the mass <a> communication </a> of science . </p>
+
+#	NEW	pub_date	........ / 1923	// <p> Originally published in Germany in 1923 by Dr . Ernst Schertel , <em> Magic : History / Theory / Practice </em> , in its original German edition , was a hardcover book consisting of 154 pages . </p>
+
+#	NEW	pub_date	........ / 1991 .	// A paperback edition was published in 1991 .
+
+361	TRUE	Mare Liberum::pub_date	1609 / 1609.	
+<p> <em> Mare Liberum </em> was published by <a> Elzevier </a> in the spring of 1609 .
+
+#	NEW	pub_date	........ / 1985	// <p> <strong> <em> Days Between Stations </em> </strong> is a 1985 novel by <a> Steve Erickson </a> .
+
+#	NEW	pub_date	........ / 1997 .	// Later editions were published in 1983 , 1989 and 1997 .
+
+#	NEW	pub_date	........ / quot ;	// <p> : <em> For a disambiguation of &quot ; thin air&quot ; see : <a> Thin Air ( disambiguation ) </a> </em> <strong> <em> Thin Air </em> </strong> is a <em> <a> Star Trek : New Earth </a> </em> novel written by <a> Dean Wesley Smith </a> and <a> Kristine Kathryn Rusch </a> . </p>
+
+#	NEW	pub_date	........ / 2005	// It was published in 2005 by Gingko Press . </p>
+
+366	TRUE	The Million Dollar Putt::pub_date	2006 / 2006.	
+<p> <strong> <em> The Million Dollar Putt </em> </strong> is a work of young adult fiction written by <a> Dan Gutman </a> in 2006 .
+
+#	NEW	pub_date	........ / quot ;	// <p> : <em> For a disambiguation of &quot ; Cloak&quot ; see : <a> Cloak ( disambiguation ) </a> </em> <strong> <em> Cloak </em> </strong> is a <em> <a> Star Trek : Section 31 </a> </em> novel written by <a> S .
+
+#	NEW	pub_date	........ / book .	// It contains stories previously never published in a book .
+
+#	NEW	pub_date	........ / 1741	// <p> <strong> <em> The Anti-Pamela ; or Feign ' d Innocence Detected </em> </strong> is a <a> 1741 </a> novel written by <a> Eliza Haywood </a> as a satire of the <a> 1740 </a> novel <em> <a> Pamela , or Virtue Rewarded </a> </em> by <a> Samuel Richardson </a> . </p>
+
+#	NEW	pub_date	........ / 2001	// <p> <em> Rogue </em> was the single best-selling mass-market <em> Star Trek </em> title of <a> 2001 </a> . </pre>
+
+#	NEW	pub_date	........ / 1956	// Originally published in 1956 and still in print today , it was the first of this author&#x2019 ; s 35 books .
+
+#	NEW	pub_date	........ / 1969	// It was first published in paperback by <a> Lancer Books </a> in 1969 , and was later followed up by the subsequent Lancer anthology <em> <a> The Mighty Swordsmen </a> </em> . </p>
+
+#	NEW	pub_date	........ / 2005	// <p> The first edition , published in 2005 by Vietnam ' s Encyclopedia Publishing House , has four volumes consisting of 40 , 000 entries .
+
+#	NEW	pub_date	........ / 2009 .	// <p> The Jewish Genealogical Society of Illinois , publisher of the book , released a third , revised edition in 2009 .
+
+375	TRUE	United Methodist Hymnal::pub_date	1989 / 1989	
+It was first published in 1989 as the first hymnal for The United Methodist Church after the 1968 merger of <a> The Methodist Church </a> with The <a> Evangelical United Brethren </a> Church .
+
+#	NEW	pub_date	........ / 1984	// <p> <strong> Night Of Error </strong> is a <a> novel </a> written by <a> English </a> author <a> Desmond Bagley </a> , and was first published in <a> 1984 </a> . </p>
+
+#	NEW	pub_date	........ / ,	// The novel revolves around a beautiful , hardworking young women named Marnie , who is sent off to be married to a lord in order to let her family keep their house and farm .
+
+#	NEW	pub_date	........ / 1970 .	// It was originally published in hardback by Simon &amp ; Schuster in 1970 . </p>
+
+#	null	pub_date	1921 / ..........
+
+#	null	pub_date	2006 / ..........
+
+#	null	pub_date	1787 / ..........
+
+#	null	pub_date	2006 / ..........
+
+#	null	pub_date	2007 / ..........
+
+#	null	pub_date	november 2007 / ..........
+
+#	null	pub_date	1881 / ..........
+
+#	null	pub_date	1971 / ..........
+
+#	null	pub_date	2006 / ..........
+
+#	null	pub_date	2007 / ..........
+
+#	null	pub_date	1938 / ..........
+
+#	null	pub_date	2008 / ..........
+
+#	null	pub_date	september 2008 / ..........
+
+#	null	pub_date	2008 / ..........
+
+#	null	pub_date	1995 / ..........
+
+#	null	pub_date	march 3, 2009 / ..........
+
+#	null	pub_date	1972 / ..........
+
+#	null	pub_date	1906 / ..........
+
+#	null	pub_date	1980 / ..........
+
+#	null	pub_date	1959 / ..........
+
+#	null	pub_date	april 6, 2010 / ..........
+
+#	null	pub_date	1985 / ..........
+
+#	null	pub_date	1996 / ..........
+
+#	null	pub_date	2008 / ..........
+
+#	null	pub_date	1997 / ..........
+
+#	null	pub_date	april 6, 2009 / ..........
+
+#	null	pub_date	2007 / ..........
+

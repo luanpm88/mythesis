@@ -1,0 +1,95 @@
+Found: 41
+Found Not Null: 1
+Correct: 0
+Wrong: 1
+Total: 2
+precision: 0.0
+recall: 0.0
+
+
+
+#	NEW	parent	........ / services from its	// It operated domestic services from its main base at Fukuoka Airport .
+
+#	NEW	parent	........ / flag carrier	// <p> <strong> Olympic Aviation </strong> was a subsidiary of <a> Olympic Airways </a> , the <a> Greek </a> national <a> flag carrier </a> . </p>
+
+#	NEW	parent	........ / USAir Group	// As an &quot ; airline with an airline , &quot ; and a subsidiary and operationing division of the USAir Group , the US Airways Shuttle no longer exists .
+
+#	NEW	parent	........ / world from its	// <p> As of July 2010 , the airline operates services to 64 destinations around the world from its home base in Abu Dhabi . </p>
+
+#	NEW	parent	........ / International Airlines . &	// We are now Texas International Airlines . &quot ; </p>
+
+#	NEW	parent	........ / Caledonian Airways	// <p> <strong> Caledonian Airways </strong> was a wholly private , independent <a> Scottish </a> <a> charter airline </a> formed in April 1961 .
+
+#	NEW	parent	........ / Japan Airlines	// Its operations include scheduled <a> passenger </a> services to 16 destinations across regional <a> Japan </a> , under <a> Japan Airlines </a> ' flight numbers .
+
+#	NEW	parent	........ / DI Air	// <p> <strong> DI Air </strong> is an <a> airline </a> based in <a> Podgorica </a> , <a> Montenegro </a> .
+
+#	NEW	parent	........ / European Regions	// The airline is a member of the <a> European Regions Airline Association </a> .
+
+#	NEW	parent	........ / Cayman Islands	// <p> <strong> Cayman Airways </strong> is the national <a> flag carrier </a> of the <a> Cayman Islands </a> .
+
+#	NEW	parent	........ / still operates international	// <p> : Lacsa is the only airline of the group that still operates international flights with its own flight numbers .
+
+#	NEW	parent	........ / British Caledonian	// <p> <strong> British Caledonian </strong> was a private , <a> British </a> independent airline , operating out of <a> Gatwick Airport </a> in the 1970s and 1980s .
+
+#	NEW	parent	........ / Abu Nidal	// <p> <strong> EgyptAir Flight 648 </strong> was a <a> Boeing 737-200 </a> airliner registered SU-AYH <a> hijacked </a> in 1985 by the terrorist <a> Abu Nidal Organization </a> .
+
+#	NEW	parent	........ / LAN Airlines	// <p> <strong> LAN Airlines S . A . </strong> is an <a> airline </a> based in <a> Santiago , Chile </a> .
+
+#	NEW	parent	........ / SilkAir ( Singapore )	// <p> <strong> SilkAir ( Singapore ) Private Limited </strong> is an <a> airline </a> based in <a> Singapore </a> .
+
+#	NEW	parent	........ / low- cost &	// <p> <strong> Song , LLC </strong> was a <a> low-cost &quot ; airline </a> within an airline&quot ; brand owned and operated by <a> Delta Air Lines </a> .
+
+#	NEW	parent	........ / from a corporation	// In 1965 , it changed from a corporation to a share company and changed its name from Ethiopian Air Lines to Ethiopian Airlines .
+
+#	NEW	parent	........ / Air Sinai	// <p> <strong> Air Sinai </strong> ( <em> </em> ) is an <a> airline </a> based in <a> Cairo </a> , <a> Egypt </a> .
+
+#	NEW	parent	........ / Sibir Airlines	// Sibir Airlines was formed around this air group .
+
+#	NEW	parent	........ / Vietnam Airlines	// Others went to <a> Aeroflot-Russian International Airlines </a> and 12 were acquired by <a> Vietnam Airlines </a> and used for domestic and regional flights until 1997 .
+
+#	NEW	parent	........ / passengers and	// carrying 163 passengers and 13 crew members , left New York ' s JFK airport on Friday , December 29 , 1972 at 9 : 20 p . m . , en route to Miami International Airport .
+
+#	NEW	parent	........ / The airlines	// <p> The airlines was established on 20 September 1991 and began operations on 3 December 1993 with two <a> Boeing 737-200 </a> aircraft as <strong> Sahara Airlines </strong> .
+
+#	NEW	parent	........ / Transport Canada	// <p> In March 2005 <a> Transport Canada </a> said that investigators found issues with the operating methods of Jetsgo .
+
+#	NEW	parent	........ / BWIA West	// <p> <strong> BWIA West Indies Airways Limited </strong> , known locally as &quot ; B-wee&quot ; , was the national airline of <a> Trinidad and Tobago </a> .
+
+#	NEW	parent	........ / CityJet Limited	// <p> <strong> CityJet Limited </strong> is an Irish regional airline headquartered in Swords , <a> County Dublin </a> , <a> Ireland </a> .
+
+#	NEW	parent	........ / Russian- conducted	// They also questioned the conclusions of the Russian-conducted investigation , calling them &quot ; mathematically <a> modeled </a> , but not proven by <a> evidence </a> &quot ; .
+
+#	NEW	parent	........ / ATR 72	// <p> The Air Srpska fleet consisted of two <a> ATR 72 </a> <a> turboprop </a> aircraft . </p>
+
+#	NEW	parent	........ / Japan Airlines	// <p> JALways was once a wholly owned <a> subsidiary </a> of Japan ' s <a> flag carrier </a> , Japan Airlines , but on December 1 , 2010 its operations were merged into those of its parent company . </p>
+
+28	FALSE	Royal Air Maroc::parent	moroccan government / began flying international	
+The name Royal Air Maroc was adopted after independence and the company began flying international routes in 1957 from its main base in <a> Casablanca </a> . </p>
+
+#	NEW	parent	........ / Taiwan Taoyuan International	// Its main base is <a> Taiwan Taoyuan International Airport </a> . </p>
+
+#	NEW	parent	........ / moved its	// <p> In 2008 Blue1 moved its London operations from Stansted to <a> Heathrow Airport </a> , and undertook strong expansion on domestic business routes .
+
+#	NEW	parent	........ / airline was	// The airline was established in December 2003 and started operations on 23 July 2004 .
+
+#	NEW	parent	........ / Over the	// <p> Over the years , Air Anatolia operated the following aircraft types : </p>
+
+#	NEW	parent	........ / Royal Tongan Airlines	// <p> <strong> Royal Tongan Airlines </strong> was the national <a> airline </a> of <a> Tonga </a> until liquidation in 2004 .
+
+#	NEW	parent	........ / also operated the	// <p> The airline also operated the following aircraft in the past : </p>
+
+#	NEW	parent	........ / Avensa was	// <p> Avensa was created on May 13 , 1943 as a <a> cargo airline </a> by Venezuelan businessman , Andres Boulton Pietri , and <a> Pan American World Airways </a> .
+
+#	NEW	parent	........ / used on its	// In its early years of operation , the title used on its aircraft was <strong> Tunis Air </strong> .
+
+#	NEW	parent	........ / Mahan Airlines	// <p> Officially <strong> Mahan Airlines </strong> ( ) is a private <a> airline </a> based in <a> Tehran </a> , <a> Iran </a> .
+
+#	NEW	parent	........ / main base	// Its main base is Bahrain International Airport .
+
+#	NEW	parent	........ / Independence Air	// On January 5 , 2006 <a> Independence Air </a> ceased operations . </p>
+
+#	NEW	parent	........ / Uzbekistan Airways	// <p> center <strong> Uzbekistan Airways Cargo Aircraft Fleet </strong> / center </p>
+
+#	null	parent	flash group / ..........
+

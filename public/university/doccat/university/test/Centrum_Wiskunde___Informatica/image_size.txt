@@ -1,1 +1,0 @@
-<a>Edsger Dijkstra</a> did most of his early influential work on algorithms and formal methods at CWI.

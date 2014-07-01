@@ -1,0 +1,62 @@
+Found: 27
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	birthplace	........ / was an American	// <p> <strong> Ava Lavinia Gardner </strong> ( December 24 , 1922 &ndash ; January 25 , 1990 ) was an American actress .
+
+#	NEW	birthplace	........ / popularly known as	// <p> <strong> Khwaja Ahmad Abbas </strong> ( ) ( 7 June 1914 &#x2013 ; 1 June 1987 ) , popularly known as <strong> K .
+
+#	NEW	birthplace	........ / California State University	// <p> In May 2001 , Cage was awarded an Honorary Doctorate in Fine Arts by <a> California State University </a> , Fullerton .
+
+#	NEW	birthplace	........ / Super Bowl XVIII	// It was released for a single airing in the United States on 22 January 1984 during the third quarter of <a> Super Bowl XVIII </a> .
+
+#	NEW	birthplace	........ / is an American	// <p> <strong> Robin Gayle Wright </strong> ( born April 8 , 1966 ) is an American actress .
+
+#	NEW	birthplace	........ / on his costume .	// Several early promo photos still have the original name visible on his costume . </em> </strong> </p>
+
+#	NEW	birthplace	........ / husband , Alexander	// Lee called the boy Erik Kirkland , after her separated husband , Alexander Kirkland .
+
+#	NEW	birthplace	........ / has appeared in	// <p> <strong> Sophie Marceau </strong> ( ; born 17 November 1966 ) is a French actress , who has appeared in 35 films .
+
+#	NEW	birthplace	........ / her work in	// <p> <strong> Calista Kay Flockhart </strong> ( born November 11 , 1964 ) is an American actor who is primarily recognized for her work in television .
+
+#	NEW	birthplace	........ / playing an eccentric	// He appeared on television on one episode of <em> <a> Mad About You </a> ' s <strong> first season in 1992 , playing an eccentric billionaire .
+
+#	NEW	birthplace	........ / in his movie	// <p> During the 1980s , Demme had a brief romantic relationship with rock singer <a> Belinda Carlisle </a> , who appeared in his movie <em> Swing Shift </em> . </p>
+
+#	NEW	birthplace	........ / and Jane began	// Upon Henson ' s return to the United States , he and Jane began dating .
+
+#	NEW	birthplace	........ / Cannes Film Festival	// <p> <strong> <a> Cannes Film Festival </a> </strong> </p>
+
+#	NEW	birthplace	........ / is an American	// <p> <strong> Julia Fiona Roberts </strong> ( born October 28 , 1967 ) is an American actress .
+
+#	NEW	birthplace	........ / is an American	// <p> <strong> Godfrey Reggio </strong> ( born March 29 , 1940 ) is an American <a> director </a> of experimental <a> documentary film </a> s . </p>
+
+#	NEW	birthplace	........ / as a child	// <p> Hunt began working in the 1970s as a child actress .
+
+#	NEW	birthplace	........ / United States in	// His family emigrated to the United States in 1902 .
+
+#	NEW	birthplace	........ / Francisco , Boston	// <p> In 2009 , Benigni brought &quot ; TuttoDante&quot ; to the United States with performances in San Francisco , Boston and Chicago .
+
+#	NEW	birthplace	........ / his only daughter	// He left behind Gillian Raine , the actress , his second wife , and his only daughter Camilla .
+
+#	NEW	birthplace	........ / actress and film	// <p> <strong> Laura Jeanne Reese Witherspoon </strong> ( born March 22 , 1976 ) , better known as <strong> Reese Witherspoon </strong> , is an American actress and film producer .
+
+#	NEW	birthplace	........ / millennium , entitled	// <p> In 1999 , Robinson returned to star in a one-off <em> Blackadder </em> short film to celebrate the millennium , entitled <strong> <em> ' .
+
+#	NEW	birthplace	........ / stage , screen	// <p> <strong> Lionel Barrymore </strong> ( April 28 , 1878 &ndash ; November 15 , 1954 ) was an American actor of stage , screen and radio .
+
+#	NEW	birthplace	........ / quot ; Boris Karloff . &	// <p> Despite living and working in the United States for many years , Karloff never became a naturalized American citizen , and he never legally changed his name to &quot ; Boris Karloff . &quot ;
+
+#	NEW	birthplace	........ / on stage in	// <p> McKern ' s final acting appearances came in the film <strong> <em> ' ( 1999 ) and on stage in 2000 . </em> </strong> </p>
+
+#	NEW	birthplace	........ / based on the	// In 2010 , he directed <em> The Last Airbender </em> , based on the <a> Nickelodeon </a> TV show <strong> <em> ' . </em> </strong> </p>
+
+#	NEW	birthplace	........ / John and Ned .	// He met his future wife on a blind date , with whom he would eventually have two sons , John and Ned . </p>
+
+#	NEW	birthplace	........ / having suffered a	// <p> She died , aged 91 , in March 2003 , having suffered a <a> stroke </a> .
+

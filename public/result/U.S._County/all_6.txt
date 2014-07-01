@@ -1,0 +1,347 @@
+Total articles: 1697
+Articles for test: 1528
+Articles for train: 169
+Total attributes: 80
+Attributes with high occurrences: 24/80
+
+------------
+Found: 1875
+Found Not Null: 110
+Correct: 86
+Wrong: 24
+Total: 203
+precision: 0.7818181818181819
+recall: 0.4236453201970443
+
+
+
+34	TRUE	Terrell County, Texas:: state	texas / Texas	
+<p> <strong> Terrell County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Texas </a> .
+
+37	TRUE	Terrell County, Texas:: area_water_sq_mi	0 / p>	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 2,358&nbsp;square miles (6,107&nbsp;km&#x00b2;), virtually all of which is land. </p>
+
+39	TRUE	Terrell County, Texas:: founded	1905 / 1905	
+<p> In 1905, Terrell County was created by the Texas Legislature by carving about out of <a> Pecos County </a> .
+
+56	TRUE	Tarrant County, Texas:: state	texas / Texas	
+<p> <strong> Tarrant County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Texas </a> .
+
+57	TRUE	Tarrant County, Texas:: area_land_sq_mi	863 / (3.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 897&nbsp; <a> square mile </a> s (2,324&nbsp; <a> km&#x00b2; </a> ), of which 863&nbsp;square miles (2,236&nbsp;km&#x00b2;) is land and 34&nbsp;square miles (88&nbsp;km&#x00b2;) (3.80%) is water. </p>
+
+58	TRUE	Tarrant County, Texas:: area_water_sq_mi	34 / 34&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 897&nbsp; <a> square mile </a> s (2,324&nbsp; <a> km&#x00b2; </a> ), of which 863&nbsp;square miles (2,236&nbsp;km&#x00b2;) is land and 34&nbsp;square miles (88&nbsp;km&#x00b2;) (3.80%) is water. </p>
+
+59	FALSE	Tarrant County, Texas:: pop	1,717,435 / 3.22.	
+The average household size was 2.67 and the average family size was 3.22. </p>
+
+65	FALSE	Tarrant County, Texas:: area_water_km2	88 / 369	
+<p> As of the <a> census </a> of 2000, there were 1,446,219 people, 533,864 households, and 369,433 families residing in the county.
+
+67	TRUE	Tarrant County, Texas:: area_total_sq_mi	897 / 34&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 897&nbsp; <a> square mile </a> s (2,324&nbsp; <a> km&#x00b2; </a> ), of which 863&nbsp;square miles (2,236&nbsp;km&#x00b2;) is land and 34&nbsp;square miles (88&nbsp;km&#x00b2;) (3.80%) is water. </p>
+
+92	TRUE	Stonewall County, Texas:: state	texas / Texas	
+<p> <strong> Stonewall County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Texas </a> .
+
+94	FALSE	Stonewall County, Texas:: area_water_sq_mi	2 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and (0.17%) is water. </p>
+
+96	TRUE	Stonewall County, Texas:: density_km2	1 / (1/	
+The <a> population density </a> was 2 people per square mile (1/km&#x00b2;).
+
+97	FALSE	Stonewall County, Texas:: founded	1876 / population 18, 6.20% from 18 to 24, 22.60% from 25 to 44, 24.50% from 45 to 64, and 24.	
+<p> In the county, the population was spread out with 22.80% under the age of 18, 6.20% from 18 to 24, 22.60% from 25 to 44, 24.50% from 45 to 64, and 24.00% who were 65 years of age or older.
+
+115	TRUE	Stephens County, Texas:: state	texas / Texas	
+<p> <strong> Stephens County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Texas </a> .
+
+116	TRUE	Stephens County, Texas:: area_total_sq_mi	921 / 26&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 921&nbsp; <a> square mile </a> s (2,387&nbsp; <a> km&#x00b2; </a> ), of which 895&nbsp;square miles (2,317&nbsp;km&#x00b2;) is land and 26&nbsp;square miles (70&nbsp;km&#x00b2;) (2.91%) is water. </p>
+
+117	TRUE	Stephens County, Texas:: area_land_sq_mi	895 / (2.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 921&nbsp; <a> square mile </a> s (2,387&nbsp; <a> km&#x00b2; </a> ), of which 895&nbsp;square miles (2,317&nbsp;km&#x00b2;) is land and 26&nbsp;square miles (70&nbsp;km&#x00b2;) (2.91%) is water. </p>
+
+118	TRUE	Stephens County, Texas:: area_water_sq_mi	26 / 26&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 921&nbsp; <a> square mile </a> s (2,387&nbsp; <a> km&#x00b2; </a> ), of which 895&nbsp;square miles (2,317&nbsp;km&#x00b2;) is land and 26&nbsp;square miles (70&nbsp;km&#x00b2;) (2.91%) is water. </p>
+
+119	TRUE	Stephens County, Texas:: density_km2	4 / (4/	
+The <a> population density </a> was 11 people per square mile (4/km&#x00b2;).
+
+172	FALSE	Shelby County, Texas:: area_total_sq_mi	835 / 15	
+There were 11,955 housing units at an average density of 15 per square&nbsp;mile (6/km&#x00b2;).
+
+173	TRUE	Shelby County, Texas:: area_land_sq_mi	794 / (4.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 835&nbsp;square miles (2,161&nbsp;km&#x00b2;), of which 794&nbsp;square miles (2,057&nbsp;km&#x00b2;) is land and 40&nbsp;square miles (105&nbsp;km&#x00b2;) (4.84%) is water. </p>
+
+174	TRUE	Shelby County, Texas:: area_water_sq_mi	40 / 40&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 835&nbsp;square miles (2,161&nbsp;km&#x00b2;), of which 794&nbsp;square miles (2,057&nbsp;km&#x00b2;) is land and 40&nbsp;square miles (105&nbsp;km&#x00b2;) (4.84%) is water. </p>
+
+176	TRUE	Shelby County, Texas:: density_km2	12 / (12/	
+The <a> population density </a> was 32 people per square mile (12/km&#x00b2;).
+
+177	TRUE	Shelby County, Texas:: founded	1836 / 1836.	
+<p> Shelby County was formed in 1836.
+
+182	TRUE	Shelby County, Texas:: state	texas / Texas	
+<p> <strong> Shelby County </strong> is a <a> county </a> located in the far eastern portion of the <a> U.S. state </a> of <a> Texas </a> .
+
+335	TRUE	Reeves County, Texas:: state	texas / Texas	
+<p> <strong> Reeves County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Texas </a> .
+
+338	TRUE	Reeves County, Texas:: area_water_sq_mi	6 / 6&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 2,642&nbsp; <a> square mile </a> s (6,843&nbsp; <a> km&#x00b2; </a> ), of which 2,636&nbsp;square miles (6,827&nbsp;km&#x00b2;) is land and 6&nbsp;square miles (16&nbsp;km&#x00b2;) (0.23%) is water. </p>
+
+339	FALSE	Reeves County, Texas:: founded	1883 / population 18, 11.30% from 18 to 24, 25.20% from 25 to 44, 21.00% from 45 to 64, and 12.	
+<p> In the county, the population was spread out with 29.90% under the age of 18, 11.30% from 18 to 24, 25.20% from 25 to 44, 21.00% from 45 to 64, and 12.60% who were 65 years of age or older.
+
+343	TRUE	Reeves County, Texas:: density_km2	2 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 2,642&nbsp; <a> square mile </a> s (6,843&nbsp; <a> km&#x00b2; </a> ), of which 2,636&nbsp;square miles (6,827&nbsp;km&#x00b2;) is land and 6&nbsp;square miles (16&nbsp;km&#x00b2;) (0.23%) is water. </p>
+
+369	TRUE	Reagan County, Texas:: state	texas / Texas	
+<p> <strong> Reagan County </strong> is a <a> county </a> located on the <a> Edwards Plateau </a> in the <a> U.S. state </a> of <a> Texas </a> .
+
+372	TRUE	Reagan County, Texas:: area_water_sq_mi	1 / (1/	
+The <a> population density </a> was 3 people per square mile (1/km&#x00b2;).
+
+374	TRUE	Reagan County, Texas:: density_km2	1 / (1/	
+The <a> population density </a> was 3 people per square mile (1/km&#x00b2;).
+
+404	TRUE	Presidio County, Texas:: state	texas / Texas	
+<p> <strong> Presidio County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Texas </a> .
+
+407	TRUE	Presidio County, Texas:: area_water_sq_mi	1 / 1&	
+According to the <a> U.S. Census Bureau </a> , the county has a total area of 3,856&nbsp;square miles (9,988&nbsp;km&#x00b2;), of which 3,855&nbsp;square miles (9,986&nbsp;km&#x00b2;) is land and 1&nbsp;square miles (2&nbsp;km&#x00b2;) (0.02%) is water.
+
+412	TRUE	Presidio County, Texas:: founded	1850 / 1850.	
+<p> Presidio County was established from <a> Bexar County </a> on January 3, 1850.
+
+428	TRUE	Polk County, Texas:: county	polk county / Polk County	
+<p> <strong> Polk County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Texas </a> .
+
+429	TRUE	Polk County, Texas:: state	texas / Texas	
+<p> <strong> Polk County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Texas </a> .
+
+438	TRUE	Pecos County, Texas:: state	texas / Texas	
+<p> <strong> Pecos County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Texas </a> which is named for the <a> Pecos River </a> .
+
+440	FALSE	Pecos County, Texas:: area_water_sq_mi	1 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of . of it is land and of it (0.02%) is water. </p>
+
+780	TRUE	Lynn County, Texas:: state	texas / Texas	
+<p> <strong> Lynn County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Texas </a> .
+
+781	TRUE	Lynn County, Texas:: area_land_sq_mi	891 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 893&nbsp;square miles (2,314&nbsp;km&#x00b2;), of which 891&nbsp;square miles (2,310&nbsp;km&#x00b2;) is land and 2&nbsp;square miles (4&nbsp;km&#x00b2;) (0.18%) is water. </p>
+
+782	TRUE	Lynn County, Texas:: area_water_sq_mi	2 / 2&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 893&nbsp;square miles (2,314&nbsp;km&#x00b2;), of which 891&nbsp;square miles (2,310&nbsp;km&#x00b2;) is land and 2&nbsp;square miles (4&nbsp;km&#x00b2;) (0.18%) is water. </p>
+
+784	TRUE	Lynn County, Texas:: density_km2	3 / (3/	
+The <a> population density </a> was 7 people per square mile (3/km&#x00b2;).
+
+785	FALSE	Lynn County, Texas:: founded	1876 / population	
+<p> In the county, the population was spread out with 31.20%
+
+938	TRUE	Knox County, Texas:: state	texas / Texas	
+<p> <strong> Knox County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Texas </a> .
+
+939	FALSE	Knox County, Texas:: area_total_sq_mi	855 / 2	
+There were 2,129 housing units at an average density of 2 per square&nbsp;mile (1/km&#x00b2;).
+
+940	TRUE	Knox County, Texas:: area_land_sq_mi	849 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 855&nbsp;square miles (2,216&nbsp;km&#x00b2;), of which 849&nbsp;square miles (2,199&nbsp;km&#x00b2;) is land and 6&nbsp;square miles (17&nbsp;km&#x00b2;) (0.75%) is water. </p>
+
+941	TRUE	Knox County, Texas:: area_water_sq_mi	6 / 6&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 855&nbsp;square miles (2,216&nbsp;km&#x00b2;), of which 849&nbsp;square miles (2,199&nbsp;km&#x00b2;) is land and 6&nbsp;square miles (17&nbsp;km&#x00b2;) (0.75%) is water. </p>
+
+943	TRUE	Knox County, Texas:: density_km2	2 / (2/	
+The <a> population density </a> was 5 people per square mile (2/km&#x00b2;).
+
+1005	TRUE	Kent County, Texas:: state	texas / Texas	
+<p> <strong> Kent County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Texas </a> .
+
+1006	FALSE	Kent County, Texas:: area_total_sq_mi	903 / 30	
+Kent County is one of 30 prohibition or entirely <a> dry counties </a> in the state of Texas. </p>
+
+1007	TRUE	Kent County, Texas:: area_land_sq_mi	902 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 903&nbsp;square miles (2,339&nbsp;km&#x00b2;), of which 902&nbsp;square miles (2,337&nbsp;km&#x00b2;) is land and 1&nbsp;square miles (2&nbsp;km&#x00b2;) (0.06%) is water. </p>
+
+1008	TRUE	Kent County, Texas:: area_water_sq_mi	1 / 1&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 903&nbsp;square miles (2,339&nbsp;km&#x00b2;), of which 902&nbsp;square miles (2,337&nbsp;km&#x00b2;) is land and 1&nbsp;square miles (2&nbsp;km&#x00b2;) (0.06%) is water. </p>
+
+1013	TRUE	Kent County, Texas:: density_sq_mi	1 / (0/	
+There were 551 housing units at an average density of 1 per square&nbsp;mile (0/km&#x00b2;).
+
+1014	TRUE	Kent County, Texas:: pop	859 / 859	
+<p> As of the <a> census </a> of 2000, there were 859 people, 353 households, and 247 families residing in the county.
+
+1229	TRUE	Goliad County, Texas:: state	texas / Texas	
+<p> <strong> Goliad County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Texas </a> .
+
+1232	TRUE	Goliad County, Texas:: area_water_sq_mi	6 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and (0.68%) is water. </p>
+
+1234	FALSE	Goliad County, Texas:: density_km2	3.1 / (3/	
+The <a> population density </a> was 8 people per square mile (3/km&#x00b2;).
+
+1259	TRUE	Garza County, Texas:: state	texas / Texas	
+<p> <strong> Garza County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Texas </a> southeast of <a> Lubbock </a> .
+
+1262	FALSE	Garza County, Texas:: area_water_sq_mi	1 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and (0.07%) is water. </p>
+
+1264	TRUE	Garza County, Texas:: density_km2	2 / (2/	
+The <a> population density </a> was 5 people per square mile (2/km&#x00b2;).
+
+1326	TRUE	Fort Bend County, Texas:: county	fort bend county / Land&# x2013;	
+<p> <strong> Fort Bend County </strong> is a <a> county </a> located along the <a> Gulf Coast </a> region in the <a> U.S. state </a> of <a> Texas </a> within the <a> Houston&#x2013;Sugar&nbsp;Land&#x2013;Baytown </a> metropolitan area.
+
+1327	TRUE	Fort Bend County, Texas:: state	texas / Texas	
+<p> <strong> Fort Bend County </strong> is a <a> county </a> located along the <a> Gulf Coast </a> region in the <a> U.S. state </a> of <a> Texas </a> within the <a> Houston&#x2013;Sugar&nbsp;Land&#x2013;Baytown </a> metropolitan area.
+
+1329	FALSE	Fort Bend County, Texas:: area_water_sq_mi	11 / (1.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and (1.29%) is water. </p>
+
+1333	FALSE	Fort Bend County, Texas:: area_water_km2	30 / 93	
+<p> As of the <a> census </a> of 2000, there were 354,452 people, 110,915 households, and 93,057 families residing in the county.
+
+1358	TRUE	Fisher County, Texas:: state	texas / Texas	
+<p> <strong> Fisher County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Texas </a> .
+
+1361	FALSE	Fisher County, Texas:: area_water_sq_mi	1 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and (0.06%) is water. </p>
+
+1363	TRUE	Fisher County, Texas:: density_km2	2 / (2/	
+The <a> population density </a> was 5 people per square mile (2/km&#x00b2;).
+
+1367	TRUE	Fisher County, Texas:: area_water_km2	2 / 1	
+<p> As of the <a> census </a> of 2000, there were 4,344 people, 1,785 households, and 1,244 families residing in the county.
+
+1368	TRUE	Fisher County, Texas:: density_sq_mi	5 / (2/	
+The <a> population density </a> was 5 people per square mile (2/km&#x00b2;).
+
+1369	TRUE	Fayette County, Texas:: county	fayette county / Fayette County	
+<p> <strong> Fayette County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Texas </a> .
+
+1370	TRUE	Fayette County, Texas:: state	texas / Texas	
+<p> <strong> Fayette County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Texas </a> .
+
+1373	FALSE	Fayette County, Texas:: area_water_sq_mi	10 / (1.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and (1.02%) is water. </p>
+
+1377	TRUE	Fayette County, Texas:: density_sq_mi	23 / (9/	
+The <a> population density </a> was 23 people per square mile (9/km&#x00b2;).
+
+1378	TRUE	Fayette County, Texas:: density_km2	9 / (9/	
+The <a> population density </a> was 23 people per square mile (9/km&#x00b2;).
+
+1380	FALSE	Fayette County, Texas:: area_water_km2	25 / 6	
+<p> As of the <a> census </a> of 2000, there were 21,804 people, 8,722 households, and 6,044 families residing in the county.
+
+1424	TRUE	El Paso County, Texas:: state	texas / Texas	
+<p> <strong> El Paso County </strong> is the westernmost <a> county </a> in the <a> U.S. state </a> of <a> Texas </a> .
+
+1426	TRUE	El Paso County, Texas:: area_water_sq_mi	2 / 75	
+According to the 2007 <a> U.S. Census </a> population estimates, the county had a population of 755,085, up 75,463 from the 2000 Census.
+
+1476	TRUE	Karnes County, Texas:: state	texas / Texas	
+<p> <strong> Karnes County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Texas </a> .
+
+1477	FALSE	Karnes County, Texas:: area_total_sq_mi	754 / 7	
+There were 5,479 housing units at an average density of 7 per square&nbsp;mile (3/km&#x00b2;).
+
+1478	TRUE	Karnes County, Texas:: area_land_sq_mi	750 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 754&nbsp;square miles (1,952&nbsp;km&#x00b2;), of which 750&nbsp;square miles (1,943&nbsp;km&#x00b2;) is land and 3&nbsp;square miles (8&nbsp;km&#x00b2;) (0.43%) is water. </p>
+
+1479	TRUE	Karnes County, Texas:: area_water_sq_mi	3 / 3&	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of 754&nbsp;square miles (1,952&nbsp;km&#x00b2;), of which 750&nbsp;square miles (1,943&nbsp;km&#x00b2;) is land and 3&nbsp;square miles (8&nbsp;km&#x00b2;) (0.43%) is water. </p>
+
+1481	TRUE	Karnes County, Texas:: density_km2	8 / (8/	
+The <a> population density </a> was 21 people per square mile (8/km&#x00b2;).
+
+1486	FALSE	Karnes County, Texas:: area_water_km2	8 / 3	
+<p> As of the <a> census </a> of 2000, there were 15,446 people, 4,454 households, and 3,246 families residing in the county.
+
+1487	TRUE	Karnes County, Texas:: density_sq_mi	21 / (8/	
+The <a> population density </a> was 21 people per square mile (8/km&#x00b2;).
+
+1488	TRUE	Jones County, Texas:: state	texas / Texas	
+<p> <strong> Jones County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Texas </a> .
+
+1491	TRUE	Jones County, Texas:: area_water_sq_mi	6 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and (0.66%) is water. </p>
+
+1493	TRUE	Jones County, Texas:: density_km2	9 / (9/	
+The <a> population density </a> was 22 people per square mile (9/km&#x00b2;).
+
+1541	TRUE	Jeff Davis County, Texas:: state	texas / Texas	
+<strong> Jeff Davis County </strong> is a <a> county </a> in the <a> U.S. state </a> of <a> Texas </a> .
+
+1544	TRUE	Jeff Davis County, Texas:: area_water_sq_mi	0 / 0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , with a total area of 0.01% water.
+
+1546	FALSE	Jeff Davis County, Texas:: founded	1887 / 1849	
+<p> In March 1849 lieutenants William H. C. Whiting and William F. Smith were sent out by Maj.
+
+1552	TRUE	Jasper County, Texas:: area_water_sq_mi	32 / (3.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and (3.32%) is water. </p>
+
+1553	TRUE	Jasper County, Texas:: density_km2	15 / (15/	
+The <a> population density </a> was 38 people per square mile (15/km&#x00b2;).
+
+1559	TRUE	Jasper County, Texas:: state	texas / Texas	
+<p> <strong> Jasper County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Texas </a> .
+
+1613	TRUE	Hudspeth County, Texas:: state	texas / Texas	
+<p> <strong> Hudspeth County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Texas </a> .
+
+1614	TRUE	Hudspeth County, Texas:: area_water_sq_mi	1 / the	
+In 1849 John Salmon &quot;RIP&quot; Ford explored the area between <a> San Antonio </a> and <a> El Paso </a> noting in his mapped report the productive land upon which the Mescalero Indians farmed.
+
+1621	TRUE	Howard County, Texas:: state	texas / Texas	
+<p> <strong> Howard County </strong> is a <a> county </a> located in the <a> U.S. state </a> of <a> Texas </a> .
+
+1623	TRUE	Howard County, Texas:: area_water_sq_mi	1 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and (0.15%) is water. </p>
+
+1625	TRUE	Howard County, Texas:: density_km2	14 / (14/	
+The <a> population density </a> was 37 people per square mile (14/km&#x00b2;).
+
+1720	TRUE	Hays County, Texas:: state	texas / Texas	
+<p> <strong> Hays County </strong> is a <a> county </a> located on the <a> Edwards Plateau </a> in the <a> U.S. state </a> of <a> Texas </a> .
+
+1722	TRUE	Hays County, Texas:: area_water_sq_mi	2 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and (0.28%) is water. </p>
+
+1723	FALSE	Hays County, Texas:: pop	149,476 / 3.21.	
+The average household size was 2.69 and the average family size was 3.21. </p>
+
+1724	FALSE	Hays County, Texas:: density_km2	20 / (56/	
+The <a> population density </a> was 144 people per square mile (56/km&#x00b2;).
+
+1726	TRUE	Hays County, Texas:: seat	san marcos / San	
+The <a> seat </a> of the county is <a> San Marcos </a> . </p>
+
+1751	TRUE	Harrison County, Texas:: state	texas / Texas	
+<p> <strong> Harrison County </strong> is a <a> county </a> of the <a> U.S. state </a> of <a> Texas </a> .
+
+1753	TRUE	Harrison County, Texas:: density_km2	27 / (27/	
+The <a> population density </a> was 69 people per square mile (27/km&#x00b2;).
+
+1755	TRUE	Harrison County, Texas:: seat	marshall / Marshall	
+The <a> seat </a> of the county is <a> Marshall </a> .
+
+1801	TRUE	Hamilton County, Texas:: state	texas / Texas	
+<p> <strong> Hamilton County </strong> is a <a> county </a> located on the <a> Edwards Plateau </a> in <a> Central Texas </a> .
+
+1802	FALSE	Hamilton County, Texas:: area_total_sq_mi	836 / 5	
+There were 4,455 housing units at an average density of 5 per square&nbsp;mile (2 per km&#x00b2;).
+
+1804	FALSE	Hamilton County, Texas:: area_water_sq_mi	1 / (0.	
+<p> According to the <a> U.S. Census Bureau </a> , the county has a total area of , of which is land and (0.08%) is water. </p>
+
+1806	TRUE	Hamilton County, Texas:: density_km2	4 / (4	
+The <a> population density </a> was 10 people per square mile (4 per km&#x00b2;).
+

@@ -1,3 +1,0 @@
-<li>College of Mathematics and Science</li>
-<li>College of Resources and Environmental Science</li>
-<li>College of Material Science and Engineering</li>

@@ -1,0 +1,63 @@
+Found: 26
+Found Not Null: 1
+Correct: 1
+Wrong: 0
+Total: 1
+precision: 1.0
+recall: 1.0
+
+
+
+#	NEW	caption	........ / WKRP in	// <p> After <em> WKRP in Cincinnati </em> folded in 1982 , Jump made an appearance as a <a> pedophile </a> on <em> <a> Diff ' rent Strokes </a> </em> .
+
+#	NEW	caption	........ / Audrey Hepburn	// In 2000 , he appeared in <em> <a> The Audrey Hepburn Story </a> </em> as Hepburn ' s father Joseph .
+
+#	NEW	caption	........ / where they	// When she was three , the family moved to <a> Lovelock , Nevada </a> , where they assumed ownership of a hotel property .
+
+#	NEW	caption	........ / United States	// <p> Meredith served in the <a> United States Army Air Forces </a> in <a> World War II </a> , reaching the rank of <a> captain </a> .
+
+#	NEW	caption	........ / Ji&# x0159 ; &#	// <p> <strong> Ji&#x0159 ; &#x00ed ; Menzel </strong> ( ) ( born February 23 , 1938 , <a> Prague </a> ) is a <a> Czech </a> <a> film director </a> , <a> theatre director </a> , actor , and <a> screenwriter </a> .
+
+#	NEW	caption	........ / Victor Joseph	// <p> <strong> Victor Joseph Garber </strong> ( born March 16 , 1949 ) is a <a> Canadian </a> film , stage and television <a> actor </a> and <a> singer </a> .
+
+6	TRUE	Leonor Varela::caption	varela / Leonor Varela	
+<p> <strong> Leonor Varela Palma </strong> ( born December 29 , 1972 ) is a <a> Chile </a> an <a> actress </a> , and <a> model </a> .
+
+#	NEW	caption	........ / Christina Cox	// <p> Christina Cox was born just outside of Toronto , the youngest of three daughters .
+
+#	NEW	caption	........ / daughter of	// <p> Thulin was born in <a> Sollefte&#x00e5 ; </a> , <a> &#x00c5 ; ngermanland </a> , northern Sweden , the daughter of Nanna ( n&#x00e9 ; e Larsson ) and Adam Thulin , a fisherman .
+
+#	NEW	caption	........ / He married	// <p> He married actress <a> Rachel Ticotin </a> on December 31 , 1998 .
+
+#	NEW	caption	........ / Christopher Plummer	// <p> <strong> Christopher Plummer </strong> , <a> CC </a> ( born December 13 , 1929 ) is a <a> Canadian </a> <a> theatre </a> , <a> film </a> and <a> television </a> <a> actor </a> . </p>
+
+#	NEW	caption	........ / is an	// <p> <img> <strong> Robert William </strong> &quot ; <strong> Bob </strong> &quot ; <strong> Barker </strong> ( born December 12 , 1923 ) is an <a> American </a> former <a> television </a> <a> game show </a> <a> host </a> .
+
+#	NEW	caption	........ / managed the	// In Milwaukee he managed the Academy of Music , which became a very profitable venture .
+
+#	NEW	caption	........ / show moved	// In 1964 , the show moved from Philadelphia to <a> Hollywood </a> , <a> California </a> .
+
+#	NEW	caption	........ / a cast	// In April 2008 , she was a cast member of the VH1 series <em> <a> Celebracadabra </a> . </em> In July 2008 , she starred in a new show called <em> <a> Outsider ' s Inn </a> . </em> </p>
+
+#	NEW	caption	........ / Szubanski was	// <p> Szubanski was born in <a> Liverpool </a> , England ; her father came from a well-off Polish family and her mother was Scottish , a native of <a> Dunfermline </a> .
+
+#	NEW	caption	........ / company made	// The company made <em> Coming Next </em> , a sketch show with <a> Hale and Pace </a> , <a> Chris Barrie </a> and several other series .
+
+#	NEW	caption	........ / Gisele MacKenzie	// He performed the mambo with <a> Gisele MacKenzie </a> on her <a> NBC </a> <a> variety show </a> , <em> <a> The Gisele MacKenzie Show </a> </em> .
+
+#	NEW	caption	........ / Joanna Pacu&#	// <p> Pacula was born <strong> Joanna Pacu&#x0142 ; a </strong> in <a> Tomasz&#x00f3 ; w Lubelski </a> , Poland to a <a> pharmacist </a> mother and an <a> engineer </a> father .
+
+#	NEW	caption	........ / Jon Roger	// <p> <strong> Jon Roger Davis </strong> ( born April 5 , 1939 ) is an <a> American </a> <a> actor </a> .
+
+#	NEW	caption	........ / YOBI Show	// <p> Sumpter has been co-hosting <em> <a> The YOBI Show </a> </em> , an online reality contest show , with Danielle Ryan . </p>
+
+#	NEW	caption	........ / with the	// He has a son , <a> Rowan Joff&#x00e9 ; </a> , with the former and a daughter , <a> Nathalie Lunghi </a> , with the latter .
+
+#	NEW	caption	........ / Problem Child	// <p> His movie roles include <a> Crom </a> in the film <em> <a> Tron </a> </em> ( 1982 ) , with future <em> Babylon 5 </em> co-star <a> Bruce Boxleitner </a> , and as Roy , the perfect father neighbor , in <em> <a> Problem Child </a> </em> ( 1990 ) . </p>
+
+#	NEW	caption	........ / air force	// Later , the freighter that took him to <a> Taiwan </a> sank after an attack by the <a> American air force </a> , he spent 7 or 8 hours in the ocean before being rescued .
+
+#	NEW	caption	........ / Huntz& quot ;	// <p> <strong> Henry Richard &quot ; Huntz&quot ; Hall </strong> ( August 15 , 1919 ; to Joseph Patrick Hall and Mary Ellen Mullen , an Irish-born air-conditioner repairman and his wife , He was the 14th of 16 children .
+
+#	NEW	caption	........ / Weaver ' s	// <p> Weaver ' s most recent work was done on an ABC Family cable television show called <em> <a> Wildfire </a> , </em> where he played Henry , the father of Jean Ritter and the co-owner of Raintree Ranch .
+

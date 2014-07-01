@@ -1,8 +1,0 @@
-<li><a>Accounting</a></li>
-<li><a>Biology</a></li>
-<li><a>Computer Information Systems</a></li>
-<li><a>English</a></li>
-<li><a>Nursing</a> (BSN)</li>
-<li><a>Psychology</a></li>
-<li><a>Nursing</a> (RN)</li>
-<li><a>Medgar Evers College, CUNY</a></li>

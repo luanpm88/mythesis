@@ -1,0 +1,465 @@
+Total articles: 312
+Articles for test: 281
+Articles for train: 31
+Total attributes: 64
+Attributes with high occurrences: 12/64
+
+------------
+Found: 194
+Found Not Null: 54
+Correct: 28
+Wrong: 26
+Total: 57
+precision: 0.5185185185185185
+recall: 0.49122807017543857
+
+
+
+#	NEW	caption	........ / the cast	// He remained with the cast of the latter show when it moved to <a> television </a> . </p>
+
+1	TRUE	Richard Crenna::birth_name	richard donald crenna / Richard Donald Crenna	
+<p> <strong> Richard Donald Crenna </strong> ( November 30 , 1926 &#x2013 ; January 17 , 2003 ) was an American <a> motion picture </a> , <a> television </a> , and <a> radio </a> actor and occasional <a> television director </a> .
+
+#	NEW	birth_place	........ / Los Angeles	// <p> Crenna was born in <a> Los Angeles </a> , the son of Edith J . Pollette Crenna , who was a hotel manager in Los Angeles , and Dominick Anthony Crenna , a <a> pharmacist </a> , both of whom were of <a> Italian </a> ancestry .
+
+#	NEW	death_date	........ / television	// <p> <strong> Richard Donald Crenna </strong> ( November 30 , 1926 &#x2013 ; January 17 , 2003 ) was an American <a> motion picture </a> , <a> television </a> , and <a> radio </a> actor and occasional <a> television director </a> .
+
+#	NEW	birthplace	........ / quot ; in this	// The actress <a> Kathleen Nolan </a> was cast as his young wife , &quot ; Kate McCoy&quot ; in this series .
+
+#	NEW	birthname	........ / also nominated for a Golden Globe Award for &quot ; Best TV	// Crenna was also nominated for a Golden Globe Award for &quot ; Best TV Star - Male&quot ; in 1965 , for this same role .
+
+#	NEW	name	........ / television director	// <p> <strong> Richard Donald Crenna </strong> ( November 30 , 1926 &#x2013 ; January 17 , 2003 ) was an American <a> motion picture </a> , <a> television </a> , and <a> radio </a> actor and occasional <a> television director </a> .
+
+7	TRUE	Louise Dresser::name	louise dresser / an American	
+<p> <strong> Louise Dresser </strong> ( October 5 , 1878 &ndash ; April 24 , 1965 ) was an American actress .
+
+8	FALSE	Louise Dresser::birth_name	louise josephine kerlin / was an American	
+<p> <strong> Louise Dresser </strong> ( October 5 , 1878 &ndash ; April 24 , 1965 ) was an American actress .
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Louise Dresser </strong> ( October 5 , 1878 &ndash ; April 24 , 1965 ) was an American actress .
+
+#	NEW	death_date	........ / April 24 , 1965 )	// <p> <strong> Louise Dresser </strong> ( October 5 , 1878 &ndash ; April 24 , 1965 ) was an American actress .
+
+#	NEW	birthplace	........ / was an American	// <p> <strong> Louise Dresser </strong> ( October 5 , 1878 &ndash ; April 24 , 1965 ) was an American actress .
+
+12	TRUE	Louise Dresser::occupation	actress / Actress	
+During the first presentations of the <a> Academy Awards </a> in 1929 she was nominated for the <a> Academy Award for Best Actress </a> for <em> <a> A Ship Comes In </a> </em> . </p>
+
+#	NEW	birthname	........ / was an American	// <p> <strong> Louise Dresser </strong> ( October 5 , 1878 &ndash ; April 24 , 1965 ) was an American actress .
+
+14	FALSE	Corinne Griffith::name	corinne griffith / Vine Street	
+<p> For her contribution to the motion picture industry , Corrine Griffith has a star on the <a> Hollywood Walk of Fame </a> at 1560 <a> Vine Street </a> . </p>
+
+#	NEW	birth_name	........ / Corinne Mae Griffith	// <p> <strong> Corinne Mae Griffith </strong> ( November 21 , 1894 &ndash ; July 13 , 1979 ) was an <a> American </a> actress .
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Corinne Mae Griffith </strong> ( November 21 , 1894 &ndash ; July 13 , 1979 ) was an <a> American </a> actress .
+
+#	NEW	death_date	........ / July 13 , 1979 )	// <p> <strong> Corinne Mae Griffith </strong> ( November 21 , 1894 &ndash ; July 13 , 1979 ) was an <a> American </a> actress .
+
+#	NEW	birthname	........ / Corinne Mae Griffith	// <p> <strong> Corinne Mae Griffith </strong> ( November 21 , 1894 &ndash ; July 13 , 1979 ) was an <a> American </a> actress .
+
+19	TRUE	Christopher McQuarrie::name	christopher mcquarrie / Christopher McQuarrie	
+<p> <strong> Christopher McQuarrie </strong> ( born 1968 ) is an <a> American </a> screenwriter , producer and director .
+
+#	NEW	birth_name	........ / Christopher McQuarrie	// <p> <strong> Christopher McQuarrie </strong> ( born 1968 ) is an <a> American </a> screenwriter , producer and director .
+
+21	TRUE	Christopher McQuarrie::birth_date	1968 / <strong>	
+<p> <strong> Christopher McQuarrie </strong> ( born 1968 ) is an <a> American </a> screenwriter , producer and director .
+
+#	NEW	death_date	........ / screenwriter	// <p> <strong> Christopher McQuarrie </strong> ( born 1968 ) is an <a> American </a> screenwriter , producer and director .
+
+#	NEW	birthplace	........ / screenwriter , producer	// <p> <strong> Christopher McQuarrie </strong> ( born 1968 ) is an <a> American </a> screenwriter , producer and director .
+
+#	NEW	birthname	........ / Christopher McQuarrie	// <p> <strong> Christopher McQuarrie </strong> ( born 1968 ) is an <a> American </a> screenwriter , producer and director .
+
+#	NEW	occupation	........ / Academy	// <p> Singer and McQuarrie collaborated again on the 1995 film <em> <a> The Usual Suspects </a> </em> , for which McQuarrie received best screenplay awards from <em> <a> Premiere </a> </em> magazine , The Texas Board of Review , and the Chicago Critics as well as the <a> Edgar Award </a> , The Independent Spirit Award , and the British and American Academy Awards .
+
+26	FALSE	John Malkovich::occupation	actor / Award	
+For his roles in <em> <a> Places in the Heart </a> </em> and <em> <a> In the Line of Fire </a> </em> , he received <a> Academy Award </a> nominations .
+
+#	NEW	death_date	........ / director	// <p> <strong> John Gavin Malkovich </strong> ( born December 9 , 1953 ) is an <a> American </a> <a> actor </a> , <a> producer </a> , and <a> director </a> .
+
+28	TRUE	John Malkovich::birth_name	john gavin malkovich / John Gavin Malkovich	
+<p> <strong> John Gavin Malkovich </strong> ( born December 9 , 1953 ) is an <a> American </a> <a> actor </a> , <a> producer </a> , and <a> director </a> .
+
+#	NEW	birthname	........ / Malkovich was born	// <p> Malkovich was born in <a> Christopher , Illinois </a> .
+
+#	NEW	birthplace	........ / s degree in	// <p> In April 2005 , while speaking at Illinois State , Malkovich was awarded his bachelor ' s degree in theatre .
+
+31	FALSE	Charles Ludlam::name	charles ludlam / and playwright.	
+<p> <strong> Charles Braun Ludlam </strong> ( April 12 , 1943 &#x2013 ; May 28 , 1987 ) was an <a> American </a> actor , director , and playwright . </p>
+
+#	NEW	birth_name	........ / Charles Braun Ludlam	// <p> <strong> Charles Braun Ludlam </strong> ( April 12 , 1943 &#x2013 ; May 28 , 1987 ) was an <a> American </a> actor , director , and playwright . </p>
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Charles Braun Ludlam </strong> ( April 12 , 1943 &#x2013 ; May 28 , 1987 ) was an <a> American </a> actor , director , and playwright . </p>
+
+#	NEW	occupation	........ / actor	// <p> <strong> Charles Braun Ludlam </strong> ( April 12 , 1943 &#x2013 ; May 28 , 1987 ) was an <a> American </a> actor , director , and playwright . </p>
+
+#	NEW	death_date	........ / May 28 , 1987 )	// <p> <strong> Charles Braun Ludlam </strong> ( April 12 , 1943 &#x2013 ; May 28 , 1987 ) was an <a> American </a> actor , director , and playwright . </p>
+
+#	NEW	birthplace	........ / director , and	// <p> <strong> Charles Braun Ludlam </strong> ( April 12 , 1943 &#x2013 ; May 28 , 1987 ) was an <a> American </a> actor , director , and playwright . </p>
+
+#	NEW	birthdate	........ / ( April 12 , 1943 &#x2013 ; May 28 , 1987 )	// <p> <strong> Charles Braun Ludlam </strong> ( April 12 , 1943 &#x2013 ; May 28 , 1987 ) was an <a> American </a> actor , director , and playwright . </p>
+
+#	NEW	birthname	........ / Charles Braun Ludlam	// <p> <strong> Charles Braun Ludlam </strong> ( April 12 , 1943 &#x2013 ; May 28 , 1987 ) was an <a> American </a> actor , director , and playwright . </p>
+
+#	NEW	birth_date	........ / Wise	// <p> Wise was married to the dancer Doreen Blythe from 18 January 1953 until his death ; they had no children . </p>
+
+#	NEW	death_date	........ / World	// <p> During <a> World War II </a> , Morecambe was a <a> Bevin Boy </a> , working down a coal mine at <a> Accrington </a> and Wise served in the <a> Merchant Navy </a> , from the end of <a> 1943 </a> . </p>
+
+#	NEW	birthplace	........ / March , at	// <p> He was cremated on 30 March , at Slough .
+
+42	TRUE	Ernie Wise::name	ernie wise / for their	
+<p> <strong> Ernest Wiseman </strong> <a> OBE </a> ( 27 November 1925 &#x2013 ; 21 March 1999 ) , known by his stage name <strong> Ernie Wise </strong> , was an English <a> comedian </a> , best known as one half of the comedy duo <a> Morecambe and Wise </a> , who became an institution on British <a> television </a> , especially for their <a> Christmas </a> specials . </p>
+
+#	NEW	birthname	........ / Wise suffered two heart attacks within a week while on holiday	// Earlier that month , Wise suffered two heart attacks within a week while on holiday , and had to undergo a triple <a> heart bypass </a> in <a> Fort Lauderdale </a> , Florida , on 22 January 1999 .
+
+44	TRUE	Ernie Wise::birth_name	ernest wiseman / Ernest Wiseman	
+<p> <strong> Ernest Wiseman </strong> <a> OBE </a> ( 27 November 1925 &#x2013 ; 21 March 1999 ) , known by his stage name <strong> Ernie Wise </strong> , was an English <a> comedian </a> , best known as one half of the comedy duo <a> Morecambe and Wise </a> , who became an institution on British <a> television </a> , especially for their <a> Christmas </a> specials . </p>
+
+45	FALSE	Lana Clarkson::name	lana clarkson / Jean Clarkson	
+<p> <strong> Lana Jean Clarkson </strong> ( April 5 , 1962 - February 3 , 2003 ) was an <a> American </a> actress and fashion model .
+
+46	FALSE	Lana Clarkson::birth_name	lana clarkson / Clarkson ' s best known films may be her work with	
+<p> Clarkson ' s best known films may be her work with <a> Roger Corman </a> , appearing first in his fantasy film <em> <a> Deathstalker </a> </em> , as a female warrio / love interest to the title character played by Richard Hill .
+
+#	NEW	birth_place	........ / Los Angeles	// Right after Clarksons ' s family moved back to <a> Los Angeles County </a> , Lana pursued a career in <a> entertainment industry </a> as a performer and <a> fashion model </a> . </p>
+
+#	NEW	occupation	........ / by	// <p> Clarkson ' s best known films may be her work with <a> Roger Corman </a> , appearing first in his fantasy film <em> <a> Deathstalker </a> </em> , as a female warrio / love interest to the title character played by Richard Hill .
+
+#	NEW	death_date	........ / February 3 , 2003 )	// <p> <strong> Lana Jean Clarkson </strong> ( April 5 , 1962 - February 3 , 2003 ) was an <a> American </a> actress and fashion model .
+
+#	NEW	birthname	........ / Lana Jean Clarkson	// <p> <strong> Lana Jean Clarkson </strong> ( April 5 , 1962 - February 3 , 2003 ) was an <a> American </a> actress and fashion model .
+
+51	FALSE	Lana Turner::name	lana turner / Hollywood Boulevard	
+<p> For her contribution to the motion-picture industry , Turner has a star on the <a> Hollywood Walk of Fame </a> at 6241 <a> Hollywood Boulevard </a> . </p>
+
+52	FALSE	Lana Turner::birth_name	julia jean turner / an <a> American	
+<p> <strong> Lana Turner </strong> ( February 8 , 1921 &ndash ; June 29 , 1995 ) was an <a> American </a> <a> actress </a> . </p>
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Lana Turner </strong> ( February 8 , 1921 &ndash ; June 29 , 1995 ) was an <a> American </a> <a> actress </a> . </p>
+
+54	TRUE	Lana Turner::occupation	actress / Actress	
+<p> Turner ' s career recovered briefly after she appeared in the hugely successful big-screen adaptation of <a> Grace Metalious </a> ' s best-selling novel , <em> <a> Peyton Place </a> </em> ( 1957 ) , for which she was nominated for an <a> Academy Award for Best Actress </a> .
+
+#	NEW	birthplace	........ / in the comic	// <p> She was the visual basis for the character Janice Porter in the comic <strong> <em> ' . </em> </strong> </p>
+
+56	TRUE	Buddy Ebsen::name	buddy ebsen / character actor	
+<p> <strong> Buddy Ebsen </strong> ( April 2 , 1908 &ndash ; July 6 , 2003 ) was an American <a> character actor </a> and dancer .
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Buddy Ebsen </strong> ( April 2 , 1908 &ndash ; July 6 , 2003 ) was an American <a> character actor </a> and dancer .
+
+#	NEW	death_date	........ / July 6 , 2003 )	// <p> <strong> Buddy Ebsen </strong> ( April 2 , 1908 &ndash ; July 6 , 2003 ) was an American <a> character actor </a> and dancer .
+
+#	NEW	birthdate	........ / ( April 2 , 1908 &	// <p> <strong> Buddy Ebsen </strong> ( April 2 , 1908 &ndash ; July 6 , 2003 ) was an American <a> character actor </a> and dancer .
+
+#	NEW	birthplace	........ / Belleville , Illinois	// <p> He was born <strong> Christian Rudolph Ebsen , Jr . </strong> in <a> Belleville , Illinois </a> .
+
+#	NEW	birthname	........ / Christian Rudolph Ebsen	// <p> He was born <strong> Christian Rudolph Ebsen , Jr . </strong> in <a> Belleville , Illinois </a> .
+
+62	FALSE	Buddy Ebsen::birth_name	christian rudolph ebsen, jr. / was an American	
+<p> <strong> Buddy Ebsen </strong> ( April 2 , 1908 &ndash ; July 6 , 2003 ) was an American <a> character actor </a> and dancer .
+
+63	FALSE	Bob Denver::name	bob denver / Dobie Gillis	
+<p> <strong> Robert Osbourne &quot ; Bob&quot ; Denver </strong> ( January 9 , 1935&nbsp ; &#x2013 ; September 2 , 2005 ) was an American comedic actor known for his roles as <a> Gilligan </a> on the television series <em> <a> Gilligan ' s Island </a> </em> and the <a> beatnik </a> <a> Maynard G . Krebs </a> on the 1959&#x2013 ; 1963 TV series <em> <a> The Many Loves of Dobie Gillis </a> </em> . </p>
+
+#	NEW	birth_date	........ / em>	// Kildare </a> </em> , telecast on October 10 , 1963 .
+
+#	NEW	death_date	........ / Take	// <p> He landed a small role in the 1963 <a> Jimmy Stewart </a> film , <em> <a> Take Her , She ' s Mine </a> </em> , playing a beatnik poet working at a coffee shop , and was credited as &quot ; Robert Denver . &quot ;
+
+#	NEW	birthplace	........ / Loyola Marymount University	// He graduated from Loyola University ( predecessor to today ' s <a> Loyola Marymount University </a> ) in Los Angeles , California .
+
+#	NEW	caption	........ / quot ;	// The episode , &quot ; If You Can ' t Believe the Truth . . . , &quot ; also featured <a> Barbara Eden </a> and <a> Ken Berry </a> . </p>
+
+#	NEW	birthname	........ / and raised in	// <p> Denver was born in <a> New Rochelle , New York </a> , and raised in <a> Brownwood </a> in central Texas .
+
+#	NEW	birth_name	........ / Robert Osbourne &quot ; Bob&quot ; Denver	// <p> <strong> Robert Osbourne &quot ; Bob&quot ; Denver </strong> ( January 9 , 1935&nbsp ; &#x2013 ; September 2 , 2005 ) was an American comedic actor known for his roles as <a> Gilligan </a> on the television series <em> <a> Gilligan ' s Island </a> </em> and the <a> beatnik </a> <a> Maynard G . Krebs </a> on the 1959&#x2013 ; 1963 TV series <em> <a> The Many Loves of Dobie Gillis </a> </em> . </p>
+
+70	FALSE	Loretta Young::name	loretta young / Hollywood Boulevard.	
+<p> Young has two stars on the <a> Hollywood Walk of Fame </a> ; one for motion pictures , at 6104 <a> Hollywood Boulevard </a> , and another for television , at 6141 Hollywood Boulevard . </p>
+
+71	FALSE	Loretta Young::birth_name	gretchen michaela young / was an American	
+<p> <strong> Loretta Young </strong> ( January 6 , 1913 &ndash ; August 12 , 2000 ) was an American actress .
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Loretta Young </strong> ( January 6 , 1913 &ndash ; August 12 , 2000 ) was an American actress .
+
+#	NEW	death_date	........ / August 12 , 2000 )	// <p> <strong> Loretta Young </strong> ( January 6 , 1913 &ndash ; August 12 , 2000 ) was an American actress .
+
+#	NEW	birthplace	........ / was an American	// <p> <strong> Loretta Young </strong> ( January 6 , 1913 &ndash ; August 12 , 2000 ) was an American actress .
+
+#	NEW	birthname	........ / was an American	// <p> <strong> Loretta Young </strong> ( January 6 , 1913 &ndash ; August 12 , 2000 ) was an American actress .
+
+#	NEW	name	........ / work .	// <p> <strong> Robert Francis Vaughn </strong> , <a> PhD </a> ( born November 22 , 1932 ) , is an American actor noted for <a> stage </a> , <a> film </a> and <a> television </a> work .
+
+77	TRUE	Robert Vaughn::birth_name	robert francis vaughn / Robert Francis Vaughn	
+<p> <strong> Robert Francis Vaughn </strong> , <a> PhD </a> ( born November 22 , 1932 ) , is an American actor noted for <a> stage </a> , <a> film </a> and <a> television </a> work .
+
+#	NEW	birth_date	........ / Vaughn	// <p> Vaughn continued to act , in television and in mostly <a> B movie </a> s .
+
+#	NEW	occupation	........ / Actor -	// <p> Vaughn ' s first notable appearance was in <em> <a> The Young Philadelphians </a> </em> ( 1959 ) for which he was nominated for an <a> Academy Award for Best Supporting Actor </a> and a <a> Golden Globe Award for Best Supporting Actor - Motion Picture </a> .
+
+#	NEW	death_date	........ / November 22 , 1932 )	// <p> <strong> Robert Francis Vaughn </strong> , <a> PhD </a> ( born November 22 , 1932 ) , is an American actor noted for <a> stage </a> , <a> film </a> and <a> television </a> work .
+
+#	NEW	birthname	........ / quit after a year	// He quit after a year and moved to <a> Los Angeles , California </a> with his mother . </p>
+
+#	NEW	birthplace	........ / Mark E . Solomone .	// <p> He is also the voice and face of various law firms across the northeast United States , such as that of Mark E . Solomone . </p>
+
+#	NEW	name	........ / Debra Monk	// <p> <strong> Debra Monk </strong> ( born February 27 , 1949 ) is an American actress , singer , and writer . </p>
+
+#	NEW	birth_name	........ / is an American actress , singer , and writer .	// <p> <strong> Debra Monk </strong> ( born February 27 , 1949 ) is an American actress , singer , and writer . </p>
+
+#	NEW	occupation	........ / actress	// <p> <strong> Debra Monk </strong> ( born February 27 , 1949 ) is an American actress , singer , and writer . </p>
+
+#	NEW	death_date	........ / February 27 , 1949 )	// <p> <strong> Debra Monk </strong> ( born February 27 , 1949 ) is an American actress , singer , and writer . </p>
+
+#	NEW	birthdate	........ / 27 , 1949 ) is an American actress , singer , and writer .	// <p> <strong> Debra Monk </strong> ( born February 27 , 1949 ) is an American actress , singer , and writer . </p>
+
+#	NEW	birthplace	........ / singer , and	// <p> <strong> Debra Monk </strong> ( born February 27 , 1949 ) is an American actress , singer , and writer . </p>
+
+#	NEW	birthname	........ / is an American actress	// <p> <strong> Debra Monk </strong> ( born February 27 , 1949 ) is an American actress , singer , and writer . </p>
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Debra Monk </strong> ( born February 27 , 1949 ) is an American actress , singer , and writer . </p>
+
+91	TRUE	James Goldman::name	james goldman / William Goldman	
+<p> <strong> James Goldman </strong> ( June 30 , 1927 &#x2013 ; October 28 , 1998 ) was an American <a> screenwriter </a> and playwright , and the brother of screenwriter and novelist <a> William Goldman </a> . </p>
+
+#	NEW	birth_name	........ / was an American	// <p> <strong> James Goldman </strong> ( June 30 , 1927 &#x2013 ; October 28 , 1998 ) was an American <a> screenwriter </a> and playwright , and the brother of screenwriter and novelist <a> William Goldman </a> . </p>
+
+#	NEW	birth_date	........ / Goldman	// <p> Goldman died from a <a> heart attack </a> in <a> New York City </a> , where he had lived for many years . </p>
+
+#	NEW	occupation	........ / William	// <p> <strong> James Goldman </strong> ( June 30 , 1927 &#x2013 ; October 28 , 1998 ) was an American <a> screenwriter </a> and playwright , and the brother of screenwriter and novelist <a> William Goldman </a> . </p>
+
+#	NEW	death_date	........ / October 28 , 1998 )	// <p> <strong> James Goldman </strong> ( June 30 , 1927 &#x2013 ; October 28 , 1998 ) was an American <a> screenwriter </a> and playwright , and the brother of screenwriter and novelist <a> William Goldman </a> . </p>
+
+#	NEW	death_place	........ / New York City	// <p> Goldman died from a <a> heart attack </a> in <a> New York City </a> , where he had lived for many years . </p>
+
+#	NEW	birthname	........ / was an American	// <p> <strong> James Goldman </strong> ( June 30 , 1927 &#x2013 ; October 28 , 1998 ) was an American <a> screenwriter </a> and playwright , and the brother of screenwriter and novelist <a> William Goldman </a> . </p>
+
+98	FALSE	Chuck Barris::name	chuck barris / Dating Game	
+<p> <strong> Charles Hirsch &quot ; Chuck&quot ; Barris </strong> ( born June 3 , 1929 ) is an <a> American </a> <a> game show </a> producer , <a> film director </a> and presenter best known for hosting <em> <a> The Gong Show </a> </em> and creating <em> <a> The Dating Game </a> </em> .
+
+#	NEW	birth_name	........ / Charles Hirsch &quot ; Chuck&quot ; Barris	// <p> <strong> Charles Hirsch &quot ; Chuck&quot ; Barris </strong> ( born June 3 , 1929 ) is an <a> American </a> <a> game show </a> producer , <a> film director </a> and presenter best known for hosting <em> <a> The Gong Show </a> </em> and creating <em> <a> The Dating Game </a> </em> .
+
+#	NEW	birth_date	........ / In 1980 ,	// <p> In 1980 , he starred and directed <a> The Gong Show Movie </a> .
+
+#	NEW	occupation	........ / Game	// <p> <strong> Charles Hirsch &quot ; Chuck&quot ; Barris </strong> ( born June 3 , 1929 ) is an <a> American </a> <a> game show </a> producer , <a> film director </a> and presenter best known for hosting <em> <a> The Gong Show </a> </em> and creating <em> <a> The Dating Game </a> </em> .
+
+#	NEW	birthplace	........ / before any action	// So strong were the feelings of the Autrys that <em> Newlywed </em> came close to being expelled from the KTLA facilities , but the show was discontinued by the syndicator before any action occurred .
+
+#	NEW	birthname	........ / is also an author .	// Barris , a survivor of <a> lung cancer </a> , is also an author . </p>
+
+#	NEW	name	........ / Wallace Weaving	// <p> <strong> Hugo Wallace Weaving </strong> ( born 4 April 1960 ) is a Nigerian-born <a> British </a> - <a> Australia </a> n film and stage actor .
+
+105	FALSE	Hugo Weaving::birth_name	hugo wallace weaving / filmed a guest role on Roxburgh ' s Australian TV series	
+Weaving filmed a guest role on Roxburgh ' s Australian TV series <em> <a> Rake </a> </em> in May 2010 . </p>
+
+#	NEW	death_date	........ / n	// <p> <strong> Hugo Wallace Weaving </strong> ( born 4 April 1960 ) is a Nigerian-born <a> British </a> - <a> Australia </a> n film and stage actor .
+
+#	NEW	birthdate	........ / 4 April 1960 )	// <p> <strong> Hugo Wallace Weaving </strong> ( born 4 April 1960 ) is a Nigerian-born <a> British </a> - <a> Australia </a> n film and stage actor .
+
+#	NEW	birthplace	........ / a Nigerian- born	// <p> <strong> Hugo Wallace Weaving </strong> ( born 4 April 1960 ) is a Nigerian-born <a> British </a> - <a> Australia </a> n film and stage actor .
+
+#	NEW	birthname	........ / n film and	// <p> <strong> Hugo Wallace Weaving </strong> ( born 4 April 1960 ) is a Nigerian-born <a> British </a> - <a> Australia </a> n film and stage actor .
+
+#	NEW	name	........ / Amanda Davies	// <p> Slezak is married to Brian Davies , and is the mother of two children , Michael ( born 1980 ) and <strong> Amanda Davies </strong> ( born 1981 ) . ref
+
+111	TRUE	Erika Slezak::birth_name	erika alma hermina slezak / Erika Alma Hermina Slezak	
+<p> <strong> Erika Alma Hermina Slezak </strong> ( born August 5 , 1946 ) is an American actress of <a> Austria </a> n and <a> Dutch </a> descent , best known for her role as <a> Victoria &quot ; Viki&quot ; Lord Banks </a> on the American daytime <a> soap opera </a> <em> <a> One Life to Live </a> </em> . </p>
+
+#	NEW	birth_date	........ / Ron 10 , 2007 .	// <a> Ron Carlivati </a> was subsequently made co-head writer , with Higley ultimately leaving the series on September 10 , 2007 . </strong> </em> </p>
+
+113	TRUE	Erika Slezak::occupation	actress / Actress	
+<p> Slezak has won six <a> Daytime Emmy Award </a> s in the category of &quot ; <a> Outstanding Lead Actress in a Drama Series </a> &quot ; out of eight nominations .
+
+#	NEW	death_date	........ / descent	// <p> <strong> Erika Alma Hermina Slezak </strong> ( born August 5 , 1946 ) is an American actress of <a> Austria </a> n and <a> Dutch </a> descent , best known for her role as <a> Victoria &quot ; Viki&quot ; Lord Banks </a> on the American daytime <a> soap opera </a> <em> <a> One Life to Live </a> </em> . </p>
+
+#	NEW	birthname	........ / Slezak is married	// <p> Slezak is married to Brian Davies , and is the mother of two children , Michael ( born 1980 ) and <strong> Amanda Davies </strong> ( born 1981 ) . ref
+
+116	TRUE	Dorothy Dandridge::name	dorothy dandridge / Hollywood Boulevard	
+<p> For her contribution to the motion picture industry , Dorothy Dandridge has a star on the <a> Hollywood Walk of Fame </a> at 671 <a> Hollywood Boulevard </a> . </p>
+
+117	TRUE	Dorothy Dandridge::birth_name	dorothy jean dandridge / Dorothy Jean Dandridge	
+<p> <strong> Dorothy Jean Dandridge </strong> ( November 9 , 1922 &ndash ; September 8 , 1965 ) was an American <a> actress </a> and <a> popular singer </a> , and was the first <a> African American </a> to be nominated for an <a> Academy Award for Best Actress </a> . </p>
+
+#	NEW	birth_date	........ / June 22 , 1959 .	// They were married on June 22 , 1959 . </p>
+
+#	NEW	birth_place	........ / Paris ( Cafe	// This very successful appearance led to offers to appear in Paris ( Cafe de Paris ) , New York ( La Vie en Rose ) as well as numerous guest television appearances .
+
+#	NEW	occupation	........ / Actress	// In 1954 , she was nominated for an <a> Academy Award </a> for Best Actress and a <a> BAFTA Award </a> for Best Actress in a Leading Role for <em> <a> Carmen Jones </a> </em> , and , in 1959 , was nominated for a <a> Golden Globe </a> Award for Best Actress in a Motion Picture Musical or Comedy for <em> <a> Porgy and Bess </a> </em> .
+
+#	NEW	birthplace	........ / Dandridge died in	// <p> Her mother , Ruby Dandridge died in 1987 .
+
+#	NEW	birthname	........ / Vivian made friends at	// <p> Dorothy and Vivian made friends at the dancing school with a girl named Etta Jones .
+
+123	FALSE	Spalding Gray::name	spalding gray / Rockwell Gray	
+<p> <strong> Spalding Rockwell Gray </strong> ( June 5 , 1941 &ndash ; ca .
+
+124	FALSE	Spalding Gray::birth_name	spalding rockwell gray / performance artist	
+January 10 , 2004 ) was an <a> American </a> <a> actor </a> , <a> playwright </a> , <a> screenwriter </a> , <a> performance artist </a> , and <a> monologuist </a> .
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Spalding Rockwell Gray </strong> ( June 5 , 1941 &ndash ; ca .
+
+#	NEW	death_date	........ / 5 , 1941 &	// <p> <strong> Spalding Rockwell Gray </strong> ( June 5 , 1941 &ndash ; ca .
+
+#	NEW	birthname	........ / Spalding Rockwell Gray	// <p> <strong> Spalding Rockwell Gray </strong> ( June 5 , 1941 &ndash ; ca .
+
+128	FALSE	Lillian Gish::name	lillian gish / Vine Street.	
+She has a star on the <a> Hollywood Walk of Fame </a> at 1720 Vine Street . </p>
+
+129	TRUE	Lillian Gish::birth_name	lillian diana gish / Lillian Diana Gish	
+<p> <strong> Lillian Diana Gish </strong> ( October 14 , 1893&nbsp ; &#x2013 ; February 27 , 1993 ) was an American stage , screen and television actress whose film acting career spanned 75 years , from 1912 to 1987 . </p>
+
+130	TRUE	Lillian Gish::occupation	actress / Actress	
+<p> Returning to movies , Gish was nominated for the <a> Academy Award for Best Supporting Actress </a> in 1946 for <em> <a> Duel in the Sun </a> </em> .
+
+#	NEW	death_date	........ / February 27 , 1993 )	// <p> <strong> Lillian Diana Gish </strong> ( October 14 , 1893&nbsp ; &#x2013 ; February 27 , 1993 ) was an American stage , screen and television actress whose film acting career spanned 75 years , from 1912 to 1987 . </p>
+
+#	NEW	birthname	........ / an American stage	// <p> <strong> Lillian Diana Gish </strong> ( October 14 , 1893&nbsp ; &#x2013 ; February 27 , 1993 ) was an American stage , screen and television actress whose film acting career spanned 75 years , from 1912 to 1987 . </p>
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Lillian Diana Gish </strong> ( October 14 , 1893&nbsp ; &#x2013 ; February 27 , 1993 ) was an American stage , screen and television actress whose film acting career spanned 75 years , from 1912 to 1987 . </p>
+
+134	TRUE	John Gilbert (actor)::name	john gilbert / silent film	
+<p> <strong> John Gilbert </strong> ( July 10 , 1899 &ndash ; January 9 , 1936 ) was an American actor and a major star of the <a> silent film </a> era . </p>
+
+135	FALSE	John Gilbert (actor)::birth_name	john cecil pringle / an American actor and a major star of the	
+<p> <strong> John Gilbert </strong> ( July 10 , 1899 &ndash ; January 9 , 1936 ) was an American actor and a major star of the <a> silent film </a> era . </p>
+
+136	FALSE	John Gilbert (actor)::occupation	actor, director, writer / actor	
+<p> <strong> John Gilbert </strong> ( July 10 , 1899 &ndash ; January 9 , 1936 ) was an American actor and a major star of the <a> silent film </a> era . </p>
+
+#	NEW	death_date	........ / January 9 , 1936 )	// <p> <strong> John Gilbert </strong> ( July 10 , 1899 &ndash ; January 9 , 1936 ) was an American actor and a major star of the <a> silent film </a> era . </p>
+
+#	NEW	birthname	........ / an American actor	// <p> <strong> John Gilbert </strong> ( July 10 , 1899 &ndash ; January 9 , 1936 ) was an American actor and a major star of the <a> silent film </a> era . </p>
+
+#	NEW	name	........ / fashion model	// <p> <strong> Mia Farrow </strong> ( born <strong> Maria de Lourdes Villiers Farrow </strong> ; February 9 , 1945 ) is an American actress , singer , and former <a> fashion model </a> .
+
+#	NEW	caption	........ / Her	// <p> Her third trip was as part of a documentary film expedition in 2007 .
+
+141	FALSE	Mia Farrow::occupation	actress, singer / actress	
+Farrow has appeared in more than forty-five films and won numerous awards , including a <a> Golden Globe </a> award ( and seven additional Golden Globe nominations ) , five <a> BAFTA Film Award </a> nominations , and a win for best actress at the <a> San Sebastian International Film Festival </a> .
+
+#	NEW	death_date	........ / February 9 , 1945 )	// <p> <strong> Mia Farrow </strong> ( born <strong> Maria de Lourdes Villiers Farrow </strong> ; February 9 , 1945 ) is an American actress , singer , and former <a> fashion model </a> .
+
+#	NEW	birthname	........ / Maria de Lourdes Villiers Farrow	// <p> <strong> Mia Farrow </strong> ( born <strong> Maria de Lourdes Villiers Farrow </strong> ; February 9 , 1945 ) is an American actress , singer , and former <a> fashion model </a> .
+
+144	FALSE	Mia Farrow::birth_name	maria de lourdes villiers farrow / Farrow has appeared	
+Farrow has appeared in more than forty-five films and won numerous awards , including a <a> Golden Globe </a> award ( and seven additional Golden Globe nominations ) , five <a> BAFTA Film Award </a> nominations , and a win for best actress at the <a> San Sebastian International Film Festival </a> .
+
+145	TRUE	Jack Mercer::name	jack mercer / voice actor	
+<p> <strong> Jack Mercer </strong> ( January 13 , 1910 &ndash ; December 4 , 1984 ) was an <a> American </a> <a> animator </a> , storyman and <a> voice actor </a> .
+
+#	NEW	birth_name	........ / storyman and <a> voice actor	// <p> <strong> Jack Mercer </strong> ( January 13 , 1910 &ndash ; December 4 , 1984 ) was an <a> American </a> <a> animator </a> , storyman and <a> voice actor </a> .
+
+#	NEW	occupation	........ / actor	// <p> <strong> Jack Mercer </strong> ( January 13 , 1910 &ndash ; December 4 , 1984 ) was an <a> American </a> <a> animator </a> , storyman and <a> voice actor </a> .
+
+#	NEW	death_date	........ / voice	// <p> <strong> Jack Mercer </strong> ( January 13 , 1910 &ndash ; December 4 , 1984 ) was an <a> American </a> <a> animator </a> , storyman and <a> voice actor </a> .
+
+#	NEW	birthplace	........ / of cartoon character	// He is best known as the voice of cartoon character <a> Popeye </a> . </p>
+
+#	NEW	birthname	........ / voice actor	// <p> <strong> Jack Mercer </strong> ( January 13 , 1910 &ndash ; December 4 , 1984 ) was an <a> American </a> <a> animator </a> , storyman and <a> voice actor </a> .
+
+#	NEW	birth_name	........ / Robert Benedic &quot ; Ben&quot ; Browder	// <p> <strong> Robert Benedic &quot ; Ben&quot ; Browder </strong> ( born December 11 , 1962 ) is an <a> American </a> <a> actor </a> and <a> writer </a> , best known for his roles as <a> John Crichton </a> in <em> <a> Farscape </a> </em> and <a> Cameron Mitchell </a> in <em> <a> Stargate SG-1 </a> </em> . </p>
+
+#	NEW	occupation	........ / Actor	// He has received two <a> Saturn Awards </a> for Best Actor In A Television Role for his acting in <em> Farscape </em> .
+
+#	NEW	birthplace	........ / the cancellation of	// The two returned to the United States in 2003 following the cancellation of <em> Farscape </em> .
+
+#	NEW	name	........ / Stargate SG-	// <p> <strong> Robert Benedic &quot ; Ben&quot ; Browder </strong> ( born December 11 , 1962 ) is an <a> American </a> <a> actor </a> and <a> writer </a> , best known for his roles as <a> John Crichton </a> in <em> <a> Farscape </a> </em> and <a> Cameron Mitchell </a> in <em> <a> Stargate SG-1 </a> </em> . </p>
+
+#	NEW	birthname	........ / for Best Actor	// He has received two <a> Saturn Awards </a> for Best Actor In A Television Role for his acting in <em> Farscape </em> .
+
+156	FALSE	Oscar Micheaux::name	oscar micheaux / more than	
+<p> <strong> Oscar Devereaux Micheaux </strong> ( 2 January 1884 &#x2013 ; 25 March 1951 ) was an American <a> author </a> , film <a> director </a> and independent producer of more than 44 films .
+
+157	TRUE	Oscar Micheaux::birth_name	oscar devereaux micheaux / Oscar Devereaux Micheaux	
+<p> <strong> Oscar Devereaux Micheaux </strong> ( 2 January 1884 &#x2013 ; 25 March 1951 ) was an American <a> author </a> , film <a> director </a> and independent producer of more than 44 films .
+
+#	NEW	occupation	........ / director	// <p> <strong> Oscar Devereaux Micheaux </strong> ( 2 January 1884 &#x2013 ; 25 March 1951 ) was an American <a> author </a> , film <a> director </a> and independent producer of more than 44 films .
+
+#	NEW	death_date	........ / and	// <p> <strong> Oscar Devereaux Micheaux </strong> ( 2 January 1884 &#x2013 ; 25 March 1951 ) was an American <a> author </a> , film <a> director </a> and independent producer of more than 44 films .
+
+#	NEW	birthplace	........ / make a film .	// He formed his own movie production company and , in 1919 , became the first African American to make a film . <img>
+
+#	NEW	birthdate	........ / ( 2 January 1884 &#x2013 ; 25	// <p> <strong> Oscar Devereaux Micheaux </strong> ( 2 January 1884 &#x2013 ; 25 March 1951 ) was an American <a> author </a> , film <a> director </a> and independent producer of more than 44 films .
+
+#	NEW	birthname	........ / independent producer of more than	// <p> <strong> Oscar Devereaux Micheaux </strong> ( 2 January 1884 &#x2013 ; 25 March 1951 ) was an American <a> author </a> , film <a> director </a> and independent producer of more than 44 films .
+
+163	TRUE	Rachel Roberts (actress)::name	rachel roberts / male character.	
+<p> <strong> Rachel Roberts </strong> ( 20 September 1927 &#x2013 ; 26 November 1980 ) was a <a> Welsh </a> <a> actress </a> noted for her fervour and passion ; Roberts is best remembered for her forthright screen performances in two key films of the 1960s , <em> <a> Saturday Night and Sunday Morning </a> </em> and <em> <a> This Sporting Life </a> </em> , in both of which she played the older mistress of the central male character . </p>
+
+#	NEW	birthname	........ / made her film debut	// She made her film debut in the Welsh-set comedy <em> Valley of Song </em> ( 1953 ; directed by <a> Gilbert Gunn </a> ) . </p>
+
+165	TRUE	Rachel Roberts (actress)::birth_name	rachel roberts / November 1980 ) was	
+<p> <strong> Rachel Roberts </strong> ( 20 September 1927 &#x2013 ; 26 November 1980 ) was a <a> Welsh </a> <a> actress </a> noted for her fervour and passion ; Roberts is best remembered for her forthright screen performances in two key films of the 1960s , <em> <a> Saturday Night and Sunday Morning </a> </em> and <em> <a> This Sporting Life </a> </em> , in both of which she played the older mistress of the central male character . </p>
+
+#	NEW	occupation	........ / Actress	// <p> She appeared in supporting roles in several American films such as <em> <a> Foul Play </a> </em> ( 1978 ) after relocating to <a> Los Angeles </a> in the early 1970s , her final British film being <em> <a> Yanks </a> </em> ( 1979 , directed by <a> John Schlesinger </a> ) , for which she received a Supporting Actress BAFTA .
+
+167	TRUE	Samantha Eggar::name	samantha eggar / Samantha Eggar	
+<p> <strong> Samantha Eggar </strong> ( born 5 March 1939 ) is an <a> English </a> actress . </p>
+
+168	FALSE	Samantha Eggar::birth_name	victoria louise samantha marie elizabeth therese eggar / won a Golden Globe award for this performance and was also named	
+She won a Golden Globe award for this performance and was also named <a> Best Actress </a> at the <a> Cannes Film Festival </a> .
+
+#	NEW	birth_date	........ / <strong>	// <p> <strong> Samantha Eggar </strong> ( born 5 March 1939 ) is an <a> English </a> actress . </p>
+
+170	TRUE	Samantha Eggar::occupation	actress / William	
+She received a nomination for the <a> Academy Award for Best Actress </a> for <em> <a> The Collector </a> </em> ( 1965 ) , directed by <a> William Wyler </a> .
+
+#	NEW	death_date	........ / actress .	// <p> <strong> Samantha Eggar </strong> ( born 5 March 1939 ) is an <a> English </a> actress . </p>
+
+#	NEW	birthdate	........ / 1939 )	// <p> <strong> Samantha Eggar </strong> ( born 5 March 1939 ) is an <a> English </a> actress . </p>
+
+#	NEW	birthname	........ / March 1939 ) is an	// <p> <strong> Samantha Eggar </strong> ( born 5 March 1939 ) is an <a> English </a> actress . </p>
+
+174	FALSE	Elizabeth Hartman::birth_name	mary elizabeth hartman / proved to be her last Hollywood film role.	
+This proved to be her last Hollywood film role . </p>
+
+#	NEW	occupation	........ / Actress .	// The role also won Hartman an Academy Award nomination for Best Actress .
+
+#	NEW	death_place	........ / New York City	// After gaining valuable experience in community theater , she relocated to <a> New York City </a> .
+
+#	NEW	birthplace	........ / nomination for Best	// The role also won Hartman an Academy Award nomination for Best Actress .
+
+178	TRUE	Elizabeth Hartman::name	elizabeth hartman / Picture Drama	
+<p> <strong> Mary Elizabeth Hartman </strong> ( December 23 , 1943 &#x2013 ; June 10 , 1987 ) was an <a> American </a> <a> actress </a> , best known for her performance in the 1965 film <em> <a> A Patch of Blue </a> </em> , playing a blind girl named Selina D ' Arcy , opposite <a> Sidney Poitier </a> , a role for which she won the <a> Golden Globe Award for New Star Of The Year - Actress </a> and was nominated for the <a> Academy Award for Best Actress </a> and <a> Golden Globe Award for Best Actress &#x2013 ; Motion Picture Drama </a> .
+
+#	NEW	birthname	........ / the time of	// At the time of her nomination in 1966 , Elizabeth Hartman ( who was 22 years old ) was the <a> youngest nominee ever in the Best Actress category </a> .
+
+#	NEW	name	........ / Garry Hudson	// <p> <strong> Kate Garry Hudson </strong> ( born April 19 , 1979 ) is an American actress .
+
+181	FALSE	Kate Hudson::birth_name	kate garry hudson / film premiered on January 24, 2010 at the	
+The film premiered on January 24 , 2010 at the <a> Sundance Film Festival </a> . </p>
+
+#	NEW	birth_date	........ / em>	// Also the same year , she appeared in another romantic comedy , <em> <a> My Best Friend ' s Girl </a> </em> , which was released in September . </p>
+
+183	TRUE	Kate Hudson::occupation	actress / Actress	
+She came to prominence in 2001 after winning a <a> Golden Globe </a> and receiving several nominations , including a nomination for an <a> Academy Award for Best Supporting Actress </a> , for her role in <em> <a> Almost Famous </a> </em> .
+
+#	NEW	death_date	........ / April 19 , 1979 )	// <p> <strong> Kate Garry Hudson </strong> ( born April 19 , 1979 ) is an American actress .
+
+#	NEW	birthdate	........ / April 19 , 1979 )	// <p> <strong> Kate Garry Hudson </strong> ( born April 19 , 1979 ) is an American actress .
+
+#	NEW	birthplace	........ / is an American	// <p> <strong> Kate Garry Hudson </strong> ( born April 19 , 1979 ) is an American actress .
+
+#	NEW	birthname	........ / is an American	// <p> <strong> Kate Garry Hudson </strong> ( born April 19 , 1979 ) is an American actress .
+
+188	TRUE	Diahann Carroll::name	diahann carroll / New York	
+<p> <strong> Diahann Carroll </strong> ( born July 17 , 1935 , in <a> New York , New York </a> ) is an American actress and singer .
+
+189	FALSE	Diahann Carroll::birth_name	carol diahann johnson / Carroll is best known for her title role	
+<p> Carroll is best known for her title role in the 1968 television series <em> <a> Julia </a> </em> , which made her the first <a> African American </a> actress to star in her own <a> television series </a> where she did not play a domestic worker .
+
+#	NEW	occupation	........ / Actress	// In 1974 , she was nominated for an <a> Academy Award for Best Actress </a> for <em> <a> Claudine </a> </em> .
+
+#	NEW	death_date	........ / July 17 , 1935	// <p> <strong> Diahann Carroll </strong> ( born July 17 , 1935 , in <a> New York , New York </a> ) is an American actress and singer .
+
+#	NEW	birthname	........ / is an American actress	// <p> <strong> Diahann Carroll </strong> ( born July 17 , 1935 , in <a> New York , New York </a> ) is an American actress and singer .
+
+#	NEW	birthplace	........ / York , New	// <p> <strong> Diahann Carroll </strong> ( born July 17 , 1935 , in <a> New York , New York </a> ) is an American actress and singer .
+
+#	null	occupation	actor / ..........
+
+#	null	occupation	actress / ..........
+
+#	null	caption	jack mercer / ..........
+

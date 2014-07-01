@@ -1,0 +1,75 @@
+Found: 28
+Found Not Null: 9
+Correct: 4
+Wrong: 5
+Total: 9
+precision: 0.4444444444444444
+recall: 0.4444444444444444
+
+
+
+#	NEW	occupation	........ / film	// Brown himself received six Academy Award nominations and in 1949 won the British Academy Award for the film version of William Faulkner ' s Intruder in the Dust . </p>
+
+1	FALSE	Calista Flockhart::occupation	actress / Globe	
+She is best known for playing the <a> title character </a> in the <a> Fox </a> comedy-drama series <em> <a> Ally McBeal </a> </em> ( 1997&#x2013 ; 2002 ) for which she won a <a> Golden Globe Award </a> .
+
+#	NEW	occupation	........ / Actor	// <p> In 1972 , Topol won a <a> Golden Globe Award </a> and was nominated for a <a> Best Actor Oscar </a> for his performance in the film .
+
+3	FALSE	Blythe Danner::occupation	actress / Peter	
+<p> In 1972 , Danner portrayed Martha Jefferson in the movie version of <em> <a> 1776 </a> </em> . Also that same year , she played a jilted wife opposite <a> Peter Falk </a> and <a> John Cassavetes </a> in the <em> <a> Columbo </a> </em> episode &quot ; Etude in Black&quot ; . </p>
+
+#	NEW	occupation	........ / The	// He also was in the <a> Jim Carrey </a> drama <em> <a> The Majestic </a> </em> . </p>
+
+#	NEW	occupation	........ / Actress	// <p> Theron received Best Actress <a> Academy Award </a> and <a> Golden Globe </a> nominations for her lead performance in the drama <em> <a> North Country </a> </em> .
+
+#	NEW	occupation	........ / Titanic	// <p> <strong> Caitlin Clarke </strong> ( May 3 , 1952 &#x2013 ; September 9 , 2004 ) was an American <a> theater </a> and <a> film </a> actress best known for her role as Valerian in the 1981 fantasy film <em> <a> Dragonslayer </a> </em> and for her role as Charlotte Cardoza in the 1998&#x2013 ; 1999 <a> Broadway </a> <a> musical </a> <em> <a> Titanic </a> </em> . </p>
+
+7	FALSE	Cary Elwes::occupation	actor / Wars	
+He earned two <a> Golden Satellite Award </a> nominations for his performances in the television films <em> <a> The Pentagon Wars </a> </em> and <em> <a> Uprising </a> </em> .
+
+#	NEW	occupation	........ / actor	// <p> Cronenberg has also appeared as an actor in other directors ' films .
+
+9	TRUE	Delroy Lindo::occupation	actor / Tony	
+Lindo has been nominated for the <a> Tony </a> and <a> Screen Actors Guild </a> awards and has won a <a> Satellite Award </a> .
+
+#	NEW	occupation	........ / actress	// <p> Schultz has also appeared in films including <em> <a> The Fan </a> </em> ( 1981 ) , as <a> Broadway </a> <a> actress </a> <a> Lauren Bacall </a> ' s director , and <em> <a> Fat Man and Little Boy </a> </em> ( 1989 ) , as <a> J .
+
+#	NEW	occupation	........ / time .	// Fuller also had her music recorded by <a> Nat ' King ' Cole </a> , <a> Peggy Lee </a> , and other leading talents of the time . </p>
+
+#	NEW	occupation	........ / 1903 .	// Another summary , of the period prior to the Schola , also appeared in 1911 : the <em> Trois morceaux en forme de poire </em> , which was a kind of compilation of the best of what he had written up to 1903 . </p>
+
+#	NEW	occupation	........ / role	// She also appeared with a starring role in the series <em> Extreme </em> for NBC and the syndicated series <em> <a> Renegade </a> </em> and <em> <a> Queen of Swords </a> </em> . </p>
+
+#	NEW	occupation	........ / Actor	// His tenure in the show resulted in two <a> Golden Globe </a> nominations and two <a> Emmy </a> nominations for <a> Outstanding Lead Actor in a Comedy Series </a> ; at the age of 13 he was the youngest actor ever to receive these honors .
+
+15	FALSE	Gary Coleman::occupation	actor / musical	
+<p> Coleman is parodied in the hit 2003 Broadway <a> musical </a> <em> <a> Avenue Q </a> </em> , which won the 2004 <a> Tony Award </a> for <a> best musical </a> .
+
+#	NEW	occupation	........ / was	// They also wrote a show for <a> Ringo Starr </a> , which was never made .
+
+17	TRUE	Halle Berry::occupation	actress / Actress &#	
+She was awarded the <a> African-American Film Critics Association </a> for best actress and also was nominated for the <a> Golden Globe Award for Best Actress &#x2013 ; Motion Picture Drama </a> . </p>
+
+18	TRUE	Gary Busey::occupation	actor / Actor	
+The movie earned Busey an <a> Oscar </a> nomination for <a> Best Actor </a> .
+
+#	NEW	occupation	........ / on	// <p> Woolvett was also one of the first program jockeys for <a> YTV </a> ' s <em> <a> The Zone </a> </em> ( then called <em> The After-School Zone </em> ) and the original main host for a program called <em> <a> Video &amp ; Arcade Top 10 </a> </em> which also aired on YTV .
+
+#	NEW	occupation	........ / First	// The result , <em> <a> Star Trek : The Motion Picture </a> </em> , received a lukewarm critical response , but it performed well at the box office &#x2013 ; it was the highest-grossing of all Star Trek movies until the release of <em> First Contact </em> in 1996 . </p>
+
+#	NEW	occupation	........ / Star	// <p> Lucas was nominated for four Academy Awards : <a> Best Directing </a> and <a> Writing </a> for <em> American Graffiti </em> , and <a> Best Directing </a> and <a> Writing </a> for <em> Star Wars </em> .
+
+#	NEW	occupation	........ / Television	// He was also a special programming consultant to <a> Harlech Television </a> .
+
+23	FALSE	Humphrey Bogart::occupation	actor / Picture	
+<p> <em> Casablanca </em> won the 1943 <a> Academy Award for Best Picture </a> .
+
+#	NEW	occupation	........ / went	// In the early nineties , she also had a brief but successful career as a pop singer , releasing an album which went gold in Sweden . </p>
+
+#	NEW	occupation	........ / motion	// In 1959 , he directed a live action feature film , <em> Ugler i Mosen </em> , which also contained stop motion sequences .
+
+26	TRUE	Ian McKellen::occupation	actor / actor	
+His performance in the title role garnered best actor nominations for the <a> BAFTA Award </a> and <a> Golden Globe </a> , and won the <a> European Film Award for Best Actor </a> .
+
+#	NEW	occupation	........ / actress .	// <p> <strong> Elyssa Davalos </strong> ( born May 30 , 1959 ) was an American <a> television </a> and <a> movie </a> actress .
+

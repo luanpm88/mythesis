@@ -1,3 +1,0 @@
-<li>Department of Computer Science</li>
-<li>Department of Physical Education </li>
-<li>College of Adult Education</li>

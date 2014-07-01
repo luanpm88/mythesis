@@ -1,0 +1,168 @@
+Total articles: 1145
+Articles for test: 1031
+Articles for train: 114
+Total attributes: 317
+Attributes with high occurrences: 25/317
+
+------------
+Found: 1829
+Found Not Null: 151
+Correct: 26
+Wrong: 125
+Total: 173
+precision: 0.17218543046357615
+recall: 0.15028901734104047
+
+
+
+<p> Jadavpur University is primarily a unitary university with faculties in Engineering , Science and Arts .
+<p> The <strong> Leland Stanford Junior University </strong> , commonly referred to as <strong> Stanford University </strong> or <strong> Stanford </strong> , is a <a> private research university </a> located in <a> Stanford , California </a> , United States with a strong emphasis on scientific , technological and social science research .
+<p> <strong> St .
+<p> The school of Arts and Science is the largest school within St . John Fisher College and characterized by its ample degree programs and departments .
+&lt; ! ----&gt; </p>
+&lt; ! ----&gt; </p>
+<p> <strong> Seattle University ( SU ) </strong> is a Jesuit Catholic university located in the <a> First Hill </a> neighborhood of <a> Seattle </a> , <a> Washington </a> , USA .
+SU is the largest independent university in the Northwest with over 7 , 500 students enrolled in undergraduate and graduate programs within eight schools , and is one of 28 member institutions of the <a> Association of Jesuit Colleges and Universities </a> .
+SU fields intercollegiate teams in eight men's sports and 12 women's sports . </p>
+<p> With strong support from <a> Rice University </a> and the <a> University of Texas at Austin </a> , the <a> Association of American Universities </a> inducted Texas A&amp;M in May 2001 , on the basis of the depth of the university's research and academic programs .
+<p> &lt; ! --======================== ============================ </p>
+<p> The <strong> University of Washington </strong> ( <strong> UW </strong> , commonly called <strong> U-Dub </strong> ) is a public research <a> university </a> , founded in 1861 in <a> Seattle , Washington </a> , <a> United States </a> .
+<p> The <strong> University of Oslo </strong> ( ) , is the <a> oldest </a> and largest <a> university in Norway </a> , situated in the Norwegian capital of <a> Oslo </a> .
+<p> <strong> The University of Sydney </strong> ( informally <strong> Sydney University </strong> or <strong> USyd </strong> ) is a university located in <a> Sydney </a> , <a> Australia </a> .
+<p> <strong> b . </strong>
+<p> The Women of Troy have won 7 championships in <a> Tennis </a> , 6 in <a> volleyball </a> , 3 in <a> water polo </a> , 2 in <a> golf </a> , 2 in <a> Basketball </a> , 1 in <a> swimming </a> and <a> diving </a> , 1 in <a> track and field </a> , and 1 in <a> soccer </a> . </p>
+--&gt; </p>
+<p> The <strong> University of Tulsa </strong> ( <strong> TU </strong> ) is a <a> private university </a> awarding bachelor's , master's , and doctoral degrees located in <a> Tulsa , Oklahoma </a> , USA .
+The University of Tulsa currently fields a varsity team in eight men's sports and ten women's sports .
+<p> The school's colors are <a> Old Gold </a> ( <a> PMS </a> 873 ) , <a> Royal Blue </a> ( PMS 280 ) , <a> Yellow </a> ( PMS 109 ) , and <a> Crimson </a> ( PMS 032 ) . . </p>
+<p> </p>
+<p> <strong> Utrecht University </strong> ( <em> Universiteit Utrecht </em> in <a> Dutch </a> ) is a <a> university </a> in <a> Utrecht </a> , <a> Netherlands </a> .
+<p> The university's motto is &quot;Sol Iustitiae Illustra Nos , &quot; which means &quot;Sun of Justice , shine upon us . &quot;
+<p> : <strong> Sports Teams at UIU </strong> </p>
+<p> Upper Iowa University awards more than $100 , 000 each year in merit-based scholarships to its current students . </p>
+<p> The <strong> University of New Brunswick </strong> ( <strong> UNB </strong> ) is a Canadian university located in the province of <a> New Brunswick </a> .
+Sports at the club level include rugby , field hockey &quot;Redsticks&quot; baseball , cheer leading , Cross Country Running , and the Woodsmen ( among others ) .
+<p> The <strong> University of Prince Edward Island </strong> ( <strong> UPEI </strong> ) is a <a> public </a> <a> liberal arts </a> university in <a> Charlottetown </a> , <a> Prince Edward Island </a> , <a> Canada </a> , and the sole university in the province .
+<p> The UPEI Panthers have nine teams playing in the <a> Atlantic University Sport </a> ( AUS ) and the <a> Canadian Interuniversity Sport </a> ( CIS ) , including men's and women's <a> ice hockey </a> , <a> soccer </a> , <a> basketball </a> , as well as women's <a> field hockey </a> and <a> rugby union </a> and co-ed <a> swimming </a> . </p>
+<p> The university is represented in the Canada West Universities Athletics Association ( CWUAA ) , <a> Canadian Interuniversity Sport </a> ( CIS ) , and the <a> National Association of Intercollegiate Athletics </a> ( NAIA ) by the team <a> Victoria Vikes </a> . </p>
+<p> The <strong> University of Manitoba </strong> , in <a> Winnipeg </a> , <a> Manitoba </a> , <a> Canada </a> , is the largest university in the province of <a> Manitoba </a> .
+<p> The <strong> University of Manchester Institute of Science and Technology </strong> ( <strong> UMIST </strong> ) was a <a> university </a> based in the centre of the <a> city </a> of <a> Manchester </a> in <a> England </a> .
+The UMIST motto was <em> Scientia et Labore </em> ( By Knowledge and Work ) . </p>
+Hundreds of such institutions were founded in towns and cities throughout the country and while many of the fine <a> Victorian building </a> s built to house them remain , Manchester's alone survived as an independent institution serving some of its original educational aims throughout the 20th century .
+--&gt; </p>
+<p> The <strong> University for Peace </strong> ( <strong> UPEACE </strong> ) was established in <a> Costa Rica </a> in <a> 1980 </a> &quot;to provide humanity with an international institution of higher education for peace and with the aim of promoting among all human beings the spirit of understanding , tolerance and <a> peaceful coexistence </a> . &quot;
+<p> The <strong> University for Peace </strong> ( <strong> UPEACE </strong> ) was established in <a> Costa Rica </a> in <a> 1980 </a> &quot;to provide humanity with an international institution of higher education for peace and with the aim of promoting among all human beings the spirit of understanding , tolerance and <a> peaceful coexistence </a> . &quot;
+<p> The <strong> University for Peace </strong> ( <strong> UPEACE </strong> ) was established in <a> Costa Rica </a> in <a> 1980 </a> &quot;to provide humanity with an international institution of higher education for peace and with the aim of promoting among all human beings the spirit of understanding , tolerance and <a> peaceful coexistence </a> . &quot;
+<p> The <strong> University of Canterbury </strong> ( ; postnominal abbreviation <strong> <em> <a> Cantuar </a> . </em> </strong> or <strong> <em> Cant . </em> </strong>
+<p> <strong> Victoria University </strong> is a <a> federated school </a> of the <a> University of Toronto </a> , consisting of Victoria College and <a> Emmanuel College </a> .
+<p> <strong> Victoria University </strong> is a <a> federated school </a> of the <a> University of Toronto </a> , consisting of Victoria College and <a> Emmanuel College </a> .
+The College offers nationally-accredited courses , learning support , customised courses and career development services to all students . </p>
+<p> <strong> Victoria University </strong> ( VU ) is a multi-sector tertiary institution ( higher education and <a> TAFE </a> ) based in Melbourne , Australia with 10 campuses . </p>
+<p> <strong> Victoria University </strong> ( VU ) is a multi-sector tertiary institution ( higher education and <a> TAFE </a> ) based in Melbourne , Australia with 10 campuses . </p>
+<p> <strong> History </strong> </p>
+<p> <strong> Law </strong> </p>
+Wabash won the first <a> national intercollegiate championship basketball tournament </a> ever held in 1922 . </p>
+The rallying cheer of Wabash College athletics is &quot;Wabash always fights . &quot;
+The Senior Council is responsible for representing student concerns to the faculty and administration , as well as fostering campus unity and maintaining proper regard for college traditions . </p>
+Wabash College competes in Men's Intercollegiate Baseball , Basketball , Tennis , Cross Country , Track and Field , Golf , Football , Soccer , Swimming &amp; Diving and Wrestling . </p>
+<p> <strong> Williams College </strong> is a private <a> liberal arts college </a> located in <a> Williamstown </a> , <a> Massachusetts </a> , <a> United States </a> .
+Williams played in the 2003 , 2004 , and 2010 men's basketball Division III national championship games , winning the title in March 2003 .
+As of 2009 , the school has an enrollment of 2 , 124 undergraduate students and 49 graduate students . </p>
+<p> Williams teams to win national titles since Williams began participating in NCAA tournaments in 1994 include women's <a> crew </a> ( six titles ) , men's <a> tennis </a> ( three ) , women's tennis ( five ) , men's <a> cross country </a> ( two ) , women's cross country ( two ) , men's basketball , women's indoor <a> track and field </a> , and men's <a> soccer </a> .
+Other perennial contenders in NCAA tournaments include women's <a> lacrosse </a> , women's <a> volleyball </a> , women's soccer , women's <a> field hockey </a> , men's <a> golf </a> , men's and women's swimming and diving and men's track and field . </p>
+<p> Not affiliated with the Society of Alumni , but also serving the college's alumni is the <a> Williams Club </a> in <a> New York City </a> .
+Although Williams College typically sports purple and gold as their school colors , purple is in fact the only school color .
+creating Collegiate School , which became <a> Yale College </a> , 9 October 1701]] <strong> Yale University </strong> is a <a> private </a> <a> Ivy League </a> <a> university </a> located in <a> New Haven , Connecticut </a> .
+<p> <strong> York University </strong> ( ) is a <a> public </a> <a> research university </a> in <a> Toronto </a> , <a> Ontario </a> , <a> Canada </a> .
+<p> York has a student population of approximately 51 , 000 , 7 , 000 staff , and 200 , 000 alumni worldwide .
+These include a football stadium , 4 gymnasia , 5 sport playing fields , 4 softball fields , 9 outdoor tennis courts , 5 squash courts , 3 dance/aerobic studios , 6 ice arenas , a swimming pool , an expanding fitness centre and the new <a> Rexall Centre </a> ( home of the <a> Rogers Tennis Cup </a> ) . </p>
+<p> <strong> Columbia Business School </strong> ( <strong> CBS </strong> ) is the <a> business school </a> of <a> Columbia University </a> in <a> Manhattan </a> , <a> New York City </a> .
+She said , 'No . '
+<p> &lt; ! ----&gt;
+<p> <strong> Millsaps College </strong> is a private <a> liberal arts college </a> located in <a> Jackson , Mississippi </a> .
+<p> <strong> Macquarie University </strong> is an <a> Australian </a> <a> public </a> teaching and <a> research university </a> located in <a> Sydney </a> , with its main campus situated in <a> Macquarie Park </a> .
+The new student organisation originally lacked a true student representative union; however , following a complete review and authorisation from the university Council , a new student union known as Macquarie University Students Association ( MUSRA ) was established in 2009 . </p>
+It was established in 1873 and is locally referred to as <strong> The Mount </strong> . </p>
+<p> <strong> Mount Saint Vincent University </strong> is a <a> university </a> located in <a> Halifax </a> , <a> Nova Scotia </a> , <a> Canada </a> .
+<p> <strong> Art and Design </strong> </p>
+With a population of nearly 10 , 000 undergraduate and graduate students , Northern Michigan University is the Upper Peninsula's largest university . </p>
+<p> <strong> Undegraduate </strong> , <em> Bachelor in </em> : </p>
+There are also 674 part-time lecturers . </p>
+<p> <strong> Ohio State University </strong> , commonly referred to as <strong> Ohio State </strong> or <strong> OSU </strong> , is a <a> public </a> research university located in <a> Columbus , Ohio </a> .
+The college was ranked among the <em> <a> Princeton Review </a> 's <strong> list of </strong> </em> &quot;Colleges with a Conscience&quot; <em> in 2005 .
+<p> &lt; ! ----&gt; </p>
+<p> <strong> Purdue University </strong> , located in <a> West Lafayette </a> , <a> Indiana </a> , <a> U . S . </a> , is the <a> flagship university </a> of the six-campus <a> Purdue University System </a> .
+<p> <strong> Princeton University </strong> is a <a> private </a> <a> research university </a> located in <a> Princeton </a> , <a> New Jersey </a> , <a> United States </a> .
+<p> <strong> Reed College </strong> is a <a> private </a> , <a> independent </a> , <a> liberal arts college </a> located in southeast <a> Portland , Oregon </a> .
+guarding the entrance to the courtyard]] The <strong> Royal Institute of Technology </strong> ( , abbreviated <strong> KTH </strong> ) is a <a> university </a> in <a> Stockholm </a> , <a> Sweden </a> .
+<p> The <strong> American Film Institute </strong> is an independent <a> non-profit organization </a> created by the <a> National Endowment for the Arts </a> , which was established in 1967 when President <a> Lyndon B . Johnson </a> signed the National Foundation on the Arts and the Humanities Act .
+<p> <strong> Columbia University in the City of New York </strong> ( <strong> Columbia University </strong> ) is a private research <a> university </a> in New York City and one of the eight members of the <a> Ivy League </a> .
+One hundred blocks north of the main campus at Morningside Heights , the Baker Athletics Complex also includes facilities for baseball , softball , soccer , lacrosse , field hockey , tennis , track and rowing .
+<p> <strong> George Mason University </strong> ( often referred to as <strong> GMU </strong> or <strong> Mason </strong> ) is a <a> public university </a> based in <a> unincorporated </a> <a> Fairfax County </a> , <a> Virginia </a> , <a> United States </a> , south of and adjacent to the city of <a> Fairfax </a> .
+<p> <strong> Geneva College </strong> is a <a> Christian </a> <a> liberal arts </a> <a> college </a> in <a> Beaver Falls </a> , <a> Pennsylvania </a> , <a> United States </a> , north of <a> Pittsburgh </a> .
+<p> Geneva College is a member institution of the <a> Council for Christian Colleges and Universities </a> , <a> Council of Independent Colleges </a> , and <a> National Association of Independent Colleges and Universities </a> .
+--&gt; <strong> Grinnell College </strong> is a private <a> liberal arts college </a> in <a> Grinnell </a> , <a> Iowa </a> , <a> U . S . </a> known for its strong tradition of <a> social activism </a> and rigorous academic environment .
+In sharp contrast to all <a> public universities </a> and many private universities in the United States , no classes , labs or other courses are taught by <a> graduate student </a> s .
+<p> <strong> Hunter College </strong> , established in 1870 by Thomas Hunter , is a public university and one of the constituent colleges of the <a> City University of New York </a> ( CUNY ) system , located on <a> Manhattan </a> 's <a> Upper East Side </a> .
+&lt; ! -- </p>
+<p> The <strong> Indian Institute of Technology Kanpur </strong> ( ) ( also known as <strong> IIT Kanpur </strong> or <strong> IITK </strong> ) is an <a> Indian Institutes of Technology </a> , set up in <a> Kanpur </a> in 1959 .
+<p> <strong> Ithaca College </strong> is a <a> private college </a> located on the South Hill of <a> Ithaca , New York </a> .
+The hillside campus continued to grow in the ensuing 30 years to accommodate more than 6 , 000 students . </p>
+The college has been ranked among the top ten master's universities in the <a> North </a> by U . S . News &amp; World Report every year since 1996 .
+<p> <strong> James Madison University </strong> ( also known as <strong> JMU </strong> , <strong> Madison </strong> , or <strong> James Madison </strong> ) is a <a> public </a> <a> coeducation </a> al <a> research </a> <a> university </a> located in <a> Harrisonburg </a> , <a> Virginia </a> , <a> U . S . </a> Founded in 1908 as the State Normal and Industrial School for Women at Harrisonburg , the university has undergone four name changes until settling with James Madison University .
+<p> <strong> Crandall University </strong> is a small <a> Liberal Arts </a> university located in <a> Moncton , New Brunswick </a> , <a> Canada </a> .
+ABU sports teams play under the name <em> Blue Tide </em> .
+<p> <strong> Brown University </strong> is a <a> private </a> <a> Ivy League </a> <a> university </a> located in <a> Providence , Rhode Island </a> .
+<p> <strong> Brown University </strong> is a <a> private </a> <a> Ivy League </a> <a> university </a> located in <a> Providence , Rhode Island </a> .
+There are 15 <a> intercollegiate teams </a> , and students also compete at the <a> intramural </a> and club levels .
+<p> <strong> Barnard College </strong> is an independently incorporated <a> women's </a> <a> liberal arts college </a> , an official college of <a> Columbia University </a> , and a member of the <a> Seven Sisters </a> .
+<p> <strong> Barnard College </strong> is an independently incorporated <a> women's </a> <a> liberal arts college </a> , an official college of <a> Columbia University </a> , and a member of the <a> Seven Sisters </a> .
+<p> &lt; ! -- article starts here --&gt; <strong> Bob Jones University </strong> ( <strong> BJU </strong> ) is a <a> private </a> , non-denominational <a> Protestant </a> university in <a> Greenville </a> , <a> South Carolina </a> .
+<p> The School of Religion includes majors for both men and women , although only men ( approximately 500 per year ) train as ministerial students .
+<p> <strong> Chalmers University of Technology </strong> ( , often shortened to <strong> Chalmers </strong> ) , is a <a> university </a> in <a> Gothenburg </a> , <a> Sweden </a> , that focuses on research and education in technology , natural science and architecture .
+The school was known successively as <strong> Throop University </strong> , <strong> Throop Polytechnic Institute </strong> , and <strong> Throop College of Technology </strong> , before acquiring its current name in 1921 . </p>
+<p> <strong> Drexel University </strong> is a <a> private </a> <a> coeducation </a> al <a> university </a> with the main campus located in the <a> University City </a> area within <a> Philadelphia </a> , <a> Pennsylvania </a> , <a> United States </a> .
+<p> <strong> Dartmouth College </strong> ( , ) is a <a> private </a> , <a> Ivy League </a> university , comprising a liberal arts college , <a> Dartmouth Medical School </a> , <a> Thayer School of Engineering </a> , and <a> Tuck School of Business </a> , as well as 19 graduate programs in the arts and sciences .
+<p> <strong> Dalhousie University </strong> is a <a> university </a> located in <a> Halifax </a> , <a> Nova Scotia </a> , <a> Canada </a> .
+It is a member of the <a> Group of Thirteen </a> , more commonly referred to as the G13 , a group of the leading research universities in Canada . </p>
+<p> </p>
+<p> The <strong> University of Rochester </strong> ( <strong> U of R </strong> , <strong> UR </strong> , or URoc ) is a <a> private </a> , nonsectarian , research university located in <a> Rochester , New York </a> .
+<p> The <strong> University of California , San Francisco </strong> ( <strong> UCSF </strong> ) is one of the world's leading centers of health sciences research , patient care , and education .
+UCSF's faculty includes four <a> Nobel Prize </a> winners , 31 members of the <a> National Academy of Sciences </a> , 69 members of the <a> Institute of Medicine </a> , and 30 members of the <a> Academy of Arts and Sciences </a> .
+<p> The <strong> University of California , San Francisco </strong> ( <strong> UCSF </strong> ) is one of the world's leading centers of health sciences research , patient care , and education .
+<p> The <strong> University of California , San Francisco </strong> ( <strong> UCSF </strong> ) is one of the world's leading centers of health sciences research , patient care , and education .
+<p> The <strong> University of California </strong> ( <strong> UC </strong> ) is a <a> public university </a> <a> system </a> in the <a> state </a> of <a> California </a> .
+Cal has a long history of excellence in athletics , having won national titles in football , men's basketball , baseball , softball , men's and women's crew , men's gymnastics , men's tennis , men's and women's swimming , men's water polo , men's Judo , men's track , and men's rugby .
+<p> &lt; ! -- </p>
+<p> &lt; ! -- </p>
+Referred locally as <strong> UCD </strong> , the school was originally established in 1905 as the University Farm , an extension of <a> UC Berkeley </a> .
+<p> The academic Graduate Students and management students are represented by the <a> Graduate Student Association </a> ( GSA ) .
+Other cuts included men's swimming , men's indoor track , and women's rowing .
+<p> [[File : Ucsdtriton . jpg|left|thumb|Athletic mascot , the [[Triton ( mythology ) |Triton]]]] UCSD offers student participation in a wide range of sports including <a> swimming </a> , <a> water polo </a> , <a> soccer </a> , <a> volleyball </a> , <a> crew </a> , <a> track and field athletics </a> , <a> fencing </a> , <a> basketball </a> , <a> golf </a> , <a> cross country </a> , <a> softball </a> , <a> baseball </a> , and <a> tennis </a> .
+<p> <strong> Kansas State University </strong> , commonly shortened to <strong> K-State </strong> , is an institution of higher learning located in <a> Manhattan </a> , <a> Kansas </a> , in the <a> United States </a> .
+<p> <strong> Lund University </strong> ( ) , located in <a> Lund </a> in the province of <a> Scania </a> , <a> Sweden </a> , is one of northern Europe's most prestigious <a> universities </a> and one of <a> Scandinavia </a> 's largest institutions for education and research , frequently ranked among the world's top 100 universities .
+<p> The <strong> Jagiellonian University </strong> ( , often shortened to <em> UJ </em> ; historical names : , University of Krakow , Krak&#x00f3;w Academy , The Main Crown School , Main School of Krak&#x00f3;w ) was established in 1364 by <a> Casimir III the Great </a> in <a> Krak&#x00f3;w </a> .
+<p> <strong> Pozna&#x0144; University of Technology </strong> , <strong> PUT </strong> ( Polish name : <em> Politechnika Pozna&#x0144;ska </em> ; note that in Polish <em> Politechnika </em> has a different meaning from English , hence the translation ) is a <a> university </a> located in <a> Pozna&#x0144; </a> , <a> Poland </a> .
+<p> <strong> Acadia University </strong> is a predominantly undergraduate <a> university </a> located in <a> Wolfville </a> , <a> Nova Scotia </a> , <a> Canada </a> with some graduate programs at the master's level and one at the doctoral level .
+Current full-time enrollment is 1 , 514 students .
+<p> All students are required to attend the college on a full-time basis , which is 3 . 00 course credits of enrollment , or 12 semester hours .
+The <strong> School of the Art Institute of Chicago </strong> ( <strong> SAIC </strong> ) is one of America's largest accredited independent schools of art and design , located in the <a> Loop </a> in <a> Chicago </a> , <a> Illinois </a> .
+<p> <strong> </strong> </p>
+<p> The college began with 70 students and 18 faculty members on September 15 , 1947 .
+<p> The college began with 70 students and 18 faculty members on September 15 , 1947 .
+<p> <strong> Los Angeles Pierce College </strong> , also known as <strong> Pierce College </strong> , <strong> Pierce </strong> , is a two-year <a> community college </a> that serves more than 23 , 000 students in the northern <a> Chalk Hills </a> of <a> Woodland Hills </a> , a community within the <a> San Fernando Valley </a> region of the <a> city of Los Angeles </a> , <a> California </a> . </p>
+<p> The number of international students was 6 , 157 in the Summer Semester of 2005 .
+<p> <strong> Odense University </strong> , now <strong> Syddansk Universitet Odense </strong> ( or <strong> SDU Odense </strong> in abbreviated form ) , has been part of the <a> University of Southern Denmark </a> since 1998 of which it forms the biggest campus .
+Odense is also by far the biggest campus of the SDU - both in terms of physical size and the number of students , staff , departments and degrees . </p>
+<p> <strong> Odense University </strong> , now <strong> Syddansk Universitet Odense </strong> ( or <strong> SDU Odense </strong> in abbreviated form ) , has been part of the <a> University of Southern Denmark </a> since 1998 of which it forms the biggest campus .
+<p> The <strong> University of California , Irvine </strong> ( <strong> UCI </strong> or <strong> UC Irvine </strong> ) , founded in 1965 , is one of the ten general campuses of the <a> University of California </a> , located in <a> Irvine </a> , <a> California </a> , USA .
+On the graduate student level , UC Irvine offered 98 advanced degree programs campus-wide; i . e . , 51 master's , 44 Ph . D . , an M . D . , an Ed . D . and the J . D . degree programs .
+The week of April 20 , 2009 was a historical milestone for the UCI athletics program , as both school&#x2019;s Men&#x2019;s Volleyball and Baseball squads were simultaneously ranked No . 1 nationally in NCAA Division I polls .
+UCI mascot is the [[anteater]] .
+<p> </p>
+<p> In addition to the research and academic institutions , the University hosts the <a> Pennsylvania Governor's School for the Sciences </a> , a state-funded summer program that aims to foster interest in science amongst gifted high school students .
+<p> <strong> Mendel University in Brno </strong> is located in <a> Brno </a> , <a> Czech Republic </a> .
+<p> <strong> University College London </strong> ( <strong> UCL </strong> ) is a public research <a> university </a> located in <a> London </a> , <a> United Kingdom </a> and the largest <a> constituent college </a> of the federal <a> University of London </a> .
+<p> &lt; ! -- --&gt; </p>
+<p> &lt; ! -- --&gt; </p>
+<p> &lt; ! -- --&gt; </p>

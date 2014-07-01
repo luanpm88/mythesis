@@ -1,8 +1,0 @@
-<li>Stalnaker Hall (Freshmen only)</li>
-<li>Carpenter Hall (Freshmen only)</li>
-<li>Herriott Hall Basement (Freshmen only)</li>
-<li>Crawford Hall (Freshmen only)</li>
-<li>Jewett Hall (sophomore only)</li>
-<li>Ross Hall (sophomore only)</li>
-<li><a>Model United Nations</a></li>
-<h2>Notable alumni</h2>

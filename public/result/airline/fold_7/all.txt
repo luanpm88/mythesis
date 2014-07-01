@@ -1,0 +1,1147 @@
+Total articles: 456
+Articles for test: 411
+Articles for train: 45
+Total attributes: 120
+Attributes with high occurrences: 15/120
+
+------------
+Found: 491
+Found Not Null: 114
+Correct: 79
+Wrong: 35
+Total: 132
+precision: 0.6929824561403509
+recall: 0.5984848484848485
+
+
+
+#	NEW	iata	........ / an	// <p> <strong> Air Mandalay </strong> ( ) is an <a> airline </a> based in <a> Yangon </a> , <a> Myanmar </a> .
+
+#	NEW	icao	........ / Myanmar	// <p> <strong> Air Mandalay </strong> ( ) is an <a> airline </a> based in <a> Yangon </a> , <a> Myanmar </a> .
+
+#	NEW	callsign	........ / Air	// <p> <strong> Air Mandalay </strong> ( ) is an <a> airline </a> based in <a> Yangon </a> , <a> Myanmar </a> .
+
+#	NEW	ceased	........ / 25 December 2009 ) :	// <p> The Air Mandalay fleet includes the following aircraft ( at 25 December 2009 ) : </p>
+
+4	TRUE	Air Mandalay::founded	6 october 1994 / 1994	
+<p> The airline was established on 6 October 1994 and started operations on 18 October 1994 with a flight from Yangon to <a> Mandalay </a> .
+
+#	NEW	frequent_flyer	........ / main base	// Its main base is <a> Yangon International Airport </a> . </p>
+
+#	NEW	destinations	........ / 18	// <p> The airline was established on 6 October 1994 and started operations on 18 October 1994 with a flight from Yangon to <a> Mandalay </a> .
+
+#	NEW	parent	........ / Air Mandalay	// <p> <strong> Air Mandalay </strong> ( ) is an <a> airline </a> based in <a> Yangon </a> , <a> Myanmar </a> .
+
+#	NEW	key_people	........ / the first	// It was the first domestic and regional Joint Venture Airline in Burma .
+
+#	NEW	logo_size	........ / 2009 ) :	// <p> The Air Mandalay fleet includes the following aircraft ( at 25 December 2009 ) : </p>
+
+10	TRUE	Air Mandalay::airline	air mandalay / Air	
+<p> <strong> Air Mandalay </strong> ( ) is an <a> airline </a> based in <a> Yangon </a> , <a> Myanmar </a> .
+
+11	TRUE	Air Mandalay::fleet_size	1 / 18	
+<p> The airline was established on 6 October 1994 and started operations on 18 October 1994 with a flight from Yangon to <a> Mandalay </a> .
+
+#	NEW	iata	........ / an	// <p> <strong> Emu Airways </strong> was an <a> airline </a> based in <a> Adelaide </a> in <a> Australia </a> operating tourist flights to nearby <a> Kangaroo Island </a> .
+
+#	NEW	icao	........ / Kangaroo	// <p> <strong> Emu Airways </strong> was an <a> airline </a> based in <a> Adelaide </a> in <a> Australia </a> operating tourist flights to nearby <a> Kangaroo Island </a> .
+
+#	NEW	callsign	........ / Emu	// <p> <strong> Emu Airways </strong> was an <a> airline </a> based in <a> Adelaide </a> in <a> Australia </a> operating tourist flights to nearby <a> Kangaroo Island </a> .
+
+15	TRUE	Emu Airways::destinations	2 / 2004	
+It was acquired in March 2004 by <a> Darwin </a> based aviation services company Capiteq Limited , as part of a major new coalition of regional air services in Australia , RegionalLink Airlines .
+
+#	NEW	key_people	........ / Emu Air	// <p> Emu Airways operated for close to 30 years and was previously owned by Emu Air Charter Pty Ltd .
+
+#	NEW	logo_size	........ / its	// <p> The airline ' s fleet varied over thirty years of operation , and included various light passenger aircraft during its tenure .
+
+18	TRUE	Emu Airways::airline	emu airways / operating	
+<p> <strong> Emu Airways </strong> was an <a> airline </a> based in <a> Adelaide </a> in <a> Australia </a> operating tourist flights to nearby <a> Kangaroo Island </a> .
+
+#	NEW	frequent_flyer	........ / airline franchise	// This was considered Australia&#x2019 ; s first airline franchise operation .
+
+#	NEW	parent	........ / based aviation services	// It was acquired in March 2004 by <a> Darwin </a> based aviation services company Capiteq Limited , as part of a major new coalition of regional air services in Australia , RegionalLink Airlines .
+
+#	NEW	iata	........ / an	// <p> <strong> Airfast Indonesia </strong> is an <a> airline </a> based in <a> Jakarta </a> , <a> Indonesia </a> .
+
+22	FALSE	Airfast Indonesia::icao	afe / Indonesia	
+<p> <strong> Airfast Indonesia </strong> is an <a> airline </a> based in <a> Jakarta </a> , <a> Indonesia </a> .
+
+23	TRUE	Airfast Indonesia::callsign	airfast / Jakarta	
+<p> <strong> Airfast Indonesia </strong> is an <a> airline </a> based in <a> Jakarta </a> , <a> Indonesia </a> .
+
+24	TRUE	Airfast Indonesia::founded	1971 / 1971.	
+<p> The airline was established and started operations in 1971 .
+
+#	NEW	frequent_flyer	........ / Airfast Indonesia	// Airfast Indonesia is one of four airlines now allowed into Europe . </p>
+
+#	NEW	destinations	........ / 1971 .	// <p> The airline was established and started operations in 1971 .
+
+#	NEW	parent	........ / airline was	// <p> The airline was established and started operations in 1971 .
+
+#	NEW	key_people	........ / Frank Reuneker	// It was owned by Frank Reuneker ( 53% ) and other shareholders ( 47% ) .
+
+#	NEW	website	........ / The airline was established and started operations in	// <p> The airline was established and started operations in 1971 .
+
+#	NEW	fleet_size	........ / 1971 .	// <p> The airline was established and started operations in 1971 .
+
+#	NEW	logo_size	........ / 1982 .	// It was established to provide helicopters and fixed-wing aircraft to the oil exploration industry in Indonesia , initially as an Australian-Indonesian joint venture , but evolved into a fully Indonesian-owned and operated company in 1982 .
+
+32	TRUE	Batavia Air::airline	batavia air / Air	
+<p> <strong> Batavia Air </strong> ( PT .
+
+#	NEW	icao	........ / Batavia	// <p> <strong> Batavia Air </strong> ( PT .
+
+34	TRUE	Batavia Air::callsign	batavia / Air	
+<p> <strong> Batavia Air </strong> ( PT .
+
+#	NEW	ceased	........ / 2009 ) :	// <p> The Batavia Air fleet includes the following aircraft ( at December 2009 ) : </p>
+
+36	TRUE	Batavia Air::founded	2002 / 2002.	
+<p> The airline was established in 2001 and started operations in January 2002 .
+
+#	NEW	frequent_flyer	........ / main base	// Its main base is <a> Soekarno-Hatta International Airport </a> , Jakarta .
+
+#	NEW	destinations	........ / 2001	// <p> The airline was established in 2001 and started operations in January 2002 .
+
+#	NEW	parent	........ / operates domestic	// It operates domestic flights to around 30 destinations and international services to <a> Singapore </a> , <a> China </a> and <a> Malaysia </a> .
+
+#	NEW	key_people	........ / PT Metro	// It is owned by PT Metro Batavia . ref
+
+#	NEW	fleet_size	........ / 2002 .	// <p> The airline was established in 2001 and started operations in January 2002 .
+
+#	NEW	logo_size	........ / 2009 ) :	// <p> The Batavia Air fleet includes the following aircraft ( at December 2009 ) : </p>
+
+43	TRUE	Astral Aviation::airline	astral aviation / Astral Aviation	
+<p> <strong> Astral Aviation </strong> is a <a> cargo airline </a> based in <a> Nairobi </a> , <a> Kenya </a> .
+
+#	NEW	icao	........ / Astral	// <p> <strong> Astral Aviation </strong> is a <a> cargo airline </a> based in <a> Nairobi </a> , <a> Kenya </a> .
+
+45	FALSE	Astral Aviation::callsign	astral cargo / Astral	
+<p> <strong> Astral Aviation </strong> is a <a> cargo airline </a> based in <a> Nairobi </a> , <a> Kenya </a> .
+
+#	NEW	ceased	........ / 2009 ) :	// <p> The Astral Aviation fleet consists of the following aircraft ( as of 1 May 2009 ) : </p>
+
+47	TRUE	Astral Aviation::founded	2000 / 2001.	
+It was established in November 2000 and started operations in January 2001 .
+
+#	NEW	frequent_flyer	........ / main base	// Its main base is <a> Jomo Kenyatta International Airport </a> , Nairobi . </p>
+
+#	NEW	parent	........ / cargo airline	// <p> <strong> Astral Aviation </strong> is a <a> cargo airline </a> based in <a> Nairobi </a> , <a> Kenya </a> .
+
+#	NEW	key_people	........ / November 2000	// It was established in November 2000 and started operations in January 2001 .
+
+51	TRUE	Astral Aviation::fleet_size	1 / 2001.	
+It was established in November 2000 and started operations in January 2001 .
+
+#	NEW	logo_size	........ / 2009 ) :	// <p> The Astral Aviation fleet consists of the following aircraft ( as of 1 May 2009 ) : </p>
+
+#	NEW	destinations	........ / 2000	// It was established in November 2000 and started operations in January 2001 .
+
+#	NEW	headquarters	........ / Africa	// It operates scheduled and non-schedule / ad hoc cargo charters to regional destinations in <a> Africa </a> .
+
+#	NEW	airline	........ / Caribbean	// <p> <strong> Caribbean Star Airlines </strong> was an <a> airline </a> based in <a> Antigua and Barbuda </a> .
+
+#	NEW	iata	........ / an	// <p> <strong> Caribbean Star Airlines </strong> was an <a> airline </a> based in <a> Antigua and Barbuda </a> .
+
+#	NEW	icao	........ / Barbuda	// <p> <strong> Caribbean Star Airlines </strong> was an <a> airline </a> based in <a> Antigua and Barbuda </a> .
+
+#	NEW	callsign	........ / Caribbean	// <p> <strong> Caribbean Star Airlines </strong> was an <a> airline </a> based in <a> Antigua and Barbuda </a> .
+
+#	NEW	ceased	........ / 2007 :	// <p> The Caribbean Star Airlines fleet consisted of the following aircraft as of March 2007 : ref name=&quot ; FI&quot ; / </p>
+
+#	NEW	founded	........ / 2000 .	// <p> The airline was incorporated in Antigua in January 2000 and started operations with the <a> Dash 8 </a> regional turboprop in June 2000 .
+
+#	NEW	frequent_flyer	........ / launched its	// Its sister airline , <a> Caribbean Sun Airlines </a> Inc . , launched its maiden flight three years later .
+
+#	NEW	parent	........ / two were	// The two were affiliated but separate companies . </p>
+
+#	NEW	headquarters	........ / Barbuda	// <p> <strong> Caribbean Star Airlines </strong> was an <a> airline </a> based in <a> Antigua and Barbuda </a> .
+
+#	NEW	key_people	........ / aircraft consists	// <p> Previously owned aircraft consists of : </p>
+
+#	NEW	fleet_size	........ / 2000 .	// <p> The airline was incorporated in Antigua in January 2000 and started operations with the <a> Dash 8 </a> regional turboprop in June 2000 .
+
+#	NEW	logo_size	........ / 2007 :	// <p> The Caribbean Star Airlines fleet consisted of the following aircraft as of March 2007 : ref name=&quot ; FI&quot ; / </p>
+
+67	FALSE	Air VIA::airline	air via / Varna International Airways	
+<p> The airline was founded and started operations in 1990 as <strong> Varna International Airways </strong> using a brand new <a> Tupolev Tu-154M </a> aircraft .
+
+#	NEW	iata	........ / Tu-	// <p> The airline was founded and started operations in 1990 as <strong> Varna International Airways </strong> using a brand new <a> Tupolev Tu-154M </a> aircraft .
+
+#	NEW	icao	........ / Tu-	// <p> The airline was founded and started operations in 1990 as <strong> Varna International Airways </strong> using a brand new <a> Tupolev Tu-154M </a> aircraft .
+
+70	FALSE	Air VIA::callsign	air via / Varna International	
+<p> The airline was founded and started operations in 1990 as <strong> Varna International Airways </strong> using a brand new <a> Tupolev Tu-154M </a> aircraft .
+
+#	NEW	ceased	........ / 1990	// <p> The airline was founded and started operations in 1990 as <strong> Varna International Airways </strong> using a brand new <a> Tupolev Tu-154M </a> aircraft .
+
+72	TRUE	Air VIA::founded	1990 / 1990	
+<p> The airline was founded and started operations in 1990 as <strong> Varna International Airways </strong> using a brand new <a> Tupolev Tu-154M </a> aircraft .
+
+#	NEW	frequent_flyer	........ / right |	// ( 2006 ) ] ] [ [ File : Tupolev 154M VIA LZ-MIR . jpg | thumb | right | An
+
+74	TRUE	Air VIA::fleet_size	5 / 1990	
+<p> The airline was founded and started operations in 1990 as <strong> Varna International Airways </strong> using a brand new <a> Tupolev Tu-154M </a> aircraft .
+
+#	NEW	logo_size	........ / 1990	// <p> The airline was founded and started operations in 1990 as <strong> Varna International Airways </strong> using a brand new <a> Tupolev Tu-154M </a> aircraft .
+
+#	NEW	parent	........ / airline was	// <p> The airline was founded and started operations in 1990 as <strong> Varna International Airways </strong> using a brand new <a> Tupolev Tu-154M </a> aircraft .
+
+#	NEW	key_people	........ / The airline	// <p> The airline was founded and started operations in 1990 as <strong> Varna International Airways </strong> using a brand new <a> Tupolev Tu-154M </a> aircraft .
+
+78	TRUE	Sosoliso Airlines::airline	sosoliso airlines / Sosoliso Airlines	
+<p> <strong> Sosoliso Airlines </strong> was a scheduled , domestic , passenger <a> airline </a> .
+
+#	NEW	icao	........ / Sosoliso	// <p> <strong> Sosoliso Airlines </strong> was a scheduled , domestic , passenger <a> airline </a> .
+
+80	TRUE	Sosoliso Airlines::callsign	sosoliso / Sosoliso	
+<p> <strong> Sosoliso Airlines </strong> was a scheduled , domestic , passenger <a> airline </a> .
+
+#	NEW	ceased	........ / 2006	// <p> As of August <a> 2006 </a> the Sosoliso Airlines fleet included : </p>
+
+82	TRUE	Sosoliso Airlines::founded	1994 / 2000	
+<p> It was established in <a> 1994 </a> and started operations in July <a> 2000 </a> .
+
+#	NEW	frequent_flyer	........ / Sosoliso Airlines	// <p> As of August <a> 2006 </a> the Sosoliso Airlines fleet included : </p>
+
+84	FALSE	Sosoliso Airlines::destinations	5 / 1994	
+<p> It was established in <a> 1994 </a> and started operations in July <a> 2000 </a> .
+
+#	NEW	parent	........ / It was	// <p> It was established in <a> 1994 </a> and started operations in July <a> 2000 </a> .
+
+#	NEW	headquarters	........ / ,	// <p> <strong> Sosoliso Airlines </strong> was a scheduled , domestic , passenger <a> airline </a> .
+
+#	NEW	key_people	........ / a scheduled	// <p> <strong> Sosoliso Airlines </strong> was a scheduled , domestic , passenger <a> airline </a> .
+
+88	TRUE	Sosoliso Airlines::fleet_size	4 / 2000	
+<p> It was established in <a> 1994 </a> and started operations in July <a> 2000 </a> .
+
+#	NEW	logo_size	........ / 2006	// <p> As of August <a> 2006 </a> the Sosoliso Airlines fleet included : </p>
+
+#	NEW	airline	........ / China Cargo Airlines	// <p> <strong> China Cargo Airlines </strong> ( ) sometimes as abbreviated &#x4e2d ; &#x8d27 ; &#x822a ; , is a <a> cargo airline </a> based in <a> Shanghai </a> , <a> People ' s Republic of China </a> .
+
+#	NEW	iata	........ / China	// <p> <strong> China Cargo Airlines </strong> ( ) sometimes as abbreviated &#x4e2d ; &#x8d27 ; &#x822a ; , is a <a> cargo airline </a> based in <a> Shanghai </a> , <a> People ' s Republic of China </a> .
+
+#	NEW	ceased	........ / 2010 ) :	// The China Cargo Airlines fleet consists of the following aircraft ( as of 30 July 2010 ) : </p>
+
+#	NEW	founded	........ / 1998 .	// <p> The airline was established on 30 July 1998 and started operations in October 1998 .
+
+94	FALSE	China Cargo Airlines::destinations	20 / 1998	
+<p> The airline was established on 30 July 1998 and started operations in October 1998 .
+
+#	NEW	key_people	........ / founded as	// It was founded as , and remains , a joint venture between <a> China Eastern Airlines </a> ( 70% ) and <a> China Ocean Shipping </a> ( 30% ) .
+
+#	NEW	fleet_size	........ / 30	// <p> The airline was established on 30 July 1998 and started operations in October 1998 .
+
+#	NEW	logo_size	........ / 2010 ) :	// The China Cargo Airlines fleet consists of the following aircraft ( as of 30 July 2010 ) : </p>
+
+#	NEW	icao	........ / China	// <p> <strong> China Cargo Airlines </strong> ( ) sometimes as abbreviated &#x4e2d ; &#x8d27 ; &#x822a ; , is a <a> cargo airline </a> based in <a> Shanghai </a> , <a> People ' s Republic of China </a> .
+
+#	NEW	callsign	........ / China	// <p> <strong> China Cargo Airlines </strong> ( ) sometimes as abbreviated &#x4e2d ; &#x8d27 ; &#x822a ; , is a <a> cargo airline </a> based in <a> Shanghai </a> , <a> People ' s Republic of China </a> .
+
+100	TRUE	XL Airways France::airline	xl airways france / XL Airways	
+On 23 November 2006 the airline changed its name to <strong> XL Airways France </strong> .
+
+101	FALSE	XL Airways France::iata	se / France	
+On 23 November 2006 the airline changed its name to <strong> XL Airways France </strong> .
+
+#	NEW	icao	........ / France	// On 23 November 2006 the airline changed its name to <strong> XL Airways France </strong> .
+
+#	NEW	callsign	........ / XL	// On 23 November 2006 the airline changed its name to <strong> XL Airways France </strong> .
+
+#	NEW	ceased	........ / 2010 10 . 1	// ( 2006 ) ] ] As of December 2010 , the XL Airways France fleet consists of the following aircraft with an average age of 10 . 1 years : </p>
+
+#	NEW	parent	........ / airline changed its	// On 23 November 2006 the airline changed its name to <strong> XL Airways France </strong> .
+
+#	NEW	logo_size	........ / 10 .	// ( 2006 ) ] ] As of December 2010 , the XL Airways France fleet consists of the following aircraft with an average age of 10 . 1 years : </p>
+
+107	FALSE	XL Airways France::fleet_size	8 / 1995	
+<p> Formed as <strong> Star Airlines </strong> ( abrreviation for <strong> Soci&#x00e9 ; t&#x00e9 ; de Transport A&#x00e9 ; rien R&#x00e9 ; gional </strong> ) in 1995 by C&#x00e9 ; dric Pastrour , the airline was previously owned by <a> Transat A . T . </a> , before being sold to and taken over by <a> XL Leisure Group </a> .
+
+#	NEW	iata	........ / an	// <p> <strong> Air Nunavut </strong> is an <a> airline </a> based in <a> Iqaluit </a> , <a> Nunavut </a> , <a> Canada </a> .
+
+#	NEW	icao	........ / Canada	// <p> <strong> Air Nunavut </strong> is an <a> airline </a> based in <a> Iqaluit </a> , <a> Nunavut </a> , <a> Canada </a> .
+
+110	FALSE	Air Nunavut::callsign	air baffin / Air	
+<p> <strong> Air Nunavut </strong> is an <a> airline </a> based in <a> Iqaluit </a> , <a> Nunavut </a> , <a> Canada </a> .
+
+111	TRUE	Air Nunavut::founded	1989 / 1989	
+<p> The airline was established and started charter operations in 1989 as <em> Air Baffin </em> .
+
+#	NEW	frequent_flyer	........ / main base	// Its main base is <a> Iqaluit Airport </a> . </p>
+
+#	NEW	destinations	........ / 1989	// <p> The airline was established and started charter operations in 1989 as <em> Air Baffin </em> .
+
+#	NEW	parent	........ / airline was	// <p> The airline was established and started charter operations in 1989 as <em> Air Baffin </em> .
+
+#	NEW	key_people	........ / The airline	// <p> The airline was established and started charter operations in 1989 as <em> Air Baffin </em> .
+
+#	NEW	fleet_size	........ / 1989	// <p> The airline was established and started charter operations in 1989 as <em> Air Baffin </em> .
+
+#	NEW	logo_size	........ / 2010 )	// <p> According to <a> Transport Canada </a> the Air Nunavut fleet consists of the following aircraft ( as of April 2010 ) ref name=&quot ; TCFleet&quot ; / : </p>
+
+#	NEW	iata	........ / an	// <p> <strong> Zest Airways Inc . </strong> ( formerly <strong> Asian Spirit </strong> ) is an airline based in <a> Pasay City </a> , <a> Manila </a> in the <a> Philippines </a> .
+
+#	NEW	icao	........ / Philippines	// <p> <strong> Zest Airways Inc . </strong> ( formerly <strong> Asian Spirit </strong> ) is an airline based in <a> Pasay City </a> , <a> Manila </a> in the <a> Philippines </a> .
+
+#	NEW	callsign	........ / Asian	// <p> <strong> Zest Airways Inc . </strong> ( formerly <strong> Asian Spirit </strong> ) is an airline based in <a> Pasay City </a> , <a> Manila </a> in the <a> Philippines </a> .
+
+#	NEW	founded	........ / 1995	// <p> Zest Airways was established as Asian Spirit in September 1995 by three friends : Antonio &quot ; Toti&quot ; Turalba , Emmanuel &quot ; Noel&quot ; O&#x00f1 ; ate and Archibald Po , who contributed $1 million each to start up the Airline Employees Cooperative ( AEC ) .
+
+#	NEW	parent	........ / operates scheduled	// It operates scheduled domestic and international tourist services , mainly feeder services linking Manila and <a> Cebu </a> with 24 domestic destinations in support of the trunk route operations of other airlines .
+
+#	NEW	key_people	........ / was supposed	// Yao was supposed to purchase a sixty percent stake in SEAIR , although the deal fell through because of a stolid response from SEAIR management .
+
+#	NEW	website	........ / Other operators served the airport on a charter basis then .	// Other operators served the airport on a charter basis then .
+
+#	NEW	fleet_size	........ / 24	// It operates scheduled domestic and international tourist services , mainly feeder services linking Manila and <a> Cebu </a> with 24 domestic destinations in support of the trunk route operations of other airlines .
+
+#	NEW	logo_size	........ / </	// <p> The Zest Airways fleet includes the following aircraft ( ) </p>
+
+#	NEW	destinations	........ / 320	// <p> On August 2 , 2009 , the airline revealed that it would be able to mount international flights with the starting delivery of two brand new Airbus 320 in October this year .
+
+128	TRUE	WDL Aviation::airline	wdl aviation / WDL Aviation	
+<p> <strong> WDL Aviation </strong> is an <a> charter airline </a> based at <a> Cologne Bonn Airport </a> , <a> Germany </a> . </p>
+
+#	NEW	iata	........ / an	// <p> <strong> WDL Aviation </strong> is an <a> charter airline </a> based at <a> Cologne Bonn Airport </a> , <a> Germany </a> . </p>
+
+130	TRUE	WDL Aviation::icao	wdl / WDL	
+<p> <strong> WDL Aviation </strong> is an <a> charter airline </a> based at <a> Cologne Bonn Airport </a> , <a> Germany </a> . </p>
+
+131	TRUE	WDL Aviation::callsign	wdl / WDL	
+<p> <strong> WDL Aviation </strong> is an <a> charter airline </a> based at <a> Cologne Bonn Airport </a> , <a> Germany </a> . </p>
+
+#	NEW	ceased	........ / 2010	// <p> As of November 2010 the WDL Aviation fleet includes : </p>
+
+#	NEW	parent	........ / WDL Aviation fleet	// <p> As of November 2010 the WDL Aviation fleet includes : </p>
+
+#	NEW	headquarters	........ / Bonn	// <p> <strong> WDL Aviation </strong> is an <a> charter airline </a> based at <a> Cologne Bonn Airport </a> , <a> Germany </a> . </p>
+
+#	NEW	fleet_size	........ / a> .	// <p> <strong> WDL Aviation </strong> is an <a> charter airline </a> based at <a> Cologne Bonn Airport </a> , <a> Germany </a> . </p>
+
+#	NEW	logo_size	........ / 2010	// <p> As of November 2010 the WDL Aviation fleet includes : </p>
+
+#	NEW	frequent_flyer	........ / WDL Aviation	// <p> As of November 2010 the WDL Aviation fleet includes : </p>
+
+#	NEW	key_people	........ / fleet includes :	// <p> As of November 2010 the WDL Aviation fleet includes : </p>
+
+139	FALSE	Expo Aviation::airline	expoair / Pakistan	
+<p> <strong> <a> Pakistan </a> </strong> </p>
+
+#	NEW	icao	........ / Pakistan	// <p> <strong> <a> Pakistan </a> </strong> </p>
+
+#	NEW	callsign	........ / Pakistan	// <p> <strong> <a> Pakistan </a> </strong> </p>
+
+142	FALSE	Expo Aviation::founded	1997 / 2003	
+An <a> IL-18 </a> started operations in 2003 and ExpoAir launched Cabin Crew training in 2004 .
+
+#	NEW	frequent_flyer	........ / airline was	// Soon after this , the airline was renamed &quot ; ExpoAir&quot ; .
+
+144	FALSE	Expo Aviation::destinations	2 / 1997	
+<p> ExpoAir was established in 1997 as Expo Aviation .
+
+#	NEW	parent	........ / IL- 18	// An <a> IL-18 </a> started operations in 2003 and ExpoAir launched Cabin Crew training in 2004 .
+
+#	NEW	headquarters	........ / Pakistan	// <p> <strong> <a> Pakistan </a> </strong> </p>
+
+#	NEW	key_people	........ / after this	// Soon after this , the airline was renamed &quot ; ExpoAir&quot ; .
+
+148	FALSE	Expo Aviation::fleet_size	6 / 2004.	
+An <a> IL-18 </a> started operations in 2003 and ExpoAir launched Cabin Crew training in 2004 .
+
+#	NEW	logo_size	........ / </	// <p> The Expo Aviation fleet includes the following aircraft ref name=&quot ; FI&quot ; / : </p>
+
+#	NEW	website	........ / Expo Aviation started flight operations in	// Expo Aviation started flight operations in 1998 using 2 <a> Antonov An-8 </a> aircraft which were later replaced by <a> Antonov An-12 </a> s .
+
+151	TRUE	Australian air Express::airline	australian air express / air Express	
+<p> <strong> Australian air Express </strong> is a <a> logistics </a> company based in <a> Melbourne </a> , <a> Australia </a> .
+
+152	FALSE	Australian air Express::icao	xme / Australian	
+<p> <strong> Australian air Express </strong> is a <a> logistics </a> company based in <a> Melbourne </a> , <a> Australia </a> .
+
+153	FALSE	Australian air Express::callsign	qantas / air Express	
+<p> <strong> Australian air Express </strong> is a <a> logistics </a> company based in <a> Melbourne </a> , <a> Australia </a> .
+
+154	TRUE	Australian air Express::founded	1992 / 1992.	
+AaE started operations on 1 August 1992 .
+
+#	NEW	frequent_flyer	........ / main base	// Its main base is <a> Melbourne Airport </a> . </p>
+
+#	NEW	destinations	........ / 1992	// <p> [ [ Image : AAE at SYD . JPG | thumb | Australian air Express International facility at [ [ Sydney Airport ] ] ] ] Australian air Express was established in early 1992 as a Domestic air freight company with the ability of pick-up and delivery services using both vans and trucks .
+
+#	NEW	parent	........ / Australian air	// <p> <strong> Australian air Express </strong> is a <a> logistics </a> company based in <a> Melbourne </a> , <a> Australia </a> .
+
+#	NEW	headquarters	........ / ,	// <p> <strong> Australian air Express </strong> is a <a> logistics </a> company based in <a> Melbourne </a> , <a> Australia </a> .
+
+#	NEW	key_people	........ / Australian Capital	// <p> ; <a> Australian Capital Territory </a> </p>
+
+#	NEW	website	........ / AaE flight operations are somewhat complex and varied .	// <p> AaE flight operations are somewhat complex and varied .
+
+#	NEW	fleet_size	........ / 1	// AaE started operations on 1 August 1992 .
+
+#	NEW	logo_size	........ / 2010 ) :	// <p> The following aircraft are currently in the Australian air Express fleet ( at September 2010 ) : </p>
+
+163	TRUE	New Axis Airways::airline	new axis airways / France	
+<p> <strong> New Axis Airways </strong> was an <a> airline </a> based in <a> Marseille </a> , <a> France </a> .
+
+#	NEW	iata	........ / an	// <p> <strong> New Axis Airways </strong> was an <a> airline </a> based in <a> Marseille </a> , <a> France </a> .
+
+#	NEW	icao	........ / France	// <p> <strong> New Axis Airways </strong> was an <a> airline </a> based in <a> Marseille </a> , <a> France </a> .
+
+166	TRUE	New Axis Airways::callsign	axis / New	
+<p> <strong> New Axis Airways </strong> was an <a> airline </a> based in <a> Marseille </a> , <a> France </a> .
+
+#	NEW	ceased	........ / 2009 ) :	// <p> The New Axis Airways fleet consisted of the following aircraft ( as of December 2009 ) : </p>
+
+#	NEW	founded	........ / 2006	// It started operations in December 2006 and has 73 employees </p>
+
+169	FALSE	New Axis Airways::destinations	9 / 73	
+It started operations in December 2006 and has 73 employees </p>
+
+#	NEW	parent	........ / Arkia Israel Airlines	// It filed for <a> bankruptcy </a> in October 2006 , before finding funding through a group of investors , including <a> Arkia Israel Airlines </a> .
+
+#	NEW	website	........ / It operated domestic and international charter flights and cargo services on behalf of European clients .	// It operated domestic and international charter flights and cargo services on behalf of European clients .
+
+172	TRUE	New Axis Airways::fleet_size	3 / 73	
+It started operations in December 2006 and has 73 employees </p>
+
+#	NEW	logo_size	........ / 2009 ) :	// <p> The New Axis Airways fleet consisted of the following aircraft ( as of December 2009 ) : </p>
+
+#	NEW	frequent_flyer	........ / Sarah Tours	// The owners are Etoile de La Valentine ( 26% ) , Arkia Israel Airlines ( 20% ) , Gamma Travel ( 13% ) , ISF ( 35% ) and Sarah Tours ( 6% ) .
+
+#	NEW	key_people	........ / rebranded as	// It was rebranded as Axis Airways in February 2001 and relocated from Grenoble to Marseille .
+
+#	NEW	iata	........ / an	// <p> <strong> Welcome Air </strong> Luftfahrt is an <a> airline </a> based in <a> Innsbruck </a> , <a> Austria </a> . </p>
+
+#	NEW	icao	........ / Austria	// <p> <strong> Welcome Air </strong> Luftfahrt is an <a> airline </a> based in <a> Innsbruck </a> , <a> Austria </a> . </p>
+
+#	NEW	callsign	........ / Air	// <p> <strong> Welcome Air </strong> Luftfahrt is an <a> airline </a> based in <a> Innsbruck </a> , <a> Austria </a> . </p>
+
+#	NEW	ceased	........ / 2010 ) :	// <p> The Welcome Air fleet consists of the following aircraft ( at December 2010 ) : </p>
+
+#	NEW	founded	........ / 2010 ) :	// 328 ] ] ] ] Welcome Air operates the following services ( as of December 2010 ) : </p>
+
+#	NEW	frequent_flyer	........ / to transport	// <p> In winter it also operates for its subsidiary , the <a> Tyrol Air Ambulance </a> to transport injured skiers . </p>
+
+182	TRUE	Welcome Air::destinations	8 / 2010 ) :	
+328 ] ] ] ] Welcome Air operates the following services ( as of December 2010 ) : </p>
+
+#	NEW	parent	........ / Tyrol Air	// <p> In winter it also operates for its subsidiary , the <a> Tyrol Air Ambulance </a> to transport injured skiers . </p>
+
+#	NEW	headquarters	........ / December	// 328 ] ] ] ] Welcome Air operates the following services ( as of December 2010 ) : </p>
+
+#	NEW	fleet_size	........ / 328	// 328 ] ] ] ] Welcome Air operates the following services ( as of December 2010 ) : </p>
+
+#	NEW	logo_size	........ / 2010 ) :	// <p> The Welcome Air fleet consists of the following aircraft ( at December 2010 ) : </p>
+
+187	TRUE	Welcome Air::airline	welcome air / Air	
+<p> <strong> Welcome Air </strong> Luftfahrt is an <a> airline </a> based in <a> Innsbruck </a> , <a> Austria </a> . </p>
+
+188	TRUE	Rossair Europe::airline	rossair europe / Europe	
+<p> <strong> Rossair Europe </strong> is an <a> airline </a> based in the <a> Netherlands </a> . </p>
+
+#	NEW	iata	........ / an	// <p> <strong> Rossair Europe </strong> is an <a> airline </a> based in the <a> Netherlands </a> . </p>
+
+190	TRUE	Rossair Europe::icao	ros / Netherlands	
+<p> <strong> Rossair Europe </strong> is an <a> airline </a> based in the <a> Netherlands </a> . </p>
+
+#	NEW	callsign	........ / Europe	// <p> <strong> Rossair Europe </strong> is an <a> airline </a> based in the <a> Netherlands </a> . </p>
+
+#	NEW	parent	........ / Rossair Europe	// <p> <strong> Rossair Europe </strong> is an <a> airline </a> based in the <a> Netherlands </a> . </p>
+
+#	NEW	key_people	........ / is an	// <p> <strong> Rossair Europe </strong> is an <a> airline </a> based in the <a> Netherlands </a> . </p>
+
+#	NEW	fleet_size	........ / a> .	// <p> <strong> Rossair Europe </strong> is an <a> airline </a> based in the <a> Netherlands </a> . </p>
+
+#	NEW	logo_size	........ / a> .	// <p> <strong> Rossair Europe </strong> is an <a> airline </a> based in the <a> Netherlands </a> . </p>
+
+#	NEW	airline	........ / Air	// <p> <strong> Air Armenia </strong> is an <a> airline </a> based in <a> Yerevan </a> , <a> Armenia </a> .
+
+#	NEW	iata	........ / an	// <p> <strong> Air Armenia </strong> is an <a> airline </a> based in <a> Yerevan </a> , <a> Armenia </a> .
+
+#	NEW	icao	........ / Armenia	// <p> <strong> Air Armenia </strong> is an <a> airline </a> based in <a> Yerevan </a> , <a> Armenia </a> .
+
+#	NEW	callsign	........ / Air	// <p> <strong> Air Armenia </strong> is an <a> airline </a> based in <a> Yerevan </a> , <a> Armenia </a> .
+
+#	NEW	founded	........ / 18	// <p> Air Armenia was established in 2003 and started operations on 18 March 2003ref name=&quot ; FI&quot ; / with a scheduled service to <a> Frankfurt Hahn Airport </a> , which was used as a hub for cargo fro / to other points worldwide . </p>
+
+#	NEW	frequent_flyer	........ / main base	// Its main base is <a> Zvartnots International Airport </a> , Yerevan . </p>
+
+#	NEW	destinations	........ / worldwide .	// <p> Air Armenia was established in 2003 and started operations on 18 March 2003ref name=&quot ; FI&quot ; / with a scheduled service to <a> Frankfurt Hahn Airport </a> , which was used as a hub for cargo fro / to other points worldwide . </p>
+
+#	NEW	parent	........ / Air Armenia	// <p> <strong> Air Armenia </strong> is an <a> airline </a> based in <a> Yerevan </a> , <a> Armenia </a> .
+
+#	NEW	headquarters	........ / Zvartnots	// Its main base is <a> Zvartnots International Airport </a> , Yerevan . </p>
+
+#	NEW	key_people	........ / main base	// Its main base is <a> Zvartnots International Airport </a> , Yerevan . </p>
+
+#	NEW	fleet_size	........ / 18	// <p> Air Armenia was established in 2003 and started operations on 18 March 2003ref name=&quot ; FI&quot ; / with a scheduled service to <a> Frankfurt Hahn Airport </a> , which was used as a hub for cargo fro / to other points worldwide . </p>
+
+#	NEW	logo_size	........ / <a>	// It operates VIP passenger and freight services to destinations in the <a> CIS </a> and <a> Europe </a> .
+
+#	NEW	website	........ / It operates VIP passenger and freight services to destinations in the	// It operates VIP passenger and freight services to destinations in the <a> CIS </a> and <a> Europe </a> .
+
+209	TRUE	Cobham Aviation Services Australia::airline	cobham aviation services australia / Australia	
+<p> <strong> Cobham Aviation Services Australia </strong> ( formerly <strong> National Jet </strong> Systems ) , is a scheduled and charter <a> airline </a> with its Headquarters based in <a> Adelaide </a> , <a> Australia </a> .
+
+210	FALSE	Cobham Aviation Services Australia::icao	njs / Cobham	
+<p> <strong> Cobham Aviation Services Australia </strong> ( formerly <strong> National Jet </strong> Systems ) , is a scheduled and charter <a> airline </a> with its Headquarters based in <a> Adelaide </a> , <a> Australia </a> .
+
+211	TRUE	Cobham Aviation Services Australia::callsign	national jet / Cobham	
+<p> <strong> Cobham Aviation Services Australia </strong> ( formerly <strong> National Jet </strong> Systems ) , is a scheduled and charter <a> airline </a> with its Headquarters based in <a> Adelaide </a> , <a> Australia </a> .
+
+#	NEW	ceased	........ / 2010	// <p> As of February 2010 the Cobham fleet consists of the following aircraft : </p>
+
+213	TRUE	Cobham Aviation Services Australia::founded	1989 / 1 July 1990.	
+<p> National Jet Systems ( NJS ) was established in 1989 and started operations on 1 July 1990 .
+
+#	NEW	frequent_flyer	........ / charter services	// It provides aviation services including wet leasing , scheduled airline operations , and charter services across Australia .
+
+#	NEW	destinations	........ / 1990 .	// <p> National Jet Systems ( NJS ) was established in 1989 and started operations on 1 July 1990 .
+
+#	NEW	key_people	........ / February 2010	// <p> As of February 2010 the Cobham fleet consists of the following aircraft : </p>
+
+#	NEW	fleet_size	........ / 1	// <p> National Jet Systems ( NJS ) was established in 1989 and started operations on 1 July 1990 .
+
+#	NEW	logo_size	........ / 2010	// <p> As of February 2010 the Cobham fleet consists of the following aircraft : </p>
+
+#	NEW	parent	........ / as National Jet Express will	// The company ' s legal identity as National Jet Express will still remain however the company would trade and operate its aircraft under the name Cobham . </p>
+
+#	NEW	icao	........ / Nolinor	// <p> <strong> Les Investissements Nolinor Inc . </strong> , trading as <strong> Nolinor Aviation </strong> , is a <a> charter airline </a> based in <a> Montreal </a> , <a> Quebec </a> , <a> Canada </a> .
+
+221	TRUE	Nolinor Aviation::callsign	nolinor / Nolinor	
+<p> <strong> Les Investissements Nolinor Inc . </strong> , trading as <strong> Nolinor Aviation </strong> , is a <a> charter airline </a> based in <a> Montreal </a> , <a> Quebec </a> , <a> Canada </a> .
+
+222	TRUE	Nolinor Aviation::founded	1992 / 1997.	
+<p> The airline was established in 1992 and started operations in 1997 .
+
+#	NEW	destinations	........ / 1997 .	// <p> The airline was established in 1992 and started operations in 1997 .
+
+#	NEW	parent	........ / airline was	// <p> The airline was established in 1992 and started operations in 1997 .
+
+#	NEW	key_people	........ / has permission	// Since June 1999 it also has permission to provide its own aircraft maintenance .
+
+226	TRUE	Nolinor Aviation::fleet_size	9 / 1997.	
+<p> The airline was established in 1992 and started operations in 1997 .
+
+#	NEW	logo_size	........ / 1999	// Since June 1999 it also has permission to provide its own aircraft maintenance .
+
+#	NEW	icao	........ / Swaziland	// <p> <strong> Royal Swazi National Airways Corporation </strong> was the <a> national airline </a> of the <a> Kingdom of Swaziland </a> .
+
+229	TRUE	Royal Swazi National Airways::callsign	royal swazi / Swazi National Airways	
+<p> <strong> Royal Swazi National Airways Corporation </strong> was the <a> national airline </a> of the <a> Kingdom of Swaziland </a> .
+
+230	FALSE	Royal Swazi National Airways::ceased	12 april 1999 / 2009 13. 1	
+In August 2009 it was revealed that the government owed the company some <a> E </a> 13 . 1 million for air travel accumulated by 16 government ministries and departments . </p>
+
+231	TRUE	Royal Swazi National Airways::founded	1978 / 1978.	
+Headquartered in <a> Mbabane </a> with its operational base at <a> Matsapha Airport </a> near <a> Manzini </a> , the <a> airline </a> was founded in 1978 . </p>
+
+#	NEW	frequent_flyer	........ / but rather	// <p> The company still exists , although it does not own an airline , but rather operates as an air ticket sales agent .
+
+#	NEW	parent	........ / still exists	// <p> The company still exists , although it does not own an airline , but rather operates as an air ticket sales agent .
+
+#	NEW	key_people	........ / The company	// <p> The company still exists , although it does not own an airline , but rather operates as an air ticket sales agent .
+
+#	NEW	fleet_size	........ / company	// <p> The company still exists , although it does not own an airline , but rather operates as an air ticket sales agent .
+
+#	NEW	logo_size	........ / 13 .	// In August 2009 it was revealed that the government owed the company some <a> E </a> 13 . 1 million for air travel accumulated by 16 government ministries and departments . </p>
+
+#	NEW	airline	........ / Tunisair	// <p> <strong> Sevenair </strong> ( ( ) , formerly known as <strong> Tuninter </strong> ( ) is an <a> airline </a> based in <a> Tunis </a> , Tunisia and operates internal , short-distance flights as part of <a> Tunisair </a> . </p>
+
+#	NEW	iata	........ / an	// <p> <strong> Sevenair </strong> ( ( ) , formerly known as <strong> Tuninter </strong> ( ) is an <a> airline </a> based in <a> Tunis </a> , Tunisia and operates internal , short-distance flights as part of <a> Tunisair </a> . </p>
+
+239	FALSE	Sevenair::icao	sen / Tunisair	
+<p> <strong> Sevenair </strong> ( ( ) , formerly known as <strong> Tuninter </strong> ( ) is an <a> airline </a> based in <a> Tunis </a> , Tunisia and operates internal , short-distance flights as part of <a> Tunisair </a> . </p>
+
+#	NEW	ceased	........ / 2010	// <p> As of November 2010 , the Sevenair fleet consists of the following aircraft : </p>
+
+#	NEW	founded	........ / 2010	// <p> As of June 2010 , Sevenair operates scheduled passenger flights to the following destinations : </p>
+
+#	NEW	frequent_flyer	........ / passengers were	// Officials at Bari airport reported that most of the passengers were Italian tourists .
+
+#	NEW	destinations	........ / 2010	// <p> As of June 2010 , Sevenair operates scheduled passenger flights to the following destinations : </p>
+
+#	NEW	parent	........ / aircraft was	// The aircraft was carrying 39 passengers and crew , 16 of whom died .
+
+#	NEW	key_people	........ / June 2010	// <p> As of June 2010 , Sevenair operates scheduled passenger flights to the following destinations : </p>
+
+#	NEW	fleet_size	........ / 2010	// <p> As of June 2010 , Sevenair operates scheduled passenger flights to the following destinations : </p>
+
+#	NEW	logo_size	........ / </	// <p> As of November 2010 , the Sevenair fleet consists of the following aircraft : </p>
+
+248	TRUE	Sevenair::callsign	sevenair / Tunis	
+<p> <strong> Sevenair </strong> ( ( ) , formerly known as <strong> Tuninter </strong> ( ) is an <a> airline </a> based in <a> Tunis </a> , Tunisia and operates internal , short-distance flights as part of <a> Tunisair </a> . </p>
+
+#	NEW	icao	........ / Zambia	// <p> <strong> Zambian Airways </strong> was the <a> flag carrier </a> of Zambia , based in <a> Lusaka </a> , <a> Zambia </a> .
+
+#	NEW	callsign	........ / Zambian	// <p> <strong> Zambian Airways </strong> was the <a> flag carrier </a> of Zambia , based in <a> Lusaka </a> , <a> Zambia </a> .
+
+251	FALSE	Zambian Airways::ceased	2009 / 24 September 2008 )	
+The Zambian Airways fleet consisted of the following aircraft ( as of 24 September 2008 ) [ <a> http : / /www . ch-aviation . c / aircraft . php ? search=set&amp ; airline=Q3&amp ; al_op=1 </a> ] : </p>
+
+#	NEW	destinations	........ / 1998	// MAS purchased two new <a> Raytheon Beech 1900D Airliner </a> aircraft from <a> Raytheon Credit Corporation </a> ( RCC ) in July and August 1998 respectively .
+
+#	NEW	parent	........ / has been	// The company has been operating these two aircraft since then , under the trading name of Zambian Airways .
+
+#	NEW	key_people	........ / purchased two	// MAS purchased two new <a> Raytheon Beech 1900D Airliner </a> aircraft from <a> Raytheon Credit Corporation </a> ( RCC ) in July and August 1998 respectively .
+
+#	NEW	logo_size	........ / a>	// The Zambian Airways fleet consisted of the following aircraft ( as of 24 September 2008 ) [ <a> http : / /www . ch-aviation . c / aircraft . php ? search=set&amp ; airline=Q3&amp ; al_op=1 </a> ] : </p>
+
+256	FALSE	Nationwide Airlines (Zambia)::airline	nationwide airlines (zambia) / Nationwide Airlines	
+<p> <strong> Nationwide Airlines ( Zambia ) Limited </strong> is a scheduled , domestic , passenger <a> airline </a> based in <a> Zambia </a> .
+
+#	NEW	icao	........ / Zambia	// <p> <strong> Nationwide Airlines ( Zambia ) Limited </strong> is a scheduled , domestic , passenger <a> airline </a> based in <a> Zambia </a> .
+
+#	NEW	callsign	........ / Nationwide	// <p> <strong> Nationwide Airlines ( Zambia ) Limited </strong> is a scheduled , domestic , passenger <a> airline </a> based in <a> Zambia </a> .
+
+#	NEW	ceased	........ / 1991	// The airline was established in 1991 and is a franchise carrier of <a> Nationwide Airlines </a> of <a> South Africa </a> . </p>
+
+260	TRUE	Nationwide Airlines (Zambia)::founded	1991 / 1991	
+The airline was established in 1991 and is a franchise carrier of <a> Nationwide Airlines </a> of <a> South Africa </a> . </p>
+
+#	NEW	frequent_flyer	........ / main base	// Its main base is <a> Lusaka </a> International Airport ( LUN ) .
+
+#	NEW	destinations	........ / 1991	// The airline was established in 1991 and is a franchise carrier of <a> Nationwide Airlines </a> of <a> South Africa </a> . </p>
+
+#	NEW	parent	........ / Nationwide Airlines	// <p> <strong> Nationwide Airlines ( Zambia ) Limited </strong> is a scheduled , domestic , passenger <a> airline </a> based in <a> Zambia </a> .
+
+#	NEW	key_people	........ / Nationwide Airlines	// <p> Nationwide Airlines operates regional flights between South Africa , Zambia and <a> Tanzania </a> . </p>
+
+#	NEW	logo_size	........ / a> .	// <p> Nationwide Airlines operates regional flights between South Africa , Zambia and <a> Tanzania </a> . </p>
+
+#	NEW	headquarters	........ / Zambia	// <p> <strong> Nationwide Airlines ( Zambia ) Limited </strong> is a scheduled , domestic , passenger <a> airline </a> based in <a> Zambia </a> .
+
+#	NEW	fleet_size	........ / 1991	// The airline was established in 1991 and is a franchise carrier of <a> Nationwide Airlines </a> of <a> South Africa </a> . </p>
+
+268	TRUE	Easy Link Aviation::airline	easy link aviation / Link Aviation	
+<p> <strong> Easy Link Aviation </strong> Services was an <a> airline </a> based in <a> Nigeria </a> . </p>
+
+269	FALSE	Easy Link Aviation::iata	- / an	
+<p> <strong> Easy Link Aviation </strong> Services was an <a> airline </a> based in <a> Nigeria </a> . </p>
+
+#	NEW	icao	........ / Easy	// <p> <strong> Easy Link Aviation </strong> Services was an <a> airline </a> based in <a> Nigeria </a> . </p>
+
+#	NEW	callsign	........ / Easy	// <p> <strong> Easy Link Aviation </strong> Services was an <a> airline </a> based in <a> Nigeria </a> . </p>
+
+#	NEW	ceased	........ / 2006	// <p> As of August <a> 2006 </a> the Easy Link fleet included : </p>
+
+#	NEW	founded	........ / 2007	// <p> The Nigerian government set a deadline of April 30 , 2007 for all airlines operating in the country to re-capitalise or be grounded , in an effort to ensure better services and safety .
+
+#	NEW	frequent_flyer	........ / Easy Link	// <p> As of August <a> 2006 </a> the Easy Link fleet included : </p>
+
+#	NEW	parent	........ / Easy Link Aviation	// <p> <strong> Easy Link Aviation </strong> Services was an <a> airline </a> based in <a> Nigeria </a> . </p>
+
+#	NEW	headquarters	........ / Nigeria	// <p> <strong> Easy Link Aviation </strong> Services was an <a> airline </a> based in <a> Nigeria </a> . </p>
+
+#	NEW	key_people	........ / an <a>	// <p> <strong> Easy Link Aviation </strong> Services was an <a> airline </a> based in <a> Nigeria </a> . </p>
+
+#	NEW	logo_size	........ / 2006	// <p> As of August <a> 2006 </a> the Easy Link fleet included : </p>
+
+#	NEW	destinations	........ / 2007	// <p> The Nigerian government set a deadline of April 30 , 2007 for all airlines operating in the country to re-capitalise or be grounded , in an effort to ensure better services and safety .
+
+#	NEW	website	........ / The airline did not meet the Nigerian Civil Aviation Authority ( NCAA ) &#x2019 ; s criteria in terms of re-capitalization and does not operate services any longer .	// The airline did not meet the Nigerian Civil Aviation Authority ( NCAA ) &#x2019 ; s criteria in terms of re-capitalization and does not operate services any longer . </p>
+
+#	NEW	fleet_size	........ / 30	// <p> The Nigerian government set a deadline of April 30 , 2007 for all airlines operating in the country to re-capitalise or be grounded , in an effort to ensure better services and safety .
+
+282	TRUE	Orion Air::airline	orion air / Air	
+<p> <strong> Orion Air </strong> was an <a> airline </a> based in the <a> Seychelles </a> . </p>
+
+#	NEW	iata	........ / an	// <p> <strong> Orion Air </strong> was an <a> airline </a> based in the <a> Seychelles </a> . </p>
+
+284	TRUE	Orion Air::icao	ori / Seychelles	
+<p> <strong> Orion Air </strong> was an <a> airline </a> based in the <a> Seychelles </a> . </p>
+
+285	TRUE	Orion Air::callsign	orion air / Air	
+<p> <strong> Orion Air </strong> was an <a> airline </a> based in the <a> Seychelles </a> . </p>
+
+#	NEW	founded	........ / 1990	// In January 1990 operations and airline had to shut down .
+
+#	NEW	parent	........ / Orion Air	// <p> <strong> Orion Air </strong> was an <a> airline </a> based in the <a> Seychelles </a> . </p>
+
+#	NEW	key_people	........ / wasn ' t	// It wasn ' t in service anymore with the aircraft and the airline . </p>
+
+#	NEW	website	........ / In January 1990 operations and airline had to shut down .	// In January 1990 operations and airline had to shut down .
+
+#	NEW	fleet_size	........ / 1990	// In January 1990 operations and airline had to shut down .
+
+#	NEW	logo_size	........ / </	// It wasn ' t in service anymore with the aircraft and the airline . </p>
+
+292	TRUE	Phoenix Aviation::airline	phoenix aviation / United	
+<p> <strong> Phoenix Aviation </strong> was an <a> airline </a> based in <a> Sharjah </a> , <a> United Arab Emirates </a> .
+
+#	NEW	iata	........ / an	// <p> <strong> Phoenix Aviation </strong> was an <a> airline </a> based in <a> Sharjah </a> , <a> United Arab Emirates </a> .
+
+#	NEW	icao	........ / Phoenix	// <p> <strong> Phoenix Aviation </strong> was an <a> airline </a> based in <a> Sharjah </a> , <a> United Arab Emirates </a> .
+
+#	NEW	callsign	........ / Phoenix	// <p> <strong> Phoenix Aviation </strong> was an <a> airline </a> based in <a> Sharjah </a> , <a> United Arab Emirates </a> .
+
+#	NEW	ceased	........ / 2005 ) :	// <p> The Phoenix Aviation fleet consisted of the following aircraft ( at January 2005 ) : </p>
+
+297	TRUE	Phoenix Aviation::founded	1996 / 1996	
+It was established and started operations in 1996 and operated passenger and freight services .
+
+298	FALSE	Phoenix Aviation::destinations	4 / 1996	
+It was established and started operations in 1996 and operated passenger and freight services .
+
+#	NEW	parent	........ / Phoenix Aviation	// <p> <strong> Phoenix Aviation </strong> was an <a> airline </a> based in <a> Sharjah </a> , <a> United Arab Emirates </a> .
+
+#	NEW	key_people	........ / The airline	// <p> The airline was rebranded as <a> AVE . com </a> in October 2005 . </p>
+
+#	NEW	fleet_size	........ / 1996	// It was established and started operations in 1996 and operated passenger and freight services .
+
+#	NEW	logo_size	........ / 2005 ) :	// <p> The Phoenix Aviation fleet consisted of the following aircraft ( at January 2005 ) : </p>
+
+#	NEW	callsign	........ / AKFED	// <p> <strong> Celestair </strong> is a group of airlines <a> Air Burkina </a> , <a> Air Mali </a> and <a> Air Uganda </a> , part of <a> AKFED </a> Group </p>
+
+#	NEW	ceased	........ / 2009 ) :	// The Celestair fleet consists of the following aircraft ( as of March 2009 ) : </p>
+
+#	NEW	destinations	........ / 2009 ) :	// The Celestair fleet consists of the following aircraft ( as of March 2009 ) : </p>
+
+#	NEW	parent	........ / aircraft ( as of	// The Celestair fleet consists of the following aircraft ( as of March 2009 ) : </p>
+
+#	NEW	headquarters	........ / March	// The Celestair fleet consists of the following aircraft ( as of March 2009 ) : </p>
+
+#	NEW	key_people	........ / the following	// The Celestair fleet consists of the following aircraft ( as of March 2009 ) : </p>
+
+#	NEW	fleet_size	........ / a>	// <p> Celestair Group represents an alliance of three airlines under the Aga Khan Fund for Economic Development , AKFED , and benefits from technical and operative support from other airlines owned by the <a> Aga Khan </a> , such as <a> Meridiana </a> and <a> Eurofly </a> of Italy .
+
+310	FALSE	Celestair::airline	celestair group / Group	
+<p> <strong> Celestair </strong> is a group of airlines <a> Air Burkina </a> , <a> Air Mali </a> and <a> Air Uganda </a> , part of <a> AKFED </a> Group </p>
+
+#	NEW	icao	........ / AKFED	// <p> <strong> Celestair </strong> is a group of airlines <a> Air Burkina </a> , <a> Air Mali </a> and <a> Air Uganda </a> , part of <a> AKFED </a> Group </p>
+
+#	NEW	logo_size	........ / 2009 ) :	// The Celestair fleet consists of the following aircraft ( as of March 2009 ) : </p>
+
+#	NEW	airline	........ / South Africa	// <p> <strong> Executive Aerospace </strong> was a charter <a> airline </a> based in <a> Johannesburg </a> , <a> South Africa </a> .
+
+#	NEW	icao	........ / Executive	// <p> <strong> Executive Aerospace </strong> was a charter <a> airline </a> based in <a> Johannesburg </a> , <a> South Africa </a> .
+
+315	TRUE	Executive Aerospace::callsign	aerospace / Executive	
+<p> <strong> Executive Aerospace </strong> was a charter <a> airline </a> based in <a> Johannesburg </a> , <a> South Africa </a> .
+
+#	NEW	ceased	........ / 2007	// <p> On March 2007 the Executive Aerospace fleet included </p>
+
+#	NEW	founded	........ / 1984	// It was established in 1984 and operated charter services for South Africa ' s leading tour and conference operators , as well as sports unions .
+
+#	NEW	frequent_flyer	........ / as well	// It was established in 1984 and operated charter services for South Africa ' s leading tour and conference operators , as well as sports unions .
+
+#	NEW	destinations	........ / 1984	// It was established in 1984 and operated charter services for South Africa ' s leading tour and conference operators , as well as sports unions .
+
+#	NEW	headquarters	........ / ,	// <p> <strong> Executive Aerospace </strong> was a charter <a> airline </a> based in <a> Johannesburg </a> , <a> South Africa </a> .
+
+#	NEW	key_people	........ / in 1984	// It was established in 1984 and operated charter services for South Africa ' s leading tour and conference operators , as well as sports unions .
+
+#	NEW	fleet_size	........ / 1984	// It was established in 1984 and operated charter services for South Africa ' s leading tour and conference operators , as well as sports unions .
+
+#	NEW	logo_size	........ / 2007	// <p> On March 2007 the Executive Aerospace fleet included </p>
+
+#	NEW	parent	........ / was established	// It was established in 1984 and operated charter services for South Africa ' s leading tour and conference operators , as well as sports unions .
+
+#	NEW	website	........ / It was established in 1984 and operated charter services for South Africa ' s leading tour and conference operators , as well as sports unions .	// It was established in 1984 and operated charter services for South Africa ' s leading tour and conference operators , as well as sports unions .
+
+#	NEW	iata	........ / an	// <p> <strong> SunExpress </strong> ( ) is an <a> airline </a> based in <a> Antalya </a> , <a> Turkey </a> .
+
+#	NEW	icao	........ / Turkey	// <p> <strong> SunExpress </strong> ( ) is an <a> airline </a> based in <a> Antalya </a> , <a> Turkey </a> .
+
+328	TRUE	SunExpress::callsign	sunexpress / Antalya	
+<p> <strong> SunExpress </strong> ( ) is an <a> airline </a> based in <a> Antalya </a> , <a> Turkey </a> .
+
+#	NEW	ceased	........ / 2010 ) :	// <p> The SunExpress fleet consists of the following aircraft ( as of December 2010 ) : </p>
+
+330	FALSE	SunExpress::destinations	82 / 1990	
+<p> The airline was established in October 1989 and started operations in April 1990 with a charter service between Antalya and <a> Frankfurt </a> , <a> Germany </a> .
+
+#	NEW	parent	........ / future service	// <p> Market appearance identical with the SunExpress parent company The market appearance and product of the German subsidiary will conform with that of the Turkish parent company , future service and product improvements will be planned and implemented identically for both airline companies .
+
+#	NEW	headquarters	........ / Lufthansa	// <p> The owners of SunExpress are 50% <a> Turkish Airlines </a> and 50% <a> Lufthansa </a> .
+
+#	NEW	key_people	........ / <a> Lufthansa	// In February 2007 , all Condor shares were retaken by <a> Lufthansa </a> . </p>
+
+#	NEW	website	........ / It operates scheduled and charter flights to destinations in	// It operates scheduled and charter flights to destinations in <a> Europe </a> .
+
+335	FALSE	SunExpress::fleet_size	25 / 1990	
+<p> The airline was established in October 1989 and started operations in April 1990 with a charter service between Antalya and <a> Frankfurt </a> , <a> Germany </a> .
+
+#	NEW	logo_size	........ / 2010 ) :	// <p> The SunExpress fleet consists of the following aircraft ( as of December 2010 ) : </p>
+
+337	TRUE	SunExpress::founded	1989 / 1990	
+<p> The airline was established in October 1989 and started operations in April 1990 with a charter service between Antalya and <a> Frankfurt </a> , <a> Germany </a> .
+
+338	TRUE	Darwin Airline::airline	darwin airline / near	
+<p> <strong> Darwin Airline </strong> is a <a> regional airline </a> with its head office on the grounds of <a> Lugano Airport </a> in <a> Agno </a> , <a> Switzerland </a> , near <a> Lugano </a> .
+
+#	NEW	icao	........ / Lugano	// <p> <strong> Darwin Airline </strong> is a <a> regional airline </a> with its head office on the grounds of <a> Lugano Airport </a> in <a> Agno </a> , <a> Switzerland </a> , near <a> Lugano </a> .
+
+340	TRUE	Darwin Airline::callsign	darwin / Darwin	
+<p> <strong> Darwin Airline </strong> is a <a> regional airline </a> with its head office on the grounds of <a> Lugano Airport </a> in <a> Agno </a> , <a> Switzerland </a> , near <a> Lugano </a> .
+
+#	NEW	ceased	........ / 2010	// <p> As of August 2010 , the Darwin Airline fleet includes : ref name=&quot ; FI&quot ; / </p>
+
+342	TRUE	Darwin Airline::founded	2003 / 2004.	
+<p> The airline was established on August 12 , 2003 and operations started on July 28 , 2004 .
+
+#	NEW	destinations	........ / 2004 .	// <p> The airline was established on August 12 , 2003 and operations started on July 28 , 2004 .
+
+#	NEW	parent	........ / operates scheduled	// It operates scheduled domestic services and international services to <a> Italy </a> and <a> France </a> .
+
+#	NEW	headquarters	........ / ,	// <p> The airline was established on August 12 , 2003 and operations started on July 28 , 2004 .
+
+#	NEW	key_people	........ / the following	// <p> Darwin Airline operates the following services ( as of February 2010 ) : </p>
+
+#	NEW	website	........ / It operates scheduled domestic services and international services to	// It operates scheduled domestic services and international services to <a> Italy </a> and <a> France </a> .
+
+#	NEW	fleet_size	........ / 12	// <p> The airline was established on August 12 , 2003 and operations started on July 28 , 2004 .
+
+349	FALSE	Darwin Airline::logo_size	200 / </	
+<p> As of August 2010 , the Darwin Airline fleet includes : ref name=&quot ; FI&quot ; / </p>
+
+#	NEW	airline	........ / People '	// <p> <strong> Chang&#x2019 ; an Airlines Co . , Ltd . </strong> ( &#x957f ; &#x5b89 ; &#x822a ; &#x7a7a ; ) is an <a> airline </a> based in <a> Xi ' an </a> , <a> Shaanxi </a> , the <a> People ' s Republic of China </a> .
+
+#	NEW	iata	........ / an	// <p> <strong> Chang&#x2019 ; an Airlines Co . , Ltd . </strong> ( &#x957f ; &#x5b89 ; &#x822a ; &#x7a7a ; ) is an <a> airline </a> based in <a> Xi ' an </a> , <a> Shaanxi </a> , the <a> People ' s Republic of China </a> .
+
+#	NEW	icao	........ / China	// <p> <strong> Chang&#x2019 ; an Airlines Co . , Ltd . </strong> ( &#x957f ; &#x5b89 ; &#x822a ; &#x7a7a ; ) is an <a> airline </a> based in <a> Xi ' an </a> , <a> Shaanxi </a> , the <a> People ' s Republic of China </a> .
+
+353	FALSE	Chang'an Airlines::callsign	changan / of China	
+<p> <strong> Chang&#x2019 ; an Airlines Co . , Ltd . </strong> ( &#x957f ; &#x5b89 ; &#x822a ; &#x7a7a ; ) is an <a> airline </a> based in <a> Xi ' an </a> , <a> Shaanxi </a> , the <a> People ' s Republic of China </a> .
+
+354	TRUE	Chang'an Airlines::founded	1992 / 1993.	
+<p> The airline was established on 24 December 1992 and started operations on 1 June 1993 .
+
+#	NEW	frequent_flyer	........ / Changan Airlines	// <a> Hainan Airlines </a> owns a 73 . 51% stake in Changan Airlines </p>
+
+#	NEW	destinations	........ / 1993 .	// <p> The airline was established on 24 December 1992 and started operations on 1 June 1993 .
+
+#	NEW	parent	........ / airline was	// <p> The airline was established on 24 December 1992 and started operations on 1 June 1993 .
+
+#	NEW	headquarters	........ / operations	// <p> The airline was established on 24 December 1992 and started operations on 1 June 1993 .
+
+#	NEW	key_people	........ / a 73 .	// <a> Hainan Airlines </a> owns a 73 . 51% stake in Changan Airlines </p>
+
+360	TRUE	Chang'an Airlines::fleet_size	4 / 1	
+<p> The airline was established on 24 December 1992 and started operations on 1 June 1993 .
+
+#	NEW	logo_size	........ / </	// <p> Chang ' an Airlines also operated the following aircraft in the past : </p>
+
+362	TRUE	Toll Aviation::airline	toll aviation / Australia	
+<p> <strong> Toll Aviation </strong> is an <a> airline </a> based in <a> Brisbane </a> , <a> Australia </a> .
+
+363	FALSE	Toll Aviation::iata	- / an	
+<p> <strong> Toll Aviation </strong> is an <a> airline </a> based in <a> Brisbane </a> , <a> Australia </a> .
+
+#	NEW	icao	........ / Toll	// <p> <strong> Toll Aviation </strong> is an <a> airline </a> based in <a> Brisbane </a> , <a> Australia </a> .
+
+#	NEW	callsign	........ / Toll	// <p> <strong> Toll Aviation </strong> is an <a> airline </a> based in <a> Brisbane </a> , <a> Australia </a> .
+
+#	NEW	ceased	........ / 2008	// <p> As of December 2008 the Toll Aviation fleet consists of the following aircraft : </p>
+
+#	NEW	founded	........ / 1989	// <p> The airline was established as cargo charter company <strong> Jetcraft Aviation </strong> in 1989 , operating initially in <a> Queensland </a> with two <a> Mitsubishi MU-2Gs </a> and a <a> Fairchild SA226-TC Metro II </a> .
+
+#	NEW	frequent_flyer	........ / MU- 2s	// In the next two years the Metro fleet was gradually built up and the MU-2s withdrawn .
+
+#	NEW	destinations	........ / 1989	// <p> The airline was established as cargo charter company <strong> Jetcraft Aviation </strong> in 1989 , operating initially in <a> Queensland </a> with two <a> Mitsubishi MU-2Gs </a> and a <a> Fairchild SA226-TC Metro II </a> .
+
+#	NEW	parent	........ / Toll Aviation	// <p> <strong> Toll Aviation </strong> is an <a> airline </a> based in <a> Brisbane </a> , <a> Australia </a> .
+
+#	NEW	headquarters	........ / ,	// <p> <strong> Toll Aviation </strong> is an <a> airline </a> based in <a> Brisbane </a> , <a> Australia </a> .
+
+#	NEW	fleet_size	........ / SA226-	// <p> The airline was established as cargo charter company <strong> Jetcraft Aviation </strong> in 1989 , operating initially in <a> Queensland </a> with two <a> Mitsubishi MU-2Gs </a> and a <a> Fairchild SA226-TC Metro II </a> .
+
+#	NEW	logo_size	........ / 2008	// <p> As of December 2008 the Toll Aviation fleet consists of the following aircraft : </p>
+
+#	NEW	key_people	........ / was leased	// An <a> IAI WW24 Westwind </a> was leased to operate a Wards Express freight contract with jetCraft pilots between Darwin , Alice Springs and Melbourne halfway through 1992 .
+
+375	TRUE	Air Corridor::airline	air corridor / Air	
+<p> <strong> Air Corridor </strong> was an <a> airline </a> based in <a> Nampula </a> , <a> Mozambique </a> .
+
+#	NEW	iata	........ / an	// <p> <strong> Air Corridor </strong> was an <a> airline </a> based in <a> Nampula </a> , <a> Mozambique </a> .
+
+#	NEW	icao	........ / Mozambique	// <p> <strong> Air Corridor </strong> was an <a> airline </a> based in <a> Nampula </a> , <a> Mozambique </a> .
+
+378	TRUE	Air Corridor::founded	2004 / 737	
+<p> The airline was established in 2004 and began operations in August 2004 with a single <a> Boeing 737 </a> .
+
+379	TRUE	Air Corridor::destinations	7 / 2004	
+<p> The airline was established in 2004 and began operations in August 2004 with a single <a> Boeing 737 </a> .
+
+#	NEW	parent	........ / Air Corridor	// <p> <strong> Air Corridor </strong> was an <a> airline </a> based in <a> Nampula </a> , <a> Mozambique </a> .
+
+#	NEW	headquarters	........ / operations	// Air Corridor ceased operations on 10 January 2008 . . </p>
+
+#	NEW	key_people	........ / February 2007	// As of 9 February 2007 this ban has been lifted . </p>
+
+383	TRUE	Air Corridor::fleet_size	2 / 737	
+<p> The airline was established in 2004 and began operations in August 2004 with a single <a> Boeing 737 </a> .
+
+384	TRUE	Air Corridor::callsign	air corridor / Air	
+<p> <strong> Air Corridor </strong> was an <a> airline </a> based in <a> Nampula </a> , <a> Mozambique </a> .
+
+385	FALSE	Air Corridor::ceased	10 january 2008 / 2008 ) :	
+<p> The Air Corridor fleet consisted of the following aircraft ( at April 2008 ) : </p>
+
+#	NEW	logo_size	........ / 2008 ) :	// <p> The Air Corridor fleet consisted of the following aircraft ( at April 2008 ) : </p>
+
+387	TRUE	Bakhtar Afghan Airlines::airline	bakhtar afghan airlines / Afghan Airlines	
+<p> <strong> Bakhtar Afghan Airlines </strong> was an <a> airline </a> based in <a> Afghanistan </a> .
+
+#	NEW	iata	........ / an	// <p> <strong> Bakhtar Afghan Airlines </strong> was an <a> airline </a> based in <a> Afghanistan </a> .
+
+#	NEW	icao	........ / Afghanistan	// <p> <strong> Bakhtar Afghan Airlines </strong> was an <a> airline </a> based in <a> Afghanistan </a> .
+
+390	TRUE	Bakhtar Afghan Airlines::callsign	bakhtar / Bakhtar	
+<p> <strong> Bakhtar Afghan Airlines </strong> was an <a> airline </a> based in <a> Afghanistan </a> .
+
+#	NEW	ceased	........ / 2006	// <p> As of August 2006 the Bakhtar Afghan Airlines fleet included : </p>
+
+#	NEW	frequent_flyer	........ / Bakhtar Afghan	// <p> As of August 2006 the Bakhtar Afghan Airlines fleet included : </p>
+
+#	NEW	parent	........ / Bakhtar Afghan Airlines	// <p> <strong> Bakhtar Afghan Airlines </strong> was an <a> airline </a> based in <a> Afghanistan </a> .
+
+#	NEW	headquarters	........ / Afghanistan	// <p> <strong> Bakhtar Afghan Airlines </strong> was an <a> airline </a> based in <a> Afghanistan </a> .
+
+#	NEW	key_people	........ / an <a>	// <p> <strong> Bakhtar Afghan Airlines </strong> was an <a> airline </a> based in <a> Afghanistan </a> .
+
+#	NEW	fleet_size	........ / ,	// The international airline of Afghanistan is called <a> Ariana Afghan Airlines </a> and its domestic partner is called <a> Bakhtar Air </a> , even though they both are the same airline company . </p>
+
+#	NEW	logo_size	........ / 2006	// <p> As of August 2006 the Bakhtar Afghan Airlines fleet included : </p>
+
+398	FALSE	CTK – CiTylinK::airline	citylink airlines / based	
+<p> <strong> CTK CiTylinK </strong> is an <a> airline </a> in <a> Ghana </a> based in <a> Accra </a> .
+
+#	NEW	iata	........ / an	// <p> <strong> CTK CiTylinK </strong> is an <a> airline </a> in <a> Ghana </a> based in <a> Accra </a> .
+
+#	NEW	icao	........ / Accra	// <p> <strong> CTK CiTylinK </strong> is an <a> airline </a> in <a> Ghana </a> based in <a> Accra </a> .
+
+#	NEW	destinations	........ / 18	// Scheduled domestic flights in Ghana where introduced on 18 September 2003 under the name CiTylinK Airlines . </p>
+
+#	NEW	parent	........ / are also	// Services are also available for other aircraft users and operators .
+
+#	NEW	key_people	........ / CTK Citylink	// <p> CTK Citylink has been in existence for 16 years and is the oldest operating airline in Ghana .
+
+#	NEW	fleet_size	........ / 16	// <p> CTK Citylink has been in existence for 16 years and is the oldest operating airline in Ghana .
+
+405	TRUE	CTK – CiTylinK::callsign	citylink / CTK CiTylinK	
+<p> <strong> CTK CiTylinK </strong> is an <a> airline </a> in <a> Ghana </a> based in <a> Accra </a> .
+
+#	NEW	logo_size	........ / </	// <p> The CTK - CiTylinK fleet includes the following aircraft : </p>
+
+#	NEW	founded	........ / 2003	// Scheduled domestic flights in Ghana where introduced on 18 September 2003 under the name CiTylinK Airlines . </p>
+
+408	TRUE	Aero Benin::airline	aero benin / Aero	
+<p> <strong> Aero Benin </strong> is an <a> airline </a> based in <a> Benin </a> . </p>
+
+#	NEW	iata	........ / an	// <p> <strong> Aero Benin </strong> is an <a> airline </a> based in <a> Benin </a> . </p>
+
+#	NEW	callsign	........ / Aero	// <p> <strong> Aero Benin </strong> is an <a> airline </a> based in <a> Benin </a> . </p>
+
+#	NEW	parent	........ / Aero Benin	// <p> <strong> Aero Benin </strong> is an <a> airline </a> based in <a> Benin </a> . </p>
+
+#	NEW	headquarters	........ / Benin	// <p> <strong> Aero Benin </strong> is an <a> airline </a> based in <a> Benin </a> . </p>
+
+#	NEW	key_people	........ / is an	// <p> <strong> Aero Benin </strong> is an <a> airline </a> based in <a> Benin </a> . </p>
+
+#	NEW	fleet_size	........ / a> .	// <p> <strong> Aero Benin </strong> is an <a> airline </a> based in <a> Benin </a> . </p>
+
+#	NEW	icao	........ / Benin	// <p> <strong> Aero Benin </strong> is an <a> airline </a> based in <a> Benin </a> . </p>
+
+#	NEW	logo_size	........ / a> .	// <p> <strong> Aero Benin </strong> is an <a> airline </a> based in <a> Benin </a> . </p>
+
+417	TRUE	Premium Air Shuttle::airline	premium air shuttle / Air Shuttle	
+<p> <strong> Premium Air Shuttle </strong> was an <a> airline </a> based in <a> Nigeria </a> . </p>
+
+#	NEW	iata	........ / an	// <p> <strong> Premium Air Shuttle </strong> was an <a> airline </a> based in <a> Nigeria </a> . </p>
+
+419	TRUE	Premium Air Shuttle::icao	emi / Nigeria	
+<p> <strong> Premium Air Shuttle </strong> was an <a> airline </a> based in <a> Nigeria </a> . </p>
+
+#	NEW	callsign	........ / Air	// <p> <strong> Premium Air Shuttle </strong> was an <a> airline </a> based in <a> Nigeria </a> . </p>
+
+#	NEW	ceased	........ / 2006	// <p> As of August 2006 the Premium Air Shuttle fleet includes : </p>
+
+#	NEW	frequent_flyer	........ / Premium Air	// <p> As of August 2006 the Premium Air Shuttle fleet includes : </p>
+
+#	NEW	parent	........ / Premium Air	// <p> <strong> Premium Air Shuttle </strong> was an <a> airline </a> based in <a> Nigeria </a> . </p>
+
+#	NEW	headquarters	........ / Nigeria	// <p> <strong> Premium Air Shuttle </strong> was an <a> airline </a> based in <a> Nigeria </a> . </p>
+
+#	NEW	key_people	........ / an <a>	// <p> <strong> Premium Air Shuttle </strong> was an <a> airline </a> based in <a> Nigeria </a> . </p>
+
+#	NEW	fleet_size	........ / a> .	// <p> <strong> Premium Air Shuttle </strong> was an <a> airline </a> based in <a> Nigeria </a> . </p>
+
+#	NEW	logo_size	........ / 2006	// <p> As of August 2006 the Premium Air Shuttle fleet includes : </p>
+
+#	NEW	iata	........ / an	// <p> <strong> Faso Airways </strong> is an <a> airline </a> based in <a> Ouagadougou </a> , <a> Burkina Faso </a> .
+
+#	NEW	icao	........ / Faso	// <p> <strong> Faso Airways </strong> is an <a> airline </a> based in <a> Ouagadougou </a> , <a> Burkina Faso </a> .
+
+430	TRUE	Faso Airways::callsign	faso / Faso	
+<p> <strong> Faso Airways </strong> is an <a> airline </a> based in <a> Ouagadougou </a> , <a> Burkina Faso </a> .
+
+#	NEW	ceased	........ / 2006 ) :	// <p> The Faso Airways fleet includes the following aircraft ( at August 2006 ) : </p>
+
+432	TRUE	Faso Airways::founded	2000 / 2000	
+It was established in 2000 and operates charter flights to <a> Africa </a> , <a> Europe </a> and the <a> Middle East </a> .
+
+#	NEW	destinations	........ / 2000	// It was established in 2000 and operates charter flights to <a> Africa </a> , <a> Europe </a> and the <a> Middle East </a> .
+
+#	NEW	parent	........ / was established	// It was established in 2000 and operates charter flights to <a> Africa </a> , <a> Europe </a> and the <a> Middle East </a> .
+
+#	NEW	headquarters	........ / August	// <p> The Faso Airways fleet includes the following aircraft ( at August 2006 ) : </p>
+
+#	NEW	key_people	........ / The Faso	// <p> The Faso Airways fleet includes the following aircraft ( at August 2006 ) : </p>
+
+437	TRUE	Faso Airways::fleet_size	2 / <a>	
+It was established in 2000 and operates charter flights to <a> Africa </a> , <a> Europe </a> and the <a> Middle East </a> .
+
+#	NEW	logo_size	........ / 2006 ) :	// <p> The Faso Airways fleet includes the following aircraft ( at August 2006 ) : </p>
+
+439	FALSE	Yeti Airlines::airline	yeti airlines / Nepal	
+Ltd . </strong> is an <a> airline </a> based in <a> Nepal </a> .
+
+440	FALSE	Yeti Airlines::icao	- / Nepal	
+Ltd . </strong> is an <a> airline </a> based in <a> Nepal </a> .
+
+441	FALSE	Yeti Airlines::callsign	- / Nepal	
+Ltd . </strong> is an <a> airline </a> based in <a> Nepal </a> .
+
+#	NEW	founded	........ / 6	// It started operations with two <a> de Havilland Canada DHC-6 Twin Otter </a> s . </p>
+
+443	TRUE	Yeti Airlines::destinations	8 / 1998.	
+<p> Yeti Airlines was established in May 1998 and received its Air Operators Certificate on 17supt / sup August 1998 .
+
+#	NEW	headquarters	........ / Nepal	// Ltd . </strong> is an <a> airline </a> based in <a> Nepal </a> .
+
+#	NEW	key_people	........ / the total	// The group has more than 60% of the total market share as of January 2008 .
+
+446	TRUE	Yeti Airlines::fleet_size	7 / 1998	
+<p> Yeti Airlines was established in May 1998 and received its Air Operators Certificate on 17supt / sup August 1998 .
+
+#	NEW	iata	........ / an	// Ltd . </strong> is an <a> airline </a> based in <a> Nepal </a> .
+
+#	NEW	ceased	........ / 2006 . .	// <p> The Yeti Airlines fleet includes the following aircraft as of October 2010 : The fourth Jetstream was delivered on 29 August 2006 . .
+
+#	NEW	logo_size	........ / 29	// <p> The Yeti Airlines fleet includes the following aircraft as of October 2010 : The fourth Jetstream was delivered on 29 August 2006 . .
+
+450	TRUE	Jatayu Airlines::callsign	jatayu / Jatayu	
+<p> <strong> Jatayu Airlines </strong> ( Jatayu Gelang Sejahtera ) was an <a> airline </a> based in <a> Jakarta </a> , <a> Indonesia </a> .
+
+#	NEW	frequent_flyer	........ / airline	// The airline has re-applied for licences . </p>
+
+#	NEW	destinations	........ / 2000 .	// It operated domestic and international services from Jakarta and was established in 2000 .
+
+#	NEW	parent	........ / operated domestic	// It operated domestic and international services from Jakarta and was established in 2000 .
+
+#	NEW	key_people	........ / airline has	// The airline has re-applied for licences . </p>
+
+#	NEW	website	........ / It operated domestic and international services from Jakarta and was established in	// It operated domestic and international services from Jakarta and was established in 2000 .
+
+456	FALSE	Jatayu Airlines::fleet_size	3 / 2000.	
+It operated domestic and international services from Jakarta and was established in 2000 .
+
+#	NEW	iata	........ / an	// <p> <strong> Jatayu Airlines </strong> ( Jatayu Gelang Sejahtera ) was an <a> airline </a> based in <a> Jakarta </a> , <a> Indonesia </a> .
+
+#	NEW	icao	........ / Indonesia	// <p> <strong> Jatayu Airlines </strong> ( Jatayu Gelang Sejahtera ) was an <a> airline </a> based in <a> Jakarta </a> , <a> Indonesia </a> .
+
+#	NEW	ceased	........ / 2007	// On 26 June 2007 , The Indonesian Transportation Ministry discontinued the airline ' s Aircraft Operator Certificate because of &quot ; the management ' s inability to consistently apply flight safety measurements as stipulated . &quot ; </p>
+
+#	NEW	logo_size	........ / </	// On 26 June 2007 , The Indonesian Transportation Ministry discontinued the airline ' s Aircraft Operator Certificate because of &quot ; the management ' s inability to consistently apply flight safety measurements as stipulated . &quot ; </p>
+
+461	TRUE	Trans Air Benin::airline	trans air benin / Trans Air	
+<p> <strong> Trans Air Benin </strong> is a scheduled passenger <a> airline </a> based in <a> Cotonou </a> in <a> Benin </a> .
+
+#	NEW	icao	........ / Trans	// <p> <strong> Trans Air Benin </strong> is a scheduled passenger <a> airline </a> based in <a> Cotonou </a> in <a> Benin </a> .
+
+#	NEW	callsign	........ / Air	// <p> <strong> Trans Air Benin </strong> is a scheduled passenger <a> airline </a> based in <a> Cotonou </a> in <a> Benin </a> .
+
+#	NEW	founded	........ / 2000 .	// It was established in 2000 and started operations in November 2000 .
+
+#	NEW	destinations	........ / 2000	// It was established in 2000 and started operations in November 2000 .
+
+#	NEW	parent	........ / was established	// It was established in 2000 and started operations in November 2000 .
+
+#	NEW	key_people	........ / in 2000	// It was established in 2000 and started operations in November 2000 .
+
+#	NEW	fleet_size	........ / 2000 .	// It was established in 2000 and started operations in November 2000 .
+
+#	NEW	logo_size	........ / </	// It operates regional services in <a> West Africa </a> with aircraft leased from other operators as required . </p>
+
+#	NEW	frequent_flyer	........ / West Africa	// It operates regional services in <a> West Africa </a> with aircraft leased from other operators as required . </p>
+
+#	NEW	iata	........ / an	// <p> <strong> KAS Air Company </strong> was an <a> airline </a> based in <a> Kyrgyzstan </a> . </p>
+
+#	NEW	icao	........ / Kyrgyzstan	// <p> <strong> KAS Air Company </strong> was an <a> airline </a> based in <a> Kyrgyzstan </a> . </p>
+
+#	NEW	callsign	........ / Air	// <p> <strong> KAS Air Company </strong> was an <a> airline </a> based in <a> Kyrgyzstan </a> . </p>
+
+#	NEW	key_people	........ / an <a>	// <p> <strong> KAS Air Company </strong> was an <a> airline </a> based in <a> Kyrgyzstan </a> . </p>
+
+#	NEW	fleet_size	........ / a> .	// <p> <strong> KAS Air Company </strong> was an <a> airline </a> based in <a> Kyrgyzstan </a> . </p>
+
+476	TRUE	KAS Air Company::airline	kas air company / Air	
+<p> <strong> KAS Air Company </strong> was an <a> airline </a> based in <a> Kyrgyzstan </a> . </p>
+
+#	NEW	logo_size	........ / a> .	// <p> <strong> KAS Air Company </strong> was an <a> airline </a> based in <a> Kyrgyzstan </a> . </p>
+
+#	NEW	parent	........ / KAS Air Company	// <p> <strong> KAS Air Company </strong> was an <a> airline </a> based in <a> Kyrgyzstan </a> . </p>
+
+#	NEW	headquarters	........ / Kyrgyzstan	// <p> <strong> KAS Air Company </strong> was an <a> airline </a> based in <a> Kyrgyzstan </a> . </p>
+
+#	NEW	icao	........ / Australia	// <p> <strong> Capiteq Limited </strong> , ref name=&quot ; ABN&quot ; / trading as <strong> Airnorth </strong> , is a <a> regional airline </a> ref name=&quot ; AOC&quot ; / based in <a> Darwin </a> in <a> Australia </a> .
+
+#	NEW	ceased	........ / 2010	// <p> As of June 2010 the Airnorth fleet consists of the following aircraft : ref name=&quot ; CASAR&quot ; / </p>
+
+482	TRUE	Airnorth::founded	1978 / 4	
+<p> The airline was established in 1978 and started operations on 4 July that year .
+
+#	NEW	destinations	........ / 4	// <p> The airline was established in 1978 and started operations on 4 July that year .
+
+#	NEW	parent	........ / new coalition of	// <p> Airnorth is part of a new coalition of regional air services in Australia , RegionalLink Airlines , put together by Darwin-based aviation services company Capiteq Limited .
+
+#	NEW	key_people	........ / Skyport Group	// Airnorth is owned by Skyport Group ( 55% ) , QTEC ( 31% ) and John Gamble ( 14% ) . ref
+
+#	NEW	website	........ / It operated charter flights only until scheduled services were introduced in	// It operated charter flights only until scheduled services were introduced in 1981 .
+
+#	NEW	fleet_size	........ / 4	// <p> The airline was established in 1978 and started operations on 4 July that year .
+
+488	TRUE	Airnorth::airline	airnorth / Australia	
+<p> <strong> Capiteq Limited </strong> , ref name=&quot ; ABN&quot ; / trading as <strong> Airnorth </strong> , is a <a> regional airline </a> ref name=&quot ; AOC&quot ; / based in <a> Darwin </a> in <a> Australia </a> .
+
+#	NEW	callsign	........ / Airnorth	// <p> <strong> Capiteq Limited </strong> , ref name=&quot ; ABN&quot ; / trading as <strong> Airnorth </strong> , is a <a> regional airline </a> ref name=&quot ; AOC&quot ; / based in <a> Darwin </a> in <a> Australia </a> .
+
+#	NEW	logo_size	........ / </	// <p> As of June 2010 the Airnorth fleet consists of the following aircraft : ref name=&quot ; CASAR&quot ; / </p>
+
+#	null	airline	airfast indonesia / ..........
+
+#	null	fleet_size	2 / ..........
+
+#	null	iata	tl / ..........
+
+#	null	iata	nc / ..........
+
+#	null	airline	jatayu airlines / ..........
+
+#	null	founded	2000 / ..........
+
+#	null	airline	nolinor aviation / ..........
+
+#	null	iata	- / ..........
+
+#	null	airline	sunexpress / ..........
+
+#	null	airline	faso airways / ..........
+
+#	null	iata	so / ..........
+
+#	null	airline	royal swazi national airways / ..........
+
+#	null	iata	q3 / ..........
+
+#	null	founded	1948 / ..........
+
+#	null	airline	air nunavut / ..........
+
+#	null	iata	xm / ..........
+
+#	null	airline	zambian airways / ..........
+

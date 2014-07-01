@@ -1,0 +1,85 @@
+Found: 30
+Found Not Null: 3
+Correct: 0
+Wrong: 3
+Total: 9
+precision: 0.0
+recall: 0.0
+
+
+
+#	NEW	iata	........ / an	// <p> <strong> Air Mandalay </strong> ( ) is an <a> airline </a> based in <a> Yangon </a> , <a> Myanmar </a> .
+
+#	NEW	iata	........ / an	// <p> <strong> Emu Airways </strong> was an <a> airline </a> based in <a> Adelaide </a> in <a> Australia </a> operating tourist flights to nearby <a> Kangaroo Island </a> .
+
+#	NEW	iata	........ / an	// <p> <strong> Airfast Indonesia </strong> is an <a> airline </a> based in <a> Jakarta </a> , <a> Indonesia </a> .
+
+#	NEW	iata	........ / an	// <p> <strong> Caribbean Star Airlines </strong> was an <a> airline </a> based in <a> Antigua and Barbuda </a> .
+
+#	NEW	iata	........ / Tu-	// <p> The airline was founded and started operations in 1990 as <strong> Varna International Airways </strong> using a brand new <a> Tupolev Tu-154M </a> aircraft .
+
+#	NEW	iata	........ / China	// <p> <strong> China Cargo Airlines </strong> ( ) sometimes as abbreviated &#x4e2d ; &#x8d27 ; &#x822a ; , is a <a> cargo airline </a> based in <a> Shanghai </a> , <a> People ' s Republic of China </a> .
+
+6	FALSE	XL Airways France::iata	se / France	
+On 23 November 2006 the airline changed its name to <strong> XL Airways France </strong> .
+
+#	NEW	iata	........ / an	// <p> <strong> Air Nunavut </strong> is an <a> airline </a> based in <a> Iqaluit </a> , <a> Nunavut </a> , <a> Canada </a> .
+
+#	NEW	iata	........ / an	// <p> <strong> Zest Airways Inc . </strong> ( formerly <strong> Asian Spirit </strong> ) is an airline based in <a> Pasay City </a> , <a> Manila </a> in the <a> Philippines </a> .
+
+#	NEW	iata	........ / an	// <p> <strong> WDL Aviation </strong> is an <a> charter airline </a> based at <a> Cologne Bonn Airport </a> , <a> Germany </a> . </p>
+
+#	NEW	iata	........ / an	// <p> <strong> New Axis Airways </strong> was an <a> airline </a> based in <a> Marseille </a> , <a> France </a> .
+
+#	NEW	iata	........ / an	// <p> <strong> Welcome Air </strong> Luftfahrt is an <a> airline </a> based in <a> Innsbruck </a> , <a> Austria </a> . </p>
+
+#	NEW	iata	........ / an	// <p> <strong> Rossair Europe </strong> is an <a> airline </a> based in the <a> Netherlands </a> . </p>
+
+#	NEW	iata	........ / an	// <p> <strong> Air Armenia </strong> is an <a> airline </a> based in <a> Yerevan </a> , <a> Armenia </a> .
+
+#	NEW	iata	........ / an	// <p> <strong> Sevenair </strong> ( ( ) , formerly known as <strong> Tuninter </strong> ( ) is an <a> airline </a> based in <a> Tunis </a> , Tunisia and operates internal , short-distance flights as part of <a> Tunisair </a> . </p>
+
+15	FALSE	Easy Link Aviation::iata	- / an	
+<p> <strong> Easy Link Aviation </strong> Services was an <a> airline </a> based in <a> Nigeria </a> . </p>
+
+#	NEW	iata	........ / an	// <p> <strong> Orion Air </strong> was an <a> airline </a> based in the <a> Seychelles </a> . </p>
+
+#	NEW	iata	........ / an	// <p> <strong> Phoenix Aviation </strong> was an <a> airline </a> based in <a> Sharjah </a> , <a> United Arab Emirates </a> .
+
+#	NEW	iata	........ / an	// <p> <strong> SunExpress </strong> ( ) is an <a> airline </a> based in <a> Antalya </a> , <a> Turkey </a> .
+
+#	NEW	iata	........ / an	// <p> <strong> Chang&#x2019 ; an Airlines Co . , Ltd . </strong> ( &#x957f ; &#x5b89 ; &#x822a ; &#x7a7a ; ) is an <a> airline </a> based in <a> Xi ' an </a> , <a> Shaanxi </a> , the <a> People ' s Republic of China </a> .
+
+20	FALSE	Toll Aviation::iata	- / an	
+<p> <strong> Toll Aviation </strong> is an <a> airline </a> based in <a> Brisbane </a> , <a> Australia </a> .
+
+#	NEW	iata	........ / an	// <p> <strong> Air Corridor </strong> was an <a> airline </a> based in <a> Nampula </a> , <a> Mozambique </a> .
+
+#	NEW	iata	........ / an	// <p> <strong> Bakhtar Afghan Airlines </strong> was an <a> airline </a> based in <a> Afghanistan </a> .
+
+#	NEW	iata	........ / an	// <p> <strong> CTK CiTylinK </strong> is an <a> airline </a> in <a> Ghana </a> based in <a> Accra </a> .
+
+#	NEW	iata	........ / an	// <p> <strong> Aero Benin </strong> is an <a> airline </a> based in <a> Benin </a> . </p>
+
+#	NEW	iata	........ / an	// <p> <strong> Premium Air Shuttle </strong> was an <a> airline </a> based in <a> Nigeria </a> . </p>
+
+#	NEW	iata	........ / an	// <p> <strong> Faso Airways </strong> is an <a> airline </a> based in <a> Ouagadougou </a> , <a> Burkina Faso </a> .
+
+#	NEW	iata	........ / an	// Ltd . </strong> is an <a> airline </a> based in <a> Nepal </a> .
+
+#	NEW	iata	........ / an	// <p> <strong> Jatayu Airlines </strong> ( Jatayu Gelang Sejahtera ) was an <a> airline </a> based in <a> Jakarta </a> , <a> Indonesia </a> .
+
+#	NEW	iata	........ / an	// <p> <strong> KAS Air Company </strong> was an <a> airline </a> based in <a> Kyrgyzstan </a> . </p>
+
+#	null	iata	tl / ..........
+
+#	null	iata	nc / ..........
+
+#	null	iata	- / ..........
+
+#	null	iata	so / ..........
+
+#	null	iata	q3 / ..........
+
+#	null	iata	xm / ..........
+

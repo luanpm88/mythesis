@@ -1,7 +1,0 @@
-<li><a>Catriona Shearer</a>, BBC Reporting Scotland anchor</li>
-<li><a>Moray Callum</a>, Scottish automotive designer</li>
-<li><a>Jim Dobbin</a>, <a>English</a> <a>Labour</a> MP</li>
-<li><a>Tom Harris</a>, Scottish Labour MP</li>
-<li><a>Tavish Scott</a>, Scottish Liberal Democrat <a>MSP</a></li>
-<li><a>Kyle Traynor</a>, Scottish rugby union player</li>
-<li><a>Fresh Air (Edinburgh)</a></li>

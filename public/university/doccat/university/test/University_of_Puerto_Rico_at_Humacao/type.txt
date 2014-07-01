@@ -1,2 +1,0 @@
-<li>Bachelor of <a>Education</a></li>
-<li>Bachelor of <a>Business Administration</a></li>

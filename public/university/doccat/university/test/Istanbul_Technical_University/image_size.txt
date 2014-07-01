@@ -1,7 +1,0 @@
-<li><a>Molecular Biology, Biotechnology and Genetics Research Center (MOBGAM)</a></li>
-<li><a>Rotorcraft Research Center (ROTAM)</a></li>
-<li><a>ITU Mustafa Inan Library's Rare Books Collection</a></li>
-<h2>Student life</h2>
-Some of the other famous graduates are listed below:</p>
-<li><a>ITUpSAT1</a>, first Turkish university satellite</li>
-<li><a>ITU Mustafa Inan Library</a></li>

@@ -1,0 +1,94 @@
+Found: 43
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	key_people	........ / The airline	// <p> The airline was established and started operations in 1994 .
+
+#	NEW	key_people	........ / reasons for	// The reasons for this are not explicitly known , but several theories exist : </p>
+
+#	NEW	key_people	........ / The airline	// <p> The airline was established in 1996 .
+
+#	NEW	key_people	........ / DB Schenker	// CCI has a codeshare agreement with German owned DB Schenker DBA BAX Global .
+
+#	NEW	key_people	........ / in 1968	// <p> The airline was established in 1968 and started operations as California Air Charter .
+
+#	NEW	key_people	........ / the thirty-	// Twenty-four of the thirty-three people on board were killed . </p>
+
+#	NEW	key_people	........ / successful in	// Calloway ' s appeal was successful in having his conviction for interference with flight crew members ruled as a lesser included offense of attempted air piracy .
+
+#	NEW	key_people	........ / had 63	// It had 63 employees as of at March 2007 .
+
+#	NEW	key_people	........ / restart attempt	// The restart attempt failed . </p>
+
+#	NEW	key_people	........ / on 12	// <p> The airline was established on 12 December 2003 and started operations in 2003 .
+
+#	NEW	key_people	........ / operates international	// It operates international cargo charters in the Americas .
+
+#	NEW	key_people	........ / the following	// <p> The Business Aviation Center fleet consists of the following aircraft ( at May 2010 ) : </p>
+
+#	NEW	key_people	........ / the UK	// <a> Air Malta </a> became Malta Bargains ' carrier of passengers between the UK and Malta . </p>
+
+#	NEW	key_people	........ / the Kenyan	// <p> : For the Kenyan airline , see <a> Blue Bird Aviation ( Kenya ) </a> <em> </em> </p>
+
+#	NEW	key_people	........ / in 1946	// <p> The airline was established in 1946 and started operations in 1947 .
+
+#	NEW	key_people	........ / was established	// It was established and started operations in 1997 and operates domestic private charter services .
+
+#	NEW	key_people	........ / provides maintenance	// It also provides maintenance for its own and other carriers <a> Antonov An-26 </a> aircraft and has 30 employees .
+
+#	NEW	key_people	........ / December 2009	// <p> As of December 2009 , the Aviast Air website is down , so that it is not clear whether the airline is still operational . </p>
+
+#	NEW	key_people	........ / July 2008	// <p> In July 2008 , the Aircraft Operating Certificate was surrendered to the FAA and the airline ceased operations . </p>
+
+#	NEW	key_people	........ / The Angara	// <p> The Angara Airlines fleet includes the following aircraft ( at March ) </p>
+
+#	NEW	key_people	........ / The airline	// <p> The airline was established and started operations in 1996 .
+
+#	NEW	key_people	........ / in 1986	// It was established in 1986 and operates regional passenger and cargo services , as well as cargo charters . </p>
+
+#	NEW	key_people	........ / Neville Salisbury	// <p> The airline was established by Neville Salisbury and started operations in 1983 and was formerly known as Charter Cruise Air </p>
+
+#	NEW	key_people	........ / The airline	// <p> The airline was shut down in 2007 . </p>
+
+#	NEW	key_people	........ / in 1968	// <p> The airline was established in 1968 and started operations in May 1968 .
+
+#	NEW	key_people	........ / in 1996	// The airline began operations in 1996 and shut down in 2005 . </p>
+
+#	NEW	key_people	........ / Surinamese origin	// Many people of Surinamese origin lived in the city ' s <a> Bijlmer </a> district and were isolated from mainstream Dutch society .
+
+#	NEW	key_people	........ / operated domestic	// It operated domestic scheduled services within Spain , as well as <a> charter </a> and <a> ACMI </a> operations all over Europe .
+
+#	NEW	key_people	........ / November 1	// <p> On November 1 , 1996 , while maintaining its independent air taxi operations , the owners of Rico T&#x00e1 ; xi A&#x00e9 ; reo created Rico Linhas A&#x00e9 ; reas , a regional scheduled airline .
+
+#	NEW	key_people	........ / GVA- Investimentos	// <p> The airline was established in 2001 and is wholly owned by GVA-Investimentos , SARL . </p>
+
+#	NEW	key_people	........ / an interview	// In an interview he later stated that there simply had not been enough time to react . </p>
+
+#	NEW	key_people	........ / Capital Cargo	// ABX Air , Inc . , Capital Cargo International Airlines , Inc . , and Air Transport International Limited Liability Company will each continue to operate as separate and independent air carriers .
+
+#	NEW	key_people	........ / than a	// Less than a minute later , at 13 : 43 UTC ( 20 : 43 Jakarta time ) , engine two surged and flamed out .
+
+#	NEW	key_people	........ / the Australian	// A action later condemned by the Australian Government and deemed illegal under a 2008 Australian Court order preventing any assistance to whaling operations .
+
+#	NEW	key_people	........ / on 3	// <p> The airline was established on 3 April 1991 and started operations later in the same year .
+
+#	NEW	key_people	........ / owns 94 .	// Today TAM owns 94 . 98% and the Paraguayan government 5 . 02% of the shares . </p>
+
+#	NEW	key_people	........ / The <a>	// <p> The <a> airline </a> was established in 1985 .
+
+#	NEW	key_people	........ / April 2007	// In April 2007 AirBridge had purchased <a> Mal&#x00e9 ; v </a> airline from Hungarian government .
+
+#	NEW	key_people	........ / in 2002	// It was established in 2002 and ceased operations again in 2004 . </p>
+
+#	NEW	key_people	........ / Enrique Cuahonte	// The airline was established and started operations in 1957 , founded by <a> Enrique Cuahonte </a> and <a> Marta Amezcua </a> . . </p>
+
+#	NEW	key_people	........ / Tavaj did	// <p> Tavaj did not have an airline affinity program . </p>
+
+#	NEW	key_people	........ / of 2 .	// In November 2010 , its market share was of 2 . 17% .
+
+#	NEW	key_people	........ / the passengers	// <p> Of the passengers who survived , 24 received minor injuries and 27 received serious injuries .
+

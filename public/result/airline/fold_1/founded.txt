@@ -1,0 +1,109 @@
+Found: 36
+Found Not Null: 19
+Correct: 14
+Wrong: 5
+Total: 23
+precision: 0.7368421052631579
+recall: 0.6086956521739131
+
+
+
+#	NEW	founded	........ / 1952 .	// <p> <strong> <a> Pan American World Airways </a> Flight 202 </strong> , registration N1039V , was a <a> Boeing 377 Stratocruiser </a> aircraft which crashed in the <a> Amazon Basin </a> approximately southwest of Carolina , <a> Brazil </a> on April 28 , 1952 .
+
+#	NEW	founded	........ / 2009	// On November 24 , 2009 , the Department of State announced that it was offering a reward of up to $5M for Abu Ibrahim , now about 73 years old .
+
+#	NEW	founded	........ / 40	// <p> Earlier in the day , at 12 : 40 local time , the crew of the accident flight flew from <a> Dallas </a> to <a> Houston </a> through the same area they were scheduled to fly later on .
+
+3	TRUE	NAC Air::founded	2000 / 2000	
+<p> <strong> North American Charters </strong> ( NAC ) was established in 2000 to provide cheaper and more frequent airline services to First Nations communities in <a> Northwestern Ontario </a> .
+
+4	FALSE	L'Avion::founded	2006 / 3 January 2007	
+The first flight was on 3 January 2007 from Paris to <a> Newark </a> .
+
+5	FALSE	Sierra National Airlines::founded	1990 / 2005	
+<p> As of January <a> 2005 </a> Sierra National Airlines operated the following services : </p>
+
+6	TRUE	Lloyd International Airways::founded	1961 / 1961	
+<p> <strong> Lloyd International Airways </strong> was a private , <a> British </a> independent <a> airline </a> formed in 1961 to operate worldwide <a> charter flight </a> s .
+
+#	NEW	founded	........ / 612	// <p> <strong> Air West Flight 612 </strong> was a scheduled domestic passenger flight operated by <a> Air West </a> between <a> Khartoum </a> , <a> Sudan </a> and <a> Al-Fashir </a> .
+
+#	NEW	founded	........ / 301 14 , 1940 at 15 . 05	// <p> The commander of Shch-301 G . Golderg ' s report on the incident hold in the Russian State Naval Archives starts with the notice of a Finnish airplane on its way from Tallinn to Helsinki on June 14 , 1940 at 15 . 05 PM .
+
+#	NEW	founded	........ / 980	// <p> <strong> <a> ALM </a> Flight 980 </strong> was a flight scheduled to fly from <a> John F . Kennedy International Airport </a> in <a> New York , New York </a> to <a> Princess Juliana International Airport </a> in <a> St .
+
+10	TRUE	Nurman Avia::founded	1997 / 1997	
+<p> The airline was established in 1997 as a sister company to <strong> HeavyLift Indonesia </strong> , operating charter flights on behalf of <a> Bouraq Indonesia Airlines </a> and <a> Sempati Air </a> . </p>
+
+11	TRUE	Fly540::founded	2006 / 2006.	
+<p> The airline started operations between <a> Nairobi </a> and <a> Mombasa </a> on November 24 , 2006 .
+
+#	NEW	founded	........ / 00	// The plane was scheduled to depart from <a> Zurich Airport </a> ( Switzerland ) on Monday , 10 January 2000 , at around 6 : 00 p . m . and arrive in <a> Dresden Airport </a> ( Germany ) a few hours later .
+
+13	TRUE	Swift Air::founded	1997 / 1997	
+<p> The airline was established in 1997 and was the launch customer for the <a> Embraer ERJ 135 Legacy </a> aircraft .
+
+#	NEW	founded	........ / 1966 .	// <p> <strong> Pan Am Flight 708 </strong> was a cargo flight that crashed less than 10 miles west-southwest of <a> Tegel Airport </a> in <a> Berlin </a> , <a> Germany </a> , in the early morning hours of November 15 , 1966 .
+
+15	FALSE	Loch Lomond Seaplanes::founded	2007 / operates	
+<p> The airline operates tour and charter flights , as well as regular flights around the west coast of Scotland , with a two times a day service from Glasgow to <a> Oban </a> which operates from November to February , and Glasgow to <a> Tobermory , Mull </a> .
+
+#	NEW	founded	........ / 2008	// <p> <strong> Summer 2008 </strong> </p>
+
+17	TRUE	Pan Européenne Air Service::founded	1977 / 1977	
+It was established and started operations in 1977 and operates regional and international air taxi services .
+
+18	TRUE	Superior Aviation::founded	1979 / 1979	
+It was established in 1979 and operates scheduled passenger services , passenger and cargo charter flights and aircraft sales and maintenance .
+
+19	TRUE	Jettime::founded	september 2006 / 2006.	
+The airline was founded by a group of Danish investors and operated its first flight on 19 September 2006 . </p>
+
+20	TRUE	Vincent Aviation::founded	1992 / 1992.	
+It was founded by Peter Vincent in 1992 . </p>
+
+#	NEW	founded	........ / 1988 737- 200	// <p> The airline was established in 1988 october as <a> Air UK Leisure </a> , the charter airline of <a> AirUK </a> , and flying whit <a> Boeing 737-200 </a> planes . The first flight of AirUK Leisure was London-Faro . Latest , 1988 october , the 737-200 was replaced by <a> 737-400 </a> and from this mode , the airline was converted in the first european operator of the 737-400 . . 737-400&#x00b4 ; s was operated between London and Manchester .
+
+#	NEW	founded	........ / 76	// Norrlandsflyg operates twelve <a> Sikorsky S-76 </a> helicopters . </p>
+
+#	NEW	founded	........ / 737- 2537 / 2732 9 June	// <p> The aircraft , a <a> Boeing 737-4Q8 </a> with two <a> CFMI CFM56-3C1 </a> <a> jet engine </a> s , was built by <a> Boeing </a> with manufacturer serial number 2537 / 2732 , and made its first flight on 9 June 1995 . ref
+
+#	NEW	founded	........ / 2000	// <p> The airline got its air operators certificate in <a> 2000 </a> and was established in October 2000 , but was unable to operate until 2003 due to political unrest in Nepal .
+
+25	TRUE	Agni Air::founded	2006 / 2006.	
+Ltd . </strong> is an <a> airline </a> based in <a> Nepal </a> which started operations in March 2006 .
+
+#	NEW	founded	........ / 2005	// <p> The airline was established in 2004 and started operations on 1 October 2004 The owners of <a> City Star Airlines </a> , a ticket sales office based in Aberdeen , Scotland , acquired the controlling shares of the airline in 2005 in order to acquire JAR OPS 1 licensed operator for its expanding Aberdeen operation .
+
+27	TRUE	Skyway Enterprises::founded	1981 / 1981	
+<p> The airline was established in 1981 in <a> Michigan </a> as a <a> Cessna </a> dealership , and started operations with cargo charters in 1983 .
+
+28	FALSE	Southern Air::founded	march 5, 1999 / 1999.	
+<p> The airline was established on March 5 , 1999 , out of the assets of <a> Southern Air Transport </a> and started operations in November 1999 .
+
+29	TRUE	WaltAir::founded	1997 / 1997	
+Waltair was established in 1997 and has bases in Stockholm , Norrk&#x00f6 ; ping and V&#x00e4 ; xj&#x00f6 ; . </p>
+
+#	NEW	founded	........ / 2 January 1990 .	// <p> The airline was established and started operations in <a> 1978 </a> and acquired the freight operations of <a> CCAir </a> on 2 January 1990 .
+
+31	FALSE	Midwest Airlines (Egypt)::founded	1998 / 2011 ) :	
+<p> The Midwest Airlines fleet consists of the following aircraft ( at January 2011 ) : </p>
+
+32	TRUE	Novosibirsk Air Enterprise::founded	1995 / 1995.	
+It was established and started operations in 1995 .
+
+#	NEW	founded	........ / 2007	// <p> As of May <a> 2007 </a> , Marsland Aviations operates scheduled passenger flights to the following destinations : </p>
+
+34	TRUE	Lucky Air::founded	july 2004 / 2004	
+<p> The airline was established in July 2004 as a start-up airline known as <strong> Shilin Airlines </strong> .
+
+#	NEW	founded	........ / it 31 January 2009	// After a review of the operations , it was decided to close the Lands End Flying School as of Saturday 31 January 2009 , after which point Westward Airways also terminated the operation of sightseeing flights .
+
+#	null	founded	1997 / ..........
+
+#	null	founded	september 1995 / ..........
+
+#	null	founded	1984 / ..........
+
+#	null	founded	1977 / ..........
+

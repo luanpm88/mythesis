@@ -1,0 +1,100 @@
+Found: 32
+Found Not Null: 12
+Correct: 7
+Wrong: 5
+Total: 19
+precision: 0.5833333333333334
+recall: 0.3684210526315789
+
+
+
+#	NEW	founded	........ / 2010	// In September 2010 , a restructuring was announced : this will involve dropping all passenger services from November 2011 , which will be operated by KLM , and leaving only cargo services .
+
+#	NEW	founded	........ / 1956	// In 1956 , it became the first airline to successfully operate regular jet airliner services ( with the <a> Tupolev Tu-104 </a> ) , <a> Czech Airlines </a> being the second airline to do so in 1957 . </p>
+
+#	NEW	founded	........ / 2005	// It started operations in March 2005 with intra-Asian services .
+
+3	FALSE	Iberia (airline)::founded	28 june 1927 / 1927.	
+Flight operations started on 14 December 1927 .
+
+4	TRUE	Futura International Airways::founded	1989 / 1989 17 February 1990	
+<p> The airline was established in 1989 by <a> Aer Lingus </a> , <a> Belton Air </a> and <a> Banco Santander </a> , starting operations on 17 February 1990 with a flight from <a> Palma de Mallorca </a> to <a> Manchester </a> .
+
+5	TRUE	Kalitta Air::founded	2000 / 2000	
+Kalitta decided to rescue it and the new airline , Kalitta Air , began operations in November 2000 , using the operating certificate and assets of the former airline . </p>
+
+#	NEW	founded	........ / 2003	// <p> In 2003 , America West greatly increased the size of their express operation by starting new routes operated by regional jets from its hub at <a> McCarran International Airport </a> in <a> Las Vegas , Nevada </a> . </p>
+
+#	NEW	founded	........ / 1971	// <p> The airline was established in June 1971 from the merger of <a> Austral Compa&#x00f1 ; &#x00ed ; a Argentina de Transportes A&#x00e9 ; reos </a> and <a> Aerotransportes Litoral Argentino </a> ( ALA ) .
+
+8	TRUE	Hooters Air::founded	2003 / 2003.	
+<p> The airline was established in 2003 and started operations on March 6 , 2003 .
+
+9	TRUE	Air China::founded	1988 / July 1, 1988.	
+<p> Air China was established on July 1 , 1988 .
+
+10	TRUE	SkyEurope::founded	november 2001 / 13 February 2002	
+( 2009 ) ] ] SkyEurope was established in November 2001 and started operations on 13 February 2002 ( domestic flight Bratislava-Kosice operated with 30 seat turboprop Embraer 120 ER Brasilia ) .
+
+11	TRUE	Air Florida::founded	1971 / 1971.	
+It started operations in 1972 , after being formed in 1971 .
+
+#	NEW	founded	........ / 1948	// In summer 1948 , the unpressurised Yorks were still operating passenger services as far afield as Nairobi ( Kenya ) , Accra ( Gold Coast , later Ghana ) and Delhi and Calcutta ( India ) and the type continued to operate freight schedules until late 1957 . </p>
+
+#	NEW	founded	........ / 1930	// The airline operated from 1930 until it was acquired by <a> American Airlines </a> in 2001 . </p>
+
+14	FALSE	TAM Airlines::founded	1976 / 1994	
+<p> In 1994 TAM Airlines established a small subsidiary airline in Paraguay , called <a> ARPA - Aerol&#x00ed ; neas Paraguayas </a> , with a fleet consisting mostly of <a> Cessna 208 Caravan </a> aircraft , formerly operated by TAM .
+
+#	NEW	founded	........ / 2005	// and , starting December 2005 , live text news feeds . </p>
+
+#	NEW	founded	........ / 1 February 1946 .	// Domestic operations were started from Bucharest ( <a> B&#x0103 ; neasa Airport </a> ) on 1 February 1946 .
+
+#	NEW	founded	........ / 1954	// In 1954 , the privately owned airline <strong> Persian Air Services </strong> ( PAS ) was established , which initially operated only freight services , followed by passenger operations between Tehran and other major cities in Iran .
+
+18	FALSE	Norwegian Air Shuttle::founded	22 january 1993 / 2001	
+<p> After Braathens was bought by <a> Scandinavian Airlines System </a> ( SAS ) in November 2001 , NAS attempted to negotiate a deal where they took over the operations on a permanent basis for their own risk .
+
+19	FALSE	All Nippon Airways::founded	27 december 1952 / 2006.	
+The final YS-11 in operation was retired in 2006 .
+
+#	NEW	founded	........ / airline	// <p> The airline has got approvals to start Bogota-Frankfurt flights on a daily basis but it is unknown with what start date or if the airline will start the route at all now that <a> Lufthansa </a> will resume services in late October . </p>
+
+#	NEW	founded	........ / 1977 .	// <p> The airline was established in March 1977 and started operations in April 1977 .
+
+#	NEW	founded	........ / 1973	// <p> Started in 1973 , Aeroper&#x00fa ; was formed to take over the international routes operated by <a> APSA - L&#x00ed ; neas A&#x00e9 ; reas Peruanas S . A . </a> ( owned then by <a> Pan American Airways </a> ) .
+
+#	NEW	founded	........ / 1990 .	// <p> The airline was established in October 1988 and started operations on December 1 , 1990 .
+
+24	FALSE	Continental Express::founded	1986 / 1980	
+New York Air began operations in 1980 between Boston , New Yor / LaGuardia , and Washingto / National , while Continental West started in 1985 , operating an hourly shuttle between Los Angeles and San Jose .
+
+#	NEW	founded	........ / 2010	// It also plans to start operations in <a> Quito </a> <a> Ecuador </a> , in 2010 or no later than in 2011 .
+
+#	NEW	founded	........ / 1963	// The airline was established on 9 December 1963 and started operations on 15 December 1963 after a royal decree by the late <a> King Hussein </a> .
+
+#	NEW	founded	........ / 1985 .	// [ [ Shiodome City Center ] ] , which previously served as the airline ' s headquarters ] ] Nippon Cargo Airlines was established on September 21 , 1978 and started operations in 1985 .
+
+#	NEW	founded	........ / 1987	// <p> <strong> Canadian Airlines International Ltd . </strong> was a <a> Canadian </a> airline that operated from 1987 until 2001 .
+
+#	NEW	founded	........ / 1979	// Flybe started operations on 1 November 1979 as Jersey European Airways ( JEA ) , after taking over the operations of <a> Intra Airways </a> .
+
+#	NEW	founded	........ / 1979	// <p> Lauda Air was established in April 1979 by former <a> Formula One </a> world motor racing champion <a> Niki Lauda </a> and started operations in 1985 , initially operating charter and air taxi services .
+
+31	TRUE	Air Canada Tango::founded	2001 / 2001	
+<p> <strong> Air Canada Tango </strong> was a <a> low-cost </a> branch of <a> Air Canada </a> , which was established in 2001 to offer <a> no-frills </a> service on some of Air Canada ' s routes and to reduce operating costs at the struggling main company .
+
+#	null	founded	1945 / ..........
+
+#	null	founded	1934 / ..........
+
+#	null	founded	1936 / ..........
+
+#	null	founded	1947 / ..........
+
+#	null	founded	2001 / ..........
+
+#	null	founded	1963 / ..........
+
+#	null	founded	2000 / ..........
+

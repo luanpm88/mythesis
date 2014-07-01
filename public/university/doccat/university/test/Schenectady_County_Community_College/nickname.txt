@@ -1,7 +1,0 @@
-<li>Business Administration and Management</li>
-<li>Business Management and Administrative</li>
-<li>Humanities / Humanistic Studies</li>
-<li>Music - General Performance</li>
-<li>Music General</li>
-<p>The student body is approximately 54% female and 46% male.
-<li>SUNY Delhi, <em>SCCC Partnership</em>, taken from <a>http://www.delhi.edu/academics/academic_divisions/business_and_hospitality/sccc/</a>

@@ -1,0 +1,38 @@
+Total articles: 312
+Articles for test: 281
+Articles for train: 31
+Total attributes: 64
+Attributes with high occurrences: 5/64
+
+------------
+Found: 89
+Found Not Null: 21
+Correct: 13
+Wrong: 8
+Total: 21
+precision: 0.6190476190476191
+recall: 0.6190476190476191
+
+
+
+4	TRUE	Sid James:: birth_name	solomon joel cohen / Solomon Joel Cohen	// <p> <strong> Sid James </strong> ( born <strong> Solomon Joel Cohen </strong> , 8 May 1913 &#x2013; 26 April 1976 ) was a <a> South African </a> , <a> British </a> -based <a> actor </a> and <a> comedian </a> .
+8	TRUE	Sandra Bullock:: birth_name	sandra annette bullock / Sandra Annette Bullock	// <p> <strong> Sandra Annette Bullock </strong> ( ; born July 26 , 1964 ) is an &lt; ! --awards and nominations don't belong here--&gt; <a> American </a> actress who rose to fame in the 1990s , after roles in successful films such as <em> <a> Speed </a> </em> and <em> <a> While You Were Sleeping </a> </em> .
+27	FALSE	Tod Browning:: birth_name	charles albert browning, jr. / July 1880 & ndash;	// <p> <strong> Tod Browning </strong> ( 12 July 1880 &ndash; 6 October 1962 ) was an <a> American </a> <a> motion picture </a> <a> actor </a> , <a> director </a> and <a> screenwriter </a> . </p>
+40	FALSE	Wolfgang Petersen:: occupation	film director / DGA	// Though not a financial success , the film received positive reviews and was nominated for six <a> Academy Awards </a> , two of which ( for <a> Best Director </a> and <a> Best Adapted Screenplay </a> ) went to Petersen himself; he was also nominated for a <a> BAFTA Award </a> and <a> DGA Award </a> .
+42	TRUE	Wallace Shawn:: birth_name	wallace michael shawn / is an American comic	// <p> <strong> Wallace Michael Shawn </strong> ( born November 12 , 1943 ) , sometimes credited as <strong> Wally Shawn </strong> , is an American comic <a> character actor </a> and author .
+45	TRUE	Winona Ryder:: birth_name	winona laura horowitz / is an American	// <p> <strong> Winona Laura Horowitz </strong> ( born October 29 , 1971 ) , better known under her professional name <strong> Winona Ryder </strong> , is an American actress .
+51	TRUE	Kenneth Williams:: birth_name	kenneth charles williams / Kenneth Charles Williams	// <p> <strong> Kenneth Charles Williams </strong> ( 22 February 1926&#x2013;15 April 1988 ) was an <a> English </a> <a> comic </a> actor , star of 26 <a> <em> Carry On </em> films </a> , numerous British television shows , and radio comedies with <a> Tony Hancock </a> and <a> Kenneth Horne </a> . </p>
+55	TRUE	Tony Hancock:: occupation	actor / actor	// During these years Hancock was also involved with Joan Le Mesurier ( n&#x00e9;e Malin ) , the new wife of actor <a> John Le Mesurier </a> , Hancock's best friend and a regular supporting character-actor from his television series .
+60	TRUE	Larry Gelbart:: birth_name	larry simon gelbart / Larry Simon Gelbart	// <p> <strong> Larry Simon Gelbart </strong> ( February 25 , 1928 &#x2013; September 11 , 2009 ) was an American television writer , playwright , screenwriter and author . </p>
+62	FALSE	Denise Richards:: birth_name	denise lee richards / Before she was an actress, Richards was signed by the Judith Fontaine Modeling &amp; Talent Agency	// <p> Before she was an actress , Richards was signed by the Judith Fontaine Modeling &amp; Talent Agency as a model .
+63	TRUE	Denise Richards:: occupation	actress / Actress&	// She was ranked as one of the worst <a> Bond girl </a> s of all time by <em> <a> Entertainment Weekly </a> </em> in 2008 , and was chosen as &quot;Worst Supporting Actress&quot; at the <a> 1999 Razzie Awards </a> for the role . </p>
+65	FALSE	Rutger Hauer:: birth_name	rutger oelsen hauer / actress Aysha Hauer and the grandfather of fashion model Leandro Maeder.	// <p> He is the father of actress Aysha Hauer and the grandfather of fashion model Leandro Maeder . </p>
+66	FALSE	Rutger Hauer:: occupation	actor / several	// Hauer's supporting role , however , was barely noticed in <a> Hollywood </a> , and he returned to Dutch films for several years .
+70	TRUE	Micky Dolenz:: birth_name	george michael dolenz, jr. / George Michael Dolenz, Jr.	// <p> <strong> George Michael Dolenz , Jr . </strong> ( born March 8 , 1945 ) is an American actor , musician , <a> television director </a> , <a> radio personality </a> and <a> theatre director </a> ; he is best known as a member of the 1960s made-for-television band <a> The Monkees </a> . </p>
+75	FALSE	Jean Reno:: occupation	actor / UPS	// Reno has also appeared in American television commercials for <a> UPS </a> . </p>
+77	FALSE	Eileen Heckart:: birth_name	anna eileen heckart / an American actress of stage	// <p> <strong> Eileen Heckart </strong> ( March 29 , 1919 &#x2013; December 31 , 2001 ) was an American actress of stage , screen , and television . </p>
+78	TRUE	Eileen Heckart:: occupation	actress / Actress	// <p> Heckart won the <a> Oscar for Best Supporting Actress </a> for her work in the 1972 movie adaptation of <em> <a> Butterflies Are Free </a> </em> and was nominated in 1956 for her performance as the bereaved , besotted Mrs . Daigle in <em> <a> The Bad Seed </a> </em> .
+80	TRUE	Sergio Leone:: birth_name	sergio leone / most associated with	// <p> <strong> Sergio Leone </strong> ( ; January 3 , 1929 &ndash; April 30 , 1989 ) was an <a> Italian </a> <a> film director </a> , <a> producer </a> and <a> screenwriter </a> most associated with the &quot; <a> Spaghetti Western </a> &quot; genre . </p>
+81	FALSE	Otto Preminger:: birth_name	otto ludwig preminger / The King with an Umbrella	// <p> In April 1935 , as Preminger was rehearsing a boulevard farce , <em> The King with an Umbrella </em> , he received a summons from American film producer <a> Joseph Schenck </a> to a five o'clock meeting at the Imperial Hotel .
+86	TRUE	Cary Grant:: occupation	actor / Actor	// <p> Nominated twice for the <a> Academy Award for Best Actor </a> and five times for a <a> Golden Globe Award for Best Actor </a> , he missed out every time until he was finally honored with an <a> Honorary Award </a> at the <a> 42nd Academy Awards </a> &quot;for his unique mastery of the art of screen acting with the respect and affection of his colleagues&quot; . </p>
+88	TRUE	Cary Grant:: birth_name	archibald alexander leach / Archibald Alexander Leach	// <p> <strong> Archibald Alexander Leach </strong> ( January 18 , 1904 &ndash; November 29 , 1986 ) , better known by his <a> stage name </a> <strong> Cary Grant </strong> , was an <a> English-American </a> actor .

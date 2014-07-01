@@ -1,0 +1,33 @@
+Total articles: 312
+Articles for test: 281
+Articles for train: 31
+Total attributes: 64
+Attributes with high occurrences: 5/64
+
+------------
+Found: 69
+Found Not Null: 16
+Correct: 9
+Wrong: 7
+Total: 20
+precision: 0.5625
+recall: 0.45
+
+
+
+0	TRUE	Mary Martin:: birth_name	mary virginia martin / Mary Virginia Martin	// <p> <strong> Mary Virginia Martin </strong> ( December 1 , 1913 &#x2013; November 3 , 1990 ) was an American actress and singer .
+2	TRUE	Mai Zetterling:: birth_name	mai elisabeth zetterling / Mai Elisabeth Zetterling	// <p> <strong> Mai Elisabeth Zetterling </strong> ( ; May 24 , 1925 &ndash; March 17 , 1994 ) was a Swedish actress and <a> film director </a> . </p>
+7	TRUE	Ingrid Bergman:: occupation	actress / Actress	// She won three <a> Academy Award </a> s , two <a> Emmy Award </a> s , and the <a> Tony Award </a> for <a> Best Actress </a> .
+11	FALSE	Clark Gable:: birth_name	william clark gable / He would not	// He would not !
+13	TRUE	Cameron Diaz:: birth_name	cameron michelle diaz / Cameron Michelle Diaz	// <p> <strong> Cameron Michelle Diaz </strong> ( born August 30 , 1972 ) is an American actress and former model .
+15	FALSE	Dustin Hoffman:: birth_name	dustin lee hoffman / shot before <em> The Graduate	// After the success of this film , another Hoffman film , <em> <a> Madigan's Millions </a> </em> , shot before <em> The Graduate </em> , was released on the tail of the actor's newfound success .
+16	FALSE	Dustin Hoffman:: occupation	actor / Actress	// Hoffman gained his first Academy Award , and the film also received the Best Picture honor , plus the awards for Best Supporting Actress ( Streep ) and Director . </p>
+27	TRUE	Ashley Judd:: occupation	actress / Actress	// Several of her early 2000s films , including 2001's <em> <a> Someone Like You </a> </em> and 2002's <em> <a> High Crimes </a> </em> , received only mixed reviews and moderate box office success; although , she did receive positive recognition , and a <a> Golden Globe </a> nomination for Best Actress , for her performance in the 2004 biography of <a> Cole Porter </a> , <em> <a> De-Lovely </a> </em> , opposite <a> Kevin Kline </a> . </p>
+28	FALSE	Ashley Judd:: birth_name	ashley tyler ciminella / who is best known for playing a number of strong characters	// <p> <strong> Ashley Judd </strong> ( born April 19 , 1968 ) is an <a> America </a> n <a> actress </a> , who is best known for playing a number of strong characters in films such as <em> <a> Ruby in Paradise </a> , </em> <em> <a> Kiss the Girls </a> </em> , <em> <a> Double Jeopardy </a> </em> , <em> <a> Where the Heart Is </a> </em> and <em> <a> High Crimes </a> </em> . </p>
+30	TRUE	Ava Gardner:: birth_name	ava lavinia gardner / Ava Lavinia Gardner	// <p> <strong> Ava Lavinia Gardner </strong> ( December 24 , 1922 &ndash; January 25 , 1990 ) was an American actress .
+31	TRUE	Ava Gardner:: occupation	actress / Actress	// She was nominated for the <a> Academy Award for Best Actress </a> for her work in <em> <a> Mogambo </a> </em> ( 1953 ) .
+35	FALSE	Laurence Olivier:: birth_name	laurence kerr olivier / stage production of	// <a> John Dexter </a> 's 1964 stage production of the play was <a> filmed </a> in 1965 , securing Olivier his sixth Oscar nomination for Best Actor .
+41	FALSE	Cybill Shepherd:: birth_name	cybill lynne shepherd / Shepherd will guest-star in an episode of CBS'	// <p> In November 2010 , Shepherd will guest-star in an episode of CBS' <em> <a> $h* !
+48	TRUE	Albert Finney:: occupation	actor / Actor	// <p> A recipient of <a> BAFTA </a> , <a> Golden Globe </a> , <a> Emmy </a> and <a> Screen Actors Guild Award </a> s , Finney has been nominated for the <a> Academy Award for Best Actor </a> four times , for <em> <a> Tom Jones </a> </em> ( 1963 ) , <em> <a> Murder on the Orient Express </a> </em> ( 1974 ) , <em> <a> The Dresser </a> </em> ( 1983 ) , and <em> <a> Under the Volcano </a> </em> ( 1984 ) ; and was nominated for <a> Academy Award for Best Supporting Actor </a> for his performance in <em> <a> Erin Brockovich </a> </em> ( 2000 ) . </p>
+60	FALSE	Thora Birch:: occupation	actress / Film	// <p> Later in 1999 , Birch won enormous critical praise playing the role of Jane Burnham in <em> <a> American Beauty </a> </em> and was nominated for a <a> British Academy of Film and Television Arts </a> award .
+64	TRUE	Helen Hunt:: birth_name	helen elizabeth hunt / Helen Elizabeth Hunt	// <p> <strong> Helen Elizabeth Hunt </strong> ( born June 15 , 1963 ) is an American actress , <a> film director </a> , and <a> screenwriter </a> .
