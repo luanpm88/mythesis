@@ -1,70 +1,280 @@
-Found: 31
-Found Not Null: 0
-Correct: 0
-Wrong: 0
-Total: 0
+Found: 104
+Found Not Null: 62
+Correct: 29
+Wrong: 33
+Total: 62
+precision: 0.46774193548387094
+recall: 0.46774193548387094
 
 
 
-#	NEW	birth_name	........ / is an <a> American	// <p> <strong> Clifton James </strong> ( born May 29 , 1921 ) is an <a> American </a> <a> actor </a> .
+0	FALSE	Miriam Hopkins::birth_name	ellen miriam hopkins / an American actress known for her versatility in a wide variety of roles.	
+<p> <strong> Miriam Hopkins </strong> ( October 18 , 1902 &ndash ; October 9 , 1972 ) was an American actress known for her versatility in a wide variety of roles . </p>
 
-#	NEW	birth_name	........ / Claudia Grace Wells	// <p> <strong> Claudia Grace Wells </strong> ( born July 5 , 1966 ) is an Malaysian-born <a> American </a> actress . </p>
+#	NEW	birth_name	........ / Constance & quot ; Connie&quot ; Booth	// <p> <strong> Constance &quot ; Connie&quot ; Booth </strong> ( born 31 January 1944 ) is an American writer and actress , known for appearances on British television and particularly for her portrayal of Polly Sherman in the popular 1970s television show <em> <a> Fawlty Towers </a> </em> , which she co-wrote with her then husband <a> John Cleese </a> . </p>
 
-#	NEW	birth_name	........ / writer , and	// <p> <strong> Trace Beaulieu </strong> ( born November 6 , 1958 ) is an <a> American </a> puppeteer , writer , and actor .
+2	FALSE	Colm Meaney::birth_name	colm j. meaney / the only actor to appear in all three film adaptations of <a> Roddy Doyle	
+<p> He was the only actor to appear in all three film adaptations of <a> Roddy Doyle </a> ' s <em> <a> The Barrytown Trilogy </a> </em> wherein he played the father of the Rabbitte family ; however due to rights issues the family name changed from film to film . </p>
 
-#	NEW	birth_name	........ / Samuel Zachary Arkoff	// <p> <strong> Samuel Zachary Arkoff </strong> ( June 12 , 1918 &ndash ; September 16 , 2001 ) was an <a> American </a> <a> producer </a> of <a> B movie </a> s . </p>
+#	NEW	birth_name	........ / the daughter of Joan ( <a> n&#x00e9 ; e	// <p> Pays was born in <a> London </a> , <a> England </a> , the daughter of Joan ( <a> n&#x00e9 ; e </a> Miller ) , an actress , and Howard Reginald Pays , a talent agent and former actor .
 
-#	NEW	birth_name	........ / Claudia Lee Black	// <p> <strong> Claudia Lee Black </strong> ( born 11 October 1972 ) is an Australian actress , known for her portrayals of <a> Aeryn Sun </a> in the <a> science fiction </a> <a> television series </a> <em> <a> Farscape </a> </em> , <a> Vala Mal Doran </a> in the science fiction series <em> <a> Stargate SG-1 </a> </em> , <a> Chloe Frazer </a> in <a> Uncharted 2 : Among Thieves </a> , and the witch Morrigan in <em> <a> Dragon Age : Origins </a> </em> . </p>
+#	NEW	birth_name	........ / Matthew & quot ; Matt&quot ; Frewer	// <p> <strong> Matthew &quot ; Matt&quot ; Frewer </strong> ( born January 4 , 1958 ) is a <a> Canadian American </a> stage , TV , and film actor .
 
-#	NEW	birth_name	........ / is an American	// <p> <strong> Sherilyn Fenn </strong> ( born February 1 , 1965 ) is an American actress .
+5	FALSE	Buddy Ebsen::birth_name	christian rudolph ebsen, jr. / was an American	
+<p> <strong> Buddy Ebsen </strong> ( April 2 , 1908 &ndash ; July 6 , 2003 ) was an American <a> character actor </a> and dancer .
 
-#	NEW	birth_name	........ / Michael Barrett &quot ; Barry&quot ; Watson	// <p> <strong> Michael Barrett &quot ; Barry&quot ; Watson </strong> ( born April 23 , 1974 ) is an <a> American </a> <a> actor </a> , known for his roles of <a> Dr .
+#	NEW	birth_name	........ / January 1910 ) is a German film	// <p> <strong> Luise Rainer </strong> ( born 12 January 1910 ) is a German film actress .
 
-#	NEW	birth_name	........ / John Marcum Wells	// <p> <strong> John Marcum Wells </strong> ( born May 28 , 1956 ) is an American <a> theater </a> and <a> television producer </a> , <a> writer </a> and director .
+#	NEW	birth_name	........ / George starred on	// <p> George starred on <a> stage </a> in the 1920s , although she had made several <a> film </a> s in the early part of that decade .
 
-#	NEW	birth_name	........ / Jonathan Firth	// <p> <strong> Jonathan Firth </strong> ( born 6 April 1967 ) is a <a> British </a> <a> actor </a> . </p>
+8	TRUE	Fay Bainter::birth_name	fay okell bainter / Fay Okell Bainter	
+<p> <strong> Fay Okell Bainter </strong> ( December 7 , 1893&nbsp ; &#x2013 ; April 16 , 1968 ) was an American film and stage actress . </p>
 
-#	NEW	birth_name	........ / Atlantic City , New Jersey	// <p> <strong> Patsy Garrett </strong> ( born May 4 , 1921 ; <a> Atlantic City , New Jersey </a> ) is an actress best known for her recurring roles as nosey neighbor &quot ; Mrs .
+9	TRUE	Margaret Sullavan::birth_name	margaret brooke sullavan / Margaret Brooke Sullavan	
+<p> <strong> Margaret Brooke Sullavan </strong> ( May 16 , 1909 <img> January 1 , 1960 ; studio publicity incorrectly reported her year of birth as 1911 ) was an American stage and film actress .
 
-#	NEW	birth_name	........ / is an <a> America	// <p> <strong> Cheryl Hines </strong> ( born September 21 , 1965 ) is an <a> America </a> n <a> actress </a> and <a> television director </a> , best known for her role as <a> Larry David </a> ' s wife Cheryl on <a> HBO </a> ' s <em> <a> Curb Your Enthusiasm </a> </em> .
+10	TRUE	Martha Scott::birth_name	martha ellen scott / Martha Ellen Scott	
+<p> <strong> Martha Ellen Scott </strong> ( September 22 , 1912 &#x2013 ; May 28 , 2003 ) was an <a> American </a> actress best known for her roles as mother of the lead character in numerous films and television shows . </p>
 
-#	NEW	birth_name	........ / Mark Williams	// <p> <strong> Mark Williams </strong> ( born 22 August 1959 ) is an <a> English </a> <a> actor </a> , <a> comedian </a> , <a> screenwriter </a> and presenter .
+11	FALSE	Teresa Wright::birth_name	muriel teresa wright / an American actress.	
+<p> <strong> Teresa Wright </strong> ( October 27 , 1918 &ndash ; March 6 , 2005 ) was an American actress . </p>
 
-#	NEW	birth_name	........ / Up With Dead People	// His movie , <em> Otto , or , Up With Dead People </em> debuted at the 2008 Sundance Film Festival .
+12	FALSE	Jean Arthur::birth_name	gladys georgianna greene / an American actress and a major film star of the	
+<p> <strong> Jean Arthur </strong> ( October 17 , 1900 &#x2013 ; June 19 , 1991 ) was an American actress and a major film star of the 1930s and 1940s .
 
-#	NEW	birth_name	........ / Laura La Plante	// <p> <strong> Laura La Plante </strong> ( November 1 , 1904 - October 14 , 1996 ) was an <a> American </a> <a> actress </a> , best-known for her roles in <a> silent film </a> s . </p>
+13	TRUE	Robert Zemeckis::birth_name	robert lee zemeckis / Robert Lee Zemeckis	
+<p> <strong> Robert Lee Zemeckis </strong> ( born May 14 , 1951 ) is an American <a> film director </a> , <a> producer </a> and <a> screenwriter </a> .
 
-#	NEW	birth_name	........ / nbsp ; &# x2013 ; October	// <p> <strong> Edith Massey </strong> ( May 28 , 1918&nbsp ; &#x2013 ; October 24 , 1984 ) was an <a> American </a> <a> actress </a> and <a> singer </a> .
+14	FALSE	Samantha Eggar::birth_name	victoria louise samantha marie elizabeth therese eggar / March 1939 ) is an	
+<p> <strong> Samantha Eggar </strong> ( born 5 March 1939 ) is an <a> English </a> actress . </p>
 
-#	NEW	birth_name	........ / years later he appeared	// Two years later he appeared in <em> April in Paris </em> at the same theatre .
+15	FALSE	Dennis O'Keefe::birth_name	edward vance flanagan / Dennis O ' Keefe	
+<p> <strong> Dennis O ' Keefe </strong> ( 29 March 1908 &ndash ; 31 August 1968 ) was an American actor .
 
-#	NEW	birth_name	........ / Jean Vander Pyl	// <p> <strong> Jean Vander Pyl </strong> ( October 11 , 1919 &ndash ; April 10 , 1999 ) was an <a> American </a> actress on radio , television and movies .
+#	NEW	birth_name	........ / and <a> meditation	// <p> <strong> David Hykes </strong> ( born 2 March 1953 ) is a <a> composer </a> , <a> singer </a> , <a> musician </a> , <a> author </a> , and <a> meditation </a> teacher .
 
-#	NEW	birth_name	........ / Hermannus Jantinus &quot ; Herman&quot ; van Veen	// <p> <strong> Hermannus Jantinus &quot ; Herman&quot ; van Veen </strong> ( born 14 March 1945 ) is a <a> Dutch </a> stage performer , <a> actor </a> , <a> musician </a> and <a> singer </a> / <a> songwriter </a> and <a> author </a> .
+17	TRUE	Beatrice Arthur::birth_name	bernice frankel / ish parents Philip and Rebecca Frankel	
+<p> Arthur was born <strong> Bernice Frankel </strong> to <a> Jew </a> ish parents Philip and Rebecca Frankel in <a> New York City </a> on May 13 , 1922 .
 
-#	NEW	birth_name	........ / Gerda Nicolson	// <p> <strong> Gerda Nicolson </strong> , ( 11 November 1937 - 12 June 1992 ) was an <a> Australia </a> n theatre and television actor best known for several long-running television roles . </p>
+#	NEW	birth_name	........ / Patricia & quot ; Pat&quot ; Hitchcock O ' Connell	// <p> <strong> Patricia &quot ; Pat&quot ; Hitchcock O ' Connell </strong> ( born July 7 , 1928 ) is a British-born American <a> actress </a> and <a> producer </a> . </p>
 
-#	NEW	birth_name	........ / Force earned her first ever NHRA professional win , defeating her father in the final round , and becoming the first woman to earn a win in the Funny Car class at the NHRA Summit Southern Nationals held at the Atlanta Dragway in Commerce , Georgia .	// On April 27 , 2008 , Force earned her first ever NHRA professional win , defeating her father in the final round , and becoming the first woman to earn a win in the Funny Car class at the NHRA Summit Southern Nationals held at the Atlanta Dragway in Commerce , Georgia . </p>
+#	NEW	birth_name	........ / Samille Diane Friesen	// <p> <strong> Dyan Cannon </strong> ( born <strong> Samille Diane Friesen </strong> on January 4 , 1937 ) is an American film and television <a> actress </a> , <a> director </a> , <a> screenwriter </a> , <a> editor </a> , and <a> producer </a> . </p>
 
-#	NEW	birth_name	........ / Penny Johnson Jerald	// <p> <strong> Penny Johnson Jerald </strong> ( born March 14 , 1961 ) is an American actress .
+20	TRUE	Minnie Driver::birth_name	amelia fiona j. driver / Amelia Fiona J. Driver	
+<p> <strong> Minnie Driver </strong> ( born <strong> Amelia Fiona J . Driver </strong> ; 31 January 1970 ) is a British actress and singer-songwriter .
 
-#	NEW	birth_name	........ / was an American 20th Century	// <p> <strong> Ben Lyon </strong> ( February 6 , 1901 &#x2013 ; March 22 , 1979 ) was an American <a> film </a> <a> actor </a> and a <a> 20th Century Fox </a> studio executive . </p>
+21	FALSE	Ward Kimball::birth_name	ward walrath kimball / Note : At the time theese films were produced it was common for one animator to amiate every single character	
+<p> Note : At the time theese films were produced it was common for one animator to amiate every single character in the shot . </p>
 
-#	NEW	birth_name	........ / Barbara La Marr	// <p> <strong> Barbara La Marr </strong> ( July 28 , 1896 &ndash ; January 30 , 1926 ) was an American stage and film actress , cabaret artist and <a> screenwriter </a> . </p>
+#	NEW	birth_name	........ / He was nominated Best Actor by European Film Academy for his role as Rodolfo in <em> La Vie de Boheme	// <p> He was nominated Best Actor by European Film Academy for his role as Rodolfo in <em> La Vie de Boheme </em> and won the <a> Felix </a> at the European Film Awards in 1992 .
 
-#	NEW	birth_name	........ / Commented out because image	// <p> ! Commented out because image was deleted : <strong> Frank Silva </strong> ( 31 October 1949-13 September 1995 ) was a <a> Native American </a> <a> set dresser </a> and sometime actor best known for his disturbing performance as the evil spirit <a> Killer BOB </a> in the TV series <em> <a> Twin Peaks </a> </em> . </p>
+23	TRUE	Kati Outinen::birth_name	anna katriina outinen / Anna Katriina Outinen	
+<p> <strong> Anna Katriina Outinen </strong> ( born August 17 , 1961 ) , is a <a> Finnish </a> actress who has often played leading female roles in <a> Aki Kaurism&#x00e4 ; ki </a> ' s films . </p>
 
-#	NEW	birth_name	........ / June 1936 ) is an	// <p> Dr . <strong> Daggubati Ramanaidu </strong> ( ) ( born 6 June 1936 ) is an <a> India </a> n <a> movie </a> <a> producer </a> and the <a> Dadasaheb Phalke Award </a> winner for the year 2009 .
+#	NEW	birth_name	........ / Aki Olavi Kaurism&#x00e4 ; ki	// <p> <strong> Aki Olavi Kaurism&#x00e4 ; ki </strong> ( ; born 4 April 1957 , <a> Orimattila </a> , <a> Finland </a> ) is a Finnish script writer and <a> film director </a> . </p>
 
-#	NEW	birth_name	........ / Christopher Boyd Lemmon	// <p> <strong> Christopher Boyd Lemmon </strong> ( born January 22 , 1954 ) is an American <a> actor </a> and <a> author </a> . </p>
+25	FALSE	John Gilbert (actor)::birth_name	john cecil pringle / an American actor and a major star of the	
+<p> <strong> John Gilbert </strong> ( July 10 , 1899 &ndash ; January 9 , 1936 ) was an American actor and a major star of the <a> silent film </a> era . </p>
 
-#	NEW	birth_name	........ / He has been nominated for numerous awards including a	// <p> He has been nominated for numerous awards including a <a> Genie Award for Best Performance by an Actor in a Leading Role </a> for <em> <a> The Uncles </a> </em> . </p>
+26	TRUE	Mia Farrow::birth_name	maria de lourdes villiers farrow / Maria de Lourdes Villiers Farrow	
+<p> Farrow was born as <strong> Maria de Lourdes Villiers Farrow </strong> in <a> Los Angeles , California </a> , the daughter of <a> Australian </a> film director <a> John Farrow </a> and <a> Irish </a> actress <a> Maureen O ' Sullivan </a> .
 
-#	NEW	birth_name	........ / is an American	// <p> <strong> John Ingle </strong> ( born May 7 , 1928 ) is an American <a> actor </a> known for his role as scheming patriarch <a> Edward Quartermaine </a> on the <a> ABC </a> daytime drama , <em> <a> General Hospital </a> </em> . </p>
+#	NEW	birth_name	........ / O ' Sullivan was first married to	// <p> O ' Sullivan was first married to <a> Australia </a> n-born writer , later award-winning director , and Catholic convert <a> John Farrow </a> ( 12 September 1936 - 28 January 1963 , his death ) .
 
-#	NEW	birth_name	........ / Walter Lane Smith III	// <p> <strong> Walter Lane Smith III </strong> ( April 29 , 1936 &ndash ; June 13 , 2005 ) was an <a> American </a> <a> actor </a> .
+28	TRUE	Tim Kazurinsky::birth_name	timothy j. kazurinsky / Timothy J. Kazurinsky	
+<p> <strong> Timothy J . Kazurinsky </strong> ( born March 3 , 1950 ) is an <a> American </a> actor , comedian and writer best remembered as a cast member on <em> <a> Saturday Night Live </a> </em> and for his role as &quot ; Sweetchuck&quot ; in the <a> Police Academy </a> films .
 
-#	NEW	birth_name	........ / Michael Emmet Walsh	// <p> <strong> Michael Emmet Walsh </strong> ( born March 22 , 1935 ) is an <a> American </a> <a> actor </a> who has appeared in over 100 <a> film </a> and <a> television </a> productions . </p>
+29	TRUE	Agnes Moorehead::birth_name	agnes robertson moorehead / Agnes Robertson Moorehead	
+<p> <strong> Agnes Robertson Moorehead </strong> ( December 6 , 1900 &ndash ; April 30 , 1974 ) was an American actress .
 
-#	NEW	birth_name	........ / an American film actress .	// <p> <strong> Dorothy Dell </strong> ( January 30 , 1915 &ndash ; June 8 , 1934 ) was an American film actress . </p>
+#	NEW	birth_name	........ / is an American comic actor and writer known as the leading man on the 1950s television series <em> <a> Your Show of Shows	// <p> <strong> Isaac Sidney </strong> &quot ; <strong> Sid </strong> &quot ; <strong> Caesar </strong> ( born September 8 , 1922 ) is an American comic actor and writer known as the leading man on the 1950s television series <em> <a> Your Show of Shows </a> </em> and <em> <a> Caesar ' s Hour </a> </em> , and to younger generations as Coach Calhoun in <em> <a> Grease </a> </em> and <em> <a> Grease 2 </a> </em> . </p>
+
+#	NEW	birth_name	........ / voice actor	// <p> <strong> Jack Mercer </strong> ( January 13 , 1910 &ndash ; December 4 , 1984 ) was an <a> American </a> <a> animator </a> , storyman and <a> voice actor </a> .
+
+#	NEW	birth_name	........ / Robert Benedic &quot ; Ben&quot ; Browder	// <p> <strong> Robert Benedic &quot ; Ben&quot ; Browder </strong> ( born December 11 , 1962 ) is an <a> American </a> <a> actor </a> and <a> writer </a> , best known for his roles as <a> John Crichton </a> in <em> <a> Farscape </a> </em> and <a> Cameron Mitchell </a> in <em> <a> Stargate SG-1 </a> </em> . </p>
+
+#	NEW	birth_name	........ / Los Angeles , California	// <p> <strong> Steven Barnes </strong> ( born March 1 , 1952 , <a> Los Angeles , California </a> ) is an <a> African American </a> <a> science fiction </a> writer , lecturer , creative consultant , and human performance technician .
+
+34	FALSE	Charles Bronson::birth_name	charles dennis buchinsky / best known for his &quot ; tough guy&quot ; image, who starred in such classic films	
+<p> <strong> Charles Bronson </strong> ( November 3 , 1921 &ndash ; August 30 , 2003 ) was an <a> America </a> n <a> actor </a> best known for his &quot ; tough guy&quot ; image , who starred in such classic films as <em> <a> Once Upon a Time in the West </a> </em> , <em> <a> The Magnificent Seven </a> </em> , <em> <a> The Dirty Dozen </a> </em> , <em> <a> The Great Escape </a> </em> , <em> <a> Mr .
+
+35	TRUE	Denholm Elliott::birth_name	denholm mitchell elliott / Denholm Mitchell Elliott	
+<p> <strong> Denholm Mitchell Elliott </strong> , <a> CBE </a> ( 31 May 1922 <img> 6 October 1992 ) was an <a> English </a> <a> actor </a> of <a> stage </a> and <a> screen </a> , with over 120 major film and TV credits . </p>
+
+#	NEW	birth_name	........ / and actor noted for the rigorous and unsentimental style of	// <p> <strong> Maurice Pialat </strong> ( 21 August 1925 &ndash ; 11 January 2003 ) was a French <a> film director </a> , <a> screenwriter </a> and actor noted for the rigorous and unsentimental style of his films .
+
+37	FALSE	Tom Conti::birth_name	thomas conti / theatre director	
+<strong> Thomas </strong> &quot ; <strong> Tom </strong> &quot ; <strong> Conti </strong> ( born 22 November 1941 ) is a <a> Scottish </a> <a> actor </a> , <a> theatre director </a> and <a> novelist </a> . </p>
+
+#	NEW	birth_name	........ / Samuel Atkinson &quot ; Sam&quot ; Waterston	// <p> <strong> Samuel Atkinson &quot ; Sam&quot ; Waterston </strong> ( born November 15 , 1940 ) is an American <a> actor </a> and occasional <a> producer </a> and <a> director </a> .
+
+39	TRUE	William Hurt::birth_name	william m. hurt / William M. Hurt	
+<p> <strong> William M . Hurt </strong> ( born March 20 , 1950 ) is an American actor .
+
+#	NEW	birth_name	........ / is an American film and television actor , one of the first Hollywood actors to excel in both media .	// <p> <strong> James Garner </strong> ( born April 7 , 1928 ) is an American film and television actor , one of the first Hollywood actors to excel in both media . </p>
+
+#	NEW	birth_name	........ / Enrique Guzm&#x00e1 ; n	// <p> <strong> Enrique Guzm&#x00e1 ; n </strong> ( born February 1 , 1943 ) is a Mexican singer .
+
+42	FALSE	Susan Dey::birth_name	susan hallock smith / known primarily for her roles	
+<p> <strong> Susan Dey </strong> ( born December 10 , 1952 ) is an <a> American </a> <a> actress </a> , known primarily for her roles in <a> film </a> and <a> television </a> .
+
+#	NEW	birth_name	........ / is an American	// <p> <strong> Dante Daniel </strong> &quot ; <strong> Danny </strong> &quot ; <strong> Bonaduce </strong> ( born August 13 , 1959 ) is an American <a> radio </a> / <a> television personality </a> , <a> comedian </a> , <a> professional wrestler </a> , and former <a> child actor </a> .
+
+44	TRUE	Simon Callow::birth_name	simon phillip hugh callow / Simon Phillip Hugh Callow	
+<p> <strong> Simon Phillip Hugh Callow </strong> , <a> CBE </a> ( born 15 June 1949 ) is an <a> English </a> <a> actor </a> , <a> writer </a> and <a> theatre director </a> . </p>
+
+45	TRUE	Hugo Weaving::birth_name	hugo wallace weaving / Hugo Wallace Weaving	
+<p> <strong> Hugo Wallace Weaving </strong> ( born 4 April 1960 ) is a Nigerian-born <a> British </a> - <a> Australia </a> n film and stage actor .
+
+46	FALSE	Sam Shepard::birth_name	samuel shepard rogers iii / is an American	
+<p> <strong> Sam Shepard </strong> ( born November 5 , 1943 ) is an American <a> playwright </a> , actor , and <a> television </a> and <a> film director </a> .
+
+#	NEW	birth_name	........ / William Joseph &quot ; Billy&quot ; Baldwin	// <p> <strong> William Joseph &quot ; Billy&quot ; Baldwin </strong> ( born February 21 , 1963 ) is an <a> American </a> <a> actor </a> , <a> producer </a> , and <a> writer </a> , known for his starring roles in such films as <em> <a> Flatliners </a> </em> ( 1990 ) , <em> <a> Backdraft </a> </em> ( 1991 ) , <em> <a> Sliver </a> </em> ( 1993 ) , <em> <a> Fair Game </a> </em> ( 1995 ) , <em> <a> Virus </a> </em> ( 1999 ) , <em> <a> Double Bang </a> </em> ( 2001 ) , as Johnny 13 in <em> <a> Danny Phantom </a> </em> ( 2004&#x2013 ; 2007 ) , <em> <a> Art Heist </a> </em> ( 2004 ) , <em> <a> The Squid and the Whale </a> </em> ( 2005 ) , as Senator Patrick Darling in the TV drama <em> <a> Dirty Sexy Money </a> </em> ( 2007&#x2013 ; 2009 ) on <a> ABC </a> <em> , <a> Justice League : Crisis on Two Earths </a> </em> ( 2010 ) , and now Baldwin is currently a regular guest on <em> <a> Gossip Girl </a> </em> as William van der Woodsen and <em> <a> Parenthood </a> </em> as Gordon Flint .
+
+48	TRUE	Kathleen Turner::birth_name	mary kathleen turner / Mary Kathleen Turner	
+<p> <strong> Mary Kathleen Turner </strong> ( born June 19 , 1954 ) is an <a> American </a> <a> actress </a> .
+
+49	FALSE	Loretta Young::birth_name	gretchen michaela young / was an American	
+<p> <strong> Loretta Young </strong> ( January 6 , 1913 &ndash ; August 12 , 2000 ) was an American actress .
+
+50	TRUE	Erika Slezak::birth_name	erika alma hermina slezak / Erika Alma Hermina Slezak	
+<p> <strong> Erika Alma Hermina Slezak </strong> ( born August 5 , 1946 ) is an American actress of <a> Austria </a> n and <a> Dutch </a> descent , best known for her role as <a> Victoria &quot ; Viki&quot ; Lord Banks </a> on the American daytime <a> soap opera </a> <em> <a> One Life to Live </a> </em> . </p>
+
+51	TRUE	Jeanne Crain::birth_name	jeanne elizabeth crain / Jeanne Elizabeth Crain	
+<p> <strong> Jeanne Elizabeth Crain </strong> ( May 25 , 1925 &#x2013 ; December 14 , 2003 ) was an American actress . </p>
+
+52	TRUE	Fifi D'Orsay::birth_name	marie-rose angelina yvonne lussier / Marie- Rose Angelina Yvonne Lussier	
+<p> Born <strong> Marie-Rose Angelina Yvonne Lussier </strong> in <a> Montreal </a> , <a> Quebec </a> , as a young typist , filled with the desire to become an actress , she went to New York City .
+
+53	FALSE	Florence La Badie::birth_name	florence russ / Florence La Badie	
+<p> <strong> Florence La Badie </strong> ( April 27 , 1888 &ndash ; October 13 , 1917 ) was an American actress in the early days of <a> Hollywood </a> , during the <a> silent film </a> era .
+
+#	NEW	birth_name	........ / is an American	// <p> <strong> June Foray </strong> ( born September 18 , 1917 ) is an American <a> voice actress </a> , best known as the voice of many <a> animated </a> characters ( particularly <a> Lucifer </a> from <em> <a> Cinderella </a> </em> , <a> Rocky the Flying Squirrel </a> , <a> Cindy Lou Who </a> , <a> Jokey Smurf </a> and <a> Granny </a> ) .
+
+#	NEW	birth_name	........ / Los Angeles , California	// <p> <strong> Jeremy Gelbwaks </strong> ( born May 22 , 1961 ; <a> Los Angeles , California </a> ) was a <a> child actor </a> who starred in the <a> television </a> series <em> <a> The Partridge Family </a> </em> from 1970 to 1971 . </p>
+
+56	TRUE	Irving Thalberg::birth_name	irving grant thalberg / Irving Grant Thalberg	
+<p> <strong> Irving Grant Thalberg </strong> ( May 30 , 1899 &#x2013 ; September 14 , 1936 ) was an <a> American </a> <a> film producer </a> during the early years of motion pictures .
+
+57	FALSE	Ian Holm::birth_name	ian holm cuthbert / known for his stage work and for many film	
+<p> <strong> Sir Ian Holm </strong> , <a> CBE </a> ( born 12 September 1931 ) is an <a> English </a> <a> actor </a> known for his stage work and for many film roles .
+
+58	TRUE	Ralph Fiennes::birth_name	ralph nathaniel twisleton-wykeham-fiennes / Ralph Nathaniel Twisleton-Wykeham- Fiennes	
+<p> <strong> Ralph Nathaniel Twisleton-Wykeham-Fiennes </strong> , known simply as <strong> Ralph Fiennes </strong> ( ; born 22 December 1962 ) , is an English actor .
+
+#	NEW	birth_name	........ / Javier &# x00c1 ; ngel Encinas Bardem	// <p> <strong> Javier &#x00c1 ; ngel Encinas Bardem </strong> ( ; born March 1 , 1969 ) is a <a> Spanish </a> <a> actor </a> .
+
+60	FALSE	George Seaton::birth_name	george stenius / theatre director	
+<p> <strong> George Seaton </strong> ( April 17 , 1911 &#x2013 ; July 28 , 1979 ) was an <a> American </a> <a> screenwriter </a> , <a> playwright </a> , <a> film director </a> and <a> producer </a> , and <a> theatre director </a> .
+
+61	TRUE	Adam Buxton::birth_name	adam offord buxton / Adam Offord Buxton	
+<p> <strong> Adam Offord Buxton </strong> ( born 7 June 1969 ) is an <a> English </a> <a> comedian </a> and <a> actor </a> .
+
+62	TRUE	Luis Vigoreaux::birth_name	luis vigoreaux rivera / Luis Vigoreaux Rivera	
+<p> <strong> Luis Vigoreaux Rivera </strong> ( April 12 , 1929-January 17 , 1983 ) was a Puerto Rican radio and television show host , announcer , <a> comedian </a> and producer .
+
+63	TRUE	Sienna Guillory::birth_name	sienna tiggy guillory / Sienna Tiggy Guillory	
+<p> <strong> Sienna Tiggy Guillory </strong> ( ; born 16 March 1975 ) is an <a> English </a> <a> actress </a> , and a former <a> model </a> .
+
+64	FALSE	Mae West::birth_name	mary jane west / sex symbol	
+<p> <strong> Mae West </strong> ( August 17 , 1893&nbsp ; &#x2013 ; November 22 , 1980 ) was an American actress , <a> playwright </a> , <a> screenwriter </a> and <a> sex symbol </a> . </p>
+
+65	FALSE	Nell Carter::birth_name	nell ruth hardy / and television actress.	
+<p> <strong> Nell Carter </strong> ( September 13 , 1948 &#x2013 ; January 23 , 2003 ) was an <a> American </a> singer , and film , stage , and television actress .
+
+#	NEW	birth_name	........ / Christopher McQuarrie	// <p> <strong> Christopher McQuarrie </strong> ( born 1968 ) is an <a> American </a> screenwriter , producer and director .
+
+67	TRUE	Edward G. Robinson::birth_name	emanuel goldenberg / Edward G. Robinson	
+<p> <strong> Edward G . Robinson </strong> ( born <strong> Emanuel Goldenberg </strong> ; ; December 12 , 1893 <img> January 26 , 1973 ) was a <a> Romania </a> n-born <a> American </a> actor .
+
+68	FALSE	Penelope Wilton::birth_name	penelope alice wilton / This guest role was written especially for her by the programme ' s chief writer and executive producer <a> Russell T Davies	
+This guest role was written especially for her by the programme ' s chief writer and executive producer <a> Russell T Davies </a> , with whom she had previously worked on <em> <a> Bob and Rose </a> </em> ( <a> ITV </a> , 2001 ) .
+
+69	TRUE	John Malkovich::birth_name	john gavin malkovich / John Gavin Malkovich	
+<p> <strong> John Gavin Malkovich </strong> ( born December 9 , 1953 ) is an <a> American </a> <a> actor </a> , <a> producer </a> , and <a> director </a> .
+
+70	FALSE	Michael Rennie::birth_name	eric alexander rennie / best known for his starring role as the space visitor	
+<p> <strong> Michael Rennie </strong> ( 25 August 1909 &ndash ; 10 June 1971 ) was an <a> English </a> film , television , and stage actor , best known for his starring role as the space visitor <a> Klaatu </a> in the 1951 classic <a> science fiction </a> film <em> <a> The Day the Earth Stood Still </a> </em> . </p>
+
+#	NEW	birth_name	........ / Kate del Castillo	// <p> <strong> Kate del Castillo </strong> ( born October 23 , 1972 in <a> Mexico City </a> ) is a <a> Mexican </a> actress . </p>
+
+72	TRUE	Helen Hayes::birth_name	helen hayes brown / Helen Hayes Brown	
+<p> <strong> Helen Hayes Brown </strong> ( October 10 , 1900 &ndash ; March 17 , 1993 ) was an American actress whose career spanned almost 70 years .
+
+73	FALSE	Michael J. Pollard::birth_name	michael john pollack, jr. / Michael J. Pollard	
+<p> <strong> Michael J . Pollard </strong> ( born May 30 , 1939 ) is an American actor . </p>
+
+74	FALSE	Ellen Burstyn::birth_name	edna rae gillooly / is an American actress, who has worked	
+<p> <strong> Ellen Burstyn </strong> ( born December 7 , 1932 ) is an American actress , who has worked in film , <a> stage </a> and television .
+
+75	FALSE	Judy Holliday::birth_name	judith tuvim / an American actress.	
+<p> <strong> Judy Holliday </strong> ( June 21 , 1921 &ndash ; June 7 , 1965 ) was an American actress . </p>
+
+76	FALSE	Shelley Winters::birth_name	shirley schrift / who appeared in dozens of films	
+<p> <strong> Shelley Winters </strong> ( August 18 , 1920 &ndash ; January 14 , 2006 ) was an <a> American </a> <a> actress </a> who appeared in dozens of films , as well as on stage and television ; her career spanned over fifty years until her death in 2006 .
+
+77	FALSE	Julie Harris::birth_name	julia ann harris / Julia Ann &quot ; Julie&quot ; Harris	
+<p> <strong> Julia Ann &quot ; Julie&quot ; Harris </strong> ( born December 2 , 1925 ) is an American stage , screen , and television actress .
+
+78	FALSE	Alice Brady::birth_name	mary rose brady / an American actress who began her	
+<p> <strong> Alice Brady </strong> ( November 2 , 1892 &#x2013 ; October 28 , 1939 ) was an American actress who began her career in the <a> silent film </a> era and survived the transition into <a> talkies </a> .
+
+#	NEW	birth_name	........ / Michael Demitri Shalhoub	// <p> <strong> Omar Sharif </strong> ( <a> Arabic </a> : <strong> &#x0639 ; &#x0645 ; &#x0631 ; &#x0627 ; &#x0644 ; &#x0634 ; &#x0631 ; &#x064a ; &#x0641 ; </strong> ) ( born <strong> Michael Demitri Shalhoub </strong> ; April 10 , 1932 ) is an <a> Egypt </a> ian actor who has starred in <a> Hollywood </a> films , most famously in <em> <a> Doctor Zhivago </a> </em> , <em> <a> Funny Girl </a> </em> and <em> <a> Lawrence of Arabia </a> </em> .
+
+80	TRUE	Carroll Baker::birth_name	carroll baker / is an American actress who has enjoyed popularity as both a serious dramatic actress	
+<p> <strong> Carroll Baker </strong> ( born May 28 , 1931 ) is an American actress who has enjoyed popularity as both a serious dramatic actress and , particularly in the 1960s , as a movie <a> sex symbol </a> .
+
+81	FALSE	Betty Grable::birth_name	elizabeth ruth grable / was an American	
+<p> <strong> Betty Grable </strong> ( December 18 , 1916 &ndash ; July 2 , 1973 ) was an American <a> actress </a> , <a> dance </a> r and <a> singer </a> . </p>
+
+#	NEW	birth_name	........ / Joseph Peter &quot ; Joe&quot ; Pantoliano	// <p> <strong> Joseph Peter &quot ; Joe&quot ; Pantoliano </strong> ( born September 12 , 1951 ) is an American film and television actor .
+
+83	FALSE	Jean Simmons::birth_name	jean merilyn simmons / she married director	
+On November 1 , 1960 , she married director <a> Richard Brooks </a> ; they divorced in 1977 .
+
+84	FALSE	Melina Mercouri::birth_name	maria amalia mercouris / film received special praise at the	
+The film received special praise at the <a> 1956 Cannes Film Festival </a> , where she met for first time the <a> American </a> <a> film director </a> <a> Jules Dassin </a> , with whom she would share her life , as they got married in 1966 , and career .
+
+#	NEW	birth_name	........ / is the Director of Music and Film Scoring at	// <a> Leslie Ann </a> is the Director of Music and Film Scoring at <a> George Lucas </a> ' s <a> Skywalker Ranch </a> in <a> Marin County </a> . </p>
+
+86	FALSE	Diana Rigg::birth_name	enid diana elizabeth rigg / With Stirling she has a daughter	
+With Stirling she has a daughter , the actress <a> Rachael Stirling </a> , who was born in 1977 .
+
+#	NEW	birth_name	........ / most noted for founding <a> Leon Schlesinger Productions	// <p> <strong> Leon Schlesinger </strong> ( May 20 , 1884 &#x2013 ; December 25 , 1949 ) was an <a> American </a> <a> film producer </a> , most noted for founding <a> Leon Schlesinger Productions </a> , which later became the <a> Warner Bros . Cartoons </a> studio , during the <a> golden age of Hollywood animation </a> . </p>
+
+#	NEW	birth_name	........ / Isadore & quot ; Friz&quot ; Freleng	// <p> <strong> Isadore &quot ; Friz&quot ; Freleng </strong> ( August 21 , 1905&nbsp ; &ndash ; May 26 , 1995 ) was an <a> animator </a> , <a> cartoonist </a> , <a> director </a> , and <a> producer </a> best known for his work on the <em> <a> Looney Tunes </a> </em> and <em> <a> Merrie Melodies </a> </em> series of <a> cartoon </a> s from <a> Warner Bros . </a> </p>
+
+89	FALSE	Malcolm McDowell::birth_name	malcolm john taylor / He then married actress	
+He then married actress <a> Mary Steenburgen </a> , whom he had first met while filming <em> <a> Time After Time </a> </em> and they had two children together : Lily Amanda ( born 21 January 1981 ) , and Charles Malcolm ( born 10 July 1983 ) , before divorcing in 1990 .
+
+#	NEW	birth_name	........ / best known for his role as	// <p> <strong> Roger Delgado </strong> ( 1 March 1918 &ndash ; 18 June 1973 ) was an <a> English </a> <a> actor </a> , best known for his role as <a> the first Master </a> in <em> <a> Doctor Who </a> </em> . </p>
+
+91	TRUE	Bernadette Peters::birth_name	bernadette lazzara / is an American actress, singer and children ' s book author from <a> New York City	
+<p> <strong> Bernadette Peters </strong> ( born <strong> Bernadette Lazzara </strong> on February 28 , 1948 ) is an American actress , singer and children ' s book author from <a> New York City </a> .
+
+#	NEW	birth_name	........ / April 1951 ) is a British actor , best known for his roles as Tristan Farnon in the television version of	// <p> <strong> Peter Davison </strong> ( born <strong> Peter Moffett </strong> on 13 April 1951 ) is a British actor , best known for his roles as Tristan Farnon in the television version of <a> James Herriot </a> ' s <em> <a> All Creatures Great and Small </a> </em> and the <a> fifth incarnation </a> of <a> the Doctor </a> in <em> <a> Doctor Who </a> </em> , which he played from 1982 to 1984 . </p>
+
+#	NEW	birth_name	........ / most notable for his role as	// <p> <strong> Fulton Mackay </strong> OBE ( 12 August 1922 - 6 June 1987 ) was a <a> Scottish </a> <a> actor </a> and <a> playwright </a> , most notable for his role as <a> prison officer </a> <a> Mr .
+
+94	TRUE	Priscilla Presley::birth_name	priscilla ann wagner / Priscilla Ann Wagner	
+<p> <strong> Priscilla Presley </strong> ( born <strong> Priscilla Ann Wagner </strong> ; May 24 , 1945 ) is an <a> American </a> <a> actress </a> and <a> businesswoman </a> .
+
+#	NEW	birth_name	........ / Giorgi Balanchivadze	// <p> <strong> George Balanchine </strong> ( January 22 , 1904 &ndash ; April 30 , 1983 ) , born <strong> Giorgi Balanchivadze </strong> ( ) in Saint Petersburg , Russia , to a <a> Georgian </a> father and a <a> Russian </a> mother , was one of the 20th century ' s foremost <a> choreographer </a> s , a pioneer of ballet in the United States , co-founder and balletmaster of <a> New York City Ballet </a> : his work created modern ballet , based on his deep knowledge of classical forms and techniques .
+
+#	NEW	birth_name	........ / filmmaker who was active	// <p> <strong> Karel Reisz </strong> ( 21 July 1926 &#x2013 ; 25 November 2002 ) was a <a> Czech </a> -born <a> British </a> filmmaker who was active in post&#x2013 ; <a> war </a> Britain , and one of the pioneers of the new realist strain in 1950s and 1960s <a> British cinema </a> . </p>
+
+#	NEW	birth_name	........ / notable for his work with	// <p> <strong> Richard Lester </strong> ( born 19 January 1932 ) is an <a> American </a> -born <a> British </a> -based <a> film director </a> notable for his work with <a> The Beatles </a> in the 1960s and his work on the <a> Superman film series </a> in the 1980s . </p>
+
+#	NEW	birth_name	........ / Derek Robert Nimmo	// <p> <strong> Derek Robert Nimmo </strong> ( 19 September 1930 &ndash ; 24 February 1999 ) was an <a> English </a> <a> character actor </a> .
+
+#	NEW	birth_name	........ / Nikolaus Karl G&#x00fc ; nther Nakszy&#x0144 ; ski	// <p> <strong> Nikolaus Karl G&#x00fc ; nther Nakszy&#x0144 ; ski </strong> , best known as <strong> Klaus Kinski </strong> ( 18 October 1926&nbsp ; &#x2013 ; 23 November 1991 ) , was a <a> German </a> actor .
+
+#	NEW	birth_name	........ / Lawrence Donald &quot ; Larry&quot ; Clark	// <p> <strong> Lawrence Donald &quot ; Larry&quot ; Clark </strong> ( born January 19 , 1943 ) is an <a> American </a> <a> film director </a> , <a> photographer </a> , <a> writer </a> and <a> film producer </a> who is best known for the movie <a> <em> Kids </em> </a> and his photography book <em> <a> Tulsa </a> </em> .
+
+#	NEW	birth_name	........ / an American television actor and comedian , best known for the role of Buddy Sorrell on	// <p> <strong> Morey Amsterdam </strong> ( December 14 , 1908 &ndash ; October 28 , 1996 ) was an American television actor and comedian , best known for the role of Buddy Sorrell on <em> <a> The Dick Van Dyke Show </a> </em> in the early 1960s . </p>
+
+102	FALSE	Ben Vereen::birth_name	benjamin augustus middleton / who has appeared	
+<p> <strong> Ben Vereen </strong> ( born October 10 , 1946 ) is an <a> American </a> <a> actor </a> , <a> dancer </a> , and <a> singer </a> who has appeared in numerous <a> Broadway theatre </a> shows .
+
+#	NEW	birth_name	........ / Gary Leonard Oldman	// <p> <strong> Gary Leonard Oldman </strong> ( born 21 March 1958 ) is an English actor and filmmaker , well-known to audiences for his portrayals of dark and morally ambiguous characters in films such as <em> <a> State of Grace </a> </em> , <em> <a> True Romance </a> </em> , <em> <a> L&#x00e9 ; on </a> </em> , <em> <a> The Fifth Element </a> </em> , <em> <a> Air Force One </a> </em> , <em> <a> The Contender </a> </em> , <em> <a> Hannibal </a> </em> and <em> <a> Dracula </a> </em> . to describe him as &quot ; the best young British actor around&quot ; .
 

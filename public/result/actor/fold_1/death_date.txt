@@ -1,58 +1,121 @@
-Found: 25
+Found: 55
 Found Not Null: 0
 Correct: 0
 Wrong: 0
-Total: 0
+Total: 1
+recall: 0.0
 
 
 
-#	NEW	death_date	........ / actor	// <p> <strong> Clifton James </strong> ( born May 29 , 1921 ) is an <a> American </a> <a> actor </a> .
+#	NEW	death_date	........ / 18 , 1902 &	// <p> <strong> Miriam Hopkins </strong> ( October 18 , 1902 &ndash ; October 9 , 1972 ) was an American actress known for her versatility in a wide variety of roles . </p>
 
-#	NEW	death_date	........ / actress .	// <p> <strong> Claudia Grace Wells </strong> ( born July 5 , 1966 ) is an Malaysian-born <a> American </a> actress . </p>
+#	NEW	death_date	........ / a> , where	// After performing in high school productions , Booth went on to study drama in <a> New York City </a> , where she worked as a waitress .
 
-#	NEW	death_date	........ / puppeteer	// <p> <strong> Trace Beaulieu </strong> ( born November 6 , 1958 ) is an <a> American </a> puppeteer , writer , and actor .
+#	NEW	death_date	........ / June 1959 )	// <p> <strong> Amanda Pays </strong> ( born 6 June 1959 ) is an <a> English </a> <a> actress </a> . </p>
 
-#	NEW	death_date	........ / September 16 , 2001 )	// <p> <strong> Samuel Zachary Arkoff </strong> ( June 12 , 1918 &ndash ; September 16 , 2001 ) was an <a> American </a> <a> producer </a> of <a> B movie </a> s . </p>
+#	NEW	death_date	........ / 4 , 1958 )	// <p> <strong> Matthew &quot ; Matt&quot ; Frewer </strong> ( born January 4 , 1958 ) is a <a> Canadian American </a> stage , TV , and film actor .
 
-#	NEW	death_date	........ / February 1 , 1965 )	// <p> <strong> Sherilyn Fenn </strong> ( born February 1 , 1965 ) is an American actress .
+#	NEW	death_date	........ / 2 , 1908 &	// <p> <strong> Buddy Ebsen </strong> ( April 2 , 1908 &ndash ; July 6 , 2003 ) was an American <a> character actor </a> and dancer .
 
-#	NEW	death_date	........ / known	// <p> <strong> Michael Barrett &quot ; Barry&quot ; Watson </strong> ( born April 23 , 1974 ) is an <a> American </a> <a> actor </a> , known for his roles of <a> Dr .
+#	NEW	death_date	........ / 13 , 1904	// <p> <strong> Gladys George </strong> ( September 13 , 1904 in <a> Patten , Maine </a> to <a> English </a> parents . </p>
 
-#	NEW	death_date	........ / and	// <p> <strong> John Marcum Wells </strong> ( born May 28 , 1956 ) is an American <a> theater </a> and <a> television producer </a> , <a> writer </a> and director .
+#	NEW	death_date	........ / 7 , 1893&	// <p> <strong> Fay Okell Bainter </strong> ( December 7 , 1893&nbsp ; &#x2013 ; April 16 , 1968 ) was an American film and stage actress . </p>
 
-#	NEW	death_date	........ / Atlantic	// <p> <strong> Patsy Garrett </strong> ( born May 4 , 1921 ; <a> Atlantic City , New Jersey </a> ) is an actress best known for her recurring roles as nosey neighbor &quot ; Mrs .
+#	NEW	death_date	........ / 27 , 1918 &	// <p> <strong> Teresa Wright </strong> ( October 27 , 1918 &ndash ; March 6 , 2005 ) was an American actress . </p>
 
-#	NEW	death_date	........ / September 21 , 1965 )	// <p> <strong> Cheryl Hines </strong> ( born September 21 , 1965 ) is an <a> America </a> n <a> actress </a> and <a> television director </a> , best known for her role as <a> Larry David </a> ' s wife Cheryl on <a> HBO </a> ' s <em> <a> Curb Your Enthusiasm </a> </em> .
+#	NEW	death_date	........ / 17 , 1900 &#	// <p> <strong> Jean Arthur </strong> ( October 17 , 1900 &#x2013 ; June 19 , 1991 ) was an American actress and a major film star of the 1930s and 1940s .
 
-#	NEW	death_date	........ / and	// <p> <strong> Mark Williams </strong> ( born 22 August 1959 ) is an <a> English </a> <a> actor </a> , <a> comedian </a> , <a> screenwriter </a> and presenter .
+#	NEW	death_date	........ / 14 , 1951 )	// <p> <strong> Robert Lee Zemeckis </strong> ( born May 14 , 1951 ) is an American <a> film director </a> , <a> producer </a> and <a> screenwriter </a> .
 
-#	NEW	death_date	........ / a>	// <p> LaBruce was born <strong> Bryan Bruce </strong> in <a> Tiverton , Ontario </a> and wrote for the <a> Robin Wood </a> ( his teacher ) curated <a> Cineaction </a> magazine .
+#	NEW	death_date	........ / 31 August 1968 )	// <p> <strong> Dennis O ' Keefe </strong> ( 29 March 1908 &ndash ; 31 August 1968 ) was an American actor .
 
-#	NEW	death_date	........ / best-	// <p> <strong> Laura La Plante </strong> ( November 1 , 1904 - October 14 , 1996 ) was an <a> American </a> <a> actress </a> , best-known for her roles in <a> silent film </a> s . </p>
+#	NEW	death_date	........ / 13 , 1922 &#	// <p> <strong> Beatrice </strong> &quot ; <strong> Bea </strong> &quot ; <strong> Arthur </strong> ( May 13 , 1922 &#x2013 ; April 25 , 2009 ) !
 
-#	NEW	death_date	........ / singer	// <p> <strong> Edith Massey </strong> ( May 28 , 1918&nbsp ; &#x2013 ; October 24 , 1984 ) was an <a> American </a> <a> actress </a> and <a> singer </a> .
+#	NEW	death_date	........ / 7 , 1928 )	// <p> <strong> Patricia &quot ; Pat&quot ; Hitchcock O ' Connell </strong> ( born July 7 , 1928 ) is a British-born American <a> actress </a> and <a> producer </a> . </p>
 
-#	NEW	death_date	........ / September	// <p> <strong> Gary Olsen </strong> ( 3 November 1957&ndash ; 12 September 2000 ) was an <a> English </a> actor .
+#	NEW	death_date	........ / 31 January 1970 )	// <p> <strong> Minnie Driver </strong> ( born <strong> Amelia Fiona J . Driver </strong> ; 31 January 1970 ) is a British actress and singer-songwriter .
 
-#	NEW	death_date	........ / April 10 , 1999 )	// <p> <strong> Jean Vander Pyl </strong> ( October 11 , 1919 &ndash ; April 10 , 1999 ) was an <a> American </a> actress on radio , television and movies .
+#	NEW	death_date	........ / 4 , 1914 &	// <p> <strong> Ward Walrath Kimball </strong> ( March 4 , 1914 &ndash ; July 8 , 2002 ) was an <a> animator </a> for the <a> Walt Disney Studios </a> .
 
-#	NEW	death_date	........ / author	// <p> <strong> Hermannus Jantinus &quot ; Herman&quot ; van Veen </strong> ( born 14 March 1945 ) is a <a> Dutch </a> stage performer , <a> actor </a> , <a> musician </a> and <a> singer </a> / <a> songwriter </a> and <a> author </a> .
+#	NEW	death_date	........ / 17 , 1961 )	// <p> <strong> Anna Katriina Outinen </strong> ( born August 17 , 1961 ) , is a <a> Finnish </a> actress who has often played leading female roles in <a> Aki Kaurism&#x00e4 ; ki </a> ' s films . </p>
 
-#	NEW	death_date	........ / n	// <p> <strong> Gerda Nicolson </strong> , ( 11 November 1937 - 12 June 1992 ) was an <a> Australia </a> n theatre and television actor best known for several long-running television roles . </p>
+#	NEW	death_date	........ / 10 , 1899 &	// <p> <strong> John Gilbert </strong> ( July 10 , 1899 &ndash ; January 9 , 1936 ) was an American actor and a major star of the <a> silent film </a> era . </p>
 
-#	NEW	death_date	........ / John	// <p> <strong> Ashley Force Hood </strong> ( born November 29 , 1982 ) is a <a> funny car </a> <a> drag racer </a> for <a> John Force Racing </a> .
+#	NEW	death_date	........ / 6 , 1900 &	// <p> <strong> Agnes Robertson Moorehead </strong> ( December 6 , 1900 &ndash ; April 30 , 1974 ) was an American actress .
 
-#	NEW	death_date	........ / March 14 , 1961 )	// <p> <strong> Penny Johnson Jerald </strong> ( born March 14 , 1961 ) is an American actress .
+#	NEW	death_date	........ / June 5 , 1954 .	// The show ended after 160 episodes on June 5 , 1954 .
 
-#	NEW	death_date	........ / studio	// <p> <strong> Ben Lyon </strong> ( February 6 , 1901 &#x2013 ; March 22 , 1979 ) was an American <a> film </a> <a> actor </a> and a <a> 20th Century Fox </a> studio executive . </p>
+#	NEW	death_date	........ / 1 , 1952	// <p> <strong> Steven Barnes </strong> ( born March 1 , 1952 , <a> Los Angeles , California </a> ) is an <a> African American </a> <a> science fiction </a> writer , lecturer , creative consultant , and human performance technician .
 
-#	NEW	death_date	........ / January 30 , 1926 )	// <p> <strong> Barbara La Marr </strong> ( July 28 , 1896 &ndash ; January 30 , 1926 ) was an American stage and film actress , cabaret artist and <a> screenwriter </a> . </p>
+#	NEW	death_date	........ / workshops , festivals	// His classes and seminars have occurred at various theatre workshops , festivals , and universities .
 
-#	NEW	death_date	........ / winner	// <p> Dr . <strong> Daggubati Ramanaidu </strong> ( ) ( born 6 June 1936 ) is an <a> India </a> n <a> movie </a> <a> producer </a> and the <a> Dadasaheb Phalke Award </a> winner for the year 2009 .
+#	NEW	death_date	........ / 3 , 2011 .	// <p> His most recent work has been his role in the <a> Lifetime </a> Original Movie , &quot ; <a> Craigslist Killer </a> &quot ; which aired January 3 , 2011 .
 
-#	NEW	death_date	........ / actor	// <p> <strong> Walter Lane Smith III </strong> ( April 29 , 1936 &ndash ; June 13 , 2005 ) was an <a> American </a> <a> actor </a> .
+#	NEW	death_date	........ / June 19 , 1954 )	// <p> <strong> Mary Kathleen Turner </strong> ( born June 19 , 1954 ) is an <a> American </a> <a> actress </a> .
 
-#	NEW	death_date	........ / productions .	// <p> <strong> Michael Emmet Walsh </strong> ( born March 22 , 1935 ) is an <a> American </a> <a> actor </a> who has appeared in over 100 <a> film </a> and <a> television </a> productions . </p>
+#	NEW	death_date	........ / later , after	// <p> Several years later , after becoming a mother herself , Lewis finally confronted her mother .
 
-#	NEW	death_date	........ / 8 , 1934 )	// <p> <strong> Dorothy Dell </strong> ( January 30 , 1915 &ndash ; June 8 , 1934 ) was an American film actress . </p>
+#	NEW	death_date	........ / strong> ( born 1981 ) .	// <p> Slezak is married to Brian Davies , and is the mother of two children , Michael ( born 1980 ) and <strong> Amanda Davies </strong> ( born 1981 ) . ref
+
+#	NEW	death_date	........ / 25 , 1925 &#	// <p> <strong> Jeanne Elizabeth Crain </strong> ( May 25 , 1925 &#x2013 ; December 14 , 2003 ) was an American actress . </p>
+
+#	NEW	death_date	........ / June Foray	// <p> Renowned animato / director <a> Chuck Jones </a> is reported to have said , &quot ; June Foray is not the female <a> Mel Blanc </a> , Mel Blanc was the male June Foray . &quot ;
+
+#	NEW	death_date	........ / 30 , 1899 &#	// <p> <strong> Irving Grant Thalberg </strong> ( May 30 , 1899 &#x2013 ; September 14 , 1936 ) was an <a> American </a> <a> film producer </a> during the early years of motion pictures .
+
+#	NEW	death_date	........ / 22 December 1962 )	// <p> <strong> Ralph Nathaniel Twisleton-Wykeham-Fiennes </strong> , known simply as <strong> Ralph Fiennes </strong> ( ; born 22 December 1962 ) , is an English actor .
+
+#	NEW	death_date	........ / June 1969 )	// <p> <strong> Adam Offord Buxton </strong> ( born 7 June 1969 ) is an <a> English </a> <a> comedian </a> and <a> actor </a> .
+
+#	NEW	death_date	........ / 10 , 1960 .	// After divorcing their respective spouses , they got married , on February 10 , 1960 .
+
+#	NEW	death_date	........ / 13 , 1948 &#	// <p> <strong> Nell Carter </strong> ( September 13 , 1948 &#x2013 ; January 23 , 2003 ) was an <a> American </a> singer , and film , stage , and television actress .
+
+#	NEW	death_date	........ / screenwriter , producer	// <p> <strong> Christopher McQuarrie </strong> ( born 1968 ) is an <a> American </a> screenwriter , producer and director .
+
+#	NEW	death_date	........ / 12 , 1893	// <p> <strong> Edward G . Robinson </strong> ( born <strong> Emanuel Goldenberg </strong> ; ; December 12 , 1893 <img> January 26 , 1973 ) was a <a> Romania </a> n-born <a> American </a> actor .
+
+#	NEW	death_date	........ / June 1946 )	// <p> <strong> Penelope Wilton </strong> <a> OBE </a> ( born 3 June 1946 ) is an English actress . </p>
+
+#	NEW	death_date	........ / 9 , 1953 )	// <p> <strong> John Gavin Malkovich </strong> ( born December 9 , 1953 ) is an <a> American </a> <a> actor </a> , <a> producer </a> , and <a> director </a> .
+
+#	NEW	death_date	........ / 23 , 1972	// <p> <strong> Kate del Castillo </strong> ( born October 23 , 1972 in <a> Mexico City </a> ) is a <a> Mexican </a> actress . </p>
+
+#	NEW	death_date	........ / 10 , 1900 &	// <p> <strong> Helen Hayes Brown </strong> ( October 10 , 1900 &ndash ; March 17 , 1993 ) was an American actress whose career spanned almost 70 years .
+
+#	NEW	death_date	........ / 30 , 1939 )	// <p> <strong> Michael J . Pollard </strong> ( born May 30 , 1939 ) is an American actor . </p>
+
+#	NEW	death_date	........ / 7 , 1932 )	// <p> <strong> Ellen Burstyn </strong> ( born December 7 , 1932 ) is an American actress , who has worked in film , <a> stage </a> and television .
+
+#	NEW	death_date	........ / ( June 21 , 1921 &	// <p> <strong> Judy Holliday </strong> ( June 21 , 1921 &ndash ; June 7 , 1965 ) was an American actress . </p>
+
+#	NEW	death_date	........ / 2 , 1925 )	// <p> <strong> Julia Ann &quot ; Julie&quot ; Harris </strong> ( born December 2 , 1925 ) is an American stage , screen , and television actress .
+
+#	NEW	death_date	........ / cancer in 1939 .	// She worked up until six months before her death from cancer in 1939 .
+
+#	NEW	death_date	........ / had smoked 50	// Sharif had smoked 50 cigarettes a day ; after the surgery , he quit easily . </p>
+
+#	NEW	death_date	........ / 28 , 1931 )	// <p> <strong> Carroll Baker </strong> ( born May 28 , 1931 ) is an American actress who has enjoyed popularity as both a serious dramatic actress and , particularly in the 1960s , as a movie <a> sex symbol </a> .
+
+#	NEW	death_date	........ / 18 , 1916 &	// <p> <strong> Betty Grable </strong> ( December 18 , 1916 &ndash ; July 2 , 1973 ) was an American <a> actress </a> , <a> dance </a> r and <a> singer </a> . </p>
+
+#	NEW	death_date	........ / 12 , 1951 )	// <p> <strong> Joseph Peter &quot ; Joe&quot ; Pantoliano </strong> ( born September 12 , 1951 ) is an American film and television actor .
+
+#	NEW	death_date	........ / 14 , 1911 &#	// <p> <strong> Lindley Armstrong &quot ; Spike&quot ; Jones </strong> ( December 14 , 1911 &#x2013 ; May 1 , 1965 ) was a popular musician and bandleader specializing in performing satirical arrangements of popular songs .
+
+#	NEW	death_date	........ / 10 , 1950	// A United Press dispatch dated January 10 , 1950 reported a director had been found to fill the vacancy caused by his death .
+
+#	NEW	death_date	........ / June 1943 )	// <p> <strong> Malcolm McDowell </strong> ( born 13 June 1943 ) is an <a> English </a> <a> actor </a> with a career spanning over forty years . </p>
+
+#	NEW	death_date	........ / stage , and	// <p> Delgado worked extensively on the British stage , and on TV , film and radio .
+
+#	NEW	death_date	........ / 28 , 1948 )	// <p> <strong> Bernadette Peters </strong> ( born <strong> Bernadette Lazzara </strong> on February 28 , 1948 ) is an American actress , singer and children ' s book author from <a> New York City </a> .
+
+#	NEW	death_date	........ / Ingrams , a	// Davison played John Ingrams , a lawyer who helps Jones ' character , Ruth Slater , find her sister after her release from prison . </p>
+
+#	NEW	death_date	........ / death in 1977	// <p> After Elvis ' death in 1977 , Vernon Presley served as executor of his estate .
+
+#	NEW	death_date	........ / 23 November 1991 )	// <p> <strong> Nikolaus Karl G&#x00fc ; nther Nakszy&#x0144 ; ski </strong> , best known as <strong> Klaus Kinski </strong> ( 18 October 1926&nbsp ; &#x2013 ; 23 November 1991 ) , was a <a> German </a> actor .
+
+#	null	death_date	11 january 2003 / ..........
 

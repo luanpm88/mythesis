@@ -1,0 +1,102 @@
+Found: 47
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+
+
+
+#	NEW	spouse	........ / B . Brock .	// <p> Hopkins was married and divorced four times : first to actor Brandon Peters , second to aviator Austin Parker , third to the director <a> Anatole Litvak </a> , and fourth to war correspondent Raymond B . Brock .
+
+#	NEW	spouse	........ / Ines Glorian .	// He married a second time in March 2007 to Ines Glorian .
+
+#	NEW	spouse	........ / four sons .	// Pays married <a> American </a> actor <a> Corbin Bernsen </a> on 19 November 1988 , with whom she has four sons .
+
+#	NEW	spouse	........ / film actor .	// <p> <strong> Matthew &quot ; Matt&quot ; Frewer </strong> ( born January 4 , 1958 ) is a <a> Canadian American </a> stage , TV , and film actor .
+
+#	NEW	spouse	........ / Nancy Wolcott .	// In 1944 , he met and married Nancy Wolcott .
+
+#	NEW	spouse	........ / two children .	// <p> Wright was married to writer <a> Niven Busch </a> from 1942 to 1952 ; they had two children .
+
+#	NEW	spouse	........ / Jr . in	// She married producer Frank Ross , Jr . in 1932 .
+
+#	NEW	spouse	........ / more . & quot ;	// Of overtone singing and his own study of the form , music theorist Charles Madden writes , &quot ; David Hykes has done everything I had hoped to do , and more . &quot ;
+
+#	NEW	spouse	........ / Fimberg in	// Cannon married producer Stanley Fimberg in 1985 .
+
+#	NEW	spouse	........ / publicity tours .	// He continued to do various projects on his own , even returning to Disney to do some publicity tours .
+
+#	NEW	spouse	........ / acting work .	// <p> His private life melded seamlessly with his acting work .
+
+#	NEW	spouse	........ / in Helsinki .	// <p> Outinen was born in Helsinki .
+
+#	NEW	spouse	........ / of war .	// However , Kaurism&#x00e4 ; ki refused to attend the gala , noting that he didn ' t particularly feel like partying in a nation that is currently in a state of war .
+
+#	NEW	spouse	........ / a> in	// <p> Gilbert married the successful film actress <a> Leatrice Joy </a> in 1922 .
+
+#	NEW	spouse	........ / James Cushing	// She was a widow for twenty years , then married James Cushing ( 22 August 1983 - 23 June 1998 , her death ) .
+
+#	NEW	spouse	........ / divorced in	// In 1954 , she married actor <a> Robert Gist </a> , and they divorced in 1958 .
+
+#	NEW	spouse	........ / Florence Levy	// He married Florence Levy on July 17 , 1943 .
+
+#	NEW	spouse	........ / and operators .	// His parents were race car owners and operators .
+
+#	NEW	spouse	........ / a writer .	// Barnes is married to <a> Tananarive Due </a> , a writer .
+
+#	NEW	spouse	........ / at Yale .	// They married in a Methodist ceremony at Branford College at Yale .
+
+#	NEW	spouse	........ / Hirshan from	// <p> Dey was married to Lenny Hirshan from 1976-1981 .
+
+#	NEW	spouse	........ / continued through	// Filming began in fall 2009 in <a> Nottingham </a> , UK and Adelaide , Australia and continued through January 2010 .
+
+#	NEW	spouse	........ / which aired	// Billy ' s most recent role was as lead detective Brian Albert in the Lifetime Original Movie ' The Craigslist Killer ' which aired on January 3 , 2011 .
+
+#	NEW	spouse	........ / own stunts .	// In that film , Turner played a former gymnast , and , as in other roles , she did many of her own stunts .
+
+#	NEW	spouse	........ / 1981 ) . ref	// <p> Slezak is married to Brian Davies , and is the mother of two children , Michael ( born 1980 ) and <strong> Amanda Davies </strong> ( born 1981 ) . ref
+
+#	NEW	spouse	........ / own stunts .	// Athletic and daring , in these films she performed all her own stunts .
+
+#	NEW	spouse	........ / Chris Partridge .	// <p> Gelbwaks was the first actor to play the role of Chris Partridge .
+
+#	NEW	spouse	........ / four times .	// <p> Holm has been married four times .
+
+#	NEW	spouse	........ / the Bahamas .	// According to the Associated Press , the two were married in July 2010 in the Bahamas .
+
+#	NEW	spouse	........ / adulterous affair .	// They were both married at the time and had an adulterous affair .
+
+#	NEW	spouse	........ / the time .	// If they were married , this would have constituted bigamy as West was legally married to Frank Wallace at the time .
+
+#	NEW	spouse	........ / same year .	// She divorced Krynicki and married Roger Larocque that same year .
+
+#	NEW	spouse	........ / and director .	// <p> <strong> Christopher McQuarrie </strong> ( born 1968 ) is an <a> American </a> screenwriter , producer and director .
+
+#	NEW	spouse	........ / and artist .	// <p> Robinson married his first wife , stage actress Gladys Lloyd , in 1927 ; born Gladys Lloyd Cassell , she was the former wife of Ralph L . Vestervelt and the daughter of Clement C . Cassell , an architect , sculptor , and artist .
+
+#	NEW	spouse	........ / sister Lindy .	// <p> Between 1975 and 1984 , she was married to the actor <a> Daniel Massey </a> who , following their divorce , married her sister Lindy .
+
+#	NEW	spouse	........ / was Taylor .	// <p> It appears that he also had a son , John Marshall , by his longtime friend and mistress , Ren&#x00e9 ; e ( n&#x00e9 ; e Gilbert ) , whose married name was Taylor .
+
+#	NEW	spouse	........ / White House . )	// She said her stage debut was a 5-year old singer at Washington ' s Belasco Theatre ( on Lafayette Square , across from the White House . )
+
+#	NEW	spouse	........ / divorced in	// <p> In 1950 , she married Bill Alexander , but they were divorced in 1957 .
+
+#	NEW	spouse	........ / television actress .	// <p> <strong> Julia Ann &quot ; Julie&quot ; Harris </strong> ( born December 2 , 1925 ) is an American stage , screen , and television actress .
+
+#	NEW	spouse	........ / a child .	// Her step mother was the Broadway star <a> Grace George </a> ( 1879&#x2013 ; 1961 ) whom her father married when Alice was a child .
+
+#	NEW	spouse	........ / country . & quot ;	// And a lot of missing my own land , my own people and my own country . &quot ;
+
+#	NEW	spouse	........ / three times .	// <p> Baker has been married three times .
+
+#	NEW	spouse	........ / television actor .	// <p> <strong> Joseph Peter &quot ; Joe&quot ; Pantoliano </strong> ( born September 12 , 1951 ) is an American film and television actor .
+
+#	NEW	spouse	........ / own pocket .	// Jones wound up paying some of the band ' s expenses out of his own pocket .
+
+#	NEW	spouse	........ / own studio .	// <p> Freleng soon teamed up with Harman and Ising to try to create their own studio .
+
+#	NEW	spouse	........ / old dancer .	// In 1922 when Balanchine was eighteen , he married <a> Tamara Geva </a> , a fifteen year old dancer .
+
+#	NEW	spouse	........ / independent analysts .	// For many years to come , Kinski ' s own writings were the only source for facts about his life and were not questioned or doubted by independent analysts .
+

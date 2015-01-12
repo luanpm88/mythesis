@@ -1,77 +1,248 @@
-Found: 28
-Found Not Null: 9
-Correct: 9
-Wrong: 0
-Total: 10
-precision: 1.0
-recall: 0.9
+Found: 96
+Found Not Null: 44
+Correct: 28
+Wrong: 16
+Total: 45
+precision: 0.6363636363636364
+recall: 0.6222222222222222
 
 
 
-#	NEW	occupation	........ / actor	// <p> <strong> Clifton James </strong> ( born May 29 , 1921 ) is an <a> American </a> <a> actor </a> .
+0	TRUE	Miriam Hopkins::occupation	actress / Actress	
+Hopkins also had great success during the remainder of the decade with the romantic screwball comedy <em> <a> The Richest Girl in the World </a> </em> ( 1934 ) , the historical drama <em> <a> Becky Sharp </a> </em> ( 1935 ) , for which she was nominated for the <a> Academy Award for Best Actress </a> , <em> <a> Barbary Coast </a> </em> ( 1935 ) , <em> <a> These Three </a> </em> ( 1936 ) ( the first of four films with director <a> William Wyler </a> ) and <em> <a> The Old Maid </a> </em> ( 1939 ) .
 
-1	TRUE	Claudia Wells::occupation	actress / actress.	
-<p> <strong> Claudia Grace Wells </strong> ( born July 5 , 1966 ) is an Malaysian-born <a> American </a> actress . </p>
+#	NEW	occupation	........ / received	// She also starred in the lead role of a drama called ' The Story of Ruth ' ( 1981 ) , in which she played the role of the schizophrenic daughter of an abusive father , for which she received critical acclaim . </p>
 
-#	NEW	occupation	........ / actor .	// <p> <strong> Trace Beaulieu </strong> ( born November 6 , 1958 ) is an <a> American </a> puppeteer , writer , and actor .
+2	TRUE	Colm Meaney::occupation	actor / Actor	
+He guest-starred on shows such as <em> <a> Remington Steele </a> </em> and <em> <a> Moonlighting </a> </em> before embarking on a successful film career ; he received a <a> Golden Globe </a> nomination for Best Actor for his role in <em> <a> The Snapper </a> </em> . </p>
 
-#	NEW	occupation	........ / s .	// <p> <strong> Samuel Zachary Arkoff </strong> ( June 12 , 1918 &ndash ; September 16 , 2001 ) was an <a> American </a> <a> producer </a> of <a> B movie </a> s . </p>
+3	FALSE	Amanda Pays::occupation	actress / 1989 '	
+She also appeared in the low-budget 1980s horror film <em> The Kindred </em> ( not to be confused with the 1990s vampire TV series ) and 1989 ' s <em> <a> Leviathan </a> </em> . </p>
 
-#	NEW	occupation	........ / ,	// <p> <strong> Claudia Lee Black </strong> ( born 11 October 1972 ) is an Australian actress , known for her portrayals of <a> Aeryn Sun </a> in the <a> science fiction </a> <a> television series </a> <em> <a> Farscape </a> </em> , <a> Vala Mal Doran </a> in the science fiction series <em> <a> Stargate SG-1 </a> </em> , <a> Chloe Frazer </a> in <a> Uncharted 2 : Among Thieves </a> , and the witch Morrigan in <em> <a> Dragon Age : Origins </a> </em> . </p>
+4	FALSE	Matt Frewer::occupation	actor / Watchmen	
+Acting since 1983 , he is probably best known for portraying the 1980s icon <a> Max Headroom </a> and the retired villain Moloch in the movie adaptation of <em> <a> Watchmen </a> </em> . </p>
 
-#	NEW	occupation	........ / actress .	// <p> <strong> Sherilyn Fenn </strong> ( born February 1 , 1965 ) is an American actress .
+#	NEW	occupation	........ / West	// This was to be Vilma ' s only film &mdash ; a contract problem prevented her from making others and she soon retired from show business &mdash ; but Buddy appeared in numerous films , both musicals and non-musicals , including <em> <a> Born to Dance </a> </em> , <em> <a> Captain January </a> </em> ( in which he danced with <a> Shirley Temple </a> ) , <em> <a> Broadway Melody of 1938 </a> </em> ( with <a> Judy Garland </a> as his dance partner ) , and <em> <a> The Girl of the Golden West </a> </em> .
 
-6	TRUE	Barry Watson (actor)::occupation	actor / actor	
-<p> <strong> Michael Barrett &quot ; Barry&quot ; Watson </strong> ( born April 23 , 1974 ) is an <a> American </a> <a> actor </a> , known for his roles of <a> Dr .
+6	FALSE	Luise Rainer::occupation	actress / Award	
+Known as The &quot ; Viennese Teardrop&quot ; , she is the first woman to win two <a> Academy Award </a> s , and the first person to win them consecutively .
 
-#	NEW	occupation	........ / director .	// <p> <strong> John Marcum Wells </strong> ( born May 28 , 1956 ) is an American <a> theater </a> and <a> television producer </a> , <a> writer </a> and director .
+7	TRUE	Gladys George::occupation	actress / Actress	
+In 1936 she was nominated for an <a> Academy Award for Best Actress </a> for <em> <a> Valiant Is the Word for Carrie </a> </em> .
 
-#	NEW	occupation	........ / actor	// <p> <strong> Jonathan Firth </strong> ( born 6 April 1967 ) is a <a> British </a> <a> actor </a> . </p>
+8	TRUE	Fay Bainter::occupation	actress / Actress	
+<p> Bainter quickly achieved success , and in 1938 she became the first performer nominated for both the <a> Academy Award for Best Actress </a> , for <em> <a> White Banners </a> </em> ( 1937 ) , and the <a> Academy Award for Best Supporting Actress </a> for <em> <a> Jezebel </a> </em> ( 1938 ) , winning for the latter .
 
-9	TRUE	Patsy Garrett::occupation	actress / actress	
-<p> <strong> Patsy Garrett </strong> ( born May 4 , 1921 ; <a> Atlantic City , New Jersey </a> ) is an actress best known for her recurring roles as nosey neighbor &quot ; Mrs .
+9	TRUE	Margaret Sullavan::occupation	actress / Actress	
+<p> Sullavan was nominated for an <a> Academy Award for Best Actress </a> for her performance in <em> <a> Three Comrades </a> </em> ( 1938 ) .
 
-10	TRUE	Cheryl Hines::occupation	actress / actress	
-<p> <strong> Cheryl Hines </strong> ( born September 21 , 1965 ) is an <a> America </a> n <a> actress </a> and <a> television director </a> , best known for her role as <a> Larry David </a> ' s wife Cheryl on <a> HBO </a> ' s <em> <a> Curb Your Enthusiasm </a> </em> .
+#	NEW	occupation	........ / Actress	// Her film debut in <em> <a> Our Town </a> </em> in 1940 saw her receiving an <a> Academy Award </a> nomination for <a> Best Actress </a> for her critically acclaimed performance as Emily Webb .
 
-#	NEW	occupation	........ / actor	// <p> <strong> Mark Williams </strong> ( born 22 August 1959 ) is an <a> English </a> <a> actor </a> , <a> comedian </a> , <a> screenwriter </a> and presenter .
+#	NEW	occupation	........ / Award	// She was nominated for <a> Emmy Award </a> s in 1957 for <em> The Miracle Worker </em> and in 1960 for <em> The <a> Margaret Bourke-White </a> Story </em> .
 
-#	NEW	occupation	........ / director	// <p> <strong> Bruce LaBruce </strong> ( born January 3 , 1964 ) is a <a> Canadian </a> writer , <a> filmmaker </a> , <a> photographer </a> and underground <a> gay porn </a> director based in <a> Toronto </a> , <a> Canada </a> . </p>
+12	TRUE	Jean Arthur::occupation	actress / Actress	
+<p> Arthur was nominated for an <a> Academy Award for Best Actress </a> in 1944 for her performance in <em> <a> The More the Merrier </a> </em> ( 1943 ) . </p>
 
-#	NEW	occupation	........ / actress	// <p> <strong> Laura La Plante </strong> ( November 1 , 1904 - October 14 , 1996 ) was an <a> American </a> <a> actress </a> , best-known for her roles in <a> silent film </a> s . </p>
+#	NEW	occupation	........ / Director	// Zemeckis first came to public attention in the 1980s as the director of the comedic time-travel <a> <em> Back to the Future </em> </a> film series , as well as the <a> Academy Award </a> -winning <a> live-action </a> / <a> animation </a> epic <em> <a> Who Framed Roger Rabbit </a> </em> ( 1988 ) , though in the 1990s he diversified into more dramatic fare , including 1994 ' s <em> <a> Forrest Gump </a> </em> , for which he won an <a> Academy Award for Best Director </a> . </p>
 
-#	NEW	occupation	........ / actress	// <p> <strong> Edith Massey </strong> ( May 28 , 1918&nbsp ; &#x2013 ; October 24 , 1984 ) was an <a> American </a> <a> actress </a> and <a> singer </a> .
+14	TRUE	Samantha Eggar::occupation	actress / Actress	
+She received a nomination for the <a> Academy Award for Best Actress </a> for <em> <a> The Collector </a> </em> ( 1965 ) , directed by <a> William Wyler </a> .
 
-#	NEW	occupation	........ / actor .	// <p> <strong> Gary Olsen </strong> ( 3 November 1957&ndash ; 12 September 2000 ) was an <a> English </a> actor .
+#	NEW	occupation	........ / actor	// He often played the tough guy in action and crime dramas but was also known as a comic actor as well as a dramatic lead .
 
-#	NEW	occupation	........ / actress	// <p> <strong> Jean Vander Pyl </strong> ( October 11 , 1919 &ndash ; April 10 , 1999 ) was an <a> American </a> actress on radio , television and movies .
+#	NEW	occupation	........ / University	// He received an M . F . A . from <a> Columbia University </a> in <a> New York </a> .
 
-17	TRUE	Herman van Veen::occupation	actor / actor	
-<p> <strong> Hermannus Jantinus &quot ; Herman&quot ; van Veen </strong> ( born 14 March 1945 ) is a <a> Dutch </a> stage performer , <a> actor </a> , <a> musician </a> and <a> singer </a> / <a> songwriter </a> and <a> author </a> .
+#	NEW	occupation	........ / Actress	// She received an <a> Academy Award </a> nomination for <a> Best Supporting Actress </a> for her performance in the film , as well as two <a> Golden Globe </a> nominations .
 
-#	NEW	occupation	........ / actor	// <p> <strong> Gerda Nicolson </strong> , ( 11 November 1937 - 12 June 1992 ) was an <a> Australia </a> n theatre and television actor best known for several long-running television roles . </p>
+#	NEW	occupation	........ / Actress	// She was nominated for an <a> Academy Award for Best Supporting Actress </a> for her performance in the 1997 film <em> <a> Good Will Hunting </a> </em> , as well as for an <a> Emmy Award </a> and a <a> Golden Globe </a> for her work in the television series <em> <a> The Riches </a> </em> . </p>
 
-19	TRUE	Penny Johnson Jerald::occupation	actress / actress.	
-<p> <strong> Penny Johnson Jerald </strong> ( born March 14 , 1961 ) is an American actress .
+#	NEW	occupation	........ / Bird	// He received an <a> Academy Award </a> for the short <a> animated cartoon </a> <em> <a> It ' s Tough to Be a Bird </a> </em> .
 
-#	NEW	occupation	........ / actor	// <p> <strong> Ben Lyon </strong> ( February 6 , 1901 &#x2013 ; March 22 , 1979 ) was an American <a> film </a> <a> actor </a> and a <a> 20th Century Fox </a> studio executive . </p>
+#	NEW	occupation	........ / Actor	// <p> He was nominated Best Actor by European Film Academy for his role as Rodolfo in <em> La Vie de Boheme </em> and won the <a> Felix </a> at the European Film Awards in 1992 .
 
-#	NEW	occupation	........ / actress	// <p> <strong> Barbara La Marr </strong> ( July 28 , 1896 &ndash ; January 30 , 1926 ) was an American stage and film actress , cabaret artist and <a> screenwriter </a> . </p>
+#	NEW	occupation	........ / Actress	// <p> At the <a> 2002 Cannes Film Festival </a> , Outinen won the award for <a> Best Actress </a> for the Kaurism&#x00e4 ; ki film <em> <a> The Man Without a Past </a> </em> . </p>
 
-#	NEW	occupation	........ / actor	// <p> <strong> Christopher Boyd Lemmon </strong> ( born January 22 , 1954 ) is an American <a> actor </a> and <a> author </a> . </p>
+#	NEW	occupation	........ / Film	// It won the <a> Grand Prix </a> and the <a> Prize of the Ecumenical Jury </a> at the <a> 2002 Cannes Film Festival </a> and was nominated for an <a> Academy Award </a> in the <a> Best Foreign Language Film </a> category in 2003 .
 
-#	NEW	occupation	........ / actor	// <p> <strong> Christopher Bradley &quot ; Chris&quot ; Owens </strong> ( born 7 September 1961 ) is a <a> Canadian </a> <a> actor </a> . </p>
+23	FALSE	John Gilbert (actor)::occupation	actor, director, writer / actress	
+<p> Gilbert was married four times ( including once to film and stage actress <a> Ina Claire </a> ) , and had two daughters .
 
-24	TRUE	John Ingle::occupation	actor / ,	
-<p> <strong> John Ingle </strong> ( born May 7 , 1928 ) is an American <a> actor </a> known for his role as scheming patriarch <a> Edward Quartermaine </a> on the <a> ABC </a> daytime drama , <em> <a> General Hospital </a> </em> . </p>
+24	FALSE	Mia Farrow::occupation	actress, singer / actress	
+Farrow has appeared in more than forty-five films and won numerous awards , including a <a> Golden Globe </a> award ( and seven additional Golden Globe nominations ) , five <a> BAFTA Film Award </a> nominations , and a win for best actress at the <a> San Sebastian International Film Festival </a> .
 
-#	NEW	occupation	........ / actor	// <p> <strong> Walter Lane Smith III </strong> ( April 29 , 1936 &ndash ; June 13 , 2005 ) was an <a> American </a> <a> actor </a> .
+25	FALSE	Maureen O'Sullivan::occupation	actress / 1942	
+<p> In all , O ' Sullivan played Jane in six features between ( <a> 1932 </a> ) and ( <a> 1942 </a> ) .
 
-26	TRUE	M. Emmet Walsh::occupation	actor / actor	
-<p> <strong> Michael Emmet Walsh </strong> ( born March 22 , 1935 ) is an <a> American </a> <a> actor </a> who has appeared in over 100 <a> film </a> and <a> television </a> productions . </p>
+#	NEW	occupation	........ / actor	// <p> <strong> Timothy J . Kazurinsky </strong> ( born March 3 , 1950 ) is an <a> American </a> actor , comedian and writer best remembered as a cast member on <em> <a> Saturday Night Live </a> </em> and for his role as &quot ; Sweetchuck&quot ; in the <a> Police Academy </a> films .
 
-27	TRUE	Dorothy Dell::occupation	actress / actress.	
-<p> <strong> Dorothy Dell </strong> ( January 30 , 1915 &ndash ; June 8 , 1934 ) was an American film actress . </p>
+27	FALSE	Agnes Moorehead::occupation	actress / awards	
+<p> While rarely playing leads in films , Moorehead ' s skill at character development and range earned her one <a> Emmy Award </a> and two <a> Golden Globe </a> awards in addition to four <a> Academy Award </a> and six Emmy Award nominations .
+
+#	NEW	occupation	........ / voice	// He is best known as the voice of cartoon character <a> Popeye </a> . </p>
+
+#	NEW	occupation	........ / Actor	// He has received two <a> Saturn Awards </a> for Best Actor In A Television Role for his acting in <em> Farscape </em> .
+
+#	NEW	occupation	........ / Award	// Barnes ' s first published piece of fiction , the 1979 novelette , <em> The Locusts , </em> was written with <a> Larry Niven </a> , and was a <a> Hugo Award </a> nominee . </p>
+
+31	FALSE	Charles Bronson::occupation	actor / <em>	
+<p> In 1961 he was nominated for an <a> Emmy Award </a> for his supporting role in a TV episode with the title <em> Memory in White </em> . </p>
+
+32	TRUE	Denholm Elliott::occupation	actor / Actor	
+<p> In the 1980s , he won three consecutive <a> British Academy of Film and Television Arts </a> ( BAFTA ) awards&#x2014 ; Best Supporting Actor for <em> <a> Trading Places </a> </em> as <a> Dan Aykroyd </a> ' s kindly butler , <em> <a> A Private Function </a> </em> , and <em> <a> Defence of the Realm </a> </em> &#x2014 ; as well as an <a> Academy Award </a> nomination for <em> <a> A Room with a View </a> </em> .
+
+#	NEW	occupation	........ / Film	// He directed <a> G&#x00e9 ; rard Depardieu </a> in three films , including <em> <a> Sous le soleil de Satan </a> </em> ( <em> Under the Sun of Satan </em> ) , for which Pialat won the <a> Palme d ' Or </a> at the <a> 1987 Cannes Film Festival </a> . </p>
+
+#	NEW	occupation	........ / Drama	// <p> Conti was educated at <a> St Aloysius ' College </a> , an independent fee-paying Catholic boys ' ( at that time ) school in <a> Glasgow </a> , and at the <a> Royal Scottish Academy of Music and Drama </a> in Glasgow . </p>
+
+#	NEW	occupation	........ / Awards	// <p> ; <a> Golden Globe Awards </a> </p>
+
+36	TRUE	William Hurt::occupation	actor / Actor	
+He received the <a> Best Male Performance Prize </a> at the <a> Cannes Film Festival </a> and the <a> Academy Award for Best Actor </a> for <em> <a> Kiss of the Spider Woman </a> </em> for 1985 .
+
+37	TRUE	James Garner::occupation	actor / Actor	
+He appeared for six seasons , for which he received an <a> Emmy Award </a> for Best Actor in 1977 .
+
+#	NEW	occupation	........ / x00f3 ;	// <p> He also appeared in films , such as <em> <a> Canta Mi Coraz&#x00f3 ; n </a> </em> in <a> 1965 </a> .
+
+39	TRUE	Susan Dey::occupation	actress / Actress	
+She was also nominated for the <a> Emmy Award </a> for &quot ; Outstanding Lead Actress in a Drama Series&quot ; for this role in 1987 , 1988 , and 1989 . </p>
+
+#	NEW	occupation	........ / the	// Dalton was on stage towards the end of the awards show , which resulted in him being booed by the audience .
+
+#	NEW	occupation	........ / Actor&	// In 1998 , he received the &quot ; Best Actor&quot ; award from the <a> Montreal </a> Film Festival for his performance in <em> <a> The Interview </a> </em> .
+
+#	NEW	occupation	........ / Actor	// Shepard was nominated for an <a> Academy Award for Best Supporting Actor </a> for his portrayal of pilot <a> Chuck Yeager </a> in <em> <a> The Right Stuff </a> </em> ( 1983 ) . </p>
+
+#	NEW	occupation	........ / film	// He was well-received in a supporting role in the 2005 film <em> <a> The Squid and the Whale </a> </em> .
+
+44	TRUE	Kathleen Turner::occupation	actress / Actress.	
+For <em> Peggy Sue </em> , she received a 1986 <a> Academy Award </a> nomination for Best Actress .
+
+45	TRUE	Loretta Young::occupation	actress / actress	
+She won the 1948 best actress <a> Academy Award </a> for her role in the 1947 film <em> <a> The Farmer ' s Daughter </a> </em> , and received an Oscar nomination for her role in <em> <a> Come to the Stable </a> </em> , in 1950 . </p>
+
+46	TRUE	Erika Slezak::occupation	actress / Actress	
+<p> Slezak has won six <a> Daytime Emmy Award </a> s in the category of &quot ; <a> Outstanding Lead Actress in a Drama Series </a> &quot ; out of eight nominations .
+
+47	TRUE	Jeanne Crain::occupation	actress / Actress	
+<p> In 1949 , Crain starred in three films &#x2014 ; <em> <a> A Letter to Three Wives </a> </em> , <em> <a> The Fan </a> </em> and <em> <a> Pinky </a> </em> , for which she was nominated for a <a> Best Actress </a> Oscar .
+
+#	NEW	occupation	........ / Follies	// At the age of sixty-seven , she appeared back on stage in the <a> Tony Award </a> winning Broadway musical , <em> <a> Follies </a> </em> .
+
+49	TRUE	Florence La Badie::occupation	actress / actress.	
+Over a course of six years La Badie ' s career had taken her to top-billing as a film actress .
+
+50	FALSE	June Foray::occupation	voice actress / the	
+Foray was the first recipient of the award .
+
+51	TRUE	Jeremy Gelbwaks::occupation	actor / actor	
+<p> Gelbwaks was the first actor to play the role of Chris Partridge .
+
+#	NEW	occupation	........ / him .	// The <a> Irving G . Thalberg Memorial Award </a> , presented by the <a> Academy of Motion Picture Arts and Sciences </a> , is also named for him . </p>
+
+53	TRUE	Ian Holm::occupation	actor / Actor.	
+His portrayal of <a> Sam Mussabini </a> in <em> <a> Chariots of Fire </a> </em> ( 1981 ) , earned him a special award at the <a> Cannes Film Festival </a> and an <a> Academy Award </a> nomination for Best Supporting Actor .
+
+54	FALSE	Ralph Fiennes::occupation	actor / Award	
+<p> Fiennes has won a <a> Tony Award </a> and has been nominated twice for <a> Academy Award </a> s .
+
+55	TRUE	Javier Bardem::occupation	actor / Actor.	
+He also won a <a> Golden Globe Award </a> and <a> Screen Actors Guild ( SAG ) Award </a> for Best Supporting Actor , the <a> Critics ' Choice Award </a> for Best Supporting Actor , and the 2008 <a> British Academy of Film and Television Arts ( BAFTA ) Award </a> for Best Supporting Actor .
+
+#	NEW	occupation	........ / Girl	// <p> Seaton won the <a> Academy Award for Best Adapted Screenplay </a> twice , for <em> Miracle on 34th Street </em> ( which also earned him the <a> Golden Globe Award for Best Screenplay </a> ) and <em> The Country Girl </em> , and was nominated for Oscars three additional times .
+
+#	NEW	occupation	........ / performance	// <p> He has taken part in a number of major films , including his aforementioned performance in <em> Hot Fuzz </em> , as well as appearing in the film <em> <a> Stardust </a> </em> , deputizing for <a> Noel Fielding </a> , who was ill at the time of production .
+
+#	NEW	occupation	........ / actress	// He and Echevarria had two daughters , <a> Vanessa Vigoreaux </a> , who is also an actress , and <a> Glendalys Vigoreaux </a> .
+
+59	FALSE	Sienna Guillory::occupation	actress / Awards	
+Although Arya is a key character in the film , Guillory had little screen time and went on to say jokingly : &quot ; I ' ve been trying to explain to friends who ' ve seen the trailer [ . . . ] I ' m like , &quot ; [ . . . ] but that ' s my whole part ! &quot ; &quot ; <em> Eragon </em> was not well received by the critics , but was nominated as Best Fantasy Film at the 2006 <a> Saturn Awards </a> .
+
+#	NEW	occupation	........ / Picture	// The film was a box office hit and earned an <a> Academy Award </a> nomination for <a> Best Picture </a> .
+
+#	NEW	occupation	........ / !	// She also received Emmy and <a> Golden Globe </a> nominations for her starring role in the long-running 1980s <a> sitcom </a> <em> <a> Gimme a Break ! </a> </em> . </p>
+
+#	NEW	occupation	........ / Academy	// <p> Singer and McQuarrie collaborated again on the 1995 film <em> <a> The Usual Suspects </a> </em> , for which McQuarrie received best screenplay awards from <em> <a> Premiere </a> </em> magazine , The Texas Board of Review , and the Chicago Critics as well as the <a> Edgar Award </a> , The Independent Spirit Award , and the British and American Academy Awards .
+
+63	FALSE	Edward G. Robinson::occupation	actor / film	
+Although he played a wide range of characters , he is best remembered for his roles as a gangster , most notably in his star-making film <em> <a> Little Caesar </a> </em> .
+
+#	NEW	occupation	........ / performance	// In 2001 , she was nominated for the London <em> <a> Evening Standard </a> </em> Theatre Award for her performance in <em> <a> The Little Foxes </a> </em> at the Donmar Warehouse .
+
+#	NEW	occupation	........ / actor	// <p> When <a> Warner Brothers Pictures </a> cast the film version in early 1963 , Rennie , along with leading man <a> Barry Nelson </a> and supporting actor <a> Hiram Sherman </a> ( who joined the play two years after the opening in the part first played by <a> John Cromwell </a> ) were the only Broadway cast members to transfer to the big screen .
+
+#	NEW	occupation	........ / actor	// <p> Kate Del Castillo is the daughter of Kate Trillo and <a> Eric del Castillo </a> , a legend of the Mexican cinema ' s golden era and a former <a> soap opera </a> actor himself .
+
+67	TRUE	Helen Hayes::occupation	actress / Actress	
+<p> Her sound film debut was <em> <a> The Sin of Madelon Claudet </a> </em> , for which she won the <a> Academy Award for Best Actress </a> .
+
+68	TRUE	Michael J. Pollard::occupation	actor / Actor	
+<p> In 1967 he played the supporting role of C . W . Moss in <a> Arthur Penn </a> ' s <a> Bonnie and Clyde </a> alongside <a> Warren Beatty </a> , <a> Faye Dunaway </a> and <a> Estelle Parsons </a> , for which he received <a> Academy Award </a> and <a> Golden Globe Award </a> nominations for Best Supporting Actor and won a <a> BAFTA Award </a> for Most Promising Newcomer to Leading Film Roles .
+
+69	TRUE	Ellen Burstyn::occupation	actress / Actress	
+<p> Burstyn received <a> Academy Award </a> nominations for <a> Best Supporting Actress </a> in 1971 for her role in the <a> drama film </a> <em> <a> The Last Picture Show </a> </em> and for <a> Best Actress </a> in 1973 for the <a> horror film </a> <em> <a> The Exorcist </a> </em> .
+
+70	TRUE	Judy Holliday::occupation	actress / Actress	
+She got rave reviews and Cohn offered her the chance to repeat her role for the film version of <em> <a> Born Yesterday </a> </em> , She won the first <a> Golden Globe Award for Best Actress - Motion Picture Musical or Comedy </a> and at the <a> 23rd Academy Awards </a> , Holliday won the <a> Academy Award for Best Actress </a> , over <a> Gloria Swanson </a> , nominated for <em> <a> Sunset Boulevard </a> </em> , <a> Eleanor Parker </a> , for <em> <a> Caged </a> </em> , and <a> Bette Davis </a> and <a> Anne Baxter </a> , both for <em> <a> All About Eve </a> </em> . </p>
+
+71	TRUE	Shelley Winters::occupation	actress / Actress	
+But it was her performance in <em> <a> A Place in the Sun </a> </em> ( 1951 ) , a departure from the sexpot image that her studio , <a> Universal Pictures </a> , was building up for her at the time , that first brought Winters her acclaim , earning a nomination for the <a> Academy Award </a> for <a> Best Actress </a> .
+
+72	FALSE	Julie Harris::occupation	actress / Award	
+She has won five <a> Tony Award </a> s , three <a> Emmy Award </a> s and a <a> Grammy Award </a> , and was nominated for an <a> Academy Award </a> .
+
+73	TRUE	Alice Brady::occupation	actress / Actress	
+Her films include <em> <a> My Man Godfrey </a> </em> ( 1936 ) , in which she played the flighty mother of <a> Carole Lombard </a> ' s character , and <em> <a> In Old Chicago </a> </em> ( 1938 ) for which she won the <a> Academy Award for Best Supporting Actress </a> . </p>
+
+74	FALSE	Omar Sharif::occupation	actor / Awards	
+He has been nominated for an <a> Academy Award </a> and has won three <a> Golden Globe Awards </a> . </p>
+
+75	TRUE	Carroll Baker::occupation	actress / Actress	
+<em> Baby Doll </em> would remain the film for which she is best remembered ; she was nominated for the <a> Academy Award for Best Actress </a> for her role .
+
+#	NEW	occupation	........ / featured	// Grable then worked in small roles at different studios for the rest of the decade , including the <a> Academy Award </a> -winning <em> <a> The Gay Divorcee </a> </em> ( 1934 ) , starring <a> Fred Astaire </a> and <a> Ginger Rogers </a> , where she was prominently featured in the number &quot ; Let ' s K-nock K-nees&quot ; . </p>
+
+77	TRUE	Joe Pantoliano::occupation	actor / Actor	
+That same year he won the <a> Emmy Award </a> for Outstanding Supporting Actor in a Drama Series for <em> <a> The Sopranos </a> </em> . </p>
+
+78	FALSE	Jean Simmons::occupation	actress / Award	
+Simmons won an <a> Emmy Award </a> for her role .
+
+#	NEW	occupation	........ / Actress	// She won the award for <a> Best Actress </a> at the <a> 1960 Cannes Film Festival </a> , and she was also nominated for an Academy Award , three <a> Golden Globe Award </a> s , and two <a> BAFTA Awards </a> .
+
+#	NEW	occupation	........ / film	// <p> In 1940 , Jones had an uncredited bandleading part in the <a> Dead End Kids </a> film <em> Give Us Wings </em> , appearing on camera for about four seconds .
+
+#	NEW	occupation	........ / Actress	// <p> In the 1990s , she had triumphs with roles at the <a> Almeida Theatre </a> in <a> Islington </a> , including <em> <a> Medea </a> </em> in 1993 ( for which she received the Best Actress Tony Award ) , <em> <a> Mother Courage </a> </em> in 1995 and <em> <a> Who ' s Afraid of Virginia Woolf ? </a> </em> in 1996 .
+
+#	NEW	occupation	........ / studio	// On another occasion , he boycotted the <a> Academy Awards </a> for what he claimed was preferential treatment for the <a> Walt Disney </a> and <a> MGM cartoon studio </a> s .
+
+83	TRUE	Malcolm McDowell::occupation	actor / Actor )	
+He won great acclaim ( nominated for a <a> Golden Globe </a> and an award by the <a> New York Film Critics Circle </a> in the category of Best Actor ) for his role as <a> Alex </a> , a young <a> sociopath </a> <a> brainwashed </a> by an <a> authoritarian </a> <a> British government </a> . </p>
+
+#	NEW	occupation	........ / actor	// <p> <strong> Roger Delgado </strong> ( 1 March 1918 &ndash ; 18 June 1973 ) was an <a> English </a> <a> actor </a> , best known for his role as <a> the first Master </a> in <em> <a> Doctor Who </a> </em> . </p>
+
+#	NEW	occupation	........ / Awards	// She is one of the most critically-acclaimed <a> Broadway </a> performers , having received nominations for seven <a> Tony Awards </a> , winning two , and eight <a> Drama Desk Awards </a> , winning three .
+
+#	NEW	occupation	........ / actor	// <p> <strong> Peter Davison </strong> ( born <strong> Peter Moffett </strong> on 13 April 1951 ) is a British actor , best known for his roles as Tristan Farnon in the television version of <a> James Herriot </a> ' s <em> <a> All Creatures Great and Small </a> </em> and the <a> fifth incarnation </a> of <a> the Doctor </a> in <em> <a> Doctor Who </a> </em> , which he played from 1982 to 1984 . </p>
+
+#	NEW	occupation	........ / 1984	// He was awarded an OBE in 1984 and greatly enjoyed oil painting .
+
+#	NEW	occupation	........ / Best	// <em> Elvis : By Those Who Knew Him Best </em> .
+
+#	NEW	occupation	........ / <em>	// He then went on to direct several quintessential ' swinging ' films , including the sex comedy <em> <a> The Knack &#x2026 ; and How to Get It </a> </em> , which won the <a> Palme d ' Or </a> at the <a> Cannes Film Festival </a> and <em> <a> Petulia </a> </em> ( both with scores by <a> John Barry </a> ) , as well as the darkly surreal anti-war movie <em> <a> How I Won the War </a> </em> co-starring <a> John Lennon </a> , which he referred to as an &quot ; anti-anti-war movie&quot ; ; Lester noted that anti-war movies still took the concept of war seriously , contrasting &quot ; bad&quot ; <a> war crime </a> s with wars fought for &quot ; good&quot ; causes like the liberation from <a> Nazism </a> or , at that time , <a> Communism </a> , whereas he set out to <a> deconstruct </a> it to show war as <em> fundamentally </em> opposed to humanity .
+
+#	NEW	occupation	........ / the	// <p> He received many awards , including the 1990 Benedictine After Dinner Speaker of the Year .
+
+91	FALSE	Klaus Kinski::occupation	actor / of	
+With <em> My Best Fiend </em> , in which the director also showed lighter and humorous aspects of Kinski ' s personality , this changed somewhat .
+
+#	NEW	occupation	........ / film	// Clark is scheduled to direct the film adaption of <a> Richelle Mead </a> ' s novel <em> <a> Vampire Academy </a> </em> . </p>
+
+#	NEW	occupation	........ / actor	// <p> <strong> Morey Amsterdam </strong> ( December 14 , 1908 &ndash ; October 28 , 1996 ) was an American television actor and comedian , best known for the role of Buddy Sorrell on <em> <a> The Dick Van Dyke Show </a> </em> in the early 1960s . </p>
+
+#	NEW	occupation	........ / his	// <p> He was nominated for a <a> Tony Award </a> for <em> <a> Jesus Christ Superstar </a> </em> in 1972 and won a <a> Tony </a> for his appearance in <em> <a> Pippin </a> </em> in 1973 .
+
+#	NEW	occupation	........ / Actor	// Oldman ' s performance is regarded by many as a staple of the horror genre , and was recognised by the <a> Academy of Science Fiction , Fantasy &amp ; Horror Films </a> as the best male performance of 1992 , who awarded Oldman the prestigious <a> Best Actor </a> award .
 
 #	null	occupation	actor / ..........
 

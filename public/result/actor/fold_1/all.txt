@@ -1,399 +1,1347 @@
 Total articles: 312
-Articles for test: 281
-Articles for train: 31
+Articles for test: 208
+Articles for train: 104
 Total attributes: 64
 Attributes with high occurrences: 11/64
 
 ------------
-Found: 170
-Found Not Null: 32
-Correct: 30
-Wrong: 2
-Total: 38
-precision: 0.9375
-recall: 0.7894736842105263
+Found: 566
+Found Not Null: 172
+Correct: 93
+Wrong: 79
+Total: 186
+precision: 0.5406976744186046
+recall: 0.5
 
 
 
-#	NEW	caption	........ / Clifton	// <p> <strong> Clifton James </strong> ( born May 29 , 1921 ) is an <a> American </a> <a> actor </a> .
+#	NEW	birth_date	........ / 18 , 1902 &	// <p> <strong> Miriam Hopkins </strong> ( October 18 , 1902 &ndash ; October 9 , 1972 ) was an American actress known for her versatility in a wide variety of roles . </p>
 
-#	NEW	birth_name	........ / is an <a> American	// <p> <strong> Clifton James </strong> ( born May 29 , 1921 ) is an <a> American </a> <a> actor </a> .
+1	TRUE	Miriam Hopkins::occupation	actress / Actress	
+Hopkins also had great success during the remainder of the decade with the romantic screwball comedy <em> <a> The Richest Girl in the World </a> </em> ( 1934 ) , the historical drama <em> <a> Becky Sharp </a> </em> ( 1935 ) , for which she was nominated for the <a> Academy Award for Best Actress </a> , <em> <a> Barbary Coast </a> </em> ( 1935 ) , <em> <a> These Three </a> </em> ( 1936 ) ( the first of four films with director <a> William Wyler </a> ) and <em> <a> The Old Maid </a> </em> ( 1939 ) .
 
-#	NEW	birth_date	........ / <strong>	// <p> <strong> Clifton James </strong> ( born May 29 , 1921 ) is an <a> American </a> <a> actor </a> .
+#	NEW	death_date	........ / 18 , 1902 &	// <p> <strong> Miriam Hopkins </strong> ( October 18 , 1902 &ndash ; October 9 , 1972 ) was an American actress known for her versatility in a wide variety of roles . </p>
 
-#	NEW	occupation	........ / actor	// <p> <strong> Clifton James </strong> ( born May 29 , 1921 ) is an <a> American </a> <a> actor </a> .
+3	FALSE	Miriam Hopkins::birth_name	ellen miriam hopkins / an American actress known for her versatility in a wide variety of roles.	
+<p> <strong> Miriam Hopkins </strong> ( October 18 , 1902 &ndash ; October 9 , 1972 ) was an American actress known for her versatility in a wide variety of roles . </p>
 
-#	NEW	death_date	........ / actor	// <p> <strong> Clifton James </strong> ( born May 29 , 1921 ) is an <a> American </a> <a> actor </a> .
+#	NEW	spouse	........ / B . Brock .	// <p> Hopkins was married and divorced four times : first to actor Brandon Peters , second to aviator Austin Parker , third to the director <a> Anatole Litvak </a> , and fourth to war correspondent Raymond B . Brock .
 
-5	TRUE	Clifton James::name	clifton james / Clifton James	
-<p> <strong> Clifton James </strong> ( born May 29 , 1921 ) is an <a> American </a> <a> actor </a> .
+5	TRUE	Miriam Hopkins::name	miriam hopkins / an American	
+<p> <strong> Miriam Hopkins </strong> ( October 18 , 1902 &ndash ; October 9 , 1972 ) was an American actress known for her versatility in a wide variety of roles . </p>
 
-#	NEW	name	........ / Grace Wells	// <p> <strong> Claudia Grace Wells </strong> ( born July 5 , 1966 ) is an Malaysian-born <a> American </a> actress . </p>
+#	NEW	death_place	........ / ,	// <p> Hopkins was married and divorced four times : first to actor Brandon Peters , second to aviator Austin Parker , third to the director <a> Anatole Litvak </a> , and fourth to war correspondent Raymond B . Brock .
 
-#	NEW	caption	........ / Claudia	// <p> <strong> Claudia Grace Wells </strong> ( born July 5 , 1966 ) is an Malaysian-born <a> American </a> actress . </p>
+#	NEW	birth_date	........ / in	// She works as a <a> psychotherapist </a> in London , a registrant of the <a> BPC </a> .
 
-#	NEW	birth_name	........ / Claudia Grace Wells	// <p> <strong> Claudia Grace Wells </strong> ( born July 5 , 1966 ) is an Malaysian-born <a> American </a> actress . </p>
+#	NEW	occupation	........ / received	// She also starred in the lead role of a drama called ' The Story of Ruth ' ( 1981 ) , in which she played the role of the schizophrenic daughter of an abusive father , for which she received critical acclaim . </p>
 
-9	TRUE	Claudia Wells::occupation	actress / actress.	
-<p> <strong> Claudia Grace Wells </strong> ( born July 5 , 1966 ) is an Malaysian-born <a> American </a> actress . </p>
+#	NEW	death_date	........ / a> , where	// After performing in high school productions , Booth went on to study drama in <a> New York City </a> , where she worked as a waitress .
 
-#	NEW	death_date	........ / actress .	// <p> <strong> Claudia Grace Wells </strong> ( born July 5 , 1966 ) is an Malaysian-born <a> American </a> actress . </p>
+#	NEW	caption	........ / as a	// After performing in high school productions , Booth went on to study drama in <a> New York City </a> , where she worked as a waitress .
 
-11	TRUE	Trace Beaulieu::name	trace beaulieu / Trace Beaulieu	
-<p> <strong> Trace Beaulieu </strong> ( born November 6 , 1958 ) is an <a> American </a> puppeteer , writer , and actor .
+#	NEW	birth_name	........ / Constance & quot ; Connie&quot ; Booth	// <p> <strong> Constance &quot ; Connie&quot ; Booth </strong> ( born 31 January 1944 ) is an American writer and actress , known for appearances on British television and particularly for her portrayal of Polly Sherman in the popular 1970s television show <em> <a> Fawlty Towers </a> </em> , which she co-wrote with her then husband <a> John Cleese </a> . </p>
 
-#	NEW	caption	........ / Trace	// <p> <strong> Trace Beaulieu </strong> ( born November 6 , 1958 ) is an <a> American </a> puppeteer , writer , and actor .
+#	NEW	name	........ / John Cleese	// <p> <strong> Constance &quot ; Connie&quot ; Booth </strong> ( born 31 January 1944 ) is an American writer and actress , known for appearances on British television and particularly for her portrayal of Polly Sherman in the popular 1970s television show <em> <a> Fawlty Towers </a> </em> , which she co-wrote with her then husband <a> John Cleese </a> . </p>
 
-#	NEW	birth_name	........ / writer , and	// <p> <strong> Trace Beaulieu </strong> ( born November 6 , 1958 ) is an <a> American </a> puppeteer , writer , and actor .
+#	NEW	birth_date	........ / April 2008 .	// <p> Meaney starred in British comedy film <em> <a> Three and Out </a> </em> released in the UK on 25 April 2008 .
 
-#	NEW	birth_date	........ / <strong>	// <p> <strong> Trace Beaulieu </strong> ( born November 6 , 1958 ) is an <a> American </a> puppeteer , writer , and actor .
+14	FALSE	Colm Meaney::birth_name	colm j. meaney / the only actor to appear in all three film adaptations of <a> Roddy Doyle	
+<p> He was the only actor to appear in all three film adaptations of <a> Roddy Doyle </a> ' s <em> <a> The Barrytown Trilogy </a> </em> wherein he played the father of the Rabbitte family ; however due to rights issues the family name changed from film to film . </p>
 
-#	NEW	death_date	........ / puppeteer	// <p> <strong> Trace Beaulieu </strong> ( born November 6 , 1958 ) is an <a> American </a> puppeteer , writer , and actor .
+15	TRUE	Colm Meaney::occupation	actor / Actor	
+He guest-starred on shows such as <em> <a> Remington Steele </a> </em> and <em> <a> Moonlighting </a> </em> before embarking on a successful film career ; he received a <a> Golden Globe </a> nomination for Best Actor for his role in <em> <a> The Snapper </a> </em> . </p>
 
-#	NEW	occupation	........ / actor .	// <p> <strong> Trace Beaulieu </strong> ( born November 6 , 1958 ) is an <a> American </a> puppeteer , writer , and actor .
+#	NEW	spouse	........ / Ines Glorian .	// He married a second time in March 2007 to Ines Glorian .
 
-#	NEW	caption	........ / Samuel	// <p> <strong> Samuel Zachary Arkoff </strong> ( June 12 , 1918 &ndash ; September 16 , 2001 ) was an <a> American </a> <a> producer </a> of <a> B movie </a> s . </p>
+17	FALSE	Colm Meaney::name	colm meaney / Star Trek :	
+<p> <strong> Colm J . Meaney </strong> ( first name ; Irish : <em> Colm &#x00d3 ; Maonaigh </em> ; born 30 May 1953 ) is an <a> Irish </a> actor widely known for playing <a> Miles O ' Brien </a> in <em> <a> Star Trek : The Next Generation </a> </em> and <em> <a> Star Trek : Deep Space Nine </a> </em> .
 
-#	NEW	occupation	........ / s .	// <p> <strong> Samuel Zachary Arkoff </strong> ( June 12 , 1918 &ndash ; September 16 , 2001 ) was an <a> American </a> <a> producer </a> of <a> B movie </a> s . </p>
+#	NEW	birth_date	........ / 6 June 1959 )	// <p> <strong> Amanda Pays </strong> ( born 6 June 1959 ) is an <a> English </a> <a> actress </a> . </p>
 
-#	NEW	name	........ / B movie	// <p> <strong> Samuel Zachary Arkoff </strong> ( June 12 , 1918 &ndash ; September 16 , 2001 ) was an <a> American </a> <a> producer </a> of <a> B movie </a> s . </p>
+#	NEW	birth_name	........ / the daughter of Joan ( <a> n&#x00e9 ; e	// <p> Pays was born in <a> London </a> , <a> England </a> , the daughter of Joan ( <a> n&#x00e9 ; e </a> Miller ) , an actress , and Howard Reginald Pays , a talent agent and former actor .
 
-#	NEW	birth_name	........ / Samuel Zachary Arkoff	// <p> <strong> Samuel Zachary Arkoff </strong> ( June 12 , 1918 &ndash ; September 16 , 2001 ) was an <a> American </a> <a> producer </a> of <a> B movie </a> s . </p>
+20	FALSE	Amanda Pays::occupation	actress / 1989 '	
+She also appeared in the low-budget 1980s horror film <em> The Kindred </em> ( not to be confused with the 1990s vampire TV series ) and 1989 ' s <em> <a> Leviathan </a> </em> . </p>
 
-#	NEW	death_date	........ / September 16 , 2001 )	// <p> <strong> Samuel Zachary Arkoff </strong> ( June 12 , 1918 &ndash ; September 16 , 2001 ) was an <a> American </a> <a> producer </a> of <a> B movie </a> s . </p>
+#	NEW	spouse	........ / four sons .	// Pays married <a> American </a> actor <a> Corbin Bernsen </a> on 19 November 1988 , with whom she has four sons .
 
-#	NEW	birth_date	........ / Black	// <p> Black was born and raised in <a> Sydney </a> , <a> Australia </a> .
+22	TRUE	Amanda Pays::name	amanda pays / is an	
+<p> <strong> Amanda Pays </strong> ( born 6 June 1959 ) is an <a> English </a> <a> actress </a> . </p>
 
-#	NEW	name	........ / Age : Origins	// <p> <strong> Claudia Lee Black </strong> ( born 11 October 1972 ) is an Australian actress , known for her portrayals of <a> Aeryn Sun </a> in the <a> science fiction </a> <a> television series </a> <em> <a> Farscape </a> </em> , <a> Vala Mal Doran </a> in the science fiction series <em> <a> Stargate SG-1 </a> </em> , <a> Chloe Frazer </a> in <a> Uncharted 2 : Among Thieves </a> , and the witch Morrigan in <em> <a> Dragon Age : Origins </a> </em> . </p>
+#	NEW	death_date	........ / June 1959 )	// <p> <strong> Amanda Pays </strong> ( born 6 June 1959 ) is an <a> English </a> <a> actress </a> . </p>
 
-#	NEW	caption	........ / Claudia	// <p> <strong> Claudia Lee Black </strong> ( born 11 October 1972 ) is an Australian actress , known for her portrayals of <a> Aeryn Sun </a> in the <a> science fiction </a> <a> television series </a> <em> <a> Farscape </a> </em> , <a> Vala Mal Doran </a> in the science fiction series <em> <a> Stargate SG-1 </a> </em> , <a> Chloe Frazer </a> in <a> Uncharted 2 : Among Thieves </a> , and the witch Morrigan in <em> <a> Dragon Age : Origins </a> </em> . </p>
+#	NEW	caption	........ / ( born January	// <p> <strong> Matthew &quot ; Matt&quot ; Frewer </strong> ( born January 4 , 1958 ) is a <a> Canadian American </a> stage , TV , and film actor .
 
-#	NEW	birth_name	........ / Claudia Lee Black	// <p> <strong> Claudia Lee Black </strong> ( born 11 October 1972 ) is an Australian actress , known for her portrayals of <a> Aeryn Sun </a> in the <a> science fiction </a> <a> television series </a> <em> <a> Farscape </a> </em> , <a> Vala Mal Doran </a> in the science fiction series <em> <a> Stargate SG-1 </a> </em> , <a> Chloe Frazer </a> in <a> Uncharted 2 : Among Thieves </a> , and the witch Morrigan in <em> <a> Dragon Age : Origins </a> </em> . </p>
+#	NEW	birth_date	........ / 4 , 1958 )	// <p> <strong> Matthew &quot ; Matt&quot ; Frewer </strong> ( born January 4 , 1958 ) is a <a> Canadian American </a> stage , TV , and film actor .
 
-#	NEW	occupation	........ / ,	// <p> <strong> Claudia Lee Black </strong> ( born 11 October 1972 ) is an Australian actress , known for her portrayals of <a> Aeryn Sun </a> in the <a> science fiction </a> <a> television series </a> <em> <a> Farscape </a> </em> , <a> Vala Mal Doran </a> in the science fiction series <em> <a> Stargate SG-1 </a> </em> , <a> Chloe Frazer </a> in <a> Uncharted 2 : Among Thieves </a> , and the witch Morrigan in <em> <a> Dragon Age : Origins </a> </em> . </p>
+#	NEW	birth_place	........ / , TV , and film actor .	// <p> <strong> Matthew &quot ; Matt&quot ; Frewer </strong> ( born January 4 , 1958 ) is a <a> Canadian American </a> stage , TV , and film actor .
 
-#	NEW	birthdate	........ / a> .	// <p> Black is also a professional singer of <a> jazz </a> and <a> classical music </a> . ref
+#	NEW	birth_name	........ / Matthew & quot ; Matt&quot ; Frewer	// <p> <strong> Matthew &quot ; Matt&quot ; Frewer </strong> ( born January 4 , 1958 ) is a <a> Canadian American </a> stage , TV , and film actor .
 
-28	TRUE	Sherilyn Fenn::name	sherilyn fenn / Sherilyn Fenn	
-<p> <strong> Sherilyn Fenn </strong> ( born February 1 , 1965 ) is an American actress .
+28	FALSE	Matt Frewer::occupation	actor / Watchmen	
+Acting since 1983 , he is probably best known for portraying the 1980s icon <a> Max Headroom </a> and the retired villain Moloch in the movie adaptation of <em> <a> Watchmen </a> </em> . </p>
 
-#	NEW	caption	........ / Sherilyn	// <p> <strong> Sherilyn Fenn </strong> ( born February 1 , 1965 ) is an American actress .
+#	NEW	spouse	........ / film actor .	// <p> <strong> Matthew &quot ; Matt&quot ; Frewer </strong> ( born January 4 , 1958 ) is a <a> Canadian American </a> stage , TV , and film actor .
 
-#	NEW	birth_name	........ / is an American	// <p> <strong> Sherilyn Fenn </strong> ( born February 1 , 1965 ) is an American actress .
+#	NEW	name	........ / and film	// <p> <strong> Matthew &quot ; Matt&quot ; Frewer </strong> ( born January 4 , 1958 ) is a <a> Canadian American </a> stage , TV , and film actor .
 
-#	NEW	birth_place	........ / em> ( France ) .	// <em> <a> Studio </a> </em> ( France ) .
+#	NEW	death_date	........ / 4 , 1958 )	// <p> <strong> Matthew &quot ; Matt&quot ; Frewer </strong> ( born January 4 , 1958 ) is a <a> Canadian American </a> stage , TV , and film actor .
 
-#	NEW	occupation	........ / actress .	// <p> <strong> Sherilyn Fenn </strong> ( born February 1 , 1965 ) is an American actress .
+#	NEW	death_place	........ / , TV ,	// <p> <strong> Matthew &quot ; Matt&quot ; Frewer </strong> ( born January 4 , 1958 ) is a <a> Canadian American </a> stage , TV , and film actor .
 
-#	NEW	death_date	........ / February 1 , 1965 )	// <p> <strong> Sherilyn Fenn </strong> ( born February 1 , 1965 ) is an American actress .
+#	NEW	birth_date	........ / ( April 2 , 1908 &	// <p> <strong> Buddy Ebsen </strong> ( April 2 , 1908 &ndash ; July 6 , 2003 ) was an American <a> character actor </a> and dancer .
 
-#	NEW	birthdate	........ / Detroit	// <p> Fenn was born <strong> Sheryl Ann Fenn </strong> in <a> Detroit , Michigan </a> .
+34	FALSE	Buddy Ebsen::birth_name	christian rudolph ebsen, jr. / was an American	
+<p> <strong> Buddy Ebsen </strong> ( April 2 , 1908 &ndash ; July 6 , 2003 ) was an American <a> character actor </a> and dancer .
 
-35	FALSE	Barry Watson (actor)::name	barry watson / Michael Barrett &	
-<p> <strong> Michael Barrett &quot ; Barry&quot ; Watson </strong> ( born April 23 , 1974 ) is an <a> American </a> <a> actor </a> , known for his roles of <a> Dr .
+#	NEW	occupation	........ / West	// This was to be Vilma ' s only film &mdash ; a contract problem prevented her from making others and she soon retired from show business &mdash ; but Buddy appeared in numerous films , both musicals and non-musicals , including <em> <a> Born to Dance </a> </em> , <em> <a> Captain January </a> </em> ( in which he danced with <a> Shirley Temple </a> ) , <em> <a> Broadway Melody of 1938 </a> </em> ( with <a> Judy Garland </a> as his dance partner ) , and <em> <a> The Girl of the Golden West </a> </em> .
 
-#	NEW	caption	........ / Michael	// <p> <strong> Michael Barrett &quot ; Barry&quot ; Watson </strong> ( born April 23 , 1974 ) is an <a> American </a> <a> actor </a> , known for his roles of <a> Dr .
+#	NEW	spouse	........ / Nancy Wolcott .	// In 1944 , he met and married Nancy Wolcott .
 
-#	NEW	birth_date	........ / <strong>	// <p> <strong> Michael Barrett &quot ; Barry&quot ; Watson </strong> ( born April 23 , 1974 ) is an <a> American </a> <a> actor </a> , known for his roles of <a> Dr .
+37	TRUE	Buddy Ebsen::name	buddy ebsen / character actor	
+<p> <strong> Buddy Ebsen </strong> ( April 2 , 1908 &ndash ; July 6 , 2003 ) was an American <a> character actor </a> and dancer .
 
-38	TRUE	Barry Watson (actor)::occupation	actor / actor	
-<p> <strong> Michael Barrett &quot ; Barry&quot ; Watson </strong> ( born April 23 , 1974 ) is an <a> American </a> <a> actor </a> , known for his roles of <a> Dr .
+#	NEW	death_date	........ / 2 , 1908 &	// <p> <strong> Buddy Ebsen </strong> ( April 2 , 1908 &ndash ; July 6 , 2003 ) was an American <a> character actor </a> and dancer .
 
-#	NEW	death_date	........ / known	// <p> <strong> Michael Barrett &quot ; Barry&quot ; Watson </strong> ( born April 23 , 1974 ) is an <a> American </a> <a> actor </a> , known for his roles of <a> Dr .
+#	NEW	death_place	........ / , Christian Rudolph Ebsen , Sr . ,	// His father , Christian Rudolph Ebsen , Sr . , was <a> Danish </a> and his mother , Frances , was <a> Latvian </a> .
 
-#	NEW	birth_name	........ / Michael Barrett &quot ; Barry&quot ; Watson	// <p> <strong> Michael Barrett &quot ; Barry&quot ; Watson </strong> ( born April 23 , 1974 ) is an <a> American </a> <a> actor </a> , known for his roles of <a> Dr .
+#	NEW	birth_date	........ / 12 January 1910 )	// <p> <strong> Luise Rainer </strong> ( born 12 January 1910 ) is a German film actress .
 
-41	FALSE	John Wells (TV producer)::name	john wells / John Marcum	
-<p> <strong> John Marcum Wells </strong> ( born May 28 , 1956 ) is an American <a> theater </a> and <a> television producer </a> , <a> writer </a> and director .
+#	NEW	birth_name	........ / January 1910 ) is a German film	// <p> <strong> Luise Rainer </strong> ( born 12 January 1910 ) is a German film actress .
 
-#	NEW	caption	........ / John	// <p> <strong> John Marcum Wells </strong> ( born May 28 , 1956 ) is an American <a> theater </a> and <a> television producer </a> , <a> writer </a> and director .
+42	FALSE	Luise Rainer::occupation	actress / Award	
+Known as The &quot ; Viennese Teardrop&quot ; , she is the first woman to win two <a> Academy Award </a> s , and the first person to win them consecutively .
 
-#	NEW	birth_name	........ / John Marcum Wells	// <p> <strong> John Marcum Wells </strong> ( born May 28 , 1956 ) is an American <a> theater </a> and <a> television producer </a> , <a> writer </a> and director .
+43	TRUE	Luise Rainer::name	luise rainer / is a	
+<p> <strong> Luise Rainer </strong> ( born 12 January 1910 ) is a German film actress .
 
-#	NEW	birth_date	........ / ER	// <em> ER </em> marked the start of Wells longstanding collaboration with produce / director <a> Christopher Chulack </a> and music composer <a> Martin Davich </a> .
+#	NEW	imagesize	........ / </	// She also appeared onstage at the <a> National Theatre </a> , where she was interviewed by Sir <a> Christopher Frayling </a> .
 
-#	NEW	occupation	........ / director .	// <p> <strong> John Marcum Wells </strong> ( born May 28 , 1956 ) is an American <a> theater </a> and <a> television producer </a> , <a> writer </a> and director .
+#	NEW	birth_date	........ / 13 , 1904	// <p> <strong> Gladys George </strong> ( September 13 , 1904 in <a> Patten , Maine </a> to <a> English </a> parents . </p>
 
-#	NEW	death_date	........ / and	// <p> <strong> John Marcum Wells </strong> ( born May 28 , 1956 ) is an American <a> theater </a> and <a> television producer </a> , <a> writer </a> and director .
+#	NEW	birth_name	........ / George starred on	// <p> George starred on <a> stage </a> in the 1920s , although she had made several <a> film </a> s in the early part of that decade .
 
-47	TRUE	Jonathan Firth::name	jonathan firth / Jonathan Firth	
-<p> <strong> Jonathan Firth </strong> ( born 6 April 1967 ) is a <a> British </a> <a> actor </a> . </p>
+47	TRUE	Gladys George::occupation	actress / Actress	
+In 1936 she was nominated for an <a> Academy Award for Best Actress </a> for <em> <a> Valiant Is the Word for Carrie </a> </em> .
 
-#	NEW	caption	........ / Jonathan	// <p> <strong> Jonathan Firth </strong> ( born 6 April 1967 ) is a <a> British </a> <a> actor </a> . </p>
+48	TRUE	Gladys George::name	gladys george / Gladys George	
+<p> <strong> Gladys George </strong> ( September 13 , 1904 in <a> Patten , Maine </a> to <a> English </a> parents . </p>
 
-#	NEW	birth_name	........ / Jonathan Firth	// <p> <strong> Jonathan Firth </strong> ( born 6 April 1967 ) is a <a> British </a> <a> actor </a> . </p>
+#	NEW	death_date	........ / 13 , 1904	// <p> <strong> Gladys George </strong> ( September 13 , 1904 in <a> Patten , Maine </a> to <a> English </a> parents . </p>
 
-#	NEW	birth_date	........ / <strong>	// <p> <strong> Jonathan Firth </strong> ( born 6 April 1967 ) is a <a> British </a> <a> actor </a> . </p>
+#	NEW	death_place	........ / , Hollywood ,	// <p> She was buried in the Hollywood Forever Cemetery , Hollywood , California . </p>
 
-#	NEW	occupation	........ / actor	// <p> <strong> Jonathan Firth </strong> ( born 6 April 1967 ) is a <a> British </a> <a> actor </a> . </p>
+#	NEW	birth_date	........ / 7 , 1893&	// <p> <strong> Fay Okell Bainter </strong> ( December 7 , 1893&nbsp ; &#x2013 ; April 16 , 1968 ) was an American film and stage actress . </p>
 
-52	TRUE	Patsy Garrett::name	patsy garrett / nosey neighbor &	
-<p> <strong> Patsy Garrett </strong> ( born May 4 , 1921 ; <a> Atlantic City , New Jersey </a> ) is an actress best known for her recurring roles as nosey neighbor &quot ; Mrs .
+52	TRUE	Fay Bainter::birth_name	fay okell bainter / Fay Okell Bainter	
+<p> <strong> Fay Okell Bainter </strong> ( December 7 , 1893&nbsp ; &#x2013 ; April 16 , 1968 ) was an American film and stage actress . </p>
 
-#	NEW	caption	........ / Patsy	// <p> <strong> Patsy Garrett </strong> ( born May 4 , 1921 ; <a> Atlantic City , New Jersey </a> ) is an actress best known for her recurring roles as nosey neighbor &quot ; Mrs .
+53	TRUE	Fay Bainter::occupation	actress / Actress	
+<p> Bainter quickly achieved success , and in 1938 she became the first performer nominated for both the <a> Academy Award for Best Actress </a> , for <em> <a> White Banners </a> </em> ( 1937 ) , and the <a> Academy Award for Best Supporting Actress </a> for <em> <a> Jezebel </a> </em> ( 1938 ) , winning for the latter .
 
-#	NEW	birth_name	........ / Atlantic City , New Jersey	// <p> <strong> Patsy Garrett </strong> ( born May 4 , 1921 ; <a> Atlantic City , New Jersey </a> ) is an actress best known for her recurring roles as nosey neighbor &quot ; Mrs .
+54	FALSE	Fay Bainter::name	fay bainter / an American	
+<p> <strong> Fay Okell Bainter </strong> ( December 7 , 1893&nbsp ; &#x2013 ; April 16 , 1968 ) was an American film and stage actress . </p>
 
-55	TRUE	Patsy Garrett::occupation	actress / actress	
-<p> <strong> Patsy Garrett </strong> ( born May 4 , 1921 ; <a> Atlantic City , New Jersey </a> ) is an actress best known for her recurring roles as nosey neighbor &quot ; Mrs .
+#	NEW	death_date	........ / 7 , 1893&	// <p> <strong> Fay Okell Bainter </strong> ( December 7 , 1893&nbsp ; &#x2013 ; April 16 , 1968 ) was an American film and stage actress . </p>
 
-#	NEW	death_date	........ / Atlantic	// <p> <strong> Patsy Garrett </strong> ( born May 4 , 1921 ; <a> Atlantic City , New Jersey </a> ) is an actress best known for her recurring roles as nosey neighbor &quot ; Mrs .
+#	NEW	death_place	........ / , Reginald Venable ,	// As her husband , Reginald Venable , was a <a> military officer </a> , the couple are interred at <a> Arlington National Cemetery </a> .
 
-#	NEW	birth_date	........ / <strong>	// <p> <strong> Patsy Garrett </strong> ( born May 4 , 1921 ; <a> Atlantic City , New Jersey </a> ) is an actress best known for her recurring roles as nosey neighbor &quot ; Mrs .
+#	NEW	birth_place	........ / , Garland Brooke .	// <p> Sullavan was born in <a> Norfolk , Virginia </a> , the daughter of a wealthy <a> stockbroker </a> , Cornelius Sullavan and his wife , Garland Brooke .
 
-#	NEW	birthdate	........ / 1971 ) school secretary &quot ; Miss Hoggarth&quot ; on Room 222 ( 1970-1972 ) and as &quot ; Mary Gruber&quot ; in the <em> <a> Benji </a> </em> series of motion pictures beginning in 1974 .	// Fowler&quot ; on TV ' s <em> <a> Nanny and the Professor </a> </em> ( 1970-1971 ) , school secretary &quot ; Miss Hoggarth&quot ; on Room 222 ( 1970-1972 ) and as &quot ; Mary Gruber&quot ; in the <em> <a> Benji </a> </em> series of motion pictures beginning in 1974 . </p>
+58	TRUE	Margaret Sullavan::birth_name	margaret brooke sullavan / Margaret Brooke Sullavan	
+<p> <strong> Margaret Brooke Sullavan </strong> ( May 16 , 1909 <img> January 1 , 1960 ; studio publicity incorrectly reported her year of birth as 1911 ) was an American stage and film actress .
 
-59	TRUE	Cheryl Hines::name	cheryl hines / Larry David	
-<p> <strong> Cheryl Hines </strong> ( born September 21 , 1965 ) is an <a> America </a> n <a> actress </a> and <a> television director </a> , best known for her role as <a> Larry David </a> ' s wife Cheryl on <a> HBO </a> ' s <em> <a> Curb Your Enthusiasm </a> </em> .
+59	TRUE	Margaret Sullavan::occupation	actress / Actress	
+<p> Sullavan was nominated for an <a> Academy Award for Best Actress </a> for her performance in <em> <a> Three Comrades </a> </em> ( 1938 ) .
 
-#	NEW	caption	........ / Cheryl	// <p> <strong> Cheryl Hines </strong> ( born September 21 , 1965 ) is an <a> America </a> n <a> actress </a> and <a> television director </a> , best known for her role as <a> Larry David </a> ' s wife Cheryl on <a> HBO </a> ' s <em> <a> Curb Your Enthusiasm </a> </em> .
+60	FALSE	Margaret Sullavan::name	margaret sullavan / an American	
+<p> <strong> Margaret Brooke Sullavan </strong> ( May 16 , 1909 <img> January 1 , 1960 ; studio publicity incorrectly reported her year of birth as 1911 ) was an American stage and film actress .
 
-61	TRUE	Cheryl Hines::occupation	actress / actress	
-<p> <strong> Cheryl Hines </strong> ( born September 21 , 1965 ) is an <a> America </a> n <a> actress </a> and <a> television director </a> , best known for her role as <a> Larry David </a> ' s wife Cheryl on <a> HBO </a> ' s <em> <a> Curb Your Enthusiasm </a> </em> .
+#	NEW	birth_date	........ / ( May 16 , 1909	// <p> <strong> Margaret Brooke Sullavan </strong> ( May 16 , 1909 <img> January 1 , 1960 ; studio publicity incorrectly reported her year of birth as 1911 ) was an American stage and film actress .
 
-#	NEW	birthdate	........ / 8	// Their daughter , Catherine Rose , was born on March 8 , 2004 .
+62	TRUE	Martha Scott::birth_name	martha ellen scott / Martha Ellen Scott	
+<p> <strong> Martha Ellen Scott </strong> ( September 22 , 1912 &#x2013 ; May 28 , 2003 ) was an <a> American </a> actress best known for her roles as mother of the lead character in numerous films and television shows . </p>
 
-#	NEW	birth_name	........ / is an <a> America	// <p> <strong> Cheryl Hines </strong> ( born September 21 , 1965 ) is an <a> America </a> n <a> actress </a> and <a> television director </a> , best known for her role as <a> Larry David </a> ' s wife Cheryl on <a> HBO </a> ' s <em> <a> Curb Your Enthusiasm </a> </em> .
+#	NEW	occupation	........ / Actress	// Her film debut in <em> <a> Our Town </a> </em> in 1940 saw her receiving an <a> Academy Award </a> nomination for <a> Best Actress </a> for her critically acclaimed performance as Emily Webb .
 
-#	NEW	death_date	........ / September 21 , 1965 )	// <p> <strong> Cheryl Hines </strong> ( born September 21 , 1965 ) is an <a> America </a> n <a> actress </a> and <a> television director </a> , best known for her role as <a> Larry David </a> ' s wife Cheryl on <a> HBO </a> ' s <em> <a> Curb Your Enthusiasm </a> </em> .
+#	NEW	name	........ / lead character	// <p> <strong> Martha Ellen Scott </strong> ( September 22 , 1912 &#x2013 ; May 28 , 2003 ) was an <a> American </a> actress best known for her roles as mother of the lead character in numerous films and television shows . </p>
 
-65	TRUE	Mark Williams (actor)::name	mark williams / Mark Williams	
-<p> <strong> Mark Williams </strong> ( born 22 August 1959 ) is an <a> English </a> <a> actor </a> , <a> comedian </a> , <a> screenwriter </a> and presenter .
+#	NEW	death_place	........ / , Mel Powell ,	// <p> She died in 2003 at the age of 90 from natural causes and was interred next to her husband , Mel Powell , in the Masonic Cemetery in her native <a> Jamesport , Missouri </a> . </p>
 
-#	NEW	caption	........ / Mark	// <p> <strong> Mark Williams </strong> ( born 22 August 1959 ) is an <a> English </a> <a> actor </a> , <a> comedian </a> , <a> screenwriter </a> and presenter .
+#	NEW	caption	........ / of 86 .	// <p> She died of a <a> heart attack </a> at Yale-New Haven Hospital in <a> Connecticut </a> at the age of 86 . </p>
 
-#	NEW	birth_name	........ / Mark Williams	// <p> <strong> Mark Williams </strong> ( born 22 August 1959 ) is an <a> English </a> <a> actor </a> , <a> comedian </a> , <a> screenwriter </a> and presenter .
+#	NEW	birth_date	........ / 27 , 1918 &	// <p> <strong> Teresa Wright </strong> ( October 27 , 1918 &ndash ; March 6 , 2005 ) was an American actress . </p>
 
-#	NEW	birth_date	........ / Williams	// <p> Williams was born in <a> Bromsgrove </a> .
+68	FALSE	Teresa Wright::birth_name	muriel teresa wright / an American actress.	
+<p> <strong> Teresa Wright </strong> ( October 27 , 1918 &ndash ; March 6 , 2005 ) was an American actress . </p>
 
-#	NEW	occupation	........ / actor	// <p> <strong> Mark Williams </strong> ( born 22 August 1959 ) is an <a> English </a> <a> actor </a> , <a> comedian </a> , <a> screenwriter </a> and presenter .
+#	NEW	spouse	........ / two children .	// <p> Wright was married to writer <a> Niven Busch </a> from 1942 to 1952 ; they had two children .
 
-#	NEW	death_date	........ / and	// <p> <strong> Mark Williams </strong> ( born 22 August 1959 ) is an <a> English </a> <a> actor </a> , <a> comedian </a> , <a> screenwriter </a> and presenter .
+70	TRUE	Teresa Wright::name	teresa wright / an American	
+<p> <strong> Teresa Wright </strong> ( October 27 , 1918 &ndash ; March 6 , 2005 ) was an American actress . </p>
 
-71	TRUE	Bruce LaBruce::name	bruce labruce / director based	
-<p> <strong> Bruce LaBruce </strong> ( born January 3 , 1964 ) is a <a> Canadian </a> writer , <a> filmmaker </a> , <a> photographer </a> and underground <a> gay porn </a> director based in <a> Toronto </a> , <a> Canada </a> . </p>
+#	NEW	death_date	........ / 27 , 1918 &	// <p> <strong> Teresa Wright </strong> ( October 27 , 1918 &ndash ; March 6 , 2005 ) was an American actress . </p>
 
-#	NEW	caption	........ / LaBruce	// <p> LaBruce was born <strong> Bryan Bruce </strong> in <a> Tiverton , Ontario </a> and wrote for the <a> Robin Wood </a> ( his teacher ) curated <a> Cineaction </a> magazine .
+#	NEW	occupation	........ / Award	// She was nominated for <a> Emmy Award </a> s in 1957 for <em> The Miracle Worker </em> and in 1960 for <em> The <a> Margaret Bourke-White </a> Story </em> .
 
-#	NEW	birth_name	........ / Up With Dead People	// His movie , <em> Otto , or , Up With Dead People </em> debuted at the 2008 Sundance Film Festival .
+#	NEW	birth_date	........ / 17 , 1900 &#	// <p> <strong> Jean Arthur </strong> ( October 17 , 1900 &#x2013 ; June 19 , 1991 ) was an American actress and a major film star of the 1930s and 1940s .
 
-#	NEW	occupation	........ / director	// <p> <strong> Bruce LaBruce </strong> ( born January 3 , 1964 ) is a <a> Canadian </a> writer , <a> filmmaker </a> , <a> photographer </a> and underground <a> gay porn </a> director based in <a> Toronto </a> , <a> Canada </a> . </p>
+74	FALSE	Jean Arthur::birth_name	gladys georgianna greene / an American actress and a major film star of the	
+<p> <strong> Jean Arthur </strong> ( October 17 , 1900 &#x2013 ; June 19 , 1991 ) was an American actress and a major film star of the 1930s and 1940s .
 
-#	NEW	death_date	........ / a>	// <p> LaBruce was born <strong> Bryan Bruce </strong> in <a> Tiverton , Ontario </a> and wrote for the <a> Robin Wood </a> ( his teacher ) curated <a> Cineaction </a> magazine .
+75	TRUE	Jean Arthur::occupation	actress / Actress	
+<p> Arthur was nominated for an <a> Academy Award for Best Actress </a> in 1944 for her performance in <em> <a> The More the Merrier </a> </em> ( 1943 ) . </p>
 
-#	NEW	birthdate	........ / em>	// He first gained public attention with the publication of the <a> queer punk </a> <a> zine </a> <em> <a> J . D . s </a> </em> , which he co-edited with <a> G . B .
+#	NEW	spouse	........ / Jr . in	// She married producer Frank Ross , Jr . in 1932 .
 
-#	NEW	birth_date	........ / Bruce	// <p> Bruce LaBruce studied film at <a> York University </a> in Toronto , Canada . </p>
+77	FALSE	Jean Arthur::name	jean arthur / David O. Selznick	
+So strong was her box office appeal by 1939 that she was one of four finalists that year for the role of <a> Scarlett O ' Hara </a> in <em> <a> Gone with the Wind </a> </em> ; the film ' s producer , <a> David O . Selznick </a> , had briefly romanced Arthur in the late 1920s when they both were with <a> Paramount Pictures </a> . </p>
 
-78	TRUE	Laura La Plante::name	laura la plante / silent film	
-<p> <strong> Laura La Plante </strong> ( November 1 , 1904 - October 14 , 1996 ) was an <a> American </a> <a> actress </a> , best-known for her roles in <a> silent film </a> s . </p>
+#	NEW	death_date	........ / 17 , 1900 &#	// <p> <strong> Jean Arthur </strong> ( October 17 , 1900 &#x2013 ; June 19 , 1991 ) was an American actress and a major film star of the 1930s and 1940s .
 
-#	NEW	caption	........ / Laura	// <p> <strong> Laura La Plante </strong> ( November 1 , 1904 - October 14 , 1996 ) was an <a> American </a> <a> actress </a> , best-known for her roles in <a> silent film </a> s . </p>
+#	NEW	caption	........ / the Stone	// The director was jobless until <a> Michael Douglas </a> hired him in 1984 to film <em> <a> Romancing the Stone </a> </em> .
 
-#	NEW	birth_name	........ / Laura La Plante	// <p> <strong> Laura La Plante </strong> ( November 1 , 1904 - October 14 , 1996 ) was an <a> American </a> <a> actress </a> , best-known for her roles in <a> silent film </a> s . </p>
+#	NEW	birth_date	........ / May 14 , 1951 )	// <p> <strong> Robert Lee Zemeckis </strong> ( born May 14 , 1951 ) is an American <a> film director </a> , <a> producer </a> and <a> screenwriter </a> .
 
-#	NEW	occupation	........ / actress	// <p> <strong> Laura La Plante </strong> ( November 1 , 1904 - October 14 , 1996 ) was an <a> American </a> <a> actress </a> , best-known for her roles in <a> silent film </a> s . </p>
+81	TRUE	Robert Zemeckis::birth_name	robert lee zemeckis / Robert Lee Zemeckis	
+<p> <strong> Robert Lee Zemeckis </strong> ( born May 14 , 1951 ) is an American <a> film director </a> , <a> producer </a> and <a> screenwriter </a> .
 
-#	NEW	death_date	........ / best-	// <p> <strong> Laura La Plante </strong> ( November 1 , 1904 - October 14 , 1996 ) was an <a> American </a> <a> actress </a> , best-known for her roles in <a> silent film </a> s . </p>
+82	FALSE	Robert Zemeckis::name	robert zemeckis / film began	
+The film began production in February 2008 , and was released on November 6 , 2009 .
 
-#	NEW	caption	........ / Born	// <p> Born in San Francisco , <strong> Edith Dornfield </strong> was raised in an <a> orphanage </a> in <a> Denver , Colorado </a> .
+#	NEW	imagesize	........ / 6	// The film began production in February 2008 , and was released on November 6 , 2009 .
 
-#	NEW	birth_name	........ / nbsp ; &# x2013 ; October	// <p> <strong> Edith Massey </strong> ( May 28 , 1918&nbsp ; &#x2013 ; October 24 , 1984 ) was an <a> American </a> <a> actress </a> and <a> singer </a> .
+#	NEW	death_date	........ / 14 , 1951 )	// <p> <strong> Robert Lee Zemeckis </strong> ( born May 14 , 1951 ) is an American <a> film director </a> , <a> producer </a> and <a> screenwriter </a> .
 
-#	NEW	birth_place	........ / Los Angeles	// <p> She moved to <a> Los Angeles , California </a> in an attempt to start a career in show business .
+#	NEW	death_place	........ / , the	// <a> Peter S . Seaman </a> and <a> Jeffrey Price </a> , the writers of the first film are now working on a new script for the second one . </p>
 
-#	NEW	occupation	........ / actress	// <p> <strong> Edith Massey </strong> ( May 28 , 1918&nbsp ; &#x2013 ; October 24 , 1984 ) was an <a> American </a> <a> actress </a> and <a> singer </a> .
+#	NEW	occupation	........ / Director	// Zemeckis first came to public attention in the 1980s as the director of the comedic time-travel <a> <em> Back to the Future </em> </a> film series , as well as the <a> Academy Award </a> -winning <a> live-action </a> / <a> animation </a> epic <em> <a> Who Framed Roger Rabbit </a> </em> ( 1988 ) , though in the 1990s he diversified into more dramatic fare , including 1994 ' s <em> <a> Forrest Gump </a> </em> , for which he won an <a> Academy Award for Best Director </a> . </p>
 
-#	NEW	death_date	........ / singer	// <p> <strong> Edith Massey </strong> ( May 28 , 1918&nbsp ; &#x2013 ; October 24 , 1984 ) was an <a> American </a> <a> actress </a> and <a> singer </a> .
+#	NEW	birth_date	........ / 5 March 1939 )	// <p> <strong> Samantha Eggar </strong> ( born 5 March 1939 ) is an <a> English </a> actress . </p>
 
-88	TRUE	Gary Olsen::name	gary olsen / Gary Olsen	
-<p> <strong> Gary Olsen </strong> ( 3 November 1957&ndash ; 12 September 2000 ) was an <a> English </a> actor .
+88	FALSE	Samantha Eggar::birth_name	victoria louise samantha marie elizabeth therese eggar / March 1939 ) is an	
+<p> <strong> Samantha Eggar </strong> ( born 5 March 1939 ) is an <a> English </a> actress . </p>
 
-#	NEW	birth_name	........ / years later he appeared	// Two years later he appeared in <em> April in Paris </em> at the same theatre .
+89	TRUE	Samantha Eggar::occupation	actress / Actress	
+She received a nomination for the <a> Academy Award for Best Actress </a> for <em> <a> The Collector </a> </em> ( 1965 ) , directed by <a> William Wyler </a> .
 
-#	NEW	birth_date	........ / <strong>	// <p> <strong> Gary Olsen </strong> ( 3 November 1957&ndash ; 12 September 2000 ) was an <a> English </a> actor .
+90	TRUE	Samantha Eggar::name	samantha eggar / is an	
+<p> <strong> Samantha Eggar </strong> ( born 5 March 1939 ) is an <a> English </a> actress . </p>
 
-#	NEW	occupation	........ / actor .	// <p> <strong> Gary Olsen </strong> ( 3 November 1957&ndash ; 12 September 2000 ) was an <a> English </a> actor .
+#	NEW	caption	........ / the name	// <p> O ' Keefe started in films as an extra in the early 1930s and appeared in numerous films under the name <em> Bud Flanagan </em> .
 
-#	NEW	death_date	........ / September	// <p> <strong> Gary Olsen </strong> ( 3 November 1957&ndash ; 12 September 2000 ) was an <a> English </a> actor .
+#	NEW	birth_date	........ / ( 29 March 1908 &	// <p> <strong> Dennis O ' Keefe </strong> ( 29 March 1908 &ndash ; 31 August 1968 ) was an American actor .
 
-93	TRUE	Jean Vander Pyl::name	jean vander pyl / television and	
-<p> <strong> Jean Vander Pyl </strong> ( October 11 , 1919 &ndash ; April 10 , 1999 ) was an <a> American </a> actress on radio , television and movies .
+93	FALSE	Dennis O'Keefe::birth_name	edward vance flanagan / Dennis O ' Keefe	
+<p> <strong> Dennis O ' Keefe </strong> ( 29 March 1908 &ndash ; 31 August 1968 ) was an American actor .
 
-#	NEW	caption	........ / Jean	// <p> <strong> Jean Vander Pyl </strong> ( October 11 , 1919 &ndash ; April 10 , 1999 ) was an <a> American </a> actress on radio , television and movies .
+#	NEW	occupation	........ / actor	// He often played the tough guy in action and crime dramas but was also known as a comic actor as well as a dramatic lead .
 
-#	NEW	birth_name	........ / Jean Vander Pyl	// <p> <strong> Jean Vander Pyl </strong> ( October 11 , 1919 &ndash ; April 10 , 1999 ) was an <a> American </a> actress on radio , television and movies .
+#	NEW	name	........ / an American	// <p> <strong> Dennis O ' Keefe </strong> ( 29 March 1908 &ndash ; 31 August 1968 ) was an American actor .
 
-#	NEW	occupation	........ / actress	// <p> <strong> Jean Vander Pyl </strong> ( October 11 , 1919 &ndash ; April 10 , 1999 ) was an <a> American </a> actress on radio , television and movies .
+#	NEW	death_date	........ / 31 August 1968 )	// <p> <strong> Dennis O ' Keefe </strong> ( 29 March 1908 &ndash ; 31 August 1968 ) was an American actor .
 
-#	NEW	death_date	........ / April 10 , 1999 )	// <p> <strong> Jean Vander Pyl </strong> ( October 11 , 1919 &ndash ; April 10 , 1999 ) was an <a> American </a> actress on radio , television and movies .
+#	NEW	birth_name	........ / and <a> meditation	// <p> <strong> David Hykes </strong> ( born 2 March 1953 ) is a <a> composer </a> , <a> singer </a> , <a> musician </a> , <a> author </a> , and <a> meditation </a> teacher .
 
-#	NEW	caption	........ / Hermannus	// <p> <strong> Hermannus Jantinus &quot ; Herman&quot ; van Veen </strong> ( born 14 March 1945 ) is a <a> Dutch </a> stage performer , <a> actor </a> , <a> musician </a> and <a> singer </a> / <a> songwriter </a> and <a> author </a> .
+#	NEW	occupation	........ / University	// He received an M . F . A . from <a> Columbia University </a> in <a> New York </a> .
 
-#	NEW	birth_name	........ / Hermannus Jantinus &quot ; Herman&quot ; van Veen	// <p> <strong> Hermannus Jantinus &quot ; Herman&quot ; van Veen </strong> ( born 14 March 1945 ) is a <a> Dutch </a> stage performer , <a> actor </a> , <a> musician </a> and <a> singer </a> / <a> songwriter </a> and <a> author </a> .
+#	NEW	spouse	........ / more . & quot ;	// Of overtone singing and his own study of the form , music theorist Charles Madden writes , &quot ; David Hykes has done everything I had hoped to do , and more . &quot ;
 
-#	NEW	birth_date	........ / He	// <p> He also performed the voice overs for the character Professor Paljas ( ) in the Dutch version of Alfred J . Kwak . </p>
+100	TRUE	David Hykes::name	david hykes / teacher.	
+<p> <strong> David Hykes </strong> ( born 2 March 1953 ) is a <a> composer </a> , <a> singer </a> , <a> musician </a> , <a> author </a> , and <a> meditation </a> teacher .
 
-101	TRUE	Herman van Veen::occupation	actor / actor	
-<p> <strong> Hermannus Jantinus &quot ; Herman&quot ; van Veen </strong> ( born 14 March 1945 ) is a <a> Dutch </a> stage performer , <a> actor </a> , <a> musician </a> and <a> singer </a> / <a> songwriter </a> and <a> author </a> .
+#	NEW	imagesize	........ / 1985-	// Over the years he has received teachings from Tibetan Buddhist masters including Dhuksey Rinpoch&#x00e9 ; and His Holiness the Dalai Lama , as well as the <a> Gyuto </a> and Gyume Monks , whom he helped bring to the United States for the first time in 1985-86 . </p>
 
-#	NEW	death_date	........ / author	// <p> <strong> Hermannus Jantinus &quot ; Herman&quot ; van Veen </strong> ( born 14 March 1945 ) is a <a> Dutch </a> stage performer , <a> actor </a> , <a> musician </a> and <a> singer </a> / <a> songwriter </a> and <a> author </a> .
+102	TRUE	Beatrice Arthur::birth_name	bernice frankel / ish parents Philip and Rebecca Frankel	
+<p> Arthur was born <strong> Bernice Frankel </strong> to <a> Jew </a> ish parents Philip and Rebecca Frankel in <a> New York City </a> on May 13 , 1922 .
 
-103	TRUE	Gerda Nicolson::name	gerda nicolson / television roles.	
-<p> <strong> Gerda Nicolson </strong> , ( 11 November 1937 - 12 June 1992 ) was an <a> Australia </a> n theatre and television actor best known for several long-running television roles . </p>
+#	NEW	death_date	........ / 13 , 1922 &#	// <p> <strong> Beatrice </strong> &quot ; <strong> Bea </strong> &quot ; <strong> Arthur </strong> ( May 13 , 1922 &#x2013 ; April 25 , 2009 ) !
 
-#	NEW	caption	........ / Gerda	// <p> <strong> Gerda Nicolson </strong> , ( 11 November 1937 - 12 June 1992 ) was an <a> Australia </a> n theatre and television actor best known for several long-running television roles . </p>
+#	NEW	birth_date	........ / ( May 13 , 1922 &#	// <p> <strong> Beatrice </strong> &quot ; <strong> Bea </strong> &quot ; <strong> Arthur </strong> ( May 13 , 1922 &#x2013 ; April 25 , 2009 ) !
 
-#	NEW	birth_name	........ / Gerda Nicolson	// <p> <strong> Gerda Nicolson </strong> , ( 11 November 1937 - 12 June 1992 ) was an <a> Australia </a> n theatre and television actor best known for several long-running television roles . </p>
+#	NEW	birth_date	........ / 7 , 1928 )	// <p> <strong> Patricia &quot ; Pat&quot ; Hitchcock O ' Connell </strong> ( born July 7 , 1928 ) is a British-born American <a> actress </a> and <a> producer </a> . </p>
 
-#	NEW	occupation	........ / actor	// <p> <strong> Gerda Nicolson </strong> , ( 11 November 1937 - 12 June 1992 ) was an <a> Australia </a> n theatre and television actor best known for several long-running television roles . </p>
+#	NEW	name	........ / Hitchcock O ' Connell	// <p> <strong> Patricia &quot ; Pat&quot ; Hitchcock O ' Connell </strong> ( born July 7 , 1928 ) is a British-born American <a> actress </a> and <a> producer </a> . </p>
 
-#	NEW	death_date	........ / n	// <p> <strong> Gerda Nicolson </strong> , ( 11 November 1937 - 12 June 1992 ) was an <a> Australia </a> n theatre and television actor best known for several long-running television roles . </p>
+#	NEW	birth_name	........ / Patricia & quot ; Pat&quot ; Hitchcock O ' Connell	// <p> <strong> Patricia &quot ; Pat&quot ; Hitchcock O ' Connell </strong> ( born July 7 , 1928 ) is a British-born American <a> actress </a> and <a> producer </a> . </p>
 
-108	TRUE	Gerda Nicolson::birthdate	11 november 1937 / ( 11 November 1937 - 12 June 1992 ) was an <a> Australia </a> n theatre and television actor best known for several long-running television roles. </	
-<p> <strong> Gerda Nicolson </strong> , ( 11 November 1937 - 12 June 1992 ) was an <a> Australia </a> n theatre and television actor best known for several long-running television roles . </p>
+#	NEW	death_date	........ / 7 , 1928 )	// <p> <strong> Patricia &quot ; Pat&quot ; Hitchcock O ' Connell </strong> ( born July 7 , 1928 ) is a British-born American <a> actress </a> and <a> producer </a> . </p>
 
-#	NEW	birth_date	........ / <strong>	// <p> <strong> Gerda Nicolson </strong> , ( 11 November 1937 - 12 June 1992 ) was an <a> Australia </a> n theatre and television actor best known for several long-running television roles . </p>
+#	NEW	birth_name	........ / Samille Diane Friesen	// <p> <strong> Dyan Cannon </strong> ( born <strong> Samille Diane Friesen </strong> on January 4 , 1937 ) is an American film and television <a> actress </a> , <a> director </a> , <a> screenwriter </a> , <a> editor </a> , and <a> producer </a> . </p>
 
-110	TRUE	Ashley Force Hood::name	ashley force hood / John Force	
-<p> <strong> Ashley Force Hood </strong> ( born November 29 , 1982 ) is a <a> funny car </a> <a> drag racer </a> for <a> John Force Racing </a> .
+#	NEW	occupation	........ / Actress	// She received an <a> Academy Award </a> nomination for <a> Best Supporting Actress </a> for her performance in the film , as well as two <a> Golden Globe </a> nominations .
 
-111	TRUE	Ashley Force Hood::caption	ashley force / Ashley	
-<p> <strong> Ashley Force Hood </strong> ( born November 29 , 1982 ) is a <a> funny car </a> <a> drag racer </a> for <a> John Force Racing </a> .
+#	NEW	spouse	........ / Fimberg in	// Cannon married producer Stanley Fimberg in 1985 .
 
-#	NEW	death_date	........ / John	// <p> <strong> Ashley Force Hood </strong> ( born November 29 , 1982 ) is a <a> funny car </a> <a> drag racer </a> for <a> John Force Racing </a> .
+#	NEW	birth_date	........ / 31 January 1970 )	// <p> <strong> Minnie Driver </strong> ( born <strong> Amelia Fiona J . Driver </strong> ; 31 January 1970 ) is a British actress and singer-songwriter .
 
-#	NEW	birthdate	........ / Laurie	// She is the daughter of 15-time <a> NHRA </a> <a> Funny Car </a> national champion <a> John Force </a> and his wife Laurie Force .
+113	TRUE	Minnie Driver::birth_name	amelia fiona j. driver / Amelia Fiona J. Driver	
+<p> <strong> Minnie Driver </strong> ( born <strong> Amelia Fiona J . Driver </strong> ; 31 January 1970 ) is a British actress and singer-songwriter .
 
-#	NEW	birth_name	........ / Force earned her first ever NHRA professional win , defeating her father in the final round , and becoming the first woman to earn a win in the Funny Car class at the NHRA Summit Southern Nationals held at the Atlanta Dragway in Commerce , Georgia .	// On April 27 , 2008 , Force earned her first ever NHRA professional win , defeating her father in the final round , and becoming the first woman to earn a win in the Funny Car class at the NHRA Summit Southern Nationals held at the Atlanta Dragway in Commerce , Georgia . </p>
+#	NEW	occupation	........ / Actress	// She was nominated for an <a> Academy Award for Best Supporting Actress </a> for her performance in the 1997 film <em> <a> Good Will Hunting </a> </em> , as well as for an <a> Emmy Award </a> and a <a> Golden Globe </a> for her work in the television series <em> <a> The Riches </a> </em> . </p>
 
-#	NEW	name	........ / Johnson Jerald	// <p> <strong> Penny Johnson Jerald </strong> ( born March 14 , 1961 ) is an American actress .
+115	TRUE	Minnie Driver::name	minnie driver / is a	
+<p> <strong> Minnie Driver </strong> ( born <strong> Amelia Fiona J . Driver </strong> ; 31 January 1970 ) is a British actress and singer-songwriter .
 
-#	NEW	caption	........ / Penny	// <p> <strong> Penny Johnson Jerald </strong> ( born March 14 , 1961 ) is an American actress .
+#	NEW	caption	........ / The River	// Driver wrote 10 of the 11 songs on the album and also covered &quot ; <a> Hungry Heart </a> &quot ; from <a> Bruce Springsteen </a> ' s <em> <a> The River </a> </em> .
 
-#	NEW	birth_name	........ / Penny Johnson Jerald	// <p> <strong> Penny Johnson Jerald </strong> ( born March 14 , 1961 ) is an American actress .
+#	NEW	death_date	........ / 31 January 1970 )	// <p> <strong> Minnie Driver </strong> ( born <strong> Amelia Fiona J . Driver </strong> ; 31 January 1970 ) is a British actress and singer-songwriter .
 
-#	NEW	birth_date	........ / <strong>	// <p> <strong> Penny Johnson Jerald </strong> ( born March 14 , 1961 ) is an American actress .
+#	NEW	birth_date	........ / 4 , 1914 & 8 ,	// <p> <strong> Ward Walrath Kimball </strong> ( March 4 , 1914 &ndash ; July 8 , 2002 ) was an <a> animator </a> for the <a> Walt Disney Studios </a> .
 
-119	TRUE	Penny Johnson Jerald::occupation	actress / actress.	
-<p> <strong> Penny Johnson Jerald </strong> ( born March 14 , 1961 ) is an American actress .
+119	FALSE	Ward Kimball::birth_name	ward walrath kimball / Note : At the time theese films were produced it was common for one animator to amiate every single character	
+<p> Note : At the time theese films were produced it was common for one animator to amiate every single character in the shot . </p>
 
-#	NEW	death_date	........ / March 14 , 1961 )	// <p> <strong> Penny Johnson Jerald </strong> ( born March 14 , 1961 ) is an American actress .
+#	NEW	occupation	........ / Bird	// He received an <a> Academy Award </a> for the short <a> animated cartoon </a> <em> <a> It ' s Tough to Be a Bird </a> </em> .
 
-#	NEW	birthdate	........ / 14	// <p> <strong> Penny Johnson Jerald </strong> ( born March 14 , 1961 ) is an American actress .
+#	NEW	spouse	........ / publicity tours .	// He continued to do various projects on his own , even returning to Disney to do some publicity tours .
 
-122	TRUE	Ben Lyon::name	ben lyon / Century Fox	
-<p> <strong> Ben Lyon </strong> ( February 6 , 1901 &#x2013 ; March 22 , 1979 ) was an American <a> film </a> <a> actor </a> and a <a> 20th Century Fox </a> studio executive . </p>
+122	FALSE	Ward Kimball::name	ward kimball / his original	
+A full-sized <a> steam locomotive </a> , - which Kimball ran on his private backyard railroad known as &quot ; <a> Grizzly Flats Railroad </a> &quot ; in <a> San Gabriel , California </a> - bears some of his original artwork on the headlamp and cab , and is on permanent display at the museum . </p>
 
-#	NEW	birth_name	........ / was an American 20th Century	// <p> <strong> Ben Lyon </strong> ( February 6 , 1901 &#x2013 ; March 22 , 1979 ) was an American <a> film </a> <a> actor </a> and a <a> 20th Century Fox </a> studio executive . </p>
+#	NEW	death_date	........ / 4 , 1914 &	// <p> <strong> Ward Walrath Kimball </strong> ( March 4 , 1914 &ndash ; July 8 , 2002 ) was an <a> animator </a> for the <a> Walt Disney Studios </a> .
 
-#	NEW	birth_date	........ / His	// <p> His greatest success as an actor came in 1930 with the film <em> <a> Hell ' s Angels </a> </em> .
+#	NEW	occupation	........ / Actor	// <p> He was nominated Best Actor by European Film Academy for his role as Rodolfo in <em> La Vie de Boheme </em> and won the <a> Felix </a> at the European Film Awards in 1992 .
 
-#	NEW	occupation	........ / actor	// <p> <strong> Ben Lyon </strong> ( February 6 , 1901 &#x2013 ; March 22 , 1979 ) was an American <a> film </a> <a> actor </a> and a <a> 20th Century Fox </a> studio executive . </p>
+#	NEW	spouse	........ / acting work .	// <p> His private life melded seamlessly with his acting work .
 
-#	NEW	death_date	........ / studio	// <p> <strong> Ben Lyon </strong> ( February 6 , 1901 &#x2013 ; March 22 , 1979 ) was an American <a> film </a> <a> actor </a> and a <a> 20th Century Fox </a> studio executive . </p>
+#	NEW	name	........ / his acting	// <p> His private life melded seamlessly with his acting work .
 
-127	TRUE	Barbara La Marr::name	barbara la marr / American stage	
-<p> <strong> Barbara La Marr </strong> ( July 28 , 1896 &ndash ; January 30 , 1926 ) was an American stage and film actress , cabaret artist and <a> screenwriter </a> . </p>
+#	NEW	birth_name	........ / He was nominated Best Actor by European Film Academy for his role as Rodolfo in <em> La Vie de Boheme	// <p> He was nominated Best Actor by European Film Academy for his role as Rodolfo in <em> La Vie de Boheme </em> and won the <a> Felix </a> at the European Film Awards in 1992 .
 
-#	NEW	birth_name	........ / Barbara La Marr	// <p> <strong> Barbara La Marr </strong> ( July 28 , 1896 &ndash ; January 30 , 1926 ) was an American stage and film actress , cabaret artist and <a> screenwriter </a> . </p>
+#	NEW	imagesize	........ / 1977 .	// He performed as an actor during the 70s in many amateur theatres , at the same time that he studied at the Finnish Theatre Academy , where he completed his studies in the year 1977 . </p>
 
-#	NEW	birth_date	........ / <strong>	// <p> <strong> Barbara La Marr </strong> ( July 28 , 1896 &ndash ; January 30 , 1926 ) was an American stage and film actress , cabaret artist and <a> screenwriter </a> . </p>
+#	NEW	birth_date	........ / 2002	// <p> At the <a> 2002 Cannes Film Festival </a> , Outinen won the award for <a> Best Actress </a> for the Kaurism&#x00e4 ; ki film <em> <a> The Man Without a Past </a> </em> . </p>
 
-#	NEW	occupation	........ / actress	// <p> <strong> Barbara La Marr </strong> ( July 28 , 1896 &ndash ; January 30 , 1926 ) was an American stage and film actress , cabaret artist and <a> screenwriter </a> . </p>
+130	TRUE	Kati Outinen::birth_name	anna katriina outinen / Anna Katriina Outinen	
+<p> <strong> Anna Katriina Outinen </strong> ( born August 17 , 1961 ) , is a <a> Finnish </a> actress who has often played leading female roles in <a> Aki Kaurism&#x00e4 ; ki </a> ' s films . </p>
 
-#	NEW	death_date	........ / January 30 , 1926 )	// <p> <strong> Barbara La Marr </strong> ( July 28 , 1896 &ndash ; January 30 , 1926 ) was an American stage and film actress , cabaret artist and <a> screenwriter </a> . </p>
+#	NEW	occupation	........ / Actress	// <p> At the <a> 2002 Cannes Film Festival </a> , Outinen won the award for <a> Best Actress </a> for the Kaurism&#x00e4 ; ki film <em> <a> The Man Without a Past </a> </em> . </p>
 
-132	TRUE	Frank Silva::name	frank silva / Twin Peaks	
-<p> ! Commented out because image was deleted : <strong> Frank Silva </strong> ( 31 October 1949-13 September 1995 ) was a <a> Native American </a> <a> set dresser </a> and sometime actor best known for his disturbing performance as the evil spirit <a> Killer BOB </a> in the TV series <em> <a> Twin Peaks </a> </em> . </p>
+#	NEW	spouse	........ / in Helsinki .	// <p> Outinen was born in Helsinki .
 
-#	NEW	birth_name	........ / Commented out because image	// <p> ! Commented out because image was deleted : <strong> Frank Silva </strong> ( 31 October 1949-13 September 1995 ) was a <a> Native American </a> <a> set dresser </a> and sometime actor best known for his disturbing performance as the evil spirit <a> Killer BOB </a> in the TV series <em> <a> Twin Peaks </a> </em> . </p>
+#	NEW	name	........ / actress who	// <p> <strong> Anna Katriina Outinen </strong> ( born August 17 , 1961 ) , is a <a> Finnish </a> actress who has often played leading female roles in <a> Aki Kaurism&#x00e4 ; ki </a> ' s films . </p>
 
-#	NEW	birth_date	........ / Silva	// <p> Silva appears in the <a> Anthrax </a> video &quot ; Only . &quot ;
+#	NEW	death_date	........ / 17 , 1961 )	// <p> <strong> Anna Katriina Outinen </strong> ( born August 17 , 1961 ) , is a <a> Finnish </a> actress who has often played leading female roles in <a> Aki Kaurism&#x00e4 ; ki </a> ' s films . </p>
 
-#	NEW	name	........ / Phalke Award	// <p> Dr . <strong> Daggubati Ramanaidu </strong> ( ) ( born 6 June 1936 ) is an <a> India </a> n <a> movie </a> <a> producer </a> and the <a> Dadasaheb Phalke Award </a> winner for the year 2009 .
+#	NEW	death_place	........ / , 1961 ) ,	// <p> <strong> Anna Katriina Outinen </strong> ( born August 17 , 1961 ) , is a <a> Finnish </a> actress who has often played leading female roles in <a> Aki Kaurism&#x00e4 ; ki </a> ' s films . </p>
 
-#	NEW	caption	........ / Daggubati	// <p> Dr . <strong> Daggubati Ramanaidu </strong> ( ) ( born 6 June 1936 ) is an <a> India </a> n <a> movie </a> <a> producer </a> and the <a> Dadasaheb Phalke Award </a> winner for the year 2009 .
+#	NEW	caption	........ / born 4	// <p> <strong> Aki Olavi Kaurism&#x00e4 ; ki </strong> ( ; born 4 April 1957 , <a> Orimattila </a> , <a> Finland </a> ) is a Finnish script writer and <a> film director </a> . </p>
 
-#	NEW	birth_name	........ / June 1936 ) is an	// <p> Dr . <strong> Daggubati Ramanaidu </strong> ( ) ( born 6 June 1936 ) is an <a> India </a> n <a> movie </a> <a> producer </a> and the <a> Dadasaheb Phalke Award </a> winner for the year 2009 .
+#	NEW	birth_date	........ / April 1957 ,	// <p> <strong> Aki Olavi Kaurism&#x00e4 ; ki </strong> ( ; born 4 April 1957 , <a> Orimattila </a> , <a> Finland </a> ) is a Finnish script writer and <a> film director </a> . </p>
 
-#	NEW	death_date	........ / winner	// <p> Dr . <strong> Daggubati Ramanaidu </strong> ( ) ( born 6 June 1936 ) is an <a> India </a> n <a> movie </a> <a> producer </a> and the <a> Dadasaheb Phalke Award </a> winner for the year 2009 .
+#	NEW	birth_name	........ / Aki Olavi Kaurism&#x00e4 ; ki	// <p> <strong> Aki Olavi Kaurism&#x00e4 ; ki </strong> ( ; born 4 April 1957 , <a> Orimattila </a> , <a> Finland </a> ) is a Finnish script writer and <a> film director </a> . </p>
 
-#	NEW	name	........ / Christopher Boyd	// <p> <strong> Christopher Boyd Lemmon </strong> ( born January 22 , 1954 ) is an American <a> actor </a> and <a> author </a> . </p>
+#	NEW	occupation	........ / Film	// It won the <a> Grand Prix </a> and the <a> Prize of the Ecumenical Jury </a> at the <a> 2002 Cannes Film Festival </a> and was nominated for an <a> Academy Award </a> in the <a> Best Foreign Language Film </a> category in 2003 .
 
-#	NEW	caption	........ / Christopher	// <p> <strong> Christopher Boyd Lemmon </strong> ( born January 22 , 1954 ) is an American <a> actor </a> and <a> author </a> . </p>
+#	NEW	name	........ / film director	// <p> <strong> Aki Olavi Kaurism&#x00e4 ; ki </strong> ( ; born 4 April 1957 , <a> Orimattila </a> , <a> Finland </a> ) is a Finnish script writer and <a> film director </a> . </p>
 
-#	NEW	birth_name	........ / Christopher Boyd Lemmon	// <p> <strong> Christopher Boyd Lemmon </strong> ( born January 22 , 1954 ) is an American <a> actor </a> and <a> author </a> . </p>
+#	NEW	spouse	........ / of war .	// However , Kaurism&#x00e4 ; ki refused to attend the gala , noting that he didn ' t particularly feel like partying in a nation that is currently in a state of war .
 
-#	NEW	occupation	........ / actor	// <p> <strong> Christopher Boyd Lemmon </strong> ( born January 22 , 1954 ) is an American <a> actor </a> and <a> author </a> . </p>
+#	NEW	caption	........ / a major	// His performance in this film made him a major star .
 
-#	NEW	birth_place	........ / Los Angeles	// <p> Lemmon was born in <a> Los Angeles </a> , <a> California </a> , the son of actress <a> Cynthia Stone </a> and actor <a> Jack Lemmon </a> .
+#	NEW	birth_date	........ / 10 , 1899 &	// <p> <strong> John Gilbert </strong> ( July 10 , 1899 &ndash ; January 9 , 1936 ) was an American actor and a major star of the <a> silent film </a> era . </p>
 
-#	NEW	name	........ / Christopher Bradley &	// <p> <strong> Christopher Bradley &quot ; Chris&quot ; Owens </strong> ( born 7 September 1961 ) is a <a> Canadian </a> <a> actor </a> . </p>
+144	FALSE	John Gilbert (actor)::birth_name	john cecil pringle / an American actor and a major star of the	
+<p> <strong> John Gilbert </strong> ( July 10 , 1899 &ndash ; January 9 , 1936 ) was an American actor and a major star of the <a> silent film </a> era . </p>
 
-#	NEW	birth_name	........ / He has been nominated for numerous awards including a	// <p> He has been nominated for numerous awards including a <a> Genie Award for Best Performance by an Actor in a Leading Role </a> for <em> <a> The Uncles </a> </em> . </p>
+145	FALSE	John Gilbert (actor)::occupation	actor, director, writer / actress	
+<p> Gilbert was married four times ( including once to film and stage actress <a> Ina Claire </a> ) , and had two daughters .
 
-#	NEW	birth_date	........ / <strong>	// <p> <strong> Christopher Bradley &quot ; Chris&quot ; Owens </strong> ( born 7 September 1961 ) is a <a> Canadian </a> <a> actor </a> . </p>
+#	NEW	spouse	........ / a> in	// <p> Gilbert married the successful film actress <a> Leatrice Joy </a> in 1922 .
 
-#	NEW	occupation	........ / actor	// <p> <strong> Christopher Bradley &quot ; Chris&quot ; Owens </strong> ( born 7 September 1961 ) is a <a> Canadian </a> <a> actor </a> . </p>
+147	FALSE	John Gilbert (actor)::name	john gilbert / wrote an	
+His daughter Leatrice Gilbert Fountain ( from his marriage to silent film actress <a> Leatrice Joy </a> ) , wrote an acclaimed biography of her father ' s life published in 1985 , and continues as a source of information on his life and career . </p>
 
-148	TRUE	John Ingle::name	john ingle / General Hospital	
-<p> <strong> John Ingle </strong> ( born May 7 , 1928 ) is an American <a> actor </a> known for his role as scheming patriarch <a> Edward Quartermaine </a> on the <a> ABC </a> daytime drama , <em> <a> General Hospital </a> </em> . </p>
+#	NEW	death_date	........ / 10 , 1899 &	// <p> <strong> John Gilbert </strong> ( July 10 , 1899 &ndash ; January 9 , 1936 ) was an American actor and a major star of the <a> silent film </a> era . </p>
 
-#	NEW	caption	........ / John	// <p> <strong> John Ingle </strong> ( born May 7 , 1928 ) is an American <a> actor </a> known for his role as scheming patriarch <a> Edward Quartermaine </a> on the <a> ABC </a> daytime drama , <em> <a> General Hospital </a> </em> . </p>
+#	NEW	birth_date	........ / 9 , 1945 )	// <p> <strong> Mia Farrow </strong> ( born <strong> Maria de Lourdes Villiers Farrow </strong> ; February 9 , 1945 ) is an American actress , singer , and former <a> fashion model </a> .
 
-#	NEW	birth_name	........ / is an American	// <p> <strong> John Ingle </strong> ( born May 7 , 1928 ) is an American <a> actor </a> known for his role as scheming patriarch <a> Edward Quartermaine </a> on the <a> ABC </a> daytime drama , <em> <a> General Hospital </a> </em> . </p>
+150	TRUE	Mia Farrow::birth_name	maria de lourdes villiers farrow / Maria de Lourdes Villiers Farrow	
+<p> Farrow was born as <strong> Maria de Lourdes Villiers Farrow </strong> in <a> Los Angeles , California </a> , the daughter of <a> Australian </a> film director <a> John Farrow </a> and <a> Irish </a> actress <a> Maureen O ' Sullivan </a> .
 
-#	NEW	birth_date	........ / He	// <p> He has said that former <em> General Hospital </em> actor <a> Stuart Damon </a> is his &quot ; closest friend . &quot ; </p>
+151	FALSE	Mia Farrow::occupation	actress, singer / actress	
+Farrow has appeared in more than forty-five films and won numerous awards , including a <a> Golden Globe </a> award ( and seven additional Golden Globe nominations ) , five <a> BAFTA Film Award </a> nominations , and a win for best actress at the <a> San Sebastian International Film Festival </a> .
 
-152	TRUE	John Ingle::occupation	actor / ,	
-<p> <strong> John Ingle </strong> ( born May 7 , 1928 ) is an American <a> actor </a> known for his role as scheming patriarch <a> Edward Quartermaine </a> on the <a> ABC </a> daytime drama , <em> <a> General Hospital </a> </em> . </p>
+#	NEW	name	........ / Informational	// <p> <strong> Informational </strong> </p>
 
-153	TRUE	Lane Smith::name	lane smith / was an	
-<p> <strong> Walter Lane Smith III </strong> ( April 29 , 1936 &ndash ; June 13 , 2005 ) was an <a> American </a> <a> actor </a> .
+#	NEW	death_place	........ / , a	// However , she achieved stardom on the popular <a> primetime </a> soap opera <em> <a> Peyton Place </a> </em> as naive , waif-like <a> Allison MacKenzie </a> , a role she later abandoned at the urging of first husband <a> Frank Sinatra </a> .
 
-#	NEW	birth_name	........ / Walter Lane Smith III	// <p> <strong> Walter Lane Smith III </strong> ( April 29 , 1936 &ndash ; June 13 , 2005 ) was an <a> American </a> <a> actor </a> .
+#	NEW	birth_place	........ / , 1985 , now called Malone ) .	// Together they adopted Moses &quot ; Misha&quot ; Farrow ( born January 27 , 1978 , adopted 1980 ) and Dylan &quot ; Eliza&quot ; Farrow ( born July 11 , 1985 , now called Malone ) .
 
-#	NEW	birth_date	........ / <strong>	// <p> <strong> Walter Lane Smith III </strong> ( April 29 , 1936 &ndash ; June 13 , 2005 ) was an <a> American </a> <a> actor </a> .
+#	NEW	birth_name	........ / O ' Sullivan was first married to	// <p> O ' Sullivan was first married to <a> Australia </a> n-born writer , later award-winning director , and Catholic convert <a> John Farrow </a> ( 12 September 1936 - 28 January 1963 , his death ) .
 
-#	NEW	occupation	........ / actor	// <p> <strong> Walter Lane Smith III </strong> ( April 29 , 1936 &ndash ; June 13 , 2005 ) was an <a> American </a> <a> actor </a> .
+156	FALSE	Maureen O'Sullivan::occupation	actress / 1942	
+<p> In all , O ' Sullivan played Jane in six features between ( <a> 1932 </a> ) and ( <a> 1942 </a> ) .
 
-#	NEW	death_date	........ / actor	// <p> <strong> Walter Lane Smith III </strong> ( April 29 , 1936 &ndash ; June 13 , 2005 ) was an <a> American </a> <a> actor </a> .
+#	NEW	spouse	........ / James Cushing	// She was a widow for twenty years , then married James Cushing ( 22 August 1983 - 23 June 1998 , her death ) .
 
-#	NEW	name	........ / Michael Emmet	// <p> <strong> Michael Emmet Walsh </strong> ( born March 22 , 1935 ) is an <a> American </a> <a> actor </a> who has appeared in over 100 <a> film </a> and <a> television </a> productions . </p>
+#	NEW	name	........ / actress who	// <p> <strong> Maureen Paula O&#x2019 ; Sullivan </strong> ( 17 May 1911 &ndash ; 23 June 1998 ) was an <a> Irish </a> actress who was considered <a> Ireland </a> ' s first film star . </p>
 
-#	NEW	caption	........ / Michael	// <p> <strong> Michael Emmet Walsh </strong> ( born March 22 , 1935 ) is an <a> American </a> <a> actor </a> who has appeared in over 100 <a> film </a> and <a> television </a> productions . </p>
+#	NEW	birth_date	........ / May 1911 &ndash ; 23	// <p> <strong> Maureen Paula O&#x2019 ; Sullivan </strong> ( 17 May 1911 &ndash ; 23 June 1998 ) was an <a> Irish </a> actress who was considered <a> Ireland </a> ' s first film star . </p>
 
-#	NEW	birth_name	........ / Michael Emmet Walsh	// <p> <strong> Michael Emmet Walsh </strong> ( born March 22 , 1935 ) is an <a> American </a> <a> actor </a> who has appeared in over 100 <a> film </a> and <a> television </a> productions . </p>
+#	NEW	occupation	........ / actor	// <p> <strong> Timothy J . Kazurinsky </strong> ( born March 3 , 1950 ) is an <a> American </a> actor , comedian and writer best remembered as a cast member on <em> <a> Saturday Night Live </a> </em> and for his role as &quot ; Sweetchuck&quot ; in the <a> Police Academy </a> films .
 
-#	NEW	death_date	........ / productions .	// <p> <strong> Michael Emmet Walsh </strong> ( born March 22 , 1935 ) is an <a> American </a> <a> actor </a> who has appeared in over 100 <a> film </a> and <a> television </a> productions . </p>
+161	TRUE	Tim Kazurinsky::birth_name	timothy j. kazurinsky / Timothy J. Kazurinsky	
+<p> <strong> Timothy J . Kazurinsky </strong> ( born March 3 , 1950 ) is an <a> American </a> actor , comedian and writer best remembered as a cast member on <em> <a> Saturday Night Live </a> </em> and for his role as &quot ; Sweetchuck&quot ; in the <a> Police Academy </a> films .
 
-162	TRUE	M. Emmet Walsh::occupation	actor / actor	
-<p> <strong> Michael Emmet Walsh </strong> ( born March 22 , 1935 ) is an <a> American </a> <a> actor </a> who has appeared in over 100 <a> film </a> and <a> television </a> productions . </p>
+162	FALSE	Tim Kazurinsky::name	timothy j. kazurinsky / Saturday Night	
+<p> <strong> Timothy J . Kazurinsky </strong> ( born March 3 , 1950 ) is an <a> American </a> actor , comedian and writer best remembered as a cast member on <em> <a> Saturday Night Live </a> </em> and for his role as &quot ; Sweetchuck&quot ; in the <a> Police Academy </a> films .
 
-163	TRUE	Dorothy Dell::name	dorothy dell / an American	
-<p> <strong> Dorothy Dell </strong> ( January 30 , 1915 &ndash ; June 8 , 1934 ) was an American film actress . </p>
+#	NEW	birth_date	........ / 6 , 1900 &	// <p> <strong> Agnes Robertson Moorehead </strong> ( December 6 , 1900 &ndash ; April 30 , 1974 ) was an American actress .
 
-#	NEW	caption	........ / Dorothy	// <p> <strong> Dorothy Dell </strong> ( January 30 , 1915 &ndash ; June 8 , 1934 ) was an American film actress . </p>
+164	TRUE	Agnes Moorehead::birth_name	agnes robertson moorehead / Agnes Robertson Moorehead	
+<p> <strong> Agnes Robertson Moorehead </strong> ( December 6 , 1900 &ndash ; April 30 , 1974 ) was an American actress .
 
-#	NEW	birth_name	........ / an American film actress .	// <p> <strong> Dorothy Dell </strong> ( January 30 , 1915 &ndash ; June 8 , 1934 ) was an American film actress . </p>
+165	FALSE	Agnes Moorehead::occupation	actress / awards	
+<p> While rarely playing leads in films , Moorehead ' s skill at character development and range earned her one <a> Emmy Award </a> and two <a> Golden Globe </a> awards in addition to four <a> Academy Award </a> and six Emmy Award nominations .
 
-#	NEW	birth_date	........ / <strong>	// <p> <strong> Dorothy Dell </strong> ( January 30 , 1915 &ndash ; June 8 , 1934 ) was an American film actress . </p>
+#	NEW	spouse	........ / divorced in	// In 1954 , she married actor <a> Robert Gist </a> , and they divorced in 1958 .
 
-167	TRUE	Dorothy Dell::occupation	actress / actress.	
-<p> <strong> Dorothy Dell </strong> ( January 30 , 1915 &ndash ; June 8 , 1934 ) was an American film actress . </p>
+167	FALSE	Agnes Moorehead::name	agnes moorehead / Barbara Stanwyck	
+( <a> Barbara Stanwyck </a> played the role in the 1948 film version . ) </p>
 
-#	NEW	death_date	........ / 8 , 1934 )	// <p> <strong> Dorothy Dell </strong> ( January 30 , 1915 &ndash ; June 8 , 1934 ) was an American film actress . </p>
+#	NEW	death_date	........ / 6 , 1900 &	// <p> <strong> Agnes Robertson Moorehead </strong> ( December 6 , 1900 &ndash ; April 30 , 1974 ) was an American actress .
 
-#	NEW	birthdate	........ / 30 1915 &ndash ; June 8	// <p> <strong> Dorothy Dell </strong> ( January 30 , 1915 &ndash ; June 8 , 1934 ) was an American film actress . </p>
+#	NEW	death_place	........ / , Darrin Stephens , had	// Co-star <a> Dick Sargent </a> , who in 1969 replaced the ill <a> Dick York </a> as Samantha ' s husband , Darrin Stephens , had a more difficult relationship with Moorehead , and described her as &quot ; a tough old bird . . . very self-involved . &quot ; </p>
 
-#	null	birthdate	may 28, 1956 / ..........
+#	NEW	birth_date	........ / toured	// <em> Tars and Spars </em> toured nationally , and then a film version was made at <a> Columbia Pictures </a> .
 
-#	null	name	edith massey / ..........
+#	NEW	spouse	........ / Florence Levy	// He married Florence Levy on July 17 , 1943 .
+
+172	FALSE	Sid Caesar::name	sid caesar / Grease 2	
+<p> <strong> Isaac Sidney </strong> &quot ; <strong> Sid </strong> &quot ; <strong> Caesar </strong> ( born September 8 , 1922 ) is an American comic actor and writer known as the leading man on the 1950s television series <em> <a> Your Show of Shows </a> </em> and <em> <a> Caesar ' s Hour </a> </em> , and to younger generations as Coach Calhoun in <em> <a> Grease </a> </em> and <em> <a> Grease 2 </a> </em> . </p>
+
+#	NEW	death_date	........ / June 5 , 1954 .	// The show ended after 160 episodes on June 5 , 1954 .
+
+#	NEW	birth_name	........ / is an American comic actor and writer known as the leading man on the 1950s television series <em> <a> Your Show of Shows	// <p> <strong> Isaac Sidney </strong> &quot ; <strong> Sid </strong> &quot ; <strong> Caesar </strong> ( born September 8 , 1922 ) is an American comic actor and writer known as the leading man on the 1950s television series <em> <a> Your Show of Shows </a> </em> and <em> <a> Caesar ' s Hour </a> </em> , and to younger generations as Coach Calhoun in <em> <a> Grease </a> </em> and <em> <a> Grease 2 </a> </em> . </p>
+
+#	NEW	birth_date	........ / 13 , 1910 & 4 ,	// <p> <strong> Jack Mercer </strong> ( January 13 , 1910 &ndash ; December 4 , 1984 ) was an <a> American </a> <a> animator </a> , storyman and <a> voice actor </a> .
+
+#	NEW	birth_name	........ / voice actor	// <p> <strong> Jack Mercer </strong> ( January 13 , 1910 &ndash ; December 4 , 1984 ) was an <a> American </a> <a> animator </a> , storyman and <a> voice actor </a> .
+
+#	NEW	occupation	........ / voice	// He is best known as the voice of cartoon character <a> Popeye </a> . </p>
+
+178	TRUE	Jack Mercer::name	jack mercer / voice actor	
+<p> <strong> Jack Mercer </strong> ( January 13 , 1910 &ndash ; December 4 , 1984 ) was an <a> American </a> <a> animator </a> , storyman and <a> voice actor </a> .
+
+#	NEW	birth_date	........ / 2004	// <p> He returned to play <a> John Crichton </a> in the 2004 SciFi Channel mini-series , <strong> <em> ' .
+
+#	NEW	occupation	........ / Actor	// He has received two <a> Saturn Awards </a> for Best Actor In A Television Role for his acting in <em> Farscape </em> .
+
+#	NEW	spouse	........ / and operators .	// His parents were race car owners and operators .
+
+#	NEW	birth_name	........ / Robert Benedic &quot ; Ben&quot ; Browder	// <p> <strong> Robert Benedic &quot ; Ben&quot ; Browder </strong> ( born December 11 , 1962 ) is an <a> American </a> <a> actor </a> and <a> writer </a> , best known for his roles as <a> John Crichton </a> in <em> <a> Farscape </a> </em> and <a> Cameron Mitchell </a> in <em> <a> Stargate SG-1 </a> </em> . </p>
+
+#	NEW	name	........ / Cameron Mitchell	// <p> <strong> Robert Benedic &quot ; Ben&quot ; Browder </strong> ( born December 11 , 1962 ) is an <a> American </a> <a> actor </a> and <a> writer </a> , best known for his roles as <a> John Crichton </a> in <em> <a> Farscape </a> </em> and <a> Cameron Mitchell </a> in <em> <a> Stargate SG-1 </a> </em> . </p>
+
+#	NEW	birth_date	........ / 1 , 1952	// <p> <strong> Steven Barnes </strong> ( born March 1 , 1952 , <a> Los Angeles , California </a> ) is an <a> African American </a> <a> science fiction </a> writer , lecturer , creative consultant , and human performance technician .
+
+#	NEW	birth_name	........ / Los Angeles , California	// <p> <strong> Steven Barnes </strong> ( born March 1 , 1952 , <a> Los Angeles , California </a> ) is an <a> African American </a> <a> science fiction </a> writer , lecturer , creative consultant , and human performance technician .
+
+#	NEW	occupation	........ / Award	// Barnes ' s first published piece of fiction , the 1979 novelette , <em> The Locusts , </em> was written with <a> Larry Niven </a> , and was a <a> Hugo Award </a> nominee . </p>
+
+#	NEW	spouse	........ / a writer .	// Barnes is married to <a> Tananarive Due </a> , a writer .
+
+188	TRUE	Steven Barnes::name	steven barnes / human performance	
+<p> <strong> Steven Barnes </strong> ( born March 1 , 1952 , <a> Los Angeles , California </a> ) is an <a> African American </a> <a> science fiction </a> writer , lecturer , creative consultant , and human performance technician .
+
+#	NEW	death_place	........ / , 1952 , <a> Los Angeles ,	// <p> <strong> Steven Barnes </strong> ( born March 1 , 1952 , <a> Los Angeles , California </a> ) is an <a> African American </a> <a> science fiction </a> writer , lecturer , creative consultant , and human performance technician .
+
+#	NEW	birth_place	........ / , lecturer , creative consultant , and human performance technician .	// <p> <strong> Steven Barnes </strong> ( born March 1 , 1952 , <a> Los Angeles , California </a> ) is an <a> African American </a> <a> science fiction </a> writer , lecturer , creative consultant , and human performance technician .
+
+#	NEW	death_date	........ / 1 , 1952	// <p> <strong> Steven Barnes </strong> ( born March 1 , 1952 , <a> Los Angeles , California </a> ) is an <a> African American </a> <a> science fiction </a> writer , lecturer , creative consultant , and human performance technician .
+
+#	NEW	birth_date	........ / 5 , 1968	// <p> Bronson was married to <a> British </a> actress <a> Jill Ireland </a> from October 5 , 1968 until her death from <a> breast cancer </a> at age 54 in 1990 .
+
+193	FALSE	Charles Bronson::occupation	actor / <em>	
+<p> In 1961 he was nominated for an <a> Emmy Award </a> for his supporting role in a TV episode with the title <em> Memory in White </em> . </p>
+
+194	FALSE	Charles Bronson::birth_name	charles dennis buchinsky / best known for his &quot ; tough guy&quot ; image, who starred in such classic films	
+<p> <strong> Charles Bronson </strong> ( November 3 , 1921 &ndash ; August 30 , 2003 ) was an <a> America </a> n <a> actor </a> best known for his &quot ; tough guy&quot ; image , who starred in such classic films as <em> <a> Once Upon a Time in the West </a> </em> , <em> <a> The Magnificent Seven </a> </em> , <em> <a> The Dirty Dozen </a> </em> , <em> <a> The Great Escape </a> </em> , <em> <a> Mr .
+
+195	TRUE	Denholm Elliott::birth_name	denholm mitchell elliott / Denholm Mitchell Elliott	
+<p> <strong> Denholm Mitchell Elliott </strong> , <a> CBE </a> ( 31 May 1922 <img> 6 October 1992 ) was an <a> English </a> <a> actor </a> of <a> stage </a> and <a> screen </a> , with over 120 major film and TV credits . </p>
+
+196	TRUE	Denholm Elliott::occupation	actor / Actor	
+<p> In the 1980s , he won three consecutive <a> British Academy of Film and Television Arts </a> ( BAFTA ) awards&#x2014 ; Best Supporting Actor for <em> <a> Trading Places </a> </em> as <a> Dan Aykroyd </a> ' s kindly butler , <em> <a> A Private Function </a> </em> , and <em> <a> Defence of the Realm </a> </em> &#x2014 ; as well as an <a> Academy Award </a> nomination for <em> <a> A Room with a View </a> </em> .
+
+#	NEW	name	........ / major film	// <p> <strong> Denholm Mitchell Elliott </strong> , <a> CBE </a> ( 31 May 1922 <img> 6 October 1992 ) was an <a> English </a> <a> actor </a> of <a> stage </a> and <a> screen </a> , with over 120 major film and TV credits . </p>
+
+198	TRUE	Maurice Pialat::birth_date	21 august 1925 / ( 21 August 1925 &	
+<p> <strong> Maurice Pialat </strong> ( 21 August 1925 &ndash ; 11 January 2003 ) was a French <a> film director </a> , <a> screenwriter </a> and actor noted for the rigorous and unsentimental style of his films .
+
+#	NEW	birth_name	........ / and actor noted for the rigorous and unsentimental style of	// <p> <strong> Maurice Pialat </strong> ( 21 August 1925 &ndash ; 11 January 2003 ) was a French <a> film director </a> , <a> screenwriter </a> and actor noted for the rigorous and unsentimental style of his films .
+
+#	NEW	occupation	........ / Film	// He directed <a> G&#x00e9 ; rard Depardieu </a> in three films , including <em> <a> Sous le soleil de Satan </a> </em> ( <em> Under the Sun of Satan </em> ) , for which Pialat won the <a> Palme d ' Or </a> at the <a> 1987 Cannes Film Festival </a> . </p>
+
+201	TRUE	Maurice Pialat::name	maurice pialat / his films.	
+<p> <strong> Maurice Pialat </strong> ( 21 August 1925 &ndash ; 11 January 2003 ) was a French <a> film director </a> , <a> screenwriter </a> and actor noted for the rigorous and unsentimental style of his films .
+
+#	NEW	caption	........ / ( born 22	// <strong> Thomas </strong> &quot ; <strong> Tom </strong> &quot ; <strong> Conti </strong> ( born 22 November 1941 ) is a <a> Scottish </a> <a> actor </a> , <a> theatre director </a> and <a> novelist </a> . </p>
+
+#	NEW	birth_date	........ / 22 November 1941 )	// <strong> Thomas </strong> &quot ; <strong> Tom </strong> &quot ; <strong> Conti </strong> ( born 22 November 1941 ) is a <a> Scottish </a> <a> actor </a> , <a> theatre director </a> and <a> novelist </a> . </p>
+
+204	FALSE	Tom Conti::birth_name	thomas conti / theatre director	
+<strong> Thomas </strong> &quot ; <strong> Tom </strong> &quot ; <strong> Conti </strong> ( born 22 November 1941 ) is a <a> Scottish </a> <a> actor </a> , <a> theatre director </a> and <a> novelist </a> . </p>
+
+#	NEW	occupation	........ / Drama	// <p> Conti was educated at <a> St Aloysius ' College </a> , an independent fee-paying Catholic boys ' ( at that time ) school in <a> Glasgow </a> , and at the <a> Royal Scottish Academy of Music and Drama </a> in Glasgow . </p>
+
+#	NEW	name	........ / theatre director	// <strong> Thomas </strong> &quot ; <strong> Tom </strong> &quot ; <strong> Conti </strong> ( born 22 November 1941 ) is a <a> Scottish </a> <a> actor </a> , <a> theatre director </a> and <a> novelist </a> . </p>
+
+#	NEW	birth_date	........ / 15 , 1940 )	// <p> <strong> Samuel Atkinson &quot ; Sam&quot ; Waterston </strong> ( born November 15 , 1940 ) is an American <a> actor </a> and occasional <a> producer </a> and <a> director </a> .
+
+#	NEW	birth_name	........ / Samuel Atkinson &quot ; Sam&quot ; Waterston	// <p> <strong> Samuel Atkinson &quot ; Sam&quot ; Waterston </strong> ( born November 15 , 1940 ) is an American <a> actor </a> and occasional <a> producer </a> and <a> director </a> .
+
+#	NEW	occupation	........ / Awards	// <p> ; <a> Golden Globe Awards </a> </p>
+
+#	NEW	spouse	........ / at Yale .	// They married in a Methodist ceremony at Branford College at Yale .
+
+#	NEW	birth_date	........ / 20 , 1950 )	// <p> <strong> William M . Hurt </strong> ( born March 20 , 1950 ) is an American actor .
+
+#	NEW	birth_place	........ / Paris .	// <p> Hurt is fluent in French and maintains a home outside Paris .
+
+213	TRUE	William Hurt::birth_name	william m. hurt / William M. Hurt	
+<p> <strong> William M . Hurt </strong> ( born March 20 , 1950 ) is an American actor .
+
+214	TRUE	William Hurt::occupation	actor / Actor	
+He received the <a> Best Male Performance Prize </a> at the <a> Cannes Film Festival </a> and the <a> Academy Award for Best Actor </a> for <em> <a> Kiss of the Spider Woman </a> </em> for 1985 .
+
+#	NEW	caption	........ / <a> A .	// Other notable films in recent years have included <em> <a> A . I .
+
+#	NEW	name	........ / Midsummer Night '	// Hurt remained an active stage actor throughout the 1980s , appearing in numerous <a> off-Broadway </a> productions including <em> <a> Henry V </a> </em> , <em> <a> Fifth of July </a> </em> , <em> <a> Richard II </a> </em> , and <em> <a> A Midsummer Night ' s Dream </a> </em> .
+
+#	NEW	imagesize	........ / </	// <p> In 2009 , Hurt began appearing as a series regular on the critically-acclaimed FX series <em> <a> Damages </a> </em> playing a corporate <a> whistleblower </a> opposite <a> Glenn Close </a> and <a> Marcia Gay Harden </a> .
+
+#	NEW	birth_date	........ / April 7 , 1928 )	// <p> <strong> James Garner </strong> ( born April 7 , 1928 ) is an American film and television actor , one of the first Hollywood actors to excel in both media . </p>
+
+#	NEW	birth_name	........ / is an American film and television actor , one of the first Hollywood actors to excel in both media .	// <p> <strong> James Garner </strong> ( born April 7 , 1928 ) is an American film and television actor , one of the first Hollywood actors to excel in both media . </p>
+
+220	TRUE	James Garner::occupation	actor / Actor	
+He appeared for six seasons , for which he received an <a> Emmy Award </a> for Best Actor in 1977 .
+
+#	NEW	name	........ / first Hollywood	// <p> <strong> James Garner </strong> ( born April 7 , 1928 ) is an American film and television actor , one of the first Hollywood actors to excel in both media . </p>
+
+#	NEW	death_place	........ / , 32	// For the second wound , he received a second Purple Heart ( eligibility requirement : &quot ; As the result of friendly fire while actively engaging the enemy&quot ; ) , although Garner received the medal in 1983 , 32 years after his injury .
+
+#	NEW	birth_date	........ / 1 , 1943 )	// <p> <strong> Enrique Guzm&#x00e1 ; n </strong> ( born February 1 , 1943 ) is a Mexican singer .
+
+#	NEW	birth_name	........ / Enrique Guzm&#x00e1 ; n	// <p> <strong> Enrique Guzm&#x00e1 ; n </strong> ( born February 1 , 1943 ) is a Mexican singer .
+
+#	NEW	occupation	........ / x00f3 ;	// <p> He also appeared in films , such as <em> <a> Canta Mi Coraz&#x00f3 ; n </a> </em> in <a> 1965 </a> .
+
+#	NEW	name	........ / is a	// <p> <strong> Enrique Guzm&#x00e1 ; n </strong> ( born February 1 , 1943 ) is a Mexican singer .
+
+#	NEW	imagesize	........ / 1965	// <p> He also appeared in films , such as <em> <a> Canta Mi Coraz&#x00f3 ; n </a> </em> in <a> 1965 </a> .
+
+#	NEW	death_place	........ / , 1943 )	// <p> <strong> Enrique Guzm&#x00e1 ; n </strong> ( born February 1 , 1943 ) is a Mexican singer .
+
+#	NEW	birth_date	........ / Also in 1977	// <p> Also in 1977 , Dey starred opposite <a> William Katt </a> in a romance film , <em> <a> First Love </a> </em> , directed by <a> Joan Darling </a> .
+
+230	FALSE	Susan Dey::birth_name	susan hallock smith / known primarily for her roles	
+<p> <strong> Susan Dey </strong> ( born December 10 , 1952 ) is an <a> American </a> <a> actress </a> , known primarily for her roles in <a> film </a> and <a> television </a> .
+
+231	TRUE	Susan Dey::occupation	actress / Actress	
+She was also nominated for the <a> Emmy Award </a> for &quot ; Outstanding Lead Actress in a Drama Series&quot ; for this role in 1987 , 1988 , and 1989 . </p>
+
+#	NEW	spouse	........ / Hirshan from	// <p> Dey was married to Lenny Hirshan from 1976-1981 .
+
+233	TRUE	Susan Dey::name	susan dey / known primarily	
+<p> <strong> Susan Dey </strong> ( born December 10 , 1952 ) is an <a> American </a> <a> actress </a> , known primarily for her roles in <a> film </a> and <a> television </a> .
+
+#	NEW	death_place	........ / , since	// Dey has been married to her second husband , <a> television producer </a> Bernard Sofronski , since 1988 .
+
+#	NEW	birth_name	........ / is an American	// <p> <strong> Dante Daniel </strong> &quot ; <strong> Danny </strong> &quot ; <strong> Bonaduce </strong> ( born August 13 , 1959 ) is an American <a> radio </a> / <a> television personality </a> , <a> comedian </a> , <a> professional wrestler </a> , and former <a> child actor </a> .
+
+#	NEW	occupation	........ / the	// Dalton was on stage towards the end of the awards show , which resulted in him being booed by the audience .
+
+237	FALSE	Danny Bonaduce::name	danny bonaduce / child actor	
+<p> <strong> Dante Daniel </strong> &quot ; <strong> Danny </strong> &quot ; <strong> Bonaduce </strong> ( born August 13 , 1959 ) is an American <a> radio </a> / <a> television personality </a> , <a> comedian </a> , <a> professional wrestler </a> , and former <a> child actor </a> .
+
+#	NEW	caption	........ / Michael Chekhov	// He is currently one of the patrons of the <a> Michael Chekhov Studio London </a> .
+
+#	NEW	birth_place	........ / , a businessman .	// <p> Callow was born in <a> Streatham </a> , <a> London </a> , <a> UK </a> , to Yvonne Mary Guise , a secretary , and Neil Francis Callow , a businessman .
+
+240	TRUE	Simon Callow::birth_name	simon phillip hugh callow / Simon Phillip Hugh Callow	
+<p> <strong> Simon Phillip Hugh Callow </strong> , <a> CBE </a> ( born 15 June 1949 ) is an <a> English </a> <a> actor </a> , <a> writer </a> and <a> theatre director </a> . </p>
+
+#	NEW	name	........ / theatre director	// <p> <strong> Simon Phillip Hugh Callow </strong> , <a> CBE </a> ( born 15 June 1949 ) is an <a> English </a> <a> actor </a> , <a> writer </a> and <a> theatre director </a> . </p>
+
+#	NEW	birth_date	........ / 15 June 1949 )	// <p> <strong> Simon Phillip Hugh Callow </strong> , <a> CBE </a> ( born 15 June 1949 ) is an <a> English </a> <a> actor </a> , <a> writer </a> and <a> theatre director </a> . </p>
+
+#	NEW	birth_date	........ / 4 April 1960 )	// <p> <strong> Hugo Wallace Weaving </strong> ( born 4 April 1960 ) is a Nigerian-born <a> British </a> - <a> Australia </a> n film and stage actor .
+
+244	TRUE	Hugo Weaving::birth_name	hugo wallace weaving / Hugo Wallace Weaving	
+<p> <strong> Hugo Wallace Weaving </strong> ( born 4 April 1960 ) is a Nigerian-born <a> British </a> - <a> Australia </a> n film and stage actor .
+
+#	NEW	spouse	........ / continued through	// Filming began in fall 2009 in <a> Nottingham </a> , UK and Adelaide , Australia and continued through January 2010 .
+
+#	NEW	name	........ / n film	// <p> <strong> Hugo Wallace Weaving </strong> ( born 4 April 1960 ) is a Nigerian-born <a> British </a> - <a> Australia </a> n film and stage actor .
+
+#	NEW	occupation	........ / Actor&	// In 1998 , he received the &quot ; Best Actor&quot ; award from the <a> Montreal </a> Film Festival for his performance in <em> <a> The Interview </a> </em> .
+
+#	NEW	birth_date	........ / 5 , 1943 )	// <p> <strong> Sam Shepard </strong> ( born November 5 , 1943 ) is an American <a> playwright </a> , actor , and <a> television </a> and <a> film director </a> .
+
+249	FALSE	Sam Shepard::birth_name	samuel shepard rogers iii / is an American	
+<p> <strong> Sam Shepard </strong> ( born November 5 , 1943 ) is an American <a> playwright </a> , actor , and <a> television </a> and <a> film director </a> .
+
+#	NEW	occupation	........ / Actor	// Shepard was nominated for an <a> Academy Award for Best Supporting Actor </a> for his portrayal of pilot <a> Chuck Yeager </a> in <em> <a> The Right Stuff </a> </em> ( 1983 ) . </p>
+
+251	TRUE	Sam Shepard::name	sam shepard / film director	
+<p> <strong> Sam Shepard </strong> ( born November 5 , 1943 ) is an American <a> playwright </a> , actor , and <a> television </a> and <a> film director </a> .
+
+#	NEW	death_date	........ / workshops , festivals	// His classes and seminars have occurred at various theatre workshops , festivals , and universities .
+
+#	NEW	occupation	........ / film	// He was well-received in a supporting role in the 2005 film <em> <a> The Squid and the Whale </a> </em> .
+
+#	NEW	death_date	........ / 3 , 2011 .	// <p> His most recent work has been his role in the <a> Lifetime </a> Original Movie , &quot ; <a> Craigslist Killer </a> &quot ; which aired January 3 , 2011 .
+
+#	NEW	caption	........ / January 3	// <p> His most recent work has been his role in the <a> Lifetime </a> Original Movie , &quot ; <a> Craigslist Killer </a> &quot ; which aired January 3 , 2011 .
+
+#	NEW	birth_name	........ / William Joseph &quot ; Billy&quot ; Baldwin	// <p> <strong> William Joseph &quot ; Billy&quot ; Baldwin </strong> ( born February 21 , 1963 ) is an <a> American </a> <a> actor </a> , <a> producer </a> , and <a> writer </a> , known for his starring roles in such films as <em> <a> Flatliners </a> </em> ( 1990 ) , <em> <a> Backdraft </a> </em> ( 1991 ) , <em> <a> Sliver </a> </em> ( 1993 ) , <em> <a> Fair Game </a> </em> ( 1995 ) , <em> <a> Virus </a> </em> ( 1999 ) , <em> <a> Double Bang </a> </em> ( 2001 ) , as Johnny 13 in <em> <a> Danny Phantom </a> </em> ( 2004&#x2013 ; 2007 ) , <em> <a> Art Heist </a> </em> ( 2004 ) , <em> <a> The Squid and the Whale </a> </em> ( 2005 ) , as Senator Patrick Darling in the TV drama <em> <a> Dirty Sexy Money </a> </em> ( 2007&#x2013 ; 2009 ) on <a> ABC </a> <em> , <a> Justice League : Crisis on Two Earths </a> </em> ( 2010 ) , and now Baldwin is currently a regular guest on <em> <a> Gossip Girl </a> </em> as William van der Woodsen and <em> <a> Parenthood </a> </em> as Gordon Flint .
+
+#	NEW	spouse	........ / which aired	// Billy ' s most recent role was as lead detective Brian Albert in the Lifetime Original Movie ' The Craigslist Killer ' which aired on January 3 , 2011 .
+
+258	FALSE	William Baldwin::name	william baldwin / as Gordon	
+<p> <strong> William Joseph &quot ; Billy&quot ; Baldwin </strong> ( born February 21 , 1963 ) is an <a> American </a> <a> actor </a> , <a> producer </a> , and <a> writer </a> , known for his starring roles in such films as <em> <a> Flatliners </a> </em> ( 1990 ) , <em> <a> Backdraft </a> </em> ( 1991 ) , <em> <a> Sliver </a> </em> ( 1993 ) , <em> <a> Fair Game </a> </em> ( 1995 ) , <em> <a> Virus </a> </em> ( 1999 ) , <em> <a> Double Bang </a> </em> ( 2001 ) , as Johnny 13 in <em> <a> Danny Phantom </a> </em> ( 2004&#x2013 ; 2007 ) , <em> <a> Art Heist </a> </em> ( 2004 ) , <em> <a> The Squid and the Whale </a> </em> ( 2005 ) , as Senator Patrick Darling in the TV drama <em> <a> Dirty Sexy Money </a> </em> ( 2007&#x2013 ; 2009 ) on <a> ABC </a> <em> , <a> Justice League : Crisis on Two Earths </a> </em> ( 2010 ) , and now Baldwin is currently a regular guest on <em> <a> Gossip Girl </a> </em> as William van der Woodsen and <em> <a> Parenthood </a> </em> as Gordon Flint .
+
+#	NEW	birth_date	........ / 19 , 1954 )	// <p> <strong> Mary Kathleen Turner </strong> ( born June 19 , 1954 ) is an <a> American </a> <a> actress </a> .
+
+260	TRUE	Kathleen Turner::birth_name	mary kathleen turner / Mary Kathleen Turner	
+<p> <strong> Mary Kathleen Turner </strong> ( born June 19 , 1954 ) is an <a> American </a> <a> actress </a> .
+
+261	TRUE	Kathleen Turner::occupation	actress / Actress.	
+For <em> Peggy Sue </em> , she received a 1986 <a> Academy Award </a> nomination for Best Actress .
+
+#	NEW	spouse	........ / own stunts .	// In that film , Turner played a former gymnast , and , as in other roles , she did many of her own stunts .
+
+263	FALSE	Kathleen Turner::name	kathleen turner / Leading Roles	
+<p> Turner ( in collaboration with <a> Gloria Feldt </a> ) wrote her memoir , <em> Send Yourself Roses : Thoughts on my Life , Love , and Leading Roles </em> , published in 2008 .
+
+#	NEW	death_date	........ / June 19 , 1954 )	// <p> <strong> Mary Kathleen Turner </strong> ( born June 19 , 1954 ) is an <a> American </a> <a> actress </a> .
+
+#	NEW	caption	........ / the name	// At confirmation , she took the name Michaela .
+
+266	FALSE	Loretta Young::birth_name	gretchen michaela young / was an American	
+<p> <strong> Loretta Young </strong> ( January 6 , 1913 &ndash ; August 12 , 2000 ) was an American actress .
+
+267	FALSE	Loretta Young::name	loretta young / was interred	
+<p> Young died on August 12 , 2000 , from <a> ovarian cancer </a> at the <a> Santa Monica , California </a> , home of her half-sister , Georgiana Montalb&#x00e1 ; n , and was interred in the family plot in the <a> Holy Cross Cemetery </a> in <a> Culver City , California </a> .
+
+#	NEW	death_date	........ / later , after	// <p> Several years later , after becoming a mother herself , Lewis finally confronted her mother .
+
+#	NEW	birth_date	........ / 6 , 1913 &	// <p> <strong> Loretta Young </strong> ( January 6 , 1913 &ndash ; August 12 , 2000 ) was an American actress .
+
+270	TRUE	Loretta Young::occupation	actress / actress	
+She won the 1948 best actress <a> Academy Award </a> for her role in the 1947 film <em> <a> The Farmer ' s Daughter </a> </em> , and received an Oscar nomination for her role in <em> <a> Come to the Stable </a> </em> , in 1950 . </p>
+
+#	NEW	caption	........ / Michael ( born	// <p> Slezak is married to Brian Davies , and is the mother of two children , Michael ( born 1980 ) and <strong> Amanda Davies </strong> ( born 1981 ) . ref
+
+272	TRUE	Erika Slezak::birth_name	erika alma hermina slezak / Erika Alma Hermina Slezak	
+<p> <strong> Erika Alma Hermina Slezak </strong> ( born August 5 , 1946 ) is an American actress of <a> Austria </a> n and <a> Dutch </a> descent , best known for her role as <a> Victoria &quot ; Viki&quot ; Lord Banks </a> on the American daytime <a> soap opera </a> <em> <a> One Life to Live </a> </em> . </p>
+
+273	TRUE	Erika Slezak::occupation	actress / Actress	
+<p> Slezak has won six <a> Daytime Emmy Award </a> s in the category of &quot ; <a> Outstanding Lead Actress in a Drama Series </a> &quot ; out of eight nominations .
+
+#	NEW	spouse	........ / 1981 ) . ref	// <p> Slezak is married to Brian Davies , and is the mother of two children , Michael ( born 1980 ) and <strong> Amanda Davies </strong> ( born 1981 ) . ref
+
+#	NEW	name	........ / One Life	// <p> <strong> Erika Alma Hermina Slezak </strong> ( born August 5 , 1946 ) is an American actress of <a> Austria </a> n and <a> Dutch </a> descent , best known for her role as <a> Victoria &quot ; Viki&quot ; Lord Banks </a> on the American daytime <a> soap opera </a> <em> <a> One Life to Live </a> </em> . </p>
+
+#	NEW	death_date	........ / strong> ( born 1981 ) .	// <p> Slezak is married to Brian Davies , and is the mother of two children , Michael ( born 1980 ) and <strong> Amanda Davies </strong> ( born 1981 ) . ref
+
+#	NEW	birth_date	........ / Slezak	// <p> Slezak is married to Brian Davies , and is the mother of two children , Michael ( born 1980 ) and <strong> Amanda Davies </strong> ( born 1981 ) . ref
+
+#	NEW	birth_date	........ / ( May 25 , 1925 &#	// <p> <strong> Jeanne Elizabeth Crain </strong> ( May 25 , 1925 &#x2013 ; December 14 , 2003 ) was an American actress . </p>
+
+279	TRUE	Jeanne Crain::birth_name	jeanne elizabeth crain / Jeanne Elizabeth Crain	
+<p> <strong> Jeanne Elizabeth Crain </strong> ( May 25 , 1925 &#x2013 ; December 14 , 2003 ) was an American actress . </p>
+
+280	TRUE	Jeanne Crain::occupation	actress / Actress	
+<p> In 1949 , Crain starred in three films &#x2014 ; <em> <a> A Letter to Three Wives </a> </em> , <em> <a> The Fan </a> </em> and <em> <a> Pinky </a> </em> , for which she was nominated for a <a> Best Actress </a> Oscar .
+
+281	TRUE	Jeanne Crain::name	jeanne elizabeth crain / an American	
+<p> <strong> Jeanne Elizabeth Crain </strong> ( May 25 , 1925 &#x2013 ; December 14 , 2003 ) was an American actress . </p>
+
+#	NEW	death_date	........ / 25 , 1925 &#	// <p> <strong> Jeanne Elizabeth Crain </strong> ( May 25 , 1925 &#x2013 ; December 14 , 2003 ) was an American actress . </p>
+
+#	NEW	birth_date	........ / ( April 16 , 1904 -	// <p> <strong> Fifi D ' Orsay </strong> ( April 16 , 1904 - December 2 , 1983 ) was a Canadian-born actress . </p>
+
+284	TRUE	Fifi D'Orsay::birth_name	marie-rose angelina yvonne lussier / Marie- Rose Angelina Yvonne Lussier	
+<p> Born <strong> Marie-Rose Angelina Yvonne Lussier </strong> in <a> Montreal </a> , <a> Quebec </a> , as a young typist , filled with the desire to become an actress , she went to New York City .
+
+#	NEW	occupation	........ / Follies	// At the age of sixty-seven , she appeared back on stage in the <a> Tony Award </a> winning Broadway musical , <em> <a> Follies </a> </em> .
+
+#	NEW	name	........ / a Canadian-	// <p> <strong> Fifi D ' Orsay </strong> ( April 16 , 1904 - December 2 , 1983 ) was a Canadian-born actress . </p>
+
+#	NEW	death_place	........ / , she	// In a burst of creativity , she told the play ' s director she was from Paris , France where she had worked in the <a> Folies Berg&#x00e8 ; res </a> .
+
+#	NEW	birth_date	........ / ( April 27 , 1888 &	// <p> <strong> Florence La Badie </strong> ( April 27 , 1888 &ndash ; October 13 , 1917 ) was an American actress in the early days of <a> Hollywood </a> , during the <a> silent film </a> era .
+
+289	FALSE	Florence La Badie::birth_name	florence russ / Florence La Badie	
+<p> <strong> Florence La Badie </strong> ( April 27 , 1888 &ndash ; October 13 , 1917 ) was an American actress in the early days of <a> Hollywood </a> , during the <a> silent film </a> era .
+
+290	TRUE	Florence La Badie::occupation	actress / actress.	
+Over a course of six years La Badie ' s career had taken her to top-billing as a film actress .
+
+#	NEW	name	........ / but suddenly	// Hospitalized , she clung to life for more than six weeks and seemed to be improving , but suddenly died on October 13 , from what was described as an infection , more specifically <a> septicemia </a> . </p>
+
+#	NEW	spouse	........ / own stunts .	// Athletic and daring , in these films she performed all her own stunts .
+
+#	NEW	birth_date	........ / In	// <p> In the 1940s , she began film work as well , including a few appearances acting in live-action movies , but mostly doing voiceovers for animated cartoons .
+
+#	NEW	birth_name	........ / is an American	// <p> <strong> June Foray </strong> ( born September 18 , 1917 ) is an American <a> voice actress </a> , best known as the voice of many <a> animated </a> characters ( particularly <a> Lucifer </a> from <em> <a> Cinderella </a> </em> , <a> Rocky the Flying Squirrel </a> , <a> Cindy Lou Who </a> , <a> Jokey Smurf </a> and <a> Granny </a> ) .
+
+295	FALSE	June Foray::occupation	voice actress / the	
+Foray was the first recipient of the award .
+
+296	TRUE	June Foray::name	june foray / Jokey Smurf	
+<p> <strong> June Foray </strong> ( born September 18 , 1917 ) is an American <a> voice actress </a> , best known as the voice of many <a> animated </a> characters ( particularly <a> Lucifer </a> from <em> <a> Cinderella </a> </em> , <a> Rocky the Flying Squirrel </a> , <a> Cindy Lou Who </a> , <a> Jokey Smurf </a> and <a> Granny </a> ) .
+
+#	NEW	death_date	........ / June Foray	// <p> Renowned animato / director <a> Chuck Jones </a> is reported to have said , &quot ; June Foray is not the female <a> Mel Blanc </a> , Mel Blanc was the male June Foray . &quot ;
+
+#	NEW	death_place	........ / , theatrical shorts , feature films , television , record	// Her career has encompassed radio , theatrical shorts , feature films , television , record albums ( particularly with <a> Stan Freberg </a> ) , video games , talking toys and other media .
+
+#	NEW	imagesize	........ / </	// <p> In 2000 , Foray reprised her role as Rocky the Flying Squirrel in <a> Universal Pictures </a> ' live-actio / CGI animated film <em> <a> The Adventures of Rocky and Bullwinkle </a> </em> , co-starring and produced by <a> Robert DeNiro </a> .
+
+#	NEW	caption	........ / 2 . & quot ;	// He has appeared in a couple of &quot ; Partridge Family&quot ; reunions with his television family , including &quot ; Chris #2 . &quot ; </p>
+
+#	NEW	birth_date	........ / 1982 to 1999	// <p> Gelbwaks worked in the <a> computer </a> industry from 1982 to 1999 , studied business at <a> Columbia University </a> , and is now a management consultant .
+
+#	NEW	birth_name	........ / Los Angeles , California	// <p> <strong> Jeremy Gelbwaks </strong> ( born May 22 , 1961 ; <a> Los Angeles , California </a> ) was a <a> child actor </a> who starred in the <a> television </a> series <em> <a> The Partridge Family </a> </em> from 1970 to 1971 . </p>
+
+303	TRUE	Jeremy Gelbwaks::occupation	actor / actor	
+<p> Gelbwaks was the first actor to play the role of Chris Partridge .
+
+#	NEW	spouse	........ / Chris Partridge .	// <p> Gelbwaks was the first actor to play the role of Chris Partridge .
+
+305	TRUE	Jeremy Gelbwaks::name	jeremy gelbwaks / to 1971.	
+<p> <strong> Jeremy Gelbwaks </strong> ( born May 22 , 1961 ; <a> Los Angeles , California </a> ) was a <a> child actor </a> who starred in the <a> television </a> series <em> <a> The Partridge Family </a> </em> from 1970 to 1971 . </p>
+
+306	FALSE	Irving Thalberg::birth_date	may 30, 1899 / ( May 30, 1899 &# 14,	
+<p> <strong> Irving Grant Thalberg </strong> ( May 30 , 1899 &#x2013 ; September 14 , 1936 ) was an <a> American </a> <a> film producer </a> during the early years of motion pictures .
+
+307	TRUE	Irving Thalberg::birth_name	irving grant thalberg / Irving Grant Thalberg	
+<p> <strong> Irving Grant Thalberg </strong> ( May 30 , 1899 &#x2013 ; September 14 , 1936 ) was an <a> American </a> <a> film producer </a> during the early years of motion pictures .
+
+#	NEW	occupation	........ / him .	// The <a> Irving G . Thalberg Memorial Award </a> , presented by the <a> Academy of Motion Picture Arts and Sciences </a> , is also named for him . </p>
+
+309	FALSE	Irving Thalberg::name	irving thalberg / David O. Selznick	
+When Thalberg fell ill in 1932 , Mayer took advantage of the situation and replaced him with <a> David O . Selznick </a> and <a> Walter Wanger </a> .
+
+#	NEW	death_date	........ / 30 , 1899 &#	// <p> <strong> Irving Grant Thalberg </strong> ( May 30 , 1899 &#x2013 ; September 14 , 1936 ) was an <a> American </a> <a> film producer </a> during the early years of motion pictures .
+
+#	NEW	birth_date	........ / 1991	// In 1991 he married his third wife , actress <a> Penelope Wilton </a> , in <a> Wiltshire </a> .
+
+312	FALSE	Ian Holm::birth_name	ian holm cuthbert / known for his stage work and for many film	
+<p> <strong> Sir Ian Holm </strong> , <a> CBE </a> ( born 12 September 1931 ) is an <a> English </a> <a> actor </a> known for his stage work and for many film roles .
+
+313	TRUE	Ian Holm::occupation	actor / Actor.	
+His portrayal of <a> Sam Mussabini </a> in <em> <a> Chariots of Fire </a> </em> ( 1981 ) , earned him a special award at the <a> Cannes Film Festival </a> and an <a> Academy Award </a> nomination for Best Supporting Actor .
+
+#	NEW	spouse	........ / four times .	// <p> Holm has been married four times .
+
+315	TRUE	Ian Holm::name	ian holm / stage work	
+<p> <strong> Sir Ian Holm </strong> , <a> CBE </a> ( born 12 September 1931 ) is an <a> English </a> <a> actor </a> known for his stage work and for many film roles .
+
+#	NEW	birth_date	........ / 22 December 1962 )	// <p> <strong> Ralph Nathaniel Twisleton-Wykeham-Fiennes </strong> , known simply as <strong> Ralph Fiennes </strong> ( ; born 22 December 1962 ) , is an English actor .
+
+317	TRUE	Ralph Fiennes::birth_name	ralph nathaniel twisleton-wykeham-fiennes / Ralph Nathaniel Twisleton-Wykeham- Fiennes	
+<p> <strong> Ralph Nathaniel Twisleton-Wykeham-Fiennes </strong> , known simply as <strong> Ralph Fiennes </strong> ( ; born 22 December 1962 ) , is an English actor .
+
+318	FALSE	Ralph Fiennes::occupation	actor / Award	
+<p> Fiennes has won a <a> Tony Award </a> and has been nominated twice for <a> Academy Award </a> s .
+
+#	NEW	death_date	........ / 22 December 1962 )	// <p> <strong> Ralph Nathaniel Twisleton-Wykeham-Fiennes </strong> , known simply as <strong> Ralph Fiennes </strong> ( ; born 22 December 1962 ) , is an English actor .
+
+#	NEW	name	........ / is an	// <p> <strong> Ralph Nathaniel Twisleton-Wykeham-Fiennes </strong> , known simply as <strong> Ralph Fiennes </strong> ( ; born 22 December 1962 ) , is an English actor .
+
+#	NEW	birth_date	........ / 1 , 1969 )	// <p> <strong> Javier &#x00c1 ; ngel Encinas Bardem </strong> ( ; born March 1 , 1969 ) is a <a> Spanish </a> <a> actor </a> .
+
+#	NEW	birth_name	........ / Javier &# x00c1 ; ngel Encinas Bardem	// <p> <strong> Javier &#x00c1 ; ngel Encinas Bardem </strong> ( ; born March 1 , 1969 ) is a <a> Spanish </a> <a> actor </a> .
+
+323	TRUE	Javier Bardem::occupation	actor / Actor.	
+He also won a <a> Golden Globe Award </a> and <a> Screen Actors Guild ( SAG ) Award </a> for Best Supporting Actor , the <a> Critics ' Choice Award </a> for Best Supporting Actor , and the 2008 <a> British Academy of Film and Television Arts ( BAFTA ) Award </a> for Best Supporting Actor .
+
+#	NEW	spouse	........ / the Bahamas .	// According to the Associated Press , the two were married in July 2010 in the Bahamas .
+
+#	NEW	name	........ / is a	// <p> <strong> Javier &#x00c1 ; ngel Encinas Bardem </strong> ( ; born March 1 , 1969 ) is a <a> Spanish </a> <a> actor </a> .
+
+#	NEW	occupation	........ / Girl	// <p> Seaton won the <a> Academy Award for Best Adapted Screenplay </a> twice , for <em> Miracle on 34th Street </em> ( which also earned him the <a> Golden Globe Award for Best Screenplay </a> ) and <em> The Country Girl </em> , and was nominated for Oscars three additional times .
+
+#	NEW	birth_date	........ / ( April 17 , 1911 &# 28 ,	// <p> <strong> George Seaton </strong> ( April 17 , 1911 &#x2013 ; July 28 , 1979 ) was an <a> American </a> <a> screenwriter </a> , <a> playwright </a> , <a> film director </a> and <a> producer </a> , and <a> theatre director </a> .
+
+328	FALSE	George Seaton::birth_name	george stenius / theatre director	
+<p> <strong> George Seaton </strong> ( April 17 , 1911 &#x2013 ; July 28 , 1979 ) was an <a> American </a> <a> screenwriter </a> , <a> playwright </a> , <a> film director </a> and <a> producer </a> , and <a> theatre director </a> .
+
+329	TRUE	George Seaton::name	george seaton / theatre director	
+<p> <strong> George Seaton </strong> ( April 17 , 1911 &#x2013 ; July 28 , 1979 ) was an <a> American </a> <a> screenwriter </a> , <a> playwright </a> , <a> film director </a> and <a> producer </a> , and <a> theatre director </a> .
+
+#	NEW	birth_date	........ / 7 June 1969 )	// <p> <strong> Adam Offord Buxton </strong> ( born 7 June 1969 ) is an <a> English </a> <a> comedian </a> and <a> actor </a> .
+
+331	TRUE	Adam Buxton::birth_name	adam offord buxton / Adam Offord Buxton	
+<p> <strong> Adam Offord Buxton </strong> ( born 7 June 1969 ) is an <a> English </a> <a> comedian </a> and <a> actor </a> .
+
+#	NEW	occupation	........ / performance	// <p> He has taken part in a number of major films , including his aforementioned performance in <em> Hot Fuzz </em> , as well as appearing in the film <em> <a> Stardust </a> </em> , deputizing for <a> Noel Fielding </a> , who was ill at the time of production .
+
+#	NEW	imagesize	........ / 4	// <p> He also appeared in the <em> <a> Doctor Who </a> </em> audio drama <em> <a> The One Doctor </a> </em> by <a> Big Finish Productions </a> , and has taken other comedy roles on productions for <a> BBC Radio 4 </a> . </p>
+
+#	NEW	death_date	........ / June 1969 )	// <p> <strong> Adam Offord Buxton </strong> ( born 7 June 1969 ) is an <a> English </a> <a> comedian </a> and <a> actor </a> .
+
+#	NEW	birth_date	........ / ( April 12 , 1929-	// <p> <strong> Luis Vigoreaux Rivera </strong> ( April 12 , 1929-January 17 , 1983 ) was a Puerto Rican radio and television show host , announcer , <a> comedian </a> and producer .
+
+336	TRUE	Luis Vigoreaux::birth_name	luis vigoreaux rivera / Luis Vigoreaux Rivera	
+<p> <strong> Luis Vigoreaux Rivera </strong> ( April 12 , 1929-January 17 , 1983 ) was a Puerto Rican radio and television show host , announcer , <a> comedian </a> and producer .
+
+#	NEW	occupation	........ / actress	// He and Echevarria had two daughters , <a> Vanessa Vigoreaux </a> , who is also an actress , and <a> Glendalys Vigoreaux </a> .
+
+#	NEW	spouse	........ / adulterous affair .	// They were both married at the time and had an adulterous affair .
+
+339	FALSE	Luis Vigoreaux::name	luis vigoreaux / He would	
+He would act in that play many times in his life , and also in a play named <em> Angeles Caidos </em> ( <em> Fallen Angels </em> ) .
+
+#	NEW	imagesize	........ / </	// They wrote a story for a <a> soap opera </a> , but the project could not come off because there were protests as a consequence of the actor hired to play the lead being from <a> Cuba </a> .
+
+#	NEW	death_date	........ / 10 , 1960 .	// After divorcing their respective spouses , they got married , on February 10 , 1960 .
+
+#	NEW	death_place	........ / , when	// However , Vigoreaux hit the jackpot in 1963 , when he and his second wife began hosting the show named <em> La Hora Cero </em> , on which many local and international singers , including <a> Celia Cruz </a> , <a> Jos&#x00e9 ; Feliciano </a> and <a> Marco Antonio Mu&#x00f1 ; iz </a> , performed .
+
+#	NEW	birth_date	........ / 16 March 1975 )	// <p> <strong> Sienna Tiggy Guillory </strong> ( ; born 16 March 1975 ) is an <a> English </a> <a> actress </a> , and a former <a> model </a> .
+
+344	TRUE	Sienna Guillory::birth_name	sienna tiggy guillory / Sienna Tiggy Guillory	
+<p> <strong> Sienna Tiggy Guillory </strong> ( ; born 16 March 1975 ) is an <a> English </a> <a> actress </a> , and a former <a> model </a> .
+
+#	NEW	name	........ / a former	// <p> <strong> Sienna Tiggy Guillory </strong> ( ; born 16 March 1975 ) is an <a> English </a> <a> actress </a> , and a former <a> model </a> .
+
+346	FALSE	Sienna Guillory::occupation	actress / Awards	
+Although Arya is a key character in the film , Guillory had little screen time and went on to say jokingly : &quot ; I ' ve been trying to explain to friends who ' ve seen the trailer [ . . . ] I ' m like , &quot ; [ . . . ] but that ' s my whole part ! &quot ; &quot ; <em> Eragon </em> was not well received by the critics , but was nominated as Best Fantasy Film at the 2006 <a> Saturn Awards </a> .
+
+#	NEW	birth_date	........ / 17 , 1893&	// <p> <strong> Mae West </strong> ( August 17 , 1893&nbsp ; &#x2013 ; November 22 , 1980 ) was an American actress , <a> playwright </a> , <a> screenwriter </a> and <a> sex symbol </a> . </p>
+
+348	FALSE	Mae West::birth_name	mary jane west / sex symbol	
+<p> <strong> Mae West </strong> ( August 17 , 1893&nbsp ; &#x2013 ; November 22 , 1980 ) was an American actress , <a> playwright </a> , <a> screenwriter </a> and <a> sex symbol </a> . </p>
+
+#	NEW	occupation	........ / Picture	// The film was a box office hit and earned an <a> Academy Award </a> nomination for <a> Best Picture </a> .
+
+#	NEW	name	........ / for herself	// <p> Known for her bawdy <a> double entendre </a> s , West made a name for herself in <a> Vaudeville </a> and on the stage in New York before moving to Hollywood to become a comedienne , actress and writer in the motion picture industry .
+
+#	NEW	spouse	........ / the time .	// If they were married , this would have constituted bigamy as West was legally married to Frank Wallace at the time .
+
+#	NEW	birth_date	........ / 13 , 1948 &#	// <p> <strong> Nell Carter </strong> ( September 13 , 1948 &#x2013 ; January 23 , 2003 ) was an <a> American </a> singer , and film , stage , and television actress .
+
+#	NEW	occupation	........ / !	// She also received Emmy and <a> Golden Globe </a> nominations for her starring role in the long-running 1980s <a> sitcom </a> <em> <a> Gimme a Break ! </a> </em> . </p>
+
+#	NEW	spouse	........ / same year .	// She divorced Krynicki and married Roger Larocque that same year .
+
+355	TRUE	Nell Carter::name	nell carter / and television	
+<p> <strong> Nell Carter </strong> ( September 13 , 1948 &#x2013 ; January 23 , 2003 ) was an <a> American </a> singer , and film , stage , and television actress .
+
+#	NEW	death_date	........ / 13 , 1948 &#	// <p> <strong> Nell Carter </strong> ( September 13 , 1948 &#x2013 ; January 23 , 2003 ) was an <a> American </a> singer , and film , stage , and television actress .
+
+357	FALSE	Nell Carter::birth_name	nell ruth hardy / and television actress.	
+<p> <strong> Nell Carter </strong> ( September 13 , 1948 &#x2013 ; January 23 , 2003 ) was an <a> American </a> singer , and film , stage , and television actress .
+
+#	NEW	imagesize	........ / </	// <p> In 1978 , Carter was cast as Effie White in the <a> Broadway </a> musical <em> <a> Dreamgirls </a> , </em> but departed the production during development to take a television role on the ABC-TV soap opera , <em> <a> Ryan ' s Hope </a> </em> in <a> New York </a> .
+
+359	TRUE	Christopher McQuarrie::birth_date	1968 / 1968 )	
+<p> <strong> Christopher McQuarrie </strong> ( born 1968 ) is an <a> American </a> screenwriter , producer and director .
+
+#	NEW	birth_name	........ / Christopher McQuarrie	// <p> <strong> Christopher McQuarrie </strong> ( born 1968 ) is an <a> American </a> screenwriter , producer and director .
+
+#	NEW	occupation	........ / Academy	// <p> Singer and McQuarrie collaborated again on the 1995 film <em> <a> The Usual Suspects </a> </em> , for which McQuarrie received best screenplay awards from <em> <a> Premiere </a> </em> magazine , The Texas Board of Review , and the Chicago Critics as well as the <a> Edgar Award </a> , The Independent Spirit Award , and the British and American Academy Awards .
+
+#	NEW	spouse	........ / and director .	// <p> <strong> Christopher McQuarrie </strong> ( born 1968 ) is an <a> American </a> screenwriter , producer and director .
+
+363	TRUE	Christopher McQuarrie::name	christopher mcquarrie / Christopher McQuarrie	
+<p> <strong> Christopher McQuarrie </strong> ( born 1968 ) is an <a> American </a> screenwriter , producer and director .
+
+#	NEW	imagesize	........ / 25	// <p> He wrote and produced <em> <a> Valkyrie </a> </em> , which opened on December 25 , 2008 .
+
+#	NEW	death_date	........ / screenwriter , producer	// <p> <strong> Christopher McQuarrie </strong> ( born 1968 ) is an <a> American </a> screenwriter , producer and director .
+
+#	NEW	birth_place	........ / , producer and director .	// <p> <strong> Christopher McQuarrie </strong> ( born 1968 ) is an <a> American </a> screenwriter , producer and director .
+
+#	NEW	birth_date	........ / 12 , 1893	// <p> <strong> Edward G . Robinson </strong> ( born <strong> Emanuel Goldenberg </strong> ; ; December 12 , 1893 <img> January 26 , 1973 ) was a <a> Romania </a> n-born <a> American </a> actor .
+
+368	TRUE	Edward G. Robinson::birth_name	emanuel goldenberg / Edward G. Robinson	
+<p> <strong> Edward G . Robinson </strong> ( born <strong> Emanuel Goldenberg </strong> ; ; December 12 , 1893 <img> January 26 , 1973 ) was a <a> Romania </a> n-born <a> American </a> actor .
+
+369	FALSE	Edward G. Robinson::occupation	actor / film	
+Although he played a wide range of characters , he is best remembered for his roles as a gangster , most notably in his star-making film <em> <a> Little Caesar </a> </em> .
+
+370	FALSE	Edward G. Robinson::name	edward g. robinson / n- born	
+<p> <strong> Edward G . Robinson </strong> ( born <strong> Emanuel Goldenberg </strong> ; ; December 12 , 1893 <img> January 26 , 1973 ) was a <a> Romania </a> n-born <a> American </a> actor .
+
+#	NEW	imagesize	........ / </	// and attended <a> Townsend Harris High School </a> and then the <a> City College of New York </a> .
+
+#	NEW	death_date	........ / 12 , 1893	// <p> <strong> Edward G . Robinson </strong> ( born <strong> Emanuel Goldenberg </strong> ; ; December 12 , 1893 <img> January 26 , 1973 ) was a <a> Romania </a> n-born <a> American </a> actor .
+
+#	NEW	death_place	........ / ,	// <p> Edward G . Robinson died from cancer in 1973 , and is buried in a crypt in the family mausoleum at Beth-El Cemetery in <a> Ridgewood , New York </a> . </p>
+
+#	NEW	spouse	........ / and artist .	// <p> Robinson married his first wife , stage actress Gladys Lloyd , in 1927 ; born Gladys Lloyd Cassell , she was the former wife of Ralph L . Vestervelt and the daughter of Clement C . Cassell , an architect , sculptor , and artist .
+
+#	NEW	birth_date	........ / 3 June 1946 )	// <p> <strong> Penelope Wilton </strong> <a> OBE </a> ( born 3 June 1946 ) is an English actress . </p>
+
+#	NEW	birth_place	........ / , Alice , born in 1977 .	// During Wilton ' s marriage to Massey they had a daughter , Alice , born in 1977 .
+
+377	FALSE	Penelope Wilton::birth_name	penelope alice wilton / This guest role was written especially for her by the programme ' s chief writer and executive producer <a> Russell T Davies	
+This guest role was written especially for her by the programme ' s chief writer and executive producer <a> Russell T Davies </a> , with whom she had previously worked on <em> <a> Bob and Rose </a> </em> ( <a> ITV </a> , 2001 ) .
+
+#	NEW	occupation	........ / performance	// In 2001 , she was nominated for the London <em> <a> Evening Standard </a> </em> Theatre Award for her performance in <em> <a> The Little Foxes </a> </em> at the Donmar Warehouse .
+
+#	NEW	spouse	........ / sister Lindy .	// <p> Between 1975 and 1984 , she was married to the actor <a> Daniel Massey </a> who , following their divorce , married her sister Lindy .
+
+380	TRUE	Penelope Wilton::name	penelope wilton / is an	
+<p> <strong> Penelope Wilton </strong> <a> OBE </a> ( born 3 June 1946 ) is an English actress . </p>
+
+#	NEW	imagesize	........ / 2008 ) .	// <p> Wilton has also appeared on television as Barbara Poole , the mother of a missing woman , in the BBC television drama series <em> <a> Five Days </a> </em> in 2005 ; and in ITV ' s drama <em> <a> Half Broken Things </a> </em> ( October 2007 ) and the BBC production of <em> The Passion </em> ( Easter 2008 ) . </p>
+
+#	NEW	death_date	........ / June 1946 )	// <p> <strong> Penelope Wilton </strong> <a> OBE </a> ( born 3 June 1946 ) is an English actress . </p>
+
+#	NEW	birth_date	........ / 9 , 1953 )	// <p> <strong> John Gavin Malkovich </strong> ( born December 9 , 1953 ) is an <a> American </a> <a> actor </a> , <a> producer </a> , and <a> director </a> .
+
+384	TRUE	John Malkovich::birth_name	john gavin malkovich / John Gavin Malkovich	
+<p> <strong> John Gavin Malkovich </strong> ( born December 9 , 1953 ) is an <a> American </a> <a> actor </a> , <a> producer </a> , and <a> director </a> .
+
+#	NEW	death_date	........ / 9 , 1953 )	// <p> <strong> John Gavin Malkovich </strong> ( born December 9 , 1953 ) is an <a> American </a> <a> actor </a> , <a> producer </a> , and <a> director </a> .
+
+#	NEW	death_place	........ / , Malkovich	// He and his family left France in a dispute over taxes in 2003 , In a 2008 interview on <em> <a> The Late Show With David Letterman </a> </em> , Malkovich said he had just spent five weeks that summer living in France . </p>
+
+#	NEW	caption	........ / Michael Rennie	// The 1937 <a> test </a> , which exists in the <a> British Film Institute </a> archives under the title &quot ; Marguerite Allan and Michael Rennie Screen Test , &quot ; did not lead to a film career for either performer .
+
+#	NEW	occupation	........ / actor	// <p> When <a> Warner Brothers Pictures </a> cast the film version in early 1963 , Rennie , along with leading man <a> Barry Nelson </a> and supporting actor <a> Hiram Sherman </a> ( who joined the play two years after the opening in the part first played by <a> John Cromwell </a> ) were the only Broadway cast members to transfer to the big screen .
+
+#	NEW	spouse	........ / was Taylor .	// <p> It appears that he also had a son , John Marshall , by his longtime friend and mistress , Ren&#x00e9 ; e ( n&#x00e9 ; e Gilbert ) , whose married name was Taylor .
+
+390	TRUE	Michael Rennie::name	michael rennie / Earth Stood	
+<p> <strong> Michael Rennie </strong> ( 25 August 1909 &ndash ; 10 June 1971 ) was an <a> English </a> film , television , and stage actor , best known for his starring role as the space visitor <a> Klaatu </a> in the 1951 classic <a> science fiction </a> film <em> <a> The Day the Earth Stood Still </a> </em> . </p>
+
+391	FALSE	Michael Rennie::birth_name	eric alexander rennie / best known for his starring role as the space visitor	
+<p> <strong> Michael Rennie </strong> ( 25 August 1909 &ndash ; 10 June 1971 ) was an <a> English </a> film , television , and stage actor , best known for his starring role as the space visitor <a> Klaatu </a> in the 1951 classic <a> science fiction </a> film <em> <a> The Day the Earth Stood Still </a> </em> . </p>
+
+#	NEW	birth_date	........ / 23 , 1972	// <p> <strong> Kate del Castillo </strong> ( born October 23 , 1972 in <a> Mexico City </a> ) is a <a> Mexican </a> actress . </p>
+
+#	NEW	birth_name	........ / Kate del Castillo	// <p> <strong> Kate del Castillo </strong> ( born October 23 , 1972 in <a> Mexico City </a> ) is a <a> Mexican </a> actress . </p>
+
+#	NEW	occupation	........ / actor	// <p> Kate Del Castillo is the daughter of Kate Trillo and <a> Eric del Castillo </a> , a legend of the Mexican cinema ' s golden era and a former <a> soap opera </a> actor himself .
+
+395	FALSE	Kate del Castillo::name	kate del castillo / They are	
+They are currently living in Los Angeles , California . </p>
+
+#	NEW	death_date	........ / 23 , 1972	// <p> <strong> Kate del Castillo </strong> ( born October 23 , 1972 in <a> Mexico City </a> ) is a <a> Mexican </a> actress . </p>
+
+#	NEW	birth_date	........ / 10 , 1900 &	// <p> <strong> Helen Hayes Brown </strong> ( October 10 , 1900 &ndash ; March 17 , 1993 ) was an American actress whose career spanned almost 70 years .
+
+#	NEW	birth_place	........ / , 1900 .	// <p> Helen Hayes was born in <a> Washington D . C . </a> on October 10 , 1900 .
+
+399	TRUE	Helen Hayes::birth_name	helen hayes brown / Helen Hayes Brown	
+<p> <strong> Helen Hayes Brown </strong> ( October 10 , 1900 &ndash ; March 17 , 1993 ) was an American actress whose career spanned almost 70 years .
+
+400	TRUE	Helen Hayes::occupation	actress / Actress	
+<p> Her sound film debut was <em> <a> The Sin of Madelon Claudet </a> </em> , for which she won the <a> Academy Award for Best Actress </a> .
+
+#	NEW	spouse	........ / White House . )	// She said her stage debut was a 5-year old singer at Washington ' s Belasco Theatre ( on Lafayette Square , across from the White House . )
+
+402	FALSE	Helen Hayes::name	helen hayes / the stage.	
+However , she never became a fan favorite and Hayes did not prefer the medium to the stage . </em> </strong> </p>
+
+#	NEW	death_date	........ / 10 , 1900 &	// <p> <strong> Helen Hayes Brown </strong> ( October 10 , 1900 &ndash ; March 17 , 1993 ) was an American actress whose career spanned almost 70 years .
+
+#	NEW	caption	........ / a homage	// Actor <a> Michael J . Fox </a> has stated that he adopted the <em> J . </em> in his name as a homage to Pollard . </p>
+
+#	NEW	birth_date	........ / May 30 , 1939 )	// <p> <strong> Michael J . Pollard </strong> ( born May 30 , 1939 ) is an American actor . </p>
+
+406	FALSE	Michael J. Pollard::birth_name	michael john pollack, jr. / Michael J. Pollard	
+<p> <strong> Michael J . Pollard </strong> ( born May 30 , 1939 ) is an American actor . </p>
+
+407	TRUE	Michael J. Pollard::occupation	actor / Actor	
+<p> In 1967 he played the supporting role of C . W . Moss in <a> Arthur Penn </a> ' s <a> Bonnie and Clyde </a> alongside <a> Warren Beatty </a> , <a> Faye Dunaway </a> and <a> Estelle Parsons </a> , for which he received <a> Academy Award </a> and <a> Golden Globe Award </a> nominations for Best Supporting Actor and won a <a> BAFTA Award </a> for Most Promising Newcomer to Leading Film Roles .
+
+#	NEW	name	........ / Michael J .	// <p> <strong> Michael J . Pollard </strong> ( born May 30 , 1939 ) is an American actor . </p>
+
+#	NEW	death_date	........ / 30 , 1939 )	// <p> <strong> Michael J . Pollard </strong> ( born May 30 , 1939 ) is an American actor . </p>
+
+#	NEW	caption	........ / <a> Harvey	// In 2000 , she was named co-president of The Actors Studio ! n . b . , there is no possessive in studio ' s name , alongside <a> Al Pacino </a> and <a> Harvey Keitel </a> . </p>
+
+#	NEW	birth_date	........ / 7 , 1932 )	// <p> <strong> Ellen Burstyn </strong> ( born December 7 , 1932 ) is an American actress , who has worked in film , <a> stage </a> and television .
+
+412	FALSE	Ellen Burstyn::birth_name	edna rae gillooly / is an American actress, who has worked	
+<p> <strong> Ellen Burstyn </strong> ( born December 7 , 1932 ) is an American actress , who has worked in film , <a> stage </a> and television .
+
+413	TRUE	Ellen Burstyn::occupation	actress / Actress	
+<p> Burstyn received <a> Academy Award </a> nominations for <a> Best Supporting Actress </a> in 1971 for her role in the <a> drama film </a> <em> <a> The Last Picture Show </a> </em> and for <a> Best Actress </a> in 1973 for the <a> horror film </a> <em> <a> The Exorcist </a> </em> .
+
+#	NEW	spouse	........ / divorced in	// <p> In 1950 , she married Bill Alexander , but they were divorced in 1957 .
+
+#	NEW	death_date	........ / 7 , 1932 )	// <p> <strong> Ellen Burstyn </strong> ( born December 7 , 1932 ) is an American actress , who has worked in film , <a> stage </a> and television .
+
+416	FALSE	Ellen Burstyn::name	ellen burstyn / Marie Therese.	
+Burstyn returned to the stage from March 18 &#x2013 ; May 4 , 2008 , in an <a> Off-Broadway </a> production of <a> Stephen Adly Guirgis </a> ' s ! what genre ? <em> The Little Flower of East Orange </em> , directed by <a> Philip Seymour Hoffman </a> in a co-production by <a> LAByrinth Theater Company </a> and <a> The Public Theater </a> ; Burstyn played the role of Marie Therese . </p>
+
+#	NEW	birth_date	........ / 21 , 1921 &	// <p> <strong> Judy Holliday </strong> ( June 21 , 1921 &ndash ; June 7 , 1965 ) was an American actress . </p>
+
+418	FALSE	Judy Holliday::birth_name	judith tuvim / an American actress.	
+<p> <strong> Judy Holliday </strong> ( June 21 , 1921 &ndash ; June 7 , 1965 ) was an American actress . </p>
+
+419	FALSE	Judy Holliday::name	judy holliday / Motion Picture	
+Her success in the 1946 stage production of <em> <a> Born Yesterday </a> </em> as &quot ; Billie Dawn&quot ; led to her being cast in the 1950 film version , for which she won the <a> Academy Award for Best Actress </a> and the <a> Golden Globe Award for Best Actress - Motion Picture Musical or Comedy </a> .
+
+#	NEW	death_date	........ / ( June 21 , 1921 &	// <p> <strong> Judy Holliday </strong> ( June 21 , 1921 &ndash ; June 7 , 1965 ) was an American actress . </p>
+
+#	NEW	death_place	........ / , on June 7 , 1965 .	// <p> Holliday died from <a> breast cancer </a> , on June 7 , 1965 .
+
+422	TRUE	Judy Holliday::occupation	actress / Actress	
+She got rave reviews and Cohn offered her the chance to repeat her role for the film version of <em> <a> Born Yesterday </a> </em> , She won the first <a> Golden Globe Award for Best Actress - Motion Picture Musical or Comedy </a> and at the <a> 23rd Academy Awards </a> , Holliday won the <a> Academy Award for Best Actress </a> , over <a> Gloria Swanson </a> , nominated for <em> <a> Sunset Boulevard </a> </em> , <a> Eleanor Parker </a> , for <em> <a> Caged </a> </em> , and <a> Bette Davis </a> and <a> Anne Baxter </a> , both for <em> <a> All About Eve </a> </em> . </p>
+
+423	FALSE	Shelley Winters::birth_name	shirley schrift / who appeared in dozens of films	
+<p> <strong> Shelley Winters </strong> ( August 18 , 1920 &ndash ; January 14 , 2006 ) was an <a> American </a> <a> actress </a> who appeared in dozens of films , as well as on stage and television ; her career spanned over fifty years until her death in 2006 .
+
+424	TRUE	Shelley Winters::occupation	actress / Actress	
+But it was her performance in <em> <a> A Place in the Sun </a> </em> ( 1951 ) , a departure from the sexpot image that her studio , <a> Universal Pictures </a> , was building up for her at the time , that first brought Winters her acclaim , earning a nomination for the <a> Academy Award </a> for <a> Best Actress </a> .
+
+#	NEW	imagesize	........ / <a>	// She starred with him in the 1951 film , <em> <a> Behave Yourself ! </a> </em> , as well as in a 1957 television production of <a> A .
+
+#	NEW	birth_date	........ / 2 , 1925 )	// <p> <strong> Julia Ann &quot ; Julie&quot ; Harris </strong> ( born December 2 , 1925 ) is an American stage , screen , and television actress .
+
+427	FALSE	Julie Harris::birth_name	julia ann harris / Julia Ann &quot ; Julie&quot ; Harris	
+<p> <strong> Julia Ann &quot ; Julie&quot ; Harris </strong> ( born December 2 , 1925 ) is an American stage , screen , and television actress .
+
+428	FALSE	Julie Harris::occupation	actress / Award	
+She has won five <a> Tony Award </a> s , three <a> Emmy Award </a> s and a <a> Grammy Award </a> , and was nominated for an <a> Academy Award </a> .
+
+#	NEW	spouse	........ / television actress .	// <p> <strong> Julia Ann &quot ; Julie&quot ; Harris </strong> ( born December 2 , 1925 ) is an American stage , screen , and television actress .
+
+#	NEW	name	........ / and television	// <p> <strong> Julia Ann &quot ; Julie&quot ; Harris </strong> ( born December 2 , 1925 ) is an American stage , screen , and television actress .
+
+#	NEW	death_date	........ / 2 , 1925 )	// <p> <strong> Julia Ann &quot ; Julie&quot ; Harris </strong> ( born December 2 , 1925 ) is an American stage , screen , and television actress .
+
+#	NEW	caption	........ / ( born December	// <p> <strong> Julia Ann &quot ; Julie&quot ; Harris </strong> ( born December 2 , 1925 ) is an American stage , screen , and television actress .
+
+#	NEW	birth_place	........ / , screen , and television actress .	// <p> <strong> Julia Ann &quot ; Julie&quot ; Harris </strong> ( born December 2 , 1925 ) is an American stage , screen , and television actress .
+
+#	NEW	death_place	........ / , a	// Harris has survived <a> breast cancer </a> , a bad fall requiring surgery , and a stroke . </p>
+
+435	FALSE	Alice Brady::birth_name	mary rose brady / an American actress who began her	
+<p> <strong> Alice Brady </strong> ( November 2 , 1892 &#x2013 ; October 28 , 1939 ) was an American actress who began her career in the <a> silent film </a> era and survived the transition into <a> talkies </a> .
+
+436	TRUE	Alice Brady::occupation	actress / Actress	
+Her films include <em> <a> My Man Godfrey </a> </em> ( 1936 ) , in which she played the flighty mother of <a> Carole Lombard </a> ' s character , and <em> <a> In Old Chicago </a> </em> ( 1938 ) for which she won the <a> Academy Award for Best Supporting Actress </a> . </p>
+
+#	NEW	spouse	........ / a child .	// Her step mother was the Broadway star <a> Grace George </a> ( 1879&#x2013 ; 1961 ) whom her father married when Alice was a child .
+
+438	TRUE	Alice Brady::name	alice brady / an American	
+<p> <strong> Alice Brady </strong> ( November 2 , 1892 &#x2013 ; October 28 , 1939 ) was an American actress who began her career in the <a> silent film </a> era and survived the transition into <a> talkies </a> .
+
+#	NEW	death_date	........ / cancer in 1939 .	// She worked up until six months before her death from cancer in 1939 .
+
+#	NEW	caption	........ / a beating&	// His father ' s business &quot ; took a beating&quot ; .
+
+441	FALSE	Omar Sharif::occupation	actor / Awards	
+He has been nominated for an <a> Academy Award </a> and has won three <a> Golden Globe Awards </a> . </p>
+
+#	NEW	spouse	........ / country . & quot ;	// And a lot of missing my own land , my own people and my own country . &quot ;
+
+443	TRUE	Omar Sharif::name	omar sharif / actor who	
+<p> <strong> Omar Sharif </strong> ( <a> Arabic </a> : <strong> &#x0639 ; &#x0645 ; &#x0631 ; &#x0627 ; &#x0644 ; &#x0634 ; &#x0631 ; &#x064a ; &#x0641 ; </strong> ) ( born <strong> Michael Demitri Shalhoub </strong> ; April 10 , 1932 ) is an <a> Egypt </a> ian actor who has starred in <a> Hollywood </a> films , most famously in <em> <a> Doctor Zhivago </a> </em> , <em> <a> Funny Girl </a> </em> and <em> <a> Lawrence of Arabia </a> </em> .
+
+#	NEW	imagesize	........ / </	// Sharif played the title role in the 1965 film <em> <a> Doctor Zhivago </a> </em> by <a> David Lean </a> .
+
+#	NEW	death_date	........ / had smoked 50	// Sharif had smoked 50 cigarettes a day ; after the surgery , he quit easily . </p>
+
+#	NEW	birth_name	........ / Michael Demitri Shalhoub	// <p> <strong> Omar Sharif </strong> ( <a> Arabic </a> : <strong> &#x0639 ; &#x0645 ; &#x0631 ; &#x0627 ; &#x0644 ; &#x0634 ; &#x0631 ; &#x064a ; &#x0641 ; </strong> ) ( born <strong> Michael Demitri Shalhoub </strong> ; April 10 , 1932 ) is an <a> Egypt </a> ian actor who has starred in <a> Hollywood </a> films , most famously in <em> <a> Doctor Zhivago </a> </em> , <em> <a> Funny Girl </a> </em> and <em> <a> Lawrence of Arabia </a> </em> .
+
+447	TRUE	Carroll Baker::birth_name	carroll baker / is an American actress who has enjoyed popularity as both a serious dramatic actress	
+<p> <strong> Carroll Baker </strong> ( born May 28 , 1931 ) is an American actress who has enjoyed popularity as both a serious dramatic actress and , particularly in the 1960s , as a movie <a> sex symbol </a> .
+
+448	TRUE	Carroll Baker::occupation	actress / Actress	
+<em> Baby Doll </em> would remain the film for which she is best remembered ; she was nominated for the <a> Academy Award for Best Actress </a> for her role .
+
+#	NEW	spouse	........ / three times .	// <p> Baker has been married three times .
+
+450	FALSE	Carroll Baker::name	carroll baker / s 1964	
+She subsequently appeared with Masai warriors on the cover of <em> <a> Life </a> <strong> s 1964 issue .
+
+#	NEW	birth_date	........ / would	// <em> Baby Doll </em> would remain the film for which she is best remembered ; she was nominated for the <a> Academy Award for Best Actress </a> for her role .
+
+#	NEW	death_date	........ / 28 , 1931 )	// <p> <strong> Carroll Baker </strong> ( born May 28 , 1931 ) is an American actress who has enjoyed popularity as both a serious dramatic actress and , particularly in the 1960s , as a movie <a> sex symbol </a> .
+
+#	NEW	death_place	........ / , Jack Garfein ,	// <p> Following a protracted legal battle with <a> Paramount Pictures </a> and divorce from her second husband , Jack Garfein , Baker moved to <a> Europe </a> .
+
+#	NEW	birth_date	........ / 18 , 1916 & 2 ,	// <p> <strong> Betty Grable </strong> ( December 18 , 1916 &ndash ; July 2 , 1973 ) was an American <a> actress </a> , <a> dance </a> r and <a> singer </a> . </p>
+
+455	FALSE	Betty Grable::birth_name	elizabeth ruth grable / was an American	
+<p> <strong> Betty Grable </strong> ( December 18 , 1916 &ndash ; July 2 , 1973 ) was an American <a> actress </a> , <a> dance </a> r and <a> singer </a> . </p>
+
+#	NEW	occupation	........ / featured	// Grable then worked in small roles at different studios for the rest of the decade , including the <a> Academy Award </a> -winning <em> <a> The Gay Divorcee </a> </em> ( 1934 ) , starring <a> Fred Astaire </a> and <a> Ginger Rogers </a> , where she was prominently featured in the number &quot ; Let ' s K-nock K-nees&quot ; . </p>
+
+457	FALSE	Betty Grable::name	betty grable / But that '	
+But that ' s how it ' s been all my life .
+
+#	NEW	imagesize	........ / em>	// After small parts in over 50 <a> Hollywood </a> movies through the 1930s , Grable finally gained national attention for her stage role in the <a> Cole Porter </a> <a> Broadway </a> hit <em> <a> Du Barry Was a Lady </a> </em> ( 1939 ) .
+
+#	NEW	death_date	........ / 18 , 1916 &	// <p> <strong> Betty Grable </strong> ( December 18 , 1916 &ndash ; July 2 , 1973 ) was an American <a> actress </a> , <a> dance </a> r and <a> singer </a> . </p>
+
+#	NEW	death_place	........ / , her	// <p> For her next film , her mother got her a contract using a false <a> identification </a> .
+
+#	NEW	birth_date	........ / 12 , 1951 )	// <p> <strong> Joseph Peter &quot ; Joe&quot ; Pantoliano </strong> ( born September 12 , 1951 ) is an American film and television actor .
+
+#	NEW	birth_name	........ / Joseph Peter &quot ; Joe&quot ; Pantoliano	// <p> <strong> Joseph Peter &quot ; Joe&quot ; Pantoliano </strong> ( born September 12 , 1951 ) is an American film and television actor .
+
+463	TRUE	Joe Pantoliano::occupation	actor / Actor	
+That same year he won the <a> Emmy Award </a> for Outstanding Supporting Actor in a Drama Series for <em> <a> The Sopranos </a> </em> . </p>
+
+#	NEW	spouse	........ / television actor .	// <p> <strong> Joseph Peter &quot ; Joe&quot ; Pantoliano </strong> ( born September 12 , 1951 ) is an American film and television actor .
+
+#	NEW	name	........ / an American	// <p> <strong> Joseph Peter &quot ; Joe&quot ; Pantoliano </strong> ( born September 12 , 1951 ) is an American film and television actor .
+
+#	NEW	death_date	........ / 12 , 1951 )	// <p> <strong> Joseph Peter &quot ; Joe&quot ; Pantoliano </strong> ( born September 12 , 1951 ) is an American film and television actor .
+
+#	NEW	death_place	........ / , 1951 )	// <p> <strong> Joseph Peter &quot ; Joe&quot ; Pantoliano </strong> ( born September 12 , 1951 ) is an American film and television actor .
+
+#	NEW	birth_date	........ / 31 , 1929	// <p> <strong> Jean Merilyn Simmons </strong> , <a> OBE </a> ( January 31 , 1929 <img> January 22 , 2010 ) was an English actress .
+
+469	FALSE	Jean Simmons::birth_name	jean merilyn simmons / she married director	
+On November 1 , 1960 , she married director <a> Richard Brooks </a> ; they divorced in 1977 .
+
+470	FALSE	Jean Simmons::occupation	actress / Award	
+Simmons won an <a> Emmy Award </a> for her role .
+
+471	FALSE	Jean Simmons::name	jean simmons / which she	
+Prior to moving to Hollywood , she played the young Estella in <a> David Lean </a> ' s version of <em> <a> Great Expectations </a> </em> ( 1946 ) and <a> Ophelia </a> in <a> Laurence Olivier </a> ' s <em> <a> Hamlet </a> </em> ( 1948 ) , for which she received her first Oscar nomination .
+
+#	NEW	death_place	........ / , 2010 , nine	// Later she moved to <a> Santa Monica , California </a> , where she lived until her death from <a> lung cancer </a> at home on January 22 , 2010 , nine days before her 81st birthday . </p>
+
+#	NEW	birth_date	........ / 18 , 1920	// <p> <strong> Melina Mercouri </strong> ( ) , born as <strong> Maria Amalia Mercouris </strong> ( October 18 , 1920 , <a> Athens , Greece </a> &ndash ; March 6 , 1994 , <a> New York City , New York </a> ) was a <a> Greek </a> actress , singer and <a> politician </a> .
+
+#	NEW	birth_place	........ / in France .	// Her recordings ' Athenes , ma Ville ' , a collaboration with <a> Vangelis </a> , and ' Melinaki ' were popular in France .
+
+475	FALSE	Melina Mercouri::birth_name	maria amalia mercouris / film received special praise at the	
+The film received special praise at the <a> 1956 Cannes Film Festival </a> , where she met for first time the <a> American </a> <a> film director </a> <a> Jules Dassin </a> , with whom she would share her life , as they got married in 1966 , and career .
+
+#	NEW	occupation	........ / Actress	// She won the award for <a> Best Actress </a> at the <a> 1960 Cannes Film Festival </a> , and she was also nominated for an Academy Award , three <a> Golden Globe Award </a> s , and two <a> BAFTA Awards </a> .
+
+#	NEW	caption	........ / the Greek	// <p> Her first movie was the <a> Greek language </a> film <em> <a> Stella </a> </em> ( 1955 ) , directed by <a> Michael Cacoyannis </a> ( also the director of <em> <a> Zorba the Greek </a> </em> ) .
+
+#	NEW	birth_date	........ / may	// Smoking may have contributed to his developing <a> emphysema </a> .
+
+#	NEW	birth_name	........ / is the Director of Music and Film Scoring at	// <a> Leslie Ann </a> is the Director of Music and Film Scoring at <a> George Lucas </a> ' s <a> Skywalker Ranch </a> in <a> Marin County </a> . </p>
+
+#	NEW	occupation	........ / film	// <p> In 1940 , Jones had an uncredited bandleading part in the <a> Dead End Kids </a> film <em> Give Us Wings </em> , appearing on camera for about four seconds .
+
+#	NEW	spouse	........ / own pocket .	// Jones wound up paying some of the band ' s expenses out of his own pocket .
+
+482	FALSE	Spike Jones::name	spike jones / a popular	
+<p> <strong> Lindley Armstrong &quot ; Spike&quot ; Jones </strong> ( December 14 , 1911 &#x2013 ; May 1 , 1965 ) was a popular musician and bandleader specializing in performing satirical arrangements of popular songs .
+
+#	NEW	death_date	........ / 14 , 1911 &#	// <p> <strong> Lindley Armstrong &quot ; Spike&quot ; Jones </strong> ( December 14 , 1911 &#x2013 ; May 1 , 1965 ) was a popular musician and bandleader specializing in performing satirical arrangements of popular songs .
+
+#	NEW	birth_date	........ / 20 July 1938 )	// <p> <strong> Dame Enid Diana Elizabeth Rigg </strong> , <a> DBE </a> ( born 20 July 1938 ) is an <a> English </a> <a> actress </a> .
+
+485	FALSE	Diana Rigg::birth_name	enid diana elizabeth rigg / With Stirling she has a daughter	
+With Stirling she has a daughter , the actress <a> Rachael Stirling </a> , who was born in 1977 .
+
+#	NEW	occupation	........ / Actress	// <p> In the 1990s , she had triumphs with roles at the <a> Almeida Theatre </a> in <a> Islington </a> , including <em> <a> Medea </a> </em> in 1993 ( for which she received the Best Actress Tony Award ) , <em> <a> Mother Courage </a> </em> in 1995 and <em> <a> Who ' s Afraid of Virginia Woolf ? </a> </em> in 1996 .
+
+487	FALSE	Diana Rigg::name	diana rigg / made a	
+She made a highly memorable appearance on the <a> Morecambe and Wise </a> Christmas Show in 1975 , in which she played <a> Nell Gwynne </a> in a musical pastiche , joining Eric and Ernie to sing &#x201c ; How Could You Believe Me When I Said I Loved You When You Know I ' ve Been A Liar All My Life ? &#x201d ; . </p>
+
+#	NEW	birth_name	........ / most noted for founding <a> Leon Schlesinger Productions	// <p> <strong> Leon Schlesinger </strong> ( May 20 , 1884 &#x2013 ; December 25 , 1949 ) was an <a> American </a> <a> film producer </a> , most noted for founding <a> Leon Schlesinger Productions </a> , which later became the <a> Warner Bros . Cartoons </a> studio , during the <a> golden age of Hollywood animation </a> . </p>
+
+#	NEW	occupation	........ / studio	// On another occasion , he boycotted the <a> Academy Awards </a> for what he claimed was preferential treatment for the <a> Walt Disney </a> and <a> MGM cartoon studio </a> s .
+
+490	TRUE	Leon Schlesinger::name	leon schlesinger / Hollywood animation	
+<p> <strong> Leon Schlesinger </strong> ( May 20 , 1884 &#x2013 ; December 25 , 1949 ) was an <a> American </a> <a> film producer </a> , most noted for founding <a> Leon Schlesinger Productions </a> , which later became the <a> Warner Bros . Cartoons </a> studio , during the <a> golden age of Hollywood animation </a> . </p>
+
+#	NEW	death_date	........ / 10 , 1950	// A United Press dispatch dated January 10 , 1950 reported a director had been found to fill the vacancy caused by his death .
+
+#	NEW	birth_date	........ / ( May 20 , 1884 &# 25 ,	// <p> <strong> Leon Schlesinger </strong> ( May 20 , 1884 &#x2013 ; December 25 , 1949 ) was an <a> American </a> <a> film producer </a> , most noted for founding <a> Leon Schlesinger Productions </a> , which later became the <a> Warner Bros . Cartoons </a> studio , during the <a> golden age of Hollywood animation </a> . </p>
+
+#	NEW	imagesize	........ / 20	// <p> <strong> Leon Schlesinger </strong> ( May 20 , 1884 &#x2013 ; December 25 , 1949 ) was an <a> American </a> <a> film producer </a> , most noted for founding <a> Leon Schlesinger Productions </a> , which later became the <a> Warner Bros . Cartoons </a> studio , during the <a> golden age of Hollywood animation </a> . </p>
+
+#	NEW	birth_date	........ / May 26 , 1995	// <p> On May 26 , 1995 , Friz died of natural causes , aged 89 .
+
+#	NEW	spouse	........ / own studio .	// <p> Freleng soon teamed up with Harman and Ising to try to create their own studio .
+
+#	NEW	name	........ / Warner Bros .	// <p> <strong> Isadore &quot ; Friz&quot ; Freleng </strong> ( August 21 , 1905&nbsp ; &ndash ; May 26 , 1995 ) was an <a> animator </a> , <a> cartoonist </a> , <a> director </a> , and <a> producer </a> best known for his work on the <em> <a> Looney Tunes </a> </em> and <em> <a> Merrie Melodies </a> </em> series of <a> cartoon </a> s from <a> Warner Bros . </a> </p>
+
+#	NEW	birth_name	........ / Isadore & quot ; Friz&quot ; Freleng	// <p> <strong> Isadore &quot ; Friz&quot ; Freleng </strong> ( August 21 , 1905&nbsp ; &ndash ; May 26 , 1995 ) was an <a> animator </a> , <a> cartoonist </a> , <a> director </a> , and <a> producer </a> best known for his work on the <em> <a> Looney Tunes </a> </em> and <em> <a> Merrie Melodies </a> </em> series of <a> cartoon </a> s from <a> Warner Bros . </a> </p>
+
+#	NEW	birth_date	........ / 13 June 1943 )	// <p> <strong> Malcolm McDowell </strong> ( born 13 June 1943 ) is an <a> English </a> <a> actor </a> with a career spanning over forty years . </p>
+
+499	FALSE	Malcolm McDowell::birth_name	malcolm john taylor / He then married actress	
+He then married actress <a> Mary Steenburgen </a> , whom he had first met while filming <em> <a> Time After Time </a> </em> and they had two children together : Lily Amanda ( born 21 January 1981 ) , and Charles Malcolm ( born 10 July 1983 ) , before divorcing in 1990 .
+
+500	TRUE	Malcolm McDowell::occupation	actor / Actor )	
+He won great acclaim ( nominated for a <a> Golden Globe </a> and an award by the <a> New York Film Critics Circle </a> in the category of Best Actor ) for his role as <a> Alex </a> , a young <a> sociopath </a> <a> brainwashed </a> by an <a> authoritarian </a> <a> British government </a> . </p>
+
+#	NEW	death_date	........ / June 1943 )	// <p> <strong> Malcolm McDowell </strong> ( born 13 June 1943 ) is an <a> English </a> <a> actor </a> with a career spanning over forty years . </p>
+
+#	NEW	name	........ / a career	// <p> <strong> Malcolm McDowell </strong> ( born 13 June 1943 ) is an <a> English </a> <a> actor </a> with a career spanning over forty years . </p>
+
+#	NEW	birth_date	........ / Delgado	// <p> Delgado worked extensively on the British stage , and on TV , film and radio .
+
+#	NEW	birth_name	........ / best known for his role as	// <p> <strong> Roger Delgado </strong> ( 1 March 1918 &ndash ; 18 June 1973 ) was an <a> English </a> <a> actor </a> , best known for his role as <a> the first Master </a> in <em> <a> Doctor Who </a> </em> . </p>
+
+#	NEW	occupation	........ / actor	// <p> <strong> Roger Delgado </strong> ( 1 March 1918 &ndash ; 18 June 1973 ) was an <a> English </a> <a> actor </a> , best known for his role as <a> the first Master </a> in <em> <a> Doctor Who </a> </em> . </p>
+
+506	TRUE	Roger Delgado::name	roger delgado / Doctor Who	
+<p> <strong> Roger Delgado </strong> ( 1 March 1918 &ndash ; 18 June 1973 ) was an <a> English </a> <a> actor </a> , best known for his role as <a> the first Master </a> in <em> <a> Doctor Who </a> </em> . </p>
+
+#	NEW	death_date	........ / stage , and	// <p> Delgado worked extensively on the British stage , and on TV , film and radio .
+
+#	NEW	birth_date	........ / 28 , 1948 )	// <p> <strong> Bernadette Peters </strong> ( born <strong> Bernadette Lazzara </strong> on February 28 , 1948 ) is an American actress , singer and children ' s book author from <a> New York City </a> .
+
+#	NEW	occupation	........ / Awards	// She is one of the most critically-acclaimed <a> Broadway </a> performers , having received nominations for seven <a> Tony Awards </a> , winning two , and eight <a> Drama Desk Awards </a> , winning three .
+
+510	TRUE	Bernadette Peters::name	bernadette peters / an American	
+<p> <strong> Bernadette Peters </strong> ( born <strong> Bernadette Lazzara </strong> on February 28 , 1948 ) is an American actress , singer and children ' s book author from <a> New York City </a> .
+
+#	NEW	death_date	........ / 28 , 1948 )	// <p> <strong> Bernadette Peters </strong> ( born <strong> Bernadette Lazzara </strong> on February 28 , 1948 ) is an American actress , singer and children ' s book author from <a> New York City </a> .
+
+512	TRUE	Bernadette Peters::birth_name	bernadette lazzara / is an American actress, singer and children ' s book author from <a> New York City	
+<p> <strong> Bernadette Peters </strong> ( born <strong> Bernadette Lazzara </strong> on February 28 , 1948 ) is an American actress , singer and children ' s book author from <a> New York City </a> .
+
+#	NEW	caption	........ / without a	// Quoted in <em> <a> The Guardian </a> </em> , Davison said : &quot ; I ' ll be voting <a> Labour </a> without a doubt .
+
+#	NEW	birth_date	........ / 1991 ,	// In 1991 , he appeared in <em> <a> Arsenic and Old Lace </a> </em> at the <a> Chichester Festival Theatre </a> .
+
+#	NEW	occupation	........ / actor	// <p> <strong> Peter Davison </strong> ( born <strong> Peter Moffett </strong> on 13 April 1951 ) is a British actor , best known for his roles as Tristan Farnon in the television version of <a> James Herriot </a> ' s <em> <a> All Creatures Great and Small </a> </em> and the <a> fifth incarnation </a> of <a> the Doctor </a> in <em> <a> Doctor Who </a> </em> , which he played from 1982 to 1984 . </p>
+
+#	NEW	death_date	........ / Ingrams , a	// Davison played John Ingrams , a lawyer who helps Jones ' character , Ruth Slater , find her sister after her release from prison . </p>
+
+#	NEW	birth_name	........ / April 1951 ) is a British actor , best known for his roles as Tristan Farnon in the television version of	// <p> <strong> Peter Davison </strong> ( born <strong> Peter Moffett </strong> on 13 April 1951 ) is a British actor , best known for his roles as Tristan Farnon in the television version of <a> James Herriot </a> ' s <em> <a> All Creatures Great and Small </a> </em> and the <a> fifth incarnation </a> of <a> the Doctor </a> in <em> <a> Doctor Who </a> </em> , which he played from 1982 to 1984 . </p>
+
+518	TRUE	Peter Davison::name	peter davison / which he	
+<p> <strong> Peter Davison </strong> ( born <strong> Peter Moffett </strong> on 13 April 1951 ) is a British actor , best known for his roles as Tristan Farnon in the television version of <a> James Herriot </a> ' s <em> <a> All Creatures Great and Small </a> </em> and the <a> fifth incarnation </a> of <a> the Doctor </a> in <em> <a> Doctor Who </a> </em> , which he played from 1982 to 1984 . </p>
+
+#	NEW	birth_place	........ / , Scotland .	// <p> Mackay was born in <a> Paisley </a> , <a> Renfrewshire </a> , Scotland .
+
+#	NEW	birth_name	........ / most notable for his role as	// <p> <strong> Fulton Mackay </strong> OBE ( 12 August 1922 - 6 June 1987 ) was a <a> Scottish </a> <a> actor </a> and <a> playwright </a> , most notable for his role as <a> prison officer </a> <a> Mr .
+
+#	NEW	occupation	........ / 1984	// He was awarded an OBE in 1984 and greatly enjoyed oil painting .
+
+522	TRUE	Fulton Mackay::name	fulton mackay / prison officer	
+<p> <strong> Fulton Mackay </strong> OBE ( 12 August 1922 - 6 June 1987 ) was a <a> Scottish </a> <a> actor </a> and <a> playwright </a> , most notable for his role as <a> prison officer </a> <a> Mr .
+
+#	NEW	death_place	........ / , Surrey , England .	// He is buried at East Sheen and Richmond Cemeteries , Surrey , England .
+
+#	NEW	birth_date	........ / May 24 , 1945 )	// <p> <strong> Priscilla Presley </strong> ( born <strong> Priscilla Ann Wagner </strong> ; May 24 , 1945 ) is an <a> American </a> <a> actress </a> and <a> businesswoman </a> .
+
+#	NEW	birth_place	........ / , and lived .	// The area is in the street outside the house where her grandfather was born in 1896 , and lived .
+
+526	TRUE	Priscilla Presley::birth_name	priscilla ann wagner / Priscilla Ann Wagner	
+<p> <strong> Priscilla Presley </strong> ( born <strong> Priscilla Ann Wagner </strong> ; May 24 , 1945 ) is an <a> American </a> <a> actress </a> and <a> businesswoman </a> .
+
+#	NEW	occupation	........ / Best	// <em> Elvis : By Those Who Knew Him Best </em> .
+
+#	NEW	death_date	........ / death in 1977	// <p> After Elvis ' death in 1977 , Vernon Presley served as executor of his estate .
+
+#	NEW	birth_place	........ / Paris in 1924 .	// The choreography proved too experimental for the new authorities On a trip to <a> Weimar Republic </a> with the Soviet State Dancers , Balanchine , Tamara Geva , <a> Alexandra Danilova </a> , and Nicholas Efimov defected to the west and fled to Paris in 1924 .
+
+#	NEW	birth_name	........ / Giorgi Balanchivadze	// <p> <strong> George Balanchine </strong> ( January 22 , 1904 &ndash ; April 30 , 1983 ) , born <strong> Giorgi Balanchivadze </strong> ( ) in Saint Petersburg , Russia , to a <a> Georgian </a> father and a <a> Russian </a> mother , was one of the 20th century ' s foremost <a> choreographer </a> s , a pioneer of ballet in the United States , co-founder and balletmaster of <a> New York City Ballet </a> : his work created modern ballet , based on his deep knowledge of classical forms and techniques .
+
+#	NEW	spouse	........ / old dancer .	// In 1922 when Balanchine was eighteen , he married <a> Tamara Geva </a> , a fifteen year old dancer .
+
+532	FALSE	George Balanchine::name	george balanchine / live one '	
+<p> [ [ Image : MenofRusseTribute2007 . jpg | thumb | <strong> Men of the Ballet Russe 2007 Gala Tribute </strong> &quot ; To cross time and oceans with [ [ Balanchine ] ] and <a> Diaghilev </a> your oldest friends , is how to live one ' s life . &quot ; ] ] </p>
+
+#	NEW	birth_name	........ / filmmaker who was active	// <p> <strong> Karel Reisz </strong> ( 21 July 1926 &#x2013 ; 25 November 2002 ) was a <a> Czech </a> -born <a> British </a> filmmaker who was active in post&#x2013 ; <a> war </a> Britain , and one of the pioneers of the new realist strain in 1950s and 1960s <a> British cinema </a> . </p>
+
+534	FALSE	Karel Reisz::name	karel reisz / David Mercer	
+<p> He produced Anderson ' s <em> <a> This Sporting Life </a> </em> ( 1963 ) and directed <em> <a> Morgan : A Suitable Case For Treatment </a> </em> ( 1966 ) adapted by <a> David Mercer </a> from his 1962 television play .
+
+#	NEW	imagesize	........ / 1962	// <p> He produced Anderson ' s <em> <a> This Sporting Life </a> </em> ( 1963 ) and directed <em> <a> Morgan : A Suitable Case For Treatment </a> </em> ( 1966 ) adapted by <a> David Mercer </a> from his 1962 television play .
+
+#	NEW	caption	........ / a second	// Lester recalls that <em> A Show Called Fred </em> was &quot ; broadcast live and that ' s why I went into film directing where you can do a second take ! &quot ; </p>
+
+#	NEW	birth_name	........ / notable for his work with	// <p> <strong> Richard Lester </strong> ( born 19 January 1932 ) is an <a> American </a> -born <a> British </a> -based <a> film director </a> notable for his work with <a> The Beatles </a> in the 1960s and his work on the <a> Superman film series </a> in the 1980s . </p>
+
+538	TRUE	Richard Lester::name	richard lester / film series	
+<p> <strong> Richard Lester </strong> ( born 19 January 1932 ) is an <a> American </a> -born <a> British </a> -based <a> film director </a> notable for his work with <a> The Beatles </a> in the 1960s and his work on the <a> Superman film series </a> in the 1980s . </p>
+
+#	NEW	occupation	........ / <em>	// He then went on to direct several quintessential ' swinging ' films , including the sex comedy <em> <a> The Knack &#x2026 ; and How to Get It </a> </em> , which won the <a> Palme d ' Or </a> at the <a> Cannes Film Festival </a> and <em> <a> Petulia </a> </em> ( both with scores by <a> John Barry </a> ) , as well as the darkly surreal anti-war movie <em> <a> How I Won the War </a> </em> co-starring <a> John Lennon </a> , which he referred to as an &quot ; anti-anti-war movie&quot ; ; Lester noted that anti-war movies still took the concept of war seriously , contrasting &quot ; bad&quot ; <a> war crime </a> s with wars fought for &quot ; good&quot ; causes like the liberation from <a> Nazism </a> or , at that time , <a> Communism </a> , whereas he set out to <a> deconstruct </a> it to show war as <em> fundamentally </em> opposed to humanity .
+
+#	NEW	birth_date	........ / ( 19 September 1930 &	// <p> <strong> Derek Robert Nimmo </strong> ( 19 September 1930 &ndash ; 24 February 1999 ) was an <a> English </a> <a> character actor </a> .
+
+#	NEW	birth_name	........ / Derek Robert Nimmo	// <p> <strong> Derek Robert Nimmo </strong> ( 19 September 1930 &ndash ; 24 February 1999 ) was an <a> English </a> <a> character actor </a> .
+
+#	NEW	occupation	........ / the	// <p> He received many awards , including the 1990 Benedictine After Dinner Speaker of the Year .
+
+543	FALSE	Derek Nimmo::name	derek nimmo / character actor	
+<p> <strong> Derek Robert Nimmo </strong> ( 19 September 1930 &ndash ; 24 February 1999 ) was an <a> English </a> <a> character actor </a> .
+
+#	NEW	birth_name	........ / Nikolaus Karl G&#x00fc ; nther Nakszy&#x0144 ; ski	// <p> <strong> Nikolaus Karl G&#x00fc ; nther Nakszy&#x0144 ; ski </strong> , best known as <strong> Klaus Kinski </strong> ( 18 October 1926&nbsp ; &#x2013 ; 23 November 1991 ) , was a <a> German </a> actor .
+
+545	FALSE	Klaus Kinski::occupation	actor / of	
+With <em> My Best Fiend </em> , in which the director also showed lighter and humorous aspects of Kinski ' s personality , this changed somewhat .
+
+#	NEW	spouse	........ / independent analysts .	// For many years to come , Kinski ' s own writings were the only source for facts about his life and were not questioned or doubted by independent analysts .
+
+547	TRUE	Klaus Kinski::name	klaus kinski / was a	
+<p> <strong> Nikolaus Karl G&#x00fc ; nther Nakszy&#x0144 ; ski </strong> , best known as <strong> Klaus Kinski </strong> ( 18 October 1926&nbsp ; &#x2013 ; 23 November 1991 ) , was a <a> German </a> actor .
+
+#	NEW	imagesize	........ / </	// <p> During the 1960s and 70s , Kinski appeared in various European <a> exploitation film </a> genres , as well as more acclaimed works such as <em> <a> Doctor Zhivago </a> </em> ( 1965 ) , in which he played an <a> Anarchist </a> prisoner on his way to the <a> Gulag </a> .
+
+#	NEW	death_date	........ / 23 November 1991 )	// <p> <strong> Nikolaus Karl G&#x00fc ; nther Nakszy&#x0144 ; ski </strong> , best known as <strong> Klaus Kinski </strong> ( 18 October 1926&nbsp ; &#x2013 ; 23 November 1991 ) , was a <a> German </a> actor .
+
+#	NEW	birth_date	........ / Nikolaus	// <p> <strong> Nikolaus Karl G&#x00fc ; nther Nakszy&#x0144 ; ski </strong> , best known as <strong> Klaus Kinski </strong> ( 18 October 1926&nbsp ; &#x2013 ; 23 November 1991 ) , was a <a> German </a> actor .
+
+#	NEW	birth_date	........ / ,	// Australian film critic <a> Margaret Pomeranz </a> , co-host of <a> <em> At the Movies </em> </a> , was almost arrested for screening the film at a theatre . </p>
+
+#	NEW	birth_name	........ / Lawrence Donald &quot ; Larry&quot ; Clark	// <p> <strong> Lawrence Donald &quot ; Larry&quot ; Clark </strong> ( born January 19 , 1943 ) is an <a> American </a> <a> film director </a> , <a> photographer </a> , <a> writer </a> and <a> film producer </a> who is best known for the movie <a> <em> Kids </em> </a> and his photography book <em> <a> Tulsa </a> </em> .
+
+#	NEW	occupation	........ / film	// Clark is scheduled to direct the film adaption of <a> Richelle Mead </a> ' s novel <em> <a> Vampire Academy </a> </em> . </p>
+
+#	NEW	imagesize	........ / </	// <p> Clark is represented by <a> Simon Lee Gallery in </a> <a> London </a> and the <a> Luhring Augustine Gallery </a> in <a> New York City </a> .
+
+#	NEW	birth_name	........ / an American television actor and comedian , best known for the role of Buddy Sorrell on	// <p> <strong> Morey Amsterdam </strong> ( December 14 , 1908 &ndash ; October 28 , 1996 ) was an American television actor and comedian , best known for the role of Buddy Sorrell on <em> <a> The Dick Van Dyke Show </a> </em> in the early 1960s . </p>
+
+#	NEW	occupation	........ / actor	// <p> <strong> Morey Amsterdam </strong> ( December 14 , 1908 &ndash ; October 28 , 1996 ) was an American television actor and comedian , best known for the role of Buddy Sorrell on <em> <a> The Dick Van Dyke Show </a> </em> in the early 1960s . </p>
+
+557	TRUE	Morey Amsterdam::name	morey amsterdam / Dick Van	
+<p> <strong> Morey Amsterdam </strong> ( December 14 , 1908 &ndash ; October 28 , 1996 ) was an American television actor and comedian , best known for the role of Buddy Sorrell on <em> <a> The Dick Van Dyke Show </a> </em> in the early 1960s . </p>
+
+#	NEW	birth_date	........ / April 2006 , Vereen	// In April 2006 , Vereen visited Laurinburg with a genealogist and learned that his mother ' s name was Essie May Pearson , who had died 24 years before .
+
+559	FALSE	Ben Vereen::birth_name	benjamin augustus middleton / who has appeared	
+<p> <strong> Ben Vereen </strong> ( born October 10 , 1946 ) is an <a> American </a> <a> actor </a> , <a> dancer </a> , and <a> singer </a> who has appeared in numerous <a> Broadway theatre </a> shows .
+
+#	NEW	occupation	........ / his	// <p> He was nominated for a <a> Tony Award </a> for <em> <a> Jesus Christ Superstar </a> </em> in 1972 and won a <a> Tony </a> for his appearance in <em> <a> Pippin </a> </em> in 1973 .
+
+561	TRUE	Ben Vereen::name	ben vereen / who has	
+<p> <strong> Ben Vereen </strong> ( born October 10 , 1946 ) is an <a> American </a> <a> actor </a> , <a> dancer </a> , and <a> singer </a> who has appeared in numerous <a> Broadway theatre </a> shows .
+
+#	NEW	occupation	........ / Actor	// Oldman ' s performance is regarded by many as a staple of the horror genre , and was recognised by the <a> Academy of Science Fiction , Fantasy &amp ; Horror Films </a> as the best male performance of 1992 , who awarded Oldman the prestigious <a> Best Actor </a> award .
+
+#	NEW	name	........ / Alexandra Edenborough	// <p> On 31 December 2008 , Oldman married <a> Alexandra Edenborough </a> in <a> Santa Barbara , California </a> in a private , formal ceremony . </p>
+
+#	NEW	death_place	........ / , shot	// Oldman also directed the music video for &quot ; Red Rover&quot ; , a song from Jewish <a> rap </a> group Chutzpah ' s second CD <em> Hip Hop Fantasy </em> , shot entirely on the N93 .
+
+#	NEW	birth_name	........ / Gary Leonard Oldman	// <p> <strong> Gary Leonard Oldman </strong> ( born 21 March 1958 ) is an English actor and filmmaker , well-known to audiences for his portrayals of dark and morally ambiguous characters in films such as <em> <a> State of Grace </a> </em> , <em> <a> True Romance </a> </em> , <em> <a> L&#x00e9 ; on </a> </em> , <em> <a> The Fifth Element </a> </em> , <em> <a> Air Force One </a> </em> , <em> <a> The Contender </a> </em> , <em> <a> Hannibal </a> </em> and <em> <a> Dracula </a> </em> . to describe him as &quot ; the best young British actor around&quot ; .
+
+#	null	death_date	11 january 2003 / ..........
+
+#	null	name	sam waterston / ..........
+
+#	null	name	adam buxton / ..........
 
 #	null	occupation	actor / ..........
 
-#	null	birthdate	april 29, 1936 / ..........
+#	null	imagesize	215px / ..........
 
-#	null	birth_date	june 12, 1918 / ..........
+#	null	name	shelley winters / ..........
+
+#	null	imagesize	200px / ..........
+
+#	null	imagesize	300px / ..........
+
+#	null	caption	jack mercer / ..........
+
+#	null	name	charles bronson / ..........
+
+#	null	death_place	new york city / ..........
+
+#	null	name	beatrice arthur / ..........
+
+#	null	name	dyan cannon / ..........
 

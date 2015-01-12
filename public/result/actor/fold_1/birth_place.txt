@@ -1,4 +1,4 @@
-Found: 3
+Found: 14
 Found Not Null: 0
 Correct: 0
 Wrong: 0
@@ -6,9 +6,31 @@ Total: 0
 
 
 
-#	NEW	birth_place	........ / em> ( France ) .	// <em> <a> Studio </a> </em> ( France ) .
+#	NEW	birth_place	........ / , TV , and film actor .	// <p> <strong> Matthew &quot ; Matt&quot ; Frewer </strong> ( born January 4 , 1958 ) is a <a> Canadian American </a> stage , TV , and film actor .
 
-#	NEW	birth_place	........ / Los Angeles	// <p> She moved to <a> Los Angeles , California </a> in an attempt to start a career in show business .
+#	NEW	birth_place	........ / , Garland Brooke .	// <p> Sullavan was born in <a> Norfolk , Virginia </a> , the daughter of a wealthy <a> stockbroker </a> , Cornelius Sullavan and his wife , Garland Brooke .
 
-#	NEW	birth_place	........ / Los Angeles	// <p> Lemmon was born in <a> Los Angeles </a> , <a> California </a> , the son of actress <a> Cynthia Stone </a> and actor <a> Jack Lemmon </a> .
+#	NEW	birth_place	........ / , 1985 , now called Malone ) .	// Together they adopted Moses &quot ; Misha&quot ; Farrow ( born January 27 , 1978 , adopted 1980 ) and Dylan &quot ; Eliza&quot ; Farrow ( born July 11 , 1985 , now called Malone ) .
+
+#	NEW	birth_place	........ / , lecturer , creative consultant , and human performance technician .	// <p> <strong> Steven Barnes </strong> ( born March 1 , 1952 , <a> Los Angeles , California </a> ) is an <a> African American </a> <a> science fiction </a> writer , lecturer , creative consultant , and human performance technician .
+
+#	NEW	birth_place	........ / Paris .	// <p> Hurt is fluent in French and maintains a home outside Paris .
+
+#	NEW	birth_place	........ / , a businessman .	// <p> Callow was born in <a> Streatham </a> , <a> London </a> , <a> UK </a> , to Yvonne Mary Guise , a secretary , and Neil Francis Callow , a businessman .
+
+#	NEW	birth_place	........ / , producer and director .	// <p> <strong> Christopher McQuarrie </strong> ( born 1968 ) is an <a> American </a> screenwriter , producer and director .
+
+#	NEW	birth_place	........ / , Alice , born in 1977 .	// During Wilton ' s marriage to Massey they had a daughter , Alice , born in 1977 .
+
+#	NEW	birth_place	........ / , 1900 .	// <p> Helen Hayes was born in <a> Washington D . C . </a> on October 10 , 1900 .
+
+#	NEW	birth_place	........ / , screen , and television actress .	// <p> <strong> Julia Ann &quot ; Julie&quot ; Harris </strong> ( born December 2 , 1925 ) is an American stage , screen , and television actress .
+
+#	NEW	birth_place	........ / in France .	// Her recordings ' Athenes , ma Ville ' , a collaboration with <a> Vangelis </a> , and ' Melinaki ' were popular in France .
+
+#	NEW	birth_place	........ / , Scotland .	// <p> Mackay was born in <a> Paisley </a> , <a> Renfrewshire </a> , Scotland .
+
+#	NEW	birth_place	........ / , and lived .	// The area is in the street outside the house where her grandfather was born in 1896 , and lived .
+
+#	NEW	birth_place	........ / Paris in 1924 .	// The choreography proved too experimental for the new authorities On a trip to <a> Weimar Republic </a> with the Soviet State Dancers , Balanchine , Tamara Geva , <a> Alexandra Danilova </a> , and Nicholas Efimov defected to the west and fled to Paris in 1924 .
 

@@ -1,8 +1,65 @@
-Found: 0
+Found: 27
 Found Not Null: 0
 Correct: 0
 Wrong: 0
-Total: 0
+Total: 1
+recall: 0.0
 
 
+
+#	NEW	death_place	........ / ,	// <p> Hopkins was married and divorced four times : first to actor Brandon Peters , second to aviator Austin Parker , third to the director <a> Anatole Litvak </a> , and fourth to war correspondent Raymond B . Brock .
+
+#	NEW	death_place	........ / , TV ,	// <p> <strong> Matthew &quot ; Matt&quot ; Frewer </strong> ( born January 4 , 1958 ) is a <a> Canadian American </a> stage , TV , and film actor .
+
+#	NEW	death_place	........ / , Christian Rudolph Ebsen , Sr . ,	// His father , Christian Rudolph Ebsen , Sr . , was <a> Danish </a> and his mother , Frances , was <a> Latvian </a> .
+
+#	NEW	death_place	........ / , Hollywood ,	// <p> She was buried in the Hollywood Forever Cemetery , Hollywood , California . </p>
+
+#	NEW	death_place	........ / , Reginald Venable ,	// As her husband , Reginald Venable , was a <a> military officer </a> , the couple are interred at <a> Arlington National Cemetery </a> .
+
+#	NEW	death_place	........ / , Mel Powell ,	// <p> She died in 2003 at the age of 90 from natural causes and was interred next to her husband , Mel Powell , in the Masonic Cemetery in her native <a> Jamesport , Missouri </a> . </p>
+
+#	NEW	death_place	........ / , the	// <a> Peter S . Seaman </a> and <a> Jeffrey Price </a> , the writers of the first film are now working on a new script for the second one . </p>
+
+#	NEW	death_place	........ / , 1961 ) ,	// <p> <strong> Anna Katriina Outinen </strong> ( born August 17 , 1961 ) , is a <a> Finnish </a> actress who has often played leading female roles in <a> Aki Kaurism&#x00e4 ; ki </a> ' s films . </p>
+
+#	NEW	death_place	........ / , a	// However , she achieved stardom on the popular <a> primetime </a> soap opera <em> <a> Peyton Place </a> </em> as naive , waif-like <a> Allison MacKenzie </a> , a role she later abandoned at the urging of first husband <a> Frank Sinatra </a> .
+
+#	NEW	death_place	........ / , Darrin Stephens , had	// Co-star <a> Dick Sargent </a> , who in 1969 replaced the ill <a> Dick York </a> as Samantha ' s husband , Darrin Stephens , had a more difficult relationship with Moorehead , and described her as &quot ; a tough old bird . . . very self-involved . &quot ; </p>
+
+#	NEW	death_place	........ / , 1952 , <a> Los Angeles ,	// <p> <strong> Steven Barnes </strong> ( born March 1 , 1952 , <a> Los Angeles , California </a> ) is an <a> African American </a> <a> science fiction </a> writer , lecturer , creative consultant , and human performance technician .
+
+#	NEW	death_place	........ / , 32	// For the second wound , he received a second Purple Heart ( eligibility requirement : &quot ; As the result of friendly fire while actively engaging the enemy&quot ; ) , although Garner received the medal in 1983 , 32 years after his injury .
+
+#	NEW	death_place	........ / , 1943 )	// <p> <strong> Enrique Guzm&#x00e1 ; n </strong> ( born February 1 , 1943 ) is a Mexican singer .
+
+#	NEW	death_place	........ / , since	// Dey has been married to her second husband , <a> television producer </a> Bernard Sofronski , since 1988 .
+
+#	NEW	death_place	........ / , she	// In a burst of creativity , she told the play ' s director she was from Paris , France where she had worked in the <a> Folies Berg&#x00e8 ; res </a> .
+
+#	NEW	death_place	........ / , theatrical shorts , feature films , television , record	// Her career has encompassed radio , theatrical shorts , feature films , television , record albums ( particularly with <a> Stan Freberg </a> ) , video games , talking toys and other media .
+
+#	NEW	death_place	........ / , when	// However , Vigoreaux hit the jackpot in 1963 , when he and his second wife began hosting the show named <em> La Hora Cero </em> , on which many local and international singers , including <a> Celia Cruz </a> , <a> Jos&#x00e9 ; Feliciano </a> and <a> Marco Antonio Mu&#x00f1 ; iz </a> , performed .
+
+#	NEW	death_place	........ / ,	// <p> Edward G . Robinson died from cancer in 1973 , and is buried in a crypt in the family mausoleum at Beth-El Cemetery in <a> Ridgewood , New York </a> . </p>
+
+#	NEW	death_place	........ / , Malkovich	// He and his family left France in a dispute over taxes in 2003 , In a 2008 interview on <em> <a> The Late Show With David Letterman </a> </em> , Malkovich said he had just spent five weeks that summer living in France . </p>
+
+#	NEW	death_place	........ / , on June 7 , 1965 .	// <p> Holliday died from <a> breast cancer </a> , on June 7 , 1965 .
+
+#	NEW	death_place	........ / , a	// Harris has survived <a> breast cancer </a> , a bad fall requiring surgery , and a stroke . </p>
+
+#	NEW	death_place	........ / , Jack Garfein ,	// <p> Following a protracted legal battle with <a> Paramount Pictures </a> and divorce from her second husband , Jack Garfein , Baker moved to <a> Europe </a> .
+
+#	NEW	death_place	........ / , her	// <p> For her next film , her mother got her a contract using a false <a> identification </a> .
+
+#	NEW	death_place	........ / , 1951 )	// <p> <strong> Joseph Peter &quot ; Joe&quot ; Pantoliano </strong> ( born September 12 , 1951 ) is an American film and television actor .
+
+#	NEW	death_place	........ / , 2010 , nine	// Later she moved to <a> Santa Monica , California </a> , where she lived until her death from <a> lung cancer </a> at home on January 22 , 2010 , nine days before her 81st birthday . </p>
+
+#	NEW	death_place	........ / , Surrey , England .	// He is buried at East Sheen and Richmond Cemeteries , Surrey , England .
+
+#	NEW	death_place	........ / , shot	// Oldman also directed the music video for &quot ; Red Rover&quot ; , a song from Jewish <a> rap </a> group Chutzpah ' s second CD <em> Hip Hop Fantasy </em> , shot entirely on the N93 .
+
+#	null	death_place	new york city / ..........
 

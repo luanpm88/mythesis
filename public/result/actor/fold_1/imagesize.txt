@@ -1,9 +1,55 @@
-Found: 0
+Found: 20
 Found Not Null: 0
 Correct: 0
 Wrong: 0
-Total: 1
+Total: 3
 recall: 0.0
 
 
+
+#	NEW	imagesize	........ / </	// She also appeared onstage at the <a> National Theatre </a> , where she was interviewed by Sir <a> Christopher Frayling </a> .
+
+#	NEW	imagesize	........ / 6	// The film began production in February 2008 , and was released on November 6 , 2009 .
+
+#	NEW	imagesize	........ / 1985-	// Over the years he has received teachings from Tibetan Buddhist masters including Dhuksey Rinpoch&#x00e9 ; and His Holiness the Dalai Lama , as well as the <a> Gyuto </a> and Gyume Monks , whom he helped bring to the United States for the first time in 1985-86 . </p>
+
+#	NEW	imagesize	........ / 1977 .	// He performed as an actor during the 70s in many amateur theatres , at the same time that he studied at the Finnish Theatre Academy , where he completed his studies in the year 1977 . </p>
+
+#	NEW	imagesize	........ / </	// <p> In 2009 , Hurt began appearing as a series regular on the critically-acclaimed FX series <em> <a> Damages </a> </em> playing a corporate <a> whistleblower </a> opposite <a> Glenn Close </a> and <a> Marcia Gay Harden </a> .
+
+#	NEW	imagesize	........ / 1965	// <p> He also appeared in films , such as <em> <a> Canta Mi Coraz&#x00f3 ; n </a> </em> in <a> 1965 </a> .
+
+#	NEW	imagesize	........ / </	// <p> In 2000 , Foray reprised her role as Rocky the Flying Squirrel in <a> Universal Pictures </a> ' live-actio / CGI animated film <em> <a> The Adventures of Rocky and Bullwinkle </a> </em> , co-starring and produced by <a> Robert DeNiro </a> .
+
+#	NEW	imagesize	........ / 4	// <p> He also appeared in the <em> <a> Doctor Who </a> </em> audio drama <em> <a> The One Doctor </a> </em> by <a> Big Finish Productions </a> , and has taken other comedy roles on productions for <a> BBC Radio 4 </a> . </p>
+
+#	NEW	imagesize	........ / </	// They wrote a story for a <a> soap opera </a> , but the project could not come off because there were protests as a consequence of the actor hired to play the lead being from <a> Cuba </a> .
+
+#	NEW	imagesize	........ / </	// <p> In 1978 , Carter was cast as Effie White in the <a> Broadway </a> musical <em> <a> Dreamgirls </a> , </em> but departed the production during development to take a television role on the ABC-TV soap opera , <em> <a> Ryan ' s Hope </a> </em> in <a> New York </a> .
+
+#	NEW	imagesize	........ / 25	// <p> He wrote and produced <em> <a> Valkyrie </a> </em> , which opened on December 25 , 2008 .
+
+#	NEW	imagesize	........ / </	// and attended <a> Townsend Harris High School </a> and then the <a> City College of New York </a> .
+
+#	NEW	imagesize	........ / 2008 ) .	// <p> Wilton has also appeared on television as Barbara Poole , the mother of a missing woman , in the BBC television drama series <em> <a> Five Days </a> </em> in 2005 ; and in ITV ' s drama <em> <a> Half Broken Things </a> </em> ( October 2007 ) and the BBC production of <em> The Passion </em> ( Easter 2008 ) . </p>
+
+#	NEW	imagesize	........ / <a>	// She starred with him in the 1951 film , <em> <a> Behave Yourself ! </a> </em> , as well as in a 1957 television production of <a> A .
+
+#	NEW	imagesize	........ / </	// Sharif played the title role in the 1965 film <em> <a> Doctor Zhivago </a> </em> by <a> David Lean </a> .
+
+#	NEW	imagesize	........ / em>	// After small parts in over 50 <a> Hollywood </a> movies through the 1930s , Grable finally gained national attention for her stage role in the <a> Cole Porter </a> <a> Broadway </a> hit <em> <a> Du Barry Was a Lady </a> </em> ( 1939 ) .
+
+#	NEW	imagesize	........ / 20	// <p> <strong> Leon Schlesinger </strong> ( May 20 , 1884 &#x2013 ; December 25 , 1949 ) was an <a> American </a> <a> film producer </a> , most noted for founding <a> Leon Schlesinger Productions </a> , which later became the <a> Warner Bros . Cartoons </a> studio , during the <a> golden age of Hollywood animation </a> . </p>
+
+#	NEW	imagesize	........ / 1962	// <p> He produced Anderson ' s <em> <a> This Sporting Life </a> </em> ( 1963 ) and directed <em> <a> Morgan : A Suitable Case For Treatment </a> </em> ( 1966 ) adapted by <a> David Mercer </a> from his 1962 television play .
+
+#	NEW	imagesize	........ / </	// <p> During the 1960s and 70s , Kinski appeared in various European <a> exploitation film </a> genres , as well as more acclaimed works such as <em> <a> Doctor Zhivago </a> </em> ( 1965 ) , in which he played an <a> Anarchist </a> prisoner on his way to the <a> Gulag </a> .
+
+#	NEW	imagesize	........ / </	// <p> Clark is represented by <a> Simon Lee Gallery in </a> <a> London </a> and the <a> Luhring Augustine Gallery </a> in <a> New York City </a> .
+
+#	null	imagesize	215px / ..........
+
+#	null	imagesize	200px / ..........
+
+#	null	imagesize	300px / ..........
 

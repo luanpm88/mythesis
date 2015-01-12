@@ -6,7 +6,7 @@ class Article < ActiveRecord::Base
   has_many :attribute_values
   has_many :test_article_attribute_sentences
   
-  @@template = 'book'
+  @@template = 'actor'
   @@no_attributes = [] #['name','image','caption','imagesize','bgcolour','alt','latin_name','native_name','image_size'] # ['name','image','caption','imagesize','bgcolour','alt','latin_name','native_name','image_size']
   @@num = nil
   
@@ -29,7 +29,7 @@ class Article < ActiveRecord::Base
     infobox_template = InfoboxTemplate.where(name: @@template).first
     
     # new method
-    reader = Nokogiri::XML::Reader(File.open("/media/luan/01CF3161B4B56810/MyThesis/enwiki-20110115-pages-articles.xml"))
+    reader = Nokogiri::XML::Reader(File.open("/mnt/hgfs/D/MyThesis/enwiki-20110115-pages-articles.xml"))
     @count = 0
     @logstr = '';
     reader.each do |node|
@@ -324,6 +324,7 @@ class Article < ActiveRecord::Base
   def self.create_doccat_training_file
     infobox_template = InfoboxTemplate.where(name: @@template).first
     
+    `mkdir public/doccat`
     `mkdir public/doccat/#{infobox_template.name.gsub(/\s/,'_')}`
     `mkdir public/doccat/#{infobox_template.name.gsub(/\s/,'_')}/train`
     
@@ -669,6 +670,7 @@ class Article < ActiveRecord::Base
   def self.create_train_for_filter_by_cluster
     infobox_template = InfoboxTemplate.where(name: @@template).first
     
+    `mkdir public/cluster`
     `mkdir public/cluster/#{infobox_template.name.gsub(/\s/,'_')}`
     `mkdir public/cluster/#{infobox_template.name.gsub(/\s/,'_')}/train`
     
@@ -751,6 +753,8 @@ class Article < ActiveRecord::Base
     x_window = 3;
     
     infobox_template = InfoboxTemplate.where(name: @@template).first
+    
+    `mkdir public/crf`
     `mkdir public/crf/#{infobox_template.name.gsub(/\s/,'_')}`
     `mkdir public/crf/#{infobox_template.name.gsub(/\s/,'_')}/data`
     
@@ -942,7 +946,8 @@ class Article < ActiveRecord::Base
   ##14.0
   def self.write_result_per_attribute
     infobox_template = InfoboxTemplate.where(name: @@template).first
-      
+    
+    `mkdir public/result`
     `mkdir public/result/#{infobox_template.name.gsub(/\s/,'_')}`
     `mkdir public/result/#{infobox_template.name.gsub(/\s/,'_')}/fold_#{@@num.to_s}`
     
@@ -1359,11 +1364,11 @@ class Article < ActiveRecord::Base
     #ActiveRecord::Base.connection.execute("TRUNCATE TABLE test_article_attribute_sentences RESTART IDENTITY")
     #  
     ###1
-    #self.import(6256)
+    #self.import(312)
     #self.write_log("#####1")
-    #
+    
 
-    (1..3).each do |i|
+    (1..1).each do |i|
       @@num = i
       
       `rm -r public/crf/#{infobox_template.name.gsub(/\s/,'_')}`

@@ -1,61 +1,57 @@
-Found: 25
-Found Not Null: 1
-Correct: 1
+Found: 23
+Found Not Null: 0
+Correct: 0
 Wrong: 0
 Total: 1
-precision: 1.0
-recall: 1.0
+recall: 0.0
 
 
 
-#	NEW	caption	........ / Clifton	// <p> <strong> Clifton James </strong> ( born May 29 , 1921 ) is an <a> American </a> <a> actor </a> .
+#	NEW	caption	........ / as a	// After performing in high school productions , Booth went on to study drama in <a> New York City </a> , where she worked as a waitress .
 
-#	NEW	caption	........ / Claudia	// <p> <strong> Claudia Grace Wells </strong> ( born July 5 , 1966 ) is an Malaysian-born <a> American </a> actress . </p>
+#	NEW	caption	........ / ( born January	// <p> <strong> Matthew &quot ; Matt&quot ; Frewer </strong> ( born January 4 , 1958 ) is a <a> Canadian American </a> stage , TV , and film actor .
 
-#	NEW	caption	........ / Trace	// <p> <strong> Trace Beaulieu </strong> ( born November 6 , 1958 ) is an <a> American </a> puppeteer , writer , and actor .
+#	NEW	caption	........ / of 86 .	// <p> She died of a <a> heart attack </a> at Yale-New Haven Hospital in <a> Connecticut </a> at the age of 86 . </p>
 
-#	NEW	caption	........ / Samuel	// <p> <strong> Samuel Zachary Arkoff </strong> ( June 12 , 1918 &ndash ; September 16 , 2001 ) was an <a> American </a> <a> producer </a> of <a> B movie </a> s . </p>
+#	NEW	caption	........ / the Stone	// The director was jobless until <a> Michael Douglas </a> hired him in 1984 to film <em> <a> Romancing the Stone </a> </em> .
 
-#	NEW	caption	........ / Claudia	// <p> <strong> Claudia Lee Black </strong> ( born 11 October 1972 ) is an Australian actress , known for her portrayals of <a> Aeryn Sun </a> in the <a> science fiction </a> <a> television series </a> <em> <a> Farscape </a> </em> , <a> Vala Mal Doran </a> in the science fiction series <em> <a> Stargate SG-1 </a> </em> , <a> Chloe Frazer </a> in <a> Uncharted 2 : Among Thieves </a> , and the witch Morrigan in <em> <a> Dragon Age : Origins </a> </em> . </p>
+#	NEW	caption	........ / the name	// <p> O ' Keefe started in films as an extra in the early 1930s and appeared in numerous films under the name <em> Bud Flanagan </em> .
 
-#	NEW	caption	........ / Sherilyn	// <p> <strong> Sherilyn Fenn </strong> ( born February 1 , 1965 ) is an American actress .
+#	NEW	caption	........ / The River	// Driver wrote 10 of the 11 songs on the album and also covered &quot ; <a> Hungry Heart </a> &quot ; from <a> Bruce Springsteen </a> ' s <em> <a> The River </a> </em> .
 
-#	NEW	caption	........ / Michael	// <p> <strong> Michael Barrett &quot ; Barry&quot ; Watson </strong> ( born April 23 , 1974 ) is an <a> American </a> <a> actor </a> , known for his roles of <a> Dr .
+#	NEW	caption	........ / born 4	// <p> <strong> Aki Olavi Kaurism&#x00e4 ; ki </strong> ( ; born 4 April 1957 , <a> Orimattila </a> , <a> Finland </a> ) is a Finnish script writer and <a> film director </a> . </p>
 
-#	NEW	caption	........ / John	// <p> <strong> John Marcum Wells </strong> ( born May 28 , 1956 ) is an American <a> theater </a> and <a> television producer </a> , <a> writer </a> and director .
+#	NEW	caption	........ / a major	// His performance in this film made him a major star .
 
-#	NEW	caption	........ / Jonathan	// <p> <strong> Jonathan Firth </strong> ( born 6 April 1967 ) is a <a> British </a> <a> actor </a> . </p>
+#	NEW	caption	........ / ( born 22	// <strong> Thomas </strong> &quot ; <strong> Tom </strong> &quot ; <strong> Conti </strong> ( born 22 November 1941 ) is a <a> Scottish </a> <a> actor </a> , <a> theatre director </a> and <a> novelist </a> . </p>
 
-#	NEW	caption	........ / Patsy	// <p> <strong> Patsy Garrett </strong> ( born May 4 , 1921 ; <a> Atlantic City , New Jersey </a> ) is an actress best known for her recurring roles as nosey neighbor &quot ; Mrs .
+#	NEW	caption	........ / <a> A .	// Other notable films in recent years have included <em> <a> A . I .
 
-#	NEW	caption	........ / Cheryl	// <p> <strong> Cheryl Hines </strong> ( born September 21 , 1965 ) is an <a> America </a> n <a> actress </a> and <a> television director </a> , best known for her role as <a> Larry David </a> ' s wife Cheryl on <a> HBO </a> ' s <em> <a> Curb Your Enthusiasm </a> </em> .
+#	NEW	caption	........ / Michael Chekhov	// He is currently one of the patrons of the <a> Michael Chekhov Studio London </a> .
 
-#	NEW	caption	........ / Mark	// <p> <strong> Mark Williams </strong> ( born 22 August 1959 ) is an <a> English </a> <a> actor </a> , <a> comedian </a> , <a> screenwriter </a> and presenter .
+#	NEW	caption	........ / January 3	// <p> His most recent work has been his role in the <a> Lifetime </a> Original Movie , &quot ; <a> Craigslist Killer </a> &quot ; which aired January 3 , 2011 .
 
-#	NEW	caption	........ / LaBruce	// <p> LaBruce was born <strong> Bryan Bruce </strong> in <a> Tiverton , Ontario </a> and wrote for the <a> Robin Wood </a> ( his teacher ) curated <a> Cineaction </a> magazine .
+#	NEW	caption	........ / the name	// At confirmation , she took the name Michaela .
 
-#	NEW	caption	........ / Laura	// <p> <strong> Laura La Plante </strong> ( November 1 , 1904 - October 14 , 1996 ) was an <a> American </a> <a> actress </a> , best-known for her roles in <a> silent film </a> s . </p>
+#	NEW	caption	........ / Michael ( born	// <p> Slezak is married to Brian Davies , and is the mother of two children , Michael ( born 1980 ) and <strong> Amanda Davies </strong> ( born 1981 ) . ref
 
-#	NEW	caption	........ / Born	// <p> Born in San Francisco , <strong> Edith Dornfield </strong> was raised in an <a> orphanage </a> in <a> Denver , Colorado </a> .
+#	NEW	caption	........ / 2 . & quot ;	// He has appeared in a couple of &quot ; Partridge Family&quot ; reunions with his television family , including &quot ; Chris #2 . &quot ; </p>
 
-#	NEW	caption	........ / Jean	// <p> <strong> Jean Vander Pyl </strong> ( October 11 , 1919 &ndash ; April 10 , 1999 ) was an <a> American </a> actress on radio , television and movies .
+#	NEW	caption	........ / Michael Rennie	// The 1937 <a> test </a> , which exists in the <a> British Film Institute </a> archives under the title &quot ; Marguerite Allan and Michael Rennie Screen Test , &quot ; did not lead to a film career for either performer .
 
-#	NEW	caption	........ / Hermannus	// <p> <strong> Hermannus Jantinus &quot ; Herman&quot ; van Veen </strong> ( born 14 March 1945 ) is a <a> Dutch </a> stage performer , <a> actor </a> , <a> musician </a> and <a> singer </a> / <a> songwriter </a> and <a> author </a> .
+#	NEW	caption	........ / a homage	// Actor <a> Michael J . Fox </a> has stated that he adopted the <em> J . </em> in his name as a homage to Pollard . </p>
 
-#	NEW	caption	........ / Gerda	// <p> <strong> Gerda Nicolson </strong> , ( 11 November 1937 - 12 June 1992 ) was an <a> Australia </a> n theatre and television actor best known for several long-running television roles . </p>
+#	NEW	caption	........ / <a> Harvey	// In 2000 , she was named co-president of The Actors Studio ! n . b . , there is no possessive in studio ' s name , alongside <a> Al Pacino </a> and <a> Harvey Keitel </a> . </p>
 
-18	TRUE	Ashley Force Hood::caption	ashley force / Ashley	
-<p> <strong> Ashley Force Hood </strong> ( born November 29 , 1982 ) is a <a> funny car </a> <a> drag racer </a> for <a> John Force Racing </a> .
+#	NEW	caption	........ / ( born December	// <p> <strong> Julia Ann &quot ; Julie&quot ; Harris </strong> ( born December 2 , 1925 ) is an American stage , screen , and television actress .
 
-#	NEW	caption	........ / Penny	// <p> <strong> Penny Johnson Jerald </strong> ( born March 14 , 1961 ) is an American actress .
+#	NEW	caption	........ / a beating&	// His father ' s business &quot ; took a beating&quot ; .
 
-#	NEW	caption	........ / Daggubati	// <p> Dr . <strong> Daggubati Ramanaidu </strong> ( ) ( born 6 June 1936 ) is an <a> India </a> n <a> movie </a> <a> producer </a> and the <a> Dadasaheb Phalke Award </a> winner for the year 2009 .
+#	NEW	caption	........ / the Greek	// <p> Her first movie was the <a> Greek language </a> film <em> <a> Stella </a> </em> ( 1955 ) , directed by <a> Michael Cacoyannis </a> ( also the director of <em> <a> Zorba the Greek </a> </em> ) .
 
-#	NEW	caption	........ / Christopher	// <p> <strong> Christopher Boyd Lemmon </strong> ( born January 22 , 1954 ) is an American <a> actor </a> and <a> author </a> . </p>
+#	NEW	caption	........ / without a	// Quoted in <em> <a> The Guardian </a> </em> , Davison said : &quot ; I ' ll be voting <a> Labour </a> without a doubt .
 
-#	NEW	caption	........ / John	// <p> <strong> John Ingle </strong> ( born May 7 , 1928 ) is an American <a> actor </a> known for his role as scheming patriarch <a> Edward Quartermaine </a> on the <a> ABC </a> daytime drama , <em> <a> General Hospital </a> </em> . </p>
+#	NEW	caption	........ / a second	// Lester recalls that <em> A Show Called Fred </em> was &quot ; broadcast live and that ' s why I went into film directing where you can do a second take ! &quot ; </p>
 
-#	NEW	caption	........ / Michael	// <p> <strong> Michael Emmet Walsh </strong> ( born March 22 , 1935 ) is an <a> American </a> <a> actor </a> who has appeared in over 100 <a> film </a> and <a> television </a> productions . </p>
-
-#	NEW	caption	........ / Dorothy	// <p> <strong> Dorothy Dell </strong> ( January 30 , 1915 &ndash ; June 8 , 1934 ) was an American film actress . </p>
+#	null	caption	jack mercer / ..........
 

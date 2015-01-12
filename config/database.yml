@@ -17,7 +17,7 @@
 development:
   adapter: postgresql
   encoding: unicode
-  database: mythesis2_book
+  database: mythesis_actor
   pool: 5
   username: luan
   password: benho
